@@ -12,3 +12,5 @@ Ad-blocking hosts files, PAC files, and BitTorrent IP block lists, all merged an
 + [**yoyo.pac**](https://github.com/bongochong/PACandHostsFileStuffForPersonalUse/raw/master/yoyo.pac) & [**yoyo.pac.js**](https://github.com/bongochong/PACandHostsFileStuffForPersonalUse/raw/master/yoyo.pac.js): Are Proxy AutoConfig files meant to block advertising servers. Right now I am only hosting the lists from PGL Yoyo, but I plan to create master PAC files using a similar approach to my hosts files and IP blocklists.
 
 ***Please feel free to subscribe to these lists. I use them on all of my personal machines.***
+
+P.S. There is a mirror of these files hosted on NextCloud, which can be accessed here: https://cloud.disroot.org/s/5TnQ9jBtbSnTj8y/download
