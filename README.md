@@ -3,7 +3,7 @@ Ad-blocking hosts files, PAC files, and BitTorrent IP block lists, all merged an
 
 **Descriptions**
 
-+ **combined-final-win.dat**: Is an IP blocklist suitable for use in torrent clients like Halite for Windows. The list is merged from BlueTack levels 1 and 2, then deduped and sorted using homemade bash scripts.
++ [**combined-final-win.dat**](https://github.com/bongochong/PACandHostsFileStuffForPersonalUse/raw/master/newhosts-final.hosts): Is an IP blocklist suitable for use in torrent clients like Halite for Windows. The list is merged from BlueTack levels 1 and 2, then deduped and sorted using homemade bash scripts.
 
 * **combined-final.p2p**: Is an IP blocklist suitable for use in torrent clients like qBitTorrent and Transmission under any OS. The list is merged from BlueTack levels 1 and 2, then deduped and sorted using homemade bash scripts.
 
