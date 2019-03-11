@@ -13,4 +13,6 @@ Ad-blocking hosts files, PAC files, and BitTorrent IP block lists, all merged an
 
 ***Please feel free to subscribe to these lists. I use them on all of my personal machines.***
 
-P.S. There is a mirror of these files hosted on NextCloud, which can be accessed here: https://cloud.disroot.org/s/5TnQ9jBtbSnTj8y/download
+P.S. All of these files can be downloaded in an archive hosted on Disroot's NextCloud, which can be accessed here: https://cloud.disroot.org/s/5TnQ9jBtbSnTj8y/download
+
+Both this repo and the NextCloud mirror will be updated approximately every 3 weeks.
