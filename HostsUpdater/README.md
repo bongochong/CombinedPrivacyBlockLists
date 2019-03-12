@@ -10,6 +10,6 @@ The data within is meant to automate the process of creating and updating your c
 
 
 **Notes**:
-- If you deviate from the checklist then you are stupid. This does not apply if you are modifying them as opposed to using them as is.
+- If you deviate from the checklist then you are stupid. This does not apply if you are modifying the files as opposed to using them as is.
 
 - There is a .jar binary which performs some of the initial operations for generating the hosts file. It is from a now-unmaintained project (abandoned about 9 years ago). It still works great, in the sense that it saves one from about 20-30 minutes of writing more ugly bash script. I have included the source code of this .jar file in a .zip archive here: https://github.com/bongochong/CombinedPrivacyBlockLists/raw/master/HostsUpdater/MergeHosts.jar.
