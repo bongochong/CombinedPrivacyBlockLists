@@ -15,7 +15,7 @@ Ad-blocking hosts files, BitTorrent IP block lists, and PAC files, all merged, s
 
 Also, all of these files can be downloaded in a [compressed archive hosted on Disroot's NextCloud](https://cloud.disroot.org/s/5TnQ9jBtbSnTj8y/download). Both this repo and the NextCloud mirror will be updated approximately every 3 weeks.
 
-**Finally**, I have begun sharing some rudimentarily interactive versions of the bash scripts that I use to generate these files on my own machine. Should you wish to utilize them in order to make your own lists from different sources, the currently working scripts are available here:
+**Finally**, I have begun sharing some rudimentarily interactive versions of the bash scripts that I use to generate these files on my main machine. Should you wish to utilize them in order to make your own lists from different sources, the currently working scripts are available here:
 + [**Hosts File Updater for LiGnux**](/HostsUpdater/).
 
 * [**BitTorrent IP Block Updater for LiGnux (DAT Format)**](/IPBlockUpdaterDAT/).
