@@ -15,7 +15,15 @@ Ad-blocking hosts files, BitTorrent IP block lists, and PAC files, all merged, s
 
 Also, all of these files can be downloaded in a [compressed archive hosted on Disroot's NextCloud](https://cloud.disroot.org/s/5TnQ9jBtbSnTj8y/download). Both this repo and the NextCloud mirror will be updated approximately every 3 weeks.
 
-Finally, I plan on modifying the bash scripts that I use to generate these files, so that they can be utilized by others who wish to make their own lists from different sources. These scripts will eventually be hosted in a new repository on GitHub. They are run on my main LiGNUx box, and pretty much all depend on both [sed](https://www.gnu.org/software/sed/manual/sed.html) and [Perl](https://www.perl.com/about/), with the scripts for generating IP block lists having an additional dependency on the [command line 7zip tools](http://p7zip.sourceforge.net/). 
+Finally, I have begun sharing some rudimentarily interactive versions of the bash scripts that I use to generate these files on my own machine. Should you wish to utilize them in order to make your own lists from different sources, the currently working scripts are available here:
++ [****](/HostsUpdater/).
+
+* [****]().
+
+- [****]().
+
+
+These scripts will eventually be hosted in a new repository on GitHub. They are run on my main LiGNUx box, and pretty much all depend on both [sed](https://www.gnu.org/software/sed/manual/sed.html) and [Perl](https://www.perl.com/about/), with the scripts for generating IP block lists having an additional dependency on the [command line 7zip tools](http://p7zip.sourceforge.net/). 
 
 ---
 
