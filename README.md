@@ -17,11 +17,11 @@ P.S. All of these files can be downloaded in a [compressed archive hosted on Dis
 
 ---
 
-<sup>1. [Halite](https://www.fosshub.com/Halite.html) </sup> <br>
-<sup>2. [BlueTack Lists on I-BlockList](https://www.iblocklist.com/lists) </sup> <br>
-<sup>3. [qBitTorrent](https://www.qbittorrent.org/) </sup> <br>
-<sup>4. [Transmission](https://transmissionbt.com/) </sup> <br>
-<sup>5. [MVPS Hosts Files](http://winhelp2002.mvps.org/) </sup> <br>
-<sup>6. [PGL Yoyo Hosts Files](http://pgl.yoyo.org/adservers/) </sup> <br>
-<sup>7. [Malware Domain List Hosts Files](http://www.malwaredomainlist.com/) </sup> <br>
-<sup>8. [hpHosts Hosts Files](http://hosts-file.net/) </sup> <br>
+<sup>1. [Halite](https://www.fosshub.com/Halite.html). </sup> <br>
+<sup>2. [BlueTack Lists on I-BlockList](https://www.iblocklist.com/lists). </sup> <br>
+<sup>3. [qBitTorrent](https://www.qbittorrent.org/). </sup> <br>
+<sup>4. [Transmission](https://transmissionbt.com/). </sup> <br>
+<sup>5. [MVPS Hosts Files](http://winhelp2002.mvps.org/). </sup> <br>
+<sup>6. [PGL Yoyo Hosts Files](http://pgl.yoyo.org/adservers/). </sup> <br>
+<sup>7. [Malware Domain List Hosts Files](http://www.malwaredomainlist.com/). </sup> <br>
+<sup>8. [hpHosts Hosts Files](http://hosts-file.net/); I actually use both the Ad-Server and Exploits lists from them.</sup> <br>
