@@ -13,3 +13,7 @@ The data within is meant to automate the process of creating and updating your c
 - If you deviate from the checklist then you are stupid. This does not apply if you are modifying the files as opposed to using them as is.
 
 - There is a .jar binary which performs some of the initial operations for generating the hosts file. It is from a now-unmaintained project (abandoned about 9 years ago). It still works great, in the sense that it saves one from about 20-30 minutes of writing more ugly bash script. I have included the source code of this .jar file in a .zip archive here: https://github.com/bongochong/CombinedPrivacyBlockLists/raw/master/HostsUpdater/MergeHostsSource.zip
+
+- I choose to block servers associated with an advertising and tracking outlet known as [Device9](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=311903236). Several of their servers are appended to the generated hosts file. I do not know why, but nearly every hosts list and ad-blocking filter list does not block these servers, when they are as nefarious and invasive as any others.
+
+- I choose not to block some of Hulu's ad-servers for a better experience on that site. The lines that remove these servers from the resulting hosts file are readily apparent in the bash script, and can easily be deleted or commented out.
