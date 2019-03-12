@@ -1,5 +1,5 @@
 # Combined Privacy Block Lists
-Ad-blocking hosts files, BitTorrent IP block lists, and PAC files, all merged, sorted and de-duped from multiple reputable sources (using my homemade bash scripts). Use as you see fit.
+Ad-blocking hosts files, BitTorrent IP block lists, and PAC files, all merged, sorted and de-duped from multiple reputable sources (using my homemade bash scripts). Use as you see fit. All content in this repository is approved by Richard Stallman himself, theoretically.
 
 **Descriptions**
 
