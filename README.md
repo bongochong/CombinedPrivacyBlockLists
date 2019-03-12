@@ -25,7 +25,7 @@ Finally, I have begun sharing some rudimentarily interactive versions of the bas
 
 These scripts are modified versions - in that they include prompts for user input - of the ones I run on my main LiGnux box. They are not pretty, but I've tested them several times and they work with no issues. They all make use of [sed](https://www.gnu.org/software/sed/manual/sed.html), [Perl](https://www.perl.com/about/), and [Wget](https://www.gnu.org/software/wget/), so make sure your system has these programs if you plan on using my tools. 
 
-It should be noted that the scripts for generating IP block lists have an additional dependency on the [command line 7zip tools](http://p7zip.sourceforge.net/), while the one for generating a comprehensive hosts file depends on a template file and a .jar binary (both of which are included in the GitHub directory). Please see the readme file for each tool before using and/or modifying them.
+It should be noted that the scripts for generating IP block lists have an additional dependency on the [command line 7zip tools](http://p7zip.sourceforge.net/), while the one for generating a comprehensive hosts file depends on a plaintext template document and a .jar binary (which performs some of the initial operations), both of which are included in the relevant GitHub directory. Please see the readme file for each tool before using and/or modifying them.
 
 ---
 
