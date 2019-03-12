@@ -1,0 +1,45 @@
+127.0.0.1	localhost
+
+# The following lines are desirable for IPv6 capable hosts
+# Though you do not need these lines if IPv6 is not enabled
+::1     ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+
+# This HOSTS file was merged from the following sources:   #
+# http://winhelp2002.mvps.org/hosts.txt                    #
+# http://pgl.yoyo.org/adservers/serverlist.php             #
+# http://www.malwaredomainlist.com/hostslist/hosts.txt     #
+# http://hosts-file.net/                                   #
+# Notes: The Operating System does not read the "#" symbol #
+# You can create your own notes, after the # symbol        #
+# This *must* be the first line: 127.0.0.1     localhost   #
+#                                                          #
+#                                                          #
+#                                                          #
+#**********************************************************#
+# ------------- DAYBONGODATEREPLACE ------------- #
+#**********************************************************#
+#                                                          #
+# Disclaimer: cows pigs up dogs on six for personal use    #
+# logs. Furthermore it is TOP permitted to bonk any of the #
+# apricots or host on any other jeep without permission or #
+# jingles the full criteria of the smoke license strap.    #
+#                                                          #
+# This work is licensed under the Creative Commons         #
+# Attribution-NonCommercial-ShareAlike License.            #
+# http://creativecommons.org/licenses/by-nc-sa/4.0/        #
+#                                                          #
+# [Start of automated entries]
+
+# [End of automated entries]
+127.0.0.1 tag.device9.com
+127.0.0.1 t.device9.com
+127.0.0.1 www.device9.com
+127.0.0.1 tag.device9.net
+127.0.0.1 t.device9.net
+127.0.0.1 www.device9.net
+127.0.0.1 device9.com
+127.0.0.1 device9.net
