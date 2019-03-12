@@ -3,9 +3,9 @@ Ad-blocking hosts files, BitTorrent IP block lists, and PAC files, all merged, s
 
 **Descriptions**
 
-+ [**combined-final-win.dat**](https://github.com/bongochong/CombinedPrivacyBlockLists/raw/master/combined-final-win.dat): Is an IP block list suitable for use in torrent clients like Halite for Windows.<sup>1</sup> The list is merged from BlueTack levels 1 and 2, then deduped and sorted using homemade bash scripts.<sup>2</sup> This will come in especially handy on public trackers.
++ [**combined-final-win.dat**](https://github.com/bongochong/CombinedPrivacyBlockLists/raw/master/combined-final-win.dat): Is a DAT-format IP block list suitable for use in torrent clients like Halite for Windows.<sup>1</sup> The list is merged from BlueTack levels 1 and 2, then deduped and sorted using homemade bash scripts.<sup>2</sup> This will come in especially handy on public trackers.
 
-* [**combined-final.p2p**](https://github.com/bongochong/CombinedPrivacyBlockLists/raw/master/combined-final.p2p): Is an IP block list suitable for use in torrent clients like qBitTorrent<sup>3</sup> and Transmission<sup>4</sup> under any OS. The list is merged from BlueTack levels 1 and 2, then deduped and sorted using homemade bash scripts. This will also come in especially handy on public trackers.
+* [**combined-final.p2p**](https://github.com/bongochong/CombinedPrivacyBlockLists/raw/master/combined-final.p2p): Is a P2P-format IP block list suitable for use in torrent clients like qBitTorrent<sup>3</sup> and Transmission<sup>4</sup> under any OS. The list is merged from BlueTack levels 1 and 2, then deduped and sorted using homemade bash scripts. This will also come in especially handy on public trackers.
 
 - [**newhosts-final.hosts**](https://github.com/bongochong/CombinedPrivacyBlockLists/raw/master/newhosts-final.hosts): Is a comprehensive hosts list which blocks known ad, exploit, and tracking servers, taken from MVPS<sup>5</sup>, PGL Yoyo<sup>6</sup>, Malware Domain List<sup>7</sup>, and hpHosts<sup>8</sup>, then merged, sorted and deduped using homemade bash scripts. This list is compatible with all operating systems that make use of a hosts file. Notably enhanced privacy and security awaits you.
 
