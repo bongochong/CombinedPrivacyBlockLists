@@ -3,11 +3,11 @@ Ad-blocking hosts files, BitTorrent IP block lists, and PAC files, all merged, s
 
 **Descriptions**
 
-+ [**combined-final-win.dat**](https://github.com/bongochong/CombinedPrivacyBlockLists/raw/master/combined-final-win.dat): Is a DAT-format IP block list suitable for use in torrent clients like Halite for Windows.<sup>1</sup> The list is merged from BlueTack levels 1 and 2, then deduped and sorted using homemade bash scripts.<sup>2</sup> This will come in especially handy on public trackers.
+- [**newhosts-final.hosts**](https://github.com/bongochong/CombinedPrivacyBlockLists/raw/master/newhosts-final.hosts): Is a comprehensive hosts list which blocks known ad, exploit, and tracking servers, taken from MVPS<sup>1</sup>, PGL Yoyo<sup>2</sup>, Malware Domain List<sup>3</sup>, and hpHosts<sup>4</sup>, then merged, sorted and deduped using homemade bash scripts. This list is compatible with all operating systems that make use of a hosts file. Notably enhanced privacy and security awaits you.
 
-* [**combined-final.p2p**](https://github.com/bongochong/CombinedPrivacyBlockLists/raw/master/combined-final.p2p): Is a P2P-format IP block list suitable for use in torrent clients like qBitTorrent<sup>3</sup> and Transmission<sup>4</sup> under any OS. The list is merged from BlueTack levels 1 and 2, then deduped and sorted using homemade bash scripts. This will also come in especially handy on public trackers.
++ [**combined-final-win.dat**](https://github.com/bongochong/CombinedPrivacyBlockLists/raw/master/combined-final-win.dat): Is a DAT-format IP block list suitable for use in torrent clients like Halite for Windows.<sup>5</sup> The list is merged from BlueTack levels 1 and 2, then deduped and sorted using homemade bash scripts.<sup>6</sup> This will come in especially handy on public trackers.
 
-- [**newhosts-final.hosts**](https://github.com/bongochong/CombinedPrivacyBlockLists/raw/master/newhosts-final.hosts): Is a comprehensive hosts list which blocks known ad, exploit, and tracking servers, taken from MVPS<sup>5</sup>, PGL Yoyo<sup>6</sup>, Malware Domain List<sup>7</sup>, and hpHosts<sup>8</sup>, then merged, sorted and deduped using homemade bash scripts. This list is compatible with all operating systems that make use of a hosts file. Notably enhanced privacy and security awaits you.
+* [**combined-final.p2p**](https://github.com/bongochong/CombinedPrivacyBlockLists/raw/master/combined-final.p2p): Is a P2P-format IP block list suitable for use in torrent clients like qBitTorrent<sup>7</sup> and Transmission<sup>8</sup> under any OS. The list is merged from BlueTack levels 1 and 2, then deduped and sorted using homemade bash scripts. This will also come in especially handy on public trackers.
 
 + [**yoyo.pac**](https://github.com/bongochong/CombinedPrivacyBlockLists/raw/master/yoyo.pac) & [**yoyo.pac.js**](https://github.com/bongochong/CombinedPrivacyBlockLists/raw/master/yoyo.pac.js): Are Proxy AutoConfig files meant to block advertising servers. Right now I am only hosting the lists from PGL Yoyo, but I plan to create master PAC files using a similar approach to my hosts files and IP block lists. These are great for older mobile devices where one cannot modify a hosts file, or make use of local VPN technology.
 
@@ -29,11 +29,11 @@ It should be noted that the scripts for generating IP block lists have an additi
 
 ---
 
-<sup>1. [Halite](https://www.fosshub.com/Halite.html). </sup> <br>
-<sup>2. [BlueTack Lists on I-BlockList](https://www.iblocklist.com/lists). </sup> <br>
-<sup>3. [qBitTorrent](https://www.qbittorrent.org/). </sup> <br>
-<sup>4. [Transmission](https://transmissionbt.com/). </sup> <br>
-<sup>5. [MVPS Hosts Files](http://winhelp2002.mvps.org/). </sup> <br>
-<sup>6. [PGL Yoyo Hosts Files](http://pgl.yoyo.org/adservers/). </sup> <br>
-<sup>7. [Malware Domain List Hosts Files](http://www.malwaredomainlist.com/). </sup> <br>
-<sup>8. [hpHosts Hosts Files](http://hosts-file.net/); I actually use both the Ad-Server and Exploits lists from them.</sup> <br>
+<sup>1. [MVPS Hosts Files](http://winhelp2002.mvps.org/). </sup> <br>
+<sup>2. [PGL Yoyo Hosts Files](http://pgl.yoyo.org/adservers/). </sup> <br>
+<sup>3. [Malware Domain List Hosts Files](http://www.malwaredomainlist.com/). </sup> <br>
+<sup>4. [hpHosts Hosts Files](http://hosts-file.net/); I actually use both the Ad-Server and Exploits lists from them.</sup> <br>
+<sup>5. [Halite](https://www.fosshub.com/Halite.html). </sup> <br>
+<sup>6. [BlueTack Lists on I-BlockList](https://www.iblocklist.com/lists). </sup> <br>
+<sup>7. [qBitTorrent](https://www.qbittorrent.org/). </sup> <br>
+<sup>8. [Transmission](https://transmissionbt.com/). </sup> <br>
