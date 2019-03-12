@@ -3,13 +3,13 @@ Ad-blocking hosts files, BitTorrent IP block lists, and PAC files, all merged, s
 
 **Descriptions**
 
-+ [**combined-final-win.dat**](https://github.com/bongochong/CombinedPrivacyBlockLists/raw/master/combined-final-win.dat): Is an IP block list suitable for use in torrent clients like Halite for Windows.<sup>1</sup> The list is merged from BlueTack levels 1 and 2, then deduped and sorted using homemade bash scripts.<sup>2</sup>
++ [**combined-final-win.dat**](https://github.com/bongochong/CombinedPrivacyBlockLists/raw/master/combined-final-win.dat): Is an IP block list suitable for use in torrent clients like Halite for Windows.<sup>1</sup> The list is merged from BlueTack levels 1 and 2, then deduped and sorted using homemade bash scripts.<sup>2</sup> This will come in especially handy on public trackers.
 
-* [**combined-final.p2p**](https://github.com/bongochong/CombinedPrivacyBlockLists/raw/master/combined-final.p2p): Is an IP block list suitable for use in torrent clients like qBitTorrent<sup>3</sup> and Transmission<sup>4</sup> under any OS. The list is merged from BlueTack levels 1 and 2, then deduped and sorted using homemade bash scripts.
+* [**combined-final.p2p**](https://github.com/bongochong/CombinedPrivacyBlockLists/raw/master/combined-final.p2p): Is an IP block list suitable for use in torrent clients like qBitTorrent<sup>3</sup> and Transmission<sup>4</sup> under any OS. The list is merged from BlueTack levels 1 and 2, then deduped and sorted using homemade bash scripts. This will also come in especially handy on public trackers.
 
-- [**newhosts-final.hosts**](https://github.com/bongochong/CombinedPrivacyBlockLists/raw/master/newhosts-final.hosts): Is a comprehensive hosts list which blocks known ad, exploit, and tracking servers, taken from MVPS<sup>5</sup>, PGL Yoyo<sup>6</sup>, Malware Domain List<sup>7</sup>, and hpHosts<sup>8</sup>, then merged, sorted and deduped using homemade bash scripts. 
+- [**newhosts-final.hosts**](https://github.com/bongochong/CombinedPrivacyBlockLists/raw/master/newhosts-final.hosts): Is a comprehensive hosts list which blocks known ad, exploit, and tracking servers, taken from MVPS<sup>5</sup>, PGL Yoyo<sup>6</sup>, Malware Domain List<sup>7</sup>, and hpHosts<sup>8</sup>, then merged, sorted and deduped using homemade bash scripts. This list is compatible with all operating systems that make use of a hosts file. Notably enhanced privacy and security awaits you.
 
-+ [**yoyo.pac**](https://github.com/bongochong/CombinedPrivacyBlockLists/raw/master/yoyo.pac) & [**yoyo.pac.js**](https://github.com/bongochong/CombinedPrivacyBlockLists/raw/master/yoyo.pac.js): Are Proxy AutoConfig files meant to block advertising servers. Right now I am only hosting the lists from PGL Yoyo, but I plan to create master PAC files using a similar approach to my hosts files and IP block lists.
++ [**yoyo.pac**](https://github.com/bongochong/CombinedPrivacyBlockLists/raw/master/yoyo.pac) & [**yoyo.pac.js**](https://github.com/bongochong/CombinedPrivacyBlockLists/raw/master/yoyo.pac.js): Are Proxy AutoConfig files meant to block advertising servers. Right now I am only hosting the lists from PGL Yoyo, but I plan to create master PAC files using a similar approach to my hosts files and IP block lists. These are great for older mobile devices where one cannot modify a hosts file, or make use of local VPN technology.
 
 ***Please feel free to subscribe to these lists. I use them on all of my personal machines.***
 
@@ -25,7 +25,7 @@ Finally, I have begun sharing some rudimentarily interactive versions of the bas
 
 These scripts are modified versions - in that they include prompts for user input - of the ones I run on my main LiGnux box. They are not pretty, but I've tested them several times and they work with no issues. They all make use of [sed](https://www.gnu.org/software/sed/manual/sed.html), [Perl](https://www.perl.com/about/), and [Wget](https://www.gnu.org/software/wget/), so make sure your system has these programs if you plan on using my tools. 
 
-It should be noted that the scripts for generating IP block lists have an additional dependency on the [command line 7zip tools](http://p7zip.sourceforge.net/), while the one for generating a comprehensive hosts file depends on a plaintext template document and a .jar binary (which performs some of the initial operations), both of which are included in the relevant GitHub directory. Please see the readme file for each tool before using and/or modifying them.
+It should be noted that the scripts for generating IP block lists have an additional dependency on the [command line 7zip tools](http://p7zip.sourceforge.net/), while the one for generating a comprehensive hosts file depends on a plaintext template document and a .jar binary (which performs some of the initial operations), both of which are included in the relevant GitHub directory. Please see the readme files for each tool before using and/or modifying them.
 
 ---
 
