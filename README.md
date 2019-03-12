@@ -1,5 +1,5 @@
 # Combined Privacy Block Lists
-Ad-blocking hosts files, PAC files, and BitTorrent IP block lists, all merged and de-duped from multiple reputable sources.
+Ad-blocking hosts files, BitTorrent IP block lists, and PAC files, all merged, sorted and de-duped from multiple reputable sources. Use as you see fit.
 
 **Descriptions**
 
