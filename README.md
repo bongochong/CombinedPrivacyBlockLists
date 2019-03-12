@@ -3,7 +3,7 @@ Ad-blocking hosts files, BitTorrent IP block lists, and PAC files, all merged, s
 
 **Descriptions**
 
-- [**newhosts-final.hosts**](https://github.com/bongochong/CombinedPrivacyBlockLists/raw/master/newhosts-final.hosts): Is a comprehensive hosts list which blocks known ad, exploit, and tracking servers, taken from MVPS<sup>1</sup>, PGL Yoyo<sup>2</sup>, Malware Domain List<sup>3</sup>, and hpHosts<sup>4</sup>, then merged, sorted and deduped using homemade bash scripts. This list is compatible with all operating systems that make use of a hosts file. Notably enhanced privacy and security awaits you.
+- [**newhosts-final.hosts**](https://github.com/bongochong/CombinedPrivacyBlockLists/raw/master/newhosts-final.hosts): Is a comprehensive hosts list which blocks known ad, exploit, and tracking servers, taken from MVPS<sup>1</sup>, PGL Yoyo<sup>2</sup>, Malware Domain List<sup>3</sup>, and hpHosts<sup>4</sup>, then merged, sorted and deduped using homemade bash scripts. This list is compatible with all operating systems that make use of a hosts file (obviously this includes Windows, OS X, LiGnux and more). Notably enhanced privacy and security awaits you.
 
 + [**combined-final-win.dat**](https://github.com/bongochong/CombinedPrivacyBlockLists/raw/master/combined-final-win.dat): Is a DAT-format IP block list suitable for use in torrent clients like Halite for Windows.<sup>5</sup> The list is merged from BlueTack levels 1 and 2, then deduped and sorted using homemade bash scripts.<sup>6</sup> This will come in especially handy on public trackers.
 
