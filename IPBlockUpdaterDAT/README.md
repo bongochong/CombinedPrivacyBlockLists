@@ -10,4 +10,4 @@ The data within is meant to automate the process of creating and updating an IP 
 
 
 **Notes**:
-- If you deviate from the checklist then you are stupid.
+- If you deviate from the checklist then you are stupid. This does not apply if you are modifying the files as opposed to using them as is.
