@@ -1,4 +1,4 @@
-The data within is meant to automate the process of creating and updating your computer's hosts file. Though its use is currently limited to GNU / Linux and other Unix-like systems, I plan to create a version which can be run on Windows as well (though the hosts file it generates is of-course perfectly compatible with Windows).
+The data within is meant to automate the process of creating and updating your computer's hosts file. Though its use is currently limited to GNU / Linux and other Unix-like systems, I plan to create a script which can be run on Windows as well (though the hosts file it generates is of-course perfectly compatible with Windows).
 
 **Checklist for use**:
 1. Ensure that all files herein are downloaded to a single directory
