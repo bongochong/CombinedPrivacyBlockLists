@@ -5,7 +5,7 @@ Ad-blocking hosts files, PAC files, and BitTorrent IP block lists, all merged an
 
 + [**combined-final-win.dat**](https://github.com/bongochong/CombinedPrivacyBlockLists/raw/master/combined-final-win.dat): Is an IP blocklist suitable for use in torrent clients like Halite for Windows.<sup>1</sup> The list is merged from BlueTack levels 1 and 2, then deduped and sorted using homemade bash scripts.<sup>2</sup>
 
-* [**combined-final.p2p**](https://github.com/bongochong/CombinedPrivacyBlockLists/raw/master/combined-final.p2p): Is an IP blocklist suitable for use in torrent clients like qBitTorrent<sup>3</sup> and Transmission<sup>4</sup> under any OS. The list is merged from BlueTack levels 1 and 2, then deduped and sorted using homemade bash scripts.
+* [**combined-final.p2p**](https://github.com/bongochong/CombinedPrivacyBlockLists/raw/master/combined-final.p2p): Is an IP blocklist suitable for use in torrent clients like qBitTorrent<sup>3</sup> and Transmission<sup>4</sup> under any OS. The list is merged from BlueTack levels 1 and 2, then deduped and sorted using homemade bash scripts.<sup>5</sup>
 
 - [**newhosts-final.hosts**](https://github.com/bongochong/CombinedPrivacyBlockLists/raw/master/newhosts-final.hosts): Is an ad and tracker-blocking hosts list, taken from MVPS, PGL Yoyo, Malware Domain List, and Hosts-File, then merged, sorted and deduped using homemade bash scripts. 
 
@@ -21,3 +21,4 @@ P.S. All of these files can be downloaded in a [compressed archive hosted on Dis
 <sup>2. [BlueTack Lists on I-BlockList](https://www.iblocklist.com/lists) </sup> <br>
 <sup>3. [qBitTorrent](https://www.qbittorrent.org/) </sup> <br>
 <sup>4. [Transmission](https://transmissionbt.com/) </sup> <br>
+<sup>5. See: Footnote #2 </sup> <br>
