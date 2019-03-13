@@ -6,8 +6,8 @@ fe00::0 ip6-localnet
 ff00::0 ip6-mcastprefix
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
-# You do not need those lines if IPV6 is not enabled
-
+# You do not need those lines if IPV6 is not enabled	   #
+#                                                          #
 # This HOSTS file was merged from the following sources:   #
 # http://winhelp2002.mvps.org/hosts.txt                    #
 # http://pgl.yoyo.org/adservers/serverlist.php             #
@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 # This *must* be the first line: 127.0.0.1     localhost   #
 #                                                          #
 #**********************************************************#
-# ------------- Mon Mar 11 16:37:24 MDT 2019 ------------- #
+# ------------- Wed Mar 13 00:42:23 MDT 2019 ------------- #
 #**********************************************************#
 #                                                          #
 # Disclaimer: cows pigs up dogs on six for personal use    #
@@ -29,8 +29,8 @@ ff02::2 ip6-allrouters
 # This work is licensed under the Creative Commons         #
 # Attribution-NonCommercial-ShareAlike License.            #
 # http://creativecommons.org/licenses/by-nc-sa/4.0/        #
-# for all my friends for my friends for all o y'all        #
-# enjoy!                                                   #
+#                                                          #
+# Enjoy!                                                   #
 #                                                          #
 # [Start of automated entries]
 127.0.0.1 0.r.msn.com
@@ -39193,6 +39193,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 nautilus.122.2o7.net
 127.0.0.1 nautilus.tt.omtrdc.net
 127.0.0.1 navdmp.com
+127.0.0.1 navegg.com
 127.0.0.1 naviant.com
 127.0.0.1 navigator.io
 127.0.0.1 navlog.channel4.com
@@ -43005,6 +43006,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 resolvedlyecyduwkv.download
 127.0.0.1 resolvethem.com
 127.0.0.1 resonantbrush.com
+127.0.0.1 resonate.com
 127.0.0.1 resource-marketing.com
 127.0.0.1 resources.eyereturn.com
 127.0.0.1 resources.hitbox.com
@@ -44062,6 +44064,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 sea-u.openx.net
 127.0.0.1 sea.effectivemeasure.net
 127.0.0.1 seacoastonlinecom.112.2o7.net
+127.0.0.1 seadform.net
 127.0.0.1 seal.ranking.com
 127.0.0.1 seal.validatedsite.com
 127.0.0.1 seal.verisign.com
