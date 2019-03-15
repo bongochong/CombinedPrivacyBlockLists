@@ -23,7 +23,7 @@ wget -nv -O hosts.5.txt "http://hosts-file.net/exp.txt"
 echo "Downloaded hosts list 5"
 mv hosts.5.txt hosts.5
 echo "Properly saved hosts list 5"
-# wget -nv -O hosts.6.txt "https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS"
+wget -nv -O hosts.6.txt "https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS"
 echo "Downloaded hosts list 6"
 mv hosts.6.txt hosts.6
 echo "Properly saved hosts list 6"
