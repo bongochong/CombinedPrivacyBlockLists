@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 # This *must* be the first line: 127.0.0.1     localhost   #
 #                                                          #
 #**********************************************************#
-# ------------- Fri Mar 15 00:27:11 MDT 2019 ------------- #
+# ------------- Fri Mar 15 13:37:04 MDT 2019 ------------- #
 #**********************************************************#
 #                                                          #
 # Disclaimer: cows pigs up dogs on six for personal use    #
@@ -1623,7 +1623,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 7cxcrejm.com
 127.0.0.1 7dz98ad91l.s.ad6media.fr
 127.0.0.1 7ec4-d4b0-f6eb-5588.reporo.net
-127.0.0.1 7f1au20glg.com
 127.0.0.1 7faa-e93a-19c5-c96d.reporo.net
 127.0.0.1 7fdf-f670-24dd-3bd8.reporo.net
 127.0.0.1 7fed-2832-993b-cb28.reporo.net
@@ -23694,7 +23693,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 bespatehwxslkoz.download
 127.0.0.1 best-ads.com
 127.0.0.1 best-deals-products.com
-127.0.0.1 best-pr.info
 127.0.0.1 best-top.ro
 127.0.0.1 best100catfights.com
 127.0.0.1 best4ny.com
@@ -25490,7 +25488,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 bullseye.backbeatmedia.com
 127.0.0.1 bullz-eye.us.intellitxt.com
 127.0.0.1 bumerang.hurriyet.com.tr
-127.0.0.1 bumpberam.pro
 127.0.0.1 bumpshack.us.intellitxt.com
 127.0.0.1 bunchofads.com
 127.0.0.1 bundle-geoip.herokuapp.com
@@ -39222,7 +39219,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 mytop-in.net
 127.0.0.1 mytraf.info
 127.0.0.1 mytraf.ru
-127.0.0.1 mytrafficads.com
 127.0.0.1 mytrafficbuilder.info
 127.0.0.1 mytrannycams.com
 127.0.0.1 myvacationguide.com
@@ -42618,6 +42614,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 qualitylegion.com
 127.0.0.1 qualityporn.biz
 127.0.0.1 quantcast.com
+127.0.0.1 quantcast.mgr.consensu.org
 127.0.0.1 quantcount.com
 127.0.0.1 quantserve.com
 127.0.0.1 quantummetric.com
@@ -44733,6 +44730,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 share.9cdn.net
 127.0.0.1 share.loginradius.com
 127.0.0.1 share.pluso.ru
+127.0.0.1 shareadspace.com
 127.0.0.1 shareaholic.com
 127.0.0.1 shareasale.com
 127.0.0.1 sharecast.uk.intellitxt.com
@@ -53610,6 +53608,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 webstats.thesoul-publishing.com
 127.0.0.1 webstats.volvo.com
 127.0.0.1 webstats.web.rcn.net
+127.0.0.1 webstats4u.com
 127.0.0.1 websystem24.nuggad.net
 127.0.0.1 webtools.homestead.com
 127.0.0.1 webtrac.bluecherry.com
