@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 # This *must* be the first line: 127.0.0.1     localhost   #
 #                                                          #
 #**********************************************************#
-# ------------- Fri Mar 15 13:37:04 MDT 2019 ------------- #
+# ------------- Mon Mar 18 12:14:48 MDT 2019 ------------- #
 #**********************************************************#
 #                                                          #
 # Disclaimer: cows pigs up dogs on six for personal use    #
@@ -42613,6 +42613,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 qualityclickcontrol.com
 127.0.0.1 qualitylegion.com
 127.0.0.1 qualityporn.biz
+127.0.0.1 qualtrics.com
 127.0.0.1 quantcast.com
 127.0.0.1 quantcast.mgr.consensu.org
 127.0.0.1 quantcount.com
