@@ -21,6 +21,7 @@ cat *.dat > combined-win.txt
 sleep 5
 sort combined-win.txt | uniq > combined-final-win.dat
 sleep 3
-# perl -pi -e '$_ = "" if ( $. == 1 );' combined-final-win.dat
+perl -pi -e '$_ = "" if ( $. == 1 );' combined-final-win.dat
+sleep 7
 perl -i -pe 'chomp if eof' combined-final-win.dat
 echo "Appended proper file extension to blocklists. Combined, sorted, and de-duped. Your BitTorrent blocklist has been updated."
