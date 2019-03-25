@@ -18,7 +18,7 @@
 # This *must* be the first line: 127.0.0.1     localhost   #
 #                                                          #
 #**********************************************************#
-# ------------- Tue Mar 19 19:39:40 MDT 2019 ------------- #
+# ------------- Mon Mar 25 03:45:03 MDT 2019 ------------- #
 #**********************************************************#
 #                                                          #
 # Disclaimer: cows pigs up dogs on six for personal use    #
@@ -27238,7 +27238,6 @@
 127.0.0.1 clients.bluecava.com
 127.0.0.1 clients.pointroll.com
 127.0.0.1 clients.rootsecure.org
-127.0.0.1 clients.tbo.com
 127.0.0.1 clik2008.popunder.ru
 127.0.0.1 clikerz.net
 127.0.0.1 cliksolution.com
@@ -32233,6 +32232,7 @@
 127.0.0.1 feeds.wise-click.com
 127.0.0.1 feedshare.flipora.com
 127.0.0.1 feedsweep.us.intellitxt.com
+127.0.0.1 feefo.com
 127.0.0.1 fegariesupzxx.download
 127.0.0.1 feiehc.beckmanlawfirm.com
 127.0.0.1 felicityofxmgzq.download
@@ -34610,7 +34610,6 @@
 127.0.0.1 hits.zdnet.co.kr
 127.0.0.1 hits3.truehits.net
 127.0.0.1 hits4me.com
-127.0.0.1 hits4pay.com
 127.0.0.1 hitserver.ibope.com.br
 127.0.0.1 hitslap.com
 127.0.0.1 hitslink.com
@@ -35080,6 +35079,7 @@
 127.0.0.1 iadctest.qwapi.com
 127.0.0.1 iadfeed.qwapi.com
 127.0.0.1 iadfeedtest.qwapi.com
+127.0.0.1 iadnet.com
 127.0.0.1 iads.com.np
 127.0.0.1 iadsdk.apple.com
 127.0.0.1 ialchemnteryield.jmp9.com
@@ -35127,7 +35127,6 @@
 127.0.0.1 icon.ajiang.net
 127.0.0.1 icon.cnzz.com
 127.0.0.1 icon.cubics.com
-127.0.0.1 iconadserver.com
 127.0.0.1 iconator.com
 127.0.0.1 iconifyingkjlzag.download
 127.0.0.1 icontact.com
@@ -37385,7 +37384,6 @@
 127.0.0.1 logs.infoaxe.com
 127.0.0.1 logs.libuv.org
 127.0.0.1 logs.loggly.com
-127.0.0.1 logs.logrocket.com
 127.0.0.1 logs.naukri.com
 127.0.0.1 logs.nodejs.org
 127.0.0.1 logs.ovh.net
@@ -42066,6 +42064,7 @@
 127.0.0.1 prod-js.aws.y-track.com
 127.0.0.1 prod-services.interactiveone.com
 127.0.0.1 prodege.go2cloud.org
+127.0.0.1 producer.getwisdom.io
 127.0.0.1 product-reviews.uk.intellitxt.com
 127.0.0.1 production-eqbc.lvp.llnw.net
 127.0.0.1 production-mcs.lvp.llnw.net
@@ -53336,7 +53335,6 @@
 127.0.0.1 wamfebdvsabotier.review
 127.0.0.1 wan.duba.net
 127.0.0.1 want.zla.se
-127.0.0.1 wantmobi.bid
 127.0.0.1 wap-click.com
 127.0.0.1 wap.advertising.com
 127.0.0.1 wap.chatwalk.com
@@ -53566,7 +53564,6 @@
 127.0.0.1 webprowire.com
 127.0.0.1 webproworld.com
 127.0.0.1 webr.emv2.com
-127.0.0.1 webreseau.com
 127.0.0.1 webroot.112.2o7.net
 127.0.0.1 websalesusa.com
 127.0.0.1 websatpub.fth.net
