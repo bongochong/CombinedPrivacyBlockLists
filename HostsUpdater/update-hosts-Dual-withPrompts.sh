@@ -5,6 +5,8 @@ cd "$file_dir"
 sleep 1
 rm hosts*.[0-9]
 rm hosts.final
+rm hostsIPv6.final
+rm newhosts-template-both.txt
 rm newhosts.txt
 sleep 1
 echo "Changed working directory to "$file_dir" and removed old files."
@@ -57,7 +59,9 @@ sed -i '/urlcheck.hulu.com/d' hosts.final
 sed -i '/cdn.livechatinc.com/d' hosts.final
 sed -i '/j.mp/d' hosts.final
 perl -i -pe 'chomp if eof' hosts.final
-sed '35r hosts.final' < newhosts-template.txt > nhtemptemp.txt
+sed 's/127.0.0.1/::1/g' hosts.final > hostsIPv6.final
+sed '38r hostsIPv6.final' < newhosts-template-dual.txt > newhosts-template-both.txt
+sed '35r hosts.final' < newhosts-template-both.txt > nhtemptemp.txt
 sed -i "23s|DAYBONGODATEREPLACE|$(date)|" nhtemptemp.txt
 mv nhtemptemp.txt newhosts.txt
 echo "Successfully cleaned up and formatted hosts file! Prompting for password to make backup of and overwrite /etc/hosts..."
