@@ -18,7 +18,7 @@
 # This *must* be the first line: 127.0.0.1     localhost   #
 #                                                          #
 #**********************************************************#
-# ------------- Mon Mar 25 03:45:03 MDT 2019 ------------- #
+# ------------- Mon Apr  1 12:15:30 MDT 2019 ------------- #
 #**********************************************************#
 #                                                          #
 # Disclaimer: cows pigs up dogs on six for personal use    #
@@ -17457,6 +17457,7 @@
 127.0.0.1 ads-static.saymedia.com
 127.0.0.1 ads-stream.com
 127.0.0.1 ads-trk.vidible.tv
+127.0.0.1 ads-twitter.com
 127.0.0.1 ads-us.pictela.net
 127.0.0.1 ads-ussj1.focalink.com
 127.0.0.1 ads-ussnv2.focalink.com
@@ -19629,7 +19630,6 @@
 127.0.0.1 adserver-e7.com
 127.0.0.1 adserver-voice-online.co.uk
 127.0.0.1 adserver.100free.com
-127.0.0.1 adserver.43plc.com
 127.0.0.1 adserver.4clicks.org
 127.0.0.1 adserver.71i.de
 127.0.0.1 adserver.abv.bg
@@ -26098,6 +26098,7 @@
 127.0.0.1 casinotreasure.com
 127.0.0.1 casof.voluumtrk.com
 127.0.0.1 cast.ra.icast.cn
+127.0.0.1 casterist.info
 127.0.0.1 castingshow-news.de.intellitxt.com
 127.0.0.1 cat.fr.eu.criteo.com
 127.0.0.1 cata.ero-advertising.com
@@ -27120,6 +27121,7 @@
 127.0.0.1 clickfirms.go2cloud.org
 127.0.0.1 clickflow.com
 127.0.0.1 clickforwebmasters.com
+127.0.0.1 clickfunnels.com
 127.0.0.1 clickfuse.com
 127.0.0.1 clickheat.topbucks.com
 127.0.0.1 clickhereforcellphones.com
@@ -27896,6 +27898,7 @@
 127.0.0.1 cosmos01ssl.webtrekk.net
 127.0.0.1 cossette.com
 127.0.0.1 cossiesnkycsr.download
+127.0.0.1 cost2buy.net
 127.0.0.1 costargroup.112.2o7.net
 127.0.0.1 cotidianul.2cnt.net
 127.0.0.1 cotylebijnutawn.download
@@ -31388,6 +31391,7 @@
 127.0.0.1 emd10.medianext.com
 127.0.0.1 emea-bidder.mathtag.com
 127.0.0.1 emea-ukash.netmng.com
+127.0.0.1 emebo.com
 127.0.0.1 emediate.dk
 127.0.0.1 emediate.eu
 127.0.0.1 emediate.se
@@ -32151,6 +32155,7 @@
 127.0.0.1 fastlane-adv.rubiconproject.com
 127.0.0.1 fastlane.rubiconproject.com
 127.0.0.1 fastlinkfinder.com
+127.0.0.1 fastly-insights.com
 127.0.0.1 fastnclick.com
 127.0.0.1 fastonlinefinder.com
 127.0.0.1 fastonlineusers.com
@@ -32232,7 +32237,6 @@
 127.0.0.1 feeds.wise-click.com
 127.0.0.1 feedshare.flipora.com
 127.0.0.1 feedsweep.us.intellitxt.com
-127.0.0.1 feefo.com
 127.0.0.1 fegariesupzxx.download
 127.0.0.1 feiehc.beckmanlawfirm.com
 127.0.0.1 felicityofxmgzq.download
@@ -35863,7 +35867,6 @@
 127.0.0.1 internetsecurity.com
 127.0.0.1 internettrafficreport.com
 127.0.0.1 interreklame.de
-127.0.0.1 interstat.hu
 127.0.0.1 interstateanalytics.com
 127.0.0.1 interunionieyyq.download
 127.0.0.1 interupload.com
@@ -38210,6 +38213,7 @@
 127.0.0.1 megafriends.com
 127.0.0.1 megalithusa.com
 127.0.0.1 megapopads.com
+127.0.0.1 megapu.sh
 127.0.0.1 megastats.com
 127.0.0.1 megastore.bnex.com
 127.0.0.1 megawerbung.de
@@ -39388,7 +39392,6 @@
 127.0.0.1 ndjln.voluumtrk.com
 127.0.0.1 ndk38.voluumtrk.com
 127.0.0.1 ndn.cdn.auditude.com
-127.0.0.1 ndnops.com
 127.0.0.1 ndparking.com
 127.0.0.1 ndwck.voluumtrk.com
 127.0.0.1 ne4vh7.becks.petboutiquepawsnclaws.co.uk
@@ -40614,6 +40617,7 @@
 127.0.0.1 option9.adultfriendfinder.com
 127.0.0.1 optiprofits.go2cloud.org
 127.0.0.1 optmd.com
+127.0.0.1 optmnstr.com
 127.0.0.1 optmstr.com
 127.0.0.1 optnmstr.com
 127.0.0.1 optout.2cnt.net
@@ -41532,6 +41536,7 @@
 127.0.0.1 pix.pulsemgr.com
 127.0.0.1 pix.silverpush.co
 127.0.0.1 pix.speedbit.com
+127.0.0.1 pix.spot.im
 127.0.0.1 pix.tagcdn.com
 127.0.0.1 pix01.revsci.net
 127.0.0.1 pix03.revsci.net
@@ -43531,6 +43536,7 @@
 127.0.0.1 rtv.2cnt.net
 127.0.0.1 rtve.d1.sc.omtrdc.net
 127.0.0.1 rtvhalearn.review
+127.0.0.1 rtxplatform.com
 127.0.0.1 ru-traffic.com
 127.0.0.1 ru.redtram.com
 127.0.0.1 ru.theswiftones.com
@@ -45135,6 +45141,7 @@
 127.0.0.1 smetrics.ctv.ca
 127.0.0.1 smetrics.delta.com
 127.0.0.1 smetrics.fifa.com
+127.0.0.1 smetrics.foxnews.com
 127.0.0.1 smetrics.freecreditreport.com
 127.0.0.1 smetrics.mcafee.com
 127.0.0.1 smetrics.npr.org
@@ -49357,7 +49364,6 @@
 127.0.0.1 verticalmass.com
 127.0.0.1 vertoz.go2affise.com
 127.0.0.1 verumm.go2affise.com
-127.0.0.1 veruta.com
 127.0.0.1 vervemobile.com
 127.0.0.1 vervewireless.com
 127.0.0.1 vette-porno.nl
@@ -58818,6 +58824,7 @@
 127.0.0.1 zyrdu.cruisingsmallship.com
 127.0.0.1 zz.cqcounter.com
 127.0.0.1 zz.zeroredirect1.com
+127.0.0.1 zzhc.vnet.cn
 127.0.0.1 zzptzdhugavot.review
 127.0.0.1 zzz.clickbank.net
 # [End of automated entries]
