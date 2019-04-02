@@ -42481,7 +42481,7 @@
 0.0.0.0 q1blk.voluumtrk.com
 0.0.0.0 q1mediahydraplatform.com
 0.0.0.0 q24wb2.pal.wkcengland.co.uk
-0.0.0.0 q28840.nb.host0.0.0.0.com
+0.0.0.0 q28840.nb.host127-0-0-1.com
 0.0.0.0 q2fqo.voluumtrk.com
 0.0.0.0 q3-2.webtrekk.net
 0.0.0.0 q3.webtrekk.net
@@ -45446,6 +45446,7 @@
 0.0.0.0 srv6.admedit.me
 0.0.0.0 srv6.mobpedia.com
 0.0.0.0 srvjs.media.net
+0.0.0.0 srvmath.com
 0.0.0.0 srvpub.com
 0.0.0.0 srwww1.com
 0.0.0.0 srx.at.ebayrtm.com
@@ -53263,12 +53264,12 @@
 0.0.0.0 w36.hitbox.com
 0.0.0.0 w3nation.com
 0.0.0.0 w4.hitbox.com
-0.0.0.0 w4988.nb.host0.0.0.0.com
+0.0.0.0 w4988.nb.host127-0-0-1.com
 0.0.0.0 w5.hitbox.com
 0.0.0.0 w55c.net
 0.0.0.0 w6.bitterstrawberry.com
 0.0.0.0 w6.hitbox.com
-0.0.0.0 w612.nb.host0.0.0.0.com
+0.0.0.0 w612.nb.host127-0-0-1.com
 0.0.0.0 w7.hitbox.com
 0.0.0.0 w7ugcv.shet.eveshamairporttransfers.co.uk
 0.0.0.0 w8.hitbox.com
@@ -58582,7 +58583,7 @@
 0.0.0.0 z2jakqoshx.com
 0.0.0.0 z3.zeroredirect1.com
 0.0.0.0 z31pb3.idf.iandunford.co.uk
-0.0.0.0 z32538.nb.host0.0.0.0.com
+0.0.0.0 z32538.nb.host127-0-0-1.com
 0.0.0.0 z3ytpu.gay.tathamservice.com
 0.0.0.0 z4.zeroredirect1.com
 0.0.0.0 z5.zeroredirect1.com

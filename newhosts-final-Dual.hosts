@@ -18,7 +18,7 @@
 # This *must* be the first line: 127.0.0.1     localhost   #
 #                                                          #
 #**********************************************************#
-# ------------- Mon Apr  1 20:54:10 MDT 2019 ------------- #
+# ------------- Tue Apr  2 11:31:24 MDT 2019 ------------- #
 #**********************************************************#
 #                                                          #
 # Disclaimer: cows pigs up dogs on six for personal use    #
@@ -42516,7 +42516,7 @@
 0.0.0.0 q1blk.voluumtrk.com
 0.0.0.0 q1mediahydraplatform.com
 0.0.0.0 q24wb2.pal.wkcengland.co.uk
-0.0.0.0 q28840.nb.host0.0.0.0.com
+0.0.0.0 q28840.nb.host127-0-0-1.com
 0.0.0.0 q2fqo.voluumtrk.com
 0.0.0.0 q3-2.webtrekk.net
 0.0.0.0 q3.webtrekk.net
@@ -45481,6 +45481,7 @@
 0.0.0.0 srv6.admedit.me
 0.0.0.0 srv6.mobpedia.com
 0.0.0.0 srvjs.media.net
+0.0.0.0 srvmath.com
 0.0.0.0 srvpub.com
 0.0.0.0 srwww1.com
 0.0.0.0 srx.at.ebayrtm.com
@@ -53298,12 +53299,12 @@
 0.0.0.0 w36.hitbox.com
 0.0.0.0 w3nation.com
 0.0.0.0 w4.hitbox.com
-0.0.0.0 w4988.nb.host0.0.0.0.com
+0.0.0.0 w4988.nb.host127-0-0-1.com
 0.0.0.0 w5.hitbox.com
 0.0.0.0 w55c.net
 0.0.0.0 w6.bitterstrawberry.com
 0.0.0.0 w6.hitbox.com
-0.0.0.0 w612.nb.host0.0.0.0.com
+0.0.0.0 w612.nb.host127-0-0-1.com
 0.0.0.0 w7.hitbox.com
 0.0.0.0 w7ugcv.shet.eveshamairporttransfers.co.uk
 0.0.0.0 w8.hitbox.com
@@ -58617,7 +58618,7 @@
 0.0.0.0 z2jakqoshx.com
 0.0.0.0 z3.zeroredirect1.com
 0.0.0.0 z31pb3.idf.iandunford.co.uk
-0.0.0.0 z32538.nb.host0.0.0.0.com
+0.0.0.0 z32538.nb.host127-0-0-1.com
 0.0.0.0 z3ytpu.gay.tathamservice.com
 0.0.0.0 z4.zeroredirect1.com
 0.0.0.0 z5.zeroredirect1.com
@@ -58829,7 +58830,7 @@
 0.0.0.0 zzptzdhugavot.review
 0.0.0.0 zzz.clickbank.net
 # [End of automated IPv4 entries]
-#                                                          #
+#
 # [Start of automated IPv6 entries]
 :: 0.r.msn.com
 :: 005.free-counter.co.uk
@@ -59032,7 +59033,7 @@
 :: 08.185.87.98.liveadvert.com
 :: 08.185.87.99.liveadvert.com
 :: 0896-c1b9-ed40-acad.reporo.net
-:: ::42103.c.mystat-in.net
+:: 090906042103.c.mystat-in.net
 :: 092706152958.c.mystat-in.net
 :: 0aac4e6a54c170b0.se
 :: 0alha.voluumtrk.com
@@ -101314,7 +101315,7 @@
 :: q1blk.voluumtrk.com
 :: q1mediahydraplatform.com
 :: q24wb2.pal.wkcengland.co.uk
-:: q28840.nb.host::.com
+:: q28840.nb.host127-0-0-1.com
 :: q2fqo.voluumtrk.com
 :: q3-2.webtrekk.net
 :: q3.webtrekk.net
@@ -104279,6 +104280,7 @@
 :: srv6.admedit.me
 :: srv6.mobpedia.com
 :: srvjs.media.net
+:: srvmath.com
 :: srvpub.com
 :: srwww1.com
 :: srx.at.ebayrtm.com
@@ -112096,12 +112098,12 @@
 :: w36.hitbox.com
 :: w3nation.com
 :: w4.hitbox.com
-:: w4988.nb.host::.com
+:: w4988.nb.host127-0-0-1.com
 :: w5.hitbox.com
 :: w55c.net
 :: w6.bitterstrawberry.com
 :: w6.hitbox.com
-:: w612.nb.host::.com
+:: w612.nb.host127-0-0-1.com
 :: w7.hitbox.com
 :: w7ugcv.shet.eveshamairporttransfers.co.uk
 :: w8.hitbox.com
@@ -117415,7 +117417,7 @@
 :: z2jakqoshx.com
 :: z3.zeroredirect1.com
 :: z31pb3.idf.iandunford.co.uk
-:: z32538.nb.host::.com
+:: z32538.nb.host127-0-0-1.com
 :: z3ytpu.gay.tathamservice.com
 :: z4.zeroredirect1.com
 :: z5.zeroredirect1.com
