@@ -57,6 +57,7 @@ sed -i '/urlcheck.hulu.com/d' hosts.final
 sed -i '/cdn.livechatinc.com/d' hosts.final
 sed -i '/j.mp/d' hosts.final
 perl -i -pe 'chomp if eof' hosts.final
+sed -i 's/127.0.0.1/0.0.0.0/g' hosts.final
 sed '35r hosts.final' < newhosts-template.txt > nhtemptemp.txt
 sed -i "23s|DAYBONGODATEREPLACE|$(date)|" nhtemptemp.txt
 mv nhtemptemp.txt newhosts.txt

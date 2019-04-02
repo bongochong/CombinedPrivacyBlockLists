@@ -38,19 +38,19 @@
 # [Start of automated IPv6 entries]
 
 # [End of automated IPv6 entries]
-127.0.0.1 tag.device9.com
-127.0.0.1 t.device9.com
-127.0.0.1 www.device9.com
-127.0.0.1 tag.device9.net
-127.0.0.1 t.device9.net
-127.0.0.1 www.device9.net
-127.0.0.1 device9.com
-127.0.0.1 device9.net
-::1 tag.device9.com
-::1 t.device9.com
-::1 www.device9.com
-::1 tag.device9.net
-::1 t.device9.net
-::1 www.device9.net
-::1 device9.com
-::1 device9.net
+0.0.0.0 tag.device9.com
+0.0.0.0 t.device9.com
+0.0.0.0 www.device9.com
+0.0.0.0 tag.device9.net
+0.0.0.0 t.device9.net
+0.0.0.0 www.device9.net
+0.0.0.0 device9.com
+0.0.0.0 device9.net
+:: tag.device9.com
+:: t.device9.com
+:: www.device9.com
+:: tag.device9.net
+:: t.device9.net
+:: www.device9.net
+:: device9.com
+:: device9.net
