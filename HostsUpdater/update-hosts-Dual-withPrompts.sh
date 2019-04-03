@@ -58,8 +58,8 @@ sed -i '/tw.i.hulu.com/d' hosts.final
 sed -i '/urlcheck.hulu.com/d' hosts.final
 sed -i '/cdn.livechatinc.com/d' hosts.final
 sed -i '/j.mp/d' hosts.final
-sed 's/127.0.0.1 /:: /g' hosts.final > hostsIPv6.final
-sed -i 's/127.0.0.1 /0.0.0.0 /g' hosts.final
+sed 's/^127.0.0.1/::/g' hosts.final > hostsIPv6.final
+sed -i 's/^127.0.0.1/0.0.0.0/g' hosts.final
 perl -i -pe 'chomp if eof' hosts.final
 perl -i -pe 'chomp if eof' hostsIPv6.final
 sed '38r hostsIPv6.final' < newhosts-template-dual.txt > newhosts-template-both.txt
