@@ -18,7 +18,7 @@
 # This *must* be the first line: 127.0.0.1     localhost   #
 #                                                          #
 #**********************************************************#
-# ------------- Tue Apr  2 11:31:24 MDT 2019 ------------- #
+# ------------- Mon Apr  8 02:51:37 MDT 2019 ------------- #
 #**********************************************************#
 #                                                          #
 # Disclaimer: cows pigs up dogs on six for personal use    #
@@ -19618,6 +19618,7 @@
 0.0.0.0 adserve.donanimhaber.com
 0.0.0.0 adserve.doteasy.com
 0.0.0.0 adserve.gogreece.com
+0.0.0.0 adserve.io
 0.0.0.0 adserve.kikizo.com
 0.0.0.0 adserve.podaddies.com
 0.0.0.0 adserve.postrelease.com
@@ -27121,7 +27122,6 @@
 0.0.0.0 clickfirms.go2cloud.org
 0.0.0.0 clickflow.com
 0.0.0.0 clickforwebmasters.com
-0.0.0.0 clickfunnels.com
 0.0.0.0 clickfuse.com
 0.0.0.0 clickheat.topbucks.com
 0.0.0.0 clickhereforcellphones.com
@@ -33696,7 +33696,6 @@
 0.0.0.0 gets.lockscalecompare.com
 0.0.0.0 getsidecar.s3.amazonaws.com
 0.0.0.0 getstatistics.se
-0.0.0.0 getwisdom.io
 0.0.0.0 geverons.justclick.ru
 0.0.0.0 gevfh.voluumtrk2.com
 0.0.0.0 gfaf-banners.s3.amazonaws.com
@@ -33837,6 +33836,7 @@
 0.0.0.0 gntbcstwxia.112.2o7.net
 0.0.0.0 gntbcstwzzm.112.2o7.net
 0.0.0.0 go-clicks.de
+0.0.0.0 go-mpulse.net
 0.0.0.0 go-quicky.com
 0.0.0.0 go-rank.de
 0.0.0.0 go-rilla.go2affise.com
@@ -37947,6 +37947,7 @@
 0.0.0.0 maxcash.com
 0.0.0.0 maxgelir.go2cloud.org
 0.0.0.0 maxim.122.2o7.net
+0.0.0.0 maximiser.net
 0.0.0.0 maximumcash.com
 0.0.0.0 maxisoft.co.uk
 0.0.0.0 maxonclick.com
@@ -38312,6 +38313,7 @@
 0.0.0.0 metrics.amd.com
 0.0.0.0 metrics.americancityandcounty.com
 0.0.0.0 metrics.apartmentfinder.com
+0.0.0.0 metrics.api.drift.com
 0.0.0.0 metrics.apple.com
 0.0.0.0 metrics.ariba.com
 0.0.0.0 metrics.att.com
@@ -38379,6 +38381,7 @@
 0.0.0.0 metrics.foreignpolicy.com
 0.0.0.0 metrics.foxnews.com
 0.0.0.0 metrics.gcimetrics.com
+0.0.0.0 metrics.gfycat.com
 0.0.0.0 metrics.gnc.com
 0.0.0.0 metrics.govexec.com
 0.0.0.0 metrics.harley-davidson.com
@@ -39192,7 +39195,6 @@
 0.0.0.0 mylistenetwork.go2cloud.org
 0.0.0.0 mylondon.hc0.me
 0.0.0.0 mylottoadserv.com
-0.0.0.0 mymoneymakingapp.com
 0.0.0.0 myns-v1.websys.aol.com
 0.0.0.0 myosotisvkrzovi.download
 0.0.0.0 mypagerank.net
@@ -42471,6 +42473,7 @@
 0.0.0.0 px.dpmsrv.com
 0.0.0.0 px.dynamicyield.com
 0.0.0.0 px.excitedigitalmedia.com
+0.0.0.0 px.gfycat.com
 0.0.0.0 px.moatads.com
 0.0.0.0 px.owneriq.net
 0.0.0.0 px.ozonemedia.com
@@ -46803,6 +46806,7 @@
 0.0.0.0 talkingdata.net
 0.0.0.0 tally.upsideout.com
 0.0.0.0 talos.adman.gr
+0.0.0.0 tamgrt.com
 0.0.0.0 tamilcm.com
 0.0.0.0 tamprc.com
 0.0.0.0 tangerinenet.biz
@@ -47341,6 +47345,7 @@
 0.0.0.0 tizerclik.com
 0.0.0.0 tizermy.net
 0.0.0.0 tizernaya-reklama.ru
+0.0.0.0 tizers.net
 0.0.0.0 tizru.com
 0.0.0.0 tj.phpwind.net
 0.0.0.0 tj25zt.beg.smalltailsbfr.com
@@ -47596,6 +47601,7 @@
 0.0.0.0 track.ad4mmo.com
 0.0.0.0 track.adbooth.net
 0.0.0.0 track.adcocktail.com
+0.0.0.0 track.addevent.com
 0.0.0.0 track.adform.net
 0.0.0.0 track.adintend.com
 0.0.0.0 track.adnetwork.vn
@@ -53572,6 +53578,7 @@
 0.0.0.0 webprowire.com
 0.0.0.0 webproworld.com
 0.0.0.0 webr.emv2.com
+0.0.0.0 webreseau.com
 0.0.0.0 webroot.112.2o7.net
 0.0.0.0 websalesusa.com
 0.0.0.0 websatpub.fth.net
@@ -78417,6 +78424,7 @@
 :: adserve.donanimhaber.com
 :: adserve.doteasy.com
 :: adserve.gogreece.com
+:: adserve.io
 :: adserve.kikizo.com
 :: adserve.podaddies.com
 :: adserve.postrelease.com
@@ -85920,7 +85928,6 @@
 :: clickfirms.go2cloud.org
 :: clickflow.com
 :: clickforwebmasters.com
-:: clickfunnels.com
 :: clickfuse.com
 :: clickheat.topbucks.com
 :: clickhereforcellphones.com
@@ -92495,7 +92502,6 @@
 :: gets.lockscalecompare.com
 :: getsidecar.s3.amazonaws.com
 :: getstatistics.se
-:: getwisdom.io
 :: geverons.justclick.ru
 :: gevfh.voluumtrk2.com
 :: gfaf-banners.s3.amazonaws.com
@@ -92636,6 +92642,7 @@
 :: gntbcstwxia.112.2o7.net
 :: gntbcstwzzm.112.2o7.net
 :: go-clicks.de
+:: go-mpulse.net
 :: go-quicky.com
 :: go-rank.de
 :: go-rilla.go2affise.com
@@ -96746,6 +96753,7 @@
 :: maxcash.com
 :: maxgelir.go2cloud.org
 :: maxim.122.2o7.net
+:: maximiser.net
 :: maximumcash.com
 :: maxisoft.co.uk
 :: maxonclick.com
@@ -97111,6 +97119,7 @@
 :: metrics.amd.com
 :: metrics.americancityandcounty.com
 :: metrics.apartmentfinder.com
+:: metrics.api.drift.com
 :: metrics.apple.com
 :: metrics.ariba.com
 :: metrics.att.com
@@ -97178,6 +97187,7 @@
 :: metrics.foreignpolicy.com
 :: metrics.foxnews.com
 :: metrics.gcimetrics.com
+:: metrics.gfycat.com
 :: metrics.gnc.com
 :: metrics.govexec.com
 :: metrics.harley-davidson.com
@@ -97991,7 +98001,6 @@
 :: mylistenetwork.go2cloud.org
 :: mylondon.hc0.me
 :: mylottoadserv.com
-:: mymoneymakingapp.com
 :: myns-v1.websys.aol.com
 :: myosotisvkrzovi.download
 :: mypagerank.net
@@ -101270,6 +101279,7 @@
 :: px.dpmsrv.com
 :: px.dynamicyield.com
 :: px.excitedigitalmedia.com
+:: px.gfycat.com
 :: px.moatads.com
 :: px.owneriq.net
 :: px.ozonemedia.com
@@ -105602,6 +105612,7 @@
 :: talkingdata.net
 :: tally.upsideout.com
 :: talos.adman.gr
+:: tamgrt.com
 :: tamilcm.com
 :: tamprc.com
 :: tangerinenet.biz
@@ -106140,6 +106151,7 @@
 :: tizerclik.com
 :: tizermy.net
 :: tizernaya-reklama.ru
+:: tizers.net
 :: tizru.com
 :: tj.phpwind.net
 :: tj25zt.beg.smalltailsbfr.com
@@ -106395,6 +106407,7 @@
 :: track.ad4mmo.com
 :: track.adbooth.net
 :: track.adcocktail.com
+:: track.addevent.com
 :: track.adform.net
 :: track.adintend.com
 :: track.adnetwork.vn
@@ -112371,6 +112384,7 @@
 :: webprowire.com
 :: webproworld.com
 :: webr.emv2.com
+:: webreseau.com
 :: webroot.112.2o7.net
 :: websalesusa.com
 :: websatpub.fth.net
