@@ -50,8 +50,6 @@ function FindProxyForURL(url, host) {
 		  shExpMatch(host, "*.51yes.com") ||
 		  shExpMatch(host, "5mcwl.pw") ||
 		  shExpMatch(host, "*.5mcwl.pw") ||
-		  shExpMatch(host, "600z.com") ||
-		  shExpMatch(host, "*.600z.com") ||
 		  shExpMatch(host, "6ldu6qa.com") ||
 		  shExpMatch(host, "*.6ldu6qa.com") ||
 		  shExpMatch(host, "777partner.com") ||
@@ -94,8 +92,6 @@ function FindProxyForURL(url, host) {
 		  shExpMatch(host, "*.abackchain.com") ||
 		  shExpMatch(host, "abandonedaction.com") ||
 		  shExpMatch(host, "*.abandonedaction.com") ||
-		  shExpMatch(host, "abandonedclover.com") ||
-		  shExpMatch(host, "*.abandonedclover.com") ||
 		  shExpMatch(host, "abashedangle.com") ||
 		  shExpMatch(host, "*.abashedangle.com") ||
 		  shExpMatch(host, "abc-ads.com") ||
@@ -106,6 +102,8 @@ function FindProxyForURL(url, host) {
 		  shExpMatch(host, "*.abruptroad.com") ||
 		  shExpMatch(host, "absentstream.com") ||
 		  shExpMatch(host, "*.absentstream.com") ||
+		  shExpMatch(host, "absoluteclickscom.com") ||
+		  shExpMatch(host, "*.absoluteclickscom.com") ||
 		  shExpMatch(host, "absorbingband.com") ||
 		  shExpMatch(host, "*.absorbingband.com") ||
 		  shExpMatch(host, "absurdwater.com") ||
@@ -648,8 +646,6 @@ function FindProxyForURL(url, host) {
 		  shExpMatch(host, "*.adriver.ru") ||
 		  shExpMatch(host, "adrolays.de") ||
 		  shExpMatch(host, "*.adrolays.de") ||
-		  shExpMatch(host, "adrotate.de") ||
-		  shExpMatch(host, "*.adrotate.de") ||
 		  shExpMatch(host, "adrotator.se") ||
 		  shExpMatch(host, "*.adrotator.se") ||
 		  shExpMatch(host, "adrotic.girlonthenet.com") ||
@@ -1682,8 +1678,6 @@ function FindProxyForURL(url, host) {
 		  shExpMatch(host, "*.adxpansion.com") ||
 		  shExpMatch(host, "adxpose.com") ||
 		  shExpMatch(host, "*.adxpose.com") ||
-		  shExpMatch(host, "adxprts.com") ||
-		  shExpMatch(host, "*.adxprts.com") ||
 		  shExpMatch(host, "adxvalue.com") ||
 		  shExpMatch(host, "*.adxvalue.com") ||
 		  shExpMatch(host, "adyea.com") ||
@@ -2254,6 +2248,8 @@ function FindProxyForURL(url, host) {
 		  shExpMatch(host, "*.brandreachsys.com") ||
 		  shExpMatch(host, "brassrule.com") ||
 		  shExpMatch(host, "*.brassrule.com") ||
+		  shExpMatch(host, "brealtime.com") ||
+		  shExpMatch(host, "*.brealtime.com") ||
 		  shExpMatch(host, "bridgetrack.com") ||
 		  shExpMatch(host, "*.bridgetrack.com") ||
 		  shExpMatch(host, "brightinfo.com") ||
@@ -2384,8 +2380,6 @@ function FindProxyForURL(url, host) {
 		  shExpMatch(host, "*.checkstat.nl") ||
 		  shExpMatch(host, "cheerfulrange.com") ||
 		  shExpMatch(host, "*.cheerfulrange.com") ||
-		  shExpMatch(host, "cherrythread.com") ||
-		  shExpMatch(host, "*.cherrythread.com") ||
 		  shExpMatch(host, "chewcoat.com") ||
 		  shExpMatch(host, "*.chewcoat.com") ||
 		  shExpMatch(host, "chickensstation.com") ||
@@ -4456,8 +4450,6 @@ function FindProxyForURL(url, host) {
 		  shExpMatch(host, "*.potenza.cz") ||
 		  shExpMatch(host, "pr-star.de") ||
 		  shExpMatch(host, "*.pr-star.de") ||
-		  shExpMatch(host, "practicetoothpaste.com") ||
-		  shExpMatch(host, "*.practicetoothpaste.com") ||
 		  shExpMatch(host, "praddpro.de") ||
 		  shExpMatch(host, "*.praddpro.de") ||
 		  shExpMatch(host, "prchecker.info") ||
@@ -4918,8 +4910,6 @@ function FindProxyForURL(url, host) {
 		  shExpMatch(host, "*.shareadspace.com") ||
 		  shExpMatch(host, "shareasale.com") ||
 		  shExpMatch(host, "*.shareasale.com") ||
-		  shExpMatch(host, "sharepointads.com") ||
-		  shExpMatch(host, "*.sharepointads.com") ||
 		  shExpMatch(host, "sharethrough.com") ||
 		  shExpMatch(host, "*.sharethrough.com") ||
 		  shExpMatch(host, "sharppatch.com") ||
@@ -5346,8 +5336,6 @@ function FindProxyForURL(url, host) {
 		  shExpMatch(host, "*.tidaltv.com") ||
 		  shExpMatch(host, "tinybar.com") ||
 		  shExpMatch(host, "*.tinybar.com") ||
-		  shExpMatch(host, "tizers.net") ||
-		  shExpMatch(host, "*.tizers.net") ||
 		  shExpMatch(host, "tlvmedia.com") ||
 		  shExpMatch(host, "*.tlvmedia.com") ||
 		  shExpMatch(host, "tnkexchange.com") ||
@@ -5420,8 +5408,6 @@ function FindProxyForURL(url, host) {
 		  shExpMatch(host, "*.tour.brazzers.com") ||
 		  shExpMatch(host, "tpnads.com") ||
 		  shExpMatch(host, "*.tpnads.com") ||
-		  shExpMatch(host, "tracedesire.com") ||
-		  shExpMatch(host, "*.tracedesire.com") ||
 		  shExpMatch(host, "track.addevent.com") ||
 		  shExpMatch(host, "*.track.addevent.com") ||
 		  shExpMatch(host, "track.adform.net") ||
