@@ -576,6 +576,8 @@ function FindProxyForURL(url, host) {
 		  shExpMatch(host, "*.admonitor.com") ||
 		  shExpMatch(host, "admotion.com.ar") ||
 		  shExpMatch(host, "*.admotion.com.ar") ||
+		  shExpMatch(host, "adn.lrb.co.uk") ||
+		  shExpMatch(host, "*.adn.lrb.co.uk") ||
 		  shExpMatch(host, "adnet.asahi.com") ||
 		  shExpMatch(host, "*.adnet.asahi.com") ||
 		  shExpMatch(host, "adnet.biz") ||
@@ -1566,6 +1568,8 @@ function FindProxyForURL(url, host) {
 		  shExpMatch(host, "*.adthrive.com") ||
 		  shExpMatch(host, "adtiger.de") ||
 		  shExpMatch(host, "*.adtiger.de") ||
+		  shExpMatch(host, "adtilt.com") ||
+		  shExpMatch(host, "*.adtilt.com") ||
 		  shExpMatch(host, "adtng.com") ||
 		  shExpMatch(host, "*.adtng.com") ||
 		  shExpMatch(host, "adtoll.com") ||
@@ -1764,8 +1768,6 @@ function FindProxyForURL(url, host) {
 		  shExpMatch(host, "*.afterview.ru") ||
 		  shExpMatch(host, "agkn.com") ||
 		  shExpMatch(host, "*.agkn.com") ||
-		  shExpMatch(host, "agreeableprice.com") ||
-		  shExpMatch(host, "*.agreeableprice.com") ||
 		  shExpMatch(host, "agreeablestew.com") ||
 		  shExpMatch(host, "*.agreeablestew.com") ||
 		  shExpMatch(host, "agreemand.com") ||
@@ -2412,8 +2414,6 @@ function FindProxyForURL(url, host) {
 		  shExpMatch(host, "*.clearcomb.com") ||
 		  shExpMatch(host, "clevernt.com") ||
 		  shExpMatch(host, "*.clevernt.com") ||
-		  shExpMatch(host, "click.absoluteagency.com") ||
-		  shExpMatch(host, "*.click.absoluteagency.com") ||
 		  shExpMatch(host, "click.fool.com") ||
 		  shExpMatch(host, "*.click.fool.com") ||
 		  shExpMatch(host, "click.kmindex.ru") ||
@@ -2458,8 +2458,6 @@ function FindProxyForURL(url, host) {
 		  shExpMatch(host, "*.clickserve.cc-dt.com") ||
 		  shExpMatch(host, "clicksor.com") ||
 		  shExpMatch(host, "*.clicksor.com") ||
-		  shExpMatch(host, "clicktag.de") ||
-		  shExpMatch(host, "*.clicktag.de") ||
 		  shExpMatch(host, "clickthruserver.com") ||
 		  shExpMatch(host, "*.clickthruserver.com") ||
 		  shExpMatch(host, "clickthrutraffic.com") ||
@@ -2600,8 +2598,6 @@ function FindProxyForURL(url, host) {
 		  shExpMatch(host, "*.coremetrics.com") ||
 		  shExpMatch(host, "cost2buy.net") ||
 		  shExpMatch(host, "*.cost2buy.net") ||
-		  shExpMatch(host, "count.rbc.ru") ||
-		  shExpMatch(host, "*.count.rbc.ru") ||
 		  shExpMatch(host, "count.rin.ru") ||
 		  shExpMatch(host, "*.count.rin.ru") ||
 		  shExpMatch(host, "count.west263.com") ||
@@ -2858,8 +2854,6 @@ function FindProxyForURL(url, host) {
 		  shExpMatch(host, "*.drabsize.com") ||
 		  shExpMatch(host, "dragzebra.com") ||
 		  shExpMatch(host, "*.dragzebra.com") ||
-		  shExpMatch(host, "drumcash.com") ||
-		  shExpMatch(host, "*.drumcash.com") ||
 		  shExpMatch(host, "drydrum.com") ||
 		  shExpMatch(host, "*.drydrum.com") ||
 		  shExpMatch(host, "dsp.io") ||
@@ -2998,8 +2992,6 @@ function FindProxyForURL(url, host) {
 		  shExpMatch(host, "*.euros4click.de") ||
 		  shExpMatch(host, "eusta.de") ||
 		  shExpMatch(host, "*.eusta.de") ||
-		  shExpMatch(host, "eventbeacon.ca") ||
-		  shExpMatch(host, "*.eventbeacon.ca") ||
 		  shExpMatch(host, "everesttech.net") ||
 		  shExpMatch(host, "*.everesttech.net") ||
 		  shExpMatch(host, "evergage.com") ||
@@ -3488,8 +3480,6 @@ function FindProxyForURL(url, host) {
 		  shExpMatch(host, "*.inclk.com") ||
 		  shExpMatch(host, "incognitosearches.com") ||
 		  shExpMatch(host, "*.incognitosearches.com") ||
-		  shExpMatch(host, "incrediblesugar.com") ||
-		  shExpMatch(host, "*.incrediblesugar.com") ||
 		  shExpMatch(host, "indexstats.com") ||
 		  shExpMatch(host, "*.indexstats.com") ||
 		  shExpMatch(host, "indexww.com") ||
@@ -3792,6 +3782,8 @@ function FindProxyForURL(url, host) {
 		  shExpMatch(host, "*.mads.cnet.com") ||
 		  shExpMatch(host, "madvertise.de") ||
 		  shExpMatch(host, "*.madvertise.de") ||
+		  shExpMatch(host, "magicadz.co") ||
+		  shExpMatch(host, "*.magicadz.co") ||
 		  shExpMatch(host, "magnificentmist.com") ||
 		  shExpMatch(host, "*.magnificentmist.com") ||
 		  shExpMatch(host, "marchex.com") ||
@@ -3946,6 +3938,8 @@ function FindProxyForURL(url, host) {
 		  shExpMatch(host, "*.minewhat.com") ||
 		  shExpMatch(host, "minormeeting.com") ||
 		  shExpMatch(host, "*.minormeeting.com") ||
+		  shExpMatch(host, "mintegral.com") ||
+		  shExpMatch(host, "*.mintegral.com") ||
 		  shExpMatch(host, "misstrends.com") ||
 		  shExpMatch(host, "*.misstrends.com") ||
 		  shExpMatch(host, "mixedreading.com") ||
@@ -4106,8 +4100,6 @@ function FindProxyForURL(url, host) {
 		  shExpMatch(host, "*.netincap.com") ||
 		  shExpMatch(host, "netmng.com") ||
 		  shExpMatch(host, "*.netmng.com") ||
-		  shExpMatch(host, "netpool.netbookia.net") ||
-		  shExpMatch(host, "*.netpool.netbookia.net") ||
 		  shExpMatch(host, "netshelter.net") ||
 		  shExpMatch(host, "*.netshelter.net") ||
 		  shExpMatch(host, "neudesicmediagroup.com") ||
@@ -4652,6 +4644,8 @@ function FindProxyForURL(url, host) {
 		  shExpMatch(host, "*.rate.ru") ||
 		  shExpMatch(host, "ratings.lycos.com") ||
 		  shExpMatch(host, "*.ratings.lycos.com") ||
+		  shExpMatch(host, "rayjump.com") ||
+		  shExpMatch(host, "*.rayjump.com") ||
 		  shExpMatch(host, "rb1.design.ru") ||
 		  shExpMatch(host, "*.rb1.design.ru") ||
 		  shExpMatch(host, "re-directme.com") ||
@@ -5312,8 +5306,6 @@ function FindProxyForURL(url, host) {
 		  shExpMatch(host, "*.tendertest.com") ||
 		  shExpMatch(host, "terriblethumb.com") ||
 		  shExpMatch(host, "*.terriblethumb.com") ||
-		  shExpMatch(host, "terribleturkey.com") ||
-		  shExpMatch(host, "*.terribleturkey.com") ||
 		  shExpMatch(host, "text-link-ads.com") ||
 		  shExpMatch(host, "*.text-link-ads.com") ||
 		  shExpMatch(host, "textad.sexsearch.com") ||
@@ -5858,8 +5850,6 @@ function FindProxyForURL(url, host) {
 		  shExpMatch(host, "*.xplusone.com") ||
 		  shExpMatch(host, "xponsor.com") ||
 		  shExpMatch(host, "*.xponsor.com") ||
-		  shExpMatch(host, "xq1.net") ||
-		  shExpMatch(host, "*.xq1.net") ||
 		  shExpMatch(host, "xtendmedia.com") ||
 		  shExpMatch(host, "*.xtendmedia.com") ||
 		  shExpMatch(host, "xtremetop100.com") ||
