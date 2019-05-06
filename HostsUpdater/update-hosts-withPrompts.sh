@@ -3,8 +3,7 @@ echo -n "Enter a directory path for this program to operate in: "
 read file_dir
 cd "$file_dir"
 sleep 1
-rm hosts*.[0-9]
-rm hosts.final
+rm hosts.*
 rm newhosts.txt
 sleep 1
 echo "Changed working directory to "$file_dir" and removed old files."
