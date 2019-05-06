@@ -2,7 +2,7 @@ The data within is meant to automate the process of creating and updating an IP 
 
 **Checklist for use**:
 1. Ensure that all files herein are downloaded to a single directory.
-2. Make sure that you have [p7zip](http://p7zip.sourceforge.net/), [Perl](https://www.perl.com/about/), and Wget(https://www.gnu.org/software/wget/) installed on your system.
+2. Make sure that you have [p7zip](http://p7zip.sourceforge.net/), [Perl](https://www.perl.com/about/), and [Wget](https://www.gnu.org/software/wget/) installed on your system.
 3. Open a terminal in or cd to the aforementioned directory.
 4. Launch the script ("sh update-bt-bl-win-withPrompts.sh" should do)
 5. Carefully follow the prompt(s)
