@@ -1,1 +1,1 @@
-This directory is for the Windows versions of my script applications. The [Hosts Updater](WindowsUtils/WinHostsUpdater/) is up and running, and the rest are in progress. Inspect the readme files carefully, then enjoy them.
+This directory is for the Windows versions of my script applications. The [Hosts Updater](/WinHostsUpdater/) is up and running, and the rest are in progress. Inspect the readme files carefully, then enjoy them.
