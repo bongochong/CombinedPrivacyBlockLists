@@ -11,9 +11,8 @@ wget -nv -O hosts.3 "https://www.malwaredomainlist.com/hostslist/hosts.txt"
 wget -nv -O hosts.4 "https://hosts-file.net/ad_servers.txt"
 wget -nv -O hosts.5 "https://hosts-file.net/exp.txt"
 wget -nv -O hosts.6 "https://adaway.org/hosts.txt"
-wget -nv -O hosts.7 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/ChefKoch-NSA-BlockList-IPv4.txt"
-wget -nv -O hosts.8 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/WindowsTelemetryBlockSupplements/SBBTYZ-IPv4.txt"
-wget -nv -O hosts.9 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/Device9domains-IPv4.txt"
+wget -nv -O hosts.7 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/WindowsTelemetryBlockSupplements/SBBTYZ-IPv4.txt"
+wget -nv -O hosts.8 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/Device9domains-IPv4.txt"
 java -cp "MergeHosts.jar" com.ri.hosts.MergeHosts
 sed -i "/localhost/d" hosts.final
 sed -i "/a.huluad.com/d" hosts.final
