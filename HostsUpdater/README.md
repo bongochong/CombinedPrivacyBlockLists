@@ -1,12 +1,13 @@
 The data within is meant to automate the process of creating and updating your computer's hosts file on GNU/Linux and other Unix-like Operating Systems (like OS X). The Windows version can be found here: https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/WindowsUtils/WinHostsUpdater
 
 **Checklist for use**:
-1. Ensure that all files herein are downloaded to a single directory
-2. Open a terminal in or cd to the aforementioned directory
-3. Launch the script ("sh update-hosts-withPrompts.sh" should do)
-4. Carefully follow the prompt(s)
-5. Run the script as often as you like to keep your hosts file up to date.
-6. Enjoy the magic of having a comprehensive and up-to-date hosts file which protects you from online trackers, advertisements, and exploits.
+1. Ensure that all files herein are downloaded to a single directory.
+2. Make sure that you have [Java](https://www.wikihow.com/Install-Java-on-Linux), [Perl](https://www.perl.com/about/), [Wget](https://www.gnu.org/software/wget/), and [Sed](https://www.gnu.org/software/sed/manual/sed.html) installed on your system.
+3. Open a terminal in or cd to the aforementioned directory.
+4. Launch the script ("sh update-hosts-withPrompts.sh" should do).
+5. Carefully follow the prompt(s).
+6. Run the script as often as you like to keep your hosts file up to date.
+7. Enjoy the magic of having a comprehensive and up-to-date hosts file which protects you from online trackers, advertisements, and exploits.
 
 
 **Notes**:
