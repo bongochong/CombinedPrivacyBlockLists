@@ -1,4 +1,4 @@
-cd C:\WinHostsUpdater
+cd C:\WindowsUtils\WinHostsUpdater
 del "hosts.bak"
 del "final-hosts.txt"
 rename HOSTS hosts.bak
