@@ -3,8 +3,7 @@ echo -n "Enter a directory path for this program to operate in: "
 read file_dir
 cd "$file_dir"
 sleep 1
-rm hosts*.[0-9]
-rm hosts.final
+rm hosts.*
 rm hostsIPv6.final
 rm newhosts-template-both.txt
 rm newhosts.txt
