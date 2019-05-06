@@ -1,4 +1,4 @@
-The data within is meant to automate the process of creating and updating your computer's hosts file. Its use is currently limited to GNU/Linux and other Unix-like systems, but I plan to create a script which can be run natively on Windows as well. The generated hosts file is of-course perfectly compatible with Windows though.
+The data within is meant to automate the process of creating and updating your computer's hosts file on GNU/Linux and other Unix-like Operating Systems (like OS X). The Windows version can be found here: https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/WindowsUtils/WinHostsUpdater
 
 **Checklist for use**:
 1. Ensure that all files herein are downloaded to a single directory
