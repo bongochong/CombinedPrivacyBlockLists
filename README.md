@@ -24,7 +24,7 @@ Also, all of these files can be downloaded in a [compressed archive hosted on Di
 
 + [**PAC Updater**](/PACupdater/)
 
-~ [**Windows Utilities**](/WindowsUtils/)
+- [**Windows Utilities**](/WindowsUtils/)
 
 These scripts are modified versions - in that they include prompts for user input - of the ones I run on my LiGnux box. They are not pretty, but I've tested them several times and they work with no issues. They all make use of [sed](https://www.gnu.org/software/sed/manual/sed.html), [Perl](https://www.perl.com/about/), and [Wget](https://www.gnu.org/software/wget/) or [curl](https://curl.haxx.se/), so make sure your system has these programs if you plan on using my tools. 
 
