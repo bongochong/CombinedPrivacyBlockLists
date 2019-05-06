@@ -13,8 +13,6 @@ Ad-blocking hosts files, BitTorrent IP block lists, and PAC files, all merged, s
 
 ***Please feel free to subscribe to or use these lists as is. I use them on all of my personal devices.***
 
-Also, all of these files can be downloaded in a [compressed archive hosted on Disroot's NextCloud](https://cloud.disroot.org/s/5TnQ9jBtbSnTj8y/download). The NextCloud mirror will be synced with this repo approximately every 2-3 weeks.
-
 **Finally**, I have begun sharing some rudimentarily interactive versions of the bash scripts that I use to generate these files on my main machine. Should you wish to utilize them in order to make your own lists from different sources, the currently working scripts are available here:  
 + [**Hosts File Updater**](/HostsUpdater/)
 
