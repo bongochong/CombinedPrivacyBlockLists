@@ -1,5 +1,7 @@
 #Chef Koch's NSA Block List Cleaned and Sorted
 #IPv6 Version
+#Not included in default hosts file
+#Last update 05/06/2019
 
 :: 9-11COMMISSION.GOV
 :: 29PALMSBOMI-NSN.GOV
