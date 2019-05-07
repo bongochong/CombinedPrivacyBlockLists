@@ -16,7 +16,7 @@ Ad-blocking hosts files, BitTorrent IP block lists, and PAC files, all merged, s
 ***Please feel free to subscribe to or use these lists as is. I use them on all of my personal devices.***
 
 **Finally**, I have begun sharing some rudimentarily interactive versions of the scripts and utilities that I use to generate these files on my main machine. Should you wish to utilize them in order to make your own lists from different sources, the currently working releases are available here:  
-+ [**Hosts File Updater**](/HostsUpdater/) - Fully automated and easy-to-configure bash script for automatically updating your hosts file from multiple sources. Pre-configured to work with included templates. Runs properly out of the box.
++ [**Hosts File Updater**](/HostsUpdater/) - Fully automated and easy-to-configure bash script for updating your hosts file from multiple sources. Pre-configured to work with included templates. Runs properly out of the box.
 
 * [**BitTorrent IP Block Updater (DAT Format)**](/IPBlockUpdaterDAT/) - Bash script for automated generation of an IP block list from multiple sources for torrent clients like Halite. Pre-configured and runs out of the box.
 
