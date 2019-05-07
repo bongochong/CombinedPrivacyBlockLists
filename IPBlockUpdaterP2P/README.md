@@ -1,4 +1,4 @@
-The data within is meant to automate the process of creating and updating an IP block list for your BitTorrent client (if you use one that prefers P2P lists). The script's use is currently limited to GNU/Linux and other Unix-like systems, but I plan to create a version which can be run natively on Windows as well. The block list it generates is of-course perfectly compatible with Windows torrent clients though.
+The data within is meant to automate the process of creating and updating an IP block list for your BitTorrent client (if you use one that prefers P2P lists, like Transmission and qBitTorrent). The script's use is currently limited to GNU/Linux and other Unix-like systems, but I plan to create a version which can be run natively on Windows as well. The block list it generates is of-course perfectly compatible with Windows torrent clients though.
 
 **Checklist for use**:
 1. Ensure that all files herein are downloaded to a single directory.
