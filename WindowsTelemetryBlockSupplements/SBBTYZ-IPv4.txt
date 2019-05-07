@@ -1,5 +1,7 @@
 # Anti-Telemetry Hosts for Windows from TYZ and SpyBot Anti-Beacon
 # IPv4 Version
+# Included in default hosts file
+# Last update 05/06/2019
 
 0.0.0.0 a-0001.a-msedge.net
 0.0.0.0 a-0002.a-msedge.net
