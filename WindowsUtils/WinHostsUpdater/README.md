@@ -5,7 +5,7 @@ Other dependencies are satisfied via several [GnuWin32](http://gnuwin32.sourcefo
 **Checklist for use**:
 1. Ensure that all files herein are downloaded to `C:\WindowsUtils\WinHostsUpdater` on your Windows install. The batch scripts and everything else must be in this directory in order to function. It will not work from any other directory unless you modify several files.
 2. Run `hosts-updater-win-ipv4.bat` as administrator (can be done via right click).
-3. Alternatively, `run hosts-updater-win-dual.bat` in the same fashion, if you want entries for both IPv4 and IPv6.
+3. Alternatively, run `hosts-updater-win-dual.bat` in the same fashion, if you want entries for both IPv4 and IPv6.
 4. Watch. On first run, you will see some errors saying it cannot find certain files for removal. This is normal and part of a small cleanup routine that will take effect on subsequent runs.
 5. Run the batch script as often as you like to keep your hosts file up to date.
 6. Enjoy the magic of having a comprehensive and up-to-date hosts file which protects you from online trackers, advertisements, and exploits.
