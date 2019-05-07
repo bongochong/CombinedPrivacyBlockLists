@@ -4882,6 +4882,8 @@ function FindProxyForURL(url, host) {
 		  shExpMatch(host, "*.selectivesummer.com") ||
 		  shExpMatch(host, "sendmepixel.com") ||
 		  shExpMatch(host, "*.sendmepixel.com") ||
+		  shExpMatch(host, "sendpulse.com") ||
+		  shExpMatch(host, "*.sendpulse.com") ||
 		  shExpMatch(host, "sensismediasmart.com.au") ||
 		  shExpMatch(host, "*.sensismediasmart.com.au") ||
 		  shExpMatch(host, "separatesilver.com") ||
