@@ -1,4 +1,4 @@
-#Device9 Domains
+#Device9 Domains IPv4 Version
 #Included in default hosts file
 #Last update 05/06/2019
 
