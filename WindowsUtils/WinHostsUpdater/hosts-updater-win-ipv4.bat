@@ -15,23 +15,6 @@ wget -nv -O hosts.7 "https://raw.githubusercontent.com/bongochong/CombinedPrivac
 wget -nv -O hosts.8 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/Device9domains-IPv4.txt"
 java -cp "MergeHosts.jar" com.ri.hosts.MergeHosts
 sed -i "/localhost/d" hosts.final
-sed -i "/a.huluad.com/d" hosts.final
-sed -i "/ad.hulu.com/d" hosts.final
-sed -i "/ads-a-darwin.hulu.com/d" hosts.final
-sed -i "/ads-v-darwin.hulu.com/d" hosts.final
-sed -i "/ads.hulu.com/d" hosts.final
-sed -i "/ads.hulu.com.edgesuite.net/d" hosts.final
-sed -i "/hulu.112.2o7.net/d" hosts.final
-sed -i "/huludev.112.2o7.net/d" hosts.final
-sed -i "/ll.a.hulu.com/d" hosts.final
-sed -i "/t2.hulu.com/d" hosts.final
-sed -i "/t2.huluim.com/d" hosts.final
-sed -i "/t-ak.hulu.com/d" hosts.final
-sed -i "/track.hulu.com/d" hosts.final
-sed -i "/tw.i.hulu.com/d" hosts.final
-sed -i "/urlcheck.hulu.com/d" hosts.final
-sed -i "/cdn.livechatinc.com/d" hosts.final
-sed -i "/j.mp/d" hosts.final
 sed -i "s/^127.0.0.1/0.0.0.0/g" hosts.final
 sort hosts.final > sorted-hosts.txt
 mv sorted-hosts.txt final-hosts.txt
