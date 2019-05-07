@@ -33,10 +33,14 @@ wget -nv -O hosts.6.txt "https://adaway.org/hosts.txt"
 echo "Downloaded hosts list 6"
 mv hosts.6.txt hosts.6
 echo "Properly saved hosts list 6"
-# wget -nv -O hosts.7.txt "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/ChefKoch-NSA-BlockList-IPv4.txt"
-# echo "Downloaded hosts list 7"
-# mv hosts.7.txt hosts.7
-# echo "Properly saved hosts list 7"
+wget -nv -O hosts.7.txt "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/WindowsTelemetryBlockSupplements/SBBTYZ-IPv4.txt"
+echo "Downloaded hosts list 7"
+mv hosts.7.txt hosts.7
+echo "Properly saved hosts list 7"
+# wget -nv -O hosts.8.txt "https://github.com/bongochong/CombinedPrivacyBlockLists/raw/master/NoFormatting/ChefKoch-NSA-BlockList-IPv4.txt"
+# echo "Downloaded hosts list 8"
+# mv hosts.8.txt hosts.8
+# echo "Properly saved hosts list 8"
 java -cp MergeHosts.jar com.ri.hosts.MergeHosts
 echo "Successfully merged hosts lists!"
 sed -i '/localhost/d' hosts.final
