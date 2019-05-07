@@ -1,5 +1,5 @@
 # Combined Privacy Block Lists
-Ad-blocking hosts files, BitTorrent IP block lists, and PAC files, all merged, sorted and de-duped from multiple reputable sources. The processing and generation of these lists is automated via my homemade scripts, which are now available in subdirectories of this repository. Use as you see fit. All content in this repo is approved by Richard Stallman himself, theoretically.
+Ad-blocking hosts files, BitTorrent IP block lists, and PAC files, all merged, sorted and de-duped from multiple reputable sources. The processing and generation of these lists is automated via my homemade scripts and utilities, which are now available in subdirectories of this repository. Use as you see fit. All content in this repo is approved by Richard Stallman himself, theoretically.
 
 **Descriptions**
 
@@ -26,7 +26,7 @@ Ad-blocking hosts files, BitTorrent IP block lists, and PAC files, all merged, s
 
 - [**Windows Versions of these Tools**](/WindowsUtils/) - Fully functional Windows versions of all the utilities listed above.
 
-These scripts are modified versions of the ones I run on my LiGnux box. I've tested them several times and they work with no issues. Some of them have dependencies, so make sure you inspect their respective readme files, and that your system has the relevant programs if you plan on using my tools. The LiGnux scripts should work on Mac / OS X, so long as dependencies are met. The Windows scripts include ports of several LiGnux tools, so no additional software will be necessesary for those unless otherwise noted.
+These tools are modified versions of the ones I run on my LiGnux box. I've tested them several times and they work with no issues. Some of them have dependencies, so make sure you inspect their respective readme files, and that your system has the relevant programs if you plan on using my tools. The LiGnux scripts should work on Mac / OS X, so long as dependencies are met. The Windows scripts include ports of several LiGnux binaries, so no additional software will be necessesary for those unless otherwise noted.
 
 ---
 
