@@ -16,17 +16,17 @@ Ad-blocking hosts files, BitTorrent IP block lists, and PAC files, all merged, s
 ***Please feel free to subscribe to or use these lists as is. I use them on all of my personal devices.***
 
 **Finally**, I have begun sharing some rudimentarily interactive versions of the scripts that I use to generate these files on my main machine. Should you wish to utilize them in order to make your own lists from different sources, the currently working scripts are available here:  
-+ [**Hosts File Updater**](/HostsUpdater/)
++ [**Hosts File Updater**](/HostsUpdater/) - Fully automated and easy-to-configure bash script for automatically updating your hosts file from multiple sources. Pre-configured to work with included templates. Runs properly out of the box.
 
-* [**BitTorrent IP Block Updater (DAT Format)**](/IPBlockUpdaterDAT/)
+* [**BitTorrent IP Block Updater (DAT Format)**](/IPBlockUpdaterDAT/) - Bash script for automated generation of an IP block list from multiple sources for torrent clients like Halite. Pre-configured and runs out of the box.
 
-- [**BitTorrent IP Block Updater (P2P Format)**](/IPBlockUpdaterP2P/)
+- [**BitTorrent IP Block Updater (P2P Format)**](/IPBlockUpdaterP2P/) - Bash script for automated generation of an IP block list from multiple sources for torrent clients like qBitTorrent and Transmission. Pre-configured and runs out of the box.
 
-+ [**PAC Updater**](/PACupdater/)
++ [**PAC Updater**](/PACupdater/) - Template for a bash script that automatically updates and uploads an ad-blocking PAC file to your server of choice. Requires configuration before running.
 
-- [**Windows Versions of these Tools**](/WindowsUtils/)
+- [**Windows Versions of these Tools**](/WindowsUtils/) - Fully functional Windows versions of all the utilities listed above.
 
-These scripts are modified versions of the ones I run on my LiGnux box. They are not pretty, but I've tested them several times and they work with no issues. Some of them have dependencies, so make sure you inspect their respective readme files, and that your system has the relevant programs if you plan on using my tools. The LiGnux scripts should work on Mac / OS X, so long as dependencies are met. The Windows scripts include ports of several LiGnux tools, so no additional software will be necessesary unless otherwise noted.
+These scripts are modified versions of the ones I run on my LiGnux box. I've tested them several times and they work with no issues. Some of them have dependencies, so make sure you inspect their respective readme files, and that your system has the relevant programs if you plan on using my tools. The LiGnux scripts should work on Mac / OS X, so long as dependencies are met. The Windows scripts include ports of several LiGnux tools, so no additional software will be necessesary for those unless otherwise noted.
 
 ---
 
