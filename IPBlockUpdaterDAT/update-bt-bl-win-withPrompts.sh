@@ -24,5 +24,6 @@ sleep 3
 perl -pi -e '$_ = "" if ( $. == 1 );' combined-final-win.dat
 sleep 3
 sed -i "/^#/d" combined-final-win.dat
+sed -i "/^[[:space:]]*$/d" combined-final-win.dat
 perl -i -pe 'chomp if eof' combined-final-win.dat
 echo "Appended proper file extension to blocklists. Combined, sorted, and de-duped. Your BitTorrent blocklist has been updated."
