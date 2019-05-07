@@ -23,6 +23,7 @@ sort combined.txt | uniq > combined-final.p2p
 sleep 3
 perl -pi -e '$_ = "" if ( $. == 1 );' combined-final.p2p
 sleep 3
-perl -i -pe 'chomp if eof' combined-final.p2p
 sed -i "/^#/d" combined-final.p2p
+sed -i "/^[[:space:]]*$/d" combined-final.p2p
+perl -i -pe 'chomp if eof' combined-final.p2p
 echo "Appended proper file extension to blocklists. Combined, sorted, and de-duped. Your BitTorrent blocklist has been updated."
