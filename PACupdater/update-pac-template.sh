@@ -1,9 +1,7 @@
 #!/bin/bash
 cd YOUR-DIRECTORY-HERE
-sleep 1
 rm yoyo.pac
 rm yoyo.pac.js
-sleep 1
 echo "Changed working directory to YOUR-DIRECTORY-HERE"
 wget -nv -O YOUR-DIRECTORY-HERE/yoyo.pac.txt "http://pgl.yoyo.org/adservers/serverlist.php?hostformat=proxyautoconfig&mimetype=plaintext"
 echo "Downloaded PAC file"
