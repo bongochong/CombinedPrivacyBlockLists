@@ -1,3 +1,7 @@
+#Device9 Domains IPv6 Version
+#Included in default hosts file
+#Last update 05/06/2019
+
 :: tag.device9.com
 :: t.device9.com
 :: www.device9.com
