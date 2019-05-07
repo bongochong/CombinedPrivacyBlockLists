@@ -1,7 +1,7 @@
-# Anti-Telemetry Hosts for Windows from TYZ and SpyBot Anti-Beacon
-# IPv6 Version
-# Included in default hosts file
-# Last update 05/06/2019
+#Anti-Telemetry Hosts for Windows from TYZ and SpyBot Anti-Beacon
+#IPv6 Version
+#Included in default hosts file
+#Last update 05/06/2019
 
 :: a-0001.a-msedge.net
 :: a-0002.a-msedge.net
