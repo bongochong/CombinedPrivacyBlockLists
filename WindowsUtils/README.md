@@ -8,4 +8,4 @@ This directory is for the Windows versions of my script applications. All of my 
 
 + [**Windows PAC Updater**](/WindowsUtils/WinPACUpdater/) - Template for a batch script that automatically updates and uploads an ad-blocking PAC file to your server of choice. No additional software needed outside of this repo. Requires configuration before running.
 
-**Note**: All of these utilities are meant to reside in their respective folders within the `C:\WindowsUtils` directory. Despite this, they will all work from any directory, with the exception of the Hosts File Updater, which must be placed in `C:\WindowsUtils\WinHostsUpdater` in order to work properly.
+**Note**: All of these utilities are meant to reside in their respective folders, each one being housed within the `C:\WindowsUtils` directory. Despite this, they will all work from any directory, with the exception of the Hosts File Updater, which must be placed in `C:\WindowsUtils\WinHostsUpdater` in order to work properly.
