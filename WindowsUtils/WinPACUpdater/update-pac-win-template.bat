@@ -1,6 +1,8 @@
 cd bin
+@echo off
 rm yoyo.pac
 rm yoyo.pac.js
+@echo on
 wget -nv -O yoyo.pac.txt "http://pgl.yoyo.org/adservers/serverlist.php?hostformat=proxyautoconfig&mimetype=plaintext"
 mv yoyo.pac.txt yoyo.pac
 sed -i "s|PROXY 127.0.0.1|PROXY 0.0.0.0:3421|" yoyo.pac
