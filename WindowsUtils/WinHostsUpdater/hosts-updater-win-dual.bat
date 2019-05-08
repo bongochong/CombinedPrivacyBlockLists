@@ -34,6 +34,6 @@ cat hosts4 hosts6 > hosts-dual.txt
 cp hosts-dual.txt ..
 cd ..
 rename hosts-dual.txt HOSTS
-xcopy /Y HOSTS C:\Windows\System32\Drivers\etc\HOSTS
+copy /Y HOSTS C:\Windows\System32\Drivers\etc\HOSTS
 ipconfig /flushdns
 pause
