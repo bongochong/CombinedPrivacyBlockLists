@@ -1,6 +1,6 @@
 This directory is for the Windows versions of my script applications. All of my GNU/Linux tools have finally been ported. They are as follows:
 
-+ [**Windows Hosts File Updater**](/WindowsUtils/WinHostsUpdater/) - Fully automated and easy-to-configure batch script for updating your hosts file from multiple sources. Only requirement is Java. Pre-configured to work with included templates. Runs properly out of the box.
++ [**Windows Hosts File Updater**](/WindowsUtils/WinHostsUpdater/) - Fully automated and easy-to-configure batch script for updating your hosts file from multiple sources. Only requirement is Java. Pre-configured and works out of the box.
 
 * [**Windows BitTorrent IP Block Updater (DAT Format)**](/WindowsUtils/WinIPBlockDAT/) - Batch script for automated generation of an IP block list from multiple sources for torrent clients like Halite. No additional software needed outside of this repo. Pre-configured and runs out of the box.
 
