@@ -24,6 +24,6 @@ cp final-hosts.txt ..
 cd ..
 cscript optimizer.js
 timeout 10
-xcopy /Y HOSTS C:\Windows\System32\Drivers\etc\HOSTS
+copy /Y HOSTS C:\Windows\System32\Drivers\etc\HOSTS
 ipconfig /flushdns
 pause
