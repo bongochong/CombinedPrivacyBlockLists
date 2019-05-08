@@ -2,8 +2,10 @@
 echo -n "Enter a directory path for this program to operate in: "
 read file_dir
 cd "$file_dir"
+{
 rm hosts.*
 rm newhosts.txt
+} &> /dev/null 2>&1
 echo "Changed working directory to "$file_dir" and removed old files."
 wget -nv -O hosts.1.txt "http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext"
 echo "Downloaded hosts list 1"
