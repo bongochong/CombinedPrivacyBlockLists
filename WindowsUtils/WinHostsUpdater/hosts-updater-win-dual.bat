@@ -1,4 +1,5 @@
 cd C:\WindowsUtils\WinHostsUpdater
+@echo off
 del "hosts.bak"
 rename HOSTS hosts.bak
 cd bin
@@ -10,6 +11,7 @@ rm hosts6.final
 rm hosts-dual.txt
 rm hosts4
 rm hosts6
+@echo on
 wget -nv -O hosts.1 "http://winhelp2002.mvps.org/hosts.txt"
 wget -nv -O hosts.2 "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext"
 wget -nv -O hosts.3 "https://www.malwaredomainlist.com/hostslist/hosts.txt"
