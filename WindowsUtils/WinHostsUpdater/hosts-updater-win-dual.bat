@@ -5,6 +5,7 @@ cd bin
 rm hosts.*
 rm sorted-hosts.txt
 rm sorted-hosts6.txt
+rm hosts.final
 rm hosts6.final
 rm hosts-dual.txt
 rm hosts4
