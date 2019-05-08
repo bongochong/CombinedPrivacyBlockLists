@@ -1,3 +1,4 @@
+@echo off
 del "combined-final-win.dat"
 cd bin
 rm level1BTdat.7z
@@ -6,6 +7,7 @@ rm level2BTdat.7z
 rm bt_level2.dat
 rm combined-win.txt
 rm combined-win-sort.txt
+@echo on
 wget -nv -O level1BTdat.7z "http://list.iblocklist.com/?list=ydxerpxkpcfqjaybcssw&fileformat=dat&archiveformat=7z"
 wget -nv -O level2BTdat.7z "http://list.iblocklist.com/?list=gyisgnzbhppbvsphucsw&fileformat=dat&archiveformat=7z"
 7za e level1BTdat.7z
