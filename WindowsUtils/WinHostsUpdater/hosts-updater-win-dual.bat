@@ -36,4 +36,6 @@ cd ..
 rename hosts-dual.txt HOSTS
 copy /Y HOSTS C:\Windows\System32\Drivers\etc\HOSTS
 ipconfig /flushdns
+@echo off
+echo Done!
 pause
