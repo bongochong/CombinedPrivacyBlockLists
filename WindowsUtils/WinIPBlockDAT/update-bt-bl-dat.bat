@@ -1,3 +1,4 @@
+cd %~dp0
 @echo off
 del "combined-final-win.dat"
 cd bin
