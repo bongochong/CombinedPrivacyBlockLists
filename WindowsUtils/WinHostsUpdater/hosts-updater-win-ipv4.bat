@@ -26,4 +26,6 @@ cscript optimizer.js
 timeout 10
 copy /Y HOSTS C:\Windows\System32\Drivers\etc\HOSTS
 ipconfig /flushdns
+@echo off
+echo Done!
 pause
