@@ -24,4 +24,6 @@ timeout 3
 sed -i "/^#/d" combined-final.p2p
 timeout 3
 mv combined-final.p2p ..
+@echo off
+echo Done!
 pause
