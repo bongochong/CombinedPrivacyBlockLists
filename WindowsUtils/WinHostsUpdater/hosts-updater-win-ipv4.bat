@@ -1,4 +1,4 @@
-cd C:\WindowsUtils\WinHostsUpdater
+cd %~dp0
 @echo off
 del "hosts.bak"
 del "final-hosts.txt"
@@ -24,7 +24,7 @@ cp final-hosts.txt ..
 cd ..
 cscript optimizer.js
 timeout 10
-copy /Y HOSTS C:\Windows\System32\Drivers\etc\HOSTS
+copy /Y HOSTS %SystemDrive%\Windows\System32\Drivers\etc\HOSTS
 ipconfig /flushdns
 @echo off
 echo Done!
