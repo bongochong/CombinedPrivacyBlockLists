@@ -24,4 +24,6 @@ timeout 3
 sed -i "/^#/d" combined-final-win.dat
 timeout 3
 mv combined-final-win.dat ..
+@echo off
+echo Done!
 pause
