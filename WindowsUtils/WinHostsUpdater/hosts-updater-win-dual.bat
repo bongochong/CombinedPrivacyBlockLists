@@ -1,4 +1,4 @@
-cd C:\WindowsUtils\WinHostsUpdater
+cd %~dp0
 @echo off
 del "hosts.bak"
 rename HOSTS hosts.bak
@@ -34,7 +34,7 @@ cat hosts4 hosts6 > hosts-dual.txt
 cp hosts-dual.txt ..
 cd ..
 rename hosts-dual.txt HOSTS
-copy /Y HOSTS C:\Windows\System32\Drivers\etc\HOSTS
+copy /Y HOSTS %SystemDrive%\Windows\System32\Drivers\etc\HOSTS
 ipconfig /flushdns
 @echo off
 echo Done!
