@@ -26,7 +26,7 @@ Ad-blocking hosts files, BitTorrent IP block lists, and PAC files, all merged, s
 
 - [**Windows Versions of these Tools**](/WindowsUtils/) - Fully functional Windows versions of all the utilities listed above. Compatible with both 32 and 64-bit versions of Windows.
 
-These tools are modified versions of the ones I run on my LiGnux box. I've tested them several times and they work with no issues. Some of them have dependencies, so make sure you inspect their respective readme files, and that your system has the relevant programs if you plan on using my tools. The LiGnux scripts should work on OS X, so long as dependencies are met. The Windows scripts include ports of several LiGnux binaries, so no additional software will be necessesary for those unless otherwise noted. All of my tools clean up after themselves, leaving no temporary / intermediate files anywhere.
+These tools are modified versions of the ones I run on my LiGnux box. I've tested them several times and they work with no issues. Some of them have dependencies, so make sure you inspect their respective readme files, and that your system has the relevant programs if you plan on using my tools. The LiGnux scripts should work on OS X, so long as dependencies are met. The Windows scripts include ports of several LiGnux binaries, so no additional software will be necessesary for those unless otherwise noted. All of my tools clean up after themselves, and leave no extraneous or intermediary files behind.
 
 ---
 
