@@ -1,7 +1,8 @@
-cd bin
+cd %~dp0
 @echo off
-rm yoyo.pac
-rm yoyo.pac.js
+cd bin
+rm yoyo.pac >nul 2>nul
+rm yoyo.pac.js >nul 2>nul
 @echo on
 wget -nv -O yoyo.pac.txt "http://pgl.yoyo.org/adservers/serverlist.php?hostformat=proxyautoconfig&mimetype=plaintext"
 mv yoyo.pac.txt yoyo.pac
