@@ -1,4 +1,6 @@
-This directory is for the Windows versions of my script applications. All of my GNU/Linux tools have finally been ported. They are as follows:
+This directory is for the Windows versions of my script applications. Windows users are now strongly encouraged to use the vastly imroved implementation of these scripts as part of my [Combined Windows Privacy Utilities software suite](https://github.com/bongochong/CWP-Utilities) instead. They are easier to work with in there, and now provided with a cohesive interface.
+
+Regardless, all of my GNU/Linux tools have finally been ported to work on Windows. They are as follows:
 
 + [**Windows Hosts File Updater**](/WindowsUtils/WinHostsUpdater/) - Fully automated and easy-to-configure batch script for updating your hosts file from multiple sources. Only requirement outside of this repo is Java. Pre-configured and works out of the box.
 
