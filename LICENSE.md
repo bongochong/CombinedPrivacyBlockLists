@@ -2,7 +2,7 @@
 
 **1.**  “Definitions”
 
-  **1.0.**  “Commercial Use” means distribution or otherwise making the Covered Code available to a third party.
+  **1.0.1**  “Commercial Use” means distribution or otherwise making the Covered Code available to a third party.
 
   **1.1**  “Contributor” means each entity that creates or contributes to the creation of Modifications.
 
