@@ -1,4 +1,4 @@
-# Common Public Attribution License Version 1.0 (CPAL-1.0)
+# Common Public Attribution License 1.0 (CPAL-1.0)
 
 **1.**  “Definitions”
 
