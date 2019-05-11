@@ -20,14 +20,14 @@ sed -i "s/#.*$//" pac-comb.txt
 sed -i "/^$/d" pac-comb.txt
 sort pac-comb.txt > pac-sort.txt
 uniq pac-sort.txt > pac-uniq.txt
-head -c -1 pac-uniq.txt > pac-pre.txt
+perl -i -pe 'chomp if eof' pac-uniq.txt
+cp pac-uniq.txt pac-pre.txt
 cp pac-pre.txt pac-pre2.txt
-head -c -1 pac-pre.txt > pac-pre01.txt
-head -c -1 pac-pre2.txt > pac-pre02.txt
-sed -i "s/^/*./" pac-pre01.txt
-cat pac-pre01.txt pac-pre02.txt > pac-wew.txt
-cp pac-wew.txt pac-lad.txt 
-sed -i "s/^/shExpMatch(host, '/" pac-lad.txt
+perl -i -pe 'chomp if eof' pac-pre.txt
+perl -i -pe 'chomp if eof' pac-pre2.txt
+sed -i "s/^/*./" pac-pre.txt
+cat pac-pre.txt pac-pre2.txt > pac-wew.txt 
+sed "s/^/shExpMatch(host, '/" pac-wew.txt > pac-lad.txt
 sed -i "s/$/') ||/" pac-lad.txt
 sed "2r pac-lad.txt" < pactemplate.txt > pac-done.txt
 cp pac-done.txt pac-done.js
