@@ -26,7 +26,7 @@ head -c -1 pac-pre.txt > pac-pre01.txt
 head -c -1 pac-pre2.txt > pac-pre02.txt
 sed -i "s/^/*./" pac-pre01.txt
 cat pac-pre01.txt pac-pre02.txt > pac-wew.txt
-head -c -1 pac-wew.txt > pac-lad.txt 
+cp pac-wew.txt pac-lad.txt 
 sed -i "s/^/shExpMatch(host, '/" pac-lad.txt
 sed -i "s/$/') ||/" pac-lad.txt
 sed "2r pac-lad.txt" < pactemplate.txt > pac-done.txt
