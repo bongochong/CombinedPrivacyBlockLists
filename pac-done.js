@@ -5997,7 +5997,7 @@ shExpMatch(host, '*.ztuw5bvuuapzdfya.klimbim.pl') ||
 shExpMatch(host, '*.zumobi.com') ||
 shExpMatch(host, '*.zutzt67dcxr6mxcn.onion.to') ||
 shExpMatch(host, '*.zy16eoat1w.com') ||
-shExpMatch(host, '*.zzhc.vnet.cn039b1ee.netsolhost.com') ||
+shExpMatch(host, '*.zzhc.vnet.cn039b1ee.netsolhost.com') ||
 shExpMatch(host, '03a6b7a.netsolhost.com') ||
 shExpMatch(host, '03a6f57.netsolhost.com') ||
 shExpMatch(host, '03bbec4.netsolhost.com') ||
@@ -11994,10 +11994,10 @@ shExpMatch(host, 'ztuw5bvuuapzdfya.klimbim.pl') ||
 shExpMatch(host, 'zumobi.com') ||
 shExpMatch(host, 'zutzt67dcxr6mxcn.onion.to') ||
 shExpMatch(host, 'zy16eoat1w.com') ||
-shExpMatch(host, 'zzhc.vnet.cn') ||
+shExpMatch(host, 'zzhc.vnet.c') ||
 shExpMatch(host, 'adserver.*')
        ) {
-       return "PROXY 0.0.0.0";
+       return "PROXY 127.0.0.1";
        }
    else {
        return "DIRECT";

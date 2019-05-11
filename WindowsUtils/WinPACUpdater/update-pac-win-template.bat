@@ -19,8 +19,10 @@ sort pac-comb.txt > pac-sort.txt
 uniq pac-sort.txt > pac-uniq.txt
 head -c -1 pac-uniq.txt > pac-pre.txt
 cp pac-pre.txt pac-pre2.txt
-sed -i "s/^/*./" pac-pre.txt
-cat pac-pre.txt pac-pre2.txt > pac-wew.txt
+head -c -1 pac-pre.txt > pac-pre01.txt
+head -c -1 pac-pre2.txt > pac-pre02.txt
+sed -i "s/^/*./" pac-pre01.txt
+cat pac-pre01.txt pac-pre02.txt > pac-wew.txt
 head -c -1 pac-wew.txt > pac-lad.txt 
 sed -i "s/^/shExpMatch(host, '/" pac-lad.txt
 sed -i "s/$/') ||/" pac-lad.txt
