@@ -18,11 +18,12 @@ mv gyisgnzbhppbvsphucsw.txt bt_level2.dat
 cat *.dat > combined-win.txt
 timeout 5
 sort combined-win.txt > combined-win-sort.txt
-uniq combined-win-sort.txt > combined-final-win.dat
+uniq -i combined-win-sort.txt > combined-final-win.dat
 timeout 3
 sed -i "/^[[:space:]]*$/d" combined-final-win.dat
 timeout 3
 sed -i "/^#/d" combined-final-win.dat
+d2u combined-final-win.dat
 timeout 3
 mv combined-final-win.dat ..
 @echo off
