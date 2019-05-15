@@ -18,11 +18,12 @@ mv gyisgnzbhppbvsphucsw.txt bt_level2.p2p
 cat *.p2p > combined.txt
 timeout 5
 sort combined.txt > combined-sort.txt
-uniq combined-sort.txt > combined-final.p2p
+uniq -i combined-sort.txt > combined-final.p2p
 timeout 3
 sed -i "/^[[:space:]]*$/d" combined-final.p2p
 timeout 3
 sed -i "/^#/d" combined-final.p2p
+d2u combined-final.p2p
 timeout 3
 mv combined-final.p2p ..
 @echo off
