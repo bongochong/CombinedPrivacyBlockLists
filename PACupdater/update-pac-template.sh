@@ -19,18 +19,16 @@ cat *.pac > pac-comb.txt
 sed -i "s/#.*$//" pac-comb.txt
 sed -i "/^$/d" pac-comb.txt
 sort pac-comb.txt > pac-sort.txt
-uniq pac-sort.txt > pac-uniq.txt
+uniq -i pac-sort.txt > pac-uniq.txt
 perl -i -pe 'chomp if eof' pac-uniq.txt
 cp pac-uniq.txt pac-pre.txt
 cp pac-pre.txt pac-pre2.txt
-perl -i -pe 'chomp if eof' pac-pre.txt
-perl -i -pe 'chomp if eof' pac-pre2.txt
 sed -i "s/^/*./" pac-pre.txt
 cat pac-pre.txt pac-pre2.txt > pac-wew.txt 
 sed "s/^/shExpMatch(host, '/" pac-wew.txt > pac-lad.txt
 sed -i "s/$/') ||/" pac-lad.txt
 sed "2r pac-lad.txt" < pactemplate.txt > pac-done.txt
-cp pac-done.txt pac-done.js
+mv pac-done.txt pac-done.js
 echo "Properly merged and formatted block lists into new PAC file."
 curl -T pac-done.js ftp://SERVER-AND-DIRECTORY-HERE --user USERNAME-HERE:PASSWORD-HERE
 echo "Successfully uploaded PAC to remote servers. We're done!"
