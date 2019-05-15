@@ -16,22 +16,22 @@ cat *.pac > pac-comb.txt
 sed -i "s/#.*$//" pac-comb.txt
 sed -i "/^$/d" pac-comb.txt
 sort pac-comb.txt > pac-sort.txt
-uniq pac-sort.txt > pac-uniq.txt
+uniq -i pac-sort.txt > pac-uniq.txt
+d2u pac-uniq.txt
 head -c -1 pac-uniq.txt > pac-pre.txt
 cp pac-pre.txt pac-pre2.txt
-head -c -1 pac-pre.txt > pac-pre01.txt
-head -c -1 pac-pre2.txt > pac-pre02.txt
+cp pac-pre.txt pac-pre01.txt
+cp pac-pre2.txt pac-pre02.txt
 sed -i "s/^/*./" pac-pre01.txt
+d2u pac-pre01.txt
 cat pac-pre01.txt pac-pre02.txt > pac-wew.txt
 cp pac-wew.txt pac-lad.txt 
 sed -i "s/^/shExpMatch(host, '/" pac-lad.txt
 sed -i "s/$/') ||/" pac-lad.txt
 sed "2r pac-lad.txt" < pactemplate.txt > pac-done.txt
-cp pac-done.txt pac-done.js
+d2u pac-done.txt
+mv pac-done.txt pac-done.js
 curl -T pac-done.js ftp://SERVER-AND-DIRECTORY-HERE --user USERNAME-HERE:PASSWORD-HERE
-cp pac-done.txt ..
-cd ..
-rename pac-done.txt pac-done.js
 @echo off
 echo Done!
 pause
