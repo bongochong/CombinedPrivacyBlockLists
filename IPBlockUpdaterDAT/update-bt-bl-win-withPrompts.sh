@@ -21,7 +21,7 @@ find . -name 'ydxerpxkpcfqjaybcssw.txt' -exec mv {} bt_level1.dat \;
 find . -name 'gyisgnzbhppbvsphucsw.txt' -exec mv {} bt_level2.dat \;
 cat *.dat > combined-win.txt
 sleep 3
-sort combined-win.txt | uniq > combined-final-win.dat
+sort combined-win.txt | uniq -i > combined-final-win.dat
 sleep 3
 perl -pi -e '$_ = "" if ( $. == 1 );' combined-final-win.dat
 sleep 3
