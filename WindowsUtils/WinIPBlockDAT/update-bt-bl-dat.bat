@@ -16,6 +16,7 @@ wget -nv -O level2BTdat.7z "http://list.iblocklist.com/?list=gyisgnzbhppbvsphucs
 mv ydxerpxkpcfqjaybcssw.txt bt_level1.dat
 mv gyisgnzbhppbvsphucsw.txt bt_level2.dat
 cat *.dat > combined-win.txt
+sed -i -e "s/amp;//g" combined-win.txt
 timeout 5
 sort combined-win.txt > combined-win-sort.txt
 uniq -i combined-win-sort.txt > combined-final-win.dat

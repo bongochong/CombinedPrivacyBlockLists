@@ -20,6 +20,7 @@ echo "Extracted blocklists from archives."
 find . -name 'ydxerpxkpcfqjaybcssw.txt' -exec mv {} bt_level1.p2p \;
 find . -name 'gyisgnzbhppbvsphucsw.txt' -exec mv {} bt_level2.p2p \;
 cat *.p2p > combined.txt
+sed -i -e "s/amp;//g" combined.txt
 sleep 3
 sort combined.txt | uniq -i > combined-final.p2p
 sleep 3

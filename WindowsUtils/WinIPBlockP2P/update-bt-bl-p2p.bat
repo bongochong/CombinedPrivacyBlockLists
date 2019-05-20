@@ -16,6 +16,7 @@ wget -nv -O level2BT.7z "http://list.iblocklist.com/?list=gyisgnzbhppbvsphucsw&f
 mv ydxerpxkpcfqjaybcssw.txt bt_level1.p2p
 mv gyisgnzbhppbvsphucsw.txt bt_level2.p2p
 cat *.p2p > combined.txt
+sed -i -e "s/amp;//g" combined.txt
 timeout 5
 sort combined.txt > combined-sort.txt
 uniq -i combined-sort.txt > combined-final.p2p
