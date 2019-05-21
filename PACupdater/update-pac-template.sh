@@ -27,6 +27,7 @@ sed "s/^/shExpMatch(host, '/" pac-wew.txt > pac-lad.txt
 sed -i "s/$/') ||/" pac-lad.txt
 sed "2r pac-lad.txt" < pactemplate.txt > pac-done.txt
 mv pac-done.txt pac-done.js
+perl -i -pe 'chomp if eof' pac-done.js
 echo "Properly merged and formatted block lists into new PAC file."
 curl -T pac-done.js ftp://SERVER-AND-DIRECTORY-HERE --user USERNAME-HERE:PASSWORD-HERE
 echo "Successfully uploaded PAC to remote servers. We're done!"
