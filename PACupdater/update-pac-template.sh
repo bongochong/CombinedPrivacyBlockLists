@@ -2,10 +2,8 @@
 echo -n "Enter a directory path for this program to operate in: "
 read file_dir
 cd "$file_dir"
-{
 rm pac-*
 rm *.pac
-} &> /dev/null 2>&1
 echo "Changed working directory to "$file_dir" and cleaned up old data. Now downloading new lists."
 wget -nv -O 1.pac "https://ssl.bblck.me/blacklists/domain-list.txt"
 wget -nv -O 2.pac "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt"
