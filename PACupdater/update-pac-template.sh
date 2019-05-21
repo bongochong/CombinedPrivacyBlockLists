@@ -20,11 +20,11 @@ sed -i "s/#.*$//" pac-comb.txt
 sed -i "/^$/d" pac-comb.txt
 sort pac-comb.txt > pac-sort.txt
 uniq -i pac-sort.txt > pac-uniq.txt
-perl -i -pe 'chomp if eof' pac-uniq.txt
 cp pac-uniq.txt pac-pre.txt
 cp pac-pre.txt pac-pre2.txt
 sed -i "s/^/*./" pac-pre.txt
-cat pac-pre.txt pac-pre2.txt > pac-wew.txt 
+cat pac-pre.txt pac-pre2.txt > pac-wew.txt
+perl -i -pe 'chomp if eof' pac-wew.txt
 sed "s/^/shExpMatch(host, '/" pac-wew.txt > pac-lad.txt
 sed -i "s/$/') ||/" pac-lad.txt
 sed "2r pac-lad.txt" < pactemplate.txt > pac-done.txt
