@@ -1,10 +1,15 @@
 #!/bin/bash
+echo -n "Enter a directory path for this program to operate in: "
+read file_dir
+cd "$file_dir"
+{
 rm hosts.*
 rm hostsIPv6.final
 rm *.final
 rm *.hosts
 rm uniq-hosts-final.pre
 rm newhosts.txt
+} &> /dev/null 2>&1
 echo "Changed working directory to "$file_dir" and removed old files."
 wget -nv -O hosts.1.txt "http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext"
 echo "Downloaded hosts list 1"
@@ -60,4 +65,7 @@ sed '35r hosts.final' < newhosts-template.txt > nhtemptemp.txt
 sed -i "23s|DAYBONGODATEREPLACE|$(date)|" nhtemptemp.txt
 mv nhtemptemp.txt newhosts.txt
 perl -i -pe 'chomp if eof' newhosts.txt
+echo "Successfully cleaned up and formatted hosts file! Prompting for password to make backup of and overwrite /etc/hosts..."
+sudo cp /etc/hosts hostsbackup.txt
+sudo cp newhosts.txt /etc/hosts
 echo "Your hosts file has been updated!"
