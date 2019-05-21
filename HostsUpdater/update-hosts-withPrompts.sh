@@ -51,8 +51,8 @@ sed -i -e "/[[:space:]]*#/d" uniq-hosts.final
 sed -i -e "/[[:blank:]]*#/d" uniq-hosts.final
 sed -i "s/\t/ /g" uniq-hosts.final
 sed -i "s/^127.0.0.1/0.0.0.0/g" uniq-hosts.final
-sed -i "s/^::/0.0.0.0/g" uniq-hosts.final
 sed -i "s/^::1/0.0.0.0/g" uniq-hosts.final
+sed -i "s/^::/0.0.0.0/g" uniq-hosts.final
 sed -i -e "s/[[:space:]]\+/ /g" uniq-hosts.final
 sed -i -e "s/[[:space:]]*$//" uniq-hosts.final
 sed -i -e "s/[[:blank:]]*$//" uniq-hosts.final
