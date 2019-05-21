@@ -68,4 +68,7 @@ sed '35r hosts.final' < newhosts-template-both.txt > nhtemptemp.txt
 sed -i "23s|DAYBONGODATEREPLACE|$(date)|" nhtemptemp.txt
 mv nhtemptemp.txt newhosts.txt
 perl -i -pe 'chomp if eof' newhosts.txt
+echo "Successfully cleaned up and formatted hosts file! Prompting for password to make backup of and overwrite /etc/hosts..."
+sudo cp /etc/hosts hostsbackup.txt
+sudo cp newhosts.txt /etc/hosts
 echo "Your hosts file has been updated!"
