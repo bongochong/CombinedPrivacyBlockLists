@@ -12018,4 +12018,3 @@ shExpMatch(host, 'adserver.*')
        return "DIRECT";
        }
    }
-
