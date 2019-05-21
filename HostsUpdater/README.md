@@ -1,4 +1,4 @@
-The data within is meant to automate the process of creating and updating your computer's hosts file on GNU/Linux and other Unix-like Operating Systems (like OS X). The Windows version can be found here: https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/WindowsUtils/WinHostsUpdater
+The data within is meant to automate the process of creating and updating your computer's hosts file on GNU/Linux and other Unix-like Operating Systems (like OS X). The Windows version can be found here: https://github.com/bongochong/CWP-Utilities
 
 **Checklist for use**:
 1. Ensure that all files herein are downloaded to a single directory.
