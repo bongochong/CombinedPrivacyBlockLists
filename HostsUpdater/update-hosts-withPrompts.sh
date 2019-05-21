@@ -4,7 +4,11 @@ read file_dir
 cd "$file_dir"
 {
 rm hosts.*
-rm newhosts.txt
+rm hostsIPv6.final
+rm nhtemptempdual.txt
+rm *.final
+rm *.hosts
+rm uniq-hosts-final.pre
 } &> /dev/null 2>&1
 echo "Changed working directory to "$file_dir" and removed old files."
 wget -nv -O hosts.1.txt "http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext"
@@ -39,11 +43,24 @@ echo "Properly saved hosts list 7"
 # echo "Downloaded hosts list 8"
 # mv hosts.8.txt hosts.8
 # echo "Properly saved hosts list 8"
-java -cp MergeHosts.jar com.ri.hosts.MergeHosts
-echo "Successfully merged hosts lists!"
-sed -i '/localhost/d' hosts.final
-sed -i 's/^127.0.0.1/0.0.0.0/g' hosts.final
+cat hosts.* > hosts-cat.final
+pcregrep -v -f hostpatterns.dat hosts-cat.final > hosts-pre.final
+sort hosts-pre.final > sorted-hosts.final
+uniq sorted-hosts.final > uniq-hosts.final
+cp uniq-hosts.final uniq-hosts-final.pre
+sed -i -e "s/#.*$//" uniq-hosts.final
+sed -i -e "/[[:space:]]*#/d" uniq-hosts.final
+sed -i -e "/[[:blank:]]*#/d" uniq-hosts.final
+sed -i "s/\t/ /g" uniq-hosts.final
+sed -i "s/^127.0.0.1/0.0.0.0/g" uniq-hosts.final
+sed -i -e "s/[[:space:]]\+/ /g" uniq-hosts.final
+sed -i -e "s/[[:space:]]*$//" uniq-hosts.final
+sed -i -e "s/[[:blank:]]*$//" uniq-hosts.final
+sort uniq-hosts.final > final-sort.hosts
+uniq -i final-sort.hosts > final-uniq.hosts
+pcregrep -v -f hostpatterns.dat final-uniq.hosts > hosts.final
 perl -i -pe 'chomp if eof' hosts.final
+echo "Successfully merged hosts lists!"
 sed '35r hosts.final' < newhosts-template.txt > nhtemptemp.txt
 sed -i "23s|DAYBONGODATEREPLACE|$(date)|" nhtemptemp.txt
 mv nhtemptemp.txt newhosts.txt
