@@ -1,7 +1,6 @@
 #!/bin/bash
 rm hosts.*
 rm hostsIPv6.final
-rm nhtemptempdual.txt
 rm *.final
 rm *.hosts
 rm uniq-hosts-final.pre
