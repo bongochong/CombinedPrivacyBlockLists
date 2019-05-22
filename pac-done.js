@@ -2579,6 +2579,7 @@ shExpMatch(host, '*.displayadsmedia.com') ||
 shExpMatch(host, '*.displaypagerank.com') ||
 shExpMatch(host, '*.disqusads.com') ||
 shExpMatch(host, '*.dist.belnk.com') ||
+shExpMatch(host, '*.distillery.wistia.com') ||
 shExpMatch(host, '*.dk4ywix.com') ||
 shExpMatch(host, '*.dkoipg.pw') ||
 shExpMatch(host, '*.dlauten.bplaced.net') ||
@@ -3576,6 +3577,7 @@ shExpMatch(host, '*.linktarget.com') ||
 shExpMatch(host, '*.lion.web2.0campus.net') ||
 shExpMatch(host, '*.liquidad.narrowcastmedia.com') ||
 shExpMatch(host, '*.lisovfoxcom.418.com1.ru') ||
+shExpMatch(host, '*.litix.io') ||
 shExpMatch(host, '*.littwronthath.net') ||
 shExpMatch(host, '*.liuz112.ddns.net') ||
 shExpMatch(host, '*.liveadexchanger.com') ||
@@ -4303,6 +4305,7 @@ shExpMatch(host, '*.pillscash.com') ||
 shExpMatch(host, '*.pimproll.com') ||
 shExpMatch(host, '*.ping.ublock.org') ||
 shExpMatch(host, '*.pi.pardot.com') ||
+shExpMatch(host, '*.pipedream.wistia.com') ||
 shExpMatch(host, '*.pippio.com') ||
 shExpMatch(host, '*.piquantpigs.com') ||
 shExpMatch(host, '*.pixel.adsafeprotected.com') ||
@@ -4957,6 +4960,7 @@ shExpMatch(host, '*.stat.tudou.com') ||
 shExpMatch(host, '*.stat.webmedia.pl') ||
 shExpMatch(host, '*.statxpress.com') ||
 shExpMatch(host, '*.stat.zenon.net') ||
+shExpMatch(host, '*.st.dynamicyield.com') ||
 shExpMatch(host, '*.steadfastsound.com') ||
 shExpMatch(host, '*.steadfastsystem.com') ||
 shExpMatch(host, '*.steelhouse.com') ||
@@ -5568,6 +5572,7 @@ shExpMatch(host, '*.vmmpxl.com') ||
 shExpMatch(host, '*.vodahelp.sytes.net') ||
 shExpMatch(host, '*.voicefive.com') ||
 shExpMatch(host, '*.voicevegetable.com') ||
+shExpMatch(host, '*.voluum.com') ||
 shExpMatch(host, '*.volvelle.tech') ||
 shExpMatch(host, '*.vpon.com') ||
 shExpMatch(host, '*.vpuroeit.pw') ||
@@ -8584,6 +8589,7 @@ shExpMatch(host, 'displayadsmedia.com') ||
 shExpMatch(host, 'displaypagerank.com') ||
 shExpMatch(host, 'disqusads.com') ||
 shExpMatch(host, 'dist.belnk.com') ||
+shExpMatch(host, 'distillery.wistia.com') ||
 shExpMatch(host, 'dk4ywix.com') ||
 shExpMatch(host, 'dkoipg.pw') ||
 shExpMatch(host, 'dlauten.bplaced.net') ||
@@ -9581,6 +9587,7 @@ shExpMatch(host, 'linktarget.com') ||
 shExpMatch(host, 'lion.web2.0campus.net') ||
 shExpMatch(host, 'liquidad.narrowcastmedia.com') ||
 shExpMatch(host, 'lisovfoxcom.418.com1.ru') ||
+shExpMatch(host, 'litix.io') ||
 shExpMatch(host, 'littwronthath.net') ||
 shExpMatch(host, 'liuz112.ddns.net') ||
 shExpMatch(host, 'liveadexchanger.com') ||
@@ -10308,6 +10315,7 @@ shExpMatch(host, 'pillscash.com') ||
 shExpMatch(host, 'pimproll.com') ||
 shExpMatch(host, 'ping.ublock.org') ||
 shExpMatch(host, 'pi.pardot.com') ||
+shExpMatch(host, 'pipedream.wistia.com') ||
 shExpMatch(host, 'pippio.com') ||
 shExpMatch(host, 'piquantpigs.com') ||
 shExpMatch(host, 'pixel.adsafeprotected.com') ||
@@ -10962,6 +10970,7 @@ shExpMatch(host, 'stat.tudou.com') ||
 shExpMatch(host, 'stat.webmedia.pl') ||
 shExpMatch(host, 'statxpress.com') ||
 shExpMatch(host, 'stat.zenon.net') ||
+shExpMatch(host, 'st.dynamicyield.com') ||
 shExpMatch(host, 'steadfastsound.com') ||
 shExpMatch(host, 'steadfastsystem.com') ||
 shExpMatch(host, 'steelhouse.com') ||
@@ -11573,6 +11582,7 @@ shExpMatch(host, 'vmmpxl.com') ||
 shExpMatch(host, 'vodahelp.sytes.net') ||
 shExpMatch(host, 'voicefive.com') ||
 shExpMatch(host, 'voicevegetable.com') ||
+shExpMatch(host, 'voluum.com') ||
 shExpMatch(host, 'volvelle.tech') ||
 shExpMatch(host, 'vpon.com') ||
 shExpMatch(host, 'vpuroeit.pw') ||
