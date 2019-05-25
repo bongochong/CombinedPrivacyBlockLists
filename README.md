@@ -22,7 +22,7 @@ Ad-blocking hosts files, BitTorrent IP block lists, and PAC files, all merged, s
 
 - [**BitTorrent IP Block Updater (P2P Format)**](/IPBlockUpdaterP2P/) - Bash script for automated generation of an IP block list from multiple sources for torrent clients like qBitTorrent and Transmission. Pre-configured and runs out of the box. LiGnux and other Unix-like operating systems only.
 
-+ [**PAC Updater**](/PACupdater/) - Template for a bash script that automatically updates and uploads an ad-blocking PAC file to your server of choice. Requires configuration before running. LiGnux and other Unix-like operating systems only.
++ [**PAC Updater**](/PACupdater/) - Template for a bash script that automatically generates, updates and uploads an ad-blocking PAC file to your server of choice. Requires configuration before running. LiGnux and other Unix-like operating systems only.
 
 - [**Windows Versions of these Tools**](https://github.com/bongochong/CWP-Utilities) - Fully functional Windows versions of all the utilities listed above - compatible with both 32 and 64-bit versions of Windows - can be found in my [Combined Windows Privacy Utilities](https://github.com/bongochong/CWP-Utilities) repository. They are improved and friendlier versions of my LiGnux tools, bundled with the necessary dependencies, provided with an easy-to-use and coherent interface.
 
