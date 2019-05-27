@@ -1,7 +1,7 @@
-#Anti-Telemetry Hosts for Windows from TYZ and SpyBot Anti-Beacon
+#Anti-Telemetry Hosts for Windows from TYZBIT, CrazyMax and SpyBot Anti-Beacon
 #IPv6 Version
 #Included in default hosts file
-#Last update 05/06/2019
+#Last update 05/27/2019
 
 :: a-0001.a-msedge.net
 :: a-0002.a-msedge.net
@@ -28,6 +28,7 @@
 :: aka-cdn-ns.adtech.de
 :: alpha.telemetry.microsoft.com
 :: apac1.notify.windows.com.akadns.net
+:: api.cortana.ai
 :: apps.skype.com
 :: asimov-win.settings.data.microsoft.com.akadns.net
 :: b.ads1.msn.com
@@ -228,6 +229,7 @@
 :: geo.vortex.data.microsoft.com.akadns.net
 :: h1.msn.com
 :: h2.msn.com
+:: hk2.settings.data.microsoft.com.akadns.net
 :: hk2.wns.windows.com
 :: hk2sch130020721.wns.windows.com
 :: hk2sch130020723.wns.windows.com
