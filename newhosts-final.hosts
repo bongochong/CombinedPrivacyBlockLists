@@ -18,7 +18,7 @@
 # This *must* be the first line: 127.0.0.1     localhost   #
 #                                                          #
 #**********************************************************#
-# ------------- Tue May 21 17:51:50 MDT 2019 ------------- #
+# ------------- Mon May 27 18:45:33 MDT 2019 ------------- #
 #**********************************************************#
 #                                                          #
 # Disclaimer: cows pigs up dogs on six for personal use    #
@@ -21544,6 +21544,7 @@
 0.0.0.0 api.content-ad.net
 0.0.0.0 api.content.ad
 0.0.0.0 api.contextly.com
+0.0.0.0 api.cortana.ai
 0.0.0.0 api.crittercism.com
 0.0.0.0 api.demandbase.com
 0.0.0.0 api.domob.cn
@@ -23620,7 +23621,6 @@
 0.0.0.0 beads.sx.atl.publicus.com
 0.0.0.0 beam.hlserve.com
 0.0.0.0 beamincrease.com
-0.0.0.0 beamkite.com
 0.0.0.0 beanstock.com
 0.0.0.0 beanstockmedia.com
 0.0.0.0 beap.adx.yahoo.com
@@ -27768,7 +27768,6 @@
 0.0.0.0 comicbookresources.us.intellitxt.com
 0.0.0.0 comics.ign.us.intellitxt.com
 0.0.0.0 comingsoon.us.intellitxt.com
-0.0.0.0 commandwalk.com
 0.0.0.0 commerce.cimedia.net
 0.0.0.0 commercedjbppce.download
 0.0.0.0 commindo-media-ressourcen.de
@@ -29521,7 +29520,6 @@
 0.0.0.0 crowdcontrol.lotame.com
 0.0.0.0 crowdgravity.com
 0.0.0.0 crowdscience.com
-0.0.0.0 crownclam.com
 0.0.0.0 crtl.aimatch.com
 0.0.0.0 crtracklink.com
 0.0.0.0 crtv.mate1.com
@@ -30310,7 +30308,6 @@
 0.0.0.0 delfilv.hit.gemius.pl
 0.0.0.0 delfinproject.go2cloud.org
 0.0.0.0 deliciousbrains.go2cloud.org
-0.0.0.0 delightdriving.com
 0.0.0.0 delightful.112.2o7.net
 0.0.0.0 delishows.com
 0.0.0.0 deliv.lexpress.fr
@@ -30500,7 +30497,6 @@
 0.0.0.0 diff2.smartadserver.com
 0.0.0.0 diff3.smartadserver.com
 0.0.0.0 diff4.smartadserver.com
-0.0.0.0 differentdesk.com
 0.0.0.0 diftongiskquasicollector.treasurepharmacy.com
 0.0.0.0 digdug.divxnetworks.com
 0.0.0.0 digg.analytics.live.com
@@ -34791,6 +34787,7 @@
 0.0.0.0 hjlas.com
 0.0.0.0 hjtjz.voluumtrk.com
 0.0.0.0 hk.adserver.yahoo.com
+0.0.0.0 hk2.settings.data.microsoft.com.akadns.net
 0.0.0.0 hk2.wns.windows.com
 0.0.0.0 hk2sch130020721.wns.windows.com
 0.0.0.0 hk2sch130020723.wns.windows.com
@@ -39654,7 +39651,6 @@
 0.0.0.0 nedstat.tripod.com
 0.0.0.0 nedstatbasic.com
 0.0.0.0 nedstatbasic.net
-0.0.0.0 nedstatpro.net
 0.0.0.0 neemfmujqqz.download
 0.0.0.0 nefib.tourstogo.us
 0.0.0.0 neg1n5.becks.petboutiquepawsnclaws.co.uk
@@ -39667,7 +39663,6 @@
 0.0.0.0 neo.go.sonobi.com
 0.0.0.0 neobux.com
 0.0.0.0 neocounter.neoworx-blog-tools.net
-0.0.0.0 neoffic.com
 0.0.0.0 neogenadro.hit.gemius.pl
 0.0.0.0 neoseeker.us.intellitxt.com
 0.0.0.0 neowin.us.intellitxt.com
@@ -45635,6 +45630,7 @@
 0.0.0.0 sprintglobal.112.2o7.net
 0.0.0.0 sprintusers.us.intellitxt.com
 0.0.0.0 sprung.go2cloud.org
+0.0.0.0 spulse.net
 0.0.0.0 spurioussteam.com
 0.0.0.0 spx.owneriq.net
 0.0.0.0 spycash.biz
