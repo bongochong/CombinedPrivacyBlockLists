@@ -18,7 +18,7 @@
 # This *must* be the first line: 127.0.0.1     localhost   #
 #                                                          #
 #**********************************************************#
-# ------------- Mon May 27 18:45:33 MDT 2019 ------------- #
+# ------------- Mon Jun  3 23:54:57 MDT 2019 ------------- #
 #**********************************************************#
 #                                                          #
 # Disclaimer: cows pigs up dogs on six for personal use    #
@@ -614,6 +614,7 @@
 0.0.0.0 1pt.cqcounter.com
 0.0.0.0 1q2kaw.best.pershoretaxis.co.uk
 0.0.0.0 1rcu4.voluumtrk.com
+0.0.0.0 1rx.io
 0.0.0.0 1se.cqcounter.com
 0.0.0.0 1si.cqcounter.com
 0.0.0.0 1src.us.intellitxt.com
@@ -2420,6 +2421,7 @@
 0.0.0.0 aax-us-pdx.amazon-adsystem.com
 0.0.0.0 aax-us-west.amazon-adsystem.com
 0.0.0.0 aax.amazon-adsystem.com
+0.0.0.0 aaxads.com
 0.0.0.0 ab.adpro.com.ua
 0.0.0.0 ab.adrecreate.com
 0.0.0.0 ab.advertiserurl.com
@@ -23834,6 +23836,7 @@
 0.0.0.0 bitterstrawberry.com
 0.0.0.0 bitvisitor.com
 0.0.0.0 bizad.nikkeibp.co.jp
+0.0.0.0 bizible.com
 0.0.0.0 bizjournals-d.openx.net
 0.0.0.0 bizjournals.112.2o7.net
 0.0.0.0 bizographics.com
@@ -27350,6 +27353,7 @@
 0.0.0.0 clickstream.co.za
 0.0.0.0 clicksurecpa.com
 0.0.0.0 clicksvenue.com
+0.0.0.0 clicktag.de
 0.0.0.0 clicktaxi.com
 0.0.0.0 clickthrough.com
 0.0.0.0 clickthru.lefbc.com
@@ -37898,6 +37902,7 @@
 0.0.0.0 m1e.net
 0.0.0.0 m1fzj.trackvoluum.com
 0.0.0.0 m1v62r.moro.pershoreprivatehire.co.uk
+0.0.0.0 m2.ai
 0.0.0.0 m2.fwmrm.net
 0.0.0.0 m2.webstats.motigo.com
 0.0.0.0 m2.xhamster.com
@@ -38379,6 +38384,7 @@
 0.0.0.0 media.yesmessenger.com
 0.0.0.0 media.ym0.net
 0.0.0.0 media01.adservinghost.com
+0.0.0.0 media01.eu
 0.0.0.0 media1.adsoftware.com
 0.0.0.0 media122-d.openx.net
 0.0.0.0 media2.carpediem.fr
@@ -42455,6 +42461,7 @@
 0.0.0.0 psstt.com
 0.0.0.0 pssvc.iqzone.com
 0.0.0.0 pstats.blogworks.com
+0.0.0.0 pstmrk.it
 0.0.0.0 psx.ign.us.intellitxt.com
 0.0.0.0 psy.mtree.com
 0.0.0.0 psyimjyctimeliness.review
@@ -42496,6 +42503,7 @@
 0.0.0.0 pub.dreamboxcart.com
 0.0.0.0 pub.ftv-publicite.fr
 0.0.0.0 pub.hardware.fr
+0.0.0.0 pub.network
 0.0.0.0 pub.oxado.com
 0.0.0.0 pub.pgssl.com
 0.0.0.0 pub.realmedia.fr
@@ -44666,7 +44674,6 @@
 0.0.0.0 sender.hipersushiads.com
 0.0.0.0 sender.megapopads.com
 0.0.0.0 sendmepixel.com
-0.0.0.0 sendpulse.com
 0.0.0.0 sengreensbaxsovax.download
 0.0.0.0 senolati.com
 0.0.0.0 senseiproducts.com
@@ -45823,6 +45830,7 @@
 0.0.0.0 st5.surf-town.net
 0.0.0.0 sta.ifeng.com
 0.0.0.0 stabx.net
+0.0.0.0 stack-sonar.com
 0.0.0.0 stack7.collect.igodigital.com
 0.0.0.0 stack9.collect.igodigital.com
 0.0.0.0 stackadapt.com
@@ -53734,6 +53742,7 @@
 0.0.0.0 webclients.net
 0.0.0.0 webcom-software.ws
 0.0.0.0 webconnect.net
+0.0.0.0 webcontentassessor.com
 0.0.0.0 webcontrolling.com
 0.0.0.0 webcounter.be
 0.0.0.0 webcounter.cc
@@ -58618,7 +58627,6 @@
 0.0.0.0 xpornstarsckc.ddns.name
 0.0.0.0 xpostmail.com
 0.0.0.0 xpqyed.onl.onlinetrees.co.uk
-0.0.0.0 xq1.net
 0.0.0.0 xratedtracking.com
 0.0.0.0 xrevtrk.com
 0.0.0.0 xrnwfn.last.pershoreairporttaxis.co.uk
@@ -59619,6 +59627,7 @@
 :: 1pt.cqcounter.com
 :: 1q2kaw.best.pershoretaxis.co.uk
 :: 1rcu4.voluumtrk.com
+:: 1rx.io
 :: 1se.cqcounter.com
 :: 1si.cqcounter.com
 :: 1src.us.intellitxt.com
@@ -61425,6 +61434,7 @@
 :: aax-us-pdx.amazon-adsystem.com
 :: aax-us-west.amazon-adsystem.com
 :: aax.amazon-adsystem.com
+:: aaxads.com
 :: ab.adpro.com.ua
 :: ab.adrecreate.com
 :: ab.advertiserurl.com
@@ -82839,6 +82849,7 @@
 :: bitterstrawberry.com
 :: bitvisitor.com
 :: bizad.nikkeibp.co.jp
+:: bizible.com
 :: bizjournals-d.openx.net
 :: bizjournals.112.2o7.net
 :: bizographics.com
@@ -86355,6 +86366,7 @@
 :: clickstream.co.za
 :: clicksurecpa.com
 :: clicksvenue.com
+:: clicktag.de
 :: clicktaxi.com
 :: clickthrough.com
 :: clickthru.lefbc.com
@@ -96903,6 +96915,7 @@
 :: m1e.net
 :: m1fzj.trackvoluum.com
 :: m1v62r.moro.pershoreprivatehire.co.uk
+:: m2.ai
 :: m2.fwmrm.net
 :: m2.webstats.motigo.com
 :: m2.xhamster.com
@@ -97384,6 +97397,7 @@
 :: media.yesmessenger.com
 :: media.ym0.net
 :: media01.adservinghost.com
+:: media01.eu
 :: media1.adsoftware.com
 :: media122-d.openx.net
 :: media2.carpediem.fr
@@ -101460,6 +101474,7 @@
 :: psstt.com
 :: pssvc.iqzone.com
 :: pstats.blogworks.com
+:: pstmrk.it
 :: psx.ign.us.intellitxt.com
 :: psy.mtree.com
 :: psyimjyctimeliness.review
@@ -101501,6 +101516,7 @@
 :: pub.dreamboxcart.com
 :: pub.ftv-publicite.fr
 :: pub.hardware.fr
+:: pub.network
 :: pub.oxado.com
 :: pub.pgssl.com
 :: pub.realmedia.fr
@@ -103671,7 +103687,6 @@
 :: sender.hipersushiads.com
 :: sender.megapopads.com
 :: sendmepixel.com
-:: sendpulse.com
 :: sengreensbaxsovax.download
 :: senolati.com
 :: senseiproducts.com
@@ -104828,6 +104843,7 @@
 :: st5.surf-town.net
 :: sta.ifeng.com
 :: stabx.net
+:: stack-sonar.com
 :: stack7.collect.igodigital.com
 :: stack9.collect.igodigital.com
 :: stackadapt.com
@@ -112739,6 +112755,7 @@
 :: webclients.net
 :: webcom-software.ws
 :: webconnect.net
+:: webcontentassessor.com
 :: webcontrolling.com
 :: webcounter.be
 :: webcounter.cc
@@ -117623,7 +117640,6 @@
 :: xpornstarsckc.ddns.name
 :: xpostmail.com
 :: xpqyed.onl.onlinetrees.co.uk
-:: xq1.net
 :: xratedtracking.com
 :: xrevtrk.com
 :: xrnwfn.last.pershoreairporttaxis.co.uk
