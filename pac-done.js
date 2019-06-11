@@ -3828,6 +3828,7 @@ shExpMatch(host, '*.mmstat.com') ||
 shExpMatch(host, '*.mmtro.com') ||
 shExpMatch(host, '*.moadnet.com') ||
 shExpMatch(host, '*.moatads.com') ||
+shExpMatch(host, '*.moat.com') ||
 shExpMatch(host, '*.moatpixel.com') ||
 shExpMatch(host, '*.mobcdn.com') ||
 shExpMatch(host, '*.mobclix.com') ||
@@ -4527,6 +4528,7 @@ shExpMatch(host, '*.promotion-campaigns.com') ||
 shExpMatch(host, '*.promo.ulust.com') ||
 shExpMatch(host, '*.pronetadvertising.com') ||
 shExpMatch(host, '*.propellerads.com') ||
+shExpMatch(host, '*.proper.io') ||
 shExpMatch(host, '*.props.id') ||
 shExpMatch(host, '*.proranktracker.com') ||
 shExpMatch(host, '*.protexting.com') ||
@@ -9951,6 +9953,7 @@ shExpMatch(host, 'mmstat.com') ||
 shExpMatch(host, 'mmtro.com') ||
 shExpMatch(host, 'moadnet.com') ||
 shExpMatch(host, 'moatads.com') ||
+shExpMatch(host, 'moat.com') ||
 shExpMatch(host, 'moatpixel.com') ||
 shExpMatch(host, 'mobcdn.com') ||
 shExpMatch(host, 'mobclix.com') ||
@@ -10650,6 +10653,7 @@ shExpMatch(host, 'promotion-campaigns.com') ||
 shExpMatch(host, 'promo.ulust.com') ||
 shExpMatch(host, 'pronetadvertising.com') ||
 shExpMatch(host, 'propellerads.com') ||
+shExpMatch(host, 'proper.io') ||
 shExpMatch(host, 'props.id') ||
 shExpMatch(host, 'proranktracker.com') ||
 shExpMatch(host, 'protexting.com') ||
