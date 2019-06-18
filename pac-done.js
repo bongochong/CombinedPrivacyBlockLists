@@ -2093,6 +2093,7 @@ shExpMatch(host, '*.box.anchorfree.net') ||
 shExpMatch(host, '*.bpath.com') ||
 shExpMatch(host, '*.bqbbsfdw.be') ||
 shExpMatch(host, '*.bqukfjfv.org') ||
+shExpMatch(host, '*.br1vo.com') ||
 shExpMatch(host, '*.braincash.com') ||
 shExpMatch(host, '*.branch.io') ||
 shExpMatch(host, '*.branchtist.com') ||
@@ -5953,6 +5954,7 @@ shExpMatch(host, '*.www.antibasic.ga') ||
 shExpMatch(host, '*.www-banner.chat.ru') ||
 shExpMatch(host, '*.www.banner-link.com.br') ||
 shExpMatch(host, '*.www.basecinco.com.ar') ||
+shExpMatch(host, '*.www.br1vo.com') ||
 shExpMatch(host, '*.www.chromebewfk.top') ||
 shExpMatch(host, '*.www.chromefastl.top') ||
 shExpMatch(host, '*.www.chromehakc.top') ||
@@ -8218,6 +8220,7 @@ shExpMatch(host, 'box.anchorfree.net') ||
 shExpMatch(host, 'bpath.com') ||
 shExpMatch(host, 'bqbbsfdw.be') ||
 shExpMatch(host, 'bqukfjfv.org') ||
+shExpMatch(host, 'br1vo.com') ||
 shExpMatch(host, 'braincash.com') ||
 shExpMatch(host, 'branch.io') ||
 shExpMatch(host, 'branchtist.com') ||
@@ -12078,6 +12081,7 @@ shExpMatch(host, 'www.antibasic.ga') ||
 shExpMatch(host, 'www-banner.chat.ru') ||
 shExpMatch(host, 'www.banner-link.com.br') ||
 shExpMatch(host, 'www.basecinco.com.ar') ||
+shExpMatch(host, 'www.br1vo.com') ||
 shExpMatch(host, 'www.chromebewfk.top') ||
 shExpMatch(host, 'www.chromefastl.top') ||
 shExpMatch(host, 'www.chromehakc.top') ||
