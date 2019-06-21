@@ -42,7 +42,7 @@ echo "Properly saved hosts list 7"
 # mv hosts.8.txt hosts.8
 # echo "Properly saved hosts list 8"
 wget -nv -O hosts.9.txt "https://1hos.cf/mini/"
-echo "Downloaded hosts list 8"
+echo "Downloaded hosts list 9"
 mv hosts.9.txt hosts.9
 echo "Properly saved hosts list 9"
 cat hosts.* > hosts-cat.final
