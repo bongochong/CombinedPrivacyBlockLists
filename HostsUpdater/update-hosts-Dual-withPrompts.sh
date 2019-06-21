@@ -41,6 +41,10 @@ echo "Properly saved hosts list 7"
 # echo "Downloaded hosts list 8"
 # mv hosts.8.txt hosts.8
 # echo "Properly saved hosts list 8"
+wget -nv -O hosts.9.txt "https://1hos.cf/mini/"
+echo "Downloaded hosts list 8"
+mv hosts.9.txt hosts.9
+echo "Properly saved hosts list 9"
 cat hosts.* > hosts-cat.final
 pcregrep -v -f hostpatterns.dat hosts-cat.final > hosts-pre.final
 sort hosts-pre.final > sorted-hosts.final
