@@ -953,6 +953,7 @@ shExpMatch(host, '*.ads1.rne.com') ||
 shExpMatch(host, '*.ads1.theglobeandmail.com') ||
 shExpMatch(host, '*.ads1.virtual-nights.com') ||
 shExpMatch(host, '*.ads2004.treiberupdate.de') ||
+shExpMatch(host, '*.ads24h.net') ||
 shExpMatch(host, '*.ads2.brazzers.com') ||
 shExpMatch(host, '*.ads2.clearchannel.com') ||
 shExpMatch(host, '*.ads2.contentabc.com') ||
@@ -2195,6 +2196,7 @@ shExpMatch(host, '*.cbsi.com') ||
 shExpMatch(host, '*.cbx.net') ||
 shExpMatch(host, '*.c.compete.com') ||
 shExpMatch(host, '*.cd31411.tmweb.ru') ||
+shExpMatch(host, '*.cdn.bannerflow.com') ||
 shExpMatch(host, '*.cdn.freefacti.com') ||
 shExpMatch(host, '*.cdn.freefarcy.com') ||
 shExpMatch(host, '*.cdn.heapanalytics.com') ||
@@ -2401,7 +2403,6 @@ shExpMatch(host, '*.complextoad.com') ||
 shExpMatch(host, '*.comprabanner.it') ||
 shExpMatch(host, '*.concernedcondition.com') ||
 shExpMatch(host, '*.concernrain.com') ||
-shExpMatch(host, '*.confirmed-profits.com') ||
 shExpMatch(host, '*.connatix.com') ||
 shExpMatch(host, '*.connextra.com') ||
 shExpMatch(host, '*.consciouscabbage.com') ||
@@ -4377,6 +4378,7 @@ shExpMatch(host, '*.permutive.com') ||
 shExpMatch(host, '*.personagraph.com') ||
 shExpMatch(host, '*.petiteumbrella.com') ||
 shExpMatch(host, '*.pgl.example0101') ||
+shExpMatch(host, '*.pgltestinghere') ||
 shExpMatch(host, '*.pgmediaserve.com') ||
 shExpMatch(host, '*.pgpartner.com') ||
 shExpMatch(host, '*.pharirgatic.hotmail.ru') ||
@@ -5059,7 +5061,6 @@ shExpMatch(host, '*.stathat.com') ||
 shExpMatch(host, '*.staticads.btopenworld.com') ||
 shExpMatch(host, '*.static.fmpub.net') ||
 shExpMatch(host, '*.static.itrack.it') ||
-shExpMatch(host, '*.statistic.ads24h.net') ||
 shExpMatch(host, '*.statistik-gallup.net') ||
 shExpMatch(host, '*.statm.the-adult-company.com') ||
 shExpMatch(host, '*.stat.pl') ||
@@ -5318,6 +5319,7 @@ shExpMatch(host, '*.track.anchorfree.com') ||
 shExpMatch(host, '*.track.contently.com') ||
 shExpMatch(host, '*.trackedlink.net') ||
 shExpMatch(host, '*.trackedweb.net') ||
+shExpMatch(host, '*.tracker.bannerflow.com') ||
 shExpMatch(host, '*.tracker.icerocket.com') ||
 shExpMatch(host, '*.tracker.marinsm.com') ||
 shExpMatch(host, '*.tracker-pm2.spilleren.com') ||
@@ -5329,6 +5331,7 @@ shExpMatch(host, '*.track.gawker.com') ||
 shExpMatch(host, '*.tracking01.walmart.com') ||
 shExpMatch(host, '*.tracking101.com') ||
 shExpMatch(host, '*.tracking.crunchiemedia.com') ||
+shExpMatch(host, '*.tracking.discounts-promo.ga') ||
 shExpMatch(host, '*.tracking.gajmp.com') ||
 shExpMatch(host, '*.tracking.ibxlink.com') ||
 shExpMatch(host, '*.tracking.internetstores.de') ||
@@ -7120,6 +7123,7 @@ shExpMatch(host, 'ads1.rne.com') ||
 shExpMatch(host, 'ads1.theglobeandmail.com') ||
 shExpMatch(host, 'ads1.virtual-nights.com') ||
 shExpMatch(host, 'ads2004.treiberupdate.de') ||
+shExpMatch(host, 'ads24h.net') ||
 shExpMatch(host, 'ads2.brazzers.com') ||
 shExpMatch(host, 'ads2.clearchannel.com') ||
 shExpMatch(host, 'ads2.contentabc.com') ||
@@ -8362,6 +8366,7 @@ shExpMatch(host, 'cbsi.com') ||
 shExpMatch(host, 'cbx.net') ||
 shExpMatch(host, 'c.compete.com') ||
 shExpMatch(host, 'cd31411.tmweb.ru') ||
+shExpMatch(host, 'cdn.bannerflow.com') ||
 shExpMatch(host, 'cdn.freefacti.com') ||
 shExpMatch(host, 'cdn.freefarcy.com') ||
 shExpMatch(host, 'cdn.heapanalytics.com') ||
@@ -8568,7 +8573,6 @@ shExpMatch(host, 'complextoad.com') ||
 shExpMatch(host, 'comprabanner.it') ||
 shExpMatch(host, 'concernedcondition.com') ||
 shExpMatch(host, 'concernrain.com') ||
-shExpMatch(host, 'confirmed-profits.com') ||
 shExpMatch(host, 'connatix.com') ||
 shExpMatch(host, 'connextra.com') ||
 shExpMatch(host, 'consciouscabbage.com') ||
@@ -10544,6 +10548,7 @@ shExpMatch(host, 'permutive.com') ||
 shExpMatch(host, 'personagraph.com') ||
 shExpMatch(host, 'petiteumbrella.com') ||
 shExpMatch(host, 'pgl.example0101') ||
+shExpMatch(host, 'pgltestinghere') ||
 shExpMatch(host, 'pgmediaserve.com') ||
 shExpMatch(host, 'pgpartner.com') ||
 shExpMatch(host, 'pharirgatic.hotmail.ru') ||
@@ -11226,7 +11231,6 @@ shExpMatch(host, 'stathat.com') ||
 shExpMatch(host, 'staticads.btopenworld.com') ||
 shExpMatch(host, 'static.fmpub.net') ||
 shExpMatch(host, 'static.itrack.it') ||
-shExpMatch(host, 'statistic.ads24h.net') ||
 shExpMatch(host, 'statistik-gallup.net') ||
 shExpMatch(host, 'statm.the-adult-company.com') ||
 shExpMatch(host, 'stat.pl') ||
@@ -11485,6 +11489,7 @@ shExpMatch(host, 'track.anchorfree.com') ||
 shExpMatch(host, 'track.contently.com') ||
 shExpMatch(host, 'trackedlink.net') ||
 shExpMatch(host, 'trackedweb.net') ||
+shExpMatch(host, 'tracker.bannerflow.com') ||
 shExpMatch(host, 'tracker.icerocket.com') ||
 shExpMatch(host, 'tracker.marinsm.com') ||
 shExpMatch(host, 'tracker-pm2.spilleren.com') ||
@@ -11496,6 +11501,7 @@ shExpMatch(host, 'track.gawker.com') ||
 shExpMatch(host, 'tracking01.walmart.com') ||
 shExpMatch(host, 'tracking101.com') ||
 shExpMatch(host, 'tracking.crunchiemedia.com') ||
+shExpMatch(host, 'tracking.discounts-promo.ga') ||
 shExpMatch(host, 'tracking.gajmp.com') ||
 shExpMatch(host, 'tracking.ibxlink.com') ||
 shExpMatch(host, 'tracking.internetstores.de') ||
