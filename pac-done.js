@@ -2080,7 +2080,6 @@ shExpMatch(host, '*.boilingbeetle.com') ||
 shExpMatch(host, '*.boilingumbrella.com') ||
 shExpMatch(host, '*.boldchat.com') ||
 shExpMatch(host, '*.bolerakopsoa.pw') ||
-shExpMatch(host, '*.bombora.com') ||
 shExpMatch(host, '*.boomads.com') ||
 shExpMatch(host, '*.boom.ro') ||
 shExpMatch(host, '*.boost-my-pr.de') ||
@@ -4771,6 +4770,7 @@ shExpMatch(host, '*.ritzysponge.com') ||
 shExpMatch(host, '*.rkiywansamtu.top') ||
 shExpMatch(host, '*.rlcdn.com') ||
 shExpMatch(host, '*.rle.ru') ||
+shExpMatch(host, '*.r.logrocket.io') ||
 shExpMatch(host, '*.rmads.msn.com') ||
 shExpMatch(host, '*.rmedia.boston.com') ||
 shExpMatch(host, '*.roar.com') ||
@@ -4864,6 +4864,7 @@ shExpMatch(host, '*.seeq.com.invalid') ||
 shExpMatch(host, '*.selectionsugar.com') ||
 shExpMatch(host, '*.selectivesummer.com') ||
 shExpMatch(host, '*.selfishsea.com') ||
+shExpMatch(host, '*.semasio.net') ||
 shExpMatch(host, '*.semiconductry.top') ||
 shExpMatch(host, '*.senddroid.com') ||
 shExpMatch(host, '*.sendmepixel.com') ||
@@ -8250,7 +8251,6 @@ shExpMatch(host, 'boilingbeetle.com') ||
 shExpMatch(host, 'boilingumbrella.com') ||
 shExpMatch(host, 'boldchat.com') ||
 shExpMatch(host, 'bolerakopsoa.pw') ||
-shExpMatch(host, 'bombora.com') ||
 shExpMatch(host, 'boomads.com') ||
 shExpMatch(host, 'boom.ro') ||
 shExpMatch(host, 'boost-my-pr.de') ||
@@ -10941,6 +10941,7 @@ shExpMatch(host, 'ritzysponge.com') ||
 shExpMatch(host, 'rkiywansamtu.top') ||
 shExpMatch(host, 'rlcdn.com') ||
 shExpMatch(host, 'rle.ru') ||
+shExpMatch(host, 'r.logrocket.io') ||
 shExpMatch(host, 'rmads.msn.com') ||
 shExpMatch(host, 'rmedia.boston.com') ||
 shExpMatch(host, 'roar.com') ||
@@ -11034,6 +11035,7 @@ shExpMatch(host, 'seeq.com.invalid') ||
 shExpMatch(host, 'selectionsugar.com') ||
 shExpMatch(host, 'selectivesummer.com') ||
 shExpMatch(host, 'selfishsea.com') ||
+shExpMatch(host, 'semasio.net') ||
 shExpMatch(host, 'semiconductry.top') ||
 shExpMatch(host, 'senddroid.com') ||
 shExpMatch(host, 'sendmepixel.com') ||
