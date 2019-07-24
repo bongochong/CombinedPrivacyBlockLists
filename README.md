@@ -35,7 +35,7 @@ These tools are modified versions of the ones I run on my LiGnux box. I've teste
 <sup>3. [Malware Domain List Hosts Files](http://www.malwaredomainlist.com/). </sup> <br>
 <sup>4. [hpHosts Hosts Files](http://hosts-file.net/); I actually use both the Ad-Server and Exploits lists from them.</sup> <br>
 <sup>5. [AdAway](https://adaway.org/). </sup> <br>
-<sup>6. [Supplementary Entries](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/WindowsTelemetryBlockSupplements). </sup> <br>
+<sup>6. [Supplementary](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/WindowsTelemetryBlockSupplements) [Entries](https://1hos.cf/mini/). </sup> <br>
 <sup>7. [Halite](https://www.fosshub.com/Halite.html). </sup> <br>
 <sup>8. [BlueTack Lists on I-BlockList](https://www.iblocklist.com/lists). </sup> <br>
 <sup>9. [qBitTorrent](https://www.qbittorrent.org/). </sup> <br>
