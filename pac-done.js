@@ -2491,6 +2491,7 @@ shExpMatch(host, '*.creative-serving.com') ||
 shExpMatch(host, '*.creatives.livejasmin.com') ||
 shExpMatch(host, '*.creative.whi.co.nz') ||
 shExpMatch(host, '*.credishe.com') ||
+shExpMatch(host, '*.creep.world') ||
 shExpMatch(host, '*.crestrone.com') ||
 shExpMatch(host, '*.crispads.com') ||
 shExpMatch(host, '*.crispmedia.com') ||
@@ -3423,7 +3424,6 @@ shExpMatch(host, '*.intentmedia.com') ||
 shExpMatch(host, '*.intentmedia.net') ||
 shExpMatch(host, '*.interactive-assets.s3.amazonaws.com') ||
 shExpMatch(host, '*.interactive.forthnet.gr') ||
-shExpMatch(host, '*.intercom-mail.com') ||
 shExpMatch(host, '*.intergi.com') ||
 shExpMatch(host, '*.interlogistics.com.vn') ||
 shExpMatch(host, '*.internetfuel.com') ||
@@ -3748,6 +3748,7 @@ shExpMatch(host, '*.matchcows.com') ||
 shExpMatch(host, '*.matchcraft.com') ||
 shExpMatch(host, '*.matheranalytics.com') ||
 shExpMatch(host, '*.mathtag.com') ||
+shExpMatch(host, '*.matomo.activate.cz') ||
 shExpMatch(host, '*.matomy.com') ||
 shExpMatch(host, '*.matt001.tk') ||
 shExpMatch(host, '*.mautic.com') ||
@@ -4588,6 +4589,7 @@ shExpMatch(host, '*.pub.hardware.fr') ||
 shExpMatch(host, '*.publicidad.elmundo.es') ||
 shExpMatch(host, '*.publicidees.com') ||
 shExpMatch(host, '*.pubmatic.com') ||
+shExpMatch(host, '*.pubmine.com') ||
 shExpMatch(host, '*.pub.network') ||
 shExpMatch(host, '*.pub.realmedia.fr') ||
 shExpMatch(host, '*.pubs.lemonde.fr') ||
@@ -5092,6 +5094,7 @@ shExpMatch(host, '*.stats.townnews.com') ||
 shExpMatch(host, '*.stat.su') ||
 shExpMatch(host, '*.stats.unwired-i.net') ||
 shExpMatch(host, '*.stats.wordpress.com') ||
+shExpMatch(host, '*.stats.wp.com') ||
 shExpMatch(host, '*.stats.x14.eu') ||
 shExpMatch(host, '*.stat.tudou.com') ||
 shExpMatch(host, '*.stat.webmedia.pl') ||
@@ -5126,6 +5129,7 @@ shExpMatch(host, '*.storygize.net') ||
 shExpMatch(host, '*.stoveseashore.com') ||
 shExpMatch(host, '*.straightnest.com') ||
 shExpMatch(host, '*.straightschool.com') ||
+shExpMatch(host, '*.stream.useriq.com') ||
 shExpMatch(host, '*.strikead.com') ||
 shExpMatch(host, '*.strikeiron.com') ||
 shExpMatch(host, '*.stripedburst.com') ||
@@ -5674,7 +5678,6 @@ shExpMatch(host, '*.urulvtffwoq.xyz') ||
 shExpMatch(host, '*.us.a1.yimg.com') ||
 shExpMatch(host, '*.usapromotravel.com') ||
 shExpMatch(host, '*.usergrid.com') ||
-shExpMatch(host, '*.useriq.com') ||
 shExpMatch(host, '*.userreplay.com') ||
 shExpMatch(host, '*.userreplay.net') ||
 shExpMatch(host, '*.usmsad.tom.com') ||
@@ -8676,6 +8679,7 @@ shExpMatch(host, 'creative-serving.com') ||
 shExpMatch(host, 'creatives.livejasmin.com') ||
 shExpMatch(host, 'creative.whi.co.nz') ||
 shExpMatch(host, 'credishe.com') ||
+shExpMatch(host, 'creep.world') ||
 shExpMatch(host, 'crestrone.com') ||
 shExpMatch(host, 'crispads.com') ||
 shExpMatch(host, 'crispmedia.com') ||
@@ -9608,7 +9612,6 @@ shExpMatch(host, 'intentmedia.com') ||
 shExpMatch(host, 'intentmedia.net') ||
 shExpMatch(host, 'interactive-assets.s3.amazonaws.com') ||
 shExpMatch(host, 'interactive.forthnet.gr') ||
-shExpMatch(host, 'intercom-mail.com') ||
 shExpMatch(host, 'intergi.com') ||
 shExpMatch(host, 'interlogistics.com.vn') ||
 shExpMatch(host, 'internetfuel.com') ||
@@ -9933,6 +9936,7 @@ shExpMatch(host, 'matchcows.com') ||
 shExpMatch(host, 'matchcraft.com') ||
 shExpMatch(host, 'matheranalytics.com') ||
 shExpMatch(host, 'mathtag.com') ||
+shExpMatch(host, 'matomo.activate.cz') ||
 shExpMatch(host, 'matomy.com') ||
 shExpMatch(host, 'matt001.tk') ||
 shExpMatch(host, 'mautic.com') ||
@@ -10773,6 +10777,7 @@ shExpMatch(host, 'pub.hardware.fr') ||
 shExpMatch(host, 'publicidad.elmundo.es') ||
 shExpMatch(host, 'publicidees.com') ||
 shExpMatch(host, 'pubmatic.com') ||
+shExpMatch(host, 'pubmine.com') ||
 shExpMatch(host, 'pub.network') ||
 shExpMatch(host, 'pub.realmedia.fr') ||
 shExpMatch(host, 'pubs.lemonde.fr') ||
@@ -11277,6 +11282,7 @@ shExpMatch(host, 'stats.townnews.com') ||
 shExpMatch(host, 'stat.su') ||
 shExpMatch(host, 'stats.unwired-i.net') ||
 shExpMatch(host, 'stats.wordpress.com') ||
+shExpMatch(host, 'stats.wp.com') ||
 shExpMatch(host, 'stats.x14.eu') ||
 shExpMatch(host, 'stat.tudou.com') ||
 shExpMatch(host, 'stat.webmedia.pl') ||
@@ -11311,6 +11317,7 @@ shExpMatch(host, 'storygize.net') ||
 shExpMatch(host, 'stoveseashore.com') ||
 shExpMatch(host, 'straightnest.com') ||
 shExpMatch(host, 'straightschool.com') ||
+shExpMatch(host, 'stream.useriq.com') ||
 shExpMatch(host, 'strikead.com') ||
 shExpMatch(host, 'strikeiron.com') ||
 shExpMatch(host, 'stripedburst.com') ||
@@ -11859,7 +11866,6 @@ shExpMatch(host, 'urulvtffwoq.xyz') ||
 shExpMatch(host, 'us.a1.yimg.com') ||
 shExpMatch(host, 'usapromotravel.com') ||
 shExpMatch(host, 'usergrid.com') ||
-shExpMatch(host, 'useriq.com') ||
 shExpMatch(host, 'userreplay.com') ||
 shExpMatch(host, 'userreplay.net') ||
 shExpMatch(host, 'usmsad.tom.com') ||
