@@ -1601,6 +1601,7 @@ shExpMatch(host, '*.ad.wz.cz') ||
 shExpMatch(host, '*.adx.allstar.cz') ||
 shExpMatch(host, '*.adx.atnext.com') ||
 shExpMatch(host, '*.adx.gainesvillesun.com') ||
+shExpMatch(host, '*.ad.xiaomi.com') ||
 shExpMatch(host, '*.adxpansion.com') ||
 shExpMatch(host, '*.adxpose.com') ||
 shExpMatch(host, '*.ad.xrea.com') ||
@@ -1731,8 +1732,24 @@ shExpMatch(host, '*.amung.us') ||
 shExpMatch(host, '*.anahtars.com') ||
 shExpMatch(host, '*.analiticwebexperience.com') ||
 shExpMatch(host, '*.analytics.adpost.org') ||
+shExpMatch(host, '*.analytics.bitrix.info') ||
+shExpMatch(host, '*.analytics.cloudron.io') ||
 shExpMatch(host, '*.analytics.google.com') ||
+shExpMatch(host, '*.analytics.htmedia.in') ||
+shExpMatch(host, '*.analytics.icons8.com') ||
+shExpMatch(host, '*.analytics.jabong.com') ||
 shExpMatch(host, '*.analytics.live.com') ||
+shExpMatch(host, '*.analytics.mailmunch.co') ||
+shExpMatch(host, '*.analytics.myfinance.com') ||
+shExpMatch(host, '*.analytics.mytvzion.pro') ||
+shExpMatch(host, '*.analytics.phando.com') ||
+shExpMatch(host, '*.analytics.picsart.com') ||
+shExpMatch(host, '*.analytics.poolshool.com') ||
+shExpMatch(host, '*.analytics.posttv.com') ||
+shExpMatch(host, '*.analytics-production.hapyak.com') ||
+shExpMatch(host, '*.analytics.samdd.me') ||
+shExpMatch(host, '*.analytics.siliconexpert.com') ||
+shExpMatch(host, '*.analytics.swiggy.com') ||
 shExpMatch(host, '*.analytics.yahoo.com') ||
 shExpMatch(host, '*.anbqjdoyw6wkmpeu.oldtrees.at') ||
 shExpMatch(host, '*.anderlechti.com') ||
@@ -1740,6 +1757,7 @@ shExpMatch(host, '*.angryshippflyforok.su') ||
 shExpMatch(host, '*.anm.intelli-direct.com') ||
 shExpMatch(host, '*.annonser.dagbladet.no') ||
 shExpMatch(host, '*.anrdoezrs.net') ||
+shExpMatch(host, '*.anstrex.com') ||
 shExpMatch(host, '*.an.tacoda.net') ||
 shExpMatch(host, '*.anxiousapples.com') ||
 shExpMatch(host, '*.apathetictheory.com') ||
@@ -2038,6 +2056,7 @@ shExpMatch(host, '*.bidswitch.net') ||
 shExpMatch(host, '*.bidtrk.com') ||
 shExpMatch(host, '*.bidvertiser.com') ||
 shExpMatch(host, '*.bigads.guj.de') ||
+shExpMatch(host, '*.big-bang-ads.com') ||
 shExpMatch(host, '*.bigbangmedia.com') ||
 shExpMatch(host, '*.bigclicks.com') ||
 shExpMatch(host, '*.bikeshophaidli.com') ||
@@ -2159,7 +2178,6 @@ shExpMatch(host, '*.callfire.com') ||
 shExpMatch(host, '*.callloop.com') ||
 shExpMatch(host, '*.callousbrake.com') ||
 shExpMatch(host, '*.callrail.com') ||
-shExpMatch(host, '*.callstats.io') ||
 shExpMatch(host, '*.calmfoot.com') ||
 shExpMatch(host, '*.campaign.bharatmatrimony.com') ||
 shExpMatch(host, '*.canadianonlineagreementservices.kz') ||
@@ -2708,6 +2726,7 @@ shExpMatch(host, '*.elthamely.com') ||
 shExpMatch(host, '*.emaillifecoaching.com.au') ||
 shExpMatch(host, '*.emarketer.com') ||
 shExpMatch(host, '*.emebo.com') ||
+shExpMatch(host, '*.emebo.io') ||
 shExpMatch(host, '*.emediate.dk') ||
 shExpMatch(host, '*.emediate.eu') ||
 shExpMatch(host, '*.emerse.com') ||
@@ -2933,6 +2952,7 @@ shExpMatch(host, '*.fineclicks.com') ||
 shExpMatch(host, '*.finsolutions.top') ||
 shExpMatch(host, '*.firstlightera.com') ||
 shExpMatch(host, '*.first.nova.cz') ||
+shExpMatch(host, '*.firstpromoter.com') ||
 shExpMatch(host, '*.fitga.ru') ||
 shExpMatch(host, '*.flakyfeast.com') ||
 shExpMatch(host, '*.flashtalking.com') ||
@@ -3677,6 +3697,7 @@ shExpMatch(host, '*.logger.snackly.co') ||
 shExpMatch(host, '*.log.logrocket.io') ||
 shExpMatch(host, '*.log.pinterest.com') ||
 shExpMatch(host, '*.logs.roku.com') ||
+shExpMatch(host, '*.logsss.com') ||
 shExpMatch(host, '*.logua.com') ||
 shExpMatch(host, '*.lollyoff.info') ||
 shExpMatch(host, '*.longinglettuce.com') ||
@@ -4865,6 +4886,7 @@ shExpMatch(host, '*.secretspiders.com') ||
 shExpMatch(host, '*.secufast.bplaced.net') ||
 shExpMatch(host, '*.securedopen-bp.com') ||
 shExpMatch(host, '*.secure.lynxbowlingservices.com') ||
+shExpMatch(host, '*.securemetrics.apple.com') ||
 shExpMatch(host, '*.securetalk.cwsurf.de') ||
 shExpMatch(host, '*.secure.webconnect.net') ||
 shExpMatch(host, '*.sedoparking.com') ||
@@ -4979,6 +5001,7 @@ shExpMatch(host, '*.smartdevicemedia.com') ||
 shExpMatch(host, '*.smartfoodsglutenfree.kz') ||
 shExpMatch(host, '*.smartlook.com') ||
 shExpMatch(host, '*.smashsurprise.com') ||
+shExpMatch(host, '*.smetrics.bestbuy.com') ||
 shExpMatch(host, '*.smetrics.ctv.ca') ||
 shExpMatch(host, '*.smetrics.foxnews.com') ||
 shExpMatch(host, '*.smetrics.walgreens.com') ||
@@ -5340,6 +5363,7 @@ shExpMatch(host, '*.tracker-pm2.spilleren.com') ||
 shExpMatch(host, '*.tracker.samplicio.us') ||
 shExpMatch(host, '*.trackersimulator.org') ||
 shExpMatch(host, '*.tracker.trackerfix.com') ||
+shExpMatch(host, '*.tracker.vgame.us') ||
 shExpMatch(host, '*.track.flexlinks.com') ||
 shExpMatch(host, '*.track.flexlinkspro.com') ||
 shExpMatch(host, '*.track.gawker.com') ||
@@ -5730,7 +5754,6 @@ shExpMatch(host, '*.visiblemeasures.com') ||
 shExpMatch(host, '*.visistat.com') ||
 shExpMatch(host, '*.visit2013.in.ua') ||
 shExpMatch(host, '*.visitbox.de') ||
-shExpMatch(host, '*.visitpath.com') ||
 shExpMatch(host, '*.visit.webhosting.yahoo.com') ||
 shExpMatch(host, '*.visual-pagerank.fr') ||
 shExpMatch(host, '*.visualrevenue.com') ||
@@ -5873,6 +5896,7 @@ shExpMatch(host, '*.web-stat.com') ||
 shExpMatch(host, '*.webstat.com') ||
 shExpMatch(host, '*.webstat.net') ||
 shExpMatch(host, '*.webstats4u.com') ||
+shExpMatch(host, '*.webtracker.jp') ||
 shExpMatch(host, '*.webtrackerplus.com') ||
 shExpMatch(host, '*.webtracky.com') ||
 shExpMatch(host, '*.webtraffic.se') ||
@@ -6164,6 +6188,7 @@ shExpMatch(host, '*.zangocash.com') ||
 shExpMatch(host, '*.zanox-affiliate.de') ||
 shExpMatch(host, '*.zanox.com') ||
 shExpMatch(host, '*.zantracker.com') ||
+shExpMatch(host, '*.zarget.com') ||
 shExpMatch(host, '*.zbwp6ghm.com') ||
 shExpMatch(host, '*.zde-affinity.edgecaching.net') ||
 shExpMatch(host, '*.zealousfield.com') ||
@@ -7789,6 +7814,7 @@ shExpMatch(host, 'ad.wz.cz') ||
 shExpMatch(host, 'adx.allstar.cz') ||
 shExpMatch(host, 'adx.atnext.com') ||
 shExpMatch(host, 'adx.gainesvillesun.com') ||
+shExpMatch(host, 'ad.xiaomi.com') ||
 shExpMatch(host, 'adxpansion.com') ||
 shExpMatch(host, 'adxpose.com') ||
 shExpMatch(host, 'ad.xrea.com') ||
@@ -7919,8 +7945,24 @@ shExpMatch(host, 'amung.us') ||
 shExpMatch(host, 'anahtars.com') ||
 shExpMatch(host, 'analiticwebexperience.com') ||
 shExpMatch(host, 'analytics.adpost.org') ||
+shExpMatch(host, 'analytics.bitrix.info') ||
+shExpMatch(host, 'analytics.cloudron.io') ||
 shExpMatch(host, 'analytics.google.com') ||
+shExpMatch(host, 'analytics.htmedia.in') ||
+shExpMatch(host, 'analytics.icons8.com') ||
+shExpMatch(host, 'analytics.jabong.com') ||
 shExpMatch(host, 'analytics.live.com') ||
+shExpMatch(host, 'analytics.mailmunch.co') ||
+shExpMatch(host, 'analytics.myfinance.com') ||
+shExpMatch(host, 'analytics.mytvzion.pro') ||
+shExpMatch(host, 'analytics.phando.com') ||
+shExpMatch(host, 'analytics.picsart.com') ||
+shExpMatch(host, 'analytics.poolshool.com') ||
+shExpMatch(host, 'analytics.posttv.com') ||
+shExpMatch(host, 'analytics-production.hapyak.com') ||
+shExpMatch(host, 'analytics.samdd.me') ||
+shExpMatch(host, 'analytics.siliconexpert.com') ||
+shExpMatch(host, 'analytics.swiggy.com') ||
 shExpMatch(host, 'analytics.yahoo.com') ||
 shExpMatch(host, 'anbqjdoyw6wkmpeu.oldtrees.at') ||
 shExpMatch(host, 'anderlechti.com') ||
@@ -7928,6 +7970,7 @@ shExpMatch(host, 'angryshippflyforok.su') ||
 shExpMatch(host, 'anm.intelli-direct.com') ||
 shExpMatch(host, 'annonser.dagbladet.no') ||
 shExpMatch(host, 'anrdoezrs.net') ||
+shExpMatch(host, 'anstrex.com') ||
 shExpMatch(host, 'an.tacoda.net') ||
 shExpMatch(host, 'anxiousapples.com') ||
 shExpMatch(host, 'apathetictheory.com') ||
@@ -8226,6 +8269,7 @@ shExpMatch(host, 'bidswitch.net') ||
 shExpMatch(host, 'bidtrk.com') ||
 shExpMatch(host, 'bidvertiser.com') ||
 shExpMatch(host, 'bigads.guj.de') ||
+shExpMatch(host, 'big-bang-ads.com') ||
 shExpMatch(host, 'bigbangmedia.com') ||
 shExpMatch(host, 'bigclicks.com') ||
 shExpMatch(host, 'bikeshophaidli.com') ||
@@ -8347,7 +8391,6 @@ shExpMatch(host, 'callfire.com') ||
 shExpMatch(host, 'callloop.com') ||
 shExpMatch(host, 'callousbrake.com') ||
 shExpMatch(host, 'callrail.com') ||
-shExpMatch(host, 'callstats.io') ||
 shExpMatch(host, 'calmfoot.com') ||
 shExpMatch(host, 'campaign.bharatmatrimony.com') ||
 shExpMatch(host, 'canadianonlineagreementservices.kz') ||
@@ -8896,6 +8939,7 @@ shExpMatch(host, 'elthamely.com') ||
 shExpMatch(host, 'emaillifecoaching.com.au') ||
 shExpMatch(host, 'emarketer.com') ||
 shExpMatch(host, 'emebo.com') ||
+shExpMatch(host, 'emebo.io') ||
 shExpMatch(host, 'emediate.dk') ||
 shExpMatch(host, 'emediate.eu') ||
 shExpMatch(host, 'emerse.com') ||
@@ -9121,6 +9165,7 @@ shExpMatch(host, 'fineclicks.com') ||
 shExpMatch(host, 'finsolutions.top') ||
 shExpMatch(host, 'firstlightera.com') ||
 shExpMatch(host, 'first.nova.cz') ||
+shExpMatch(host, 'firstpromoter.com') ||
 shExpMatch(host, 'fitga.ru') ||
 shExpMatch(host, 'flakyfeast.com') ||
 shExpMatch(host, 'flashtalking.com') ||
@@ -9865,6 +9910,7 @@ shExpMatch(host, 'logger.snackly.co') ||
 shExpMatch(host, 'log.logrocket.io') ||
 shExpMatch(host, 'log.pinterest.com') ||
 shExpMatch(host, 'logs.roku.com') ||
+shExpMatch(host, 'logsss.com') ||
 shExpMatch(host, 'logua.com') ||
 shExpMatch(host, 'lollyoff.info') ||
 shExpMatch(host, 'longinglettuce.com') ||
@@ -11053,6 +11099,7 @@ shExpMatch(host, 'secretspiders.com') ||
 shExpMatch(host, 'secufast.bplaced.net') ||
 shExpMatch(host, 'securedopen-bp.com') ||
 shExpMatch(host, 'secure.lynxbowlingservices.com') ||
+shExpMatch(host, 'securemetrics.apple.com') ||
 shExpMatch(host, 'securetalk.cwsurf.de') ||
 shExpMatch(host, 'secure.webconnect.net') ||
 shExpMatch(host, 'sedoparking.com') ||
@@ -11167,6 +11214,7 @@ shExpMatch(host, 'smartdevicemedia.com') ||
 shExpMatch(host, 'smartfoodsglutenfree.kz') ||
 shExpMatch(host, 'smartlook.com') ||
 shExpMatch(host, 'smashsurprise.com') ||
+shExpMatch(host, 'smetrics.bestbuy.com') ||
 shExpMatch(host, 'smetrics.ctv.ca') ||
 shExpMatch(host, 'smetrics.foxnews.com') ||
 shExpMatch(host, 'smetrics.walgreens.com') ||
@@ -11528,6 +11576,7 @@ shExpMatch(host, 'tracker-pm2.spilleren.com') ||
 shExpMatch(host, 'tracker.samplicio.us') ||
 shExpMatch(host, 'trackersimulator.org') ||
 shExpMatch(host, 'tracker.trackerfix.com') ||
+shExpMatch(host, 'tracker.vgame.us') ||
 shExpMatch(host, 'track.flexlinks.com') ||
 shExpMatch(host, 'track.flexlinkspro.com') ||
 shExpMatch(host, 'track.gawker.com') ||
@@ -11918,7 +11967,6 @@ shExpMatch(host, 'visiblemeasures.com') ||
 shExpMatch(host, 'visistat.com') ||
 shExpMatch(host, 'visit2013.in.ua') ||
 shExpMatch(host, 'visitbox.de') ||
-shExpMatch(host, 'visitpath.com') ||
 shExpMatch(host, 'visit.webhosting.yahoo.com') ||
 shExpMatch(host, 'visual-pagerank.fr') ||
 shExpMatch(host, 'visualrevenue.com') ||
@@ -12061,6 +12109,7 @@ shExpMatch(host, 'web-stat.com') ||
 shExpMatch(host, 'webstat.com') ||
 shExpMatch(host, 'webstat.net') ||
 shExpMatch(host, 'webstats4u.com') ||
+shExpMatch(host, 'webtracker.jp') ||
 shExpMatch(host, 'webtrackerplus.com') ||
 shExpMatch(host, 'webtracky.com') ||
 shExpMatch(host, 'webtraffic.se') ||
@@ -12352,6 +12401,7 @@ shExpMatch(host, 'zangocash.com') ||
 shExpMatch(host, 'zanox-affiliate.de') ||
 shExpMatch(host, 'zanox.com') ||
 shExpMatch(host, 'zantracker.com') ||
+shExpMatch(host, 'zarget.com') ||
 shExpMatch(host, 'zbwp6ghm.com') ||
 shExpMatch(host, 'zde-affinity.edgecaching.net') ||
 shExpMatch(host, 'zealousfield.com') ||
