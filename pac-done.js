@@ -1571,7 +1571,6 @@ shExpMatch(host, '*.advertserve.com') ||
 shExpMatch(host, '*.advertstream.com') ||
 shExpMatch(host, '*.advertwizard.com') ||
 shExpMatch(host, '*.adv.freeonline.it') ||
-shExpMatch(host, '*.advfromnwl.com') ||
 shExpMatch(host, '*.adv.hwupgrade.it') ||
 shExpMatch(host, '*.advideo.uimserv.net') ||
 shExpMatch(host, '*.adview.ppro.de') ||
@@ -1834,6 +1833,7 @@ shExpMatch(host, '*.auctionads.net') ||
 shExpMatch(host, '*.audience2media.com') ||
 shExpMatch(host, '*.audienceinsights.com') ||
 shExpMatch(host, '*.audit.median.hu') ||
+shExpMatch(host, '*.audit.quantcast.mgr.consensu.org') ||
 shExpMatch(host, '*.audit.webinform.hu') ||
 shExpMatch(host, '*.augur.io') ||
 shExpMatch(host, '*.auto-bannertausch.de') ||
@@ -4672,7 +4672,6 @@ shExpMatch(host, '*.quacksquirrel.com') ||
 shExpMatch(host, '*.quaintcan.com') ||
 shExpMatch(host, '*.quakemarketing.com') ||
 shExpMatch(host, '*.quantcast.com') ||
-shExpMatch(host, '*.quantcast.mgr.consensu.org') ||
 shExpMatch(host, '*.quantserve.com') ||
 shExpMatch(host, '*.quantummetric.com') ||
 shExpMatch(host, '*.quarterbean.com') ||
@@ -7793,7 +7792,6 @@ shExpMatch(host, 'advertserve.com') ||
 shExpMatch(host, 'advertstream.com') ||
 shExpMatch(host, 'advertwizard.com') ||
 shExpMatch(host, 'adv.freeonline.it') ||
-shExpMatch(host, 'advfromnwl.com') ||
 shExpMatch(host, 'adv.hwupgrade.it') ||
 shExpMatch(host, 'advideo.uimserv.net') ||
 shExpMatch(host, 'adview.ppro.de') ||
@@ -8056,6 +8054,7 @@ shExpMatch(host, 'auctionads.net') ||
 shExpMatch(host, 'audience2media.com') ||
 shExpMatch(host, 'audienceinsights.com') ||
 shExpMatch(host, 'audit.median.hu') ||
+shExpMatch(host, 'audit.quantcast.mgr.consensu.org') ||
 shExpMatch(host, 'audit.webinform.hu') ||
 shExpMatch(host, 'augur.io') ||
 shExpMatch(host, 'auto-bannertausch.de') ||
@@ -10894,7 +10893,6 @@ shExpMatch(host, 'quacksquirrel.com') ||
 shExpMatch(host, 'quaintcan.com') ||
 shExpMatch(host, 'quakemarketing.com') ||
 shExpMatch(host, 'quantcast.com') ||
-shExpMatch(host, 'quantcast.mgr.consensu.org') ||
 shExpMatch(host, 'quantserve.com') ||
 shExpMatch(host, 'quantummetric.com') ||
 shExpMatch(host, 'quarterbean.com') ||
