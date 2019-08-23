@@ -3560,7 +3560,6 @@ shExpMatch(host, '*.kkr4hbwdklf234bfl84uoqleflqwrfqwuelfh.brazabaya.com') ||
 shExpMatch(host, '*.kliks.nl') ||
 shExpMatch(host, '*.kmpiframe.keepmeposted.com.mt') ||
 shExpMatch(host, '*.knifeoctopus.com') ||
-shExpMatch(host, '*.kniverto.com') ||
 shExpMatch(host, '*.knorex.com') ||
 shExpMatch(host, '*.knottysticks.com') ||
 shExpMatch(host, '*.kntksales.tk') ||
@@ -9781,7 +9780,6 @@ shExpMatch(host, 'kkr4hbwdklf234bfl84uoqleflqwrfqwuelfh.brazabaya.com') ||
 shExpMatch(host, 'kliks.nl') ||
 shExpMatch(host, 'kmpiframe.keepmeposted.com.mt') ||
 shExpMatch(host, 'knifeoctopus.com') ||
-shExpMatch(host, 'kniverto.com') ||
 shExpMatch(host, 'knorex.com') ||
 shExpMatch(host, 'knottysticks.com') ||
 shExpMatch(host, 'kntksales.tk') ||
