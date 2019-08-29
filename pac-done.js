@@ -1239,7 +1239,6 @@ shExpMatch(host, '*.ads.guardianunlimited.co.uk') ||
 shExpMatch(host, '*.ads.guru3d.com') ||
 shExpMatch(host, '*.ads.hardwaresecrets.com') ||
 shExpMatch(host, '*.ads.harpers.org') ||
-shExpMatch(host, '*.ads.harvard.edu') ||
 shExpMatch(host, '*.ads.hbv.de') ||
 shExpMatch(host, '*.ads.hearstmags.com') ||
 shExpMatch(host, '*.ads.heartlight.org') ||
@@ -7459,7 +7458,6 @@ shExpMatch(host, 'ads.guardianunlimited.co.uk') ||
 shExpMatch(host, 'ads.guru3d.com') ||
 shExpMatch(host, 'ads.hardwaresecrets.com') ||
 shExpMatch(host, 'ads.harpers.org') ||
-shExpMatch(host, 'ads.harvard.edu') ||
 shExpMatch(host, 'ads.hbv.de') ||
 shExpMatch(host, 'ads.hearstmags.com') ||
 shExpMatch(host, 'ads.heartlight.org') ||
