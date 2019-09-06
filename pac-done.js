@@ -1008,7 +1008,7 @@ shExpMatch(host, '*.ads.asia1.com.sg') ||
 shExpMatch(host, '*.ads.asiafriendfinder.com') ||
 shExpMatch(host, '*.ads.ask.com') ||
 shExpMatch(host, '*.ads.aspalliance.com') ||
-shExpMatch(host, '*.Adsatt.ABCNews.starwave.com') ||
+shExpMatch(host, '*.adsatt.abcnews.starwave.com') ||
 shExpMatch(host, '*.adsatt.abc.starwave.com') ||
 shExpMatch(host, '*.adsatt.espn.go.com') ||
 shExpMatch(host, '*.adsatt.espn.starwave.com') ||
@@ -3931,6 +3931,7 @@ shExpMatch(host, '*.motricity.com') ||
 shExpMatch(host, '*.motrixi.com') ||
 shExpMatch(host, '*.mouseflow.com') ||
 shExpMatch(host, '*.mousestats.com') ||
+shExpMatch(host, '*.movad.net') ||
 shExpMatch(host, '*.moversa.com') ||
 shExpMatch(host, '*.movieofgoodies.kz') ||
 shExpMatch(host, '*.moviepaidinfullsexy.kz') ||
@@ -3981,7 +3982,6 @@ shExpMatch(host, '*.mz7oyb3v32vshcvk.torapples.li') ||
 shExpMatch(host, '*.mz7oyb3v32vshcvk.torlongor.li') ||
 shExpMatch(host, '*.mz7oyb3v32vshcvk.tormidle.at') ||
 shExpMatch(host, '*.mz7oyb3v32vshcvk.toysworlds.at') ||
-shExpMatch(host, '*.mzbcdn.net') ||
 shExpMatch(host, '*.n69.com') ||
 shExpMatch(host, '*.naaninggeschcho.hotmail.ru') ||
 shExpMatch(host, '*.naiadsystems.com') ||
@@ -4738,6 +4738,7 @@ shExpMatch(host, '*.record.mrwin.com') ||
 shExpMatch(host, '*.re-directme.com') ||
 shExpMatch(host, '*.redirectvoluum.com') ||
 shExpMatch(host, '*.redmas.com') ||
+shExpMatch(host, '*.redshell.io') ||
 shExpMatch(host, '*.reduxmedia.com') ||
 shExpMatch(host, '*.reduxmediagroup.com') ||
 shExpMatch(host, '*.reedbusiness.com') ||
@@ -5414,6 +5415,7 @@ shExpMatch(host, '*.trappush.com') ||
 shExpMatch(host, '*.traptrillhosts.top') ||
 shExpMatch(host, '*.travis.bosscasinos.com') ||
 shExpMatch(host, '*.tr.colpirio.com') ||
+shExpMatch(host, '*.treasuredata.com') ||
 shExpMatch(host, '*.treatstartaugusth.info') ||
 shExpMatch(host, '*.tregretryfaltervipo.top') ||
 shExpMatch(host, '*.trekblue.com') ||
@@ -6211,7 +6213,6 @@ shExpMatch(host, '*.zintext.com') ||
 shExpMatch(host, '*.zjfq4lnfbs7pncr5.onion.to') ||
 shExpMatch(host, '*.zjfq4lnfbs7pncr5.tor2web.org') ||
 shExpMatch(host, '*.zlp6s.pw') ||
-shExpMatch(host, '*.zm232.com') ||
 shExpMatch(host, '*.zmedia.com') ||
 shExpMatch(host, '*.zqtk.net') ||
 shExpMatch(host, '*.ztuw5bvuuapzdfya.klimbim.pl') ||
@@ -7227,7 +7228,7 @@ shExpMatch(host, 'ads.asia1.com.sg') ||
 shExpMatch(host, 'ads.asiafriendfinder.com') ||
 shExpMatch(host, 'ads.ask.com') ||
 shExpMatch(host, 'ads.aspalliance.com') ||
-shExpMatch(host, 'Adsatt.ABCNews.starwave.com') ||
+shExpMatch(host, 'adsatt.abcnews.starwave.com') ||
 shExpMatch(host, 'adsatt.abc.starwave.com') ||
 shExpMatch(host, 'adsatt.espn.go.com') ||
 shExpMatch(host, 'adsatt.espn.starwave.com') ||
@@ -10150,6 +10151,7 @@ shExpMatch(host, 'motricity.com') ||
 shExpMatch(host, 'motrixi.com') ||
 shExpMatch(host, 'mouseflow.com') ||
 shExpMatch(host, 'mousestats.com') ||
+shExpMatch(host, 'movad.net') ||
 shExpMatch(host, 'moversa.com') ||
 shExpMatch(host, 'movieofgoodies.kz') ||
 shExpMatch(host, 'moviepaidinfullsexy.kz') ||
@@ -10200,7 +10202,6 @@ shExpMatch(host, 'mz7oyb3v32vshcvk.torapples.li') ||
 shExpMatch(host, 'mz7oyb3v32vshcvk.torlongor.li') ||
 shExpMatch(host, 'mz7oyb3v32vshcvk.tormidle.at') ||
 shExpMatch(host, 'mz7oyb3v32vshcvk.toysworlds.at') ||
-shExpMatch(host, 'mzbcdn.net') ||
 shExpMatch(host, 'n69.com') ||
 shExpMatch(host, 'naaninggeschcho.hotmail.ru') ||
 shExpMatch(host, 'naiadsystems.com') ||
@@ -10957,6 +10958,7 @@ shExpMatch(host, 'record.mrwin.com') ||
 shExpMatch(host, 're-directme.com') ||
 shExpMatch(host, 'redirectvoluum.com') ||
 shExpMatch(host, 'redmas.com') ||
+shExpMatch(host, 'redshell.io') ||
 shExpMatch(host, 'reduxmedia.com') ||
 shExpMatch(host, 'reduxmediagroup.com') ||
 shExpMatch(host, 'reedbusiness.com') ||
@@ -11633,6 +11635,7 @@ shExpMatch(host, 'trappush.com') ||
 shExpMatch(host, 'traptrillhosts.top') ||
 shExpMatch(host, 'travis.bosscasinos.com') ||
 shExpMatch(host, 'tr.colpirio.com') ||
+shExpMatch(host, 'treasuredata.com') ||
 shExpMatch(host, 'treatstartaugusth.info') ||
 shExpMatch(host, 'tregretryfaltervipo.top') ||
 shExpMatch(host, 'trekblue.com') ||
@@ -12430,7 +12433,6 @@ shExpMatch(host, 'zintext.com') ||
 shExpMatch(host, 'zjfq4lnfbs7pncr5.onion.to') ||
 shExpMatch(host, 'zjfq4lnfbs7pncr5.tor2web.org') ||
 shExpMatch(host, 'zlp6s.pw') ||
-shExpMatch(host, 'zm232.com') ||
 shExpMatch(host, 'zmedia.com') ||
 shExpMatch(host, 'zqtk.net') ||
 shExpMatch(host, 'ztuw5bvuuapzdfya.klimbim.pl') ||
