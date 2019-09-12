@@ -1,7 +1,7 @@
 127.0.0.1 localhost
 ::1 localhost
 # The following lines are desirable for IPv6 capable hosts on LiGnux
-# Though you do not need these lines if IPv6 is not enabled
+# Though you do not want these lines if IPv6 is not enabled
 # ::1     ip6-localhost ip6-loopback
 # fe00::0 ip6-localnet
 # ff00::0 ip6-mcastprefix
@@ -12,12 +12,12 @@
 # http://winhelp2002.mvps.org/hosts.txt                    #
 # http://pgl.yoyo.org/adservers/serverlist.php             #
 # http://www.malwaredomainlist.com/hostslist/hosts.txt     #
-# http://hosts-file.net/                                   #
+# http://hosts-file.net/... and more!                      #
+# Using a tool (HostsUpdater) which can be found here:     #
+# https://github.com/bongochong/CombinedPrivacyBlockLists/ #
 # Notes: The Operating System does not read the "#" symbol #
 # You can create your own notes, after the # symbol        #
 # This *must* be the first line: 127.0.0.1     localhost   #
-#                                                          #
-#                                                          #
 #                                                          #
 #**********************************************************#
 # ------------- DAYBONGODATEREPLACE ------------- #

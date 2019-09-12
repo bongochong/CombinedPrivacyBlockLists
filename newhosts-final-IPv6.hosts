@@ -1,12 +1,12 @@
 127.0.0.1 localhost
 ::1 localhost
 # The following lines are desirable for IPv6 capable hosts on LiGnux
-::1     ip6-localhost ip6-loopback
-fe00::0 ip6-localnet
-ff00::0 ip6-mcastprefix
-ff02::1 ip6-allnodes
-ff02::2 ip6-allrouters
-# You do not need those lines if IPV6 is not enabled	   #
+# ::1     ip6-localhost ip6-loopback
+# fe00::0 ip6-localnet
+# ff00::0 ip6-mcastprefix
+# ff02::1 ip6-allnodes
+# ff02::2 ip6-allrouters
+# You do not want those lines if IPV6 is not enabled	   #
 #                                                          #
 # This HOSTS file was merged from these sources and more:  #
 # http://winhelp2002.mvps.org/hosts.txt                    #
