@@ -635,6 +635,7 @@ shExpMatch(host, '*.abvtqhwodwjmi.work') ||
 shExpMatch(host, '*.abz.com') ||
 shExpMatch(host, '*.acbstypdrijslr.ru') ||
 shExpMatch(host, '*.accemfsqovkd.pw') ||
+shExpMatch(host, '*.acceptable.a-ads.com') ||
 shExpMatch(host, '*.accounts.pkr.com.invalid') ||
 shExpMatch(host, '*.acento.com') ||
 shExpMatch(host, '*.acjhwpdjhlhbncf.click') ||
@@ -677,6 +678,7 @@ shExpMatch(host, '*.ad4mat.net') ||
 shExpMatch(host, '*.ad.71i.de') ||
 shExpMatch(host, '*.ad.980x.com') ||
 shExpMatch(host, '*.ad.a8.net') ||
+shExpMatch(host, '*.ad.a-ads.com') ||
 shExpMatch(host, '*.ad.abcnews.com') ||
 shExpMatch(host, '*.ad.abctv.com') ||
 shExpMatch(host, '*.ad.about.com') ||
@@ -2339,6 +2341,7 @@ shExpMatch(host, '*.clevernt.com') ||
 shExpMatch(host, '*.clhyelmwnuqhigecp.pw') ||
 shExpMatch(host, '*.click2freemoney.com') ||
 shExpMatch(host, '*.click2paid.com') ||
+shExpMatch(host, '*.click.a-ads.com') ||
 shExpMatch(host, '*.clickability.com') ||
 shExpMatch(host, '*.click.absoluteagency.com') ||
 shExpMatch(host, '*.clickadz.com') ||
@@ -2954,7 +2957,6 @@ shExpMatch(host, '*.fineclicks.com') ||
 shExpMatch(host, '*.finsolutions.top') ||
 shExpMatch(host, '*.firstlightera.com') ||
 shExpMatch(host, '*.first.nova.cz') ||
-shExpMatch(host, '*.firstpromoter.com') ||
 shExpMatch(host, '*.fitga.ru') ||
 shExpMatch(host, '*.flakyfeast.com') ||
 shExpMatch(host, '*.flashtalking.com') ||
@@ -3188,6 +3190,7 @@ shExpMatch(host, '*.hit-ranking.de') ||
 shExpMatch(host, '*.hits4me.com') ||
 shExpMatch(host, '*.hits4pay.com') ||
 shExpMatch(host, '*.hits.europuls.eu') ||
+shExpMatch(host, '*.hits-i.iubenda.com') ||
 shExpMatch(host, '*.hits.informer.com') ||
 shExpMatch(host, '*.hitslink.com') ||
 shExpMatch(host, '*.hits.puls.lv') ||
@@ -3753,6 +3756,7 @@ shExpMatch(host, '*.manage.com') ||
 shExpMatch(host, '*.man-street.tk') ||
 shExpMatch(host, '*.maplefarmmedia.com') ||
 shExpMatch(host, '*.marchex.com') ||
+shExpMatch(host, '*.marinsm.com') ||
 shExpMatch(host, '*.markedcrayon.com') ||
 shExpMatch(host, '*.markedpail.com') ||
 shExpMatch(host, '*.market-buster.com') ||
@@ -5095,6 +5099,7 @@ shExpMatch(host, '*.statcounter.com') ||
 shExpMatch(host, '*.stat.dealtime.com') ||
 shExpMatch(host, '*.stat.dyna.ultraweb.hu') ||
 shExpMatch(host, '*.stathat.com') ||
+shExpMatch(host, '*.static.a-ads.com') ||
 shExpMatch(host, '*.staticads.btopenworld.com') ||
 shExpMatch(host, '*.static.fmpub.net') ||
 shExpMatch(host, '*.static.itrack.it') ||
@@ -5276,6 +5281,7 @@ shExpMatch(host, '*.text-link-ads.com') ||
 shExpMatch(host, '*.textlinks.com') ||
 shExpMatch(host, '*.texturetrick.com') ||
 shExpMatch(host, '*.tfag.de') ||
+shExpMatch(host, '*.t.firstpromoter.com') ||
 shExpMatch(host, '*.theadex.com') ||
 shExpMatch(host, '*.theadhost.com') ||
 shExpMatch(host, '*.theads.me') ||
@@ -5761,6 +5767,7 @@ shExpMatch(host, '*.visiblemeasures.com') ||
 shExpMatch(host, '*.visistat.com') ||
 shExpMatch(host, '*.visit2013.in.ua') ||
 shExpMatch(host, '*.visitbox.de') ||
+shExpMatch(host, '*.visitpath.com') ||
 shExpMatch(host, '*.visit.webhosting.yahoo.com') ||
 shExpMatch(host, '*.visual-pagerank.fr') ||
 shExpMatch(host, '*.visualrevenue.com') ||
@@ -6855,6 +6862,7 @@ shExpMatch(host, 'abvtqhwodwjmi.work') ||
 shExpMatch(host, 'abz.com') ||
 shExpMatch(host, 'acbstypdrijslr.ru') ||
 shExpMatch(host, 'accemfsqovkd.pw') ||
+shExpMatch(host, 'acceptable.a-ads.com') ||
 shExpMatch(host, 'accounts.pkr.com.invalid') ||
 shExpMatch(host, 'acento.com') ||
 shExpMatch(host, 'acjhwpdjhlhbncf.click') ||
@@ -6897,6 +6905,7 @@ shExpMatch(host, 'ad4mat.net') ||
 shExpMatch(host, 'ad.71i.de') ||
 shExpMatch(host, 'ad.980x.com') ||
 shExpMatch(host, 'ad.a8.net') ||
+shExpMatch(host, 'ad.a-ads.com') ||
 shExpMatch(host, 'ad.abcnews.com') ||
 shExpMatch(host, 'ad.abctv.com') ||
 shExpMatch(host, 'ad.about.com') ||
@@ -8559,6 +8568,7 @@ shExpMatch(host, 'clevernt.com') ||
 shExpMatch(host, 'clhyelmwnuqhigecp.pw') ||
 shExpMatch(host, 'click2freemoney.com') ||
 shExpMatch(host, 'click2paid.com') ||
+shExpMatch(host, 'click.a-ads.com') ||
 shExpMatch(host, 'clickability.com') ||
 shExpMatch(host, 'click.absoluteagency.com') ||
 shExpMatch(host, 'clickadz.com') ||
@@ -9174,7 +9184,6 @@ shExpMatch(host, 'fineclicks.com') ||
 shExpMatch(host, 'finsolutions.top') ||
 shExpMatch(host, 'firstlightera.com') ||
 shExpMatch(host, 'first.nova.cz') ||
-shExpMatch(host, 'firstpromoter.com') ||
 shExpMatch(host, 'fitga.ru') ||
 shExpMatch(host, 'flakyfeast.com') ||
 shExpMatch(host, 'flashtalking.com') ||
@@ -9408,6 +9417,7 @@ shExpMatch(host, 'hit-ranking.de') ||
 shExpMatch(host, 'hits4me.com') ||
 shExpMatch(host, 'hits4pay.com') ||
 shExpMatch(host, 'hits.europuls.eu') ||
+shExpMatch(host, 'hits-i.iubenda.com') ||
 shExpMatch(host, 'hits.informer.com') ||
 shExpMatch(host, 'hitslink.com') ||
 shExpMatch(host, 'hits.puls.lv') ||
@@ -9973,6 +9983,7 @@ shExpMatch(host, 'manage.com') ||
 shExpMatch(host, 'man-street.tk') ||
 shExpMatch(host, 'maplefarmmedia.com') ||
 shExpMatch(host, 'marchex.com') ||
+shExpMatch(host, 'marinsm.com') ||
 shExpMatch(host, 'markedcrayon.com') ||
 shExpMatch(host, 'markedpail.com') ||
 shExpMatch(host, 'market-buster.com') ||
@@ -11315,6 +11326,7 @@ shExpMatch(host, 'statcounter.com') ||
 shExpMatch(host, 'stat.dealtime.com') ||
 shExpMatch(host, 'stat.dyna.ultraweb.hu') ||
 shExpMatch(host, 'stathat.com') ||
+shExpMatch(host, 'static.a-ads.com') ||
 shExpMatch(host, 'staticads.btopenworld.com') ||
 shExpMatch(host, 'static.fmpub.net') ||
 shExpMatch(host, 'static.itrack.it') ||
@@ -11496,6 +11508,7 @@ shExpMatch(host, 'text-link-ads.com') ||
 shExpMatch(host, 'textlinks.com') ||
 shExpMatch(host, 'texturetrick.com') ||
 shExpMatch(host, 'tfag.de') ||
+shExpMatch(host, 't.firstpromoter.com') ||
 shExpMatch(host, 'theadex.com') ||
 shExpMatch(host, 'theadhost.com') ||
 shExpMatch(host, 'theads.me') ||
@@ -11981,6 +11994,7 @@ shExpMatch(host, 'visiblemeasures.com') ||
 shExpMatch(host, 'visistat.com') ||
 shExpMatch(host, 'visit2013.in.ua') ||
 shExpMatch(host, 'visitbox.de') ||
+shExpMatch(host, 'visitpath.com') ||
 shExpMatch(host, 'visit.webhosting.yahoo.com') ||
 shExpMatch(host, 'visual-pagerank.fr') ||
 shExpMatch(host, 'visualrevenue.com') ||
