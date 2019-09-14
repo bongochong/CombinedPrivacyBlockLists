@@ -1,7 +1,7 @@
 The [update-hosts.sh](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/update-hosts.sh) and [update-hosts-dual.sh](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/update-hosts-dual.sh) scripts are meant to automate the process of creating and updating your computer's hosts file on GNU/Linux and other Unix-like Operating Systems (like OS X). The Windows version can be found here: https://github.com/bongochong/CWP-Utilities
 
 **Checklist for use**:
-1. Ensure that all relevant files are downloaded to a single directory.
+1. Ensure that [all relevant files](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/BLT) are downloaded to a single directory.
 2. Make sure that you have [PCRE / PCREGREP](https://www.pcre.org/), [Perl](https://www.perl.com/about/), [Wget](https://www.gnu.org/software/wget/), and [Sed](https://www.gnu.org/software/sed/manual/sed.html) installed on your system.
 3. Open a terminal in or `cd` to the aforementioned directory.
 4. Launch the script (`sh update-hosts.sh` should do).
