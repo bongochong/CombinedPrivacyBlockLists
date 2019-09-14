@@ -3924,6 +3924,7 @@ shExpMatch(host, '*.moldyicicle.com') ||
 shExpMatch(host, '*.molowo.in.ua') ||
 shExpMatch(host, '*.monetate.net') ||
 shExpMatch(host, '*.monetizemore.com') ||
+shExpMatch(host, '*.monetizer101.com') ||
 shExpMatch(host, '*.moneyexpert.com') ||
 shExpMatch(host, '*.moneyexpert.co.uk') ||
 shExpMatch(host, '*.monsierdroider.wang') ||
@@ -10151,6 +10152,7 @@ shExpMatch(host, 'moldyicicle.com') ||
 shExpMatch(host, 'molowo.in.ua') ||
 shExpMatch(host, 'monetate.net') ||
 shExpMatch(host, 'monetizemore.com') ||
+shExpMatch(host, 'monetizer101.com') ||
 shExpMatch(host, 'moneyexpert.com') ||
 shExpMatch(host, 'moneyexpert.co.uk') ||
 shExpMatch(host, 'monsierdroider.wang') ||
