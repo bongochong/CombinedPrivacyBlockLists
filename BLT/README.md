@@ -1,6 +1,6 @@
 The data within is meant to automate the generation and updating of the following files on GNU/Linux and other Unix-like Operating Systems (like OS X and BSD):  
 
-- [A hosts file to block undesirable domains](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/update-hosts.sh) (with IPv4 entries).  
+- [A hosts file to block undesirable domains](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/update-hosts.sh) (standard / IPv4 entries).  
 
 - [A hosts file to block undesirable domains](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/update-hosts-dual.sh) (with IPv4 + IPv6 entries).  
 
