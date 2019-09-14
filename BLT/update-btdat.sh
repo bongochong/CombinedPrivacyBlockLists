@@ -1,4 +1,7 @@
 #!/bin/bash
+#Block List Tools (http://shorl.com/fovogretopiga)
+#From the maintainer of Combined Privacy Block Lists (https://github.com/bongochong/CombinedPrivacyBlockLists)
+#License: CPAL-1.0 (https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/LICENSE.md)
 echo "Cleaning up & Fetching DAT lists..."
 mkdir -p ~/BLT/btdat
 cd ~/BLT/btdat
