@@ -1,7 +1,7 @@
 The [update-btdat.sh script](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/update-btdat.sh) is meant to automate the process of creating and updating an IP block list for your BitTorrent client (if you use one that prefers DAT lists), on GNU/Linux and other Unix-like Operating Systems (like OS X). The Windows version can be found here: https://github.com/bongochong/CWP-Utilities
 
 **Checklist for use**:
-1. Ensure that all relevant files are downloaded to a single directory.
+1. Ensure that [all relevant files](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/BLT) are downloaded to a single directory.
 2. Make sure that you have [p7zip](http://p7zip.sourceforge.net/), [Perl](https://www.perl.com/about/), and [Wget](https://www.gnu.org/software/wget/) installed on your system.
 3. Open a terminal in or `cd` to the aforementioned directory.
 4. Launch the script (`sh update-btdat.sh` should do).
