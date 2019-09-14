@@ -12,7 +12,13 @@ The data within is meant to automate the following processes on GNU/Linux and ot
 
 The Windows versions of these scripts (combined into a unified interface) can be found here: https://github.com/bongochong/CWP-Utilities  
 
-**Checklist for use**:
+**Checklist for normal use**:
+1. Download the installer [from this link](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/installer.sh).
+2. Ensure the installer is executable (either via your file manager or something like `chmod +x installer.sh` in a terminal).
+3. Run the installer (with something like `./installer.sh` or `sh installer.sh` in a terminal).
+4. Enjoy.
+
+**Checklist for manual use**:
 1. Ensure that all content herein is placed within a single folder named *BLT*, housed within your home/user directory (~/BLT).
 2. Inspect the [additional README files](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/BLT/readmes), and ensure that you have the necessary dependencies installed on your system (`perl wget pcregrep curl p7zip`) to fully utilize each script.
 3. Open a terminal in or `cd` to the aforementioned directory.
