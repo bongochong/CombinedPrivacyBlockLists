@@ -1,26 +1,28 @@
 #!/bin/bash
+echo -n "Which directory would you like these tools to be installed in, under your home folder? "
+read file_dir
 echo "..."
-echo "Creating BLT directories & Downloading block list utilities and documentation..."
+echo "Creating directories & Downloading block list utilities and documentation..."
 echo "..."
-mkdir -p ~/BLT/btdat
-mkdir -p ~/BLT/btp2p
-mkdir -p ~/BLT/hosts
-mkdir -p ~/BLT/pac
-mkdir -p ~/BLT/parsing
-mkdir -p ~/BLT/readmes
-cd ~/BLT
+mkdir -p ~/"$file_dir"/btdat
+mkdir -p ~/"$file_dir"/btp2p
+mkdir -p ~/"$file_dir"/hosts
+mkdir -p ~/"$file_dir"/pac
+mkdir -p ~/"$file_dir"/parsing
+mkdir -p ~/"$file_dir"/readmes
+cd ~/"$file_dir"
 wget -nv "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/README.md"
 wget -nv "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/update-btdat.sh"
 wget -nv "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/update-btp2p.sh"
 wget -nv "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/update-hosts-dual.sh"
 wget -nv "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/update-hosts.sh"
 wget -nv "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/update-pac.sh"
-cd ~/BLT/parsing
+cd ~/"$file_dir"/parsing
 wget -nv "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/parsing/hostpatterns.dat"
 wget -nv "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/parsing/newhosts-template-dual.txt"
 wget -nv "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/parsing/newhosts-template.txt"
 wget -nv "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/parsing/pactemplate.txt"
-cd ~/BLT/readmes
+cd ~/"$file_dir"/readmes
 wget -nv "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/readmes/README-btdat.md"
 wget -nv "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/readmes/README-btp2p.md"
 wget -nv "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/readmes/README-hosts.md"
@@ -28,11 +30,20 @@ wget -nv "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists
 echo "..."
 echo "Ensuring that scripts are made executable..."
 echo "..."
-chmod +x ~/BLT/update-btdat.sh
-chmod +x ~/BLT/update-btp2p.sh
-chmod +x ~/BLT/update-hosts-dual.sh
-chmod +x ~/BLT/update-hosts.sh
-chmod +x ~/BLT/update-pac.sh
+chmod +x ~/"$file_dir"/update-btdat.sh
+chmod +x ~/"$file_dir"/update-btp2p.sh
+chmod +x ~/"$file_dir"/update-hosts-dual.sh
+chmod +x ~/"$file_dir"/update-hosts.sh
+chmod +x ~/"$file_dir"/update-pac.sh
+echo "..."
+echo "Ensuring that scripts reflect your install directory..."
+echo "..."
+cd ~/"$file_dir"
+sed -i "s/BLT/$file_dir/g" update-btdat.sh
+sed -i "s/BLT/$file_dir/g" update-btp2p.sh
+sed -i "s/BLT/$file_dir/g" update-hosts-dual.sh
+sed -i "s/BLT/$file_dir/g" update-hosts.sh
+sed -i "s/BLT/$file_dir/g" update-pac.sh
 echo "..."
 echo "Done! Run whichever script you like via sh or dot-slash."
 echo "..."
@@ -41,4 +52,4 @@ echo "Make sure that you have the following packages installed:"
 echo "perl wget pcregrep curl p7zip"
 echo "Enjoy!"
 echo "..."
-xdg-open ~/BLT
+xdg-open ~/"$file_dir"
