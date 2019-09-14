@@ -1,5 +1,5 @@
 127.0.0.1 localhost
-::1 localhost
+::1 ip6-localhost ip6-loopback
 # The following lines are desirable for IPv6 capable hosts on LiGnux
 # Though you do not want these lines if IPv6 is not enabled
 # ::1     ip6-localhost ip6-loopback
