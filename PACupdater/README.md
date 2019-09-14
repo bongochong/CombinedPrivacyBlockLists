@@ -1,3 +1,0 @@
-The .sh file herein is a _template_ for a really simple bash script, which downloads various malicious domain lists, does a little clean-up on them, merges, sorts, and de-dupes those lists, then uploads the resultant PAC file to an FTP server of your choice (so you can easily utilize it). This script is meant to be modified to your liking, then run via the command line.
-
-**Note**: You must have [Perl](https://www.perl.com/about/), [Wget](https://www.gnu.org/software/wget/), [Curl](https://curl.haxx.se/), and [Sed](https://www.gnu.org/software/sed/manual/sed.html) installed on your system to utilize this script. It also relies on the `pactemplate.txt` file in this directory. The Windows version of this can be found here: https://github.com/bongochong/CWP-Utilities
