@@ -13,7 +13,7 @@ The data within is meant to automate the following processes on GNU/Linux and ot
 The Windows versions of these scripts (combined into a unified interface) can be found here: https://github.com/bongochong/CWP-Utilities  
 
 **Checklist for use**:
-1. Ensure that all content herein - including the *parsing* directory - is placed within a single folder named *BLT*, housed within your home/user directory (~/BLT).
+1. Ensure that all content herein is placed within a single folder named *BLT*, housed within your home/user directory (~/BLT).
 2. Inspect the [additional README files](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/BLT/readmes) to ensure that you have the necessary dependencies installed on your system.
 3. Open a terminal in or `cd` to the aforementioned directory.
 4. Launch any of the scripts you desire.
