@@ -1,9 +1,13 @@
 The data within is meant to automate the following processes on GNU/Linux and other Unix-like Operating Systems (like OS X and BSD):  
 
 - [Generating and updating a hosts file to block undesirable domains](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/update-hosts.sh) (with IPv4 entries).  
+
 - [Generating and updating a hosts file to block undesirable domains](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/update-hosts-dual.sh) (with IPv4 + IPv6 entries).  
+
 - [Generating and updating an IP block list to prevent undesirable traffic](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/update-btdat.sh) (with a DAT-format list).  
+
 - [Generating and updating an IP block list to prevent undesirable traffic](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/update-btp2p.sh) (with a P2P-format list).  
+
 - [Generating and updating a PAC (proxy auto-configuration) file, to block undesirable domains](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/update-pac.sh).  
 
 The Windows versions of these scripts (combined into a unified interface) can be found here: https://github.com/bongochong/CWP-Utilities  
