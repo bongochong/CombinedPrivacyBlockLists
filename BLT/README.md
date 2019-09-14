@@ -14,7 +14,7 @@ The Windows versions of these scripts (combined into a unified interface) can be
 
 **Checklist for use**:
 1. Ensure that all content herein is placed within a single folder named *BLT*, housed within your home/user directory (~/BLT).
-2. Inspect the [additional README files](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/BLT/readmes) to ensure that you have the necessary dependencies installed on your system.
+2. Inspect the [additional README files](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/BLT/readmes), and ensure that you have the necessary dependencies installed on your system (`perl wget pcregrep curl p7zip`) to fully utilize each script.
 3. Open a terminal in or `cd` to the aforementioned directory.
 4. Launch any of the scripts you desire.
 5. Watch the output of the script(s).
