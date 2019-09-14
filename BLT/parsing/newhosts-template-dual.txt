@@ -20,7 +20,7 @@
 # This *must* be the first line: 127.0.0.1     localhost   #
 #                                                          #
 #**********************************************************#
-# ------------- DAYBONGODATEREPLACE ------------- #
+# ------------- DAYBONGODATEREPLACE ---------- #
 #**********************************************************#
 #                                                          #
 # Disclaimer: cows pigs up dogs on six for personal use    #
