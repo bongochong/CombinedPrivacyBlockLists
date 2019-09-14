@@ -10,8 +10,6 @@ The data within is meant to automate the generation and updating of the followin
 
 - [A PAC (proxy auto-configuration) file, to block undesirable domains](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/update-pac.sh).  
 
-The Windows versions of these scripts (combined into a unified interface) can be found here: https://github.com/bongochong/CWP-Utilities  
-
 **Checklist for normal use**:
 1. Download the installer [from this link](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/installer.sh).
 2. Ensure the installer is executable (either via your file manager or something like `chmod +x installer.sh` in a terminal).
@@ -29,3 +27,4 @@ The Windows versions of these scripts (combined into a unified interface) can be
 **Notes**:
 - If you deviate from the checklist then you are stupid. This does not apply if you are modifying the files as opposed to using them as is.
 - All of these files and folders - including the *parsing* directory - must be housed within ~/BLT.
+- The Windows versions of these scripts (combined into a unified interface) can be found here: https://github.com/bongochong/CWP-Utilities
