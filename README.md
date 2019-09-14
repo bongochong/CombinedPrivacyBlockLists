@@ -15,7 +15,7 @@ Ad-blocking hosts files, BitTorrent IP block lists, and PAC files, all merged, s
 
 ***Please feel free to subscribe to or use these lists as is. I use them on all of my personal devices.***
 
-**Finally**, I have begun sharing some relatively user-friendly versions of the scripts and utilities that I use to generate these files on my main machine. Should you wish to utilize them in order to make your own lists from different sources, the currently working releases are available here: https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/BLT  
+**Finally**, I have begun sharing some relatively user-friendly versions of the scripts and utilities that I use to generate these files on my main machine. Should you wish to utilize them in order to make your own lists from different sources, the currently working releases are available here: https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/BLT and can be setup manually, or in one shot [with this simple install script](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/installer.sh).  
 
 They include the following:  
 + [**Hosts File Updater**](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/update-hosts.sh) - Fully automated and easy-to-configure bash script for updating your hosts file from multiple sources. Pre-configured to work with included templates. Runs properly out of the box. LiGnux and other Unix-like operating systems only. There is also a version that updates your hosts file with **both** IPv4 and IPv6 entries [here](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/update-hosts-dual.sh).
