@@ -13,8 +13,8 @@ The data within is meant to automate the generation and updating of the followin
 
 **Checklist for normal use**:
 1. Download the installer [from this link](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/installer.sh).
-2. Ensure the installer is executable (either via your file manager or something like `chmod +x installer.sh` in a terminal).
-3. Run the installer (with something like `./installer.sh` or `sh installer.sh` in a terminal).
+2. Ensure the installer is executable (either via your file manager or `chmod +x installer.sh` in a terminal).
+3. Run the installer (with `./installer.sh` or `sh installer.sh` in a terminal).
 4. Input your chosen install location at the prompt.
 5. Enjoy using the utilities as you would use any other scripts.
 
