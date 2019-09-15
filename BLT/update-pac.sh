@@ -8,7 +8,7 @@ cd ~/BLT/pac
 rm -f pac-*
 rm -f *.pac
 sleep 2
-echo "Changed working directory to "$file_dir" and cleaned up old data. Now downloading new lists."
+echo "Changed working directory and cleaned up old data. Now downloading new lists."
 wget -nv -O 1.pac "https://ssl.bblck.me/blacklists/domain-list.txt"
 wget -nv -O 2.pac "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt"
 wget -nv -O 3.pac "https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt"
