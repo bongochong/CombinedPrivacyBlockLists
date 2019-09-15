@@ -21,7 +21,7 @@ The data within is meant to automate the generation and updating of the followin
 
 **Checklist for manual use**:
 1. Ensure that all content herein is placed within a single folder named *BLT*, housed within your home/user directory (~/BLT).
-2. Inspect the [additional README files](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/BLT/readmes), and ensure that you have the necessary dependencies installed on your system (`perl wget pcregrep curl p7zip`) to fully utilize each script.
+2. Ensure that you have the necessary dependencies installed on your system (`perl wget pcregrep curl p7zip`) to fully utilize each script.
 3. Open a terminal in or `cd` to the aforementioned directory.
 4. Launch any of the scripts you desire.
 5. Watch the output of the script(s).
@@ -29,5 +29,5 @@ The data within is meant to automate the generation and updating of the followin
   
 **Notes**:
 - If you deviate from either of the checklists then you are stupid. This does not apply if you are modifying the files as opposed to using them as is.
-- All of these files and folders - including the *parsing* directory - must be housed within ~/BLT.
+- There are [additional README files](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/BLT/readmes) for each utility, should you wish to inspect them.
 - The Windows versions of these scripts (combined into a unified interface) can be found here: https://github.com/bongochong/CWP-Utilities
