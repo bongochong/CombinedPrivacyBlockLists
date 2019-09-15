@@ -28,6 +28,6 @@ The data within is meant to automate the generation and updating of the followin
 6. Run the script(s) as often as you like to keep your block lists up-to-date.  
   
 **Notes**:
-- If you deviate from the checklist then you are stupid. This does not apply if you are modifying the files as opposed to using them as is.
+- If you deviate from either of the checklists then you are stupid. This does not apply if you are modifying the files as opposed to using them as is.
 - All of these files and folders - including the *parsing* directory - must be housed within ~/BLT.
 - The Windows versions of these scripts (combined into a unified interface) can be found here: https://github.com/bongochong/CWP-Utilities
