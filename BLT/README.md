@@ -16,7 +16,8 @@ The data within is meant to automate the generation and updating of the followin
 2. Ensure the installer is executable (either via your file manager or `chmod +x installer.sh` in a terminal).
 3. Run the installer (with `./installer.sh` or `sh installer.sh` in a terminal).
 4. Input your chosen install location at the prompt.
-5. Enjoy using the utilities as you would use any other scripts.
+5. Make sure you have `perl wget pcregrep curl p7zip` on your system, in order to fully utilize the scripts.
+6. Enjoy using the utilities to keep your block lists and hosts file up-to-date.
 
 **Checklist for manual use**:
 1. Ensure that all content herein is placed within a single folder named *BLT*, housed within your home/user directory (~/BLT).
