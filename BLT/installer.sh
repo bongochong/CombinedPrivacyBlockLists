@@ -33,11 +33,7 @@ wget -nv "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists
 echo "..."
 echo "Ensuring that scripts are made executable..."
 echo "..."
-chmod +x ~/"$file_dir"/update-btdat.sh
-chmod +x ~/"$file_dir"/update-btp2p.sh
-chmod +x ~/"$file_dir"/update-hosts-dual.sh
-chmod +x ~/"$file_dir"/update-hosts.sh
-chmod +x ~/"$file_dir"/update-pac.sh
+chmod +x ~/"$file_dir"/update-btdat.sh update-btp2p.sh update-hosts-dual.sh update-hosts.sh update-pac.sh
 echo "..."
 echo "Ensuring that scripts reflect your install directory..."
 echo "..."
