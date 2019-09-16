@@ -11,8 +11,8 @@ The data within is meant to automate the generation and updating of the followin
 
 - [A PAC (proxy auto-configuration) file, to block undesirable domains](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/update-pac.sh)  
 
-**One-line installation**:  
-Copy the following: `wget -nv -O ~/installer.sh "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/installer.sh" && chmod +x ~/installer.sh && sh ~/installer.sh && rm ~/installer.sh` paste it into your terminal, and hit enter. Donezo. Now you have all the utilities.  
+**One-line installation**:
+Copy the following `wget -nv -O ~/installer.sh "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/installer.sh" && chmod +x ~/installer.sh && sh ~/installer.sh && rm ~/installer.sh` paste it into your terminal, and hit enter. Donezo. Now you have all the utilities.  
 
 **Checklist for normal use**:
 1. Download the installer [from this link](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/installer.sh).
