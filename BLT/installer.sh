@@ -2,6 +2,7 @@
 #Block List Tools (https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/BLT)
 #From the maintainer of Combined Privacy Block Lists (https://github.com/bongochong/CombinedPrivacyBlockLists)
 #License: CPAL-1.0 (https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/LICENSE.md)
+echo "..."
 echo -n "Which directory would you like these tools to be installed in, under your home folder? "
 read file_dir
 echo "..."
