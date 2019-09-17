@@ -44,6 +44,7 @@ sed -i "s/^::/0.0.0.0/g" uniq-hosts.final
 sed -i -e "s/[[:space:]]*$//" uniq-hosts.final
 sed -i -e "s/[[:blank:]]*$//" uniq-hosts.final
 sed -i -e "s/[[:space:]]\+/ /g" uniq-hosts.final
+sed -i -e "/^0.0.0.0 /! s/^/0.0.0.0 /" uniq-hosts.final
 sort uniq-hosts.final > final-sort.hosts
 uniq -i final-sort.hosts > final-uniq.hosts
 pcregrep -v -f ~/BLT/parsing/hostpatterns.dat final-uniq.hosts > hosts.final
