@@ -1760,6 +1760,7 @@ shExpMatch(host, '*.anrdoezrs.net') ||
 shExpMatch(host, '*.anstrex.com') ||
 shExpMatch(host, '*.an.tacoda.net') ||
 shExpMatch(host, '*.anxiousapples.com') ||
+shExpMatch(host, '*.aobocker.se') ||
 shExpMatch(host, '*.apathetictheory.com') ||
 shExpMatch(host, '*.apex-ad.com') ||
 shExpMatch(host, '*.api.addthis.com') ||
@@ -2598,6 +2599,7 @@ shExpMatch(host, '*.delegatediscussion.com') ||
 shExpMatch(host, '*.delightdriving.com') ||
 shExpMatch(host, '*.delightfulhour.com') ||
 shExpMatch(host, '*.deloo.de') ||
+shExpMatch(host, '*.deloplen.com') ||
 shExpMatch(host, '*.deloton.com') ||
 shExpMatch(host, '*.demandbase.com') ||
 shExpMatch(host, '*.demdex.net') ||
@@ -4974,7 +4976,6 @@ shExpMatch(host, '*.sinceresofa.com') ||
 shExpMatch(host, '*.sincerespy.com') ||
 shExpMatch(host, '*.sinefight-skinesia.com') ||
 shExpMatch(host, '*.sinoa.com') ||
-shExpMatch(host, '*.Site') ||
 shExpMatch(host, '*.sitebrand.geeks.com') ||
 shExpMatch(host, '*.sitedataprocessing.com') ||
 shExpMatch(host, '*.siteimproveanalytics.com') ||
@@ -7988,6 +7989,7 @@ shExpMatch(host, 'anrdoezrs.net') ||
 shExpMatch(host, 'anstrex.com') ||
 shExpMatch(host, 'an.tacoda.net') ||
 shExpMatch(host, 'anxiousapples.com') ||
+shExpMatch(host, 'aobocker.se') ||
 shExpMatch(host, 'apathetictheory.com') ||
 shExpMatch(host, 'apex-ad.com') ||
 shExpMatch(host, 'api.addthis.com') ||
@@ -8826,6 +8828,7 @@ shExpMatch(host, 'delegatediscussion.com') ||
 shExpMatch(host, 'delightdriving.com') ||
 shExpMatch(host, 'delightfulhour.com') ||
 shExpMatch(host, 'deloo.de') ||
+shExpMatch(host, 'deloplen.com') ||
 shExpMatch(host, 'deloton.com') ||
 shExpMatch(host, 'demandbase.com') ||
 shExpMatch(host, 'demdex.net') ||
@@ -11202,7 +11205,6 @@ shExpMatch(host, 'sinceresofa.com') ||
 shExpMatch(host, 'sincerespy.com') ||
 shExpMatch(host, 'sinefight-skinesia.com') ||
 shExpMatch(host, 'sinoa.com') ||
-shExpMatch(host, 'Site') ||
 shExpMatch(host, 'sitebrand.geeks.com') ||
 shExpMatch(host, 'sitedataprocessing.com') ||
 shExpMatch(host, 'siteimproveanalytics.com') ||

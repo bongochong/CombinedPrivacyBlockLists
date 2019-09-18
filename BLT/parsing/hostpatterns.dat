@@ -8,6 +8,10 @@ ip6-mcastprefix$
 localdomain$
 localhost$
 localhost.localdomain$
+^Site$
+^site$
+^Site $
+^site $
 ^#
 ^$
 ^0.0.0.0 $
