@@ -20,6 +20,7 @@ echo "Lists Downloaded."
 cat *.pac > pac-comb.txt
 sed -i "s/#.*$//" pac-comb.txt
 sed -i "/^$/d" pac-comb.txt
+sed -i "/^Site$/d" pac-comb.txt
 sort pac-comb.txt > pac-sort.txt
 uniq -i pac-sort.txt > pac-uniq.txt
 cp pac-uniq.txt pac-pre.txt
