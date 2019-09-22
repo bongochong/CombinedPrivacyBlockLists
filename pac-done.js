@@ -2293,7 +2293,6 @@ shExpMatch(host, '*.cetrk.com') ||
 shExpMatch(host, '*.cgicounter.puretec.de') ||
 shExpMatch(host, '*.chairscrack.com') ||
 shExpMatch(host, '*.chambercb.tk') ||
-shExpMatch(host, '*.chameleon.ad') ||
 shExpMatch(host, '*.championbft.com') ||
 shExpMatch(host, '*.chango.com') ||
 shExpMatch(host, '*.channel1vids.com') ||
@@ -2738,6 +2737,7 @@ shExpMatch(host, '*.emediate.eu') ||
 shExpMatch(host, '*.emerse.com') ||
 shExpMatch(host, '*.emetriq.de') ||
 shExpMatch(host, '*.e-m.fr') ||
+shExpMatch(host, '*.emjcd.com') ||
 shExpMatch(host, '*.emltrk.com') ||
 shExpMatch(host, '*.emonitor.takeit.cz') ||
 shExpMatch(host, '*.en25.com') ||
@@ -2788,6 +2788,7 @@ shExpMatch(host, '*.eusta.de') ||
 shExpMatch(host, '*.evanescentedge.com') ||
 shExpMatch(host, '*.everesttech.net') ||
 shExpMatch(host, '*.evergage.com') ||
+shExpMatch(host, '*.eversales.space') ||
 shExpMatch(host, '*.evidencecleanergold.com') ||
 shExpMatch(host, '*.eviltracker.net') ||
 shExpMatch(host, '*.evyy.net') ||
@@ -5080,6 +5081,7 @@ shExpMatch(host, '*.squirrelhands.com') ||
 shExpMatch(host, '*.sqxflow.com') ||
 shExpMatch(host, '*.srbijacafe.org') ||
 shExpMatch(host, '*.srvmath.com') ||
+shExpMatch(host, '*.srvtrck.com') ||
 shExpMatch(host, '*.srwww1.com') ||
 shExpMatch(host, '*.sslsam.com') ||
 shExpMatch(host, '*.ssl.sinergycosmetics.com') ||
@@ -5713,6 +5715,7 @@ shExpMatch(host, '*.upsnap.com') ||
 shExpMatch(host, '*.uptight.su') ||
 shExpMatch(host, '*.urbanityadnetwork.com') ||
 shExpMatch(host, '*.urlcash.net') ||
+shExpMatch(host, '*.urldata.net') ||
 shExpMatch(host, '*.urulvtffwoq.xyz') ||
 shExpMatch(host, '*.us.a1.yimg.com') ||
 shExpMatch(host, '*.usapromotravel.com') ||
@@ -8522,7 +8525,6 @@ shExpMatch(host, 'cetrk.com') ||
 shExpMatch(host, 'cgicounter.puretec.de') ||
 shExpMatch(host, 'chairscrack.com') ||
 shExpMatch(host, 'chambercb.tk') ||
-shExpMatch(host, 'chameleon.ad') ||
 shExpMatch(host, 'championbft.com') ||
 shExpMatch(host, 'chango.com') ||
 shExpMatch(host, 'channel1vids.com') ||
@@ -8967,6 +8969,7 @@ shExpMatch(host, 'emediate.eu') ||
 shExpMatch(host, 'emerse.com') ||
 shExpMatch(host, 'emetriq.de') ||
 shExpMatch(host, 'e-m.fr') ||
+shExpMatch(host, 'emjcd.com') ||
 shExpMatch(host, 'emltrk.com') ||
 shExpMatch(host, 'emonitor.takeit.cz') ||
 shExpMatch(host, 'en25.com') ||
@@ -9017,6 +9020,7 @@ shExpMatch(host, 'eusta.de') ||
 shExpMatch(host, 'evanescentedge.com') ||
 shExpMatch(host, 'everesttech.net') ||
 shExpMatch(host, 'evergage.com') ||
+shExpMatch(host, 'eversales.space') ||
 shExpMatch(host, 'evidencecleanergold.com') ||
 shExpMatch(host, 'eviltracker.net') ||
 shExpMatch(host, 'evyy.net') ||
@@ -11309,6 +11313,7 @@ shExpMatch(host, 'squirrelhands.com') ||
 shExpMatch(host, 'sqxflow.com') ||
 shExpMatch(host, 'srbijacafe.org') ||
 shExpMatch(host, 'srvmath.com') ||
+shExpMatch(host, 'srvtrck.com') ||
 shExpMatch(host, 'srwww1.com') ||
 shExpMatch(host, 'sslsam.com') ||
 shExpMatch(host, 'ssl.sinergycosmetics.com') ||
@@ -11942,6 +11947,7 @@ shExpMatch(host, 'upsnap.com') ||
 shExpMatch(host, 'uptight.su') ||
 shExpMatch(host, 'urbanityadnetwork.com') ||
 shExpMatch(host, 'urlcash.net') ||
+shExpMatch(host, 'urldata.net') ||
 shExpMatch(host, 'urulvtffwoq.xyz') ||
 shExpMatch(host, 'us.a1.yimg.com') ||
 shExpMatch(host, 'usapromotravel.com') ||
