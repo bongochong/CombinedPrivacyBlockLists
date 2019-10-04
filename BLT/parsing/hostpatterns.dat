@@ -1,10 +1,12 @@
 broadcasthost$
+ip6-allhosts$
 ip6-allnodes$
 ip6-allrouters$
 ip6-localhost$
 ip6-localnet$
 ip6-loopback$
 ip6-mcastprefix$
+ip6-allrouters$
 localdomain$
 localhost$
 localhost.localdomain$
@@ -17,6 +19,7 @@ localhost.localdomain$
 ^0.0.0.0 $
 ^127.0.0.1 $
 ^0.0.0.0$
+^0.0.0.0 0.0.0.0$
 ^127.0.0.1$
 ^127.0.0.1		localhost
 ^127.0.0.1	localhost
