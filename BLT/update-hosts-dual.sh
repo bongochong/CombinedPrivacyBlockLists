@@ -27,8 +27,12 @@ wget -nv -O hosts.7 "https://raw.githubusercontent.com/bongochong/CombinedPrivac
 echo "Downloaded hosts list 7"
 wget -nv -O hosts.8 "https://v.firebog.net/hosts/Easylist.txt"
 echo "Downloaded hosts list 8"
-# wget -nv -O hosts.9 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/NSA-BlockList-IPv4-Light.txt"
-# echo "Downloaded hosts list 9"
+wget -nv -O hosts.9 "https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/EasyPrivacy3rdParty.txt"
+echo "Downloaded hosts list 9"
+wget -nv -O hosts.10 "https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt"
+echo "Downloaded hosts list 10"
+# wget -nv -O hosts.11 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/NSA-BlockList-IPv4-Light.txt"
+# echo "Downloaded hosts list 11"
 cat hosts.* > hosts-cat.final
 pcregrep -v -f ~/BLT/parsing/hostpatterns.dat hosts-cat.final > hosts-pre.final
 sort hosts-pre.final > sorted-hosts.final
