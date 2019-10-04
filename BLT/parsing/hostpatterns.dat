@@ -6,7 +6,6 @@ ip6-localhost$
 ip6-localnet$
 ip6-loopback$
 ip6-mcastprefix$
-ip6-allrouters$
 localdomain$
 localhost$
 localhost.localdomain$
