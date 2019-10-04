@@ -4750,6 +4750,7 @@ shExpMatch(host, '*.receptivereaction.com') ||
 shExpMatch(host, '*.record.affiliates.karjalakasino.com') ||
 shExpMatch(host, '*.record.bonniergaming.com') ||
 shExpMatch(host, '*.record.mrwin.com') ||
+shExpMatch(host, '*.redirectingat.com') ||
 shExpMatch(host, '*.re-directme.com') ||
 shExpMatch(host, '*.redirectvoluum.com') ||
 shExpMatch(host, '*.redmas.com') ||
@@ -10995,6 +10996,7 @@ shExpMatch(host, 'receptivereaction.com') ||
 shExpMatch(host, 'record.affiliates.karjalakasino.com') ||
 shExpMatch(host, 'record.bonniergaming.com') ||
 shExpMatch(host, 'record.mrwin.com') ||
+shExpMatch(host, 'redirectingat.com') ||
 shExpMatch(host, 're-directme.com') ||
 shExpMatch(host, 'redirectvoluum.com') ||
 shExpMatch(host, 'redmas.com') ||
