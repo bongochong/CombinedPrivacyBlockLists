@@ -1660,6 +1660,7 @@ shExpMatch(host, '*.afterview.ru') ||
 shExpMatch(host, '*.agkn.com') ||
 shExpMatch(host, '*.agreeableprice.com') ||
 shExpMatch(host, '*.agreeablestew.com') ||
+shExpMatch(host, '*.agreemand.com') ||
 shExpMatch(host, '*.ahalogy.com') ||
 shExpMatch(host, '*.aheadday.com') ||
 shExpMatch(host, '*.ah-ha.com') ||
@@ -2295,6 +2296,7 @@ shExpMatch(host, '*.cetrk.com') ||
 shExpMatch(host, '*.cgicounter.puretec.de') ||
 shExpMatch(host, '*.chairscrack.com') ||
 shExpMatch(host, '*.chambercb.tk') ||
+shExpMatch(host, '*.chameleon.ad') ||
 shExpMatch(host, '*.championbft.com') ||
 shExpMatch(host, '*.chango.com') ||
 shExpMatch(host, '*.channel1vids.com') ||
@@ -2321,6 +2323,7 @@ shExpMatch(host, '*.chinsnakes.com') ||
 shExpMatch(host, '*.chitika.com') ||
 shExpMatch(host, '*.chitika.net') ||
 shExpMatch(host, '*.ch.questionmarket.com') ||
+shExpMatch(host, '*.christingel.com') ||
 shExpMatch(host, '*.chromebewfk.top') ||
 shExpMatch(host, '*.cibleclick.com') ||
 shExpMatch(host, '*.ciceidr.top') ||
@@ -2788,6 +2791,7 @@ shExpMatch(host, '*.european-toplist.de') ||
 shExpMatch(host, '*.euroranking.de') ||
 shExpMatch(host, '*.euros4click.de') ||
 shExpMatch(host, '*.eusta.de') ||
+shExpMatch(host, '*.evadav.com') ||
 shExpMatch(host, '*.evanescentedge.com') ||
 shExpMatch(host, '*.everesttech.net') ||
 shExpMatch(host, '*.evergage.com') ||
@@ -2964,6 +2968,7 @@ shExpMatch(host, '*.finsolutions.top') ||
 shExpMatch(host, '*.firstlightera.com') ||
 shExpMatch(host, '*.first.nova.cz') ||
 shExpMatch(host, '*.fitga.ru') ||
+shExpMatch(host, '*.fixel.ai') ||
 shExpMatch(host, '*.flakyfeast.com') ||
 shExpMatch(host, '*.flashtalking.com') ||
 shExpMatch(host, '*.flavordecision.com') ||
@@ -3825,7 +3830,6 @@ shExpMatch(host, '*.mediaserver.bwinpartypartners.it') ||
 shExpMatch(host, '*.media-servers.net') ||
 shExpMatch(host, '*.mediashakers.com') ||
 shExpMatch(host, '*.mediatext.com') ||
-shExpMatch(host, '*.mediatrking.com') ||
 shExpMatch(host, '*.mediavine.com') ||
 shExpMatch(host, '*.mediavoice.com') ||
 shExpMatch(host, '*.mediax.angloinfo.com') ||
@@ -6238,6 +6242,7 @@ shExpMatch(host, '*.zintext.com') ||
 shExpMatch(host, '*.zjfq4lnfbs7pncr5.onion.to') ||
 shExpMatch(host, '*.zjfq4lnfbs7pncr5.tor2web.org') ||
 shExpMatch(host, '*.zlp6s.pw') ||
+shExpMatch(host, '*.zm232.com') ||
 shExpMatch(host, '*.zmedia.com') ||
 shExpMatch(host, '*.zpu.samsungelectronics.com') ||
 shExpMatch(host, '*.zqtk.net') ||
@@ -7906,6 +7911,7 @@ shExpMatch(host, 'afterview.ru') ||
 shExpMatch(host, 'agkn.com') ||
 shExpMatch(host, 'agreeableprice.com') ||
 shExpMatch(host, 'agreeablestew.com') ||
+shExpMatch(host, 'agreemand.com') ||
 shExpMatch(host, 'ahalogy.com') ||
 shExpMatch(host, 'aheadday.com') ||
 shExpMatch(host, 'ah-ha.com') ||
@@ -8541,6 +8547,7 @@ shExpMatch(host, 'cetrk.com') ||
 shExpMatch(host, 'cgicounter.puretec.de') ||
 shExpMatch(host, 'chairscrack.com') ||
 shExpMatch(host, 'chambercb.tk') ||
+shExpMatch(host, 'chameleon.ad') ||
 shExpMatch(host, 'championbft.com') ||
 shExpMatch(host, 'chango.com') ||
 shExpMatch(host, 'channel1vids.com') ||
@@ -8567,6 +8574,7 @@ shExpMatch(host, 'chinsnakes.com') ||
 shExpMatch(host, 'chitika.com') ||
 shExpMatch(host, 'chitika.net') ||
 shExpMatch(host, 'ch.questionmarket.com') ||
+shExpMatch(host, 'christingel.com') ||
 shExpMatch(host, 'chromebewfk.top') ||
 shExpMatch(host, 'cibleclick.com') ||
 shExpMatch(host, 'ciceidr.top') ||
@@ -9034,6 +9042,7 @@ shExpMatch(host, 'european-toplist.de') ||
 shExpMatch(host, 'euroranking.de') ||
 shExpMatch(host, 'euros4click.de') ||
 shExpMatch(host, 'eusta.de') ||
+shExpMatch(host, 'evadav.com') ||
 shExpMatch(host, 'evanescentedge.com') ||
 shExpMatch(host, 'everesttech.net') ||
 shExpMatch(host, 'evergage.com') ||
@@ -9210,6 +9219,7 @@ shExpMatch(host, 'finsolutions.top') ||
 shExpMatch(host, 'firstlightera.com') ||
 shExpMatch(host, 'first.nova.cz') ||
 shExpMatch(host, 'fitga.ru') ||
+shExpMatch(host, 'fixel.ai') ||
 shExpMatch(host, 'flakyfeast.com') ||
 shExpMatch(host, 'flashtalking.com') ||
 shExpMatch(host, 'flavordecision.com') ||
@@ -10071,7 +10081,6 @@ shExpMatch(host, 'mediaserver.bwinpartypartners.it') ||
 shExpMatch(host, 'media-servers.net') ||
 shExpMatch(host, 'mediashakers.com') ||
 shExpMatch(host, 'mediatext.com') ||
-shExpMatch(host, 'mediatrking.com') ||
 shExpMatch(host, 'mediavine.com') ||
 shExpMatch(host, 'mediavoice.com') ||
 shExpMatch(host, 'mediax.angloinfo.com') ||
@@ -12484,6 +12493,7 @@ shExpMatch(host, 'zintext.com') ||
 shExpMatch(host, 'zjfq4lnfbs7pncr5.onion.to') ||
 shExpMatch(host, 'zjfq4lnfbs7pncr5.tor2web.org') ||
 shExpMatch(host, 'zlp6s.pw') ||
+shExpMatch(host, 'zm232.com') ||
 shExpMatch(host, 'zmedia.com') ||
 shExpMatch(host, 'zpu.samsungelectronics.com') ||
 shExpMatch(host, 'zqtk.net') ||

@@ -7096,6 +7096,7 @@
 0.0.0.0 herocpm.com
 0.0.0.0 herofandhist.info
 0.0.0.0 herowebads.com
+0.0.0.0 hertforthatharrigh.pro
 0.0.0.0 hettwksj.bid
 0.0.0.0 hevdxhsfbwud.com
 0.0.0.0 hevfziuvxq.bid
@@ -7180,6 +7181,7 @@
 0.0.0.0 himediads.com
 0.0.0.0 himediadx.com
 0.0.0.0 himselves.com
+0.0.0.0 hindurinning.pro
 0.0.0.0 hipersushiads.com
 0.0.0.0 hiplair.com
 0.0.0.0 hirdchyngnn.bid
@@ -14424,6 +14426,7 @@
 0.0.0.0 saboopiz.net
 0.0.0.0 sadbads.com
 0.0.0.0 s.adroll.com
+0.0.0.0 sadsims.com
 0.0.0.0 saenrwiqesp.com
 0.0.0.0 sa.entireweb.com
 0.0.0.0 safeadnetworkdata.net
