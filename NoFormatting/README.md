@@ -1,2 +1,2 @@
-#Optimized Windows Hosts Files and Miscellaneous Supplementary Content
+# Optimized Windows Hosts Files and Miscellaneous Supplementary Content
 Within this directory are the optimized Windows hosts files mentioned on the main readme of this repository; Four versions of Chef Koch's infamous NSA block list; Two very small lists which assist in blocking tracking servers associated with Device9; Along with stripped down IPv4 and IPv6-only hosts files which - aside from formatting - contain the same data as the hosts files mentioned on the main readme of this repository. File name's in here are self-explanatory, so I see no need to create a linked index.
