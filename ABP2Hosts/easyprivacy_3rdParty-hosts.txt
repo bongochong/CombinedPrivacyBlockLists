@@ -10,7 +10,6 @@
 0.0.0.0 54.217.234.232
 0.0.0.0 61.129.118.83
 0.0.0.0 62.219.24.238
-0.0.0.0 88.150.172.219
 0.0.0.0 93.93.53.198
 0.0.0.0 95.211.106.41
 0.0.0.0 a2a.lockerz.com
@@ -34,11 +33,9 @@
 0.0.0.0 affiliates.spark.net
 0.0.0.0 affiliates.swappernet.com
 0.0.0.0 affl.sucuri.net
-0.0.0.0 akamaihd.net
 0.0.0.0 akatracking.esearchvision.com
 0.0.0.0 aksb-a.akamaihd.net
 0.0.0.0 alexandria.marfeelcdn.com
-0.0.0.0 amazonaws.com
 0.0.0.0 a.mobify.com
 0.0.0.0 amp-error-reporting.appspot.com
 0.0.0.0 amplify.outbrain.com
@@ -204,7 +201,6 @@
 0.0.0.0 blip.bizrate.com
 0.0.0.0 bonsai.internetbrands.com
 0.0.0.0 brain.foresee.com
-0.0.0.0 branch.io
 0.0.0.0 bright.bncnt.com
 0.0.0.0 bs.yandex.ru
 0.0.0.0 btn.clickability.com
@@ -238,7 +234,6 @@
 0.0.0.0 click1.online.vulture.com
 0.0.0.0 click.appinthestore.com
 0.0.0.0 click.aristotle.net
-0.0.0.0 clicker.com
 0.0.0.0 click.geopaysys.com
 0.0.0.0 click.rssfwd.com
 0.0.0.0 clicks.dealer.com
@@ -328,7 +323,6 @@
 0.0.0.0 c.wen.ru
 0.0.0.0 cws.conviva.com
 0.0.0.0 cx.atdmt.com
-0.0.0.0 c.ypcdn.com
 0.0.0.0 d10lpsik1i8c69.cloudfront.net
 0.0.0.0 d11a2fzhgzqe7i.cloudfront.net
 0.0.0.0 d169bbxks24g2u.cloudfront.net
@@ -493,7 +487,6 @@
 0.0.0.0 events.antenna.is
 0.0.0.0 events.apester.com
 0.0.0.0 events.demoup.com
-0.0.0.0 events.eyeviewdigital.com
 0.0.0.0 events.izooto.com
 0.0.0.0 events.jotform.com
 0.0.0.0 events.launchdarkly.com
@@ -511,13 +504,11 @@
 0.0.0.0 fastcounter.bcentral.com
 0.0.0.0 fastcounter.onlinehoster.net
 0.0.0.0 fbpixel.network.exchange
-0.0.0.0 feedblitz.com
 0.0.0.0 filament-stats.herokuapp.com
 0.0.0.0 flashstats.libsyn.com
 0.0.0.0 fluidsurveys-com.fs.cm
 0.0.0.0 fog.pixual.co
 0.0.0.0 fourmtagservices.appspot.com
-0.0.0.0 freehostedscripts.net
 0.0.0.0 friends.totallynsfw.com
 0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 future-fie-assets.co.uk
@@ -581,7 +572,6 @@
 0.0.0.0 i-stats.ieurop.net
 0.0.0.0 itracking.fccinteractive.com
 0.0.0.0 i.viafoura.co
-0.0.0.0 jangomail.com
 0.0.0.0 javascriptcounter.appspot.com
 0.0.0.0 jobs.hrkspjbs.com
 0.0.0.0 js-agent.newrelic.com
@@ -651,8 +641,6 @@
 0.0.0.0 mc.yandex.ru
 0.0.0.0 mediametrics.mpsa.com
 0.0.0.0 mediapartner.bigpoint.net
-0.0.0.0 mediaplex.com
-0.0.0.0 metaffiliation.com
 0.0.0.0 metering.pagesuite.com
 0.0.0.0 metric.nwsource.com
 0.0.0.0 metrics-api.dimensions.ai
@@ -765,7 +753,6 @@
 0.0.0.0 pong.production.gannettdigital.com
 0.0.0.0 postpixel.vindicosuite.com
 0.0.0.0 powersearch.us.com
-0.0.0.0 p.po.st
 0.0.0.0 pr.blogflux.com
 0.0.0.0 prd-collector-anon.playbuzz.com
 0.0.0.0 prism.app-us1.com
@@ -782,7 +769,6 @@
 0.0.0.0 ptsc.shoplocal.com
 0.0.0.0 publish.pizzazzemail.com
 0.0.0.0 pub.sheknows.com
-0.0.0.0 pussy.org
 0.0.0.0 px.247inc.net
 0.0.0.0 px.dynamicyield.com
 0.0.0.0 px.excitedigitalmedia.com
@@ -801,7 +787,6 @@
 0.0.0.0 rc.rlcdn.com
 0.0.0.0 recs.atgsvcs.com
 0.0.0.0 redir.widdit.com
-0.0.0.0 redplum.com
 0.0.0.0 referrer.disqus.com
 0.0.0.0 report.downloastar.com
 0.0.0.0 reporting.handll.net
@@ -841,13 +826,11 @@
 0.0.0.0 shopnetic.com
 0.0.0.0 sig.atdmt.com
 0.0.0.0 sig.gamerdna.com
-0.0.0.0 signup.advance.net
 0.0.0.0 sitereports.officelive.com
 0.0.0.0 slidedeck.com
 0.0.0.0 smrt.as
 0.0.0.0 snaps.vidiemi.com
 0.0.0.0 snowplow.swm.digital
-0.0.0.0 socialreader.com
 0.0.0.0 spacedust.netmediaeurope.com
 0.0.0.0 speedtrap.shopdirect.com
 0.0.0.0 spoods.rce.veeseo.com
@@ -949,7 +932,6 @@
 0.0.0.0 survey.interquest.com
 0.0.0.0 surveywall-api.survata.com
 0.0.0.0 s-vop.sundaysky.com
-0.0.0.0 synapsys.us
 0.0.0.0 sync.adap.tv
 0.0.0.0 systemmonitoring.badgeville.com
 0.0.0.0 t2.t2b.click
@@ -984,7 +966,6 @@
 0.0.0.0 telemetry.soundcloud.com
 0.0.0.0 te.supportfreecontent.com
 0.0.0.0 t.flux.com
-0.0.0.0 thefilter.com
 0.0.0.0 thetradedesk-tags.s3.amazonaws.com
 0.0.0.0 tl.tradetracker.net
 0.0.0.0 t.menepe.com
@@ -1156,7 +1137,6 @@
 0.0.0.0 trk.sele.co
 0.0.0.0 trk.vindicosuite.com
 0.0.0.0 tr-metrics.loomia.com
-0.0.0.0 trove.com
 0.0.0.0 tru.webelapp.com
 0.0.0.0 tr.webantenna.info
 0.0.0.0 try.abtasty.com
@@ -1173,7 +1153,6 @@
 0.0.0.0 ucounter.ucoz.net
 0.0.0.0 uid.mavencoalition.io
 0.0.0.0 uim.tifbs.net
-0.0.0.0 ui-portal.com
 0.0.0.0 upt.graphiq.com
 0.0.0.0 urc.taboolasyndication.com
 0.0.0.0 userlog.synapseip.tv
@@ -1206,16 +1185,13 @@
 0.0.0.0 widget.perfectmarket.com
 0.0.0.0 widget.quantcast.com
 0.0.0.0 win.staticstuff.net
-0.0.0.0 woolik.com
 0.0.0.0 ws.audioeye.com
 0.0.0.0 wsb.aracert.com
 0.0.0.0 wstat.wibiya.com
 0.0.0.0 wunderloop.aol.co.uk
 0.0.0.0 x.weather.com
 0.0.0.0 yapi.awe.sm
-0.0.0.0 yellowpages.com
 0.0.0.0 ys.ddns.me
 0.0.0.0 zdlogs.sphereup.com
-0.0.0.0 zoomtv.me
 0.0.0.0 z.opmnstr.com
 0.0.0.0 zvsuhljiha-a.akamaihd.net

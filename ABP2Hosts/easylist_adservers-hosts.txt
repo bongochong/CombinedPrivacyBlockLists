@@ -3748,7 +3748,6 @@
 0.0.0.0 coull.com
 0.0.0.0 countante.info
 0.0.0.0 coupon2buy.com
-0.0.0.0 covertarget.com
 0.0.0.0 covjoecuzyss.com
 0.0.0.0 cowmslkltc.com
 0.0.0.0 coxgtwdios.bid
