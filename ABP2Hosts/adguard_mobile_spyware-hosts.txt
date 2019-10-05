@@ -66,6 +66,7 @@
 0.0.0.0 api.taplytics.com
 0.0.0.0 api.uca.cloud.unity3d.com
 0.0.0.0 apiv2.moengage.com
+0.0.0.0 app.adjust.com
 0.0.0.0 applog.uc.cn
 0.0.0.0 appmetr.com
 0.0.0.0 appmetrica.yandex.com
@@ -122,6 +123,7 @@
 0.0.0.0 fdplttrk.com
 0.0.0.0 fraudmetrix.cn
 0.0.0.0 gameanalisys.appcpi.net
+0.0.0.0 gate.hockeyapp.net
 0.0.0.0 gcm.ksmobile.com
 0.0.0.0 gcm.ksmobile.net
 0.0.0.0 geo.go2s.co
@@ -143,6 +145,7 @@
 0.0.0.0 installtracker.com
 0.0.0.0 io.narrative.io
 0.0.0.0 ios.bugly.qq.com
+0.0.0.0 ip-api.com
 0.0.0.0 kaffnet.com
 0.0.0.0 krxd.net
 0.0.0.0 lepodownload.mediatek.com
