@@ -1,5 +1,5 @@
 # Hosts Files Generated from Popular AdBlock Plus-compatible Subscriptions
-Within this directory are lists converted to the hosts format from popular AdBlock Plus-compatible Subscriptions. They are as follows:
+Within this directory are lists converted to the hosts format from popular AdBlock Plus-compatible subscriptions. They are as follows:
 
 - [AdGuard's Mobile Ad Servers List](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/adguard_mobile_adservers-hosts.txt): Generated from [this subscription](https://github.com/AdguardTeam/AdguardFilters/blob/master/MobileFilter/sections/adservers.txt).
 
@@ -8,3 +8,5 @@ Within this directory are lists converted to the hosts format from popular AdBlo
 - [EasyList's Ad Servers List](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/easylist_adservers-hosts.txt): Generated from [this subscription](https://github.com/easylist/easylist/blob/master/easylist/easylist_adservers.txt).
 
 - [EasyPrivacy's Third Party Trackers List](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/easyprivacy_3rdParty-hosts.txt): Generated from [this subscription](https://github.com/easylist/easylist/blob/master/easyprivacy/easyprivacy_thirdparty.txt).
+
+These will be updated once a week. I also plan on generating and maintaining more from other ABP-comptaible subscriptions in the future. Enjoy.
