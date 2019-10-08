@@ -15,6 +15,6 @@ Within this directory are lists converted to the hosts format from popular AdBlo
 
 - [AdGuard's General Ad Servers](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/adguard_adservers-hosts.txt): Generated from [this subscription](https://github.com/AdguardTeam/AdguardFilters/blob/master/EnglishFilter/sections/adservers.txt).
 
-- [AdGuard's First Part Ad Servers](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/adguard_1stParty-hosts.txt): Generated from [this subscription](https://github.com/AdguardTeam/AdguardFilters/blob/master/EnglishFilter/sections/adservers_firstparty.txt).
+- [AdGuard's First Party Ad Servers](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/adguard_1stParty-hosts.txt): Generated from [this subscription](https://github.com/AdguardTeam/AdguardFilters/blob/master/EnglishFilter/sections/adservers_firstparty.txt).
 
 These will be updated once a week. They are generated via fetching the filter lists with curl and piping them through a series of parsing commands, to remove content that is incompatible with hosts files. Currently I am focused on ensuring that no false-positives end up in these lists, so my routines may be a bit aggressive in avoiding that. As I find the perfect balance, I plan on generating and maintaining more from other ABP-comptaible subscriptions. Enjoy.
