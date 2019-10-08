@@ -31,8 +31,16 @@ wget -nv -O hosts.9 "https://raw.githubusercontent.com/bongochong/CombinedPrivac
 echo "Downloaded hosts list 9"
 wget -nv -O hosts.10 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/adguard_mobile_spyware-hosts.txt"
 echo "Downloaded hosts list 10"
-# wget -nv -O hosts.11 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/NSA-BlockList-IPv4-Light.txt"
-# echo "Downloaded hosts list 11"
+wget -nv -O hosts.11 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/adguard_adservers-hosts.txt"
+echo "Downloaded hosts list 11"
+wget -nv -O hosts.12 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/adguard_1stParty-hosts.txt"
+echo "Downloaded hosts list 12"
+wget -nv -O hosts.13 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/adguard_spyware_tracking-hosts.txt"
+echo "Downloaded hosts list 13"
+wget -nv -O hosts.14 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/adguard_cryptominers-hosts.txt"
+echo "Downloaded hosts list 14"
+# wget -nv -O hosts.15 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/NSA-BlockList-IPv4-Light.txt"
+# echo "Downloaded hosts list 15"
 cat hosts.* > hosts-cat.final
 pcregrep -v -f ~/BLT/parsing/hostpatterns.dat hosts-cat.final > hosts-pre.final
 sort hosts-pre.final > sorted-hosts.final
