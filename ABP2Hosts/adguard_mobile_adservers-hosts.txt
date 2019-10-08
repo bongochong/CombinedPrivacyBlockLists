@@ -556,7 +556,6 @@
 0.0.0.0 mads.bz
 0.0.0.0 mainadv.com
 0.0.0.0 manage.com
-0.0.0.0 manifest.auditude.com
 0.0.0.0 maudau.com
 0.0.0.0 mblapi.ssl2.duapps.com
 0.0.0.0 mbn.com.ua
@@ -855,7 +854,6 @@
 0.0.0.0 toyota.vo.llnwd.net
 0.0.0.0 tpbid.com
 0.0.0.0 tpc.googlesyndication.com
-0.0.0.0 track.cpatool.net
 0.0.0.0 trackimpression.com
 0.0.0.0 tracking.acekoala.com
 0.0.0.0 tracking.applift.com
