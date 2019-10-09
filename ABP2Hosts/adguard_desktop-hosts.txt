@@ -1,4 +1,4 @@
-#Generated weekly by bongochong
+#AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 0aac4e6a54c170b0.se
 0.0.0.0 0azx1.com
@@ -1319,6 +1319,7 @@
 0.0.0.0 crsspxl.com
 0.0.0.0 crvtrk.com
 0.0.0.0 crwdcntrl.net
+0.0.0.0 cryaptall.club
 0.0.0.0 crypta.js
 0.0.0.0 crypto-loot.com
 0.0.0.0 cryptoloot.pro
@@ -1988,6 +1989,7 @@
 0.0.0.0 fm6dz864.top
 0.0.0.0 fmnetwork.nl
 0.0.0.0 foagoasu.net
+0.0.0.0 foazasis.com
 0.0.0.0 focusego.info
 0.0.0.0 foditgoz.com
 0.0.0.0 fogl1onf.com
@@ -3256,6 +3258,7 @@
 0.0.0.0 neecnuaa.com
 0.0.0.0 nefroto.net
 0.0.0.0 neki.org
+0.0.0.0 neon.today
 0.0.0.0 nepsauss.net
 0.0.0.0 nererut.com
 0.0.0.0 nerohut.com
@@ -4011,6 +4014,7 @@
 0.0.0.0 reliablecounter.com
 0.0.0.0 relmaxtop.com
 0.0.0.0 remarketstats.com
+0.0.0.0 remotefilez.info
 0.0.0.0 remtoaku.net
 0.0.0.0 renaissanto.com
 0.0.0.0 rensovetors.info
