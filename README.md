@@ -36,7 +36,7 @@ These tools are modified versions of the ones I run on my LiGnux box. I've teste
 <sup>2. [PGL Yoyo Hosts Files](http://pgl.yoyo.org/adservers/). </sup> <br>
 <sup>3. [Malware Domain List Hosts Files](http://www.malwaredomainlist.com/). </sup> <br>
 <sup>4. [hpHosts Hosts Files](http://hosts-file.net/); I actually use both the Ad-Server and Exploits lists from them.</sup> <br>
-<sup>5. [AdGuard](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/adguard_mobile_adservers-hosts.txt). </sup> <br>
+<sup>5. [AdGuard](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/adguard_mobile-hosts.txt). </sup> <br>
 <sup>6. [Supplementary](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/WindowsTelemetryBlockSupplements) [Entries](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/ABP2Hosts). </sup> <br>
 <sup>7. [Halite](https://www.fosshub.com/Halite.html). </sup> <br>
 <sup>8. [BlueTack Lists on I-BlockList](https://www.iblocklist.com/lists). </sup> <br>
