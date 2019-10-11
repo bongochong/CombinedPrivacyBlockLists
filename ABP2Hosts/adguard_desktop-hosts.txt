@@ -579,6 +579,7 @@
 0.0.0.0 asdorka.com
 0.0.0.0 aservices.party
 0.0.0.0 asextube.net
+0.0.0.0 asg.xz2aab.xyz
 0.0.0.0 ashaidbit.club
 0.0.0.0 ashow.pcpop.com
 0.0.0.0 askallalb.club
@@ -787,6 +788,7 @@
 0.0.0.0 bkvtrack.com
 0.0.0.0 bl0uxepb4o.com
 0.0.0.0 black6adv.com
+0.0.0.0 blaghfpd.com
 0.0.0.0 blastnotificationx.com
 0.0.0.0 blatungo.com
 0.0.0.0 bleua.ecefibwja.xyz
@@ -1886,6 +1888,7 @@
 0.0.0.0 exovueplatform.com
 0.0.0.0 expectorslapsino.info
 0.0.0.0 experianmarketingservices.digital
+0.0.0.0 expertnifg.com
 0.0.0.0 explore-123.com
 0.0.0.0 exposebox.com
 0.0.0.0 ext.movixhub.com
@@ -4952,7 +4955,6 @@
 0.0.0.0 turbotraff.com
 0.0.0.0 turn.com
 0.0.0.0 turngrind.com
-0.0.0.0 turnto.com
 0.0.0.0 tuscrity.info
 0.0.0.0 twcount.com
 0.0.0.0 tweightment.pro
