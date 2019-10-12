@@ -1,7 +1,7 @@
 # Combined Privacy Block Lists
 Ad-blocking hosts files, BitTorrent IP block lists, and PAC files, all merged, sorted and de-duped from multiple reputable sources. The processing and generation of these lists is automated via [my homemade scripts and utilities](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/BLT), which are now available in subdirectories of this repository. Use as you see fit. All content in this repo is approved by Richard Stallman himself, theoretically.
 
-These lists *do* block servers of ads, tracking, and malware. These lists *do not* block porn, social media sites, or "fake news" (whatever the heck that is). Any potential false positives are rigorously removed as well. Updates to all compiled lists usually occur around once a week, and sometimes more often.
+These lists *only* block ad, tracking, and malware servers. These lists *do not* block porn, social media sites, or "fake news" (whatever the heck that is) domains, except for any ad, tracking, or malware servers associated with said domains. Any potential false positives are rigorously removed as well. Updates to all compiled lists usually occur around once a week, and sometimes more often.
 
 **Descriptions**
 
