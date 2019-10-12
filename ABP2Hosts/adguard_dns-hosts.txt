@@ -4309,6 +4309,7 @@
 0.0.0.0 basilic.netdna-cdn.com
 0.0.0.0 basketballbelieve.com
 0.0.0.0 baskettexture.com
+0.0.0.0 bathouph.net
 0.0.0.0 batigfkcbwpb.com
 0.0.0.0 batilo.de
 0.0.0.0 batsavcdn.ksmobile.net
@@ -7609,6 +7610,7 @@
 0.0.0.0 d3c3cq33003psk.cloudfront.net
 0.0.0.0 d3cesrg5igdcgt.cloudfront.net
 0.0.0.0 d3cxv97fi8q177.cloudfront.net
+0.0.0.0 d3d52lhoy0sh2w.cloudfront.net
 0.0.0.0 d3e44a82c2df88.com
 0.0.0.0 d3elm8wezzwg42.cloudfront.net
 0.0.0.0 d3ezl4ajpp2zy8.cloudfront.net
@@ -15362,6 +15364,7 @@
 0.0.0.0 licantrum.com
 0.0.0.0 licensing.bitmovin.com
 0.0.0.0 lichyela.ru
+0.0.0.0 licked-alphabet.eu
 0.0.0.0 lidicando.com
 0.0.0.0 lie2anyone.com
 0.0.0.0 lie4anyone.com
@@ -17110,6 +17113,7 @@
 0.0.0.0 mohcafpwpldi.com
 0.0.0.0 mohqurakhwvf.com
 0.0.0.0 moijs.com
+0.0.0.0 moist-thunderstorm.com
 0.0.0.0 mojhasmpl.com
 0.0.0.0 mojigaga.com
 0.0.0.0 mojiva.com
@@ -26493,7 +26497,6 @@
 0.0.0.0 turnefo.ru
 0.0.0.0 turngrind.com
 0.0.0.0 turnsocial.com
-0.0.0.0 turnto.com
 0.0.0.0 tur-tur-key.com
 0.0.0.0 turyvfzreolc.com
 0.0.0.0 tuscrity.info
@@ -30058,6 +30061,7 @@
 0.0.0.0 ytapgckhhvou.com
 0.0.0.0 ytaujxmxxxmm.com
 0.0.0.0 ytbpmzbabph.com
+0.0.0.0 ytcpfvgqp.com
 0.0.0.0 ytdoajoj.com
 0.0.0.0 ytimgg.com
 0.0.0.0 ytiyuqfxjbke.com

@@ -1839,6 +1839,7 @@
 0.0.0.0 agpnzrmptmos.com
 0.0.0.0 agqguxbm.com
 0.0.0.0 agreeableprice.com
+0.0.0.0 agreensdistra.info
 0.0.0.0 agrxsdujnh.com
 0.0.0.0 agshzkcsvoou.bid
 0.0.0.0 agvinhvex.com
@@ -2501,7 +2502,6 @@
 0.0.0.0 astpvgpwbewx.com
 0.0.0.0 astree.be
 0.0.0.0 astro-way.com
-0.0.0.0 async-px.dynamicyield.com
 0.0.0.0 aszdmbftkccdkj.com
 0.0.0.0 aszyzwbjs.com
 0.0.0.0 atadserver.com
@@ -2818,6 +2818,7 @@
 0.0.0.0 bahnjhnrcdwi.com
 0.0.0.0 baiaclwdpztd.com
 0.0.0.0 baiduccdn1.com
+0.0.0.0 baipagid.com
 0.0.0.0 bajofdblygev.com
 0.0.0.0 bakaqddxhhsid.com
 0.0.0.0 bakdsoarxjab.com
@@ -3216,6 +3217,7 @@
 0.0.0.0 bijscode.com
 0.0.0.0 bikepasture.com
 0.0.0.0 bikuetrh.com
+0.0.0.0 bileth.pw
 0.0.0.0 biliqpvehf.com
 0.0.0.0 billypub.com
 0.0.0.0 bilsyndication.com
@@ -3315,6 +3317,7 @@
 0.0.0.0 bkvtrack.com
 0.0.0.0 bkvwnbkq.com
 0.0.0.0 bkxkodsmrnqd.com
+0.0.0.0 blaghfpd.com
 0.0.0.0 blailays.pro
 0.0.0.0 blamads-assets.s3.amazonaws.com
 0.0.0.0 blamads.com
@@ -4698,7 +4701,6 @@
 0.0.0.0 construment.com
 0.0.0.0 consumable.com
 0.0.0.0 consumergenepool.com
-0.0.0.0 contactatonce.com
 0.0.0.0 contactmonkey.com
 0.0.0.0 contadd.com
 0.0.0.0 contaxe.com
@@ -5413,6 +5415,7 @@
 0.0.0.0 d3dytsf4vrjn5x.cloudfront.net
 0.0.0.0 d3e44a82c2df88.com
 0.0.0.0 d3ezl4ajpp2zy8.cloudfront.net
+0.0.0.0 d3f5l8ze0o4j2m.cloudfront.net
 0.0.0.0 d3f9mcik999dte.cloudfront.net
 0.0.0.0 d3fzrm6pcer44x.cloudfront.net
 0.0.0.0 d3h1v5cflrhzi4.cloudfront.net
@@ -6399,6 +6402,7 @@
 0.0.0.0 dynamicdn.com
 0.0.0.0 dynamicoxygen.com
 0.0.0.0 dynamicserving.com
+0.0.0.0 dynamicyield.com
 0.0.0.0 dynamitedata.com
 0.0.0.0 dynatrace.com
 0.0.0.0 dynatracesaas.com
@@ -8558,6 +8562,7 @@
 0.0.0.0 glodrips.com
 0.0.0.0 glogger.inspcloud.com
 0.0.0.0 glo-glo-oom.com
+0.0.0.0 gloorajo.com
 0.0.0.0 glotchat.click
 0.0.0.0 glowdot.com
 0.0.0.0 glpyiiahtdmaan.com
@@ -8789,6 +8794,7 @@
 0.0.0.0 grnrmwxf.com
 0.0.0.0 grobido.info
 0.0.0.0 gromairt.net
+0.0.0.0 grooksom.com
 0.0.0.0 groovinads.com
 0.0.0.0 groupcommerce.com
 0.0.0.0 group-ib.ru
@@ -10194,6 +10200,7 @@
 0.0.0.0 informz.net
 0.0.0.0 infra-ad.com
 0.0.0.0 infrashift.com
+0.0.0.0 infra.systems
 0.0.0.0 ingame.ad
 0.0.0.0 ingorob.com
 0.0.0.0 inhcrirmboz.com
@@ -10392,7 +10399,6 @@
 0.0.0.0 iprotrk.com
 0.0.0.0 ipsowrite.com
 0.0.0.0 ipstat.com
-0.0.0.0 ipstatp.com
 0.0.0.0 iptrkboffhf.com
 0.0.0.0 ipv6monitoring.eu
 0.0.0.0 ipvvitntvja.com
@@ -11585,6 +11591,7 @@
 0.0.0.0 kofeereb.com
 0.0.0.0 kofpag.com
 0.0.0.0 kohiquor.com
+0.0.0.0 koindut.com
 0.0.0.0 koinser.in
 0.0.0.0 kojywvexdq.com
 0.0.0.0 kokilopi.com
@@ -16384,7 +16391,6 @@
 0.0.0.0 pxbugrgwy.com
 0.0.0.0 pxcveedcuzy.com
 0.0.0.0 pxcwdyasdsumdsxjnn.com
-0.0.0.0 px.dynamicyield.com
 0.0.0.0 px.excitedigitalmedia.com
 0.0.0.0 pxf.io
 0.0.0.0 pxgfvpwkukl.com
@@ -17238,6 +17244,7 @@
 0.0.0.0 renaissanto.com
 0.0.0.0 rencohep.com
 0.0.0.0 renhertfo.com
+0.0.0.0 rensovetors.info
 0.0.0.0 reople.co.kr
 0.0.0.0 rep0pkgr.com
 0.0.0.0 repaynik.com
@@ -17596,6 +17603,7 @@
 0.0.0.0 rotorads.com
 0.0.0.0 rotumal.com
 0.0.0.0 roughted.com
+0.0.0.0 rouvoute.net
 0.0.0.0 rouvpebtazdlq.com
 0.0.0.0 rovarti.info
 0.0.0.0 rovion.com
@@ -18946,7 +18954,6 @@
 0.0.0.0 st.cdnco.us
 0.0.0.0 stcllctrs.com
 0.0.0.0 stcounter.com
-0.0.0.0 st.dynamicyield.com
 0.0.0.0 steadfastsystem.com
 0.0.0.0 steakafka.pro
 0.0.0.0 stealthlockers.com
@@ -20252,7 +20259,6 @@
 0.0.0.0 truex.com
 0.0.0.0 truoptik.com
 0.0.0.0 trustaffs.com
-0.0.0.0 trustedform.com
 0.0.0.0 trustx.org
 0.0.0.0 trust.zone
 0.0.0.0 truthfulhead.com
@@ -23933,6 +23939,7 @@
 0.0.0.0 ziebgbikz.com
 0.0.0.0 ziffdavis.com
 0.0.0.0 ziglpcxcxetsi.com
+0.0.0.0 zijaipse.com
 0.0.0.0 zijkalirgmyzj.bid
 0.0.0.0 zijnobynjmcs.com
 0.0.0.0 zilzolachi.com

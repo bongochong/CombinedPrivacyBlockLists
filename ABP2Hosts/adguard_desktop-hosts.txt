@@ -688,6 +688,7 @@
 0.0.0.0 basilic.io
 0.0.0.0 basketballbelieve.com
 0.0.0.0 baskettexture.com
+0.0.0.0 bathouph.net
 0.0.0.0 bawdybeast.com
 0.0.0.0 baynote.net
 0.0.0.0 baywttgdhe.download
@@ -731,6 +732,7 @@
 0.0.0.0 beserte.pro
 0.0.0.0 besstahete.info
 0.0.0.0 bestadbid.com
+0.0.0.0 bestcontentfood.top
 0.0.0.0 bestevernews.com
 0.0.0.0 bestevernews.net
 0.0.0.0 best.infoiswhatwedo.com
@@ -1316,7 +1318,6 @@
 0.0.0.0 crosswalkmail.com
 0.0.0.0 crowdscience.com
 0.0.0.0 crowdskout.com
-0.0.0.0 crowdtwist.com
 0.0.0.0 crownclam.com
 0.0.0.0 crsspxl.com
 0.0.0.0 crvtrk.com
@@ -1442,6 +1443,7 @@
 0.0.0.0 d3ahinqqx1dy5v.cloudfront.net
 0.0.0.0 d3ax6xygyb5hn9.cloudfront.net
 0.0.0.0 d3cesrg5igdcgt.cloudfront.net
+0.0.0.0 d3d52lhoy0sh2w.cloudfront.net
 0.0.0.0 d3elm8wezzwg42.cloudfront.net
 0.0.0.0 d3fqhkmofpujs3.cloudfront.net
 0.0.0.0 d3i1asoswufp5k.cloudfront.net
@@ -2831,6 +2833,7 @@
 0.0.0.0 liadm.com
 0.0.0.0 libertystmedia.com
 0.0.0.0 libstat.com
+0.0.0.0 licked-alphabet.eu
 0.0.0.0 lifestyle24h.com
 0.0.0.0 liflandaffiliates.com
 0.0.0.0 lift.acquia.com
@@ -2852,6 +2855,7 @@
 0.0.0.0 liod1ours.com
 0.0.0.0 listat.biz
 0.0.0.0 listrakbi.com
+0.0.0.0 lists-tracking.komando.com
 0.0.0.0 listtop.ru
 0.0.0.0 livecounter.dk
 0.0.0.0 livecount.fr
@@ -3124,6 +3128,7 @@
 0.0.0.0 modernus.is
 0.0.0.0 modulepush.com
 0.0.0.0 moguldom.com
+0.0.0.0 moist-thunderstorm.com
 0.0.0.0 mokuz.ru
 0.0.0.0 monero-miner.com
 0.0.0.0 monetate.net
@@ -4941,6 +4946,7 @@
 0.0.0.0 tst14netreal.com
 0.0.0.0 tstlabs.co.uk
 0.0.0.0 tsw0.com
+0.0.0.0 tsyndicate.com
 0.0.0.0 tt.biquge.la
 0.0.0.0 ttkx.qyctj.com
 0.0.0.0 tt.ttarget.ru
