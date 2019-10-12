@@ -840,6 +840,7 @@ shExpMatch(host, '*.adlantic.nl') ||
 shExpMatch(host, '*.ad.leadbolt.net') ||
 shExpMatch(host, '*.adledge.com') ||
 shExpMatch(host, '*.adlegend.com') ||
+shExpMatch(host, '*.adlightning.com') ||
 shExpMatch(host, '*.adlink.de') ||
 shExpMatch(host, '*.ad.liveinternet.ru') ||
 shExpMatch(host, '*.adlog.com.com') ||
@@ -2423,6 +2424,7 @@ shExpMatch(host, '*.commindo-media-ressourcen.de') ||
 shExpMatch(host, '*.commissionmonster.com') ||
 shExpMatch(host, '*.commoncannon.com') ||
 shExpMatch(host, '*.commonswing.com') ||
+shExpMatch(host, '*.com-optimize-mac.live') ||
 shExpMatch(host, '*.compactbanner.com') ||
 shExpMatch(host, '*.company-target.com') ||
 shExpMatch(host, '*.completecabbage.com') ||
@@ -2733,7 +2735,6 @@ shExpMatch(host, '*.elephantqueue.com') ||
 shExpMatch(host, '*.eliminateeffect.com') ||
 shExpMatch(host, '*.elitedollars.com') ||
 shExpMatch(host, '*.elitetoplist.com') ||
-shExpMatch(host, '*.elthamely.com') ||
 shExpMatch(host, '*.emaillifecoaching.com.au') ||
 shExpMatch(host, '*.emarketer.com') ||
 shExpMatch(host, '*.emebo.com') ||
@@ -7091,6 +7092,7 @@ shExpMatch(host, 'adlantic.nl') ||
 shExpMatch(host, 'ad.leadbolt.net') ||
 shExpMatch(host, 'adledge.com') ||
 shExpMatch(host, 'adlegend.com') ||
+shExpMatch(host, 'adlightning.com') ||
 shExpMatch(host, 'adlink.de') ||
 shExpMatch(host, 'ad.liveinternet.ru') ||
 shExpMatch(host, 'adlog.com.com') ||
@@ -8674,6 +8676,7 @@ shExpMatch(host, 'commindo-media-ressourcen.de') ||
 shExpMatch(host, 'commissionmonster.com') ||
 shExpMatch(host, 'commoncannon.com') ||
 shExpMatch(host, 'commonswing.com') ||
+shExpMatch(host, 'com-optimize-mac.live') ||
 shExpMatch(host, 'compactbanner.com') ||
 shExpMatch(host, 'company-target.com') ||
 shExpMatch(host, 'completecabbage.com') ||
@@ -8984,7 +8987,6 @@ shExpMatch(host, 'elephantqueue.com') ||
 shExpMatch(host, 'eliminateeffect.com') ||
 shExpMatch(host, 'elitedollars.com') ||
 shExpMatch(host, 'elitetoplist.com') ||
-shExpMatch(host, 'elthamely.com') ||
 shExpMatch(host, 'emaillifecoaching.com.au') ||
 shExpMatch(host, 'emarketer.com') ||
 shExpMatch(host, 'emebo.com') ||
