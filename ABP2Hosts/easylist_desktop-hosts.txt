@@ -16522,6 +16522,7 @@
 0.0.0.0 pixel.usrsync.com
 0.0.0.0 pixel.vmm-satellite2.com
 0.0.0.0 pixel.watch
+0.0.0.0 pixel.widgetly.com
 0.0.0.0 pixel.wp.com
 0.0.0.0 pixel.xmladfeed.com
 0.0.0.0 pixel-xpanama.netdna-ssl.com
@@ -23550,6 +23551,7 @@
 0.0.0.0 widget.jobberman.com
 0.0.0.0 widget.kelkoo.com
 0.0.0.0 widgetlead.net
+0.0.0.0 widgetly.com
 0.0.0.0 widget.perfectmarket.com
 0.0.0.0 widget.quantcast.com
 0.0.0.0 widget.raaze.com

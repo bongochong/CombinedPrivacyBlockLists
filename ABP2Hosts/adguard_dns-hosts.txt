@@ -14254,7 +14254,6 @@
 0.0.0.0 juppser.ru
 0.0.0.0 juqakqgv.com
 0.0.0.0 juqmlmoclnhe.com
-0.0.0.0 ||j.uralweb.ru
 0.0.0.0 jursp.com
 0.0.0.0 jurtym.cf
 0.0.0.0 jurty.ml
