@@ -11034,6 +11034,7 @@
 0.0.0.0 iqwbqjnst.bid
 0.0.0.0 iqwczlbxvtcnh.com
 0.0.0.0 iqwhwomdmjg.bid
+0.0.0.0 iqwrmwssizr.com
 0.0.0.0 iqyirwfzlx.com
 0.0.0.0 irbipwnr.bid
 0.0.0.0 irbkobqlrbtt.com
@@ -14348,6 +14349,7 @@
 0.0.0.0 mtrics.cdc.gov
 0.0.0.0 mt.sellingrealestatemalta.com
 0.0.0.0 mts.mansion.com
+0.0.0.0 mtsoxkqlqnawre.com
 0.0.0.0 mttyfwtvyumc.com
 0.0.0.0 mtuorcpzomut.bid
 0.0.0.0 mtveughs.com
@@ -17506,6 +17508,7 @@
 0.0.0.0 qhkfgjoyinllld.com
 0.0.0.0 qhlwqzntlwvbf.bid
 0.0.0.0 qhlzkkwb.com
+0.0.0.0 qhoosovyj.com
 0.0.0.0 qhpjexftk.com
 0.0.0.0 qhpwanmnbvkiio.com
 0.0.0.0 qhpwqremdlclpk.com
@@ -17574,6 +17577,7 @@
 0.0.0.0 qksrv.net
 0.0.0.0 qksz.net
 0.0.0.0 qkuprxbmkeqp.com
+0.0.0.0 qkvklknzycrgo.com
 0.0.0.0 qkwbygfsbfmj.com
 0.0.0.0 qkyzjwhyeh.com
 0.0.0.0 qkzwxhcleqj.com
@@ -19126,6 +19130,7 @@
 0.0.0.0 service4refresh.info
 0.0.0.0 servicegetbook.net
 0.0.0.0 service-stat.tbn.ru
+0.0.0.0 services.zam.com
 0.0.0.0 servinator.pw
 0.0.0.0 servingpps.com
 0.0.0.0 serving-sys.com
@@ -19811,6 +19816,7 @@
 0.0.0.0 startpagea.com
 0.0.0.0 startraint.com
 0.0.0.0 startstat.ru
+0.0.0.0 stas.outbrain.com
 0.0.0.0 stat08.com
 0.0.0.0 stat-22.medialand.ru
 0.0.0.0 stat24.com

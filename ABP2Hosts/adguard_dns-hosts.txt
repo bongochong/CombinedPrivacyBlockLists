@@ -3788,7 +3788,6 @@
 0.0.0.0 asuler.ru
 0.0.0.0 asumi.shinobi.jp
 0.0.0.0 asv.whatismyip.win
-0.0.0.0 async-px.dynamicyield.com
 0.0.0.0 aszdmbftkccdkj.com
 0.0.0.0 aszyzwbjs.com
 0.0.0.0 atadserver.com
@@ -4551,6 +4550,7 @@
 0.0.0.0 bestcasinopartner.com
 0.0.0.0 bestcoinsignals.com
 0.0.0.0 bestcontentcompany.top
+0.0.0.0 bestcontentfood.top
 0.0.0.0 bestcontentsoftware.top
 0.0.0.0 bestdeals.ws
 0.0.0.0 bestdevchenki.pw
@@ -4746,6 +4746,7 @@
 0.0.0.0 bijscode.com
 0.0.0.0 bikepasture.com
 0.0.0.0 bikuetrh.com
+0.0.0.0 bileth.pw
 0.0.0.0 bilgibahis.com
 0.0.0.0 bilink.xyz
 0.0.0.0 biliqpvehf.com
@@ -6716,7 +6717,6 @@
 0.0.0.0 construment.com
 0.0.0.0 consumable.com
 0.0.0.0 consumergenepool.com
-0.0.0.0 contactatonce.com
 0.0.0.0 contactmonkey.com
 0.0.0.0 contactreserve.com
 0.0.0.0 contactsin.com
@@ -8760,6 +8760,7 @@
 0.0.0.0 dynamicadx.com
 0.0.0.0 dynamicdn.com
 0.0.0.0 dynamicoxygen.com
+0.0.0.0 dynamicyield.com
 0.0.0.0 dynamitedata.com
 0.0.0.0 dynatrace.com
 0.0.0.0 dynatracesaas.com
@@ -13204,6 +13205,7 @@
 0.0.0.0 infox.sg
 0.0.0.0 infra-ad.com
 0.0.0.0 infrashift.com
+0.0.0.0 infra.systems
 0.0.0.0 inf.wqa.ru
 0.0.0.0 ingame.ad
 0.0.0.0 ingamesads.gameloft.com
@@ -13462,7 +13464,6 @@
 0.0.0.0 iprotrk.com
 0.0.0.0 ipsowrite.com
 0.0.0.0 ipstat.com
-0.0.0.0 ipstatp.com
 0.0.0.0 iptrack.biz
 0.0.0.0 iptrkboffhf.com
 0.0.0.0 ipurl.ru
@@ -15475,6 +15476,7 @@
 0.0.0.0 listat.biz
 0.0.0.0 listingcafe.com
 0.0.0.0 listrakbi.com
+0.0.0.0 lists-tracking.komando.com
 0.0.0.0 listtop.ru
 0.0.0.0 litiumo.com
 0.0.0.0 littel.biz
@@ -17381,6 +17383,7 @@
 0.0.0.0 mtrcss.com
 0.0.0.0 mtrics.cdc.gov
 0.0.0.0 mts.mansion.com
+0.0.0.0 mtsoxkqlqnawre.com
 0.0.0.0 mts.sdtieta.com
 0.0.0.0 mttyfwtvyumc.com
 0.0.0.0 mtveughs.com
@@ -19910,6 +19913,7 @@
 0.0.0.0 pixel.usrsync.com
 0.0.0.0 pixel.vmm-satellite2.com
 0.0.0.0 pixel.watch
+0.0.0.0 pixel.widgetly.com
 0.0.0.0 pixel.wp.com
 0.0.0.0 pixel.wp.pl
 0.0.0.0 pixel.xmladfeed.com
@@ -21121,6 +21125,7 @@
 0.0.0.0 qksrv.net
 0.0.0.0 qksz.net
 0.0.0.0 qkuprxbmkeqp.com
+0.0.0.0 qkvklknzycrgo.com
 0.0.0.0 qkwbygfsbfmj.com
 0.0.0.0 qkyzjwhyeh.com
 0.0.0.0 qkzwxhcleqj.com
@@ -22233,6 +22238,7 @@
 0.0.0.0 roulettebot-plus.com
 0.0.0.0 roundfortred.ru
 0.0.0.0 roupsouk.com
+0.0.0.0 rouvoute.net
 0.0.0.0 rouvpebtazdlq.com
 0.0.0.0 rovarti.info
 0.0.0.0 rovion.com
@@ -22716,6 +22722,7 @@
 0.0.0.0 sceuexzmiwrf.com
 0.0.0.0 scfkfridulshkd.com
 0.0.0.0 scgyndrujhzf.com
+0.0.0.0 schedhomoso.pro
 0.0.0.0 schemic.top
 0.0.0.0 schlauli.de
 0.0.0.0 schoolyeargo.com
@@ -23959,6 +23966,7 @@
 0.0.0.0 startrekk.flaconi.de
 0.0.0.0 startscript.ru
 0.0.0.0 startstat.ru
+0.0.0.0 stas.outbrain.com
 0.0.0.0 st.astraone.io
 0.0.0.0 stat08.com
 0.0.0.0 stat-22.medialand.ru
@@ -26376,7 +26384,6 @@
 0.0.0.0 truoptik.com
 0.0.0.0 trustaffs.com
 0.0.0.0 trustclick.ne.jp
-0.0.0.0 trustedform.com
 0.0.0.0 trustx.org
 0.0.0.0 truthfulhead.com
 0.0.0.0 truthfulturn.com
@@ -28633,6 +28640,7 @@
 0.0.0.0 widgetbucks.com
 0.0.0.0 widget.convertiser.com
 0.0.0.0 widgetlead.net
+0.0.0.0 widgetly.com
 0.0.0.0 widget.market-place.su
 0.0.0.0 widget.mediastealer.com
 0.0.0.0 widget.nhaccuatui.com
