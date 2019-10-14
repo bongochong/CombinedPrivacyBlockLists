@@ -780,6 +780,7 @@
 0.0.0.0 bitmedianetwork.com
 0.0.0.0 bitonclick.com
 0.0.0.0 bitrix.info
+0.0.0.0 bittraffic.io
 0.0.0.0 bitvertise.io
 0.0.0.0 bizible.com
 0.0.0.0 bizo.com
@@ -3900,6 +3901,7 @@
 0.0.0.0 qiqivv.com
 0.0.0.0 qiralei.xyz
 0.0.0.0 qiyou.com
+0.0.0.0 qlkms.ga
 0.0.0.0 qoijertneio.com
 0.0.0.0 qoopler.ru
 0.0.0.0 qqjmbj.com
