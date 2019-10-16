@@ -37,6 +37,7 @@
 0.0.0.0 ad2.adinfuse.com
 0.0.0.0 ad2play.ftv-publicite.fr
 0.0.0.0 ad6media.fr
+0.0.0.0 ad999.biz
 0.0.0.0 ad.adapter.kaffnet.com
 0.0.0.0 adadvisor.net
 0.0.0.0 ad-analytics-bootstrap.metaps.com
