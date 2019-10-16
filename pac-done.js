@@ -949,6 +949,7 @@ shExpMatch(host, '*.adrta.com') ||
 shExpMatch(host, '*.ads03.redtube.com') ||
 shExpMatch(host, '*.ads10.speedbit.com') ||
 shExpMatch(host, '*.ads180.com') ||
+shExpMatch(host, '*.ads1-adnow.com') ||
 shExpMatch(host, '*.ads1.canoe.ca') ||
 shExpMatch(host, '*.ads1.mediacapital.pt') ||
 shExpMatch(host, '*.ads1.msn.com') ||
@@ -1131,6 +1132,7 @@ shExpMatch(host, '*.adserver.break-even.it') ||
 shExpMatch(host, '*.adserver.cams.com') ||
 shExpMatch(host, '*.adserver.clashmusic.com') ||
 shExpMatch(host, '*.adserver.com') ||
+shExpMatch(host, '*.adserver.dca13.com') ||
 shExpMatch(host, '*.adserver.digitoday.com') ||
 shExpMatch(host, '*.adserver.dotcommedia.de') ||
 shExpMatch(host, '*.adserver.finditquick.com') ||
@@ -1311,6 +1313,7 @@ shExpMatch(host, '*.ads.mediaturf.net') ||
 shExpMatch(host, '*.ads.medienhaus.de') ||
 shExpMatch(host, '*.ads.mgnetwork.com') ||
 shExpMatch(host, '*.ads.miarroba.com') ||
+shExpMatch(host, '*.ads.mic.com') ||
 shExpMatch(host, '*.ads.mmania.com') ||
 shExpMatch(host, '*.adsmobi.com') ||
 shExpMatch(host, '*.ads.mobilautomaten.com') ||
@@ -1821,6 +1824,7 @@ shExpMatch(host, '*.assets.loomia.com') ||
 shExpMatch(host, '*.assoc-amazon.com') ||
 shExpMatch(host, '*.as.webmd.com') ||
 shExpMatch(host, '*.aswpapius.com') ||
+shExpMatch(host, '*.aswpsdkus.com') ||
 shExpMatch(host, '*.at-adserver.alltop.com') ||
 shExpMatch(host, '*.atdmt.com') ||
 shExpMatch(host, '*.athena-ads.wikia.com') ||
@@ -2644,6 +2648,7 @@ shExpMatch(host, '*.displaypagerank.com') ||
 shExpMatch(host, '*.disqusads.com') ||
 shExpMatch(host, '*.dist.belnk.com') ||
 shExpMatch(host, '*.distillery.wistia.com') ||
+shExpMatch(host, '*.districtm.ca') ||
 shExpMatch(host, '*.dk4ywix.com') ||
 shExpMatch(host, '*.dkoipg.pw') ||
 shExpMatch(host, '*.dlauten.bplaced.net') ||
@@ -4439,6 +4444,7 @@ shExpMatch(host, '*.photographpan.com') ||
 shExpMatch(host, '*.phpadsnew.new.natuurpark.nl') ||
 shExpMatch(host, '*.phpmyvisites.net') ||
 shExpMatch(host, '*.phunware.com') ||
+shExpMatch(host, '*.piano.io') ||
 shExpMatch(host, '*.picadmedia.com') ||
 shExpMatch(host, '*.piet2eix3l.com') ||
 shExpMatch(host, '*.pietexture.com') ||
@@ -4649,6 +4655,7 @@ shExpMatch(host, '*.px.ads.linkedin.com') ||
 shExpMatch(host, '*.px.dynamicyield.com') ||
 shExpMatch(host, '*.px.gfycat.com') ||
 shExpMatch(host, '*.pxl.iqm.com') ||
+shExpMatch(host, '*.pymx5.com') ||
 shExpMatch(host, '*.q.azcentral.com') ||
 shExpMatch(host, '*.qbhcsope.com') ||
 shExpMatch(host, '*.qbqrfyeqqvcvv.pw') ||
@@ -4807,6 +4814,7 @@ shExpMatch(host, '*.revmob.com') ||
 shExpMatch(host, '*.revsci.net') ||
 shExpMatch(host, '*.revstats.com') ||
 shExpMatch(host, '*.rexafajay.axfree.com') ||
+shExpMatch(host, '*.rhombusads.com') ||
 shExpMatch(host, '*.rhwndkf45.codns.com') ||
 shExpMatch(host, '*.rhymezebra.com') ||
 shExpMatch(host, '*.rhythmmoney.com') ||
@@ -7201,6 +7209,7 @@ shExpMatch(host, 'adrta.com') ||
 shExpMatch(host, 'ads03.redtube.com') ||
 shExpMatch(host, 'ads10.speedbit.com') ||
 shExpMatch(host, 'ads180.com') ||
+shExpMatch(host, 'ads1-adnow.com') ||
 shExpMatch(host, 'ads1.canoe.ca') ||
 shExpMatch(host, 'ads1.mediacapital.pt') ||
 shExpMatch(host, 'ads1.msn.com') ||
@@ -7383,6 +7392,7 @@ shExpMatch(host, 'adserver.break-even.it') ||
 shExpMatch(host, 'adserver.cams.com') ||
 shExpMatch(host, 'adserver.clashmusic.com') ||
 shExpMatch(host, 'adserver.com') ||
+shExpMatch(host, 'adserver.dca13.com') ||
 shExpMatch(host, 'adserver.digitoday.com') ||
 shExpMatch(host, 'adserver.dotcommedia.de') ||
 shExpMatch(host, 'adserver.finditquick.com') ||
@@ -7563,6 +7573,7 @@ shExpMatch(host, 'ads.mediaturf.net') ||
 shExpMatch(host, 'ads.medienhaus.de') ||
 shExpMatch(host, 'ads.mgnetwork.com') ||
 shExpMatch(host, 'ads.miarroba.com') ||
+shExpMatch(host, 'ads.mic.com') ||
 shExpMatch(host, 'ads.mmania.com') ||
 shExpMatch(host, 'adsmobi.com') ||
 shExpMatch(host, 'ads.mobilautomaten.com') ||
@@ -8073,6 +8084,7 @@ shExpMatch(host, 'assets.loomia.com') ||
 shExpMatch(host, 'assoc-amazon.com') ||
 shExpMatch(host, 'as.webmd.com') ||
 shExpMatch(host, 'aswpapius.com') ||
+shExpMatch(host, 'aswpsdkus.com') ||
 shExpMatch(host, 'at-adserver.alltop.com') ||
 shExpMatch(host, 'atdmt.com') ||
 shExpMatch(host, 'athena-ads.wikia.com') ||
@@ -8896,6 +8908,7 @@ shExpMatch(host, 'displaypagerank.com') ||
 shExpMatch(host, 'disqusads.com') ||
 shExpMatch(host, 'dist.belnk.com') ||
 shExpMatch(host, 'distillery.wistia.com') ||
+shExpMatch(host, 'districtm.ca') ||
 shExpMatch(host, 'dk4ywix.com') ||
 shExpMatch(host, 'dkoipg.pw') ||
 shExpMatch(host, 'dlauten.bplaced.net') ||
@@ -10691,6 +10704,7 @@ shExpMatch(host, 'photographpan.com') ||
 shExpMatch(host, 'phpadsnew.new.natuurpark.nl') ||
 shExpMatch(host, 'phpmyvisites.net') ||
 shExpMatch(host, 'phunware.com') ||
+shExpMatch(host, 'piano.io') ||
 shExpMatch(host, 'picadmedia.com') ||
 shExpMatch(host, 'piet2eix3l.com') ||
 shExpMatch(host, 'pietexture.com') ||
@@ -10901,6 +10915,7 @@ shExpMatch(host, 'px.ads.linkedin.com') ||
 shExpMatch(host, 'px.dynamicyield.com') ||
 shExpMatch(host, 'px.gfycat.com') ||
 shExpMatch(host, 'pxl.iqm.com') ||
+shExpMatch(host, 'pymx5.com') ||
 shExpMatch(host, 'q.azcentral.com') ||
 shExpMatch(host, 'qbhcsope.com') ||
 shExpMatch(host, 'qbqrfyeqqvcvv.pw') ||
@@ -11059,6 +11074,7 @@ shExpMatch(host, 'revmob.com') ||
 shExpMatch(host, 'revsci.net') ||
 shExpMatch(host, 'revstats.com') ||
 shExpMatch(host, 'rexafajay.axfree.com') ||
+shExpMatch(host, 'rhombusads.com') ||
 shExpMatch(host, 'rhwndkf45.codns.com') ||
 shExpMatch(host, 'rhymezebra.com') ||
 shExpMatch(host, 'rhythmmoney.com') ||
