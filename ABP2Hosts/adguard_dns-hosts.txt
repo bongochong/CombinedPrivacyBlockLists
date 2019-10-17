@@ -944,6 +944,7 @@
 0.0.0.0 aag.yahooapis.jp
 0.0.0.0 aahfcroigwso.com
 0.0.0.0 aahvz.top
+0.0.0.0 aaitudxr.com
 0.0.0.0 aalbbh84.info
 0.0.0.0 aamsitecertifier.com
 0.0.0.0 aan.amazon.com
@@ -3556,6 +3557,7 @@
 0.0.0.0 app.crossengage.io
 0.0.0.0 appelamule.com
 0.0.0.0 appendad.com
+0.0.0.0 app.gelirartisi.com
 0.0.0.0 appier.net
 0.0.0.0 app.insightgrit.com
 0.0.0.0 appintop.com
@@ -4093,6 +4095,7 @@
 0.0.0.0 azvozac.ru
 0.0.0.0 azwsolqpewo.com
 0.0.0.0 azxsd.pro
+0.0.0.0 azzpbn.com
 0.0.0.0 azzvkcavtgwp.com
 0.0.0.0 b014381c95cb.com
 0.0.0.0 b06518c81a3b7fe75.com
@@ -5188,6 +5191,7 @@
 0.0.0.0 breeffnet.com
 0.0.0.0 breeringarify.co
 0.0.0.0 breezybath.com
+0.0.0.0 brekdok.com
 0.0.0.0 brend.hdkinoshka.net
 0.0.0.0 brethrengenotypeteledyne.com
 0.0.0.0 brfyubakyg.com
@@ -7908,6 +7912,7 @@
 0.0.0.0 ddbnikwub.com
 0.0.0.0 dddevki4u.com
 0.0.0.0 dddgndcqajr.com
+0.0.0.0 ddfnykqqiexse.com
 0.0.0.0 ddljcvtxfjtc.com
 0.0.0.0 ddl-network.org
 0.0.0.0 ddlwnwshlk.com
@@ -8670,6 +8675,7 @@
 0.0.0.0 dugqbllwslqrlj.com
 0.0.0.0 dugroscaca.com
 0.0.0.0 duhtate.ru
+0.0.0.0 dujbubzvrdw.com
 0.0.0.0 dukesia.de
 0.0.0.0 duklamznlrn.com
 0.0.0.0 dulcetcgvcxr.com
@@ -9259,7 +9265,6 @@
 0.0.0.0 endcgwkclhtnk.com
 0.0.0.0 endile.info
 0.0.0.0 endloseporno.com
-0.0.0.0 endurablecrayon.com
 0.0.0.0 enectoanalytics.com
 0.0.0.0 enecto.com
 0.0.0.0 enfhddbnariw.com
@@ -10358,6 +10363,7 @@
 0.0.0.0 focusego.info
 0.0.0.0 foditgoz.com
 0.0.0.0 fofjazpwccc.com
+0.0.0.0 fofxjgrn.com
 0.0.0.0 foganonura.com
 0.0.0.0 fogl1onf.com
 0.0.0.0 fog.pixual.co
@@ -10598,6 +10604,7 @@
 0.0.0.0 fruitkings.com
 0.0.0.0 frvfrv.com
 0.0.0.0 frvid.ru
+0.0.0.0 frvpeuulyprl.com
 0.0.0.0 frxohovv.com
 0.0.0.0 fryxaknn.com
 0.0.0.0 frzaj.com
@@ -11905,7 +11912,10 @@
 0.0.0.0 hartookr.link
 0.0.0.0 hartsfieldrowesville.salleyoklaunion.com
 0.0.0.0 harvardbp.vo.llnwd.net
+0.0.0.0 harvester.eu.square-enix.com
 0.0.0.0 harvester.ext.square-enix-europe.com
+0.0.0.0 harvester.hbpl.co.uk
+0.0.0.0 harvester.hnonline.sk
 0.0.0.0 hashalre.uk
 0.0.0.0 hashcoin.co
 0.0.0.0 hashforcash.us
@@ -12163,6 +12173,7 @@
 0.0.0.0 hira-meki.jp
 0.0.0.0 hirmatrix.hu
 0.0.0.0 hirovivi.com
+0.0.0.0 hisoupocdted.com
 0.0.0.0 histats.com
 0.0.0.0 histians.com
 0.0.0.0 histock.info
@@ -14771,6 +14782,7 @@
 0.0.0.0 knvhqxpt.com
 0.0.0.0 knwfmpvtj.com
 0.0.0.0 ko6ka.ru
+0.0.0.0 koacojus.net
 0.0.0.0 koamxmikmuhahc.com
 0.0.0.0 koapsooh.click
 0.0.0.0 kochava.com
@@ -15652,6 +15664,7 @@
 0.0.0.0 lnkrdr.com
 0.0.0.0 lnnwwxpeodmw.com
 0.0.0.0 lnpqqigowz.com
+0.0.0.0 lnvnzrqdajau.com
 0.0.0.0 lnwbiuetoymifj.com
 0.0.0.0 lnwqvhcqw.com
 0.0.0.0 lnzcmgguxlac.com
@@ -18043,6 +18056,7 @@
 0.0.0.0 nfdntqlqrgwc.com
 0.0.0.0 nfijzdjtpglk.com
 0.0.0.0 nfkxplkiid.com
+0.0.0.0 nfngrcjaejui.com
 0.0.0.0 nfniziqm.com
 0.0.0.0 nfnssadfhxov.com
 0.0.0.0 nfnxvdds.com
@@ -18365,6 +18379,7 @@
 0.0.0.0 nshes.ru
 0.0.0.0 nsmartad.com
 0.0.0.0 nsnfokcikwf.com
+0.0.0.0 nsomfammrmhbc.com
 0.0.0.0 nsovwzmhl.com
 0.0.0.0 nspmotion.com
 0.0.0.0 nspot.co
@@ -19325,6 +19340,7 @@
 0.0.0.0 oyzsverimywg.com
 0.0.0.0 oyzypkiodmhmv.com
 0.0.0.0 ozafaszolf.com
+0.0.0.0 ozcdkiphvsnrht.com
 0.0.0.0 ozcletvvphmy.com
 0.0.0.0 ozdau.top
 0.0.0.0 ozertesa.com
@@ -20630,6 +20646,7 @@
 0.0.0.0 psonstrentie.info
 0.0.0.0 psoomeeg.com
 0.0.0.0 psoonsod.com
+0.0.0.0 psozoult.net
 0.0.0.0 psrbrytujuxv.com
 0.0.0.0 pssvc.iqzone.com
 0.0.0.0 pstats.com
@@ -21406,6 +21423,7 @@
 0.0.0.0 qwbnzilogwdc.com
 0.0.0.0 qweewmtey.com
 0.0.0.0 qwe.qrrgv.space
+0.0.0.0 qwerfdx.com
 0.0.0.0 qwertize.com
 0.0.0.0 qwerty24.net
 0.0.0.0 qwertypay.com
@@ -21650,6 +21668,7 @@
 0.0.0.0 rdthuvynnwgind.com
 0.0.0.0 rdvrxbxwxspxd.com
 0.0.0.0 rdwcvesg.com
+0.0.0.0 rdxwaydglehog.com
 0.0.0.0 rd.yahoo.co.jp
 0.0.0.0 rdzxpvbveezdkcyustcomuhczsbvteccejkdkfepouuhxpxtmy.com
 0.0.0.0 reachandrich.antevenio.com
@@ -22555,6 +22574,7 @@
 0.0.0.0 ryhrabmmprehm.com
 0.0.0.0 ryios.com
 0.0.0.0 ryjlaaimxrq.com
+0.0.0.0 rylhghmjrsgb.com
 0.0.0.0 rylkihtmnvsh.com
 0.0.0.0 ryllae.com
 0.0.0.0 rylnirfbokjd.com
@@ -22875,6 +22895,7 @@
 0.0.0.0 seavideo22.com
 0.0.0.0 sebadu.com
 0.0.0.0 sebar.idblognetwork.com
+0.0.0.0 sebdaadnodjt.com
 0.0.0.0 seccoads.com
 0.0.0.0 secfpgpqx.com
 0.0.0.0 seclick.ru
@@ -23056,6 +23077,7 @@
 0.0.0.0 sessions.exchange
 0.0.0.0 sessionstack.com
 0.0.0.0 session.timecommerce.net
+0.0.0.0 seszopvxktsfn.com
 0.0.0.0 sethads.info
 0.0.0.0 setrtcjfhreqg.com
 0.0.0.0 sett.i12.de
@@ -25422,6 +25444,7 @@
 0.0.0.0 tlfloruou.com
 0.0.0.0 tlgprhsl.com
 0.0.0.0 tlhadcbtntr.com
+0.0.0.0 tlhiatdhw.com
 0.0.0.0 tljikqcijttf.com
 0.0.0.0 tlkqzjvyujb.com
 0.0.0.0 tlnoffpocjud.com
@@ -30036,6 +30059,7 @@
 0.0.0.0 youmi.net
 0.0.0.0 youndoo.com
 0.0.0.0 younetmedia.com
+0.0.0.0 youngesdresp.pro
 0.0.0.0 youngrul.pro
 0.0.0.0 youradexchange.com
 0.0.0.0 youramigo.com
