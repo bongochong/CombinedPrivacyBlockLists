@@ -3935,6 +3935,7 @@ shExpMatch(host, '*.mobstac.com') ||
 shExpMatch(host, '*.mobyt.com') ||
 shExpMatch(host, '*.mocean.mobi') ||
 shExpMatch(host, '*.moceanmobile.com') ||
+shExpMatch(host, '*.modernpricing.com') ||
 shExpMatch(host, '*.modifyeyes.com') ||
 shExpMatch(host, '*.moggattice.com') ||
 shExpMatch(host, '*.mogreet.com') ||
@@ -10195,6 +10196,7 @@ shExpMatch(host, 'mobstac.com') ||
 shExpMatch(host, 'mobyt.com') ||
 shExpMatch(host, 'mocean.mobi') ||
 shExpMatch(host, 'moceanmobile.com') ||
+shExpMatch(host, 'modernpricing.com') ||
 shExpMatch(host, 'modifyeyes.com') ||
 shExpMatch(host, 'moggattice.com') ||
 shExpMatch(host, 'mogreet.com') ||
