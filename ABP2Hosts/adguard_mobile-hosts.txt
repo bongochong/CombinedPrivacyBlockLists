@@ -89,7 +89,6 @@
 0.0.0.0 ad.kixer.com
 0.0.0.0 adkmob.com
 0.0.0.0 ad.leadboltapps.net
-0.0.0.0 ad.leadboltapps.net 
 0.0.0.0 ad.leadboltmobile.net
 0.0.0.0 ad.leadbolt.net
 0.0.0.0 adleads.com
@@ -187,11 +186,10 @@
 0.0.0.0 adsmoloco.com
 0.0.0.0 ads.mopub.com
 0.0.0.0 adsmo.ru
-0.0.0.0 ads.mp.mydas.mobi 
+0.0.0.0 ads.mp.mydas.mobi
 0.0.0.0 adsnative.com
 0.0.0.0 adsniper.ru
 0.0.0.0 ads.n-ws.org
-0.0.0.0 ads.n-ws.org 
 0.0.0.0 ads.ookla.com
 0.0.0.0 ads.pdbarea.com
 0.0.0.0 ads.pinger.com
@@ -307,7 +305,7 @@
 0.0.0.0 api.ad-locus.com
 0.0.0.0 api.ads.watchabc.go.com
 0.0.0.0 api.ad.xiaomi.com
-0.0.0.0 api.airpush.com 
+0.0.0.0 api.airpush.com
 0.0.0.0 api.ampiri.com
 0.0.0.0 api.amplitude.com
 0.0.0.0 api-analytics-bootstrap.metaps.com
@@ -933,7 +931,7 @@
 0.0.0.0 itx5-publicidad.smartadserver.com
 0.0.0.0 itx5.smartadserver.com
 0.0.0.0 i-vengo.com
-0.0.0.0 i.w.inmobi.com 
+0.0.0.0 i.w.inmobi.com
 0.0.0.0 japan.inmobi.com
 0.0.0.0 javacript.gq
 0.0.0.0 jfduv7.com
@@ -1301,7 +1299,7 @@
 0.0.0.0 rubick.gameanalytics.com
 0.0.0.0 rubiconproject.com
 0.0.0.0 ru.velti.com
-0.0.0.0 r.w.inmobi.com 
+0.0.0.0 r.w.inmobi.com
 0.0.0.0 s0.2mdn.net
 0.0.0.0 s3.phluant.com
 0.0.0.0 s.amazon-adsystem.com
