@@ -3535,6 +3535,7 @@ shExpMatch(host, '*.jomo.in.ua') ||
 shExpMatch(host, '*.joyclasses.eu') ||
 shExpMatch(host, '*.jquery-bin.com') ||
 shExpMatch(host, '*.jsecoin.com') ||
+shExpMatch(host, '*.jsrdn.com') ||
 shExpMatch(host, '*.js.users.51.la') ||
 shExpMatch(host, '*.juanadearco.com.uy') ||
 shExpMatch(host, '*.juhacjacjckclqf.pw') ||
@@ -5418,6 +5419,7 @@ shExpMatch(host, '*.tracking.yourfilehost.com') ||
 shExpMatch(host, '*.track.mailerlite.com') ||
 shExpMatch(host, '*.trackmysales.com') ||
 shExpMatch(host, '*.track.nuxues.com') ||
+shExpMatch(host, '*.track.ultravpn.com') ||
 shExpMatch(host, '*.track.viewdeos.com') ||
 shExpMatch(host, '*.tradeadexchange.com') ||
 shExpMatch(host, '*.tradecharm.lt') ||
@@ -9796,6 +9798,7 @@ shExpMatch(host, 'jomo.in.ua') ||
 shExpMatch(host, 'joyclasses.eu') ||
 shExpMatch(host, 'jquery-bin.com') ||
 shExpMatch(host, 'jsecoin.com') ||
+shExpMatch(host, 'jsrdn.com') ||
 shExpMatch(host, 'js.users.51.la') ||
 shExpMatch(host, 'juanadearco.com.uy') ||
 shExpMatch(host, 'juhacjacjckclqf.pw') ||
@@ -11679,6 +11682,7 @@ shExpMatch(host, 'tracking.yourfilehost.com') ||
 shExpMatch(host, 'track.mailerlite.com') ||
 shExpMatch(host, 'trackmysales.com') ||
 shExpMatch(host, 'track.nuxues.com') ||
+shExpMatch(host, 'track.ultravpn.com') ||
 shExpMatch(host, 'track.viewdeos.com') ||
 shExpMatch(host, 'tradeadexchange.com') ||
 shExpMatch(host, 'tradecharm.lt') ||
