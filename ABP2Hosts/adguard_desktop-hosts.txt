@@ -502,6 +502,7 @@
 0.0.0.0 anametrix.com
 0.0.0.0 anametrix.net
 0.0.0.0 anatid3.com
+0.0.0.0 andarcair.club
 0.0.0.0 andersenit.dk
 0.0.0.0 andyhoppe.com
 0.0.0.0 anexia-it.com
@@ -518,6 +519,7 @@
 0.0.0.0 anothing.info
 0.0.0.0 anrdoezrs.net
 0.0.0.0 antbadani.club
+0.0.0.0 antburape.club
 0.0.0.0 anti-cheat.info
 0.0.0.0 antvoice.com
 0.0.0.0 anxiousapples.com
@@ -611,6 +613,7 @@
 0.0.0.0 audiencerate.com
 0.0.0.0 audiens.com
 0.0.0.0 audrte.com
+0.0.0.0 aulrains.com
 0.0.0.0 auth.bz
 0.0.0.0 authorinsights.com
 0.0.0.0 authorne.info
@@ -3863,6 +3866,7 @@
 0.0.0.0 pushnative.com
 0.0.0.0 pushno.com
 0.0.0.0 push-notifications.top
+0.0.0.0 pushosub.com
 0.0.0.0 push-tools-system.com
 0.0.0.0 pushwhy.com
 0.0.0.0 pussl10.com
@@ -3948,6 +3952,7 @@
 0.0.0.0 radarstats.com
 0.0.0.0 radarurl.com
 0.0.0.0 raigluce.net
+0.0.0.0 raiphupi.com
 0.0.0.0 ralkipa.info
 0.0.0.0 rampmetrics.com
 0.0.0.0 rang.com.ua
@@ -5123,6 +5128,7 @@
 0.0.0.0 vestlitt.online
 0.0.0.0 vetermsu.info
 0.0.0.0 vhldwuv6om.com
+0.0.0.0 viatepigan.com
 0.0.0.0 victory1999.com
 0.0.0.0 vidapi.expepp.de
 0.0.0.0 vidcpm.com

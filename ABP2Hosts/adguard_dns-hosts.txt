@@ -654,6 +654,7 @@
 0.0.0.0 7437b300fa98b98.com
 0.0.0.0 743e6b34be13fb105e0.com
 0.0.0.0 74.55.82.102
+0.0.0.0 746fyw2v.com
 0.0.0.0 74d382def7b08.com
 0.0.0.0 74da0fffc981.com
 0.0.0.0 7527v.cn
@@ -701,6 +702,7 @@
 0.0.0.0 7d66a95c481.com
 0.0.0.0 7db0b2a0ee95f557904.com
 0.0.0.0 7dee28afeb8c939d8.com
+0.0.0.0 7dp6g2rqzn.com
 0.0.0.0 7dvd.ru
 0.0.0.0 7e59f52a58ab3be819c9a90ba53b9ffe.ovh
 0.0.0.0 7e625f490775b155.com
@@ -1063,6 +1065,7 @@
 0.0.0.0 acinster.info
 0.0.0.0 acint.net
 0.0.0.0 acjmkenepeyn.com
+0.0.0.0 ackbure.pro
 0.0.0.0 acknowinge.info
 0.0.0.0 aclassigned.info
 0.0.0.0 aclhagvngkjf.com
@@ -3882,6 +3885,7 @@
 0.0.0.0 audtd.com
 0.0.0.0 augmentad.net
 0.0.0.0 august15download.com
+0.0.0.0 aulrains.com
 0.0.0.0 aultemeztokc.com
 0.0.0.0 a.unanimis.co.uk
 0.0.0.0 aunmdhxrco.com
@@ -5360,6 +5364,7 @@
 0.0.0.0 burstbeacon.com
 0.0.0.0 burstnet.com
 0.0.0.0 burt.io
+0.0.0.0 busandcob.site
 0.0.0.0 businesscare.com
 0.0.0.0 businessclick.ch
 0.0.0.0 businessclick.com
@@ -7506,6 +7511,7 @@
 0.0.0.0 d1ssbq1bwjg5ux.cloudfront.net
 0.0.0.0 d1t9uctetvi0tu.cloudfront.net
 0.0.0.0 d1uanozc5el74n.cloudfront.net
+0.0.0.0 d1uw69x4c2zrim.cloudfront.net
 0.0.0.0 d1uy7uzra011au.cloudfront.net
 0.0.0.0 d1v6js7bjzmhoa.cloudfront.net
 0.0.0.0 d1vh0xkmncek4z.cloudfront.net
@@ -9224,6 +9230,7 @@
 0.0.0.0 ematicsolutions.com
 0.0.0.0 embanet.vo.llnwd.net
 0.0.0.0 embeddedanalytics.com
+0.0.0.0 embed.tonews.org
 0.0.0.0 emberads.com
 0.0.0.0 emboba.info
 0.0.0.0 embraceablemidpointcinnabar.com
@@ -9268,6 +9275,7 @@
 0.0.0.0 endurablecrayon.com
 0.0.0.0 enectoanalytics.com
 0.0.0.0 enecto.com
+0.0.0.0 eneritchmax.info
 0.0.0.0 enfhddbnariw.com
 0.0.0.0 enfreine.com
 0.0.0.0 enfupatujiqb.com
@@ -9939,6 +9947,7 @@
 0.0.0.0 fathern.info
 0.0.0.0 fathomseo.com
 0.0.0.0 faultycanvas.com
+0.0.0.0 faunlesnuff.co
 0.0.0.0 fawenys.xyz
 0.0.0.0 faykdrhpo.com
 0.0.0.0 fb0c32d2f28c.com
@@ -10021,6 +10030,7 @@
 0.0.0.0 febalwby.com
 0.0.0.0 febwinter.com
 0.0.0.0 fecgvrvne.com
+0.0.0.0 feed111.me
 0.0.0.0 feed.4wnet.com
 0.0.0.0 feed-ads.com
 0.0.0.0 feedcat.net
@@ -11888,6 +11898,7 @@
 0.0.0.0 hammerhearing.com
 0.0.0.0 hamphlete.com
 0.0.0.0 hanaprop.com
+0.0.0.0 handiest-logic.com
 0.0.0.0 handy-ads.de
 0.0.0.0 handy-tab.com
 0.0.0.0 hanimyel.com
@@ -14671,6 +14682,7 @@
 0.0.0.0 kitcode.net
 0.0.0.0 kitnmedia.com
 0.0.0.0 kitopr.com
+0.0.0.0 kiupoo.stroeerdp.de
 0.0.0.0 kiwihk.net
 0.0.0.0 kj2hy.com
 0.0.0.0 kjaay.com
@@ -17810,6 +17822,7 @@
 0.0.0.0 nbsmsblzow.com
 0.0.0.0 nbstatic.com
 0.0.0.0 nbvbblmksiahf.com
+0.0.0.0 nbvcb.xyz
 0.0.0.0 nbxfvfeanq.com
 0.0.0.0 nbxpuziszhqz.com
 0.0.0.0 nbylhvbswplcj.com
@@ -18378,6 +18391,7 @@
 0.0.0.0 nsdsvc.com
 0.0.0.0 nselnhbwlm.com
 0.0.0.0 nshes.ru
+0.0.0.0 nsjpu.com
 0.0.0.0 nsmartad.com
 0.0.0.0 nsnfokcikwf.com
 0.0.0.0 nsomfammrmhbc.com
@@ -18775,6 +18789,7 @@
 0.0.0.0 ogyhsyuhczvjg.com
 0.0.0.0 ogzivkwjhrs.com
 0.0.0.0 ohchat.net
+0.0.0.0 ohcohz.stroeerdp.de
 0.0.0.0 ohdoxowrbkyd.com
 0.0.0.0 ohecnqpldvuw.com
 0.0.0.0 ohjmzsvs.com
@@ -19788,6 +19803,7 @@
 0.0.0.0 phenver.com
 0.0.0.0 phhigelii.com
 0.0.0.0 phiambczsg.com
+0.0.0.0 phiesi.stroeerdp.de
 0.0.0.0 philbardre.com
 0.0.0.0 philipstreehouse.info
 0.0.0.0 philosophere.com
@@ -20812,6 +20828,7 @@
 0.0.0.0 pushnice.com
 0.0.0.0 pushno.com
 0.0.0.0 push-notifications.top
+0.0.0.0 pushosub.com
 0.0.0.0 pushosubk.com
 0.0.0.0 pushqwer.com
 0.0.0.0 pushrase.com
@@ -21524,6 +21541,7 @@
 0.0.0.0 rain4cloud.gold
 0.0.0.0 rainbowtgx.com
 0.0.0.0 rainwealth.com
+0.0.0.0 raiphupi.com
 0.0.0.0 rajniko.ru
 0.0.0.0 rakdtijwj.com
 0.0.0.0 ralkipa.info
@@ -21579,6 +21597,7 @@
 0.0.0.0 ratke.biz
 0.0.0.0 ratrencalrep.com
 0.0.0.0 ratyakhu.ru
+0.0.0.0 raupsooy.net
 0.0.0.0 ravalynn.pw
 0.0.0.0 ravnovesienews.ru
 0.0.0.0 rawasy.com
@@ -23143,6 +23162,7 @@
 0.0.0.0 sgrreqyxvigwuh.com
 0.0.0.0 sgvuexlhbgpylr.com
 0.0.0.0 sgxaqysyilwkiu.com
+0.0.0.0 sgycfrrkz.com
 0.0.0.0 sgzlmagzrrk.com
 0.0.0.0 sgzsviqlvcxc.com
 0.0.0.0 shacupwelhehqc.com
@@ -23353,6 +23373,7 @@
 0.0.0.0 sitetraq.nl
 0.0.0.0 siteverification.online
 0.0.0.0 siteverification.site
+0.0.0.0 sitionne.pro
 0.0.0.0 sitizy.network
 0.0.0.0 sitorew.com
 0.0.0.0 sittiad.com
@@ -27672,6 +27693,7 @@
 0.0.0.0 vi012.com
 0.0.0.0 viam.com.vn
 0.0.0.0 vianadserver.com
+0.0.0.0 viatepigan.com
 0.0.0.0 vi.bigmir.net
 0.0.0.0 viboom.com
 0.0.0.0 viboom.ru
