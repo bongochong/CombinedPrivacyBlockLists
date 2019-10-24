@@ -125,6 +125,7 @@
 0.0.0.0 adplatform.vrtcal.com
 0.0.0.0 adplex.co.kr
 0.0.0.0 ad.prismamediadigital.com
+0.0.0.0 adpriv.nikkei.com
 0.0.0.0 adprotected.com
 0.0.0.0 adpublisher.s3.amazonaws.com
 0.0.0.0 adpush.goforandroid.com
@@ -149,6 +150,7 @@
 0.0.0.0 adsapi.manhuaren.com
 0.0.0.0 ads.avocarrot.com
 0.0.0.0 ads-bidder-api.twitter.com
+0.0.0.0 ads.bulldogcpi.com
 0.0.0.0 adscale.de
 0.0.0.0 ads.celtra.com
 0.0.0.0 ads-chunks.prod.ihrhls.com
@@ -211,7 +213,6 @@
 0.0.0.0 ads.xlxtra.com
 0.0.0.0 ads.xxxad.net
 0.0.0.0 ads.yahoo.com
-0.0.0.0 ads.yemonisoni.com
 0.0.0.0 adsymptotic.com
 0.0.0.0 ads.youtube.com
 0.0.0.0 adtaily.pl
@@ -228,7 +229,6 @@
 0.0.0.0 adversal.com
 0.0.0.0 adverticum.net
 0.0.0.0 advertise.com
-0.0.0.0 advertiser.fyber.com
 0.0.0.0 advertising.com
 0.0.0.0 advertur.ru
 0.0.0.0 adv-ettoday.cdn.hinet.net
@@ -300,7 +300,6 @@
 0.0.0.0 android-sdk31.transpera.com
 0.0.0.0 an.yandex.ru
 0.0.0.0 aos.wall.youmi.net
-0.0.0.0 api.adflake.com
 0.0.0.0 api.ad.intl.xiaomi.com
 0.0.0.0 api.ad-locus.com
 0.0.0.0 api.ads.watchabc.go.com
@@ -400,7 +399,6 @@
 0.0.0.0 banners-slb.mobile.yandex.net
 0.0.0.0 bannerwall.herewetest.com
 0.0.0.0 bannerwall.s3.appcnt.com
-0.0.0.0 base-cdn.admarvel.com
 0.0.0.0 batsavcdn.ksmobile.net
 0.0.0.0 bayctrk.com
 0.0.0.0 bcfads.com
@@ -799,6 +797,7 @@
 0.0.0.0 fusionads.net
 0.0.0.0 fyber.com
 0.0.0.0 gameanalisys.appcpi.net
+0.0.0.0 gameanalysis.appcpi.net
 0.0.0.0 gcm.ksmobile.com
 0.0.0.0 gcm.ksmobile.net
 0.0.0.0 gdn.bigfishgames.com
@@ -903,7 +902,6 @@
 0.0.0.0 inclk.com
 0.0.0.0 infolinks.com
 0.0.0.0 ingamesads.gameloft.com
-0.0.0.0 init.startappservice.com
 0.0.0.0 inmobicdn.net
 0.0.0.0 inmobi.cn
 0.0.0.0 inmobi.com
@@ -1046,7 +1044,6 @@
 0.0.0.0 m.jakc0.com
 0.0.0.0 m.jsqinvest.com
 0.0.0.0 mlb.did.ijinshan.com
-0.0.0.0 m.mixadvert.com
 0.0.0.0 mmnetwork.mobi
 0.0.0.0 m.mrsasharingspace.com
 0.0.0.0 m.nbhaosheng168.com
@@ -1093,7 +1090,6 @@
 0.0.0.0 mologiq.net
 0.0.0.0 monitor.adcaffe.com
 0.0.0.0 mookie1.com
-0.0.0.0 mopub.web107-east.manage.com
 0.0.0.0 mopub-win-us-east.bksn.se
 0.0.0.0 morgdm.ru
 0.0.0.0 mprezchc.com
@@ -1105,17 +1101,18 @@
 0.0.0.0 ms.cmcm.com
 0.0.0.0 msg.ettoday.net
 0.0.0.0 m-shes.ru
-0.0.0.0 msntest.serving-sys.com
 0.0.0.0 mtburn.com
 0.0.0.0 mtburn.jp
 0.0.0.0 mtlog.droid4x.cn
 0.0.0.0 mtrcss.com
 0.0.0.0 m.vpadn.com
+0.0.0.0 m.wangliqin.top
 0.0.0.0 mwc.velti.com
 0.0.0.0 mxtads.com
 0.0.0.0 mxttrf.com
 0.0.0.0 mxvp-ad-config-prod-1.zenmxapps.com
 0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
+0.0.0.0 m.yangzhenpeng.top
 0.0.0.0 m.yap.yahoo.com
 0.0.0.0 mydas.mobi
 0.0.0.0 myinfotopia.com
@@ -1149,6 +1146,7 @@
 0.0.0.0 nickhel.com
 0.0.0.0 ninja.onap.io
 0.0.0.0 njs.manhuahome.com
+0.0.0.0 nkis.nikkei.com
 0.0.0.0 nkredir.com
 0.0.0.0 nlog.droid4x.cn
 0.0.0.0 nmcdn.us
@@ -1186,6 +1184,7 @@
 0.0.0.0 orencia.pflexads.com
 0.0.0.0 os.scmpacdn.com
 0.0.0.0 otcdn2.auditude.com
+0.0.0.0 other.appcpi.net
 0.0.0.0 owap.su
 0.0.0.0 p.admob.com
 0.0.0.0 pagead1.googlesyndication.com
@@ -1336,14 +1335,12 @@
 0.0.0.0 sf.vserv.mobi
 0.0.0.0 sg01.rayjump.com
 0.0.0.0 shareasale.com
-0.0.0.0 shared.iad.appboy.com
 0.0.0.0 sharethrough.com
 0.0.0.0 shenghuo.xiaomi.com
 0.0.0.0 show.buzzcity.net
 0.0.0.0 show.niqiu99.org
 0.0.0.0 silvermob.com
 0.0.0.0 singular.net
-0.0.0.0 s.innovid.com
 0.0.0.0 sitemaji.com
 0.0.0.0 sitescout.com
 0.0.0.0 sky.adinfuse.com

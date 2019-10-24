@@ -430,6 +430,7 @@
 0.0.0.0 agomwefq.com
 0.0.0.0 agreensdistra.info
 0.0.0.0 agxclick.com
+0.0.0.0 aidalbark.site
 0.0.0.0 aidata.io
 0.0.0.0 aifei0755.net
 0.0.0.0 aifoosty.net
@@ -476,6 +477,7 @@
 0.0.0.0 am15.net
 0.0.0.0 amadagasca.com
 0.0.0.0 amadesa.com
+0.0.0.0 amarceusan.com
 0.0.0.0 amavalet.com
 0.0.0.0 amazingcounters.com
 0.0.0.0 amazy.ru
@@ -709,6 +711,7 @@
 0.0.0.0 beap1.cb.g01.yahoodns.net
 0.0.0.0 beap-bc.yahoo.com
 0.0.0.0 beaverads.com
+0.0.0.0 bebasads.com
 0.0.0.0 bebj.com
 0.0.0.0 becanium.com
 0.0.0.0 becomspectua.club
@@ -1287,6 +1290,7 @@
 0.0.0.0 countino.de
 0.0.0.0 countit.ch
 0.0.0.0 countnow.de
+0.0.0.0 count.nuanyuehanxing.com
 0.0.0.0 counto.de
 0.0.0.0 countok.de
 0.0.0.0 countomat.com
@@ -1397,6 +1401,7 @@
 0.0.0.0 d1qc76gneygidm.cloudfront.net
 0.0.0.0 d1qk9ujrmkucbl.cloudfront.net
 0.0.0.0 d1qtf1avwa1wvl.cloudfront.net
+0.0.0.0 d1r90st78epsag.cloudfront.net
 0.0.0.0 d1uanozc5el74n.cloudfront.net
 0.0.0.0 d1v6js7bjzmhoa.cloudfront.net
 0.0.0.0 d1vh0xkmncek4z.cloudfront.net
@@ -1441,6 +1446,7 @@
 0.0.0.0 d2ymkpxi1rgldj.cloudfront.net
 0.0.0.0 d2z0gqc8sv0l7p.cloudfront.net
 0.0.0.0 d30zrwt3s044zr.cloudfront.net
+0.0.0.0 d31mxuhvwrofft.cloudfront.net
 0.0.0.0 d32r49xyei4vz6.cloudfront.net
 0.0.0.0 d35r45qhjmgs3g.cloudfront.net
 0.0.0.0 d36sxvmjoflc2i.cloudfront.net
@@ -1480,6 +1486,7 @@
 0.0.0.0 d9tnvwv7i2n85.cloudfront.net
 0.0.0.0 da3uf5ucdz00u.cloudfront.net
 0.0.0.0 da5w2k479hyx2.cloudfront.net
+0.0.0.0 dable.io
 0.0.0.0 dacounter.com
 0.0.0.0 daelynn.xyz
 0.0.0.0 dagasaka.com
@@ -2336,6 +2343,7 @@
 0.0.0.0 hemnes.win
 0.0.0.0 hentaicounter.com
 0.0.0.0 herezera.com
+0.0.0.0 herreperolsof.pro
 0.0.0.0 hertforthatharrigh.pro
 0.0.0.0 hesftig.site
 0.0.0.0 hetchi.com
@@ -2617,6 +2625,8 @@
 0.0.0.0 ithoahie.com
 0.0.0.0 itop.cz
 0.0.0.0 itrackerpro.com
+0.0.0.0 itrustzone.site
+0.0.0.0 itteholm.site
 0.0.0.0 iu1xoe7o.com
 0.0.0.0 ivastoor.com
 0.0.0.0 ivcbrasil.org.br
@@ -2916,6 +2926,7 @@
 0.0.0.0 lopley.com
 0.0.0.0 loppjod.online
 0.0.0.0 lopsidedspoon.com
+0.0.0.0 lorahana.xyz
 0.0.0.0 losecounter.de
 0.0.0.0 losstrack.com
 0.0.0.0 loudloss.com
@@ -3482,6 +3493,7 @@
 0.0.0.0 openvenue.com
 0.0.0.0 openxtracker.com
 0.0.0.0 opetation.pro
+0.0.0.0 opgolan.com
 0.0.0.0 oproi.com
 0.0.0.0 optad360.io
 0.0.0.0 opten.hu
@@ -3536,6 +3548,7 @@
 0.0.0.0 oxidy.com
 0.0.0.0 oxu24.com
 0.0.0.0 oyi9f1kbaj.com
+0.0.0.0 packsonikolas.info
 0.0.0.0 paclitor.com
 0.0.0.0 paddsup.com
 0.0.0.0 pagefair.com
@@ -3798,6 +3811,7 @@
 0.0.0.0 projecthaile.com
 0.0.0.0 projectpoi.com
 0.0.0.0 projectsunblock.com
+0.0.0.0 promclickapp.biz
 0.0.0.0 promo-bc.com
 0.0.0.0 promotionengine.com
 0.0.0.0 proofly.win
@@ -3975,6 +3989,7 @@
 0.0.0.0 rapistory.info
 0.0.0.0 rappenedstoric.info
 0.0.0.0 raresummer.com
+0.0.0.0 rasclassignn.info
 0.0.0.0 rasius.pro
 0.0.0.0 rating.in
 0.0.0.0 ratkalol.com
@@ -4608,6 +4623,7 @@
 0.0.0.0 strands.com
 0.0.0.0 stremanp.com
 0.0.0.0 stringroadway.com
+0.0.0.0 stripe.rs-1028-a.com
 0.0.0.0 strivesidewalk.com
 0.0.0.0 stroeerdigitalmedia.de
 0.0.0.0 strs.jp
@@ -4810,6 +4826,7 @@
 0.0.0.0 tonstiparro.info
 0.0.0.0 tontwiredat.info
 0.0.0.0 toolcount.ru
+0.0.0.0 toonikab.com
 0.0.0.0 top100bloggers.com
 0.0.0.0 top100webshops.com
 0.0.0.0 top10sportsites.com
@@ -5200,7 +5217,9 @@
 0.0.0.0 volimole.com
 0.0.0.0 voluumtlkrnarketing.com
 0.0.0.0 voluumtrk2.com
+0.0.0.0 volyze.com
 0.0.0.0 voodooalerts.com
+0.0.0.0 votetoda.com
 0.0.0.0 votistics.com
 0.0.0.0 voyeurhit.com
 0.0.0.0 v.shopify.com
