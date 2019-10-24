@@ -1722,6 +1722,7 @@ shExpMatch(host, '*.allstarmediagroup.com') ||
 shExpMatch(host, '*.all-texproducts.com') ||
 shExpMatch(host, '*.aloofmetal.com') ||
 shExpMatch(host, '*.alphonso.tv') ||
+shExpMatch(host, '*.als-svc.nytimes.com') ||
 shExpMatch(host, '*.alvoportas.com.br') ||
 shExpMatch(host, '*.amazingcounters.com') ||
 shExpMatch(host, '*.amazon-adsystem.com') ||
@@ -2785,6 +2786,7 @@ shExpMatch(host, '*.etahub.com') ||
 shExpMatch(host, '*.etargetnet.com') ||
 shExpMatch(host, '*.etete.eu') ||
 shExpMatch(host, '*.ethicalads.net') ||
+shExpMatch(host, '*.et.nytimes.com') ||
 shExpMatch(host, '*.etracker.de') ||
 shExpMatch(host, '*.eu1.madsone.com') ||
 shExpMatch(host, '*.eu-adcenter.net') ||
@@ -7985,6 +7987,7 @@ shExpMatch(host, 'allstarmediagroup.com') ||
 shExpMatch(host, 'all-texproducts.com') ||
 shExpMatch(host, 'aloofmetal.com') ||
 shExpMatch(host, 'alphonso.tv') ||
+shExpMatch(host, 'als-svc.nytimes.com') ||
 shExpMatch(host, 'alvoportas.com.br') ||
 shExpMatch(host, 'amazingcounters.com') ||
 shExpMatch(host, 'amazon-adsystem.com') ||
@@ -9048,6 +9051,7 @@ shExpMatch(host, 'etahub.com') ||
 shExpMatch(host, 'etargetnet.com') ||
 shExpMatch(host, 'etete.eu') ||
 shExpMatch(host, 'ethicalads.net') ||
+shExpMatch(host, 'et.nytimes.com') ||
 shExpMatch(host, 'etracker.de') ||
 shExpMatch(host, 'eu1.madsone.com') ||
 shExpMatch(host, 'eu-adcenter.net') ||
