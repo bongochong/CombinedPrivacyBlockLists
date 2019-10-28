@@ -1,5 +1,4 @@
 #AdGuard Desktop Hosts - Generated weekly by bongochong
-0.0.0.0 
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 0aac4e6a54c170b0.se
 0.0.0.0 0azx1.com
