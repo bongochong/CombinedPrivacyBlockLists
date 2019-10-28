@@ -1,4 +1,5 @@
 #AdGuard Desktop Hosts - Generated weekly by bongochong
+0.0.0.0 
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 0aac4e6a54c170b0.se
 0.0.0.0 0azx1.com
@@ -703,6 +704,7 @@
 0.0.0.0 bcloudhost.com
 0.0.0.0 bd4travel.com
 0.0.0.0 be2anywhere.com
+0.0.0.0 beacon-fullpage-predictor.goguardian.com
 0.0.0.0 beamincrease.com
 0.0.0.0 beamkite.com
 0.0.0.0 beanscattering.jp
@@ -1295,6 +1297,7 @@
 0.0.0.0 countok.de
 0.0.0.0 countomat.com
 0.0.0.0 countus.fr
+0.0.0.0 countvoncount.goguardian.com
 0.0.0.0 countyou.de
 0.0.0.0 countz.com
 0.0.0.0 coyalecap.club
@@ -1832,6 +1835,7 @@
 0.0.0.0 erotikcounter.org
 0.0.0.0 erotop.lv
 0.0.0.0 erxalim.xyz
+0.0.0.0 esdesignewebnet.info
 0.0.0.0 esearchvision.com
 0.0.0.0 esm1.net
 0.0.0.0 esomniture.com
@@ -1908,6 +1912,7 @@
 0.0.0.0 expertnifg.com
 0.0.0.0 explore-123.com
 0.0.0.0 exposebox.com
+0.0.0.0 ext.goguardian.com
 0.0.0.0 ext.movixhub.com
 0.0.0.0 extole.com
 0.0.0.0 extreme-dm.com
@@ -2318,7 +2323,6 @@
 0.0.0.0 halstats.com
 0.0.0.0 hammerhearing.com
 0.0.0.0 hanaprop.com
-0.0.0.0 handiest-logic.com
 0.0.0.0 happer.info
 0.0.0.0 haraju.co
 0.0.0.0 hariqavi.com
@@ -2541,6 +2545,7 @@
 0.0.0.0 inphonic.com
 0.0.0.0 inpref.com
 0.0.0.0 inpwrd.com
+0.0.0.0 inquisition.goguardian.com
 0.0.0.0 inrecsys.popin.cc
 0.0.0.0 inside-graph.com
 0.0.0.0 insightera.com
@@ -2550,6 +2555,7 @@
 0.0.0.0 inspectlet.com
 0.0.0.0 instadia.net
 0.0.0.0 installp.com
+0.0.0.0 instana.io
 0.0.0.0 instore.biz
 0.0.0.0 insupposity.info
 0.0.0.0 intarget.ru
@@ -2596,6 +2602,7 @@
 0.0.0.0 iperceptions.com
 0.0.0.0 ipfingerprint.com
 0.0.0.0 ipfrom.com
+0.0.0.0 ip.goguardian.com
 0.0.0.0 ipinfodb.com
 0.0.0.0 ipinfo.info
 0.0.0.0 ipinyou.com.cn
@@ -2854,7 +2861,6 @@
 0.0.0.0 liadm.com
 0.0.0.0 libertystmedia.com
 0.0.0.0 libstat.com
-0.0.0.0 licked-alphabet.eu
 0.0.0.0 lifestyle24h.com
 0.0.0.0 liflandaffiliates.com
 0.0.0.0 lift.acquia.com
@@ -3150,7 +3156,6 @@
 0.0.0.0 modernus.is
 0.0.0.0 modulepush.com
 0.0.0.0 moguldom.com
-0.0.0.0 moist-thunderstorm.com
 0.0.0.0 mokuz.ru
 0.0.0.0 monero-miner.com
 0.0.0.0 monetate.net
@@ -3572,6 +3577,7 @@
 0.0.0.0 pandanetwork.club
 0.0.0.0 pandanetwork.tk
 0.0.0.0 panelsave.com
+0.0.0.0 panther.goguardian.com
 0.0.0.0 pa-oa.com
 0.0.0.0 papoto.com
 0.0.0.0 paradoxtraffic.com
@@ -3732,6 +3738,7 @@
 0.0.0.0 popclck.org
 0.0.0.0 popmajor.com
 0.0.0.0 popmode.net
+0.0.0.0 popnc.com
 0.0.0.0 popped.biz
 0.0.0.0 pop-road47.info
 0.0.0.0 popsample.com
@@ -3952,6 +3959,7 @@
 0.0.0.0 quick-counter.net
 0.0.0.0 quicksandear.com
 0.0.0.0 quicksense.net
+0.0.0.0 quiddity.goguardian.com
 0.0.0.0 quillion.com
 0.0.0.0 quintelligence.com
 0.0.0.0 qwerfdx.com
@@ -4033,6 +4041,7 @@
 0.0.0.0 redstatcounter.com
 0.0.0.0 reedbusiness.net
 0.0.0.0 reedge.com
+0.0.0.0 reevaipi.com
 0.0.0.0 reeviveglobal.com
 0.0.0.0 referdriving.com
 0.0.0.0 referer.org
@@ -4190,6 +4199,7 @@
 0.0.0.0 sageanalyst.net
 0.0.0.0 sail-horizon.com
 0.0.0.0 sajari.com
+0.0.0.0 sakura.goguardian.com
 0.0.0.0 salamaleyum.com
 0.0.0.0 salarity.info
 0.0.0.0 salaure.pro
@@ -4223,6 +4233,7 @@
 0.0.0.0 scoutanalytics.net
 0.0.0.0 scrappykoko.com
 0.0.0.0 screechingfurniture.com
+0.0.0.0 screenshots.goguardian.com
 0.0.0.0 scr.flashcast.org.uk
 0.0.0.0 scrippscontroller.com
 0.0.0.0 script.ag
@@ -4418,6 +4429,7 @@
 0.0.0.0 smrtlnks.com
 0.0.0.0 smrtrdrct.com
 0.0.0.0 snakesort.com
+0.0.0.0 snat.goguardian.com
 0.0.0.0 sneaklevel.com
 0.0.0.0 sneakystamp.com
 0.0.0.0 sniperlog.ru
@@ -4434,6 +4446,7 @@
 0.0.0.0 socialtrack.net
 0.0.0.0 sociaplus.com
 0.0.0.0 socketanalytics.com
+0.0.0.0 sockjs-goguardian.pusher.com
 0.0.0.0 sodoit.com
 0.0.0.0 softexcellence.com
 0.0.0.0 softonic-analytics.net
@@ -4495,6 +4508,7 @@
 0.0.0.0 squirrelhands.com
 0.0.0.0 srpx.net
 0.0.0.0 srtb.msn.com
+0.0.0.0 srv.dc-1.net
 0.0.0.0 srvpub.com
 0.0.0.0 srvtrck.com
 0.0.0.0 ss.biquge.la
@@ -4644,6 +4658,7 @@
 0.0.0.0 sumologic.com
 0.0.0.0 sundaysky.com
 0.0.0.0 sunios.de
+0.0.0.0 suntcontent.se
 0.0.0.0 suocloud.com
 0.0.0.0 supercounters.com
 0.0.0.0 superfastcdn.com
@@ -4759,6 +4774,7 @@
 0.0.0.0 tetoolbox.com
 0.0.0.0 tfa5e.top
 0.0.0.0 tgdaudience.com
+0.0.0.0 thaihary.link
 0.0.0.0 thankswrite.com
 0.0.0.0 thauftoa.net
 0.0.0.0 theadex.com
@@ -5399,6 +5415,7 @@
 0.0.0.0 wredint.com
 0.0.0.0 wrmcfyzl.com
 0.0.0.0 ws-gateway.com
+0.0.0.0 ws-goguardian.pusher.com
 0.0.0.0 wsp.adskeeper.co.uk
 0.0.0.0 wsp.mgid.com
 0.0.0.0 wsp.steepto.com
@@ -5432,6 +5449,8 @@
 0.0.0.0 wz7a23kicq.online
 0.0.0.0 wzrk.co
 0.0.0.0 wzrkt.com
+0.0.0.0 x3-policy-maker.goguardian.com
+0.0.0.0 x3-predictor.goguardian.com
 0.0.0.0 x.55peixun.com
 0.0.0.0 xa-counter.com
 0.0.0.0 xaxoro.com
