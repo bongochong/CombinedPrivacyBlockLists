@@ -1,4 +1,5 @@
 #AdGuard Desktop Hosts - Generated weekly by bongochong
+0.0.0.0 
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 0aac4e6a54c170b0.se
 0.0.0.0 0azx1.com
@@ -2555,6 +2556,7 @@
 0.0.0.0 instadia.net
 0.0.0.0 installp.com
 0.0.0.0 instana.io
+0.0.0.0 instantreward.site
 0.0.0.0 instore.biz
 0.0.0.0 insupposity.info
 0.0.0.0 intarget.ru
@@ -3354,6 +3356,7 @@
 0.0.0.0 nmpmgmldzvrmra.com
 0.0.0.0 nnd.xyssp.com
 0.0.0.0 noakauhe.com
+0.0.0.0 noamiscience.pro
 0.0.0.0 noblock.pro
 0.0.0.0 noiselessplough.com
 0.0.0.0 nompakru.click
@@ -4134,6 +4137,7 @@
 0.0.0.0 rnengage.com
 0.0.0.0 rng-snp-003.com
 0.0.0.0 rnlabs.com
+0.0.0.0 rob.megaopen.ru
 0.0.0.0 rocks.io
 0.0.0.0 roia.biz
 0.0.0.0 roi-pro.com
@@ -4766,6 +4770,7 @@
 0.0.0.0 terethat.ru
 0.0.0.0 teriotracker.de
 0.0.0.0 terraclicks.com
+0.0.0.0 terrapsps.com
 0.0.0.0 terrapush.com
 0.0.0.0 terriblethumb.com
 0.0.0.0 terribleturkey.com
@@ -4835,6 +4840,7 @@
 0.0.0.0 tns-gallup.dk
 0.0.0.0 tnsinternet.be
 0.0.0.0 toftofcal.com
+0.0.0.0 togenron.com
 0.0.0.0 togroltu.net
 0.0.0.0 tommysdream.net
 0.0.0.0 tonsterandhantan.info
@@ -5288,6 +5294,7 @@
 0.0.0.0 webest.info
 0.0.0.0 webflowmetrics.com
 0.0.0.0 webforensics.co.uk
+0.0.0.0 webforumtik1.com
 0.0.0.0 webgains.com
 0.0.0.0 webgekeniuos.com
 0.0.0.0 webglstats.com
