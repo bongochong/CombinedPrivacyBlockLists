@@ -1,4 +1,4 @@
-#AdGuard Mobile Hosts - Generated weekly by bongochong
+#AdGuard Mobile Hosts (10/30/2019) - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
 0.0.0.0 1mp.mobi

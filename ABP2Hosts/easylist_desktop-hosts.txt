@@ -1,4 +1,4 @@
-#EasyList Desktop Hosts - Generated weekly by bongochong
+#EasyList Desktop Hosts (10/30/2019) - Generated weekly by bongochong
 0.0.0.0 0026645142c89aeb1.com
 0.0.0.0 006a039c957c142bb.com
 0.0.0.0 0073dd485d46d930dd9.com
