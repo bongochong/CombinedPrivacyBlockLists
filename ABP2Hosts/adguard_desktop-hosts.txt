@@ -333,6 +333,7 @@
 0.0.0.0 adsglow.net
 0.0.0.0 ads.heias.com
 0.0.0.0 adshell.net
+0.0.0.0 adshob.com
 0.0.0.0 adshost.site
 0.0.0.0 ads.linkedin.com
 0.0.0.0 adslop.com
@@ -4201,6 +4202,7 @@
 0.0.0.0 s7c66wkh8k.com
 0.0.0.0 s85n4btydl.online
 0.0.0.0 s.95105012.com
+0.0.0.0 s99i.org
 0.0.0.0 sageanalyst.net
 0.0.0.0 sail-horizon.com
 0.0.0.0 sajari.com

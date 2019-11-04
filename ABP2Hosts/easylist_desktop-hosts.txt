@@ -19574,6 +19574,7 @@
 0.0.0.0 sicteppojdwr.com
 0.0.0.0 sielsmaats.com
 0.0.0.0 sifomedia.se
+0.0.0.0 sift.com
 0.0.0.0 siftscience.com
 0.0.0.0 sig.atdmt.com
 0.0.0.0 sig.gamerdna.com
