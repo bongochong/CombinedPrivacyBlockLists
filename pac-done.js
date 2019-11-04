@@ -698,6 +698,7 @@ shExpMatch(host, '*.ad.anuntis.com') ||
 shExpMatch(host, '*.adapt.tv') ||
 shExpMatch(host, '*.adap.tv') ||
 shExpMatch(host, '*.ad.auditude.com') ||
+shExpMatch(host, '*.adback.co') ||
 shExpMatch(host, '*.ad-balancer.at') ||
 shExpMatch(host, '*.ad-balancer.net') ||
 shExpMatch(host, '*.adbanner.ro') ||
@@ -2537,6 +2538,7 @@ shExpMatch(host, '*.croissed.info') ||
 shExpMatch(host, '*.crosseunity.top') ||
 shExpMatch(host, '*.crowdgravity.com') ||
 shExpMatch(host, '*.crownclam.com') ||
+shExpMatch(host, '*.crsspxl.com') ||
 shExpMatch(host, '*.crtv.mate1.com') ||
 shExpMatch(host, '*.crwdcntrl.net') ||
 shExpMatch(host, '*.cryptmyexe.pw') ||
@@ -2651,7 +2653,6 @@ shExpMatch(host, '*.disqusads.com') ||
 shExpMatch(host, '*.dist.belnk.com') ||
 shExpMatch(host, '*.distillery.wistia.com') ||
 shExpMatch(host, '*.districtm.ca') ||
-shExpMatch(host, '*.djtfkakbufpwot.com') ||
 shExpMatch(host, '*.dk4ywix.com') ||
 shExpMatch(host, '*.dkoipg.pw') ||
 shExpMatch(host, '*.dlauten.bplaced.net') ||
@@ -3893,6 +3894,7 @@ shExpMatch(host, '*.microticker.com') ||
 shExpMatch(host, '*.midnightclicking.com') ||
 shExpMatch(host, '*.militaryverse.com') ||
 shExpMatch(host, '*.millennialmedia.com') ||
+shExpMatch(host, '*.milotree.com') ||
 shExpMatch(host, '*.mindmemobile.com') ||
 shExpMatch(host, '*.minewhat.com') ||
 shExpMatch(host, '*.minormeeting.com') ||
@@ -4023,6 +4025,7 @@ shExpMatch(host, '*.naijabids.co.uk') ||
 shExpMatch(host, '*.naj.sk') ||
 shExpMatch(host, '*.namimedia.com') ||
 shExpMatch(host, '*.nancycemt1225.ddns.net') ||
+shExpMatch(host, '*.naradxb.com') ||
 shExpMatch(host, '*.nasscomminc.tk') ||
 shExpMatch(host, '*.nastydollars.com') ||
 shExpMatch(host, '*.nativeroll.tv') ||
@@ -4616,6 +4619,7 @@ shExpMatch(host, '*.programtotalatoma.esy.es') ||
 shExpMatch(host, '*.pro.i-doctor.co.kr') ||
 shExpMatch(host, '*.projects.globaltronics.net') ||
 shExpMatch(host, '*.projectwonderful.com') ||
+shExpMatch(host, '*.pro-market.net') ||
 shExpMatch(host, '*.promo1.webcams.nl') ||
 shExpMatch(host, '*.promo.badoink.com') ||
 shExpMatch(host, '*.promobenef.com') ||
@@ -6971,6 +6975,7 @@ shExpMatch(host, 'ad.anuntis.com') ||
 shExpMatch(host, 'adapt.tv') ||
 shExpMatch(host, 'adap.tv') ||
 shExpMatch(host, 'ad.auditude.com') ||
+shExpMatch(host, 'adback.co') ||
 shExpMatch(host, 'ad-balancer.at') ||
 shExpMatch(host, 'ad-balancer.net') ||
 shExpMatch(host, 'adbanner.ro') ||
@@ -8810,6 +8815,7 @@ shExpMatch(host, 'croissed.info') ||
 shExpMatch(host, 'crosseunity.top') ||
 shExpMatch(host, 'crowdgravity.com') ||
 shExpMatch(host, 'crownclam.com') ||
+shExpMatch(host, 'crsspxl.com') ||
 shExpMatch(host, 'crtv.mate1.com') ||
 shExpMatch(host, 'crwdcntrl.net') ||
 shExpMatch(host, 'cryptmyexe.pw') ||
@@ -8924,7 +8930,6 @@ shExpMatch(host, 'disqusads.com') ||
 shExpMatch(host, 'dist.belnk.com') ||
 shExpMatch(host, 'distillery.wistia.com') ||
 shExpMatch(host, 'districtm.ca') ||
-shExpMatch(host, 'djtfkakbufpwot.com') ||
 shExpMatch(host, 'dk4ywix.com') ||
 shExpMatch(host, 'dkoipg.pw') ||
 shExpMatch(host, 'dlauten.bplaced.net') ||
@@ -10166,6 +10171,7 @@ shExpMatch(host, 'microticker.com') ||
 shExpMatch(host, 'midnightclicking.com') ||
 shExpMatch(host, 'militaryverse.com') ||
 shExpMatch(host, 'millennialmedia.com') ||
+shExpMatch(host, 'milotree.com') ||
 shExpMatch(host, 'mindmemobile.com') ||
 shExpMatch(host, 'minewhat.com') ||
 shExpMatch(host, 'minormeeting.com') ||
@@ -10296,6 +10302,7 @@ shExpMatch(host, 'naijabids.co.uk') ||
 shExpMatch(host, 'naj.sk') ||
 shExpMatch(host, 'namimedia.com') ||
 shExpMatch(host, 'nancycemt1225.ddns.net') ||
+shExpMatch(host, 'naradxb.com') ||
 shExpMatch(host, 'nasscomminc.tk') ||
 shExpMatch(host, 'nastydollars.com') ||
 shExpMatch(host, 'nativeroll.tv') ||
@@ -10889,6 +10896,7 @@ shExpMatch(host, 'programtotalatoma.esy.es') ||
 shExpMatch(host, 'pro.i-doctor.co.kr') ||
 shExpMatch(host, 'projects.globaltronics.net') ||
 shExpMatch(host, 'projectwonderful.com') ||
+shExpMatch(host, 'pro-market.net') ||
 shExpMatch(host, 'promo1.webcams.nl') ||
 shExpMatch(host, 'promo.badoink.com') ||
 shExpMatch(host, 'promobenef.com') ||
