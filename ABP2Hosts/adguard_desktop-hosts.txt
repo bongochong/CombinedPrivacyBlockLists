@@ -1,4 +1,4 @@
-#AdGuard Desktop Hosts (10/30/2019) - Generated weekly by bongochong
+#AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 0aac4e6a54c170b0.se
 0.0.0.0 0azx1.com
@@ -586,6 +586,7 @@
 0.0.0.0 asextube.net
 0.0.0.0 asg.xz2aab.xyz
 0.0.0.0 ashaidbit.club
+0.0.0.0 ashbowany.site
 0.0.0.0 ashow.pcpop.com
 0.0.0.0 askallalb.club
 0.0.0.0 aspampbrr.online
@@ -2307,6 +2308,7 @@
 0.0.0.0 guckawoh.net
 0.0.0.0 guitarbelieve.com
 0.0.0.0 guruquicks.net
+0.0.0.0 g.vev.io
 0.0.0.0 gvisit.com
 0.0.0.0 gygdmy.com
 0.0.0.0 gzxdkaytxdsyxg.com
@@ -2683,6 +2685,7 @@
 0.0.0.0 jomys.xyz
 0.0.0.0 joredi.com
 0.0.0.0 jorjodika.com
+0.0.0.0 jotchept.com
 0.0.0.0 jp-axia.m0mentum.net
 0.0.0.0 jquerycdn.co.il
 0.0.0.0 jquerymin.co.il
