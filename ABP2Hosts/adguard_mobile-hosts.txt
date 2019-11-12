@@ -150,6 +150,7 @@
 0.0.0.0 adsapi.manhuaren.com
 0.0.0.0 ads.avocarrot.com
 0.0.0.0 ads-bidder-api.twitter.com
+0.0.0.0 ads-brand-postback.unityads.unity3d.com
 0.0.0.0 ads.bulldogcpi.com
 0.0.0.0 adscale.de
 0.0.0.0 ads.celtra.com
@@ -168,6 +169,7 @@
 0.0.0.0 adserver.unityads.unity3d.com
 0.0.0.0 ads.flurry.com
 0.0.0.0 ads.fotoable.com
+0.0.0.0 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
 0.0.0.0 ads.glispa.com
 0.0.0.0 ads.go2reach.com
 0.0.0.0 adshost2.com
@@ -280,6 +282,7 @@
 0.0.0.0 analytics.ad.daum.net
 0.0.0.0 analytics.admob.com
 0.0.0.0 analytics.any.do
+0.0.0.0 analytics.cloud.unity3d.com
 0.0.0.0 analytics-events.inshorts.com
 0.0.0.0 analytics.ff.avast.com
 0.0.0.0 analytics.kidoz.net
@@ -558,16 +561,23 @@
 0.0.0.0 cdn-cf.postitial.com
 0.0.0.0 cdn.cpiera.com
 0.0.0.0 cdn.creative.medialytics.com
+0.0.0.0 cdn-creatives-akamai-prd.unityads.unity3d.com
+0.0.0.0 cdn-creatives-highwinds-prd.unityads.unity3d.com
+0.0.0.0 cdn-creatives-prd.unityads.unity3d.com
 0.0.0.0 cdn.hdat.xyz
 0.0.0.0 cdn-highwinds.unityads.unity3d.com
 0.0.0.0 cdn-image.com
 0.0.0.0 cdn.mdotm.com
 0.0.0.0 cdn.nearbyad.com
 0.0.0.0 cdns.lodeo.io
+0.0.0.0 cdn-store-icons-akamai-prd.unityads.unity3d.com
+0.0.0.0 cdn-store-icons-highwinds-prd.unityads.unity3d.com
 0.0.0.0 cdn.trafficforce.com
 0.0.0.0 cdn.unityads.unity3d.com
 0.0.0.0 cdn.us.goldspotmedia.com
 0.0.0.0 cdn.vdopia.com
+0.0.0.0 cdn-webview-pge.unityads.unity3d.com
+0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 cedexis.com
 0.0.0.0 cedexis-radar.net
 0.0.0.0 cell.zhybzp.cn
@@ -579,6 +589,7 @@
 0.0.0.0 chango.com
 0.0.0.0 chartboost.com
 0.0.0.0 chartboosts.com
+0.0.0.0 china-cdn3.unityads.unity3d.com
 0.0.0.0 china.inmobi.com
 0.0.0.0 chitika.net
 0.0.0.0 click.buzzcity.net
@@ -651,6 +662,7 @@
 0.0.0.0 data2.doodlemobile.com
 0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 data.mobclix.com
+0.0.0.0 data-optout-service.uca.cloud.unity3d.com
 0.0.0.0 data.sec.miui.com
 0.0.0.0 dc.altamob.com
 0.0.0.0 dc.altmob.com
@@ -673,6 +685,8 @@
 0.0.0.0 doubleclick.net
 0.0.0.0 dpstack.com
 0.0.0.0 dsg.sc.omtrdc.net
+0.0.0.0 dsp-endscreens.unityads.unity3d.com
+0.0.0.0 dsp-tracking.unityads.unity3d.com
 0.0.0.0 dumedia.ru
 0.0.0.0 dzpu6za66svjl.cloudfront.net
 0.0.0.0 e.apsalar.com
@@ -804,6 +818,7 @@
 0.0.0.0 g.doubleclick.net
 0.0.0.0 geede.info
 0.0.0.0 gemini.yahoo.com
+0.0.0.0 geocdn.unityads.unity3d.com
 0.0.0.0 geo.go2s.co
 0.0.0.0 geoinfo.i2w.io
 0.0.0.0 geoip.fotoable.net
@@ -827,6 +842,7 @@
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 google-analytics.com
 0.0.0.0 googlesyndication.com
+0.0.0.0 gop1.co
 0.0.0.0 go.pushnative.com
 0.0.0.0 go.vrvm.com
 0.0.0.0 goyetteconnelly.bid
@@ -861,6 +877,7 @@
 0.0.0.0 httpool.com
 0.0.0.0 huangye.miui.com
 0.0.0.0 huntmad.com
+0.0.0.0 hwstats.unity3d.com
 0.0.0.0 hybl9bazbc35.pflexads.com
 0.0.0.0 hybrid.ai
 0.0.0.0 hyperadx.com
@@ -915,6 +932,7 @@
 0.0.0.0 insightexpressai.com
 0.0.0.0 inskin.vo.llnwd.net
 0.0.0.0 installtracker.com
+0.0.0.0 installtracker.unityads.unity3d.com
 0.0.0.0 integral-marketing.com
 0.0.0.0 intellitxt.com
 0.0.0.0 intermarkets.net
@@ -925,6 +943,7 @@
 0.0.0.0 ios.bugly.qq.com
 0.0.0.0 iqzone.com
 0.0.0.0 i.skimresources.com
+0.0.0.0 issuetracker.unity3d.com
 0.0.0.0 i.tapit.com
 0.0.0.0 itx5-publicidad.smartadserver.com
 0.0.0.0 itx5.smartadserver.com
@@ -1143,6 +1162,7 @@
 0.0.0.0 newsnet.in.ua
 0.0.0.0 nexac.com
 0.0.0.0 nexage.akadns.net
+0.0.0.0 nginx-auction-prd-gcp.adsx.unityads.unity3d.com
 0.0.0.0 nickhel.com
 0.0.0.0 ninja.onap.io
 0.0.0.0 njs.manhuahome.com
@@ -1202,6 +1222,7 @@
 0.0.0.0 perf-events.cloud.unity3d.com
 0.0.0.0 pflexads.com
 0.0.0.0 pgapi.ksmobile.com
+0.0.0.0 pge.unityads.unity3d.com
 0.0.0.0 phluant.com
 0.0.0.0 pingma.qq.com
 0.0.0.0 ping.taplytics.com
@@ -1241,6 +1262,8 @@
 0.0.0.0 prugskh.net
 0.0.0.0 pssvc.iqzone.com
 0.0.0.0 pub1.co
+0.0.0.0 publisher-event.ads.prd.ie.internal.unity3d.com
+0.0.0.0 publisher-event.unityads.unity3d.com
 0.0.0.0 pubmatic.com
 0.0.0.0 pubnative.net
 0.0.0.0 puds.ucweb.com
@@ -1430,6 +1453,7 @@
 0.0.0.0 textron.vo.llnwd.net
 0.0.0.0 theship.club
 0.0.0.0 thetrafficstat.net
+0.0.0.0 thind-gke-euw.prd.data.corp.unity3d.com
 0.0.0.0 thinknear-hosted.thinknearhub.com
 0.0.0.0 thoughtleadr.com
 0.0.0.0 thoughtsondance.info
@@ -1464,6 +1488,7 @@
 0.0.0.0 trackimpression.com
 0.0.0.0 tracking.aatkit.com
 0.0.0.0 tracking.acekoala.com
+0.0.0.0 tracking.adsx.unityads.unity3d.com
 0.0.0.0 tracking.applift.com
 0.0.0.0 tracking.directservices.it
 0.0.0.0 tracking.i2w.io
@@ -1471,6 +1496,7 @@
 0.0.0.0 tracking.klickthru.com
 0.0.0.0 tracking.lenzmx.com
 0.0.0.0 tracking.miui.com
+0.0.0.0 tracking.prd.mz.internal.unity3d.com
 0.0.0.0 tracking-server-prod-1.zenmxapps.com
 0.0.0.0 tracking.trnox.com
 0.0.0.0 tracking.viewster.com
@@ -1507,6 +1533,7 @@
 0.0.0.0 umbel.com
 0.0.0.0 underclick.ru
 0.0.0.0 unicume.com
+0.0.0.0 unityads.unity3d.com
 0.0.0.0 upalytics.com
 0.0.0.0 update.sdk.batmobi.net
 0.0.0.0 upoll.umengcloud.com
@@ -1517,6 +1544,7 @@
 0.0.0.0 us.3zs0.date
 0.0.0.0 usarmy.vo.llnwd.net
 0.0.0.0 usekahuna.com
+0.0.0.0 userreporting.cloud.unity3d.com
 0.0.0.0 usp1.baidu.com
 0.0.0.0 ustat.batmobi.net
 0.0.0.0 utarget.ru

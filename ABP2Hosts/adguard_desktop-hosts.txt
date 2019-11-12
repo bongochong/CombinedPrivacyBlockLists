@@ -282,6 +282,7 @@
 0.0.0.0 admax.quisma.com
 0.0.0.0 admdspc.com
 0.0.0.0 admeo.ru
+0.0.0.0 admicro.vn
 0.0.0.0 admitad.com
 0.0.0.0 admon.pro
 0.0.0.0 admost.com
@@ -496,6 +497,7 @@
 0.0.0.0 analysistools.net
 0.0.0.0 analytic.rocks
 0.0.0.0 analytics.blue
+0.0.0.0 analytics.datahc.com
 0.0.0.0 analytics-egain.com
 0.0.0.0 analytics-engine.net
 0.0.0.0 analyticsq.com
@@ -528,6 +530,7 @@
 0.0.0.0 anxiousapples.com
 0.0.0.0 aoredi.com
 0.0.0.0 a-pagerank.net
+0.0.0.0 apearmare.site
 0.0.0.0 apearmark.online
 0.0.0.0 apexstats.com
 0.0.0.0 apextwo.com
@@ -582,6 +585,7 @@
 0.0.0.0 artfut.com
 0.0.0.0 arturtrack.com
 0.0.0.0 asasfasdf.xyz
+0.0.0.0 ascraftan.com
 0.0.0.0 asdorka.com
 0.0.0.0 aservices.party
 0.0.0.0 asextube.net
@@ -945,6 +949,7 @@
 0.0.0.0 buzzdeck.com
 0.0.0.0 bycxsh.com
 0.0.0.0 bytemgdd.com
+0.0.0.0 byyanmaor.com
 0.0.0.0 bzoxa.cn
 0.0.0.0 c03jij5q.website
 0.0.0.0 c1exchange.com
@@ -1875,6 +1880,7 @@
 0.0.0.0 europuls.net
 0.0.0.0 eu-survey.com
 0.0.0.0 euym8eel.club
+0.0.0.0 ev2cdn.com
 0.0.0.0 evanetpro.com
 0.0.0.0 evantative.top
 0.0.0.0 everestjs.net
@@ -2262,6 +2268,7 @@
 0.0.0.0 grainsox.net
 0.0.0.0 graivaik.com
 0.0.0.0 gramombird.com
+0.0.0.0 grandoads.com
 0.0.0.0 grandslammedia.com
 0.0.0.0 grapheffect.com
 0.0.0.0 graphinsider.com
@@ -2324,6 +2331,7 @@
 0.0.0.0 halldata.com
 0.0.0.0 halstats.com
 0.0.0.0 hammerhearing.com
+0.0.0.0 hamtugin.com
 0.0.0.0 hanaprop.com
 0.0.0.0 happer.info
 0.0.0.0 haraju.co
@@ -2735,6 +2743,7 @@
 0.0.0.0 kalmloda.com
 0.0.0.0 kameleoon.com
 0.0.0.0 kampyle.com
+0.0.0.0 katelinna.m.biqubao.com
 0.0.0.0 katurars.com
 0.0.0.0 kaukoafa.net
 0.0.0.0 kaunairu.net
@@ -2789,6 +2798,7 @@
 0.0.0.0 kontagent.net
 0.0.0.0 kopsil.com
 0.0.0.0 kostenlose-counter.com
+0.0.0.0 koutobey.net
 0.0.0.0 kqzyfj.com
 0.0.0.0 krakeshlaja.com
 0.0.0.0 krison.xyz
@@ -2898,6 +2908,7 @@
 0.0.0.0 livestats.fr
 0.0.0.0 livewebstats.dk
 0.0.0.0 lizardslaugh.com
+0.0.0.0 lk.4jzl.cn
 0.0.0.0 llgerege.com
 0.0.0.0 llladiez.org
 0.0.0.0 lloogg.com
@@ -3288,6 +3299,7 @@
 0.0.0.0 ncom.dk
 0.0.0.0 nddmcconmqsy.ru
 0.0.0.0 ndg.io
+0.0.0.0 ndjelsefd.com
 0.0.0.0 neads.delivery
 0.0.0.0 neatstats.com
 0.0.0.0 nedstatbasic.net
@@ -3364,6 +3376,7 @@
 0.0.0.0 noiselessplough.com
 0.0.0.0 nompakru.click
 0.0.0.0 noowho.com
+0.0.0.0 noproblfr.com
 0.0.0.0 noqukjy.com
 0.0.0.0 nordicresearch.com
 0.0.0.0 northclick-statistiken.de
@@ -3505,6 +3518,7 @@
 0.0.0.0 opetation.pro
 0.0.0.0 opgolan.com
 0.0.0.0 oproi.com
+0.0.0.0 opsivesh.net
 0.0.0.0 optad360.io
 0.0.0.0 opten.hu
 0.0.0.0 optify.net
@@ -3751,6 +3765,7 @@
 0.0.0.0 populr.me
 0.0.0.0 popunderjs.club
 0.0.0.0 popunders.bid
+0.0.0.0 popupmaker.com
 0.0.0.0 popupme.net
 0.0.0.0 popup-traffic.com
 0.0.0.0 pop.verplusonline.com
@@ -4140,6 +4155,7 @@
 0.0.0.0 rnengage.com
 0.0.0.0 rng-snp-003.com
 0.0.0.0 rnlabs.com
+0.0.0.0 roakicat.net
 0.0.0.0 rob.megaopen.ru
 0.0.0.0 rocks.io
 0.0.0.0 roia.biz
@@ -4258,6 +4274,7 @@
 0.0.0.0 sdk.digitalbees.it
 0.0.0.0 sea-nov-1.com
 0.0.0.0 search2000s.com
+0.0.0.0 searchad-phinf.pstatic.net
 0.0.0.0 searchfeed.com
 0.0.0.0 searchignite.com
 0.0.0.0 searchplow.com
@@ -4707,6 +4724,7 @@
 0.0.0.0 synthasite.net
 0.0.0.0 sysomos.com
 0.0.0.0 systerwithing.info
+0.0.0.0 syyycc.com
 0.0.0.0 szsmtk.com
 0.0.0.0 s.zsxpx.com
 0.0.0.0 t4ft.de
@@ -4881,6 +4899,7 @@
 0.0.0.0 torbit.com
 0.0.0.0 toro-tags.com
 0.0.0.0 torshatencalsi.info
+0.0.0.0 totogetica.com
 0.0.0.0 touchclarity.com
 0.0.0.0 tovery.net
 0.0.0.0 tpmedia-reactads.com
@@ -5121,6 +5140,7 @@
 0.0.0.0 utilistom.info
 0.0.0.0 utorido.com
 0.0.0.0 uuidksinc.net
+0.0.0.0 u.xogu.cn
 0.0.0.0 uxvtglgbeshxn.bid
 0.0.0.0 uymkdz9s.com
 0.0.0.0 uytestion.info
