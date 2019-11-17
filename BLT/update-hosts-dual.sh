@@ -8,7 +8,6 @@ cd ~/BLT/hosts
 rm -f hosts.*
 rm -f *.final
 rm -f *.hosts
-rm -f uniq-hosts-final.pre
 rm -f newhosts.txt
 sleep 2
 wget -nv -O hosts.1 "http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext"
@@ -33,7 +32,6 @@ cat hosts.* > hosts-cat.final
 pcregrep -v -f ~/BLT/parsing/hostpatterns.dat hosts-cat.final > hosts-pre.final
 sort hosts-pre.final > sorted-hosts.final
 uniq sorted-hosts.final > uniq-hosts.final
-cp uniq-hosts.final uniq-hosts-final.pre
 sed -i -e "s/#.*$//" uniq-hosts.final
 sed -i -e "/[[:space:]]*#/d" uniq-hosts.final
 sed -i -e "/[[:blank:]]*#/d" uniq-hosts.final
@@ -45,8 +43,7 @@ sed -i -e "s/[[:space:]]*$//" uniq-hosts.final
 sed -i -e "s/[[:blank:]]*$//" uniq-hosts.final
 sed -i -e "s/[[:space:]]\+/ /g" uniq-hosts.final
 sed -i -e "/^0.0.0.0 /! s/^/0.0.0.0 /" uniq-hosts.final
-sort uniq-hosts.final > final-sort.hosts
-uniq -i final-sort.hosts > final-uniq.hosts
+sort uniq-hosts.final | uniq -i > final-uniq.hosts
 pcregrep -v -f ~/BLT/parsing/hostpatterns.dat final-uniq.hosts > hosts.final
 echo "Successfully merged hosts lists!"
 sed 's/^0.0.0.0/::/g' hosts.final > hostsIPv6.final
@@ -64,6 +61,6 @@ sleep 2
 rm -f hosts.*
 rm -f *.final
 rm -f *.hosts
-rm -f uniq-hosts-final.pre
 rm -f newhosts-template-both.txt
 echo "Your hosts file has been updated!"
+xdg-open ~/BLT/hosts
