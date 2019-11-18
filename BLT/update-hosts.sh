@@ -30,8 +30,7 @@ echo "Downloaded hosts list 8"
 # echo "Downloaded hosts list 9"
 cat hosts.* > hosts-cat.final
 pcregrep -v -f ~/BLT/parsing/hostpatterns.dat hosts-cat.final > hosts-pre.final
-sort hosts-pre.final > sorted-hosts.final
-uniq sorted-hosts.final > uniq-hosts.final
+sort hosts-pre.final | uniq > uniq-hosts.final
 sed -i -e "s/#.*$//" uniq-hosts.final
 sed -i -e "/[[:space:]]*#/d" uniq-hosts.final
 sed -i -e "/[[:blank:]]*#/d" uniq-hosts.final
@@ -47,9 +46,8 @@ sort uniq-hosts.final | uniq -i > final-uniq.hosts
 pcregrep -v -f ~/BLT/parsing/hostpatterns.dat final-uniq.hosts > hosts.final
 perl -i -pe 'chomp if eof' hosts.final
 echo "Successfully merged hosts lists!"
-sed '35r hosts.final' < ~/BLT/parsing/newhosts-template.txt > nhtemptemp.txt
-sed -i "23s|DAYBONGODATEREPLACE|$(date)|" nhtemptemp.txt
-mv nhtemptemp.txt newhosts.txt
+sed '35r hosts.final' < ~/BLT/parsing/newhosts-template.txt > newhosts.txt
+sed -i "23s|DAYBONGODATEREPLACE|$(date)|" newhosts.txt
 perl -i -pe 'chomp if eof' newhosts.txt
 echo "Successfully cleaned up and formatted hosts file! Prompting for password to make backup of and overwrite /etc/hosts..."
 sudo cp /etc/hosts hostsbackup.txt

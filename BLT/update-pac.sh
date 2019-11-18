@@ -21,8 +21,7 @@ cat *.pac > pac-comb.txt
 sed -i "s/#.*$//" pac-comb.txt
 sed -i "/^$/d" pac-comb.txt
 sed -i "/^Site$/d" pac-comb.txt
-sort pac-comb.txt > pac-sort.txt
-uniq -i pac-sort.txt > pac-uniq.txt
+sort pac-comb.txt | uniq -i > pac-uniq.txt
 cp pac-uniq.txt pac-pre.txt
 cp pac-pre.txt pac-pre2.txt
 sed -i "s/^/*./" pac-pre.txt
