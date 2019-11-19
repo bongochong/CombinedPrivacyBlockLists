@@ -12,7 +12,7 @@ The data within is meant to automate the generation and updating of the followin
 - [A PAC (proxy auto-configuration) file, to block undesirable domains](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/update-pac.sh)  
 
 **Dependencies**:  
-To utilize all the scripts to their full extent, you must have the following packages installed on your system: `perl wget pcregrep curl p7zip`  
+To utilize all the scripts to their full extent, you must have the following packages installed on your system: `perl wget pcregrep curl p7zip p7zip-plugins`  
 
 **One-line installation**:  
 Copy the following `wget -nv -O ~/installer.sh "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/installer.sh" && chmod +x ~/installer.sh && sh ~/installer.sh && rm ~/installer.sh` paste it into your terminal, and hit enter. Donezo. Now you have all the utilities.  
