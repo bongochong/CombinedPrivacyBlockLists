@@ -168,6 +168,7 @@
 0.0.0.0 99counters.com
 0.0.0.0 99stats.com
 0.0.0.0 9nl.eu
+0.0.0.0 9purdfe9xg.com
 0.0.0.0 9utwbj08.top
 0.0.0.0 a013.com
 0.0.0.0 a1a5ab31bcd1bc68.com
@@ -595,6 +596,7 @@
 0.0.0.0 ashow.pcpop.com
 0.0.0.0 askallalb.club
 0.0.0.0 aspampbrr.online
+0.0.0.0 aspanyarc.club
 0.0.0.0 aspgfx.org
 0.0.0.0 assoctrac.com
 0.0.0.0 aster18cdn.nl
@@ -621,6 +623,7 @@
 0.0.0.0 audiencerate.com
 0.0.0.0 audiens.com
 0.0.0.0 audrte.com
+0.0.0.0 augheguw.net
 0.0.0.0 aulrains.com
 0.0.0.0 auth.bz
 0.0.0.0 authorinsights.com
@@ -675,6 +678,7 @@
 0.0.0.0 backlink-umsonst.de
 0.0.0.0 back.marketing
 0.0.0.0 badokal.com
+0.0.0.0 badshades.com
 0.0.0.0 badshores.com
 0.0.0.0 badslopes.com
 0.0.0.0 badtopwitch.work
@@ -768,6 +772,7 @@
 0.0.0.0 bezoya.work
 0.0.0.0 bfe4e6d364be199.com
 0.0.0.0 bfoleyinteractive.com
+0.0.0.0 bgadx.com
 0.0.0.0 bgcsojmtgdrv.com
 0.0.0.0 bhs4.com
 0.0.0.0 bhzejltg.info
@@ -858,6 +863,7 @@
 0.0.0.0 boacheeb.com
 0.0.0.0 bobarilla.com
 0.0.0.0 bodelen.com
+0.0.0.0 boffinsoft.com
 0.0.0.0 boilingbeetle.com
 0.0.0.0 bokeden.com
 0.0.0.0 bokilora.com
@@ -966,6 +972,7 @@
 0.0.0.0 cagelrib.net
 0.0.0.0 cah9ooy.bid
 0.0.0.0 calculatorcamera.com
+0.0.0.0 caligula.pro
 0.0.0.0 callingjustified.com
 0.0.0.0 callisto.fm
 0.0.0.0 callmeasurement.com
@@ -1191,6 +1198,7 @@
 0.0.0.0 colleduny.info
 0.0.0.0 collserve.com
 0.0.0.0 comagic.ru
+0.0.0.0 combitly.com
 0.0.0.0 comfortablecheese.com
 0.0.0.0 commander1.com
 0.0.0.0 commandwalk.com
@@ -1675,6 +1683,7 @@
 0.0.0.0 doshaido.com
 0.0.0.0 dotmetrics.net
 0.0.0.0 dotomi.com
+0.0.0.0 doublepimpads.com
 0.0.0.0 doubtfulrainstorm.com
 0.0.0.0 doutthenhap.info
 0.0.0.0 download.350.com
@@ -1939,6 +1948,7 @@
 0.0.0.0 faibl.org
 0.0.0.0 fairnessels.com
 0.0.0.0 fallingfalcon.com
+0.0.0.0 fandmo.com
 0.0.0.0 fandommetrics.com
 0.0.0.0 fanplayr.com
 0.0.0.0 fapmeth.com
@@ -2521,6 +2531,7 @@
 0.0.0.0 img.hunlimishu.com
 0.0.0.0 img.rqgsf.com
 0.0.0.0 immanalytics.com
+0.0.0.0 impactserving.com
 0.0.0.0 impcounter.com
 0.0.0.0 improvely.com
 0.0.0.0 imrtrack.com
@@ -2817,6 +2828,7 @@
 0.0.0.0 kvkoqywl.com
 0.0.0.0 kwunqjqntrnf.bid
 0.0.0.0 kyad88.com
+0.0.0.0 kymirasite.pro
 0.0.0.0 kzqjwdxxussshe.net
 0.0.0.0 laborates.com
 0.0.0.0 ladsp.com
@@ -3181,6 +3193,7 @@
 0.0.0.0 monitor.phorm.com
 0.0.0.0 monitus.net
 0.0.0.0 monkeytracker.cz
+0.0.0.0 moowouzy.net
 0.0.0.0 mordi.fun
 0.0.0.0 mordi.xyz
 0.0.0.0 moreusers.info
@@ -3276,6 +3289,7 @@
 0.0.0.0 naenticle.info
 0.0.0.0 najsiejfnc.win
 0.0.0.0 naj.sk
+0.0.0.0 nakedreel.com
 0.0.0.0 nalook.com
 0.0.0.0 nameketathar.pro
 0.0.0.0 nametraff.com
@@ -4143,6 +4157,7 @@
 0.0.0.0 rightstats.com
 0.0.0.0 riluaneth.com
 0.0.0.0 rintinwa.com
+0.0.0.0 risausso.com
 0.0.0.0 ritecounter.com
 0.0.0.0 ritogaga.com
 0.0.0.0 riverhit.com
@@ -4587,6 +4602,7 @@
 0.0.0.0 statistiq.com
 0.0.0.0 statistx.com
 0.0.0.0 statlife.ru
+0.0.0.0 stat.livesportbar.net
 0.0.0.0 stat.media
 0.0.0.0 statok.net
 0.0.0.0 statowl.com
@@ -4864,6 +4880,7 @@
 0.0.0.0 toftofcal.com
 0.0.0.0 togenron.com
 0.0.0.0 togroltu.net
+0.0.0.0 tohopes.ru
 0.0.0.0 tommysdream.net
 0.0.0.0 tonsterandhantan.info
 0.0.0.0 tonstiparro.info
@@ -4926,6 +4943,7 @@
 0.0.0.0 trackeame.com
 0.0.0.0 trackedlink.net
 0.0.0.0 trackedweb.net
+0.0.0.0 tracker.convead.io
 0.0.0.0 trackfeed.com
 0.0.0.0 trackfreundlich.de
 0.0.0.0 tracking100.com
@@ -4963,6 +4981,7 @@
 0.0.0.0 trafficmagnates.com
 0.0.0.0 trafficmaxx.de
 0.0.0.0 trafficregenerator.com
+0.0.0.0 trafficscanner.pl
 0.0.0.0 traffic.tc-clicks.com
 0.0.0.0 traffikcntr.com
 0.0.0.0 trafgid.com
@@ -5148,6 +5167,7 @@
 0.0.0.0 uzotarak.com
 0.0.0.0 uzrating.com
 0.0.0.0 v3cdn.net
+0.0.0.0 vaebard.com
 0.0.0.0 vagwyn.pw
 0.0.0.0 vaigowoa.com
 0.0.0.0 vaipsona.com
@@ -5397,6 +5417,7 @@
 0.0.0.0 whatismyip.win
 0.0.0.0 wheelches.info
 0.0.0.0 whegadry.com
+0.0.0.0 whegrads.com
 0.0.0.0 whehilru.com
 0.0.0.0 wheredoyoucomefrom.ovh
 0.0.0.0 whisbi.com
