@@ -470,6 +470,7 @@
 0.0.0.0 alltagcloud.info
 0.0.0.0 alltracked.com
 0.0.0.0 alnera.eu
+0.0.0.0 alocdn.com
 0.0.0.0 alogationa.co
 0.0.0.0 altabold1.com
 0.0.0.0 altastat.com
@@ -566,6 +567,7 @@
 0.0.0.0 apyecom.com
 0.0.0.0 apytrc.com
 0.0.0.0 aqtracker.com
+0.0.0.0 a.quora.com
 0.0.0.0 arancefy.com
 0.0.0.0 arcadeweb.com
 0.0.0.0 arch-nicto.com
@@ -667,6 +669,7 @@
 0.0.0.0 b2.ijquery11.com
 0.0.0.0 b60228e270e363f6.com
 0.0.0.0 b97beb2fed1c4f.com
+0.0.0.0 baaeobgdaxdvsa.com
 0.0.0.0 babator.com
 0.0.0.0 bablace.com
 0.0.0.0 baby.yf898.com
@@ -1195,6 +1198,7 @@
 0.0.0.0 coinverti.com
 0.0.0.0 coinzillatag.com
 0.0.0.0 collarity.com
+0.0.0.0 collect.blishtech.co
 0.0.0.0 colleduny.info
 0.0.0.0 collserve.com
 0.0.0.0 comagic.ru
@@ -1416,6 +1420,7 @@
 0.0.0.0 d1p7elpjrt6qav.cloudfront.net
 0.0.0.0 d1pozdfelzfhyt.cloudfront.net
 0.0.0.0 d1qc76gneygidm.cloudfront.net
+0.0.0.0 d1qggq1at2gusn.cloudfront.net
 0.0.0.0 d1qk9ujrmkucbl.cloudfront.net
 0.0.0.0 d1qtf1avwa1wvl.cloudfront.net
 0.0.0.0 d1r90st78epsag.cloudfront.net
@@ -1669,6 +1674,7 @@
 0.0.0.0 doghoust.net
 0.0.0.0 dohillright.com
 0.0.0.0 dohs95d6tfj19.cloudfront.net
+0.0.0.0 dojomojo.ninja
 0.0.0.0 dolohen.com
 0.0.0.0 dominocounter.net
 0.0.0.0 domodomain.com
@@ -1772,6 +1778,7 @@
 0.0.0.0 edrone.me
 0.0.0.0 edt02.net
 0.0.0.0 edtp.de
+0.0.0.0 edw.edmunds.com
 0.0.0.0 eecd179r3b.com
 0.0.0.0 e.ejiakm.net
 0.0.0.0 eerdckbwujcx.com
@@ -1818,6 +1825,7 @@
 0.0.0.0 endloseporno.com
 0.0.0.0 enectoanalytics.com
 0.0.0.0 enecto.com
+0.0.0.0 engagetosell.com
 0.0.0.0 engageya.com
 0.0.0.0 engine212.com
 0.0.0.0 engine64.com
@@ -1910,6 +1918,7 @@
 0.0.0.0 e-webtrack.net
 0.0.0.0 exactag.com
 0.0.0.0 exapxl.de
+0.0.0.0 exchancetaur.info
 0.0.0.0 exclusivebrass.com
 0.0.0.0 exclusiveclicks.com
 0.0.0.0 excpm.com
@@ -2113,8 +2122,11 @@
 0.0.0.0 fshka.com
 0.0.0.0 fsoft4down.com
 0.0.0.0 ftbpro.com
+0.0.0.0 ftigholm.site
 0.0.0.0 ftrack.ru
+0.0.0.0 fuel451.com
 0.0.0.0 fueldeck.com
+0.0.0.0 fuelx.com
 0.0.0.0 fugetech.com
 0.0.0.0 fulhudhoo.com
 0.0.0.0 fullspeeddownload.com
@@ -3632,6 +3644,7 @@
 0.0.0.0 patithatspartal.pro
 0.0.0.0 paumoogo.net
 0.0.0.0 paupepsu.click
+0.0.0.0 pbbl.co
 0.0.0.0 pc1.io
 0.0.0.0 pc-agency24.de
 0.0.0.0 pci.pornclipsxxx.com
@@ -3903,6 +3916,7 @@
 0.0.0.0 pub2srv.com
 0.0.0.0 publicidees.com
 0.0.0.0 publishflow.com
+0.0.0.0 publish.iptvz.net
 0.0.0.0 pukrazopchatka.com
 0.0.0.0 pulleymarketing.com
 0.0.0.0 pulselog.com
@@ -4283,6 +4297,7 @@
 0.0.0.0 scrubsky.com
 0.0.0.0 scrubswim.com
 0.0.0.0 sc.rvtlife.com
+0.0.0.0 sc-static.net
 0.0.0.0 sdasasyydd.com
 0.0.0.0 sddan.com
 0.0.0.0 sdfsdvc.com
@@ -4577,6 +4592,7 @@
 0.0.0.0 stat08.com
 0.0.0.0 stat24.com
 0.0.0.0 stat24.ru
+0.0.0.0 stat.analytiall.com
 0.0.0.0 statcount.com
 0.0.0.0 statcounter.com
 0.0.0.0 statcounterfree.com
@@ -4675,6 +4691,7 @@
 0.0.0.0 straightnest.com
 0.0.0.0 straightschool.com
 0.0.0.0 strands.com
+0.0.0.0 stream1688.com
 0.0.0.0 stremanp.com
 0.0.0.0 stringroadway.com
 0.0.0.0 stripe.rs-1028-a.com
@@ -4752,6 +4769,7 @@
 0.0.0.0 tagbucket.cc
 0.0.0.0 tagcommander.com
 0.0.0.0 tagdelivery.com
+0.0.0.0 tag.getdrip.com
 0.0.0.0 tagifydiageo.com
 0.0.0.0 tagsrvcs.com
 0.0.0.0 tagtray.com
@@ -5294,6 +5312,7 @@
 0.0.0.0 vunetotbe.com
 0.0.0.0 vuryua.ru
 0.0.0.0 vvbox.cz
+0.0.0.0 vyg.mobi
 0.0.0.0 w13qh.cn
 0.0.0.0 w3counter.com
 0.0.0.0 w55c.net
@@ -5439,6 +5458,7 @@
 0.0.0.0 wikia-beacon.com
 0.0.0.0 wikiodeliv.com
 0.0.0.0 wildxtraffic.com
+0.0.0.0 wilwasharrabred.pro
 0.0.0.0 windowmentaria.com
 0.0.0.0 winneradsmedia.com
 0.0.0.0 wirecomic.com
@@ -5554,6 +5574,7 @@
 0.0.0.0 y5wflt0xibmoufuvsayg1efy80yq0ystkjncf76cqm.com
 0.0.0.0 y6a7tqyr.com
 0.0.0.0 yaboshadi.com
+0.0.0.0 ya-counter.ru
 0.0.0.0 yadropro.ru
 0.0.0.0 yadro.ru
 0.0.0.0 yallarec.com
@@ -5579,6 +5600,7 @@
 0.0.0.0 ygsm.com
 0.0.0.0 yieldbot.com
 0.0.0.0 yieldify.com
+0.0.0.0 yieldlove-ad-serving.net
 0.0.0.0 yieldlove.com
 0.0.0.0 yieldsoftware.com
 0.0.0.0 yijikm.com
@@ -5636,6 +5658,7 @@
 0.0.0.0 zdtag.com
 0.0.0.0 zedo.com
 0.0.0.0 zenlivestats.com
+0.0.0.0 zeotap.com
 0.0.0.0 zepozipo.com
 0.0.0.0 zero.kz
 0.0.0.0 zesep.com
@@ -5666,6 +5689,7 @@
 0.0.0.0 zoonoapt.net
 0.0.0.0 zoosnet.net
 0.0.0.0 zoossoft.net
+0.0.0.0 z.opmnstr.com
 0.0.0.0 zorbikala.com
 0.0.0.0 zortinah.com
 0.0.0.0 zostofou.link
