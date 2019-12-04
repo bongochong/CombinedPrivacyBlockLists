@@ -145,7 +145,6 @@
 0.0.0.0 ads-chunks.prod.ihrhls.com
 0.0.0.0 ads.cricbuzz.com
 0.0.0.0 adsdk.vrvm.com
-0.0.0.0 ads.edadeal.ru
 0.0.0.0 adsee.jp
 0.0.0.0 adserver.goforandroid.com
 0.0.0.0 adserver.kimia.es
@@ -542,7 +541,6 @@
 0.0.0.0 c.vserv.mobi
 0.0.0.0 cvt.mydas.mobi
 0.0.0.0 c.w.inmobi.com
-0.0.0.0 cwmlm.com
 0.0.0.0 d19xf4taj229i8.cloudfront.net
 0.0.0.0 d1zkodo2u3p4pe.cloudfront.net
 0.0.0.0 d239g0z67jcted.cloudfront.net
@@ -578,7 +576,6 @@
 0.0.0.0 dzpu6za66svjl.cloudfront.net
 0.0.0.0 e.apsalar.com
 0.0.0.0 ebz.io
-0.0.0.0 eco.2t4fe.xyz
 0.0.0.0 ecpmrocks.com
 0.0.0.0 edge.reporo.net
 0.0.0.0 edwlifes.vo.llnwd.net
@@ -682,7 +679,6 @@
 0.0.0.0 flygo.ru
 0.0.0.0 fmpub.net
 0.0.0.0 focas.jp
-0.0.0.0 fowpq.top
 0.0.0.0 friendlyduck.com
 0.0.0.0 ftjcfx.com
 0.0.0.0 ftpcontent.worldnow.com
@@ -830,7 +826,6 @@
 0.0.0.0 kochava.com
 0.0.0.0 komoona.com
 0.0.0.0 krutilka.net
-0.0.0.0 ktionz.com
 0.0.0.0 l0-secure.videohub.tv
 0.0.0.0 l3op.info
 0.0.0.0 launcher.us.yeshen.com
@@ -952,7 +947,6 @@
 0.0.0.0 mtburn.com
 0.0.0.0 mtburn.jp
 0.0.0.0 mtrcss.com
-0.0.0.0 mvo.g45td.xyz
 0.0.0.0 m.wangliqin.top
 0.0.0.0 mwc.velti.com
 0.0.0.0 mxtads.com
@@ -1001,7 +995,6 @@
 0.0.0.0 noxagile.duapp.com
 0.0.0.0 nsjpu.com
 0.0.0.0 numbers.md
-0.0.0.0 nvmsa.top
 0.0.0.0 nxtck.com
 0.0.0.0 nycp-hlb.dvgtm.akadns.net
 0.0.0.0 nytelecom.vo.llnwd.net
@@ -1071,14 +1064,11 @@
 0.0.0.0 pubmatic.com
 0.0.0.0 pubnative.net
 0.0.0.0 puhtml.com
-0.0.0.0 pv.dakawm.cc
 0.0.0.0 pw.lpsxssm.com
 0.0.0.0 px.adhigh.net
 0.0.0.0 px.cdn.creative.medialytics.com
 0.0.0.0 qgss8.com
-0.0.0.0 qienews.cn
 0.0.0.0 qservz.com
-0.0.0.0 qsmdeyz.cn
 0.0.0.0 questionmarket.com
 0.0.0.0 r7mediar.com
 0.0.0.0 rbb.ic.llnwd.net
@@ -1334,7 +1324,6 @@
 0.0.0.0 xdrig.com
 0.0.0.0 ximad.com
 0.0.0.0 xmpie.vo.llnwd.net
-0.0.0.0 xn-2qux23confgml.club
 0.0.0.0 xz15801.com
 0.0.0.0 yandexadexchange.net
 0.0.0.0 yc-ads.s3.amazonaws.com
@@ -1353,7 +1342,6 @@
 0.0.0.0 yuhuads.com
 0.0.0.0 zedo.com
 0.0.0.0 zhfosenghtr.com
-0.0.0.0 zhongwangmy.cn
 0.0.0.0 ziffdavis.com
 0.0.0.0 zoglafi.info
 0.0.0.0 zzhengre.com
