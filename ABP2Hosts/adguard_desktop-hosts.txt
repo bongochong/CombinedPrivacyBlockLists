@@ -499,6 +499,7 @@
 0.0.0.0 amadagasca.com
 0.0.0.0 amadesa.com
 0.0.0.0 amarceusan.com
+0.0.0.0 amaumomt.com
 0.0.0.0 amavalet.com
 0.0.0.0 amazingcounters.com
 0.0.0.0 amazy.ru
@@ -614,6 +615,7 @@
 0.0.0.0 ashbowany.site
 0.0.0.0 ashow.pcpop.com
 0.0.0.0 askallalb.club
+0.0.0.0 askaspalb.online
 0.0.0.0 aspampbrr.online
 0.0.0.0 aspanyarc.club
 0.0.0.0 aspgfx.org
@@ -751,6 +753,7 @@
 0.0.0.0 becomspectua.club
 0.0.0.0 bedebadum.net
 0.0.0.0 bee7.com
+0.0.0.0 beeashale.club
 0.0.0.0 beemrdwn.com
 0.0.0.0 beencounter.com
 0.0.0.0 befirstcdn.com
@@ -805,6 +808,7 @@
 0.0.0.0 bidr.trellian.com
 0.0.0.0 bid.run
 0.0.0.0 bidswitch.net
+0.0.0.0 bigbangbon.online
 0.0.0.0 bigcattracks.com
 0.0.0.0 biggbossseason11.com
 0.0.0.0 biggestplayer.cachefly.net
@@ -1815,6 +1819,7 @@
 0.0.0.0 edw.edmunds.com
 0.0.0.0 ee.32z8d.cn
 0.0.0.0 eecd179r3b.com
+0.0.0.0 eegnacou.com
 0.0.0.0 e.ejiakm.net
 0.0.0.0 eerdckbwujcx.com
 0.0.0.0 eetsooso.net
@@ -1965,6 +1970,7 @@
 0.0.0.0 exmarkt.de
 0.0.0.0 exoclick.com
 0.0.0.0 exogripper.com
+0.0.0.0 exomonyf.com
 0.0.0.0 exoner.com
 0.0.0.0 exoticads.com
 0.0.0.0 exovueplatform.com
@@ -2325,6 +2331,7 @@
 0.0.0.0 go.verymuchad.com
 0.0.0.0 govmetric.com
 0.0.0.0 gpbqs.24590.space
+0.0.0.0 gracaiko.net
 0.0.0.0 graftaub.com
 0.0.0.0 grainsox.net
 0.0.0.0 graivaik.com
@@ -2939,6 +2946,7 @@
 0.0.0.0 less-css.site
 0.0.0.0 lessonis.com
 0.0.0.0 letaikay.net
+0.0.0.0 letsupload.co
 0.0.0.0 letterboxtrail.com
 0.0.0.0 lettucelimit.com
 0.0.0.0 levexis.com
@@ -3159,6 +3167,7 @@
 0.0.0.0 mediapixelnet.com
 0.0.0.0 mediaplan.ru
 0.0.0.0 mediaplex.com
+0.0.0.0 media-sapiens.com
 0.0.0.0 mediaseeding.com
 0.0.0.0 mediasprucetree.com
 0.0.0.0 mediastinct.com
@@ -3678,6 +3687,7 @@
 0.0.0.0 packsonikolas.info
 0.0.0.0 paclitor.com
 0.0.0.0 paddsup.com
+0.0.0.0 padsbrown.com
 0.0.0.0 pagefair.com
 0.0.0.0 page-hit.de
 0.0.0.0 pagerank4you.eu
@@ -3785,6 +3795,7 @@
 0.0.0.0 photorank.me
 0.0.0.0 phox2ey.bid
 0.0.0.0 phpstat.com
+0.0.0.0 phukienthoitranggiare.com
 0.0.0.0 physoi.eu
 0.0.0.0 phywi.org
 0.0.0.0 pi.a42.ru
@@ -4507,6 +4518,7 @@
 0.0.0.0 sinceresofa.com
 0.0.0.0 singlefeed.com
 0.0.0.0 singleice.link
+0.0.0.0 sinsoftu.com
 0.0.0.0 siphic5.top
 0.0.0.0 sistacked.com
 0.0.0.0 site24x7rum.com

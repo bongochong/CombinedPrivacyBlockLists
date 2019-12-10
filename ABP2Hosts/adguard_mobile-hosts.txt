@@ -11,6 +11,7 @@
 0.0.0.0 95.213.231.34
 0.0.0.0 a2dfp.net
 0.0.0.0 a2pub.com
+0.0.0.0 a.4ee395e5b8a076c7bd8592851ff8cad.com
 0.0.0.0 a.6d47c1118927cf53ba9654931df80e8d.com
 0.0.0.0 a.admob.com
 0.0.0.0 a.applovin.com
@@ -1245,6 +1246,7 @@
 0.0.0.0 tubemogul.com
 0.0.0.0 turn.com
 0.0.0.0 tveta.naver.net
+0.0.0.0 tw-api.vpon.com
 0.0.0.0 tw.api.vpon.com
 0.0.0.0 u1hw38x0.com
 0.0.0.0 u-ad.info
