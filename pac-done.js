@@ -1423,6 +1423,7 @@ shExpMatch(host, '*.adsremote.scrippsnetworks.com') ||
 shExpMatch(host, '*.ads.resoom.de') ||
 shExpMatch(host, '*.ads.returnpath.net') ||
 shExpMatch(host, '*.adsrevenue.net') ||
+shExpMatch(host, '*.ads.revjet.com') ||
 shExpMatch(host, '*.ads.rottentomatoes.com') ||
 shExpMatch(host, '*.ads.rpgdot.com') ||
 shExpMatch(host, '*.adsrv.deviantart.com') ||
@@ -4947,7 +4948,6 @@ shExpMatch(host, '*.reveal.clearbit.com') ||
 shExpMatch(host, '*.revenuedirect.com') ||
 shExpMatch(host, '*.revenuehits.com') ||
 shExpMatch(host, '*.revenue.net') ||
-shExpMatch(host, '*.revjet.com') ||
 shExpMatch(host, '*.revlift.io') ||
 shExpMatch(host, '*.revmob.com') ||
 shExpMatch(host, '*.revsci.net') ||
@@ -7864,6 +7864,7 @@ shExpMatch(host, 'adsremote.scrippsnetworks.com') ||
 shExpMatch(host, 'ads.resoom.de') ||
 shExpMatch(host, 'ads.returnpath.net') ||
 shExpMatch(host, 'adsrevenue.net') ||
+shExpMatch(host, 'ads.revjet.com') ||
 shExpMatch(host, 'ads.rottentomatoes.com') ||
 shExpMatch(host, 'ads.rpgdot.com') ||
 shExpMatch(host, 'adsrv.deviantart.com') ||
@@ -11388,7 +11389,6 @@ shExpMatch(host, 'reveal.clearbit.com') ||
 shExpMatch(host, 'revenuedirect.com') ||
 shExpMatch(host, 'revenuehits.com') ||
 shExpMatch(host, 'revenue.net') ||
-shExpMatch(host, 'revjet.com') ||
 shExpMatch(host, 'revlift.io') ||
 shExpMatch(host, 'revmob.com') ||
 shExpMatch(host, 'revsci.net') ||
