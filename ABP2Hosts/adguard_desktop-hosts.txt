@@ -108,6 +108,7 @@
 0.0.0.0 442d9f2ac50ca502.com
 0.0.0.0 47f624b2e6c6072e.com
 0.0.0.0 4bb6jls06l.com
+0.0.0.0 4df5ef.xyz
 0.0.0.0 4dsbanner.com
 0.0.0.0 4dsbanner.net
 0.0.0.0 4f2sm1y1ss.com
@@ -359,6 +360,7 @@
 0.0.0.0 adspeed.net
 0.0.0.0 adspsp.com
 0.0.0.0 adspynet.com
+0.0.0.0 ads.roku.com
 0.0.0.0 adsrv4k.com
 0.0.0.0 adsrvgateway.com
 0.0.0.0 ads.tremorhub.com
@@ -1582,6 +1584,7 @@
 0.0.0.0 dc121677.com
 0.0.0.0 dc44qjwal3p07.cloudfront.net
 0.0.0.0 dc5ig2fc8lg83.cloudfront.net
+0.0.0.0 dc5k8fg5ioc8s.cloudfront.net
 0.0.0.0 dcjg1gv1px1h.cloudfront.net
 0.0.0.0 dcmn.com
 0.0.0.0 dc-storm.com
@@ -2639,7 +2642,6 @@
 0.0.0.0 inspectlet.com
 0.0.0.0 instadia.net
 0.0.0.0 installp.com
-0.0.0.0 instana.io
 0.0.0.0 instantreward.site
 0.0.0.0 instore.biz
 0.0.0.0 insupposity.info
@@ -2931,6 +2933,7 @@
 0.0.0.0 leadmanagerfx.com
 0.0.0.0 lead-or-call.ru
 0.0.0.0 leadsius.com
+0.0.0.0 leadsmonitor.io
 0.0.0.0 leadzutw.com
 0.0.0.0 leaplunchroom.com
 0.0.0.0 ledhenone.com
@@ -3833,6 +3836,7 @@
 0.0.0.0 pjtra.com
 0.0.0.0 pketred.com
 0.0.0.0 placemypixel.com
+0.0.0.0 plantdigestion.com
 0.0.0.0 platformpanda.com
 0.0.0.0 play4k.co
 0.0.0.0 play.entretenimientolz.com
@@ -4197,6 +4201,7 @@
 0.0.0.0 refpa.top
 0.0.0.0 reftedlettiny.info
 0.0.0.0 regisg.com
+0.0.0.0 rehomesit.info
 0.0.0.0 reinvigorate.net
 0.0.0.0 reitingas.lt
 0.0.0.0 reitingi.lv
@@ -4265,6 +4270,7 @@
 0.0.0.0 rigelink.com
 0.0.0.0 rightstats.com
 0.0.0.0 riluaneth.com
+0.0.0.0 ringsrecord.com
 0.0.0.0 rintinwa.com
 0.0.0.0 risausso.com
 0.0.0.0 ritecounter.com
@@ -5220,6 +5226,7 @@
 0.0.0.0 ukdtx.31202.fun
 0.0.0.0 ukrre-tea.info
 0.0.0.0 ulaleth.xyz
+0.0.0.0 ulfex.cn
 0.0.0.0 ulife17yeter.com
 0.0.0.0 ulogin-stats.ru
 0.0.0.0 ultrastats.it
@@ -5413,6 +5420,7 @@
 0.0.0.0 votetoda.com
 0.0.0.0 votistics.com
 0.0.0.0 voyeurhit.com
+0.0.0.0 vpn.baolq666.com
 0.0.0.0 v.shopify.com
 0.0.0.0 vstats.co
 0.0.0.0 vtracker.net
