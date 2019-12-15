@@ -998,6 +998,7 @@
 0.0.0.0 cache.am
 0.0.0.0 cache.fm
 0.0.0.0 cadreon.com
+0.0.0.0 cadsecs.com
 0.0.0.0 cadskis.com
 0.0.0.0 cagelrib.net
 0.0.0.0 cah9ooy.bid
