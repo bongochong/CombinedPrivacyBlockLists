@@ -662,6 +662,7 @@ shExpMatch(host, '*.ad.100.tbn.ru') ||
 shExpMatch(host, '*.ad.103092804.com') ||
 shExpMatch(host, '*.ad1.emediate.dk') ||
 shExpMatch(host, '*.ad1.emule-project.org') ||
+shExpMatch(host, '*.ad1.eventmanager.co.kr') ||
 shExpMatch(host, '*.ad1.kde.cz') ||
 shExpMatch(host, '*.ad1.pamedia.com.au') ||
 shExpMatch(host, '*.ad2flash.com') ||
@@ -872,6 +873,7 @@ shExpMatch(host, '*.admarketplace.com') ||
 shExpMatch(host, '*.admarketplace.net') ||
 shExpMatch(host, '*.admarvel.com') ||
 shExpMatch(host, '*.admarvel.s3.amazonaws.com') ||
+shExpMatch(host, '*.admaster.com.cn') ||
 shExpMatch(host, '*.admax.nexage.com') ||
 shExpMatch(host, '*.admedia.com') ||
 shExpMatch(host, '*.admedia.ro') ||
@@ -1774,6 +1776,7 @@ shExpMatch(host, '*.analiticwebexperience.com') ||
 shExpMatch(host, '*.analytics.adpost.org') ||
 shExpMatch(host, '*.analytics.bitrix.info') ||
 shExpMatch(host, '*.analytics.cloudron.io') ||
+shExpMatch(host, '*.analytics.cohesionapps.com') ||
 shExpMatch(host, '*.analytics.ext.go-tellm.com') ||
 shExpMatch(host, '*.analytics.google.com') ||
 shExpMatch(host, '*.analytics.htmedia.in') ||
@@ -7103,6 +7106,7 @@ shExpMatch(host, 'ad.100.tbn.ru') ||
 shExpMatch(host, 'ad.103092804.com') ||
 shExpMatch(host, 'ad1.emediate.dk') ||
 shExpMatch(host, 'ad1.emule-project.org') ||
+shExpMatch(host, 'ad1.eventmanager.co.kr') ||
 shExpMatch(host, 'ad1.kde.cz') ||
 shExpMatch(host, 'ad1.pamedia.com.au') ||
 shExpMatch(host, 'ad2flash.com') ||
@@ -7313,6 +7317,7 @@ shExpMatch(host, 'admarketplace.com') ||
 shExpMatch(host, 'admarketplace.net') ||
 shExpMatch(host, 'admarvel.com') ||
 shExpMatch(host, 'admarvel.s3.amazonaws.com') ||
+shExpMatch(host, 'admaster.com.cn') ||
 shExpMatch(host, 'admax.nexage.com') ||
 shExpMatch(host, 'admedia.com') ||
 shExpMatch(host, 'admedia.ro') ||
@@ -8215,6 +8220,7 @@ shExpMatch(host, 'analiticwebexperience.com') ||
 shExpMatch(host, 'analytics.adpost.org') ||
 shExpMatch(host, 'analytics.bitrix.info') ||
 shExpMatch(host, 'analytics.cloudron.io') ||
+shExpMatch(host, 'analytics.cohesionapps.com') ||
 shExpMatch(host, 'analytics.ext.go-tellm.com') ||
 shExpMatch(host, 'analytics.google.com') ||
 shExpMatch(host, 'analytics.htmedia.in') ||
