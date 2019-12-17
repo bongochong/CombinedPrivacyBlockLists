@@ -339,6 +339,7 @@
 0.0.0.0 adsb4trk.com
 0.0.0.0 ads.contractoruk.com
 0.0.0.0 ad-score.com
+0.0.0.0 adscorp.win
 0.0.0.0 adscpm.site
 0.0.0.0 adsensedetective.com
 0.0.0.0 adsenseguard.com
@@ -3620,6 +3621,7 @@
 0.0.0.0 onlysix.co.uk
 0.0.0.0 onshowit.com
 0.0.0.0 onthe.io
+0.0.0.0 onvictinitor.com
 0.0.0.0 ooredi.com
 0.0.0.0 oorseest.net
 0.0.0.0 ooxxsearch.com
@@ -3668,6 +3670,7 @@
 0.0.0.0 otik.de
 0.0.0.0 otoshiana.com
 0.0.0.0 otracking.com
+0.0.0.0 otrwaram.com
 0.0.0.0 ottomdisede.club
 0.0.0.0 oukruque.com
 0.0.0.0 ouloutso.net
