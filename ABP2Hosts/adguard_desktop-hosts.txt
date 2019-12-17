@@ -183,6 +183,7 @@
 0.0.0.0 9uys.co
 0.0.0.0 a013.com
 0.0.0.0 a1a5ab31bcd1bc68.com
+0.0.0.0 a32a.com.cn
 0.0.0.0 a3p4.net
 0.0.0.0 a75-10-so.ssl.cdn13.com
 0.0.0.0 a8.net
@@ -2406,6 +2407,7 @@
 0.0.0.0 hammerhearing.com
 0.0.0.0 hamtugin.com
 0.0.0.0 hanaprop.com
+0.0.0.0 haoxxwang.com
 0.0.0.0 happer.info
 0.0.0.0 haraju.co
 0.0.0.0 hariqavi.com
@@ -2874,6 +2876,7 @@
 0.0.0.0 koapsooh.click
 0.0.0.0 kofpag.com
 0.0.0.0 koindut.com
+0.0.0.0 kolur.top
 0.0.0.0 komtrack.com
 0.0.0.0 kongssew.com
 0.0.0.0 kono-research.de
@@ -4436,6 +4439,7 @@
 0.0.0.0 semasio.net
 0.0.0.0 sematext.com
 0.0.0.0 semtracker.de
+0.0.0.0 sendmepush.com
 0.0.0.0 sendtraffic.com
 0.0.0.0 senolati.com
 0.0.0.0 sensic.net
@@ -5073,6 +5077,7 @@
 0.0.0.0 trackeame.com
 0.0.0.0 trackedlink.net
 0.0.0.0 trackedweb.net
+0.0.0.0 tracker.azet.sk
 0.0.0.0 tracker.convead.io
 0.0.0.0 trackfeed.com
 0.0.0.0 trackfreundlich.de
@@ -5179,6 +5184,7 @@
 0.0.0.0 ttkx.qyctj.com
 0.0.0.0 tt.ttarget.ru
 0.0.0.0 tt.twzui6.com
+0.0.0.0 tu.7j813.cn
 0.0.0.0 tubeadvertising.eu
 0.0.0.0 tubecontext.com
 0.0.0.0 tubecorporate.com
@@ -5347,6 +5353,7 @@
 0.0.0.0 vidapi.expepp.de
 0.0.0.0 vidcpm.com
 0.0.0.0 video.cars247.tv
+0.0.0.0 videoevents.outbrain.com
 0.0.0.0 videogenetic.com
 0.0.0.0 video.oms.eu
 0.0.0.0 videoplayerhub.com
@@ -5654,6 +5661,7 @@
 0.0.0.0 xcounter.ch
 0.0.0.0 xcvibxsdchxh.com
 0.0.0.0 xdbwc.com
+0.0.0.0 x.dmouy.cn
 0.0.0.0 xeozir.com
 0.0.0.0 xg4ken.com
 0.0.0.0 xhit.com
