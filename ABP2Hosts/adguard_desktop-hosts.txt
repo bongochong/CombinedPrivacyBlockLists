@@ -643,6 +643,7 @@
 0.0.0.0 attirerpage.com
 0.0.0.0 attracta.com
 0.0.0.0 attractivecap.com
+0.0.0.0 a.tyncar.com
 0.0.0.0 aud3g.com
 0.0.0.0 audienceamplify.com
 0.0.0.0 audienceinsights.net
@@ -1234,6 +1235,7 @@
 0.0.0.0 coinzillatag.com
 0.0.0.0 collarity.com
 0.0.0.0 collect.blishtech.co
+0.0.0.0 collector.mazeberry.com
 0.0.0.0 colleduny.info
 0.0.0.0 collserve.com
 0.0.0.0 comagic.ru
@@ -1251,6 +1253,7 @@
 0.0.0.0 compteur-gratuit.org
 0.0.0.0 comradepony.com
 0.0.0.0 concernrain.com
+0.0.0.0 concertads-configs.vox-cdn.com
 0.0.0.0 conductrics.com
 0.0.0.0 confirmational.com
 0.0.0.0 confirmit.com
@@ -1857,6 +1860,7 @@
 0.0.0.0 eloqua.com
 0.0.0.0 elwraek.xyz
 0.0.0.0 email-match.com
+0.0.0.0 email-reflex.com
 0.0.0.0 emailretargeting.com
 0.0.0.0 embeddedanalytics.com
 0.0.0.0 emdcadvertise.eastmoney.com
@@ -2211,6 +2215,7 @@
 0.0.0.0 game.gamingnonstop.net
 0.0.0.0 gammamaximum.com
 0.0.0.0 gamzetov.com
+0.0.0.0 gardoult.com
 0.0.0.0 gasolina.ml
 0.0.0.0 gaug.es
 0.0.0.0 gbotvisit.com
@@ -3560,6 +3565,7 @@
 0.0.0.0 ogamon.win
 0.0.0.0 ogrid.org
 0.0.0.0 ogt.jp
+0.0.0.0 og.zyzjpx.cn
 0.0.0.0 ohleiludieje.info
 0.0.0.0 ohmystats.com
 0.0.0.0 oidah.com
@@ -5262,6 +5268,7 @@
 0.0.0.0 upalytics.com
 0.0.0.0 upasiansex.com
 0.0.0.0 up-rank.com
+0.0.0.0 upsaibou.net
 0.0.0.0 upscore.com
 0.0.0.0 upstats.ru
 0.0.0.0 uptimecdn.com
@@ -5788,6 +5795,7 @@
 0.0.0.0 zanox.com
 0.0.0.0 zaperplop.info
 0.0.0.0 zarlomgog.com
+0.0.0.0 zarpop.com
 0.0.0.0 zbnfhsk.com
 0.0.0.0 zbwp6ghm.com
 0.0.0.0 zcltracker.com
