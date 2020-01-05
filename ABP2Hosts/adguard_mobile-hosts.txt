@@ -178,6 +178,7 @@
 0.0.0.0 ads.mdotm.com
 0.0.0.0 ads.mobclix.com
 0.0.0.0 ads.mobgold.com
+0.0.0.0 adsmobila.com
 0.0.0.0 ads.mobilefuse.net
 0.0.0.0 ads.mobilityware.com
 0.0.0.0 ads.mobvertising.net
@@ -245,6 +246,7 @@
 0.0.0.0 adwhirl.com
 0.0.0.0 adwired.mobi
 0.0.0.0 adwods.com
+0.0.0.0 adxcorp.kr
 0.0.0.0 ad-x.co.uk
 0.0.0.0 adzerk.net
 0.0.0.0 adzmedia.com
@@ -683,8 +685,10 @@
 0.0.0.0 doubleclick.net
 0.0.0.0 dpstack.com
 0.0.0.0 dsg.sc.omtrdc.net
+0.0.0.0 dsp-adcreative.mobshark.net
 0.0.0.0 dsp-endscreens.unityads.unity3d.com
 0.0.0.0 dsp-tracking.unityads.unity3d.com
+0.0.0.0 dsptrack.mobshark.net
 0.0.0.0 dumedia.ru
 0.0.0.0 dzpu6za66svjl.cloudfront.net
 0.0.0.0 e.apsalar.com
@@ -993,6 +997,7 @@
 0.0.0.0 live.hyprmx.com
 0.0.0.0 loadus.exelator.com
 0.0.0.0 localytics.com
+0.0.0.0 log.apk.v-mate.mobi
 0.0.0.0 logcollector.viewster.com
 0.0.0.0 logconfig.polarisoffice.com
 0.0.0.0 log.droid4x.cn
@@ -1502,6 +1507,7 @@
 0.0.0.0 tracking.trnox.com
 0.0.0.0 tracking.viewster.com
 0.0.0.0 tracking.ws.eurosport.com
+0.0.0.0 track.mobshark.net
 0.0.0.0 track.pingstart.com
 0.0.0.0 track.tenjin.io
 0.0.0.0 track.uc.cn
