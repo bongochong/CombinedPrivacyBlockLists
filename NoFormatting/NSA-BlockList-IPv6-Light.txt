@@ -1,8 +1,12 @@
 #Chef Koch's NSA Block List Cleaned and Sorted
 #IPv6 Version - Light Edition
 #Not included in default hosts file
-#Last update 09/18/2019
+#Last update 01/13/2020
 
+:: 108.61.165
+:: 130.117.50.166
+:: 149.14.125.162
+:: 185.82.202
 :: a.dns.br
 :: a.dns.songnetworks.se
 :: a.dns.tds.net
@@ -136,6 +140,7 @@
 :: backup.uninet.com.cn
 :: bambero1.cs.tin.it
 :: barakus.tiscali.com
+:: baseball2.2ndhalfplays.com
 :: bass2.srt.com
 :: bbdns1.on-nets.com
 :: bbdns2.on-nets.com
@@ -256,6 +261,7 @@
 :: d.dns.tds.net
 :: dal-core-02.inet.qwest.net
 :: dap-brdr-02.inet.qwest.net
+:: darkness.su
 :: darkstar.isi.edu
 :: db.timeson.com.cn
 :: dbru.br.ns.els-gms.att.net
@@ -733,8 +739,6 @@
 :: ds1.opaltelecom.net
 :: dscna1.unina.it
 :: dscna2.unina.it
-:: dsdn-gh1-uea05.nsa.gov
-:: dsdn-gh1-uea06.nsa.gov
 :: dub-name-svc-1.compuserve.com
 :: dukas.upc.es
 :: dxbans1.ecompany.ae
@@ -760,8 +764,6 @@
 :: elrond.otago.ac.nz
 :: elvis.lrlaw.com
 :: emtu.mt.ns.els-gms.att.net
-:: emvm-gh1-uea08.nsa.gov
-:: emvm-gh1-uea09.nsa.gov
 :: eniac.cable.net.co
 :: enterprise.telesat.com.co
 :: eol1.egyptonline.com
@@ -876,6 +878,7 @@
 :: itellin1.eafix.net
 :: iti-idsc.net.eg
 :: iway1.iw.net
+:: j1nxfyr3.su
 :: javelin.cosimo.com
 :: jtb.brunet.bn
 :: jumi.hyunwoo.co.kr
@@ -989,6 +992,7 @@
 :: metroid.nerim.net
 :: mevlut.oncu.example.com
 :: mevlut.oncu.yandex.com
+:: meziamussucemaqueue.su
 :: mia01.digex.com
 :: mia02.digex.com
 :: midas.bnet.net.tr
@@ -2717,6 +2721,7 @@
 :: stpp.soft.net
 :: strawb.mit.edu
 :: stuka.sasknet.sk.ca
+:: styxb1tch35.su
 :: suddenplot.com
 :: sullivan.fidnet.com
 :: sun.bq.ub.es
@@ -2786,6 +2791,7 @@
 :: ultra.cmet.net
 :: ultra10.nanya.edu.tw
 :: ultra2.tsinghua.edu.cn
+:: umbxd15896.su
 :: un1.satlink.com
 :: unix.megared.net.mx
 :: unk.vver.kiae.rr
@@ -2830,6 +2836,7 @@
 :: webshared-front3.colt.net
 :: webshared-front4.colt.net
 :: webster.dmu.edu
+:: weed.su
 :: wexio.dns.swip.net
 :: wheelchair.zero.it
 :: win-dc1.win.psu.edu

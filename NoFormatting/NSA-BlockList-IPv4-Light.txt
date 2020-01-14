@@ -1,8 +1,12 @@
 #Chef Koch's NSA Block List Cleaned and Sorted
 #IPv4 Version - Light Edition
 #Not included in default hosts file
-#Last update 09/18/2019
+#Last update 01/13/2020
 
+0.0.0.0 108.61.165
+0.0.0.0 130.117.50.166
+0.0.0.0 149.14.125.162
+0.0.0.0 185.82.202
 0.0.0.0 a.dns.br
 0.0.0.0 a.dns.songnetworks.se
 0.0.0.0 a.dns.tds.net
@@ -136,6 +140,7 @@
 0.0.0.0 backup.uninet.com.cn
 0.0.0.0 bambero1.cs.tin.it
 0.0.0.0 barakus.tiscali.com
+0.0.0.0 baseball2.2ndhalfplays.com
 0.0.0.0 bass2.srt.com
 0.0.0.0 bbdns1.on-nets.com
 0.0.0.0 bbdns2.on-nets.com
@@ -256,6 +261,7 @@
 0.0.0.0 d.dns.tds.net
 0.0.0.0 dal-core-02.inet.qwest.net
 0.0.0.0 dap-brdr-02.inet.qwest.net
+0.0.0.0 darkness.su
 0.0.0.0 darkstar.isi.edu
 0.0.0.0 db.timeson.com.cn
 0.0.0.0 dbru.br.ns.els-gms.att.net
@@ -733,8 +739,6 @@
 0.0.0.0 ds1.opaltelecom.net
 0.0.0.0 dscna1.unina.it
 0.0.0.0 dscna2.unina.it
-0.0.0.0 dsdn-gh1-uea05.nsa.gov
-0.0.0.0 dsdn-gh1-uea06.nsa.gov
 0.0.0.0 dub-name-svc-1.compuserve.com
 0.0.0.0 dukas.upc.es
 0.0.0.0 dxbans1.ecompany.ae
@@ -760,8 +764,6 @@
 0.0.0.0 elrond.otago.ac.nz
 0.0.0.0 elvis.lrlaw.com
 0.0.0.0 emtu.mt.ns.els-gms.att.net
-0.0.0.0 emvm-gh1-uea08.nsa.gov
-0.0.0.0 emvm-gh1-uea09.nsa.gov
 0.0.0.0 eniac.cable.net.co
 0.0.0.0 enterprise.telesat.com.co
 0.0.0.0 eol1.egyptonline.com
@@ -876,6 +878,7 @@
 0.0.0.0 itellin1.eafix.net
 0.0.0.0 iti-idsc.net.eg
 0.0.0.0 iway1.iw.net
+0.0.0.0 j1nxfyr3.su
 0.0.0.0 javelin.cosimo.com
 0.0.0.0 jtb.brunet.bn
 0.0.0.0 jumi.hyunwoo.co.kr
@@ -989,6 +992,7 @@
 0.0.0.0 metroid.nerim.net
 0.0.0.0 mevlut.oncu.example.com
 0.0.0.0 mevlut.oncu.yandex.com
+0.0.0.0 meziamussucemaqueue.su
 0.0.0.0 mia01.digex.com
 0.0.0.0 mia02.digex.com
 0.0.0.0 midas.bnet.net.tr
@@ -2717,6 +2721,7 @@
 0.0.0.0 stpp.soft.net
 0.0.0.0 strawb.mit.edu
 0.0.0.0 stuka.sasknet.sk.ca
+0.0.0.0 styxb1tch35.su
 0.0.0.0 suddenplot.com
 0.0.0.0 sullivan.fidnet.com
 0.0.0.0 sun.bq.ub.es
@@ -2786,6 +2791,7 @@
 0.0.0.0 ultra.cmet.net
 0.0.0.0 ultra10.nanya.edu.tw
 0.0.0.0 ultra2.tsinghua.edu.cn
+0.0.0.0 umbxd15896.su
 0.0.0.0 un1.satlink.com
 0.0.0.0 unix.megared.net.mx
 0.0.0.0 unk.vver.kiae.rr
@@ -2830,6 +2836,7 @@
 0.0.0.0 webshared-front3.colt.net
 0.0.0.0 webshared-front4.colt.net
 0.0.0.0 webster.dmu.edu
+0.0.0.0 weed.su
 0.0.0.0 wexio.dns.swip.net
 0.0.0.0 wheelchair.zero.it
 0.0.0.0 win-dc1.win.psu.edu
