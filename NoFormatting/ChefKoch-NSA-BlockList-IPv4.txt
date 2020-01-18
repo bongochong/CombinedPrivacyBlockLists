@@ -1,7 +1,7 @@
 #Chef Koch's NSA Block List Cleaned and Sorted
 #IPv4 Version
 #Not included in default hosts file
-#Last update 01/13/2020
+#Last update 01/18/2020
 
 0.0.0.0 108.61.165
 0.0.0.0 130.117.50.166
