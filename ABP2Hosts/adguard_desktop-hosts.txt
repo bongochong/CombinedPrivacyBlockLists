@@ -317,6 +317,7 @@
 0.0.0.0 adnxs.com
 0.0.0.0 adnz.co
 0.0.0.0 adobetag.com
+0.0.0.0 adofqudjesh.com
 0.0.0.0 adoftheyear.com
 0.0.0.0 a.doko.moe
 0.0.0.0 adoric.com
@@ -463,6 +464,7 @@
 0.0.0.0 aijiboft.com
 0.0.0.0 ailiyou1999.com
 0.0.0.0 aimediagroup.com
+0.0.0.0 airartapt.site
 0.0.0.0 airbrake.io
 0.0.0.0 airpr.com
 0.0.0.0 aiservice.vn
@@ -565,6 +567,7 @@
 0.0.0.0 apexstats.com
 0.0.0.0 apextwo.com
 0.0.0.0 apfbtiqdly.bid
+0.0.0.0 aphycolourses.info
 0.0.0.0 api.cazamba.com
 0.0.0.0 apicit.net
 0.0.0.0 api.digitalbees.it
@@ -797,6 +800,7 @@
 0.0.0.0 bestnewsworld.net
 0.0.0.0 best-top.de
 0.0.0.0 best-top.ro
+0.0.0.0 bestvideo2019.xyz
 0.0.0.0 bestweb2013stat.lk
 0.0.0.0 bestwebdeal.net
 0.0.0.0 besucherstats.de
@@ -996,6 +1000,7 @@
 0.0.0.0 buzzabc.com
 0.0.0.0 buzzadnetwork.com
 0.0.0.0 buzzdeck.com
+0.0.0.0 bwaguyek.com
 0.0.0.0 bycxsh.com
 0.0.0.0 byscy.cn
 0.0.0.0 bytemgdd.com
@@ -1146,6 +1151,7 @@
 0.0.0.0 clcassd.com
 0.0.0.0 clckysudks.com
 0.0.0.0 cleananalytics.com
+0.0.0.0 clearadnetwork.com
 0.0.0.0 clearonclick.com
 0.0.0.0 clearviewstats.com
 0.0.0.0 cleveritics.com
@@ -1566,6 +1572,7 @@
 0.0.0.0 da5w2k479hyx2.cloudfront.net
 0.0.0.0 dable.io
 0.0.0.0 dacounter.com
+0.0.0.0 dadsipz.com
 0.0.0.0 daelynn.xyz
 0.0.0.0 dagasaka.com
 0.0.0.0 daghashmal.com
@@ -1612,6 +1619,7 @@
 0.0.0.0 dc-storm.com
 0.0.0.0 dd.70yst.com
 0.0.0.0 ddomb.com
+0.0.0.0 ddvfoj5yrl2oi.cloudfront.net
 0.0.0.0 ddyv8sl7ewq1w.cloudfront.net
 0.0.0.0 de17a.com
 0.0.0.0 deathereclother.info
@@ -1627,6 +1635,7 @@
 0.0.0.0 def-platform.com
 0.0.0.0 defpush.com
 0.0.0.0 delightdriving.com
+0.0.0.0 deliver.ptgncdn.com
 0.0.0.0 delivery.adten.eu
 0.0.0.0 delivery.content-recommendation.net
 0.0.0.0 delivery.porn.com
@@ -2038,6 +2047,7 @@
 0.0.0.0 fanzhuang.net.cn
 0.0.0.0 fapmeth.com
 0.0.0.0 farfarida.com
+0.0.0.0 farshake.com
 0.0.0.0 f.asdfzxcv1312.com
 0.0.0.0 fastanalytic.com
 0.0.0.0 fastcounter.de
@@ -2467,6 +2477,7 @@
 0.0.0.0 hellosherpa.com
 0.0.0.0 hemnes.win
 0.0.0.0 hentaicounter.com
+0.0.0.0 herepackagine.info
 0.0.0.0 herezera.com
 0.0.0.0 herreperolsof.pro
 0.0.0.0 hertforthatharrigh.pro
@@ -2611,6 +2622,7 @@
 0.0.0.0 idot.cz
 0.0.0.0 idtargeting.com
 0.0.0.0 id-visitors.com
+0.0.0.0 idwq.info
 0.0.0.0 ie8eamus.com
 0.0.0.0 iendoo.com
 0.0.0.0 ifactz.com
@@ -2683,6 +2695,7 @@
 0.0.0.0 inspectlet.com
 0.0.0.0 instadia.net
 0.0.0.0 installp.com
+0.0.0.0 instana.io
 0.0.0.0 instantreward.site
 0.0.0.0 instore.biz
 0.0.0.0 insupposity.info
@@ -2790,6 +2803,7 @@
 0.0.0.0 jdd01.198game.net
 0.0.0.0 jdoqocy.com
 0.0.0.0 jeanclementcom.us
+0.0.0.0 jeclittrecheckrep.info
 0.0.0.0 jeeshapi.net
 0.0.0.0 jetcounter.ru
 0.0.0.0 jewelcheese.com
@@ -3285,6 +3299,7 @@
 0.0.0.0 minexmr.stream
 0.0.0.0 minr.pw
 0.0.0.0 mintake.com
+0.0.0.0 mirafaren.pw
 0.0.0.0 misosoup.io
 0.0.0.0 mitmeisseln.de
 0.0.0.0 mixedreading.com
@@ -3380,6 +3395,7 @@
 0.0.0.0 muligov.com
 0.0.0.0 musiccounter.ru
 0.0.0.0 mustang-browser.com
+0.0.0.0 muvimtim.com
 0.0.0.0 muzotur.info
 0.0.0.0 mvbemeggnodty.com
 0.0.0.0 mvilivestats.com
@@ -3442,6 +3458,7 @@
 0.0.0.0 nanoadexchange.com
 0.0.0.0 nanovisor.io
 0.0.0.0 nanuyalailai.com
+0.0.0.0 nativclick.com
 0.0.0.0 native.ai
 0.0.0.0 nativepu.sh
 0.0.0.0 native.wpu.sh
@@ -3490,6 +3507,7 @@
 0.0.0.0 netmining.com
 0.0.0.0 netmng.com
 0.0.0.0 netmonitor.fi
+0.0.0.0 netpatas.com
 0.0.0.0 netratings.com
 0.0.0.0 netstats.dk
 0.0.0.0 netupdater.info
@@ -3513,6 +3531,7 @@
 0.0.0.0 nextbdom.ru
 0.0.0.0 nextclick.pl
 0.0.0.0 nextstat.com
+0.0.0.0 nfwljgjva.com
 0.0.0.0 ngacm.com
 0.0.0.0 ngastatic.com
 0.0.0.0 ngmco.net
@@ -3544,6 +3563,7 @@
 0.0.0.0 northclick-statistiken.de
 0.0.0.0 norvalur.xyz
 0.0.0.0 notifyvisitors.com
+0.0.0.0 nouseeth.com
 0.0.0.0 november-lax.com
 0.0.0.0 nowinteract.com
 0.0.0.0 noy90o.com
@@ -3641,6 +3661,7 @@
 0.0.0.0 omguk.com
 0.0.0.0 omine.org
 0.0.0.0 omkt.co
+0.0.0.0 ommunalspound.info
 0.0.0.0 omnitagjs.com
 0.0.0.0 omoukkkj.stream
 0.0.0.0 omtrdc.net
@@ -3764,6 +3785,7 @@
 0.0.0.0 pages05.net
 0.0.0.0 pagesense.com
 0.0.0.0 pageview.goroost.com
+0.0.0.0 pagiwp.com
 0.0.0.0 paibopse.com
 0.0.0.0 paidstats.com
 0.0.0.0 pampopholf.com
@@ -4036,7 +4058,6 @@
 0.0.0.0 provenpixel.com
 0.0.0.0 providence.voxmedia.com
 0.0.0.0 provideplant.com
-0.0.0.0 proxad.net
 0.0.0.0 pr-rang.de
 0.0.0.0 pr-sunshine.de
 0.0.0.0 pr-textlink.de
@@ -4047,6 +4068,7 @@
 0.0.0.0 prxii.tk
 0.0.0.0 ps7894.com
 0.0.0.0 psadsoob.com
+0.0.0.0 psaukrik.net
 0.0.0.0 pseelrou.net
 0.0.0.0 psoaptou.net
 0.0.0.0 psonstrentie.info
@@ -4337,7 +4359,9 @@
 0.0.0.0 riluaneth.com
 0.0.0.0 ringsrecord.com
 0.0.0.0 rintinwa.com
+0.0.0.0 riptukri.net
 0.0.0.0 risausso.com
+0.0.0.0 ristintriestenforth.info
 0.0.0.0 ritecounter.com
 0.0.0.0 ritogaga.com
 0.0.0.0 riverhit.com
@@ -4350,6 +4374,7 @@
 0.0.0.0 rnengage.com
 0.0.0.0 rng-snp-003.com
 0.0.0.0 rnlabs.com
+0.0.0.0 rnpwxssirmgflk.com
 0.0.0.0 roakicat.net
 0.0.0.0 rob.megaopen.ru
 0.0.0.0 rocks.io
@@ -4608,6 +4633,7 @@
 0.0.0.0 sitegoto.com
 0.0.0.0 siteimproveanalytics.com
 0.0.0.0 siteimprove.com
+0.0.0.0 sitelabweb.com
 0.0.0.0 sitelinktrack.com
 0.0.0.0 sitemaji.com
 0.0.0.0 sitemeter.com
@@ -4840,6 +4866,7 @@
 0.0.0.0 stazumik.net
 0.0.0.0 stcllctrs.com
 0.0.0.0 stcounter.com
+0.0.0.0 steadfastsystem.com
 0.0.0.0 stealth.nl
 0.0.0.0 steamsecretary.com
 0.0.0.0 steelhousemedia.com
@@ -5120,6 +5147,7 @@
 0.0.0.0 totogetica.com
 0.0.0.0 touchclarity.com
 0.0.0.0 tovery.net
+0.0.0.0 tpbpojpo.com
 0.0.0.0 tpmedia-reactads.com
 0.0.0.0 tr553.com
 0.0.0.0 tracc.it
@@ -5330,6 +5358,7 @@
 0.0.0.0 unusualtitle.com
 0.0.0.0 uod2quk646.com
 0.0.0.0 uohz.cn
+0.0.0.0 u-on.eu
 0.0.0.0 upalytics.com
 0.0.0.0 upasiansex.com
 0.0.0.0 up-rank.com
@@ -5864,6 +5893,7 @@
 0.0.0.0 yuituityula.com
 0.0.0.0 yunit.org
 0.0.0.0 yunpifu.cn
+0.0.0.0 yvmads.com
 0.0.0.0 yxbtyzqcczra.com
 0.0.0.0 yxgfcj.com
 0.0.0.0 yximgdpivguxke.com
