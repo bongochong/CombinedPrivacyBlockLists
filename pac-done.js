@@ -5334,6 +5334,7 @@ shExpMatch(host, '*.shinystat.com') ||
 shExpMatch(host, '*.shinystat.it') ||
 shExpMatch(host, '*.shir.nbwx11.com') ||
 shExpMatch(host, '*.shiveringsail.com') ||
+shExpMatch(host, '*.shockinggrass.com') ||
 shExpMatch(host, '*.shockingswing.com') ||
 shExpMatch(host, '*.shopbreakfast.com') ||
 shExpMatch(host, '*.shoppingads.com') ||
@@ -5343,6 +5344,7 @@ shExpMatch(host, '*.sidebar.angelfire.com') ||
 shExpMatch(host, '*.signalhq.com') ||
 shExpMatch(host, '*.silkysquirrel.com') ||
 shExpMatch(host, '*.sillyscrew.com') ||
+shExpMatch(host, '*.silvalliant.info') ||
 shExpMatch(host, '*.silvermob.com') ||
 shExpMatch(host, '*.similarsabine.com') ||
 shExpMatch(host, '*.simpleanalytics.io') ||
@@ -12083,6 +12085,7 @@ shExpMatch(host, 'shinystat.com') ||
 shExpMatch(host, 'shinystat.it') ||
 shExpMatch(host, 'shir.nbwx11.com') ||
 shExpMatch(host, 'shiveringsail.com') ||
+shExpMatch(host, 'shockinggrass.com') ||
 shExpMatch(host, 'shockingswing.com') ||
 shExpMatch(host, 'shopbreakfast.com') ||
 shExpMatch(host, 'shoppingads.com') ||
@@ -12092,6 +12095,7 @@ shExpMatch(host, 'sidebar.angelfire.com') ||
 shExpMatch(host, 'signalhq.com') ||
 shExpMatch(host, 'silkysquirrel.com') ||
 shExpMatch(host, 'sillyscrew.com') ||
+shExpMatch(host, 'silvalliant.info') ||
 shExpMatch(host, 'silvermob.com') ||
 shExpMatch(host, 'similarsabine.com') ||
 shExpMatch(host, 'simpleanalytics.io') ||
