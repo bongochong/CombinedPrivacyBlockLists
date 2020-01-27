@@ -409,6 +409,7 @@
 0.0.0.0 adviator.com
 0.0.0.0 advmanager.techfun.pl
 0.0.0.0 adv.mediaharbor.co.kr
+0.0.0.0 advnetwork.net
 0.0.0.0 advnet.xyz
 0.0.0.0 advon.net
 0.0.0.0 advsmedia.com
@@ -485,6 +486,7 @@
 0.0.0.0 alcmpn.com
 0.0.0.0 alcvid.com
 0.0.0.0 aleapeact.club
+0.0.0.0 aleapeapt.club
 0.0.0.0 alenty.com
 0.0.0.0 alephd.com
 0.0.0.0 alexacdn.com
@@ -517,6 +519,7 @@
 0.0.0.0 amazy.ru
 0.0.0.0 ambercrow.com
 0.0.0.0 ambitiousagreement.com
+0.0.0.0 amcdn.vn
 0.0.0.0 amctp.net
 0.0.0.0 amgload.net
 0.0.0.0 amikay.com
@@ -601,7 +604,9 @@
 0.0.0.0 a.quora.com
 0.0.0.0 arancefy.com
 0.0.0.0 arcadeweb.com
+0.0.0.0 arcaukalb.site
 0.0.0.0 arch-nicto.com
+0.0.0.0 areapebeg.club
 0.0.0.0 arearmark.club
 0.0.0.0 arecio.work
 0.0.0.0 arena-quantum.co.uk
@@ -887,6 +892,7 @@
 0.0.0.0 bludoistores.info
 0.0.0.0 bluecava.com
 0.0.0.0 blueconic.net
+0.0.0.0 bluecore.com
 0.0.0.0 bluecounter.de
 0.0.0.0 bluekai.com
 0.0.0.0 blueseed.tv
@@ -1322,6 +1328,7 @@
 0.0.0.0 cosmi.io
 0.0.0.0 cost1action.com
 0.0.0.0 costaction.com
+0.0.0.0 counevan.pro
 0.0.0.0 count24.de
 0.0.0.0 countante.info
 0.0.0.0 countar.de
@@ -1450,6 +1457,7 @@
 0.0.0.0 czlhgz.com
 0.0.0.0 d0p21g2fep.com
 0.0.0.0 d10lumateci472.cloudfront.net
+0.0.0.0 d10lv7w3g0jvk9.cloudfront.net
 0.0.0.0 d11eq81k50lwgi.cloudfront.net
 0.0.0.0 d138am4hd4ke4y.cloudfront.net
 0.0.0.0 d13jhr4vol1304.cloudfront.net
@@ -1541,6 +1549,7 @@
 0.0.0.0 d3d52lhoy0sh2w.cloudfront.net
 0.0.0.0 d3elm8wezzwg42.cloudfront.net
 0.0.0.0 d3fqhkmofpujs3.cloudfront.net
+0.0.0.0 d3hs51abvkuanv.cloudfront.net
 0.0.0.0 d3i1asoswufp5k.cloudfront.net
 0.0.0.0 d3id4jppiyyek8.cloudfront.net
 0.0.0.0 d3iz6lralvg77g.cloudfront.net
@@ -2363,6 +2372,7 @@
 0.0.0.0 googlerank.info
 0.0.0.0 google-rank.org
 0.0.0.0 go.onclasrv.com
+0.0.0.0 goonline13.online
 0.0.0.0 gooo.al
 0.0.0.0 gopjn.com
 0.0.0.0 gorgeousground.com
@@ -2548,6 +2558,7 @@
 0.0.0.0 hoohavoa.com
 0.0.0.0 hopurl.org
 0.0.0.0 horheloopo.com
+0.0.0.0 horried.pro
 0.0.0.0 horsenectar.com
 0.0.0.0 host.d-ns.ga
 0.0.0.0 hostingcloud.download
@@ -2964,6 +2975,7 @@
 0.0.0.0 kzqjwdxxussshe.net
 0.0.0.0 laborates.com
 0.0.0.0 ladsp.com
+0.0.0.0 ladspmz.com
 0.0.0.0 lamiflor.xyz
 0.0.0.0 landing.meendo.com
 0.0.0.0 landingpg.com
@@ -3297,6 +3309,7 @@
 0.0.0.0 mine.torrent.pw
 0.0.0.0 minewhat.com
 0.0.0.0 minexmr.stream
+0.0.0.0 minisrclink.cool
 0.0.0.0 minr.pw
 0.0.0.0 mintake.com
 0.0.0.0 mirafaren.pw
@@ -3938,6 +3951,7 @@
 0.0.0.0 pm0.net
 0.0.0.0 pm14.com
 0.0.0.0 pmbox.biz
+0.0.0.0 pmctrack.net
 0.0.0.0 pmli.cn
 0.0.0.0 pndelfast.com
 0.0.0.0 pnewspages.com
@@ -4098,6 +4112,8 @@
 0.0.0.0 pulselog.com
 0.0.0.0 pulsemaps.com
 0.0.0.0 puls.lv
+0.0.0.0 punosy.com
+0.0.0.0 punosy.top
 0.0.0.0 pureairhits.com
 0.0.0.0 purevideo.com
 0.0.0.0 purgrobi.com
@@ -4182,6 +4198,7 @@
 0.0.0.0 quaintcan.com
 0.0.0.0 qualtrics.com
 0.0.0.0 quantcount.com
+0.0.0.0 quantummetric.com
 0.0.0.0 quaves.info
 0.0.0.0 quavomi.com
 0.0.0.0 qubitproducts.com
@@ -5185,6 +5202,7 @@
 0.0.0.0 trackkas.com
 0.0.0.0 tracklab.club
 0.0.0.0 trackmyweb.net
+0.0.0.0 track.pnicnik.live
 0.0.0.0 trackpush.com
 0.0.0.0 track.segmentstream.com
 0.0.0.0 trackset.com
