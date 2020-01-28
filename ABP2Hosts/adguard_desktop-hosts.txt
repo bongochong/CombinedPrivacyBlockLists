@@ -1461,6 +1461,7 @@
 0.0.0.0 d11eq81k50lwgi.cloudfront.net
 0.0.0.0 d138am4hd4ke4y.cloudfront.net
 0.0.0.0 d13jhr4vol1304.cloudfront.net
+0.0.0.0 d141wsrw9m4as6.cloudfront.net
 0.0.0.0 d14emrg9.com
 0.0.0.0 d15cjcet1djbmv.cloudfront.net
 0.0.0.0 d160mt023h8h3d.cloudfront.net
@@ -2221,6 +2222,7 @@
 0.0.0.0 fsoft4down.com
 0.0.0.0 ftbpro.com
 0.0.0.0 ftigholm.site
+0.0.0.0 ftigken.online
 0.0.0.0 ftrack.ru
 0.0.0.0 fuckthat.xyz
 0.0.0.0 fuel451.com
