@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 # This *must* be the first line: 127.0.0.1     localhost   #
 #                                                          #
 #**********************************************************#
-# ------------- Mon 20 Jan 2020 04:12:24 PM MST ---------- #
+# ------------- Tue 28 Jan 2020 03:56:00 AM MST ---------- #
 #**********************************************************#
 #                                                          #
 # Disclaimer: cows pigs up dogs on six for personal use    #
@@ -581,7 +581,6 @@ ff02::2 ip6-allrouters
 :: 1653.bitterstrawberry.com
 :: 1655.bitterstrawberry.com
 :: 16565.hittail.com
-:: 165a7.v.fwmrm.net
 :: 165a7c15380874ef3.com
 :: 166.6.87.194.dynamic.dol.ru
 :: 1669323.r.msn.com
@@ -1312,6 +1311,7 @@ ff02::2 ip6-allrouters
 :: 24pm-affiliation.com
 :: 24s.ru
 :: 24smi.info
+:: 24vunvrv.com
 :: 24wrestling.us.intellitxt.com
 :: 24x7adservice.com
 :: 25057.hittail.com
@@ -1379,8 +1379,6 @@ ff02::2 ip6-allrouters
 :: 2896678.fls.doubleclick.net
 :: 29.6.87.194.dynamic.dol.ru
 :: 2912a.v.fwmrm.net
-:: 2915d.v.fwmrm.net
-:: 2915dc.v.fwmrm.net
 :: 29193.9215.302br.net
 :: 2926210385.log.optimizely.com
 :: 2945.v.fwmrm.net
@@ -1592,7 +1590,6 @@ ff02::2 ip6-allrouters
 :: 30klc.voluumtrk.com
 :: 31.14.252.148
 :: 31.6.87.194.dynamic.dol.ru
-:: 3100-app.mobilgov.com
 :: 3130320.fls.doubleclick.net
 :: 31335.hittail.com
 :: 314.hittail.com
@@ -1626,7 +1623,6 @@ ff02::2 ip6-allrouters
 :: 32b92bc03f19.com
 :: 32d1d3b9c.se
 :: 33.6.87.194.dynamic.dol.ru
-:: 3300-app.mobilgov.com
 :: 332645.r.axf8.net
 :: 33526.9243.302br.net
 :: 3369.api.swrve.com
@@ -1825,6 +1821,7 @@ ff02::2 ip6-allrouters
 :: 3lr67y45.com
 :: 3m.mediav.com
 :: 3m56h.voluumtrk.com
+:: 3ng6p6m0.de
 :: 3o3y7b.nt.nativetrees.co.uk
 :: 3omb.com
 :: 3point14.go2affise.com
@@ -2060,6 +2057,7 @@ ff02::2 ip6-allrouters
 :: 4c935d6a244f.com
 :: 4d5.net
 :: 4d80-dd41-9ed3-33b1.reporo.net
+:: 4dex.io
 :: 4dexports.com
 :: 4dle.info
 :: 4dogmedia.go2cloud.org
@@ -2247,7 +2245,6 @@ ff02::2 ip6-allrouters
 :: 58b14921719ec.com
 :: 58b291f917728a2.com
 :: 59.6.87.194.dynamic.dol.ru
-:: 5900-app.mobilgov.com
 :: 592.bitterstrawberry.com
 :: 594.bitterstrawberry.com
 :: 599.stats.misstrends.com
@@ -2677,7 +2674,6 @@ ff02::2 ip6-allrouters
 :: 7uaw1k.jik.thetreecentre.com
 :: 7v9f72.pal.wkcengland.co.uk
 :: 7vhyc.voluumtrk.com
-:: 7vws1j1j.com
 :: 7w4pgz.kal.wkcengland.com
 :: 7wtic7ru.com
 :: 7wxo1o.wm.warmglow.org
@@ -2722,7 +2718,6 @@ ff02::2 ip6-allrouters
 :: 83a26bd3df29eb57.com
 :: 84.6.87.194.dynamic.dol.ru
 :: 8430.engine.mobileapptracking.com
-:: 8443-app.mobilgov.com
 :: 84544232a4185d6.com
 :: 8462d0b3cc90c90.com
 :: 8467d2688e4a4.com
@@ -2839,7 +2834,6 @@ ff02::2 ip6-allrouters
 :: 9104cecde1c32cb25f5.com
 :: 911promotion.com
 :: 913.bitterstrawberry.com
-:: 914.global.ssl.fastly.net
 :: 9169.302br.net
 :: 91mobiles.com
 :: 92.6.87.194.dynamic.dol.ru
@@ -2878,7 +2872,6 @@ ff02::2 ip6-allrouters
 :: 947ywzlspq.com
 :: 9489.302br.net
 :: 94982c5b634975e50103ce96082d2827.adsk2.co
-:: 94uyvwwh.com
 :: 95.213.231.34
 :: 95.6.87.194.dynamic.dol.ru
 :: 95126.hittail.com
@@ -3019,8 +3012,6 @@ ff02::2 ip6-allrouters
 :: a-usa.applovin.com
 :: a-v2.presage.io
 :: a.1nimo.com
-:: a.2edd6c0fea91f88494d1cc37672db524.com
-:: a.3fdf2a5f924760915ca68b5ad01cfdae.com
 :: a.4ee395e5b8a076c7bd8592851ff8cad.com
 :: a.6d47c1118927cf53ba9654931df80e8d.com
 :: a.abnad.net
@@ -3058,8 +3049,6 @@ ff02::2 ip6-allrouters
 :: a.avalhukof.com
 :: a.bahaimlo.com
 :: a.baidu.com
-:: a.be190691ee4296b5bcff708f97100c09.com
-:: a.be74465973a07d9e41423b3f82c69aad.com
 :: a.beglorena.com
 :: a.beliefnet.com
 :: a.bf-ad.net
@@ -3074,7 +3063,6 @@ ff02::2 ip6-allrouters
 :: a.cam4free.com
 :: a.cbc.ca
 :: a.cdn.intentmedia.net
-:: a.centrum.cz
 :: a.chartboost.com
 :: a.chukalapopi.com
 :: a.ciridola.com
@@ -3385,7 +3373,6 @@ ff02::2 ip6-allrouters
 :: a.remarketstats.com
 :: a.reqpostanza.com
 :: a.rfihub.com
-:: a.rigelink.com
 :: a.rmgserving.com
 :: a.roritabo.com
 :: a.rotibald.com
@@ -3666,6 +3653,7 @@ ff02::2 ip6-allrouters
 :: aarki.com
 :: aarqdivjxstu.com
 :: aarwxotc.com
+:: aaswayoe.com
 :: aata.ero-advertising.com
 :: aatasozusu.com
 :: aatasozusu.info
@@ -3805,7 +3793,6 @@ ff02::2 ip6-allrouters
 :: ac.babsrv.com
 :: ac.batmobi.net
 :: ac.berlinonline.de
-:: ac.eu.angsrvr.com
 :: ac.express.de
 :: ac.mmstat.com
 :: ac.mz-web.de
@@ -3896,6 +3883,7 @@ ff02::2 ip6-allrouters
 :: acjs.aliyun.com
 :: ackak.com
 :: ackbure.pro
+:: ackgroupsevention.info
 :: acknowing.com
 :: aclasscelebs.us.intellitxt.com
 :: aclhagvngkjf.com
@@ -3936,7 +3924,6 @@ ff02::2 ip6-allrouters
 :: acsdk.gameyw.easebar.com
 :: acspaces.ero-advertising.com
 :: acsseo.com
-:: acsystem.wasu.cn
 :: act.onbeingcreative.com
 :: act.webmasterplan.com
 :: actforvictory.112.2o7.net
@@ -4014,6 +4001,7 @@ ff02::2 ip6-allrouters
 :: ad-balancer.at
 :: ad-balancer.net
 :: ad-bay.com
+:: ad-beacon-v01.uliza.jp
 :: ad-beast.com
 :: ad-blaster.com
 :: ad-board.com
@@ -4779,7 +4767,6 @@ ff02::2 ip6-allrouters
 :: ad.120.tbn.ru
 :: ad.123ads.nl
 :: ad.163.com
-:: ad.24h.com.vn
 :: ad.3322.net
 :: ad.360in.com
 :: ad.360yield.com
@@ -16616,7 +16603,6 @@ ff02::2 ip6-allrouters
 :: ad.it.doubleclick.net
 :: ad.ittoolbox.com
 :: ad.jamba.de
-:: ad.jamba.it
 :: ad.jamba.net
 :: ad.jamster.co.uk
 :: ad.jamster.com
@@ -16751,7 +16737,6 @@ ff02::2 ip6-allrouters
 :: ad.planclick.co.kr
 :: ad.player.baidu.com
 :: ad.policeone.com
-:: ad.pr.ameba.jp
 :: ad.preferances.com
 :: ad.prismamediadigital.com
 :: ad.profiwin.de
@@ -16796,7 +16781,6 @@ ff02::2 ip6-allrouters
 :: ad.search.ch
 :: ad.searchhound.com
 :: ad.sensismediasmart.com.au
-:: ad.setn.com
 :: ad.sevenads.net
 :: ad.sexcount.de
 :: ad.seznam.cz
@@ -16806,7 +16790,6 @@ ff02::2 ip6-allrouters
 :: ad.si.doubleclick.net
 :: ad.simgames.net
 :: ad.singletrackworld.com
-:: ad.sitelement.sk
 :: ad.sitemaji.com
 :: ad.sk.doubleclick.net
 :: ad.slashgear.com
@@ -16844,8 +16827,6 @@ ff02::2 ip6-allrouters
 :: ad.tom.com
 :: ad.toplist.cz
 :: ad.topstat.com
-:: ad.touchnclick.co.kr
-:: ad.toutiao.com
 :: ad.tr.doubleclick.net
 :: ad.track.us.org
 :: ad.track1v.com
@@ -16865,7 +16846,6 @@ ff02::2 ip6-allrouters
 :: ad.tv2.no
 :: ad.tw.doubleclick.net
 :: ad.twitchguru.com
-:: ad.u.nuggad.net
 :: ad.uk.doubleclick.net
 :: ad.uproar.com
 :: ad.us.doubleclick.net
@@ -16914,7 +16894,6 @@ ff02::2 ip6-allrouters
 :: ad.yieldmanager.com
 :: ad.yieldpartners.com
 :: ad.yllix.com
-:: ad.yonhapnews.co.kr
 :: ad.yourmedia.com
 :: ad.yoyo.pl
 :: ad.z5x.net
@@ -16940,7 +16919,6 @@ ff02::2 ip6-allrouters
 :: ad01.hpg.com.br
 :: ad01.mediacorpsingapore.com
 :: ad01.paycount.com
-:: ad01.tmgrup.com.tr
 :: ad02.focalink.com
 :: ad03.adam4adam.com
 :: ad03.doubleadx.com
@@ -16988,7 +16966,6 @@ ff02::2 ip6-allrouters
 :: ad1.kde.cz
 :: ad1.lavanetwork.net
 :: ad1.nend.net
-:: ad1.on.cc
 :: ad1.pamedia.com.au
 :: ad1.paycount.com
 :: ad1.primorye.ru
@@ -17391,7 +17368,6 @@ ff02::2 ip6-allrouters
 :: ad2.linxcz.cz
 :: ad2.lupa.cz
 :: ad2.neodatagroup.com
-:: ad2.on.cc
 :: ad2.paycount.com
 :: ad2.rambler.ru
 :: ad2.sbs.co.kr
@@ -17820,7 +17796,6 @@ ff02::2 ip6-allrouters
 :: ad4.gueb.com
 :: ad4.hpg.com.br
 :: ad4.layerads.ero-advertising.com
-:: ad4.on.cc
 :: ad4.paycount.com
 :: ad4.sina.com.cn
 :: ad4.speedbit.com
@@ -17977,7 +17952,6 @@ ff02::2 ip6-allrouters
 :: ad5.bigmir.net
 :: ad5.fpa.ero-advertising.com
 :: ad5.hpg.com.br
-:: ad5.on.cc
 :: ad5.paycount.com
 :: ad5.speedbit.com
 :: ad50.hpg.com.br
@@ -18020,7 +17994,6 @@ ff02::2 ip6-allrouters
 :: ad6.bb.ru
 :: ad6.bigmir.net
 :: ad6.hpg.com.br
-:: ad6.on.cc
 :: ad6.paycount.com
 :: ad6.speedbit.com
 :: ad60.hpg.com.br
@@ -18067,7 +18040,6 @@ ff02::2 ip6-allrouters
 :: ad7.gueb.com
 :: ad7.hpg.com.br
 :: ad7.literotica.com
-:: ad7.on.cc
 :: ad7.paycount.com
 :: ad7.speedbit.com
 :: ad7.thumbs.ero-advertising.com
@@ -18195,7 +18167,6 @@ ff02::2 ip6-allrouters
 :: adadapter.netzathleten-media.de
 :: adadvisor.net
 :: adafi.hit.gemius.pl
-:: adagiof3.repubblica.it
 :: adagora.com
 :: adakgpoi.com
 :: adalgo.info
@@ -18746,7 +18717,6 @@ ff02::2 ip6-allrouters
 :: adimages.tmpw.net
 :: adimages.whowhere.com
 :: adimg.activeadv.net
-:: adimg.alice.it
 :: adimg.bnet.com
 :: adimg.chow.com
 :: adimg.cnet.com
@@ -18931,7 +18901,6 @@ ff02::2 ip6-allrouters
 :: admantic.ru
 :: admantx.com
 :: admarket.admicro.vn
-:: admarket.cz
 :: admarket.entireweb.com
 :: admarketing.yahoo.net
 :: admarketplace.com
@@ -19155,7 +19124,6 @@ ff02::2 ip6-allrouters
 :: adnotch.com
 :: adnow.com
 :: adnsvuxmpaycdf.com
-:: adntokyo.gunosy.com
 :: adnuntius.com
 :: adnxs.com
 :: adnxs.net
@@ -19257,10 +19225,10 @@ ff02::2 ip6-allrouters
 :: adplexo.com
 :: adplugg.com
 :: adplus.co.id
-:: adplus.yonhapnews.co.kr
 :: adplusplus.fr
 :: adplxmd.com
 :: adpnut.com
+:: adpone.com
 :: adpop.theglobe.net
 :: adpopcon.com
 :: adport.io
@@ -19594,17 +19562,13 @@ ff02::2 ip6-allrouters
 :: ads.bakersfield.com
 :: ads.bangkokpost.co.th
 :: ads.banner-link.com.br
-:: ads.baodatviet.vn
 :: ads.basal.ca
-:: ads.baz.ch
 :: ads.bcnewsgroup.com
 :: ads.bcsyndication.com
 :: ads.be2hand.com
 :: ads.befan.it
 :: ads.beliefnet.com
 :: ads.belointeractive.com
-:: ads.benefitspro.com
-:: ads.berlinonline.de
 :: ads.berrynet.com
 :: ads.best-ads.com
 :: ads.betanews.com
@@ -19614,8 +19578,6 @@ ff02::2 ip6-allrouters
 :: ads.bg-mamma.com
 :: ads.bgfree.com
 :: ads.bgtop.net
-:: ads.bhmedianetwork.com
-:: ads.bhol.co.il
 :: ads.bianca.com
 :: ads.bianca.net
 :: ads.bidclix.com
@@ -19825,7 +19787,6 @@ ff02::2 ip6-allrouters
 :: ads.downloadaccelerator.com
 :: ads.downloadmix.de
 :: ads.dragonfru.it
-:: ads.draugas.lt
 :: ads.drf.com
 :: ads.dropspam.com
 :: ads.drugs.com
@@ -19863,7 +19824,6 @@ ff02::2 ip6-allrouters
 :: ads.eniro.com
 :: ads.enliven.net
 :: ads.epatra.com
-:: ads.epi.es
 :: ads.epltalk.com
 :: ads.epom.com
 :: ads.eqads.com
@@ -20070,7 +20030,6 @@ ff02::2 ip6-allrouters
 :: ads.icloseli.com
 :: ads.iconpeak.com
 :: ads.icq.com
-:: ads.ictnews.vn
 :: ads.identads.com
 :: ads.idg.com.pl
 :: ads.idgworldexpo.com
@@ -20122,7 +20081,6 @@ ff02::2 ip6-allrouters
 :: ads.itmcash.com
 :: ads.itshd.com
 :: ads.itv.com
-:: ads.itzdigital.com
 :: ads.iwangmedia.com
 :: ads.iwannawatch.to
 :: ads.iwon.com
@@ -20153,7 +20111,6 @@ ff02::2 ip6-allrouters
 :: ads.kabooaffiliates.com
 :: ads.kaktuz.net
 :: ads.kaldata.com
-:: ads.kartu.lt
 :: ads.kelbymediagroup.com
 :: ads.kentonline.co.uk
 :: ads.keywordblocks.com
@@ -20177,7 +20134,6 @@ ff02::2 ip6-allrouters
 :: ads.leovegas.com
 :: ads.lesbianpersonals.com
 :: ads.lfstmedia.com
-:: ads.lifehealthpro.com
 :: ads.link4ads.com
 :: ads.linkbucks.com
 :: ads.linkedin.com
@@ -20275,7 +20231,6 @@ ff02::2 ip6-allrouters
 :: ads.mondogames.com
 :: ads.monetize-me.com
 :: ads.moneyclicks.com
-:: ads.monogram.sk
 :: ads.monstermoving.com
 :: ads.mopub.com
 :: ads.mopub.pub
@@ -20290,7 +20245,6 @@ ff02::2 ip6-allrouters
 :: ads.mplx.valueclick.net
 :: ads.mrgreen.com
 :: ads.mrskin.com
-:: ads.mrtones.com
 :: ads.msn-ppe.com
 :: ads.msn.co.il
 :: ads.msn.com
@@ -20369,7 +20323,6 @@ ff02::2 ip6-allrouters
 :: ads.okcimg.com
 :: ads.okitspace.com
 :: ads.ole.com
-:: ads.olivebrandresponse.com
 :: ads.olx.com
 :: ads.omaha.com
 :: ads.one.co.il
@@ -20390,7 +20343,6 @@ ff02::2 ip6-allrouters
 :: ads.oxymoronent.com
 :: ads.p-club.net
 :: ads.p.veruta.com
-:: ads.p161.net
 :: ads.parrysound.com
 :: ads.passion.com
 :: ads.patch.com
@@ -20630,7 +20582,6 @@ ff02::2 ip6-allrouters
 :: ads.profitsdeluxe.com
 :: ads.program3.com
 :: ads.programattik.com
-:: ads.propertycasualty360.com
 :: ads.prospect.org
 :: ads.provincianews.ro
 :: ads.proxy3.adservr.de
@@ -20666,7 +20617,6 @@ ff02::2 ip6-allrouters
 :: ads.realitytraffic.com
 :: ads.realitytraffic.com.s2.gvirabi.com
 :: ads.realitytraffic.com.s3.gvirabi.com
-:: ads.realmedia.com.br
 :: ads.realslutparty.com
 :: ads.recoletos.es
 :: ads.reddit.com
@@ -20784,7 +20734,6 @@ ff02::2 ip6-allrouters
 :: ads.spaceports.com
 :: ads.spaceports.net
 :: ads.sportingnews.com
-:: ads.sports.fr
 :: ads.sportsblog.com
 :: ads.sprintrade.com
 :: ads.sptimes.com
@@ -20829,12 +20778,10 @@ ff02::2 ip6-allrouters
 :: ads.tapit.com
 :: ads.taptapnetworks.com
 :: ads.tarrobads.com
-:: ads.tdbank.com
 :: ads.tdcanadatrust.com
 :: ads.techtv.com
 :: ads.teixido.co
 :: ads.tele.net
-:: ads.telecinco.es
 :: ads.telegraph.co.uk
 :: ads.telkomsel.com
 :: ads.tennessean.com
@@ -21056,7 +21003,6 @@ ff02::2 ip6-allrouters
 :: ads.yumenetworks.com
 :: ads.yupimsn.com
 :: ads.zaloapp.com
-:: ads.zamunda.net
 :: ads.zamunda.se
 :: ads.zchat.no
 :: ads.zdnet.com
@@ -21090,7 +21036,6 @@ ff02::2 ip6-allrouters
 :: ads1-adnow.com
 :: ads1.advance.de
 :: ads1.ami-admin.com
-:: ads1.beta.lt
 :: ads1.canoe.ca
 :: ads1.condenet.com
 :: ads1.ero-advertising.com
@@ -21265,7 +21210,6 @@ ff02::2 ip6-allrouters
 :: ads2.medianord.de
 :: ads2.mocean.mobi
 :: ads2.mojiva.com
-:: ads2.msads.net
 :: ads2.msn.com
 :: ads2.mynet.com
 :: ads2.net-communities.co.uk
@@ -21283,7 +21227,6 @@ ff02::2 ip6-allrouters
 :: ads2.weblogssl.com
 :: ads2.williamhill.com
 :: ads2.xnet.cz
-:: ads2.zamunda.net
 :: ads2.zeusclicks.com
 :: ads20.adcolony.com
 :: ads20.focalink.com
@@ -21370,7 +21313,6 @@ ff02::2 ip6-allrouters
 :: ads2ads.net
 :: ads2srv.com
 :: ads3-adnow.com
-:: ads3.adman.gr
 :: ads3.advance.de
 :: ads3.bigasia.com
 :: ads3.blastro.com
@@ -21435,7 +21377,6 @@ ff02::2 ip6-allrouters
 :: ads4links.com
 :: ads4pubs.com
 :: ads5-adnow.com
-:: ads5.admatic.com.tr
 :: ads5.bigasia.com
 :: ads5.canoe.ca
 :: ads5.focalink.com
@@ -21879,7 +21820,6 @@ ff02::2 ip6-allrouters
 :: adserver.weakgame.com
 :: adserver.web.de
 :: adserver.webads.co.uk
-:: adserver.webads.it
 :: adserver.webads.nl
 :: adserver.x3.hu
 :: adserver.xpanama.net
@@ -22088,7 +22028,6 @@ ff02::2 ip6-allrouters
 :: adspecs.yahoo.com
 :: adspeed.com
 :: adspeed.net
-:: adspending01.bwnet.com.tw
 :: adsphinx.com
 :: adspics.com
 :: adspinner.com
@@ -22157,6 +22096,7 @@ ff02::2 ip6-allrouters
 :: adstacksapi.fuse-ad.com
 :: adstage-analytics.herokuapp.com
 :: adstage.io
+:: adstanding.com
 :: adstarget.net
 :: adstargeting.com
 :: adstark.ru
@@ -22172,7 +22112,6 @@ ff02::2 ip6-allrouters
 :: adstil.indiatimes.com
 :: adstock.pro
 :: adstoclick.com
-:: adstrac.adk2x.com
 :: adstrack.co
 :: adstracker.appsgeyser.com
 :: adstracking.s3-website-us-west-1.amazonaws.com
@@ -22180,7 +22119,6 @@ ff02::2 ip6-allrouters
 :: adstract.adk2x.com
 :: adstrategy.go2cloud.org
 :: adstream.cardboardfish.com
-:: adstripod.lycos.co.uk
 :: adstrologycpa.go2cloud.org
 :: adstrx.com
 :: adstuna.com
@@ -22348,10 +22286,8 @@ ff02::2 ip6-allrouters
 :: adult-banner-ads.com
 :: adultadvertising.com
 :: adultadworld.com
-:: adultadworld.directtrack.com
 :: adultbannerexchange.de
 :: adultblogtoplist.com
-:: adultcomix.biz
 :: adultcpaoffers-elb.go2cloud.org
 :: adultcpaoffers.go2cloud.org
 :: adultdatingtest.worlddatingforum.com
@@ -22385,10 +22321,8 @@ ff02::2 ip6-allrouters
 :: adv.adsbwm.com
 :: adv.adultpartnership.com
 :: adv.adultrium.com
-:: adv.alice.it
 :: adv.all-free-download.com
 :: adv.aport.ru
-:: adv.arubamediamarketing.it
 :: adv.bbanner.it
 :: adv.blogupp.com
 :: adv.calciomercato.com
@@ -22396,7 +22330,6 @@ ff02::2 ip6-allrouters
 :: adv.consadbg.com
 :: adv.cooperhosting.net
 :: adv.domaindirect.it
-:: adv.domino.it
 :: adv.dontcrack.com
 :: adv.dot.wp.pl
 :: adv.drtuber.com
@@ -22411,7 +22344,6 @@ ff02::2 ip6-allrouters
 :: adv.gratuito.st
 :: adv.h2porn.com
 :: adv.hwupgrade.it
-:: adv.ilsecoloxix.it
 :: adv.ilsole24ore.it
 :: adv.imadrep.co.kr
 :: adv.isdn.cz
@@ -22447,6 +22379,7 @@ ff02::2 ip6-allrouters
 :: adv679854.ru
 :: adv9.net
 :: advaction.ru
+:: advalo.com
 :: advanced-web-analytics.com
 :: advancedad.com
 :: advancedadapters.com
@@ -22469,7 +22402,6 @@ ff02::2 ip6-allrouters
 :: advarkads.com
 :: advcash.com
 :: advconversion.com
-:: advdl.ammadv.it
 :: adve.net
 :: adveng.hiasys.com
 :: adventize.go2cloud.org
@@ -22494,7 +22426,6 @@ ff02::2 ip6-allrouters
 :: advert.dyna.ultraweb.hu
 :: advert.e-se.ru
 :: advert.estsoft.com
-:: advert.eurotip.cz
 :: advert.exaccess.ru
 :: advert.funimation.com
 :: advert.gittigidiyor.com
@@ -22712,7 +22643,6 @@ ff02::2 ip6-allrouters
 :: adviva.net
 :: advizi.ru
 :: advlab.it
-:: advloc.alice.it
 :: advm10.com
 :: advmaiotg.com
 :: advmaker.su
@@ -22813,7 +22743,6 @@ ff02::2 ip6-allrouters
 :: adx.telegram.com
 :: adx.theledger.com
 :: adx.timesdaily.com
-:: adx.xemvtv.net
 :: adx1.com
 :: adx1.twinpine.adatrix.com
 :: adxadtracker.com
@@ -23003,7 +22932,6 @@ ff02::2 ip6-allrouters
 :: affili.st
 :: affili24.com
 :: affili24.net
-:: affiliace.directtrack.com
 :: affiliate-b.com
 :: affiliate-gate.com
 :: affiliate-robot.com
@@ -23301,6 +23229,7 @@ ff02::2 ip6-allrouters
 :: afxtcajgtzcugb.com
 :: afxvaqbbd.com
 :: afy11.net
+:: afzfzhbk.com
 :: afzkqajwcbub.com
 :: afzoyaquhjltdd.com
 :: ag.gbc.criteo.com
@@ -23374,6 +23303,7 @@ ff02::2 ip6-allrouters
 :: ahneiwkpsnxign.com
 :: ahomedia.zxfactory.nl
 :: ahqcr.voluumtrk.com
+:: ahrbsdyjux.com
 :: ahrcwekji.com
 :: ahstrelgnh.com
 :: ahtkajcs.com
@@ -23404,6 +23334,8 @@ ff02::2 ip6-allrouters
 :: aikdakxoc.com
 :: ailamtrieuphu.com
 :: ailanibah.com
+:: ailawlani.club
+:: aileenvideos.pro
 :: ailoganalyticsportal-eus.cloudapp.net
 :: ailtumty.net
 :: aim-charts.pf.aol.com
@@ -23461,6 +23393,7 @@ ff02::2 ip6-allrouters
 :: ajc.us.intellitxt.com
 :: ajcclassifieds.com
 :: ajcsjktzlqh.com
+:: ajdivotdelbloab24.jio.com
 :: ajewishgift.com
 :: ajillionmax.com
 :: ajizjpjkrnh.com
@@ -23534,7 +23467,6 @@ ff02::2 ip6-allrouters
 :: akihabaranews.us.intellitxt.com
 :: akillimeyveler.reklamagaci.com
 :: akirkpatrick.com
-:: akl-v4.pops.fastly-insights.com
 :: akl.adnow.com
 :: akm.playnow.guru
 :: akm.ssacdn.com
@@ -23581,7 +23513,6 @@ ff02::2 ip6-allrouters
 :: alert.com.mt
 :: alert.wpm.neustar.biz
 :: alexa-sitestats.s3.amazonaws.com
-:: alexa.links.cn
 :: alexacdn.com
 :: alexajstrack.com
 :: alexametrics.com
@@ -23620,7 +23551,6 @@ ff02::2 ip6-allrouters
 :: all.bedwardwilkins.com
 :: all.eliteserverconnect.xyz
 :: all.noahfister.com
-:: all.orfr.adgtw.orangeads.fr
 :: all.unrulyx.unrulymedia.com
 :: all4spy.com
 :: allabc.com
@@ -23647,6 +23577,7 @@ ff02::2 ip6-allrouters
 :: allmygreatestlife.com
 :: allmyverygreatlife.com
 :: allnvbtrtpku.com
+:: allo-media.net
 :: allosponsor.com
 :: allowmailbox.com
 :: alloydigital.com
@@ -23676,7 +23607,6 @@ ff02::2 ip6-allrouters
 :: alpha-assets.adcolony.com
 :: alpha-events.aerserv.com
 :: alpha.bnex.com
-:: alpha.kite.com
 :: alpha.telemetry.microsoft.com
 :: alphabird.com
 :: alphagirlz.mobi
@@ -23851,7 +23781,6 @@ ff02::2 ip6-allrouters
 :: amp.rd.linksynergy.com
 :: amp.services
 :: ampcid.google.com
-:: ampedmedia.directtrack.com
 :: amplify-com-mktg.imgix.net
 :: amplify-imp.outbrain.com
 :: amplify.amplitude.com
@@ -23878,7 +23807,6 @@ ff02::2 ip6-allrouters
 :: ams-aws-stg.fyber.com
 :: ams-login.dotomi.com
 :: ams-usadmm.dotomi.com
-:: ams-v4.pops.fastly-insights.com
 :: ams.fyber.com
 :: ams.toxity.biz
 :: ams01-convex.dotomi.com
@@ -24076,7 +24004,6 @@ ff02::2 ip6-allrouters
 :: analytics.audioeye.com
 :: analytics.avanser.com.au
 :: analytics.aweber.com
-:: analytics.awsli.com.br
 :: analytics.batmobile.com.tw
 :: analytics.beeznest.com
 :: analytics.belgacom.be
@@ -24097,7 +24024,6 @@ ff02::2 ip6-allrouters
 :: analytics.ccgateway.net
 :: analytics.ceneo.pl
 :: analytics.chartboost.com
-:: analytics.chase.com
 :: analytics.cincopa.com
 :: analytics.clickdimensions.com
 :: analytics.clickpathmedia.com
@@ -24245,6 +24171,7 @@ ff02::2 ip6-allrouters
 :: analytics.rogersmedia.com
 :: analytics.s3.amazonaws.com
 :: analytics.safelinking.net
+:: analytics.salesanalytics.io
 :: analytics.salmonads.com
 :: analytics.samdd.me
 :: analytics.sayu.co.uk
@@ -24360,10 +24287,12 @@ ff02::2 ip6-allrouters
 :: anastasiasaffiliate.com
 :: anatomiseddybglcuku.download
 :: anbalxkcpwa.com
+:: anbiarfehxyz.com
 :: ancestrymsn.112.2o7.net
 :: anchor.stailamedia.com
 :: and07.adnow.com
 :: andagainanotherthing.com
+:: andarcair.club
 :: andbaybay.club
 :: andbeyond.media
 :: andelamobile-d.openx.net
@@ -24492,7 +24421,6 @@ ff02::2 ip6-allrouters
 :: anvtnqpbkjyk.com
 :: anx.mindspark.com
 :: anxiousapples.com
-:: any-v4.pops.fastly-insights.com
 :: any.gs
 :: anyaspasp.club
 :: anybest.host
@@ -24613,7 +24541,6 @@ ff02::2 ip6-allrouters
 :: ap.ms.link4ads.com
 :: ap.oasfile.aftenposten.no
 :: ap.octopuspop.com
-:: ap.read.mediation.pns.ap.orangeads.fr
 :: ap.rtrgt.com
 :: ap.smardroid.com
 :: ap.tnkfactory.com
@@ -24627,7 +24554,6 @@ ff02::2 ip6-allrouters
 :: apa-tok.adsrvr.org
 :: apa.match.adsrvr.org
 :: apac-tw-ad-track.aralego.com
-:: apac.u.fastly-insights.com
 :: apac1.notify.windows.com.akadns.net
 :: apachestat.cimedia.net
 :: apapi.dc121677.com
@@ -24652,6 +24578,7 @@ ff02::2 ip6-allrouters
 :: apfmwcktbj.com
 :: aphookkensidah.pro
 :: aphrodite.porntrack.com
+:: aphycolourses.info
 :: api-01.com
 :: api-02.com
 :: api-03.com
@@ -24675,13 +24602,11 @@ ff02::2 ip6-allrouters
 :: api-gateway.us-west-2.elasticbeanstalk.com
 :: api-gdpr.voodoo-tech.io
 :: api-grpc.lightstep.com
-:: api-iam.intercom.io
 :: api-log-analytics.cloud.toast.com
 :: api-log.immomo.com
 :: api-logsink-prod.zedge.io
 :: api-master.netsparkmobile.com
 :: api-owr-bootstrap.metaps.net
-:: api-ping.intercom.io
 :: api-product.kameleoon.com
 :: api-production.dwell.com
 :: api-public.addthis.com
@@ -24740,7 +24665,6 @@ ff02::2 ip6-allrouters
 :: api.airpush.com
 :: api.alphonso.tv
 :: api.altamob.com
-:: api.ambelbet.com
 :: api.ampiri.com
 :: api.amplitude.com
 :: api.anagog.com
@@ -24782,7 +24706,6 @@ ff02::2 ip6-allrouters
 :: api.band.us
 :: api.batch.com
 :: api.beaconforstore.com
-:: api.beacons.technology
 :: api.beaconsinspace.com
 :: api.beaconstreetservices.com
 :: api.bee7.com
@@ -24801,10 +24724,8 @@ ff02::2 ip6-allrouters
 :: api.bugfender.com
 :: api.bugly.qq.com
 :: api.bugsee.com
-:: api.bugsnag.com
 :: api.c.avazunativeads.com
 :: api.celtra.com
-:: api.championat.com
 :: api.chartbeat.com
 :: api.chartboost.com
 :: api.cheatsheet.me
@@ -24828,7 +24749,6 @@ ff02::2 ip6-allrouters
 :: api.crowdin.com
 :: api.crowdtangle.com
 :: api.crowdtwist.com
-:: api.cupid.iqiyi.com
 :: api.deep-ad.com.edgekey.net
 :: api.demandbase.com
 :: api.destinationrewards.com
@@ -24837,7 +24757,6 @@ ff02::2 ip6-allrouters
 :: api.dsp.batmobi.net
 :: api.elasticemail.com
 :: api.ero-advertising.com
-:: api.ettoday.net
 :: api.eu.crittercism.com
 :: api.europe.bidtellect.com
 :: api.exc.mob.com
@@ -24887,7 +24806,6 @@ ff02::2 ip6-allrouters
 :: api.instartlogic.com
 :: api.intensifier.de
 :: api.intentiq.com
-:: api.intercom.io
 :: api.inwemo.com
 :: api.iperceptions.com
 :: api.ipinfodb.com
@@ -24902,7 +24820,6 @@ ff02::2 ip6-allrouters
 :: api.kochava.com
 :: api.kurioapps.com
 :: api.lanistaads.com
-:: api.layer.com
 :: api.lazyswipe.com
 :: api.leadbolt.net
 :: api.leadpages.io
@@ -24949,7 +24866,6 @@ ff02::2 ip6-allrouters
 :: api.nanigans.com
 :: api.native.ai
 :: api.naturaltracking.com
-:: api.newad.ifeng.com
 :: api.newrelic.com
 :: api.newsfeed.intl.miui.com
 :: api.ning.com
@@ -24970,7 +24886,6 @@ ff02::2 ip6-allrouters
 :: api.parrable.com
 :: api.parse.com
 :: api.parsely.com
-:: api.particle.io
 :: api.permutive.com
 :: api.personali.com
 :: api.perzonalization.com
@@ -24983,7 +24898,6 @@ ff02::2 ip6-allrouters
 :: api.posst.co
 :: api.prooffactor.com
 :: api.proofpositivemedia.com
-:: api.proximi.fi
 :: api.pubnative.net
 :: api.punchh.com
 :: api.push-ad.com
@@ -25043,7 +24957,6 @@ ff02::2 ip6-allrouters
 :: api.taps.io
 :: api.tapstream.com
 :: api.target.smi2.net
-:: api.taskapi.net
 :: api.testrequest.info
 :: api.theadex.com
 :: api.thetrafficstat.net
@@ -25126,6 +25039,7 @@ ff02::2 ip6-allrouters
 :: api8.thesearchagency.net
 :: api9.thesearchagency.net
 :: apiae.hopscore.com
+:: apiafubb.com
 :: apibeta.zeti.com
 :: apicdn.viglink.com
 :: apicdn.zoomanalytics.co
@@ -25293,7 +25207,6 @@ ff02::2 ip6-allrouters
 :: app.bronto.com
 :: app.bugfender.com
 :: app.bugreplay.com
-:: app.bugsnag.com
 :: app.cision.com
 :: app.clickdimensions.com
 :: app.clickyab.com
@@ -25388,7 +25301,6 @@ ff02::2 ip6-allrouters
 :: appcontent.boostmobile.com
 :: appdeumext.tdameritrade.com
 :: appdiscovery.apptap.com
-:: appdistapi.scloud.le.com
 :: appdog.com
 :: appearch.info
 :: appendad.com
@@ -25685,6 +25597,7 @@ ff02::2 ip6-allrouters
 :: arena-quantum.co.uk
 :: arena.altitude-arena.com
 :: ares.agoop.net
+:: arfeservation.info
 :: arfmdqwyztn.com
 :: arfttojxv.com
 :: arganostrella.com
@@ -25702,7 +25615,9 @@ ff02::2 ip6-allrouters
 :: ark.letv.com
 :: arkadium-d.openx.net
 :: arkadium-tagan.adlightning.com
+:: arkairbuy.site
 :: arkayne.com
+:: arkbuyarm.club
 :: arkhamxojvr.com
 :: arkinsoftware.in
 :: arlime.com
@@ -25820,7 +25735,6 @@ ff02::2 ip6-allrouters
 :: asian.streamate.com
 :: asiarevenue.go2cloud.org
 :: asiinbyu.com
-:: asimgs.pplive.cn
 :: asimov-win.settings.data.microsoft.com.akadns.net
 :: ask-d.openx.net
 :: ask.log.kuyun.com
@@ -25847,9 +25761,9 @@ ff02::2 ip6-allrouters
 :: asoysigaw.info
 :: asoysigaw.net
 :: asoysigaw.org
-:: asp.animelab.com
 :: aspair3.fingta.com
 :: aspampbrr.online
+:: asparmany.site
 :: aspartamerpzyyzyn.download
 :: aspartbus.site
 :: asperencium.com
@@ -25869,7 +25783,6 @@ ff02::2 ip6-allrouters
 :: asrv-a.akamaihd.net
 :: ass4all.com
 :: assampant.club
-:: asseenonpc.directtrack.com
 :: asset-0.tenderapp.com
 :: asset-1.tenderapp.com
 :: asset-2.tenderapp.com
@@ -25888,7 +25801,6 @@ ff02::2 ip6-allrouters
 :: assets.adobedtm.com
 :: assets.adspruce.com
 :: assets.adstage.io
-:: assets.adtaily.com
 :: assets.adtech.de
 :: assets.amung.us
 :: assets.appboycdn.com
@@ -25904,7 +25816,6 @@ ff02::2 ip6-allrouters
 :: assets.dynatrace.com
 :: assets.fortumo.com
 :: assets.foxmetrics.com
-:: assets.groovehq.com
 :: assets.infinity-tracking.net
 :: assets.iterable.com
 :: assets.kampyle.com
@@ -25924,7 +25835,6 @@ ff02::2 ip6-allrouters
 :: assets.rubiconproject.com
 :: assets.servedby-buysellads.com
 :: assets.soom.la
-:: assets.sport1.de
 :: assets.tapad.com
 :: assets.tapjoy.com
 :: assets.ui.optimizely.com
@@ -25952,7 +25862,6 @@ ff02::2 ip6-allrouters
 :: assoctrac.com
 :: assonantsvqqxpr.download
 :: ast.adiquity.com
-:: astalavista.box.sk
 :: astat.bugly.qq.com
 :: asterpix.com
 :: asth.innity.com
@@ -26033,7 +25942,6 @@ ff02::2 ip6-allrouters
 :: ationmultinal.info
 :: atkeg.voluumtrk.com
 :: atkins.vo.llnwd.net
-:: atl-v4.pops.fastly-insights.com
 :: atlanticmedia.122.2o7.net
 :: atlas.astrology.com
 :: atlas.etahub.com
@@ -26174,7 +26082,6 @@ ff02::2 ip6-allrouters
 :: augur.io
 :: august15download.com
 :: auihv.voluumtrk.com
-:: aujourdhui.refr.adgtw.orangeads.fr
 :: aulosyhydzitxb.download
 :: aulrains.com
 :: aultemeztokc.com
@@ -26187,6 +26094,7 @@ ff02::2 ip6-allrouters
 :: aumomotortrend.112.2o7.net
 :: aumonewcarcom.112.2o7.net
 :: aumotradeinvaluecom.112.2o7.net
+:: aumrrwoile.com
 :: auqefmhsutnldv.com
 :: aureate.com
 :: aurelius.httpool.com
@@ -26631,7 +26539,6 @@ ff02::2 ip6-allrouters
 :: baa2e174884c9c0460e.com
 :: baaeobgdaxdvsa.com
 :: bab.frb.io
-:: babanetwork.adk2x.com
 :: babator.com
 :: babble-prod-us-east-1.swrve.com
 :: babbnrs.com
@@ -26696,6 +26603,7 @@ ff02::2 ip6-allrouters
 :: baiduccdn1.com
 :: baidustatic.com
 :: baifendian.com
+:: baiiufiwho.com
 :: baipagid.com
 :: bakaqddxhhsid.com
 :: bakler.net
@@ -26720,6 +26628,7 @@ ff02::2 ip6-allrouters
 :: bam-bam-slam.com
 :: bam-x.com
 :: bam.nr-data.net
+:: bamgrid.com
 :: ban-host.ru
 :: ban.krooncasino.com
 :: ban.promotools.biz
@@ -27169,7 +27078,6 @@ ff02::2 ip6-allrouters
 :: banner.intermega.com.br
 :: banner.inyourpocket.com
 :: banner.itweb.co.za
-:: banner.kanald.com.tr
 :: banner.kiev.ua
 :: banner.lasvegasusacasino.com
 :: banner.lbs.km.ru
@@ -27432,7 +27340,6 @@ ff02::2 ip6-allrouters
 :: banners.outpersonals.com
 :: banners.outster.com
 :: banners.oversexe.com
-:: banners.oxiads.fr
 :: banners.passion.com
 :: banners.passiondollars.com
 :: banners.payserve.com
@@ -27487,7 +27394,6 @@ ff02::2 ip6-allrouters
 :: banners.webcams.com
 :: banners.webmasterplan.com
 :: banners.weboverdrive.com
-:: banners.weselltraffic.com
 :: banners.winfire.com
 :: banners.wlservices.fr
 :: banners.xmatch.com
@@ -27865,7 +27771,6 @@ ff02::2 ip6-allrouters
 :: bats.video.yahoo.com
 :: batsavcdn.ksmobile.net
 :: battery.lionmobi.com
-:: battleon.directtrack.com
 :: bavftcgoapga.com
 :: bavners2.ero-advertising.com
 :: bawdybeast.com
@@ -27874,6 +27779,7 @@ ff02::2 ip6-allrouters
 :: baypops.com
 :: bazaarvoice-d.openx.net
 :: bazingandroid.com
+:: baztrack.com
 :: bb.connextra.com
 :: bb.crwdcntrl.net
 :: bb.o2.eyereturn.com
@@ -27892,7 +27798,6 @@ ff02::2 ip6-allrouters
 :: bbcdn-tag.ibillboard.com
 :: bbcdn.go.adlv.bbelements.com
 :: bbcdn.go.arbopl.bbelements.com
-:: bbcdn.go.cz.bbelements.com
 :: bbcdn.go.pl.bbelements.com
 :: bbcdotcom.2cnt.net
 :: bbcdotcomtest.2cnt.net
@@ -27917,6 +27822,7 @@ ff02::2 ip6-allrouters
 :: bbs.duba.net
 :: bbtrack.net
 :: bbtv.blinkx.com
+:: bbtwdpczir.com
 :: bbumgames.pushwoosh.com
 :: bbuni.com
 :: bbuyirgucsbfwt.com
@@ -27948,7 +27854,6 @@ ff02::2 ip6-allrouters
 :: bd-nplb03.foresee.com
 :: bd.moatads.com
 :: bd.vungle.com
-:: bd0dc.v.fwmrm.net
 :: bdapi.ads.oppomobile.com
 :: bdash-cloud.com
 :: bdbaffiliates.go2cloud.org
@@ -28429,6 +28334,7 @@ ff02::2 ip6-allrouters
 :: bidsxchange.com
 :: bidsystem.adknowledge.com
 :: bidsystem.com
+:: bidtellect.com
 :: bidtheatre.com
 :: bidtrk.com
 :: bidverdrd.com
@@ -28451,7 +28357,6 @@ ff02::2 ip6-allrouters
 :: bigcattracks.com
 :: bigchoicegroup.com
 :: bigclicks.com
-:: bigdata.g60.letvlb.com
 :: bigfatbaby.com
 :: bigfineads.com
 :: bighop.com
@@ -28508,7 +28413,6 @@ ff02::2 ip6-allrouters
 :: binglee-com-au.b.appier.net
 :: bingo4affiliates.com
 :: bingocabin.com
-:: bingorevenue.directtrack.com
 :: bingsclspe.download
 :: bink.uk.intellitxt.com
 :: binlayer.com
@@ -28659,7 +28563,6 @@ ff02::2 ip6-allrouters
 :: blnk.crwdcntrl.net
 :: blobar.org
 :: block-keywords.loopme.com
-:: block.s5block.com
 :: block.scroll.com
 :: block.sw1block.com
 :: blockadblock.com
@@ -28767,7 +28670,6 @@ ff02::2 ip6-allrouters
 :: bm324.com
 :: bm5150.com
 :: bm7dc.voluumtrk.com
-:: bma-v4.pops.fastly-insights.com
 :: bmanpn.com
 :: bmayyviswklkd.com
 :: bmbvnmgucbk.com
@@ -28847,9 +28749,9 @@ ff02::2 ip6-allrouters
 :: bnbaz.eb2a.com
 :: bncrf.voluumtrk.com
 :: bndkifres.com
-:: bne-v4.pops.fastly-insights.com
 :: bng3w.voluumtrk.com
 :: bnhtml.com
+:: bnielrtzc.com
 :: bnjhbghjznq.com
 :: bnjjk1.blow.harrisretreat.com
 :: bnjrtdsafo.com
@@ -28919,15 +28821,12 @@ ff02::2 ip6-allrouters
 :: boll.phoenixsports.org
 :: boloz.com
 :: bolt.us.intellitxt.com
-:: bom-v4.pops.fastly-insights.com
-:: bom.baomoi.com
 :: bomcl.richmetrics.com
 :: bomek.com
 :: bon7g.voluumtrk.com
 :: bonad.io
 :: bond.iad-03.braze.com
 :: bondinra.com
-:: bong99.com
 :: bongacash.com
 :: bonintnewsktarcom.112.2o7.net
 :: bonitrust.de
@@ -29008,7 +28907,6 @@ ff02::2 ip6-allrouters
 :: bos-tapreq18.jumptap.com
 :: bos-tapreq19.jumptap.com
 :: bos-tapreq20.jumptap.com
-:: bos-v4.pops.fastly-insights.com
 :: bos.ads.nexage.com
 :: boschetto-hotel.gr
 :: bosecom.112.2o7.net
@@ -30521,6 +30419,7 @@ ff02::2 ip6-allrouters
 :: bsaig.voluumtrk.com
 :: bsams.eyeblaster.akadns.net
 :: bsch.serving-sys.com
+:: bsgimhqko.com
 :: bshha.voluumtrk.com
 :: bsitm3.com
 :: bsjhbxtrbvkr.com
@@ -30748,7 +30647,6 @@ ff02::2 ip6-allrouters
 :: bvzdfhpyz.com
 :: bwaguyek.com
 :: bwhcj.voluumtrk.com
-:: bwi-v4.pops.fastly-insights.com
 :: bwin90.com
 :: bwinpartypartners.com
 :: bwjteztqdlg.com
@@ -30811,6 +30709,7 @@ ff02::2 ip6-allrouters
 :: bzctqprddwhj.com
 :: bzeitvxguf.com
 :: bzfvcavza.com
+:: bzgijyfjo.com
 :: bzkmfzoxqmau.com
 :: bznclicks.com
 :: bzotzfcbhomw.com
@@ -30858,7 +30757,6 @@ ff02::2 ip6-allrouters
 :: c.bigmir.net
 :: c.bing.com
 :: c.bizjournals.com
-:: c.bong99.com
 :: c.c.appier.net
 :: c.casalemedia.com
 :: c.cblevt.com
@@ -30888,7 +30786,6 @@ ff02::2 ip6-allrouters
 :: c.gmtrack.com
 :: c.go-mpulse.net
 :: c.greystripe.com
-:: c.groovehq.com
 :: c.gumgum.com
 :: c.hit.ua
 :: c.imedia.cz
@@ -30931,7 +30828,6 @@ ff02::2 ip6-allrouters
 :: c.realtytrac.com
 :: c.rhapsody.com
 :: c.richmetrics.com
-:: c.rigelink.com
 :: c.riskified.com
 :: c.rmgserving.com
 :: c.sahcdn.com
@@ -30939,7 +30835,6 @@ ff02::2 ip6-allrouters
 :: c.sdkclick.com
 :: c.securepaths.com
 :: c.smartclick.net
-:: c.snnd.co
 :: c.socialannex.com
 :: c.spiegel.de
 :: c.statcounter.com
@@ -31204,7 +31099,6 @@ ff02::2 ip6-allrouters
 :: cache.addthiscdn.com
 :: cache.adfeedstrk.com
 :: cache.adnet-media.net
-:: cache.ads.kartu.lt
 :: cache.adviva.net
 :: cache.am
 :: cache.betweendigital.com
@@ -31244,6 +31138,8 @@ ff02::2 ip6-allrouters
 :: cadreon.s3.amazonaws.com
 :: cads.ch
 :: cadsabs.com
+:: cadsabz.com
+:: cadsans.com
 :: cadsatz.com
 :: cadsips.com
 :: cadsipz.com
@@ -31599,15 +31495,12 @@ ff02::2 ip6-allrouters
 :: cc.connextra.com
 :: cc.iwon.com
 :: cc.lbesec.com
-:: cc.naver.jp
 :: cc.simplereach.com
 :: cc.swiftype.com
 :: cc.zeit.de
 :: cc03-41cf-c2ea-3a84.reporo.net
-:: cc12797.counter.hackers.lv
 :: cc36qc.lero.worldkickboxingcommission.com
 :: cc54-ed21-fc7f-e519.reporo.net
-:: cc9905.counter.hackers.lv
 :: cca-fra2.rubiconproject.com
 :: cca-hkg1.rubiconproject.com
 :: cca-iad2.rubiconproject.com
@@ -31652,7 +31545,6 @@ ff02::2 ip6-allrouters
 :: cdd97o.blow.harrisretreat.com
 :: cddjdjwatndgja.com
 :: cdegnloptetj.com
-:: cdg-v4.pops.fastly-insights.com
 :: cdinflatables.com
 :: cdkxvrryzgd.com
 :: cdlc.iadvize.com
@@ -31777,7 +31669,6 @@ ff02::2 ip6-allrouters
 :: cdn.adsoptimal.com
 :: cdn.adspirit.de
 :: cdn.adsrvmedia.net
-:: cdn.adstract.com
 :: cdn.adswizz.com
 :: cdn.adswizz.com.edgesuite.net
 :: cdn.adtheorent.com
@@ -31956,7 +31847,6 @@ ff02::2 ip6-allrouters
 :: cdn.fastclick.net
 :: cdn.fastclick.net.956.9006.302br.net
 :: cdn.fastclick.net.958.9006.302br.net
-:: cdn.feeds.ibt.com
 :: cdn.feeds.videosz.com
 :: cdn.firstimpression.io
 :: cdn.firstlook.com
@@ -32014,9 +31904,7 @@ ff02::2 ip6-allrouters
 :: cdn.komoona.com
 :: cdn.krxd.net
 :: cdn.kuaidi100.com
-:: cdn.layer.com
 :: cdn.lentainform.com
-:: cdn.leon.ru
 :: cdn.lfstmedia.com
 :: cdn.libraries.inpwrd.com
 :: cdn.liftoff.io
@@ -32077,7 +31965,6 @@ ff02::2 ip6-allrouters
 :: cdn.onthe.io
 :: cdn.opensubcontent.com
 :: cdn.optimatic.com
-:: cdn.optimizely.com
 :: cdn.optmd.com
 :: cdn.orbengine.com
 :: cdn.otherlevels.com
@@ -32165,7 +32052,6 @@ ff02::2 ip6-allrouters
 :: cdn.total-media.net
 :: cdn.tracking.bannerflow.com
 :: cdn.trackjs.com
-:: cdn.tradelab.fr
 :: cdn.trafficexchangelist.com
 :: cdn.trafficforce.com
 :: cdn.traffichunt.com
@@ -32253,7 +32139,6 @@ ff02::2 ip6-allrouters
 :: cdn15.acloudimages.com
 :: cdn1b.adspace.porntube.com
 :: cdn1ht.traffichaus.com
-:: cdn1sitescout.edgesuite.net
 :: cdn2-analytics.ladmedia.fr
 :: cdn2-ref.landing.comcontent.net
 :: cdn2.ad-center.com
@@ -32305,7 +32190,6 @@ ff02::2 ip6-allrouters
 :: cdn5.onthe.io
 :: cdn5.psdvault.com
 :: cdn5.tribalfusion.com
-:: cdn6.admatic.com.tr
 :: cdn6.adspirit.de
 :: cdn6.bad-credit-cdn.com
 :: cdn6.deals-discounts-codes.com
@@ -32476,6 +32360,7 @@ ff02::2 ip6-allrouters
 :: cdslog.contextweb.com
 :: cdsusa.veinteractive.com
 :: cdu1um.beg.smalltailsbfr.com
+:: cdvjpzltcouxm.com
 :: cdvoqspgdp.com
 :: cdwqibctfz.com
 :: cdx.cedexis.com
@@ -32495,6 +32380,7 @@ ff02::2 ip6-allrouters
 :: cec-global.nielsen.com
 :: cecash.com
 :: ced.sascdn.com
+:: cedato.com
 :: cedcdoqkrjabs.com
 :: cedexis-dsa-eu.gccdn.net
 :: cedexis-radar.net
@@ -32552,6 +32438,7 @@ ff02::2 ip6-allrouters
 :: centerpointmedia.com
 :: centik.justclick.ru
 :: centinela.sofistic.net
+:: centlysheerf.info
 :: central.iprom.net
 :: centralad.com
 :: centralnervous.net
@@ -32782,7 +32669,6 @@ ff02::2 ip6-allrouters
 :: chgsupereight.112.2o7.net
 :: chgwyndham.112.2o7.net
 :: chi-only.outbrain.com
-:: chi-v4.pops.fastly-insights.com
 :: chi.outbrain.com
 :: chi2only.outbrain.com
 :: chiasephim.xyz
@@ -32837,9 +32723,9 @@ ff02::2 ip6-allrouters
 :: chronicads.com
 :: chronicleddxsilskp.download
 :: chrumedia.com
-:: chryslerjeepcom.mpeasylink.com
 :: chsplantsales.co.uk
 :: chtatic.appspot.com
+:: chufudsi.net
 :: chukalapopi.com
 :: chukalorqa.com
 :: chuknu.sokrati.com
@@ -32852,7 +32738,6 @@ ff02::2 ip6-allrouters
 :: ci.appboy.com
 :: ci.categoria.hpg.com.br
 :: ci.iasds01.com
-:: ci.nuggad.net
 :: ci.vungle.com
 :: ci22.actonsoftware.com
 :: ci23.actonsoftware.com
@@ -32990,7 +32875,6 @@ ff02::2 ip6-allrouters
 :: cklad.xyz
 :: cklu4.voluumtrk.com
 :: ckm-m.xp1.ru4.com
-:: ckm.iqiyi.com
 :: ckmap.adsame.com
 :: ckmap.mediav.com
 :: cknsoyunwrought.review
@@ -33086,7 +32970,6 @@ ff02::2 ip6-allrouters
 :: clic-exchange.com
 :: clic.grenads.com
 :: clic.reussissonsensemble.fr
-:: clic2pub.adk2x.com
 :: clic2pub.com
 :: click-123.com
 :: click-haproxy.supersonicads.com
@@ -33106,7 +32989,6 @@ ff02::2 ip6-allrouters
 :: click.adv.livedoor.com
 :: click.advertnative.com
 :: click.alibaba.com
-:: click.aliexpress.com
 :: click.appinthestore.com
 :: click.appservinc.com
 :: click.aristotle.net
@@ -33137,7 +33019,6 @@ ff02::2 ip6-allrouters
 :: click.holland-billing.com
 :: click.hotlog.ru
 :: click.howdoesin.net
-:: click.html.it
 :: click.hubspotanalytics.com
 :: click.icetraffic.com
 :: click.icptrack.com
@@ -33175,7 +33056,6 @@ ff02::2 ip6-allrouters
 :: click.safe-sender.co.uk
 :: click.scour.com
 :: click.searchnation.net
-:: click.sellmeyourtraffic.com
 :: click.sender.yandex.ru
 :: click.serve.adcenter.io
 :: click.sexmoney.com
@@ -33337,7 +33217,6 @@ ff02::2 ip6-allrouters
 :: clicks.aweber.com
 :: clicks.babylon-x.com
 :: clicks.bannerboxes.com
-:: clicks.beap.ad.yieldmanager.net
 :: clicks.beap.bc.yahoo.com
 :: clicks.dealer.com
 :: clicks.equantum.com
@@ -33353,7 +33232,6 @@ ff02::2 ip6-allrouters
 :: clicks.traffictrader.net
 :: clicks.virtuagirl.com
 :: clicks.walla.co.il
-:: clicks.weselltraffic.com
 :: clicks.whatifoffers.com
 :: clicks.zwaar.org
 :: clicks11.geoads.com
@@ -33566,6 +33444,8 @@ ff02::2 ip6-allrouters
 :: cloud-exploration.com
 :: cloud-graphql-live.us-east-1.elasticbeanstalk.com
 :: cloud-iq.com
+:: cloud-miner.de
+:: cloud-miner.eu
 :: cloud-observer.ip-label.net
 :: cloud-q.duba.net
 :: cloud-us.analytics-egain.com
@@ -33579,7 +33459,6 @@ ff02::2 ip6-allrouters
 :: cloud.gsdk.proximabeta.com
 :: cloud.insightera.com
 :: cloud.internetstores.com
-:: cloud.le.com
 :: cloud.video.unrulymedia.com
 :: cloud.xdrig.com
 :: cloud2.gsdk.proximabeta.com
@@ -33700,7 +33579,6 @@ ff02::2 ip6-allrouters
 :: cmelqqmywpmf.com
 :: cmfads.com
 :: cmgfeeds.cmgdigital.com
-:: cmh-v4.pops.fastly-insights.com
 :: cmhomlaipa.com
 :: cmi.netseer.com
 :: cmicapui.ce.gov.br
@@ -33729,7 +33607,6 @@ ff02::2 ip6-allrouters
 :: cms.abmr.net
 :: cms.ad2click.nl
 :: cms.analytics.yahoo.com
-:: cms.c1exchange.com
 :: cms.grandcloud.cn
 :: cms.lfstmedia.com
 :: cms.lv
@@ -33737,7 +33614,6 @@ ff02::2 ip6-allrouters
 :: cms.opendsp.tanx.com
 :: cms.quantserve.com
 :: cms.springboard.gorillanation.com
-:: cms.springboardplatform.com
 :: cms2.net
 :: cmstrendslog.indiatimes.com
 :: cmstrendslog.timesnow.tv
@@ -33926,7 +33802,6 @@ ff02::2 ip6-allrouters
 :: cogtree.com
 :: coguan.com
 :: coheredqdsurfq.download
-:: cohesionapps.com
 :: cohortdigital.go2cloud.org
 :: coiffedvsyitd.download
 :: coin-cube.com
@@ -33976,8 +33851,10 @@ ff02::2 ip6-allrouters
 :: collect.igodigital.com
 :: collect.iperceptions.com
 :: collect.m-pathy.com
+:: collect.media.jio.com
 :: collect.rewardstyle.com
 :: collect.tealiumiq.com
+:: collect.usefathom.com
 :: collect10059bltbg.deltadna.net
 :: collect10077vpspd.deltadna.net
 :: collect10083vpblt.deltadna.net
@@ -34437,7 +34314,6 @@ ff02::2 ip6-allrouters
 :: content-cdn.swrve.com
 :: content-cooperation.com
 :: content-square.net
-:: content-ssl.yieldmanager.com
 :: content.acc-hd.de
 :: content.ad
 :: content.ad20.net
@@ -34471,7 +34347,6 @@ ff02::2 ip6-allrouters
 :: content.quantcount.com
 :: content.quantserve.com
 :: content.rbc.medialand.ru
-:: content.rmxads.com
 :: content.sharethrough.com
 :: content.surpax.net
 :: content.taboola.com
@@ -34652,7 +34527,6 @@ ff02::2 ip6-allrouters
 :: coremetrics.com
 :: coremotives.com
 :: coretalk.co
-:: coriolis.accuweather.com
 :: corm.hit.gemius.pl
 :: cormast.com
 :: cornflip.com
@@ -34739,7 +34613,6 @@ ff02::2 ip6-allrouters
 :: count.windows9download.net
 :: count.yandeg.ru
 :: count1.51yes.com
-:: count1.compteur.fr
 :: count10.51yes.com
 :: count100.51yes.com
 :: count1000.51yes.com
@@ -35779,7 +35652,6 @@ ff02::2 ip6-allrouters
 :: counter.fc2.com
 :: counter.gamespy.com
 :: counter.gd
-:: counter.gemius.pl
 :: counter.goingup.com
 :: counter.gorodmsk.ru
 :: counter.hackers.lv
@@ -35837,7 +35709,6 @@ ff02::2 ip6-allrouters
 :: counter.spylog.com
 :: counter.star.lg.ua
 :: counter.superstats.com
-:: counter.theconversation.com
 :: counter.theconversation.edu.au
 :: counter.tldw.me
 :: counter.top.dkd.it
@@ -36046,7 +35917,6 @@ ff02::2 ip6-allrouters
 :: cpaaltima.go2cloud.org
 :: cpabeyond.com
 :: cpabrasil.go2cloud.org
-:: cpacampaigns.directtrack.com
 :: cpaclicks.com
 :: cpaclickz.com
 :: cpactions.com
@@ -36118,7 +35988,6 @@ ff02::2 ip6-allrouters
 :: cppnznmorh.com
 :: cpro.baidu.com
 :: cpro.baidustatic.com
-:: cpt-v4.pops.fastly-insights.com
 :: cptrack.de
 :: cpu.baidu.com
 :: cpu.samsungelectronics.com
@@ -36203,6 +36072,7 @@ ff02::2 ip6-allrouters
 :: crd1.bannerbank.ru
 :: creafi-online-media.com
 :: creafi.com
+:: creatchristorisalmos.info
 :: create.leadid.com
 :: create2fear.com
 :: createsend.com
@@ -36403,7 +36273,6 @@ ff02::2 ip6-allrouters
 :: cs.ns1p.net
 :: cs.sexcounter.com
 :: cs.yieldoptimizer.com
-:: cs1.adxpansion.com
 :: cs1.livetex.ru
 :: cs1.wpc.v0cdn.net
 :: cs10.livetex.ru
@@ -36427,7 +36296,6 @@ ff02::2 ip6-allrouters
 :: cs8.livetex.ru
 :: cs9.livetex.ru
 :: csbew.com
-:: csc.beap.ad.yieldmanager.net
 :: csc.beap.bc.yahoo.com
 :: csdata1.com
 :: csdzhoku.com
@@ -36627,7 +36495,6 @@ ff02::2 ip6-allrouters
 :: cw230.mta.exacttarget.com
 :: cw5jp.voluumtrk.com
 :: cwandzytnzplqn.com
-:: cwb-v4.pops.fastly-insights.com
 :: cwbbqhgtjbvtzi.com
 :: cwdvm.voluumtrk.com
 :: cwdwb.voluumtrk.com
@@ -36652,6 +36519,7 @@ ff02::2 ip6-allrouters
 :: cws-usw2.conviva.com
 :: cws.conviva.com
 :: cws.psccint.com
+:: cwsgwqbcdhtk.com
 :: cwsitetrack.com
 :: cwvdzcqvg.com
 :: cwvqtapvqbmxfd.com
@@ -36840,6 +36708,7 @@ ff02::2 ip6-allrouters
 :: d1054130-28095.cp.blacknight.com
 :: d10gj7yjsfriaj.cloudfront.net
 :: d10lpsik1i8c69.cloudfront.net
+:: d10lv7w3g0jvk9.cloudfront.net
 :: d1110e4.se
 :: d1171912.cp.blacknight.com
 :: d11a2fzhgzqe7i.cloudfront.net
@@ -36935,7 +36804,6 @@ ff02::2 ip6-allrouters
 :: d1zkodo2u3p4pe.cloudfront.net
 :: d2-apps.net
 :: d2.hadarone.com
-:: d2.shared.global.fastly.net
 :: d2.zedo.com
 :: d21aw2xov4zz0i.cloudfront.net
 :: d21j20wsoewvjq.cloudfront.net
@@ -36995,6 +36863,7 @@ ff02::2 ip6-allrouters
 :: d2hap2bsh1k9lw.cloudfront.net
 :: d2hvwfg7vv4mhf.cloudfront.net
 :: d2ibu2ug0mt5qp.cloudfront.net
+:: d2izls9pm2f64q.cloudfront.net
 :: d2kdl5wcwrtj90.cloudfront.net
 :: d2kr2fnkbj2h4c.cloudfront.net
 :: d2mic0r0bo3i6z.cloudfront.net
@@ -37061,6 +36930,7 @@ ff02::2 ip6-allrouters
 :: d34rdvn2ky3gnm.cloudfront.net
 :: d355vwft2pa8h6.cloudfront.net
 :: d359wjs9dpy12d.cloudfront.net
+:: d35u1vg1q28b3w.cloudfront.net
 :: d365portal-prod-sdk.akstd.azureedge.net
 :: d365portal-prod-sdk.azureedge.net
 :: d365prod-sdk.azureedge.net
@@ -37070,13 +36940,13 @@ ff02::2 ip6-allrouters
 :: d38pxm3dmrdu6d.cloudfront.net
 :: d38r21vtgndgb1.cloudfront.net
 :: d39xqloz8t5a6x.cloudfront.net
+:: d39yds8oe4n4jq.cloudfront.net
 :: d3a2okcloueqyx.cloudfront.net
 :: d3a42c7xs4vn3.cloudfront.net
 :: d3aa0ztdn3oibi.cloudfront.net
 :: d3ahinqqx1dy5v.cloudfront.net
 :: d3aiy6aqoa3ykz.cloudfront.net
 :: d3al52d8cojds7.cloudfront.net
-:: d3alqb8vzo7fun.cloudfront.net
 :: d3aq14vri881or.cloudfront.net
 :: d3b75cfc88a9.com
 :: d3cxv97fi8q177.cloudfront.net
@@ -37094,6 +36964,7 @@ ff02::2 ip6-allrouters
 :: d3hitamb7drqut.cloudfront.net
 :: d3hlizmpi4g3v9.cloudfront.net
 :: d3hmb5h5qngs7g.cloudfront.net
+:: d3hs51abvkuanv.cloudfront.net
 :: d3iouejux1os58.cloudfront.net
 :: d3jgr4uve1d188.cloudfront.net
 :: d3kkw-6ch3c.ads.tremorhub.com
@@ -37214,8 +37085,10 @@ ff02::2 ip6-allrouters
 :: dacknbenn.com
 :: dacounter.com
 :: dadi.technology
+:: dadsatz.com
 :: dadsecz.com
 :: dadsipz.com
+:: dadspms.com
 :: daea.ero-advertising.com
 :: daecan.xyz
 :: daethana.pw
@@ -37253,7 +37126,6 @@ ff02::2 ip6-allrouters
 :: daizoohu.net
 :: dajlkvplxyzbsa.com
 :: dakic-ia-300.com
-:: dal-v4.pops.fastly-insights.com
 :: dal2.voxcloud.cedexis.com
 :: dal9hkyfi0m0n.cloudfront.net
 :: daldt.adsafeprotected.com
@@ -37296,7 +37168,6 @@ ff02::2 ip6-allrouters
 :: darwarvid.com
 :: das5ku9q.com
 :: dasdk.luojilab.com
-:: daserste.ivwbox.de
 :: dasfdasfasdf.no-ip.info
 :: dash.applovin.com
 :: dash.parrable.com
@@ -37316,6 +37187,7 @@ ff02::2 ip6-allrouters
 :: dat2.ero-advertising.com
 :: data-analytics.jp
 :: data-data-vac.com
+:: data-dynamic.net
 :: data-ero-advertising.com
 :: data-eroadvertising.com
 :: data-id.ads.oppomobile.com
@@ -37347,7 +37219,6 @@ ff02::2 ip6-allrouters
 :: data.cpalead.com
 :: data.de.coremetrics.com
 :: data.econa.com
-:: data.emimino.cz
 :: data.ero-advertising.com
 :: data.flurry.com
 :: data.gametree.tw
@@ -37356,7 +37227,6 @@ ff02::2 ip6-allrouters
 :: data.imakenews.com
 :: data.initialcontroledge.info
 :: data.kamcord.com
-:: data.kataweb.it
 :: data.lavanetwork.net
 :: data.lockscalecompare.com
 :: data.logentries.com
@@ -37379,8 +37249,6 @@ ff02::2 ip6-allrouters
 :: data.sec.miui.com
 :: data.sharethis.com
 :: data.studybreakmedia.com
-:: data.video.qiyi.com
-:: data.vod.itc.cn
 :: data.vungle.com
 :: data.webads.co.nz
 :: data01.adlooxtracking.com
@@ -37650,7 +37518,6 @@ ff02::2 ip6-allrouters
 :: dc84.s290.meetrics.net
 :: dc8na2hxrj29i.cloudfront.net
 :: dc8xl0ndzn2cb.cloudfront.net
-:: dca-v4.pops.fastly-insights.com
 :: dcad.watersoul.com
 :: dcanscapital.co.uk
 :: dcapps.disney.go.com
@@ -37694,7 +37561,6 @@ ff02::2 ip6-allrouters
 :: dcs.netbiscuits.net
 :: dcs.plussizetech.com
 :: dcs.wtlive.com
-:: dcsmarketing.directtrack.com
 :: dcstest.wtlive.com
 :: dcvnupudgiest.review
 :: dcw.1592878.com
@@ -37738,7 +37604,6 @@ ff02::2 ip6-allrouters
 :: de.ads.justpremium.com
 :: de.adserver.yahoo.com
 :: de.advertising.yahoo.com
-:: de.as.pptv.com
 :: de.cb.b0.a1.top.mail.ru
 :: de.demdex.net
 :: de.grmtech.net
@@ -37975,7 +37840,6 @@ ff02::2 ip6-allrouters
 :: demos.zedo.com
 :: demotionstjjrntd.download
 :: demr.myspace.com
-:: den-v4.pops.fastly-insights.com
 :: den.greatchittorgarh.com
 :: dena-d.openx.net
 :: denakop.com
@@ -38059,7 +37923,6 @@ ff02::2 ip6-allrouters
 :: dev.findep.adnow.com
 :: dev.flurry.com
 :: dev.leanplum.com
-:: dev.media.adxpansion.com
 :: dev.mundomediainc.com
 :: dev.skyhookwireless.com
 :: dev.springboardplatform.com
@@ -38133,7 +37996,6 @@ ff02::2 ip6-allrouters
 :: dfpreports.doubleclick.net
 :: dfs.digitalaccess.ru
 :: dft.cl.dynad.net
-:: dfw-v4.pops.fastly-insights.com
 :: dfxvfkutloxnyl.com
 :: dfyudpyceqoy.com
 :: dg.specificclick.net
@@ -38151,6 +38013,7 @@ ff02::2 ip6-allrouters
 :: dgmsearchlab.com
 :: dgntransport.pl
 :: dgnuumyxpqiget.com
+:: dgoqeqfihs.com
 :: dgowzelhoaqqb.com
 :: dgqktjmxtlp.com
 :: dgrvnlhz.com
@@ -38266,6 +38129,7 @@ ff02::2 ip6-allrouters
 :: digiwebmarketing.go2cloud.org
 :: digiwebtracking.go2cloud.org
 :: dignow.org
+:: digyepnag.club
 :: dihgq.voluumtrk.com
 :: dihitt.com
 :: dijutbdzbv.com
@@ -38398,12 +38262,12 @@ ff02::2 ip6-allrouters
 :: distilled.ie
 :: distillery.wistia.com
 :: distiltag.com
+:: distinethout.info
 :: distortiveecynxpidy.download
 :: distractify-d.openx.net
 :: distralytics.com
 :: distrelec-02.webtrekk.net
 :: distribeo.com
-:: distributions-crashlytics-com.s3.amazonaws.com
 :: districtm-match.dotomi.com
 :: districtm.ca
 :: districtm.io
@@ -38416,6 +38280,7 @@ ff02::2 ip6-allrouters
 :: ditincoriligh.pro
 :: ditwrite.com
 :: divavillage.advertserve.com
+:: diveringecondsw.info
 :: diversifymarketing.go2cloud.org
 :: divine.lunarbreeze.com
 :: divolution.com
@@ -38433,6 +38298,7 @@ ff02::2 ip6-allrouters
 :: djagrjpaoek.com
 :: djax.com
 :: djdcjvivns.com
+:: djephnpzpjuvt.com
 :: djers.com
 :: djfiln.com
 :: djibeacon.djns.com
@@ -38460,6 +38326,7 @@ ff02::2 ip6-allrouters
 :: dk8u3.voluumtrk.com
 :: dkd69bwkvrht1.cloudfront.net
 :: dkdwv3lcby5zi.cloudfront.net
+:: dkecozphug.com
 :: dkfindnpdgac.com
 :: dkgitkwo.com
 :: dkj2m377b0yzw.cloudfront.net
@@ -38496,8 +38363,6 @@ ff02::2 ip6-allrouters
 :: dl392qndlveq0.cloudfront.net
 :: dlapf.voluumtrk.com
 :: dlawshsjupuyy.com
-:: dlb.g11.letvlb.com
-:: dlb2.g1.letvlb.com
 :: dlcgxmentykv.com
 :: dlfdvyfn.com
 :: dlgriyjm.com
@@ -38550,11 +38415,11 @@ ff02::2 ip6-allrouters
 :: dmkdtkad2jyb9.cloudfront.net
 :: dmm.tt.omtrdc.net
 :: dmnangpsbpm.com
+:: dmodernedindivin.info
 :: dmp.adblade.com
 :: dmp.adotmob.com
 :: dmp.aerserv.com
 :: dmp.delidatax.com
-:: dmp.eclick.vn
 :: dmp.gravity4.com
 :: dmp.ivitrack.com
 :: dmp.mall.tv
@@ -38718,6 +38583,7 @@ ff02::2 ip6-allrouters
 :: dot.eporner.com
 :: dot.wp.pl
 :: dot2.eporner.com
+:: dotaki.com
 :: dotandad.com
 :: dotandads.com
 :: dotcom-monitor.com
@@ -38792,7 +38658,6 @@ ff02::2 ip6-allrouters
 :: doublerecall.com
 :: doubleverify.com
 :: doubleviking.us.intellitxt.com
-:: doubleyourdating.directtrack.com
 :: doubooca.com
 :: doubtfulrainstorm.com
 :: doug1izaerwt3.cloudfront.net
@@ -39102,14 +38967,12 @@ ff02::2 ip6-allrouters
 :: du8783wkf05yr.cloudfront.net
 :: dualmarket.info
 :: dualstack.cloudinary.com
-:: dualstack.f2.shared.us-eu.fastly.net
 :: duamgurza.com
 :: duamuprs.com
 :: duapps-photos-adv.wshifen.com
 :: duapps.com
 :: duapps2.wshifen.com
 :: duappsrec.wshifen.com
-:: dub.answers.com
 :: dub.mobileads.msn.com
 :: duba.net
 :: dubester.pw
@@ -39349,10 +39212,8 @@ ff02::2 ip6-allrouters
 :: e.digitalnectar.co.uk
 :: e.domob.cn
 :: e.dtscout.com
-:: e.eclick.vn
 :: e.freewebhostingarea.com
 :: e.funnymel.com
-:: e.glbimg.com
 :: e.imguol.com
 :: e.invodo.com
 :: e.jp.miaozhen.com
@@ -39423,6 +39284,7 @@ ff02::2 ip6-allrouters
 :: e376ef28103177cc.com
 :: e3f364.r.axf8.net
 :: e3s5t5.nt.nativetrees.co.uk
+:: e3tmyc4rbs.com
 :: e46fa8d94b17745ac277-ae524ab82d83e9108c081b44b53c4ff2.r94.cf2.rackcdn.com
 :: e4sa0.voluumtrk.com
 :: e521d17fa185a2.com
@@ -39521,6 +39383,7 @@ ff02::2 ip6-allrouters
 :: easydownload4you.com
 :: easydownloadnow.com
 :: easyflirt-partners.biz
+:: easyhash.de
 :: easyhash.io
 :: easyhitcounters.com
 :: easyhits4u.com
@@ -40090,7 +39953,6 @@ ff02::2 ip6-allrouters
 :: emap.admedia.net
 :: emarbox.com
 :: emarketer.com
-:: emarketing.eclick.vn
 :: emarketing.ljhooker.com
 :: emarketing.rmauctions.com
 :: ematicsolutions.com
@@ -40379,6 +40241,7 @@ ff02::2 ip6-allrouters
 :: enzodpxuons.com
 :: enzxpkist.review
 :: eo0c1.voluumtrk.com
+:: eo62cocntx.com
 :: eofaplocyrcxhq.com
 :: eolcdn.com
 :: eoleb.voluumtrk.com
@@ -40464,7 +40327,6 @@ ff02::2 ip6-allrouters
 :: erberos.xyz
 :: erbjahuyn.com
 :: ercva.com
-:: erebor.douban.com
 :: eredexpendin.com
 :: eremedia.112.2o7.net
 :: erendri.com
@@ -40615,6 +40477,7 @@ ff02::2 ip6-allrouters
 :: estadisticasgratis.com
 :: estadisticasgratis.es
 :: estadonline.publiguias.cl
+:: estafair.com
 :: estara.com
 :: estat.chez.com
 :: estat.com
@@ -40735,15 +40598,12 @@ ff02::2 ip6-allrouters
 :: eu.cdn5.onthe.io
 :: eu.event.cmp.advertising.com
 :: eu.link.decideinteractive.com
-:: eu.nuggad.net
-:: eu.u.fastly-insights.com
 :: eu.vortex-win.data.microsoft.com
 :: eu.vortex.data.microsoft.com
 :: eu.webprodcdn.com
 :: eu.winninganswers.net
 :: eu.y.atwola.com
 :: eu0.content-serve.net
-:: eu1.heatmap.it
 :: eu1.madsone.com
 :: eu1.snoobi.com
 :: eu2.cleverreach.com
@@ -40853,7 +40713,6 @@ ff02::2 ip6-allrouters
 :: event.ihuman.com
 :: event.inner-active.mobi
 :: event.scorecardresearch.com
-:: event.spotxchange.com
 :: event.yoochoose.net
 :: event22.saas.seewhy.com
 :: event5.saas.seewhy.com
@@ -40993,7 +40852,6 @@ ff02::2 ip6-allrouters
 :: ewgnexykqnyoun.com
 :: ewlnukukkca.com
 :: ewordofmouth.com
-:: ewr-v4.pops.fastly-insights.com
 :: ewrdeqrktgcu.com
 :: ewrprod-rtbwin.applovin.com
 :: ewrstage-rtbwin.applovin.com
@@ -41071,9 +40929,11 @@ ff02::2 ip6-allrouters
 :: execulink.112.2o7.net
 :: execution-use.ci360.sas.com
 :: executivecoaching.co.il
+:: exelate.com
 :: exelator.com
 :: exfgumodulated.review
 :: exgf2f.mat.eveshamairporttaxis.co.uk
+:: exgkfejvm.com
 :: exit-ad.de
 :: exit.cellphonesglobal.com
 :: exit.doublepimp.com
@@ -41221,7 +41081,6 @@ ff02::2 ip6-allrouters
 :: ezanmedia.com
 :: ezbng.voluumtrk.com
 :: ezcybersearch.com
-:: eze-v4.pops.fastly-insights.com
 :: ezec.co.uk
 :: ezgds.112.2o7.net
 :: ezgswchaz.com
@@ -41265,7 +41124,6 @@ ff02::2 ip6-allrouters
 :: f.pinid.com
 :: f.rmgserving.com
 :: f.securelinkcorp.com
-:: f.ssl.fastly.net
 :: f.staticlp.com
 :: f.thanksearch.com
 :: f.tracking.goodgamestudios.com
@@ -41435,20 +41293,14 @@ ff02::2 ip6-allrouters
 :: fast-thinking.co.uk
 :: fast.a.klaviyo.com
 :: fast.accesstrade.com.vn
-:: fast.adobe.demdex.net
 :: fast.aexp.demdex.net
 :: fast.anz.demdex.net
 :: fast.appcues.com
-:: fast.bet.demdex.net
 :: fast.bostonglobe.demdex.net
 :: fast.cam.demdex.net
 :: fast.cbsi.demdex.net
 :: fast.choice.demdex.net
-:: fast.condenast.demdex.net
-:: fast.de.demdex.net
-:: fast.dm.demdex.net
 :: fast.ecs.demdex.net
-:: fast.everydayhealth.demdex.net
 :: fast.fairfax.demdex.net
 :: fast.fairfaxau.demdex.net
 :: fast.fedex.demdex.net
@@ -41458,18 +41310,13 @@ ff02::2 ip6-allrouters
 :: fast.foxnews.demdex.net
 :: fast.gannett.demdex.net
 :: fast.globo.demdex.net
-:: fast.gm.demdex.net
-:: fast.iyogi.demdex.net
 :: fast.lenovo.demdex.net
-:: fast.marthastewart.demdex.net
 :: fast.monster.demdex.net
 :: fast.mtvn.demdex.net
 :: fast.nbcots.demdex.net
 :: fast.nbcu.demdex.net
-:: fast.nfl.demdex.net
 :: fast.nrjgroup.demdex.net
 :: fast.philly.demdex.net
-:: fast.postmedia.demdex.net
 :: fast.px.demdex.net
 :: fast.qantas.demdex.net
 :: fast.rbi.demdex.net
@@ -41478,10 +41325,7 @@ ff02::2 ip6-allrouters
 :: fast.sears.demdex.net
 :: fast.swa.demdex.net
 :: fast.td.demdex.net
-:: fast.telstra.demdex.net
 :: fast.timeinc.demdex.net
-:: fast.torontostar.demdex.net
-:: fast.twc.demdex.net
 :: fast2earn.com
 :: fastad.beepworld.de
 :: fastads.swiftnews.com
@@ -41596,6 +41440,7 @@ ff02::2 ip6-allrouters
 :: fdfrbyxylhgii.com
 :: fdimages.fairfax.com.au
 :: fdkevkzm.com
+:: fdofosytszg.com
 :: fdp5y.voluumtrk.com
 :: fdpdq4.gow.englishwoodlands.co.uk
 :: fdplttrk.com
@@ -41664,11 +41509,11 @@ ff02::2 ip6-allrouters
 :: feeds.tubecontext.com
 :: feeds.videosz.com
 :: feeds.webtrekk.com
-:: feeds.weselltraffic.com
 :: feeds.wise-click.com
 :: feedshare.flipora.com
 :: feedsweep.us.intellitxt.com
 :: feegozoa.com
+:: feelophe.net
 :: feesocrald.com
 :: feewoajy.net
 :: fegariesupzxx.download
@@ -41734,7 +41579,6 @@ ff02::2 ip6-allrouters
 :: ffpfouh.kidsgotrhythm.com
 :: ffpnlrnmfyeqx.com
 :: ffqpdpezdmnpb.com
-:: fftf-host-counter.herokuapp.com
 :: fftf-ips.heroku.com
 :: ffwlbiabff.com
 :: ffwnxfezobeoi.com
@@ -41937,8 +41781,8 @@ ff02::2 ip6-allrouters
 :: fjhtp.voluumtrk.com
 :: fjlhf.voluumtrk.com
 :: fjm0v.voluumtrk.com
+:: fjmsdaswvhktht.com
 :: fjocjdbo.com
-:: fjr-v4.pops.fastly-insights.com
 :: fjrkn.com
 :: fjszsffyfihqlg.com
 :: fjwagiuqmeymw.com
@@ -42015,6 +41859,7 @@ ff02::2 ip6-allrouters
 :: flex.msn.com
 :: flexbanner.com
 :: flexbeta.us.intellitxt.com
+:: flexknfp.com
 :: flexlinks.com
 :: flexoffers.com
 :: flgstgrcwapk.com
@@ -42122,6 +41967,7 @@ ff02::2 ip6-allrouters
 :: fnkyyrgraizy.com
 :: fnmubgld.com
 :: fnprtscsvux.com
+:: fnrqbhhyff.com
 :: fnuuhrhfkvpbnm.com
 :: fnyhewjd.com
 :: fnytdllpzdv.com
@@ -42291,6 +42137,7 @@ ff02::2 ip6-allrouters
 :: foxy.track4.com
 :: foy4a.trackvoluum.com
 :: foy4a.voluumtrk.com
+:: foydnzdtjcjg.com
 :: fozdw.voluumtrk.com
 :: fozq2q.shet.eveshamairporttransfers.co.uk
 :: fp.buy.com
@@ -42349,7 +42196,6 @@ ff02::2 ip6-allrouters
 :: fr.nedstat.net
 :: fr.sitestat.com
 :: fr.slidein.clickintext.net
-:: fra-v4.pops.fastly-insights.com
 :: fra1-mobile.adnxs.com
 :: fra1.ib.adnxs.com
 :: fra1.ipromote.com
@@ -42859,6 +42705,7 @@ ff02::2 ip6-allrouters
 :: fraisenyvno.download
 :: frame.appsgeyser.com
 :: frame.deployads.com
+:: framentyder.pro
 :: frameptp.com
 :: france.bpath.com
 :: frankfacederichavinger.buttclap.com
@@ -42884,7 +42731,6 @@ ff02::2 ip6-allrouters
 :: free-stats.i8.com
 :: free-website-hit-counters.com
 :: free-website-statistics.com
-:: free.adultcomix.biz
 :: free.aol.com
 :: free.atdmt.com
 :: free.cartoonpornguide.com
@@ -42901,7 +42747,6 @@ ff02::2 ip6-allrouters
 :: freebiesfrenzy.go2cloud.org
 :: freebiesurveys.com
 :: freebloghitcounter.com
-:: freecast.ivwbox.de
 :: freecelebvideo.net
 :: freecharge.demdex.net
 :: freecodecs.us.intellitxt.com
@@ -43064,6 +42909,7 @@ ff02::2 ip6-allrouters
 :: ftdcseuvlmfp.com
 :: ftdspjxhcufui.com
 :: ftebd.voluumtrk.com
+:: ftigken.online
 :: ftjcfx.com
 :: ftp.123banners.com
 :: ftp.admex.com
@@ -43090,7 +42936,6 @@ ff02::2 ip6-allrouters
 :: ftvwoljibdwd.com
 :: ftxekufylzqis.com
 :: ftxmicgc.com
-:: fty-v4.pops.fastly-insights.com
 :: ftymzxmic.com
 :: ftz.io
 :: fu-1d3645db85.upalytics.com
@@ -43117,6 +42962,7 @@ ff02::2 ip6-allrouters
 :: fuelx.com
 :: fugetech.com
 :: fugger.ipage.com
+:: fugqzoijct.com
 :: fuialqqq.com
 :: fukbyehdjdf.com
 :: fukkzdxfyrchhc.com
@@ -43171,7 +43017,6 @@ ff02::2 ip6-allrouters
 :: future-price.co.uk
 :: future.grapeshot.co.uk
 :: futurebazaar.go2cloud.org
-:: futurelooks.us.intellitxt.com
 :: futurenet.com
 :: futurepay.globway.eu
 :: futurepublications.uk.intellitxt.com
@@ -43218,7 +43063,6 @@ ff02::2 ip6-allrouters
 :: fwcs01.casalemedia.com
 :: fwdservice.com
 :: fwdssp.com
-:: fwg0b0sfig.s.ad6media.fr
 :: fwmrm.net
 :: fwocy.voluumtrk.com
 :: fwpgw1.surf-town.net
@@ -43293,7 +43137,6 @@ ff02::2 ip6-allrouters
 :: g-pixel.invitemedia.com
 :: g-statistic.com
 :: g-stats.openhost.es
-:: g.163.com
 :: g.3gl.net
 :: g.admedia.com
 :: g.adnxs.com
@@ -43307,7 +43150,6 @@ ff02::2 ip6-allrouters
 :: g.delivery.net
 :: g.doubleclick.net
 :: g.dyntrk.com
-:: g.eclick.vn
 :: g.fotoable.com
 :: g.gop1.co
 :: g.gridsum.com
@@ -43327,7 +43169,6 @@ ff02::2 ip6-allrouters
 :: g.zeroredirect2.com
 :: g0.doubleclick.net
 :: g0ffs.voluumtrk.com
-:: g1.163.com
 :: g1.ads.oppomobile.com
 :: g1.doubleclick.net
 :: g1.v.fwmrm.net
@@ -43340,7 +43181,6 @@ ff02::2 ip6-allrouters
 :: g1xd.mediav.com
 :: g2.doubleclick.net
 :: g2.gumgum.com
-:: g2.us.intellitxt.com
 :: g2247755016.com
 :: g22rbb7.com
 :: g2440001011.com
@@ -43360,7 +43200,6 @@ ff02::2 ip6-allrouters
 :: g39yz.voluumtrk.com
 :: g3j2wzmon8b.com
 :: g3wqaj.jik.thetreecentre.com
-:: g4.us.intellitxt.com
 :: g4058683381.com
 :: g4p.redtram.com
 :: g4pytz.beg.smalltailsbfr.com
@@ -43381,7 +43220,6 @@ ff02::2 ip6-allrouters
 :: gabe.hit.gemius.pl
 :: gabg.hit.gemius.pl
 :: gabia.com
-:: gabsmash.us.intellitxt.com
 :: gaby.hit.gemius.pl
 :: gacela.eu
 :: gacz.hit.gemius.pl
@@ -43437,7 +43275,6 @@ ff02::2 ip6-allrouters
 :: game-clicks.com
 :: game.idoing3d.com
 :: game.immomo.com
-:: game.weibo.cn
 :: game.weibo.com
 :: game4mobile.hayday.mobi
 :: gameads-admin.applifier.com
@@ -43447,7 +43284,6 @@ ff02::2 ip6-allrouters
 :: gameanalysis.appcpi.net
 :: gameanalysis.chartboosts.com
 :: gameanalytics.com
-:: gameboost.cafe24.com
 :: gamebooster.lionmobi.com
 :: gameboy.ign.us.intellitxt.com
 :: gamecetera.com
@@ -43466,7 +43302,6 @@ ff02::2 ip6-allrouters
 :: gamesites100.net
 :: gamesites200.com
 :: gamesitestop100.com
-:: gamesradar.us.intellitxt.com
 :: gamesrevenue.com
 :: gamevance.com
 :: gamingblast.com
@@ -43545,7 +43380,6 @@ ff02::2 ip6-allrouters
 :: gazeta.adfox.ru
 :: gazeta.hit.gemius.pl
 :: gazukakdlk.com
-:: gazzetta.adman.gr
 :: gazzz.survey7.adsservingtwig.xyz
 :: gb-d.openx.net
 :: gb-gmtdmp.mookie1.com
@@ -43553,8 +43387,6 @@ ff02::2 ip6-allrouters
 :: gb0qw.voluumtrk.com
 :: gb0rd.com
 :: gbadxrtb.lfstmedia.com
-:: gbanners.hornymatches.com
-:: gbimagecdn.cafe24.com
 :: gbjfc.rsvpgenius.com
 :: gbk-d.openx.net
 :: gblcdn.com
@@ -43873,6 +43705,7 @@ ff02::2 ip6-allrouters
 :: geoservice.curse.com
 :: geoshopping.nzherald.co.nz
 :: geosign.112.2o7.net
+:: geotargetly-1a441.appspot.com
 :: geoup.com
 :: geovisite.com
 :: geovisites.com
@@ -43917,6 +43750,7 @@ ff02::2 ip6-allrouters
 :: getfreebl.com
 :: getgamers.eu
 :: getglasses-com-au.b.appier.net
+:: getintent.com
 :: getiton.com
 :: getlinksinaseconds.com
 :: getmailcounter.com
@@ -43945,6 +43779,7 @@ ff02::2 ip6-allrouters
 :: geusihivdqkwzf.com
 :: geverons.justclick.ru
 :: gevfh.voluumtrk2.com
+:: gexampletebaptin.info
 :: gez.io
 :: gezaehlt.de
 :: gf.umenglog.com
@@ -43998,7 +43833,6 @@ ff02::2 ip6-allrouters
 :: ghkbid.adview.com
 :: ghkhvajwsiy.com
 :: ghkihfwfxb.com
-:: ghm_bulgaria.hit.gemius.pl
 :: ghmbg.hit.gemius.pl
 :: ghmhu.hit.gemius.pl
 :: ghmme.hit.gemius.pl
@@ -44028,7 +43862,6 @@ ff02::2 ip6-allrouters
 :: giftscom.122.2o7.net
 :: gifttracker.com
 :: gifttree.track4.com
-:: gig-v4.pops.fastly-insights.com
 :: giga-abs.de
 :: gigaads.xyz
 :: gigamega.su
@@ -44056,6 +43889,7 @@ ff02::2 ip6-allrouters
 :: girthingbeypvmxb.download
 :: gisiwdcqte.com
 :: gitgrub.pro
+:: gitishcreasu.info
 :: giveaboost.go2cloud.org
 :: givemeb33f.com
 :: givemeburg3r.com
@@ -44131,6 +43965,7 @@ ff02::2 ip6-allrouters
 :: glbgcl.logsss.com
 :: glbsuoebquueky.com
 :: glbtracker.com
+:: gld35wndkn.com
 :: gleaminist.info
 :: glean.pop6.com
 :: gleebsex.net
@@ -44220,6 +44055,7 @@ ff02::2 ip6-allrouters
 :: glxfls.com
 :: glynzumin.pw
 :: glzaaewyvdkae.com
+:: gm-it.consulting
 :: gm.demdex.net
 :: gm.mmstat.com
 :: gm.touchclarity.com
@@ -44311,7 +44147,6 @@ ff02::2 ip6-allrouters
 :: go.clktrkd.com
 :: go.conversantmedia.com
 :: go.coxds.com
-:: go.cz.bbelements.com
 :: go.deliverymodo.com
 :: go.doupat.xyz
 :: go.eu.bbelements.com
@@ -44383,6 +44218,7 @@ ff02::2 ip6-allrouters
 :: go2.adversal.com
 :: go2.trekaklik.com
 :: go2affise.com
+:: go2app.org
 :: go2cloud.org
 :: go2funz.com
 :: go2jump.org
@@ -44529,7 +44365,6 @@ ff02::2 ip6-allrouters
 :: gostats.ro
 :: gostats.ru
 :: gostats.vn
-:: gotagy.adk2x.com
 :: gotagy.com
 :: gothamads.com
 :: gotlaughs.com
@@ -44564,7 +44399,6 @@ ff02::2 ip6-allrouters
 :: goyetteconnelly.bid
 :: goywt.voluumtrk.com
 :: gozilla.com
-:: gozing.directtrack.com
 :: gp.dejanews.com
 :: gpaper104.112.2o7.net
 :: gpaper105.112.2o7.net
@@ -44749,7 +44583,6 @@ ff02::2 ip6-allrouters
 :: graphics8.nytimes.m7z.net
 :: graphinsider.com
 :: graphli.net
-:: graphql.groovehq.com
 :: graphs.amung.us
 :: graptolitezcmxrfe.download
 :: graqvk.beg.smalltailsbfr.com
@@ -44842,7 +44675,7 @@ ff02::2 ip6-allrouters
 :: grtb-sc.lfstmedia.com
 :: grtbzrsndrrtsb.com
 :: grtyj.com
-:: gru-v4.pops.fastly-insights.com
+:: gruglooh.net
 :: grumpyadzen.com
 :: grumrt.com
 :: grunerandjahr.112.2o7.net
@@ -44883,7 +44716,6 @@ ff02::2 ip6-allrouters
 :: gsmtop.net
 :: gsorbs.blow.harrisretreat.com
 :: gsp1.baidu.com
-:: gspro.adocean.pl
 :: gspro.hit.gemius.pl
 :: gsspat.jp
 :: gsspcln.jp
@@ -45031,6 +44863,7 @@ ff02::2 ip6-allrouters
 :: gwa.lphbs.com
 :: gwa.reedbusiness.net
 :: gwallet.com
+:: gwashiondevelhig.info
 :: gwb.lphbs.com
 :: gwc.lphbs.com
 :: gwd.lphbs.com
@@ -45104,13 +44937,10 @@ ff02::2 ip6-allrouters
 :: h.scorecardresearch.com
 :: h.spill.com
 :: h.verticalscope.com
-:: h.waudit.cz
 :: h.zedo.com
 :: h.zeroredirect.com
 :: h.zeroredirect1.com
 :: h.zeroredirect2.com
-:: h06.hotrank.com.tw
-:: h1.fastlyanalytics.map.fastly.net
 :: h1.flashvortex.com
 :: h1.msn.com
 :: h12-media.com
@@ -45127,11 +44957,13 @@ ff02::2 ip6-allrouters
 :: h83zvgrg29.com
 :: h8lku.voluumtrk.com
 :: h8vzwpv.com
+:: h92zbpn4zcv1.com
 :: h9diz.voluumtrk.com
 :: ha-api.pushwoosh.com
 :: ha-askfm.pushwoosh.com
 :: ha.pushwoosh.com
 :: haaretz.pushwoosh.com
+:: haashbjfw.com
 :: hab3n.trackvoluum.com
 :: habdhuhuzi.com
 :: habilatoryphyjf.download
@@ -45372,6 +45204,7 @@ ff02::2 ip6-allrouters
 :: hebdotop.com
 :: hebiichigo.com
 :: heckhaphanofres.info
+:: hedlimitatelearlyb.info
 :: hedtgodingsincy.info
 :: heeevykjhujfy.com
 :: hefgfqcyfmv.com
@@ -45387,7 +45220,6 @@ ff02::2 ip6-allrouters
 :: heise02.webtrekk.net
 :: heisebanner.geizhals.at
 :: hekng.voluumtrk.com
-:: hel-v4.pops.fastly-insights.com
 :: held.jmp9.com
 :: helesouurusa.cjb.com
 :: helingoneheckhes.pro
@@ -45444,7 +45276,6 @@ ff02::2 ip6-allrouters
 :: hertforthatharrigh.pro
 :: hertz.122.2o7.net
 :: hetchi.com
-:: heute.ivwbox.de
 :: hexacash.com
 :: hexadl.line55.net
 :: hexagon-analytics.com
@@ -45499,7 +45330,6 @@ ff02::2 ip6-allrouters
 :: hhioj.voluumtrk.com
 :: hhleomgyiruth.com
 :: hhlrnfmn.com
-:: hhn-v4.pops.fastly-insights.com
 :: hhrxmgaepe.com
 :: hi.hellobar.com
 :: hiadone.com
@@ -45561,7 +45391,6 @@ ff02::2 ip6-allrouters
 :: hisnakiamotors.122.2o7.net
 :: hisoupocdted.com
 :: histats.com
-:: histats2014.simply-webspace.it
 :: histock.info
 :: historicalbeam.com
 :: historicalrequest.com
@@ -45701,10 +45530,8 @@ ff02::2 ip6-allrouters
 :: hitwastedgarden.com
 :: hitweb.org
 :: hitweb2.chosun.com
-:: hitwebcentre.lycos.co.uk
 :: hitwebcounter.com
 :: hitx.net
-:: hitx.waudit.cz
 :: hiug862dj0.com
 :: hive-d.openx.net
 :: hivps.xyz
@@ -45712,6 +45539,7 @@ ff02::2 ip6-allrouters
 :: hiwtotxepiaogu.com
 :: hixpfhoon.com
 :: hj.flxpxl.com
+:: hjagjopxzz.com
 :: hjapa.voluumtrk.com
 :: hjbfpopj.com
 :: hjchung.myweb.hinet.net
@@ -45810,8 +45638,6 @@ ff02::2 ip6-allrouters
 :: hkbj.biddingx.com
 :: hkdjrnkjwtqo.com
 :: hkdsp-ali.mobvista.com
-:: hkg-v4.pops.fastly-insights.com
-:: hkg1.aastocks.com
 :: hkgprod-rtbwin.applovin.com
 :: hkhotpewfxr.com
 :: hkjhwrhogwash.review
@@ -45822,7 +45648,6 @@ ff02::2 ip6-allrouters
 :: hkqhuilqnu.com
 :: hkwzswzf.com
 :: hlads.com
-:: hlamedia.adk2x.com
 :: hld.jmp9.com
 :: hldsogaxfq.com
 :: hlfjgurbaln.com
@@ -45862,7 +45687,6 @@ ff02::2 ip6-allrouters
 :: hn.inspectlet.com
 :: hn4tyw.becks.petboutiquepawsnclaws.co.uk
 :: hnbutton.appspot.com
-:: hnd-v4.pops.fastly-insights.com
 :: hnf829.onl.onlinetrees.co.uk
 :: hngn.com.us.intellitxt.com
 :: hnhsvlswqtoxgn.com
@@ -45878,6 +45702,7 @@ ff02::2 ip6-allrouters
 :: hntxitqhto.com
 :: ho-openx.ha.rs
 :: hoag.iad.appboy.com
+:: hoawhaum.net
 :: hoawy.frost-electric-supply.com
 :: hobbat.fvds.ru
 :: hobbes.blueoxtech.com
@@ -45992,7 +45817,6 @@ ff02::2 ip6-allrouters
 :: hortestoz.com
 :: horvmygebyg.com
 :: horyzon-media.com
-:: hos1.cnzz.com
 :: hosoojat.net
 :: hospitality-optimizer.com
 :: host-host-ads.com
@@ -46152,7 +45976,6 @@ ff02::2 ip6-allrouters
 :: hrtye.com
 :: hrukxtcqmosaics.review
 :: hs-analytics.net
-:: hs-scripts.com
 :: hs-sites.com
 :: hs.interpolls.com
 :: hs4rs.voluumtrk.com
@@ -46260,7 +46083,6 @@ ff02::2 ip6-allrouters
 :: hub.appsflyer.com
 :: hub.com.pl
 :: hubahczah.com
-:: hubble.tmmp.io
 :: hubert.iad-03.braze.com
 :: hubpd.com
 :: hubrus.com
@@ -46405,19 +46227,14 @@ ff02::2 ip6-allrouters
 :: hz.mmstat.com
 :: hz7.de
 :: hzcrhwmi.com
-:: hzs1.cnzz.com
-:: hzs10.cnzz.com
-:: hzs13.cnzz.com
-:: hzs15.cnzz.com
-:: hzs2.cnzz.com
-:: hzs22.cnzz.com
-:: hzs4.cnzz.com
-:: hzs8.cnzz.com
+:: hzlewuunwm.com
+:: hzlsghfoqsvawe.com
 :: hzskbnafzwsu.com
 :: hztjenzlrrwinq.com
 :: hzvtbypisdeejays.review
 :: hzwmcqlmxpdrlp.com
 :: hzyxmywj.com
+:: hzzmoouuqb.com
 :: i-bl6p-cor001.api.p001.1drv.com
 :: i-bl6p-cor002.api.p001.1drv.com
 :: i-bn3p-cor001.api.p001.1drv.com
@@ -46467,10 +46284,8 @@ ff02::2 ip6-allrouters
 :: i.ctnsnet.com
 :: i.exclusivegiftcards.com
 :: i.flowgo.com
-:: i.glbimg.com
 :: i.goadservices.com
 :: i.gridsumdissector.com
-:: i.groovehq.com
 :: i.icomoon.io
 :: i.idio.co
 :: i.idownloadgalore.com
@@ -46484,9 +46299,7 @@ ff02::2 ip6-allrouters
 :: i.l.inmobicdn.cn
 :: i.l.inmobicdn.net
 :: i.l.networld.hk
-:: i.le.com
 :: i.ligatus.com
-:: i.marketing01.email-allstate.com
 :: i.mixadvert.com
 :: i.mobilefuse.com
 :: i.mxplayer.j2inter.com
@@ -46613,10 +46426,8 @@ ff02::2 ip6-allrouters
 :: iad-2.go.sonobi.com
 :: iad-login.dotomi.com
 :: iad-usadmm.dotomi.com
-:: iad-v4.pops.fastly-insights.com
 :: iad.anm.co.uk
 :: iad.appboy.com
-:: iad.eclick.vn
 :: iad.g.163.com
 :: iad01-login-ds.dotomi.com
 :: iad01-login.dotomi.com
@@ -46695,7 +46506,6 @@ ff02::2 ip6-allrouters
 :: iads.com.np
 :: iadsdk.apple.com
 :: iafqqcsw.com
-:: iah-v4.pops.fastly-insights.com
 :: ialchemnteryield.jmp9.com
 :: ialchemynteryield.jmp9.com
 :: ialchenteryield.jmp9.com
@@ -46831,8 +46641,6 @@ ff02::2 ip6-allrouters
 :: id.cxense.com
 :: id.get35.com
 :: id.google.com
-:: id.google.de
-:: id.kbmg.cz
 :: id.tinypass.com
 :: id.tynt.com
 :: id1.cn
@@ -46858,6 +46666,7 @@ ff02::2 ip6-allrouters
 :: ideoclick.com
 :: ideprjebdvj.com
 :: idernzastoeok.com
+:: idezofimc.com
 :: idg.amp.permutive.com
 :: idg.dmdelivery.com
 :: idg.hit.gemius.pl
@@ -47139,10 +46948,8 @@ ff02::2 ip6-allrouters
 :: imageads.canoe.ca
 :: imageads.sexmoney.com
 :: imageadvantage.net
-:: imagec05.247realmedia.com
 :: imagec07.247realmedia.com
 :: imagec08.247realmedia.com
-:: imagec09.247realmedia.com
 :: imagec10.247realmedia.com
 :: imagec11.247realmedia.com
 :: imagec12.247realmedia.com
@@ -47151,7 +46958,6 @@ ff02::2 ip6-allrouters
 :: imagec16.247realmedia.com
 :: imagec17.247realmedia.com
 :: imagecache.allposters.com
-:: imagecache.directtrack.com
 :: imagecache2.allposters.com
 :: imagecash.net
 :: imagecdn.infospace.com
@@ -47222,7 +47028,6 @@ ff02::2 ip6-allrouters
 :: images.informatm.com
 :: images.intellitxt.com
 :: images.kolmic.com
-:: images.leon.ru
 :: images.livejasmin.com
 :: images.lookwhatworks.com
 :: images.m0.net
@@ -47236,11 +47041,9 @@ ff02::2 ip6-allrouters
 :: images.netradio.nl
 :: images.nuviad.com
 :: images.outbrain.com
-:: images.parked.com
 :: images.paypal.com
 :: images.people2people.com
 :: images.performgroup.com
-:: images.primaryads.com
 :: images.quitnet.com
 :: images.rambler.ru
 :: images.resellerratings.com
@@ -47248,7 +47051,6 @@ ff02::2 ip6-allrouters
 :: images.revtrax.com
 :: images.sexkey.com
 :: images.sexlist.com
-:: images.skenzo.com
 :: images.specificclick.net
 :: images.speedbit.com
 :: images.startappexchange.com
@@ -47262,7 +47064,6 @@ ff02::2 ip6-allrouters
 :: images.vantagenet.com
 :: images.viglink.com
 :: images.webads.co.uk
-:: images.webads.it
 :: images.webads.nl
 :: images02.netaddress.usa.net
 :: images1.cliqueclack.com
@@ -47324,7 +47125,6 @@ ff02::2 ip6-allrouters
 :: img.adecorp.co.kr
 :: img.adkmob.com
 :: img.admaster.net
-:: img.adnet.com.tr
 :: img.adplan-ds.com
 :: img.adpublisher.com
 :: img.ads.huntmad.com
@@ -47411,7 +47211,6 @@ ff02::2 ip6-allrouters
 :: img.sedoparking.com
 :: img.servint.net
 :: img.share-online.biz
-:: img.skenzo.com
 :: img.solocpm.com
 :: img.ssl.msdk.qq.com
 :: img.stamps.com
@@ -47425,7 +47224,6 @@ ff02::2 ip6-allrouters
 :: img.turn.com.73892.9624.302br.net
 :: img.turn.com.73893.9624.302br.net
 :: img.users.51.la
-:: img.vietnamnetad.vn
 :: img.vmmpxl.com
 :: img.vrvm.com
 :: img.webring.com
@@ -47453,7 +47251,6 @@ ff02::2 ip6-allrouters
 :: img06.en25.com
 :: img06.webtrekk.net
 :: img07.en25.com
-:: img1.126.net
 :: img1.ncsreporting.com
 :: img1.nend.net
 :: img1.webring.com
@@ -47614,6 +47411,7 @@ ff02::2 ip6-allrouters
 :: impression.taptica.com
 :: impressiondesk.com
 :: impressionmedia.cz
+:: impressionmonster.com
 :: impressionperformance.biz
 :: impressionz.co.uk
 :: impressoras-cartoes.com.pt
@@ -47789,7 +47587,6 @@ ff02::2 ip6-allrouters
 :: influid.co
 :: info-images.rambler.ru
 :: info-mail.codeguard.com
-:: info.a7.org
 :: info.adacado.com
 :: info.adspruce.com
 :: info.amplitude.com
@@ -47901,7 +47698,6 @@ ff02::2 ip6-allrouters
 :: innovaimpresa.site90.net
 :: innovateads.com
 :: innovid.com
-:: ino.directtrack.com
 :: inpagepush.com
 :: inpencil.go2cloud.org
 :: inpencilmedia.go2cloud.org
@@ -47952,7 +47748,6 @@ ff02::2 ip6-allrouters
 :: insights.samsung.com
 :: insights.sitesearch360.com
 :: insights.swrve.com
-:: insights.uk1.aconex.co.uk
 :: insightsprod.zelfy.com
 :: insigit.com
 :: insitemetrics.com
@@ -48003,7 +47798,6 @@ ff02::2 ip6-allrouters
 :: insurancejournal.freestats.com
 :: int.sitestat.com
 :: intab.site
-:: intactro.adocean.pl
 :: intake.factual.com
 :: intangibleconcordant.com
 :: intares.net
@@ -48121,7 +47915,6 @@ ff02::2 ip6-allrouters
 :: intext.ero-advertising.com
 :: intext.intextdirect.com
 :: intext.linknavi1.com
-:: intext.lookit.cz
 :: intext.nav-links.com
 :: intextad.net
 :: intextdirect.com
@@ -48166,7 +47959,6 @@ ff02::2 ip6-allrouters
 :: investora.justclick.ru
 :: investoradbg.hit.gemius.pl
 :: investorbg.adocean.pl
-:: investors.fyber.com
 :: invideo.ero-advertising.com
 :: invisioncloudstats.com
 :: invitation.opinionbar.com
@@ -48229,6 +48021,7 @@ ff02::2 ip6-allrouters
 :: iotapi.adups.com
 :: iotechnologies.com
 :: ioujbpldicfgm.com
+:: iouxtayinkmu.com
 :: iownit.optimizely.com
 :: iozpujvmlojzhp.com
 :: iozsmwjezobro.com
@@ -48457,13 +48250,13 @@ ff02::2 ip6-allrouters
 :: ithyk.frenchgerlemanelectric.com
 :: itim.vn
 :: itlmnxlauah.com
-:: itm-v4.pops.fastly-insights.com
 :: itm.ivitrack.com
 :: itmcash.com
 :: itmedia.122.2o7.net
 :: itnteryield.jmp9.com
 :: itop.cz
 :: itpaystolearn.com
+:: itpchjbr.com
 :: itpro.no.intellitxt.com
 :: itpro.uk.intellitxt.com
 :: itrac.it
@@ -48768,6 +48561,7 @@ ff02::2 ip6-allrouters
 :: jebtrack.com
 :: jecbbkrnfn.com
 :: jeckethemarbut.net
+:: jeclittrecheckrep.info
 :: jeegopte.com
 :: jeeh7eet.com
 :: jeekeglu.net
@@ -48792,6 +48586,7 @@ ff02::2 ip6-allrouters
 :: jetbluecom2.112.2o7.net
 :: jetbluepkgcs.112.2o7.net
 :: jetenglish.justclick.ru
+:: jetmhrcy.com
 :: jetmultimedia1.audientia.net
 :: jettags.rocks
 :: jetzt.digidip.net
@@ -48803,11 +48598,11 @@ ff02::2 ip6-allrouters
 :: jf71qh5v14.com
 :: jfduv7.com
 :: jffdktcyr.com
+:: jffoydsb.com
 :: jfgbdjhyc.com
 :: jfgvtdcgomvmwv.com
 :: jfhjh.voluumtrk.com
 :: jfjuhxfllw.com
-:: jfk-v4.pops.fastly-insights.com
 :: jfnafbcysy.com
 :: jfvadxjr.com
 :: jfvjtudp.com
@@ -48861,13 +48656,16 @@ ff02::2 ip6-allrouters
 :: jinfrfimajr.com
 :: jingavot.com
 :: jinkads.de
+:: jioads.akamaized.net
 :: jioivnytpmam.com
 :: jipzvmzzycg.com
+:: jiqtqcojfezn.com
 :: jira.adition.com
 :: jira.omniture.com
 :: jirafe.com
 :: jirkinetsaxjjdegyp.download
 :: jirmbsgr.com
+:: jistaumt.com
 :: jitvspfwwmzcu.com
 :: jivnpidyteh.com
 :: jivox.com
@@ -48884,6 +48682,7 @@ ff02::2 ip6-allrouters
 :: jjpnveujkk.com
 :: jjptjphnkrqnc.com
 :: jjpvzyfarsjiac.com
+:: jjresmnvcbdilt.com
 :: jjvdpetfxbjdbq.com
 :: jjxbbjvpagbnz.com
 :: jk.revolvermaps.com
@@ -48910,6 +48709,7 @@ ff02::2 ip6-allrouters
 :: jlehwynpwadmq.com
 :: jlgtjteei.com
 :: jlh9b.voluumtrk.com
+:: jlhniewc.com
 :: jlinks.industrybrains.com
 :: jlkadizug.com
 :: jlkqurysdsw.com
@@ -48935,7 +48735,6 @@ ff02::2 ip6-allrouters
 :: jmxphjxsxd.com
 :: jmyyyjhnzpeaching.review
 :: jn7ejd.boss.northerndishedends.uk
-:: jnb-v4.pops.fastly-insights.com
 :: jnbc32.koll.pershoreairporttransfers.co.uk
 :: jndnkgjqlxr.com
 :: jngxxwythaf.com
@@ -48999,7 +48798,6 @@ ff02::2 ip6-allrouters
 :: jp.admob.com
 :: jp.adnxs.com
 :: jp.ads.justpremium.com
-:: jp.as.pptv.com
 :: jp.at.atwola.com
 :: jp.c.appier.net
 :: jp.cinarra.com
@@ -49030,6 +48828,7 @@ ff02::2 ip6-allrouters
 :: jqcv28q.com
 :: jqfjrjka5t.top
 :: jqgblwjfvox.com
+:: jqnshpbuj.com
 :: jqpccewciuzj.com
 :: jqpuxvgnxkf.com
 :: jqqlucchmbxnn.com
@@ -49047,6 +48846,7 @@ ff02::2 ip6-allrouters
 :: jqwww.download
 :: jqyss.voluumtrk.com
 :: jqziltjcuwr.com
+:: jqzlmjaph.com
 :: jqzzqsm.com
 :: jractwjn.com
 :: jrarnqfvjijaa.com
@@ -49075,7 +48875,6 @@ ff02::2 ip6-allrouters
 :: js-sec.indexww.com
 :: js-webt-lol.9cache.com
 :: js.ad-stir.com
-:: js.ad.mediamond.it
 :: js.adforgames.com
 :: js.adlink.net
 :: js.admedia.io
@@ -49093,7 +48892,6 @@ ff02::2 ip6-allrouters
 :: js.avstats.com
 :: js.bitlordservdownload.com
 :: js.bizographics.com
-:: js.bronto.com
 :: js.callbutton.net
 :: js.casalemedia.com
 :: js.cdn.yieldkit.com
@@ -49114,7 +48912,6 @@ ff02::2 ip6-allrouters
 :: js.himediads.com
 :: js.hotlog.ru
 :: js.hs-analytics.net
-:: js.hs-scripts.com
 :: js.hubspot.com
 :: js.idio.co
 :: js.indexww.com
@@ -49208,7 +49005,6 @@ ff02::2 ip6-allrouters
 :: jsn.mgid.com
 :: jsok.demos.su
 :: json-cricket.appspot.com
-:: json.dcinside.com
 :: json.mmotraffic.com
 :: json.moatads.com
 :: json4.ringrevenue.com
@@ -49509,6 +49305,7 @@ ff02::2 ip6-allrouters
 :: kcsbaujgynaecia.review
 :: kctag.net
 :: kcugdqmmfcqrb.com
+:: kcveufgl.com
 :: kd1fv.voluumtrk.com
 :: kdata.fr
 :: kdfjjvidllnbaa.com
@@ -49569,7 +49366,6 @@ ff02::2 ip6-allrouters
 :: keyoptimize.com
 :: keyrunmodel.com
 :: keystat.com
-:: keytarget.adnet.lt
 :: keytiles.com
 :: keytrack.de
 :: keyways.pt
@@ -49736,6 +49532,7 @@ ff02::2 ip6-allrouters
 :: klakus.com
 :: klamm-counter.de
 :: klayiwpzjk.com
+:: klclick.com
 :: kleiderkreisel.digidip.net
 :: klert.com
 :: klhjuuwrmxyjsn.com
@@ -49797,6 +49594,7 @@ ff02::2 ip6-allrouters
 :: knigge.webtrekk.net
 :: knimmqli.com
 :: knjkdsrw.com
+:: knkgaslmisue.com
 :: knmscyksi.com
 :: knndhcnwv.com
 :: knnomeuaustringer.review
@@ -50124,7 +49922,6 @@ ff02::2 ip6-allrouters
 :: la-la-moon.com
 :: la-la-sf.com
 :: la-trc.taboola.com
-:: la.eclick.vn
 :: la1w1.salesforceliveagent.com
 :: laapplovinrtb.lfstmedia.com
 :: lab.admicro.vn
@@ -50158,6 +49955,7 @@ ff02::2 ip6-allrouters
 :: ladsoks.com
 :: ladsokz.com
 :: ladsp.com
+:: ladspmz.com
 :: ladycash.ru
 :: laferia.cr
 :: lahvliitxeb.com
@@ -50189,6 +49987,7 @@ ff02::2 ip6-allrouters
 :: landings.trafficz.com
 :: landisbaptist.com
 :: landscaping.srv123.com
+:: lanistaads.com
 :: lanistaconcepts.com
 :: lanktydm.com
 :: lansrv030.com
@@ -50224,7 +50023,6 @@ ff02::2 ip6-allrouters
 :: latest-461069.dochyedu.info
 :: latest-470741.takyake.ru
 :: latest.app.optimizely.com
-:: latin3.directtrack.com
 :: latinoreview.us.intellitxt.com
 :: latinpost.us.intellitxt.com
 :: lau1.slot.union.ucweb.com
@@ -50250,7 +50048,6 @@ ff02::2 ip6-allrouters
 :: lax-1-xcp.go.sonobi.com
 :: lax-1.go.sonobi.com
 :: lax-2-apex.go.sonobi.com
-:: lax-v4.pops.fastly-insights.com
 :: lax1-ib.adnxs.com
 :: lax1-mobile.adnxs.com
 :: lax1.ib.adnxs.com
@@ -50338,7 +50135,6 @@ ff02::2 ip6-allrouters
 :: lcwfabt2.com
 :: lcwfabt3.com
 :: lcxrimmb.com
-:: lcy-v4.pops.fastly-insights.com
 :: ld.you2mail.com
 :: ld82ydd.com
 :: ldaps.taboola.com
@@ -50394,7 +50190,6 @@ ff02::2 ip6-allrouters
 :: leaderboardavatar.inrix.com
 :: leaderpub.fr
 :: leadfactory.go2cloud.org
-:: leadfamly.com
 :: leadfeeder.com
 :: leadforce1.com
 :: leadforensics.com
@@ -50551,7 +50346,6 @@ ff02::2 ip6-allrouters
 :: lga-delivery-8.sys.adgear.com
 :: lga-delivery-9.sys.adgear.com
 :: lga-tr.contextweb.com
-:: lga-v4.pops.fastly-insights.com
 :: lgcblkbn.com
 :: lghrdwdl.com
 :: lgjboylszpij.com
@@ -50572,7 +50366,6 @@ ff02::2 ip6-allrouters
 :: lhjisbsegvxf.com
 :: lhltebxyuzjt.com
 :: lhqojeofvo.com
-:: lhr-v4.pops.fastly-insights.com
 :: lhs-mhs.org
 :: lhtekmhy.com
 :: lhtvkhelii.com
@@ -50608,7 +50401,6 @@ ff02::2 ip6-allrouters
 :: libie.justclick.ru
 :: libreriamedina.com
 :: libs.coremetrics.com
-:: libs.de.coremetrics.com
 :: libs.lavanetwork.net
 :: libs.outbrain.com
 :: libstat.com
@@ -50792,7 +50584,6 @@ ff02::2 ip6-allrouters
 :: listat.biz
 :: listbot.com
 :: listenloop.com
-:: listing.yahoo.co.jp
 :: listingcafe.com
 :: listrakbi.com
 :: listtop.ru
@@ -50802,6 +50593,7 @@ ff02::2 ip6-allrouters
 :: litiumo.com
 :: litix.io
 :: littitte.online
+:: littlemente.info
 :: liuduuct.com
 :: liulwxrybupyzu.com
 :: live-api.immomo.com
@@ -50892,6 +50684,7 @@ ff02::2 ip6-allrouters
 :: ljostrade.go2cloud.org
 :: ljrljohnoqa.com
 :: ljteas.com
+:: ljucamkqc.com
 :: ljujm.voluumtrk.com
 :: ljzsucmiodrro.com
 :: lkamujrx.com
@@ -50958,6 +50751,7 @@ ff02::2 ip6-allrouters
 :: lmjxrhph.com
 :: lmlttrack.com
 :: lmlvzeeag.com
+:: lmmyygvkwb.com
 :: lmn-pou-win.com
 :: lmrlanov.com
 :: lmsdoihmsoifx.com
@@ -51067,14 +50861,12 @@ ff02::2 ip6-allrouters
 :: log.appchina.com
 :: log.appscomeon.com
 :: log.artipbox.net
-:: log.baomoi.com
-:: log.batdongsan.com.vn
 :: log.btopenworld.com
 :: log.byteoversea.com.edgekey.net
 :: log.chartbeat.com
 :: log.cizion.com
-:: log.cmbchina.com
 :: log.cnt.re
+:: log.codemarketing.cloud
 :: log.data.disney.com
 :: log.dmtry.com
 :: log.droid4x.cn
@@ -51086,7 +50878,6 @@ ff02::2 ip6-allrouters
 :: log.gds.mmstat.com
 :: log.gemscool.com
 :: log.getdropbox.com
-:: log.giaoduc.net.vn
 :: log.go.com
 :: log.go2s.co
 :: log.hiiir.com
@@ -51104,9 +50895,7 @@ ff02::2 ip6-allrouters
 :: log.kcisa.kr
 :: log.kgrid.co.kr
 :: log.kibboko.com
-:: log.kienthuc.net.vn
 :: log.kieskeurig.nl
-:: log.kmplayer.com
 :: log.kukuplay.com
 :: log.kuwo.cn
 :: log.leadboxer.com
@@ -51136,7 +50925,6 @@ ff02::2 ip6-allrouters
 :: log.quora.com
 :: log.sdk.zadn.vn
 :: log.seekda.com
-:: log.sggp.org.vn
 :: log.sina.cn
 :: log.snapdeal.com
 :: log.snssdk.com.bytedns.net
@@ -51149,26 +50937,18 @@ ff02::2 ip6-allrouters
 :: log.tagtic.cn
 :: log.tapatalk.com
 :: log.tbs.qq.com
-:: log.thanhnien.vn
-:: log.tienphong.vn
 :: log.trackad.cz
 :: log.trackingio.com
 :: log.trafic.ro
 :: log.tutuapp.com
 :: log.umsns.com
 :: log.user-clicks.com
-:: log.uu.163.com
 :: log.vdn.apps.cntv.cn
-:: log.ventunotech.com
-:: log.vietnamnetad.vn
-:: log.vietnamplus.vn
 :: log.viva.co.id
-:: log.vov.vn
 :: log.webvahini.com
 :: log.wilmaa.com
 :: log.worldsoft-cms.info
 :: log.wtlogin.qq.com
-:: log.xiaoyi.com.tw
 :: log.xiti.com
 :: log000.goo.ne.jp
 :: log10.doubleverify.com
@@ -51182,22 +50962,18 @@ ff02::2 ip6-allrouters
 :: logc10.xiti.com
 :: logc11.xiti.com
 :: logc110.xiti.com
-:: logc111.xiti.com
 :: logc127.xiti.com
 :: logc13.xiti.com
 :: logc132.xiti.com
 :: logc135.xiti.com
-:: logc138.xiti.com
 :: logc14.xiti.com
 :: logc142.xiti.com
 :: logc146.xiti.com
 :: logc147.xiti.com
 :: logc148.xiti.com
 :: logc149.xiti.com
-:: logc15.xiti.com
 :: logc153.xiti.com
 :: logc156.xiti.com
-:: logc16.xiti.com
 :: logc168.xiti.com
 :: logc169.xiti.com
 :: logc172.xiti.com
@@ -51209,7 +50985,6 @@ ff02::2 ip6-allrouters
 :: logc183.xiti.com
 :: logc187.xiti.com
 :: logc189.xiti.com
-:: logc19.xiti.com
 :: logc194.xiti.com
 :: logc199.xiti.com
 :: logc2.xiti.com
@@ -51218,7 +50993,6 @@ ff02::2 ip6-allrouters
 :: logc205.xiti.com
 :: logc206.xiti.com
 :: logc209.xiti.com
-:: logc210.xiti.com
 :: logc215.xiti.com
 :: logc218.xiti.com
 :: logc22.xiti.com
@@ -51243,7 +51017,6 @@ ff02::2 ip6-allrouters
 :: logc407.xiti.com
 :: logc5.xiti.com
 :: logc57.xiti.com
-:: logc7.xiti.com
 :: logc8.xiti.com
 :: logc89.xiti.com
 :: logc9.xiti.com
@@ -51274,7 +51047,6 @@ ff02::2 ip6-allrouters
 :: logging.fishsticksgames.com
 :: logging.galaxypub.vn
 :: logging.ourstats.de
-:: logging.phunuonline.com.vn
 :: logging.prefixbox.com
 :: logging.wilmaa.com
 :: logging03.wxs.nl
@@ -51373,7 +51145,6 @@ ff02::2 ip6-allrouters
 :: logs1241.xiti.com
 :: logs1242.xiti.com
 :: logs1281.xiti.com
-:: logs1285.xiti.com
 :: logs13.xiti.com
 :: logs1400.xiti.com
 :: logs1403.xiti.com
@@ -51566,6 +51337,7 @@ ff02::2 ip6-allrouters
 :: lquodkeqws.com
 :: lqw.me
 :: lqxoqvqljmfyt.com
+:: lqydocphrf.com
 :: lrc.nct.nixcdn.com
 :: lrcnshyxwx.bid
 :: lrghpuvvo.com
@@ -51585,6 +51357,7 @@ ff02::2 ip6-allrouters
 :: ls.ezakus.net
 :: ls.hit.gemius.pl
 :: lsawards.com
+:: lsckvlhhqlo.com
 :: lsdgtifuqrwjax.com
 :: lse.uk.intellitxt.com
 :: lseddehpo.com
@@ -51619,7 +51392,9 @@ ff02::2 ip6-allrouters
 :: ltgmnghobitgb.com
 :: ltjvgpxg.com
 :: ltljm.voluumtrk.com
+:: ltmastos.com
 :: ltnkbvcm.com
+:: ltnvnvxzetvhk.com
 :: lto.personali.com
 :: ltur.112.2o7.net
 :: ltv-data-api.kube-prod.vungle.com
@@ -51770,6 +51545,7 @@ ff02::2 ip6-allrouters
 :: lzpgstae.com
 :: lzpv4rsmat.com
 :: lzscunjyovitc.com
+:: lztffxdgackjhi.com
 :: lzukp.voluumtrk.com
 :: m-adash.m.taobao.com
 :: m-brain.fi
@@ -51794,11 +51570,9 @@ ff02::2 ip6-allrouters
 :: m.anycast.adnxs.com
 :: m.astrokolik.com
 :: m.awesometracker.com
-:: m.baidu.com.zhiduo.org
 :: m.banner.linksynergy.com
 :: m.banner.t-online.de
 :: m.benaughty.com
-:: m.bong99.com
 :: m.bugly.qq.com
 :: m.burt.io
 :: m.chartbeat.com
@@ -51810,7 +51584,6 @@ ff02::2 ip6-allrouters
 :: m.exovueplatform.com
 :: m.fr.a2dfp.net
 :: m.friendlyduck.com
-:: m.game.weibo.cn
 :: m.hotmail.com
 :: m.jakc0.com
 :: m.jsqinvest.com
@@ -51818,7 +51591,6 @@ ff02::2 ip6-allrouters
 :: m.livejasmin.com
 :: m.loading-content.net
 :: m.lucky88.com
-:: m.madthumbs.com
 :: m.matdm.com
 :: m.mirmay.com
 :: m.mixadvert.com
@@ -51833,7 +51605,6 @@ ff02::2 ip6-allrouters
 :: m.servedby-buysellads.com
 :: m.sharpmobilemarketing.onlinetrafficresults.com
 :: m.shopathome.com
-:: m.ssl.fastly.net
 :: m.trb.com
 :: m.tribalfusion.com
 :: m.trk44.mobi
@@ -51925,7 +51696,6 @@ ff02::2 ip6-allrouters
 :: ma180-r.analytics.edgekey.net
 :: ma180-r.analytics.edgesuite.net
 :: ma193-r.analytics.edgekey.net
-:: ma204-r.analytics.edgesuite.net
 :: ma211-r.analytics.edgesuite.net
 :: ma252-r.analytics.edgekey.net
 :: ma277-r.analytics.edgekey.net
@@ -51945,8 +51715,6 @@ ff02::2 ip6-allrouters
 :: ma688-r.analytics.edgekey.net
 :: ma728-r.analytics.edgekey.net
 :: ma734-r.analytics.edgekey.net
-:: ma74-r.analytics.edgesuite.net
-:: ma76-c.analytics.edgesuite.net
 :: ma76-r.analytics.edgesuite.net
 :: ma788-r.analytics.edgekey.net
 :: ma79zp.last.pershoreairporttaxis.co.uk
@@ -51955,7 +51723,6 @@ ff02::2 ip6-allrouters
 :: ma93-r.analytics.edgekey.net
 :: ma95-r.analytics.edgekey.net
 :: ma9jh.voluumtrk.com
-:: maa-v4.pops.fastly-insights.com
 :: maarentkeaels.download
 :: mab.chartbeat.com
 :: mabaya.com
@@ -51975,7 +51742,6 @@ ff02::2 ip6-allrouters
 :: macromill.com
 :: macwelt.de.intellitxt.com
 :: mad-adz.com
-:: mad-v4.pops.fastly-insights.com
 :: mad.mobisky.pl
 :: mad.uk.intellitxt.com
 :: mad2.brandreachsys.com
@@ -52013,12 +51779,18 @@ ff02::2 ip6-allrouters
 :: mads.tv.com
 :: mads.zdnet.com
 :: madsabs.com
+:: madsabz.com
 :: madsats.com
+:: madsatz.com
 :: madserve.org
 :: madserver.net
 :: madserving.com
+:: madsimz.com
+:: madsipz.com
 :: madskis.com
+:: madskiz.com
 :: madslims.com
+:: madsokz.com
 :: madsone.com
 :: madsuk.aol.com
 :: madsuk.at.atwola.com
@@ -52042,7 +51814,6 @@ ff02::2 ip6-allrouters
 :: magiq.com
 :: magnetairport.com
 :: magnetic.com
-:: magnetic.domdex.com
 :: magnetic.t.domdex.com
 :: magnetisemedia.com
 :: magnetmail1.net
@@ -52093,7 +51864,6 @@ ff02::2 ip6-allrouters
 :: mailtribunecom.112.2o7.net
 :: main.abqjournal.netdna-cdn.com
 :: main.atdmt.com
-:: main.clicksor.com
 :: main.exdynsrv.com
 :: main.exoclick.com
 :: main.exosrv.com
@@ -52111,6 +51881,7 @@ ff02::2 ip6-allrouters
 :: majorgeeks.us.intellitxt.com
 :: majoringmcaiynfa.download
 :: majosita.com
+:: make.cohesionapps.com
 :: makecashtakingsurveys.biz
 :: makeherup.us.intellitxt.com
 :: makemeheal.us.intellitxt.com
@@ -52163,7 +51934,6 @@ ff02::2 ip6-allrouters
 :: mapmyuser.com
 :: mapping.adsame.com
 :: maps.amung.us
-:: maps.locationiq.com
 :: maps.locuslabs.com
 :: maps.netster.com
 :: mapscom2.112.2o7.net
@@ -52272,6 +52042,7 @@ ff02::2 ip6-allrouters
 :: marsoffset.goforandroid.com
 :: marthastewart.demdex.net
 :: martiniadnetwork.com
+:: marvedesderef.info
 :: marx-brothers.mhwang.com
 :: marypageevans.com
 :: mas.nth.ch
@@ -52395,7 +52166,6 @@ ff02::2 ip6-allrouters
 :: maxtraffic.com
 :: maxtrust.ru
 :: maxvr.112.2o7.net
-:: maxxaffiliate.directtrack.com
 :: maxymiser.com
 :: maxymiser.net
 :: may.ancestrybloodhound.mobi
@@ -52466,7 +52236,6 @@ ff02::2 ip6-allrouters
 :: mbww.com
 :: mbyrgeoizdid.com
 :: mc.adpia.vn
-:: mc.bong99.com
 :: mc.exacttarget.com
 :: mc.s10.exacttarget.com
 :: mc.s4.exacttarget.com
@@ -52491,7 +52260,6 @@ ff02::2 ip6-allrouters
 :: mcfdnvewqws.com
 :: mcgndenytmy.com
 :: mchpowtyj.com
-:: mci12.clicksor.com
 :: mcirxbajhw.com
 :: mcityadslink.com
 :: mcjdsooo.com
@@ -52526,7 +52294,6 @@ ff02::2 ip6-allrouters
 :: md-ll.apptimize.com
 :: md-nj.lfstmedia.com
 :: md-nx.com
-:: mda.locpub.com
 :: mdadx.com
 :: mdamarillo.112.2o7.net
 :: mdataroom.com
@@ -52560,7 +52327,6 @@ ff02::2 ip6-allrouters
 :: mdstaugustine.112.2o7.net
 :: mdulmrphzsnvw.com
 :: mdurqeiydegwzy.com
-:: mdw-v4.pops.fastly-insights.com
 :: mdwathens.112.2o7.net
 :: mdwaugusta.112.2o7.net
 :: mdwjuneau.112.2o7.net
@@ -52576,6 +52342,7 @@ ff02::2 ip6-allrouters
 :: me.effectivemeasure.net
 :: me.xdrig.com
 :: meadigital.com
+:: meajnbdavp.com
 :: mean.thinkerwealth.com
 :: measure.ly
 :: measuread.com
@@ -52664,7 +52431,6 @@ ff02::2 ip6-allrouters
 :: media.hasoffers.com
 :: media.hauptbruch.de
 :: media.justad.mobi
-:: media.kvue.com
 :: media.l3.cdn.adbucks.com
 :: media.lead.program3.com
 :: media.likes.com
@@ -52850,7 +52616,6 @@ ff02::2 ip6-allrouters
 :: mediciinternet.go2cloud.org
 :: medicinenet.us.intellitxt.com
 :: mediego.com
-:: medienhaus.nuggad.net
 :: medindia.us.intellitxt.com
 :: medio.com
 :: medleyads.com
@@ -52896,7 +52661,6 @@ ff02::2 ip6-allrouters
 :: meister.gke-us-east1-c.vungle.com
 :: meister.gke-us-east4-b.vungle.com
 :: meister.gke-us-east4-c.vungle.com
-:: mel-v4.pops.fastly-insights.com
 :: melahorgani.com
 :: melanitesmuawsxxw.download
 :: melfljypjydxta.com
@@ -52970,11 +52734,11 @@ ff02::2 ip6-allrouters
 :: meta.openx.net
 :: meta.streamcloud.eu
 :: meta.truemobileclicks.com
-:: meta.video.qiyi.com
 :: metabase.taplytics.com
 :: metacafe.122.2o7.net
 :: metacount.com
 :: metadata.startappservice.com
+:: metadsp.co.uk
 :: metaffiliation.com
 :: metagaua.hit.gemius.pl
 :: metal.ovh
@@ -53139,7 +52903,6 @@ ff02::2 ip6-allrouters
 :: metrics.imvu.com
 :: metrics.io
 :: metrics.kbb.com
-:: metrics.laredoute.fr
 :: metrics.lawyers.com
 :: metrics.lehighvalleylive.com
 :: metrics.lexus.com
@@ -53174,7 +52937,6 @@ ff02::2 ip6-allrouters
 :: metrics.premiereradio.net
 :: metrics.ralphlauren.com
 :: metrics.raptr.com
-:: metrics.rcsmetrics.it
 :: metrics.readme.io
 :: metrics.responsetap.com
 :: metrics.retailmenot.com
@@ -53186,7 +52948,6 @@ ff02::2 ip6-allrouters
 :: metrics.seenon.com
 :: metrics.sharecare.com
 :: metrics.shoedazzle.com
-:: metrics.shopoon.fr
 :: metrics.silive.com
 :: metrics.sky.com
 :: metrics.slate.com
@@ -53257,7 +53018,6 @@ ff02::2 ip6-allrouters
 :: mezimedia.com
 :: mezzobit.com
 :: mf.advantage.as
-:: mf.sitescout.com
 :: mfad.inskinad.com
 :: mfad1.advantage.as
 :: mfadsrvr.com
@@ -53373,7 +53133,6 @@ ff02::2 ip6-allrouters
 :: mi-web43.prod.millennialmedia.com
 :: mi.adinterax.com
 :: mi.gdt.qq.com
-:: mia-v4.pops.fastly-insights.com
 :: miakalyn.pw
 :: mialbj6.com
 :: miami.ero-advertising.com
@@ -53433,7 +53192,6 @@ ff02::2 ip6-allrouters
 :: mierdydkqvpgno.com
 :: mieru-ca.com
 :: miespaciopilates.com
-:: mig.nexac.com
 :: mighbest.pw
 :: mignpaybmqkcy.com
 :: migpay.com
@@ -53585,7 +53343,6 @@ ff02::2 ip6-allrouters
 :: mkt51.net
 :: mkt941.com
 :: mktg.actonsoftware.com
-:: mktgcdn.de.coremetrics.com
 :: mkto-k0029.com
 :: mktoresp.com
 :: mkxgvmswfmypy.com
@@ -53624,6 +53381,7 @@ ff02::2 ip6-allrouters
 :: mltrk.io
 :: mlvrp.voluumtrk.com
 :: mlweb.dmlab.hu
+:: mlyqbqha.com
 :: mm-syringe.com
 :: mm.777-partner.com
 :: mm.777-partners.net
@@ -53641,12 +53399,12 @@ ff02::2 ip6-allrouters
 :: mmetrix.mobi
 :: mmftpf.com
 :: mmfvtvdqlwxyj.com
-:: mmg.aty.sohu.com
 :: mmgads.com
 :: mmi-agency.com
 :: mmi.bemobile.ua
 :: mmile.com
 :: mmismm.com
+:: mmissedecon.info
 :: mmm.vindy.com
 :: mmmag.appsee.com
 :: mmnetwork.mobi
@@ -53802,7 +53560,6 @@ ff02::2 ip6-allrouters
 :: mobile.impacttestonline.com
 :: mobile.itsbetter.com
 :: mobile.juicyads.com
-:: mobile.log.hunantv.com
 :: mobile.mediabrix.com
 :: mobile.mng-ads.com
 :: mobile.mofowl.com
@@ -53816,7 +53573,6 @@ ff02::2 ip6-allrouters
 :: mobile333.com
 :: mobile4fun.g2afse.com
 :: mobile9.us.intellitxt.com
-:: mobile9897.drumteam99.live
 :: mobileactive.com
 :: mobilead.vn
 :: mobileader.ru
@@ -53955,6 +53711,7 @@ ff02::2 ip6-allrouters
 :: mogreet.com
 :: mohini-ger.com
 :: mohqurakhwvf.com
+:: moimjvrbzb.com
 :: mojhasmpl.com
 :: mojigaga.com
 :: mojiva.com
@@ -54062,7 +53819,6 @@ ff02::2 ip6-allrouters
 :: monu.delivery
 :: monxserver.com
 :: moo.go2cloud.org
-:: moo.sitescout.com
 :: mookie1.com
 :: moolahmedia.com
 :: moonlightingapi-ads.com
@@ -54094,7 +53850,6 @@ ff02::2 ip6-allrouters
 :: morenews3.net
 :: moreover.com
 :: morgdm.ru
-:: morgpost.ivwbox.de
 :: morgweb.ivwbox.de
 :: moritava.com
 :: mormont.gamer-network.net
@@ -54175,13 +53930,13 @@ ff02::2 ip6-allrouters
 :: mp.teads.tv
 :: mp.twitch.tv
 :: mp3toavi.xyz
-:: mp4.res.hunantv.com
 :: mp5-wl.mobileposse.com
 :: mparticle.com
 :: mparticle.uc.cn
 :: mpbjbeueinytao.com
 :: mpfzgidlxsqtyt.com
 :: mpg.taboola.com
+:: mpgvgkeib.com
 :: mpianalytics.com
 :: mpire.112.2o7.net
 :: mpire.com
@@ -54198,6 +53953,7 @@ ff02::2 ip6-allrouters
 :: mpp2.vindicosuite.com
 :: mppapi.io
 :: mppmnetwork.com
+:: mpqfzyh.com
 :: mpression.net
 :: mprezchc.com
 :: mproxy.banner.linksynergy.com
@@ -54351,7 +54107,6 @@ ff02::2 ip6-allrouters
 :: msntrademarketing.112.2o7.net
 :: msnwinonecare.112.2o7.net
 :: msoiqafieh.com
-:: msp-v4.pops.fastly-insights.com
 :: msparktrk.com
 :: mspgkbvxtl.com
 :: mspnlttfp.com
@@ -54528,7 +54283,6 @@ ff02::2 ip6-allrouters
 :: mwzquivpqnod.com
 :: mx.adserver.yahoo.com
 :: mx.ero-advertising.com
-:: mx.yandex.ru
 :: mx0.comscore.com
 :: mx1.comscore.com
 :: mx1.revsci.net
@@ -54636,6 +54390,7 @@ ff02::2 ip6-allrouters
 :: myfavoritegames.us.intellitxt.com
 :: myfavoriteviolincd.com
 :: myfukbuddy.com
+:: mygoodlives.com
 :: mygosecure.com
 :: myiframe.com
 :: myimagetracking.com
@@ -54667,6 +54422,7 @@ ff02::2 ip6-allrouters
 :: mypoints.com
 :: mypopup.ir
 :: mypowermall.com
+:: mypydwibqja.com
 :: myqnpgfgjo.com
 :: myqvhpjyd.com
 :: myqzicfxbkpk.com
@@ -54678,7 +54434,6 @@ ff02::2 ip6-allrouters
 :: myroitracking.com
 :: mysafeads.com
 :: mysafeurl.com
-:: mysavings.directtrack.com
 :: myscoop-tracking.googlecode.com
 :: myscreen.com
 :: mysearch-engine.com
@@ -55084,6 +54839,7 @@ ff02::2 ip6-allrouters
 :: ndirect.ppro.de
 :: ndjln.voluumtrk.com
 :: ndk38.voluumtrk.com
+:: ndkaxtyhxy.com
 :: ndkvzncsuxgx.com
 :: ndn.cdn.auditude.com
 :: ndndptjtonhh.com
@@ -55188,7 +54944,6 @@ ff02::2 ip6-allrouters
 :: net.57240.9406.302br.net
 :: net.rayjump.com
 :: net.salmonads.com
-:: net.softonicads.com
 :: net3media.com
 :: netaffiliation.com
 :: netagent.cz
@@ -55252,7 +55007,6 @@ ff02::2 ip6-allrouters
 :: netsolads.com
 :: netspiderads2.indiatimes.com
 :: netsprint.hit.gemius.pl
-:: netsr.softonicads.com
 :: netstats-1.www.ibm.com
 :: netstats-2.www.ibm.com
 :: netstats.dk
@@ -55298,7 +55052,6 @@ ff02::2 ip6-allrouters
 :: netzaehler.de
 :: netzathleten-media.de
 :: netzathleten.net
-:: netzeitu.ivwbox.de
 :: netzip.com
 :: netzstat.ch
 :: netzwelt.digidip.net
@@ -55374,7 +55127,6 @@ ff02::2 ip6-allrouters
 :: newsanalytics.com.au
 :: newsarmor.com
 :: newsatads.com
-:: newsclic.ivwbox.de
 :: newsclicker.com
 :: newscorp.grapeshot.co.uk
 :: newscurve.com
@@ -55531,6 +55283,7 @@ ff02::2 ip6-allrouters
 :: nidksyrrrtckzj.com
 :: nidorivo.com
 :: nidtest.timesink.com
+:: nielofficieshandl.info
 :: nielsen.112.2o7.net
 :: niematego.tk
 :: nieveni.com
@@ -55579,13 +55332,11 @@ ff02::2 ip6-allrouters
 :: nirqmbrzplvtjr.com
 :: nirror.abtasty.com
 :: nite.ancestrybloodhound.net
-:: niteflirt.directtrack.com
 :: nitigoly.com
 :: nitmus.com
 :: nitratedffwtprxdo.download
 :: nitratory.com
 :: nitroclicks.com
-:: nitropayouts.directtrack.com
 :: nittlopp.online
 :: niviemwsmiaq.com
 :: nivsrtqdurhjz.com
@@ -55934,7 +55685,6 @@ ff02::2 ip6-allrouters
 :: notify-monad.com
 :: notify.adleadevent.com
 :: notify.bugsnag.appstore.a2z.com
-:: notify.bugsnag.com
 :: notify.mgid.com
 :: notify.nuviad.com
 :: notify.rocks
@@ -56003,6 +55753,7 @@ ff02::2 ip6-allrouters
 :: nqlkwyyzzgtn.com
 :: nqlrewsfmywgbx.com
 :: nqmwfddfwogbhw.com
+:: nqnggjvdzsy.com
 :: nqp0852y7r.com
 :: nqtnwvwigvo.com
 :: nqtqrnfzvp.com
@@ -56049,7 +55800,6 @@ ff02::2 ip6-allrouters
 :: nrrxxpvgtf.com
 :: nrsadrefects.review
 :: nrszmiiwfifwlq.bid
-:: nrt-v4.pops.fastly-insights.com
 :: nrtapaiums.com
 :: nrtprod-rtbwin.applovin.com
 :: nrubehhd.com
@@ -56197,6 +55947,7 @@ ff02::2 ip6-allrouters
 :: ntpmhryl.com
 :: ntracking.optimatic.com
 :: ntrb.qc.coccoc.com
+:: ntryonoxojiyya.com
 :: nttcommunications.122.2o7.net
 :: ntv.io
 :: ntvcld-a.akamaihd.net
@@ -56256,6 +56007,7 @@ ff02::2 ip6-allrouters
 :: nv4n8.voluumtrk.com
 :: nvajxoahenwe.com
 :: nvcwvcmwdjgjyu.bid
+:: nvdljujp.com
 :: nvgcmeqfn.com
 :: nvhzkdltdxfoax.com
 :: nvikgaormj.com
@@ -56495,79 +56247,48 @@ ff02::2 ip6-allrouters
 :: oas-c17.adnxs.com
 :: oas-c18.adnxs.com
 :: oas-eu1.adnxs.com
-:: oas-fr.video.on.nytimes.com
-:: oas.247sports.com
-:: oas.ad-vice.biz
 :: oas.alltforforaldrar.se
 :: oas.benchmark.fr
-:: oas.dallasnews.com
-:: oas.deejay.it
-:: oas.five.tv
 :: oas.foxnews.com
 :: oas.hitbox.com
-:: oas.ilsecoloxix.it
 :: oas.luxweb.com
-:: oas.maktoobblog.com
-:: oas.monster.com
 :: oas.northernandshell.co.uk
 :: oas.offremedia.com
-:: oas.providencejournal.com
 :: oas.repubblica.it
-:: oas.rivals.com
 :: oas.roanoke.com
 :: oas.salon.com
 :: oas.stv.tv
 :: oas.tidningsnatet.se
 :: oas.toronto.com
-:: oas.trustnet.com
 :: oas.uniontrib.com
 :: oas.villagevoice.com
 :: oas.wuv.de
 :: oasc-eu1.247realmedia.com
-:: oasc02023.247realmedia.com
 :: oasc03012.247realmedia.com
 :: oasc03049.247realmedia.com
 :: oasc04012.247realmedia.com
-:: oasc04052.247realmedia.com
-:: oasc05.247realmedia.com
 :: oasc05024.247realmedia.com
 :: oasc05050.247realmedia.com
 :: oasc05059.247realmedia.com
-:: oasc05134.247realmedia.com
-:: oasc05135.247realmedia.com
-:: oasc05139.247realmedia.com
-:: oasc06.247realmedia.com
 :: oasc06006.247realmedia.com
 :: oasc06020.247realmedia.com
 :: oasc07.citywire.co.uk
-:: oasc08.247realmedia.com
 :: oasc08006.247realmedia.com
-:: oasc08008.247realmedia.com
-:: oasc08011.247realmedia.com
 :: oasc08024.247realmedia.com
 :: oasc09.247realmedia.com
 :: oasc10.247realmedia.com
 :: oasc10006.247realmedia.com
-:: oasc10015.247realmedia.com
 :: oasc11.247realmedia.com
-:: oasc11009.247realmedia.com
 :: oasc12.247realmedia.com
-:: oasc12001.247realmedia.com
-:: oasc12016.247realmedia.com
-:: oasc12056.247realmedia.com
 :: oasc14.247realmedia.com
-:: oasc14008.247realmedia.com
 :: oasc15.247realmedia.com
 :: oasc16.247realmedia.com
 :: oasc17.247realmedia.com
 :: oasc18.247realmedia.com
-:: oasc18005.247realmedia.com
 :: oasc18015.247realmedia.com
-:: oascentral.123greetings.com
 :: oascentral.abclocal.go.com
 :: oascentral.adage.com
 :: oascentral.advanstar.com
-:: oascentral.aeroplan.com
 :: oascentral.appssavvy.com.23051.9155.302br.net
 :: oascentral.appssavvy.com.23053.9155.302br.net
 :: oascentral.appssavvy.com.23054.9155.302br.net
@@ -56578,10 +56299,6 @@ ff02::2 ip6-allrouters
 :: oascentral.appssavvy.com.24912.9184.302br.net
 :: oascentral.appssavvy.com.31838.9155.302br.net
 :: oascentral.appssavvy.com.31839.9155.302br.net
-:: oascentral.arkansasonline.com
-:: oascentral.autoweek.com
-:: oascentral.beliefnet.com
-:: oascentral.bigfishgames.com
 :: oascentral.blogher.org.10941.9030.302br.net
 :: oascentral.blogher.org.12468.9030.302br.net
 :: oascentral.blogher.org.12469.9030.302br.net
@@ -56596,129 +56313,26 @@ ff02::2 ip6-allrouters
 :: oascentral.blogher.org.12478.9030.302br.net
 :: oascentral.blogher.org.12479.9030.302br.net
 :: oascentral.blogher.org.23017.9030.302br.net
-:: oascentral.bristolpress.com
-:: oascentral.broadway.com
-:: oascentral.browardpalmbeach.com
-:: oascentral.businessinsurance.com
 :: oascentral.businessweek.com
-:: oascentral.buy.com
-:: oascentral.buysell.com
-:: oascentral.capecodonline.com
-:: oascentral.careerbuilder.com
-:: oascentral.charleston.net
 :: oascentral.chicagobusiness.com
-:: oascentral.chron.com
-:: oascentral.citypages.com
-:: oascentral.citypaper.com
 :: oascentral.comcast.net
-:: oascentral.comics.com
 :: oascentral.construction.com
-:: oascentral.consumerreports.org
 :: oascentral.crainsdetroit.com
-:: oascentral.crainsnewyork.com
-:: oascentral.cygnusb2b.com
 :: oascentral.dailybreeze.com
-:: oascentral.dailylocal.com
-:: oascentral.datasphere.com
-:: oascentral.discovery.com
-:: oascentral.dollargeneral.com
-:: oascentral.dominionenterprises.com
-:: oascentral.emarketer.com
-:: oascentral.emedicine.com
 :: oascentral.feedroom.com
-:: oascentral.fiercemarkets.com
 :: oascentral.fortunecity.com
-:: oascentral.fosters.com
-:: oascentral.freedom.com
-:: oascentral.goerie.com
-:: oascentral.gotriad.com
-:: oascentral.grandparents.com
-:: oascentral.greenevillesun.com
-:: oascentral.healthletter.mayoclinic.com
-:: oascentral.herald-dispatch.com
-:: oascentral.hispanicbusiness.com
-:: oascentral.hollywood.com
-:: oascentral.hosted.ap.org
-:: oascentral.houstonpress.com
-:: oascentral.internetretailer.com
-:: oascentral.investingmediasolutions.com
-:: oascentral.investmentnews.com
-:: oascentral.katv.com
-:: oascentral.laptopmag.com
-:: oascentral.law.com
-:: oascentral.laweekly.com
-:: oascentral.lifetimetv.com
-:: oascentral.lycos.com
-:: oascentral.mailtribune.com
-:: oascentral.mayoclinic.com
 :: oascentral.mdlinx.com
-:: oascentral.metrowestdailynews.com
-:: oascentral.miaminewtimes.com
-:: oascentral.minnpost.com
-:: oascentral.mochila.com
-:: oascentral.modernhealthcare.com
-:: oascentral.movietickets.com
-:: oascentral.nationalunderwriter.com
-:: oascentral.necn.com
-:: oascentral.nephrologynews.com
-:: oascentral.netnewscheck.com
-:: oascentral.news-record.com
 :: oascentral.newsmax.com
-:: oascentral.newstimeslive.com
-:: oascentral.onthesnow.com
-:: oascentral.onwisconsin.com
-:: oascentral.oprah.com
-:: oascentral.phoenixnewtimes.com
-:: oascentral.planetatv.com
-:: oascentral.poconorecord.com
 :: oascentral.post-gazette.com
-:: oascentral.pressdemocrat.com
-:: oascentral.prodivnet.com
-:: oascentral.record-eagle.com
-:: oascentral.recordnet.com
-:: oascentral.recordonline.com
-:: oascentral.recroom.com
-:: oascentral.recyclebank.com
-:: oascentral.red7media.com
-:: oascentral.redstate.com
 :: oascentral.register.com
-:: oascentral.s-t.com
-:: oascentral.samsclub.com
-:: oascentral.sfgate.com
-:: oascentral.sfweekly.com
 :: oascentral.sina.com
-:: oascentral.stackmag.com
-:: oascentral.stansberryresearch.com
-:: oascentral.stripes.com
-:: oascentral.superpages.com
-:: oascentral.surfline.com
-:: oascentral.thechronicleherald.ca
-:: oascentral.thepostgame.com
-:: oascentral.theweek.com
-:: oascentral.timesfreepress.com
 :: oascentral.tmcnet.com
-:: oascentral.tnr.com
-:: oascentral.tophosts.com
-:: oascentral.tourismvancouver.com
-:: oascentral.traffic.com
-:: oascentral.travelzoo.com
-:: oascentral.trentonian.com
-:: oascentral.tvnewscheck.com
-:: oascentral.upi.com
 :: oascentral.villagevoice.com
-:: oascentral.virtualtourist.com
-:: oascentral.walmartwom.com
 :: oascentral.washtimes.com
-:: oascentral.wciv.com
-:: oascentral.westword.com
-:: oascentral.wickedlocal.com
-:: oascentral.yakimaherald.com
-:: oascentral.yellowpages.com
 :: oascentralnx.comcast.net
 :: oasde.springstreetnetworks.com
 :: oase00821.247realmedia.com
 :: oasis.411affiliates.ca
-:: oasjs.kataweb.it
 :: oata.ero-advertising.com
 :: oatcakehcewr.download
 :: oatcheex.com
@@ -56788,7 +56402,6 @@ ff02::2 ip6-allrouters
 :: oc9e5.voluumtrk.com
 :: oca.telemetry.microsoft.com
 :: oca.telemetry.microsoft.com.nsatc.net
-:: ocd.yodo1api.com
 :: ocdn.adsterra.com
 :: oceango.net
 :: oceanup.us.intellitxt.com
@@ -56981,6 +56594,7 @@ ff02::2 ip6-allrouters
 :: ofy3m0gp.com
 :: ofzoxqcldl.com
 :: og1rc.voluumtrk.com
+:: og4.me
 :: ogbamfpcfac.bid
 :: ogdocggdermas.review
 :: ogdzyxly.com
@@ -57034,6 +56648,7 @@ ff02::2 ip6-allrouters
 :: ohs1upuwi8b.info
 :: ohsatum.info
 :: ohscoczrnhzd.com
+:: ohstbumzdyz.com
 :: ohszjtbehoo.com
 :: ohtulehtadee.hit.gemius.pl
 :: ohv1tie2.com
@@ -57141,7 +56756,6 @@ ff02::2 ip6-allrouters
 :: olayojplg.bid
 :: olazspdsld.bid
 :: olb.pns.kt.com
-:: olc.yodo1api.com
 :: olcqpdykme.com
 :: olctpejrnnfh.com
 :: olddata.radarurl.com
@@ -57153,7 +56767,7 @@ ff02::2 ip6-allrouters
 :: olejgcdzgb.bid
 :: olfkptkfop.com
 :: olgjzpgp.com
-:: olivebrandresponse.com
+:: olhupniause.com
 :: oliver.adcenter.net
 :: olizyr.com
 :: oljpsldr.bid
@@ -57254,6 +56868,7 @@ ff02::2 ip6-allrouters
 :: omniturecom.112.2o7.net
 :: omnituretrack.local.com
 :: omns.americanexpress.com
+:: omparentcarage.info
 :: ompzowzfwwfc.com
 :: omqygrfokyxg.com
 :: omrdatacapture.com
@@ -57320,6 +56935,7 @@ ff02::2 ip6-allrouters
 :: onedrive-collection.device.mobileengagement.windows.net
 :: onedrive.su
 :: onefeed.co.uk
+:: oneimpress.io
 :: onelink-translations.com
 :: onelink.appsflyer.com
 :: onelouder.com
@@ -57497,7 +57113,6 @@ ff02::2 ip6-allrouters
 :: openads.motorrad-net.at
 :: openads.org
 :: openadserving.com
-:: openadstream-eu1.247realmedia.com
 :: openamp-error-reporting.appspot.com
 :: openapi.cymera.com
 :: openbid-uswest.pubmatic.com
@@ -57564,7 +57179,6 @@ ff02::2 ip6-allrouters
 :: openx.kokoma.pl
 :: openx.mercatormedia.com
 :: openx.net
-:: openx.net.hr
 :: openx.omniton.net
 :: openx.org
 :: openx.pw
@@ -57741,11 +57355,11 @@ ff02::2 ip6-allrouters
 :: orca.qubitproducts.com
 :: orcapia.com
 :: ord-ae.conversantmedia.com
-:: ord-v4.pops.fastly-insights.com
 :: ordbtltlcmqv.com
 :: orddiltnmmlu.com
 :: orders.webpower.com
 :: ordingly.com
+:: ordssuspicuousc.info
 :: orencia.pflexads.com
 :: oreo.iawsnetwork.com
 :: oreporu.info
@@ -58015,6 +57629,7 @@ ff02::2 ip6-allrouters
 :: owha.vancouverco.com
 :: owihjchxgydd.com
 :: owjoflavzaerby.com
+:: owkbqoby.com
 :: owlads.io
 :: owlanalytics.io
 :: owldata.com
@@ -58227,7 +57842,6 @@ ff02::2 ip6-allrouters
 :: oxybe.com
 :: oxybyiyasgu.bid
 :: oxzffweyw.com
-:: oyag.prugskh.com
 :: oyaqzikgjw.com
 :: oybahnktadxjju.com
 :: oyfncnedrymc.com
@@ -58302,7 +57916,6 @@ ff02::2 ip6-allrouters
 :: p.avazunativeads.com
 :: p.bm23.com
 :: p.bokecc.com
-:: p.bong99.com
 :: p.boostads.co
 :: p.chango.com
 :: p.chartboost.com
@@ -58313,7 +57926,6 @@ ff02::2 ip6-allrouters
 :: p.delivery.net
 :: p.ebdr2.com
 :: p.errorception.com
-:: p.glbimg.com
 :: p.hiimps.com
 :: p.imgur.com
 :: p.kuaidi100.com
@@ -58454,6 +58066,7 @@ ff02::2 ip6-allrouters
 :: padsdelivery.com
 :: padsips.com
 :: padsipz.com
+:: padskiz.com
 :: padsokz.com
 :: padspmz.com
 :: padstm.com
@@ -58551,7 +58164,6 @@ ff02::2 ip6-allrouters
 :: panel.ioam.de
 :: panel.loyaltygame.com
 :: panel.moat.com
-:: panel.research-int.se
 :: panel2.research-int.se
 :: paneles.impresionesweb.com
 :: panelist-api.vertoanalytics.com
@@ -58563,9 +58175,7 @@ ff02::2 ip6-allrouters
 :: pantherads.com
 :: panyeri.info
 :: panzermedia.go2cloud.org
-:: pao-v4.pops.fastly-insights.com
 :: paol.chartbeat.net
-:: paopao.iqiyi.com
 :: paotmlonx.com
 :: pap.zalando.de
 :: papayamobile.com
@@ -58902,7 +58512,6 @@ ff02::2 ip6-allrouters
 :: pd.justclick.ru
 :: pda.mv.bidsystem.com
 :: pdapmkivb.com
-:: pdata.pops.fastly-insights.com
 :: pdbaewqjyvux.com
 :: pdbu.net
 :: pddvryclt.bid
@@ -58915,7 +58524,6 @@ ff02::2 ip6-allrouters
 :: pdgxtdughbeks.com
 :: pdidbylbwghsr.com
 :: pdippmqmrkvn.com
-:: pdk-v4.pops.fastly-insights.com
 :: pdmp.jp
 :: pdmucolwl.com
 :: pdn-1.com
@@ -58953,6 +58561,7 @@ ff02::2 ip6-allrouters
 :: pecsxr.pool.pchamberlain.co.uk
 :: pectit.info
 :: pedbkepupj.bid
+:: pedcarefusalmo.info
 :: pedropanther.com
 :: peefeehu.com
 :: peeg.fronterarq.cl
@@ -59009,7 +58618,6 @@ ff02::2 ip6-allrouters
 :: pepperjamnetwork.com
 :: pepsico.demdex.net
 :: peqdwnztlzjp.com
-:: per-v4.pops.fastly-insights.com
 :: perahbashmama.com
 :: perceivequarter.com
 :: percentmobile.com
@@ -59138,6 +58746,7 @@ ff02::2 ip6-allrouters
 :: pgfxwbgema.com
 :: pgkdyhdhul.com
 :: pgl.example0101
+:: pgmcdn.com
 :: pgmediaserve.com
 :: pgmopcongruity.review
 :: pgmqzpjoauoknj.com
@@ -59196,6 +58805,7 @@ ff02::2 ip6-allrouters
 :: pheepudo.net
 :: pheergar.com
 :: pheersie.com
+:: pheizpjpowvw.com
 :: phekrimp.com
 :: phengung.net
 :: phenomcrm.com
@@ -59298,7 +58908,6 @@ ff02::2 ip6-allrouters
 :: pics.cnomy.com
 :: pics.firstload.de
 :: pics.kolmic.com
-:: pics.skenzo.com
 :: pics.yad2.co.il
 :: pics3.inxhost.com
 :: picsti.com
@@ -59408,7 +59017,6 @@ ff02::2 ip6-allrouters
 :: piwik.adspaces.ero-advertising.com
 :: piwik.cam-content.com
 :: piwik.datawrapper.de
-:: piwik.denik.cz
 :: piwik.ero-advertising.com
 :: piwik.ientry.com
 :: piwik.ilfllc.com
@@ -59637,7 +59245,6 @@ ff02::2 ip6-allrouters
 :: pl.gmads.net
 :: pl.ha1.yumenetworks.com
 :: pl.search.etargetnet.com
-:: pl.ventunotech.com
 :: pl.yumenetworks.com
 :: pl1.ha1.yumenetworks.com
 :: pl1.yumenetworks.com
@@ -60027,7 +59634,6 @@ ff02::2 ip6-allrouters
 :: pop-rev.com
 :: pop.adcocktail.com
 :: pop.bid
-:: pop.dnparking.com
 :: pop.kissmetrics.com
 :: pop.mobpartner.mobi
 :: pop.mrstiff.com
@@ -60112,7 +59718,6 @@ ff02::2 ip6-allrouters
 :: popups.infostart.com
 :: popuptraf.ru
 :: popuptraffic.com
-:: popwebfun.com
 :: popwin.net
 :: popzila.com
 :: popzkvfimbox.com
@@ -60388,7 +59993,6 @@ ff02::2 ip6-allrouters
 :: prettyboring.us.intellitxt.com
 :: preview.adform.com
 :: preview.bnex.com
-:: preview.hs-sites.com
 :: preview.leadmediapartners.com
 :: preview.msn.com
 :: preview.serving-sys.com
@@ -60428,7 +60032,6 @@ ff02::2 ip6-allrouters
 :: primetime.net
 :: primosearch.com
 :: pringotrack.com
-:: print.theyeshivaworld.info
 :: prisacom.112.2o7.net
 :: prishla.info
 :: prismaprofits.go2cloud.org
@@ -60629,7 +60232,6 @@ ff02::2 ip6-allrouters
 :: promos.naked.com
 :: promos.taptapnetworks.com
 :: promos.wealthymen.com
-:: promote.biz.weibo.cn
 :: promote.pair.com
 :: promoted.com
 :: promoted.soundcloud.com
@@ -60653,6 +60255,7 @@ ff02::2 ip6-allrouters
 :: promptleads.go2cloud.org
 :: pronatingwdlurtut.download
 :: pronetadvertising.com
+:: proof-x.com
 :: prooffactor.com
 :: proofpoint.com
 :: proofpositivemedia.com
@@ -60710,7 +60313,6 @@ ff02::2 ip6-allrouters
 :: proxy.adnxs.com
 :: proxy.batmobi.net
 :: proxy.ladot.com
-:: proxy.softonicads.com
 :: proxypage.msn.com
 :: prpkhpjxghhn.com
 :: prpops.com
@@ -60767,6 +60369,7 @@ ff02::2 ip6-allrouters
 :: psborsxlcorxuq.com
 :: psclicks.com
 :: psdnlprwclz.com
+:: psecurzoicompa.info
 :: psehuhxpqip.bid
 :: psephash.com
 :: pseqcs05.com
@@ -60927,7 +60530,6 @@ ff02::2 ip6-allrouters
 :: pub.sex.com
 :: pub.sheknows.com
 :: pub.sitetag.us
-:: pub.softonic.com
 :: pub.sponsorselect.com
 :: pub.sv2.biz
 :: pub.weatherbug.com
@@ -61301,7 +60903,6 @@ ff02::2 ip6-allrouters
 :: pvuqahjiburadw.com
 :: pvxfvqlkclc.com
 :: pvys33.come.evesham-taxis.co.uk
-:: pw.cnzz.com
 :: pw.lpsxssm.com
 :: pw8tq9wk.top
 :: pwaqmmquztyne.com
@@ -61366,6 +60967,7 @@ ff02::2 ip6-allrouters
 :: pxgfdcfcrucazj.com
 :: pxgfvpwkukl.com
 :: pxgkuwybzuqz.com
+:: pxhogrilyeov.com
 :: pxhtltatsxarl.com
 :: pxi.pub
 :: pxiqcfkbxof.com
@@ -61395,6 +60997,7 @@ ff02::2 ip6-allrouters
 :: pxzacgmr.com
 :: py2so.voluumtrk.com
 :: pybul.bestfrozenporn.nl
+:: pycmdgig.com
 :: pycvhwxtqhknb.com
 :: pydpcqjenhjx.com
 :: pyfmxzhrnivq.com
@@ -61530,6 +61133,7 @@ ff02::2 ip6-allrouters
 :: qbahsvxo.com
 :: qbaka.net
 :: qbalehgc.com
+:: qbbnixdd.com
 :: qbddhjrwe.com
 :: qbdgnjwaknl.bid
 :: qbeeeld.jmp9.com
@@ -61733,6 +61337,7 @@ ff02::2 ip6-allrouters
 :: qiktwikahncl.com
 :: qimuj.voluumtrk.com
 :: qinsmmxvacuh.com
+:: qinxpsktrelpl.com
 :: qinytcise.com
 :: qiqrguvdhcux.com
 :: qiremmtynkae.com
@@ -61797,6 +61402,7 @@ ff02::2 ip6-allrouters
 :: qkvklknzycrgo.com
 :: qkwbygfsbfmj.com
 :: qkwv55.becks.petboutiquepawsnclaws.co.uk
+:: qkxmnpxtr.com
 :: qkyzjwhyeh.com
 :: qkzwxhcleqj.com
 :: qlatsfeyg.com
@@ -61835,6 +61441,7 @@ ff02::2 ip6-allrouters
 :: qmotkiltrim.com
 :: qmotmcwz.com
 :: qmouzhzz.com
+:: qmovnrphbgqr.com
 :: qmtjz.voluumtrk.com
 :: qmuuc.voluumtrk.com
 :: qmw1d7.pal.wkcengland.co.uk
@@ -62028,9 +61635,6 @@ ff02::2 ip6-allrouters
 :: qualitylegion.com
 :: qualitypageviews.com
 :: qualityporn.biz
-:: quangcao.24h.com.vn
-:: quangcao.thanhnien.vn
-:: quangcao.tuoitre.vn
 :: quanta-wave.com
 :: quantcast.com
 :: quantcast584928381.s.moatpixel.com
@@ -62226,6 +61830,7 @@ ff02::2 ip6-allrouters
 :: qzlog.com
 :: qzpxhebrm.com
 :: qzpzspna.bid
+:: qzvgrwayranpn.com
 :: qzwhzahnieipgz.com
 :: qzxtbsnaebfw.com
 :: qzzepglnyaufi.com
@@ -62237,7 +61842,6 @@ ff02::2 ip6-allrouters
 :: r.3gl.net
 :: r.4at1.com
 :: r.ad4.com.cn
-:: r.ad6media.fr
 :: r.adc-serv.net
 :: r.adrolays.de
 :: r.adrta.com
@@ -62305,7 +61909,6 @@ ff02::2 ip6-allrouters
 :: r1.literotica.com
 :: r1.pcwelt.de
 :: r1.plugrush.com
-:: r1.snnd.co
 :: r1.zedo.com
 :: r10.cooleremail.com
 :: r11.cooleremail.com
@@ -62444,7 +62047,6 @@ ff02::2 ip6-allrouters
 :: rapdirt.us.intellitxt.com
 :: rapidcounter.com
 :: rapidkittens.com
-:: rapidresponse.directtrack.com
 :: rapidstats.net
 :: rapidtrk.net
 :: rapidyl.net
@@ -62654,6 +62256,7 @@ ff02::2 ip6-allrouters
 :: re.revolvermaps.com
 :: re.taobao.com
 :: re.try9.com
+:: reach5.net
 :: reachandrich.antevenio.com
 :: reachforce.com
 :: reachjunction.com
@@ -62701,7 +62304,6 @@ ff02::2 ip6-allrouters
 :: realmatch.com
 :: realmedia-a592.d4p.net
 :: realmedia-a800.d4p.net
-:: realmedia.channel4.com
 :: realmedia.co.kr
 :: realmedia.com
 :: realmedia.fr
@@ -62974,7 +62576,6 @@ ff02::2 ip6-allrouters
 :: relay.reporo.net
 :: relead.com
 :: release.baidu.com
-:: release.kite.com
 :: relentless.go2cloud.org
 :: relestar.com
 :: relevant-digital.com
@@ -62990,6 +62591,7 @@ ff02::2 ip6-allrouters
 :: rem-track.bild.de
 :: rem.go2cloud.org
 :: rem.rezonmedia.eu
+:: remailtarget.com
 :: remain.appcpi.net
 :: remain.chartboosts.com
 :: remarketing.doubleclick.net
@@ -63107,7 +62709,6 @@ ff02::2 ip6-allrouters
 :: res-x.com
 :: res.adplus.co.id
 :: res.cocounion.com
-:: res.finduslocal.com
 :: res.images.mobileposse.com
 :: res.lazyswipe.com
 :: res.levexis.com
@@ -63119,6 +62720,7 @@ ff02::2 ip6-allrouters
 :: res.teleskip.net
 :: res1.applovin.com
 :: res3.feedsportal.com
+:: resadvantco.info
 :: research-artisan.com
 :: research-int.se
 :: research-tool.com
@@ -63163,12 +62765,12 @@ ff02::2 ip6-allrouters
 :: respondhq.com
 :: response.pure360.com
 :: responsetap.com
+:: responsiveads.com
 :: responsys.hs.llnwd.net
 :: responsys.net
 :: rest.dynamicyield.com
 :: rest.iad-01.braze.com
 :: rest.iad-03.braze.com
-:: rest.locategy.com
 :: rest.mobilerealtyapps.com
 :: rest.segmentify.com
 :: rest.sharethis.com
@@ -63234,7 +62836,6 @@ ff02::2 ip6-allrouters
 :: revenue.com
 :: revenue.net
 :: revenuedirect.com
-:: revenuegateway.directtrack.com
 :: revenuegiants.com
 :: revenuehits.com
 :: revenuemantra.com
@@ -63427,7 +63028,6 @@ ff02::2 ip6-allrouters
 :: rieyjzuyhigobg.bid
 :: rifwhwdsqvgw.com
 :: rig.idg.no
-:: rigelink.com
 :: rightmedia.com
 :: rightmoveanalytics.co.uk
 :: rightonmediagroup.go2cloud.org
@@ -63456,6 +63056,7 @@ ff02::2 ip6-allrouters
 :: rinsouxy.com
 :: rinukkvp.bid
 :: riowrite.com
+:: riozwajocltca.com
 :: ripalazc.com
 :: ripenesscamuhceu.download
 :: ripost.services
@@ -63622,6 +63223,7 @@ ff02::2 ip6-allrouters
 :: rntlwkqmelxceu.com
 :: rnvotosfzq.com
 :: rnyp9.voluumtrk.com
+:: rnysheetprin.info
 :: rnyuhkbucgun.com
 :: rnzgebpy.com
 :: rnzzrylopa.bid
@@ -63715,6 +63317,7 @@ ff02::2 ip6-allrouters
 :: roqtynlfysu.bid
 :: roqweslqqlyklb.com
 :: roritabo.com
+:: roscvyybfkm.com
 :: rose.ixbt.com
 :: rosemand.pro
 :: rosettastone.tt.omtrdc.net
@@ -63803,7 +63406,6 @@ ff02::2 ip6-allrouters
 :: rpylvksecants.review
 :: rpzcwgrpbkltp.com
 :: rq.adfox.ru
-:: rq.adtrackdirect.com
 :: rq.vserv.mobi
 :: rqaobxvj.com
 :: rqbxfbls.com
@@ -63847,6 +63449,7 @@ ff02::2 ip6-allrouters
 :: rrqmebej.bid
 :: rrrdddbtofnf.com
 :: rrscdnsfunoe.com
+:: rrshibwsq.com
 :: rrsijwsvemhzxx.bid
 :: rrvkjvhbwnbre.com
 :: rrvpscehvjuz.com
@@ -63932,7 +63535,6 @@ ff02::2 ip6-allrouters
 :: rt3.infolinks.com
 :: rta.dailymail.co.uk
 :: rta.pubocean.com
-:: rta2.metro.co.uk
 :: rtaofgamnnfh.com
 :: rtapi.abbi.io
 :: rtax.criteo.com
@@ -63979,7 +63581,6 @@ ff02::2 ip6-allrouters
 :: rtb.d.adup-tech.com
 :: rtb.gumgum.com
 :: rtb.kds.media
-:: rtb.locpub.com
 :: rtb.metrigo.com
 :: rtb.mfadsrvr.com
 :: rtb.nativeads.com
@@ -64119,7 +63720,6 @@ ff02::2 ip6-allrouters
 :: ruiyangcn.com
 :: rukwbbwcil.com
 :: rules.aatkit.com
-:: rules.atgsvcs.com
 :: rules.quantcount.com
 :: rules.securestudies.com
 :: rules2.aatkit.com
@@ -64168,7 +63768,6 @@ ff02::2 ip6-allrouters
 :: ruptly-d.openx.net
 :: ruqckzdjsoe.bid
 :: rurjxaovebr.bid
-:: rusads.toysrus.com
 :: rushbucks.go2cloud.org
 :: rushdktwu.download
 :: russia1.2cnt.net
@@ -64193,6 +63792,7 @@ ff02::2 ip6-allrouters
 :: rveftfohdybpwv.bid
 :: rvfjbxzxaookgp.com
 :: rvkai.voluumtrk.com
+:: rvlzsbmshtt.com
 :: rvmwyfvfxendw.bid
 :: rvnc72k.com
 :: rvnpytnhxppkzv.com
@@ -64289,6 +63889,7 @@ ff02::2 ip6-allrouters
 :: rzbbcjnrsbk.com
 :: rzbsvyigbwip.com
 :: rzcmcqljwxyy.com
+:: rzddlsybql.com
 :: rzdpobutiy.com
 :: rzekbhnk.top
 :: rzfldcrlwe.com
@@ -64381,7 +63982,6 @@ ff02::2 ip6-allrouters
 :: s.d.adup-tech.com
 :: s.dpmsrv.com
 :: s.duapps.com
-:: s.eclick.vn
 :: s.effectivemeasure.net
 :: s.ero-advertising.com
 :: s.estat.com
@@ -64398,7 +63998,6 @@ ff02::2 ip6-allrouters
 :: s.ixiaa.com
 :: s.jsrdn.com
 :: s.jwpltx.com
-:: s.kenh14.vn
 :: s.ktxtr.com
 :: s.luxadv.com
 :: s.m2pub.com
@@ -64425,7 +64024,6 @@ ff02::2 ip6-allrouters
 :: s.shopify.com
 :: s.skimresources.com
 :: s.sniphub.com
-:: s.soha.vn
 :: s.ssacdn.com
 :: s.supersonicads.com
 :: s.tagsrvcs.com
@@ -64434,7 +64032,6 @@ ff02::2 ip6-allrouters
 :: s.thebrighttag.com
 :: s.tpctrust.com
 :: s.tribalfusion.com
-:: s.tuoitre.vn
 :: s.tyxo.com
 :: s.uadx.com
 :: s.update.3lift.com
@@ -64480,7 +64077,6 @@ ff02::2 ip6-allrouters
 :: s09.flagcounter.com
 :: s0s5e.voluumtrk.com
 :: s1.2mdn.net
-:: s1.cnzz.com
 :: s1.cz.adocean.pl
 :: s1.czgde.adocean.pl
 :: s1.doubleclick.net
@@ -64505,7 +64101,6 @@ ff02::2 ip6-allrouters
 :: s1.slimtrade.com
 :: s1.teknum.com
 :: s1.trafficmaxx.de
-:: s10.cnzz.com
 :: s10.flagcounter.com
 :: s10.hiadspaces.ero-advertising.com
 :: s10.hipaces.ero-advertising.com
@@ -64516,57 +64111,31 @@ ff02::2 ip6-allrouters
 :: s10.histats.com.ero-advertising.com
 :: s10.shinystat.com
 :: s10.sitemeter.com
-:: s101.cnzz.com
-:: s102.cnzz.com
-:: s103.cnzz.com
-:: s105.cnzz.com
-:: s106.cnzz.com
-:: s108.cnzz.com
 :: s109.cnzz.com
 :: s10paces.ero-advertising.com
 :: s11.cnzz.com
 :: s11.flagcounter.com
 :: s11.histats.com
 :: s11.sitemeter.com
-:: s110.cnzz.com
-:: s111.cnzz.com
-:: s112.cnzz.com
-:: s113.cnzz.com
-:: s115.cnzz.com
-:: s116.cnzz.com
-:: s118.cnzz.com
 :: s1184.t.eloqua.com
 :: s11clickmoviedownloadercom.maynemyltf.netdna-cdn.com
-:: s12.cnzz.com
 :: s12.sitemeter.com
-:: s120.cnzz.com
 :: s128.histats.com
 :: s129js.histats.com
 :: s12an3.boss.northerndishedends.uk
-:: s13.cnzz.com
 :: s13.sitemeter.com
-:: s130.cnzz.com
-:: s131.cnzz.com
-:: s132.cnzz.com
 :: s1325.t.eloqua.com
 :: s133d7.virtualxs.com
-:: s137.cnzz.com
-:: s14.cnzz.com
 :: s14.sitemeter.com
 :: s1415903351.t.eloqua.com
-:: s142.cnzz.com
 :: s1471.t.eloqua.com
 :: s1481.t.eloqua.com
-:: s15.cnzz.com
 :: s15.sitemeter.com
-:: s16.cnzz.com
 :: s16.sitemeter.com
 :: s164.211bs.serving-sys.com.1827.9021.302br.net
 :: s17.cnzz.com
 :: s17.sitemeter.com
-:: s18.cnzz.com
 :: s18.sitemeter.com
-:: s19.cnzz.com
 :: s19.sitemeter.com
 :: s2.ads.tradeads.eu
 :: s2.focalink.com
@@ -64584,27 +64153,20 @@ ff02::2 ip6-allrouters
 :: s2.statcounter.com
 :: s2.tracemyip.org
 :: s2.video.doubleclick.net
-:: s20.cnzz.com
 :: s20.sitemeter.com
 :: s20dh7e9dh.com
 :: s21.sitemeter.com
 :: s212.ucoz.net
 :: s2143.t.eloqua.com
 :: s2150.t.eloqua.com
-:: s22.cnzz.com
 :: s22.sitemeter.com
 :: s2206i.categoria.hpg.com.br
-:: s23.cnzz.com
 :: s23.sitemeter.com
-:: s24.cnzz.com
 :: s24.sitemeter.com
 :: s248.meetrics.net
 :: s25.sitemeter.com
-:: s26.cnzz.com
 :: s26.topstat.com
-:: s28.cnzz.com
 :: s282.meetrics.net
-:: s29.cnzz.com
 :: s290.meetrics.net
 :: s290.mxcdn.net
 :: s2block.com
@@ -64622,27 +64184,19 @@ ff02::2 ip6-allrouters
 :: s2wrw.voluumtrk.com
 :: s3-config.samsungacr.com
 :: s3-tracking.synthasite.net.s3.amazonaws.com
-:: s3.addthis.com
 :: s3.buysellads.com
-:: s3.cnzz.com
 :: s3.hit.stat.pl
 :: s3.hit.stat24.com
 :: s3.ongsono.com
 :: s3.pageranktop.com
 :: s3.phluant.com
 :: s3.shinystat.com
-:: s3.shinystat.it
 :: s3.ttpsdk.info
-:: s30.cnzz.com
 :: s300.meetrics.net
 :: s3015.t.eloqua.com
 :: s32.research.de.com
 :: s323.t.eloqua.com
-:: s33.cnzz.com
-:: s34.cnzz.com
 :: s361.meetrics.net
-:: s37.cnzz.com
-:: s38.cnzz.com
 :: s383.meetrics.net
 :: s3bvd.voluumtrk.com
 :: s3m.mediav.com
@@ -64650,15 +64204,11 @@ ff02::2 ip6-allrouters
 :: s3nit.voluumtrk.com
 :: s3s-main.net
 :: s3wfg.com
-:: s4.cnzz.com
 :: s4.histats.com
 :: s4.hit.stat.pl
 :: s4.hit.stat24.com
 :: s4.shinystat.com
-:: s4.shinystat.it
 :: s4.trafficmaxx.de
-:: s47.cnzz.com
-:: s48.cnzz.com
 :: s48bp.voluumtrk.com
 :: s4candroid.2cnt.net
 :: s4candroidtest.2cnt.net
@@ -64674,28 +64224,15 @@ ff02::2 ip6-allrouters
 :: s4tac.voluumtrk.com
 :: s4yxaqyq95.com
 :: s5.ads.tradeads.eu
-:: s5.cnzz.com
 :: s5.com
 :: s5.histats.com
 :: s5.shinystat.com
 :: s5.spn.ee
-:: s50.cnzz.com
-:: s51.cnzz.com
-:: s54.cnzz.com
-:: s55.cnzz.com
 :: s5ae4f.becks.petboutiquepawsnclaws.co.uk
-:: s6-pixel.c1exchange.com
 :: s6.netlogstatic.com
 :: s6.shinystat.com
-:: s61.cnzz.com
-:: s62.cnzz.com
 :: s62.research.de.com
 :: s626gk.pool.pchamberlain.co.uk
-:: s63.cnzz.com
-:: s65.cnzz.com
-:: s66.cnzz.com
-:: s68.cnzz.com
-:: s69.cnzz.com
 :: s6b3m.voluumtrk.com
 :: s6djof.koll.pershoreairporttransfers.co.uk
 :: s6hbo.voluumtrk.com
@@ -64704,32 +64241,18 @@ ff02::2 ip6-allrouters
 :: s7.addthis.com
 :: s7.cnzz.com
 :: s7.shinystat.com
-:: s70.cnzz.com
 :: s73.cnzz.com
-:: s76.cnzz.com
 :: s79.research.de.com
 :: s7c66wkh8k.com
 :: s7target.ru
 :: s7ven.com
-:: s8.cnzz.com
 :: s8.shinystat.com
-:: s80.cnzz.com
-:: s83.cnzz.com
-:: s84.cnzz.com
-:: s85.cnzz.com
-:: s88.cnzz.com
-:: s89.cnzz.com
 :: s8gby8.pal.wkcengland.co.uk
 :: s8t.teads.tv
 :: s9.addthis.com
-:: s9.cnzz.com
 :: s9.shinystat.com
 :: s90.cnzz.com
-:: s92.cnzz.com
-:: s94.cnzz.com
-:: s95.cnzz.com
 :: s95.research.de.com
-:: s99.cnzz.com
 :: s99i.org
 :: s9hc54.last.pershoreairporttaxis.co.uk
 :: s9kpd.voluumtrk.com
@@ -64767,8 +64290,10 @@ ff02::2 ip6-allrouters
 :: sadsecs.com
 :: sadsims.com
 :: sadsips.com
+:: sadsipz.com
 :: sadskis.com
 :: sadsoks.com
+:: sadspmz.com
 :: sadv.dadapro.com
 :: saemark.is
 :: saenrwiqesp.com
@@ -64789,21 +64314,16 @@ ff02::2 ip6-allrouters
 :: safetracgr.com
 :: safety.amw.com
 :: sagan.iad-03.braze.com
-:: sagbgtnmlaj.com
 :: sageanalyst.net
 :: sagedigital.checkm8.com
 :: sagetrc.com
 :: sagittarius.iad-01.braze.com
-:: sagukjshgifebs.bid
-:: sagulzuyvybu.com
 :: sahomerentals.com
 :: sahraex7vah.info
 :: sail-horizon.com
 :: sailif.com
 :: sailznsgbygz.com
-:: saipuciruuja.com
 :: sajari.com
-:: sajhiqlcsugy.com
 :: saksfifthavenue.122.2o7.net
 :: sakura-traffic.com
 :: sal.isanook.com
@@ -64826,13 +64346,11 @@ ff02::2 ip6-allrouters
 :: salesviewer.com
 :: salesviewer.org
 :: saletrack.co.uk
-:: salhbbkvs.com
 :: salon77.co.uk
 :: saltamendors.com
 :: salvador24.com
 :: sam4m.com
 :: sambaads.com
-:: samlmqljptbd.com
 :: sammix.adsame.com
 :: sammobile.pushbird.com
 :: samsclub.r.delivery.net
@@ -64846,7 +64364,6 @@ ff02::2 ip6-allrouters
 :: sana.newsinc.com.s3.amazonaws.com
 :: sana.newsinccom.s3.amazonaws.com
 :: sanalytics.disneyplus.com
-:: sanalytics.tntdrama.com
 :: sanalytics.verizonwireless.com
 :: sanalytics.virginmobileusa.com
 :: sand-01.adnxs.com
@@ -64855,8 +64372,6 @@ ff02::2 ip6-allrouters
 :: sandbox.outbrain.com
 :: sandbox.sjws.baidu.com
 :: sandbox.stickyadstv.com
-:: sandzfuay.bid
-:: sanksvohixxnlf.com
 :: santacruzsentinelcom.112.2o7.net
 :: santacruzsuspension.com
 :: sanya.vipc2f.com
@@ -64867,8 +64382,6 @@ ff02::2 ip6-allrouters
 :: sape.ru
 :: sapha.com
 :: sapremium.go2cloud.org
-:: sapvummffiay.com
-:: saqcgojcure.bid
 :: sarahdaniella.com
 :: sardfereose.com
 :: sare25.com
@@ -64882,9 +64395,7 @@ ff02::2 ip6-allrouters
 :: sascdn.com
 :: sascentral.com
 :: sasdk.3g.qq.com
-:: sasieidpe.bid
 :: saspreview.com
-:: sasqhtfxsnklxn.bid
 :: sassolitesffuzwmv.download
 :: sasson-cpa.co.il
 :: sassvodetba.download
@@ -64892,12 +64403,9 @@ ff02::2 ip6-allrouters
 :: sat.scoutanalytics.com
 :: sat101.webtrekk.net
 :: satgreera.com
-:: satjrvwtaertn.com
 :: satyridsochasuzk.download
 :: saub27i3os.com
-:: sauispjbeisl.com
 :: sautemoo.net
-:: saveads.net
 :: saveology.go2cloud.org
 :: savings-galleria.com
 :: savoretti-ds.it
@@ -64926,9 +64434,7 @@ ff02::2 ip6-allrouters
 :: saxp.zedo.com
 :: sayac.onlinewebstat.com
 :: sayac.onlinewebstats.com
-:: saybfmfptfjlv.bid
 :: sayhello.popunder.ru
-:: saylbisqotwixm.bid
 :: saymedia-d.openx.net
 :: saymedia.com
 :: saysidewalk.com
@@ -64947,31 +64453,21 @@ ff02::2 ip6-allrouters
 :: sbardlhk.com
 :: sbbanner.com
 :: sbcpower.com
-:: sbdedksgqu.com
 :: sbdhealth.go2cloud.org
 :: sbdtds.com
-:: sbdufkkcp.bid
 :: sbealpvjpzzs.com
 :: sbfsdvc.com
-:: sbftffngpzwt.com
 :: sbgftsoe.com
 :: sbhc.portalhc.com
-:: sbhnftwdlpbo.com
 :: sbifdctojpisuw.com
-:: sbkcxjaktdv.bid
 :: sbkjxpwxrmk.com
 :: sbkozmohwzerlldb.capture.umbel.com
-:: sbkuytscekitph.bid
 :: sblcjzjp.com
-:: sblqlcjk.bid
 :: sbmdsfld.com
 :: sbmijpifoszz.com
 :: sbnationbidder-d.openx.net
 :: sbnc.hak.su
-:: sbnvqpfya.bid
 :: sbopaitvwpzilp.com
-:: sbovclzywkbk.bid
-:: sbpcnpysxbs.bid
 :: sbrjgqeppcarbuncle.review
 :: sbs-ad.com
 :: sbs.2cnt.net
@@ -64983,8 +64479,6 @@ ff02::2 ip6-allrouters
 :: sbups6.moro.pershoreprivatehire.co.uk
 :: sbux-dl.urbanairship.com
 :: sbx.pagesjaunes.fr
-:: sbxzvllyahzn.com
-:: sbzngfrmgizpj.bid
 :: sc-a-lbs.focalink.com
 :: sc-analytics.appspot.com
 :: sc-forbes.forbes.com
@@ -65030,10 +64524,7 @@ ff02::2 ip6-allrouters
 :: scarf.ensighten.com
 :: scarthspnckx.download
 :: scatteredheat.com
-:: scbffqszd.bid
 :: scbl54virared.com
-:: scbnvzfscfmn.com
-:: scbywuiojqvh.com
 :: scc.ssacdn.com
 :: sccqbcwwuoerlikon.review
 :: scd.secureintl.com
@@ -65044,11 +64535,7 @@ ff02::2 ip6-allrouters
 :: sceieibhpdday.com
 :: scenbe.com
 :: sceno.ru
-:: sceuexzmiwrf.com
-:: scfkfridulshkd.com
 :: scfksihyg.legacyminerals.net
-:: scgnsficmwipuj.bid
-:: scgyndrujhzf.com
 :: schaeffers.112.2o7.net
 :: schedhomoso.pro
 :: schemas.microsoft.akadns.net
@@ -65070,18 +64557,13 @@ ff02::2 ip6-allrouters
 :: scintillatingscissors.com
 :: scintillatingspace.com
 :: scjczeqyuqjs.com
-:: sckpttzpnfimba.bid
 :: sckuhytswbs.com
 :: sckzvqadc.com
-:: scl-v4.pops.fastly-insights.com
 :: scleavshdrz.com
 :: scleromanongsf.download
 :: sclick.baidu.com
 :: scluvkzgdowel.review
-:: scmffjmashzc.com
 :: scnt.rambler.ru
-:: scofnjymyym.bid
-:: scomcluster.cxense.com
 :: scontent.services.tvn.pl
 :: scoobyads.com
 :: scootloor.com
@@ -65131,7 +64613,6 @@ ff02::2 ip6-allrouters
 :: script.crsspxl.com
 :: script.dotmetrics.net
 :: script.footprintlive.com
-:: script.idvert.cz
 :: script.ioam.de
 :: script.leadboxer.com
 :: script.opentracker.net
@@ -65156,7 +64637,6 @@ ff02::2 ip6-allrouters
 :: scripts.hellobar.com
 :: scripts.host.bannerflow.com
 :: scripts.insite.com.br
-:: scripts.kataweb.it
 :: scripts.kiosked.com
 :: scripts.kissmetrics.com
 :: scripts.lycos.com
@@ -65175,7 +64655,6 @@ ff02::2 ip6-allrouters
 :: scripts.webspectator.com
 :: scripts21.com
 :: scriptshead.com
-:: scrltyokacghvd.bid
 :: scrollingads.hustlermegapass.com
 :: scrooge.click10.com
 :: scrooge.nbc11.com
@@ -65192,10 +64671,7 @@ ff02::2 ip6-allrouters
 :: scsklzqwme.com
 :: scubajournal.com
 :: scupio.com
-:: scuwbelujeeu.com
 :: scvdxxgbvoz.com
-:: scvonjdwad.bid
-:: scxxbyqjslyp.com
 :: scytalesezqaxxr.download
 :: scz.hit.gemius.pl
 :: sczcxmaizy.com
@@ -65240,8 +64716,6 @@ ff02::2 ip6-allrouters
 :: sdcexecs.us.intellitxt.com
 :: sddan.com
 :: sdeadbqsjam.com
-:: sdemctwaiazt.com
-:: sdfmxhdj.bid
 :: sdfsdvc.com
 :: sdg-translations.com
 :: sdgvzdksjbl.com
@@ -65434,10 +64908,7 @@ ff02::2 ip6-allrouters
 :: sdkv2.imaginationunwired.com
 :: sdkvideo.s3.amazonaws.com
 :: sdkweb.playstove.com
-:: sdmfzlswxgzl.com
-:: sdmhsxlp.bid
 :: sdpg.ksapisrv.com
-:: sdqspuyipbof.com
 :: sdr.totango.com
 :: sdrive.skoda-auto.com
 :: sdsbucket.s3.amazonaws.com
@@ -65445,7 +64916,6 @@ ff02::2 ip6-allrouters
 :: sdsibgsv.beckmenlawfirm.net
 :: sdtimes.us.intellitxt.com
 :: sdtqotoe.com
-:: sdvgglhp.bid
 :: sdwkbc.beckmenlawfirm.info
 :: sdytygrznweksx.com
 :: sdzwkmokd.com
@@ -65455,10 +64925,8 @@ ff02::2 ip6-allrouters
 :: se.ads.justpremium.com
 :: se.adserver.yahoo.com
 :: se.cqcounter.com
-:: se.monetate.net
 :: sea-nov-1.com
 :: sea-u.openx.net
-:: sea-v4.pops.fastly-insights.com
 :: sea.advertising.yahoo.com
 :: sea.effectivemeasure.net
 :: seacoastonlinecom.112.2o7.net
@@ -65530,9 +64998,7 @@ ff02::2 ip6-allrouters
 :: seattle-times-d.openx.net
 :: seavideo-ak.espn.go.com
 :: seawood.org
-:: seaxhrqc.bid
 :: seb.d1.sc.omtrdc.net
-:: seb.scorecardresearch.com
 :: sebcotrk.com
 :: sebdaadnodjt.com
 :: sebeadmin.justclick.ru
@@ -65610,7 +65076,6 @@ ff02::2 ip6-allrouters
 :: secure.bigfatjuicylesbians.com
 :: secure.cardtransaction.com
 :: secure.cpaempire.com
-:: secure.directtrack.com
 :: secure.download-sponsor.de
 :: secure.eloqua.com
 :: secure.exoclick.com
@@ -65725,16 +65190,13 @@ ff02::2 ip6-allrouters
 :: segments.company-target.com
 :: segments.scopely.io
 :: segs.btrll.com
-:: seiqobwpbofg.com
 :: seitentipp.com
 :: seitwert.de
 :: seiya.work
 :: sejs.moatads.com
-:: sekajiwqmym.com
 :: sekindo-d.openx.net
 :: sekindo.co.il
 :: sekindo.com
-:: sekllcjbujp.bid
 :: sekusfrgojuc.com
 :: sel-sel-fie.com
 :: selaris.com
@@ -65783,7 +65245,6 @@ ff02::2 ip6-allrouters
 :: semnicneposilejte.cz
 :: semrush.com
 :: semtracker.de
-:: semvdooatmd.bid
 :: send.microad.jp
 :: send.microadinc.com
 :: send4fun.com
@@ -65796,11 +65257,9 @@ ff02::2 ip6-allrouters
 :: sendmepush.com
 :: sendptp.com
 :: sendtraffic.com
-:: senfvsdvtsn.com
 :: sengreensbaxsovax.download
 :: seniorbaniaasth.info
 :: senolati.com
-:: senrzuolwqvj.com
 :: sense360eng.com.herokudns.com
 :: senseiproducts.com
 :: sensible-ads.com
@@ -65823,7 +65282,6 @@ ff02::2 ip6-allrouters
 :: seoproofits.justclick.ru
 :: seoradar.ro
 :: seotoolscentral.com
-:: seotpqntjukhg.bid
 :: separatesilver.com
 :: separatingvqeikpmhz.download
 :: separtnership.com
@@ -65836,12 +65294,12 @@ ff02::2 ip6-allrouters
 :: ser.adledge.com
 :: serating.ru
 :: serconmp.com
-:: serenescreen-marine-aquarium.en.softonic.com
 :: sergarius.popunder.ru
 :: serialbay.com
 :: serializedwzrxrhw.download
 :: serie-vostfr.com
 :: seriend.com
+:: seriorladded.info
 :: serious-partners.com
 :: seriousfiles.com
 :: serpanel.com
@@ -66083,7 +65541,6 @@ ff02::2 ip6-allrouters
 :: services.zam.com
 :: services1.adtech.fr
 :: servicetick.com
-:: serving-ad.tv24.vn
 :: serving-sys.com
 :: serving-sys.com.36659.9244.302br.net
 :: serving-system.com
@@ -66105,7 +65562,6 @@ ff02::2 ip6-allrouters
 :: session.timecommerce.net
 :: sessioncam.com
 :: sessionm.com
-:: sessions.bugsnag.com
 :: sessions.exchange
 :: sessions.mobileroadie.com
 :: sessionstack.com
@@ -66152,15 +65608,11 @@ ff02::2 ip6-allrouters
 :: sexystat.com
 :: sexyster.tk
 :: sexzoznamka.eu
-:: seympfgeyrew.com
 :: seznam.hit.gemius.pl
 :: sezwho.com
 :: sf.bizible.com
 :: sf.vserv.mobi
 :: sf14g.com
-:: sfaprgtgcguh.com
-:: sfawiner.com
-:: sfcckxdgfgzo.com
 :: sfcjfby.beckmenlaw.com
 :: sfera-d.openx.net
 :: sff.liberty-land-services.com
@@ -66168,9 +65620,7 @@ ff02::2 ip6-allrouters
 :: sfg-d.openx.net
 :: sfgkhgfdsochwd.com
 :: sfgybrfoveracting.review
-:: sfgymajb.bid
 :: sfhrxcbbmtfqw.com
-:: sfhyxyodjllrd.bid
 :: sfkxmchhswobcq.com
 :: sfl.downloadfilesnow.info
 :: sfl.erw.downloadfilesnow.info
@@ -66180,15 +65630,12 @@ ff02::2 ip6-allrouters
 :: sfmc.urbanairship.com
 :: sfmgzvam.com
 :: sfmnafrufk.com
-:: sfmzbrdtse.com
-:: sfmziexfvvru.com
 :: sfo1.ipromote.com
 :: sfo2.ipromote.com
 :: sfo3.ipromote.com
 :: sfo4.ipromote.com
 :: sfokenghj.com
 :: sfoprod-rtbwin.applovin.com
-:: sfpkwhncpllt.com
 :: sfrsuihcubepzd.com
 :: sfsjgcjk.legacyminerals.com
 :: sftp.barb.2cnt.net
@@ -66198,8 +65645,6 @@ ff02::2 ip6-allrouters
 :: sfw.adsafeprotected.com
 :: sfxmdqbi.com
 :: sfxuiadi.com
-:: sfzcbcrwxhic.com
-:: sfzfjiefentwe.com
 :: sg-ad.sam4m.com
 :: sg-cdn.effectivemeasure.net
 :: sg-gmtdmp.gd2.mookie1.com
@@ -66229,24 +65674,18 @@ ff02::2 ip6-allrouters
 :: sg01.smardroid.com
 :: sg2p.wns.windows.com
 :: sgbid.prod.sift.co
-:: sgccsauvct.bid
+:: sgbmhkptxali.com
 :: sgcdn.duplomediaas.netdna-cdn.com
-:: sgeeavwmk.com
 :: sgewan.gow.englishwoodlands.co.uk
-:: sgfcsnwegazn.com
 :: sgggjaosyrxr.com
-:: sghradxea.bid
 :: sgidkvwd.com
 :: sgiegeexposture.review
 :: sgiueejx.com
 :: sgiz.mobi
-:: sgkcijmcduuhhq.bid
 :: sgmedia.adspirit.net
 :: sgmneqaebkzjug.com
 :: sgp.smartadserver.com
-:: sgpbbfdchy.com
 :: sgpublic.yomob.com.cn
-:: sgqmhpqrstwzwd.com
 :: sgqqhydoovcd.com
 :: sgrreqyxvigwuh.com
 :: sgs.us.com
@@ -66256,7 +65695,6 @@ ff02::2 ip6-allrouters
 :: sgxaqysyilwkiu.com
 :: sgycfrrkz.com
 :: sgzlmagzrrk.com
-:: sgzsviqlvcxc.com
 :: sh.adingo.jp
 :: sh.creativcdn.net
 :: sh.g5e.com
@@ -66289,7 +65727,6 @@ ff02::2 ip6-allrouters
 :: shared.65twenty.com
 :: shared.9msn.com.au
 :: shared.iad.appboy.com
-:: sharefb.cnnd.vn
 :: sharegods.com
 :: sharelog-qa.midasplayer.com
 :: sharelog.midasplayer.com
@@ -66320,12 +65757,9 @@ ff02::2 ip6-allrouters
 :: shfr.hernando.com
 :: shftscdisov.com
 :: shgvuhvf.com
-:: shhngaasah.com
-:: shhrbeffgz.com
 :: shidvvvhi.com
 :: shield.sitelock.com
 :: shihuo.shihuo.cn-hangzhou.log.aliyuncs.com
-:: shiloso.info
 :: shiltirs.com
 :: shinasi.info
 :: shinystat.com
@@ -66341,8 +65775,6 @@ ff02::2 ip6-allrouters
 :: shmonekisot.com
 :: shmoop-d.openx.net
 :: shmpdqwucl.com
-:: shnmhrlcredd.com
-:: shnoadlvpylf.com
 :: shoal.grahanusareadymix.com
 :: shockinggrass.com
 :: shockingship.com
@@ -66363,7 +65795,6 @@ ff02::2 ip6-allrouters
 :: shop115048570.taobao.com
 :: shopalyst.com
 :: shoparty.metrilo.com
-:: shopdunk.baomoi.com
 :: shopexplorer.com
 :: shopilize.com
 :: shopnetic.com
@@ -66416,19 +65847,15 @@ ff02::2 ip6-allrouters
 :: showyoursite.com
 :: shoxyloxi.com
 :: shqads.com
-:: shthbopqoz.bid
 :: shtkybxv.com
 :: shtuppingxpacoed.download
 :: shufflepointads.go2cloud.org
-:: shulhanafuh.com
 :: shusacem.net
 :: shuteehe.net
+:: shutternsbe.info
 :: shuxcbgab.com
-:: shvdvzydgryx.com
 :: shvjvbmyyyfa.com
-:: shxbqzirzonks.bid
 :: shyseed.com
-:: shyyyxjw.com
 :: si.2.cqcounter.com
 :: si.adocean.pl
 :: si.hit.gemius.pl
@@ -66452,11 +65879,8 @@ ff02::2 ip6-allrouters
 :: sidebar.angelfire.com
 :: sidebar.issuu.com
 :: sidecar.gitter.im
-:: sideshow.directtrack.com
 :: sielsmaats.com
 :: siemens.d1.sc.omtrdc.net
-:: sifomedia.aftonbladet.se
-:: sifomedia.idg.se
 :: sifomedia.se
 :: sift-campaign-creatives.s3.amazonaws.com
 :: sift.com
@@ -66508,10 +65932,6 @@ ff02::2 ip6-allrouters
 :: signup.clicksor.com
 :: sihciabzm.com
 :: sihjnaojbrs.com
-:: sihmlqhicmzvx.com
-:: siihxeeb.com
-:: sijlnueeertd.com
-:: sijsquplpjg.com
 :: siliconaction.com
 :: siliconera.us.intellitxt.com
 :: siliconopolis.tk
@@ -66519,7 +65939,6 @@ ff02::2 ip6-allrouters
 :: silkgrassonderskikking.altcandidate.com
 :: silkysquirrel.com
 :: sillyscrew.com
-:: silrfbopbobw.com
 :: silstavo.com
 :: silurian.cn
 :: silvalliant.info
@@ -66561,7 +65980,6 @@ ff02::2 ip6-allrouters
 :: simplymeasured.com
 :: simvinvo.com
 :: simyo.adclear.net
-:: sin-v4.pops.fastly-insights.com
 :: sin.ero-advertising.com
 :: sin.fb.adsrvr.org
 :: sin1-ib.adnxs.com
@@ -66570,7 +65988,6 @@ ff02::2 ip6-allrouters
 :: sin1.ipromote.com
 :: sin2.ipromote.com
 :: sincerebuffalo.com
-:: sinceresofa.com
 :: sincerespy.com
 :: sinclair-tagan.adlightning.com
 :: sindatontherrom.info
@@ -66588,9 +66005,7 @@ ff02::2 ip6-allrouters
 :: sinuatemedia.com
 :: sinvideo.adsrvr.org
 :: sinyfqrmiqgd.com
-:: siogczwibswm.com
 :: siqcrwlrqjc.com
-:: sirablivefbxul.bid
 :: siradsalot.com
 :: sired.com
 :: sirius.iad-03.braze.com
@@ -66605,7 +66020,6 @@ ff02::2 ip6-allrouters
 :: site-stats.i8.com
 :: site-stats.rbl.ms
 :: site-submit.com.ua
-:: site.answers.com
 :: site.falconbucks.com
 :: site.johnlewis.com
 :: site24x7rum.com
@@ -66663,12 +66077,8 @@ ff02::2 ip6-allrouters
 :: sitionne.pro
 :: sitizy.network
 :: sittiad.com
-:: siuhfvgambevyz.bid
-:: siuletrtmkk.com
 :: sivqblzejhx.com
-:: siwbori.info
 :: siwtbongdxve.com
-:: siwtuvvgraum.com
 :: six.villakayenta.com
 :: sixautch.com
 :: sixinpic.ksapisrv.com
@@ -66690,7 +66100,6 @@ ff02::2 ip6-allrouters
 :: sjc-g007.us.intellitxt.com
 :: sjc-login.dotomi.com
 :: sjc-usadmm.dotomi.com
-:: sjc-v4.pops.fastly-insights.com
 :: sjc.ads.nexage.com
 :: sjc.ads0.nexage.com
 :: sjc01-convex.dotomi.com
@@ -66729,17 +66138,9 @@ ff02::2 ip6-allrouters
 :: sjedt.adsafeprotected.com
 :: sjepm.adsafeprotected.com
 :: sjfbb.areteenergy.info
-:: sjgklyyyraghhrgimsepycygdqvezppyfjkqddhlzbimoabjae.com
-:: sjgttcfj.com
 :: sjjazrfvzbkt.com
-:: sjkcufcpgzsno.bid
 :: sjkqyehjo.com
-:: sjlgoazubflpcs.com
-:: sjmwugmtfeuu.com
-:: sjnfgvjizo.bid
-:: sjpexaylsfjnopulpgkbqtkzieizcdtslnofpkafsqweztufpa.com
 :: sjqpctsz.com
-:: sjqskcctmv.com
 :: sjrtp-cdn.marketo.com
 :: sjrtp1.marketo.com
 :: sjrtp2-cdn.marketo.com
@@ -66757,8 +66158,6 @@ ff02::2 ip6-allrouters
 :: sjrtp8-cdn.marketo.com
 :: sjrtp8.marketo.com
 :: sjs.bizographics.com
-:: sjtevvoviqhe.com
-:: sjustus.info
 :: sjv.io
 :: sjwdbzsa.com
 :: sjwnhrypuxrzv.com
@@ -66771,7 +66170,6 @@ ff02::2 ip6-allrouters
 :: sk8t.fr
 :: ska.energia.cz
 :: skai.iad-03.braze.com
-:: skaulppmndy.bid
 :: skbfcj.adpairconditioning.com
 :: skcyigichh.com
 :: skexyyqu.com
@@ -66788,16 +66186,12 @@ ff02::2 ip6-allrouters
 :: skin.mobilesentrix.com
 :: skinected.com
 :: skinhead.com
-:: skknyxzaixws.com
 :: sklentedjibkmbouo.download
-:: sklulpbnbqf.bid
 :: skoovyads.com
-:: skoyuoqhcpxol.bid
 :: sksalqvpoc.com
 :: sksncks.bcdalaw.com
 :: skspurybnv.com
 :: sksytkvnvnmz.com
-:: sktmonpbfgxamj.bid
 :: skurki.info
 :: skw.adledge.com
 :: skwheunderlines.review
@@ -66819,9 +66213,7 @@ ff02::2 ip6-allrouters
 :: skyrocketingmedia.go2cloud.org
 :: skyscrpr.com
 :: skytvonline.tv
-:: skzhfyqozkic.com
 :: skzpsnpp.com
-:: skzsukues.bid
 :: sl-ct5.com
 :: sl3tsw6.com
 :: sladermobile-d.openx.net
@@ -66836,17 +66228,13 @@ ff02::2 ip6-allrouters
 :: slbbbcom.112.2o7.net
 :: slc.stats.paypal.com
 :: slckg-2p3vy.ads.tremorhub.com
-:: sldtsvjnpwundn.bid
 :: sleep.vermontteddybear.com
 :: sleepcartoon.com
-:: slekgfwlrwfmes.bid
 :: sletqnksol.com
 :: slfjsqnmp.com
 :: slfnmzblblowsy.review
 :: slfpu.com
 :: slfsmf.com
-:: slfxmsziv.bid
-:: slgcheqbrmu.bid
 :: slgynezaygkjqi.com
 :: slickaffiliate.com
 :: slickdeals.meritline.com
@@ -66952,16 +66340,11 @@ ff02::2 ip6-allrouters
 :: slimxxxtubeyge.ddns.name
 :: slimxxxtubeyhz.ddns.name
 :: slimxxxtubeyza.ddns.name
-:: slinadu.info
 :: slingersdlbrbhjs.download
 :: slingpic.com
 :: slinse.com
 :: slipperysack.com
-:: slkuqvkhamt.bid
-:: slkwhwontxavyt.bid
-:: slmmjkkvbkyp.com
 :: slo-engine.intextad.net
-:: sloaltbyucrg.com
 :: sloanreview-d.openx.net
 :: sloansagnersro.com
 :: slogantrend.de
@@ -66974,7 +66357,6 @@ ff02::2 ip6-allrouters
 :: slt.hit.gemius.pl
 :: sltravelcom.112.2o7.net
 :: sltrib-d.openx.net
-:: slurolen.com
 :: slushingfcikpfvjt.download
 :: slv1.lavanetwork.net
 :: slvcwiabpgyxa.com
@@ -66989,7 +66371,6 @@ ff02::2 ip6-allrouters
 :: sm3.sitemeter.com
 :: sm4.sitemeter.com
 :: sm5.sitemeter.com
-:: sm534z1jpx.com
 :: sm6.sitemeter.com
 :: sm7.sitemeter.com
 :: sm8.sitemeter.com
@@ -67025,8 +66406,6 @@ ff02::2 ip6-allrouters
 :: smart4ads.com
 :: smartabouthealth.us.intellitxt.com
 :: smartad.ee
-:: smartad.mercadolibre.com.ar
-:: smartad.mercadolivre.com.br
 :: smartadserver.com
 :: smartadserver.ru
 :: smartadtags.com
@@ -67102,8 +66481,6 @@ ff02::2 ip6-allrouters
 :: smetrics.yellowbook.com
 :: smfgroup.cjb.net
 :: smgaklckpszzd.com
-:: smhqmrxplvnx.com
-:: smhyvyvnpzigir.com
 :: smibs.112.2o7.net
 :: smigro.info
 :: smilepop.com
@@ -67116,10 +66493,8 @@ ff02::2 ip6-allrouters
 :: smilll.depozit.hr
 :: smintmouse.com
 :: smirchedsapkthxmy.download
-:: smjdypbxapigu.bid
 :: smjmp.net
 :: smnkyzqzfxk.com
-:: smnpsburn.com
 :: smockingbjyvmh.download
 :: smokingeverywhere.122.2o7.net
 :: smokinggun.122.2o7.net
@@ -67135,14 +66510,12 @@ ff02::2 ip6-allrouters
 :: smpopmech.112.2o7.net
 :: smrcek.com
 :: smrk.io
-:: smrqvdpgkbvz.com
 :: smrt.as
 :: smrtb.com
 :: smrtlnks.com
 :: sms-mmm.com
 :: sms.otair.com
 :: sms18.in.com
-:: smsbyoxarip.bid
 :: smssts.3g.cn
 :: smt.admaster.com.cn
 :: smtp.ero-advertising.com
@@ -67152,15 +66525,10 @@ ff02::2 ip6-allrouters
 :: smtp.yeahmobi.com
 :: smtp.zedo.com
 :: smtrack.go2affise.com
-:: smtuovnhxnn.bid
 :: smudgy.info
-:: smudlbatfjbut.bid
 :: smurringdimmv.download
 :: smuucatbrc.com
-:: smwrjtdzhg.com
 :: smwww.112.2o7.net
-:: smzvvqztihof.com
-:: smzxkkyuinecwa.com
 :: sn-gzzx.com
 :: sn.moatads.com
 :: sn00.net
@@ -67170,7 +66538,6 @@ ff02::2 ip6-allrouters
 :: snack-media.com
 :: snagajob-d.openx.net
 :: snagajob.122.2o7.net
-:: snakesort.com
 :: snambepupkjggz.com
 :: snap.adsrvr.org
 :: snap.com
@@ -67187,32 +66554,20 @@ ff02::2 ip6-allrouters
 :: snapsmedia.io
 :: snapsort-d.openx.net
 :: snapvine.club
-:: snaxbgzg.bid
 :: snbybgwiyfug.com
 :: snckdjuymeopsc.com
-:: sncpizczabhhafkzeifklgonzzkpqgogmnhyeggikzloelmfmd.com
 :: sndgydifipxuui.com
 :: sndkorea.co.kr
 :: sndkorea.nowcdn.co.kr
 :: sneakystamp.com
-:: snetddbbbgbp.com
 :: snfhwcvdqxioj.com
-:: snfqpqyecdrb.com
-:: sngjaetjozyr.com
-:: snhfjfnvgnry.com
-:: snhfmewkai.bid
-:: snhqkvmhcoh.com
 :: snhsoclobbos.com
-:: snhuxhdjlxrd.bid
 :: sniff.visistat.com
 :: snigel-d.openx.net
 :: snimi-sam.justclick.ru
-:: snip.answers.com
 :: sniperlog.ru
 :: sniphub.com
-:: snjhhcnr.com
 :: snmgqbgbrh.com
-:: snnd.co
 :: snoobi.com
 :: snowforce.sharethrough.com
 :: snowmenwwrotgud.download
@@ -67222,7 +66577,6 @@ ff02::2 ip6-allrouters
 :: snowplowcollector-env-3.us-east-1.elasticbeanstalk.com
 :: snowplowcollector.talkspace.com
 :: snowsignal.com
-:: snpevihwaepwxapnevcpiqxrsewuuonzuslrzrcxqwltupzbwu.com
 :: snrbox.com
 :: snrmqtnnlxdgdh.com
 :: snrtp-cdn.marketo.com
@@ -67231,10 +66585,7 @@ ff02::2 ip6-allrouters
 :: snsgckygbed.com
 :: snsgsqyv.com
 :: snssdk1233.onelink.me
-:: snsyebgupi.bid
 :: snuokyvjn.com
-:: snwmedia.adk2x.com
-:: snxjlicc.com
 :: snxvrnhe.com
 :: snyrblftgu.com
 :: so-excited.com
@@ -67281,10 +66632,8 @@ ff02::2 ip6-allrouters
 :: socketio-dev.taplytics.com
 :: socketio.taplytics.com
 :: socketviking.net
-:: sockjgaabayf.com
 :: soclock.com
 :: socsi.in
-:: socxihke.bid
 :: soda.startappservice.com
 :: soda1.midasplayer.com
 :: sodoit.com
@@ -67295,7 +66644,6 @@ ff02::2 ip6-allrouters
 :: sofa01.webtrekk.net
 :: sofeminine.uk.intellitxt.com
 :: sofia.ai
-:: sofia.trustx.org
 :: soflopxl.com
 :: soft32.us.intellitxt.com
 :: soft4dle.com
@@ -67319,16 +66667,11 @@ ff02::2 ip6-allrouters
 :: softwareupdaterlp.com
 :: softxbutt.com
 :: sohasdk.sohacorp.vn
-:: sohdqpqlgis.com
 :: sohh.us.intellitxt.com
 :: sohutv.cm.admaster.com.cn
 :: soibuuqqhuyo.com
-:: soiegibhwvti.com
-:: soirqzccdtyk.com
 :: sojern.com
 :: soju.openx.net
-:: soka-adserver.c1exchange.com
-:: sokanffuyinr.com
 :: sokitosa.com
 :: soko.ai
 :: sokrates.adtech.fr
@@ -67392,7 +66735,6 @@ ff02::2 ip6-allrouters
 :: sophiasearch.com
 :: sophus3.com
 :: sopot24.itg78.ru
-:: sopzefqypxas.bid
 :: sor-sdk.follow-apps.com
 :: sororiallyfdnstbxp.download
 :: soros.departamentosejecutivos.cl
@@ -67402,8 +66744,6 @@ ff02::2 ip6-allrouters
 :: sosbyncpkyw.com
 :: sosharpcorporation.go2cloud.org
 :: soska.us
-:: sossxjmotqqs.com
-:: soszgtvox.bid
 :: sotuktraffic.com
 :: soul.doctortoken.co.in
 :: soundadgroup.go2cloud.org
@@ -67414,7 +66754,6 @@ ff02::2 ip6-allrouters
 :: source.bidgear.com
 :: source.esportsheaven.com
 :: sourcecode.pro
-:: sourceforgemedia-computing.t.domdex.com
 :: sourcemedia-d.openx.net
 :: sourcepoint.vice.com
 :: sousquywpscd.download
@@ -67422,20 +66761,15 @@ ff02::2 ip6-allrouters
 :: southwest-airlines-mkt-prod1-lb.campaign.adobe.com
 :: southwestairlines.sc.omtrdc.net
 :: southwestairlines.tt.omtrdc.net
-:: sovcbhem.bid
 :: sovetnik.go2cloud.org
-:: sovqylkbucid.com
 :: sovrn.com
 :: soxorok.ddospower.ro
 :: sozcu.pushwoosh.com
-:: sozdyrrtsvr.com
 :: sp-prod.net
 :: sp.analytics.yahoo.com
 :: sp.yieldify.com
 :: sp0.baidu.com
 :: sp1.baidu.com
-:: sp1cluster.cxense.com
-:: spa.chiji8.info
 :: spacash.com
 :: space-link.de
 :: space.us.intellitxt.com
@@ -67462,12 +66796,10 @@ ff02::2 ip6-allrouters
 :: sparnove.com
 :: spartorshecrablac.pro
 :: spatsz.com
-:: spbflxvnheih.com
 :: spc.ceahcdiflefhadbgigaheffe.iban.telemetryverification.net.47289.9351.302br.net
 :: spc.cefdfgjcdedhnejehfdekfad.iban.telemetryverification.net.47290.9351.302br.net
 :: spc.cegeihmgcfefpedefemeogbe.iban.telemetryverification.net.47544.9351.302br.net
 :: spc.cejhbebefgneifcekhfgggff.iban.telemetryverification.net.47287.9351.302br.net
-:: spcpgtepary.com
 :: spd.atdmt.com
 :: spd.atdmt.speedera.net
 :: spd.pointroll.com
@@ -67480,6 +66812,7 @@ ff02::2 ip6-allrouters
 :: specially4u.net
 :: specialoffers.aol.com
 :: specialstat.com
+:: speciativepickedly.info
 :: specific-match.dotomi.com
 :: specificads.go2affise.com
 :: specificclick.net
@@ -67525,9 +66858,7 @@ ff02::2 ip6-allrouters
 :: spencergifts.112.2o7.net
 :: sperse.com
 :: spezialreporte.de
-:: spfrlpjmvkmq.com
 :: spgjtypydhdxl.com
-:: sphjqakwuteg.com
 :: spi.domainsponsor.com
 :: spica.iad-03.braze.com
 :: spicymobile.go2affise.com
@@ -67538,7 +66869,6 @@ ff02::2 ip6-allrouters
 :: spiegel.rce.veeseo.com
 :: spiffymachine.com
 :: spikemedia-d.openx.net
-:: spillvacation.com
 :: spin.spinbox.net
 :: spinbox.freedom.com
 :: spinbox.net
@@ -67572,7 +66902,6 @@ ff02::2 ip6-allrouters
 :: spncdypq.com
 :: spolecznosci-d.openx.net
 :: spolecznosci.net
-:: spomwstrgood.com
 :: spongecell.com
 :: sponsorads.de
 :: sponsorcounter.de
@@ -67624,7 +66953,6 @@ ff02::2 ip6-allrouters
 :: spotsniper.ru
 :: spottednoise.com
 :: spottt.com
-:: spottysense.com
 :: spotx-match.dotomi.com
 :: spotx.tv
 :: spotxcdn.com
@@ -67654,7 +66982,6 @@ ff02::2 ip6-allrouters
 :: sproose.com
 :: sprout-ad.com
 :: sprung.go2cloud.org
-:: spstaticimg.ameba.jp
 :: sptag.com
 :: sptag1.com
 :: sptag2.com
@@ -67684,7 +67011,6 @@ ff02::2 ip6-allrouters
 :: sq2trk2.com
 :: sqate.io
 :: sqcolqeo.com
-:: sqcqnwykz.bid
 :: sqjlctmtc.com
 :: sqkrzzggis.com
 :: sql.doublepimp.com
@@ -67693,13 +67019,9 @@ ff02::2 ip6-allrouters
 :: sqm.telemetry.microsoft.com
 :: sqm.telemetry.microsoft.com.nsatc.net
 :: sqm.woniu.com
-:: sqmeqfffehg.bid
-:: sqnezuqjdbhe.com
 :: sqnkkpba.com
-:: sqopuafrwvnouz.bid
 :: sqrmweiehtpwp.com
 :: sqsdyfgyjdjbx.com
-:: sqtsuzrfefwy.com
 :: squareandcircle.go2affise.com
 :: squarefootball.uk.intellitxt.com
 :: squarenessqyecvdn.download
@@ -67708,7 +67030,6 @@ ff02::2 ip6-allrouters
 :: squeakzinc.com
 :: squidanalytics.com
 :: squirrelhands.com
-:: sqwyxzrajzsxpx.com
 :: sqykpwpgqqt.com
 :: sqyvhynwl.com
 :: sr.adrevolver.com
@@ -67717,7 +67038,6 @@ ff02::2 ip6-allrouters
 :: sr2.liveperson.net
 :: sr6oes.first.pershoretaxi.co.uk
 :: srbijacafe.org
-:: srbrdogg.bid
 :: src.kitcode.net
 :: srch.atdmt.com
 :: srcip.com
@@ -67727,17 +67047,11 @@ ff02::2 ip6-allrouters
 :: srepdata.usatoday.com
 :: srezrzsyqrikab.com
 :: srf.wemfbox.ch
-:: srfizvugkheq.com
 :: srgev.com
 :: srgszwexkpehb.com
 :: srhovuokux.com
 :: sriaqmzx.com
-:: srizwhcdjruf.com
 :: srjbxbkwn.com
-:: srkdunvxun.com
-:: srksyzqzcetq.com
-:: srlmbvfmvl.com
-:: srmbifowhxaeqa.bid
 :: srmnfxcftazj.com
 :: srocvhaeaz.com
 :: sronline.ivwbox.de
@@ -67747,7 +67061,6 @@ ff02::2 ip6-allrouters
 :: srs.targetpoint.com
 :: srslogisticts.com
 :: srtk.net
-:: srtvohoivnrahq.bid
 :: srv-2015-01-12-10.pixel.parsely.com
 :: srv-us.znaptag.com
 :: srv.adengage.com
@@ -67821,7 +67134,6 @@ ff02::2 ip6-allrouters
 :: srx.pl.ebayrtm.com
 :: srx.sg.ebayrtm.com
 :: srx.uk.ebayrtm.com
-:: srxgnzdkjucr.com
 :: ss.c.appier.net
 :: ss.linksynergy.com
 :: ss.mtree.com
@@ -67831,26 +67143,21 @@ ff02::2 ip6-allrouters
 :: ss.yomedia.vn
 :: ss1.zedo.com
 :: ss2.zedo.com
-:: ss3.zedo.com
 :: ss7.zedo.com
-:: ssallqcu.bid
 :: ssangyong.co.il
 :: sscdn.banners.advidi.com
 :: sscefsol.com
 :: ssdc.icelandair.com
 :: ssdiwjkarblih.com
 :: ssdk.adkmob.com
-:: ssdphmfduwcl.com
 :: ssdsylfzav.com
 :: ssfpubkjjhftpy.com
 :: ssh.kissmetrics.com
 :: sshhsvv.beckmenlaw.info
 :: sshowads.pubmatic.com
-:: sshvbkdyxprk.com
 :: ssi.go2cloud.org
 :: ssigftlcuc.com
 :: ssjgkyyrqiwjol.com
-:: ssjhkvwjoovf.com
 :: ssknbvc.beckmanlawfirm.org
 :: ssl-6582datamanager.de
 :: ssl-avd.innity.net
@@ -67874,7 +67181,6 @@ ff02::2 ip6-allrouters
 :: ssl-youtube.2cnt.net
 :: ssl.ad.dotandad.com
 :: ssl.clickbank.net
-:: ssl.dl.g15.letvlb.com
 :: ssl.gft2.de
 :: ssl.google-analytics.com
 :: ssl.gridsumdissector.com
@@ -67898,7 +67204,6 @@ ff02::2 ip6-allrouters
 :: ssl2anyone5.com
 :: ssl3.adhost.com
 :: ssl4anyone2.com
-:: ssl4anyone4.com
 :: ssl4anyone5.com
 :: sslad.adcash.com
 :: sslboost.com
@@ -67906,16 +67211,12 @@ ff02::2 ip6-allrouters
 :: sslcheckerapi.com
 :: sslclick.union.ucweb.com
 :: ssljscdn.airbrake.io
-:: ssloemwiszaz.com
 :: ssltest2.branch.io
 :: ssltracking.esearchvision.com
 :: sslwidget.criteo.com
-:: ssmklfrn.bid
 :: ssmyceoxbjqdp.com
 :: ssnhs.arete-energy.us
 :: sso.conduit.com
-:: ssobmhpxnjjp.bid
-:: ssowfsbps.bid
 :: ssp-api.mobadvent.com
 :: ssp-csync.smartadserver.com
 :: ssp-events.chartboost.com
@@ -67939,19 +67240,14 @@ ff02::2 ip6-allrouters
 :: sspintrafmsmt.com
 :: ssqzsdcnoqv.com
 :: ssraju3n.com
-:: sssjohomoapt.com
 :: sstatic1.histats.com
 :: sstats.adobe.com
 :: sstats.economist.com
-:: ssuhghnjxbp.bid
 :: ssum-sec.casalemedia.com
 :: ssum.casalemedia.com
-:: ssvolkkihcyp.com
 :: ssw.live.com
 :: ssxd.mediav.com
-:: ssyhlymwyzou.com
 :: ssypntfmi.com
-:: ssyyeufsqbra.bid
 :: sszomsa.imdrv.net
 :: st-1.1fichier.com
 :: st-a-id.anthill.vn
@@ -68111,7 +67407,6 @@ ff02::2 ip6-allrouters
 :: stat.aport.ru
 :: stat.appsgeyser.com
 :: stat.axelspringer.hu
-:: stat.biqle.ru
 :: stat.blogads.com
 :: stat.boredomtherapy.com
 :: stat.caijing.com.cn
@@ -68244,7 +67539,6 @@ ff02::2 ip6-allrouters
 :: static.accesstrade.vn
 :: static.acs86.com
 :: static.ad-maven.com
-:: static.ad.libimseti.cz
 :: static.ad.org.vn
 :: static.adacado.com
 :: static.adbutter.net
@@ -68340,7 +67634,6 @@ ff02::2 ip6-allrouters
 :: static.dynad.net
 :: static.dynamicyield.com
 :: static.earnify.com
-:: static.eclick.vn
 :: static.ecorebates.com
 :: static.emporis.com
 :: static.eplayer.performgroup.com
@@ -68555,6 +67848,7 @@ ff02::2 ip6-allrouters
 :: stats-collector-int.socialquantum.com
 :: stats-dc1.frz.io
 :: stats-ec2-46-137-101-227.layar.com
+:: stats-factory.digitregroup.io
 :: stats-messages.gifs.com
 :: stats-newyork1.bloxcms.com
 :: stats.24.com
@@ -68612,7 +67906,6 @@ ff02::2 ip6-allrouters
 :: stats.cheatscodesguides.com
 :: stats.christianpost.com
 :: stats.clear-media.com
-:: stats.click-internet.fr
 :: stats.clickability.com
 :: stats.clickforknowledge.com
 :: stats.clicktracks.com
@@ -68639,7 +67932,6 @@ ff02::2 ip6-allrouters
 :: stats.directnic.com
 :: stats.distributed.net
 :: stats.dlx-media.com
-:: stats.dnparking.com
 :: stats.drugstore.com
 :: stats.ebay.com
 :: stats.economist.com
@@ -68812,7 +68104,6 @@ ff02::2 ip6-allrouters
 :: stats.ventivmedia.com
 :: stats.vertriebsassistent.de
 :: stats.viddler.com
-:: stats.vietnammoi.vn
 :: stats.virtuemart.net
 :: stats.visistat.com
 :: stats.vocento.com.edgekey.net
@@ -68881,6 +68172,7 @@ ff02::2 ip6-allrouters
 :: statsd.zmags.com
 :: statsdev.treesd.com
 :: statse.webtrendslive.com
+:: statserv.net
 :: statsevent.com
 :: statsfe1.ws.microsoft.com
 :: statsfe2.update.microsoft.com.akadns.net
@@ -68978,15 +68270,12 @@ ff02::2 ip6-allrouters
 :: stjjp.msn.com
 :: stjsurdfitff.com
 :: stkqkfhlscmcuh.com
-:: stkrwlodjvl.bid
 :: stkyqouwanr.com
-:: stlbmyezzth.bid
 :: stm-cdn.cn.miaozhen.com
 :: stm-collect.cn.miaozhen.com
 :: stmediagroup-d.openx.net
 :: stnetsdk.appstore.vivo.com.cn
 :: stnetsdk.vivo.com.cn
-:: stnvgvtwzzrh.com
 :: stoashou.net
 :: stock.daydreamfuze.com
 :: stocker.bonnint.net
@@ -69080,7 +68369,6 @@ ff02::2 ip6-allrouters
 :: struct.nt-com.co
 :: structured.blackswanstore.com
 :: structurerod.com
-:: structuresofa.com
 :: struq.com
 :: sts.batmobi.net
 :: sts.eccmp.com
@@ -69097,7 +68385,6 @@ ff02::2 ip6-allrouters
 :: studio.doubleclick.net
 :: studio.glance.inmobi.com
 :: studivz.adfarm1.adition.com
-:: studivz.ivwbox.de
 :: study.snapads.com
 :: studybreakmedia-d.openx.net
 :: stuff-nzwhistleout.s3.amazonaws.com
@@ -69106,12 +68393,10 @@ ff02::2 ip6-allrouters
 :: stuntoffer.com
 :: stupendoussleet.com
 :: stupidcelebrities.us.intellitxt.com
-:: stuthvygifup.com
 :: stuttest.ivwbox.de
 :: stvayyokjvxnl.com
 :: stvdotcom.2cnt.net
 :: stvdotcomtest.2cnt.net
-:: stwcozfiavhh.bid
 :: stx-match.dotomi.com
 :: stx.banners.sextracker.com
 :: stx.sextracker.com
@@ -69141,7 +68426,6 @@ ff02::2 ip6-allrouters
 :: su.iadsdk.apple.com
 :: su600.com
 :: su99nv.boss.northerndishedends.uk
-:: sualzmze.com
 :: sub.vavm.org
 :: sub2tech.com
 :: subaruofamerica.112.2o7.net
@@ -69150,6 +68434,7 @@ ff02::2 ip6-allrouters
 :: sube.puwangkj.com
 :: subeditorsoqltcxf.download
 :: subemania.com
+:: subendorse.com
 :: subfuscsoweaucss.download
 :: sublimemedia.net
 :: submissing.com
@@ -69174,20 +68459,16 @@ ff02::2 ip6-allrouters
 :: suddensidewalk.com
 :: sudolljkjzxdfc.com
 :: sudvykphfph.com
-:: sudvzfgrmt.com
 :: sueddeut.ivwbox.de
 :: sueolwxxosqch.com
 :: suewgrsq.com
 :: suez.xpanama.net
-:: sufjqebhmfo.bid
-:: sufzmohljbgw.com
 :: sugar.gameforge.com
 :: sugarcurtain.com
 :: suggest.infospace.com
 :: sugoicounter.com
 :: sugqlryshxarn.com
 :: sugs.m.sm.cn
-:: suhprdfb.bid
 :: suite-analytics.socialbakers.com
 :: suite-builder.socialbakers.com
 :: suite-guide.socialbakers.com
@@ -69199,7 +68480,6 @@ ff02::2 ip6-allrouters
 :: sulake.pushwoosh.com
 :: sulkybutter.com
 :: sulvo.co
-:: sumano.info
 :: sumarketing.co.uk
 :: sumatoad.com
 :: sumizxwhfsrke.com
@@ -69213,7 +68493,6 @@ ff02::2 ip6-allrouters
 :: sumome-140a.kxcdn.com
 :: sumome.com
 :: sumsmoxssy.com
-:: sumvztfze.com
 :: sun.changeyourworldnow.com
 :: sun.schuettfarmstransport.com
 :: sun3xani.justclick.ru
@@ -69234,7 +68513,6 @@ ff02::2 ip6-allrouters
 :: suntcontent.se
 :: suntimes-d.openx.net
 :: suo.lp.mydas.mobi
-:: suonvyzivnfy.com
 :: sup.adfox.ru
 :: suparewards.com
 :: super-links.net
@@ -69282,7 +68560,6 @@ ff02::2 ip6-allrouters
 :: supportnet.de.intellitxt.com
 :: supportxmr.com
 :: supuv2.com
-:: suqufucjzffhay.bid
 :: sureads.com
 :: surebaby.us.intellitxt.com
 :: surefire.link
@@ -69331,19 +68608,12 @@ ff02::2 ip6-allrouters
 :: sushipool.com
 :: sushvc.beckmanlawfirm.info
 :: susi.adtech.fr
-:: susitasita.com
 :: sutchart.net
 :: sutdpikbwpvi.com
 :: suthome.com
 :: sutra.newzfind.com
-:: sutzinjwnroui.com
 :: suvinleo.justclick.ru
-:: suvkxcypywspux.bid
-:: suvvihvbskvnii.com
-:: suwadesdshrg.com
-:: suywlxzbjtbib.com
 :: suzdal-media.ru
-:: svapqzplbwjx.com
 :: svast.moatads.com
 :: svastx.moatads.com
 :: svbfcmumrj.com
@@ -69354,22 +68624,19 @@ ff02::2 ip6-allrouters
 :: svd.112.2o7.net
 :: svdmxetbyfyg.com
 :: svdnqszxgucgd.com
-:: svdsutdq.com
 :: svetyivanrilski.com
 :: svevbvsjeicl.com
 :: svfqoztfopv.com
+:: svintificaneinevi.info
 :: svision-online.de
 :: svjat0rx99.com
-:: svjloaomrher.com
 :: svlu.net
 :: svmtvfuok.com
-:: svnhdfqvhjzn.com
 :: svntdcuxobohs.com
 :: svpro7.oewabox.at
-:: svpubdwpaam.bid
 :: svr-prc-01.com
 :: svr1.unicaondemand.com
-:: svrsqqtj.com
+:: svrybecqxgdq.com
 :: svsub.com
 :: svtrd.com
 :: svwsjxptbsvqo.com
@@ -69384,11 +68651,8 @@ ff02::2 ip6-allrouters
 :: swa.demdex.net
 :: swag.go2cloud.org
 :: swaggeredvflzknyhf.download
-:: swahobrjdddri.com
 :: swan-swan-goose.com
 :: swbdds.com
-:: swckuwtoyrklhtccjuuvcstyesxpbmycjogrqkivmmcqqdezld.com
-:: swclpfypife.bid
 :: swcs.jp
 :: swcuxrfitmjfee.com
 :: sweatybettytracksdk.optimove.net
@@ -69402,10 +68666,8 @@ ff02::2 ip6-allrouters
 :: swelen.com
 :: swellisholupo.download
 :: swezbddhwcz.com
-:: swfqsfewk.bid
 :: swfstats.com
 :: swfsxv.beckmenlawfirm.org
-:: swgvpkwmojcv.com
 :: swiftmining.win
 :: swimslope.com
 :: swimsuitnetwork.com
@@ -69420,7 +68682,6 @@ ff02::2 ip6-allrouters
 :: switchadhub.com
 :: switchboard.mixpanel.com
 :: swjvfwtypu.com
-:: swkhaeiymk.bid
 :: swmwgptzlgsc.com
 :: swoop.com
 :: sworatio.co
@@ -69428,69 +68689,42 @@ ff02::2 ip6-allrouters
 :: swordgoose.com
 :: sworkitads.herokuapp.com
 :: swpopynngk.com
-:: swr.ivwbox.de
+:: swqlzufnbngw.com
 :: swrap.tradedoubler.com
 :: swrve.com
-:: swrvnnelfyay.bid
 :: swsoft.122.2o7.net
 :: swswfwsf.beckmenlaw.net
 :: swtkes.com
 :: swtubbksgvg.com
-:: swtwtbiwbjvq.com
-:: swvyhuhnaht.bid
 :: swwsbk.greatriverohio.net
 :: swwsg.mylifemirror.com
 :: swww.sc.pages02.net
 :: swx.domob.cn
 :: swxrxdej.com
-:: swykcpfxkqvg.bid
-:: swzizkjqe.bid
-:: swzyfkbkdv.bid
 :: sx.leadzutw.com
 :: sx.thrnt.com
 :: sx319x.come.evesham-taxis.co.uk
-:: sxbmvheosxb.bid
 :: sxcdn1.herokuapp.com
 :: sxcdn5.herokuapp.com
-:: sxcivqfmlsvxo.bid
-:: sxdpyazzofu.com
-:: sxdrafgvll.bid
 :: sxedqvvaxxj.com
 :: sxgmppxfts.com
 :: sxhpwsgdyhw.com
-:: sxiyvcqnp.com
-:: sxjhskptisd.com
-:: sxlzcvqfeacy.com
 :: sxmmgiuilt.com
-:: sxprcyzcpqil.com
 :: sxpupjlyswpgsb.com
 :: sxqtqyjlumbro.com
-:: sxrwqytqajwpt.com
 :: sxtracking.com
-:: sxtzhwvbuflt.com
-:: sxucahrsnam.bid
-:: sxvqdslmbqyk.bid
 :: sxwcfnai.com
+:: sxwwizqaoedor.com
 :: sxx3xr.air.airporttaxievesham.co.uk
 :: sxxhu4.lol.airporttaxipershore.co.uk
 :: sxzffgjzaohtf.com
 :: sy-v1.presage.io
 :: sy-v1.prod.cloud.ogury.io
-:: sy.eu.angsrvr.com
-:: syataqoszu.bid
 :: sycbmucgctvha.com
-:: syd-v4.pops.fastly-insights.com
-:: sydhbmlmdxzd.com
-:: sydnkqqscbxc.com
-:: syfdkngkksn.bid
-:: syfoauwvcwi.bid
 :: sygic-api.infinario.com
-:: syhfcveeizqp.bid
 :: syhganutwnp.com
 :: syhjnolp.com
 :: syicirtpxosk.com
-:: syidvbodcb.bid
-:: syiwwswcbxk.bid
 :: syllabusqhlloohss.download
 :: symantec.tt.omtrdc.net
 :: symbian-freak.us.intellitxt.com
@@ -69499,7 +68733,6 @@ ff02::2 ip6-allrouters
 :: sympmsnglobalen.112.2o7.net
 :: sympmsnmusic.112.2o7.net
 :: sympmsnsports.112.2o7.net
-:: symydvmqjjp.com
 :: syn.entertainmentcrave.com
 :: synacor-match.dotomi.com
 :: synad.nuffnang.com.my
@@ -69588,9 +68821,7 @@ ff02::2 ip6-allrouters
 :: synovite-scripts.com
 :: synthasite.net
 :: synthes.vo.llnwd.net
-:: syorlvhuzgmdqbuxgiulsrusnkgkpvbwmxeqqcboeamyqmyexv.com
 :: sypi.gpshopper.com
-:: syrnujjldljl.com
 :: sys.itop.cz
 :: sys.osttirol-online.at
 :: sysco-appstore2.madmobile.com
@@ -69603,31 +68834,18 @@ ff02::2 ip6-allrouters
 :: systemscheckusa.com
 :: sywhpe.net.a1traveldirect.co.uk
 :: sywwplqqumjgm.com
-:: sywyknkojoj.bid
-:: syxcbevp.com
-:: syxojpztar.com
 :: syyycc.com
 :: sz.met.vgwort.de
 :: sz.track4.com
 :: szdfteyb.com
 :: szgxkd.gay.tathamservice.com
 :: szinhaz.hu
-:: szjgylwamcxo.com
 :: szlkqxlkcz.com
-:: szltiojqs.bid
-:: sznxdqqvjgam.com
 :: szpcxramtfr.com
-:: szrojfkigof.bid
 :: sztrim.com
 :: szuzlcmoak.com
-:: szvzzuffxatb.com
-:: szxkkefabenx.bid
 :: szxnruaeuig.com
-:: szyejlnlvnmy.com
 :: szymyh.lol.airporttaxipershore.co.uk
-:: szynlslqxerx.com
-:: szywarceqeo.com
-:: szzxtanwoptm.bid
 :: szzzpqcuxqq.com
 :: t-ads.adap.tv
 :: t-ak.hulu.com
@@ -69702,6 +68920,7 @@ ff02::2 ip6-allrouters
 :: t.irtya.com
 :: t.ivwbox.de
 :: t.jobthread.com
+:: t.kelkoogroup.net
 :: t.ktxtr.com
 :: t.leadlander.com
 :: t.leady.com
@@ -69796,7 +69015,6 @@ ff02::2 ip6-allrouters
 :: t1.extreme-dm.com
 :: t1.formalyzer.com
 :: t1.leadlander.com
-:: t1.softonicads.com
 :: t1.stormcontainertag.com
 :: t1.trackalyzer.com
 :: t10.rbnt.org
@@ -69808,7 +69026,6 @@ ff02::2 ip6-allrouters
 :: t2.huluim.com
 :: t2.junbi-tracker.com
 :: t2.leadlander.com
-:: t2.softonicads.com
 :: t2.t2b.click
 :: t2.trackalyzer.com
 :: t23.intelliad.de
@@ -70055,7 +69272,6 @@ ff02::2 ip6-allrouters
 :: talkingdata.net
 :: talkingpointsmemo-d.openx.net
 :: tally.upsideout.com
-:: talos.adman.gr
 :: tamedia.ch
 :: tamgrt.com
 :: tamilcm.com
@@ -70068,6 +69284,7 @@ ff02::2 ip6-allrouters
 :: tangogrows.tk
 :: tangomedia.112.2o7.net
 :: tangozebra.com
+:: tankeuro.com
 :: tanner.alicerosenmanmemorial.com
 :: tantella.com
 :: tantrack.info
@@ -70332,7 +69549,6 @@ ff02::2 ip6-allrouters
 :: tech.admicro.vn
 :: tech.leadbolt.com
 :: tech.mykiddi.co.uk
-:: tech.realmedia.co.kr
 :: techclicks.net
 :: techeblog.us.intellitxt.com
 :: techexpress.home.mindspring.com
@@ -70437,7 +69653,6 @@ ff02::2 ip6-allrouters
 :: temai.taobao.com
 :: temelio.com
 :: temnos.com
-:: temp.163.com
 :: temp.adzerver.com
 :: temperersgelvhakyk.download
 :: tempest.services.disqus.com
@@ -70622,6 +69837,7 @@ ff02::2 ip6-allrouters
 :: the-best-track.com
 :: the-binary-trader.biz
 :: the-counter.net
+:: the-ozone-project.com
 :: the-path-gateway.com
 :: the.mtree.com
 :: the.schuetttrucking.com
@@ -70687,7 +69903,6 @@ ff02::2 ip6-allrouters
 :: thelocalsearchnetwork.com
 :: theloungenet.com
 :: themanroom.us.intellitxt.com
-:: theme.scloud.le.com
 :: themoneytizer.com
 :: themultimediajournalist.com
 :: thenelis.pw
@@ -70786,13 +70001,13 @@ ff02::2 ip6-allrouters
 :: thisteddagblad.dk
 :: thivsxubn.com
 :: thjlnyagmxrbt.com
+:: thkexopsciqums.com
 :: thliluxanplanet.review
 :: thnqemehtyfe.com
 :: thnslhajvfmd.com
 :: thogethoffic.co
 :: thomasvillefurniture.122.2o7.net
 :: thome.112.2o7.net
-:: thongke.24h.com.vn
 :: thoodsoy.net
 :: thor-cpa.com
 :: thoritismsecutive.info
@@ -70834,7 +70049,6 @@ ff02::2 ip6-allrouters
 :: tiads.health.com
 :: tiads.instyle.com
 :: tiads.people.com
-:: tiads.sportsillustrated.cnn.com
 :: tiads.time.com
 :: tiads.timeinc.net
 :: tibacta.com
@@ -70847,6 +70061,7 @@ ff02::2 ip6-allrouters
 :: tickets.fyber.com
 :: ticklesign.com
 :: ticks2.bugsense.com
+:: ticksel.com
 :: ticktockhealth.com
 :: ticpqxnv.com
 :: ticrite.com
@@ -70876,10 +70091,6 @@ ff02::2 ip6-allrouters
 :: tikuedobxa.com
 :: til.go2cloud.org
 :: tile-api.inrix.com
-:: tile0.locatienet.com
-:: tile1.locatienet.com
-:: tile2.locatienet.com
-:: tile3.locatienet.com
 :: tileswan.cmcm.com
 :: tiller.co
 :: tilosman.com
@@ -70919,6 +70130,7 @@ ff02::2 ip6-allrouters
 :: ting.7eer.net
 :: tinkerta.com
 :: tinybar.com
+:: tinyclues.com
 :: tinycounter.com
 :: tinystat.ir
 :: tinytracker.onion.com
@@ -71051,7 +70263,6 @@ ff02::2 ip6-allrouters
 :: tmrsjdxavhjgww.com
 :: tms-st.cdn.ngenix.net
 :: tmscdn.coremetrics.com
-:: tmscdn.de.coremetrics.com
 :: tmserver-1.com
 :: tmslexus.112.2o7.net
 :: tmstoyota.112.2o7.net
@@ -71094,6 +70305,7 @@ ff02::2 ip6-allrouters
 :: toecircle.com
 :: toftokiy.net
 :: tofurkey.urbanairship.com
+:: togenron.com
 :: toggo.ivwbox.de
 :: togroltu.net
 :: toi3.ivwbox.de
@@ -71176,7 +70388,6 @@ ff02::2 ip6-allrouters
 :: top.dating.lt
 :: top.dkd.lt
 :: top.elec.ru
-:: top.er.cz
 :: top.lauritaexcavating.info
 :: top.list.ru
 :: top.lv
@@ -71294,6 +70505,7 @@ ff02::2 ip6-allrouters
 :: tothecenter.us.intellitxt.com
 :: totifiquo.com
 :: totogetica.com
+:: touawopexnefx.com
 :: touch-heresite.cleverpush.com
 :: touchads.com
 :: touchclarity.com
@@ -71347,6 +70559,7 @@ ff02::2 ip6-allrouters
 :: tptfopotrzg.com
 :: tpu.2cnt.net
 :: tpwumuxcasj.com
+:: tpx.tesseradigital.com
 :: tq.adventurefeeds.com
 :: tqgj.mediav.com
 :: tqguvxunwvk.com
@@ -71384,7 +70597,6 @@ ff02::2 ip6-allrouters
 :: tr.mobiadserv.com
 :: tr.n2.hk
 :: tr.newsletter.capdecision.fr
-:: tr.outbrain.com
 :: tr.prospecteye.com
 :: tr.sjc.contextweb.com
 :: tr.snapchat.com
@@ -71445,7 +70657,6 @@ ff02::2 ip6-allrouters
 :: track-re01.com
 :: track-server-100.com
 :: track-sjc.mobileadtrading.com
-:: track-srv.vietnamnet.vn
 :: track-web.net
 :: track-west.mobileadtrading.com
 :: track.007cpa.com
@@ -71492,7 +70703,6 @@ ff02::2 ip6-allrouters
 :: track.bannedcelebs.com
 :: track.bannerbridge.net
 :: track.bcvcmedia.com
-:: track.bidads.co.in
 :: track.blamads.com
 :: track.blogcounter.de
 :: track.blogmeetsbrand.com
@@ -71513,7 +70723,6 @@ ff02::2 ip6-allrouters
 :: track.clickbooth.com
 :: track.clickhubs.com
 :: track.clickon.co.il
-:: track.clicksor.com
 :: track.clickworkzmedia.com
 :: track.cliqrr.com
 :: track.cmllk1.info
@@ -71652,7 +70861,6 @@ ff02::2 ip6-allrouters
 :: track.spiceworks.com
 :: track.spots.im
 :: track.sprinklecontent.com
-:: track.srv.vietnamnet.vn
 :: track.strife.com
 :: track.superad2.com.sg
 :: track.superfastmediation.com
@@ -71713,7 +70921,6 @@ ff02::2 ip6-allrouters
 :: track2.me
 :: track2.mycliplister.com
 :: track4aff.go2cloud.org
-:: trackad.cz
 :: trackads.com
 :: trackaffpix.com
 :: trackalyzer.com
@@ -71747,7 +70954,6 @@ ff02::2 ip6-allrouters
 :: tracker.appadhoc.com
 :: tracker.appodealx.com
 :: tracker.averetek.com
-:: tracker.azet.sk
 :: tracker.babbel.com
 :: tracker.bang.com
 :: tracker.bannerflow.com
@@ -72104,7 +71310,6 @@ ff02::2 ip6-allrouters
 :: tracking.veille-referencement.com
 :: tracking.veoxa.com
 :: tracking.vid4u.org
-:: tracking.vietnamnetad.vn
 :: tracking.viewster.com
 :: tracking.volo-mobile.com
 :: tracking.voltagesearch.com
@@ -72138,7 +71343,6 @@ ff02::2 ip6-allrouters
 :: tracking42.com
 :: tracking999.com
 :: trackingapi.cloudapp.net
-:: trackingapi.foody.vn
 :: trackingclicks.xyz
 :: trackingdev.nixxie.com
 :: trackingfestival.com
@@ -72245,7 +71449,6 @@ ff02::2 ip6-allrouters
 :: traffic.tcmagnet.com
 :: traffic.trafficcompany.com
 :: traffic.trafficposse.com
-:: traffic.uusee.com
 :: traffic.velvet.hu
 :: traffic2bitcoin.com
 :: traffic4u.nl
@@ -72289,7 +71492,6 @@ ff02::2 ip6-allrouters
 :: trafficmasterz.net
 :: trafficmaxx.de
 :: trafficmp.com
-:: trafficneeds.directtrack.com
 :: trafficonlinebusiness.com
 :: trafficoverus.com
 :: trafficparade.com
@@ -72299,6 +71501,7 @@ ff02::2 ip6-allrouters
 :: trafficpump.com
 :: trafficregenerator.com
 :: trafficrevenue.net
+:: trafficrouter.io
 :: trafficsan.com
 :: trafficsecrets.com
 :: trafficshirts.com
@@ -72480,6 +71683,7 @@ ff02::2 ip6-allrouters
 :: trip.buson.in
 :: trip.teleskip.org
 :: tripedrated.xyz
+:: triplelift.com
 :: triptease.io
 :: triptease.net
 :: triumphrat.us.intellitxt.com
@@ -72526,7 +71730,6 @@ ff02::2 ip6-allrouters
 :: trk.meacashtrk.com
 :: trk.obix.pro
 :: trk.pinterest.com
-:: trk.pixeltracksys.io
 :: trk.pswec.com
 :: trk.rrcpm.com
 :: trk.sele.co
@@ -72598,8 +71801,6 @@ ff02::2 ip6-allrouters
 :: trugaze.io
 :: truma.pitchonlev.org.il
 :: trunk.guce.adtech.de
-:: trunkclub-api.layer.com
-:: trunkclub-websockets.layer.com
 :: trunktest.adition.com
 :: truoctran.com
 :: truongton.net
@@ -72610,7 +71811,6 @@ ff02::2 ip6-allrouters
 :: trustedads.adtrustmedia.com
 :: trustedads.org
 :: trustedmarketings.go2cloud.org
-:: trustednotice.news
 :: trustgauge.com
 :: trustx.org
 :: trw12.com
@@ -72672,17 +71872,16 @@ ff02::2 ip6-allrouters
 :: tsyuftaindignance.review
 :: tszritnomuy.com
 :: tt.adcocktail.com
-:: tt.mbww.com
 :: tt.omtrdc.net
 :: tt.onthe.io
 :: tt11.adobe.com
-:: tt3.zedo.com
-:: ttarget.ru
 :: ttb.tbddlw.com
 :: ttd.ads.placeiq.com
 :: ttdetect.staticimgfarm.com
 :: ttdtuwbxgyveg.com
 :: ttegjzxzxyetf.com
+:: ttgazjzsdotiy.com
+:: ttgikcpmkpul.com
 :: ttgvmqdpomt.com
 :: tthvomis.com
 :: ttlmodels.com
@@ -72693,6 +71892,7 @@ ff02::2 ip6-allrouters
 :: ttsipyxgpihy.com
 :: ttskmaaf.com
 :: ttt.onthe.io
+:: ttuhmbor.com
 :: ttulyfbkatyzp.com
 :: ttzmedia.com
 :: tu.demdex.net
@@ -72881,6 +72081,7 @@ ff02::2 ip6-allrouters
 :: twemyksybtripewomen.review
 :: twentyfourhourcampfire-d.openx.net
 :: tweowhvrim.review
+:: tweznpjocbka.com
 :: twfilnym.com
 :: twilightdata.com
 :: twinedigital.go2cloud.org
@@ -72933,7 +72134,6 @@ ff02::2 ip6-allrouters
 :: tyllfqbmny.com
 :: tylzbdkjsjig.com
 :: tynt.com
-:: tyo-v4.pops.fastly-insights.com
 :: type.anotherpieceofpeace.com
 :: type.azsportsent.com
 :: type.fdti.in
@@ -73287,7 +72487,6 @@ ff02::2 ip6-allrouters
 :: ua.adocean.pl
 :: ua.adriver.ru
 :: ua.badongo.com
-:: ua.cnt.gemius.pl
 :: ua.hit.gemius.pl
 :: ua.inmobi.com
 :: ua.supersonicads.com
@@ -73362,6 +72561,7 @@ ff02::2 ip6-allrouters
 :: ucounter.ucoz.net
 :: ucoz.spotsniper.ru
 :: ucozssymgw.com
+:: ucrsowje.com
 :: ucs01.engageya.com
 :: ucvrtwfh.com
 :: ucxgfoqrbk.com
@@ -73551,6 +72751,7 @@ ff02::2 ip6-allrouters
 :: ulog.ksapisrv.com
 :: ulogs.umeng.com
 :: ulogs.umengcloud.com
+:: ulrementpati.info
 :: ulrryqpp.com
 :: ulsvrptuwyovg.com
 :: ultimacash.go2cloud.org
@@ -73702,6 +72903,7 @@ ff02::2 ip6-allrouters
 :: unthem.com
 :: untidyquestion.com
 :: untidyrice.com
+:: untypetenthdicket.info
 :: unumbonum.com
 :: unusualtitle.com
 :: unwealhdvfydj.download
@@ -73838,6 +73040,7 @@ ff02::2 ip6-allrouters
 :: upv4.moatads.com
 :: upvtnuffy.com
 :: upwtyghvknaiw.com
+:: upwzuqfcvbeqo.com
 :: upzpyrsvvxpoey.com
 :: uqbxjdeeq.com
 :: uqbxznftv.com
@@ -73848,6 +73051,7 @@ ff02::2 ip6-allrouters
 :: uqmkkfaoqnnmlx.com
 :: uqouplgwlmeqt.com
 :: uqsoxvwffpkrt.com
+:: uqyatperdvczfw.com
 :: uqyirvghv.com
 :: uralap.com
 :: uralweb.ru
@@ -73940,7 +73144,6 @@ ff02::2 ip6-allrouters
 :: us.pixel.newscgp.com
 :: us.rewardearners.com
 :: us.tracking.justpremium.com
-:: us.u.fastly-insights.com
 :: us.vortex-win.data.microsoft.com
 :: us.wa.ui-portal.com
 :: us.webprodcdn.com
@@ -73956,7 +73159,6 @@ ff02::2 ip6-allrouters
 :: us01.smardroid.com
 :: us02.lockview.cn
 :: us03.lockview.cn
-:: us1.locationiq.com
 :: us1.siteimprove.com
 :: us1.splicky.com
 :: us2.siteimprove.com
@@ -74124,25 +73326,11 @@ ff02::2 ip6-allrouters
 :: utils.bounceexchange.com
 :: utils.mediageneral.net
 :: utjznnqgd.com
-:: utm.cursormania.com
-:: utm.excite.co.uk
-:: utm.excite.it
 :: utm.myfuncards.com
-:: utm.myway.com
-:: utm.popswatter.com
-:: utm.popularscreensavers.com
-:: utm.smileycentral.com
-:: utm.trk.cursormania.com
-:: utm.trk.excite.com
 :: utm.trk.myfuncards.com
-:: utm.trk.myway.com
-:: utm.trk.popswatter.com
 :: utm.trk.popularscreensavers.com
-:: utm.trk.smileycentral.com
 :: utm.trk.webfetti.com
-:: utm.trk.zwinky.com
 :: utm.webfetti.com
-:: utm.zwinky.com
 :: utm2.smileycentral.com
 :: utmcttmdaoqd.com
 :: utmpinhibitslijkten.byklyf.com
@@ -74152,6 +73340,7 @@ ff02::2 ip6-allrouters
 :: utop.umengcloud.com
 :: utopiad.com
 :: utorido.com
+:: utpgxaylxurhbc.com
 :: utrack.hexun.com
 :: utrade.com
 :: utrfixbusce.com
@@ -74212,6 +73401,7 @@ ff02::2 ip6-allrouters
 :: uyzzzeodgommgb.com
 :: uzdp83.becks.petboutiquepawsnclaws.co.uk
 :: uzekrs.com
+:: uzerly.net
 :: uzhegovandrey.justclick.ru
 :: uziiygdcwur.com
 :: uzikrtotjbnq.com
@@ -74248,7 +73438,6 @@ ff02::2 ip6-allrouters
 :: v.extreme-dm.com
 :: v.gdt.qq.com
 :: v.gfhdkse.com
-:: v.glbimg.com
 :: v.inigsplan.ru
 :: v.landingzone.se
 :: v.lkqd.net
@@ -74293,7 +73482,6 @@ ff02::2 ip6-allrouters
 :: v2cigs.com
 :: v3.adition.com
 :: v3.chartboost.com
-:: v3.cnzz.com
 :: v3.come.to
 :: v3.moatads.com
 :: v3cdn.net
@@ -74301,16 +73489,13 @@ ff02::2 ip6-allrouters
 :: v3e2ad.lol.airporttaxipershore.co.uk
 :: v3g4s.com
 :: v4.chartboost.com
-:: v4.cnzz.com
 :: v4.moatads.com
 :: v5.chartboost.com
 :: v5.chinoc.net
-:: v5.cnzz.com
 :: v6analytics.htmedia.in.edgekey.net
 :: v6exp3-ds.metric.gstatic.com
 :: v6exp3-ds.metric.ipv6test.net
 :: v6exp3-v4.metric.gstatic.com
-:: v7.cnzz.com
 :: v75.xiti.com
 :: v75l.xiti.com
 :: v7j5gw.last.pershoreairporttaxis.co.uk
@@ -74320,7 +73505,6 @@ ff02::2 ip6-allrouters
 :: v895no.beg.smalltailsbfr.com
 :: v8engine-qa.pinsightmedia.com
 :: v8files-cf.pinsightmedia.com
-:: v9.cnzz.com
 :: va-adimpression-alb.startappnetwork.com
 :: va-endpoint.com
 :: va.akamai.startappservice.com
@@ -74352,6 +73536,7 @@ ff02::2 ip6-allrouters
 :: valouweeigenaren.nl
 :: valpkwew.com
 :: valshara.com
+:: valuad.cloud
 :: valuead.com
 :: valueaffiliate.net
 :: valueclick.com
@@ -74516,6 +73701,7 @@ ff02::2 ip6-allrouters
 :: vdna.exelator.com
 :: vdoing.com
 :: vdopia.com
+:: vdrmwfdtn.com
 :: vdrn.redplum.com
 :: vdrpwkycbla.com
 :: vdula.czystykod.pl
@@ -74680,6 +73866,7 @@ ff02::2 ip6-allrouters
 :: vhpmiipdpjq.com
 :: vht.tradedoubler.com
 :: vhunantv.admaster.com.cn
+:: vhvuvmjxdo.com
 :: vhzgmzakn.com
 :: vi-serve.com
 :: via.appia.com
@@ -74741,7 +73928,6 @@ ff02::2 ip6-allrouters
 :: vid-io.springserve.com
 :: vid-io.springserve.net
 :: vid.applovin.com
-:: vid.atdmt.com
 :: vid.springserve.com
 :: vidanalytics.taboola.com
 :: vidasys.ru
@@ -74825,7 +74011,6 @@ ff02::2 ip6-allrouters
 :: vidutils.taboola.com
 :: vidzur.com
 :: vietbuzzad.com
-:: vietnamnetad.vn
 :: view-ads.de
 :: view.adjust.com
 :: view.admission.net
@@ -78419,7 +77604,6 @@ ff02::2 ip6-allrouters
 :: visitbox.de
 :: visitor-analytics.io
 :: visitor-analytics.net
-:: visitor-language.herokuapp.com
 :: visitor-service-ap-northeast-1.tealiumiq.com
 :: visitor-service-ap-southeast-2.tealiumiq.com
 :: visitor-service-eu-central-1.tealiumiq.com
@@ -78613,8 +77797,8 @@ ff02::2 ip6-allrouters
 :: voluumtrk2.com
 :: volvelle-ads-cdn.azureedge.net
 :: volvelle.tech
-:: vom.sitescout.com
 :: vomit.facilitandosonhos.com.br
+:: voodoo-ads.io
 :: voodoo.com
 :: voodooalerts.com
 :: voodoofiles.us.intellitxt.com
@@ -78681,6 +77865,7 @@ ff02::2 ip6-allrouters
 :: vq91811.com
 :: vq918450.com
 :: vqaizaukh.com
+:: vqamufkhkin.com
 :: vqcilhkfwvks.com
 :: vqfoxxxnunqkgm.com
 :: vqjphqthvfl.com
@@ -78865,7 +78050,6 @@ ff02::2 ip6-allrouters
 :: w.ahalogy.com
 :: w.atdmt.com.1000.302br.net
 :: w.cm.ksmobile.com
-:: w.cnzz.com
 :: w.dfw1.vip.inmobi.com
 :: w.dfw2.vip.inmobi.com
 :: w.estat.com
@@ -79057,7 +78241,6 @@ ff02::2 ip6-allrouters
 :: walmart.112.2o7.net
 :: walmartcom.112.2o7.net
 :: walmeric.com
-:: wam-ads.sitescout.com
 :: wamfebdvsabotier.review
 :: wamnetwork.com
 :: wan.duba.net
@@ -79100,6 +78283,7 @@ ff02::2 ip6-allrouters
 :: warp2search.us.intellitxt.com
 :: warpwrite.com
 :: warsport.timesink.com
+:: warten-sie-mal.xyz
 :: waryfog.com
 :: was.ancestrybloodhound.com
 :: washesqydoigavu.download
@@ -79243,7 +78427,6 @@ ff02::2 ip6-allrouters
 :: web.softonic-analytics.net
 :: web.survey-poll.com
 :: web.unltd.info
-:: web.ventunotech.com
 :: web.vindicosuite.com
 :: web.vortex.data.microsoft.com
 :: web0.track.appier.net
@@ -79572,6 +78755,7 @@ ff02::2 ip6-allrouters
 :: wemftest3.2cnt.net
 :: wemftest4.2cnt.net
 :: wemfvtest.2cnt.net
+:: wemgcdygokm.com
 :: weminecraft.net
 :: wenner.collect.igodigital.com
 :: wenpsnpqher.com
@@ -79645,11 +78829,13 @@ ff02::2 ip6-allrouters
 :: whatthetech.us.intellitxt.com
 :: whave.iptvdeals.com
 :: whdzxabhqsdnlc.com
+:: whefungu.com
 :: whegrads.com
 :: whenu.com
 :: wheptoot.net
 :: where.com
 :: whereapps.com
+:: wheredoyoucomefrom.ovh
 :: whereuntomzrpo.download
 :: wheshaud.net
 :: whgvyswets.com
@@ -79776,7 +78962,6 @@ ff02::2 ip6-allrouters
 :: widgets.realestate.com.au
 :: widgets.solaramerica.org
 :: widgets.sprinkletxt.com
-:: widgets.trustedshops.com
 :: widgetssec.cam-content.com
 :: widgettool.net
 :: widpzvyx.com
@@ -79820,7 +79005,6 @@ ff02::2 ip6-allrouters
 :: window.nixnet.cz
 :: window1.com
 :: windowmentaria.com
-:: windows.kite.com
 :: windows7news.uk.intellitxt.com
 :: windowsbbs.us.intellitxt.com
 :: windowsitpro.us.intellitxt.com
@@ -79834,6 +79018,7 @@ ff02::2 ip6-allrouters
 :: wingatemedia.go2cloud.org
 :: wingoads.com
 :: wingowin.com
+:: winitout.com
 :: winlock.usa.cc
 :: winmatrix.us.intellitxt.com
 :: winmpmain.112.2o7.net
@@ -79873,8 +79058,10 @@ ff02::2 ip6-allrouters
 :: wizfitness.go2cloud.org
 :: wizzogames-sdk.wappier.com
 :: wjavelurhgx.com
+:: wjeeqkdbjsg.com
 :: wjevvjxwg.com
 :: wjglgkuyqhaguq.com
+:: wjhwruwrirpizx.com
 :: wjmckfsdcxpj.com
 :: wjodtshzu.com
 :: wjpaspdktadog.com
@@ -79887,12 +79074,13 @@ ff02::2 ip6-allrouters
 :: wkloqctyiyow.com
 :: wkm-d.openx.net
 :: wkmg.co.kr
+:: wkosrsfybeq.com
 :: wks.ero-advertising.com
 :: wksjn8.broz.northerndishedends.co
 :: wkwakmsttsehi.com
 :: wlaptoplogic.122.2o7.net
 :: wlezfkwtv.com
-:: wlg-v4.pops.fastly-insights.com
+:: wlgkqespz.com
 :: wlhbgwzgep.com
 :: wlhgopaqpmwah.com
 :: wlmarketing.com
@@ -79900,7 +79088,6 @@ ff02::2 ip6-allrouters
 :: wlpinnaclesports.eacdn.com
 :: wlrzptntiqez.com
 :: wlszodcfwqk.com
-:: wlt-ads-purify-media.adspirit.info
 :: wlvjwquv.com
 :: wlwootzzijp.com
 :: wlwt01.opentext.com
@@ -79938,6 +79125,7 @@ ff02::2 ip6-allrouters
 :: wndwhzjmfshthv.com
 :: wnfzky.easy.faststartwebinars.com
 :: wnhzlesdqzu.com
+:: wnlhbehajh.com
 :: wnmtmdlvqqscs.com
 :: wnp.com
 :: wnpcdn.com
@@ -80037,6 +79225,7 @@ ff02::2 ip6-allrouters
 :: wp.hit.gemius.pl
 :: wp1.cor-natty.com
 :: wp9.ru
+:: wpadsx.com
 :: wpbhnyjej.com
 :: wpcdn1.herokuapp.com
 :: wpdstat.com
@@ -80112,7 +79301,6 @@ ff02::2 ip6-allrouters
 :: ws.amazon.com
 :: ws.audioeye.com
 :: ws.batch.com
-:: ws.kebapp.co
 :: ws.ksmobile.net
 :: ws.onthe.io
 :: ws.plmokn.pw
@@ -80280,6 +79468,7 @@ ff02::2 ip6-allrouters
 :: wv-law.com
 :: wv.inner-active.mobi
 :: wvbdtcyhgwy.com
+:: wvesvozyuoxg.com
 :: wvetuwwcojfgw.com
 :: wvlveodsvygn.com
 :: wvoahyehtvj.com
@@ -80612,7 +79801,6 @@ ff02::2 ip6-allrouters
 :: www.admailtiser.com
 :: www.adman.gr
 :: www.admantic.ru
-:: www.admarket.cz
 :: www.admarketplace.net
 :: www.admaya.in
 :: www.admaym.com
@@ -80726,7 +79914,6 @@ ff02::2 ip6-allrouters
 :: www.advancesrl.eu
 :: www.advancets.org
 :: www.advconversion.com
-:: www.adventertainment.it
 :: www.adventori.com
 :: www.adventuresinnetmarketing.com
 :: www.advenueplatform.com
@@ -80863,7 +80050,6 @@ ff02::2 ip6-allrouters
 :: www.appfindr.org
 :: www.appflood.com
 :: www.appfoxes.com
-:: www.apphostcapital.com
 :: www.appia.com
 :: www.applicationsdeliveryupdate.com
 :: www.appliedsemantics.com
@@ -81375,7 +80561,6 @@ ff02::2 ip6-allrouters
 :: www.counter-gratis.com
 :: www.counter-kostenlos.net
 :: www.counter.bloke.com
-:: www.counter.cz
 :: www.counter.superstats.com
 :: www.counter1.sextracker.be
 :: www.counter10.sextracker.be
@@ -81447,7 +80632,6 @@ ff02::2 ip6-allrouters
 :: www.cringersredtdw.download
 :: www.criteo.com
 :: www.crittercism.com
-:: www.crm-metrix.fr
 :: www.croondezztg.download
 :: www.crossbeamstnmjmmh.download
 :: www.crowdgather.com
@@ -81979,7 +81163,6 @@ ff02::2 ip6-allrouters
 :: www.goblemam.com
 :: www.gogousenet.com
 :: www.gold-city.it
-:: www.goldadvert.cz
 :: www.golfcountryhomes.com
 :: www.gooddata.com
 :: www.goodsavingtips.com
@@ -82517,7 +81700,6 @@ ff02::2 ip6-allrouters
 :: www.live3s.me
 :: www.liveadclicks.com
 :: www.liveadexchanger.com
-:: www.livecount.fr
 :: www.livecounter.dk
 :: www.liveinternet.ru
 :: www.livejasmin.com
@@ -82638,7 +81820,6 @@ ff02::2 ip6-allrouters
 :: www.media970.com
 :: www.mediabreakaway.com
 :: www.mediaforce.com
-:: www.mediahighway.net
 :: www.medialytics.com
 :: www.mediamath.com
 :: www.mediamind.com
@@ -82828,7 +82009,6 @@ ff02::2 ip6-allrouters
 :: www.needmorehits.com
 :: www.neemfmujqqz.download
 :: www.neobux.com
-:: www.net-pratique.fr
 :: www.netdirect.nl
 :: www.netlinktrack.com
 :: www.netmaxx.com
@@ -82974,7 +82154,6 @@ ff02::2 ip6-allrouters
 :: www.palimashop.com
 :: www.panazan.ro
 :: www.pandectxfszuufr.download
-:: www.pantanalvip.com.br
 :: www.paranoicbarhuhw.download
 :: www.pareticpaypdtpq.download
 :: www.parkingcrew.net
@@ -83026,7 +82205,6 @@ ff02::2 ip6-allrouters
 :: www.pieiron.co.uk
 :: www.pigment-adv.co.il
 :: www.pillowywdgpchl.download
-:: www.pillsmoney.com
 :: www.pinfishmabev.download
 :: www.ping-fast.com
 :: www.pinguinqeslaj.download
@@ -83199,7 +82377,6 @@ ff02::2 ip6-allrouters
 :: www.real-marketing.com
 :: www.realcounter.eu
 :: www.realinnovation.com
-:: www.realist.gen.tr
 :: www.realtextads.com
 :: www.realtracker.com
 :: www.reamerskltzgimoz.download
@@ -83329,7 +82506,6 @@ ff02::2 ip6-allrouters
 :: www.scarthspnckx.download
 :: www.sccqbcwwuoerlikon.review
 :: www.schizopodviicvxvtr.download
-:: www.schuh-zentgraf.de
 :: www.scleromanongsf.download
 :: www.scluvkzgdowel.review
 :: www.scorecardresearch.com
@@ -83394,7 +82570,6 @@ ff02::2 ip6-allrouters
 :: www.selfnetwork.com
 :: www.selfsurveys.com
 :: www.sellads.eu
-:: www.sellmeyourtraffic.com
 :: www.semiyun.com
 :: www.semrush.com
 :: www.send4fun.com
@@ -83666,7 +82841,6 @@ ff02::2 ip6-allrouters
 :: www.thalliformxaujqbsq.website
 :: www.theaffiliate.us
 :: www.theaffiliatepeople.com
-:: www.theaffiliateprogram.com
 :: www.theappwarrior.com
 :: www.thecounter.com
 :: www.thedennyinstitute.com
@@ -83724,7 +82898,6 @@ ff02::2 ip6-allrouters
 :: www.topblogging.com
 :: www.topblogs.com.ph
 :: www.toplist.cz
-:: www.toplist.sk
 :: www.toplistim.com
 :: www.topsiteguide.com
 :: www.topsites24.de
@@ -83747,7 +82920,6 @@ ff02::2 ip6-allrouters
 :: www.tqlkg.com
 :: www.tr100.net
 :: www.tr553.com
-:: www.tracc.it
 :: www.tracemyip.org
 :: www.track.net
 :: www.track112.com
@@ -84296,10 +83468,8 @@ ff02::2 ip6-allrouters
 :: www3.track4.com
 :: www3.webhostingtalk.com
 :: www3.yesadvertising.com
-:: www30a1.glam.com
 :: www30a4.glam.com
 :: www30a5.glam.com
-:: www30a6.glam.com
 :: www35.glam.com
 :: www3secure.com
 :: www4.addfreestats.com
@@ -84390,6 +83560,7 @@ ff02::2 ip6-allrouters
 :: wxubrlotdguineas.review
 :: wxupwyabry.com
 :: wxvpo5.gow.englishwoodlands.co.uk
+:: wxwbvytlvabs.com
 :: wy3fvp.shet.eveshamairporttransfers.co.uk
 :: wyaeyjaqx.com
 :: wybfcxze.com
@@ -84432,7 +83603,6 @@ ff02::2 ip6-allrouters
 :: wzwetfprojnyx.com
 :: wzyagambcfn.bid
 :: wzzrquhn.com
-:: x-road.co.kr
 :: x-stat.de
 :: x-traceur.com
 :: x-us.appbaqend.com
@@ -84476,7 +83646,6 @@ ff02::2 ip6-allrouters
 :: x19network.com
 :: x2.ifdef.jp
 :: x2.vindicosuite.com
-:: x2.xclicks.net
 :: x2.yamanoha.com
 :: x20.ifdef.jp
 :: x3.extreme-dm.com
@@ -84485,15 +83654,12 @@ ff02::2 ip6-allrouters
 :: x3.yamanoha.com
 :: x3w7lvezss.com
 :: x4.ifdef.jp
-:: x4.xclicks.net
 :: x4.yamanoha.com
 :: x4300tiz.com
 :: x5.ifdef.jp
-:: x5.xclicks.net
 :: x5.yamanoha.com
 :: x5xw2o.kozer.2ndincome4u.org.uk
 :: x6.ifdef.jp
-:: x6.xclicks.net
 :: x6.yakiuchi.com
 :: x6.yamanoha.com
 :: x7.hebiichigo.com
@@ -84614,7 +83780,6 @@ ff02::2 ip6-allrouters
 :: xel-xel-fie.com
 :: xelllwrite.com
 :: xellvrgouivty.com
-:: xemtylecacuoc.bong99.com
 :: xenddwrxygjcbq.com
 :: xenec.stol.it
 :: xenon.iad-03.braze.com
@@ -84831,7 +83996,6 @@ ff02::2 ip6-allrouters
 :: xml.adventurefeeds.com
 :: xml.adx1.com
 :: xml.adxfactory.com
-:: xml.bravenet.com
 :: xml.clickredirection.com
 :: xml.explorads.com
 :: xml.ezmob.com
@@ -84901,6 +84065,7 @@ ff02::2 ip6-allrouters
 :: xoredi.com
 :: xorgwebs.webs.com
 :: xorotmjjst.com
+:: xotaiybjyj.com
 :: xotsa.frenchgerlemanelectric.com
 :: xovq5nemr.com
 :: xoyoijhp.com
@@ -85036,6 +84201,7 @@ ff02::2 ip6-allrouters
 :: xxx-r.com
 :: xxx.cqcounter.com
 :: xxxadu.com
+:: xxxbyhxp.com
 :: xxxconnect.com
 :: xxxcounter.com
 :: xxxmov.site
@@ -85095,7 +84261,6 @@ ff02::2 ip6-allrouters
 :: yada.com
 :: yadro.ru
 :: yads.c.yimg.jp
-:: yads.yahoo.co.jp
 :: yads.zedo.com
 :: yadyiymarz.com
 :: yagcaumz.com
@@ -85176,6 +84341,7 @@ ff02::2 ip6-allrouters
 :: ydkhkjmefxy.com
 :: ydkrabhtgci.com
 :: ydoksieuml.com
+:: ydsnqaekjr.com
 :: ydtqlmsvocjp.com
 :: ydutvhtw.com
 :: ydvexlxyg.com
@@ -85380,6 +84546,7 @@ ff02::2 ip6-allrouters
 :: ynvplyprjr.bid
 :: ynxerecrbihujf.com
 :: ynzdtoawstxvh.com
+:: yobthmvxwedkkg.com
 :: yoc-adserver.com
 :: yoc-performance.com
 :: yoclub.waphall.com
@@ -85433,6 +84600,7 @@ ff02::2 ip6-allrouters
 :: yox416.idf.iandunford.co.uk
 :: yoxrhwtvyqt.com
 :: yoyi-cm.admaster.com.cn
+:: ypaletdevelspe.info
 :: ypecfkbqgldzq.com
 :: ypictqesjuib.com
 :: ypixrvxi.com
@@ -85510,7 +84678,6 @@ ff02::2 ip6-allrouters
 :: yuimtqtp.com
 :: yuituityula.com
 :: yukoyuko.112.2o7.net
-:: yul-v4.pops.fastly-insights.com
 :: yume.com
 :: yumekin.com
 :: yumenetworks.com
@@ -85537,7 +84704,6 @@ ff02::2 ip6-allrouters
 :: yvlrhnzid.com
 :: yvmjtjtfuaspc.com
 :: yvoria.com
-:: yvr-v4.pops.fastly-insights.com
 :: yvsymvjzk.com
 :: yvsystem.com
 :: yvvxjkzi.com
@@ -85549,6 +84715,7 @@ ff02::2 ip6-allrouters
 :: yw9f088h61.com
 :: ywcxuagtmrawx.com
 :: ywegbjiv.com
+:: ywemjekei.com
 :: ywlaafzvnn.com
 :: ywolsukpto.com
 :: ywsjtstwevknlc.com
@@ -85569,6 +84736,7 @@ ff02::2 ip6-allrouters
 :: yxvuvzrz.com
 :: yxvxjtupwlee.com
 :: yxwnopnfgctpr.com
+:: yxyenzslsk.com
 :: yxyfsghyk.com
 :: yycocbzc.com
 :: yydmdsdnbtcduu.com
@@ -85577,7 +84745,6 @@ ff02::2 ip6-allrouters
 :: yywctdppuncv.com
 :: yyxntcpxxvtpuk.com
 :: yyyghfmjkz.com
-:: yyz-v4.pops.fastly-insights.com
 :: yz0fi.voluumtrk.com
 :: yz56lywd.com
 :: yz740.com
@@ -85816,6 +84983,7 @@ ff02::2 ip6-allrouters
 :: zfvrrodxfb.com
 :: zg.zeroredirect1.com
 :: zgcplfvjpixarg.com
+:: zgeuzenogpy.com
 :: zggnhhadif.com
 :: zgsdk.zhugeio.com
 :: zgswbmzhpohhib.com
@@ -85833,6 +85001,7 @@ ff02::2 ip6-allrouters
 :: zhihu-analytics.zhihu.com
 :: zhirok.com
 :: zhiziyun.com
+:: zhkbjqtstd.com
 :: zhlfogiy.com
 :: zhlrcaahpuqh.com
 :: zhovjymmkg.com
@@ -85926,6 +85095,7 @@ ff02::2 ip6-allrouters
 :: zl.zeroredirect1.com
 :: zlacraft.com
 :: zlahmbwm.com
+:: zlddifyo.com
 :: zldijcenor.com
 :: zlegojgwg.com
 :: zlfgedpuxrbpgm.com
@@ -85939,6 +85109,7 @@ ff02::2 ip6-allrouters
 :: zm.zeroredirect1.com
 :: zm1.zeroredirect5.com
 :: zm232.com
+:: zmasxytjskg.com
 :: zmbuidget.com
 :: zmctrack.net
 :: zmdj7g.shet.eveshamairporttransfers.co.uk
@@ -86066,8 +85237,6 @@ ff02::2 ip6-allrouters
 :: zs.zeroredirect1.com
 :: zs0s5xfe.com
 :: zs1.zeroredirect1.com
-:: zs11.cnzz.com
-:: zs16.cnzz.com
 :: zsc.scmspain.com
 :: zsikmzoehqw.com
 :: zsjgmnmtgm.com
@@ -86125,6 +85294,7 @@ ff02::2 ip6-allrouters
 :: zvovdtomwa.com
 :: zvsuhljiha-a.akamaihd.net
 :: zvswmofga.com
+:: zvtbdwziyxh.com
 :: zw.zeroredirect1.com
 :: zwaar.org
 :: zweigciinmslan.com
@@ -86168,6 +85338,7 @@ ff02::2 ip6-allrouters
 :: zypenetwork.com
 :: zyrdu.cruisingsmallship.com
 :: zywfpkagwwpm.com
+:: zyxmnqkt.com
 :: zz.cqcounter.com
 :: zz.zeroredirect1.com
 :: zzfycxsu.com
