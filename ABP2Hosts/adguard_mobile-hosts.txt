@@ -276,6 +276,8 @@
 0.0.0.0 30912.content.swrve.com
 0.0.0.0 30913.api.swrve.com
 0.0.0.0 30913.content.swrve.com
+0.0.0.0 31026.api.swrve.com
+0.0.0.0 31026.content.swrve.com
 0.0.0.0 31.14.252.148
 0.0.0.0 3188.engine.mobileapptracking.com
 0.0.0.0 3193.api.swrve.com
@@ -2306,7 +2308,6 @@
 0.0.0.0 api.exc.mob.com
 0.0.0.0 api-ext.mediav.com
 0.0.0.0 api.factual.com
-0.0.0.0 api.finanzen.immobilienscout24.de
 0.0.0.0 api.flurry.com
 0.0.0.0 api.fortumo.com
 0.0.0.0 api.foursquare.com
@@ -2390,7 +2391,6 @@
 0.0.0.0 api.mobilearts.io
 0.0.0.0 api.mobilebridge.com
 0.0.0.0 api.mobileday.com
-0.0.0.0 api.mobile.immobilienscout24.de
 0.0.0.0 api.mobilewareinc.com
 0.0.0.0 api.mobitech-content.xyz
 0.0.0.0 api.moblink.mob.com
@@ -2450,7 +2450,6 @@
 0.0.0.0 api.radar.io
 0.0.0.0 apir.direct-tap.com
 0.0.0.0 api.rec.mob.com
-0.0.0.0 api.recommendation.immobilienscout24.de
 0.0.0.0 api.recorder.duapps.com
 0.0.0.0 api.redshell.io
 0.0.0.0 api.restartad.com
@@ -2501,6 +2500,7 @@
 0.0.0.0 api.tapas.io
 0.0.0.0 api.tapjoy.com
 0.0.0.0 api.taplytics.com
+0.0.0.0 api.tapsell.ir
 0.0.0.0 api.taps.io
 0.0.0.0 api.tapstream.com
 0.0.0.0 api.theadex.com
@@ -3370,6 +3370,7 @@
 0.0.0.0 bos.ads.nexage.com
 0.0.0.0 boston-d.openx.net
 0.0.0.0 bottle-brush.tagboard.com.herokudns.com
+0.0.0.0 bot.whatismyipaddress.com
 0.0.0.0 bounce.emxdgt.com
 0.0.0.0 bounce.exacttarget.com
 0.0.0.0 bounce-mx.exacttarget.com
@@ -3568,6 +3569,7 @@
 0.0.0.0 cb-cdn.com
 0.0.0.0 cbcnewmedia.pushwoosh.com
 0.0.0.0 cben1.net
+0.0.0.0 c.betrad.com
 0.0.0.0 c-betrad-com.cdn.ampproject.org
 0.0.0.0 c.bigmir.net
 0.0.0.0 cbjs.baidu.com
@@ -3912,6 +3914,7 @@
 0.0.0.0 cesarmillan-d.openx.net
 0.0.0.0 ceskydomovalias.ngs.modry.cz
 0.0.0.0 cetus.iad-03.braze.com
+0.0.0.0 c.evidon.com
 0.0.0.0 c-evt.moatads.com
 0.0.0.0 cfa.2mdnsys.com
 0.0.0.0 cf-ads.pinger.com
@@ -4423,6 +4426,7 @@
 0.0.0.0 conv-blizzard-na.cd.serving-sys.com
 0.0.0.0 convchmp.taboola.com
 0.0.0.0 conversions.adaptv.advertising.com
+0.0.0.0 conversions.appsflyer.com
 0.0.0.0 convert.bounceexchange.com
 0.0.0.0 convhkmp.taboola.com
 0.0.0.0 convlatbmp.taboola.com
@@ -4812,6 +4816,7 @@
 0.0.0.0 dating.mgid.com
 0.0.0.0 d-atl1.turn.com
 0.0.0.0 datplus.springserve.com
+0.0.0.0 dau.fyber.com
 0.0.0.0 daviik.iad-03.braze.com
 0.0.0.0 db3aqu.atdmt.com
 0.0.0.0 db.adjust.io
@@ -5491,6 +5496,7 @@
 0.0.0.0 events.attentivemobile.com
 0.0.0.0 events.avantisvideo.com
 0.0.0.0 events.branch.io
+0.0.0.0 events.browsiprod.com
 0.0.0.0 events.cid.samba.tv
 0.0.0.0 events-collector.spot.im
 0.0.0.0 events.engageya.com
@@ -5752,6 +5758,7 @@
 0.0.0.0 frame.deployads.com
 0.0.0.0 fraudmetrix.cn
 0.0.0.0 freegeoip.com
+0.0.0.0 freegeoip.net
 0.0.0.0 freesam.kt.com
 0.0.0.0 fr-gmtdmp.mookie1.com
 0.0.0.0 friendlyduck.com
@@ -6091,7 +6098,6 @@
 0.0.0.0 gulfstream.vo.llnwd.net
 0.0.0.0 gum.criteo.com
 0.0.0.0 gumgum.com
-0.0.0.0 gumtree.com
 0.0.0.0 gunggo.com
 0.0.0.0 guohead.com
 0.0.0.0 guomob.com
@@ -6156,6 +6162,7 @@
 0.0.0.0 hbopenbid-sgc.pubmatic.com
 0.0.0.0 hbopenbid-sg.pubmatic.com
 0.0.0.0 hbpub.vo.llnwd.net
+0.0.0.0 hbsdk-config.log.smaato.net
 0.0.0.0 hb.undertone.com
 0.0.0.0 hb-us.adtech.advertising.com
 0.0.0.0 hb.vntsm.com
@@ -6755,6 +6762,7 @@
 0.0.0.0 iotapi.adups.com
 0.0.0.0 iownit.optimizely.com
 0.0.0.0 ip2.casalemedia.com
+0.0.0.0 ip-api.com
 0.0.0.0 ipa.pushwoosh.com
 0.0.0.0 ip.casalemedia.com
 0.0.0.0 ipcmedia.grapeshot.co.uk
@@ -6891,6 +6899,7 @@
 0.0.0.0 js.adscale.de
 0.0.0.0 js.adsrvr.org
 0.0.0.0 js.ad-stir.com
+0.0.0.0 js-agent.newrelic.com
 0.0.0.0 js.agkn.com
 0.0.0.0 js.alexametrics.com
 0.0.0.0 js.appboycdn.com
@@ -7577,6 +7586,7 @@
 0.0.0.0 mediation1.apptornado.com
 0.0.0.0 mediation.adnxs.com
 0.0.0.0 mediation.adpushup.com
+0.0.0.0 mediation.fyber.com
 0.0.0.0 mediation-sdk.hyprmx.com
 0.0.0.0 media.trafficjunky.net
 0.0.0.0 mediav.com
@@ -7950,6 +7960,7 @@
 0.0.0.0 mpx.mopub.com
 0.0.0.0 mqs.ioam.de
 0.0.0.0 m.quantcount.com
+0.0.0.0 m.quantserve.com
 0.0.0.0 mraid.presage.io
 0.0.0.0 mraid.prod.cloud.ogury.io
 0.0.0.0 mrp.rubiconproject.com
@@ -8370,6 +8381,7 @@
 0.0.0.0 onelink.appsflyer.com
 0.0.0.0 onepush.query.yahoo.com
 0.0.0.0 one.pushwoosh.com
+0.0.0.0 onesignal.com
 0.0.0.0 onespot-tracking.herokuapp.com
 0.0.0.0 onetag-geo.onscroll.com
 0.0.0.0 onetag-metrics-collector.onscroll.com
@@ -8779,6 +8791,7 @@
 0.0.0.0 pixel.mtrcs.samba.tv
 0.0.0.0 pixel.onaudience.com
 0.0.0.0 pixel-origin.mathtag.com
+0.0.0.0 pixel.quantserve.com
 0.0.0.0 pixel-r53.netseer.com
 0.0.0.0 pixel.rubiconproject.com
 0.0.0.0 pixel-s2s.mathtag.com
@@ -9064,6 +9077,7 @@
 0.0.0.0 ps.cname2.igexin.com
 0.0.0.0 p.share.mob.com
 0.0.0.0 ps.innity.com
+0.0.0.0 p.skimresources.com
 0.0.0.0 ps.l.admedo.com
 0.0.0.0 psma02.com
 0.0.0.0 pso-imbot.inmobi.com
@@ -9491,6 +9505,7 @@
 0.0.0.0 rs.adledge.com
 0.0.0.0 rs.adx.io
 0.0.0.0 r-sec.casalemedia.com
+0.0.0.0 r.skimresources.com
 0.0.0.0 rs-xpromotion.appspot.com
 0.0.0.0 rt.analytics.anvato.net
 0.0.0.0 rtapi.abbi.io
@@ -9585,6 +9600,7 @@
 0.0.0.0 rules3.aatkit.com
 0.0.0.0 rules.aatkit.com
 0.0.0.0 rules.quantcount.com
+0.0.0.0 rumcdn.geoedge.be
 0.0.0.0 rum-collector-2.pingdom.net
 0.0.0.0 rum-collector.pingdom.net
 0.0.0.0 rum-collector.wpm.neustar.biz
@@ -9839,6 +9855,7 @@
 0.0.0.0 sdkgw.us1.twilio.com
 0.0.0.0 sdk-h5-cdn.rayjoy.com
 0.0.0.0 sdk.hansel.io
+0.0.0.0 sdk-hb-cfg.smaato.net
 0.0.0.0 sdk.hexia.io
 0.0.0.0 sdk.hockeyapp.net
 0.0.0.0 sdk.hostyour.video
@@ -10451,6 +10468,7 @@
 0.0.0.0 spl1.yumenetworks.com
 0.0.0.0 spl2.yumenetworks.com
 0.0.0.0 splash.appsgeyser.com
+0.0.0.0 splash-screen.voodoo-ads.io
 0.0.0.0 splicky.com
 0.0.0.0 spolecznosci-d.openx.net
 0.0.0.0 sponsorpay.com
@@ -10960,6 +10978,7 @@
 0.0.0.0 sync.adotmob.com
 0.0.0.0 sync.adspruce.com
 0.0.0.0 sync.ad-stir.com
+0.0.0.0 sync.adtelligent.com
 0.0.0.0 sync.alphonso.tv
 0.0.0.0 sync.apesvr.com
 0.0.0.0 sync.aralego.com
@@ -10984,6 +11003,8 @@
 0.0.0.0 sync.mathtag.com
 0.0.0.0 sync.mobojoy.baidu.com
 0.0.0.0 sync.outbrain.com
+0.0.0.0 sync.republer.com
+0.0.0.0 sync.search.spotxchange.com
 0.0.0.0 sync.smartadserver.com
 0.0.0.0 sync.springserve.com
 0.0.0.0 sync.srv.stackadapt.com
@@ -11417,6 +11438,7 @@
 0.0.0.0 tracker.rqmob.com
 0.0.0.0 tracker.samplicio.us
 0.0.0.0 trackersimulator.org
+0.0.0.0 trackers.voodoo-analytics.io
 0.0.0.0 tracker-us.adsmoloco.com
 0.0.0.0 tracker.winudf.com
 0.0.0.0 track.eu2.remerge.io
@@ -11638,6 +11660,7 @@
 0.0.0.0 ts166.net
 0.0.0.0 t.sharethis.com
 0.0.0.0 t.singular.net
+0.0.0.0 t.skimresources.com
 0.0.0.0 tsrid.cxense.com
 0.0.0.0 ts.tdxio.com
 0.0.0.0 tst.kaptcha.com
@@ -11648,6 +11671,7 @@
 0.0.0.0 t.teads.tv
 0.0.0.0 tt.onthe.io
 0.0.0.0 t.tpctrust.com
+0.0.0.0 t.trafmag.com
 0.0.0.0 ttringwall.com
 0.0.0.0 ttt.onthe.io
 0.0.0.0 tubedspots.com

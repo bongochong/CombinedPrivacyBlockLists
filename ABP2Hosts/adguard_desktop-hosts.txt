@@ -220,6 +220,7 @@
 0.0.0.0 acecounter.com
 0.0.0.0 acetrk.com
 0.0.0.0 acexedge.com
+0.0.0.0 acidpigs.com
 0.0.0.0 acinster.info
 0.0.0.0 acint.net
 0.0.0.0 aclassigned.info
@@ -846,6 +847,7 @@
 0.0.0.0 bitcoadz.io
 0.0.0.0 bitcoadz.pw
 0.0.0.0 bitcoines.com
+0.0.0.0 bitcoinsad.com
 0.0.0.0 bitmedia.io
 0.0.0.0 bitmedianetwork.com
 0.0.0.0 bitonclick.com
@@ -968,6 +970,7 @@
 0.0.0.0 browser-statistik.de
 0.0.0.0 browser-update.org
 0.0.0.0 brsrvr.com
+0.0.0.0 bsfnvvxjcisif.com
 0.0.0.0 bs.nakanohito.jp
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 bstk.co
@@ -1822,6 +1825,7 @@
 0.0.0.0 dxprljqoay4rt.cloudfront.net
 0.0.0.0 dxwpedu.me
 0.0.0.0 dybxezbel1g44.cloudfront.net
+0.0.0.0 dynameex.com
 0.0.0.0 dynamicadx.com
 0.0.0.0 dynatrace.com
 0.0.0.0 dyntrk.com
@@ -3132,6 +3136,7 @@
 0.0.0.0 lumatag.co.uk
 0.0.0.0 lumberamount.com
 0.0.0.0 luminate.com
+0.0.0.0 lumitos.com
 0.0.0.0 lumpyleaf.com
 0.0.0.0 luxupcdnb.com
 0.0.0.0 luxupcdnc.com
@@ -3186,6 +3191,7 @@
 0.0.0.0 maploco.com
 0.0.0.0 mapmyuser.com
 0.0.0.0 maraukog.info
+0.0.0.0 marfeelcache.com
 0.0.0.0 marinsm.com
 0.0.0.0 market015.com
 0.0.0.0 market2lead.com
@@ -3220,6 +3226,7 @@
 0.0.0.0 mcs.byted.org
 0.0.0.0 mcs.snssdk.com
 0.0.0.0 mc.yandex.ru
+0.0.0.0 mddwabpvzcr.com
 0.0.0.0 m.dglscm.cn
 0.0.0.0 md-ia.info
 0.0.0.0 mdotlabs.com
@@ -4532,6 +4539,7 @@
 0.0.0.0 securestudies.com
 0.0.0.0 sedotracker.com
 0.0.0.0 sedotracker.de
+0.0.0.0 seedtag.com
 0.0.0.0 seehits.com
 0.0.0.0 seewhy.com
 0.0.0.0 segment-analytics.com
@@ -5486,6 +5494,7 @@
 0.0.0.0 videostat.com
 0.0.0.0 vidigital.ru
 0.0.0.0 viewar.org
+0.0.0.0 viewm.moonicorn.network
 0.0.0.0 vihtori-analytics.fi
 0.0.0.0 vinlens.com
 0.0.0.0 vinsight.de
