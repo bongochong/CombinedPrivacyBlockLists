@@ -3244,7 +3244,6 @@ shExpMatch(host, '*.fwmrm.net') ||
 shExpMatch(host, '*.fx45.pp.ru') ||
 shExpMatch(host, '*.fxclix.com') ||
 shExpMatch(host, '*.fxstyle.net') ||
-shExpMatch(host, '*.fyber.com') ||
 shExpMatch(host, '*.fyqtguo.biz') ||
 shExpMatch(host, '*.fyquuk.com') ||
 shExpMatch(host, '*.ga87z2o.com') ||
@@ -10042,7 +10041,6 @@ shExpMatch(host, 'fwmrm.net') ||
 shExpMatch(host, 'fx45.pp.ru') ||
 shExpMatch(host, 'fxclix.com') ||
 shExpMatch(host, 'fxstyle.net') ||
-shExpMatch(host, 'fyber.com') ||
 shExpMatch(host, 'fyqtguo.biz') ||
 shExpMatch(host, 'fyquuk.com') ||
 shExpMatch(host, 'ga87z2o.com') ||
