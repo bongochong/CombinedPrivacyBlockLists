@@ -303,6 +303,7 @@
 0.0.0.0 admax.quisma.com
 0.0.0.0 admdspc.com
 0.0.0.0 admeo.ru
+0.0.0.0 admetric.io
 0.0.0.0 admicro.vn
 0.0.0.0 admitad.com
 0.0.0.0 admon.pro
@@ -737,6 +738,7 @@
 0.0.0.0 balvalur.com
 0.0.0.0 bambarmedia.com
 0.0.0.0 bam-x.com
+0.0.0.0 bandborder.com
 0.0.0.0 banner.dabi.ir
 0.0.0.0 banners.myads.ge
 0.0.0.0 banner.vatanclick.ir
@@ -896,6 +898,7 @@
 0.0.0.0 blueconic.net
 0.0.0.0 bluecore.com
 0.0.0.0 bluecounter.de
+0.0.0.0 blueioabj.com
 0.0.0.0 bluekai.com
 0.0.0.0 blueseed.tv
 0.0.0.0 blueserving.com
@@ -1071,6 +1074,7 @@
 0.0.0.0 cdn9now.com
 0.0.0.0 cdn.adclerks.com
 0.0.0.0 cdn.adk2.com
+0.0.0.0 cdn.advsmedia.net
 0.0.0.0 cdn-analytics.pl
 0.0.0.0 cdn.driveback.ru
 0.0.0.0 cdn.jquery-uim.download
@@ -1080,6 +1084,8 @@
 0.0.0.0 cdn.pulpix.com
 0.0.0.0 cdnquality.com
 0.0.0.0 cdn-server.top
+0.0.0.0 cdn.sports-streams-online.club
+0.0.0.0 cdn.sports-streams-online.xyz
 0.0.0.0 cdn.static-cnt.bid
 0.0.0.0 cdntlz.cn
 0.0.0.0 cdntrf.com
@@ -2145,6 +2151,7 @@
 0.0.0.0 focusego.info
 0.0.0.0 foditgoz.com
 0.0.0.0 fogl1onf.com
+0.0.0.0 fokgwuoft.com
 0.0.0.0 followercounter.com
 0.0.0.0 foloatoo.com
 0.0.0.0 footprintdns.com
@@ -2613,6 +2620,7 @@
 0.0.0.0 i3535.com
 0.0.0.0 iadvize.com
 0.0.0.0 iaheyftbsn.review
+0.0.0.0 ian029dkl3osl930sian.club
 0.0.0.0 ianxalim.pw
 0.0.0.0 ian.xyz
 0.0.0.0 iarfina.pw
@@ -3035,6 +3043,7 @@
 0.0.0.0 lexozfldkklgvc.com
 0.0.0.0 lfdydk.com
 0.0.0.0 lfov.net
+0.0.0.0 lgsvywogylblv.com
 0.0.0.0 lh5lg.top
 0.0.0.0 lhinsights.com
 0.0.0.0 lhzgqc.com
@@ -3258,6 +3267,7 @@
 0.0.0.0 mediaseeding.com
 0.0.0.0 mediasprucetree.com
 0.0.0.0 mediastinct.com
+0.0.0.0 mediator.mail.ru
 0.0.0.0 mediav.com
 0.0.0.0 mediaver.com
 0.0.0.0 mediego.com
@@ -3392,6 +3402,7 @@
 0.0.0.0 mplxtms.com
 0.0.0.0 mpstat.us
 0.0.0.0 mpwe.net
+0.0.0.0 mq.d6s3mov.cn
 0.0.0.0 mqgpo.com
 0.0.0.0 m.qhxcdmfj.cn
 0.0.0.0 mqs.ioam.de
@@ -3992,6 +4003,7 @@
 0.0.0.0 popunders.bid
 0.0.0.0 popupmaker.com
 0.0.0.0 popupme.net
+0.0.0.0 popupplus.ir
 0.0.0.0 popup-traffic.com
 0.0.0.0 pop.verplusonline.com
 0.0.0.0 popvertising.com
@@ -4455,6 +4467,7 @@
 0.0.0.0 rvvslhmmbor.com
 0.0.0.0 rydresa.info
 0.0.0.0 ryllae.com
+0.0.0.0 rz261.cn
 0.0.0.0 rzekbhnk.top
 0.0.0.0 rztrkr.com
 0.0.0.0 s1.adguard.com
@@ -4483,6 +4496,7 @@
 0.0.0.0 sapha.com
 0.0.0.0 sarevtop.com
 0.0.0.0 sas15k01.com
+0.0.0.0 sauaopmdesyysa.com
 0.0.0.0 sa.xalongli.cn
 0.0.0.0 saysidewalk.com
 0.0.0.0 sayutracking.co.uk
@@ -4942,6 +4956,7 @@
 0.0.0.0 suchmaschinen-ranking-hits.de
 0.0.0.0 suddensidewalk.com
 0.0.0.0 suggedin.info
+0.0.0.0 sulxddttj.com
 0.0.0.0 summerhamster.com
 0.0.0.0 summitemarketinganalytics.com
 0.0.0.0 sumologic.com
@@ -5309,6 +5324,7 @@
 0.0.0.0 tstlabs.co.uk
 0.0.0.0 tsw0.com
 0.0.0.0 tsyndicate.com
+0.0.0.0 tsyndolls.com
 0.0.0.0 tt.biquge.la
 0.0.0.0 ttkx.qyctj.com
 0.0.0.0 tt.ttarget.ru
@@ -5580,6 +5596,7 @@
 0.0.0.0 w88.go.com
 0.0.0.0 wa4y.com
 0.0.0.0 wa.and.co.uk
+0.0.0.0 waavnpkn.com
 0.0.0.0 wachipho.net
 0.0.0.0 waframedia16.com
 0.0.0.0 wakapita.com
@@ -5884,6 +5901,7 @@
 0.0.0.0 yijuxie.com
 0.0.0.0 yim3eyv5.top
 0.0.0.0 yinooo.com
+0.0.0.0 yitai001.com
 0.0.0.0 yjnqrbfnocy.com
 0.0.0.0 yjtag.jp
 0.0.0.0 yljiaoluo.com
