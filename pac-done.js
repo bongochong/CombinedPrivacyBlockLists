@@ -2213,6 +2213,7 @@ shExpMatch(host, '*.boldchat.com') ||
 shExpMatch(host, '*.bolerakopsoa.pw') ||
 shExpMatch(host, '*.boomads.com') ||
 shExpMatch(host, '*.boom.ro') ||
+shExpMatch(host, '*.boomtrain.com') ||
 shExpMatch(host, '*.boost-my-pr.de') ||
 shExpMatch(host, '*.bora.studentworkbook.pw') ||
 shExpMatch(host, '*.boredcrown.com') ||
@@ -3984,6 +3985,7 @@ shExpMatch(host, '*.loading321.com') ||
 shExpMatch(host, '*.localmantra.com') ||
 shExpMatch(host, '*.localmediabuying.com') ||
 shExpMatch(host, '*.localytics.com') ||
+shExpMatch(host, '*.lockerdome.com') ||
 shExpMatch(host, '*.log.btopenworld.com') ||
 shExpMatch(host, '*.logger.snackly.co') ||
 shExpMatch(host, '*.log.logrocket.io') ||
@@ -5254,6 +5256,7 @@ shExpMatch(host, '*.ryuitaqw.pw') ||
 shExpMatch(host, '*.rzss2zfue73dfvmj.onlinerpgame.ch') ||
 shExpMatch(host, '*.rzss2zfue73dfvmj.truewargame.ch') ||
 shExpMatch(host, '*.s1.eyeonmusica.it') ||
+shExpMatch(host, '*.s24hc8xzag.com') ||
 shExpMatch(host, '*.s2d6.com') ||
 shExpMatch(host, '*.sabio.us') ||
 shExpMatch(host, '*.sablesmile.com') ||
@@ -5660,7 +5663,6 @@ shExpMatch(host, '*.talentedsteel.com') ||
 shExpMatch(host, '*.tamgrt.com') ||
 shExpMatch(host, '*.tangerinenet.biz') ||
 shExpMatch(host, '*.tangibleteam.com') ||
-shExpMatch(host, '*.tankeuro.com') ||
 shExpMatch(host, '*.tanthanhdanh.vn') ||
 shExpMatch(host, '*.tapad.com') ||
 shExpMatch(host, '*.tapfiliate.com') ||
@@ -9010,6 +9012,7 @@ shExpMatch(host, 'boldchat.com') ||
 shExpMatch(host, 'bolerakopsoa.pw') ||
 shExpMatch(host, 'boomads.com') ||
 shExpMatch(host, 'boom.ro') ||
+shExpMatch(host, 'boomtrain.com') ||
 shExpMatch(host, 'boost-my-pr.de') ||
 shExpMatch(host, 'bora.studentworkbook.pw') ||
 shExpMatch(host, 'boredcrown.com') ||
@@ -10781,6 +10784,7 @@ shExpMatch(host, 'loading321.com') ||
 shExpMatch(host, 'localmantra.com') ||
 shExpMatch(host, 'localmediabuying.com') ||
 shExpMatch(host, 'localytics.com') ||
+shExpMatch(host, 'lockerdome.com') ||
 shExpMatch(host, 'log.btopenworld.com') ||
 shExpMatch(host, 'logger.snackly.co') ||
 shExpMatch(host, 'log.logrocket.io') ||
@@ -12051,6 +12055,7 @@ shExpMatch(host, 'ryuitaqw.pw') ||
 shExpMatch(host, 'rzss2zfue73dfvmj.onlinerpgame.ch') ||
 shExpMatch(host, 'rzss2zfue73dfvmj.truewargame.ch') ||
 shExpMatch(host, 's1.eyeonmusica.it') ||
+shExpMatch(host, 's24hc8xzag.com') ||
 shExpMatch(host, 's2d6.com') ||
 shExpMatch(host, 'sabio.us') ||
 shExpMatch(host, 'sablesmile.com') ||
@@ -12457,7 +12462,6 @@ shExpMatch(host, 'talentedsteel.com') ||
 shExpMatch(host, 'tamgrt.com') ||
 shExpMatch(host, 'tangerinenet.biz') ||
 shExpMatch(host, 'tangibleteam.com') ||
-shExpMatch(host, 'tankeuro.com') ||
 shExpMatch(host, 'tanthanhdanh.vn') ||
 shExpMatch(host, 'tapad.com') ||
 shExpMatch(host, 'tapfiliate.com') ||
