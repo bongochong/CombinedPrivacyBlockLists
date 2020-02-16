@@ -476,6 +476,7 @@
 0.0.0.0 aj1052.online
 0.0.0.0 aj1574.online
 0.0.0.0 aj1603.online
+0.0.0.0 aj2041.online
 0.0.0.0 ajkelra.com
 0.0.0.0 ak0gsh40.com
 0.0.0.0 akailoparzapi.com
@@ -632,6 +633,7 @@
 0.0.0.0 asextube.net
 0.0.0.0 asg.xz2aab.xyz
 0.0.0.0 ashaidbit.club
+0.0.0.0 ashamparm.site
 0.0.0.0 ashbowany.site
 0.0.0.0 ashow.pcpop.com
 0.0.0.0 askallalb.club
@@ -948,6 +950,7 @@
 0.0.0.0 bouncex.com
 0.0.0.0 bouncyproperty.com
 0.0.0.0 boxxxcash.com
+0.0.0.0 boyaidare.club
 0.0.0.0 bps.sysact.cn
 0.0.0.0 brand.ad
 0.0.0.0 brassrule.com
@@ -1998,6 +2001,7 @@
 0.0.0.0 europuls.eu
 0.0.0.0 europuls.net
 0.0.0.0 eu-survey.com
+0.0.0.0 euwtn.5081.site
 0.0.0.0 euym8eel.club
 0.0.0.0 ev2cdn.com
 0.0.0.0 evanetpro.com
@@ -2913,6 +2917,7 @@
 0.0.0.0 kaukoafa.net
 0.0.0.0 kaunairu.net
 0.0.0.0 kavijaseuranta.fi
+0.0.0.0 kbyelxqr.com
 0.0.0.0 kdoraraq.com
 0.0.0.0 kdowqlpt.info
 0.0.0.0 kelris.pw
@@ -3207,6 +3212,7 @@
 0.0.0.0 marketingautomation.services
 0.0.0.0 marketing-page.de
 0.0.0.0 marketizator.com
+0.0.0.0 market.moonicorn.network
 0.0.0.0 marketo.com
 0.0.0.0 marketo.net
 0.0.0.0 marktest.pt
@@ -3644,6 +3650,7 @@
 0.0.0.0 octavius.rocks
 0.0.0.0 octobird.com
 0.0.0.0 odbabo.info
+0.0.0.0 odcnpmjgsxrqpr.com
 0.0.0.0 oddomane.com
 0.0.0.0 odesaconflate.com
 0.0.0.0 odoscope.com
@@ -4187,6 +4194,7 @@
 0.0.0.0 q8eqh.top
 0.0.0.0 qaadv.com
 0.0.0.0 qadabra.com
+0.0.0.0 qaops.jgwsmqx.com
 0.0.0.0 qaquzakalaka.com
 0.0.0.0 qarsza.cn
 0.0.0.0 qawiman.com
@@ -4827,6 +4835,7 @@
 0.0.0.0 ssp.adxpremium.com
 0.0.0.0 ssp.zryydi.com
 0.0.0.0 ssraju3n.com
+0.0.0.0 stab.thench.net
 0.0.0.0 stack-sonar.com
 0.0.0.0 stalluva.pro
 0.0.0.0 stampshire.info
@@ -6003,6 +6012,7 @@
 0.0.0.0 zptncsir.com
 0.0.0.0 zqtk.net
 0.0.0.0 zroitracker.com
+0.0.0.0 zsdqemzzzbtn.com
 0.0.0.0 ztsrv.com
 0.0.0.0 zugnogne.com
 0.0.0.0 zukxd6fkxqn.com
