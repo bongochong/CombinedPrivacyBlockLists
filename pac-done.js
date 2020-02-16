@@ -999,6 +999,7 @@ shExpMatch(host, '*.ads2.gamecity.net') ||
 shExpMatch(host, '*.ads2.jubii.dk') ||
 shExpMatch(host, '*.ads2.net-communities.co.uk') ||
 shExpMatch(host, '*.ads2.oneplace.com') ||
+shExpMatch(host, '*.ads2.opensubtitles.org') ||
 shExpMatch(host, '*.ads2.rne.com') ||
 shExpMatch(host, '*.ads2.virtual-nights.com') ||
 shExpMatch(host, '*.ads2.xnet.cz') ||
@@ -1406,6 +1407,7 @@ shExpMatch(host, '*.adsolutions.yp.com') ||
 shExpMatch(host, '*.adsonar.com') ||
 shExpMatch(host, '*.ads.oneplace.com') ||
 shExpMatch(host, '*.ads.ookla.com') ||
+shExpMatch(host, '*.ads.opensubtitles.org') ||
 shExpMatch(host, '*.ads.optusnet.com.au') ||
 shExpMatch(host, '*.ad-souk.com') ||
 shExpMatch(host, '*.ads.outpersonals.com') ||
@@ -1720,7 +1722,6 @@ shExpMatch(host, '*.affrh2022.com') ||
 shExpMatch(host, '*.afftracking.justanswer.com') ||
 shExpMatch(host, '*.afobal.cl') ||
 shExpMatch(host, '*.afraidlanguage.com') ||
-shExpMatch(host, '*.afterview.ru') ||
 shExpMatch(host, '*.agkn.com') ||
 shExpMatch(host, '*.agreeableprice.com') ||
 shExpMatch(host, '*.agreeablestew.com') ||
@@ -3199,6 +3200,7 @@ shExpMatch(host, '*.freebanner.com') ||
 shExpMatch(host, '*.free-banners.com') ||
 shExpMatch(host, '*.freecounterstat.com') ||
 shExpMatch(host, '*.freelogs.com') ||
+shExpMatch(host, '*.freemaineads.com') ||
 shExpMatch(host, '*.freemyapps.com') ||
 shExpMatch(host, '*.freeonlineusers.com') ||
 shExpMatch(host, '*.freepay.com') ||
@@ -3612,6 +3614,7 @@ shExpMatch(host, '*.id5-sync.com') ||
 shExpMatch(host, '*.idcounter.com') ||
 shExpMatch(host, '*.iddiction.com') ||
 shExpMatch(host, '*.identads.com') ||
+shExpMatch(host, '*.idevaffiliate.com') ||
 shExpMatch(host, '*.idot.cz') ||
 shExpMatch(host, '*.idregie.com') ||
 shExpMatch(host, '*.idtargeting.com') ||
@@ -4258,6 +4261,7 @@ shExpMatch(host, '*.movieofgoodies.kz') ||
 shExpMatch(host, '*.moviepaidinfullsexy.kz') ||
 shExpMatch(host, '*.moving22.kro.kr') ||
 shExpMatch(host, '*.mowfruit.com') ||
+shExpMatch(host, '*.mparticle.com') ||
 shExpMatch(host, '*.mphtadhci5mrdlju.onion.to') ||
 shExpMatch(host, '*.mphtadhci5mrdlju.tor2web.org') ||
 shExpMatch(host, '*.mpstat.us') ||
@@ -5559,6 +5563,7 @@ shExpMatch(host, '*.stats.unwired-i.net') ||
 shExpMatch(host, '*.stats.wordpress.com') ||
 shExpMatch(host, '*.stats.wp.com') ||
 shExpMatch(host, '*.stats.x14.eu') ||
+shExpMatch(host, '*.stat-track.com') ||
 shExpMatch(host, '*.stat.tudou.com') ||
 shExpMatch(host, '*.stat.webmedia.pl') ||
 shExpMatch(host, '*.statxpress.com') ||
@@ -7798,6 +7803,7 @@ shExpMatch(host, 'ads2.gamecity.net') ||
 shExpMatch(host, 'ads2.jubii.dk') ||
 shExpMatch(host, 'ads2.net-communities.co.uk') ||
 shExpMatch(host, 'ads2.oneplace.com') ||
+shExpMatch(host, 'ads2.opensubtitles.org') ||
 shExpMatch(host, 'ads2.rne.com') ||
 shExpMatch(host, 'ads2.virtual-nights.com') ||
 shExpMatch(host, 'ads2.xnet.cz') ||
@@ -8205,6 +8211,7 @@ shExpMatch(host, 'adsolutions.yp.com') ||
 shExpMatch(host, 'adsonar.com') ||
 shExpMatch(host, 'ads.oneplace.com') ||
 shExpMatch(host, 'ads.ookla.com') ||
+shExpMatch(host, 'ads.opensubtitles.org') ||
 shExpMatch(host, 'ads.optusnet.com.au') ||
 shExpMatch(host, 'ad-souk.com') ||
 shExpMatch(host, 'ads.outpersonals.com') ||
@@ -8519,7 +8526,6 @@ shExpMatch(host, 'affrh2022.com') ||
 shExpMatch(host, 'afftracking.justanswer.com') ||
 shExpMatch(host, 'afobal.cl') ||
 shExpMatch(host, 'afraidlanguage.com') ||
-shExpMatch(host, 'afterview.ru') ||
 shExpMatch(host, 'agkn.com') ||
 shExpMatch(host, 'agreeableprice.com') ||
 shExpMatch(host, 'agreeablestew.com') ||
@@ -9998,6 +10004,7 @@ shExpMatch(host, 'freebanner.com') ||
 shExpMatch(host, 'free-banners.com') ||
 shExpMatch(host, 'freecounterstat.com') ||
 shExpMatch(host, 'freelogs.com') ||
+shExpMatch(host, 'freemaineads.com') ||
 shExpMatch(host, 'freemyapps.com') ||
 shExpMatch(host, 'freeonlineusers.com') ||
 shExpMatch(host, 'freepay.com') ||
@@ -10411,6 +10418,7 @@ shExpMatch(host, 'id5-sync.com') ||
 shExpMatch(host, 'idcounter.com') ||
 shExpMatch(host, 'iddiction.com') ||
 shExpMatch(host, 'identads.com') ||
+shExpMatch(host, 'idevaffiliate.com') ||
 shExpMatch(host, 'idot.cz') ||
 shExpMatch(host, 'idregie.com') ||
 shExpMatch(host, 'idtargeting.com') ||
@@ -11057,6 +11065,7 @@ shExpMatch(host, 'movieofgoodies.kz') ||
 shExpMatch(host, 'moviepaidinfullsexy.kz') ||
 shExpMatch(host, 'moving22.kro.kr') ||
 shExpMatch(host, 'mowfruit.com') ||
+shExpMatch(host, 'mparticle.com') ||
 shExpMatch(host, 'mphtadhci5mrdlju.onion.to') ||
 shExpMatch(host, 'mphtadhci5mrdlju.tor2web.org') ||
 shExpMatch(host, 'mpstat.us') ||
@@ -12358,6 +12367,7 @@ shExpMatch(host, 'stats.unwired-i.net') ||
 shExpMatch(host, 'stats.wordpress.com') ||
 shExpMatch(host, 'stats.wp.com') ||
 shExpMatch(host, 'stats.x14.eu') ||
+shExpMatch(host, 'stat-track.com') ||
 shExpMatch(host, 'stat.tudou.com') ||
 shExpMatch(host, 'stat.webmedia.pl') ||
 shExpMatch(host, 'statxpress.com') ||
