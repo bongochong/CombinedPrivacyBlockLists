@@ -290,6 +290,7 @@
 0.0.0.0 adinlove.de
 0.0.0.0 adinsight.com
 0.0.0.0 adinsight.eu
+0.0.0.0 adjarabet.com
 0.0.0.0 adk2.co
 0.0.0.0 adk2.net
 0.0.0.0 adkernel.com
@@ -618,6 +619,7 @@
 0.0.0.0 arkayne.com
 0.0.0.0 arkinhechershedt.info
 0.0.0.0 arlime.com
+0.0.0.0 armashair.site
 0.0.0.0 arpuonline.com
 0.0.0.0 arpxs.com
 0.0.0.0 arrassley.info
@@ -732,6 +734,7 @@
 0.0.0.0 badshores.com
 0.0.0.0 badslopes.com
 0.0.0.0 badtopwitch.work
+0.0.0.0 bagbeam.com
 0.0.0.0 bahaimlo.com
 0.0.0.0 baipagid.com
 0.0.0.0 balancebreath.com
@@ -1079,6 +1082,7 @@
 0.0.0.0 cdn.adk2.com
 0.0.0.0 cdn.advsmedia.net
 0.0.0.0 cdn-analytics.pl
+0.0.0.0 cdn.digitalpush.org
 0.0.0.0 cdn.driveback.ru
 0.0.0.0 cdn.jquery-uim.download
 0.0.0.0 cdn.midas-network.com
@@ -1296,6 +1300,7 @@
 0.0.0.0 confirmit.com
 0.0.0.0 connatix.com
 0.0.0.0 connectad.io
+0.0.0.0 connectif.cloud
 0.0.0.0 connexity.net
 0.0.0.0 consciouscabbage.com
 0.0.0.0 contactmonkey.com
@@ -1624,6 +1629,7 @@
 0.0.0.0 data.permittingnorthlandseamen.info
 0.0.0.0 datarating.com
 0.0.0.0 data.shipboardserviceberrysiltstone.info
+0.0.0.0 dataxpand.com
 0.0.0.0 datvantage.com
 0.0.0.0 daunteegyptian.pro
 0.0.0.0 daurifek.net
@@ -2004,6 +2010,7 @@
 0.0.0.0 euwtn.5081.site
 0.0.0.0 euym8eel.club
 0.0.0.0 ev2cdn.com
+0.0.0.0 evadavdsp.pro
 0.0.0.0 evanetpro.com
 0.0.0.0 evantative.top
 0.0.0.0 everestjs.net
@@ -2103,6 +2110,7 @@
 0.0.0.0 fexperies.info
 0.0.0.0 ffwap.com
 0.0.0.0 fgo22.info
+0.0.0.0 fhgh9sd.com
 0.0.0.0 f.iaftjs.info
 0.0.0.0 ficusoid.xyz
 0.0.0.0 fiksu.com
@@ -2121,6 +2129,7 @@
 0.0.0.0 fishhoo.com
 0.0.0.0 fitanalytics.com
 0.0.0.0 fixcounter.com
+0.0.0.0 fixsirrod.site
 0.0.0.0 fixwap.net
 0.0.0.0 fjmjlwvtv.bid
 0.0.0.0 fkbwtoopwg.com
@@ -2789,6 +2798,7 @@
 0.0.0.0 irelandmetrix.ie
 0.0.0.0 irs09.com
 0.0.0.0 irtya.com
+0.0.0.0 irxcm.com
 0.0.0.0 iryazan.ru
 0.0.0.0 is.sabah.com.tr
 0.0.0.0 istat24.com
@@ -2981,6 +2991,7 @@
 0.0.0.0 kuaiyan.com
 0.0.0.0 kuchebraska.com
 0.0.0.0 kudrafa.ru
+0.0.0.0 kudzuphloemgunk.tech
 0.0.0.0 kuhou.com
 0.0.0.0 kulkaridoopi.com
 0.0.0.0 kulkerbolda.com
@@ -3179,6 +3190,7 @@
 0.0.0.0 m.91xiaodu.top
 0.0.0.0 machieved.com
 0.0.0.0 madcpms.com
+0.0.0.0 madplypie.club
 0.0.0.0 madsans.com
 0.0.0.0 madyna.ru
 0.0.0.0 maebtjn.com
@@ -3564,6 +3576,7 @@
 0.0.0.0 newsupdatedepot.info
 0.0.0.0 newsupdatewe.info
 0.0.0.0 newtrackmedia.com
+0.0.0.0 newvideos.xyz
 0.0.0.0 newviralmobistore.com
 0.0.0.0 newyorkwhil.com
 0.0.0.0 nexeps.com
@@ -4461,6 +4474,7 @@
 0.0.0.0 rtrk.com
 0.0.0.0 rtrk.co.nz
 0.0.0.0 ru4.com
+0.0.0.0 rubird.ru
 0.0.0.0 rucounter.ru
 0.0.0.0 rufadses.net
 0.0.0.0 ruifeng99.com
@@ -5046,6 +5060,7 @@
 0.0.0.0 taps.io
 0.0.0.0 tapstat.ru
 0.0.0.0 tapstream.com
+0.0.0.0 tarawerap.com
 0.0.0.0 targaubs.com
 0.0.0.0 targetfuel.com
 0.0.0.0 targeting.wpdigital.net
@@ -5200,6 +5215,7 @@
 0.0.0.0 tovery.net
 0.0.0.0 tpbpojpo.com
 0.0.0.0 tpmedia-reactads.com
+0.0.0.0 tqddgnqsrya.com
 0.0.0.0 tr553.com
 0.0.0.0 tracc.it
 0.0.0.0 trace-2000.com
@@ -5332,7 +5348,6 @@
 0.0.0.0 tst14netreal.com
 0.0.0.0 tstlabs.co.uk
 0.0.0.0 tsw0.com
-0.0.0.0 tsyndicate.com
 0.0.0.0 tsyndolls.com
 0.0.0.0 tt.biquge.la
 0.0.0.0 ttkx.qyctj.com
@@ -5400,6 +5415,7 @@
 0.0.0.0 unequalbrake.com
 0.0.0.0 uniad.vn
 0.0.0.0 unicaondemand.com
+0.0.0.0 unid.go.com
 0.0.0.0 uniquecaptcha.com
 0.0.0.0 univerba.club
 0.0.0.0 universalsearches.com
@@ -5461,6 +5477,7 @@
 0.0.0.0 uzotarak.com
 0.0.0.0 uzrating.com
 0.0.0.0 v3cdn.net
+0.0.0.0 v3.fstats.xyz
 0.0.0.0 vaebard.com
 0.0.0.0 vagwyn.pw
 0.0.0.0 vaigowoa.com
@@ -5518,6 +5535,7 @@
 0.0.0.0 videos.oms.eu
 0.0.0.0 videostat.com
 0.0.0.0 vidigital.ru
+0.0.0.0 viebitgreasy.email
 0.0.0.0 viewar.org
 0.0.0.0 viewm.moonicorn.network
 0.0.0.0 vihtori-analytics.fi

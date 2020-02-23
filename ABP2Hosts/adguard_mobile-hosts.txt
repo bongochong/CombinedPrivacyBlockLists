@@ -633,6 +633,7 @@
 0.0.0.0 a.4ee395e5b8a076c7bd8592851ff8cad.com
 0.0.0.0 a50.g2.akamai.net
 0.0.0.0 a.6d47c1118927cf53ba9654931df80e8d.com
+0.0.0.0 a.76674bdad304297eda3d325f449f6f49.com
 0.0.0.0 a8.net
 0.0.0.0 a9.com
 0.0.0.0 aa7bd76554cff2d93d33288d31aa6839.api.appsee.com
@@ -712,7 +713,6 @@
 0.0.0.0 ac.openx.com
 0.0.0.0 acp.fyber.com
 0.0.0.0 acs4baichuan.m.taobao.com
-0.0.0.0 acsdk.gameyw.easebar.com
 0.0.0.0 acs.m.taobao.com
 0.0.0.0 acsseo.com
 0.0.0.0 actionads.ru
@@ -2244,7 +2244,6 @@
 0.0.0.0 api.b2c.com
 0.0.0.0 api.backtrace.io
 0.0.0.0 api.badgeville.com
-0.0.0.0 api.band.us
 0.0.0.0 api.batch.com
 0.0.0.0 api.beaconforstore.com
 0.0.0.0 api.beaconsinspace.com
@@ -2370,7 +2369,6 @@
 0.0.0.0 api-master.netsparkmobile.com
 0.0.0.0 api.mediatailor.eu-west-1.amazonaws.com
 0.0.0.0 api.megacool.co
-0.0.0.0 api.metrics.heroku.com
 0.0.0.0 api.mgid.com
 0.0.0.0 api.miui.security.xiaomi.com
 0.0.0.0 api.mixpanel.com
@@ -2558,8 +2556,6 @@
 0.0.0.0 a.popin.cc
 0.0.0.0 app01.adfalcon.com
 0.0.0.0 app02.adfalcon.com
-0.0.0.0 app3.prd.telematics.uconnectcar.com
-0.0.0.0 app4.prd.telematics.uconnectcar.com
 0.0.0.0 app-ab01.marketo.com
 0.0.0.0 app-ab02.marketo.com
 0.0.0.0 app-ab03.marketo.com
@@ -3644,6 +3640,7 @@
 0.0.0.0 cdn.adligature.com
 0.0.0.0 cdn.admarvel.com
 0.0.0.0 cdn-adn-foreign.rayjump.com
+0.0.0.0 cdn-adn-https-baidu.rayjump.com
 0.0.0.0 cdn-adn.rayjump.com
 0.0.0.0 cdn-adn.smardroid.com
 0.0.0.0 cdn.adnxs.com
@@ -7331,7 +7328,6 @@
 0.0.0.0 ma312-r.analytics.edgekey.net
 0.0.0.0 ma322-r.analytics.edgekey.net
 0.0.0.0 ma343-r.analytics.edgekey.net
-0.0.0.0 ma345-r.analytics.edgekey.net
 0.0.0.0 ma479-r.analytics.edgekey.net
 0.0.0.0 ma512-r.analytics.edgekey.net
 0.0.0.0 ma562-r.analytics.edgekey.net
@@ -7673,8 +7669,6 @@
 0.0.0.0 me.xdrig.com
 0.0.0.0 mfad.inskinad.com
 0.0.0.0 mgage.com
-0.0.0.0 mgbsdknaeast.matrix.easebar.com
-0.0.0.0 mgbsdksgtest.matrix.easebar.com
 0.0.0.0 mgd-adengine.elasticbeanstalk.com
 0.0.0.0 mg.lentainform.com
 0.0.0.0 mg.mgid.com
@@ -8468,7 +8462,6 @@
 0.0.0.0 optimize.webtrends.com
 0.0.0.0 optin.mobiniti.com
 0.0.0.0 optout-service.unrulymedia.com
-0.0.0.0 optsdk.gameyw.easebar.com
 0.0.0.0 opt.ximad.com
 0.0.0.0 opus.analytics.yahoo.com
 0.0.0.0 opx-winners-ap-northeast-1-rtb.adroll.com
@@ -9224,7 +9217,6 @@
 0.0.0.0 qps.cint.com
 0.0.0.0 qqlogo.qq.com
 0.0.0.0 qring-tms.qq.com
-0.0.0.0 qr.mpsdk.easebar.com
 0.0.0.0 qsearch.media.net
 0.0.0.0 qservz.com
 0.0.0.0 qs.ioam.de
@@ -9907,7 +9899,6 @@
 0.0.0.0 sdk.open.talk.igexin.com
 0.0.0.0 sdk-orion.appboy.com
 0.0.0.0 sdk-orion.appboycomnulled.iad.appboy.com
-0.0.0.0 sdk-os.mpsdk.easebar.com
 0.0.0.0 sdk.ourplay.net
 0.0.0.0 sdk.out.usbla.net
 0.0.0.0 sdk.palmplaystore.com
@@ -10422,8 +10413,6 @@
 0.0.0.0 s.nvrentao8.com
 0.0.0.0 sobar.baidu.com
 0.0.0.0 socdm.com
-0.0.0.0 socialize.eu1.gigya.com
-0.0.0.0 socialize.us1.gigya.com
 0.0.0.0 socialknowledge-d.openx.net
 0.0.0.0 sociallitelife.tags.crwdcntrl.net
 0.0.0.0 sociaplus.com
@@ -11030,7 +11019,6 @@
 0.0.0.0 synthes.vo.llnwd.net
 0.0.0.0 s.yomob.com.cn
 0.0.0.0 s.youmi.net
-0.0.0.0 sypi.gpshopper.com
 0.0.0.0 sysco-appstore2.madmobile.com
 0.0.0.0 sysco-cdn.madmobile.com
 0.0.0.0 system.casalemedia.com
@@ -11801,7 +11789,6 @@
 0.0.0.0 union.baidu.com
 0.0.0.0 union.m.jd.com
 0.0.0.0 union.youdao.com
-0.0.0.0 unisdk.update.easebar.com
 0.0.0.0 unitedblades.co.jp
 0.0.0.0 unityads.co.com
 0.0.0.0 unityads.com
@@ -11839,7 +11826,6 @@
 0.0.0.0 update.sdkbox.com
 0.0.0.0 update.sdk.jiguang.cn
 0.0.0.0 updates.tune.com
-0.0.0.0 update.unisdk.easebar.com
 0.0.0.0 update.wtag.adaptv.advertising.com
 0.0.0.0 upfile16.mediaphim.com
 0.0.0.0 upgradedpoints.pushengage.com
@@ -12106,6 +12092,7 @@
 0.0.0.0 vfbprod2.personifycloud.com
 0.0.0.0 vfs.admaster.com.cn
 0.0.0.0 v.gdt.qq.com
+0.0.0.0 vg-hb.rayjump.com
 0.0.0.0 vg-k8s-setting.rayjump.com
 0.0.0.0 vg-setting.rayjump.com
 0.0.0.0 vhunantv.admaster.com.cn
