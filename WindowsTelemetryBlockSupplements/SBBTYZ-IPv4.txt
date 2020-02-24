@@ -1,7 +1,7 @@
 #Anti-Telemetry Hosts for Windows from TYZBIT, CrazyMax and SpyBot Anti-Beacon
 #IPv4 Version
 #Included in default hosts file
-#Last update 12/10/2019
+#Last update 2/23/2020
 
 0.0.0.0 a-0001.a-msedge.net
 0.0.0.0 a-0002.a-msedge.net
@@ -310,6 +310,7 @@
 0.0.0.0 i-bl6p-cor001.api.p001.1drv.com
 0.0.0.0 i-bl6p-cor002.api.p001.1drv.com
 0.0.0.0 i-bn3p-cor001.api.p001.1drv.com
+0.0.0.0 i-bn3p-cor090.api.p001.1drv.com
 0.0.0.0 i-by3p-cor001.api.p001.1drv.com
 0.0.0.0 i-by3p-cor002.api.p001.1drv.com
 0.0.0.0 i-ch1-cor001.api.p001.1drv.com
