@@ -2923,7 +2923,6 @@ shExpMatch(host, '*.entercasino.com') ||
 shExpMatch(host, '*.e-n-t-e-r-n-e-x.com') ||
 shExpMatch(host, '*.enthusiasticdad.com') ||
 shExpMatch(host, '*.entrecard.s3.amazonaws.com') ||
-shExpMatch(host, '*.entremental.com') ||
 shExpMatch(host, '*.enviousthread.com') ||
 shExpMatch(host, '*.eoalsoub.pw') ||
 shExpMatch(host, '*.eocn525.0pe.kr') ||
@@ -3270,7 +3269,6 @@ shExpMatch(host, '*.gccxqpuuylioxoip.pw') ||
 shExpMatch(host, '*.gearwom.de') ||
 shExpMatch(host, '*.gekko.spiceworks.com') ||
 shExpMatch(host, '*.gemius.pl') ||
-shExpMatch(host, '*.gemlix.com') ||
 shExpMatch(host, '*.genteatsss.com') ||
 shExpMatch(host, '*.geobanner.adultfriendfinder.com') ||
 shExpMatch(host, '*.geo.digitalpoint.com') ||
@@ -5463,7 +5461,6 @@ shExpMatch(host, '*.sourcepoint.vice.com') ||
 shExpMatch(host, '*.sovrn.com') ||
 shExpMatch(host, '*.spacash.com') ||
 shExpMatch(host, '*.spaceleadster.com') ||
-shExpMatch(host, '*.spade.sci.twitch.tv') ||
 shExpMatch(host, '*.sparkstudios.com') ||
 shExpMatch(host, '*.spartanr.5gbfree.com') ||
 shExpMatch(host, '*.specially4u.net') ||
@@ -6736,7 +6733,6 @@ shExpMatch(host, '*.yieulj.com') ||
 shExpMatch(host, '*.yiykrw.com') ||
 shExpMatch(host, '*.yjuhwm.com') ||
 shExpMatch(host, '*.ykvbuv.com') ||
-shExpMatch(host, '*.yldbt.com') ||
 shExpMatch(host, '*.ymetrica1.com') ||
 shExpMatch(host, '*.yoc.mobi') ||
 shExpMatch(host, '*.yoc-performance.com') ||
@@ -9726,7 +9722,6 @@ shExpMatch(host, 'entercasino.com') ||
 shExpMatch(host, 'e-n-t-e-r-n-e-x.com') ||
 shExpMatch(host, 'enthusiasticdad.com') ||
 shExpMatch(host, 'entrecard.s3.amazonaws.com') ||
-shExpMatch(host, 'entremental.com') ||
 shExpMatch(host, 'enviousthread.com') ||
 shExpMatch(host, 'eoalsoub.pw') ||
 shExpMatch(host, 'eocn525.0pe.kr') ||
@@ -10073,7 +10068,6 @@ shExpMatch(host, 'gccxqpuuylioxoip.pw') ||
 shExpMatch(host, 'gearwom.de') ||
 shExpMatch(host, 'gekko.spiceworks.com') ||
 shExpMatch(host, 'gemius.pl') ||
-shExpMatch(host, 'gemlix.com') ||
 shExpMatch(host, 'genteatsss.com') ||
 shExpMatch(host, 'geobanner.adultfriendfinder.com') ||
 shExpMatch(host, 'geo.digitalpoint.com') ||
@@ -12266,7 +12260,6 @@ shExpMatch(host, 'sourcepoint.vice.com') ||
 shExpMatch(host, 'sovrn.com') ||
 shExpMatch(host, 'spacash.com') ||
 shExpMatch(host, 'spaceleadster.com') ||
-shExpMatch(host, 'spade.sci.twitch.tv') ||
 shExpMatch(host, 'sparkstudios.com') ||
 shExpMatch(host, 'spartanr.5gbfree.com') ||
 shExpMatch(host, 'specially4u.net') ||
@@ -13539,7 +13532,6 @@ shExpMatch(host, 'yieulj.com') ||
 shExpMatch(host, 'yiykrw.com') ||
 shExpMatch(host, 'yjuhwm.com') ||
 shExpMatch(host, 'ykvbuv.com') ||
-shExpMatch(host, 'yldbt.com') ||
 shExpMatch(host, 'ymetrica1.com') ||
 shExpMatch(host, 'yoc.mobi') ||
 shExpMatch(host, 'yoc-performance.com') ||
