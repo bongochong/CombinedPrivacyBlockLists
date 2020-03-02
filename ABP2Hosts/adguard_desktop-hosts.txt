@@ -288,6 +288,7 @@
 0.0.0.0 adheart.de
 0.0.0.0 adhigh.net
 0.0.0.0 adinlove.de
+0.0.0.0 adinsight.co.kr
 0.0.0.0 adinsight.com
 0.0.0.0 adinsight.eu
 0.0.0.0 adjarabet.com
@@ -307,6 +308,7 @@
 0.0.0.0 admetric.io
 0.0.0.0 admicro.vn
 0.0.0.0 admitad.com
+0.0.0.0 admixer.co.kr
 0.0.0.0 admon.pro
 0.0.0.0 admost.com
 0.0.0.0 admother.com
@@ -327,6 +329,7 @@
 0.0.0.0 adosia.com
 0.0.0.0 adpeepshosted.com
 0.0.0.0 ad.pentabox.net
+0.0.0.0 adpies.com
 0.0.0.0 adpixo.com
 0.0.0.0 adplus.co.id
 0.0.0.0 adplus.io
@@ -421,6 +424,7 @@
 0.0.0.0 adx.com.ru
 0.0.0.0 adxoo.com
 0.0.0.0 adxpansion.com
+0.0.0.0 adxpub.com
 0.0.0.0 adyapper.com
 0.0.0.0 adzerk.net
 0.0.0.0 adzoe.de
@@ -451,6 +455,7 @@
 0.0.0.0 afminer.com
 0.0.0.0 afrigale.co
 0.0.0.0 afsanalytics.com
+0.0.0.0 afshanthough.pro
 0.0.0.0 afvcugqaulh.co
 0.0.0.0 agencytradingdesk.net
 0.0.0.0 agentinteractive.com
@@ -489,6 +494,7 @@
 0.0.0.0 albopa.work
 0.0.0.0 alcmpn.com
 0.0.0.0 alcvid.com
+0.0.0.0 aleaidass.site
 0.0.0.0 aleapeact.club
 0.0.0.0 aleapeapt.club
 0.0.0.0 alenty.com
@@ -509,6 +515,7 @@
 0.0.0.0 alogationa.co
 0.0.0.0 altabold1.com
 0.0.0.0 altastat.com
+0.0.0.0 altg.widerplanet.com
 0.0.0.0 alvenda.com
 0.0.0.0 alxsite.com
 0.0.0.0 alxzes.com
@@ -534,6 +541,7 @@
 0.0.0.0 amxdt.com
 0.0.0.0 analoganalytics.com
 0.0.0.0 analysistools.net
+0.0.0.0 analytic.press
 0.0.0.0 analytic.rocks
 0.0.0.0 analytics.blue
 0.0.0.0 analytics.datahc.com
@@ -619,6 +627,7 @@
 0.0.0.0 arkayne.com
 0.0.0.0 arkinhechershedt.info
 0.0.0.0 arlime.com
+0.0.0.0 armaimapt.club
 0.0.0.0 armashair.site
 0.0.0.0 arpuonline.com
 0.0.0.0 arpxs.com
@@ -627,12 +636,14 @@
 0.0.0.0 artantash.club
 0.0.0.0 artefact.is
 0.0.0.0 artfut.com
+0.0.0.0 articlefddss1.info
 0.0.0.0 arturtrack.com
 0.0.0.0 asasfasdf.xyz
 0.0.0.0 ascraftan.com
 0.0.0.0 asdorka.com
 0.0.0.0 aservices.party
 0.0.0.0 asextube.net
+0.0.0.0 asgdfasad.mm-cgnews.com
 0.0.0.0 asg.xz2aab.xyz
 0.0.0.0 ashaidbit.club
 0.0.0.0 ashamparm.site
@@ -640,12 +651,15 @@
 0.0.0.0 ashow.pcpop.com
 0.0.0.0 askallalb.club
 0.0.0.0 askaspalb.online
+0.0.0.0 asp22.http.or.kr
 0.0.0.0 aspampbrr.online
 0.0.0.0 aspanyarc.club
+0.0.0.0 aspaskaim.club
 0.0.0.0 aspgfx.org
 0.0.0.0 assandart.site
 0.0.0.0 assoctrac.com
 0.0.0.0 aster18cdn.nl
+0.0.0.0 astg.widerplanet.com
 0.0.0.0 astoapsu.com
 0.0.0.0 asto-exo.com
 0.0.0.0 astro-way.com
@@ -1241,6 +1255,7 @@
 0.0.0.0 clyilp.com
 0.0.0.0 cmcintra.net
 0.0.0.0 cmcore.com
+0.0.0.0 cm-exchange.toast.com
 0.0.0.0 c.mfstatic.cz
 0.0.0.0 cmmeglobal.com
 0.0.0.0 cmptch.com
@@ -1504,6 +1519,7 @@
 0.0.0.0 d1n3tk65esqc4k.cloudfront.net
 0.0.0.0 d1n7ypf85zfej7.cloudfront.net
 0.0.0.0 d1nmxiiewlx627.cloudfront.net
+0.0.0.0 d1nx2jii03b4ju.cloudfront.net
 0.0.0.0 d1p7elpjrt6qav.cloudfront.net
 0.0.0.0 d1pozdfelzfhyt.cloudfront.net
 0.0.0.0 d1qc76gneygidm.cloudfront.net
@@ -1511,6 +1527,7 @@
 0.0.0.0 d1qk9ujrmkucbl.cloudfront.net
 0.0.0.0 d1qtf1avwa1wvl.cloudfront.net
 0.0.0.0 d1r90st78epsag.cloudfront.net
+0.0.0.0 d1tracker.ru
 0.0.0.0 d1uanozc5el74n.cloudfront.net
 0.0.0.0 d1v6js7bjzmhoa.cloudfront.net
 0.0.0.0 d1vh0xkmncek4z.cloudfront.net
@@ -1567,6 +1584,7 @@
 0.0.0.0 d3d52lhoy0sh2w.cloudfront.net
 0.0.0.0 d3elm8wezzwg42.cloudfront.net
 0.0.0.0 d3fqhkmofpujs3.cloudfront.net
+0.0.0.0 d3hj4iyx6t1waz.cloudfront.net
 0.0.0.0 d3hs51abvkuanv.cloudfront.net
 0.0.0.0 d3i1asoswufp5k.cloudfront.net
 0.0.0.0 d3id4jppiyyek8.cloudfront.net
@@ -1649,6 +1667,7 @@
 0.0.0.0 ddomb.com
 0.0.0.0 ddvfoj5yrl2oi.cloudfront.net
 0.0.0.0 ddyv8sl7ewq1w.cloudfront.net
+0.0.0.0 ddzfjyppcbv.com
 0.0.0.0 de17a.com
 0.0.0.0 deathereclother.info
 0.0.0.0 debitcrebit669.com
@@ -1721,6 +1740,7 @@
 0.0.0.0 dignow.org
 0.0.0.0 dimestore.com
 0.0.0.0 dimml.io
+0.0.0.0 dingviewjeep.info
 0.0.0.0 dinkstat.com
 0.0.0.0 dircont3.com
 0.0.0.0 dirdamid.com
@@ -1966,6 +1986,7 @@
 0.0.0.0 eropayper.com
 0.0.0.0 erotikcounter.org
 0.0.0.0 erotop.lv
+0.0.0.0 errnaphim.site
 0.0.0.0 erxalim.xyz
 0.0.0.0 esdesignewebnet.info
 0.0.0.0 esearchvision.com
@@ -2160,6 +2181,7 @@
 0.0.0.0 fm6dz864.top
 0.0.0.0 fmnetwork.nl
 0.0.0.0 foagoasu.net
+0.0.0.0 foastail.net
 0.0.0.0 foazasis.com
 0.0.0.0 focusego.info
 0.0.0.0 foditgoz.com
@@ -2280,6 +2302,8 @@
 0.0.0.0 g3j2wzmon8b.com
 0.0.0.0 ga87z2o.com
 0.0.0.0 gacela.eu
+0.0.0.0 gadslimz.com
+0.0.0.0 gagnibcan.com
 0.0.0.0 gaitheed.com
 0.0.0.0 gallupnet.fi
 0.0.0.0 gameads.net
@@ -2445,6 +2469,7 @@
 0.0.0.0 groogloo.net
 0.0.0.0 grooksom.com
 0.0.0.0 groucign.com
+0.0.0.0 groupian.io
 0.0.0.0 group-ib.ru
 0.0.0.0 growtaller4adults.com
 0.0.0.0 growtaller4men.com
@@ -3121,6 +3146,7 @@
 0.0.0.0 logger.su
 0.0.0.0 loggly.com
 0.0.0.0 log-ird.outbrain.com
+0.0.0.0 log.mediacategory.com
 0.0.0.0 lognormal.net
 0.0.0.0 log.popin.cc
 0.0.0.0 logs.roku.com
@@ -3169,6 +3195,7 @@
 0.0.0.0 lwnne.cn
 0.0.0.0 lxtrack.com
 0.0.0.0 lychangxu.cn
+0.0.0.0 lyehemarm.club
 0.0.0.0 lyfwpt.com.cn
 0.0.0.0 lygshgj.com
 0.0.0.0 lypn.com
@@ -3212,6 +3239,7 @@
 0.0.0.0 malictuiar.com
 0.0.0.0 maliva-mcs.byteoversea.com
 0.0.0.0 m.alylym.top
+0.0.0.0 mama.foor-zik.com
 0.0.0.0 mamydirect.com
 0.0.0.0 maneta.info
 0.0.0.0 maploco.com
@@ -3398,11 +3426,13 @@
 0.0.0.0 monitor.phorm.com
 0.0.0.0 monitus.net
 0.0.0.0 monkeytracker.cz
+0.0.0.0 moonads.net
 0.0.0.0 moowouzy.net
 0.0.0.0 mordi.fun
 0.0.0.0 mordi.xyz
 0.0.0.0 moreusers.info
 0.0.0.0 morevisits.info
+0.0.0.0 mostviewed.xyz
 0.0.0.0 motohem.com
 0.0.0.0 motorpresse-statistik.de
 0.0.0.0 motosal.net
@@ -3614,6 +3644,7 @@
 0.0.0.0 nordicresearch.com
 0.0.0.0 northclick-statistiken.de
 0.0.0.0 norvalur.xyz
+0.0.0.0 notification-centar.com
 0.0.0.0 notifyvisitors.com
 0.0.0.0 nouseeth.com
 0.0.0.0 november-lax.com
@@ -3814,6 +3845,8 @@
 0.0.0.0 ovgzbnjj.com
 0.0.0.0 ovustav.ru
 0.0.0.0 owldata.com
+0.0.0.0 owltiphem.club
+0.0.0.0 owncutone.com
 0.0.0.0 owneriq.net
 0.0.0.0 ownpage.fr
 0.0.0.0 oxidy.com
@@ -3908,6 +3941,7 @@
 0.0.0.0 petametrics.com
 0.0.0.0 petiteumbrella.com
 0.0.0.0 petsoocm.com
+0.0.0.0 pfcjhjogq.com
 0.0.0.0 pfk9fywba5.com
 0.0.0.0 pfxlive.com
 0.0.0.0 pfx.sma-clsystem.info
@@ -4218,6 +4252,7 @@
 0.0.0.0 qdtracking.com
 0.0.0.0 qenprsuoashu.com
 0.0.0.0 qguwoq.cn
+0.0.0.0 qiaepasvtp.com
 0.0.0.0 qienews.cn
 0.0.0.0 qinongyouxuan.cn
 0.0.0.0 qinvaris.com
@@ -4258,6 +4293,7 @@
 0.0.0.0 qwfh39851jtfvkurf21hf.com
 0.0.0.0 qwtm.purecertainengine.com
 0.0.0.0 qzlog.com
+0.0.0.0 qzxmtyy.com
 0.0.0.0 r528e.cn
 0.0.0.0 r7ls.net
 0.0.0.0 r7mediar.com
@@ -4424,6 +4460,7 @@
 0.0.0.0 ritecounter.com
 0.0.0.0 ritogaga.com
 0.0.0.0 riverhit.com
+0.0.0.0 riykotovmy.com
 0.0.0.0 rkdms.com
 0.0.0.0 rktu.com
 0.0.0.0 rlcdn.com
@@ -5032,8 +5069,10 @@
 0.0.0.0 szsmtk.com
 0.0.0.0 s.zsxpx.com
 0.0.0.0 szwjzl.cn
+0.0.0.0 t0p0ff3rs.com
 0.0.0.0 t4ft.de
 0.0.0.0 t.91chs.com
+0.0.0.0 tabookbusines.info
 0.0.0.0 taboola.com
 0.0.0.0 tabwl.com
 0.0.0.0 tabzz.xyz
@@ -5055,6 +5094,7 @@
 0.0.0.0 tanidigital.com
 0.0.0.0 tantella.com
 0.0.0.0 tanx.com
+0.0.0.0 taoguohe.com
 0.0.0.0 tapfiliate.com
 0.0.0.0 tap.idg.de
 0.0.0.0 taps.io
@@ -5170,6 +5210,7 @@
 0.0.0.0 tns-cs.net
 0.0.0.0 tns-gallup.dk
 0.0.0.0 tnsinternet.be
+0.0.0.0 toecircle.com
 0.0.0.0 toftofcal.com
 0.0.0.0 togenron.com
 0.0.0.0 togroltu.net
@@ -5333,7 +5374,6 @@
 0.0.0.0 truefilen32.com
 0.0.0.0 truehits.in.th
 0.0.0.0 truehits.net
-0.0.0.0 truepush.com
 0.0.0.0 trvtrk.com
 0.0.0.0 trv.upperbooking.com
 0.0.0.0 tr.webantenna.info
@@ -5866,6 +5906,7 @@
 0.0.0.0 xn--2qux23confgml.club
 0.0.0.0 xn-2qux23confgml.club
 0.0.0.0 xn--mtso8sj6menhyil.online
+0.0.0.0 xn--wxtr9fwyxk9c.club
 0.0.0.0 xn--xhq9mt12cf5v.shop
 0.0.0.0 xn--xhq9mt12cf5v.top
 0.0.0.0 xovq5nemr.com
@@ -5992,6 +6033,7 @@
 0.0.0.0 zero.kz
 0.0.0.0 zesep.com
 0.0.0.0 zeti.com
+0.0.0.0 zhangguangzong.com
 0.0.0.0 zharezhi.info
 0.0.0.0 zhongwangmy.cn
 0.0.0.0 zhuwawa.net
