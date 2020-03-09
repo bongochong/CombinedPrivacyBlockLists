@@ -2230,6 +2230,7 @@
 0.0.0.0 api.app.masoffer.net
 0.0.0.0 api.appnext.com
 0.0.0.0 api.appnexus.com
+0.0.0.0 api.appnxt.net
 0.0.0.0 api.appodeal.com
 0.0.0.0 api.appodealx.com
 0.0.0.0 api.app.optimizely.com
@@ -2442,7 +2443,6 @@
 0.0.0.0 api.push.world
 0.0.0.0 api.pxlad.io
 0.0.0.0 api.quantumgraph.com
-0.0.0.0 api.queryly.com
 0.0.0.0 api-rackspace.bounceexchange.com
 0.0.0.0 api.radar.io
 0.0.0.0 apir.direct-tap.com
@@ -2461,6 +2461,7 @@
 0.0.0.0 api.sailthru.com
 0.0.0.0 api.salmonads.com
 0.0.0.0 api.sandbox53.localytics.com
+0.0.0.0 apis.appnxt.net
 0.0.0.0 api.saypromo.net
 0.0.0.0 apis.com.br
 0.0.0.0 api-scsdk.appcloudbox.net
@@ -5421,7 +5422,6 @@
 0.0.0.0 et.w.dfw2.vip.inmobi.com
 0.0.0.0 et.w.inmobi.com
 0.0.0.0 et.w.vip.ams1.inmobi.com
-0.0.0.0 eu2.cleverreach.com
 0.0.0.0 eu-adinfo.sam4m.com
 0.0.0.0 eu-ad.sam4m.com
 0.0.0.0 euadsapi.manhuaren.com
@@ -9503,6 +9503,7 @@
 0.0.0.0 roletaryk.info
 0.0.0.0 roosterfirework.com
 0.0.0.0 r.openx.net
+0.0.0.0 rosenberg.appmetrica.webvisor.com
 0.0.0.0 rotaban.ru
 0.0.0.0 rotanev.iad-03.braze.com
 0.0.0.0 route.izooto.com
@@ -10169,7 +10170,6 @@
 0.0.0.0 setting.rayjump.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 s-et.w.inmobi.com
-0.0.0.0 seu2.cleverreach.com
 0.0.0.0 s-eu-west-1.axonix.com
 0.0.0.0 sexpennyauctions.com
 0.0.0.0 sezwho.com
@@ -10588,6 +10588,7 @@
 0.0.0.0 sspintrafmsmt.com
 0.0.0.0 ssp.lkqd.net
 0.0.0.0 ssp.mediation.trnox.com
+0.0.0.0 ssp.otm-r.com
 0.0.0.0 ssp.send.microadinc.com
 0.0.0.0 ssp.streamrail.net
 0.0.0.0 ssp.xapads.com

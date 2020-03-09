@@ -377,6 +377,7 @@
 0.0.0.0 ads.roku.com
 0.0.0.0 adsrv4k.com
 0.0.0.0 adsrvgateway.com
+0.0.0.0 ad-srv-track.com
 0.0.0.0 ads.tremorhub.com
 0.0.0.0 adsvcs.com
 0.0.0.0 adswrapme.click
@@ -472,6 +473,7 @@
 0.0.0.0 aifoosty.net
 0.0.0.0 aijiboft.com
 0.0.0.0 ailiyou1999.com
+0.0.0.0 aimaniape.club
 0.0.0.0 aimediagroup.com
 0.0.0.0 airartapt.site
 0.0.0.0 airbrake.io
@@ -547,6 +549,7 @@
 0.0.0.0 analytics.datahc.com
 0.0.0.0 analytics-egain.com
 0.0.0.0 analytics-engine.net
+0.0.0.0 analytics.getaim.info
 0.0.0.0 analyticsq.com
 0.0.0.0 analytics.servogram.io
 0.0.0.0 analyticswizard.com
@@ -778,6 +781,7 @@
 0.0.0.0 baynote.net
 0.0.0.0 baywttgdhe.download
 0.0.0.0 bbcdn.go.evolutionmedia.bbelements.co
+0.0.0.0 b.bestcontenthost.com
 0.0.0.0 bbtrf.info
 0.0.0.0 bcloudhost.com
 0.0.0.0 bd4travel.com
@@ -968,6 +972,7 @@
 0.0.0.0 bouncyproperty.com
 0.0.0.0 boxxxcash.com
 0.0.0.0 boyaidare.club
+0.0.0.0 boyalebut.site
 0.0.0.0 bps.sysact.cn
 0.0.0.0 brand.ad
 0.0.0.0 brassrule.com
@@ -1651,6 +1656,7 @@
 0.0.0.0 datvantage.com
 0.0.0.0 daunteegyptian.pro
 0.0.0.0 daurifek.net
+0.0.0.0 dayadopen.site
 0.0.0.0 daylife-analytics.com
 0.0.0.0 daylogs.com
 0.0.0.0 dbaof.com
@@ -1891,6 +1897,7 @@
 0.0.0.0 ecommstats.com
 0.0.0.0 econda-monitor.de
 0.0.0.0 econducte.com
+0.0.0.0 e-contenta.com
 0.0.0.0 eco-tag.jp
 0.0.0.0 ec-track.com
 0.0.0.0 ecustomeropinions.com
@@ -1916,6 +1923,7 @@
 0.0.0.0 egolina.com
 0.0.0.0 egooad.com
 0.0.0.0 ehu96t2p.com
+0.0.0.0 ejurzsax.com
 0.0.0.0 ek8k5dst5c.com
 0.0.0.0 e-kaiseki.com
 0.0.0.0 ekeide.com
@@ -2647,6 +2655,7 @@
 0.0.0.0 hurterkranach.net
 0.0.0.0 hwpub.com
 0.0.0.0 hxtrack.com
+0.0.0.0 hybrid.ai
 0.0.0.0 hydr.work
 0.0.0.0 hyfntrak.com
 0.0.0.0 hyperactivate.com
@@ -3135,6 +3144,7 @@
 0.0.0.0 localbitcoins.com
 0.0.0.0 localytics.com
 0.0.0.0 lockview.cn
+0.0.0.0 lofv.xyz
 0.0.0.0 logaholic.com
 0.0.0.0 loganaut.com
 0.0.0.0 logcounter.com
@@ -3276,6 +3286,7 @@
 0.0.0.0 m-brain.fi
 0.0.0.0 mbsy.co
 0.0.0.0 mbww.com
+0.0.0.0 mc.admetrica.ru
 0.0.0.0 m.corocksi.com
 0.0.0.0 mcount.ru
 0.0.0.0 mcs.byted.org
@@ -3325,6 +3336,7 @@
 0.0.0.0 megastat.net
 0.0.0.0 mega-stats.com
 0.0.0.0 megatopsites.com
+0.0.0.0 mehherrig.com
 0.0.0.0 melatstat.com
 0.0.0.0 mellowtin.com
 0.0.0.0 meloads.com
@@ -3332,6 +3344,7 @@
 0.0.0.0 menemier.info
 0.0.0.0 mengchengbao.com
 0.0.0.0 mengis-linden.org
+0.0.0.0 menuladshy.life
 0.0.0.0 mepirtedic.com
 0.0.0.0 mercadoclics.com
 0.0.0.0 mercent.com
@@ -3605,6 +3618,7 @@
 0.0.0.0 newstatscounter.info
 0.0.0.0 newsupdatedepot.info
 0.0.0.0 newsupdatewe.info
+0.0.0.0 newthuads.com
 0.0.0.0 newtrackmedia.com
 0.0.0.0 newvideos.xyz
 0.0.0.0 newviralmobistore.com
@@ -3856,6 +3870,7 @@
 0.0.0.0 paclitor.com
 0.0.0.0 paddsup.com
 0.0.0.0 padsbrown.com
+0.0.0.0 padsims.com
 0.0.0.0 pagefair.com
 0.0.0.0 page-hit.de
 0.0.0.0 pagerank4you.eu
@@ -4693,6 +4708,7 @@
 0.0.0.0 shmonekisot.com
 0.0.0.0 shockingswing.com
 0.0.0.0 shokala.com
+0.0.0.0 shopnetic.com
 0.0.0.0 shorlakmedia.com
 0.0.0.0 shorteh.com
 0.0.0.0 show.g.mediav.com
@@ -5093,6 +5109,7 @@
 0.0.0.0 tangankanan.net
 0.0.0.0 tanidigital.com
 0.0.0.0 tantella.com
+0.0.0.0 tantractium.com
 0.0.0.0 tanx.com
 0.0.0.0 taoguohe.com
 0.0.0.0 tapfiliate.com
@@ -5173,6 +5190,7 @@
 0.0.0.0 thewhizmarketing.com
 0.0.0.0 thewhizproducts.com
 0.0.0.0 thewise.com
+0.0.0.0 thichawheja.pro
 0.0.0.0 thiksikr.com
 0.0.0.0 thirdrespect.com
 0.0.0.0 thnqemehtyfe.com
@@ -5195,6 +5213,7 @@
 0.0.0.0 titag.com
 0.0.0.0 titranco.info
 0.0.0.0 tizermedias.com
+0.0.0.0 tizgo.ml
 0.0.0.0 tizzitextile.com
 0.0.0.0 tjfot.com
 0.0.0.0 tkqlhce.com
@@ -5365,6 +5384,7 @@
 0.0.0.0 trkme.net
 0.0.0.0 trkn.us
 0.0.0.0 trk.olnl.net
+0.0.0.0 trk.techtarget.com
 0.0.0.0 trl.upperbooking.com
 0.0.0.0 trothko.com
 0.0.0.0 trotux.com
