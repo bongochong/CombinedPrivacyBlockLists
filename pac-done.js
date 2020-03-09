@@ -1903,7 +1903,6 @@ shExpMatch(host, '*.at-adserver.alltop.com') ||
 shExpMatch(host, '*.atdmt.com') ||
 shExpMatch(host, '*.athena-ads.wikia.com') ||
 shExpMatch(host, '*.atlassolutions.com') ||
-shExpMatch(host, '*.ato.mx') ||
 shExpMatch(host, '*.attractiveafternoon.com') ||
 shExpMatch(host, '*.attractivecap.com') ||
 shExpMatch(host, '*.attribution.report') ||
@@ -6733,6 +6732,7 @@ shExpMatch(host, '*.yieulj.com') ||
 shExpMatch(host, '*.yiykrw.com') ||
 shExpMatch(host, '*.yjuhwm.com') ||
 shExpMatch(host, '*.ykvbuv.com') ||
+shExpMatch(host, '*.yldbt.com') ||
 shExpMatch(host, '*.ymetrica1.com') ||
 shExpMatch(host, '*.yoc.mobi') ||
 shExpMatch(host, '*.yoc-performance.com') ||
@@ -8702,7 +8702,6 @@ shExpMatch(host, 'at-adserver.alltop.com') ||
 shExpMatch(host, 'atdmt.com') ||
 shExpMatch(host, 'athena-ads.wikia.com') ||
 shExpMatch(host, 'atlassolutions.com') ||
-shExpMatch(host, 'ato.mx') ||
 shExpMatch(host, 'attractiveafternoon.com') ||
 shExpMatch(host, 'attractivecap.com') ||
 shExpMatch(host, 'attribution.report') ||
@@ -13532,6 +13531,7 @@ shExpMatch(host, 'yieulj.com') ||
 shExpMatch(host, 'yiykrw.com') ||
 shExpMatch(host, 'yjuhwm.com') ||
 shExpMatch(host, 'ykvbuv.com') ||
+shExpMatch(host, 'yldbt.com') ||
 shExpMatch(host, 'ymetrica1.com') ||
 shExpMatch(host, 'yoc.mobi') ||
 shExpMatch(host, 'yoc-performance.com') ||
