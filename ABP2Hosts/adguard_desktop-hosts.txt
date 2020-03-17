@@ -435,6 +435,7 @@
 0.0.0.0 aeckcjy.com
 0.0.0.0 aenan.pw
 0.0.0.0 aepetor.pw
+0.0.0.0 aestivator.com
 0.0.0.0 afairweb.com
 0.0.0.0 aff.camplace.com
 0.0.0.0 affex.org
@@ -552,6 +553,7 @@
 0.0.0.0 analytics.getaim.info
 0.0.0.0 analyticsq.com
 0.0.0.0 analytics.servogram.io
+0.0.0.0 analytics.vodgc.net
 0.0.0.0 analyticswizard.com
 0.0.0.0 analytk.com
 0.0.0.0 anametrix.com
@@ -611,6 +613,7 @@
 0.0.0.0 apptentive.com
 0.0.0.0 apptimize.com
 0.0.0.0 aprtx.com
+0.0.0.0 aptantasp.site
 0.0.0.0 aptapebog.online
 0.0.0.0 apugod.work
 0.0.0.0 apyecom.com
@@ -691,6 +694,7 @@
 0.0.0.0 audrte.com
 0.0.0.0 audsp.com
 0.0.0.0 augheguw.net
+0.0.0.0 aukalerim.com
 0.0.0.0 aulrains.com
 0.0.0.0 auth.bz
 0.0.0.0 authorinsights.com
@@ -1091,6 +1095,7 @@
 0.0.0.0 cashpartners.eu
 0.0.0.0 castelein.nu
 0.0.0.0 casterist.info
+0.0.0.0 cawsodpet.club
 0.0.0.0 cb8717377086c72d.com
 0.0.0.0 c.bxjpl.cn
 0.0.0.0 cccpmo.com
@@ -1295,6 +1300,7 @@
 0.0.0.0 coinzillatag.com
 0.0.0.0 collarity.com
 0.0.0.0 collect.blishtech.co
+0.0.0.0 collectfasttracks.com
 0.0.0.0 collector.mazeberry.com
 0.0.0.0 colleduny.info
 0.0.0.0 collserve.com
@@ -1442,6 +1448,7 @@
 0.0.0.0 crazyegg.com
 0.0.0.0 creativecdn.com
 0.0.0.0 creative.stripchat.com
+0.0.0.0 creativesumo.com
 0.0.0.0 criteo.com
 0.0.0.0 criteo.net
 0.0.0.0 critictruck.com
@@ -1623,6 +1630,7 @@
 0.0.0.0 dable.io
 0.0.0.0 dacounter.com
 0.0.0.0 dadsipz.com
+0.0.0.0 dadspmz.com
 0.0.0.0 daelynn.xyz
 0.0.0.0 dagasaka.com
 0.0.0.0 daghashmal.com
@@ -1759,6 +1767,7 @@
 0.0.0.0 discover-path.com
 0.0.0.0 discovertrail.net
 0.0.0.0 displaymarketplace.com
+0.0.0.0 display.nativemedia.rs
 0.0.0.0 distiltag.com
 0.0.0.0 distralytics.com
 0.0.0.0 divolution.com
@@ -2310,6 +2319,7 @@
 0.0.0.0 g3j2wzmon8b.com
 0.0.0.0 ga87z2o.com
 0.0.0.0 gacela.eu
+0.0.0.0 gadsabs.com
 0.0.0.0 gadslimz.com
 0.0.0.0 gagnibcan.com
 0.0.0.0 gaitheed.com
@@ -2478,7 +2488,6 @@
 0.0.0.0 grooksom.com
 0.0.0.0 groucign.com
 0.0.0.0 groupian.io
-0.0.0.0 group-ib.ru
 0.0.0.0 growtaller4adults.com
 0.0.0.0 growtaller4men.com
 0.0.0.0 growtaller4women.com
@@ -2530,6 +2539,7 @@
 0.0.0.0 hatchord.com
 0.0.0.0 haupsoti.net
 0.0.0.0 haveamint.com
+0.0.0.0 hayfatduh.com
 0.0.0.0 haymarket.com
 0.0.0.0 hbchwmrqb.bid
 0.0.0.0 hbfls.vip
@@ -2612,7 +2622,6 @@
 0.0.0.0 hlserve.com
 0.0.0.0 hohosearch.com
 0.0.0.0 holexknw.loan
-0.0.0.0 honeybadger.io
 0.0.0.0 hongjiujiaoyi.com
 0.0.0.0 hoohavoa.com
 0.0.0.0 hopurl.org
@@ -2687,6 +2696,7 @@
 0.0.0.0 ics0.com
 0.0.0.0 icstats.nl
 0.0.0.0 icyrd.com
+0.0.0.0 id5-sync.com
 0.0.0.0 idealmedia.io
 0.0.0.0 ideoclick.com
 0.0.0.0 idio.co
@@ -3970,6 +3980,7 @@
 0.0.0.0 pheergar.com
 0.0.0.0 phengung.net
 0.0.0.0 phenver.com
+0.0.0.0 phethikapso.pro
 0.0.0.0 phonalytics.com
 0.0.0.0 phone-analytics.com
 0.0.0.0 phoossax.net
@@ -4010,6 +4021,7 @@
 0.0.0.0 piwik.pro
 0.0.0.0 pixanalytics.com
 0.0.0.0 pixel.ad
+0.0.0.0 pixel.advertising.com
 0.0.0.0 pixeleze.com
 0.0.0.0 pixelinteractivemedia.com
 0.0.0.0 pixelrevenue.com
@@ -4361,6 +4373,7 @@
 0.0.0.0 realcounters.com
 0.0.0.0 reali.st
 0.0.0.0 realist.gen.tr
+0.0.0.0 realizerecess.com
 0.0.0.0 realtimeplease.com
 0.0.0.0 realtimewebstats.net
 0.0.0.0 realtracker.com
@@ -4504,11 +4517,13 @@
 0.0.0.0 rotibald.com
 0.0.0.0 roulettebot-plus.com
 0.0.0.0 roupsouk.com
+0.0.0.0 rowoardog.com
 0.0.0.0 roxedltd.co.id
 0.0.0.0 royalcount.de
 0.0.0.0 rpdtrk.com
 0.0.0.0 rpeonetedronsitren.info
 0.0.0.0 r.popin.cc
+0.0.0.0 rp-srw.net
 0.0.0.0 rqtrk.eu
 0.0.0.0 rrimpl.com
 0.0.0.0 rr.pochengweiyuan.com
@@ -4724,6 +4739,7 @@
 0.0.0.0 silimbompom.com
 0.0.0.0 silverpop.com
 0.0.0.0 silverpush.co
+0.0.0.0 simonsignal.com
 0.0.0.0 simplehitcounter.com
 0.0.0.0 simplereach.com
 0.0.0.0 simpli.fi
@@ -4822,6 +4838,7 @@
 0.0.0.0 softexcellence.com
 0.0.0.0 softonic-analytics.net
 0.0.0.0 sokrati.com
+0.0.0.0 somecdn.bid
 0.0.0.0 somelandingpage.com
 0.0.0.0 sometired.com
 0.0.0.0 sometrics.com
@@ -5363,6 +5380,7 @@
 0.0.0.0 traqueto.com
 0.0.0.0 trav4life.site
 0.0.0.0 traveltogandi.com
+0.0.0.0 trcksrvrs.com
 0.0.0.0 treasuredata.com
 0.0.0.0 treehousei.com
 0.0.0.0 trekmedia.net
@@ -5701,6 +5719,8 @@
 0.0.0.0 waudit.cz
 0.0.0.0 waust.at
 0.0.0.0 wauzoust.com
+0.0.0.0 waxpigbaa.com
+0.0.0.0 waxtamnit.com
 0.0.0.0 way2traffic.com
 0.0.0.0 wbpal.com
 0.0.0.0 wbtrk.net
@@ -5973,6 +5993,7 @@
 0.0.0.0 yellowbrix.com
 0.0.0.0 yengo.com
 0.0.0.0 yeo1tfjz5f.com
+0.0.0.0 yepsobtax.com
 0.0.0.0 yesadvertising.com
 0.0.0.0 yeshhaod.com
 0.0.0.0 yeshoutuan.cn
@@ -6005,6 +6026,7 @@
 0.0.0.0 yoochoose.net
 0.0.0.0 yoredi.com
 0.0.0.0 yorilada.com
+0.0.0.0 youborafds01.com
 0.0.0.0 youcanoptin.com
 0.0.0.0 youcanoptin.org
 0.0.0.0 youcanoptout.com

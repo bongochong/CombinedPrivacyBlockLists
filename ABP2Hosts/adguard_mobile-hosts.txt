@@ -1844,6 +1844,7 @@
 0.0.0.0 a.mgid.com
 0.0.0.0 ami-d.openx.net
 0.0.0.0 amidt.adsafeprotected.com
+0.0.0.0 amillionads.com
 0.0.0.0 amipm.adsafeprotected.com
 0.0.0.0 amoad.com
 0.0.0.0 amobee.com
@@ -2394,6 +2395,7 @@
 0.0.0.0 api.moblink.mob.com
 0.0.0.0 api.mobojoy.baidu.com
 0.0.0.0 api.mobpowertech.com
+0.0.0.0 api.mobshark.net
 0.0.0.0 api.mobula.ds.duapps.com
 0.0.0.0 api.mobula.sdk.duapps.com
 0.0.0.0 api.moengage.com
@@ -4689,7 +4691,6 @@
 0.0.0.0 da-serving.eastus.avi.idsp.inmobi.com
 0.0.0.0 dashapi.chartbeat.com
 0.0.0.0 dash.applovin.com
-0.0.0.0 dashboard.localytics.com
 0.0.0.0 dash.parrable.com
 0.0.0.0 dash.parsely.com
 0.0.0.0 data01.adlooxtracking.com
@@ -5208,7 +5209,6 @@
 0.0.0.0 ebda-us-east.casalemedia.com
 0.0.0.0 ebda-us-west.casalemedia.com
 0.0.0.0 ebert-digital-d.openx.net
-0.0.0.0 ebooks.localytics.com
 0.0.0.0 ebs.criteo.com
 0.0.0.0 ebz.io
 0.0.0.0 ec2eu-de-1.deliveryengine.adswizz.com
@@ -5351,7 +5351,6 @@
 0.0.0.0 engageya.com
 0.0.0.0 engine.adzerk.net
 0.0.0.0 engine-dsa.fyber.com
-0.0.0.0 engineering.wootric.com
 0.0.0.0 engine.fyber.com
 0.0.0.0 engine.liveintercept.com
 0.0.0.0 engine.mobileapptracking.com
@@ -5617,7 +5616,6 @@
 0.0.0.0 fancrew.jp
 0.0.0.0 fancymedia-cm.admaster.com.cn
 0.0.0.0 fandangollc.demdex.net
-0.0.0.0 faq.revcontent.com
 0.0.0.0 fast.accesstrade.com.vn
 0.0.0.0 fast.aexp.demdex.net
 0.0.0.0 fast.a.klaviyo.com
@@ -5952,6 +5950,7 @@
 0.0.0.0 gizmo-s.serving-sys.com
 0.0.0.0 gj.applog.uc.cn
 0.0.0.0 gjapplog.uc.cn
+0.0.0.0 gjapplog.ucweb.com
 0.0.0.0 gj.mmstat.com
 0.0.0.0 g.jp.miaozhen.com
 0.0.0.0 gj.track.uc.cn
@@ -6653,7 +6652,6 @@
 0.0.0.0 infoevent.startappservice.com
 0.0.0.0 info.instartlogic.com
 0.0.0.0 infolinks.com
-0.0.0.0 info.localytics.com
 0.0.0.0 informer.yandex.ru
 0.0.0.0 infoscout.insightexpressai.com
 0.0.0.0 info.startappservice.com
@@ -7514,6 +7512,7 @@
 0.0.0.0 mcdp-nydc1.outbrain.com
 0.0.0.0 mcdp-sadc1.outbrain.com
 0.0.0.0 mc.exacttarget.com
+0.0.0.0 mcoreads.com
 0.0.0.0 mc.s10.exacttarget.com
 0.0.0.0 mc.s4.exacttarget.com
 0.0.0.0 mc.s6.exacttarget.com
@@ -8410,6 +8409,7 @@
 0.0.0.0 on-js.herokuapp.com
 0.0.0.0 online2.slb.lfengmobile.com
 0.0.0.0 online5.slb.lfengmobile.com
+0.0.0.0 onlineapi.youappi.com
 0.0.0.0 online-dn.com
 0.0.0.0 online-metrix.net
 0.0.0.0 online.mobify.net
@@ -10094,6 +10094,7 @@
 0.0.0.0 servebom.com
 0.0.0.0 servedby.adxpose.com
 0.0.0.0 servedby.flashtalking.com
+0.0.0.0 servedby.o2.co.uk
 0.0.0.0 serve.mediaforce.com
 0.0.0.0 serve.popads.net
 0.0.0.0 serve.popupads.net
@@ -10518,6 +10519,7 @@
 0.0.0.0 sp.yieldify.com
 0.0.0.0 spykemediatrack.com
 0.0.0.0 sqm.woniu.com
+0.0.0.0 sq.requestads.com
 0.0.0.0 srbijacafe.org
 0.0.0.0 srch.atdmt.com
 0.0.0.0 srd.simba.taobao.com
@@ -10783,6 +10785,7 @@
 0.0.0.0 statistics.videofarm.daum.net
 0.0.0.0 stat.kika-backend.com
 0.0.0.0 stat.m.360.cn
+0.0.0.0 stat.meitudata.com
 0.0.0.0 stat.m.jd.com
 0.0.0.0 stat-parser02.aatkit.com
 0.0.0.0 stat.pushwoosh.com
