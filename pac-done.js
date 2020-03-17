@@ -1903,6 +1903,7 @@ shExpMatch(host, '*.at-adserver.alltop.com') ||
 shExpMatch(host, '*.atdmt.com') ||
 shExpMatch(host, '*.athena-ads.wikia.com') ||
 shExpMatch(host, '*.atlassolutions.com') ||
+shExpMatch(host, '*.ato.mx') ||
 shExpMatch(host, '*.attractiveafternoon.com') ||
 shExpMatch(host, '*.attractivecap.com') ||
 shExpMatch(host, '*.attribution.report') ||
@@ -5419,7 +5420,6 @@ shExpMatch(host, '*.sma.punto.net') ||
 shExpMatch(host, '*.smart4ads.com') ||
 shExpMatch(host, '*.smartadserver.com') ||
 shExpMatch(host, '*.smartbase.cdnservices.com') ||
-shExpMatch(host, '*.smart.brvaffs.com') ||
 shExpMatch(host, '*.smartclip.net') ||
 shExpMatch(host, '*.smartdevicemedia.com') ||
 shExpMatch(host, '*.smartfoodsglutenfree.kz') ||
@@ -8702,6 +8702,7 @@ shExpMatch(host, 'at-adserver.alltop.com') ||
 shExpMatch(host, 'atdmt.com') ||
 shExpMatch(host, 'athena-ads.wikia.com') ||
 shExpMatch(host, 'atlassolutions.com') ||
+shExpMatch(host, 'ato.mx') ||
 shExpMatch(host, 'attractiveafternoon.com') ||
 shExpMatch(host, 'attractivecap.com') ||
 shExpMatch(host, 'attribution.report') ||
@@ -12218,7 +12219,6 @@ shExpMatch(host, 'sma.punto.net') ||
 shExpMatch(host, 'smart4ads.com') ||
 shExpMatch(host, 'smartadserver.com') ||
 shExpMatch(host, 'smartbase.cdnservices.com') ||
-shExpMatch(host, 'smart.brvaffs.com') ||
 shExpMatch(host, 'smartclip.net') ||
 shExpMatch(host, 'smartdevicemedia.com') ||
 shExpMatch(host, 'smartfoodsglutenfree.kz') ||
