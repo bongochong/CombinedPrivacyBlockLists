@@ -648,6 +648,7 @@
 0.0.0.0 ascraftan.com
 0.0.0.0 asdorka.com
 0.0.0.0 aservices.party
+0.0.0.0 asewlfjqwlflkew.com
 0.0.0.0 asextube.net
 0.0.0.0 asgdfasad.mm-cgnews.com
 0.0.0.0 asg.xz2aab.xyz
@@ -881,6 +882,7 @@
 0.0.0.0 bitmedianetwork.com
 0.0.0.0 bitonclick.com
 0.0.0.0 bitrix.info
+0.0.0.0 bitsads.xyz
 0.0.0.0 bittraffic.io
 0.0.0.0 bitvertise.io
 0.0.0.0 bizible.com
@@ -1844,6 +1846,7 @@
 0.0.0.0 drogomet.com
 0.0.0.0 drrcckbju3nd0.cloudfront.net
 0.0.0.0 ds02gfqy6io6i.cloudfront.net
+0.0.0.0 ds88pc0kw6cvc.cloudfront.net
 0.0.0.0 dsdsc.win
 0.0.0.0 dsh1ct2zrfakt.cloudfront.net
 0.0.0.0 dskfv.de
@@ -1952,7 +1955,6 @@
 0.0.0.0 elitics.com
 0.0.0.0 ellcurvth.com
 0.0.0.0 e.lndjj.com
-0.0.0.0 eloqua.com
 0.0.0.0 elwraek.xyz
 0.0.0.0 email-match.com
 0.0.0.0 email-reflex.com
@@ -2067,6 +2069,7 @@
 0.0.0.0 ewebanalytics.com
 0.0.0.0 ewebcounter.com
 0.0.0.0 e-webtrack.net
+0.0.0.0 ewerhodub.com
 0.0.0.0 exactag.com
 0.0.0.0 exapxl.de
 0.0.0.0 exchancetaur.info
@@ -2107,6 +2110,7 @@
 0.0.0.0 fabrkrup.com
 0.0.0.0 factortg.com
 0.0.0.0 fadedsnow.com
+0.0.0.0 fadsipz.com
 0.0.0.0 faibl.org
 0.0.0.0 fairnessels.com
 0.0.0.0 fallingfalcon.com
@@ -2166,6 +2170,7 @@
 0.0.0.0 fiozxmznaba.com
 0.0.0.0 fishhoo.com
 0.0.0.0 fitanalytics.com
+0.0.0.0 fixchidie.com
 0.0.0.0 fixcounter.com
 0.0.0.0 fixsirrod.site
 0.0.0.0 fixwap.net
@@ -2443,6 +2448,7 @@
 0.0.0.0 goonline13.online
 0.0.0.0 gooo.al
 0.0.0.0 gopjn.com
+0.0.0.0 go.rcvlinks.com
 0.0.0.0 gorgeousground.com
 0.0.0.0 gosquared.com
 0.0.0.0 gostats.com
@@ -3449,6 +3455,7 @@
 0.0.0.0 monitor.phorm.com
 0.0.0.0 monitus.net
 0.0.0.0 monkeytracker.cz
+0.0.0.0 monu.delivery
 0.0.0.0 moonads.net
 0.0.0.0 moowouzy.net
 0.0.0.0 mordi.fun
@@ -3732,6 +3739,8 @@
 0.0.0.0 offerreality.com
 0.0.0.0 offerstrategy.com
 0.0.0.0 offpageads.com
+0.0.0.0 ofgogoatan.com
+0.0.0.0 ofphanpytor.com
 0.0.0.0 ogamon.win
 0.0.0.0 ogrid.org
 0.0.0.0 ogt.jp
@@ -4104,6 +4113,7 @@
 0.0.0.0 posst.co
 0.0.0.0 postaffiliatepro.com
 0.0.0.0 postclickmarketing.com
+0.0.0.0 postlnk.com
 0.0.0.0 poweradcash.net
 0.0.0.0 power.adhacker.online
 0.0.0.0 powerbar-pagerank.de
@@ -4253,6 +4263,7 @@
 0.0.0.0 pv.ldlwdsx.com
 0.0.0.0 pv.pjtsu.com
 0.0.0.0 pvp-pro.space
+0.0.0.0 pvrnqpgvbucif.com
 0.0.0.0 pvrtx.net
 0.0.0.0 pweaatek.com
 0.0.0.0 pxi.pub
@@ -4412,6 +4423,7 @@
 0.0.0.0 reftedlettiny.info
 0.0.0.0 regisg.com
 0.0.0.0 rehomesit.info
+0.0.0.0 reindaks.com
 0.0.0.0 reinvigorate.net
 0.0.0.0 reitingas.lt
 0.0.0.0 reitingi.lv
@@ -4431,6 +4443,7 @@
 0.0.0.0 repaynik.com
 0.0.0.0 replainy.co
 0.0.0.0 reportions.club
+0.0.0.0 repruggob.com
 0.0.0.0 reqpostanza.com
 0.0.0.0 rereegny.net
 0.0.0.0 research-artisan.com
@@ -5304,6 +5317,7 @@
 0.0.0.0 tracetracking.net
 0.0.0.0 traceworks.com
 0.0.0.0 track2.me
+0.0.0.0 track.adabra.com
 0.0.0.0 trackalyzer.com
 0.0.0.0 track.aplaut.io
 0.0.0.0 trackbar.info
@@ -5494,6 +5508,7 @@
 0.0.0.0 uniad.vn
 0.0.0.0 unicaondemand.com
 0.0.0.0 unid.go.com
+0.0.0.0 uniqodo.com
 0.0.0.0 uniquecaptcha.com
 0.0.0.0 univerba.club
 0.0.0.0 universalsearches.com
@@ -5685,6 +5700,7 @@
 0.0.0.0 votetoda.com
 0.0.0.0 votistics.com
 0.0.0.0 voyeurhit.com
+0.0.0.0 vpn5protectplus.com
 0.0.0.0 vpn.baolq666.com
 0.0.0.0 v.shopify.com
 0.0.0.0 vstats.co
@@ -6123,3 +6139,4 @@
 0.0.0.0 zxwiejfbyr.com
 0.0.0.0 zybxchina.com
 0.0.0.0 zymro.com
+0.0.0.0 zyxzzz.xyz
