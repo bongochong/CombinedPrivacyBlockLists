@@ -2338,6 +2338,7 @@ shExpMatch(host, '*.cdn.branch.io') ||
 shExpMatch(host, '*.cdn.freefacti.com') ||
 shExpMatch(host, '*.cdn.freefarcy.com') ||
 shExpMatch(host, '*.cdn.heapanalytics.com') ||
+shExpMatch(host, '*.cdn.keywee.co') ||
 shExpMatch(host, '*.cdn.onesignal.com') ||
 shExpMatch(host, '*.cdn.segment.com') ||
 shExpMatch(host, '*.cdxbbpngq.pw') ||
@@ -3822,7 +3823,6 @@ shExpMatch(host, '*.kciylimohteftc.pw') ||
 shExpMatch(host, '*.kesikelyaf.com') ||
 shExpMatch(host, '*.keymedia.hu') ||
 shExpMatch(host, '*.keynotedeviceanywhere.com') ||
-shExpMatch(host, '*.keywee.co') ||
 shExpMatch(host, '*.kh5jfnvkk5twerfnku5twuilrnglnuw45yhlw.vealsithe.com') ||
 shExpMatch(host, '*.k.iinfo.cz') ||
 shExpMatch(host, '*.kindads.com') ||
@@ -4513,6 +4513,7 @@ shExpMatch(host, '*.oqwygprskqv65j72.1mudaw.top') ||
 shExpMatch(host, '*.oqwygprskqv65j72.1nzpby.top') ||
 shExpMatch(host, '*.orangeoperation.com') ||
 shExpMatch(host, '*.ordingly.com') ||
+shExpMatch(host, '*.ostr.io') ||
 shExpMatch(host, '*.ota.cartrawler.com') ||
 shExpMatch(host, '*.otto-images.developershed.com') ||
 shExpMatch(host, '*.outbrain.com') ||
@@ -4794,6 +4795,7 @@ shExpMatch(host, '*.pixel.adsafeprotected.com') ||
 shExpMatch(host, '*.pixel.condenastdigital.com') ||
 shExpMatch(host, '*.pixel.digitru.st') ||
 shExpMatch(host, '*.pixel.jumptap.com') ||
+shExpMatch(host, '*.pixel.keywee.co') ||
 shExpMatch(host, '*.pixel.mtrcs.samba.tv') ||
 shExpMatch(host, '*.pixel.sojern.com') ||
 shExpMatch(host, '*.pixel.watch') ||
@@ -9137,6 +9139,7 @@ shExpMatch(host, 'cdn.branch.io') ||
 shExpMatch(host, 'cdn.freefacti.com') ||
 shExpMatch(host, 'cdn.freefarcy.com') ||
 shExpMatch(host, 'cdn.heapanalytics.com') ||
+shExpMatch(host, 'cdn.keywee.co') ||
 shExpMatch(host, 'cdn.onesignal.com') ||
 shExpMatch(host, 'cdn.segment.com') ||
 shExpMatch(host, 'cdxbbpngq.pw') ||
@@ -10621,7 +10624,6 @@ shExpMatch(host, 'kciylimohteftc.pw') ||
 shExpMatch(host, 'kesikelyaf.com') ||
 shExpMatch(host, 'keymedia.hu') ||
 shExpMatch(host, 'keynotedeviceanywhere.com') ||
-shExpMatch(host, 'keywee.co') ||
 shExpMatch(host, 'kh5jfnvkk5twerfnku5twuilrnglnuw45yhlw.vealsithe.com') ||
 shExpMatch(host, 'k.iinfo.cz') ||
 shExpMatch(host, 'kindads.com') ||
@@ -11312,6 +11314,7 @@ shExpMatch(host, 'oqwygprskqv65j72.1mudaw.top') ||
 shExpMatch(host, 'oqwygprskqv65j72.1nzpby.top') ||
 shExpMatch(host, 'orangeoperation.com') ||
 shExpMatch(host, 'ordingly.com') ||
+shExpMatch(host, 'ostr.io') ||
 shExpMatch(host, 'ota.cartrawler.com') ||
 shExpMatch(host, 'otto-images.developershed.com') ||
 shExpMatch(host, 'outbrain.com') ||
@@ -11593,6 +11596,7 @@ shExpMatch(host, 'pixel.adsafeprotected.com') ||
 shExpMatch(host, 'pixel.condenastdigital.com') ||
 shExpMatch(host, 'pixel.digitru.st') ||
 shExpMatch(host, 'pixel.jumptap.com') ||
+shExpMatch(host, 'pixel.keywee.co') ||
 shExpMatch(host, 'pixel.mtrcs.samba.tv') ||
 shExpMatch(host, 'pixel.sojern.com') ||
 shExpMatch(host, 'pixel.watch') ||
