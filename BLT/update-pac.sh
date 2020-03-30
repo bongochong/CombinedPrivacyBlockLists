@@ -30,6 +30,7 @@ perl -i -pe 'chomp if eof' pac-wew.txt
 sed "s/^/shExpMatch(host, '/" pac-wew.txt > pac-lad.txt
 sed -i "s/$/') ||/" pac-lad.txt
 sed "2r pac-lad.txt" < ~/BLT/parsing/pactemplate.txt > pac-done.js
+sed -i "1s/^/\/\/ **** $(date)\n/" pac-done.js
 perl -i -pe 'chomp if eof' pac-done.js
 echo "Properly merged and formatted block lists into new PAC file."
 # curl -T pac-done.js ftp://SERVER-AND-DIRECTORY-HERE --user USERNAME-HERE:PASSWORD-HERE
