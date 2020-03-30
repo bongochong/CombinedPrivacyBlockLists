@@ -103,6 +103,7 @@
 0.0.0.0 3dstats.com
 0.0.0.0 3gl.net
 0.0.0.0 3l4r8d61yz.com
+0.0.0.0 3wdf4.xyz
 0.0.0.0 40nuggets.com
 0.0.0.0 41df76c67812005c.com
 0.0.0.0 420147981.world
@@ -174,6 +175,7 @@
 0.0.0.0 95558000.com
 0.0.0.0 95p5qep4aq.com
 0.0.0.0 97kuaixiu.com
+0.0.0.0 983jdh.xyz
 0.0.0.0 9990.spqsd.com
 0.0.0.0 99click.com
 0.0.0.0 99counters.com
@@ -334,6 +336,7 @@
 0.0.0.0 adplus.co.id
 0.0.0.0 adplus.io
 0.0.0.0 adpressi.com
+0.0.0.0 adprofits.ru
 0.0.0.0 adprotraffic.com
 0.0.0.0 adqy6rzwcs.com
 0.0.0.0 adrank24.de
@@ -368,6 +371,7 @@
 0.0.0.0 ads.linkedin.com
 0.0.0.0 adslop.com
 0.0.0.0 adsmeda.com
+0.0.0.0 ads-media.gameforge.com
 0.0.0.0 adsnative.com
 0.0.0.0 adsonflags.com
 0.0.0.0 ad-specs.guoshipartners.com
@@ -824,6 +828,7 @@
 0.0.0.0 belstat.fr
 0.0.0.0 belstat.nl
 0.0.0.0 benchit.com
+0.0.0.0 benefits.sovendus.com
 0.0.0.0 bepolite.eu
 0.0.0.0 berg-6-82.com
 0.0.0.0 beserte.pro
@@ -865,6 +870,7 @@
 0.0.0.0 bidswitch.net
 0.0.0.0 bigbangbon.online
 0.0.0.0 bigcattracks.com
+0.0.0.0 bigdata.riamedia.com.ua
 0.0.0.0 biggbossseason11.com
 0.0.0.0 biggestplayer.cachefly.net
 0.0.0.0 bigsauron.ru
@@ -1019,7 +1025,6 @@
 0.0.0.0 bubblesmedia.ru
 0.0.0.0 bubblestat.com
 0.0.0.0 bugherd.com
-0.0.0.0 bugsnag.com
 0.0.0.0 builfico.de
 0.0.0.0 bulbazoa.com
 0.0.0.0 bulbbait.com
@@ -1061,6 +1066,7 @@
 0.0.0.0 cache.am
 0.0.0.0 cache.fm
 0.0.0.0 cadreon.com
+0.0.0.0 cadsanz.com
 0.0.0.0 cadsecs.com
 0.0.0.0 cadskis.com
 0.0.0.0 cagelrib.net
@@ -1457,6 +1463,7 @@
 0.0.0.0 crm-analytics.imweb.ru
 0.0.0.0 crmmetrix.fr
 0.0.0.0 crmmetrixwris.com
+0.0.0.0 crocopop.com
 0.0.0.0 croissed.info
 0.0.0.0 crosspixel.net
 0.0.0.0 crosswalkmail.com
@@ -1785,6 +1792,7 @@
 0.0.0.0 dkm6b5q0h53z4.cloudfront.net
 0.0.0.0 dk-statistik.de
 0.0.0.0 dlads.cn
+0.0.0.0 dlfvgndsdfsn.com
 0.0.0.0 dlrowehtfodne.com
 0.0.0.0 dlwmksxohvw.com
 0.0.0.0 dlyads.com
@@ -1848,6 +1856,7 @@
 0.0.0.0 ds02gfqy6io6i.cloudfront.net
 0.0.0.0 ds88pc0kw6cvc.cloudfront.net
 0.0.0.0 dsdsc.win
+0.0.0.0 dsdsde.xyz
 0.0.0.0 dsh1ct2zrfakt.cloudfront.net
 0.0.0.0 dskfv.de
 0.0.0.0 dsmmadvantage.com
@@ -2091,6 +2100,7 @@
 0.0.0.0 experianmarketingservices.digital
 0.0.0.0 expertnifg.com
 0.0.0.0 explore-123.com
+0.0.0.0 exponea.com
 0.0.0.0 exposebox.com
 0.0.0.0 ext.goguardian.com
 0.0.0.0 ext.movixhub.com
@@ -2517,6 +2527,7 @@
 0.0.0.0 guckawoh.net
 0.0.0.0 guitarbelieve.com
 0.0.0.0 guruquicks.net
+0.0.0.0 gvesgrun.online
 0.0.0.0 g.vev.io
 0.0.0.0 gvisit.com
 0.0.0.0 gygdmy.com
@@ -2534,6 +2545,7 @@
 0.0.0.0 halstats.com
 0.0.0.0 hammerhearing.com
 0.0.0.0 hamtugin.com
+0.0.0.0 hanacbclbrdjon.com
 0.0.0.0 hanaprop.com
 0.0.0.0 haoxxwang.com
 0.0.0.0 happer.info
@@ -3241,9 +3253,11 @@
 0.0.0.0 m.8800266.com.cn
 0.0.0.0 m.91heima.cn
 0.0.0.0 m.91xiaodu.top
+0.0.0.0 m968kpz550cx.com
 0.0.0.0 machieved.com
 0.0.0.0 madcpms.com
 0.0.0.0 madplypie.club
+0.0.0.0 madratesforall.com
 0.0.0.0 madsans.com
 0.0.0.0 madyna.ru
 0.0.0.0 maebtjn.com
@@ -3732,6 +3746,7 @@
 0.0.0.0 odrftytjmozxsfwnlw.bid
 0.0.0.0 oei1.gq
 0.0.0.0 oewabox.at
+0.0.0.0 ofdittor.com
 0.0.0.0 ofd.meng-an.cn
 0.0.0.0 offergo.net
 0.0.0.0 offermatica.com
@@ -3942,6 +3957,7 @@
 0.0.0.0 pcspeedup.com
 0.0.0.0 pdheuryopd.loan
 0.0.0.0 peacepowder.com
+0.0.0.0 peachdamwhiffs.store
 0.0.0.0 peakcounter.dk
 0.0.0.0 pebadu.com
 0.0.0.0 pebed.dm.gg
@@ -4591,6 +4607,7 @@
 0.0.0.0 salaure.pro
 0.0.0.0 salesgenius.com
 0.0.0.0 saletrack.co.uk
+0.0.0.0 samestretch.com
 0.0.0.0 sam.msn.com
 0.0.0.0 samsungads.com
 0.0.0.0 samsungtvads.com
@@ -4986,6 +5003,7 @@
 0.0.0.0 stats-analytics.info
 0.0.0.0 statsbox.nl
 0.0.0.0 stats.coronalabs.com
+0.0.0.0 stats.datawrapper.de
 0.0.0.0 statsevent.com
 0.0.0.0 statsforever.com
 0.0.0.0 stats.hprofits.com
@@ -5361,6 +5379,7 @@
 0.0.0.0 tradescape.biz
 0.0.0.0 trafex.net
 0.0.0.0 traffic4u.nl
+0.0.0.0 trafficbass.com
 0.0.0.0 trafficby.net
 0.0.0.0 traffic.club
 0.0.0.0 trafficclub-nde.netdna-ssl.com
@@ -5709,6 +5728,7 @@
 0.0.0.0 vunetotbe.com
 0.0.0.0 vuryua.ru
 0.0.0.0 vvbox.cz
+0.0.0.0 vwuyuahqf.com
 0.0.0.0 vyg.mobi
 0.0.0.0 vyykulowdu.com
 0.0.0.0 w13qh.cn
@@ -5882,6 +5902,7 @@
 0.0.0.0 worlanned.pro
 0.0.0.0 worldgravity.com
 0.0.0.0 worldlogger.com
+0.0.0.0 worldmapd.online
 0.0.0.0 wowanalytics.co.uk
 0.0.0.0 wowoyy.cc
 0.0.0.0 wpdstat.com
@@ -6088,6 +6109,7 @@
 0.0.0.0 zenlivestats.com
 0.0.0.0 zeotap.com
 0.0.0.0 zepozipo.com
+0.0.0.0 zeqad.com
 0.0.0.0 zero.kz
 0.0.0.0 zesep.com
 0.0.0.0 zeti.com
