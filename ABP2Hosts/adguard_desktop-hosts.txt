@@ -1,4 +1,4 @@
-# Mon 30 Mar 2020 01:52:20 PM MDT
+# Wed 01 Apr 2020 03:49:40 AM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 0351dvd.cn
@@ -3139,6 +3139,7 @@
 0.0.0.0 likeminer.nablabee.com
 0.0.0.0 liktirov.com
 0.0.0.0 limpingline.com
+0.0.0.0 lindenlaugh.pro
 0.0.0.0 linezing.com
 0.0.0.0 linkconnector.com
 0.0.0.0 link-empfehlen24.de
@@ -3690,6 +3691,7 @@
 0.0.0.0 nordicresearch.com
 0.0.0.0 northclick-statistiken.de
 0.0.0.0 norvalur.xyz
+0.0.0.0 notbad-ads.com
 0.0.0.0 notification-centar.com
 0.0.0.0 notifyvisitors.com
 0.0.0.0 nouseeth.com
@@ -3906,6 +3908,7 @@
 0.0.0.0 paddsup.com
 0.0.0.0 padsbrown.com
 0.0.0.0 padsims.com
+0.0.0.0 padspms.com
 0.0.0.0 pagefair.com
 0.0.0.0 page-hit.de
 0.0.0.0 pagerank4you.eu
@@ -5239,6 +5242,7 @@
 0.0.0.0 thewhizmarketing.com
 0.0.0.0 thewhizproducts.com
 0.0.0.0 thewise.com
+0.0.0.0 theyarehugevid.pro
 0.0.0.0 thichawheja.pro
 0.0.0.0 thiksikr.com
 0.0.0.0 thirdrespect.com

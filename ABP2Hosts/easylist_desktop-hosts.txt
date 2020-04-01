@@ -1,4 +1,4 @@
-# Mon 30 Mar 2020 01:52:27 PM MDT
+# Wed 01 Apr 2020 03:49:46 AM MDT
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0026645142c89aeb1.com
 0.0.0.0 006a039c957c142bb.com
@@ -792,6 +792,7 @@
 0.0.0.0 acronym.com
 0.0.0.0 acrsgxeah.com
 0.0.0.0 acs86.com
+0.0.0.0 acsbap.com
 0.0.0.0 acticgreasonsc.info
 0.0.0.0 actiflex.org
 0.0.0.0 actionallocator.com
@@ -1331,6 +1332,7 @@
 0.0.0.0 adsixmedia.fr
 0.0.0.0 adskeeper.co.uk
 0.0.0.0 adskom.com
+0.0.0.0 adskpak.com
 0.0.0.0 adslala.com
 0.0.0.0 adslidango.com
 0.0.0.0 adslingers.com
@@ -4594,6 +4596,7 @@
 0.0.0.0 cpvtgt.com
 0.0.0.0 cpx24.com
 0.0.0.0 cpxadroit.com
+0.0.0.0 cpxdeliv.com
 0.0.0.0 cpxinteractive.com
 0.0.0.0 cpx.to
 0.0.0.0 cpzxmrne.com
@@ -7029,6 +7032,7 @@
 0.0.0.0 fpesoigpyes.com
 0.0.0.0 fpfivothg.com
 0.0.0.0 fpherzxrae.com
+0.0.0.0 fpjs.io
 0.0.0.0 fpkcggyczcvix.com
 0.0.0.0 fpluhtibx.com
 0.0.0.0 fpomyspwepxxe.com
@@ -8729,6 +8733,7 @@
 0.0.0.0 iilrgkor.com
 0.0.0.0 i.imedia.cz
 0.0.0.0 iimueeipaitpb.com
+0.0.0.0 iiripeedqfj.com
 0.0.0.0 iivt.com
 0.0.0.0 iizgpusp.com
 0.0.0.0 ijfchpiptvvzko.com
@@ -8834,6 +8839,7 @@
 0.0.0.0 impore.com
 0.0.0.0 importedincrease.com
 0.0.0.0 importedinsect.com
+0.0.0.0 imp.pvnsolutions.com
 0.0.0.0 impresionesweb.com
 0.0.0.0 impresix.com
 0.0.0.0 impressiondesk.com
@@ -9149,6 +9155,7 @@
 0.0.0.0 isgmpykwv.com
 0.0.0.0 ishahguv.com
 0.0.0.0 i.skimresources.com
+0.0.0.0 iskkrmwivxfmdjwxme.bid
 0.0.0.0 islofthmci.com
 0.0.0.0 isnsgjhthhaqtu.com
 0.0.0.0 isohits.com
@@ -9208,6 +9215,7 @@
 0.0.0.0 ivfwajwbhiwzw.com
 0.0.0.0 i.viafoura.co
 0.0.0.0 ivitrack.com
+0.0.0.0 ivjkdyrjjgxhch.com
 0.0.0.0 ivkfuasf.com
 0.0.0.0 ivoophie.net
 0.0.0.0 ivowhzku.com
@@ -9923,6 +9931,7 @@
 0.0.0.0 knowledgevine.net
 0.0.0.0 knpbefvk.com
 0.0.0.0 knqjhdkndh.com
+0.0.0.0 kntswafuos.com
 0.0.0.0 knvhqxpt.com
 0.0.0.0 knwfmpvtj.com
 0.0.0.0 koamxmikmuhahc.com
@@ -10508,6 +10517,7 @@
 0.0.0.0 lmcoiiwpguaorp.com
 0.0.0.0 lmepqfsazb.com
 0.0.0.0 lmevacaixeqy.com
+0.0.0.0 lmheeproc.com
 0.0.0.0 lmiutil.com
 0.0.0.0 lmjxlihzcvicyi.com
 0.0.0.0 lmjxrhph.com
@@ -15673,6 +15683,7 @@
 0.0.0.0 rlgungosm.com
 0.0.0.0 rlinks.one.in
 0.0.0.0 rljakgkixu.com
+0.0.0.0 rlomivunesqal.com
 0.0.0.0 rlomrjxrpsev.com
 0.0.0.0 rlsqhgku.com
 0.0.0.0 rlxqaczszvjvp.com
@@ -15789,6 +15800,7 @@
 0.0.0.0 rrnqzntj.com
 0.0.0.0 rroyintwabqyua.com
 0.0.0.0 rrpjunmcv.com
+0.0.0.0 rrriyoomil.com
 0.0.0.0 rrshibwsq.com
 0.0.0.0 rrvpscehvjuz.com
 0.0.0.0 rrxlynihw.com
@@ -17463,7 +17475,6 @@
 0.0.0.0 techclicks.net
 0.0.0.0 technical-service.net
 0.0.0.0 technoratimedia.com
-0.0.0.0 techtarget.com
 0.0.0.0 tec-tec-boom.com
 0.0.0.0 tedioustooth.com
 0.0.0.0 tedropkinthenligh.pro
