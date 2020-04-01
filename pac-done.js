@@ -1,4 +1,4 @@
-// **** Mon 30 Mar 2020 01:54:56 PM MDT
+// **** Wed 01 Apr 2020 05:51:13 AM MDT
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.039b1ee.netsolhost.com') ||
@@ -4037,6 +4037,7 @@ shExpMatch(host, '*.mackeeperapp.mackeeper.com') ||
 shExpMatch(host, '*.macooptwafkwchtpo.pw') ||
 shExpMatch(host, '*.madadsmedia.com') ||
 shExpMatch(host, '*.madclient.uimserv.net') ||
+shExpMatch(host, '*.madcpms.com') ||
 shExpMatch(host, '*.madisonavenue.com') ||
 shExpMatch(host, '*.mads.aol.com') ||
 shExpMatch(host, '*.mads.cnet.com') ||
@@ -4707,6 +4708,7 @@ shExpMatch(host, '*.partnercash.de') ||
 shExpMatch(host, '*.partner.pelikan.cz') ||
 shExpMatch(host, '*.partners.priceline.com') ||
 shExpMatch(host, '*.partner.topcities.com') ||
+shExpMatch(host, '*.passeura.com') ||
 shExpMatch(host, '*.passion-4.net') ||
 shExpMatch(host, '*.pavpuj.com') ||
 shExpMatch(host, '*.pay-ads.com') ||
@@ -5747,6 +5749,7 @@ shExpMatch(host, '*.theads.me') ||
 shExpMatch(host, '*.thebugs.ws') ||
 shExpMatch(host, '*.theclickads.com') ||
 shExpMatch(host, '*.thecounter.com') ||
+shExpMatch(host, '*.themoneytizer.com') ||
 shExpMatch(host, '*.the-ozone-project.com') ||
 shExpMatch(host, '*.therapistla.com') ||
 shExpMatch(host, '*.therichkids.com') ||
@@ -10838,6 +10841,7 @@ shExpMatch(host, 'mackeeperapp.mackeeper.com') ||
 shExpMatch(host, 'macooptwafkwchtpo.pw') ||
 shExpMatch(host, 'madadsmedia.com') ||
 shExpMatch(host, 'madclient.uimserv.net') ||
+shExpMatch(host, 'madcpms.com') ||
 shExpMatch(host, 'madisonavenue.com') ||
 shExpMatch(host, 'mads.aol.com') ||
 shExpMatch(host, 'mads.cnet.com') ||
@@ -11508,6 +11512,7 @@ shExpMatch(host, 'partnercash.de') ||
 shExpMatch(host, 'partner.pelikan.cz') ||
 shExpMatch(host, 'partners.priceline.com') ||
 shExpMatch(host, 'partner.topcities.com') ||
+shExpMatch(host, 'passeura.com') ||
 shExpMatch(host, 'passion-4.net') ||
 shExpMatch(host, 'pavpuj.com') ||
 shExpMatch(host, 'pay-ads.com') ||
@@ -12548,6 +12553,7 @@ shExpMatch(host, 'theads.me') ||
 shExpMatch(host, 'thebugs.ws') ||
 shExpMatch(host, 'theclickads.com') ||
 shExpMatch(host, 'thecounter.com') ||
+shExpMatch(host, 'themoneytizer.com') ||
 shExpMatch(host, 'the-ozone-project.com') ||
 shExpMatch(host, 'therapistla.com') ||
 shExpMatch(host, 'therichkids.com') ||
