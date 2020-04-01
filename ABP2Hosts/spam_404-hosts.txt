@@ -108,7 +108,6 @@
 0.0.0.0 activefiles.org
 0.0.0.0 activefollowerz.xyz
 0.0.0.0 activehacks.com
-0.0.0.0 [Adblock Plus 2.0]
 0.0.0.0 adbon.us
 0.0.0.0 addcocgems.com
 0.0.0.0 addgramfollows.com
