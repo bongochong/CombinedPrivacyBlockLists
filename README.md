@@ -5,7 +5,7 @@ These lists *only* block ad, tracking, telemetry, scam, and malware servers. The
 
 **Descriptions**
 
-- [**newhosts-final.hosts**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts): Is a comprehensive hosts file which blocks known ad, exploit, malware, and tracking servers. It is pulled from MVPS<sup>1</sup>, PGL Yoyo<sup>2</sup>, Malware Domain List<sup>3</sup>, hpHosts<sup>4</sup> and EasyList<sup>5</sup>, along with some supplementary entries for increased protection against telemetry, and additions for mobile platforms.<sup>6</sup> It is then merged, sorted and deduped. This list is compatible with all operating systems that make use of a hosts file (obviously this includes Windows, OS X, GNU/Linux and more). It works great with mobile VPN ad-blocking solutions too. Notably enhanced privacy and security awaits you. _There is also an [IPv6 version](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final-IPv6.hosts), and an experimental [version for both IPv4 and IPv6](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final-Dual.hosts)._
+- [**newhosts-final.hosts**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts): Is a comprehensive hosts file which blocks known ad, exploit, malware, and tracking servers. It is pulled from MVPS<sup>1</sup>, PGL Yoyo<sup>2</sup>, Malware Domain List<sup>3</sup>, BadMojr<sup>4</sup> and EasyList<sup>5</sup>, along with some supplementary entries for increased protection against telemetry, and additions for mobile platforms.<sup>6</sup> It is then merged, sorted and deduped. This list is compatible with all operating systems that make use of a hosts file (obviously this includes Windows, OS X, GNU/Linux and more). It works great with mobile VPN ad-blocking solutions too. Notably enhanced privacy and security awaits you. _There is also an [IPv6 version](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final-IPv6.hosts), and an experimental [version for both IPv4 and IPv6](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final-Dual.hosts)._
 
 + [**combined-final-win.dat**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/combined-final-win.dat): Is a DAT-format IP block list suitable for use in torrent clients like Halite for Windows.<sup>7</sup> The list is merged from BlueTack levels 1 and 2, then deduped and sorted.<sup>8</sup> This will come in especially handy on public trackers.
 
@@ -37,9 +37,9 @@ These tools are modified versions of the ones I run on my GNU/Linux box. I've te
 <sup>1. [MVPS Hosts Files](http://winhelp2002.mvps.org/). </sup> <br>
 <sup>2. [PGL Yoyo Hosts Files](http://pgl.yoyo.org/adservers/). </sup> <br>
 <sup>3. [Malware Domain List Hosts Files](http://www.malwaredomainlist.com/). </sup> <br>
-<sup>4. [hpHosts Hosts Files](http://hosts-file.net/); I actually use both the Ad-Server and Exploits lists from them.</sup> <br>
+<sup>4. [BadMojr's Mini Hosts](https://github.com/badmojr/1Hosts/tree/master/mini). </sup> <br>
 <sup>5. [EasyList](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/ABP2Hosts/easylist_desktop-hosts.txt). </sup> <br>
-<sup>6. [Supplementary](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/WindowsTelemetryBlockSupplements) [Entries](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/ABP2Hosts/adguard_mobile-hosts.txt). </sup> <br>
+<sup>6. [Supplementary](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/WindowsTelemetryBlockSupplements) [Entries](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/ABP2Hosts). </sup> <br>
 <sup>7. [Halite](https://www.fosshub.com/Halite.html). </sup> <br>
 <sup>8. [BlueTack Lists on I-BlockList](https://www.iblocklist.com/lists). </sup> <br>
 <sup>9. [qBitTorrent](https://www.qbittorrent.org/). </sup> <br>
