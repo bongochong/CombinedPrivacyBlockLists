@@ -1,4 +1,4 @@
-// **** Wed 01 Apr 2020 05:51:13 AM MDT
+// **** Thu 02 Apr 2020 06:18:40 AM MDT
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.039b1ee.netsolhost.com') ||
@@ -3227,6 +3227,7 @@ shExpMatch(host, '*.ftoxmpdipwobp4qy.1gtx3p.top') ||
 shExpMatch(host, '*.ftoxmpdipwobp4qy.1nsnuh.top') ||
 shExpMatch(host, '*.ftoxmpdipwobp4qy.7pnxn9.top') ||
 shExpMatch(host, '*.ftoxmpdipwobp4qy.lxvmhm.top') ||
+shExpMatch(host, '*.fukc69xo.us') ||
 shExpMatch(host, '*.fullstory.com') ||
 shExpMatch(host, '*.fulxet.com') ||
 shExpMatch(host, '*.functionalclam.com') ||
@@ -3424,6 +3425,7 @@ shExpMatch(host, '*.hitslink.com') ||
 shExpMatch(host, '*.hits.puls.lv') ||
 shExpMatch(host, '*.hits.theguardian.com') ||
 shExpMatch(host, '*.hittail.com') ||
+shExpMatch(host, '*.hitttenevtanin.com') ||
 shExpMatch(host, '*.hit.ua') ||
 shExpMatch(host, '*.hit.webcentre.lycos.co.uk') ||
 shExpMatch(host, '*.hjhqmbxyinislkkt.11bwgu.top') ||
@@ -5918,6 +5920,7 @@ shExpMatch(host, '*.trix.net') ||
 shExpMatch(host, '*.trk42.net') ||
 shExpMatch(host, '*.trknths.com') ||
 shExpMatch(host, '*.trkn.us') ||
+shExpMatch(host, '*.trk.techtarget.com') ||
 shExpMatch(host, '*.trmit.com') ||
 shExpMatch(host, '*.tronuprising.heliohost.org') ||
 shExpMatch(host, '*.truckstomatoes.com') ||
@@ -10031,6 +10034,7 @@ shExpMatch(host, 'ftoxmpdipwobp4qy.1gtx3p.top') ||
 shExpMatch(host, 'ftoxmpdipwobp4qy.1nsnuh.top') ||
 shExpMatch(host, 'ftoxmpdipwobp4qy.7pnxn9.top') ||
 shExpMatch(host, 'ftoxmpdipwobp4qy.lxvmhm.top') ||
+shExpMatch(host, 'fukc69xo.us') ||
 shExpMatch(host, 'fullstory.com') ||
 shExpMatch(host, 'fulxet.com') ||
 shExpMatch(host, 'functionalclam.com') ||
@@ -10228,6 +10232,7 @@ shExpMatch(host, 'hitslink.com') ||
 shExpMatch(host, 'hits.puls.lv') ||
 shExpMatch(host, 'hits.theguardian.com') ||
 shExpMatch(host, 'hittail.com') ||
+shExpMatch(host, 'hitttenevtanin.com') ||
 shExpMatch(host, 'hit.ua') ||
 shExpMatch(host, 'hit.webcentre.lycos.co.uk') ||
 shExpMatch(host, 'hjhqmbxyinislkkt.11bwgu.top') ||
@@ -12722,6 +12727,7 @@ shExpMatch(host, 'trix.net') ||
 shExpMatch(host, 'trk42.net') ||
 shExpMatch(host, 'trknths.com') ||
 shExpMatch(host, 'trkn.us') ||
+shExpMatch(host, 'trk.techtarget.com') ||
 shExpMatch(host, 'trmit.com') ||
 shExpMatch(host, 'tronuprising.heliohost.org') ||
 shExpMatch(host, 'truckstomatoes.com') ||
