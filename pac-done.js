@@ -1,4 +1,4 @@
-// **** Thu 02 Apr 2020 06:18:40 AM MDT
+// **** Tue 07 Apr 2020 05:01:35 PM MDT
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.039b1ee.netsolhost.com') ||
@@ -3315,7 +3315,6 @@ shExpMatch(host, '*.googleanalytics.com') ||
 shExpMatch(host, '*.googlepetkavanis4.pw') ||
 shExpMatch(host, '*.google.poultrymiddleeast.com') ||
 shExpMatch(host, '*.googlesyndication.com') ||
-shExpMatch(host, '*.googletagmanager.com') ||
 shExpMatch(host, '*.googletagservices.com') ||
 shExpMatch(host, '*.gopcaca.hopto.org') ||
 shExpMatch(host, '*.go-rank.de') ||
@@ -4306,7 +4305,6 @@ shExpMatch(host, '*.mystat.pl') ||
 shExpMatch(host, '*.mysteriousmonth.com') ||
 shExpMatch(host, '*.mythings.com') ||
 shExpMatch(host, '*.mytop-in.net') ||
-shExpMatch(host, '*.mytrafficads.com') ||
 shExpMatch(host, '*.myvisualiq.net') ||
 shExpMatch(host, '*.mz7oyb3v32vshcvk.bidobject.li') ||
 shExpMatch(host, '*.mz7oyb3v32vshcvk.getstar.li') ||
@@ -10122,7 +10120,6 @@ shExpMatch(host, 'googleanalytics.com') ||
 shExpMatch(host, 'googlepetkavanis4.pw') ||
 shExpMatch(host, 'google.poultrymiddleeast.com') ||
 shExpMatch(host, 'googlesyndication.com') ||
-shExpMatch(host, 'googletagmanager.com') ||
 shExpMatch(host, 'googletagservices.com') ||
 shExpMatch(host, 'gopcaca.hopto.org') ||
 shExpMatch(host, 'go-rank.de') ||
@@ -11113,7 +11110,6 @@ shExpMatch(host, 'mystat.pl') ||
 shExpMatch(host, 'mysteriousmonth.com') ||
 shExpMatch(host, 'mythings.com') ||
 shExpMatch(host, 'mytop-in.net') ||
-shExpMatch(host, 'mytrafficads.com') ||
 shExpMatch(host, 'myvisualiq.net') ||
 shExpMatch(host, 'mz7oyb3v32vshcvk.bidobject.li') ||
 shExpMatch(host, 'mz7oyb3v32vshcvk.getstar.li') ||
