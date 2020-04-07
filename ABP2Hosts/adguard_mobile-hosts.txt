@@ -1,4 +1,4 @@
-# Wed 01 Apr 2020 05:49:23 AM MDT
+# Tue 07 Apr 2020 04:58:03 PM MDT
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -2655,6 +2655,8 @@
 0.0.0.0 appfireworks.com
 0.0.0.0 appflood.com
 0.0.0.0 app.games-to-run123.com
+0.0.0.0 appgift.sinaapp.com
+0.0.0.0 appgiftwall.oss-us-west-1.aliyuncs.com
 0.0.0.0 appia.com
 0.0.0.0 app.iappgame.com
 0.0.0.0 app-icons.apptentive.com
@@ -4897,7 +4899,6 @@
 0.0.0.0 delb5.cxense.com
 0.0.0.0 delb8.cxense.com
 0.0.0.0 deliver.mobvista.com
-0.0.0.0 deliveroo.com.sg
 0.0.0.0 delivery1.lavanetwork.net
 0.0.0.0 delivery.adnetwork.vn
 0.0.0.0 delivery.advanseads.com
@@ -6710,7 +6711,6 @@
 0.0.0.0 inspectletws.herokuapp.com
 0.0.0.0 inspiredtaste-tagan.adlightning.com
 0.0.0.0 ins-services.meltwater.com
-0.0.0.0 instabug.com
 0.0.0.0 installp.com
 0.0.0.0 installrevenue.com
 0.0.0.0 installtracker.com
@@ -7491,7 +7491,6 @@
 0.0.0.0 mazu.sec.miui.com
 0.0.0.0 m.banner.linksynergy.com
 0.0.0.0 mb-cdn.stocard.de
-0.0.0.0 mb.cision.com
 0.0.0.0 mbe-cdn.fyber.com
 0.0.0.0 mbe-cdn-staging.fyber.com
 0.0.0.0 mbe-monitoring.fyber.com

@@ -1,4 +1,4 @@
-# Wed 01 Apr 2020 05:49:28 AM MDT
+# Tue 07 Apr 2020 04:58:08 PM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 0351dvd.cn
@@ -172,6 +172,7 @@
 0.0.0.0 88shu.cn
 0.0.0.0 8cc5ff581a88.bitsngo.net
 0.0.0.0 8jd2lfsq.me
+0.0.0.0 8ue4.xyz
 0.0.0.0 91say.cc
 0.0.0.0 95558000.com
 0.0.0.0 95p5qep4aq.com
@@ -1070,6 +1071,7 @@
 0.0.0.0 cadsanz.com
 0.0.0.0 cadsecs.com
 0.0.0.0 cadskis.com
+0.0.0.0 cadspms.com
 0.0.0.0 cagelrib.net
 0.0.0.0 cah9ooy.bid
 0.0.0.0 calculatorcamera.com
@@ -1109,6 +1111,7 @@
 0.0.0.0 c.bxjpl.cn
 0.0.0.0 cccpmo.com
 0.0.0.0 ccvwtdtwyu.trade
+0.0.0.0 cdfr.hot4k.org
 0.0.0.0 cdn8now.com
 0.0.0.0 cdn9now.com
 0.0.0.0 cdn.adclerks.com
@@ -1262,6 +1265,7 @@
 0.0.0.0 clkoffers.com
 0.0.0.0 clkrev.com
 0.0.0.0 clksite.com
+0.0.0.0 cloisteredcord.com
 0.0.0.0 clotezar.com
 0.0.0.0 cloudcdn.gdn
 0.0.0.0 cloud-exploration.com
@@ -1292,6 +1296,7 @@
 0.0.0.0 codata.ru
 0.0.0.0 codeadnetwork.com
 0.0.0.0 codeonclick.com
+0.0.0.0 cogleapad.com
 0.0.0.0 cogmatch.net
 0.0.0.0 cognitivematch.com
 0.0.0.0 coinblind.com
@@ -1521,6 +1526,7 @@
 0.0.0.0 d160mt023h8h3d.cloudfront.net
 0.0.0.0 d162nnmwf9bggr.cloudfront.net
 0.0.0.0 d17rlarvg2khuc.cloudfront.net
+0.0.0.0 d18g6t7whf8ejf.cloudfront.net
 0.0.0.0 d19182vyfoustz.cloudfront.net
 0.0.0.0 d19uh5b0umbjrr.cloudfront.net
 0.0.0.0 d1b0fk9ns6n0w9.cloudfront.net
@@ -1755,6 +1761,7 @@
 0.0.0.0 differentdesk.com
 0.0.0.0 diffusion-tracker.com
 0.0.0.0 digdeepdigital.com.au
+0.0.0.0 digiadzone.com
 0.0.0.0 digidip.net
 0.0.0.0 diginetica.net
 0.0.0.0 digitaloptout.com
@@ -1806,6 +1813,7 @@
 0.0.0.0 dm.jinshasi.cn
 0.0.0.0 dmpcloud.net
 0.0.0.0 dmpxs.com
+0.0.0.0 dmrzm8vdeuibaj1.info
 0.0.0.0 dmtracker.com
 0.0.0.0 dmtry.com
 0.0.0.0 dmtw0i4zln92b.cloudfront.net
@@ -1854,6 +1862,7 @@
 0.0.0.0 drjgjngf.com
 0.0.0.0 drogomet.com
 0.0.0.0 drrcckbju3nd0.cloudfront.net
+0.0.0.0 dryzapsol.com
 0.0.0.0 ds02gfqy6io6i.cloudfront.net
 0.0.0.0 ds88pc0kw6cvc.cloudfront.net
 0.0.0.0 dsdsc.win
@@ -1973,6 +1982,7 @@
 0.0.0.0 emdcadvertise.eastmoney.com
 0.0.0.0 emediate.apmmedia.net
 0.0.0.0 emediatrack.com
+0.0.0.0 emembersm.site
 0.0.0.0 emented.pro
 0.0.0.0 emetriq.de
 0.0.0.0 emjcd.com
@@ -2566,6 +2576,7 @@
 0.0.0.0 hbzjht.com
 0.0.0.0 hcg82f2b.com
 0.0.0.0 hd100546b.com
+0.0.0.0 healmsuoguurd.eu
 0.0.0.0 healte.de
 0.0.0.0 heapanalytics.com
 0.0.0.0 heatmap.it
@@ -2994,6 +3005,7 @@
 0.0.0.0 kdoraraq.com
 0.0.0.0 kdowqlpt.info
 0.0.0.0 kelris.pw
+0.0.0.0 kenfeeask.com
 0.0.0.0 kensyii.com
 0.0.0.0 kenvam.online
 0.0.0.0 kepler-37b.com
@@ -3036,6 +3048,7 @@
 0.0.0.0 koapsooh.click
 0.0.0.0 kofpag.com
 0.0.0.0 koindut.com
+0.0.0.0 kolsh.cn
 0.0.0.0 kolur.top
 0.0.0.0 komtrack.com
 0.0.0.0 kongssew.com
@@ -3164,6 +3177,7 @@
 0.0.0.0 livewebstats.dk
 0.0.0.0 lizardslaugh.com
 0.0.0.0 lk.4jzl.cn
+0.0.0.0 lk.vectoranalytics.ru
 0.0.0.0 llgerege.com
 0.0.0.0 llladiez.org
 0.0.0.0 lloogg.com
@@ -3377,6 +3391,7 @@
 0.0.0.0 mengchengbao.com
 0.0.0.0 mengis-linden.org
 0.0.0.0 menuladshy.life
+0.0.0.0 meowpushnot.com
 0.0.0.0 mepirtedic.com
 0.0.0.0 mercadoclics.com
 0.0.0.0 mercent.com
@@ -3573,6 +3588,7 @@
 0.0.0.0 mywebstats.org
 0.0.0.0 m.zwsteel.cn
 0.0.0.0 n156adserv.com
+0.0.0.0 n2hbmu7he2faa.online
 0.0.0.0 naayna.com
 0.0.0.0 naenticle.info
 0.0.0.0 najsiejfnc.win
@@ -4080,6 +4096,7 @@
 0.0.0.0 plxnt.com
 0.0.0.0 pm0.net
 0.0.0.0 pm14.com
+0.0.0.0 p.magicalthirteen.com
 0.0.0.0 pmbox.biz
 0.0.0.0 pmctrack.net
 0.0.0.0 pmli.cn
@@ -4201,6 +4218,7 @@
 0.0.0.0 prostats.it
 0.0.0.0 proteaser.net
 0.0.0.0 protectaffiliates.org
+0.0.0.0 protection-phone.club
 0.0.0.0 provenpixel.com
 0.0.0.0 providence.voxmedia.com
 0.0.0.0 provideplant.com
@@ -4390,6 +4408,7 @@
 0.0.0.0 rbmcash.com
 0.0.0.0 rcounter.rambler.ru
 0.0.0.0 rc.xxhrd.com
+0.0.0.0 rdingperhan.site
 0.0.0.0 rdsa2012.com
 0.0.0.0 rdstation.com
 0.0.0.0 rdstation.com.br
@@ -4717,6 +4736,7 @@
 0.0.0.0 serverflox.online
 0.0.0.0 servestats.com
 0.0.0.0 serve.williamhill.com
+0.0.0.0 services.vlitag.com
 0.0.0.0 servinator.pw
 0.0.0.0 serving.adbetclickin.pink
 0.0.0.0 servingtrkid.com
@@ -5357,6 +5377,7 @@
 0.0.0.0 tracker.convead.io
 0.0.0.0 trackfeed.com
 0.0.0.0 trackfreundlich.de
+0.0.0.0 track.ilonofficial.com
 0.0.0.0 tracking100.com
 0.0.0.0 tracking202.com
 0.0.0.0 tracking.cirrusinsight.com
@@ -5368,6 +5389,7 @@
 0.0.0.0 trackmyweb.net
 0.0.0.0 track.pnicnik.live
 0.0.0.0 trackpush.com
+0.0.0.0 track.saygames.io
 0.0.0.0 track.segmentstream.com
 0.0.0.0 trackset.com
 0.0.0.0 trackset.it
@@ -5502,6 +5524,8 @@
 0.0.0.0 ubertags.com
 0.0.0.0 ubertracking.info
 0.0.0.0 ubiquitousyard.com
+0.0.0.0 ubutplho.com
+0.0.0.0 ubxnqtnnoljn.com
 0.0.0.0 ucheephu.com
 0.0.0.0 udmlkmzjkob.co
 0.0.0.0 udockoan.net
@@ -6005,6 +6029,7 @@
 0.0.0.0 xtractor.no
 0.0.0.0 xtremline.com
 0.0.0.0 xunlaile.com
+0.0.0.0 xvwebllndr.com
 0.0.0.0 xxlargepop.com
 0.0.0.0 xxxc2c.org
 0.0.0.0 xxxcounter.com
@@ -6111,6 +6136,7 @@
 0.0.0.0 zddxlih.com
 0.0.0.0 zdtag.com
 0.0.0.0 zedo.com
+0.0.0.0 zendplace.pro
 0.0.0.0 zenlivestats.com
 0.0.0.0 zeotap.com
 0.0.0.0 zepozipo.com
@@ -6158,6 +6184,7 @@
 0.0.0.0 zqtk.net
 0.0.0.0 zroitracker.com
 0.0.0.0 zsdqemzzzbtn.com
+0.0.0.0 zshbpcqbm.com
 0.0.0.0 ztsrv.com
 0.0.0.0 zugnogne.com
 0.0.0.0 zukxd6fkxqn.com
