@@ -1,4 +1,4 @@
-# Tue 07 Apr 2020 04:58:18 PM MDT
+# Fri 10 Apr 2020 05:18:54 PM MDT
 # Spam404 Hosts - Generated weekly by bongochong
 0.0.0.0 0daygameparadise.com
 0.0.0.0 0hacks.com
@@ -4568,7 +4568,10 @@
 0.0.0.0 instagramdeliver.com
 0.0.0.0 instagramhack.com
 0.0.0.0 insta-hack.com
+0.0.0.0 instahacker.org
 0.0.0.0 instahackgram.me
+0.0.0.0 instahacking.com
+0.0.0.0 instahack.me
 0.0.0.0 instamore.top
 0.0.0.0 instantcodegenerator.com
 0.0.0.0 instantdownloadsz.com
@@ -7130,7 +7133,9 @@
 0.0.0.0 supragame.com
 0.0.0.0 surefile.org
 0.0.0.0 surup.ru
+0.0.0.0 surveybypass.com
 0.0.0.0 surveybypassdirect.com
+0.0.0.0 surveybypass.net
 0.0.0.0 surveyremover2013.com
 0.0.0.0 surveyremovertool.com
 0.0.0.0 surveysmasher.com

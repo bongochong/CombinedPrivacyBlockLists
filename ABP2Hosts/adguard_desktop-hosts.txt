@@ -1,4 +1,4 @@
-# Tue 07 Apr 2020 04:58:08 PM MDT
+# Fri 10 Apr 2020 05:18:42 PM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 0351dvd.cn
@@ -100,6 +100,7 @@
 0.0.0.0 3al.pw
 0.0.0.0 3ba87e4828c5a95.com
 0.0.0.0 3c06b86c4147745b.com
+0.0.0.0 3djd3.xyz
 0.0.0.0 3dlivestats.com
 0.0.0.0 3dstats.com
 0.0.0.0 3gl.net
@@ -120,8 +121,10 @@
 0.0.0.0 4oney.com
 0.0.0.0 4stats.de
 0.0.0.0 4th3d48.com
+0.0.0.0 508ec56533e3937e.com
 0.0.0.0 50bang.org
 0.0.0.0 51yes.com
+0.0.0.0 523c579923fd35aa.com
 0.0.0.0 54kefu.net
 0.0.0.0 551f044b1a3f4ef.com
 0.0.0.0 5568.gjghy.com
@@ -129,6 +132,7 @@
 0.0.0.0 564d28256cddaeba.com
 0.0.0.0 56fff.net
 0.0.0.0 5b15a826.xyz
+0.0.0.0 5c577fc74618431b.com
 0.0.0.0 5e6lud.cn
 0.0.0.0 5iclx7wa4q.com
 0.0.0.0 602d76e204c032.com
@@ -164,9 +168,11 @@
 0.0.0.0 7wtic7ru.com
 0.0.0.0 800d24d61daea3c.com
 0.0.0.0 8020solutions.net
+0.0.0.0 815e8fa24ebb8686.com
 0.0.0.0 82o9v830.com
 0.0.0.0 863c4c0c521.se
 0.0.0.0 86a6b542l7.com
+0.0.0.0 86cb1dcb13ba5a1a.com
 0.0.0.0 877ky.com
 0.0.0.0 87uq.com
 0.0.0.0 88shu.cn
@@ -508,6 +514,7 @@
 0.0.0.0 aleapeapt.club
 0.0.0.0 alenty.com
 0.0.0.0 alephd.com
+0.0.0.0 alespeonor.com
 0.0.0.0 alexacdn.com
 0.0.0.0 alexametrics.com
 0.0.0.0 alexrid.com
@@ -790,6 +797,7 @@
 0.0.0.0 bathouph.net
 0.0.0.0 bawdybeast.com
 0.0.0.0 baynote.net
+0.0.0.0 baysexthy.com
 0.0.0.0 baywttgdhe.download
 0.0.0.0 bbcdn.go.evolutionmedia.bbelements.co
 0.0.0.0 b.bestcontenthost.com
@@ -1063,6 +1071,8 @@
 0.0.0.0 c3tag.com
 0.0.0.0 c4tracking01.com
 0.0.0.0 c4tw.net
+0.0.0.0 c50021876c67fd14.com
+0.0.0.0 c5b39ff13b3259df.com
 0.0.0.0 c.8l8l.com
 0.0.0.0 ca4ec6874a33a13.com
 0.0.0.0 cache.am
@@ -1631,6 +1641,7 @@
 0.0.0.0 d3u5zn5k9864p0.cloudfront.net
 0.0.0.0 d3ud741uvs727m.cloudfront.net
 0.0.0.0 d3vpf6i51y286p.cloudfront.net
+0.0.0.0 d4d48974197052ea.com
 0.0.0.0 d4ngwggzm3w7j.cloudfront.net
 0.0.0.0 d5ou3dytze6uf.cloudfront.net
 0.0.0.0 d63a3au5lqmtu.cloudfront.net
@@ -1645,6 +1656,7 @@
 0.0.0.0 da5w2k479hyx2.cloudfront.net
 0.0.0.0 dable.io
 0.0.0.0 dacounter.com
+0.0.0.0 dadhuhram.com
 0.0.0.0 dadsipz.com
 0.0.0.0 dadspmz.com
 0.0.0.0 daelynn.xyz
@@ -1881,6 +1893,7 @@
 0.0.0.0 dtto8zfzskfoa.cloudfront.net
 0.0.0.0 dubshub.com
 0.0.0.0 dulderbulder.com
+0.0.0.0 dumbpop.com
 0.0.0.0 dummy-domain-do-not-change.com
 0.0.0.0 dunellengez.info
 0.0.0.0 dup.baidustatic.com
@@ -2125,6 +2138,7 @@
 0.0.0.0 ezec.co.uk
 0.0.0.0 e-zeeinternet.com
 0.0.0.0 ezytrack.com
+0.0.0.0 f185cefa37b1806e.com
 0.0.0.0 f369a60bf483bcc9.com
 0.0.0.0 fabolele.com
 0.0.0.0 fabricww.com
@@ -2872,6 +2886,7 @@
 0.0.0.0 irelandmetrix.ie
 0.0.0.0 irs09.com
 0.0.0.0 irtya.com
+0.0.0.0 irtyd.com
 0.0.0.0 irxcm.com
 0.0.0.0 iryazan.ru
 0.0.0.0 is.sabah.com.tr
@@ -2944,6 +2959,7 @@
 0.0.0.0 jorjodika.com
 0.0.0.0 jotchept.com
 0.0.0.0 jp-axia.m0mentum.net
+0.0.0.0 jqk72ugyl2pz.com
 0.0.0.0 jquerycdn.co.il
 0.0.0.0 jquerymin.co.il
 0.0.0.0 jqueryserve.com
@@ -3442,6 +3458,7 @@
 0.0.0.0 mitmeisseln.de
 0.0.0.0 mixedreading.com
 0.0.0.0 mixpanel.com
+0.0.0.0 mk1lyl406xmp.com
 0.0.0.0 mkt3261.com
 0.0.0.0 mkt51.net
 0.0.0.0 mkt941.com
@@ -3781,6 +3798,7 @@
 0.0.0.0 og.zyzjpx.cn
 0.0.0.0 ohleiludieje.info
 0.0.0.0 ohmystats.com
+0.0.0.0 ohonorpod.site
 0.0.0.0 oidah.com
 0.0.0.0 oiqheoiwgnqiweoj.bid
 0.0.0.0 oix.com
@@ -4444,6 +4462,7 @@
 0.0.0.0 redichat.com
 0.0.0.0 redirecting.download
 0.0.0.0 redistats.com
+0.0.0.0 rednews.me
 0.0.0.0 redstatcounter.com
 0.0.0.0 reedbusiness.net
 0.0.0.0 reedge.com
@@ -5298,6 +5317,7 @@
 0.0.0.0 tmvtp.com
 0.0.0.0 tm.zedo.com
 0.0.0.0 tnative.ru
+0.0.0.0 tngmn.com
 0.0.0.0 tns-counter.ru
 0.0.0.0 tns-cs.net
 0.0.0.0 tns-gallup.dk
@@ -5475,6 +5495,7 @@
 0.0.0.0 trvtrk.com
 0.0.0.0 trv.upperbooking.com
 0.0.0.0 tr.webantenna.info
+0.0.0.0 trytipemo.com
 0.0.0.0 tsastrmq.com
 0.0.0.0 tscapeplay.com
 0.0.0.0 tscounter.com
@@ -5922,6 +5943,7 @@
 0.0.0.0 wishloop.com
 0.0.0.0 witlee.com
 0.0.0.0 wizaly.com
+0.0.0.0 wizliebeg.com
 0.0.0.0 wmwloejxww.com
 0.0.0.0 wodizapt.com
 0.0.0.0 woopra.com
@@ -6173,6 +6195,7 @@
 0.0.0.0 zoonoapt.net
 0.0.0.0 zoosnet.net
 0.0.0.0 zoossoft.net
+0.0.0.0 zop381q5o0q1.com
 0.0.0.0 z.opmnstr.com
 0.0.0.0 zorbikala.com
 0.0.0.0 zortinah.com
