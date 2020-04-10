@@ -1,4 +1,4 @@
-// **** Tue 07 Apr 2020 05:01:35 PM MDT
+// **** Fri 10 Apr 2020 05:22:01 PM MDT
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.039b1ee.netsolhost.com') ||
@@ -3332,7 +3332,6 @@ shExpMatch(host, '*.grafstat.ro') ||
 shExpMatch(host, '*.grandioseguide.com') ||
 shExpMatch(host, '*.granodiorite.com') ||
 shExpMatch(host, '*.grapeshot.co.uk') ||
-shExpMatch(host, '*.graph.instagram.com') ||
 shExpMatch(host, '*.greasegarden.com') ||
 shExpMatch(host, '*.greetzebra.com') ||
 shExpMatch(host, '*.greyinstrument.com') ||
@@ -4305,6 +4304,7 @@ shExpMatch(host, '*.mystat.pl') ||
 shExpMatch(host, '*.mysteriousmonth.com') ||
 shExpMatch(host, '*.mythings.com') ||
 shExpMatch(host, '*.mytop-in.net') ||
+shExpMatch(host, '*.mytrafficads.com') ||
 shExpMatch(host, '*.myvisualiq.net') ||
 shExpMatch(host, '*.mz7oyb3v32vshcvk.bidobject.li') ||
 shExpMatch(host, '*.mz7oyb3v32vshcvk.getstar.li') ||
@@ -10137,7 +10137,6 @@ shExpMatch(host, 'grafstat.ro') ||
 shExpMatch(host, 'grandioseguide.com') ||
 shExpMatch(host, 'granodiorite.com') ||
 shExpMatch(host, 'grapeshot.co.uk') ||
-shExpMatch(host, 'graph.instagram.com') ||
 shExpMatch(host, 'greasegarden.com') ||
 shExpMatch(host, 'greetzebra.com') ||
 shExpMatch(host, 'greyinstrument.com') ||
@@ -11110,6 +11109,7 @@ shExpMatch(host, 'mystat.pl') ||
 shExpMatch(host, 'mysteriousmonth.com') ||
 shExpMatch(host, 'mythings.com') ||
 shExpMatch(host, 'mytop-in.net') ||
+shExpMatch(host, 'mytrafficads.com') ||
 shExpMatch(host, 'myvisualiq.net') ||
 shExpMatch(host, 'mz7oyb3v32vshcvk.bidobject.li') ||
 shExpMatch(host, 'mz7oyb3v32vshcvk.getstar.li') ||
