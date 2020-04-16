@@ -9,7 +9,6 @@ ip6-mcastprefix$
 localdomain$
 localhost$
 localhost.localdomain$
-www.staradvertiser.com$
 ^Site$
 ^site$
 ^Site $
@@ -39,3 +38,5 @@ www.staradvertiser.com$
 ^ff00::
 ^ff02::
 ^fe80::
+www.staradvertiser.com$
+^app.link$
