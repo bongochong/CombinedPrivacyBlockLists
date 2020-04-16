@@ -1,4 +1,4 @@
-# Fri 10 Apr 2020 05:18:54 PM MDT
+# Thu 16 Apr 2020 03:14:16 PM MDT
 # Spam404 Hosts - Generated weekly by bongochong
 0.0.0.0 0daygameparadise.com
 0.0.0.0 0hacks.com
@@ -5670,6 +5670,7 @@
 0.0.0.0 nulled.to
 0.0.0.0 numberhacker.com
 0.0.0.0 numercoins.com
+0.0.0.0 nutakuhackgold.com
 0.0.0.0 nutom.ru
 0.0.0.0 nuwob.ru
 0.0.0.0 nvfile.com

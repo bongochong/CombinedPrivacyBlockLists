@@ -1,4 +1,4 @@
-# Fri 10 Apr 2020 05:18:42 PM MDT
+# Thu 16 Apr 2020 03:14:06 PM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 0351dvd.cn
@@ -371,6 +371,7 @@
 0.0.0.0 adserver.yahoo.com
 0.0.0.0 adserwer.xwords.pl
 0.0.0.0 adsettings.com
+0.0.0.0 ads.farakav.com
 0.0.0.0 adsglow.net
 0.0.0.0 ads.heias.com
 0.0.0.0 adshell.net
@@ -606,9 +607,11 @@
 0.0.0.0 api.digitalbees.it
 0.0.0.0 api.freewebfonts.org
 0.0.0.0 api.grumft.com
+0.0.0.0 apionloadmedia.com
 0.0.0.0 api.reon.club
 0.0.0.0 api.segment.io
 0.0.0.0 apkonline.ru
+0.0.0.0 apn.c.appier.net
 0.0.0.0 apollofind.com
 0.0.0.0 apopgo.com
 0.0.0.0 appared.online
@@ -679,6 +682,7 @@
 0.0.0.0 assandart.site
 0.0.0.0 assoctrac.com
 0.0.0.0 aster18cdn.nl
+0.0.0.0 asterilivestream.com
 0.0.0.0 astg.widerplanet.com
 0.0.0.0 astoapsu.com
 0.0.0.0 asto-exo.com
@@ -1116,6 +1120,7 @@
 0.0.0.0 cashpartners.eu
 0.0.0.0 castelein.nu
 0.0.0.0 casterist.info
+0.0.0.0 catwenbat.com
 0.0.0.0 cawsodpet.club
 0.0.0.0 cb8717377086c72d.com
 0.0.0.0 c.bxjpl.cn
@@ -1506,6 +1511,7 @@
 0.0.0.0 culturedcrayon.com
 0.0.0.0 cuntador.com
 0.0.0.0 curalate.com
+0.0.0.0 curarmbin.club
 0.0.0.0 curriculture.com
 0.0.0.0 curtaincows.com
 0.0.0.0 customerconversio.com
@@ -1618,6 +1624,7 @@
 0.0.0.0 d39hdzmeufnl50.cloudfront.net
 0.0.0.0 d3ahinqqx1dy5v.cloudfront.net
 0.0.0.0 d3ax6xygyb5hn9.cloudfront.net
+0.0.0.0 d3c3uihon9kmp.cloudfront.net
 0.0.0.0 d3cesrg5igdcgt.cloudfront.net
 0.0.0.0 d3d52lhoy0sh2w.cloudfront.net
 0.0.0.0 d3elm8wezzwg42.cloudfront.net
@@ -1829,6 +1836,7 @@
 0.0.0.0 dmtracker.com
 0.0.0.0 dmtry.com
 0.0.0.0 dmtw0i4zln92b.cloudfront.net
+0.0.0.0 dmzls.safe-installation.com
 0.0.0.0 dnsdelegation.io
 0.0.0.0 do67etikr7pwz.cloudfront.net
 0.0.0.0 doaraifa.click
@@ -1848,6 +1856,7 @@
 0.0.0.0 doo6pwib3qngu.cloudfront.net
 0.0.0.0 doomna.com
 0.0.0.0 doopads.com
+0.0.0.0 doorbrazil.com
 0.0.0.0 dopor.info
 0.0.0.0 dorapodorasham.com
 0.0.0.0 dorectertnerow.info
@@ -2015,9 +2024,10 @@
 0.0.0.0 enmaer.com
 0.0.0.0 enousouz.info
 0.0.0.0 enquisite.com
-0.0.0.0 ensighten.com
+0.0.0.0 enrilov.info
 0.0.0.0 e-n-t-e-r-n-e-x.com
 0.0.0.0 enticelabs.com
+0.0.0.0 eonwayaha.com
 0.0.0.0 eoredi.com
 0.0.0.0 eo.sdahxz.xyz
 0.0.0.0 ep7kpqn8.online
@@ -2320,6 +2330,7 @@
 0.0.0.0 fruitablock.net
 0.0.0.0 fruitflan.com
 0.0.0.0 fruitice.realnetwrk.com
+0.0.0.0 fryawlauk.com
 0.0.0.0 fshet.com
 0.0.0.0 fshka.com
 0.0.0.0 fsoft4down.com
@@ -2651,6 +2662,7 @@
 0.0.0.0 hitplus.ir
 0.0.0.0 hits2u.com
 0.0.0.0 hits.e.cl
+0.0.0.0 hits-i.iubenda.com
 0.0.0.0 hits.io
 0.0.0.0 hitslink.com
 0.0.0.0 hitslog.com
@@ -2759,6 +2771,7 @@
 0.0.0.0 ihowed.info
 0.0.0.0 iivt.com
 0.0.0.0 ijncw.tv
+0.0.0.0 ikikik.xyz
 0.0.0.0 iljmp.com
 0.0.0.0 ilk10.az
 0.0.0.0 illumenix.com
@@ -3571,6 +3584,7 @@
 0.0.0.0 mybestdc.com
 0.0.0.0 mybinarysystem.com
 0.0.0.0 mybloglog.com
+0.0.0.0 mycloudbook.xyz
 0.0.0.0 mycounter.com.ua
 0.0.0.0 mycounter.ua
 0.0.0.0 myfastcounter.com
@@ -3691,6 +3705,7 @@
 0.0.0.0 newyorkwhil.com
 0.0.0.0 nexeps.com
 0.0.0.0 nextbdom.ru
+0.0.0.0 nextclickadv.com
 0.0.0.0 nextclick.pl
 0.0.0.0 nextstat.com
 0.0.0.0 nfwljgjva.com
@@ -3915,6 +3930,7 @@
 0.0.0.0 ottomdisede.club
 0.0.0.0 oukruque.com
 0.0.0.0 ouloutso.net
+0.0.0.0 oupe71eiun.com
 0.0.0.0 oupushee.com
 0.0.0.0 ournet-analytics.com
 0.0.0.0 ourstats.de
@@ -4062,6 +4078,7 @@
 0.0.0.0 piano-media.com
 0.0.0.0 pickzor.com
 0.0.0.0 pietexture.com
+0.0.0.0 pigaimhop.com
 0.0.0.0 pikzor.com
 0.0.0.0 pilottere.info
 0.0.0.0 pimmuter.com
@@ -4088,6 +4105,7 @@
 0.0.0.0 pixeleze.com
 0.0.0.0 pixelinteractivemedia.com
 0.0.0.0 pixelrevenue.com
+0.0.0.0 pixel.safe-installation.com
 0.0.0.0 pixelsnippet.com
 0.0.0.0 piximedia.com
 0.0.0.0 pjatr.com
@@ -4600,6 +4618,7 @@
 0.0.0.0 rr.pochengweiyuan.com
 0.0.0.0 rs0.co.uk
 0.0.0.0 rs6.net
+0.0.0.0 rst.pornyhd.com
 0.0.0.0 rsvpgenius.com
 0.0.0.0 rtbanalytics.com
 0.0.0.0 rtbauction.com
@@ -4762,6 +4781,7 @@
 0.0.0.0 servustats.com
 0.0.0.0 sessioncam.com
 0.0.0.0 sevootie.com
+0.0.0.0 sex1.party
 0.0.0.0 sexcounter.com
 0.0.0.0 sexpennyauctions.com
 0.0.0.0 sextadate.net
@@ -4937,6 +4957,7 @@
 0.0.0.0 speedtracker.de
 0.0.0.0 speed-trap.com
 0.0.0.0 spelar.org
+0.0.0.0 spellsalsa.com
 0.0.0.0 spider-mich.com
 0.0.0.0 spidtest.org
 0.0.0.0 splittag.com
@@ -4951,6 +4972,7 @@
 0.0.0.0 sponsored.com
 0.0.0.0 spotmx.com
 0.0.0.0 spottednoise.com
+0.0.0.0 spreadcreative.club
 0.0.0.0 spring.de
 0.0.0.0 springmetrics.com
 0.0.0.0 springserve.com
@@ -5403,6 +5425,7 @@
 0.0.0.0 tracking.cirrusinsight.com
 0.0.0.0 trackinglabs.com
 0.0.0.0 tracking.lqm.io
+0.0.0.0 tracking.scenepass.com
 0.0.0.0 trackjs.com
 0.0.0.0 trackkas.com
 0.0.0.0 tracklab.club
@@ -5486,6 +5509,7 @@
 0.0.0.0 trl.upperbooking.com
 0.0.0.0 trothko.com
 0.0.0.0 trotux.com
+0.0.0.0 troubledtail.com
 0.0.0.0 trovus.co.uk
 0.0.0.0 tru.am
 0.0.0.0 truckstomatoes.com
@@ -5636,6 +5660,7 @@
 0.0.0.0 uymkdz9s.com
 0.0.0.0 uytestion.info
 0.0.0.0 uzekrs.com
+0.0.0.0 uzk4umokyri3.com
 0.0.0.0 uzotarak.com
 0.0.0.0 uzrating.com
 0.0.0.0 v3cdn.net
@@ -5652,7 +5677,6 @@
 0.0.0.0 vantage-media.net
 0.0.0.0 varielcontentdelivery.info
 0.0.0.0 vartoken.com
-0.0.0.0 vast.videocdn.tv
 0.0.0.0 vbanalytics.com
 0.0.0.0 vboro.de
 0.0.0.0 vcfs6ip5h6.bid
@@ -5931,6 +5955,7 @@
 0.0.0.0 wie9eig.top
 0.0.0.0 wikia-beacon.com
 0.0.0.0 wikiodeliv.com
+0.0.0.0 wilburshort.pro
 0.0.0.0 wildxtraffic.com
 0.0.0.0 wilwasharrabred.pro
 0.0.0.0 windowmentaria.com
@@ -6050,6 +6075,7 @@
 0.0.0.0 x-traceur.com
 0.0.0.0 xtractor.no
 0.0.0.0 xtremline.com
+0.0.0.0 xunkhuczqnuf.com
 0.0.0.0 xunlaile.com
 0.0.0.0 xvwebllndr.com
 0.0.0.0 xxlargepop.com
@@ -6134,6 +6160,7 @@
 0.0.0.0 yr9n47004g.com
 0.0.0.0 yrdrtzmsmt.com
 0.0.0.0 ysnj74ed.com
+0.0.0.0 ytimm.com
 0.0.0.0 y-track.com
 0.0.0.0 yuiop.trade
 0.0.0.0 yuituityula.com
