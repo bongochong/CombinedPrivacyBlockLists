@@ -39,4 +39,5 @@ localhost.localdomain$
 ^ff02::
 ^fe80::
 www.staradvertiser.com$
-^app.link$
+^0.0.0.0 app.link$
+^:: app.link$
