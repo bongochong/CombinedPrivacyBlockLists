@@ -1,4 +1,4 @@
-// **** Thu 16 Apr 2020 03:16:23 PM MDT
+// **** Sun 19 Apr 2020 02:07:46 PM MDT
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.039b1ee.netsolhost.com') ||
@@ -1274,6 +1274,7 @@ shExpMatch(host, '*.ads.gaming-universe.de') ||
 shExpMatch(host, '*.ads.gawker.com') ||
 shExpMatch(host, '*.ads.geekswithblogs.net') ||
 shExpMatch(host, '*.ads.getlucky.com') ||
+shExpMatch(host, '*.ads-giris.com') ||
 shExpMatch(host, '*.ads.glispa.com') ||
 shExpMatch(host, '*.ads.globeandmail.com') ||
 shExpMatch(host, '*.ads.gmodules.com') ||
@@ -6517,7 +6518,6 @@ shExpMatch(host, '*.whisperingbadge.com') ||
 shExpMatch(host, '*.whisperingcrib.com') ||
 shExpMatch(host, '*.whoisonline.net') ||
 shExpMatch(host, '*.wholesaletraffic.info') ||
-shExpMatch(host, '*.widdit.com') ||
 shExpMatch(host, '*.widespace.com') ||
 shExpMatch(host, '*.widgetbucks.com') ||
 shExpMatch(host, '*.widget.privy.com') ||
@@ -8144,6 +8144,7 @@ shExpMatch(host, 'ads.gaming-universe.de') ||
 shExpMatch(host, 'ads.gawker.com') ||
 shExpMatch(host, 'ads.geekswithblogs.net') ||
 shExpMatch(host, 'ads.getlucky.com') ||
+shExpMatch(host, 'ads-giris.com') ||
 shExpMatch(host, 'ads.glispa.com') ||
 shExpMatch(host, 'ads.globeandmail.com') ||
 shExpMatch(host, 'ads.gmodules.com') ||
@@ -13387,7 +13388,6 @@ shExpMatch(host, 'whisperingbadge.com') ||
 shExpMatch(host, 'whisperingcrib.com') ||
 shExpMatch(host, 'whoisonline.net') ||
 shExpMatch(host, 'wholesaletraffic.info') ||
-shExpMatch(host, 'widdit.com') ||
 shExpMatch(host, 'widespace.com') ||
 shExpMatch(host, 'widgetbucks.com') ||
 shExpMatch(host, 'widget.privy.com') ||
