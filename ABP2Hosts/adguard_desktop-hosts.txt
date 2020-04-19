@@ -1,4 +1,4 @@
-# Thu 16 Apr 2020 03:47:46 PM MDT
+# Sun 19 Apr 2020 01:50:27 PM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 0351dvd.cn
@@ -3882,6 +3882,7 @@
 0.0.0.0 oorseest.net
 0.0.0.0 ooxxsearch.com
 0.0.0.0 opbandit.com
+0.0.0.0 opencaded.online
 0.0.0.0 opencdb84507.com
 0.0.0.0 openclick.com
 0.0.0.0 openhit.com
