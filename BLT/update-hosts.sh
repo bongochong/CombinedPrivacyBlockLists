@@ -43,6 +43,7 @@ sed -i -e "s/[[:blank:]]*$//" uniq-hosts.final
 sed -i -e "s/[[:space:]]\+/ /g" uniq-hosts.final
 sed -i -e "/^0.0.0.0 /! s/^/0.0.0.0 /" uniq-hosts.final
 sed -i '/0.0.0.0 device9.com/d' uniq-hosts.final
+sed -i '/\^\document/d' uniq-hosts.final
 sort uniq-hosts.final | uniq -i > final-uniq.hosts
 pcregrep -v -f ~/BLT/parsing/hostpatterns.dat final-uniq.hosts > hosts.final
 perl -i -pe 'chomp if eof' hosts.final
