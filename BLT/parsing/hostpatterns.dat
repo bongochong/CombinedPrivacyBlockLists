@@ -45,7 +45,6 @@ www.staradvertiser.com$
 ^0.0.0.0 apple.com$
 ^0.0.0.0 bit.ly$
 ^0.0.0.0 bitbucket.org$
-^0.0.0.0 directvnow.com$
 ^0.0.0.0 dropbox.com$
 ^0.0.0.0 ea.com$
 ^0.0.0.0 easylist.to$
@@ -65,9 +64,7 @@ www.staradvertiser.com$
 ^0.0.0.0 shorl.com$
 ^0.0.0.0 someonewhocares.org$
 ^0.0.0.0 sysctl.org$
-^0.0.0.0 themoviedb.com$
 ^0.0.0.0 thepiratebay.org$
-^0.0.0.0 thetvdb.com$
 ^0.0.0.0 tinyurl.com$
 ^0.0.0.0 tomshardware.com$
 ^0.0.0.0 udemy.com$
