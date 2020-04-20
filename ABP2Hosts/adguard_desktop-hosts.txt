@@ -1,4 +1,4 @@
-# Sun 19 Apr 2020 02:29:41 PM MDT
+# Mon 20 Apr 2020 02:13:06 PM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 0351dvd.cn
@@ -2128,6 +2128,7 @@
 0.0.0.0 exogripper.com
 0.0.0.0 exomonyf.com
 0.0.0.0 exoner.com
+0.0.0.0 exoprsdds.com
 0.0.0.0 exoticads.com
 0.0.0.0 exovueplatform.com
 0.0.0.0 expectorslapsino.info
