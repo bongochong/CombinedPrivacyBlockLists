@@ -39,4 +39,36 @@ localhost.localdomain$
 ^ff02::
 ^fe80::
 www.staradvertiser.com$
+^0.0.0.0 adaway.org$
+^0.0.0.0 amazon.com$
 ^0.0.0.0 app.link$
+^0.0.0.0 apple.com$
+^0.0.0.0 bit.ly$
+^0.0.0.0 bitbucket.org$
+^0.0.0.0 directvnow.com$
+^0.0.0.0 dropbox.com$
+^0.0.0.0 ea.com$
+^0.0.0.0 easylist.to$
+^0.0.0.0 github.com$
+^0.0.0.0 goo.gl$
+^0.0.0.0 hostsfile.org$
+^0.0.0.0 icloud.com$
+^0.0.0.0 itunes.com$
+^0.0.0.0 malwaredomains.com$
+^0.0.0.0 medium.com$
+^0.0.0.0 neocities.org$
+^0.0.0.0 netflix.com$
+^0.0.0.0 office.com$
+^0.0.0.0 onedrive.com$
+^0.0.0.0 openphish.com$
+^0.0.0.0 plex.tv$
+^0.0.0.0 shorl.com$
+^0.0.0.0 someonewhocares.org$
+^0.0.0.0 sysctl.org$
+^0.0.0.0 themoviedb.com$
+^0.0.0.0 thepiratebay.org$
+^0.0.0.0 thetvdb.com$
+^0.0.0.0 tinyurl.com$
+^0.0.0.0 tomshardware.com$
+^0.0.0.0 udemy.com$
+^0.0.0.0 wix.com$
