@@ -2,6 +2,6 @@ The [update-pac.sh file](https://github.com/bongochong/CombinedPrivacyBlockLists
 
 **Notes**: You must have [Perl](https://www.perl.com/about/), [Wget](https://www.gnu.org/software/wget/), [Curl](https://curl.haxx.se/), and [Sed](https://www.gnu.org/software/sed/manual/sed.html) installed on your system to utilize this script. Instructions from here apply as well: https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/BLT  
 
-This script only processes **plain bad domain lists** like the default ones included.  
+This script only processes **plain domain lists** like the default ones included.  
 
 The Windows version of this can be found here: https://github.com/bongochong/CWP-Utilities
