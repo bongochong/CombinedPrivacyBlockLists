@@ -40,4 +40,3 @@ localhost.localdomain$
 ^fe80::
 www.staradvertiser.com$
 ^0.0.0.0 app.link$
-^:: app.link$
