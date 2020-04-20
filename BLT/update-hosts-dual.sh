@@ -31,17 +31,17 @@ echo "Downloaded hosts list 8"
 cat hosts.* > hosts-cat.final
 pcregrep -v -f ~/BLT/parsing/hostpatterns.dat hosts-cat.final > hosts-pre.final
 sort hosts-pre.final | uniq > uniq-hosts.final
-sed -i -e "s/#.*$//" uniq-hosts.final
-sed -i -e "/[[:space:]]*#/d" uniq-hosts.final
-sed -i -e "/[[:blank:]]*#/d" uniq-hosts.final
+sed -i "s/#.*$//" uniq-hosts.final
+sed -i "/[[:space:]]*#/d" uniq-hosts.final
+sed -i "/[[:blank:]]*#/d" uniq-hosts.final
 sed -i "s/\t/ /g" uniq-hosts.final
 sed -i "s/^127.0.0.1/0.0.0.0/g" uniq-hosts.final
 sed -i "s/^::1/0.0.0.0/g" uniq-hosts.final
 sed -i "s/^::/0.0.0.0/g" uniq-hosts.final
-sed -i -e "s/[[:space:]]*$//" uniq-hosts.final
-sed -i -e "s/[[:blank:]]*$//" uniq-hosts.final
-sed -i -e "s/[[:space:]]\+/ /g" uniq-hosts.final
-sed -i -e "/^0.0.0.0 /! s/^/0.0.0.0 /" uniq-hosts.final
+sed -i "s/[[:space:]]*$//" uniq-hosts.final
+sed -i "s/[[:blank:]]*$//" uniq-hosts.final
+sed -i "s/[[:space:]]\+/ /g" uniq-hosts.final
+sed -i "/^0.0.0.0 /! s/^/0.0.0.0 /" uniq-hosts.final
 sed -i '/0.0.0.0 device9.com/d' uniq-hosts.final
 sed -i '/\^\document/d' uniq-hosts.final
 sed -i '/\^/d' uniq-hosts.final

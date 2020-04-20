@@ -21,7 +21,7 @@ echo "Extracted blocklists from archives."
 find . -name 'ydxerpxkpcfqjaybcssw.txt' -exec mv {} bt_level1.dat \;
 find . -name 'gyisgnzbhppbvsphucsw.txt' -exec mv {} bt_level2.dat \;
 cat *.dat > combined-win.txt
-sed -i -e "s/amp;//g" combined-win.txt
+sed -i "s/amp;//g" combined-win.txt
 sleep 3
 sort combined-win.txt | uniq -i > combined-final-win.dat
 sleep 3
