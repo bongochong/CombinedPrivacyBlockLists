@@ -1,4 +1,4 @@
-// **** Sun 19 Apr 2020 03:03:28 PM MDT
+// **** Sat 25 Apr 2020 12:58:10 PM MDT
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.039b1ee.netsolhost.com') ||
@@ -1128,6 +1128,7 @@ shExpMatch(host, '*.ads.dennisnet.co.uk') ||
 shExpMatch(host, '*.ads.desmoinesregister.com') ||
 shExpMatch(host, '*.ads.detelefoongids.nl') ||
 shExpMatch(host, '*.ads.deviantart.com') ||
+shExpMatch(host, '*.ads-dev.pinterest.com') ||
 shExpMatch(host, '*.ads.digital-digest.com') ||
 shExpMatch(host, '*.ads.digitalmedianet.com') ||
 shExpMatch(host, '*.ads.digitalpoint.com') ||
@@ -1274,7 +1275,6 @@ shExpMatch(host, '*.ads.gaming-universe.de') ||
 shExpMatch(host, '*.ads.gawker.com') ||
 shExpMatch(host, '*.ads.geekswithblogs.net') ||
 shExpMatch(host, '*.ads.getlucky.com') ||
-shExpMatch(host, '*.ads-giris.com') ||
 shExpMatch(host, '*.ads.glispa.com') ||
 shExpMatch(host, '*.ads.globeandmail.com') ||
 shExpMatch(host, '*.ads.gmodules.com') ||
@@ -1426,6 +1426,7 @@ shExpMatch(host, '*.ads.penny-arcade.com') ||
 shExpMatch(host, '*.ads.pheedo.com') ||
 shExpMatch(host, '*.ads.phpclasses.org') ||
 shExpMatch(host, '*.ads.pickmeup-ltd.com') ||
+shExpMatch(host, '*.ads.pinterest.com') ||
 shExpMatch(host, '*.adspirit.de') ||
 shExpMatch(host, '*.ads.pkr.com') ||
 shExpMatch(host, '*.ads.planet.nl') ||
@@ -1502,6 +1503,7 @@ shExpMatch(host, '*.ads.themovienation.com') ||
 shExpMatch(host, '*.ads.thestar.com') ||
 shExpMatch(host, '*.ads.thewebfreaks.com') ||
 shExpMatch(host, '*.ads.thrillsaffiliates.com') ||
+shExpMatch(host, '*.ads.tiktok.com') ||
 shExpMatch(host, '*.ads.timeout.com') ||
 shExpMatch(host, '*.ads.tjwi.info') ||
 shExpMatch(host, '*.ads.tmcs.net') ||
@@ -2927,6 +2929,7 @@ shExpMatch(host, '*.en25.com') ||
 shExpMatch(host, '*.encouragingwilderness.com') ||
 shExpMatch(host, '*.endurableshop.com') ||
 shExpMatch(host, '*.energeticexample.com') ||
+shExpMatch(host, '*.energeticladybug.com') ||
 shExpMatch(host, '*.engagebdr.com') ||
 shExpMatch(host, '*.engine.awaps.net') ||
 shExpMatch(host, '*.engine.espace.netavenir.com') ||
@@ -3809,7 +3812,6 @@ shExpMatch(host, '*.jokedollars.com') ||
 shExpMatch(host, '*.jomo.in.ua') ||
 shExpMatch(host, '*.joyclasses.eu') ||
 shExpMatch(host, '*.jphqfh.com') ||
-shExpMatch(host, '*.jquery-bin.com') ||
 shExpMatch(host, '*.js-agent.newrelic.com') ||
 shExpMatch(host, '*.jsecoin.com') ||
 shExpMatch(host, '*.jsrdn.com') ||
@@ -4268,6 +4270,7 @@ shExpMatch(host, '*.mojiva.com') ||
 shExpMatch(host, '*.moldyicicle.com') ||
 shExpMatch(host, '*.molowo.in.ua') ||
 shExpMatch(host, '*.monarchads.com') ||
+shExpMatch(host, '*.mon.byteoversea.com') ||
 shExpMatch(host, '*.monetate.net') ||
 shExpMatch(host, '*.monetizemore.com') ||
 shExpMatch(host, '*.monetizer101.com') ||
@@ -7998,6 +8001,7 @@ shExpMatch(host, 'ads.dennisnet.co.uk') ||
 shExpMatch(host, 'ads.desmoinesregister.com') ||
 shExpMatch(host, 'ads.detelefoongids.nl') ||
 shExpMatch(host, 'ads.deviantart.com') ||
+shExpMatch(host, 'ads-dev.pinterest.com') ||
 shExpMatch(host, 'ads.digital-digest.com') ||
 shExpMatch(host, 'ads.digitalmedianet.com') ||
 shExpMatch(host, 'ads.digitalpoint.com') ||
@@ -8144,7 +8148,6 @@ shExpMatch(host, 'ads.gaming-universe.de') ||
 shExpMatch(host, 'ads.gawker.com') ||
 shExpMatch(host, 'ads.geekswithblogs.net') ||
 shExpMatch(host, 'ads.getlucky.com') ||
-shExpMatch(host, 'ads-giris.com') ||
 shExpMatch(host, 'ads.glispa.com') ||
 shExpMatch(host, 'ads.globeandmail.com') ||
 shExpMatch(host, 'ads.gmodules.com') ||
@@ -8296,6 +8299,7 @@ shExpMatch(host, 'ads.penny-arcade.com') ||
 shExpMatch(host, 'ads.pheedo.com') ||
 shExpMatch(host, 'ads.phpclasses.org') ||
 shExpMatch(host, 'ads.pickmeup-ltd.com') ||
+shExpMatch(host, 'ads.pinterest.com') ||
 shExpMatch(host, 'adspirit.de') ||
 shExpMatch(host, 'ads.pkr.com') ||
 shExpMatch(host, 'ads.planet.nl') ||
@@ -8372,6 +8376,7 @@ shExpMatch(host, 'ads.themovienation.com') ||
 shExpMatch(host, 'ads.thestar.com') ||
 shExpMatch(host, 'ads.thewebfreaks.com') ||
 shExpMatch(host, 'ads.thrillsaffiliates.com') ||
+shExpMatch(host, 'ads.tiktok.com') ||
 shExpMatch(host, 'ads.timeout.com') ||
 shExpMatch(host, 'ads.tjwi.info') ||
 shExpMatch(host, 'ads.tmcs.net') ||
@@ -9797,6 +9802,7 @@ shExpMatch(host, 'en25.com') ||
 shExpMatch(host, 'encouragingwilderness.com') ||
 shExpMatch(host, 'endurableshop.com') ||
 shExpMatch(host, 'energeticexample.com') ||
+shExpMatch(host, 'energeticladybug.com') ||
 shExpMatch(host, 'engagebdr.com') ||
 shExpMatch(host, 'engine.awaps.net') ||
 shExpMatch(host, 'engine.espace.netavenir.com') ||
@@ -10679,7 +10685,6 @@ shExpMatch(host, 'jokedollars.com') ||
 shExpMatch(host, 'jomo.in.ua') ||
 shExpMatch(host, 'joyclasses.eu') ||
 shExpMatch(host, 'jphqfh.com') ||
-shExpMatch(host, 'jquery-bin.com') ||
 shExpMatch(host, 'js-agent.newrelic.com') ||
 shExpMatch(host, 'jsecoin.com') ||
 shExpMatch(host, 'jsrdn.com') ||
@@ -11138,6 +11143,7 @@ shExpMatch(host, 'mojiva.com') ||
 shExpMatch(host, 'moldyicicle.com') ||
 shExpMatch(host, 'molowo.in.ua') ||
 shExpMatch(host, 'monarchads.com') ||
+shExpMatch(host, 'mon.byteoversea.com') ||
 shExpMatch(host, 'monetate.net') ||
 shExpMatch(host, 'monetizemore.com') ||
 shExpMatch(host, 'monetizer101.com') ||
