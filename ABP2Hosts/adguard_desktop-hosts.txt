@@ -1,4 +1,4 @@
-# Mon 20 Apr 2020 02:13:06 PM MDT
+# Sat 25 Apr 2020 12:54:34 PM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 0351dvd.cn
@@ -69,6 +69,7 @@
 0.0.0.0 27823.club
 0.0.0.0 29d65cebb82ef9f.com
 0.0.0.0 2a12be6140880286.com
+0.0.0.0 2cnjuh34jbhub.com
 0.0.0.0 2cnt.net
 0.0.0.0 2d7bd9e6eb370143.com
 0.0.0.0 2e27bf1f09307aeb.com
@@ -339,10 +340,12 @@
 0.0.0.0 adosia.com
 0.0.0.0 adpeepshosted.com
 0.0.0.0 ad.pentabox.net
+0.0.0.0 adpia.vn
 0.0.0.0 adpies.com
 0.0.0.0 adpixo.com
 0.0.0.0 adplus.co.id
 0.0.0.0 adplus.io
+0.0.0.0 ad.pornimg.xyz
 0.0.0.0 adpressi.com
 0.0.0.0 adprofits.ru
 0.0.0.0 adprotraffic.com
@@ -901,7 +904,6 @@
 0.0.0.0 bitmedia.io
 0.0.0.0 bitmedianetwork.com
 0.0.0.0 bitonclick.com
-0.0.0.0 bitrix.info
 0.0.0.0 bitsads.xyz
 0.0.0.0 bittraffic.io
 0.0.0.0 bitvertise.io
@@ -1159,6 +1161,7 @@
 0.0.0.0 celebros-analytics.com
 0.0.0.0 celeritascdn.com
 0.0.0.0 cellorun.info
+0.0.0.0 center.io
 0.0.0.0 centraltag.com
 0.0.0.0 cepailru.com
 0.0.0.0 ceptavou.net
@@ -1371,6 +1374,7 @@
 0.0.0.0 contentexchange.me
 0.0.0.0 contentinsights.com
 0.0.0.0 contentspread.net
+0.0.0.0 contentsquare.net
 0.0.0.0 contextly.com
 0.0.0.0 contextual.media.net
 0.0.0.0 continue.com
@@ -1786,7 +1790,6 @@
 0.0.0.0 digitaloptout.com
 0.0.0.0 digitaltarget.ru
 0.0.0.0 digitru.st
-0.0.0.0 digits.com
 0.0.0.0 dignow.org
 0.0.0.0 dimestore.com
 0.0.0.0 dimml.io
@@ -2426,6 +2429,7 @@
 0.0.0.0 gft2.de
 0.0.0.0 gggo.xmbhj.com
 0.0.0.0 ghosthis.review
+0.0.0.0 ghvmjvkpapct.com
 0.0.0.0 g.hw6.com
 0.0.0.0 gialnk.com
 0.0.0.0 giddycoat.com
@@ -2633,6 +2637,7 @@
 0.0.0.0 hiperstat.com
 0.0.0.0 hirmatrix.hu
 0.0.0.0 hirovivi.com
+0.0.0.0 hisfryyes.com
 0.0.0.0 hisnote.cc
 0.0.0.0 histats.com
 0.0.0.0 histock.info
@@ -3520,6 +3525,7 @@
 0.0.0.0 monu.delivery
 0.0.0.0 moonads.net
 0.0.0.0 moowouzy.net
+0.0.0.0 mopnixhem.com
 0.0.0.0 mordi.fun
 0.0.0.0 mordi.xyz
 0.0.0.0 moreusers.info
@@ -5194,6 +5200,7 @@
 0.0.0.0 synhandler.net
 0.0.0.0 synthasite.net
 0.0.0.0 sysomos.com
+0.0.0.0 sys.refocus.ru
 0.0.0.0 systerwithing.info
 0.0.0.0 syyycc.com
 0.0.0.0 szjyfund.com
@@ -5616,6 +5623,7 @@
 0.0.0.0 uod2quk646.com
 0.0.0.0 uohz.cn
 0.0.0.0 u-on.eu
+0.0.0.0 uopvdbudoe.com
 0.0.0.0 upalytics.com
 0.0.0.0 upasiansex.com
 0.0.0.0 up-rank.com
@@ -5818,6 +5826,7 @@
 0.0.0.0 waframedia16.com
 0.0.0.0 wakapita.com
 0.0.0.0 walasearch.com
+0.0.0.0 wandara113.xyz
 0.0.0.0 wapempire.com
 0.0.0.0 waplog.mobi
 0.0.0.0 waplog.net
@@ -5973,6 +5982,7 @@
 0.0.0.0 wizliebeg.com
 0.0.0.0 wmwloejxww.com
 0.0.0.0 wodizapt.com
+0.0.0.0 wokfirsax.com
 0.0.0.0 woopra.com
 0.0.0.0 woopra-ns.com
 0.0.0.0 wordc.ga

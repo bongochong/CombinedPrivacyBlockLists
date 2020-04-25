@@ -1,4 +1,4 @@
-# Mon 20 Apr 2020 02:13:01 PM MDT
+# Sat 25 Apr 2020 12:54:30 PM MDT
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -1757,9 +1757,6 @@
 0.0.0.0 aio.lp.mydas.mobi
 0.0.0.0 ai-personalization-prod-static.demandbase.com
 0.0.0.0 aiqua-sdk.c.appier.net
-0.0.0.0 airbrake-github.airbrake.io
-0.0.0.0 airbrake-gitlab.airbrake.io
-0.0.0.0 airbrake.io
 0.0.0.0 airpush.com
 0.0.0.0 ais-api.applicaster.com
 0.0.0.0 ais.applicaster.com
@@ -2211,7 +2208,6 @@
 0.0.0.0 api.ad.xiaomi.com
 0.0.0.0 api.adzmedia.com
 0.0.0.0 api.agoda.com.edgekey.net
-0.0.0.0 api.airbrake.io
 0.0.0.0 api.airpush.com
 0.0.0.0 api.alphonso.tv
 0.0.0.0 api.altamob.com
@@ -5958,7 +5954,6 @@
 0.0.0.0 g.koowo.com
 0.0.0.0 g.kuwo.cn
 0.0.0.0 glance.inmobi.com
-0.0.0.0 glassbox.aircanada.ca
 0.0.0.0 glassboxdigital.com
 0.0.0.0 glb-ads.atwola.adtechus.com
 0.0.0.0 glb-ads.legacy.adtechus.com
@@ -10557,7 +10552,6 @@
 0.0.0.0 ssl-i.cdn.openx.com
 0.0.0.0 ss.linksynergy.com
 0.0.0.0 ssl-i.xx.openx.com
-0.0.0.0 ssljscdn.airbrake.io
 0.0.0.0 ssl.kaptcha.com
 0.0.0.0 ssl.ligatus.com
 0.0.0.0 ssl.linksynergy.com
