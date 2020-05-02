@@ -1,4 +1,4 @@
-# Sat 25 Apr 2020 12:54:34 PM MDT
+# Fri 01 May 2020 06:33:14 PM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 0351dvd.cn
@@ -646,6 +646,7 @@
 0.0.0.0 areapebeg.club
 0.0.0.0 arearmark.club
 0.0.0.0 arecio.work
+0.0.0.0 arejoysew.com
 0.0.0.0 arena-quantum.co.uk
 0.0.0.0 argyresthia.com
 0.0.0.0 ariseboundary.com
@@ -682,6 +683,7 @@
 0.0.0.0 aspanyarc.club
 0.0.0.0 aspaskaim.club
 0.0.0.0 aspgfx.org
+0.0.0.0 asqgcaeeprydk.com
 0.0.0.0 assandart.site
 0.0.0.0 assoctrac.com
 0.0.0.0 aster18cdn.nl
@@ -742,6 +744,7 @@
 0.0.0.0 a.wlgnd.com
 0.0.0.0 awmcounter.de
 0.0.0.0 awsatstb.com
+0.0.0.0 awseukpi.whisbi.com
 0.0.0.0 awzbijw.com
 0.0.0.0 axecash.com
 0.0.0.0 axf8.net
@@ -872,6 +875,7 @@
 0.0.0.0 betarget.net
 0.0.0.0 bethoy.es
 0.0.0.0 betohomeall.com
+0.0.0.0 betteradsystem.com
 0.0.0.0 bezoya.work
 0.0.0.0 bfe4e6d364be199.com
 0.0.0.0 bfoleyinteractive.com
@@ -944,6 +948,7 @@
 0.0.0.0 blogtw.net
 0.0.0.0 blogverzeichnis.eu
 0.0.0.0 blog-webkatalog.de
+0.0.0.0 blok.link
 0.0.0.0 bludoistores.info
 0.0.0.0 bluecava.com
 0.0.0.0 blueconic.net
@@ -1213,6 +1218,7 @@
 0.0.0.0 chukalorqa.com
 0.0.0.0 chushoushijian.cn
 0.0.0.0 ci3ixee8.com
+0.0.0.0 cicero-mit.com
 0.0.0.0 cimoghuk.net
 0.0.0.0 cinarra.com
 0.0.0.0 c.index.ru
@@ -1588,6 +1594,7 @@
 0.0.0.0 d22sfab2t5o9bq.cloudfront.net
 0.0.0.0 d240937yockcdo.cloudfront.net
 0.0.0.0 d258hxk86e2ixw.cloudfront.net
+0.0.0.0 d261u4g5nqprix.cloudfront.net
 0.0.0.0 d269y12mnftu9c.cloudfront.net
 0.0.0.0 d26r15y2ken1t9.cloudfront.net
 0.0.0.0 d27x580xb9ao1l.cloudfront.net
@@ -2013,6 +2020,7 @@
 0.0.0.0 emjcd.com
 0.0.0.0 emltrk.com
 0.0.0.0 emsecure.net
+0.0.0.0 emuboosag.com
 0.0.0.0 enclosely.info
 0.0.0.0 endloseporno.com
 0.0.0.0 enectoanalytics.com
@@ -2377,6 +2385,7 @@
 0.0.0.0 gadsabs.com
 0.0.0.0 gadslimz.com
 0.0.0.0 gagnibcan.com
+0.0.0.0 gagpetwet.com
 0.0.0.0 gaitheed.com
 0.0.0.0 gallupnet.fi
 0.0.0.0 gameads.net
@@ -2625,6 +2634,7 @@
 0.0.0.0 hexagon-analytics.com
 0.0.0.0 heystaks.com
 0.0.0.0 hfc195b.com
+0.0.0.0 hfsn.info
 0.0.0.0 hgads.com
 0.0.0.0 hgub2polye.com
 0.0.0.0 hhb123.tk
@@ -2732,6 +2742,7 @@
 0.0.0.0 hyperactivate.com
 0.0.0.0 hypestat.com
 0.0.0.0 hyphenatedion.com
+0.0.0.0 hypnoticwound.com
 0.0.0.0 hypoot.com
 0.0.0.0 hystq.com
 0.0.0.0 i22lo.com
@@ -3075,6 +3086,7 @@
 0.0.0.0 klert.com
 0.0.0.0 klickthru.com
 0.0.0.0 klldabck.com
+0.0.0.0 kmhodhhdvulnn.com
 0.0.0.0 kmindex.ru
 0.0.0.0 kmylvwo5.com
 0.0.0.0 knowledgevine.net
@@ -3163,6 +3175,7 @@
 0.0.0.0 less-css.site
 0.0.0.0 lessonis.com
 0.0.0.0 letaikay.net
+0.0.0.0 letheyemo.site
 0.0.0.0 letterboxtrail.com
 0.0.0.0 lettucelimit.com
 0.0.0.0 levexis.com
@@ -3357,6 +3370,7 @@
 0.0.0.0 matheranalytics.com
 0.0.0.0 mathtag.com
 0.0.0.0 mavq.net
+0.0.0.0 max-adserv.com
 0.0.0.0 maxonclick.com
 0.0.0.0 maxtracker.net
 0.0.0.0 maxymiser.com
@@ -3417,6 +3431,7 @@
 0.0.0.0 megastat.net
 0.0.0.0 mega-stats.com
 0.0.0.0 megatopsites.com
+0.0.0.0 mehebborc.com
 0.0.0.0 mehherrig.com
 0.0.0.0 melatstat.com
 0.0.0.0 mellowtin.com
@@ -3553,6 +3568,7 @@
 0.0.0.0 m.qhxcdmfj.cn
 0.0.0.0 mqs.ioam.de
 0.0.0.0 mrb.upapi.net
+0.0.0.0 mrjb7hvcks.com
 0.0.0.0 mrperfect.in
 0.0.0.0 mr-rank.de
 0.0.0.0 ms.awqsaged.cn
@@ -3811,6 +3827,7 @@
 0.0.0.0 offerpoint.net
 0.0.0.0 offerreality.com
 0.0.0.0 offerstrategy.com
+0.0.0.0 offgashah.club
 0.0.0.0 offpageads.com
 0.0.0.0 ofgogoatan.com
 0.0.0.0 ofphanpytor.com
@@ -4172,7 +4189,6 @@
 0.0.0.0 populr.me
 0.0.0.0 popunderjs.club
 0.0.0.0 popunders.bid
-0.0.0.0 popupmaker.com
 0.0.0.0 popupme.net
 0.0.0.0 popupplus.ir
 0.0.0.0 popup-traffic.com
@@ -4340,6 +4356,7 @@
 0.0.0.0 pussl50.com
 0.0.0.0 pussl9.com
 0.0.0.0 putags.com
+0.0.0.0 putfeepea.site
 0.0.0.0 pvclouds.com
 0.0.0.0 pv.dakawm.cc
 0.0.0.0 pv.ldlwdsx.com
@@ -4755,6 +4772,7 @@
 0.0.0.0 semanticverses.com
 0.0.0.0 semasio.net
 0.0.0.0 sematext.com
+0.0.0.0 semireproji.pro
 0.0.0.0 semtracker.de
 0.0.0.0 sendmepush.com
 0.0.0.0 sendtraffic.com
@@ -5116,6 +5134,7 @@
 0.0.0.0 stiffstem.com
 0.0.0.0 stimergeners.pro
 0.0.0.0 stippleit.com
+0.0.0.0 st-n.pc3ads.com
 0.0.0.0 stompebi.link
 0.0.0.0 stonecalcom.com
 0.0.0.0 stoomeddert.info
@@ -5134,7 +5153,6 @@
 0.0.0.0 straightnest.com
 0.0.0.0 straightschool.com
 0.0.0.0 strands.com
-0.0.0.0 stream1688.com
 0.0.0.0 stremanp.com
 0.0.0.0 stringroadway.com
 0.0.0.0 stripe.rs-1028-a.com
@@ -5249,6 +5267,7 @@
 0.0.0.0 target.ukr.net
 0.0.0.0 taskapi.net
 0.0.0.0 tauptaup.com
+0.0.0.0 taxel.jp
 0.0.0.0 t.booksuper.info
 0.0.0.0 tcactivity.net
 0.0.0.0 tcimg.com
@@ -5741,11 +5760,13 @@
 0.0.0.0 vipcpms.com
 0.0.0.0 vip.ludu319.com
 0.0.0.0 vip.min1319.com
+0.0.0.0 viralltopics.com
 0.0.0.0 viralninjas.com
 0.0.0.0 virool.com
 0.0.0.0 virsalor.xyz
 0.0.0.0 virtualnet.co.uk
 0.0.0.0 visadd.com
+0.0.0.0 visariomedia.com
 0.0.0.0 vi-serve.com
 0.0.0.0 visibility-stats.com
 0.0.0.0 visibli.com
@@ -5833,6 +5854,7 @@
 0.0.0.0 warlog.ru
 0.0.0.0 warumbistdusoarm.space
 0.0.0.0 wasshimundme.ru
+0.0.0.0 wastesshimssat.world
 0.0.0.0 wateranik.com
 0.0.0.0 wateryvan.com
 0.0.0.0 watrz.com
@@ -5948,7 +5970,6 @@
 0.0.0.0 whegrads.com
 0.0.0.0 whehilru.com
 0.0.0.0 wheredoyoucomefrom.ovh
-0.0.0.0 whisbi.com
 0.0.0.0 whitepixel.com
 0.0.0.0 whitwise.com
 0.0.0.0 whoaremyfriends.com

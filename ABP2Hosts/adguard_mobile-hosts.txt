@@ -1,4 +1,4 @@
-# Sat 25 Apr 2020 12:54:30 PM MDT
+# Fri 01 May 2020 06:33:10 PM MDT
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -854,6 +854,7 @@
 0.0.0.0 addkt-match.dotomi.com
 0.0.0.0 addon.clixsense.com
 0.0.0.0 ad.doubleclick.net
+0.0.0.0 ad.doublemax.net
 0.0.0.0 addthis.mathtag.com
 0.0.0.0 ad.duapps.com
 0.0.0.0 ad-e1.media6degrees.com
@@ -1701,9 +1702,11 @@
 0.0.0.0 adztec.com
 0.0.0.0 adzworld.in
 0.0.0.0 ae.ads.justpremium.com
+0.0.0.0 a.eed1729eebe45b8cd49e10f2dd80e297.com
 0.0.0.0 aeg-d.openx.net
 0.0.0.0 aes.kargo.com
 0.0.0.0 aexception.bugly.qq.com
+0.0.0.0 a.f590906c3e6c07bb5f80801f2dfc4295.com
 0.0.0.0 afd.baidu.com
 0.0.0.0 aff-a.advertica-cdn.com
 0.0.0.0 affiliate.fb88.com
@@ -4175,7 +4178,6 @@
 0.0.0.0 code.hot-mob.com
 0.0.0.0 code.metalocator.com
 0.0.0.0 code.revcontent.com
-0.0.0.0 code.tinypass.com
 0.0.0.0 coed-d.openx.net
 0.0.0.0 co-gmtdmp.mookie1.com
 0.0.0.0 coin-hive.com
@@ -5566,7 +5568,6 @@
 0.0.0.0 exe.bid
 0.0.0.0 execution-use.ci360.sas.com
 0.0.0.0 exp.360in.com
-0.0.0.0 experience.tinypass.com
 0.0.0.0 experiment.appadhoc.com
 0.0.0.0 exp.glispa.com
 0.0.0.0 exponential.com
@@ -5660,7 +5661,6 @@
 0.0.0.0 filament-stats.herokuapp.com
 0.0.0.0 file.autoads.asia
 0.0.0.0 filecdn2.ad.dotandad.com
-0.0.0.0 file.market.xiaomi.com
 0.0.0.0 files.adform.net
 0.0.0.0 files.appsgeyser.com
 0.0.0.0 files.clickdimensions.com
@@ -8848,7 +8848,6 @@
 0.0.0.0 play.leadzutw.com
 0.0.0.0 playnomics.net
 0.0.0.0 play.rayjump.com
-0.0.0.0 play.tinypass.com
 0.0.0.0 playtomic.com
 0.0.0.0 playwire-d.openx.net
 0.0.0.0 plbslog.umeng.com
@@ -9129,7 +9128,6 @@
 0.0.0.0 publishers.revcontent.com
 0.0.0.0 publishers.viglink.com
 0.0.0.0 publisher.taboola.com
-0.0.0.0 publisher.tinypass.com
 0.0.0.0 pubmatic.com
 0.0.0.0 pubmatic-match.dotomi.com
 0.0.0.0 pubmatic-winners-ap-northeast-1-rtb.adroll.com
@@ -9206,8 +9204,6 @@
 0.0.0.0 pythagore.demdex.net
 0.0.0.0 pyxis.iad.appboy.com
 0.0.0.0 q1-media-d.openx.net
-0.0.0.0 qa0.tinypass.com
-0.0.0.0 qa1.tinypass.com
 0.0.0.0 qa.ads.justpremium.com
 0.0.0.0 qaamgo-d.openx.net
 0.0.0.0 q.adrta.com
@@ -10954,7 +10950,6 @@
 0.0.0.0 surveys.insightexpressai.com
 0.0.0.0 survey.survicate.com
 0.0.0.0 survey.wootric.com
-0.0.0.0 s-usc1c-nss-262.firebaseio.com
 0.0.0.0 s-us-east-1.axonix.com
 0.0.0.0 svast.moatads.com
 0.0.0.0 svastx.moatads.com
@@ -10978,7 +10973,6 @@
 0.0.0.0 sworkitads.herokuapp.com
 0.0.0.0 sw.pushengage.com
 0.0.0.0 swrve.com
-0.0.0.0 sw.tinypass.com
 0.0.0.0 sxcdn1.herokuapp.com
 0.0.0.0 sxcdn5.herokuapp.com
 0.0.0.0 sx.leadzutw.com
