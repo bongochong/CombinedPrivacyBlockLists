@@ -1,4 +1,4 @@
-# Fri 01 May 2020 06:33:23 PM MDT
+# Mon 04 May 2020 02:09:37 PM MDT
 # AdGuard DNS Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 0026645142c89aeb1.com
@@ -62,6 +62,7 @@
 0.0.0.0 05xz0h2xo799.com
 0.0.0.0 0638.info
 0.0.0.0 0664ic555p.com
+0.0.0.0 068943613eb.com
 0.0.0.0 06f09b1008ae993a5a.com
 0.0.0.0 0728w.cn
 0.0.0.0 07346e971b1ec7f.com
@@ -503,6 +504,7 @@
 0.0.0.0 2fnrc.cn
 0.0.0.0 2fx32.cn
 0.0.0.0 2g2h.com
+0.0.0.0 2g6gj3aojcrj.com
 0.0.0.0 2giga.download
 0.0.0.0 2go7v1nes8.com
 0.0.0.0 2gok8g15p2.com
@@ -555,6 +557,7 @@
 0.0.0.0 303marketplace.com
 0.0.0.0 304c40d20085e.com
 0.0.0.0 30b9e3a7d7e2b.com
+0.0.0.0 3133a.xyz
 0.0.0.0 31365y.com
 0.0.0.0 31a5610ce3a8a2.com
 0.0.0.0 31ab9d66427a22.com
@@ -746,6 +749,7 @@
 0.0.0.0 48423894b2a24481.com
 0.0.0.0 48dc47c7234e5258.com
 0.0.0.0 494d36630eae682b20.com
+0.0.0.0 497761.top
 0.0.0.0 49863d99e314a.com
 0.0.0.0 49feqdpw.com
 0.0.0.0 49lkc.cn
@@ -837,6 +841,7 @@
 0.0.0.0 52zfl.com
 0.0.0.0 5362367e.info
 0.0.0.0 538b5d8f303be.com
+0.0.0.0 53txs.com
 0.0.0.0 542fe1b0002a.com
 0.0.0.0 54kefu.net
 0.0.0.0 550tg.com
@@ -869,6 +874,7 @@
 0.0.0.0 59e6ea7248001c.com
 0.0.0.0 59gt.cn
 0.0.0.0 5a8p12.cn
+0.0.0.0 5aa8f31e2f5d.com
 0.0.0.0 5ad954477413bdb77f.com
 0.0.0.0 5advertise.com
 0.0.0.0 5b15a826.xyz
@@ -975,6 +981,7 @@
 0.0.0.0 693836.com
 0.0.0.0 6942f24115b63.com
 0.0.0.0 6945k6.cn
+0.0.0.0 69b7c505b2.com
 0.0.0.0 69content.com
 0.0.0.0 69duk.com
 0.0.0.0 69i.club
@@ -3849,6 +3856,7 @@
 0.0.0.0 alvenda.com
 0.0.0.0 alvfzqwkb.com
 0.0.0.0 alwkvwdxqojyce.com
+0.0.0.0 alwsbnvialll.com
 0.0.0.0 alxsite.com
 0.0.0.0 alxzes.com
 0.0.0.0 alyhlhyhaetbk.com
@@ -4154,6 +4162,7 @@
 0.0.0.0 analytics.valiuz.com
 0.0.0.0 analytics.vanillaforums.com
 0.0.0.0 analytics.vendemore.com
+0.0.0.0 analytics.videocloud.top
 0.0.0.0 analytics.vnreview.vn
 0.0.0.0 analytics.vodgc.net
 0.0.0.0 analytics.volvocars.com
@@ -7068,6 +7077,7 @@
 0.0.0.0 cdn1.tvzhe.com
 0.0.0.0 cdn2.auditude.com
 0.0.0.0 cdn2now.com
+0.0.0.0 cdn4ads.com
 0.0.0.0 cdn5now.com
 0.0.0.0 cdn7.network
 0.0.0.0 cdn7now.com
@@ -7543,6 +7553,7 @@
 0.0.0.0 cj1.256.cc
 0.0.0.0 cj-cy.com
 0.0.0.0 cjdomdjyvble.com
+0.0.0.0 cjf25jklrwqt.com
 0.0.0.0 cjgpifztileh.com
 0.0.0.0 cjh9.cn
 0.0.0.0 cjieh.com
@@ -8114,6 +8125,7 @@
 0.0.0.0 colleduny.info
 0.0.0.0 colliersads.com
 0.0.0.0 collserve.com
+0.0.0.0 coloniansheraz.site
 0.0.0.0 colorfulafterthought.com
 0.0.0.0 colossal.jp
 0.0.0.0 colossusssp.com
@@ -9225,6 +9237,7 @@
 0.0.0.0 d3tglifpd8whs6.cloudfront.net
 0.0.0.0 d3u5zn5k9864p0.cloudfront.net
 0.0.0.0 d3ud741uvs727m.cloudfront.net
+0.0.0.0 d3uvwl4wtkgzo1.cloudfront.net
 0.0.0.0 d3vpf6i51y286p.cloudfront.net
 0.0.0.0 d400e5249d363b5617.com
 0.0.0.0 d41.co
@@ -9597,6 +9610,7 @@
 0.0.0.0 decisiveducks.com
 0.0.0.0 decknetwork.net
 0.0.0.0 declaredthoughtfulness.co
+0.0.0.0 decordingaudied.site
 0.0.0.0 dedicatedmedia.com
 0.0.0.0 dedicatednetworks.com
 0.0.0.0 deepattention.com
@@ -10347,6 +10361,7 @@
 0.0.0.0 drowadri.racing
 0.0.0.0 drowle.com
 0.0.0.0 drozhdeni.ru
+0.0.0.0 droztihu.com
 0.0.0.0 drpmtzjanjqjpj.com
 0.0.0.0 drqlvjwhg.com
 0.0.0.0 drrcckbju3nd0.cloudfront.net
@@ -11862,6 +11877,7 @@
 0.0.0.0 fastcounter.de
 0.0.0.0 fastcpm.ru
 0.0.0.0 fastdld.com
+0.0.0.0 fastdln.com
 0.0.0.0 fastly-analytics.com
 0.0.0.0 fastly-insights.com
 0.0.0.0 fastonlineusers.com
@@ -11993,6 +12009,7 @@
 0.0.0.0 feelinedbusin.site
 0.0.0.0 feelineweatyeng.info
 0.0.0.0 feelophe.net
+0.0.0.0 feeohmchi.com
 0.0.0.0 feesocrald.com
 0.0.0.0 feewoajy.net
 0.0.0.0 fe.feedbackrights.com
@@ -12035,6 +12052,7 @@
 0.0.0.0 fextor.ru
 0.0.0.0 fexzuf.com
 0.0.0.0 feyfjlpeexvg.com
+0.0.0.0 ff01s.cn
 0.0.0.0 ff112244.com
 0.0.0.0 ff52e77ba517.com
 0.0.0.0 ff5bd8d9f8df.com
@@ -12913,6 +12931,7 @@
 0.0.0.0 gamecetera.com
 0.0.0.0 game-clicks.com
 0.0.0.0 game.gamingnonstop.net
+0.0.0.0 game.hotngay.vn
 0.0.0.0 gameriew.com
 0.0.0.0 gamersad.com
 0.0.0.0 gamersbanner.com
@@ -13149,6 +13168,7 @@
 0.0.0.0 geo.theawesomer.com
 0.0.0.0 geotraff.com
 0.0.0.0 geovisite.com
+0.0.0.0 geovisite.ovh
 0.0.0.0 geo.xcel.io
 0.0.0.0 geo.yahoo.com
 0.0.0.0 geracbv.leohd59.ru
@@ -14694,6 +14714,7 @@
 0.0.0.0 hnctsm.com
 0.0.0.0 hnfpgm.com
 0.0.0.0 hnfxty.cn
+0.0.0.0 hngezj.com
 0.0.0.0 hnhgw.cn
 0.0.0.0 hnh-hotel.com
 0.0.0.0 hnhsvlswqtoxgn.com
@@ -14750,6 +14771,7 @@
 0.0.0.0 hoo1luha.com
 0.0.0.0 hoochoor.com
 0.0.0.0 hoohavoa.com
+0.0.0.0 hooify.com
 0.0.0.0 hoood.info
 0.0.0.0 hooraico.com
 0.0.0.0 hoortols.org
@@ -16105,7 +16127,6 @@
 0.0.0.0 itefgucwwytfc.com
 0.0.0.0 itemccmod.com
 0.0.0.0 itempana.site
-0.0.0.0 iteye.com
 0.0.0.0 itgear.jp
 0.0.0.0 ithoahie.com
 0.0.0.0 itim.vn
@@ -18657,9 +18678,11 @@
 0.0.0.0 logsss.com
 0.0.0.0 logs.supersonic.com
 0.0.0.0 logs.thebloggernetwork.com
+0.0.0.0 logs.thethaovanhoa.vn
 0.0.0.0 log.superweb.ws
 0.0.0.0 logs.vmixcore.com
 0.0.0.0 log.tagtic.cn
+0.0.0.0 log.tapchitaichinh.vn
 0.0.0.0 log.tbs.qq.com
 0.0.0.0 log.thanhnien.vn
 0.0.0.0 log.thevideo.me
@@ -19619,6 +19642,7 @@
 0.0.0.0 megatronmailer.com
 0.0.0.0 megausenet.pro
 0.0.0.0 megausenet.services
+0.0.0.0 megavisites.com
 0.0.0.0 megawerbung.de
 0.0.0.0 megmobpoi.club
 0.0.0.0 megogo.1ru.tv
@@ -20812,6 +20836,7 @@
 0.0.0.0 nabbr.com
 0.0.0.0 nabeghlavi.com.cn
 0.0.0.0 nablabee.com
+0.0.0.0 nacfuns.com
 0.0.0.0 nadinthimmeled.pro
 0.0.0.0 nadjustifygas.info
 0.0.0.0 nad-network.com
@@ -22804,6 +22829,7 @@
 0.0.0.0 ovintic.ru
 0.0.0.0 oviwtvswp.com
 0.0.0.0 ovjlgvapqhmpy.com
+0.0.0.0 ovk2cuebg77t.com
 0.0.0.0 ovkihcbxsbfeo.com
 0.0.0.0 ovk.xceler8.io
 0.0.0.0 ovmeaxabvfor.com
@@ -23355,6 +23381,7 @@
 0.0.0.0 performax.cz
 0.0.0.0 performit.club
 0.0.0.0 performtracking.com
+0.0.0.0 perhangeflets.site
 0.0.0.0 perimeterx.net
 0.0.0.0 perinstallcash.com
 0.0.0.0 perion.com
@@ -25721,6 +25748,7 @@
 0.0.0.0 qwerty24.net
 0.0.0.0 qwertypay.com
 0.0.0.0 qwertytracks.com
+0.0.0.0 qwesgwg.cn
 0.0.0.0 qwex.ru
 0.0.0.0 qwfh39851jtfvkurf21hf.com
 0.0.0.0 qwfwimquecfw.bid
@@ -25839,6 +25867,7 @@
 0.0.0.0 r66net.com
 0.0.0.0 r66net.net
 0.0.0.0 r6.galya.ru
+0.0.0.0 r6ztccbkdrbi.com
 0.0.0.0 r7ls.net
 0.0.0.0 r7mediar.com
 0.0.0.0 r8nr2lzeqakd.com
@@ -27622,6 +27651,7 @@
 0.0.0.0 sessionstack.com
 0.0.0.0 session.timecommerce.net
 0.0.0.0 seszopvxktsfn.com
+0.0.0.0 setemoump.com
 0.0.0.0 sethads.info
 0.0.0.0 setlotnay.club
 0.0.0.0 setrtcjfhreqg.com
@@ -27870,6 +27900,7 @@
 0.0.0.0 siaiscphvghttd.com
 0.0.0.0 siamzone.com
 0.0.0.0 sibatnsryjpcq.com
+0.0.0.0 sibautomation.com
 0.0.0.0 siblesectiveal.club
 0.0.0.0 sibozhihui-lc.com
 0.0.0.0 sibulla.com
@@ -28011,6 +28042,7 @@
 0.0.0.0 sjljz.cn
 0.0.0.0 sjmwkj.cn
 0.0.0.0 sjqpctsz.com
+0.0.0.0 sjscxhknxeek.com
 0.0.0.0 sjsmartcontent.org
 0.0.0.0 sjuqc.com
 0.0.0.0 sjwdbzsa.com
@@ -32216,6 +32248,7 @@
 0.0.0.0 userdive.com
 0.0.0.0 userdmp.com
 0.0.0.0 usereachpeople.com
+0.0.0.0 user.headlines.pw
 0.0.0.0 userlook.com
 0.0.0.0 userneeds.dk
 0.0.0.0 user-red.com
@@ -33716,6 +33749,7 @@
 0.0.0.0 wguke.com
 0.0.0.0 wgwguxqij.com
 0.0.0.0 wgxuexjrvo.com
+0.0.0.0 wg.zaloapp.com
 0.0.0.0 wh5kb0u4.com
 0.0.0.0 wha8q7pevj.com
 0.0.0.0 whackedmedia.com
@@ -33794,6 +33828,7 @@
 0.0.0.0 widgetadvertising.biz
 0.0.0.0 widgetbucks.com
 0.0.0.0 widget.convertiser.com
+0.0.0.0 widget.headlines.pw
 0.0.0.0 widgetly.com
 0.0.0.0 widget.market-place.su
 0.0.0.0 widget.mediastealer.com
@@ -34452,6 +34487,7 @@
 0.0.0.0 xellvrgouivty.com
 0.0.0.0 xel-xel-fie.com
 0.0.0.0 xenddwrxygjcbq.com
+0.0.0.0 xenjswd.cn
 0.0.0.0 xeontopa.com
 0.0.0.0 xeozir.com
 0.0.0.0 xeqbdmuvjqt.com
@@ -34612,6 +34648,7 @@
 0.0.0.0 xlbbhdarc.com
 0.0.0.0 xl-counti.com
 0.0.0.0 xleebhxalb.com
+0.0.0.0 xlgqy.com
 0.0.0.0 xlhm88.cn
 0.0.0.0 xliansheng.com
 0.0.0.0 x.ligatus.com
@@ -35114,6 +35151,7 @@
 0.0.0.0 yekpop.com
 0.0.0.0 yektanet.com
 0.0.0.0 yellads.com
+0.0.0.0 yellorsanarolik.site
 0.0.0.0 yellowacorn.net
 0.0.0.0 yellowbrix.com
 0.0.0.0 yellow-isp.de

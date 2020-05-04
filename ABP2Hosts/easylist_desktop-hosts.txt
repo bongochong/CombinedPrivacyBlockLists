@@ -1,4 +1,4 @@
-# Fri 01 May 2020 06:33:20 PM MDT
+# Mon 04 May 2020 02:09:35 PM MDT
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0026645142c89aeb1.com
 0.0.0.0 006a039c957c142bb.com
@@ -16,6 +16,7 @@
 0.0.0.0 05ee3a24ed11df058c8.com
 0.0.0.0 05f4e2756f290.com
 0.0.0.0 05xz0h2xo799.com
+0.0.0.0 068943613eb.com
 0.0.0.0 06f09b1008ae993a5a.com
 0.0.0.0 07346e971b1ec7f.com
 0.0.0.0 073c0cec65916314a.com
@@ -201,6 +202,7 @@
 0.0.0.0 2el-2el-fie.com
 0.0.0.0 2f48a41ea4.com
 0.0.0.0 2f5a1f1fab21a56.com
+0.0.0.0 2g6gj3aojcrj.com
 0.0.0.0 2giga.download
 0.0.0.0 2gok8g15p2.com
 0.0.0.0 2hanwriten.com
@@ -222,6 +224,7 @@
 0.0.0.0 303marketplace.com
 0.0.0.0 304c40d20085e.com
 0.0.0.0 30b9e3a7d7e2b.com
+0.0.0.0 3133a.xyz
 0.0.0.0 31a5610ce3a8a2.com
 0.0.0.0 31ab9d66427a22.com
 0.0.0.0 32979c00fcc59b5.com
@@ -412,6 +415,7 @@
 0.0.0.0 58b291f917728a2.com
 0.0.0.0 59cn7.com
 0.0.0.0 59e6ea7248001c.com
+0.0.0.0 5aa8f31e2f5d.com
 0.0.0.0 5ad954477413bdb77f.com
 0.0.0.0 5advertise.com
 0.0.0.0 5b5a93686577c13.com
@@ -464,6 +468,7 @@
 0.0.0.0 688de7b3822de.com
 0.0.0.0 691123f5be2a669b.com
 0.0.0.0 6942f24115b63.com
+0.0.0.0 69b7c505b2.com
 0.0.0.0 69oxt4q05.com
 0.0.0.0 6a0a6105bc7a9fa8e.com
 0.0.0.0 6a2adb496b8951e.com
@@ -1693,6 +1698,7 @@
 0.0.0.0 affilae.com
 0.0.0.0 affilate-img-affasi.s3.amazonaws.com
 0.0.0.0 affilbox.cz
+0.0.0.0 affiliate-api.ti-media.net
 0.0.0.0 affiliatebannerfarm.com
 0.0.0.0 affiliate-b.com
 0.0.0.0 affiliate.com
@@ -2008,6 +2014,7 @@
 0.0.0.0 alvenda.com
 0.0.0.0 alvfzqwkb.com
 0.0.0.0 alwkvwdxqojyce.com
+0.0.0.0 alwsbnvialll.com
 0.0.0.0 alxzes.com
 0.0.0.0 alyhlhyhaetbk.com
 0.0.0.0 alzexa.com
@@ -3890,6 +3897,7 @@
 0.0.0.0 cdegnloptetj.com
 0.0.0.0 cdkxvrryzgd.com
 0.0.0.0 cdmjjvqzurn.com
+0.0.0.0 cdn4ads.com
 0.0.0.0 cdn7now.com
 0.0.0.0 cdn.adblade.com
 0.0.0.0 cdnads.com
@@ -4131,6 +4139,7 @@
 0.0.0.0 cixvlpbnceh.com
 0.0.0.0 cizemeshbbc.com
 0.0.0.0 cjdomdjyvble.com
+0.0.0.0 cjf25jklrwqt.com
 0.0.0.0 cjgpifztileh.com
 0.0.0.0 cjojvvfyb.com
 0.0.0.0 cjotzbxtyxwplr.com
@@ -4453,6 +4462,7 @@
 0.0.0.0 collect.usefathom.com
 0.0.0.0 colliersads.com
 0.0.0.0 collserve.com
+0.0.0.0 coloniansheraz.site
 0.0.0.0 colorfulafterthought.com
 0.0.0.0 colossusssp.com
 0.0.0.0 combotag.com
@@ -5211,6 +5221,7 @@
 0.0.0.0 d3tglifpd8whs6.cloudfront.net
 0.0.0.0 d3ujids68p6xmq.cloudfront.net
 0.0.0.0 d3uqm14ppr8tkw.cloudfront.net
+0.0.0.0 d3uvwl4wtkgzo1.cloudfront.net
 0.0.0.0 d3vnm1492fpnm2.cloudfront.net
 0.0.0.0 d3vpf6i51y286p.cloudfront.net
 0.0.0.0 d400e5249d363b5617.com
@@ -5425,6 +5436,7 @@
 0.0.0.0 decisionnews.com
 0.0.0.0 decisivedrawer.com
 0.0.0.0 decknetwork.net
+0.0.0.0 decordingaudied.site
 0.0.0.0 dedicatedmedia.com
 0.0.0.0 dedicatednetworks.com
 0.0.0.0 deepattention.com
@@ -5888,6 +5900,7 @@
 0.0.0.0 drovederuifswfe.info
 0.0.0.0 drowadri.racing
 0.0.0.0 drowle.com
+0.0.0.0 droztihu.com
 0.0.0.0 drpmtzjanjqjpj.com
 0.0.0.0 drqlvjwhg.com
 0.0.0.0 drsemkuhpg.com
@@ -6910,6 +6923,7 @@
 0.0.0.0 fastclick.net
 0.0.0.0 fastcounter.de
 0.0.0.0 fastdld.com
+0.0.0.0 fastdln.com
 0.0.0.0 fastly-analytics.com
 0.0.0.0 fastly-insights.com
 0.0.0.0 fastonlineusers.com
@@ -7005,6 +7019,7 @@
 0.0.0.0 feelinedbusin.site
 0.0.0.0 feelineweatyeng.info
 0.0.0.0 feelophe.net
+0.0.0.0 feeohmchi.com
 0.0.0.0 feesocrald.com
 0.0.0.0 feewoajy.net
 0.0.0.0 fehsnwiem.com
@@ -7748,6 +7763,7 @@
 0.0.0.0 geotargetly-1a441.appspot.com
 0.0.0.0 geo-targetly.com
 0.0.0.0 geovisite.com
+0.0.0.0 geovisite.ovh
 0.0.0.0 geo.xcel.io
 0.0.0.0 gestionpub.com
 0.0.0.0 gesymphone.site
@@ -8652,6 +8668,7 @@
 0.0.0.0 honouncil.com
 0.0.0.0 hoo1luha.com
 0.0.0.0 hoochoor.com
+0.0.0.0 hooify.com
 0.0.0.0 hoood.info
 0.0.0.0 hooraico.com
 0.0.0.0 hoortols.org
@@ -9132,6 +9149,7 @@
 0.0.0.0 imgstat.ameba.jp
 0.0.0.0 imgtty.com
 0.0.0.0 imgwebfeed.com
+0.0.0.0 imgwzzmb.net
 0.0.0.0 imhizxejm.com
 0.0.0.0 imho.ru
 0.0.0.0 imiclk.com
@@ -9513,7 +9531,6 @@
 0.0.0.0 itecsozudb.com
 0.0.0.0 itefgucwwytfc.com
 0.0.0.0 itempana.site
-0.0.0.0 iteye.com
 0.0.0.0 itllnww6x277.com
 0.0.0.0 itlmnxlauah.com
 0.0.0.0 itop.cz
@@ -10270,6 +10287,7 @@
 0.0.0.0 kmalnsqvyygwe.com
 0.0.0.0 kmbbqmrnso.com
 0.0.0.0 kmdqyjebswoa.com
+0.0.0.0 kmhodhhdvulnn.com
 0.0.0.0 kmindex.ru
 0.0.0.0 kmjexpirqstyzv.com
 0.0.0.0 kmkdkefa.com
@@ -11541,6 +11559,7 @@
 0.0.0.0 megatronmailer.com
 0.0.0.0 megausenet.pro
 0.0.0.0 megausenet.services
+0.0.0.0 megavisites.com
 0.0.0.0 megmobpoi.club
 0.0.0.0 meguanha.com
 0.0.0.0 mehhueboy.club
@@ -12229,6 +12248,7 @@
 0.0.0.0 nabaza.com
 0.0.0.0 nabbr.com
 0.0.0.0 nablabee.com
+0.0.0.0 nacfuns.com
 0.0.0.0 nadinthimmeled.pro
 0.0.0.0 nadjustifygas.info
 0.0.0.0 naetoris.pw
@@ -13604,6 +13624,7 @@
 0.0.0.0 ovgzbnjj.com
 0.0.0.0 oviwtvswp.com
 0.0.0.0 ovjlgvapqhmpy.com
+0.0.0.0 ovk2cuebg77t.com
 0.0.0.0 ovkihcbxsbfeo.com
 0.0.0.0 ovmeaxabvfor.com
 0.0.0.0 ovmzlptjfci.com
@@ -13995,6 +14016,7 @@
 0.0.0.0 performax.cz
 0.0.0.0 performit.club
 0.0.0.0 performtracking.com
+0.0.0.0 perhangeflets.site
 0.0.0.0 perimeterx.net
 0.0.0.0 perion.com
 0.0.0.0 perk0mean.com
@@ -14101,6 +14123,7 @@
 0.0.0.0 phonograph2.voxmedia.com
 0.0.0.0 phoodsom.net
 0.0.0.0 phookree.com
+0.0.0.0 phoossax.net
 0.0.0.0 photographpan.com
 0.0.0.0 photorank.me
 0.0.0.0 phpjtafdqsa.com
@@ -15755,6 +15778,7 @@
 0.0.0.0 r4nwdude.com
 0.0.0.0 r66net.com
 0.0.0.0 r66net.net
+0.0.0.0 r6ztccbkdrbi.com
 0.0.0.0 r7ls.net
 0.0.0.0 r8nr2lzeqakd.com
 0.0.0.0 r932o.com
@@ -16858,6 +16882,7 @@
 0.0.0.0 sessionstack.com
 0.0.0.0 session.timecommerce.net
 0.0.0.0 seszopvxktsfn.com
+0.0.0.0 setemoump.com
 0.0.0.0 sethads.info
 0.0.0.0 setlotnay.club
 0.0.0.0 setrtcjfhreqg.com
@@ -16986,6 +17011,7 @@
 0.0.0.0 siaiscphvghttd.com
 0.0.0.0 siamzone.com
 0.0.0.0 sibatnsryjpcq.com
+0.0.0.0 sibautomation.com
 0.0.0.0 sibulla.com
 0.0.0.0 sicaurtu.net
 0.0.0.0 sicksmash.com
@@ -17083,6 +17109,7 @@
 0.0.0.0 sjjazrfvzbkt.com
 0.0.0.0 sjkqyehjo.com
 0.0.0.0 sjqpctsz.com
+0.0.0.0 sjscxhknxeek.com
 0.0.0.0 sjv.io
 0.0.0.0 sjwdbzsa.com
 0.0.0.0 sjwnhrypuxrzv.com
@@ -21201,6 +21228,7 @@
 0.0.0.0 yefttzzn.com
 0.0.0.0 yektanet.com
 0.0.0.0 yellads.com
+0.0.0.0 yellorsanarolik.site
 0.0.0.0 yellowacorn.net
 0.0.0.0 yellowbrix.com
 0.0.0.0 yemdmtwnpspgy.com
