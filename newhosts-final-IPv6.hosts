@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 # This *must* be the first line: 127.0.0.1     localhost   #
 #                                                          #
 #**********************************************************#
-# ------------- Mon 04 May 2020 02:10:52 PM MDT ---------- #
+# ------------- Mon 04 May 2020 03:22:35 PM MDT ---------- #
 #**********************************************************#
 #                                                          #
 # Disclaimer: cows pigs up dogs on six for personal use    #
@@ -13397,6 +13397,7 @@ ff02::2 ip6-allrouters
 :: assets-v3.chartboost.com
 :: assets.a-mo.net
 :: assets.abbi.io
+:: assets.adobedtm.com
 :: assets.adspruce.com
 :: assets.adstage.io
 :: assets.adtech.de

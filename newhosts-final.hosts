@@ -18,7 +18,7 @@
 # This *must* be the first line: 127.0.0.1     localhost   #
 #                                                          #
 #**********************************************************#
-# ------------- Mon 04 May 2020 02:10:52 PM MDT ---------- #
+# ------------- Mon 04 May 2020 03:22:35 PM MDT ---------- #
 #**********************************************************#
 #                                                          #
 # Disclaimer: cows pigs up dogs on six for personal use    #
@@ -13397,6 +13397,7 @@
 0.0.0.0 assets-v3.chartboost.com
 0.0.0.0 assets.a-mo.net
 0.0.0.0 assets.abbi.io
+0.0.0.0 assets.adobedtm.com
 0.0.0.0 assets.adspruce.com
 0.0.0.0 assets.adstage.io
 0.0.0.0 assets.adtech.de
