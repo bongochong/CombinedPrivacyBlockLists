@@ -1,4 +1,4 @@
-// **** Fri 01 May 2020 06:36:00 PM MDT
+// **** Mon 04 May 2020 02:11:02 PM MDT
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.039b1ee.netsolhost.com') ||
@@ -1703,6 +1703,7 @@ shExpMatch(host, '*.affiliate.gamestop.com') ||
 shExpMatch(host, '*.affiliate.mercola.com') ||
 shExpMatch(host, '*.affiliate.mogs.com') ||
 shExpMatch(host, '*.affiliate.offgamers.com') ||
+shExpMatch(host, '*.affiliate.rusvpn.com') ||
 shExpMatch(host, '*.affiliates.allposters.com') ||
 shExpMatch(host, '*.affiliates.babylon.com') ||
 shExpMatch(host, '*.affiliates.devilfishpartners.com') ||
@@ -3644,6 +3645,7 @@ shExpMatch(host, '*.icptrack.com') ||
 shExpMatch(host, '*.id5-sync.com') ||
 shExpMatch(host, '*.idcounter.com') ||
 shExpMatch(host, '*.iddiction.com') ||
+shExpMatch(host, '*.idealadvertising.net') ||
 shExpMatch(host, '*.identads.com') ||
 shExpMatch(host, '*.idevaffiliate.com') ||
 shExpMatch(host, '*.idot.cz') ||
@@ -8584,6 +8586,7 @@ shExpMatch(host, 'affiliate.gamestop.com') ||
 shExpMatch(host, 'affiliate.mercola.com') ||
 shExpMatch(host, 'affiliate.mogs.com') ||
 shExpMatch(host, 'affiliate.offgamers.com') ||
+shExpMatch(host, 'affiliate.rusvpn.com') ||
 shExpMatch(host, 'affiliates.allposters.com') ||
 shExpMatch(host, 'affiliates.babylon.com') ||
 shExpMatch(host, 'affiliates.devilfishpartners.com') ||
@@ -10525,6 +10528,7 @@ shExpMatch(host, 'icptrack.com') ||
 shExpMatch(host, 'id5-sync.com') ||
 shExpMatch(host, 'idcounter.com') ||
 shExpMatch(host, 'iddiction.com') ||
+shExpMatch(host, 'idealadvertising.net') ||
 shExpMatch(host, 'identads.com') ||
 shExpMatch(host, 'idevaffiliate.com') ||
 shExpMatch(host, 'idot.cz') ||
