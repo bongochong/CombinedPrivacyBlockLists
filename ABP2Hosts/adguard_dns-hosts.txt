@@ -1,4 +1,4 @@
-# Mon 04 May 2020 02:09:37 PM MDT
+# Tue 05 May 2020 03:21:06 AM MDT
 # AdGuard DNS Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 0026645142c89aeb1.com
@@ -40,6 +40,7 @@
 0.0.0.0 0374adc8c6a6a56.com
 0.0.0.0 0377shujuhuifu.top
 0.0.0.0 039ad0897e6da.com
+0.0.0.0 0413fsiuhwem.xyz
 0.0.0.0 0420zvnmljgfdsa.xyz
 0.0.0.0 0427d7.se
 0.0.0.0 04426f8b7ce9b069431.com
@@ -541,6 +542,7 @@
 0.0.0.0 2taa9ib4ib.com
 0.0.0.0 2tdsprofit.in
 0.0.0.0 2tpwcqot22mb.com
+0.0.0.0 2track.info
 0.0.0.0 2under.ru
 0.0.0.0 2v0ni.cn
 0.0.0.0 2v9ml.cn
@@ -1294,6 +1296,7 @@
 0.0.0.0 910weixin.com
 0.0.0.0 913vt.com
 0.0.0.0 91byy.cn
+0.0.0.0 91cy.top
 0.0.0.0 91luopan.com
 0.0.0.0 91say.cc
 0.0.0.0 91xry.com
@@ -6845,6 +6848,7 @@
 0.0.0.0 callingjustified.com
 0.0.0.0 callisto.fm
 0.0.0.0 callmeasurement.com
+0.0.0.0 callousbrake.com
 0.0.0.0 callrail.com
 0.0.0.0 callreports.com
 0.0.0.0 call-tracking.by
@@ -9028,6 +9032,7 @@
 0.0.0.0 d1fc8wv8zag5ca.cloudfront.net
 0.0.0.0 d1gp8joe0evc8s.cloudfront.net
 0.0.0.0 d1gp9nlx229wzz.cloudfront.net
+0.0.0.0 d1gwclp1pmzk26.cloudfront.net
 0.0.0.0 d1.handdiy.com
 0.0.0.0 d1hi41nc56pmug.cloudfront.net
 0.0.0.0 d1i2v9a8xom2hy.cloudfront.net
@@ -9215,6 +9220,7 @@
 0.0.0.0 d3l4qa0kmel7is.cloudfront.net
 0.0.0.0 d3laygk9zni6hc.cloudfront.net
 0.0.0.0 d3m79ugzs2d8im.cloudfront.net
+0.0.0.0 d3mr7y154d2qg5.cloudfront.net
 0.0.0.0 d3mskfhorhi2fb.cloudfront.net
 0.0.0.0 d3n6i6eorggdxk.cloudfront.net
 0.0.0.0 d3nh49.com
@@ -10267,6 +10273,7 @@
 0.0.0.0 down1oads.com
 0.0.0.0 downads.com
 0.0.0.0 download.350.com
+0.0.0.0 download-alert.com
 0.0.0.0 downloadboutique.com
 0.0.0.0 downloadgot.com
 0.0.0.0 download.jword.jp
@@ -13148,6 +13155,7 @@
 0.0.0.0 geo.kontagent.net
 0.0.0.0 geolid.com
 0.0.0.0 geoloc.arte.tv
+0.0.0.0 geolocation-db.com
 0.0.0.0 geolocation.performgroup.com
 0.0.0.0 geolocation.stroeerdp.de
 0.0.0.0 geoloc.hurriyet.com.tr
@@ -13438,6 +13446,7 @@
 0.0.0.0 glgcclcyz.com
 0.0.0.0 gliese-682c.com
 0.0.0.0 glishais.net
+0.0.0.0 glisteningguide.com
 0.0.0.0 glmaamwyjkx.com
 0.0.0.0 gloalrie.com
 0.0.0.0 globaladmedia.com
@@ -18575,6 +18584,7 @@
 0.0.0.0 log.artipbox.net
 0.0.0.0 log.baodatviet.vn
 0.0.0.0 log.baomoi.com
+0.0.0.0 log.baophapluat.vn
 0.0.0.0 log.batdongsan.com.vn
 0.0.0.0 log.bling.samuraiworks.com
 0.0.0.0 logbor.com
@@ -19616,6 +19626,7 @@
 0.0.0.0 meetrics.net
 0.0.0.0 meezauch.net
 0.0.0.0 mefozykpcwuazw.com
+0.0.0.0 mega1.yeah1.com
 0.0.0.0 mega-ad.de
 0.0.0.0 megaad.nz
 0.0.0.0 megaban.com.ua
@@ -24448,6 +24459,7 @@
 0.0.0.0 propeanfanku.site
 0.0.0.0 propellerclick.com
 0.0.0.0 propellerpops.com
+0.0.0.0 propeller-tracking.com
 0.0.0.0 propelllerads.com
 0.0.0.0 propelplus.com
 0.0.0.0 proper.io
@@ -28917,6 +28929,7 @@
 0.0.0.0 stats1.wpmudev.com
 0.0.0.0 stats21.com
 0.0.0.0 stats2513.com
+0.0.0.0 stats2.agilecrm.com
 0.0.0.0 stats2.algo.at
 0.0.0.0 stats2.arstechnica.com
 0.0.0.0 stats2.com
@@ -35140,6 +35153,7 @@
 0.0.0.0 yeabble.com
 0.0.0.0 yeagdfyw.com
 0.0.0.0 yeah1media.vn
+0.0.0.0 yeah1publishing.com
 0.0.0.0 yeahmobi.com
 0.0.0.0 yeas.yahoo.co.jp
 0.0.0.0 yebadu.com

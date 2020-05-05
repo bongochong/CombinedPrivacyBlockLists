@@ -1,4 +1,4 @@
-# Mon 04 May 2020 02:09:35 PM MDT
+# Tue 05 May 2020 03:21:04 AM MDT
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0026645142c89aeb1.com
 0.0.0.0 006a039c957c142bb.com
@@ -3752,6 +3752,7 @@
 0.0.0.0 caljqsml.com
 0.0.0.0 callisto.fm
 0.0.0.0 callmeasurement.com
+0.0.0.0 callousbrake.com
 0.0.0.0 callrail.com
 0.0.0.0 callreports.com
 0.0.0.0 call-tracking.by
@@ -7753,6 +7754,7 @@
 0.0.0.0 geo.kaloo.ga
 0.0.0.0 geo.kontagent.net
 0.0.0.0 geolid.com
+0.0.0.0 geolocation-db.com
 0.0.0.0 geo.mezr.com
 0.0.0.0 geo.mtvnn.com
 0.0.0.0 geoplugin.net
@@ -7920,6 +7922,7 @@
 0.0.0.0 glgcclcyz.com
 0.0.0.0 gliese-682c.com
 0.0.0.0 glishais.net
+0.0.0.0 glisteningguide.com
 0.0.0.0 glmaamwyjkx.com
 0.0.0.0 gloalrie.com
 0.0.0.0 globaladmedia.com
@@ -14695,6 +14698,7 @@
 0.0.0.0 propeanfanku.site
 0.0.0.0 propellerclick.com
 0.0.0.0 propellerpops.com
+0.0.0.0 propeller-tracking.com
 0.0.0.0 propelllerads.com
 0.0.0.0 propelplus.com
 0.0.0.0 proper.io

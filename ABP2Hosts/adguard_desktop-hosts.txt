@@ -1,4 +1,4 @@
-# Mon 04 May 2020 02:09:29 PM MDT
+# Tue 05 May 2020 03:20:58 AM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 0351dvd.cn
@@ -1563,6 +1563,7 @@
 0.0.0.0 d1ewpr7kbabyrj.cloudfront.net
 0.0.0.0 d1f5rbi95y1icu.cloudfront.net
 0.0.0.0 d1gp9nlx229wzz.cloudfront.net
+0.0.0.0 d1gwclp1pmzk26.cloudfront.net
 0.0.0.0 d1i2v9a8xom2hy.cloudfront.net
 0.0.0.0 d1k0glcmk0b5rb.cloudfront.net
 0.0.0.0 d1k29rhvz38kg5.cloudfront.net
@@ -5084,6 +5085,7 @@
 0.0.0.0 stat.pl
 0.0.0.0 stats21.com
 0.0.0.0 stats2513.com
+0.0.0.0 stats2.agilecrm.com
 0.0.0.0 stats2.com
 0.0.0.0 stats4all.com
 0.0.0.0 stats4free.de
