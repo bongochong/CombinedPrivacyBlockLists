@@ -1137,6 +1137,7 @@
 0.0.0.0 3056.engine.mobileapptracking.com
 0.0.0.0 30572.api.swrve.com
 0.0.0.0 30572.content.swrve.com
+0.0.0.0 30572.identity.swrve.com
 0.0.0.0 30575.api.swrve.com
 0.0.0.0 30576.api.swrve.com
 0.0.0.0 30576.content.swrve.com
@@ -3351,6 +3352,7 @@
 0.0.0.0 a5e04df959f1af34.com
 0.0.0.0 a6.smi2.ru
 0.0.0.0 a63t9o1azf.com
+0.0.0.0 a6709203f34992a5095d2bc7ceaf2ec504f651a8.cws.conviva.com
 0.0.0.0 a69ee4fa50dc3.com
 0.0.0.0 a6be07586bc4a7.com
 0.0.0.0 a6f845e6c37b2833148.com
@@ -3386,6 +3388,7 @@
 0.0.0.0 aa1.pub.funshion.com
 0.0.0.0 aa24h.com
 0.0.0.0 aa53df329975c325.com
+0.0.0.0 aa5dbe242ad94ceba164ecf25b68c84e.mediatailor.us-west-2.amazonaws.com
 0.0.0.0 aa7bd76554cff2d93d33288d31aa6839.api.appsee.com
 0.0.0.0 aaa.3hgui.com
 0.0.0.0 aaa.com.au
@@ -11002,6 +11005,7 @@
 0.0.0.0 analytics-gcp.tout.com
 0.0.0.0 analytics-ingest.creative-mobile.com
 0.0.0.0 analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com
+0.0.0.0 analytics-ingestion.production-public.tubi.io
 0.0.0.0 analytics-ingestion.staging-public.tubi.io
 0.0.0.0 analytics-ingress-global.bitmovin.com
 0.0.0.0 analytics-ingress.bitmovin.com
@@ -11196,6 +11200,7 @@
 0.0.0.0 analytics.jabong.com
 0.0.0.0 analytics.jibecdn.com
 0.0.0.0 analytics.jiuzhilan.com
+0.0.0.0 analytics.jumboprivacy.com
 0.0.0.0 analytics.kaggle.io
 0.0.0.0 analytics.kaltura.com
 0.0.0.0 analytics.kapost.com
@@ -12597,6 +12602,7 @@
 0.0.0.0 api2.chartbeat.com
 0.0.0.0 api2.ematicsolutions.com
 0.0.0.0 api2.mediaforge.com
+0.0.0.0 api2.okanjo.com
 0.0.0.0 api2.optimove.net
 0.0.0.0 api2.play.cn
 0.0.0.0 api2.poperblocker.com
@@ -13997,6 +14003,8 @@
 0.0.0.0 atsfi.de
 0.0.0.0 atspace.de.intellitxt.com
 0.0.0.0 att.demdex.net
+0.0.0.0 att.productmadness.com
+0.0.0.0 att.sc.omtrdc.net
 0.0.0.0 att.stargame.com
 0.0.0.0 attacketslovern.info
 0.0.0.0 attackfile.com
@@ -19482,6 +19490,7 @@
 0.0.0.0 cdn.contentspread.net
 0.0.0.0 cdn.conversant.mgr.consensu.org
 0.0.0.0 cdn.convertcart.com
+0.0.0.0 cdn.cookielaw.org
 0.0.0.0 cdn.cooladata.com
 0.0.0.0 cdn.cpiera.com
 0.0.0.0 cdn.cpmstar.com
@@ -19752,6 +19761,7 @@
 0.0.0.0 cdn.oas-eu1.adnxs.com
 0.0.0.0 cdn.odoscope.cloud
 0.0.0.0 cdn.offcloud.com
+0.0.0.0 cdn.okanjo.com
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.onscroll.com
 0.0.0.0 cdn.onthe.io
@@ -32734,6 +32744,7 @@
 0.0.0.0 ffcqkvdaklrqkg.com
 0.0.0.0 fff.com.vn
 0.0.0.0 fff.dailymail.co.uk
+0.0.0.0 ffg-analytics-functionsk3nvxfne4dp4s.azurewebsites.net
 0.0.0.0 ffg34fg.78zw.com
 0.0.0.0 ffhwzaenzoue.com
 0.0.0.0 ffickiedisticre.site
@@ -36380,6 +36391,7 @@
 0.0.0.0 glfqztlzebamqw.com
 0.0.0.0 glgcclcyz.com
 0.0.0.0 gliese-682c.com
+0.0.0.0 glimmer.hearstapps.com
 0.0.0.0 glimr.io
 0.0.0.0 glishais.net
 0.0.0.0 glispa.com
@@ -38152,6 +38164,7 @@
 0.0.0.0 hagiqxizxqf.com
 0.0.0.0 hagoit.com
 0.0.0.0 hai2u.com
+0.0.0.0 hail-reporting.tutelatechnologies.com
 0.0.0.0 hairboutique.us.intellitxt.com
 0.0.0.0 haitao.9439.com
 0.0.0.0 haitao.dadang.org
@@ -41730,6 +41743,7 @@
 0.0.0.0 infiniteriotpoints.com
 0.0.0.0 infiniti.cityads.com
 0.0.0.0 infinitiheliosemea.demdex.net
+0.0.0.0 infinity-c4.youboranqs01.com
 0.0.0.0 infinity-tracking.net
 0.0.0.0 infinityads.com
 0.0.0.0 infinityblade3hack.com
@@ -44503,6 +44517,8 @@
 0.0.0.0 kinesis.us-east-1.amazonaws.com
 0.0.0.0 kinesisanalytics.eu-central-1.amazonaws.com
 0.0.0.0 kinesisanalytics.eu-west-1.amazonaws.com
+0.0.0.0 king-candycrush-prod.secure2.footprint.net
+0.0.0.0 king-contenido-prod.secure2.footprint.net
 0.0.0.0 king-skin.net
 0.0.0.0 king.connectioncdn.com
 0.0.0.0 kingads.net
@@ -51030,6 +51046,7 @@
 0.0.0.0 mobile.ib.sin1.geoadnxs.com
 0.0.0.0 mobile.itsbetter.com
 0.0.0.0 mobile.juicyads.com
+0.0.0.0 mobile.launchdarkly.com
 0.0.0.0 mobile.logs.roku.com
 0.0.0.0 mobile.mediabrix.com
 0.0.0.0 mobile.mng-ads.com
@@ -57668,7 +57685,6 @@
 0.0.0.0 phn.apnanalytics.com
 0.0.0.0 phoaksiw.com
 0.0.0.0 phoaz.cruisingsmallship.com
-0.0.0.0 phobos.apple.com.lp.mydas.mobi
 0.0.0.0 phoenix-adrunner.mycomputer.com
 0.0.0.0 phoenix-widget.com
 0.0.0.0 phoenix.untd.com
@@ -62473,6 +62489,7 @@
 0.0.0.0 rawoarsy.com
 0.0.0.0 rawoo.barginginfrance.net
 0.0.0.0 rawr.at
+0.0.0.0 rawtelemetry-west.servicebus.windows.net
 0.0.0.0 raxlextehqhw.com
 0.0.0.0 rayban-uk.notifications-e1.veinteractive.com
 0.0.0.0 raygun.io
@@ -63311,6 +63328,7 @@
 0.0.0.0 req2.appads.com
 0.0.0.0 req3.appads.com
 0.0.0.0 reqpostanza.com
+0.0.0.0 requentlyfths.club
 0.0.0.0 request.adrcdn.com
 0.0.0.0 request.issuu.com
 0.0.0.0 request.zzad.com
@@ -72908,6 +72926,7 @@
 0.0.0.0 tags-prod.vrvm.com
 0.0.0.0 tags-uc.growingio.com
 0.0.0.0 tags.1001spiele.de
+0.0.0.0 tags.acmeaom.com
 0.0.0.0 tags.adriver.ru
 0.0.0.0 tags.adsafety.net
 0.0.0.0 tags.affiliatefuture.com
@@ -74672,6 +74691,7 @@
 0.0.0.0 topad.mobi
 0.0.0.0 topads.rrstar.com
 0.0.0.0 topadvert.ru
+0.0.0.0 topapps-func.pinsightmedia.com
 0.0.0.0 topauto10.com
 0.0.0.0 topaz-analytics.com
 0.0.0.0 topbananaad.com

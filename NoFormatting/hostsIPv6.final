@@ -1137,6 +1137,7 @@
 :: 3056.engine.mobileapptracking.com
 :: 30572.api.swrve.com
 :: 30572.content.swrve.com
+:: 30572.identity.swrve.com
 :: 30575.api.swrve.com
 :: 30576.api.swrve.com
 :: 30576.content.swrve.com
@@ -3351,6 +3352,7 @@
 :: a5e04df959f1af34.com
 :: a6.smi2.ru
 :: a63t9o1azf.com
+:: a6709203f34992a5095d2bc7ceaf2ec504f651a8.cws.conviva.com
 :: a69ee4fa50dc3.com
 :: a6be07586bc4a7.com
 :: a6f845e6c37b2833148.com
@@ -3386,6 +3388,7 @@
 :: aa1.pub.funshion.com
 :: aa24h.com
 :: aa53df329975c325.com
+:: aa5dbe242ad94ceba164ecf25b68c84e.mediatailor.us-west-2.amazonaws.com
 :: aa7bd76554cff2d93d33288d31aa6839.api.appsee.com
 :: aaa.3hgui.com
 :: aaa.com.au
@@ -11002,6 +11005,7 @@
 :: analytics-gcp.tout.com
 :: analytics-ingest.creative-mobile.com
 :: analytics-ingestion-2000866608.ap-south-1.elb.amazonaws.com
+:: analytics-ingestion.production-public.tubi.io
 :: analytics-ingestion.staging-public.tubi.io
 :: analytics-ingress-global.bitmovin.com
 :: analytics-ingress.bitmovin.com
@@ -11196,6 +11200,7 @@
 :: analytics.jabong.com
 :: analytics.jibecdn.com
 :: analytics.jiuzhilan.com
+:: analytics.jumboprivacy.com
 :: analytics.kaggle.io
 :: analytics.kaltura.com
 :: analytics.kapost.com
@@ -12597,6 +12602,7 @@
 :: api2.chartbeat.com
 :: api2.ematicsolutions.com
 :: api2.mediaforge.com
+:: api2.okanjo.com
 :: api2.optimove.net
 :: api2.play.cn
 :: api2.poperblocker.com
@@ -13997,6 +14003,8 @@
 :: atsfi.de
 :: atspace.de.intellitxt.com
 :: att.demdex.net
+:: att.productmadness.com
+:: att.sc.omtrdc.net
 :: att.stargame.com
 :: attacketslovern.info
 :: attackfile.com
@@ -19482,6 +19490,7 @@
 :: cdn.contentspread.net
 :: cdn.conversant.mgr.consensu.org
 :: cdn.convertcart.com
+:: cdn.cookielaw.org
 :: cdn.cooladata.com
 :: cdn.cpiera.com
 :: cdn.cpmstar.com
@@ -19752,6 +19761,7 @@
 :: cdn.oas-eu1.adnxs.com
 :: cdn.odoscope.cloud
 :: cdn.offcloud.com
+:: cdn.okanjo.com
 :: cdn.onesignal.com
 :: cdn.onscroll.com
 :: cdn.onthe.io
@@ -32734,6 +32744,7 @@
 :: ffcqkvdaklrqkg.com
 :: fff.com.vn
 :: fff.dailymail.co.uk
+:: ffg-analytics-functionsk3nvxfne4dp4s.azurewebsites.net
 :: ffg34fg.78zw.com
 :: ffhwzaenzoue.com
 :: ffickiedisticre.site
@@ -36380,6 +36391,7 @@
 :: glfqztlzebamqw.com
 :: glgcclcyz.com
 :: gliese-682c.com
+:: glimmer.hearstapps.com
 :: glimr.io
 :: glishais.net
 :: glispa.com
@@ -38152,6 +38164,7 @@
 :: hagiqxizxqf.com
 :: hagoit.com
 :: hai2u.com
+:: hail-reporting.tutelatechnologies.com
 :: hairboutique.us.intellitxt.com
 :: haitao.9439.com
 :: haitao.dadang.org
@@ -41730,6 +41743,7 @@
 :: infiniteriotpoints.com
 :: infiniti.cityads.com
 :: infinitiheliosemea.demdex.net
+:: infinity-c4.youboranqs01.com
 :: infinity-tracking.net
 :: infinityads.com
 :: infinityblade3hack.com
@@ -44503,6 +44517,8 @@
 :: kinesis.us-east-1.amazonaws.com
 :: kinesisanalytics.eu-central-1.amazonaws.com
 :: kinesisanalytics.eu-west-1.amazonaws.com
+:: king-candycrush-prod.secure2.footprint.net
+:: king-contenido-prod.secure2.footprint.net
 :: king-skin.net
 :: king.connectioncdn.com
 :: kingads.net
@@ -51030,6 +51046,7 @@
 :: mobile.ib.sin1.geoadnxs.com
 :: mobile.itsbetter.com
 :: mobile.juicyads.com
+:: mobile.launchdarkly.com
 :: mobile.logs.roku.com
 :: mobile.mediabrix.com
 :: mobile.mng-ads.com
@@ -57668,7 +57685,6 @@
 :: phn.apnanalytics.com
 :: phoaksiw.com
 :: phoaz.cruisingsmallship.com
-:: phobos.apple.com.lp.mydas.mobi
 :: phoenix-adrunner.mycomputer.com
 :: phoenix-widget.com
 :: phoenix.untd.com
@@ -62473,6 +62489,7 @@
 :: rawoarsy.com
 :: rawoo.barginginfrance.net
 :: rawr.at
+:: rawtelemetry-west.servicebus.windows.net
 :: raxlextehqhw.com
 :: rayban-uk.notifications-e1.veinteractive.com
 :: raygun.io
@@ -63311,6 +63328,7 @@
 :: req2.appads.com
 :: req3.appads.com
 :: reqpostanza.com
+:: requentlyfths.club
 :: request.adrcdn.com
 :: request.issuu.com
 :: request.zzad.com
@@ -72908,6 +72926,7 @@
 :: tags-prod.vrvm.com
 :: tags-uc.growingio.com
 :: tags.1001spiele.de
+:: tags.acmeaom.com
 :: tags.adriver.ru
 :: tags.adsafety.net
 :: tags.affiliatefuture.com
@@ -74672,6 +74691,7 @@
 :: topad.mobi
 :: topads.rrstar.com
 :: topadvert.ru
+:: topapps-func.pinsightmedia.com
 :: topauto10.com
 :: topaz-analytics.com
 :: topbananaad.com
