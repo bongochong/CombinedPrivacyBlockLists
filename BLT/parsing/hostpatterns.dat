@@ -58,6 +58,7 @@ www.staradvertiser.com$
 ^0.0.0.0 configuration.apple.com$
 ^0.0.0.0 db.tt$
 ^0.0.0.0 dev.twitter.com$
+^0.0.0.0 dropbox.com$
 ^0.0.0.0 dropbox.zendesk.com$
 ^0.0.0.0 dropboxapi.com$
 ^0.0.0.0 dropboxbusiness.com$
