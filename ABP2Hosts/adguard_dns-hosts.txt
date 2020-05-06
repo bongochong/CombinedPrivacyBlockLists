@@ -1,4 +1,4 @@
-# Tue 05 May 2020 03:21:06 AM MDT
+# Wed 06 May 2020 03:43:48 AM MDT
 # AdGuard DNS Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 0026645142c89aeb1.com
@@ -23562,6 +23562,7 @@
 0.0.0.0 phudrour.net
 0.0.0.0 phukienthoitranggiare.com
 0.0.0.0 phukrovo.com
+0.0.0.0 phvmax.com
 0.0.0.0 phvmjnkysnj.com
 0.0.0.0 phwten.com
 0.0.0.0 phxwwaznm.club
@@ -25681,6 +25682,7 @@
 0.0.0.0 quber.ru
 0.0.0.0 qubitanalytics.appspot.com
 0.0.0.0 qubitproducts.com
+0.0.0.0 qubo94.com
 0.0.0.0 qucaigg.com
 0.0.0.0 quckoemdypxoiq.bid
 0.0.0.0 qudpdpkxffzt.com

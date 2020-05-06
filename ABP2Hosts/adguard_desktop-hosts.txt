@@ -1,4 +1,4 @@
-# Tue 05 May 2020 03:20:58 AM MDT
+# Wed 06 May 2020 03:43:31 AM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 0351dvd.cn
@@ -4793,6 +4793,7 @@
 0.0.0.0 septembership.com
 0.0.0.0 sepyra.com
 0.0.0.0 serating.ru
+0.0.0.0 seraton.online
 0.0.0.0 serconmp.com
 0.0.0.0 seriencev.com
 0.0.0.0 serie-vostfr.com
@@ -4973,6 +4974,7 @@
 0.0.0.0 spacehits.net
 0.0.0.0 space-link.de
 0.0.0.0 spacenine.biz
+0.0.0.0 spareton.online
 0.0.0.0 speciadnessing.pro
 0.0.0.0 specialgift.top
 0.0.0.0 specialstat.com
