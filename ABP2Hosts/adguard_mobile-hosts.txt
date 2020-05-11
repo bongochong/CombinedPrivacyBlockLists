@@ -1,4 +1,4 @@
-# Wed 06 May 2020 03:43:26 AM MDT
+# Mon 11 May 2020 02:36:08 AM MDT
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -3613,7 +3613,6 @@
 0.0.0.0 ccisea-d.openx.net
 0.0.0.0 cc.lbesec.com
 0.0.0.0 c.codeonclick.com
-0.0.0.0 ccp.mobileappsuite.com
 0.0.0.0 cc.swiftype.com
 0.0.0.0 cd.adition.com
 0.0.0.0 c.data.mob.com
@@ -6997,7 +6996,6 @@
 0.0.0.0 kinesisanalytics.eu-central-1.amazonaws.com
 0.0.0.0 kinesisanalytics.eu-west-1.amazonaws.com
 0.0.0.0 kinesis.us-east-1.amazonaws.com
-0.0.0.0 king-candycrush-prod.secure2.footprint.net
 0.0.0.0 king-contenido-prod.secure2.footprint.net
 0.0.0.0 kiosked.com
 0.0.0.0 kissmyads.go2jump.org
