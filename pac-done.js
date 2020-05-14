@@ -1,4 +1,4 @@
-// **** Mon 11 May 2020 02:39:44 AM MDT
+// **** Thu 14 May 2020 12:17:20 PM MDT
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.039b1ee.netsolhost.com') ||
@@ -5462,6 +5462,7 @@ shExpMatch(host, '*.silvalliant.info') ||
 shExpMatch(host, '*.silvermob.com') ||
 shExpMatch(host, '*.similarsabine.com') ||
 shExpMatch(host, '*.simpleanalytics.io') ||
+shExpMatch(host, '*.simplehitcounter.com') ||
 shExpMatch(host, '*.simpletexting.com') ||
 shExpMatch(host, '*.simpli.fi') ||
 shExpMatch(host, '*.simplisticnose.com') ||
@@ -5930,6 +5931,7 @@ shExpMatch(host, '*.tracking101.com') ||
 shExpMatch(host, '*.tracking22.com') ||
 shExpMatch(host, '*.tracking42.com') ||
 shExpMatch(host, '*.tracking.crunchiemedia.com') ||
+shExpMatch(host, '*.tracking.epicgames.com') ||
 shExpMatch(host, '*.trackingfestival.com') ||
 shExpMatch(host, '*.tracking.gajmp.com') ||
 shExpMatch(host, '*.tracking.ibxlink.com') ||
@@ -12359,6 +12361,7 @@ shExpMatch(host, 'silvalliant.info') ||
 shExpMatch(host, 'silvermob.com') ||
 shExpMatch(host, 'similarsabine.com') ||
 shExpMatch(host, 'simpleanalytics.io') ||
+shExpMatch(host, 'simplehitcounter.com') ||
 shExpMatch(host, 'simpletexting.com') ||
 shExpMatch(host, 'simpli.fi') ||
 shExpMatch(host, 'simplisticnose.com') ||
@@ -12827,6 +12830,7 @@ shExpMatch(host, 'tracking101.com') ||
 shExpMatch(host, 'tracking22.com') ||
 shExpMatch(host, 'tracking42.com') ||
 shExpMatch(host, 'tracking.crunchiemedia.com') ||
+shExpMatch(host, 'tracking.epicgames.com') ||
 shExpMatch(host, 'trackingfestival.com') ||
 shExpMatch(host, 'tracking.gajmp.com') ||
 shExpMatch(host, 'tracking.ibxlink.com') ||
