@@ -1,4 +1,4 @@
-# Mon 11 May 2020 02:36:12 AM MDT
+# Thu 14 May 2020 12:14:28 PM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 0351dvd.cn
@@ -228,6 +228,7 @@
 0.0.0.0 accessi.it
 0.0.0.0 accessintel.com
 0.0.0.0 acc-hd.de
+0.0.0.0 acdcdn.com
 0.0.0.0 acecounter.com
 0.0.0.0 acetrk.com
 0.0.0.0 acexedge.com
@@ -675,6 +676,7 @@
 0.0.0.0 ashaidbit.club
 0.0.0.0 ashamparm.site
 0.0.0.0 ashbowany.site
+0.0.0.0 ashcdn.com
 0.0.0.0 ashow.pcpop.com
 0.0.0.0 askallalb.club
 0.0.0.0 askaspalb.online
@@ -1544,6 +1546,7 @@
 0.0.0.0 d0p21g2fep.com
 0.0.0.0 d10lumateci472.cloudfront.net
 0.0.0.0 d10lv7w3g0jvk9.cloudfront.net
+0.0.0.0 d11enq2rymy0yl.cloudfront.net
 0.0.0.0 d11eq81k50lwgi.cloudfront.net
 0.0.0.0 d138am4hd4ke4y.cloudfront.net
 0.0.0.0 d13jhr4vol1304.cloudfront.net
@@ -1647,6 +1650,7 @@
 0.0.0.0 d3i1asoswufp5k.cloudfront.net
 0.0.0.0 d3id4jppiyyek8.cloudfront.net
 0.0.0.0 d3iz6lralvg77g.cloudfront.net
+0.0.0.0 d3kblkhdtjv0tf.cloudfront.net
 0.0.0.0 d3l4qa0kmel7is.cloudfront.net
 0.0.0.0 d3laygk9zni6hc.cloudfront.net
 0.0.0.0 d3m79ugzs2d8im.cloudfront.net
@@ -2028,6 +2032,7 @@
 0.0.0.0 endloseporno.com
 0.0.0.0 enectoanalytics.com
 0.0.0.0 enecto.com
+0.0.0.0 energeticladybug.com
 0.0.0.0 engagetosell.com
 0.0.0.0 engageya.com
 0.0.0.0 engine212.com
@@ -2115,6 +2120,7 @@
 0.0.0.0 evergage.com
 0.0.0.0 eversely.com
 0.0.0.0 evertherenous.info
+0.0.0.0 eveteaemo.com
 0.0.0.0 evhj9.52av.tv
 0.0.0.0 evisitanalyst.com
 0.0.0.0 evisitcs2.com
@@ -2350,6 +2356,7 @@
 0.0.0.0 fshka.com
 0.0.0.0 fsoft4down.com
 0.0.0.0 ftbpro.com
+0.0.0.0 fthkmwrkqg.com
 0.0.0.0 ftigholm.site
 0.0.0.0 ftigken.online
 0.0.0.0 ftrack.ru
@@ -2387,6 +2394,7 @@
 0.0.0.0 gacela.eu
 0.0.0.0 gadsabs.com
 0.0.0.0 gadslimz.com
+0.0.0.0 gadspms.com
 0.0.0.0 gagnibcan.com
 0.0.0.0 gagpetwet.com
 0.0.0.0 gaitheed.com
@@ -2781,6 +2789,7 @@
 0.0.0.0 idio.co
 0.0.0.0 id.kbmg.cz
 0.0.0.0 idot.cz
+0.0.0.0 idspatchi.com
 0.0.0.0 idtargeting.com
 0.0.0.0 id-visitors.com
 0.0.0.0 idwq.info
@@ -3108,6 +3117,7 @@
 0.0.0.0 kono-research.de
 0.0.0.0 kontagent.net
 0.0.0.0 kopsil.com
+0.0.0.0 korastar.net
 0.0.0.0 kostenlose-counter.com
 0.0.0.0 kotaku.xyz
 0.0.0.0 koutobey.net
@@ -3463,6 +3473,7 @@
 0.0.0.0 metrika-informer.com
 0.0.0.0 metriweb.be
 0.0.0.0 mezzobit.com
+0.0.0.0 mfadsrvr.com
 0.0.0.0 mfio.cf
 0.0.0.0 mgid.com
 0.0.0.0 m.gongzhilian.com.cn
@@ -3786,6 +3797,7 @@
 0.0.0.0 nsaudience.pl
 0.0.0.0 nsdfsfi1q8asdasdzz.com
 0.0.0.0 nstracking.com
+0.0.0.0 ntdvjlvau.com
 0.0.0.0 ntlab.org
 0.0.0.0 ntosarang.com
 0.0.0.0 ntvk1.ru
@@ -3881,7 +3893,9 @@
 0.0.0.0 omoukkkj.stream
 0.0.0.0 omtrdc.net
 0.0.0.0 onaudience.com
+0.0.0.0 onclickalgo.com
 0.0.0.0 onclickmega.com
+0.0.0.0 onclickperformance.com
 0.0.0.0 onclickprediction.com
 0.0.0.0 onclickpulse.com
 0.0.0.0 onclicktop.com
@@ -4194,6 +4208,7 @@
 0.0.0.0 pop-road47.info
 0.0.0.0 popsample.com
 0.0.0.0 popstats.com.br
+0.0.0.0 popt.in
 0.0.0.0 populr.me
 0.0.0.0 popunderjs.club
 0.0.0.0 popunders.bid
@@ -4530,6 +4545,7 @@
 0.0.0.0 referrer.website
 0.0.0.0 refersion.com
 0.0.0.0 refinedads.com
+0.0.0.0 refnippod.com
 0.0.0.0 refpa.top
 0.0.0.0 reftedlettiny.info
 0.0.0.0 regisg.com
@@ -5316,6 +5332,7 @@
 0.0.0.0 terrapush.com
 0.0.0.0 terriblethumb.com
 0.0.0.0 terribleturkey.com
+0.0.0.0 terttalkinhitin.pro
 0.0.0.0 tetigi.com
 0.0.0.0 tetoolbox.com
 0.0.0.0 tfa5e.top
@@ -6075,6 +6092,7 @@
 0.0.0.0 x3-predictor.goguardian.com
 0.0.0.0 x.55peixun.com
 0.0.0.0 xa-counter.com
+0.0.0.0 xadsmart.com
 0.0.0.0 xaxoro.com
 0.0.0.0 xbasfbno.info
 0.0.0.0 xch.smrtgs.com
@@ -6195,6 +6213,7 @@
 0.0.0.0 youcanoptout.com
 0.0.0.0 youcanoptout.net
 0.0.0.0 youcanoptout.org
+0.0.0.0 youearrid.com
 0.0.0.0 youle55.com
 0.0.0.0 youmetrix.co.uk
 0.0.0.0 youndoo.com

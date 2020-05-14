@@ -1,4 +1,4 @@
-# Mon 11 May 2020 02:36:08 AM MDT
+# Thu 14 May 2020 12:14:24 PM MDT
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -641,7 +641,6 @@
 0.0.0.0 a.76674bdad304297eda3d325f449f6f49.com
 0.0.0.0 a8.net
 0.0.0.0 a9.com
-0.0.0.0 aa5dbe242ad94ceba164ecf25b68c84e.mediatailor.us-west-2.amazonaws.com
 0.0.0.0 aa7bd76554cff2d93d33288d31aa6839.api.appsee.com
 0.0.0.0 aa.adfarm1.adition.com
 0.0.0.0 a.adgear.com
