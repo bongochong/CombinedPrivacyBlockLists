@@ -16,7 +16,7 @@ To utilize all the scripts to their full extent, you must have the following pac
   
 The hosts file update scripts also contain an optional routine for converting Unicode IDN domains to ASCII Punycode entries, which can be un-commented and utilized seamlessly. This routine requires an additional package to be installed: `idn` or `idn2`, depending on your system.
   
-**One-line installation**:  
+**One-line installation**:
 Copy the following `wget -nv -O ~/installer.sh "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/installer.sh" && chmod +x ~/installer.sh && sh ~/installer.sh && rm ~/installer.sh` paste it into your terminal, and hit enter. Donezo. Now you have all the utilities.  
 
 **Checklist for normal use**:
