@@ -38,3 +38,4 @@ rm -f level2BT.7z
 rm -f bt_level2.p2p
 rm -f combined.txt
 xdg-open ~/BLT/btp2p
+exit

@@ -39,3 +39,4 @@ sleep 2
 rm -f *.pac
 rm -f *.txt
 xdg-open ~/BLT/pac
+exit

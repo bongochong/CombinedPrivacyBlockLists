@@ -53,3 +53,4 @@ echo "perl wget pcregrep curl p7zip"
 echo "Enjoy!"
 echo "..."
 xdg-open ~/"$file_dir"
+exit

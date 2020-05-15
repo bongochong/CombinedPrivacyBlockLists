@@ -38,3 +38,4 @@ rm -f level2BTdat.7z
 rm -f bt_level2.dat
 rm -f combined-win.txt
 xdg-open ~/BLT/btdat
+exit

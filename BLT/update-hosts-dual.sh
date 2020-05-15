@@ -42,6 +42,19 @@ sed -i "s/[[:space:]]*$//" uniq-hosts.final
 sed -i "s/[[:blank:]]*$//" uniq-hosts.final
 sed -i "s/[[:space:]]\+/ /g" uniq-hosts.final
 sed -i "/^0.0.0.0 /! s/^/0.0.0.0 /" uniq-hosts.final
+#Optional routine to check for Unicode IDN domain entries and convert to Punycode if necessary
+#if [[ $(grep -P -n "[^\x00-\x7F]" uniq-hosts.final) ]]; then
+#    echo "Non-ASCII strings found in domains. Converting to Punycode..."
+#    grep -P -v "[^\x00-\x7F]" uniq-hosts.final | sed "s/0.0.0.0 //" > uniq-hosts-na.final
+#    sleep 2
+#    grep -P "[^\x00-\x7F]" uniq-hosts.final | sed "s/0.0.0.0 //" | idn >> uniq-hosts-na.final
+#    sleep 2
+#    sed -i "/^0.0.0.0 /! s/^/0.0.0.0 /" uniq-hosts-na.final
+#    rm -f uniq-hosts.final && mv uniq-hosts-na.final uniq-hosts.final
+#else
+#    echo "All domains are valid ASCII strings continuing compilation of lists..."
+#fi
+#End of Unicode IDN domain to Punycode conversion routine
 sed -i '/0.0.0.0 device9.com/d' uniq-hosts.final
 sed -i '/\^\document/d' uniq-hosts.final
 sed -i '/\^/d' uniq-hosts.final
@@ -75,3 +88,4 @@ rm -f *.hosts
 rm -f newhosts-template-both.txt
 echo "Your hosts file has been updated!"
 xdg-open ~/BLT/hosts
+exit
