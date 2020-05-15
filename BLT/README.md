@@ -18,14 +18,14 @@ The hosts file update scripts also contain an optional routine for converting Un
   
 **One-line installation**:  
 Copy the following `wget -nv -O ~/installer.sh "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/installer.sh" && chmod +x ~/installer.sh && sh ~/installer.sh && rm ~/installer.sh` paste it into your terminal, and hit enter. Donezo. Now you have all the utilities.  
-
+  
 **Checklist for normal use**:
 1. Download the installer [from this link](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/installer.sh).
 2. Ensure the installer is executable (either via your file manager or `chmod +x installer.sh` in a terminal).
 3. Run the installer (with `./installer.sh` or `sh installer.sh` in a terminal).
 4. Input your chosen install location at the prompt.
 5. Enjoy using the utilities to keep your block lists and hosts file up-to-date.
-
+  
 **Checklist for manual use**:
 1. Ensure that all content herein is placed within a single folder named *BLT*, housed within your home/user directory (~/BLT).
 2. Open a terminal in or `cd` to the aforementioned directory.
