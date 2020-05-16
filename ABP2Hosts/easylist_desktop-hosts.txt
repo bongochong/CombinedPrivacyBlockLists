@@ -1,4 +1,4 @@
-# Thu 14 May 2020 12:14:34 PM MDT
+# Sat 16 May 2020 06:11:54 AM MDT
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0026645142c89aeb1.com
 0.0.0.0 006a039c957c142bb.com
@@ -139,6 +139,7 @@
 0.0.0.0 1rx.io
 0.0.0.0 1rxntv.io
 0.0.0.0 1sen-pit-fan.com
+0.0.0.0 1st2nd.xyz
 0.0.0.0 1to1.bbva.com
 0.0.0.0 1web.me
 0.0.0.0 1yk851od.com
@@ -632,6 +633,7 @@
 0.0.0.0 8tduqa3h42y5.com
 0.0.0.0 8ue4.xyz
 0.0.0.0 8ue9q7i.com
+0.0.0.0 8uhgc44hfdd4-87hvd4-jhggcg.easylist-to.xyz
 0.0.0.0 8wey4x0c.com
 0.0.0.0 8xkr.xyz
 0.0.0.0 8yxupue8.com
@@ -2058,6 +2060,7 @@
 0.0.0.0 amcdn.vn
 0.0.0.0 amcpusvcit.com
 0.0.0.0 am-display.com
+0.0.0.0 amerallyluke.club
 0.0.0.0 amertazy.com
 0.0.0.0 amesgraduatel.site
 0.0.0.0 amgdgt.com
@@ -4119,6 +4122,7 @@
 0.0.0.0 chordeez.net
 0.0.0.0 chqspuonctkgz.com
 0.0.0.0 christiantop1000.com
+0.0.0.0 christingera.site
 0.0.0.0 christinglatvian.site
 0.0.0.0 christingsugged.site
 0.0.0.0 christmalicious.com
@@ -7186,6 +7190,7 @@
 0.0.0.0 fjszsffyfihqlg.com
 0.0.0.0 fjwagiuqmeymw.com
 0.0.0.0 fjxssyatdwttqm.com
+0.0.0.0 fkart.xyz
 0.0.0.0 fkbwtoopwg.com
 0.0.0.0 fkcfaagktu.com
 0.0.0.0 fkfmujcudpwdn.com
@@ -8426,6 +8431,7 @@
 0.0.0.0 haveamint.com
 0.0.0.0 havenwrite.com
 0.0.0.0 havetohave.com
+0.0.0.0 haviouseulom.club
 0.0.0.0 haviouslyshoutesce.info
 0.0.0.0 hawkeye-data-production.sciencemag.org.s3-website-us-east-1.amazonaws.com
 0.0.0.0 hayfatduh.com
@@ -10038,6 +10044,7 @@
 0.0.0.0 jusrlkubhjnr.com
 0.0.0.0 justailley.pro
 0.0.0.0 justanswer.com
+0.0.0.0 justickedukil.club
 0.0.0.0 justookr.net
 0.0.0.0 justorstonsmajo.info
 0.0.0.0 justpremium.com
@@ -10275,6 +10282,7 @@
 0.0.0.0 kindznnd998.xyz
 0.0.0.0 kinley.com
 0.0.0.0 kinoprofi.org
+0.0.0.0 kinsecutiony.club
 0.0.0.0 kiobmbncsrwc.com
 0.0.0.0 kiosked.com
 0.0.0.0 kioxqnfhyh.com
@@ -10609,6 +10617,7 @@
 0.0.0.0 lashaucu.net
 0.0.0.0 lassistslegisten.info
 0.0.0.0 lationwordsi.club
+0.0.0.0 latviancedef.site
 0.0.0.0 laughcloth.com
 0.0.0.0 lauhauch.com
 0.0.0.0 laujouty.com
@@ -10727,6 +10736,7 @@
 0.0.0.0 ledvqaldtf.com
 0.0.0.0 leeneevo.net
 0.0.0.0 leetmedia.com
+0.0.0.0 legalledgtjuj.club
 0.0.0.0 legenhit.com
 0.0.0.0 legisland.net
 0.0.0.0 legolas-media.com
@@ -16292,6 +16302,7 @@
 0.0.0.0 ridingintractable.com
 0.0.0.0 rientgallacecapt.info
 0.0.0.0 rigfoxcup.site
+0.0.0.0 rightiescolled.club
 0.0.0.0 rightmoveanalytics.co.uk
 0.0.0.0 rightstats.com
 0.0.0.0 rigoczly.com
@@ -17120,6 +17131,7 @@
 0.0.0.0 sigrjorpzhte.com
 0.0.0.0 sihciabzm.com
 0.0.0.0 sihjnaojbrs.com
+0.0.0.0 sikelypleaste.site
 0.0.0.0 silimbompom.com
 0.0.0.0 silsfrastinggove.info
 0.0.0.0 silstavo.com
@@ -18965,6 +18977,7 @@
 0.0.0.0 tranite.info
 0.0.0.0 tranquilside.com
 0.0.0.0 transactionale.com
+0.0.0.0 transardugde.club
 0.0.0.0 trapasol.com
 0.0.0.0 t.raptorsmartadvisor.com
 0.0.0.0 trasholita.com
@@ -19956,6 +19969,7 @@
 0.0.0.0 villandopingcon.site
 0.0.0.0 vilynx.com
 0.0.0.0 vimdiebid.club
+0.0.0.0 vimmenced.club
 0.0.0.0 vindicosuite.com
 0.0.0.0 vinfazjrdmh.com
 0.0.0.0 vinitasentence.pro
@@ -20380,6 +20394,7 @@
 0.0.0.0 wdrgqoweorjfp.com
 0.0.0.0 wdwczzyhzra.com
 0.0.0.0 wdzeuxkfvyv.com
+0.0.0.0 weaponsort.club
 0.0.0.0 web1.51.la
 0.0.0.0 web.adblade.com
 0.0.0.0 webads.co.nz
@@ -20485,6 +20500,7 @@
 0.0.0.0 webxmr.com
 0.0.0.0 weby.aaas.org
 0.0.0.0 wecount4u.com
+0.0.0.0 wedneckekij.club
 0.0.0.0 wedwcmjo.com
 0.0.0.0 weedazou.net
 0.0.0.0 weegebul.net
@@ -20634,6 +20650,7 @@
 0.0.0.0 wimsocou.com
 0.0.0.0 winadx.com
 0.0.0.0 winbuyer.com
+0.0.0.0 windoorsew.club
 0.0.0.0 windowmentaria.com
 0.0.0.0 wingads.com
 0.0.0.0 winitout.com
@@ -20647,6 +20664,7 @@
 0.0.0.0 witalfieldt.com
 0.0.0.0 withcubed.com
 0.0.0.0 withingsessed.pro
+0.0.0.0 withoughstors.club
 0.0.0.0 wityamdog.com
 0.0.0.0 wiywlvkwwwrms.com
 0.0.0.0 wizliebeg.com
@@ -20770,6 +20788,7 @@
 0.0.0.0 wredmtmvkjbg.com
 0.0.0.0 wrfrxgft.com
 0.0.0.0 wrierville.com
+0.0.0.0 wrkl.xyz
 0.0.0.0 wrmcfyzl.com
 0.0.0.0 wrnrxzstxtjsn.com
 0.0.0.0 wrongerababan.info

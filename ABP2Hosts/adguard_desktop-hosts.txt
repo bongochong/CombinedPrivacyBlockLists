@@ -1,4 +1,4 @@
-# Thu 14 May 2020 12:14:28 PM MDT
+# Sat 16 May 2020 06:11:48 AM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 0351dvd.cn
@@ -86,6 +86,7 @@
 0.0.0.0 320147982.world
 0.0.0.0 321gongsi.com
 0.0.0.0 33across.com
+0.0.0.0 34ed5da2977d1ace.com
 0.0.0.0 35.184.169.188
 0.0.0.0 35.188.14.213
 0.0.0.0 35.193.89.147
@@ -126,6 +127,7 @@
 0.0.0.0 50bang.org
 0.0.0.0 51yes.com
 0.0.0.0 523c579923fd35aa.com
+0.0.0.0 544bd1e82a9c8c39.com
 0.0.0.0 54kefu.net
 0.0.0.0 551f044b1a3f4ef.com
 0.0.0.0 5568.gjghy.com
@@ -170,6 +172,8 @@
 0.0.0.0 800d24d61daea3c.com
 0.0.0.0 8020solutions.net
 0.0.0.0 815e8fa24ebb8686.com
+0.0.0.0 822f797ef9d68ad3.com
+0.0.0.0 82448dceaaa13034.com
 0.0.0.0 82o9v830.com
 0.0.0.0 863c4c0c521.se
 0.0.0.0 86a6b542l7.com
@@ -447,6 +451,7 @@
 0.0.0.0 adzerk.net
 0.0.0.0 adzoe.de
 0.0.0.0 adzos.com
+0.0.0.0 ae21a0ad95016488.com
 0.0.0.0 ae25079147984d4d.com
 0.0.0.0 ae7c783736eb2ff.com
 0.0.0.0 aeckcjy.com
@@ -483,6 +488,7 @@
 0.0.0.0 agilone.com
 0.0.0.0 agkn.com
 0.0.0.0 agomwefq.com
+0.0.0.0 agreeabletouch.com
 0.0.0.0 agreensdistra.info
 0.0.0.0 agxclick.com
 0.0.0.0 aidalbark.site
@@ -1744,6 +1750,7 @@
 0.0.0.0 decideinteractive.com
 0.0.0.0 decisiveducks.com
 0.0.0.0 declaredthoughtfulness.co
+0.0.0.0 ded733b374cc1c3f.com
 0.0.0.0 deep.bi
 0.0.0.0 def-platform.com
 0.0.0.0 defpush.com
@@ -1943,6 +1950,7 @@
 0.0.0.0 dzizsih.ru
 0.0.0.0 dzs55b7slwyx.cloudfront.net
 0.0.0.0 e.211pu.cn
+0.0.0.0 e21b1642db801b2a.com
 0.0.0.0 e553bcf717698d33.com
 0.0.0.0 e6081b73afec581f.com
 0.0.0.0 e7393e33565ce805.com
@@ -2205,6 +2213,7 @@
 0.0.0.0 fcs.ovh
 0.0.0.0 fd9523b31ff93b5c.com
 0.0.0.0 fdgeen.com
+0.0.0.0 feb12740de5be9b3.com
 0.0.0.0 feedcat.net
 0.0.0.0 feedjit.com
 0.0.0.0 feed.monad-rtb.com

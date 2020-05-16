@@ -1,4 +1,4 @@
-# Thu 14 May 2020 12:14:36 PM MDT
+# Sat 16 May 2020 06:11:56 AM MDT
 # AdGuard DNS Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 0026645142c89aeb1.com
@@ -124,6 +124,7 @@
 0.0.0.0 0stats.com
 0.0.0.0 0sywjs4r1x.com
 0.0.0.0 0tracker.com
+0.0.0.0 0u48ltm1ok.ru
 0.0.0.0 0u.fastdmn0.com
 0.0.0.0 0uk9e.cn
 0.0.0.0 0x013d.website
@@ -246,6 +247,7 @@
 0.0.0.0 17.huanqiu.com
 0.0.0.0 17tuozhai.com
 0.0.0.0 17un.co
+0.0.0.0 17ys.top
 0.0.0.0 17zheng.cn
 0.0.0.0 1.800400.net
 0.0.0.0 1800cnt.com
@@ -358,6 +360,7 @@
 0.0.0.0 1.snzfj.net
 0.0.0.0 1.soufy.cn
 0.0.0.0 1sputnik.ru
+0.0.0.0 1st2nd.xyz
 0.0.0.0 1tdscpamedia.xyz
 0.0.0.0 1.tecbbs.com
 0.0.0.0 1to1.bbva.com
@@ -591,6 +594,7 @@
 0.0.0.0 34667c8ece5.com
 0.0.0.0 34bogatirya.ru
 0.0.0.0 34c2f22e9503ace.com
+0.0.0.0 34ed5da2977d1ace.com
 0.0.0.0 350media.com
 0.0.0.0 3.5646.cn
 0.0.0.0 3585656d9351553f.com
@@ -851,6 +855,7 @@
 0.0.0.0 538b5d8f303be.com
 0.0.0.0 53txs.com
 0.0.0.0 542fe1b0002a.com
+0.0.0.0 544bd1e82a9c8c39.com
 0.0.0.0 54kefu.net
 0.0.0.0 550tg.com
 0.0.0.0 551f044b1a3f4ef.com
@@ -1194,8 +1199,10 @@
 0.0.0.0 81c.cn
 0.0.0.0 81ngn1.cn
 0.0.0.0 820rd.com
+0.0.0.0 822f797ef9d68ad3.com
 0.0.0.0 8233fa03a40c92d.com
 0.0.0.0 823bc1a6cd3f1657.com
+0.0.0.0 82448dceaaa13034.com
 0.0.0.0 825145.com
 0.0.0.0 827649.com
 0.0.0.0 82b9d6273154e7cbf.com
@@ -1289,6 +1296,7 @@
 0.0.0.0 8s32e590un.com
 0.0.0.0 8s8.eu
 0.0.0.0 8t5vd.cn
+0.0.0.0 8tduqa3h42y5.com
 0.0.0.0 8testov.ru
 0.0.0.0 8test.ru
 0.0.0.0 8ucdn.com
@@ -2788,6 +2796,7 @@
 0.0.0.0 ads.livetvcdn.net
 0.0.0.0 adsliv.ru
 0.0.0.0 ads.lomadee.com
+0.0.0.0 adsloom.com
 0.0.0.0 adslop.com
 0.0.0.0 adslot.com
 0.0.0.0 adslot.uc.cn
@@ -3301,6 +3310,7 @@
 0.0.0.0 adzworld.in
 0.0.0.0 adzyou.com
 0.0.0.0 ae1a1e258b8b016.com
+0.0.0.0 ae21a0ad95016488.com
 0.0.0.0 ae25079147984d4d.com
 0.0.0.0 ae3482c74b1a99f.com
 0.0.0.0 ae7c783736eb2ff.com
@@ -4830,6 +4840,7 @@
 0.0.0.0 atoshonetwork.com
 0.0.0.0 atoultou.com
 0.0.0.0 a.tovarro.com
+0.0.0.0 atovub.com
 0.0.0.0 atp.io
 0.0.0.0 atpqczsqjsxvln.com
 0.0.0.0 atraxio.com
@@ -7520,6 +7531,7 @@
 0.0.0.0 chqspuonctkgz.com
 0.0.0.0 christiantop1000.com
 0.0.0.0 christinehris.com
+0.0.0.0 christingera.site
 0.0.0.0 christinglatvian.site
 0.0.0.0 christingsugged.site
 0.0.0.0 christmalicious.com
@@ -9669,6 +9681,7 @@
 0.0.0.0 decknetwork.net
 0.0.0.0 declaredthoughtfulness.co
 0.0.0.0 decordingaudied.site
+0.0.0.0 ded733b374cc1c3f.com
 0.0.0.0 dedicatedmedia.com
 0.0.0.0 dedicatednetworks.com
 0.0.0.0 deepattention.com
@@ -10686,6 +10699,7 @@
 0.0.0.0 e13085e58935e6.com
 0.0.0.0 e18a97eee94d0f2519.com
 0.0.0.0 e.211pu.cn
+0.0.0.0 e21b1642db801b2a.com
 0.0.0.0 e2618abc9a1.com
 0.0.0.0 e2706c6e2b426f74.com
 0.0.0.0 e2e.mashable.com
@@ -12065,6 +12079,7 @@
 0.0.0.0 featuredusers.com
 0.0.0.0 feature.fm
 0.0.0.0 featurelink.com
+0.0.0.0 feb12740de5be9b3.com
 0.0.0.0 febalwby.com
 0.0.0.0 febwinter.com
 0.0.0.0 fecgvrvne.com
@@ -15402,6 +15417,7 @@
 0.0.0.0 idqzpnea.com
 0.0.0.0 idrdmyixk.com
 0.0.0.0 idreammedia.com
+0.0.0.0 idspatchi.com
 0.0.0.0 idszrbmjvkdodt.com
 0.0.0.0 idtargeting.com
 0.0.0.0 idt.id-news.net
@@ -15578,6 +15594,7 @@
 0.0.0.0 ili.pp.ua
 0.0.0.0 iljmp.com
 0.0.0.0 ilk10.az
+0.0.0.0 ilkmawgod.site
 0.0.0.0 ilkphyyzg.com
 0.0.0.0 illazkka.com
 0.0.0.0 illumenix.com
@@ -17445,6 +17462,7 @@
 0.0.0.0 kinotraff.ru
 0.0.0.0 kinott.com
 0.0.0.0 kinott.ru
+0.0.0.0 kinsecutiony.club
 0.0.0.0 kintohis.com
 0.0.0.0 kiobmbncsrwc.com
 0.0.0.0 kiosked.com
@@ -17999,6 +18017,7 @@
 0.0.0.0 lasttopreg.top
 0.0.0.0 lationwordsi.club
 0.0.0.0 latlfa.biz
+0.0.0.0 latviancedef.site
 0.0.0.0 laughcloth.com
 0.0.0.0 lauhauch.com
 0.0.0.0 laujouty.com
@@ -18162,6 +18181,7 @@
 0.0.0.0 leetmedia.com
 0.0.0.0 leforma.com
 0.0.0.0 leftnetarenning.pro
+0.0.0.0 legalledgtjuj.club
 0.0.0.0 legandruk.com
 0.0.0.0 legenhit.com
 0.0.0.0 legisland.net
@@ -18411,6 +18431,7 @@
 0.0.0.0 linkpage.cn
 0.0.0.0 linkpeoples.com
 0.0.0.0 linkpulse.com
+0.0.0.0 linkredirect.biz
 0.0.0.0 linkreferral.com
 0.0.0.0 link.ru
 0.0.0.0 links2revenue.com
@@ -18819,7 +18840,6 @@
 0.0.0.0 lokspeedarma.com
 0.0.0.0 lol.bash.org.ru
 0.0.0.0 loldata.top
-0.0.0.0 lolmp4.com
 0.0.0.0 lolper.ru
 0.0.0.0 loltrk.com
 0.0.0.0 lolvsdota.cn
@@ -18829,6 +18849,7 @@
 0.0.0.0 loneday.com
 0.0.0.0 lonedol.info
 0.0.0.0 long88.app
+0.0.0.0 longdidi.top
 0.0.0.0 longertail.pl
 0.0.0.0 longkoupeanut.cn
 0.0.0.0 loobusir.com
@@ -20483,6 +20504,7 @@
 0.0.0.0 moviead.ru
 0.0.0.0 moviecash.ru
 0.0.0.0 movie-pass.live
+0.0.0.0 movie-streams-online.com
 0.0.0.0 movii-loft.cn
 0.0.0.0 mowfruit.com
 0.0.0.0 mowithlerendu.pro
@@ -20574,6 +20596,7 @@
 0.0.0.0 mrycrypto.com
 0.0.0.0 mrzpfpgh.com
 0.0.0.0 ms3388.com
+0.0.0.0 ms3t.club
 0.0.0.0 ms758.com
 0.0.0.0 ms88asia.com
 0.0.0.0 ms88ca.com
@@ -29418,6 +29441,7 @@
 0.0.0.0 stroeerdigitalmedia.de
 0.0.0.0 strongexplain.com
 0.0.0.0 strossle.it
+0.0.0.0 stroublederaa.club
 0.0.0.0 strs.jp
 0.0.0.0 strucewe.info
 0.0.0.0 structuresofa.com
@@ -31419,6 +31443,7 @@
 0.0.0.0 tranite.info
 0.0.0.0 tranquilside.com
 0.0.0.0 transactionale.com
+0.0.0.0 transardugde.club
 0.0.0.0 transfto.com
 0.0.0.0 transiz.ru
 0.0.0.0 transmatico.com
@@ -33692,6 +33717,7 @@
 0.0.0.0 wdymwzz.com
 0.0.0.0 wdzeuxkfvyv.com
 0.0.0.0 wdzsb.com.cn
+0.0.0.0 weaponsort.club
 0.0.0.0 web100kz.com
 0.0.0.0 web1.51.la
 0.0.0.0 web20-traffic-system.de
@@ -33852,6 +33878,7 @@
 0.0.0.0 wecount4u.com
 0.0.0.0 wedeegut.net
 0.0.0.0 wedgeac.com
+0.0.0.0 wedneckekij.club
 0.0.0.0 wedtor.com
 0.0.0.0 weduoke.com
 0.0.0.0 wedwcmjo.com
@@ -34096,6 +34123,7 @@
 0.0.0.0 withcubed.com
 0.0.0.0 withingsessed.pro
 0.0.0.0 withnewswearebest.com
+0.0.0.0 withoughstors.club
 0.0.0.0 witlee.com
 0.0.0.0 wityamdog.com
 0.0.0.0 wiywlvkwwwrms.com
@@ -34304,6 +34332,7 @@
 0.0.0.0 wrfrxgft.com
 0.0.0.0 wrierville.com
 0.0.0.0 writeln.ru
+0.0.0.0 wrkl.xyz
 0.0.0.0 wrmcfyzl.com
 0.0.0.0 wrnrxzstxtjsn.com
 0.0.0.0 wrongerababan.info
