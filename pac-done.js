@@ -1,4 +1,4 @@
-// **** Thu 14 May 2020 12:17:20 PM MDT
+// **** Sat 16 May 2020 06:19:06 AM MDT
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.039b1ee.netsolhost.com') ||
@@ -1729,7 +1729,6 @@ shExpMatch(host, '*.affiliate.viator.com') ||
 shExpMatch(host, '*.affiliatewindow.com') ||
 shExpMatch(host, '*.affiliation-france.com') ||
 shExpMatch(host, '*.affili.net') ||
-shExpMatch(host, '*.affrh2014.com') ||
 shExpMatch(host, '*.affrh2022.com') ||
 shExpMatch(host, '*.afftracking.justanswer.com') ||
 shExpMatch(host, '*.afobal.cl') ||
@@ -8628,7 +8627,6 @@ shExpMatch(host, 'affiliate.viator.com') ||
 shExpMatch(host, 'affiliatewindow.com') ||
 shExpMatch(host, 'affiliation-france.com') ||
 shExpMatch(host, 'affili.net') ||
-shExpMatch(host, 'affrh2014.com') ||
 shExpMatch(host, 'affrh2022.com') ||
 shExpMatch(host, 'afftracking.justanswer.com') ||
 shExpMatch(host, 'afobal.cl') ||
