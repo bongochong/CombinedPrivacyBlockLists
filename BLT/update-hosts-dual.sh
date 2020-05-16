@@ -52,7 +52,7 @@ sed -i "/^0.0.0.0 /! s/^/0.0.0.0 /" uniq-hosts.final
 #    sed -i "/^0.0.0.0 /! s/^/0.0.0.0 /" uniq-hosts-na.final
 #    rm -f uniq-hosts.final && mv uniq-hosts-na.final uniq-hosts.final
 #else
-#    echo "All domains are valid ASCII strings continuing compilation of lists..."
+#    echo "All domains are valid ASCII strings. Continuing compilation of lists..."
 #fi
 #End of Unicode IDN domain to Punycode conversion routine
 sed -i '/0.0.0.0 device9.com/d' uniq-hosts.final
