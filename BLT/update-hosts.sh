@@ -2,7 +2,7 @@
 #Block List Tools (http://shorl.com/fovogretopiga)
 #From the maintainer of Combined Privacy Block Lists (https://github.com/bongochong/CombinedPrivacyBlockLists)
 #License: CPAL-1.0 (https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/LICENSE.md)
-echo "Cleaning up & Fetching host lists..."
+echo "Cleaning up & Fetching hosts lists..."
 mkdir -p ~/BLT/hosts
 cd ~/BLT/hosts
 rm -f hosts.*
@@ -28,6 +28,7 @@ wget -nv -O hosts.8 "https://raw.githubusercontent.com/bongochong/CombinedPrivac
 echo "Downloaded hosts list 8"
 # wget -nv -O hosts.9 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/NSA-BlockList-IPv4-Light.txt"
 # echo "Downloaded hosts list 9"
+echo "Parsing data..."
 cat hosts.* > hosts-cat.final
 pcregrep -v -f ~/BLT/parsing/hostpatterns.dat hosts-cat.final > hosts-pre.final
 sort hosts-pre.final | uniq > uniq-hosts.final

@@ -14,6 +14,7 @@ mkdir -p ~/"$file_dir"/hosts
 mkdir -p ~/"$file_dir"/pac
 mkdir -p ~/"$file_dir"/parsing
 mkdir -p ~/"$file_dir"/readmes
+echo "Downloading documentation and scripts..."
 cd ~/"$file_dir"
 wget -nv "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/README.md"
 wget -nv "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/update-btdat.sh"

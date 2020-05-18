@@ -16,7 +16,7 @@ wget -nv -O 4.pac "https://s3.amazonaws.com/lists.disconnect.me/simple_malvertis
 wget -nv -O 5.pac "https://dshield.org/feeds/suspiciousdomains_Medium.txt"
 wget -nv -O 6.pac "https://dshield.org/feeds/suspiciousdomains_High.txt"
 wget -nv -O 7.pac "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=0&mimetype=plaintext"
-echo "Lists Downloaded."
+echo "Lists Downloaded. Now parsing..."
 cat *.pac > pac-comb.txt
 sed -i "s/#.*$//" pac-comb.txt
 sed -i "/^$/d" pac-comb.txt
