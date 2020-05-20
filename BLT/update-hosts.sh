@@ -69,6 +69,7 @@ sed -i '/:/d' uniq-hosts.final
 sed -i '/~/d' uniq-hosts.final
 sed -i '/,/d' uniq-hosts.final
 sed -i '/=/d' uniq-hosts.final
+sed -i -e 's/\(.*\)/\L\1/' uniq-hosts.final
 sort uniq-hosts.final | uniq -i > final-uniq.hosts
 pcregrep -v -f ~/BLT/parsing/hostpatterns.dat final-uniq.hosts > hosts.final
 perl -i -pe 'chomp if eof' hosts.final
