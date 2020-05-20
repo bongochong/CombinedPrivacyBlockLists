@@ -26,8 +26,8 @@ wget -nv -O hosts.7 "https://raw.githubusercontent.com/bongochong/CombinedPrivac
 echo "Downloaded hosts list 7"
 wget -nv -O hosts.8 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/easylist_desktop-hosts.txt"
 echo "Downloaded hosts list 8"
-# wget -nv -O hosts.9 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/NSA-BlockList-IPv4-Light.txt"
-# echo "Downloaded hosts list 9"
+wget -nv -O hosts.9 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/adguard_dns-hosts.txt"
+echo "Downloaded hosts list 9"
 echo "Parsing data..."
 cat hosts.* > hosts-cat.final
 pcregrep -v -f ~/BLT/parsing/hostpatterns.dat hosts-cat.final > hosts-pre.final
