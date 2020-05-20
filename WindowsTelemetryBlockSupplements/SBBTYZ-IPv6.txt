@@ -1,7 +1,7 @@
 #Anti-Telemetry Hosts for Windows from TYZBIT, CrazyMax and SpyBot Anti-Beacon
 #IPv6 Version
 #Included in default hosts file
-#Last update 2/23/2020
+#Last update 5/20/2020
 
 :: a-0001.a-msedge.net
 :: a-0002.a-msedge.net
@@ -189,6 +189,8 @@
 :: cds857.lon.llnw.net
 :: cds868.lon.llnw.net
 :: cds869.lon.llnw.net
+:: ceuswatcab01.blob.core.windows.net
+:: ceuswatcab02.blob.core.windows.net
 :: ch1-cor001.api.p001.1drv.com
 :: ch1-cor002.api.p001.1drv.com
 :: ch3301-c.1drv.com
@@ -204,6 +206,7 @@
 :: continuum.dds.microsoft.com
 :: corp.sts.microsoft.com
 :: corpext.msitadfs.glbdns2.microsoft.com
+:: cs.dds.microsoft.com
 :: cs1.wpc.v0cdn.net
 :: cy2.vortex.data.microsoft.com.akadns.net
 :: db3aqu.atdmt.com
@@ -214,6 +217,8 @@
 :: dev.virtualearth.net
 :: df.telemetry.microsoft.com
 :: diagnostics.support.microsoft.com
+:: eaus2watcab01.blob.core.windows.net
+:: eaus2watcab02.blob.core.windows.net
 :: ec.atdmt.com
 :: ecn.dev.virtualearth.net
 :: eu-v10.events.data.microsoft.com
@@ -335,6 +340,7 @@
 :: msntest.serving-sys.com
 :: nexus.officeapps.live.com
 :: nexusrules.officeapps.live.com
+:: nw-umwatson.events.data.microsoft.com
 :: oca.telemetry.microsoft.com
 :: oca.telemetry.microsoft.com.nsatc.net
 :: onecollector.cloudapp.aria.akadns.net
@@ -355,6 +361,7 @@
 :: settings-sandbox.data.microsoft.com
 :: settings-win-ppe.data.microsoft.com
 :: settings.data.glbdns2.microsoft.com
+:: settingsfd-geo.trafficmanager.net
 :: sg2p.wns.windows.com
 :: sls.update.microsoft.com.akadns.net
 :: sn3301-c.1drv.com
@@ -406,8 +413,11 @@
 :: watson.telemetry.microsoft.com.nsatc.net
 :: web.vortex.data.microsoft.com
 :: wes.df.telemetry.microsoft.com
+:: weus2watcab01.blob.core.windows.net
+:: weus2watcab02.blob.core.windows.net
 :: win10.ipv6.microsoft.com
 :: win1710.ipv6.microsoft.com
 :: win8.ipv6.microsoft.com
 :: www.msedge.net
 :: www.msftncsi.com
+:: ztd.dds.microsoft.com
