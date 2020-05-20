@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 # This *must* be the first line: 127.0.0.1     localhost   #
 #                                                          #
 #**********************************************************#
-# ------------- Wed 20 May 2020 12:55:04 AM MDT ---------- #
+# ------------- Wed 20 May 2020 01:06:07 AM MDT ---------- #
 #**********************************************************#
 #                                                          #
 # Disclaimer: cow pigs won dogs on six for personal use    #
@@ -33,7 +33,6 @@ ff02::2 ip6-allrouters
 # Enjoy!                                                   #
 #                                                          #
 # [Start of automated entries]
-:: 0.0.0.0
 :: 0.nextyourcontent.com
 :: 0.r.msn.com
 :: 000lex4.wcomhost.com
@@ -134,7 +133,6 @@ ff02::2 ip6-allrouters
 :: 0851ok.com
 :: 08a14e37bb.com
 :: 08b72e4833486d.com
-:: 090906042103.c.mystat-in.net
 :: 0916video.ru
 :: 0923csfsteibv12.xyz
 :: 0926a687679d337e9d.com
@@ -42710,13 +42708,6 @@ ff02::2 ip6-allrouters
 :: ip2location.com
 :: ip2map.com
 :: ip2phrase.com
-:: ip6-allhosts
-:: ip6-allnodes
-:: ip6-allrouters
-:: ip6-localhost
-:: ip6-localnet
-:: ip6-loopback
-:: ip6-mcastprefix
 :: ipa.pushwoosh.com
 :: ipacc1.adtech.fr
 :: ipacc1.adtech.us
@@ -47524,6 +47515,19 @@ ff02::2 ip6-allrouters
 :: lobtraining.de
 :: loc.map.baidu.com
 :: loc1.hitsprocessor.com
+:: local-analytics.uberinternal.com
+:: local.ownlocal.com
+:: local.tampabay.com
+:: localadbuy.com
+:: localdates4.com
+:: localedgemedia.com
+:: localguide.church
+:: localiser-une-portable.com
+:: localmantra.com
+:: localmediabuying.com
+:: localpoint.ch
+:: localsearch24.co.uk
+:: localytics.com
 :: location.kredivo.com
 :: location.tappsgames.com
 :: locations-v2.ibmlivenationapi.com

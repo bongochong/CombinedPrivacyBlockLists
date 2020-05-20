@@ -18,7 +18,7 @@
 # This *must* be the first line: 127.0.0.1     localhost   #
 #                                                          #
 #**********************************************************#
-# ------------- Wed 20 May 2020 12:55:03 AM MDT ---------- #
+# ------------- Wed 20 May 2020 01:06:07 AM MDT ---------- #
 #**********************************************************#
 #                                                          #
 # Disclaimer: cow pigs won dogs on six for personal use    #
@@ -33,7 +33,6 @@
 # Enjoy!                                                   #
 #                                                          #
 # [Start of automated entries]
-0.0.0.0 0.0.0.0
 0.0.0.0 0.nextyourcontent.com
 0.0.0.0 0.r.msn.com
 0.0.0.0 000lex4.wcomhost.com
@@ -134,7 +133,6 @@
 0.0.0.0 0851ok.com
 0.0.0.0 08a14e37bb.com
 0.0.0.0 08b72e4833486d.com
-0.0.0.0 090906042103.c.mystat-in.net
 0.0.0.0 0916video.ru
 0.0.0.0 0923csfsteibv12.xyz
 0.0.0.0 0926a687679d337e9d.com
@@ -42710,13 +42708,6 @@
 0.0.0.0 ip2location.com
 0.0.0.0 ip2map.com
 0.0.0.0 ip2phrase.com
-0.0.0.0 ip6-allhosts
-0.0.0.0 ip6-allnodes
-0.0.0.0 ip6-allrouters
-0.0.0.0 ip6-localhost
-0.0.0.0 ip6-localnet
-0.0.0.0 ip6-loopback
-0.0.0.0 ip6-mcastprefix
 0.0.0.0 ipa.pushwoosh.com
 0.0.0.0 ipacc1.adtech.fr
 0.0.0.0 ipacc1.adtech.us
@@ -47524,6 +47515,19 @@
 0.0.0.0 lobtraining.de
 0.0.0.0 loc.map.baidu.com
 0.0.0.0 loc1.hitsprocessor.com
+0.0.0.0 local-analytics.uberinternal.com
+0.0.0.0 local.ownlocal.com
+0.0.0.0 local.tampabay.com
+0.0.0.0 localadbuy.com
+0.0.0.0 localdates4.com
+0.0.0.0 localedgemedia.com
+0.0.0.0 localguide.church
+0.0.0.0 localiser-une-portable.com
+0.0.0.0 localmantra.com
+0.0.0.0 localmediabuying.com
+0.0.0.0 localpoint.ch
+0.0.0.0 localsearch24.co.uk
+0.0.0.0 localytics.com
 0.0.0.0 location.kredivo.com
 0.0.0.0 location.tappsgames.com
 0.0.0.0 locations-v2.ibmlivenationapi.com
