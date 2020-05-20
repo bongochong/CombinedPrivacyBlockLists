@@ -1,4 +1,4 @@
-# Wed 20 May 2020 01:45:32 AM MDT
+# Wed 20 May 2020 01:04:12 PM MDT
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -2205,6 +2205,7 @@
 0.0.0.0 api.ad.intl.xiaomi.com
 0.0.0.0 api.ad-locus.com
 0.0.0.0 api.admob.xiaomi.com
+0.0.0.0 api.adnet.mob.com
 0.0.0.0 api.adrtx.net
 0.0.0.0 api.adsafeprotected.com
 0.0.0.0 api.adskeeper.co.uk
@@ -2236,6 +2237,7 @@
 0.0.0.0 api.appexchange.salesforce.com
 0.0.0.0 api.appfireworks.com
 0.0.0.0 api.applifier.com
+0.0.0.0 api.applovefrom.com
 0.0.0.0 api.applovin.com
 0.0.0.0 api.app.masoffer.net
 0.0.0.0 api.appnext.com
@@ -3304,6 +3306,7 @@
 0.0.0.0 billboard.vungle.com
 0.0.0.0 billymobile.com
 0.0.0.0 billytesting.com
+0.0.0.0 bi.manhuaren.com
 0.0.0.0 bimlocal.com
 0.0.0.0 b.imonomy.com
 0.0.0.0 bingads.microsoft.com
@@ -6971,9 +6974,6 @@
 0.0.0.0 kiks.yandex.ru
 0.0.0.0 kimia.com
 0.0.0.0 kimia.es
-0.0.0.0 kinesisanalytics.eu-central-1.amazonaws.com
-0.0.0.0 kinesisanalytics.eu-west-1.amazonaws.com
-0.0.0.0 kinesis.us-east-1.amazonaws.com
 0.0.0.0 king-contenido-prod.secure2.footprint.net
 0.0.0.0 kiosked.com
 0.0.0.0 kissmyads.go2jump.org
@@ -10157,6 +10157,7 @@
 0.0.0.0 s-eu-west-1.axonix.com
 0.0.0.0 sexpennyauctions.com
 0.0.0.0 sezwho.com
+0.0.0.0 sf3-ttcdn-tos.pstatp.com
 0.0.0.0 sf.bizible.com
 0.0.0.0 sfera-d.openx.net
 0.0.0.0 sfg-d.openx.net
@@ -10417,6 +10418,7 @@
 0.0.0.0 snrtp1.marketo.com
 0.0.0.0 snrtp-cdn.marketo.com
 0.0.0.0 snssdk1233.onelink.me
+0.0.0.0 snssdk.com
 0.0.0.0 s.ntv.io
 0.0.0.0 s.nvrentao8.com
 0.0.0.0 sobar.baidu.com

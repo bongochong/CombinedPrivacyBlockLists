@@ -1,4 +1,4 @@
-# Wed 20 May 2020 01:45:36 AM MDT
+# Wed 20 May 2020 01:04:17 PM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 0351dvd.cn
@@ -1138,6 +1138,7 @@
 0.0.0.0 castelein.nu
 0.0.0.0 casterist.info
 0.0.0.0 catwenbat.com
+0.0.0.0 causecherry.com
 0.0.0.0 cawsodpet.club
 0.0.0.0 cb8717377086c72d.com
 0.0.0.0 c.bxjpl.cn
@@ -1887,6 +1888,7 @@
 0.0.0.0 dorapodorasham.com
 0.0.0.0 dorectertnerow.info
 0.0.0.0 doshaido.com
+0.0.0.0 dostophog.com
 0.0.0.0 dotmetrics.net
 0.0.0.0 dotomi.com
 0.0.0.0 doublepimpads.com

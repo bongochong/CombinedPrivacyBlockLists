@@ -1,4 +1,4 @@
-# Wed 20 May 2020 01:45:44 AM MDT
+# Wed 20 May 2020 01:04:25 PM MDT
 # AdGuard DNS Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 0026645142c89aeb1.com
@@ -773,6 +773,7 @@
 0.0.0.0 4b6994dfa47cee4.com
 0.0.0.0 4bb6jls06l.com
 0.0.0.0 4c935d6a244f.com
+0.0.0.0 4dds.s4d.xyz
 0.0.0.0 4dex.io
 0.0.0.0 4df5ef.xyz
 0.0.0.0 4dsbanner.com
@@ -4394,6 +4395,7 @@
 0.0.0.0 api.adintext.net
 0.0.0.0 api.ad.intl.xiaomi.com
 0.0.0.0 api.ad-locus.com
+0.0.0.0 api.adnet.mob.com
 0.0.0.0 api.ads.watchabc.go.com
 0.0.0.0 api.ad.xiaomi.com
 0.0.0.0 apiafubb.com
@@ -4405,6 +4407,7 @@
 0.0.0.0 api.analytics.omgpop.com
 0.0.0.0 api-analytics.rozetka.com.ua
 0.0.0.0 api.appfireworks.com
+0.0.0.0 api.applovefrom.com
 0.0.0.0 api.appnxt.net
 0.0.0.0 api.appsee.com
 0.0.0.0 api.appsflyer.com
@@ -4452,6 +4455,7 @@
 0.0.0.0 apis.appnxt.net
 0.0.0.0 api.sec.miui.com
 0.0.0.0 api.segment.io
+0.0.0.0 api.share.mob.com
 0.0.0.0 api.smartadv.ru
 0.0.0.0 api.splkmobile.com
 0.0.0.0 api.taplytics.com
@@ -6005,6 +6009,7 @@
 0.0.0.0 bilrtklg.com
 0.0.0.0 bilsyndication.com
 0.0.0.0 biluzhang.cn
+0.0.0.0 bi.manhuaren.com
 0.0.0.0 bimlocal.com
 0.0.0.0 bimwswreljucxa.com
 0.0.0.0 bin40.com
@@ -7040,6 +7045,7 @@
 0.0.0.0 catwrite.com
 0.0.0.0 caucqpoeg.com
 0.0.0.0 caughinga.info
+0.0.0.0 causecherry.com
 0.0.0.0 cauthuny.net
 0.0.0.0 cautiouscrate.com
 0.0.0.0 cautiouscredit.com
@@ -7128,6 +7134,7 @@
 0.0.0.0 cd828.com
 0.0.0.0 cd87c85eb2890d048d2.com
 0.0.0.0 cda.0-shiny.com
+0.0.0.0 c.data.mob.com
 0.0.0.0 cdaywwdyicf.com
 0.0.0.0 cdaz.icu
 0.0.0.0 cd-best.cn
@@ -9485,6 +9492,7 @@
 0.0.0.0 dapperdiscussion.com
 0.0.0.0 dapper.net
 0.0.0.0 d.applvn.com
+0.0.0.0 dapskja.cn
 0.0.0.0 dapxl.com
 0.0.0.0 daq0d0aotgq0f.cloudfront.net
 0.0.0.0 daqijjpjow.com
@@ -10337,6 +10345,7 @@
 0.0.0.0 doshaido.com
 0.0.0.0 doskki.com
 0.0.0.0 dostavka.ru
+0.0.0.0 dostophog.com
 0.0.0.0 dosugcz.info
 0.0.0.0 dosugcz.net
 0.0.0.0 dotaki.com
@@ -12457,6 +12466,7 @@
 0.0.0.0 fmstigat.online
 0.0.0.0 fmxllgvfzsoz.com
 0.0.0.0 fmxnlkoaf.com
+0.0.0.0 fnacgbik9v14.com
 0.0.0.0 fnbmlwip.biz
 0.0.0.0 fnbsrxtemj.com
 0.0.0.0 fndvovywrtghk.com
@@ -13926,6 +13936,7 @@
 0.0.0.0 gravity4.com
 0.0.0.0 greatdexchange.com
 0.0.0.0 greate2.com
+0.0.0.0 greatmentef.club
 0.0.0.0 greatusenetoffer.agency
 0.0.0.0 greatvideos.xyz
 0.0.0.0 greatviews.de
@@ -15796,6 +15807,7 @@
 0.0.0.0 includemodal.com
 0.0.0.0 incogpontus.club
 0.0.0.0 income88.com
+0.0.0.0 incommandary.club
 0.0.0.0 increased.cn
 0.0.0.0 increaserev.com
 0.0.0.0 incrediblesugar.com
@@ -19628,6 +19640,7 @@
 0.0.0.0 md5s.ru
 0.0.0.0 mdadx.com
 0.0.0.0 mdashen.vip
+0.0.0.0 m.data.mob.com
 0.0.0.0 mdcszycw.com
 0.0.0.0 mdcytqwnbr.com
 0.0.0.0 mddwabpvzcr.com
@@ -19854,6 +19867,7 @@
 0.0.0.0 melo.space
 0.0.0.0 memecounter.com
 0.0.0.0 memo.co
+0.0.0.0 memoralegil.site
 0.0.0.0 memsyndazra.com
 0.0.0.0 menagexbqhxf.com
 0.0.0.0 mename.de
@@ -22494,6 +22508,7 @@
 0.0.0.0 olivka.biz
 0.0.0.0 olizyr.com
 0.0.0.0 oljpsldr.bid
+0.0.0.0 olkrzytv.com
 0.0.0.0 olkxzkbonvau.bid
 0.0.0.0 olkzcdihiewe.com
 0.0.0.0 olmall.vip
@@ -24673,6 +24688,7 @@
 0.0.0.0 propaid.de
 0.0.0.0 propbigo.com
 0.0.0.0 propeanfanku.site
+0.0.0.0 propeanikob.site
 0.0.0.0 propellerclick.com
 0.0.0.0 propellerpops.com
 0.0.0.0 propeller-tracking.com
@@ -26359,6 +26375,7 @@
 0.0.0.0 recreativ.com.ua
 0.0.0.0 recreativ.ru
 0.0.0.0 recrinsit.ru
+0.0.0.0 recruisefukiby.club
 0.0.0.0 recruitics.com
 0.0.0.0 recs.atgsvcs.com
 0.0.0.0 recusticks.co
@@ -26926,6 +26943,7 @@
 0.0.0.0 robsoaks.com
 0.0.0.0 rock.cheerfulhunter.com
 0.0.0.0 rocketier.net
+0.0.0.0 rocketme.top
 0.0.0.0 rocketyield.com
 0.0.0.0 rockincontent.net
 0.0.0.0 rocks.io
@@ -27633,6 +27651,7 @@
 0.0.0.0 sdd.hi1718.com
 0.0.0.0 sddlcnqhyl.com
 0.0.0.0 sdeadbqsjam.com
+0.0.0.0 sdf4.s4d.xyz
 0.0.0.0 sdfjtwp.com
 0.0.0.0 sdfsdvc.com
 0.0.0.0 sdgdtz.cn
@@ -27831,6 +27850,7 @@
 0.0.0.0 seosape.com
 0.0.0.0 seo-sport.ru
 0.0.0.0 separatesilver.com
+0.0.0.0 separenujilo.club
 0.0.0.0 seprqnphibgd.com
 0.0.0.0 septembership.com
 0.0.0.0 septimus-kyr.com
@@ -27930,6 +27950,7 @@
 0.0.0.0 sexystat.com
 0.0.0.0 sezvc.com
 0.0.0.0 sf14g.com
+0.0.0.0 sf3-ttcdn-tos.pstatp.com
 0.0.0.0 sfanf.com
 0.0.0.0 sffmctrnimk.com
 0.0.0.0 sffxcwc.cn
@@ -28524,6 +28545,7 @@
 0.0.0.0 snsfjpes.com
 0.0.0.0 snsgckygbed.com
 0.0.0.0 snsgsqyv.com
+0.0.0.0 snssdk.com
 0.0.0.0 snuokyvjn.com
 0.0.0.0 s.nvrentao8.com
 0.0.0.0 snwpqybkb.com
@@ -29979,6 +30001,7 @@
 0.0.0.0 tangoutianxia.com
 0.0.0.0 tangozebra.com
 0.0.0.0 tanidigital.com
+0.0.0.0 tanit-dio.com
 0.0.0.0 tankeuro.com
 0.0.0.0 tannelssepara.info
 0.0.0.0 tan.pridnestrovie.com
@@ -36061,6 +36084,7 @@
 0.0.0.0 yzesxnzfhyy.com
 0.0.0.0 yzetmrsww.com
 0.0.0.0 yzexonvknhw.com
+0.0.0.0 yzftqx.cn
 0.0.0.0 yzh360.com
 0.0.0.0 yzjlsb.com
 0.0.0.0 yzlwuuzzehjh.com
@@ -36350,6 +36374,7 @@
 0.0.0.0 zhybzp.cn
 0.0.0.0 zhywyl.cn
 0.0.0.0 zi63m.cn
+0.0.0.0 zi8ivy4b0c7l.com
 0.0.0.0 zidedge.com
 0.0.0.0 zidqkapwgnsh.com
 0.0.0.0 zidtqsrzosud.com

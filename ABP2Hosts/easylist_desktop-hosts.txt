@@ -1,4 +1,4 @@
-# Wed 20 May 2020 01:45:42 AM MDT
+# Wed 20 May 2020 01:04:23 PM MDT
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0026645142c89aeb1.com
 0.0.0.0 006a039c957c142bb.com
@@ -5696,6 +5696,7 @@
 0.0.0.0 directtrk.com
 0.0.0.0 dirt.dennis.co.uk
 0.0.0.0 disappenedy.site
+0.0.0.0 discountryvc.club
 0.0.0.0 discoverapp.xyz
 0.0.0.0 discover-path.com
 0.0.0.0 discoverredirect.com
@@ -7303,6 +7304,7 @@
 0.0.0.0 fmstigat.online
 0.0.0.0 fmxllgvfzsoz.com
 0.0.0.0 fmxnlkoaf.com
+0.0.0.0 fnacgbik9v14.com
 0.0.0.0 fnbsrxtemj.com
 0.0.0.0 fndvovywrtghk.com
 0.0.0.0 fnfhplmys.com
@@ -8777,6 +8779,7 @@
 0.0.0.0 horyzon-media.com
 0.0.0.0 hosoojat.net
 0.0.0.0 hospitality-optimizer.com
+0.0.0.0 hospitecrew.club
 0.0.0.0 hostcontent.live
 0.0.0.0 host-host-ads.com
 0.0.0.0 hosticanaffiliate.com
@@ -13055,6 +13058,7 @@
 0.0.0.0 observare.de
 0.0.0.0 observerapp.com
 0.0.0.0 observer.ip-label.net
+0.0.0.0 obtainlylibuk.club
 0.0.0.0 obthqxbm.com
 0.0.0.0 obufquwiwy.com
 0.0.0.0 obuuyneuhfwf.com
@@ -14827,6 +14831,7 @@
 0.0.0.0 proofpoint.com
 0.0.0.0 proofpositivemedia.com
 0.0.0.0 propeanfanku.site
+0.0.0.0 propeanikob.site
 0.0.0.0 propellerclick.com
 0.0.0.0 propellerpops.com
 0.0.0.0 propeller-tracking.com
@@ -16870,6 +16875,7 @@
 0.0.0.0 sddan.com
 0.0.0.0 sddlcnqhyl.com
 0.0.0.0 sdeadbqsjam.com
+0.0.0.0 sdf4.s4d.xyz
 0.0.0.0 sdfsdvc.com
 0.0.0.0 sdgvzdksjbl.com
 0.0.0.0 sdhfbvd.com
@@ -16938,6 +16944,7 @@
 0.0.0.0 seethisinaction.com
 0.0.0.0 seevolution.com
 0.0.0.0 seewhy.com
+0.0.0.0 seex.s4d.xyz
 0.0.0.0 segment.com
 0.0.0.0 segmentify.com
 0.0.0.0 segment.io
@@ -16990,6 +16997,7 @@
 0.0.0.0 seoparts.net
 0.0.0.0 seoradar.ro
 0.0.0.0 separatesilver.com
+0.0.0.0 separenujilo.club
 0.0.0.0 seprqnphibgd.com
 0.0.0.0 septembership.com
 0.0.0.0 septimus-kyr.com
@@ -18173,6 +18181,7 @@
 0.0.0.0 tamrczjeedauh.com
 0.0.0.0 t-analytics.com
 0.0.0.0 tangozebra.com
+0.0.0.0 tanit-dio.com
 0.0.0.0 tankeuro.com
 0.0.0.0 tannelssepara.info
 0.0.0.0 tantella.com
@@ -21880,6 +21889,7 @@
 0.0.0.0 zhrmtsxcdkjj.com
 0.0.0.0 zhxdduzdibm.com
 0.0.0.0 zhxdiirwhtico.com
+0.0.0.0 zi8ivy4b0c7l.com
 0.0.0.0 zidedge.com
 0.0.0.0 zidqkapwgnsh.com
 0.0.0.0 zidtqsrzosud.com
