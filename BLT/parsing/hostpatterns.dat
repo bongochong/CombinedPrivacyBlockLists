@@ -39,6 +39,7 @@ localhost.localdomain$
 ^ff02::
 ^fe80::
 www.staradvertiser.com$
+^0.0.0.0 local$
 ^0.0.0.0 adaway.org$
 ^0.0.0.0 albert.apple.com$
 ^0.0.0.0 amazon.com$
