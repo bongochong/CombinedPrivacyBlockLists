@@ -6,6 +6,7 @@ ip6-localhost$
 ip6-localnet$
 ip6-loopback$
 ip6-mcastprefix$
+local$
 localdomain$
 localhost$
 localhost.localdomain$
@@ -38,7 +39,6 @@ localhost.localdomain$
 ^ff00::
 ^ff02::
 ^fe80::
-^0.0.0.0 local$
 ^0.0.0.0 adaway.org$
 ^0.0.0.0 albert.apple.com$
 ^0.0.0.0 amazon.com$
