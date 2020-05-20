@@ -9,7 +9,6 @@ ip6-mcastprefix$
 local$
 localdomain$
 localhost$
-localhost.localdomain$
 ^Site$
 ^site$
 ^Site $
