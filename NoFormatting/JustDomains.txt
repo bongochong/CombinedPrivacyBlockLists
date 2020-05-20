@@ -2758,7 +2758,6 @@
 8testov.ru
 8ue4.xyz
 8ue9q7i.com
-8uhgc44hfdd4-87hvd4-jhggcg.easylist-to.xyz
 8v8afxt8lg.com
 8weoaapw0hfvy6nz.pro
 8wey4x0c.com
@@ -3650,7 +3649,6 @@ actionsplash.com
 actions-sg.taboola.com
 actions.zotabox.com
 actionteaser.ru
-activate.boostmobile.com
 activate.ensighten.com
 activatemywindows8.com
 activation.cloud.techsmith.com
@@ -10144,7 +10142,6 @@ ak2.imgaft.com
 ak2.sail-horizon.com
 ak47.cooguo.com
 aka.accortech.com
-aka-apiservices.boostmobile.com
 akabo.ru
 aka-cdn.adtech.de
 aka-cdn.adtechus.com
@@ -11015,6 +11012,7 @@ analytics.cpclips.com
 analytics.cynapse.com
 analytics-dal-nfl.yinzcam.com
 analytics.datahc.com
+analytics.datasavannah.com
 analyticsdcs.ccs.mcafee.com
 analytics-den-nfl.yinzcam.com
 analytics.developer.riotgames.com
@@ -12343,7 +12341,6 @@ api.mobileanjian.com
 api.mobileapptracking.com
 api.mobilearts.io
 api.mobilebridge.com
-api.mobileday.com
 api.mobilewareinc.com
 api.mobitech-content.xyz
 api.moblink.mob.com
@@ -12609,7 +12606,6 @@ api.visicom.ua
 api-visit.kameleoon.com
 api.v-mate.mobi
 api.voiceads.cn
-api.vsee.com
 api.vungle.akadns.net
 api.vungle.com
 api.vungle.com.edgekey.net
@@ -12839,7 +12835,6 @@ app.cocolog-nifty.com
 appconfig.cmgdigital.com
 app-config.enhance.co
 appconsent.io
-appcontent.boostmobile.com
 app.cookieassistant.com
 app.crazyegg.com
 app-creatives.cdn.admobile.me
@@ -12993,7 +12988,6 @@ app.miui.com
 app.mlcampaignru.com
 app.mlnewsletterru.com
 appmm.zapr.in
-app.mobilecause.com
 app.moengage.com
 appm.offerstrack.net
 app.monetizze.com.br
@@ -13373,7 +13367,6 @@ arcartall.club
 arcaukalb.site
 arccdyvgh.com
 arcfwcxi.com
-arcgis.mobile311.com
 architecturaldesigns.us.intellitxt.com
 archive.adjust.io
 archive.coolerads.com
@@ -13732,7 +13725,6 @@ asparmany.site
 aspartbib.site
 aspartbus.site
 as.payback.it
-as-p-e.jitterbit.com
 asperencium.com
 asphalt8airbornehack.com
 asphalt8airbornehack.net
@@ -26121,9 +26113,6 @@ d35fgcharv2shj.cloudfront.net
 d35gxjm3e9wg7v.cloudfront.net
 d35r45qhjmgs3g.cloudfront.net
 d35u1vg1q28b3w.cloudfront.net
-d365portal-prod-sdk.akstd.azureedge.net
-d365portal-prod-sdk.azureedge.net
-d365prod-sdk.azureedge.net
 d366o5iwycvbsk.cloudfront.net
 d36lvucg9kzous.cloudfront.net
 d36sxvmjoflc2i.cloudfront.net
@@ -28760,7 +28749,6 @@ doutthenhap.info
 dovanun.ru
 dove.prod.saymedia.com
 dove.saymedia.com
-dovewallet.com
 dowages.com
 dowjoneson.com
 down140.mclick.mobi
@@ -30639,7 +30627,6 @@ emdcadvertise.eastmoney.com
 emdqaycbvqz.com
 em.dynamicyield.com
 emea-v3.tracking.justpremium.com
-emea-west.jitterbit.com
 emebo.com
 emebo.io
 emediate.dk
@@ -31306,7 +31293,6 @@ e.spoutable.com
 espresso-reklam.eu
 esprit01.webtrekk.net
 es.puritan.com
-esri.mobile311.com
 essayads.com
 essaycoupons.com
 essjetuhfuo.com
@@ -31490,7 +31476,6 @@ euizhltcd6ih.com
 eujjcfegnqfa.com
 eukjktmw.com
 euktoywjpdxpdh.com
-eula.mindspark.com
 eulbamjx.com
 eule1.pmu.fr
 eulerian.belambra.be
@@ -35043,6 +35028,7 @@ fun.content.ninjakiwi.com
 functionalcrown.com
 functionalhack.info
 functionpoint.evergage.com
+fundardsesaz.club
 fundigital.offerstrack.net
 fundingchoices.google.com
 fundingchoicesmessages.google.com
@@ -37565,6 +37551,7 @@ greatest-movie.com
 greatfile.net
 great-files.org
 greatm0bile.com
+greatmentef.club
 greatuploader.com
 greatusenetoffer.agency
 greatvideos.xyz
@@ -40567,6 +40554,7 @@ iajcvxcqktpm.com
 ialaddin.genieesspv.jp
 iamagameaddict.com
 iam-agof-app.irquest.com
+iam.datasavannah.com
 iamediaserve.com
 iam-heliosiq.adtech.de
 iam-iq.adtech.de
@@ -41421,7 +41409,6 @@ imagingresource.advertserve.com
 imanchu.cn
 im.aol.de
 imap.adx1.com
-imapi-mu.isnssdk.com
 imapi-sg.isnssdk.com
 imap.media.net
 imap.netcoresmartech.com
@@ -43889,6 +43876,7 @@ jobs.nuwerk.monsterboard.nl
 jobsyndicate.com
 jobtarget.com
 jobzdk.nuggad.net
+jockeryfgtu.club
 jodellvideos.pro
 joe.freelogs.com
 joehacks.com
@@ -45674,6 +45662,7 @@ lalywprgzl.com
 lamatrest.xyz
 lambadapp.g2afse.com
 lambdafoobar.de
+lamberserer.club
 lamboffers.com
 lamegaoffre.fr
 l.a.mobimagic.com
@@ -47427,7 +47416,6 @@ log.sdk.zadn.vn
 log.seekda.com
 logs.ennexa.net
 logserver.insight.ucweb.com
-logservices.ipass.com
 logs.gaana.com
 logs.game-insight.com
 logs.game.qq.com
@@ -49772,6 +49760,7 @@ memoclic.fr.intellitxt.com
 memo.co
 memonod.ru
 memopumpkin.com
+memoralegil.site
 memorizeneck.com
 memorycobweb.com
 memphisrap.us.intellitxt.com
@@ -53208,7 +53197,6 @@ nadscdn.wuaiso.com
 nads.lumieyes.com
 nads.wuaiso.com
 n.adxxx.info
-na-east.jitterbit.com
 na-eb2.3lift.com
 naetoris.pw
 nafamovies.com
@@ -54489,6 +54477,7 @@ nornelis.pw
 norteevu.com
 nortelcom.112.2o7.net
 northcoastmedia.advertserve.com
+northeregikgf.club
 northjersey.112.2o7.net
 northmay.com
 northstartravelmedia.com
@@ -58305,6 +58294,7 @@ phen.fabricmedia.ru
 phengung.net
 phenomcrm.com
 phentermine.webpark.pl
+phenylketh.site
 phethikapso.pro
 phexetos.com
 phfknysgvwhnr.bid
@@ -64145,7 +64135,6 @@ res.tdxio.com
 rest.dynamicyield.com
 rest.iad-01.braze.com
 rest.iad-03.braze.com
-rest.mobilerealtyapps.com
 restockitcom.evyy.net
 restore-pc.com
 rest.segmentify.com
@@ -65777,6 +65766,7 @@ s3.buysellads.com
 s3.bytecdn.cn
 s3.cnnx.io
 s3-config.samsungacr.com
+s3eds.s4d.xyz
 s3.hit.stat24.com
 s3.hit.stat.pl
 s3m.mediav.com
@@ -66772,7 +66762,6 @@ sdk-ios.ad.smaato.net
 sdk.jeeng.com
 sdkjustad-a.akamaihd.net
 sdk.justad.mobi
-sdk.kamcord.com
 sdk-key.ulsee.com
 sdk.kidoz.net
 sdk.kingoapp.com

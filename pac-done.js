@@ -1,4 +1,4 @@
-// **** Sat 16 May 2020 06:19:06 AM MDT
+// **** Tue 19 May 2020 08:33:09 PM MDT
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.039b1ee.netsolhost.com') ||
@@ -6854,6 +6854,7 @@ shExpMatch(host, '*.ywjgjvpuyitnbiw.info') ||
 shExpMatch(host, '*.yyre45dbvn2nhbefbmh.begumvelic.at') ||
 shExpMatch(host, '*.yzgayc.com') ||
 shExpMatch(host, '*.z0bu.dynu.com') ||
+shExpMatch(host, '*.z3dmbpl6309s.com') ||
 shExpMatch(host, '*.z3us1.z-ed.info') ||
 shExpMatch(host, '*.z501lpfg9x8v.com') ||
 shExpMatch(host, '*.z5x.net') ||
@@ -13752,6 +13753,7 @@ shExpMatch(host, 'ywjgjvpuyitnbiw.info') ||
 shExpMatch(host, 'yyre45dbvn2nhbefbmh.begumvelic.at') ||
 shExpMatch(host, 'yzgayc.com') ||
 shExpMatch(host, 'z0bu.dynu.com') ||
+shExpMatch(host, 'z3dmbpl6309s.com') ||
 shExpMatch(host, 'z3us1.z-ed.info') ||
 shExpMatch(host, 'z501lpfg9x8v.com') ||
 shExpMatch(host, 'z5x.net') ||
