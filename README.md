@@ -39,7 +39,7 @@ These tools are modified versions of the ones I run on my GNU/Linux box. I've te
 <sup>1. [MVPS Hosts Files](http://winhelp2002.mvps.org/). </sup> <br>
 <sup>2. [PGL Yoyo Hosts Files](http://pgl.yoyo.org/adservers/). </sup> <br>
 <sup>3. [Malware Domain List Hosts Files](http://www.malwaredomainlist.com/). </sup> <br>
-<sup>4. [BadMojr's Mini Hosts](https://github.com/badmojr/1Hosts/tree/master/mini). </sup> <br>
+<sup>4. [Energized Spark List](https://energized.pro/). </sup> <br>
 <sup>5. [EasyList](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/ABP2Hosts/easylist_desktop-hosts.txt). </sup> <br>
 <sup>6. [Supplementary](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/WindowsTelemetryBlockSupplements) [Entries](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/ABP2Hosts). </sup> <br>
 <sup>7. [Halite](https://www.fosshub.com/Halite.html). </sup> <br>
