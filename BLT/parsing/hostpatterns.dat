@@ -52,6 +52,7 @@ www.staradvertiser.com$
 ^0.0.0.0 apresolve.spotify.com$
 ^0.0.0.0 bit.ly$
 ^0.0.0.0 bitbucket.org$
+^0.0.0.0 c.paypal.com$
 ^0.0.0.0 cdn-staging.signal.org$
 ^0.0.0.0 cdn2-staging.signal.org$
 ^0.0.0.0 community.signalusers.org$
