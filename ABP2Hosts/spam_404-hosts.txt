@@ -1,4 +1,4 @@
-# Wed 20 May 2020 12:27:58 AM MDT
+# Wed 20 May 2020 01:45:46 AM MDT
 # Spam404 Hosts - Generated weekly by bongochong
 0.0.0.0 0daygameparadise.com
 0.0.0.0 0hacks.com

@@ -1,4 +1,4 @@
-# Wed 20 May 2020 12:27:53 AM MDT
+# Wed 20 May 2020 01:45:42 AM MDT
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0026645142c89aeb1.com
 0.0.0.0 006a039c957c142bb.com
@@ -16082,6 +16082,7 @@
 0.0.0.0 recoset.com
 0.0.0.0 rec-pl.quartic.pl
 0.0.0.0 rec.quartic.pl
+0.0.0.0 recruisefukiby.club
 0.0.0.0 recruitics.com
 0.0.0.0 recs.atgsvcs.com
 0.0.0.0 recusticks.co
