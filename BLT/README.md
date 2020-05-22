@@ -23,7 +23,8 @@ It should also be noted that most of these tools make heavy use of GNU `sed`.
   
 **One-line installation**:  
 Paste the following in your terminal and hit enter:  
-`wget -nv -O ~/installer.sh "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/installer.sh" && chmod +x ~/installer.sh && sh ~/installer.sh && rm ~/installer.sh`   Donezo. Now you have all the utilities.  
+`wget -nv -O ~/installer.sh "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/installer.sh" && chmod +x ~/installer.sh && sh ~/installer.sh && rm ~/installer.sh`  
+Donezo. Now you have all the utilities.  
   
 **Checklist for normal use**:
 1. Download the installer [from this link](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/installer.sh).
