@@ -12,7 +12,7 @@ The data within is meant to automate the generation and updating of the followin
 - [A PAC (proxy auto-configuration) file, to block undesirable domains](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/update-pac.sh)  
 
 **Dependencies**:  
-The following packages are required to utilize all these utilities:  
+The following packages are required to utilize all my block list utilities:  
 `wget` `pcre (or pcre2)` `perl` `p7zip` `p7zip-plugins`.
   
 The following packages are suggested to utilize some optional features:  
