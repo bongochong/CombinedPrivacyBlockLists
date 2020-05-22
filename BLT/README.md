@@ -19,6 +19,8 @@ In addition, the following packages are suggested to utilize some optional featu
 `curl` is necessary if you wish to use the server upload feature of the PAC generator script.  
 `idn (or idn2)` is necessary if you wish to have any Unicode / internationalized domain names converted to ASCII Punycode entries by the hosts file updater scripts.
   
+It should also be noted that most of these tools make heavy use of GNU `sed`.
+  
 **One-line installation**:  
 Paste the following in your terminal and hit enter:  
 `wget -nv -O ~/installer.sh "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/installer.sh" && chmod +x ~/installer.sh && sh ~/installer.sh && rm ~/installer.sh`   Donezo. Now you have all the utilities.  
