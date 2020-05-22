@@ -19,7 +19,8 @@ The following packages are suggested to utilize some optional features:
 `curl` `idn (or idn2)`
   
 **One-line installation**:  
-Copy the following `wget -nv -O ~/installer.sh "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/installer.sh" && chmod +x ~/installer.sh && sh ~/installer.sh && rm ~/installer.sh` paste it into your terminal, and hit enter. Donezo. Now you have all the utilities.  
+Paste the following in your terminal and hit enter:  
+`wget -nv -O ~/installer.sh "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/installer.sh" && chmod +x ~/installer.sh && sh ~/installer.sh && rm ~/installer.sh`   Donezo. Now you have all the utilities.  
   
 **Checklist for normal use**:
 1. Download the installer [from this link](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/installer.sh).
