@@ -15,7 +15,9 @@ The data within is meant to automate the generation and updating of the followin
 The following packages are required to utilize all my block list utilities:  
 `wget` `pcre (or pcre2)` `perl` `p7zip` `p7zip-plugins`.
   
-In addition, the following packages are suggested to utilize some optional features: `curl` is necessary if you wish to use the server upload feature of the PAC generation script. `idn (or idn2)`is necessary if you wish to have any Unicode / internationalized domain names converted to ASCII Punycode entries.
+In addition, the following packages are suggested to utilize some optional features:  
+`curl` is necessary if you wish to use the server upload feature of the PAC generation script.  
+`idn (or idn2)`is necessary if you wish to have any Unicode / internationalized domain names converted to ASCII Punycode entries.
   
 **One-line installation**:  
 Paste the following in your terminal and hit enter:  
