@@ -29,6 +29,7 @@ dropboxinsiders.com
 dropboxmail.com
 dropboxpartners.com
 dropboxstatic.com
+dshield.org
 ea.com
 easylist.to
 embed.spotify.com
@@ -43,6 +44,7 @@ icloud.com
 instructorledlearning.dropboxbusiness.com
 itunes.apple.com
 itunes.com
+malwaredomainlist.com
 malwaredomains.com
 medium.com
 movies.netflix.com
@@ -52,11 +54,13 @@ office.com
 onedrive.com
 openphish.com
 paper.dropbox.com
+pgl.yoyo.org
 phobos.apple.com
 pic.twitter.com
 platform.twitter.com
 play.spotify.com
 plex.tv
+raw.githubusercontent.com
 search.twitter.com
 secure.netflix.com
 shorl.com
@@ -65,6 +69,7 @@ signal.org
 signalcaptchas.org
 someonewhocares.org
 ssl-images-amazon.com
+ssl.bblck.me
 ssl.reddit.com
 storage-staging.signal.org
 support.signal.org
@@ -79,5 +84,6 @@ udemy.com
 upload.twitter.com
 userstream.twitter.com
 whispersystems.org
+winhelp2002.mvps.org
 wix.com
 www.staradvertiser.com
