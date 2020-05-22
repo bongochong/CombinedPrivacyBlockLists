@@ -1,4 +1,4 @@
-# Wed 20 May 2020 01:04:17 PM MDT
+# Fri 22 May 2020 04:10:53 AM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 0351dvd.cn
@@ -1165,6 +1165,7 @@
 0.0.0.0 cdn.static-cnt.bid
 0.0.0.0 cdntlz.cn
 0.0.0.0 cdntrf.com
+0.0.0.0 cdn.tubecorp.com
 0.0.0.0 cdn.welcome.pussysaga.com
 0.0.0.0 cdsbnrs.com
 0.0.0.0 cebadu.com
@@ -1845,6 +1846,7 @@
 0.0.0.0 dk7rftbivnkgr.cloudfront.net
 0.0.0.0 dkm6b5q0h53z4.cloudfront.net
 0.0.0.0 dk-statistik.de
+0.0.0.0 dkyp75kj7ldlr.cloudfront.net
 0.0.0.0 dlads.cn
 0.0.0.0 dlfvgndsdfsn.com
 0.0.0.0 dlrowehtfodne.com
@@ -4310,6 +4312,7 @@
 0.0.0.0 propagerank.de
 0.0.0.0 propbigo.com
 0.0.0.0 propellerclick.com
+0.0.0.0 properatersch.fun
 0.0.0.0 props.id
 0.0.0.0 propu.sh
 0.0.0.0 prospecteye.com
@@ -4440,6 +4443,7 @@
 0.0.0.0 qoijertneio.com
 0.0.0.0 qoopler.ru
 0.0.0.0 qqjmbj.com
+0.0.0.0 qqqwes.com
 0.0.0.0 qractv.com
 0.0.0.0 qr-maker.me
 0.0.0.0 q-sht-zidjk.co

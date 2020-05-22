@@ -1,4 +1,4 @@
-# Wed 20 May 2020 01:04:23 PM MDT
+# Fri 22 May 2020 04:10:59 AM MDT
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0026645142c89aeb1.com
 0.0.0.0 006a039c957c142bb.com
@@ -245,6 +245,7 @@
 0.0.0.0 350media.com
 0.0.0.0 35.184.98.90
 0.0.0.0 35.194.26.233
+0.0.0.0 35.224.227.218
 0.0.0.0 35.239.57.233
 0.0.0.0 3585656d9351553f.com
 0.0.0.0 35d59588f15966.com
@@ -3742,6 +3743,7 @@
 0.0.0.0 c3tag.com
 0.0.0.0 c3t-system-err.club
 0.0.0.0 c4698cd6aed0dcef367.com
+0.0.0.0 c4sc.s4d.xyz
 0.0.0.0 c4tracking01.com
 0.0.0.0 c50021876c67fd14.com
 0.0.0.0 c5b39ff13b3259df.com
@@ -5329,6 +5331,7 @@
 0.0.0.0 dadsoks.com
 0.0.0.0 dadsokz.com
 0.0.0.0 dadspms.com
+0.0.0.0 dads.s4d.xyz
 0.0.0.0 daecan.xyz
 0.0.0.0 daero.pw
 0.0.0.0 daethana.pw
@@ -8632,6 +8635,7 @@
 0.0.0.0 hira-meki.jp
 0.0.0.0 hirmatrix.hu
 0.0.0.0 hirovivi.com
+0.0.0.0 hislationaler.club
 0.0.0.0 hisoupocdted.com
 0.0.0.0 histats.com
 0.0.0.0 histlingklakson.site
@@ -10655,6 +10659,7 @@
 0.0.0.0 lashaucu.net
 0.0.0.0 lassistslegisten.info
 0.0.0.0 lationwordsi.club
+0.0.0.0 lattemptweh.club
 0.0.0.0 latviancedef.site
 0.0.0.0 laughcloth.com
 0.0.0.0 lauhauch.com
@@ -16494,6 +16499,7 @@
 0.0.0.0 ropkrhilt.com
 0.0.0.0 roscvyybfkm.com
 0.0.0.0 rosemand.pro
+0.0.0.0 rossel.tech
 0.0.0.0 rotabanner.kulichki.net
 0.0.0.0 rotaban.ru
 0.0.0.0 rotate4all.com
@@ -17048,6 +17054,7 @@
 0.0.0.0 sevenads.net
 0.0.0.0 sevendaystart.com
 0.0.0.0 seventual.site
+0.0.0.0 severymurden.site
 0.0.0.0 sevootie.com
 0.0.0.0 sexagogal.site
 0.0.0.0 sexcounter.com
@@ -17151,6 +17158,7 @@
 0.0.0.0 shouxaum.net
 0.0.0.0 shovewhe.com
 0.0.0.0 showcasead.com
+0.0.0.0 showeveresz.club
 0.0.0.0 showheroes.com
 0.0.0.0 showroomlogic.com
 0.0.0.0 showyoursite.com
@@ -17464,6 +17472,7 @@
 0.0.0.0 solihullah.info
 0.0.0.0 solocpm.com
 0.0.0.0 soltitate.site
+0.0.0.0 solutelynewt.site
 0.0.0.0 solutionshindsight.net
 0.0.0.0 solutionzip.info
 0.0.0.0 somberscarecrow.com
@@ -18402,6 +18411,7 @@
 0.0.0.0 theadgateway.com
 0.0.0.0 theagency.com
 0.0.0.0 thearcitonseveng.pro
+0.0.0.0 theationopo.club
 0.0.0.0 theatredveres.site
 0.0.0.0 theatrialmero.club
 0.0.0.0 thebannerexchange.com
@@ -20727,6 +20737,7 @@
 0.0.0.0 withcubed.com
 0.0.0.0 withingsessed.pro
 0.0.0.0 withinknuko.club
+0.0.0.0 withougheves.site
 0.0.0.0 withoughstors.club
 0.0.0.0 wityamdog.com
 0.0.0.0 wiywlvkwwwrms.com
@@ -21756,6 +21767,7 @@
 0.0.0.0 yzyycjzfkpveu.com
 0.0.0.0 yzzvsnbten.com
 0.0.0.0 z444o.com
+0.0.0.0 z4es.s4d.xyz
 0.0.0.0 z501lpfg9x8v.com
 0.0.0.0 z5x.net
 0.0.0.0 z6vmw.top
@@ -22091,6 +22103,7 @@
 0.0.0.0 zudlddyzgogsh.com
 0.0.0.0 zudrurta.com
 0.0.0.0 zugo.com
+0.0.0.0 zuhs.s4d.xyz
 0.0.0.0 zuiiyzgiof.com
 0.0.0.0 zukabota.com
 0.0.0.0 zukbmxbrv.com

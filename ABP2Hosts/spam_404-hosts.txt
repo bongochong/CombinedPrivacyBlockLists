@@ -1,4 +1,4 @@
-# Wed 20 May 2020 01:04:27 PM MDT
+# Fri 22 May 2020 04:11:04 AM MDT
 # Spam404 Hosts - Generated weekly by bongochong
 0.0.0.0 0daygameparadise.com
 0.0.0.0 0hacks.com
@@ -5518,6 +5518,7 @@
 0.0.0.0 myz.info
 0.0.0.0 mz-vodacom.info
 0.0.0.0 n799436.com
+0.0.0.0 n95-mask.site
 0.0.0.0 nafamovies.com
 0.0.0.0 naibolcee.ru
 0.0.0.0 naviblue-team.com

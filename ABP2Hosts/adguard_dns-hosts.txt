@@ -1,4 +1,4 @@
-# Wed 20 May 2020 01:04:25 PM MDT
+# Fri 22 May 2020 04:11:01 AM MDT
 # AdGuard DNS Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 0026645142c89aeb1.com
@@ -1299,6 +1299,7 @@
 0.0.0.0 8mb4qkd74cht.com
 0.0.0.0 8mfty.com
 0.0.0.0 8p30k.cn
+0.0.0.0 8q2g560ynxlkz9rm.in.net
 0.0.0.0 8s32e590un.com
 0.0.0.0 8s8.eu
 0.0.0.0 8t5vd.cn
@@ -6496,6 +6497,7 @@
 0.0.0.0 brekdok.com
 0.0.0.0 brend.hdkinoshka.net
 0.0.0.0 brethrengenotypeteledyne.com
+0.0.0.0 brevandolius.com
 0.0.0.0 brfyubakyg.com
 0.0.0.0 brgzqubngqbioh.com
 0.0.0.0 bridgetrack.com
@@ -7252,6 +7254,7 @@
 0.0.0.0 cdn.trafficexchangelist.com
 0.0.0.0 cdntrf.com
 0.0.0.0 cdntrf.de
+0.0.0.0 cdn.tubecorp.com
 0.0.0.0 cdn.unityads.unity3d.com
 0.0.0.0 cdn-webview-pge.unityads.unity3d.com
 0.0.0.0 cdn.welcome.pussysaga.com
@@ -9418,6 +9421,7 @@
 0.0.0.0 dadsokz.com
 0.0.0.0 dadspms.com
 0.0.0.0 dadspmz.com
+0.0.0.0 dads.s4d.xyz
 0.0.0.0 d.adtriba.com
 0.0.0.0 daecan.xyz
 0.0.0.0 daelynn.xyz
@@ -10049,6 +10053,7 @@
 0.0.0.0 dirkino-traff.ru
 0.0.0.0 dirt.dennis.co.uk
 0.0.0.0 disappenedy.site
+0.0.0.0 discountryvc.club
 0.0.0.0 discoverapp.xyz
 0.0.0.0 discover-path.com
 0.0.0.0 discoverredirect.com
@@ -12168,6 +12173,7 @@
 0.0.0.0 feozcthyfbdc.com
 0.0.0.0 fepzygektdt.com
 0.0.0.0 ferank.fr
+0.0.0.0 fermerrekrb.bid
 0.0.0.0 fermolo.info
 0.0.0.0 feropt.de
 0.0.0.0 ferreddo.com
@@ -13037,6 +13043,7 @@
 0.0.0.0 gadwhy.com
 0.0.0.0 gaftaums.com
 0.0.0.0 gagacon.com
+0.0.0.0 gagelivius.com
 0.0.0.0 gagkf.top
 0.0.0.0 gagnibcan.com
 0.0.0.0 gagnifie.com
@@ -13244,6 +13251,7 @@
 0.0.0.0 geniusdisplay.com
 0.0.0.0 geniusonclick.com
 0.0.0.0 genmonet.com
+0.0.0.0 gentlemenius.com
 0.0.0.0 geobar.ziffdavisinternational.com
 0.0.0.0 geobeacon.ign.com
 0.0.0.0 geobytes.com
@@ -14580,6 +14588,7 @@
 0.0.0.0 hertforthatharrigh.pro
 0.0.0.0 hesepd.cn
 0.0.0.0 hesftig.site
+0.0.0.0 heshunjituan.com
 0.0.0.0 hesrepsa.com
 0.0.0.0 hesterinoc.info
 0.0.0.0 hesxz.com
@@ -14707,6 +14716,7 @@
 0.0.0.0 hirmatrix.hu
 0.0.0.0 hirovivi.com
 0.0.0.0 hisfryyes.com
+0.0.0.0 hislationaler.club
 0.0.0.0 hisnote.cc
 0.0.0.0 hisoupocdted.com
 0.0.0.0 hissq.com
@@ -14949,6 +14959,7 @@
 0.0.0.0 horyzon-media.com
 0.0.0.0 hosoojat.net
 0.0.0.0 hospitality-optimizer.com
+0.0.0.0 hospitecrew.club
 0.0.0.0 host4media.com
 0.0.0.0 hostcontent.live
 0.0.0.0 host.d-ns.ga
@@ -18078,6 +18089,7 @@
 0.0.0.0 lasttopreg.top
 0.0.0.0 lationwordsi.club
 0.0.0.0 latlfa.biz
+0.0.0.0 lattemptweh.club
 0.0.0.0 latviancedef.site
 0.0.0.0 laughcloth.com
 0.0.0.0 lauhauch.com
@@ -22124,6 +22136,7 @@
 0.0.0.0 observerapp.com
 0.0.0.0 observer.ip-label.net
 0.0.0.0 obsudam.ru
+0.0.0.0 obtainlylibuk.club
 0.0.0.0 obthqxbm.com
 0.0.0.0 obufquwiwy.com
 0.0.0.0 obuuyneuhfwf.com
@@ -22431,6 +22444,7 @@
 0.0.0.0 ojngisbfwwyp.com
 0.0.0.0 ojntbybxh.com
 0.0.0.0 ojooo.com
+0.0.0.0 ojpem.com
 0.0.0.0 ojsfjyekvmyb.com
 0.0.0.0 ojsfvukuqxdx.bid
 0.0.0.0 ojstdedb.com
@@ -26996,6 +27010,7 @@
 0.0.0.0 rosenberg.appmetrica.yandex.net
 0.0.0.0 ros-infonews.ru
 0.0.0.0 rosinfonews.ru
+0.0.0.0 rossel.tech
 0.0.0.0 rossinfonewsrf.ru
 0.0.0.0 rossinfonews.ru
 0.0.0.0 rotaban.ru
@@ -27770,6 +27785,7 @@
 0.0.0.0 seevolution.com
 0.0.0.0 seewhy.com
 0.0.0.0 see-work.info
+0.0.0.0 seex.s4d.xyz
 0.0.0.0 sefortme.pro
 0.0.0.0 segment-analytics.com
 0.0.0.0 segment.com
@@ -27931,6 +27947,7 @@
 0.0.0.0 sevenads.net
 0.0.0.0 sevendaystart.com
 0.0.0.0 seventual.site
+0.0.0.0 severymurden.site
 0.0.0.0 sevootie.com
 0.0.0.0 sex1.party
 0.0.0.0 sex4u.lg.ua
@@ -28135,6 +28152,7 @@
 0.0.0.0 shovewhe.com
 0.0.0.0 showbiz.mail.ru
 0.0.0.0 showcasead.com
+0.0.0.0 showeveresz.club
 0.0.0.0 show.everytell.com
 0.0.0.0 show.g.mediav.com
 0.0.0.0 showheroes.com
@@ -30017,6 +30035,7 @@
 0.0.0.0 taoguanda.com
 0.0.0.0 taoguohe.com
 0.0.0.0 taohanpai.com
+0.0.0.0 taolicloud.com
 0.0.0.0 taowjygwtm.com
 0.0.0.0 taoyuay.top
 0.0.0.0 taozgpkjzpdtgr.com
@@ -33404,6 +33423,7 @@
 0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 voss.collegehumor.com
 0.0.0.0 voterialijikol.site
+0.0.0.0 voterlin.cn
 0.0.0.0 votetoda.com
 0.0.0.0 votistics.com
 0.0.0.0 v.oui.sncf
@@ -34229,6 +34249,7 @@
 0.0.0.0 withingsessed.pro
 0.0.0.0 withinknuko.club
 0.0.0.0 withnewswearebest.com
+0.0.0.0 withougheves.site
 0.0.0.0 withoughstors.club
 0.0.0.0 witlee.com
 0.0.0.0 wityamdog.com
@@ -35052,6 +35073,7 @@
 0.0.0.0 xn--18225-zta.biz
 0.0.0.0 xn--20531-uua.biz
 0.0.0.0 xn--2qu92fhtx4ff.ink
+0.0.0.0 xn--2qu92fhtx4ff.ren
 0.0.0.0 xn--2qu96gouvko1a.com
 0.0.0.0 xn--2qux23c9ziyrq.icu
 0.0.0.0 xn--2qux23confgml.club
@@ -36265,6 +36287,7 @@
 0.0.0.0 zeus.ad.intl.xiaomi.com
 0.0.0.0 zewkj.com
 0.0.0.0 zexygpxlamac.com
+0.0.0.0 zezvty.com
 0.0.0.0 zfanc.com
 0.0.0.0 zfcjtxosje.com
 0.0.0.0 zferral.com
@@ -36673,6 +36696,7 @@
 0.0.0.0 zudrurta.com
 0.0.0.0 zugnogne.com
 0.0.0.0 zugo.com
+0.0.0.0 zuhs.s4d.xyz
 0.0.0.0 zuiiyzgiof.com
 0.0.0.0 zukabota.com
 0.0.0.0 zukbmxbrv.com
