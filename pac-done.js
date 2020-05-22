@@ -1,4 +1,4 @@
-// **** Wed 20 May 2020 01:47:55 AM MDT
+// **** Fri 22 May 2020 04:13:38 AM MDT
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.039b1ee.netsolhost.com') ||
@@ -2471,6 +2471,7 @@ shExpMatch(host, '*.cj.com') ||
 shExpMatch(host, '*.cji1.com') ||
 shExpMatch(host, '*.cjlog.com') ||
 shExpMatch(host, '*.cjurbf.com') ||
+shExpMatch(host, '*.cl0udh0st1ng.com') ||
 shExpMatch(host, '*.claria.com') ||
 shExpMatch(host, '*.clashmobile.com') ||
 shExpMatch(host, '*.class-act-clicks.com') ||
@@ -3578,6 +3579,7 @@ shExpMatch(host, '*.hmauqg.com') ||
 shExpMatch(host, '*.hmndhdbscgru.pw') ||
 shExpMatch(host, '*.hm.sssdyun.net') ||
 shExpMatch(host, '*.hnxiby.com') ||
+shExpMatch(host, '*.hocgeese.com') ||
 shExpMatch(host, '*.hola0308.kozow.com') ||
 shExpMatch(host, '*.hollandbusinessadvertising.nl') ||
 shExpMatch(host, '*.hollowshake.com') ||
@@ -4093,10 +4095,12 @@ shExpMatch(host, '*.magnetic.com') ||
 shExpMatch(host, '*.magnificentmist.com') ||
 shExpMatch(host, '*.mail-ads.google.com') ||
 shExpMatch(host, '*.mailslots.top') ||
+shExpMatch(host, '*.malaysia-online-bank-kasino.com') ||
 shExpMatch(host, '*.malikshabas.com') ||
 shExpMatch(host, '*.Malvertising list by Disconnect') ||
 shExpMatch(host, '*.malware-check.disconnect.me') ||
 shExpMatch(host, '*.malware-scan.com') ||
+shExpMatch(host, '*.manageadv.cblogs.eu') ||
 shExpMatch(host, '*.manage.com') ||
 shExpMatch(host, '*.man-street.tk') ||
 shExpMatch(host, '*.maplefarmmedia.com') ||
@@ -4248,6 +4252,7 @@ shExpMatch(host, '*.mmstat.com') ||
 shExpMatch(host, '*.mmtro.com') ||
 shExpMatch(host, '*.mnmlia.com') ||
 shExpMatch(host, '*.moadnet.com') ||
+shExpMatch(host, '*.moartraffic.com') ||
 shExpMatch(host, '*.moatads.com') ||
 shExpMatch(host, '*.moat.com') ||
 shExpMatch(host, '*.moatpixel.com') ||
@@ -5852,6 +5857,7 @@ shExpMatch(host, '*.t.insigit.com') ||
 shExpMatch(host, '*.tinybar.com') ||
 shExpMatch(host, '*.t.irtyd.com') ||
 shExpMatch(host, '*.tizers.net') ||
+shExpMatch(host, '*.tkbo.com') ||
 shExpMatch(host, '*.tls.telemetry.swe.quicinc.com') ||
 shExpMatch(host, '*.tlvmedia.com') ||
 shExpMatch(host, '*.tnkexchange.com') ||
@@ -6305,6 +6311,7 @@ shExpMatch(host, '*.userreplay.net') ||
 shExpMatch(host, '*.usmsad.tom.com') ||
 shExpMatch(host, '*.utarget.co.uk') ||
 shExpMatch(host, '*.utils.mediageneral.net') ||
+shExpMatch(host, '*.utl-1.com') ||
 shExpMatch(host, '*.uttermosthobbies.com') ||
 shExpMatch(host, '*.uuxioy.com') ||
 shExpMatch(host, '*.uvcmlfca.biz') ||
@@ -9370,6 +9377,7 @@ shExpMatch(host, 'cj.com') ||
 shExpMatch(host, 'cji1.com') ||
 shExpMatch(host, 'cjlog.com') ||
 shExpMatch(host, 'cjurbf.com') ||
+shExpMatch(host, 'cl0udh0st1ng.com') ||
 shExpMatch(host, 'claria.com') ||
 shExpMatch(host, 'clashmobile.com') ||
 shExpMatch(host, 'class-act-clicks.com') ||
@@ -10477,6 +10485,7 @@ shExpMatch(host, 'hmauqg.com') ||
 shExpMatch(host, 'hmndhdbscgru.pw') ||
 shExpMatch(host, 'hm.sssdyun.net') ||
 shExpMatch(host, 'hnxiby.com') ||
+shExpMatch(host, 'hocgeese.com') ||
 shExpMatch(host, 'hola0308.kozow.com') ||
 shExpMatch(host, 'hollandbusinessadvertising.nl') ||
 shExpMatch(host, 'hollowshake.com') ||
@@ -10992,10 +11001,12 @@ shExpMatch(host, 'magnetic.com') ||
 shExpMatch(host, 'magnificentmist.com') ||
 shExpMatch(host, 'mail-ads.google.com') ||
 shExpMatch(host, 'mailslots.top') ||
+shExpMatch(host, 'malaysia-online-bank-kasino.com') ||
 shExpMatch(host, 'malikshabas.com') ||
 shExpMatch(host, 'Malvertising list by Disconnect') ||
 shExpMatch(host, 'malware-check.disconnect.me') ||
 shExpMatch(host, 'malware-scan.com') ||
+shExpMatch(host, 'manageadv.cblogs.eu') ||
 shExpMatch(host, 'manage.com') ||
 shExpMatch(host, 'man-street.tk') ||
 shExpMatch(host, 'maplefarmmedia.com') ||
@@ -11147,6 +11158,7 @@ shExpMatch(host, 'mmstat.com') ||
 shExpMatch(host, 'mmtro.com') ||
 shExpMatch(host, 'mnmlia.com') ||
 shExpMatch(host, 'moadnet.com') ||
+shExpMatch(host, 'moartraffic.com') ||
 shExpMatch(host, 'moatads.com') ||
 shExpMatch(host, 'moat.com') ||
 shExpMatch(host, 'moatpixel.com') ||
@@ -12751,6 +12763,7 @@ shExpMatch(host, 't.insigit.com') ||
 shExpMatch(host, 'tinybar.com') ||
 shExpMatch(host, 't.irtyd.com') ||
 shExpMatch(host, 'tizers.net') ||
+shExpMatch(host, 'tkbo.com') ||
 shExpMatch(host, 'tls.telemetry.swe.quicinc.com') ||
 shExpMatch(host, 'tlvmedia.com') ||
 shExpMatch(host, 'tnkexchange.com') ||
@@ -13204,6 +13217,7 @@ shExpMatch(host, 'userreplay.net') ||
 shExpMatch(host, 'usmsad.tom.com') ||
 shExpMatch(host, 'utarget.co.uk') ||
 shExpMatch(host, 'utils.mediageneral.net') ||
+shExpMatch(host, 'utl-1.com') ||
 shExpMatch(host, 'uttermosthobbies.com') ||
 shExpMatch(host, 'uuxioy.com') ||
 shExpMatch(host, 'uvcmlfca.biz') ||
