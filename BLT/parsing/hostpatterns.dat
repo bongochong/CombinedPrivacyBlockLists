@@ -69,6 +69,7 @@ localhost$
 ^0.0.0.0 dropboxmail.com$
 ^0.0.0.0 dropboxpartners.com$
 ^0.0.0.0 dropboxstatic.com$
+^0.0.0.0 dshield.org$
 ^0.0.0.0 ea.com$
 ^0.0.0.0 easylist.to$
 ^0.0.0.0 embed.spotify.com$
@@ -83,6 +84,7 @@ localhost$
 ^0.0.0.0 instructorledlearning.dropboxbusiness.com$
 ^0.0.0.0 itunes.apple.com$
 ^0.0.0.0 itunes.com$
+^0.0.0.0 malwaredomainlist.com$
 ^0.0.0.0 malwaredomains.com$
 ^0.0.0.0 medium.com$
 ^0.0.0.0 movies.netflix.com$
@@ -92,11 +94,13 @@ localhost$
 ^0.0.0.0 onedrive.com$
 ^0.0.0.0 openphish.com$
 ^0.0.0.0 paper.dropbox.com$
+^0.0.0.0 pgl.yoyo.org$
 ^0.0.0.0 phobos.apple.com$
 ^0.0.0.0 pic.twitter.com$
 ^0.0.0.0 platform.twitter.com$
 ^0.0.0.0 play.spotify.com$
 ^0.0.0.0 plex.tv$
+^0.0.0.0 raw.githubusercontent.com$
 ^0.0.0.0 search.twitter.com$
 ^0.0.0.0 secure.netflix.com$
 ^0.0.0.0 shorl.com$
@@ -105,6 +109,7 @@ localhost$
 ^0.0.0.0 signalcaptchas.org$
 ^0.0.0.0 someonewhocares.org$
 ^0.0.0.0 ssl-images-amazon.com$
+^0.0.0.0 ssl.bblck.me$
 ^0.0.0.0 ssl.reddit.com$
 ^0.0.0.0 storage-staging.signal.org$
 ^0.0.0.0 support.signal.org$
@@ -119,5 +124,6 @@ localhost$
 ^0.0.0.0 upload.twitter.com$
 ^0.0.0.0 userstream.twitter.com$
 ^0.0.0.0 whispersystems.org$
+^0.0.0.0 winhelp2002.mvps.org$
 ^0.0.0.0 wix.com$
-^0.0.0.0 www.staradvertiser.com$
+^0.0.0.0 www.staradvertiser.com
