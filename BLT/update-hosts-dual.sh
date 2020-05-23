@@ -73,7 +73,7 @@ sed -i -e "s/\(.*\)/\L\1/" uniq-hosts.final
 sort uniq-hosts.final | uniq -i > final-uniq.hosts
 pcregrep -v -f ~/BLT/parsing/hostpatterns.dat final-uniq.hosts > hosts.final
 echo "Successfully merged hosts lists!"
-sed 's/^0.0.0.0/::/g' hosts.final > hostsIPv6.final
+sed "s/^0.0.0.0/::/g" hosts.final > hostsIPv6.final
 perl -i -pe 'chomp if eof' hosts.final
 perl -i -pe 'chomp if eof' hostsIPv6.final
 sed '38r hostsIPv6.final' < ~/BLT/parsing/newhosts-template-dual.txt > newhosts-template-both.txt
