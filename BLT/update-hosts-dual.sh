@@ -56,20 +56,20 @@ sed -i "/^0.0.0.0 /! s/^/0.0.0.0 /" uniq-hosts.final
 #    echo "All domains are valid ASCII strings. Continuing compilation of lists..."
 #fi
 #End of Unicode IDN domain to Punycode conversion routine
-sed -i '/0.0.0.0 device9.com/d' uniq-hosts.final
-sed -i '/\^\document/d' uniq-hosts.final
-sed -i '/\^/d' uniq-hosts.final
-sed -i '/\*/d' uniq-hosts.final
-sed -i '/\?/d' uniq-hosts.final
-sed -i '/\//d' uniq-hosts.final
-sed -i '/@/d' uniq-hosts.final
-sed -i '/!/d' uniq-hosts.final
-sed -i '/|/d' uniq-hosts.final
-sed -i '/:/d' uniq-hosts.final
-sed -i '/~/d' uniq-hosts.final
-sed -i '/,/d' uniq-hosts.final
-sed -i '/=/d' uniq-hosts.final
-sed -i -e 's/\(.*\)/\L\1/' uniq-hosts.final
+sed -i "/0.0.0.0 device9.com/d" uniq-hosts.final
+sed -i "/\^\document/d" uniq-hosts.final
+sed -i "/\^/d" uniq-hosts.final
+sed -i "/\*/d" uniq-hosts.final
+sed -i "/\?/d" uniq-hosts.final
+sed -i "/\//d" uniq-hosts.final
+sed -i "/@/d" uniq-hosts.final
+sed -i "/!/d" uniq-hosts.final
+sed -i "/|/d" uniq-hosts.final
+sed -i "/:/d" uniq-hosts.final
+sed -i "/~/d" uniq-hosts.final
+sed -i "/,/d" uniq-hosts.final
+sed -i "/=/d" uniq-hosts.final
+sed -i -e "s/\(.*\)/\L\1/" uniq-hosts.final
 sort uniq-hosts.final | uniq -i > final-uniq.hosts
 pcregrep -v -f ~/BLT/parsing/hostpatterns.dat final-uniq.hosts > hosts.final
 echo "Successfully merged hosts lists!"
