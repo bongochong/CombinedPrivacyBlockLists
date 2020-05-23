@@ -47,9 +47,7 @@ sed -i "/^0.0.0.0 /! s/^/0.0.0.0 /" uniq-hosts.final
 #if [[ $(grep -P -n "[^\x00-\x7F]" uniq-hosts.final) ]]; then
 #    echo "Non-ASCII strings found in domains. Converting to Punycode..."
 #    grep -P -v "[^\x00-\x7F]" uniq-hosts.final | sed "s/0.0.0.0 //" > uniq-hosts-na.final
-#    sleep 2
 #    grep -P "[^\x00-\x7F]" uniq-hosts.final | sed "s/0.0.0.0 //" | idn >> uniq-hosts-na.final
-#    sleep 2
 #    sed -i "/^0.0.0.0 /! s/^/0.0.0.0 /" uniq-hosts-na.final
 #    rm -f uniq-hosts.final && mv uniq-hosts-na.final uniq-hosts.final
 #else

@@ -22,11 +22,11 @@ find . -name 'ydxerpxkpcfqjaybcssw.txt' -exec mv {} bt_level1.dat \;
 find . -name 'gyisgnzbhppbvsphucsw.txt' -exec mv {} bt_level2.dat \;
 cat *.dat > combined-win.txt
 sed -i "s/amp;//g" combined-win.txt
-sleep 3
+sleep 2
 sort combined-win.txt | uniq -i > combined-final-win.dat
-sleep 3
+sleep 2
 perl -pi -e '$_ = "" if ( $. == 1 );' combined-final-win.dat
-sleep 3
+sleep 2
 sed -i "/^#/d" combined-final-win.dat
 sed -i "/^[[:space:]]*$/d" combined-final-win.dat
 perl -i -pe 'chomp if eof' combined-final-win.dat
