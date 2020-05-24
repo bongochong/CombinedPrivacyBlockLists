@@ -40,7 +40,7 @@ sort hosts-pre.final | uniq | sed "s/#.*$//" | sed "/[[:space:]]*#/d" | sed "/[[
 #    echo "All domains are valid ASCII strings. Continuing compilation of lists..."
 #fi
 #End of Unicode IDN domain to Punycode conversion routine
-sed -i -e "/0.0.0.0 device9.com/d" -e "/\^\document/d" -e "/\^/d" -e "/\*/d" -e "/\?/d" -e "/\//d" -e "/@/d" -e "/!/d" -e "/|/d" -e "/:/d" -e "/~/d" -e "/,/d" -e "/=/d" -e "s/\(.*\)/\L\1/" uniq-hosts.final
+sed -i -e '/0.0.0.0 device9.com/d' -e '/\^\document/d' -e '/\^/d' -e '/\*/d' -e '/\?/d' -e '/\//d' -e '/@/d' -e '/!/d' -e '/|/d' -e '/:/d' -e '/~/d' -e '/,/d' -e '/=/d' -e "s/\(.*\)/\L\1/" uniq-hosts.final
 sort uniq-hosts.final | uniq -i > final-uniq.hosts
 pcregrep -v -f ~/BLT/parsing/hostpatterns.dat final-uniq.hosts > hosts.final
 perl -i -pe 'chomp if eof' hosts.final
