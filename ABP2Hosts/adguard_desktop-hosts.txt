@@ -1,4 +1,4 @@
-# Fri 22 May 2020 04:10:53 AM MDT
+# Sat 23 May 2020 10:25:59 PM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 0351dvd.cn
@@ -2111,9 +2111,16 @@
 0.0.0.0 etrigue.com
 0.0.0.0 etyper.com
 0.0.0.0 euktoywjpdxpdh.com
+0.0.0.0 eulerian.belambra.be
+0.0.0.0 eulerian.belambra.fr
+0.0.0.0 eulerian.brandalley.fr
 0.0.0.0 euleriancdn.net
-0.0.0.0 eulerian.com
+0.0.0.0 eulerian.madeindesign.com
+0.0.0.0 eulerian.mathon.fr
 0.0.0.0 eulerian.net
+0.0.0.0 eulerian.officiel-des-vacances.com
+0.0.0.0 eulerian.sarenza.com
+0.0.0.0 eulerian.splendia.com
 0.0.0.0 eum-appdynamics.com
 0.0.0.0 euroads.dk
 0.0.0.0 eurocounter.com
@@ -3524,6 +3531,7 @@
 0.0.0.0 mitmeisseln.de
 0.0.0.0 mixedreading.com
 0.0.0.0 mixpanel.com
+0.0.0.0 mj23.eulerian.com
 0.0.0.0 mk1lyl406xmp.com
 0.0.0.0 mkt3261.com
 0.0.0.0 mkt51.net
@@ -4701,6 +4709,7 @@
 0.0.0.0 rtrk.com
 0.0.0.0 rtrk.co.nz
 0.0.0.0 ru4.com
+0.0.0.0 rubiginose.com
 0.0.0.0 rubird.ru
 0.0.0.0 rucounter.ru
 0.0.0.0 rufadses.net
