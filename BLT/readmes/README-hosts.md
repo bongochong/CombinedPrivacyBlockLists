@@ -2,7 +2,7 @@ The [update-hosts.sh](https://github.com/bongochong/CombinedPrivacyBlockLists/bl
 
 **Checklist for use**:
 1. Ensure that [all relevant files](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/BLT) are downloaded to a single directory.
-2. Make sure that you have [`pcre (or pcre2)`](https://www.pcre.org/), [`perl`](https://www.perl.com/about/), and [`wget`](https://www.gnu.org/software/wget/) installed on your system, along with [`idn2 (or idn)`](https://linux.die.net/man/1/idn) if you wish to use the commented out routine in the scripts for handling Unicode internationalized domains.
+2. Make sure that you have [`pcre (or pcre2 or pcregrep)`](https://www.pcre.org/), [`perl`](https://www.perl.com/about/), and [`wget`](https://www.gnu.org/software/wget/) installed on your system, along with [`idn2 (or idn)`](https://linux.die.net/man/1/idn) if you wish to use the commented out routine in the scripts for handling Unicode internationalized domains.
 3. Open a terminal in or `cd` to the aforementioned directory.
 4. Launch the script (`sh update-hosts.sh` should do).
 5. Watch the output of the script.
