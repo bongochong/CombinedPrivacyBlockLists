@@ -13,7 +13,7 @@ The data within is meant to automate the generation and updating of the followin
 
 **Dependencies**:  
 The following packages are required to utilize all my block list utilities:  
-`wget` `pcre (or pcre2)` `perl` `p7zip` `p7zip-plugins`
+`wget` `pcre (or pcre2 or pcregrep)` `perl` `p7zip` `p7zip-plugins (or p7zip-full)`
   
 In addition, the following packages are suggested to utilize some optional features:  
 `curl` is necessary if you wish to use the server upload feature of the PAC generator script.  
