@@ -16,7 +16,8 @@ sleep 1
 echo "Extracted blocklists from archives."
 find . -name 'ydxerpxkpcfqjaybcssw.txt' -exec mv {} bt_level1.p2p \;
 find . -name 'gyisgnzbhppbvsphucsw.txt' -exec mv {} bt_level2.p2p \;
-cat *.p2p | sed "s/amp;//g" > combined.txt | sort | uniq -i > combined-final.p2p
+cat *.p2p | sed "s/amp;//g" > combined.txt
+sort combined.txt | uniq -i > combined-final.p2p
 sleep 1
 perl -pi -e '$_ = "" if ( $. == 1 );' combined-final.p2p
 sed -i -e "/^#/d" -e "/^[[:space:]]*$/d" combined-final.p2p

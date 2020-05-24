@@ -16,7 +16,8 @@ wget -nv -O 5.pac "https://dshield.org/feeds/suspiciousdomains_Medium.txt"
 wget -nv -O 6.pac "https://dshield.org/feeds/suspiciousdomains_High.txt"
 wget -nv -O 7.pac "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=0&mimetype=plaintext"
 echo "Lists Downloaded. Now parsing..."
-cat *.pac | sed "s/#.*$//" | sed "/^$/d" | sed "/^Site$/d" > pac-comb.txt | sort | uniq -i > pac-uniq.txt
+cat *.pac | sed "s/#.*$//" | sed "/^$/d" | sed "/^Site$/d" > pac-comb.txt
+sort pac-comb.txt | uniq -i > pac-uniq.txt
 cp pac-uniq.txt pac-pre.txt
 cp pac-pre.txt pac-pre2.txt
 sed -i "s/^/*./" pac-pre.txt

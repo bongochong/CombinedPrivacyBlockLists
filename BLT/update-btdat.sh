@@ -16,7 +16,8 @@ sleep 1
 echo "Extracted blocklists from archives."
 find . -name 'ydxerpxkpcfqjaybcssw.txt' -exec mv {} bt_level1.dat \;
 find . -name 'gyisgnzbhppbvsphucsw.txt' -exec mv {} bt_level2.dat \;
-cat *.dat | sed "s/amp;//g" > combined-win.txt | sort | uniq -i > combined-final-win.dat
+cat *.dat | sed "s/amp;//g" > combined-win.txt
+sort combined-win.txt | uniq -i > combined-final-win.dat
 sleep 1
 perl -pi -e '$_ = "" if ( $. == 1 );' combined-final-win.dat
 sed -i -e "/^#/d" -e "/^[[:space:]]*$/d" combined-final-win.dat

@@ -1,4 +1,4 @@
-// **** Fri 22 May 2020 04:13:38 AM MDT
+// **** Sat 23 May 2020 10:34:17 PM MDT
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.039b1ee.netsolhost.com') ||
@@ -5566,7 +5566,6 @@ shExpMatch(host, '*.sponsorpay.com') ||
 shExpMatch(host, '*.sponsorpro.de') ||
 shExpMatch(host, '*.sponsors.thoughtsmedia.com') ||
 shExpMatch(host, '*.spookyslope.com') ||
-shExpMatch(host, '*.spoor-api.asia.nikkei.com') ||
 shExpMatch(host, '*.spot.fitness.com') ||
 shExpMatch(host, '*.spotscenered.info') ||
 shExpMatch(host, '*.spottednoise.com') ||
@@ -12472,7 +12471,6 @@ shExpMatch(host, 'sponsorpay.com') ||
 shExpMatch(host, 'sponsorpro.de') ||
 shExpMatch(host, 'sponsors.thoughtsmedia.com') ||
 shExpMatch(host, 'spookyslope.com') ||
-shExpMatch(host, 'spoor-api.asia.nikkei.com') ||
 shExpMatch(host, 'spot.fitness.com') ||
 shExpMatch(host, 'spotscenered.info') ||
 shExpMatch(host, 'spottednoise.com') ||
