@@ -2,7 +2,7 @@ The [update-btp2p.sh script](https://github.com/bongochong/CombinedPrivacyBlockL
 
 **Checklist for use**:
 1. Ensure that [all relevant files](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/BLT) are downloaded to a single directory.
-2. Make sure that you have [`p7zip` + `p7zip-plugins`](http://p7zip.sourceforge.net/), [`perl`](https://www.perl.com/about/), and [`wget`](https://www.gnu.org/software/wget/) installed on your system.
+2. Make sure that you have [`p7zip` + `p7zip-plugins (or p7zip-full)`](http://p7zip.sourceforge.net/), [`perl`](https://www.perl.com/about/), and [`wget`](https://www.gnu.org/software/wget/) installed on your system.
 3. Open a terminal in or `cd` to the aforementioned directory.
 4. Launch the script (`sh update-btp2p.sh` should do).
 5. Watch the output of the script.
