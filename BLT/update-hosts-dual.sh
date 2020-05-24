@@ -5,11 +5,8 @@
 echo "Cleaning up & Fetching hosts lists..."
 mkdir -p ~/BLT/hosts
 cd ~/BLT/hosts
-rm -f hosts.*
-rm -f *.final
-rm -f *.hosts
-rm -f newhosts.txt
-sleep 2
+rm -f hosts.* *.final *.hosts newhosts.txt
+sleep 1
 wget -nv -O hosts.1 "http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext"
 echo "Downloaded hosts list 1"
 wget -nv -O hosts.2 "http://winhelp2002.mvps.org/hosts.txt"
@@ -31,18 +28,7 @@ echo "Downloaded hosts list 9"
 echo "Parsing data..."
 cat hosts.* > hosts-cat.final
 pcregrep -v -f ~/BLT/parsing/hostpatterns.dat hosts-cat.final > hosts-pre.final
-sort hosts-pre.final | uniq > uniq-hosts.final
-sed -i "s/#.*$//" uniq-hosts.final
-sed -i "/[[:space:]]*#/d" uniq-hosts.final
-sed -i "/[[:blank:]]*#/d" uniq-hosts.final
-sed -i "s/\t/ /g" uniq-hosts.final
-sed -i "s/^127.0.0.1/0.0.0.0/g" uniq-hosts.final
-sed -i "s/^::1/0.0.0.0/g" uniq-hosts.final
-sed -i "s/^::/0.0.0.0/g" uniq-hosts.final
-sed -i "s/[[:space:]]*$//" uniq-hosts.final
-sed -i "s/[[:blank:]]*$//" uniq-hosts.final
-sed -i "s/[[:space:]]\+/ /g" uniq-hosts.final
-sed -i "/^0.0.0.0 /! s/^/0.0.0.0 /" uniq-hosts.final
+sort hosts-pre.final | uniq | sed "s/#.*$//" | sed "/[[:space:]]*#/d" | sed "/[[:blank:]]*#/d" | sed "s/\t/ /g" | sed "s/^127.0.0.1/0.0.0.0/g" | sed "s/^::1/0.0.0.0/g" | sed "s/^::/0.0.0.0/g" | sed "s/[[:space:]]*$//" | sed "s/[[:blank:]]*$//" | sed "s/[[:space:]]\+/ /g" | sed "/^0.0.0.0 /! s/^/0.0.0.0 /" > uniq-hosts.final
 #Optional routine to check for Unicode IDN domain entries and convert to Punycode if necessary
 #if [[ $(grep -P -n "[^\x00-\x7F]" uniq-hosts.final) ]]; then
 #    echo "Non-ASCII strings found in domains. Converting to Punycode..."
@@ -54,21 +40,7 @@ sed -i "/^0.0.0.0 /! s/^/0.0.0.0 /" uniq-hosts.final
 #    echo "All domains are valid ASCII strings. Continuing compilation of lists..."
 #fi
 #End of Unicode IDN domain to Punycode conversion routine
-sed -i "/0.0.0.0 device9.com/d" uniq-hosts.final
-sed -i "/\^\document/d" uniq-hosts.final
-sed -i "/\^/d" uniq-hosts.final
-sed -i "/\*/d" uniq-hosts.final
-sed -i "/\?/d" uniq-hosts.final
-sed -i "/\//d" uniq-hosts.final
-sed -i "/@/d" uniq-hosts.final
-sed -i "/!/d" uniq-hosts.final
-sed -i "/|/d" uniq-hosts.final
-sed -i "/:/d" uniq-hosts.final
-sed -i "/~/d" uniq-hosts.final
-sed -i "/,/d" uniq-hosts.final
-sed -i "/=/d" uniq-hosts.final
-sed -i -e "s/\(.*\)/\L\1/" uniq-hosts.final
-sort uniq-hosts.final | uniq -i > final-uniq.hosts
+sed -i -e "/0.0.0.0 device9.com/d" -e "/\^\document/d" -e "/\^/d" -e "/\*/d" -e "/\?/d" -e "/\//d" -e "/@/d" -e "/!/d" -e "/|/d" -e "/:/d" -e "/~/d" -e "/,/d" -e "/=/d"-e "s/\(.*\)/\L\1/" uniq-hosts.final | sort | uniq -i > final-uniq.hosts
 pcregrep -v -f ~/BLT/parsing/hostpatterns.dat final-uniq.hosts > hosts.final
 echo "Successfully merged hosts lists!"
 sed "s/^0.0.0.0/::/g" hosts.final > hostsIPv6.final
@@ -81,11 +53,8 @@ perl -i -pe 'chomp if eof' newhosts.txt
 echo "Successfully cleaned up and formatted hosts file! Prompting for password to make backup of and overwrite /etc/hosts..."
 sudo cp /etc/hosts hostsbackup.txt
 sudo cp newhosts.txt /etc/hosts
-sleep 2
-rm -f hosts.*
-rm -f *.final
-rm -f *.hosts
-rm -f newhosts-template-both.txt
+sleep 1
+rm -f hosts.* *.final *.hosts newhosts-template-both.txt
 echo "Your hosts file has been updated!"
 xdg-open ~/BLT/hosts
 exit
