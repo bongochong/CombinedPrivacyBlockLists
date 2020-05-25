@@ -1,5 +1,5 @@
-127.0.0.1 localhost
-::1 ip6-localhost ip6-loopback
+127.0.0.1	localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1 ip6-localhost ip6-loopback localhost localhost.localdomain localhost6 localhost6.localdomain6
 # The following lines are desirable for IPv6 capable hosts on LiGNUx
 # Though you do not want these lines if IPv6 is not enabled
 #
@@ -17,7 +17,7 @@
 # https://github.com/bongochong/CombinedPrivacyBlockLists/ #
 # Notes: The Operating System does not read the "#" symbol #
 # You can create your own notes, after the # symbol        #
-# This *must* be the first line: 127.0.0.1     localhost   #
+# This *must* be the first line: 127.0.0.1    localhost    #
 #                                                          #
 #**********************************************************#
 # ------------- DAYBONGODATEREPLACE ---------- #
