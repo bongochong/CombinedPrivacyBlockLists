@@ -1,4 +1,4 @@
-# Sat 23 May 2020 10:26:05 PM MDT
+# Mon 25 May 2020 04:57:01 AM MDT
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0026645142c89aeb1.com
 0.0.0.0 006a039c957c142bb.com
@@ -2633,6 +2633,7 @@
 0.0.0.0 authedmine.eu
 0.0.0.0 authmoumrl.com
 0.0.0.0 authorinsights.com
+0.0.0.0 authorneratu.club
 0.0.0.0 authornernsa.pro
 0.0.0.0 aution.pro
 0.0.0.0 autoaffiliatenetwork.com
@@ -13721,6 +13722,7 @@
 0.0.0.0 ouiinryhlvbgq.com
 0.0.0.0 oujlnbyavjhy.com
 0.0.0.0 oujouniw.com
+0.0.0.0 oukreesy.net
 0.0.0.0 ouloutso.net
 0.0.0.0 oultuwee.net
 0.0.0.0 oulxdvvpmfcd.com
@@ -16438,6 +16440,7 @@
 0.0.0.0 rlsqhgku.com
 0.0.0.0 rlxqaczszvjvp.com
 0.0.0.0 r.mail.ru
+0.0.0.0 rmgserving.com
 0.0.0.0 rmhdjambba.com
 0.0.0.0 rmjwdosemtg.com
 0.0.0.0 rmnwxcpccuzwe.com

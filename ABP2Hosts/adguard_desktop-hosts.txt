@@ -1,4 +1,4 @@
-# Sat 23 May 2020 10:25:59 PM MDT
+# Mon 25 May 2020 04:56:55 AM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 0351dvd.cn
@@ -5199,6 +5199,7 @@
 0.0.0.0 stoomeddert.info
 0.0.0.0 stopphoulplay.com
 0.0.0.0 stopphoulplay.net
+0.0.0.0 storeacdn.com
 0.0.0.0 storetail.io
 0.0.0.0 stormcontainertag.com
 0.0.0.0 stormiq.com
