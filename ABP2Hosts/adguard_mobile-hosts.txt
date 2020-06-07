@@ -1,4 +1,4 @@
-# Mon 25 May 2020 04:56:51 AM MDT
+# Sun 07 Jun 2020 01:49:10 AM MDT
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -1593,6 +1593,7 @@
 0.0.0.0 adtime.ru
 0.0.0.0 adtimes.admicro.vn
 0.0.0.0 adtng.com
+0.0.0.0 adtorque.in
 0.0.0.0 adtotal.pl
 0.0.0.0 adtrack1.midasplayer.com
 0.0.0.0 adtrack.adleadevent.com
@@ -2276,7 +2277,6 @@
 0.0.0.0 api.brs.intl.miui.com
 0.0.0.0 api-bts.logsss.com
 0.0.0.0 api.bttrack.com
-0.0.0.0 api.bufferapp.com
 0.0.0.0 api.bugfender.com
 0.0.0.0 api.bugly.qq.com
 0.0.0.0 api.bugsee.com
@@ -3380,10 +3380,6 @@
 0.0.0.0 bottle-brush.tagboard.com.herokudns.com
 0.0.0.0 bot.whatismyipaddress.com
 0.0.0.0 bounce.emxdgt.com
-0.0.0.0 bounce.exacttarget.com
-0.0.0.0 bounce-mx.exacttarget.com
-0.0.0.0 bounce.s10.exacttarget.com
-0.0.0.0 bounce.s7.exacttarget.com
 0.0.0.0 box.adalliance.io
 0.0.0.0 boxapp.admicro.vn
 0.0.0.0 boxoffice.urbanairship.com
@@ -3398,7 +3394,6 @@
 0.0.0.0 brainient.com
 0.0.0.0 brainyquote-d.openx.net
 0.0.0.0 branch.io
-0.0.0.0 brandcdn.exacttarget.com
 0.0.0.0 branding.api.us.apiconnect.ibmcloud.com
 0.0.0.0 branding.taboola.com
 0.0.0.0 brandsafe.adlooxtracking.com
@@ -4501,11 +4496,6 @@
 0.0.0.0 cr01.dynatrace.com
 0.0.0.0 cr02.dynatrace.com
 0.0.0.0 c.r10.mopub.com
-0.0.0.0 cr114.mta.exacttarget.com
-0.0.0.0 cr144.mta.exacttarget.com
-0.0.0.0 cr171.mta.exacttarget.com
-0.0.0.0 cr71.mta.exacttarget.com
-0.0.0.0 cr91.mta.exacttarget.com
 0.0.0.0 crab.baidu.com
 0.0.0.0 cr.appsee.com
 0.0.0.0 crash.163.com
@@ -4619,8 +4609,6 @@
 0.0.0.0 c.vrvm.com
 0.0.0.0 c.vserv.mobi
 0.0.0.0 cvt.mydas.mobi
-0.0.0.0 cw230.mta.exacttarget.com
-0.0.0.0 cw23.mta.exacttarget.com
 0.0.0.0 c.w.dfw2.vip.inmobi.com
 0.0.0.0 c.webengage.com
 0.0.0.0 c.webtrends.com
@@ -4959,16 +4947,11 @@
 0.0.0.0 dev-self-service-pay.adnow.com
 0.0.0.0 dev-track.adthrive.com
 0.0.0.0 dev.visualwebsiteoptimizer.com
-0.0.0.0 df12.mta.exacttarget.com
-0.0.0.0 df140.mta.exacttarget.com
-0.0.0.0 df177.mta.exacttarget.com
-0.0.0.0 df57.mta.exacttarget.com
 0.0.0.0 dfdsseaways.blueconic.com
 0.0.0.0 dfp.doubleclick.net
 0.0.0.0 dfp-gateway.onscroll.com
 0.0.0.0 dfp-gateway.us.onscroll.com
 0.0.0.0 dfs.digitalaccess.ru
-0.0.0.0 dg7.mta.exacttarget.com
 0.0.0.0 dhawk.parrable.com
 0.0.0.0 dhg-logging.us-east-1.elasticbeanstalk.com
 0.0.0.0 dh.serving-sys.com
@@ -6478,7 +6461,6 @@
 0.0.0.0 images3.taboola.com
 0.0.0.0 images4.taboola.com
 0.0.0.0 images5.taboola.com
-0.0.0.0 image.s7.exacttarget.com
 0.0.0.0 images9.engageya.com
 0.0.0.0 images.adsyndication.msn.com
 0.0.0.0 images.apester.com
@@ -6620,15 +6602,6 @@
 0.0.0.0 in.appserver-cp.com
 0.0.0.0 inapps.moengage.com
 0.0.0.0 inari.iad-03.braze.com
-0.0.0.0 inbound-reply.s1.exacttarget.com
-0.0.0.0 inbound-reply.s4.exacttarget.com
-0.0.0.0 inbound-reply.s6.exacttarget.com
-0.0.0.0 inbound-reply.s7.exacttarget.com
-0.0.0.0 inbound.s1.exacttarget.com
-0.0.0.0 inbound.s4.exacttarget.com
-0.0.0.0 inbound.s5.exacttarget.com
-0.0.0.0 inbound.s6.exacttarget.com
-0.0.0.0 inbound.s7.exacttarget.com
 0.0.0.0 in.c.appier.net
 0.0.0.0 inclk.com
 0.0.0.0 incoming.bm23.com
@@ -7252,6 +7225,7 @@
 0.0.0.0 logserver.insight.ucweb.com
 0.0.0.0 logs.game-insight.com
 0.0.0.0 log.sina.cn
+0.0.0.0 logsink.zedge.net
 0.0.0.0 logs.locarta.co
 0.0.0.0 logs.loggly.com
 0.0.0.0 logs.mobiletop.cc
@@ -7504,8 +7478,6 @@
 0.0.0.0 mc.exacttarget.com
 0.0.0.0 mcoreads.com
 0.0.0.0 mc.s10.exacttarget.com
-0.0.0.0 mc.s4.exacttarget.com
-0.0.0.0 mc.s6.exacttarget.com
 0.0.0.0 mc.s7.exacttarget.com
 0.0.0.0 mcs.eyereturn.com
 0.0.0.0 mcsvc.dynatrace.com
@@ -8481,7 +8453,6 @@
 0.0.0.0 origin-ads.undertone.com
 0.0.0.0 origin-c0.anthill.vn
 0.0.0.0 origin-cdn.openx.com
-0.0.0.0 origin-click.virt.s7.exacttarget.com
 0.0.0.0 origin-e.anthill.vn
 0.0.0.0 origin-gizmo.serving-sys.com
 0.0.0.0 origin-hb.undertone.com
@@ -8603,16 +8574,7 @@
 0.0.0.0 pagefair.net
 0.0.0.0 pagerank-server7.de
 0.0.0.0 pagerank-suchmaschine.de
-0.0.0.0 pages.exacttarget.com
-0.0.0.0 pages.s4.exacttarget.com
-0.0.0.0 pages.s6.exacttarget.com
-0.0.0.0 pages.s7.exacttarget.com
 0.0.0.0 pages.taboola.com
-0.0.0.0 pages.virt.exacttarget.com
-0.0.0.0 pages.virt.s10.exacttarget.com
-0.0.0.0 pages.virt.s4.exacttarget.com
-0.0.0.0 pages.virt.s6.exacttarget.com
-0.0.0.0 pages.virt.s7.exacttarget.com
 0.0.0.0 paimgcdn.baidu.com
 0.0.0.0 p.alcmpn.com
 0.0.0.0 p.algovid.com
@@ -9379,10 +9341,6 @@
 0.0.0.0 replaycontroller.4seeresults.com
 0.0.0.0 replay.foreseeresults.com
 0.0.0.0 rep.logentries.com
-0.0.0.0 reply.exacttarget.com
-0.0.0.0 reply-mx.s6.exacttarget.com
-0.0.0.0 reply-mx.s7.exacttarget.com
-0.0.0.0 reply.s10.exacttarget.com
 0.0.0.0 reporo.net
 0.0.0.0 report.adtech.de
 0.0.0.0 report.adview.cn
@@ -10231,7 +10189,6 @@
 0.0.0.0 show.re.taobao.com
 0.0.0.0 show-s.mediav.com
 0.0.0.0 s.iaudienc.com
-0.0.0.0 sidecar.gitter.im
 0.0.0.0 s.idio.co
 0.0.0.0 sift-campaign-creatives.s3.amazonaws.com
 0.0.0.0 sig.atdmt.com
@@ -11232,6 +11189,7 @@
 0.0.0.0 telemetry.sdk.inmobi.cn
 0.0.0.0 telemetry.sdk.inmobi.com
 0.0.0.0 telemetry.sdk.vip.ams1.inmobi.com
+0.0.0.0 telemetry.swiftkey.com
 0.0.0.0 telemetryverification.net
 0.0.0.0 teleport.soom.la
 0.0.0.0 telim.fractionalmedia.com
@@ -11373,6 +11331,7 @@
 0.0.0.0 toptargeting.afftrack.com
 0.0.0.0 touchads.com
 0.0.0.0 touch-heresite.cleverpush.com
+0.0.0.0 touchtype-fluency.com
 0.0.0.0 townhallmedia-d.openx.net
 0.0.0.0 townsq.deliveryengine.adswizz.com
 0.0.0.0 townsquaremedia-d.openx.net
@@ -12084,7 +12043,6 @@
 0.0.0.0 veads.veinteractive.com
 0.0.0.0 vectaury.io
 0.0.0.0 vector.parrable.com
-0.0.0.0 vectorsdk.map.qq.com
 0.0.0.0 veeseo.com
 0.0.0.0 veirregnant.club
 0.0.0.0 vektor-us-east-1.axonix.com
@@ -12161,13 +12119,7 @@
 0.0.0.0 view.adsrvr.org
 0.0.0.0 view.atdmt.com
 0.0.0.0 viewclc.com
-0.0.0.0 view.exacttarget.com
 0.0.0.0 viewpoint.com
-0.0.0.0 view.virt.exacttarget.com
-0.0.0.0 view.virt.s10.exacttarget.com
-0.0.0.0 view.virt.s4.exacttarget.com
-0.0.0.0 view.virt.s6.exacttarget.com
-0.0.0.0 view.virt.s7.exacttarget.com
 0.0.0.0 viewwonder.com
 0.0.0.0 vindicosuite.com
 0.0.0.0 vipcpms.com
