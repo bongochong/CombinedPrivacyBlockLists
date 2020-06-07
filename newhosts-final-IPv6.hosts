@@ -6,7 +6,7 @@ fe00::0 ip6-localnet
 ff00::0 ip6-mcastprefix
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
-# You do not want those lines if IPV6 is not enabled       #
+# You do not want those lines if IPv6 is not enabled       #
 #                                                          #
 # This HOSTS file was merged from these sources and more:  #
 # EasyList, AdGuard, pgl.yoyo.org, WinHelp2002...          #
@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 # This *must* be the first line: 127.0.0.1    localhost    #
 #                                                          #
 #**********************************************************#
-# ------------- Sun 07 Jun 2020 03:25:22 PM MDT ---------- #
+# ------------- Sun 07 Jun 2020 03:50:57 PM MDT ---------- #
 #**********************************************************#
 #                                                          #
 # Disclaimer: cow pigs won dogs on six for personal use    #
