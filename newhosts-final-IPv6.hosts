@@ -1,12 +1,12 @@
 127.0.0.1	localhost localhost.localdomain localhost4 localhost4.localdomain4
 ::1 ip6-localhost ip6-loopback localhost localhost.localdomain localhost6 localhost6.localdomain6
-# 127.0.1.1	[Put your host name here if you wish then uncomment this line and remove the brackets]
+# 127.0.1.1	PUT-YOUR-HOSTNAME-HERE-IF-YOU-WISH-THEN-UNCOMMENT-THIS-LINE
 # The following lines are desirable for IPv6 capable hosts on LiGNUx
 fe00::0 ip6-localnet
 ff00::0 ip6-mcastprefix
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
-# You do not want those lines if IPv6 is not enabled       #
+# You do not want those lines if IPv6 is not enabled
 #                                                          #
 # This HOSTS file was merged from these sources and more:  #
 # EasyList, AdGuard, pgl.yoyo.org, WinHelp2002...          #
@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 # This *must* be the first line: 127.0.0.1    localhost    #
 #                                                          #
 #**********************************************************#
-# ------------- Sun 07 Jun 2020 03:50:57 PM MDT ---------- #
+# ------------- Sun 07 Jun 2020 04:56:55 PM MDT ---------- #
 #**********************************************************#
 #                                                          #
 # Disclaimer: cow pigs won dogs on six for personal use    #
