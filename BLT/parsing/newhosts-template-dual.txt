@@ -1,6 +1,6 @@
 127.0.0.1	localhost localhost.localdomain localhost4 localhost4.localdomain4
 ::1 ip6-localhost ip6-loopback localhost localhost.localdomain localhost6 localhost6.localdomain6
-# 127.0.1.1	[Put your host name here if you wish then uncomment this line and remove the brackets]
+# 127.0.1.1	PUT-YOUR-HOSTNAME-HERE-IF-YOU-WISH-THEN-UNCOMMENT-THIS-LINE
 # The following lines are desirable for IPv6 capable hosts on LiGNUx
 #
 fe00::0 ip6-localnet
