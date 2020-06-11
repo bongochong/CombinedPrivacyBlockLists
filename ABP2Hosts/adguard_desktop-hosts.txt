@@ -1,4 +1,4 @@
-# Sun 07 Jun 2020 01:49:14 AM MDT
+# Thu 11 Jun 2020 12:35:32 PM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 0351dvd.cn
@@ -136,6 +136,7 @@
 0.0.0.0 564d28256cddaeba.com
 0.0.0.0 56fff.net
 0.0.0.0 5b15a826.xyz
+0.0.0.0 5baf1288cf.dl8.me
 0.0.0.0 5c577fc74618431b.com
 0.0.0.0 5e6lud.cn
 0.0.0.0 5iclx7wa4q.com
@@ -570,6 +571,7 @@
 0.0.0.0 amountinue.info
 0.0.0.0 amparcaim.club
 0.0.0.0 amung.us
+0.0.0.0 amunx.de
 0.0.0.0 amxdt.com
 0.0.0.0 analoganalytics.com
 0.0.0.0 analysistools.net
@@ -1002,6 +1004,7 @@
 0.0.0.0 boilingbeetle.com
 0.0.0.0 bokeden.com
 0.0.0.0 bokilora.com
+0.0.0.0 bokrelri.com
 0.0.0.0 bondinra.com
 0.0.0.0 bonitrust.de
 0.0.0.0 bonjikoa.com
@@ -1255,6 +1258,7 @@
 0.0.0.0 cklad.xyz
 0.0.0.0 clarifyingquack.com
 0.0.0.0 claritytag.com
+0.0.0.0 classentedol.club
 0.0.0.0 clcassd.com
 0.0.0.0 clckysudks.com
 0.0.0.0 cldom.com
@@ -1608,7 +1612,6 @@
 0.0.0.0 d1p7elpjrt6qav.cloudfront.net
 0.0.0.0 d1pozdfelzfhyt.cloudfront.net
 0.0.0.0 d1qc76gneygidm.cloudfront.net
-0.0.0.0 d1qggq1at2gusn.cloudfront.net
 0.0.0.0 d1qk9ujrmkucbl.cloudfront.net
 0.0.0.0 d1qtf1avwa1wvl.cloudfront.net
 0.0.0.0 d1r90st78epsag.cloudfront.net
@@ -1690,6 +1693,7 @@
 0.0.0.0 d3t9nyds4ufoqz.cloudfront.net
 0.0.0.0 d3u5zn5k9864p0.cloudfront.net
 0.0.0.0 d3ud741uvs727m.cloudfront.net
+0.0.0.0 d3v3bqdndm4erx.cloudfront.net
 0.0.0.0 d3vpf6i51y286p.cloudfront.net
 0.0.0.0 d4d48974197052ea.com
 0.0.0.0 d4ngwggzm3w7j.cloudfront.net
@@ -2274,7 +2278,6 @@
 0.0.0.0 findepended.com
 0.0.0.0 finderlocator.com
 0.0.0.0 find-ip-address.org
-0.0.0.0 fingahvf.top
 0.0.0.0 finized.co
 0.0.0.0 fiozxmznaba.com
 0.0.0.0 fishhoo.com
@@ -3547,6 +3550,7 @@
 0.0.0.0 microcounter.de
 0.0.0.0 midas-i.com
 0.0.0.0 midkotatraffic.net
+0.0.0.0 milk.supertool.stunnermedia.com
 0.0.0.0 milleonid.com
 0.0.0.0 millioncounter.com
 0.0.0.0 milparota.com
@@ -3600,6 +3604,7 @@
 0.0.0.0 mobtop.ru
 0.0.0.0 mobylog.jp
 0.0.0.0 mochibot.com
+0.0.0.0 mocmubse.net
 0.0.0.0 modernus.is
 0.0.0.0 modulepush.com
 0.0.0.0 moguldom.com
@@ -3616,6 +3621,7 @@
 0.0.0.0 monu.delivery
 0.0.0.0 moonads.net
 0.0.0.0 moowouzy.net
+0.0.0.0 mopinion.com
 0.0.0.0 mopnixhem.com
 0.0.0.0 mordi.fun
 0.0.0.0 mordi.xyz
@@ -3813,6 +3819,7 @@
 0.0.0.0 ngastatic.com
 0.0.0.0 ngmco.net
 0.0.0.0 niajmtjqexq.co
+0.0.0.0 nibzitgas.com
 0.0.0.0 nicesearches.com
 0.0.0.0 nicewii.com
 0.0.0.0 niftymaps.com
@@ -3981,6 +3988,7 @@
 0.0.0.0 onshowit.com
 0.0.0.0 onthe.io
 0.0.0.0 onvictinitor.com
+0.0.0.0 oogneenu.net
 0.0.0.0 ookris.oferty-kredytowe.pl
 0.0.0.0 ooredi.com
 0.0.0.0 oorseest.net
@@ -4024,7 +4032,6 @@
 0.0.0.0 ositracker.com
 0.0.0.0 osm-onead.cdn.hinet.net
 0.0.0.0 osniffer.pro
-0.0.0.0 ospserver.net
 0.0.0.0 osskanger.com
 0.0.0.0 osxau.de
 0.0.0.0 otefauks.link
@@ -4105,6 +4112,7 @@
 0.0.0.0 party-vqgdyvoycc.now.sh
 0.0.0.0 parumal.com
 0.0.0.0 pass-1234.com
+0.0.0.0 passeseuro.com
 0.0.0.0 pastilon.com
 0.0.0.0 pathful.com
 0.0.0.0 patiland.co
@@ -4317,6 +4325,7 @@
 0.0.0.0 pr-chart.com
 0.0.0.0 pr-chart.de
 0.0.0.0 prchecker.info
+0.0.0.0 preanalytication.com
 0.0.0.0 precisioncounter.com
 0.0.0.0 predicta.net
 0.0.0.0 predictivedna.com
@@ -4391,6 +4400,7 @@
 0.0.0.0 psoaptou.net
 0.0.0.0 psonstrentie.info
 0.0.0.0 psoonsod.com
+0.0.0.0 psoumtou.net
 0.0.0.0 psozoult.net
 0.0.0.0 pstats.com
 0.0.0.0 psughooy.com
@@ -5877,6 +5887,7 @@
 0.0.0.0 vinsight.de
 0.0.0.0 vinub.com
 0.0.0.0 vipcpms.com
+0.0.0.0 vipicmou.net
 0.0.0.0 vip.ludu319.com
 0.0.0.0 vip.min1319.com
 0.0.0.0 viralltopics.com
