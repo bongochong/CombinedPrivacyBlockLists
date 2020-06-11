@@ -1,4 +1,4 @@
-// **** Sun 07 Jun 2020 01:53:56 AM MDT
+// **** Thu 11 Jun 2020 12:38:58 PM MDT
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0daygameparadise.com') ||
@@ -2313,6 +2313,7 @@ shExpMatch(host, '*.callofduty-officiel.com') ||
 shExpMatch(host, '*.callofdutyprestigehacks.com') ||
 shExpMatch(host, '*.callousbrake.com') ||
 shExpMatch(host, '*.callrail.com') ||
+shExpMatch(host, '*.calmcactus.com') ||
 shExpMatch(host, '*.calmfoot.com') ||
 shExpMatch(host, '*.camaro-s.com') ||
 shExpMatch(host, '*.camasi.ru') ||
@@ -2970,6 +2971,7 @@ shExpMatch(host, '*.consolesupply.com') ||
 shExpMatch(host, '*.contact-celebrities.com') ||
 shExpMatch(host, '*.contadores.miarroba.com') ||
 shExpMatch(host, '*.contaxe.de') ||
+shExpMatch(host, '*.content22.online.citi.com') ||
 shExpMatch(host, '*.contentabc.com') ||
 shExpMatch(host, '*.content.acc-hd.de') ||
 shExpMatch(host, '*.content.ad') ||
@@ -14852,6 +14854,7 @@ shExpMatch(host, 'callofduty-officiel.com') ||
 shExpMatch(host, 'callofdutyprestigehacks.com') ||
 shExpMatch(host, 'callousbrake.com') ||
 shExpMatch(host, 'callrail.com') ||
+shExpMatch(host, 'calmcactus.com') ||
 shExpMatch(host, 'calmfoot.com') ||
 shExpMatch(host, 'camaro-s.com') ||
 shExpMatch(host, 'camasi.ru') ||
@@ -15509,6 +15512,7 @@ shExpMatch(host, 'consolesupply.com') ||
 shExpMatch(host, 'contact-celebrities.com') ||
 shExpMatch(host, 'contadores.miarroba.com') ||
 shExpMatch(host, 'contaxe.de') ||
+shExpMatch(host, 'content22.online.citi.com') ||
 shExpMatch(host, 'contentabc.com') ||
 shExpMatch(host, 'content.acc-hd.de') ||
 shExpMatch(host, 'content.ad') ||
