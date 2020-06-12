@@ -23,13 +23,13 @@ It should also be noted that most of these tools make heavy use of GNU `sed`.
   
 **One-line installation**:  
 Paste the following in your terminal and hit enter:  
-`wget -nv -O ~/installer.sh "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/installer.sh" && chmod +x ~/installer.sh && sh ~/installer.sh && rm ~/installer.sh`  
+`wget -nv -O ~/cpbl-installer.sh "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/cpbl-installer.sh" && chmod +x ~/cpbl-installer.sh && sh ~/cpbl-installer.sh && rm ~/cpbl-installer.sh`  
 Donezo. Now you have all the utilities.  
   
 **Checklist for normal use**:
-1. Download the installer [from this link](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/installer.sh).
-2. Ensure the installer is executable (either via your file manager or `chmod +x installer.sh` in a terminal).
-3. Run the installer (with `./installer.sh` or `sh installer.sh` in a terminal).
+1. Download the installer [from this link](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/cpbl-installer.sh).
+2. Ensure the installer is executable (either via your file manager or `chmod +x cpbl-installer.sh` in a terminal).
+3. Run the installer (with `./cpbl-installer.sh` or `sh cpbl-installer.sh` in a terminal).
 4. Input your chosen install location at the prompt.
 5. Enjoy using the utilities to keep your block lists and hosts file up-to-date.
   
