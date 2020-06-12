@@ -23,5 +23,5 @@ sed -i -e "/^#/d" -e "/^[[:space:]]*$/d" combined-final.p2p
 perl -i -pe 'chomp if eof' combined-final.p2p
 echo "Appended proper file extension to blocklists. Combined, sorted, and de-duped. Your BitTorrent blocklist has been updated."
 rm -f level1BT.7z bt_level1.p2p level2BT.7z bt_level2.p2p
-xdg-open ~/BLT/btp2p
+ls -lh ~/BLT/btp2p
 exit

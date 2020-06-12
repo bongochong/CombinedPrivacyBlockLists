@@ -31,5 +31,5 @@ echo "Properly merged and formatted block lists into new PAC file."
 # echo "Successfully uploaded PAC to remote servers. We're done!"
 sleep 1
 rm -f *.pac *.txt
-xdg-open ~/BLT/pac
+ls -lh ~/BLT/pac
 exit

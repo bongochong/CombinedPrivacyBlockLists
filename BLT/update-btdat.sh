@@ -23,5 +23,5 @@ sed -i -e "/^#/d" -e "/^[[:space:]]*$/d" combined-final-win.dat
 perl -i -pe 'chomp if eof' combined-final-win.dat
 echo "Appended proper file extension to blocklists. Combined, sorted, and de-duped. Your BitTorrent blocklist has been updated."
 rm -f level1BTdat.7z bt_level1.dat level2BTdat.7z bt_level2.dat
-xdg-open ~/BLT/btdat
+ls -lh ~/BLT/btdat
 exit

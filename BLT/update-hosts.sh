@@ -54,5 +54,5 @@ sudo cp newhosts.txt /etc/hosts
 sleep 1
 rm -f hosts.* *.final *.hosts
 echo "Your hosts file has been updated!"
-xdg-open ~/BLT/hosts
+ls -lh ~/BLT/hosts
 exit
