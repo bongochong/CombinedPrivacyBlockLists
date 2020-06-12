@@ -53,5 +53,5 @@ echo "Make sure that you have the following packages installed:"
 echo "perl wget pcregrep curl p7zip"
 echo "Enjoy!"
 echo "..."
-xdg-open ~/"$file_dir"
+ls -lh ~/"$file_dir"
 exit
