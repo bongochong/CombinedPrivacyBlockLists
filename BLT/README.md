@@ -24,7 +24,7 @@ It should also be noted that most of these tools make heavy use of GNU `sed`.
 **One-line installation**:  
 Paste the following in your terminal and hit enter:  
 `wget -nv -O ~/cpbl-installer.sh "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/cpbl-installer.sh" && chmod +x ~/cpbl-installer.sh && sh ~/cpbl-installer.sh && rm ~/cpbl-installer.sh`  
-Donezo. Now you have all the utilities.  
+Donezo. Now you have all the utilities. You can also use this one liner to update the scripts with the latest versions from this repository, whenever you wish.  
   
 **Checklist for normal use**:
 1. Download the installer [from this link](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/cpbl-installer.sh).
