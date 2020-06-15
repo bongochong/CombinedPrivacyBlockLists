@@ -1,4 +1,4 @@
-# Thu 11 Jun 2020 12:35:32 PM MDT
+# Mon 15 Jun 2020 03:03:11 AM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 0351dvd.cn
@@ -1868,6 +1868,7 @@
 0.0.0.0 dkm6b5q0h53z4.cloudfront.net
 0.0.0.0 dk-statistik.de
 0.0.0.0 dkyp75kj7ldlr.cloudfront.net
+0.0.0.0 dl5ft52dtazxd.cloudfront.net
 0.0.0.0 dlads.cn
 0.0.0.0 dlfvgndsdfsn.com
 0.0.0.0 dlrowehtfodne.com
@@ -2293,6 +2294,7 @@
 0.0.0.0 flash-counter.com
 0.0.0.0 flashgamestats.com
 0.0.0.0 flash-stat.com
+0.0.0.0 flashtalking.com
 0.0.0.0 flashteaser.com
 0.0.0.0 flavordecision.com
 0.0.0.0 flcounter.com
@@ -2649,6 +2651,7 @@
 0.0.0.0 h8vzwpv.com
 0.0.0.0 hackesie.net
 0.0.0.0 hadarone.com
+0.0.0.0 hadsokz.com
 0.0.0.0 haklopar.com
 0.0.0.0 hallaert.online
 0.0.0.0 halldata.com
@@ -4472,6 +4475,7 @@
 0.0.0.0 px-cloud.net
 0.0.0.0 pxi.pub
 0.0.0.0 px.staticfiles.at
+0.0.0.0 pyjamaican.club
 0.0.0.0 pyksf.com
 0.0.0.0 pymx5.com
 0.0.0.0 pyscgael.bid
@@ -4697,6 +4701,7 @@
 0.0.0.0 richinfo.co
 0.0.0.0 richmediaads.com
 0.0.0.0 richmetrics.com
+0.0.0.0 ridferbad.com
 0.0.0.0 ridingintractable.com
 0.0.0.0 rigelink.com
 0.0.0.0 rightstats.com
@@ -5866,6 +5871,7 @@
 0.0.0.0 verypopularwebsite.com
 0.0.0.0 vestlitt.online
 0.0.0.0 vetermsu.info
+0.0.0.0 vg4u8rvq65t6.com
 0.0.0.0 vhldwuv6om.com
 0.0.0.0 viatepigan.com
 0.0.0.0 victory1999.com

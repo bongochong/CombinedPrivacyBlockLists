@@ -1,4 +1,4 @@
-# Thu 11 Jun 2020 12:35:26 PM MDT
+# Mon 15 Jun 2020 03:03:07 AM MDT
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -5680,7 +5680,6 @@
 0.0.0.0 flapi2.rubiconproject.com
 0.0.0.0 flash.doubleclick-analytics.com
 0.0.0.0 flash.quantserve.com
-0.0.0.0 flashtalking.com
 0.0.0.0 fls-na.amazon.com
 0.0.0.0 fls.unrulymedia.com
 0.0.0.0 fluct.jp
