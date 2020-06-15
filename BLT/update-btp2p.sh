@@ -2,6 +2,9 @@
 #Block List Tools (http://shorl.com/fovogretopiga)
 #From the maintainer of Combined Privacy Block Lists (https://github.com/bongochong/CombinedPrivacyBlockLists)
 #License: CPAL-1.0 (https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/LICENSE.md)
+	read -r -p "Are you ready to update your peer-to-peer block list? [y/N] " response
+	if [[ "$response" =~ ^([yY][eE][sS]|[yY])$ ]]
+	then
 echo "Cleaning up & Fetching P2P lists..."
 mkdir -p ~/BLT/btp2p
 cd ~/BLT/btp2p
@@ -24,4 +27,8 @@ perl -i -pe 'chomp if eof' combined-final.p2p
 echo "Appended proper file extension to blocklists. Combined, sorted, and de-duped. Your BitTorrent blocklist has been updated."
 rm -f level1BT.7z bt_level1.p2p level2BT.7z bt_level2.p2p
 ls -lh ~/BLT/btp2p
+exit
+	else
+	echo "Alright, goodbye!"
+	fi
 exit

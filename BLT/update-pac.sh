@@ -2,6 +2,9 @@
 #Block List Tools (http://shorl.com/fovogretopiga)
 #From the maintainer of Combined Privacy Block Lists (https://github.com/bongochong/CombinedPrivacyBlockLists)
 #License: CPAL-1.0 (https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/LICENSE.md)
+	read -r -p "Are you ready to update your proxy auto-configuration block list? [y/N] " response
+	if [[ "$response" =~ ^([yY][eE][sS]|[yY])$ ]]
+	then
 echo "Cleaning up & Fetching PAC lists..."
 mkdir -p ~/BLT/pac
 cd ~/BLT/pac
@@ -32,4 +35,8 @@ echo "Properly merged and formatted block lists into new PAC file."
 sleep 1
 rm -f *.pac *.txt
 ls -lh ~/BLT/pac
+exit
+	else
+	echo "Alright, goodbye!"
+	fi
 exit

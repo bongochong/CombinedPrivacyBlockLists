@@ -2,6 +2,9 @@
 #Block List Tools (http://shorl.com/fovogretopiga)
 #From the maintainer of Combined Privacy Block Lists (https://github.com/bongochong/CombinedPrivacyBlockLists)
 #License: CPAL-1.0 (https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/LICENSE.md)
+	read -r -p "Are you ready to update your hosts file? [y/N] " response
+	if [[ "$response" =~ ^([yY][eE][sS]|[yY])$ ]]
+	then
 echo "Cleaning up & Fetching hosts lists..."
 mkdir -p ~/BLT/hosts
 cd ~/BLT/hosts
@@ -55,4 +58,8 @@ sleep 1
 rm -f hosts.* *.final *.hosts
 echo "Your hosts file has been updated!"
 ls -lh ~/BLT/hosts
+exit
+	else
+	echo "Alright, goodbye!"
+	fi
 exit
