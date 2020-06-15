@@ -1,4 +1,4 @@
-// **** Thu 11 Jun 2020 12:38:58 PM MDT
+// **** Mon 15 Jun 2020 03:05:57 AM MDT
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0daygameparadise.com') ||
@@ -6222,6 +6222,7 @@ shExpMatch(host, '*.h1z1trade.online') ||
 shExpMatch(host, '*.h3btqpy2abc3.com') ||
 shExpMatch(host, '*.h78xb.pw') ||
 shExpMatch(host, '*.h92zbpn4zcv1.com') ||
+shExpMatch(host, '*.habitualhumor.com') ||
 shExpMatch(host, '*.hack1000.com') ||
 shExpMatch(host, '*.hack2all.com') ||
 shExpMatch(host, '*.hack2k.com') ||
@@ -6801,6 +6802,7 @@ shExpMatch(host, '*.hqshared.com') ||
 shExpMatch(host, '*.hqstuff.net') ||
 shExpMatch(host, '*.hsadspixel.net') ||
 shExpMatch(host, '*.hs-analytics.net') ||
+shExpMatch(host, '*.hs-banner.com') ||
 shExpMatch(host, '*.hship.org') ||
 shExpMatch(host, '*.htlbid.com') ||
 shExpMatch(host, '*.htmlhubing.xyz') ||
@@ -8820,6 +8822,7 @@ shExpMatch(host, '*.opentag-stats.qubit.com') ||
 shExpMatch(host, '*.openx.angelsgroup.org.uk') ||
 shExpMatch(host, '*.openx.blindferret.com') ||
 shExpMatch(host, '*.openx.com') ||
+shExpMatch(host, '*.openx.smcaen.fr') ||
 shExpMatch(host, '*.operationkettle.com') ||
 shExpMatch(host, '*.opercase.com') ||
 shExpMatch(host, '*.opienetwork.com') ||
@@ -11373,7 +11376,6 @@ shExpMatch(host, '*.tracking.epicgames.com') ||
 shExpMatch(host, '*.trackingfestival.com') ||
 shExpMatch(host, '*.tracking.gajmp.com') ||
 shExpMatch(host, '*.tracking.ibxlink.com') ||
-shExpMatch(host, '*.tracking.inlocomedia.com') ||
 shExpMatch(host, '*.tracking.internetstores.de') ||
 shExpMatch(host, '*.tracking.intl.miui.com') ||
 shExpMatch(host, '*.tracking.miui.com') ||
@@ -18763,6 +18765,7 @@ shExpMatch(host, 'h1z1trade.online') ||
 shExpMatch(host, 'h3btqpy2abc3.com') ||
 shExpMatch(host, 'h78xb.pw') ||
 shExpMatch(host, 'h92zbpn4zcv1.com') ||
+shExpMatch(host, 'habitualhumor.com') ||
 shExpMatch(host, 'hack1000.com') ||
 shExpMatch(host, 'hack2all.com') ||
 shExpMatch(host, 'hack2k.com') ||
@@ -19342,6 +19345,7 @@ shExpMatch(host, 'hqshared.com') ||
 shExpMatch(host, 'hqstuff.net') ||
 shExpMatch(host, 'hsadspixel.net') ||
 shExpMatch(host, 'hs-analytics.net') ||
+shExpMatch(host, 'hs-banner.com') ||
 shExpMatch(host, 'hship.org') ||
 shExpMatch(host, 'htlbid.com') ||
 shExpMatch(host, 'htmlhubing.xyz') ||
@@ -21361,6 +21365,7 @@ shExpMatch(host, 'opentag-stats.qubit.com') ||
 shExpMatch(host, 'openx.angelsgroup.org.uk') ||
 shExpMatch(host, 'openx.blindferret.com') ||
 shExpMatch(host, 'openx.com') ||
+shExpMatch(host, 'openx.smcaen.fr') ||
 shExpMatch(host, 'operationkettle.com') ||
 shExpMatch(host, 'opercase.com') ||
 shExpMatch(host, 'opienetwork.com') ||
@@ -23914,7 +23919,6 @@ shExpMatch(host, 'tracking.epicgames.com') ||
 shExpMatch(host, 'trackingfestival.com') ||
 shExpMatch(host, 'tracking.gajmp.com') ||
 shExpMatch(host, 'tracking.ibxlink.com') ||
-shExpMatch(host, 'tracking.inlocomedia.com') ||
 shExpMatch(host, 'tracking.internetstores.de') ||
 shExpMatch(host, 'tracking.intl.miui.com') ||
 shExpMatch(host, 'tracking.miui.com') ||
