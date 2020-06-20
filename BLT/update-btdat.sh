@@ -26,7 +26,12 @@ sed -i -e "/^#/d" -e "/^[[:space:]]*$/d" combined-final-win.dat
 perl -i -pe 'chomp if eof' combined-final-win.dat
 echo "Appended proper file extension to blocklists. Combined, sorted, and de-duped. Your BitTorrent blocklist has been updated."
 rm -f level1BTdat.7z bt_level1.dat level2BTdat.7z bt_level2.dat
+echo "~---_---_---~"
 ls -lh ~/BLT/btdat
+echo "~---_---_---~"
+datCount=$(cat ~/BLT/btdat/combined-final-win.dat | wc -l)
+echo "Your current P2P block list contains $datCount unique entries..."
+echo "~---_---_---~"
 exit
 	else
 	echo "Alright, goodbye!"

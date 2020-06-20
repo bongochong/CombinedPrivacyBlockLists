@@ -34,7 +34,12 @@ echo "Properly merged and formatted block lists into new PAC file."
 # echo "Successfully uploaded PAC to remote servers. We're done!"
 sleep 1
 rm -f *.pac *.txt
+echo "~---_---_---~"
 ls -lh ~/BLT/pac
+echo "~---_---_---~"
+paCount=$(grep -w "shExpMatch" -c ~/BLT/pac/pac-done.js)
+echo "Your current PAC file contains $paCount unique entries..."
+echo "~---_---_---~"
 exit
 	else
 	echo "Alright, goodbye!"

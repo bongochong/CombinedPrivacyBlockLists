@@ -60,7 +60,12 @@ sudo cp newhosts.txt /etc/hosts
 sleep 1
 rm -f hosts.* *.final *.hosts newhosts-template-both.txt
 echo "Your hosts file has been updated!"
+echo "~---_---_---~"
 ls -lh ~/BLT/hosts
+echo "~---_---_---~"
+hostCount=$(grep -w "#" -c -v /etc/hosts)
+echo "Your current hosts file contains $hostCount unique entries..."
+echo "~---_---_---~"
 exit
 	else
 	echo "Alright, goodbye!"
