@@ -1,4 +1,4 @@
-# Mon 15 Jun 2020 03:03:11 AM MDT
+# Mon 22 Jun 2020 11:20:54 PM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 0351dvd.cn
@@ -71,6 +71,7 @@
 0.0.0.0 29d65cebb82ef9f.com
 0.0.0.0 2a12be6140880286.com
 0.0.0.0 2cnjuh34jbhub.com
+0.0.0.0 2cnjuh34jbman.com
 0.0.0.0 2cnt.net
 0.0.0.0 2d7bd9e6eb370143.com
 0.0.0.0 2e27bf1f09307aeb.com
@@ -256,7 +257,6 @@
 0.0.0.0 active-tracking.de
 0.0.0.0 active-trk7.com
 0.0.0.0 actnx.com
-0.0.0.0 actonsoftware.com
 0.0.0.0 actuallysheep.com
 0.0.0.0 actuallysnake.com
 0.0.0.0 acxiom-online.com
@@ -574,6 +574,7 @@
 0.0.0.0 amunx.de
 0.0.0.0 amxdt.com
 0.0.0.0 analoganalytics.com
+0.0.0.0 analysis.fi
 0.0.0.0 analysistools.net
 0.0.0.0 analytic.press
 0.0.0.0 analytic.rocks
@@ -683,6 +684,7 @@
 0.0.0.0 articlefddss1.info
 0.0.0.0 arturtrack.com
 0.0.0.0 asasfasdf.xyz
+0.0.0.0 asccdn.com
 0.0.0.0 ascraftan.com
 0.0.0.0 asdorka.com
 0.0.0.0 aservices.party
@@ -1370,6 +1372,7 @@
 0.0.0.0 collect.blishtech.co
 0.0.0.0 collectfasttracks.com
 0.0.0.0 collect.feefo.com
+0.0.0.0 collector.getyourguide.com
 0.0.0.0 collector.mazeberry.com
 0.0.0.0 colleduny.info
 0.0.0.0 collserve.com
@@ -1557,6 +1560,7 @@
 0.0.0.0 curarmbin.club
 0.0.0.0 curriculture.com
 0.0.0.0 curtaincows.com
+0.0.0.0 curvycry.com
 0.0.0.0 customerconversio.com
 0.0.0.0 customerdiscoverytrack.com
 0.0.0.0 customer.io
@@ -1665,6 +1669,7 @@
 0.0.0.0 d32r49xyei4vz6.cloudfront.net
 0.0.0.0 d35r45qhjmgs3g.cloudfront.net
 0.0.0.0 d36sxvmjoflc2i.cloudfront.net
+0.0.0.0 d36zfztxfflmqo.cloudfront.net
 0.0.0.0 d37s9vd5t6mov7.cloudfront.net
 0.0.0.0 d39hdzmeufnl50.cloudfront.net
 0.0.0.0 d3ahinqqx1dy5v.cloudfront.net
@@ -1779,6 +1784,7 @@
 0.0.0.0 deep.bi
 0.0.0.0 def-platform.com
 0.0.0.0 defpush.com
+0.0.0.0 defutohy.pro
 0.0.0.0 delightdriving.com
 0.0.0.0 deliver.ptgncdn.com
 0.0.0.0 delivery.adten.eu
@@ -1891,6 +1897,7 @@
 0.0.0.0 dnsdelegation.io
 0.0.0.0 do67etikr7pwz.cloudfront.net
 0.0.0.0 doaraifa.click
+0.0.0.0 doathair.com
 0.0.0.0 docksalmon.com
 0.0.0.0 doclix.com
 0.0.0.0 docols.net
@@ -2405,6 +2412,7 @@
 0.0.0.0 fshka.com
 0.0.0.0 fsoft4down.com
 0.0.0.0 ftbpro.com
+0.0.0.0 ftd.agency
 0.0.0.0 fthkmwrkqg.com
 0.0.0.0 ftigholm.site
 0.0.0.0 ftigken.online
@@ -2649,6 +2657,7 @@
 0.0.0.0 h5tjj3loy2.com
 0.0.0.0 h78xb.pw
 0.0.0.0 h8vzwpv.com
+0.0.0.0 habitualhumor.com
 0.0.0.0 hackesie.net
 0.0.0.0 hadarone.com
 0.0.0.0 hadsokz.com
@@ -2959,7 +2968,6 @@
 0.0.0.0 inxy.run
 0.0.0.0 iocnt.net
 0.0.0.0 iol.io
-0.0.0.0 ip2location.com
 0.0.0.0 ip2map.com
 0.0.0.0 ip2phrase.com
 0.0.0.0 ipaddresslabs.com
@@ -3641,6 +3649,7 @@
 0.0.0.0 mousetrace.com
 0.0.0.0 mousheen.net
 0.0.0.0 movable-ink-6710.com
+0.0.0.0 mo.vlpyj.xy
 0.0.0.0 mowfruit.com
 0.0.0.0 mozefakt.com
 0.0.0.0 mparticle.com
@@ -4180,6 +4189,7 @@
 0.0.0.0 phengung.net
 0.0.0.0 phenver.com
 0.0.0.0 phethikapso.pro
+0.0.0.0 phoenix-widget.com
 0.0.0.0 phonalytics.com
 0.0.0.0 phone-analytics.com
 0.0.0.0 phoossax.net
@@ -4275,6 +4285,7 @@
 0.0.0.0 pon.ewtuyytdf45.com
 0.0.0.0 poogriry.click
 0.0.0.0 popads.media
+0.0.0.0 popbounty.com
 0.0.0.0 popcent.net
 0.0.0.0 popclck.org
 0.0.0.0 pophahwot.com
@@ -4334,6 +4345,7 @@
 0.0.0.0 predictivedna.com
 0.0.0.0 predictiveresponse.net
 0.0.0.0 premiumstats.xyz
+0.0.0.0 premiumvertising.com
 0.0.0.0 preonesetro.com
 0.0.0.0 prepareplanes.com
 0.0.0.0 presatisfy.com
@@ -4497,6 +4509,7 @@
 0.0.0.0 qd.maskbaby.com.cn
 0.0.0.0 qdtracking.com
 0.0.0.0 qenprsuoashu.com
+0.0.0.0 qfjherc.com
 0.0.0.0 qguwoq.cn
 0.0.0.0 qiaepasvtp.com
 0.0.0.0 qienews.cn
@@ -5060,6 +5073,7 @@
 0.0.0.0 snat.goguardian.com
 0.0.0.0 sneaklevel.com
 0.0.0.0 sneakystamp.com
+0.0.0.0 snessubsets.pro
 0.0.0.0 sniperlog.ru
 0.0.0.0 sniphub.com
 0.0.0.0 snoobi.com
@@ -5576,6 +5590,7 @@
 0.0.0.0 trackedweb.net
 0.0.0.0 tracker.azet.sk
 0.0.0.0 tracker.convead.io
+0.0.0.0 tracker.plerdy.com
 0.0.0.0 trackfeed.com
 0.0.0.0 trackfreundlich.de
 0.0.0.0 track.ilonofficial.com
@@ -5721,6 +5736,7 @@
 0.0.0.0 t.yzwr588.com
 0.0.0.0 u034024.778669.com
 0.0.0.0 u1trkqf.com
+0.0.0.0 u21drwj6mp.com
 0.0.0.0 u5e.com
 0.0.0.0 u8.hujiang.com
 0.0.0.0 uadx.com
@@ -5741,6 +5757,7 @@
 0.0.0.0 ufraton.com
 0.0.0.0 ugabuga.icu
 0.0.0.0 ugdturner.com
+0.0.0.0 ughhimtoy.com
 0.0.0.0 ugmfvqsu.ru
 0.0.0.0 uharded.com
 0.0.0.0 uh.nakanohito.jp
@@ -5750,10 +5767,12 @@
 0.0.0.0 ukdtx.31202.fun
 0.0.0.0 ukrre-tea.info
 0.0.0.0 ulaleth.xyz
+0.0.0.0 ulclick.ru
 0.0.0.0 ulfex.cn
 0.0.0.0 ulife17yeter.com
 0.0.0.0 ulogin-stats.ru
 0.0.0.0 ultrastats.it
+0.0.0.0 ulukaris.com
 0.0.0.0 umbel.com
 0.0.0.0 unbecominghall.com
 0.0.0.0 uncyane.com
@@ -5779,6 +5798,7 @@
 0.0.0.0 uopvdbudoe.com
 0.0.0.0 upalytics.com
 0.0.0.0 upasiansex.com
+0.0.0.0 upgulpinon.com
 0.0.0.0 up-rank.com
 0.0.0.0 upsaibou.net
 0.0.0.0 upscore.com
@@ -5809,7 +5829,6 @@
 0.0.0.0 userlook.com
 0.0.0.0 userneeds.dk
 0.0.0.0 userreplay.net
-0.0.0.0 userreport.com
 0.0.0.0 users.51.la
 0.0.0.0 uss1star.com
 0.0.0.0 ustat.pro
@@ -6166,6 +6185,7 @@
 0.0.0.0 wsp.steepto.com
 0.0.0.0 wstatslive.com
 0.0.0.0 wsxxu.com
+0.0.0.0 wtag.estlier.net
 0.0.0.0 wtdtjs.club
 0.0.0.0 wtdtjs.rocks
 0.0.0.0 wt-eu02.net
@@ -6177,6 +6197,7 @@
 0.0.0.0 wundercounter.com
 0.0.0.0 wunderdaten.com
 0.0.0.0 wunderloop.net
+0.0.0.0 wwry.xyz
 0.0.0.0 www.hey.lt
 0.0.0.0 www.llllllllllll.net
 0.0.0.0 www.net.kg
@@ -6212,6 +6233,7 @@
 0.0.0.0 xeozir.com
 0.0.0.0 xg4ken.com
 0.0.0.0 xhit.com
+0.0.0.0 xihucio.ru
 0.0.0.0 xijgedjgg5f55.com
 0.0.0.0 xikrik.com
 0.0.0.0 xilfqkxezy.com

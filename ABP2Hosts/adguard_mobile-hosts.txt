@@ -1,4 +1,4 @@
-# Mon 15 Jun 2020 03:03:07 AM MDT
+# Mon 22 Jun 2020 11:20:51 PM MDT
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -2943,7 +2943,6 @@
 0.0.0.0 assets.chartboost.com
 0.0.0.0 assets.deployads.com
 0.0.0.0 assets.dwell.com
-0.0.0.0 assets.dynatrace.com
 0.0.0.0 assets.foxmetrics.com
 0.0.0.0 assets.iterable.com
 0.0.0.0 assets.kampyle.com
@@ -4496,8 +4495,6 @@
 0.0.0.0 cpx.to
 0.0.0.0 cqlupb.com
 0.0.0.0 c.quantserve.com
-0.0.0.0 cr01.dynatrace.com
-0.0.0.0 cr02.dynatrace.com
 0.0.0.0 c.r10.mopub.com
 0.0.0.0 crab.baidu.com
 0.0.0.0 cr.appsee.com
@@ -5159,7 +5156,6 @@
 0.0.0.0 dynamic-creative-loader.databerries.com
 0.0.0.0 dynamic.criteo.com
 0.0.0.0 dynamicyield.com
-0.0.0.0 dynatrace.com
 0.0.0.0 dyn-beacon.akamaized.net
 0.0.0.0 dync2.c.appier.net
 0.0.0.0 dync.c.appier.net
@@ -5649,7 +5645,6 @@
 0.0.0.0 files.adform.net
 0.0.0.0 files.appsgeyser.com
 0.0.0.0 files.clickdimensions.com
-0.0.0.0 files.constantcontact.com
 0.0.0.0 files-eu.clickdimensions.com
 0.0.0.0 files.innovid.com
 0.0.0.0 files.revcontent.com
@@ -6533,7 +6528,6 @@
 0.0.0.0 imgres.pinsightmedia.com
 0.0.0.0 img.revcontent.com
 0.0.0.0 img.riskified.com
-0.0.0.0 imgssl.constantcontact.com
 0.0.0.0 img.ssl.msdk.qq.com
 0.0.0.0 img.steepto.com
 0.0.0.0 img.turn.com
@@ -7482,7 +7476,6 @@
 0.0.0.0 mc.s10.exacttarget.com
 0.0.0.0 mc.s7.exacttarget.com
 0.0.0.0 mcs.eyereturn.com
-0.0.0.0 mcsvc.dynatrace.com
 0.0.0.0 mc.yandex.ru
 0.0.0.0 md-a-c.apptimize.com
 0.0.0.0 md-a-d.apptimize.com
@@ -10198,7 +10191,6 @@
 0.0.0.0 signalhq.com
 0.0.0.0 signals.ampiri.com
 0.0.0.0 signal-sdk-service-production.ap-south-1.elasticbeanstalk.com
-0.0.0.0 signin.dynatrace.com
 0.0.0.0 silvermob.com
 0.0.0.0 simaba.taobao.com
 0.0.0.0 simage2.pubmatic.com
