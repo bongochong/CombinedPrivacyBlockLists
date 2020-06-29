@@ -1,4 +1,4 @@
-# Mon 29 Jun 2020 11:58:10 AM MDT
+# Mon 29 Jun 2020 01:12:54 PM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 0351dvd.cn
