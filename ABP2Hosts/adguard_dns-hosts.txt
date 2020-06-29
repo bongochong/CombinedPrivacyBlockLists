@@ -1,4 +1,4 @@
-# Mon 29 Jun 2020 02:26:49 PM MDT
+# Mon 29 Jun 2020 03:14:06 PM MDT
 # AdGuard DNS Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 0026645142c89aeb1.com
@@ -8613,7 +8613,6 @@
 0.0.0.0 cryartarm.online
 0.0.0.0 crykaxliilz.com
 0.0.0.0 crylukzsthjz.com
-0.0.0.0 crypta.js
 0.0.0.0 cryptaloot.pro
 0.0.0.0 cryptoads.space
 0.0.0.0 cryptobara.com
@@ -19753,7 +19752,6 @@
 0.0.0.0 mmissedecon.info
 0.0.0.0 mmkvi.com
 0.0.0.0 mmm.theweek.co.uk
-0.0.0.0 mm.n3w1d0ma1n
 0.0.0.0 mmnetwork.mobi
 0.0.0.0 mm.nwell.net
 0.0.0.0 mmo123.co
@@ -20051,7 +20049,6 @@
 0.0.0.0 movie-pass.live
 0.0.0.0 movie-streams-online.com
 0.0.0.0 movii-loft.cn
-0.0.0.0 mo.vlpyj.xy
 0.0.0.0 mowfruit.com
 0.0.0.0 mowithlerendu.pro
 0.0.0.0 moxiaoyang.top
@@ -26416,7 +26413,6 @@
 0.0.0.0 r.rbc.ru
 0.0.0.0 rredundaytheori.info
 0.0.0.0 r.remarketingpixel.com
-0.0.0.0 rrf.fat1domain1
 0.0.0.0 rrimpl.com
 0.0.0.0 rrjgenyklff.com
 0.0.0.0 rrkykn.cn
