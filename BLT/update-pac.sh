@@ -18,7 +18,7 @@ wget -nv -O 4.pac "https://s3.amazonaws.com/lists.disconnect.me/simple_malvertis
 wget -nv -O 5.pac "https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt"
 wget -nv -O 6.pac "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=0&mimetype=plaintext"
 echo "Lists Downloaded. Now parsing..."
-cat *.pac | sed "s/#.*$//" | sed "/^$/d" | sed "/^Site$/d" | sort | uniq -i > pac-uniq.txt
+cat *.pac | sed "s/#.*$//" | sed "/^$/d" | sed "/^Site$/d" | pcregrep -f ~/BLT/parsing/tld-filter.dat | sort | uniq -i > pac-uniq.txt
 cp pac-uniq.txt pac-pre.txt
 cp pac-pre.txt pac-pre2.txt
 sed -i "s/^/*./" pac-pre.txt
