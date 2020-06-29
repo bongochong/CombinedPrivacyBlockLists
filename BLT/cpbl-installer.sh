@@ -24,6 +24,7 @@ wget -nv "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists
 wget -nv "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/update-pac.sh" -O update-pac.sh
 cd ~/"$file_dir"/parsing
 wget -nv "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/parsing/hostpatterns.dat" -O hostpatterns.dat
+wget -nv "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/parsing/tld-filter.dat" -O tld-filter.dat
 wget -nv "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/parsing/newhosts-template-dual.txt" -O newhosts-template-dual.txt
 wget -nv "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/parsing/newhosts-template.txt" -O newhosts-template.txt
 wget -nv "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/parsing/pactemplate.txt" -O pactemplate.txt
