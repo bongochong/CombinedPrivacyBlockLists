@@ -1,4 +1,4 @@
-# Mon 29 Jun 2020 03:14:06 PM MDT
+# Mon 29 Jun 2020 03:21:48 PM MDT
 # AdGuard DNS Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 0026645142c89aeb1.com
@@ -20049,6 +20049,7 @@
 0.0.0.0 movie-pass.live
 0.0.0.0 movie-streams-online.com
 0.0.0.0 movii-loft.cn
+0.0.0.0 mo.vlpyj.xy
 0.0.0.0 mowfruit.com
 0.0.0.0 mowithlerendu.pro
 0.0.0.0 moxiaoyang.top
