@@ -1,4 +1,4 @@
-# Mon 29 Jun 2020 03:21:32 PM MDT
+# Mon 29 Jun 2020 03:26:23 PM MDT
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -280,6 +280,7 @@
 0.0.0.0 30913.content.swrve.com
 0.0.0.0 31026.api.swrve.com
 0.0.0.0 31026.content.swrve.com
+0.0.0.0 31.14.252.148
 0.0.0.0 3188.engine.mobileapptracking.com
 0.0.0.0 3193.api.swrve.com
 0.0.0.0 3204.api.swrve.com
@@ -470,6 +471,7 @@
 0.0.0.0 4q.iperceptions.com
 0.0.0.0 4.redirect.appmetrica.yandex.com
 0.0.0.0 4seeresults.com
+0.0.0.0 54.222.186.106
 0.0.0.0 5-6-6-ios.appload.ingest.crittercism.com
 0.0.0.0 5-6-6-ios.error.ingest.crittercism.com
 0.0.0.0 5-6-6-ios.network.ingest.crittercism.com
@@ -616,6 +618,7 @@
 0.0.0.0 8live.com
 0.0.0.0 92kyxiz5xg.execute-api.us-west-2.amazonaws.com
 0.0.0.0 9470.engine.mobileapptracking.com
+0.0.0.0 95.213.231.34
 0.0.0.0 959cad30.api.splkmobile.com
 0.0.0.0 96b6.playfabapi.com
 0.0.0.0 981.content.swrve.com

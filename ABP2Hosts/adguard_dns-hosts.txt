@@ -1,4 +1,4 @@
-# Mon 29 Jun 2020 03:21:48 PM MDT
+# Mon 29 Jun 2020 03:26:38 PM MDT
 # AdGuard DNS Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 0026645142c89aeb1.com
@@ -26414,6 +26414,7 @@
 0.0.0.0 r.rbc.ru
 0.0.0.0 rredundaytheori.info
 0.0.0.0 r.remarketingpixel.com
+0.0.0.0 rrf.fat1domain1
 0.0.0.0 rrimpl.com
 0.0.0.0 rrjgenyklff.com
 0.0.0.0 rrkykn.cn
