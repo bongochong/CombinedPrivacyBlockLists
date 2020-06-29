@@ -1,4 +1,4 @@
-# Mon 29 Jun 2020 02:09:19 PM MDT
+# Mon 29 Jun 2020 02:26:47 PM MDT
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 0026645142c89aeb1.com
@@ -16435,7 +16435,6 @@
 0.0.0.0 naidafak.net
 0.0.0.0 naideema.com
 0.0.0.0 nailowhe.net
-0.0.0.0 _naimabdd_
 0.0.0.0 nainaimi.top
 0.0.0.0 naiwvizpzflx.com
 0.0.0.0 naj.sk
@@ -24001,7 +24000,6 @@
 0.0.0.0 tlvmedia.com
 0.0.0.0 tlxspilyxsfx.com
 0.0.0.0 tm1-001.com
-0.0.0.0 _tm11_pmt_
 0.0.0.0 tm-79.com
 0.0.0.0 tmblaeivephb.com
 0.0.0.0 tmdn2015x9.com
@@ -27516,7 +27514,6 @@
 0.0.0.0 yaboshadi.com
 0.0.0.0 yabuka.com
 0.0.0.0 ya-counter.ru
-0.0.0.0 _yad_jsonp_
 0.0.0.0 yadyiymarz.com
 0.0.0.0 yagcaumz.com
 0.0.0.0 yahbdmyvvmjh.com
