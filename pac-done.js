@@ -1,4 +1,4 @@
-// **** Mon 29 Jun 2020 03:40:59 PM MDT
+// **** Mon 29 Jun 2020 05:17:37 PM MDT
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0daygameparadise.com') ||
@@ -177,7 +177,6 @@ shExpMatch(host, '*.accountemporium.com') ||
 shExpMatch(host, '*.accountgiveaway.com') ||
 shExpMatch(host, '*.accounthackers.com') ||
 shExpMatch(host, '*.accounts.mx') ||
-shExpMatch(host, '*.accounts.pkr.com.invalid') ||
 shExpMatch(host, '*.acento.com') ||
 shExpMatch(host, '*.acieh.onecinema.us') ||
 shExpMatch(host, '*.acmetoy.com') ||
@@ -2288,7 +2287,6 @@ shExpMatch(host, '*.brassrule.com') ||
 shExpMatch(host, '*.bravebone.com') ||
 shExpMatch(host, '*.bravefrontiercheats.com') ||
 shExpMatch(host, '*.brave-frontier-hack.com') ||
-shExpMatch(host, '*.bravenet.com.invalid') ||
 shExpMatch(host, '*.brazzersfreeaccount.net') ||
 shExpMatch(host, '*.brazzers-hack.com') ||
 shExpMatch(host, '*.breakfastboat.com') ||
@@ -7886,7 +7884,6 @@ shExpMatch(host, '*.makeios.com') ||
 shExpMatch(host, '*.make-skins.com') ||
 shExpMatch(host, '*.makifege.ru') ||
 shExpMatch(host, '*.malaysia-online-bank-kasino.com') ||
-shExpMatch(host, '*.Malvertising list by Disconnect') ||
 shExpMatch(host, '*.malware-check.disconnect.me') ||
 shExpMatch(host, '*.malware-scan.com') ||
 shExpMatch(host, '*.mamoapps.com') ||
@@ -9105,7 +9102,6 @@ shExpMatch(host, '*.pes2014.sharezips.info') ||
 shExpMatch(host, '*.peskygamer.com') ||
 shExpMatch(host, '*.petiteumbrella.com') ||
 shExpMatch(host, '*.petuc.ru') ||
-shExpMatch(host, '*.pgl.example0101') ||
 shExpMatch(host, '*.pgmediaserve.com') ||
 shExpMatch(host, '*.pgpartner.com') ||
 shExpMatch(host, '*.pharmacyalberta.com') ||
@@ -10165,7 +10161,6 @@ shExpMatch(host, '*.secure.webconnect.net') ||
 shExpMatch(host, '*.security.system.ssl-verified.site') ||
 shExpMatch(host, '*.sedoparking.com') ||
 shExpMatch(host, '*.sedotracker.com') ||
-shExpMatch(host, '*.seeq.com.invalid') ||
 shExpMatch(host, '*.sega-rom.com') ||
 shExpMatch(host, '*.seizefile.co') ||
 shExpMatch(host, '*.sekaze.ru') ||
@@ -12822,7 +12817,6 @@ shExpMatch(host, 'accountemporium.com') ||
 shExpMatch(host, 'accountgiveaway.com') ||
 shExpMatch(host, 'accounthackers.com') ||
 shExpMatch(host, 'accounts.mx') ||
-shExpMatch(host, 'accounts.pkr.com.invalid') ||
 shExpMatch(host, 'acento.com') ||
 shExpMatch(host, 'acieh.onecinema.us') ||
 shExpMatch(host, 'acmetoy.com') ||
@@ -14933,7 +14927,6 @@ shExpMatch(host, 'brassrule.com') ||
 shExpMatch(host, 'bravebone.com') ||
 shExpMatch(host, 'bravefrontiercheats.com') ||
 shExpMatch(host, 'brave-frontier-hack.com') ||
-shExpMatch(host, 'bravenet.com.invalid') ||
 shExpMatch(host, 'brazzersfreeaccount.net') ||
 shExpMatch(host, 'brazzers-hack.com') ||
 shExpMatch(host, 'breakfastboat.com') ||
@@ -20531,7 +20524,6 @@ shExpMatch(host, 'makeios.com') ||
 shExpMatch(host, 'make-skins.com') ||
 shExpMatch(host, 'makifege.ru') ||
 shExpMatch(host, 'malaysia-online-bank-kasino.com') ||
-shExpMatch(host, 'Malvertising list by Disconnect') ||
 shExpMatch(host, 'malware-check.disconnect.me') ||
 shExpMatch(host, 'malware-scan.com') ||
 shExpMatch(host, 'mamoapps.com') ||
@@ -21750,7 +21742,6 @@ shExpMatch(host, 'pes2014.sharezips.info') ||
 shExpMatch(host, 'peskygamer.com') ||
 shExpMatch(host, 'petiteumbrella.com') ||
 shExpMatch(host, 'petuc.ru') ||
-shExpMatch(host, 'pgl.example0101') ||
 shExpMatch(host, 'pgmediaserve.com') ||
 shExpMatch(host, 'pgpartner.com') ||
 shExpMatch(host, 'pharmacyalberta.com') ||
@@ -22810,7 +22801,6 @@ shExpMatch(host, 'secure.webconnect.net') ||
 shExpMatch(host, 'security.system.ssl-verified.site') ||
 shExpMatch(host, 'sedoparking.com') ||
 shExpMatch(host, 'sedotracker.com') ||
-shExpMatch(host, 'seeq.com.invalid') ||
 shExpMatch(host, 'sega-rom.com') ||
 shExpMatch(host, 'seizefile.co') ||
 shExpMatch(host, 'sekaze.ru') ||
