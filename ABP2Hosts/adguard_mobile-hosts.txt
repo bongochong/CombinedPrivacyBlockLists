@@ -1,4 +1,4 @@
-# Mon 22 Jun 2020 11:20:51 PM MDT
+# Mon 29 Jun 2020 11:58:06 AM MDT
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -849,6 +849,7 @@
 0.0.0.0 addapptr.com
 0.0.0.0 addash.co
 0.0.0.0 ad.databerries.com
+0.0.0.0 addata.mediacategory.com
 0.0.0.0 ad.daum.net
 0.0.0.0 ad-dc2.adtech.de
 0.0.0.0 ad.dc2.adtech.de
@@ -2305,7 +2306,6 @@
 0.0.0.0 api.crashlytics.com
 0.0.0.0 api.crispadvertising.com
 0.0.0.0 api.crittercism.com
-0.0.0.0 api.crowdin.com
 0.0.0.0 api.crowdtangle.com
 0.0.0.0 api.crowdtwist.com
 0.0.0.0 apicssdk.onemt.co
@@ -3729,7 +3729,6 @@
 0.0.0.0 cdn-creatives-highwinds-prd.unityads.unity3d.com
 0.0.0.0 cdn-creatives-prd.unityads.unity3d.com
 0.0.0.0 cdn.crwdcntrl.net
-0.0.0.0 cdn.curalate.com
 0.0.0.0 cdn.decibelinsight.net
 0.0.0.0 cdn.demdex.net
 0.0.0.0 cdn.destinilocators.com
@@ -4092,7 +4091,6 @@
 0.0.0.0 cloudads-a.akamaihd.net
 0.0.0.0 cloudapi.imrworldwide.com
 0.0.0.0 cloud.appcelerator.com
-0.0.0.0 cloud.datapipe.com
 0.0.0.0 cloud.datasphere.com
 0.0.0.0 cloud.eclipse.unrulymedia.com
 0.0.0.0 cloud-emea.analytics-egain.com
@@ -4538,7 +4536,6 @@
 0.0.0.0 crispadvertising.com
 0.0.0.0 crispmedia.com
 0.0.0.0 crispmedia-d.openx.net
-0.0.0.0 crispwireless.com
 0.0.0.0 criteo.com
 0.0.0.0 criteo.net
 0.0.0.0 criteo-partners.tremorhub.com
@@ -4590,8 +4587,6 @@
 0.0.0.0 ctv.monarchads.com
 0.0.0.0 cuberonlabs.com.com
 0.0.0.0 cumulus.deliveryengine.adswizz.com
-0.0.0.0 curalate-api-prod.us-east-1.elasticbeanstalk.com
-0.0.0.0 curalate-like2buy-prod-vpc.us-east-1.elasticbeanstalk.com
 0.0.0.0 currency.prebid.org
 0.0.0.0 cursa.iad-03.braze.com
 0.0.0.0 curse-d.openx.net
@@ -5683,7 +5678,6 @@
 0.0.0.0 flurry.cachefly.net
 0.0.0.0 flurry.com
 0.0.0.0 flygo.ru
-0.0.0.0 fm.cnbc.com
 0.0.0.0 fm.duokanbox.com
 0.0.0.0 f.mediav.com
 0.0.0.0 fm.ipinyou.com
@@ -7927,7 +7921,6 @@
 0.0.0.0 mpnrs.com
 0.0.0.0 mprezchc.com
 0.0.0.0 mproxy.banner.linksynergy.com
-0.0.0.0 mps.cnbc.com
 0.0.0.0 mp.teads.tv
 0.0.0.0 mpx.mopub.com
 0.0.0.0 mqs.ioam.de
@@ -8348,7 +8341,6 @@
 0.0.0.0 ondemand.tf-cdn.net
 0.0.0.0 oneadvertising-d.openx.net
 0.0.0.0 one-and-one-d.openx.net
-0.0.0.0 one.datapipe.com
 0.0.0.0 onedmp.com
 0.0.0.0 onedrive-collection.device.mobileengagement.windows.net
 0.0.0.0 onedrive.su
@@ -10164,7 +10156,6 @@
 0.0.0.0 shmoop-d.openx.net
 0.0.0.0 shop115048570.taobao.com
 0.0.0.0 shoparty.metrilo.com
-0.0.0.0 shop.zalo.me
 0.0.0.0 show-3.mediav.com
 0.0.0.0 show.3.mediav.com
 0.0.0.0 showadsak.pubmatic.com

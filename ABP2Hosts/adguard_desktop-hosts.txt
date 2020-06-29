@@ -1,4 +1,4 @@
-# Mon 22 Jun 2020 11:20:54 PM MDT
+# Mon 29 Jun 2020 11:58:10 AM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 0351dvd.cn
@@ -1812,6 +1812,7 @@
 0.0.0.0 detectnewfavorite.com
 0.0.0.0 detour.click
 0.0.0.0 device9.com
+0.0.0.0 dewincubiatoll.com
 0.0.0.0 dewsburg.info
 0.0.0.0 dexessee.com
 0.0.0.0 dexim.space
@@ -1978,6 +1979,7 @@
 0.0.0.0 dxprljqoay4rt.cloudfront.net
 0.0.0.0 dxwpedu.me
 0.0.0.0 dybxezbel1g44.cloudfront.net
+0.0.0.0 dyecowwhy.com
 0.0.0.0 dynameex.com
 0.0.0.0 dynamicadx.com
 0.0.0.0 dynatrace.com
@@ -2111,6 +2113,7 @@
 0.0.0.0 erotikcounter.org
 0.0.0.0 erotop.lv
 0.0.0.0 errnaphim.site
+0.0.0.0 eru5tdmbuwxm.com
 0.0.0.0 erxalim.xyz
 0.0.0.0 esdesignewebnet.info
 0.0.0.0 esearchvision.com
@@ -2874,6 +2877,7 @@
 0.0.0.0 ilogbox.com
 0.0.0.0 im2ss2ss.top
 0.0.0.0 im.51yaliesha.com
+0.0.0.0 image.agni3.xyz
 0.0.0.0 imaginaxs.com
 0.0.0.0 imanginatium.com
 0.0.0.0 im-apps.net
@@ -3926,7 +3930,6 @@
 0.0.0.0 offerstrategy.com
 0.0.0.0 offgashah.club
 0.0.0.0 offpageads.com
-0.0.0.0 ofgogoatan.com
 0.0.0.0 ofphanpytor.com
 0.0.0.0 ogamon.win
 0.0.0.0 ogrid.org
@@ -3954,6 +3957,7 @@
 0.0.0.0 oktopost.com
 0.0.0.0 okt.to
 0.0.0.0 olc0.cn
+0.0.0.0 oldnayfey.com
 0.0.0.0 oligan.info
 0.0.0.0 olineman.pro
 0.0.0.0 olswr.27684.club
@@ -4755,7 +4759,6 @@
 0.0.0.0 rotabetaffiliates.com
 0.0.0.0 rotdubboy.com
 0.0.0.0 rotibald.com
-0.0.0.0 roujaufu.net
 0.0.0.0 roulettebot-plus.com
 0.0.0.0 roupsouk.com
 0.0.0.0 rowoardog.com
@@ -5277,6 +5280,7 @@
 0.0.0.0 st-n.pc3ads.com
 0.0.0.0 stompebi.link
 0.0.0.0 stonecalcom.com
+0.0.0.0 st.onlygip.tech
 0.0.0.0 stoomeddert.info
 0.0.0.0 stopphoulplay.com
 0.0.0.0 stopphoulplay.net
@@ -5424,6 +5428,7 @@
 0.0.0.0 tealiumiq.com
 0.0.0.0 technical-service.net
 0.0.0.0 tejia.gaibang.fun
+0.0.0.0 telemetry.swe.quicinc.com
 0.0.0.0 telemetrytaxonomy.net
 0.0.0.0 telize.com
 0.0.0.0 teljari.is
@@ -5442,6 +5447,7 @@
 0.0.0.0 terraclicks.com
 0.0.0.0 terrapsps.com
 0.0.0.0 terrapush.com
+0.0.0.0 terrasdsdstd.com
 0.0.0.0 terriblethumb.com
 0.0.0.0 terribleturkey.com
 0.0.0.0 terttalkinhitin.pro
