@@ -9134,7 +9134,6 @@ aexception.bugly.qq.com
 a.exdynsrv.com
 a.exoclick.com
 a.exosrv.com
-a.exosrv.comhttps
 aexp.demdex.net
 aezeluusbdajjx.com
 af.1gdz.ru
@@ -59857,7 +59856,6 @@ pgfxwbgema.com
 pgg4a0.emailer.appsflyer.com
 pgkdyhdhul.com
 pg-kix-ulog.ksapisrv.com
-pgl.example0101
 pg-mainz.de
 pgmcdn.com
 pgmediaserve.com

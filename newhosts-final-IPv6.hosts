@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 # This *must* be the first line: 127.0.0.1    localhost    #
 #                                                          #
 #**********************************************************#
-# ------------- Mon 29 Jun 2020 03:40:44 PM MDT ---------- #
+# ------------- Mon 29 Jun 2020 04:55:50 PM MDT ---------- #
 #**********************************************************#
 #                                                          #
 # Disclaimer: cow pigs won dogs on six for personal use    #
@@ -9169,7 +9169,6 @@ ff02::2 ip6-allrouters
 :: a.exdynsrv.com
 :: a.exoclick.com
 :: a.exosrv.com
-:: a.exosrv.comhttps
 :: aexp.demdex.net
 :: aezeluusbdajjx.com
 :: af.1gdz.ru
@@ -59890,7 +59889,6 @@ ff02::2 ip6-allrouters
 :: pgg4a0.emailer.appsflyer.com
 :: pgkdyhdhul.com
 :: pg-kix-ulog.ksapisrv.com
-:: pgl.example0101
 :: pg-mainz.de
 :: pgmcdn.com
 :: pgmediaserve.com
