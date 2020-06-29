@@ -45,7 +45,7 @@ sort hosts-pre.final | uniq | sed "s/#.*$//" | sed "/[[:space:]]*#/d" | sed "/[[
 #End of Unicode IDN to Punycode conversion routine
 sed -i -e '/0.0.0.0 device9.com/d' -e '/\^\document/d' -e '/\^/d' -e '/\*/d' -e '/\?/d' -e '/\//d' -e '/@/d' -e '/!/d' -e '/|/d' -e '/:/d' -e '/~/d' -e '/,/d' -e '/=/d' -e "s/\(.*\)/\L\1/" uniq-hosts.final
 sort uniq-hosts.final | uniq -i > final-uniq.hosts
-pcregrep -v -f ~/BLT/parsing/hostpatterns.dat final-uniq.hosts > hosts.final
+pcregrep -f ~/BLT/parsing/tld-filter.dat final-uniq.hosts > hosts.final
 perl -i -pe 'chomp if eof' hosts.final
 echo "Successfully merged hosts lists!"
 sed '35r hosts.final' < ~/BLT/parsing/newhosts-template.txt > newhosts.txt
