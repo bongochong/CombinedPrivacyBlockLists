@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 # This *must* be the first line: 127.0.0.1    localhost    #
 #                                                          #
 #**********************************************************#
-# ------------- Mon 29 Jun 2020 01:44:34 PM MDT ---------- #
+# ------------- Mon 29 Jun 2020 02:12:17 PM MDT ---------- #
 #**********************************************************#
 #                                                          #
 # Disclaimer: cow pigs won dogs on six for personal use    #
@@ -122,6 +122,7 @@ ff02::2 ip6-allrouters
 :: 0728w.cn
 :: 07346e971b1ec7f.com
 :: 073c0cec65916314a.com
+:: 073img.com
 :: 0755man.cn
 :: 0796gou.com
 :: 0798ls.com
@@ -242,6 +243,8 @@ ff02::2 ip6-allrouters
 :: 1024mzs.pw
 :: 102vod-adaptive.akamaized.net
 :: 103092804.com
+:: 103.249.254.113
+:: 103.49.209.27
 :: 103532.hittail.com
 :: 10394-127.ampxchange.com
 :: 10394-2468.ampxchange.com
@@ -249,15 +252,26 @@ ff02::2 ip6-allrouters
 :: 103bees.com
 :: 10402.engine.mobileapptracking.com
 :: 104.154.237.93
+:: 104.195.62.12
+:: 104.197.140.120
+:: 104.198.198.188
+:: 104.203.214.3
+:: 104.203.72.254
 :: 104231.dtiblog.com
+:: 104.233.203.164
+:: 104.237.67.78
 :: 10510523.collect.igodigital.com
 :: 1059362.collect.igodigital.com
 :: 105app.com
+:: 106.187.95.251
 :: 106242.hittail.com
+:: 107.172.176.197
+:: 107.187.255.178
 :: 10733458.collect.igodigital.com
 :: 10733484.collect.igodigital.com
 :: 10733498.collect.igodigital.com
 :: 10733505.collect.igodigital.com
+:: 108.171.248.234
 :: 108411.hittail.com
 :: 10870841.collect.igodigital.com
 :: 10896.engine.mobileapptracking.com
@@ -295,19 +309,32 @@ ff02::2 ip6-allrouters
 :: 111g.yiqig.cn
 :: 112006133326.c.mystat-in.net
 :: 112.2o7.net
+:: 112.74.95.46
+:: 114.95.102.77
 :: 114com.cc
+:: 115.238.246.181
+:: 115.29.141.121
+:: 115.29.46.146
 :: 1.15lu.com
+:: 116.55.227.242
 :: 116zhuce.com
 :: 1170.api.swrve.com
 :: 1170.content.swrve.com
+:: 117.25.133.209
 :: 1177ea804fbd7d1430c4.date
+:: 118.144.88.216
+:: 118.24.199.184
 :: 118605-5437.link.iwanttodeliver.com
 :: 1188.api.swrve.com
 :: 1188.content.swrve.com
 :: 118aa629a7968e75e.com
 :: 118ex.cn
 :: 118-oew-181.mktoresp.com
+:: 119.29.207.87
+:: 119.29.80.185
+:: 119.4.249.166
 :: 11.96131.com.cn
+:: 119xiazai.com
 :: 11a581bbb5038e.com
 :: 1-1ads.com
 :: 11bet.com
@@ -321,14 +348,21 @@ ff02::2 ip6-allrouters
 :: 11ofswt.edvfwlacluo.com
 :: 11zz.com
 :: 1.201980.com
+:: 120.27.34.156
 :: 12086.net
+:: 121.40.25.88
 :: 121807150325.c.mystat-in.net
 :: 121media.com
+:: 121zou.com
+:: 122.114.239.160
 :: 1221e236c3f8703.com
+:: 122.227.254.195
+:: 122.228.236.165
 :: 122.2o7.net
 :: 1224.dxsbb.com
 :: 122907224924.c.mystat-in.net
 :: 123456.asia
+:: 123.59.150.56
 :: 12365chia.com
 :: 123babyland.shop
 :: 123buy.eu
@@ -349,6 +383,7 @@ ff02::2 ip6-allrouters
 :: 123retr312.ru
 :: 123stat.com
 :: 123-tracker.com
+:: 124.232.160.178
 :: 125331.top
 :: 125ce0b2df30.traffic-c.com
 :: 125cf2d18b44.traffic-c.com
@@ -429,6 +464,7 @@ ff02::2 ip6-allrouters
 :: 13377xsite.imageshack.host
 :: 1339402.collect.igodigital.com
 :: 133gp.com
+:: 134.73.54.252
 :: 1353.api.swrve.com
 :: 1353.content.swrve.com
 :: 1362649.collect.igodigital.com
@@ -436,6 +472,8 @@ ff02::2 ip6-allrouters
 :: 1373.content.swrve.com
 :: 13895df59d98cc.com
 :: 138lm.com
+:: 139.159.32.82
+:: 139.196.166.21
 :: 13hk5af.edvfwlacluo.com
 :: 13p76nnir.de
 :: 13vm73vbmp.com
@@ -453,6 +491,7 @@ ff02::2 ip6-allrouters
 :: 1456.api.swrve.com
 :: 1456.content.swrve.com
 :: 145-ct.c3tag.com
+:: 146.148.85.61
 :: 1465.api.swrve.com
 :: 1465.content.swrve.com
 :: 1465.link.swrve.com
@@ -470,8 +509,12 @@ ff02::2 ip6-allrouters
 :: 153105c2f9564.com
 :: 15438.xyz
 :: 1543b1db8a0825760.com
+:: 154.83.113.19
 :: 15486.engine.mobileapptracking.com
 :: 1559.stats.misstrends.com
+:: 156.247.120.15
+:: 156.247.120.31
+:: 156.247.99.219
 :: 15628.hittail.com
 :: 15694.hittail.com
 :: 157ita684j.com
@@ -490,6 +533,8 @@ ff02::2 ip6-allrouters
 :: 15.taboola.com
 :: 161028.engine.mobileapptracking.com
 :: 161118.engine.mobileapptracking.com
+:: 162.209.213.66
+:: 164.155.185.254
 :: 16565.hittail.com
 :: 165a7c15380874ef3.com
 :: 1.66law.cn
@@ -500,6 +545,7 @@ ff02::2 ip6-allrouters
 :: 1681.engine.mobileapptracking.com
 :: 1686607364.rsc.cdn77.org
 :: 168932.engine.mobileapptracking.com
+:: 168.it168.com
 :: 168logger.com
 :: 168xiazai.com
 :: 16948.engine.mobileapptracking.com
@@ -511,7 +557,9 @@ ff02::2 ip6-allrouters
 :: 1711427.5.d.mytopgames.net
 :: 1711811.com
 :: 171564.engine.mobileapptracking.com
+:: 172.81.246.180
 :: 1740f665a91b68.com
+:: 174.139.53.195
 :: 174.142.194.177
 :: 17428.engine.mobileapptracking.com
 :: 17460.engine.mobileapptracking.com
@@ -540,11 +588,13 @@ ff02::2 ip6-allrouters
 :: 180418.engine.mobileapptracking.com
 :: 180590.engine.mobileapptracking.com
 :: 180642.engine.mobileapptracking.com
+:: 180.76.171.28
 :: 180hits.de
 :: 180searchassistant.com
 :: 1818bobo.com
 :: 181fm.adswizz.com
 :: 181fm.deliveryengine.adswizz.com
+:: 182.92.81.104
 :: 183704.engine.mobileapptracking.com
 :: 183804.engine.mobileapptracking.com
 :: 183pu.cn
@@ -601,6 +651,7 @@ ff02::2 ip6-allrouters
 :: 192211.engine.mobileapptracking.com
 :: 1.92caijing.com
 :: 194192.engine.mobileapptracking.com
+:: 194.36.101.178
 :: 194.71.107.25
 :: 194792.engine.mobileapptracking.com
 :: 19500.hittail.com
@@ -634,6 +685,7 @@ ff02::2 ip6-allrouters
 :: 199173.engine.mobileapptracking.com
 :: 1991inc.com
 :: 199211.engine.mobileapptracking.com
+:: 199.231.214.62
 :: 1997media.com
 :: 1999019.com
 :: 1999sg.com
@@ -958,6 +1010,7 @@ ff02::2 ip6-allrouters
 :: 2020mustang.com
 :: 204.scloud.lfengmobile.com
 :: 204st.us
+:: 205.209.138.102
 :: 20552817p.rfihub.com
 :: 206ads.com
 :: 206solutions.com
@@ -975,9 +1028,13 @@ ff02::2 ip6-allrouters
 :: 20trk.vidible.tv
 :: 210189.com
 :: 21104.engine.mobileapptracking.com
+:: 211.103.159.32
+:: 211.149.225.23
+:: 211.167.105.131
 :: 212121.ru
 :: 212.227.100.108
 :: 2126329.catchtheclick.com
+:: 212.64.34.17
 :: 213.163.70.183
 :: 2137dc12f9d8.com
 :: 215to.cn
@@ -985,7 +1042,9 @@ ff02::2 ip6-allrouters
 :: 21736.xyz
 :: 21750.tctm.co
 :: 21807.hittail.com
+:: 218.25.246.118
 :: 2183.jsjmlejl.clickshield.net
+:: 219.234.83.60
 :: 21a3dd8ea39c0.com
 :: 21b507a044d841b.com
 :: 21boxoffice.com
@@ -1000,9 +1059,11 @@ ff02::2 ip6-allrouters
 :: 21xsk.com
 :: 21.zhaozongjie.com
 :: 22006.engine.mobileapptracking.com
+:: 220.115.251.25
 :: 22012.engine.mobileapptracking.com
 :: 2202.api.swrve.com
 :: 2202.content.swrve.com
+:: 221.204.213.222
 :: 222im.com
 :: 22348.engine.mobileapptracking.com
 :: 2240.api.swrve.com
@@ -1021,6 +1082,7 @@ ff02::2 ip6-allrouters
 :: 2305.content.swrve.com
 :: 23190.engine.mobileapptracking.com
 :: 23205523023daea6.com
+:: 23.244.43.212
 :: 23315.hittail.com
 :: 2334ea708ab6d79.com
 :: 23456dj.com
@@ -1037,6 +1099,8 @@ ff02::2 ip6-allrouters
 :: 237482345sd.com
 :: 2376.engine.mobileapptracking.com
 :: 23837.hittail.com
+:: 23.89.50.180
+:: 23.91.3.114
 :: 23dsf.top
 :: 2405.api.swrve.com
 :: 2405.content.swrve.com
@@ -1477,6 +1541,7 @@ ff02::2 ip6-allrouters
 :: 3326.tm.zedo.com
 :: 3335306.notifysrv.com
 :: 333dm.com
+:: 33405.com
 :: 3340606.notifysrv.com
 :: 3344944.notifysrv.com
 :: 3347188.notifysrv.com
@@ -1715,6 +1780,7 @@ ff02::2 ip6-allrouters
 :: 3ba87e4828c5a95.com
 :: 3bb4f0.r.axf8.net
 :: 3bfkxta3dg.com
+:: 3boys2girls.com
 :: 3c0012ab95c132f.com
 :: 3c06b86c4147745b.com
 :: 3c34083bda22d8.com
@@ -1901,6 +1967,7 @@ ff02::2 ip6-allrouters
 :: 44-trk-srv.com
 :: 4508.api.swrve.com
 :: 4508.content.swrve.com
+:: 45.126.123.80
 :: 451312.s1.feed-xml.com
 :: 451312.s2.feed-xml.com
 :: 451312.s3.feed-xml.com
@@ -1909,6 +1976,7 @@ ff02::2 ip6-allrouters
 :: 4514783.fls.doubleclick.net
 :: 4531.content.swrve.com
 :: 45.32.105.134
+:: 45.34.240.72
 :: 4534.api.swrve.com
 :: 4534.content.swrve.com
 :: 4554.api.swrve.com
@@ -1970,6 +2038,7 @@ ff02::2 ip6-allrouters
 :: 4768.content.swrve.com
 :: 4771.api.swrve.com
 :: 4771.content.swrve.com
+:: 47.90.50.177
 :: 47f624b2e6c6072e.com
 :: 47n209.com
 :: 4802.170.blueseek.com
@@ -2028,6 +2097,7 @@ ff02::2 ip6-allrouters
 :: 4iy2i.bemobtrk.com
 :: 4jiqzr.ru
 :: 4jnzhl0d0.com
+:: 4kt2.com
 :: 4l7wg5kf3z.com
 :: 4l9mr.bemobtrk.com
 :: 4lucysu.com
@@ -2213,6 +2283,7 @@ ff02::2 ip6-allrouters
 :: 5-8-1-ios.event.ingest.crittercism.com
 :: 5-8-1-ios.network.ingest.crittercism.com
 :: 5-8-1-ios.userflows.ingest.crittercism.com
+:: 58.215.179.159
 :: 5-8-2-ios.appload.ingest.crittercism.com
 :: 5-8-2-ios.event.ingest.crittercism.com
 :: 5-8-2-ios.network.ingest.crittercism.com
@@ -2303,6 +2374,7 @@ ff02::2 ip6-allrouters
 :: 5zi3.top
 :: 5zi5.top
 :: 600z.com
+:: 60.190.139.164
 :: 602d76e204c032.com
 :: 602.stats.misstrends.com
 :: 604.stats.misstrends.com
@@ -2318,6 +2390,8 @@ ff02::2 ip6-allrouters
 :: 609623.com
 :: 60ads.com
 :: 60fpslive.imageshack.host
+:: 61.152.223.15
+:: 61.174.50.211
 :: 613untetheredjailbreak.com
 :: 614514.com
 :: 6159.eu-api.swrve.com
@@ -2406,6 +2480,7 @@ ff02::2 ip6-allrouters
 :: 660a755deb8829fe.com
 :: 6612151.cn
 :: 6612152.cn
+:: 66.212.56.229
 :: 66.228.52.30
 :: 6631f33cf2a1032b.com
 :: 664gp.com
@@ -2448,6 +2523,7 @@ ff02::2 ip6-allrouters
 :: 688de7b3822de.com
 :: 68a6d200.contentabc.com
 :: 691123f5be2a669b.com
+:: 69.28.57.245
 :: 693836.com
 :: 6942f24115b63.com
 :: 6945k6.cn
@@ -2499,6 +2575,7 @@ ff02::2 ip6-allrouters
 :: 6moxhf9rmm.com
 :: 6ngyq.bemobtrk.com
 :: 6pal.consobaby.com
+:: 6park.com
 :: 6ped2nd3yp.com
 :: 6sc.co
 :: 6sercher.biz
@@ -2791,6 +2868,7 @@ ff02::2 ip6-allrouters
 :: 86a6b542l7.com
 :: 86cb1dcb13ba5a1a.com
 :: 86f4fd3b507f774.com
+:: 86uk.com
 :: 87159d7b62fc885.com
 :: 873u11.edvfwlacluo.com
 :: 8761f9f83613.com
@@ -3208,6 +3286,7 @@ ff02::2 ip6-allrouters
 :: aaacompany.net
 :: aaadealstoday.com
 :: aa.adfarm1.adition.com
+:: aaaf.info
 :: aa.agkn.com
 :: aaan.xyz
 :: aaashoeschina.com
@@ -3677,6 +3756,7 @@ ff02::2 ip6-allrouters
 :: acetrk.com
 :: acexedge.com
 :: acf-webmaster.net
+:: acgbenzi.com
 :: ac-gb.mgid.com
 :: ac.goodsblock.mgid.com
 :: ach.appodeal.com
@@ -9928,6 +10008,7 @@ ff02::2 ip6-allrouters
 :: alhpqmefnwkxtn.com
 :: ali2a.xyz
 :: ali2b.xyz
+:: ali2c.xyz
 :: ali2d.xyz
 :: ali2f.xyz
 :: aliadvert.ru
@@ -16672,6 +16753,7 @@ ff02::2 ip6-allrouters
 :: blizzardcheck.com
 :: blkget8.com
 :: blkivkplpn.com
+:: bllzgqbyp
 :: blnk.crwdcntrl.net
 :: blobar.org
 :: blobspot.com
@@ -17712,6 +17794,7 @@ ff02::2 ip6-allrouters
 :: bttrack.com
 :: btttag.com
 :: btttmgxtziztqq.com
+:: bttyue.com
 :: b.tukucc.com
 :: bturlzbakbcsdd.com
 :: btvhdscr.com
@@ -20899,6 +20982,7 @@ ff02::2 ip6-allrouters
 :: cityadstrack.com
 :: citycardriving-crack.com
 :: citycoco.es
+:: cityd.xyz
 :: citygrid.com
 :: cityhoverboard.de
 :: citymediamagazin.hu
@@ -21946,6 +22030,7 @@ ff02::2 ip6-allrouters
 :: cms.fx678img.com
 :: cms.grandcloud.cn
 :: cm.shareaholic.com
+:: cmsjs.eastmoney.com
 :: cmslayue.com
 :: cms.lfstmedia.com
 :: cms.lv
@@ -23072,6 +23157,7 @@ ff02::2 ip6-allrouters
 :: contenture.com
 :: contentwidgets.net
 :: content.womensforum.com
+:: content.xilu.com
 :: content.yieldmanager.edgesuite.net
 :: contentz.mkt51.net
 :: contentz.mkt61.net
@@ -28029,6 +28115,7 @@ ff02::2 ip6-allrouters
 :: dota2trade.online
 :: dota2trade.pro
 :: dota2traders.online
+:: dota2.uuu9.com
 :: dota2xbet.com
 :: dota4bet.com
 :: dota-dream.com
@@ -32345,6 +32432,7 @@ ff02::2 ip6-allrouters
 :: fdbpnqh.cn
 :: fdbrwxtm.com
 :: fdbyfnpdcqc.bid
+:: fdc.my0511.com
 :: fdeddechfdfgjiacade.ru
 :: fderty.com
 :: fdeuykfnpdy.com
@@ -33244,6 +33332,7 @@ ff02::2 ip6-allrouters
 :: flnqkhnqjcmvp.com
 :: flnqmin.org
 :: flnwaqyh.com
+:: _float_fuo.js
 :: float-l.ru
 :: flobamorata.com
 :: flockflame.com
@@ -35312,6 +35401,7 @@ ff02::2 ip6-allrouters
 :: gameshackz.com
 :: gameshaxtools.com
 :: gameshq.nl
+:: games.ifeng.com
 :: gamesims.ru
 :: gamesincrease.com
 :: gamesindustry.uk.intellitxt.com
@@ -47306,6 +47396,7 @@ ff02::2 ip6-allrouters
 :: letsweb.info
 :: letterboxtrail.com
 :: lettucelimit.com
+:: leturich.org
 :: letv.allyes.com
 :: letvertise.com
 :: letysheeps.ru
@@ -54214,6 +54305,7 @@ ff02::2 ip6-allrouters
 :: naideema.com
 :: nailbytes1.com
 :: nailowhe.net
+:: _naimabdd_
 :: nainaimi.top
 :: nai.outbrain.com
 :: naiwvizpzflx.com
@@ -59764,6 +59856,7 @@ ff02::2 ip6-allrouters
 :: pfihfdmwdsjum.com
 :: pfiuzxey.com
 :: pfizer.122.2o7.net
+:: pfizer.com.tw
 :: pfizerpch.demdex.net
 :: pfjwtzlfaivp.com
 :: pfk9fywba5.com
@@ -60072,6 +60165,7 @@ ff02::2 ip6-allrouters
 :: pictureturn.com
 :: p.ic.tynt.com
 :: picznhen.com
+:: pic.zol-img.com.cn
 :: pidarunki.ru
 :: pidbbdxixp.com
 :: pidorg.ru
@@ -63502,6 +63596,7 @@ ff02::2 ip6-allrouters
 :: putrr7.com
 :: putrr8.com
 :: puttyac.com
+:: puudeng.com.tw
 :: pu.vuer.net
 :: puwvuscm.com
 :: puwzwbdopaeq.bid
@@ -70406,6 +70501,7 @@ ff02::2 ip6-allrouters
 :: sin2.ipromote.com
 :: sinaalicdn.com
 :: sinabuy.cn
+:: sina.com.tw
 :: sina-img.club
 :: sinas-kinderwunderwelt.de
 :: sinawbimg.com
@@ -70652,6 +70748,7 @@ ff02::2 ip6-allrouters
 :: sk1n.fr
 :: sk8t.fr
 :: sk.adocean.pl
+:: skads.gxsky.com
 :: ska.energia.cz
 :: skai.iad-03.braze.com
 :: skategirlchina.com
@@ -77044,6 +77141,7 @@ ff02::2 ip6-allrouters
 :: tlx.3lift.com
 :: tlxspilyxsfx.com
 :: tm1-001.com
+:: _tm11_pmt_
 :: tm1.hoiplay.com
 :: tm-79.com
 :: t.manage.com
@@ -80937,6 +81035,7 @@ ff02::2 ip6-allrouters
 :: uhjedvnlaq.com
 :: uhkfd.bemobtrk.com
 :: uh.nakanohito.jp
+:: uho.com.tw
 :: uhor8.cn
 :: uhpdodqzxewhcv.com
 :: uhpnngxvuvwtd.com
@@ -82043,6 +82142,7 @@ ff02::2 ip6-allrouters
 :: uupool.cn
 :: uusbags.com
 :: uusftafycvolbk.com
+:: uuu9.tieba.com
 :: uuu.pctowap.com
 :: uuxnwoevyb.com
 :: uuzjerqlmxnosw.com
@@ -83440,6 +83540,7 @@ ff02::2 ip6-allrouters
 :: vmet.ro
 :: vmftwflt.com
 :: vmhzvqzx.com
+:: _vmind.qqvideo.tc.qq.com
 :: v.mir-18.ru
 :: vmjjzk.cn
 :: vmkxcsss.ru
@@ -83952,6 +84053,7 @@ ff02::2 ip6-allrouters
 :: w00f.net
 :: w00tmedia.net
 :: w00tpublishers.wootmedia.net
+:: w010w.com.cn
 :: w0.extreme-dm.com
 :: w0i7c.bemobtrk.com
 :: w11.zhongkaohelp.com
@@ -83975,6 +84077,7 @@ ff02::2 ip6-allrouters
 :: w4988.nb.host127-0-0-1.com
 :: w4.com
 :: w4filesws.imageshack.host
+:: w51t.com
 :: w55c.net
 :: w595505.com
 :: w612.nb.host127-0-0-1.com
@@ -85290,6 +85393,7 @@ ff02::2 ip6-allrouters
 :: winvestern.com.cn
 :: winvideo.org
 :: winvideo.xyz
+:: winvvv.com
 :: win-wetterau.de
 :: win-window.win
 :: winxdrops.fun
@@ -90356,6 +90460,7 @@ ff02::2 ip6-allrouters
 :: yac.mx
 :: ya-counter.ru
 :: yacurlik.com
+:: _yad_jsonp_
 :: ya.domain-vip.net
 :: yadropro.ru
 :: yadro.ru
@@ -90702,6 +90807,7 @@ ff02::2 ip6-allrouters
 :: yinzantouzi.com
 :: yiopqbbmugak.com
 :: yip.su
+:: yiqifa.com
 :: yiqima.xyz
 :: yiran686.cn
 :: yiranxian.cn
@@ -91252,6 +91358,7 @@ ff02::2 ip6-allrouters
 :: yx-ads6.com
 :: yxbtyzqcczra.com
 :: yxbzsdthw.com
+:: yxdd.com
 :: yxdwsuppvt.com
 :: yxfxhkbrwzww.com
 :: yxgfcj.com
