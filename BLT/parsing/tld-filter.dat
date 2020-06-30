@@ -405,6 +405,7 @@
 \.eurovision$
 \.eus$
 \.events$
+\.example$
 \.exchange$
 \.expert$
 \.exposed$
@@ -628,6 +629,7 @@
 \.intel$
 \.international$
 \.intuit$
+\.invalid$
 \.investments$
 \.io$
 \.ipiranga$
