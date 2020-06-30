@@ -81,6 +81,8 @@ localhost$
 ^0.0.0.0 gs.apple.com$
 ^0.0.0.0 hostsfile.org$
 ^0.0.0.0 icloud.com$
+^0.0.0.0 i.imgbox.com$
+^0.0.0.0 images3.imgbox.com$
 ^0.0.0.0 instructorledlearning.dropboxbusiness.com$
 ^0.0.0.0 itunes.apple.com$
 ^0.0.0.0 itunes.com$
@@ -126,4 +128,4 @@ localhost$
 ^0.0.0.0 whispersystems.org$
 ^0.0.0.0 winhelp2002.mvps.org$
 ^0.0.0.0 wix.com$
-^0.0.0.0 www.staradvertiser.com
+^0.0.0.0 www.staradvertiser.com$
