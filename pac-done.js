@@ -1,4 +1,4 @@
-// **** Mon 29 Jun 2020 06:44:07 PM MDT
+// **** Tue 30 Jun 2020 01:11:02 PM MDT
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0daygameparadise.com') ||
@@ -177,6 +177,7 @@ shExpMatch(host, '*.accountemporium.com') ||
 shExpMatch(host, '*.accountgiveaway.com') ||
 shExpMatch(host, '*.accounthackers.com') ||
 shExpMatch(host, '*.accounts.mx') ||
+shExpMatch(host, '*.accounts.pkr.com.invalid') ||
 shExpMatch(host, '*.acento.com') ||
 shExpMatch(host, '*.acieh.onecinema.us') ||
 shExpMatch(host, '*.acmetoy.com') ||
@@ -2287,6 +2288,7 @@ shExpMatch(host, '*.brassrule.com') ||
 shExpMatch(host, '*.bravebone.com') ||
 shExpMatch(host, '*.bravefrontiercheats.com') ||
 shExpMatch(host, '*.brave-frontier-hack.com') ||
+shExpMatch(host, '*.bravenet.com.invalid') ||
 shExpMatch(host, '*.brazzersfreeaccount.net') ||
 shExpMatch(host, '*.brazzers-hack.com') ||
 shExpMatch(host, '*.breakfastboat.com') ||
@@ -2855,6 +2857,7 @@ shExpMatch(host, '*.clickhouse.com') ||
 shExpMatch(host, '*.clickhype.com') ||
 shExpMatch(host, '*.click.kmindex.ru') ||
 shExpMatch(host, '*.clicklink.jp') ||
+shExpMatch(host, '*.clickmate.io') ||
 shExpMatch(host, '*.clickmedia.ro') ||
 shExpMatch(host, '*.clickonometrics.pl') ||
 shExpMatch(host, '*.clicks.equantum.com') ||
@@ -10161,6 +10164,7 @@ shExpMatch(host, '*.secure.webconnect.net') ||
 shExpMatch(host, '*.security.system.ssl-verified.site') ||
 shExpMatch(host, '*.sedoparking.com') ||
 shExpMatch(host, '*.sedotracker.com') ||
+shExpMatch(host, '*.seeq.com.invalid') ||
 shExpMatch(host, '*.sega-rom.com') ||
 shExpMatch(host, '*.seizefile.co') ||
 shExpMatch(host, '*.sekaze.ru') ||
@@ -12817,6 +12821,7 @@ shExpMatch(host, 'accountemporium.com') ||
 shExpMatch(host, 'accountgiveaway.com') ||
 shExpMatch(host, 'accounthackers.com') ||
 shExpMatch(host, 'accounts.mx') ||
+shExpMatch(host, 'accounts.pkr.com.invalid') ||
 shExpMatch(host, 'acento.com') ||
 shExpMatch(host, 'acieh.onecinema.us') ||
 shExpMatch(host, 'acmetoy.com') ||
@@ -14927,6 +14932,7 @@ shExpMatch(host, 'brassrule.com') ||
 shExpMatch(host, 'bravebone.com') ||
 shExpMatch(host, 'bravefrontiercheats.com') ||
 shExpMatch(host, 'brave-frontier-hack.com') ||
+shExpMatch(host, 'bravenet.com.invalid') ||
 shExpMatch(host, 'brazzersfreeaccount.net') ||
 shExpMatch(host, 'brazzers-hack.com') ||
 shExpMatch(host, 'breakfastboat.com') ||
@@ -15495,6 +15501,7 @@ shExpMatch(host, 'clickhouse.com') ||
 shExpMatch(host, 'clickhype.com') ||
 shExpMatch(host, 'click.kmindex.ru') ||
 shExpMatch(host, 'clicklink.jp') ||
+shExpMatch(host, 'clickmate.io') ||
 shExpMatch(host, 'clickmedia.ro') ||
 shExpMatch(host, 'clickonometrics.pl') ||
 shExpMatch(host, 'clicks.equantum.com') ||
@@ -22801,6 +22808,7 @@ shExpMatch(host, 'secure.webconnect.net') ||
 shExpMatch(host, 'security.system.ssl-verified.site') ||
 shExpMatch(host, 'sedoparking.com') ||
 shExpMatch(host, 'sedotracker.com') ||
+shExpMatch(host, 'seeq.com.invalid') ||
 shExpMatch(host, 'sega-rom.com') ||
 shExpMatch(host, 'seizefile.co') ||
 shExpMatch(host, 'sekaze.ru') ||
