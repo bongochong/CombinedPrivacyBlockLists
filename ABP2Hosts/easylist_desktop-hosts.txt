@@ -1,4 +1,4 @@
-# Mon 29 Jun 2020 06:40:31 PM MDT
+# Tue 30 Jun 2020 01:06:46 PM MDT
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 0026645142c89aeb1.com
@@ -57,6 +57,7 @@
 0.0.0.0 05xz0h2xo799.com
 0.0.0.0 0601chruopjsm.xyz
 0.0.0.0 0615nxbsho.xyz
+0.0.0.0 0629ohfsx.xyz
 0.0.0.0 06f09b1008ae993a5a.com
 0.0.0.0 0728w.cn
 0.0.0.0 07346e971b1ec7f.com
@@ -1404,6 +1405,7 @@
 0.0.0.0 a-counter.com.ua
 0.0.0.0 a-counter.kiev.ua
 0.0.0.0 a-counters.com
+0.0.0.0 acousinguy.club
 0.0.0.0 acq.io
 0.0.0.0 acrabakasaka.com
 0.0.0.0 acrididae.com
@@ -3928,6 +3930,7 @@
 0.0.0.0 bavftcgoapga.com
 0.0.0.0 b-aws.aol.com
 0.0.0.0 baynote.net
+0.0.0.0 baysexthy.com
 0.0.0.0 baztrack.com
 0.0.0.0 bb1acb0ea5ddb1fed8.com
 0.0.0.0 bb475d71fa0b1b2.com
@@ -4898,6 +4901,7 @@
 0.0.0.0 bugaga.tut.by
 0.0.0.0 bugcreator.cn
 0.0.0.0 bugherd.com
+0.0.0.0 buglethemfouls.casa
 0.0.0.0 bugwiqivdqotjk.com
 0.0.0.0 buhlhkkvljt.com
 0.0.0.0 buildbull.ru
@@ -5197,6 +5201,7 @@
 0.0.0.0 caringzinc.com
 0.0.0.0 carl.pubsvs.com
 0.0.0.0 caroda.io
+0.0.0.0 carpentercomparison.com
 0.0.0.0 carpetusiko.club
 0.0.0.0 car.qcmrjx.com
 0.0.0.0 carrotquest.io
@@ -5738,6 +5743,7 @@
 0.0.0.0 clgserv.pro
 0.0.0.0 clgyhwaoh.com
 0.0.0.0 clic2pub.com
+0.0.0.0 clicationsul.club
 0.0.0.0 click4assistance.co.uk
 0.0.0.0 click4free.info
 0.0.0.0 click4wm.ru
@@ -5827,6 +5833,7 @@
 0.0.0.0 click.taobao.com
 0.0.0.0 clickterra.net
 0.0.0.0 clickthru.lefbc.com
+0.0.0.0 clicktraceclick.com
 0.0.0.0 clicktrack1.com
 0.0.0.0 clicktracker.iscan.nl
 0.0.0.0 clicktracks.com
@@ -6581,6 +6588,7 @@
 0.0.0.0 cssdiv.club
 0.0.0.0 cs-serva.net
 0.0.0.0 cssimplicanab.info
+0.0.0.0 cssjs.info
 0.0.0.0 css.juqingba.cn
 0.0.0.0 cssrvsync.com
 0.0.0.0 css-style-95.com
@@ -6810,6 +6818,7 @@
 0.0.0.0 d1hi41nc56pmug.cloudfront.net
 0.0.0.0 d1i9kr6k34lyp.cloudfront.net
 0.0.0.0 d1iazwv1n1tsyi.cloudfront.net
+0.0.0.0 d1igp3oop3iho5.cloudfront.net
 0.0.0.0 d1il9t8pu4dsoj.cloudfront.net
 0.0.0.0 d1ilwohzbe4ao6.cloudfront.net
 0.0.0.0 d1jnvfp2m6fzvq.cloudfront.net
@@ -7494,6 +7503,7 @@
 0.0.0.0 dieohupl.com
 0.0.0.0 die-rankliste.com
 0.0.0.0 dierqingchun.com
+0.0.0.0 differeditas.club
 0.0.0.0 differentdesk.com
 0.0.0.0 diffusion-tracker.com
 0.0.0.0 dificaux.com
@@ -7920,6 +7930,7 @@
 0.0.0.0 drp.su
 0.0.0.0 drqlvjwhg.com
 0.0.0.0 drsemkuhpg.com
+0.0.0.0 drunkersrr.club
 0.0.0.0 drwttspxjdoosq.com
 0.0.0.0 drydrum.com
 0.0.0.0 dryzapsol.com
@@ -10649,7 +10660,6 @@
 0.0.0.0 goto.www.iciba.com
 0.0.0.0 gotrk.net
 0.0.0.0 gotrlayh.com
-0.0.0.0 go.trouter.skype.com
 0.0.0.0 gou1zhe.com
 0.0.0.0 gouhei.top
 0.0.0.0 go.unas.ru
@@ -15155,6 +15165,7 @@
 0.0.0.0 matiro.com
 0.0.0.0 matomo.cloud
 0.0.0.0 matricavfr.club
+0.0.0.0 mattemptad.club
 0.0.0.0 mattempts.info
 0.0.0.0 matterlytics.com
 0.0.0.0 matwbp.iask.sina.com.cn
@@ -15674,6 +15685,7 @@
 0.0.0.0 mkaqh.cn
 0.0.0.0 mkgosjtrbhag.com
 0.0.0.0 mkhoj.com
+0.0.0.0 mkjsqrpmxqdf.com
 0.0.0.0 mkkosxvmn.com
 0.0.0.0 mkkxioajtwm.com
 0.0.0.0 mkt3261.com
@@ -15783,6 +15795,7 @@
 0.0.0.0 mobileadspopup.com
 0.0.0.0 mobiledirectors.com
 0.0.0.0 mobile-files.ru
+0.0.0.0 mobilehdmi.com
 0.0.0.0 mobiloba.com
 0.0.0.0 mobiright.com
 0.0.0.0 mobirollcom.ru
@@ -16399,6 +16412,7 @@
 0.0.0.0 nclick.ru
 0.0.0.0 ncmcbufifgcu.com
 0.0.0.0 ncom.dk
+0.0.0.0 ncountsnash.info
 0.0.0.0 ncoyqc.com
 0.0.0.0 ncsyyeabk.com
 0.0.0.0 nctionclarkingcu.fun
@@ -16895,6 +16909,7 @@
 0.0.0.0 nqmwfddfwogbhw.com
 0.0.0.0 nqnggjvdzsy.com
 0.0.0.0 nqrkzcd7ixwr.com
+0.0.0.0 nqslmtuswqdz.com
 0.0.0.0 nqtnwvwigvo.com
 0.0.0.0 nqtqrnfzvp.com
 0.0.0.0 nqtyrwyklcmh.com
@@ -18815,6 +18830,7 @@
 0.0.0.0 policityseriod.info
 0.0.0.0 polimadv.com
 0.0.0.0 polisrtb.com
+0.0.0.0 polituremil.club
 0.0.0.0 polkoa.com
 0.0.0.0 polluxnetwork.com
 0.0.0.0 polmontventures.com
@@ -20559,6 +20575,7 @@
 0.0.0.0 reachmax.cn
 0.0.0.0 reachmode.com
 0.0.0.0 reachsocket.com
+0.0.0.0 reactandshare.com
 0.0.0.0 reacten.com
 0.0.0.0 reactful.com
 0.0.0.0 reactor.cc
@@ -20763,6 +20780,7 @@
 0.0.0.0 requested.cn
 0.0.0.0 requestingreview.com
 0.0.0.0 requiredcollectfilm.info
+0.0.0.0 requivalfun.club
 0.0.0.0 rereghpaz.com
 0.0.0.0 reroplittrewheck.pro
 0.0.0.0 res3.feedsportal.com
@@ -22679,6 +22697,7 @@
 0.0.0.0 ssp.hinet.net
 0.0.0.0 sspicy.ru
 0.0.0.0 ssp.kdnet.net
+0.0.0.0 ssp.njxzwh.com
 0.0.0.0 ssp.zf313.com
 0.0.0.0 ssqpsrlknohdao.com
 0.0.0.0 ssqualismother.info
@@ -23224,7 +23243,6 @@
 0.0.0.0 sync.tv
 0.0.0.0 syndicatedsearchresults.com
 0.0.0.0 syndicate.payloadz.com
-0.0.0.0 syndication1.viraladnetwork.net
 0.0.0.0 syndication.exdynsrv.com
 0.0.0.0 syndication.exoclick.com
 0.0.0.0 syndication.exosrv.com
@@ -25638,6 +25656,7 @@
 0.0.0.0 viptv91.cn
 0.0.0.0 vip-vip-vup.com
 0.0.0.0 viral782.com
+0.0.0.0 viraladnetwork.net
 0.0.0.0 viralcpm.com
 0.0.0.0 viralmediatech.com
 0.0.0.0 viralninjas.com
@@ -26289,6 +26308,7 @@
 0.0.0.0 wells.murmann.ru
 0.0.0.0 welsworn.info
 0.0.0.0 welt-der-links.de
+0.0.0.0 welted.cn
 0.0.0.0 wel-wel-fie.com
 0.0.0.0 wemdsm.com
 0.0.0.0 wemfbox.ch
@@ -28094,6 +28114,7 @@
 0.0.0.0 zepozipo.com
 0.0.0.0 zeqtblok.com
 0.0.0.0 zerezas.com
+0.0.0.0 zeroidtech.com
 0.0.0.0 zero.kz
 0.0.0.0 zeropark.com
 0.0.0.0 zesep.com

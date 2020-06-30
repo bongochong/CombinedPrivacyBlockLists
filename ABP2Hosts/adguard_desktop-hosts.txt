@@ -1,4 +1,4 @@
-# Mon 29 Jun 2020 06:40:22 PM MDT
+# Tue 30 Jun 2020 01:06:28 PM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 0351dvd.cn
@@ -21,6 +21,7 @@
 0.0.0.0 12fou.com
 0.0.0.0 12mnkys.com
 0.0.0.0 13p76nnir.de
+0.0.0.0 1571627030.rsc.cdn77.org
 0.0.0.0 168logger.com
 0.0.0.0 1740f665a91b68.com
 0.0.0.0 1990tu.com
@@ -1121,6 +1122,7 @@
 0.0.0.0 caraphene.xyz
 0.0.0.0 carbian.info
 0.0.0.0 caringzinc.com
+0.0.0.0 carpentercomparison.com
 0.0.0.0 carutinv.com
 0.0.0.0 cashbeet.com
 0.0.0.0 cashbigo.com
@@ -2117,6 +2119,7 @@
 0.0.0.0 etrafficstats.com
 0.0.0.0 etrigue.com
 0.0.0.0 etyper.com
+0.0.0.0 eue.d-teknoloji.com.tr
 0.0.0.0 euktoywjpdxpdh.com
 0.0.0.0 eulerian.belambra.be
 0.0.0.0 eulerian.belambra.fr
@@ -2771,6 +2774,7 @@
 0.0.0.0 hqr9q6f30371.com
 0.0.0.0 hrtya.com
 0.0.0.0 hs-analytics.net
+0.0.0.0 hs-scripts.com
 0.0.0.0 htmonster.com
 0.0.0.0 htreatory.info
 0.0.0.0 htyfmm.com
@@ -3331,6 +3335,7 @@
 0.0.0.0 lopley.com
 0.0.0.0 loppjod.online
 0.0.0.0 lopsidedspoon.com
+0.0.0.0 lopzitpup.com
 0.0.0.0 lorahana.xyz
 0.0.0.0 losecounter.de
 0.0.0.0 losstrack.com
@@ -4306,6 +4311,9 @@
 0.0.0.0 powerbar-pagerank.de
 0.0.0.0 powercount.com
 0.0.0.0 ppclocation.biz
+0.0.0.0 ppcnt.co
+0.0.0.0 ppcnt.eu
+0.0.0.0 ppcnt.us
 0.0.0.0 ppco.trwba.com
 0.0.0.0 ppctracking.net
 0.0.0.0 ppinstall.com
@@ -5011,6 +5019,7 @@
 0.0.0.0 sitetracker.com
 0.0.0.0 sitetraq.nl
 0.0.0.0 sixscissors.com
+0.0.0.0 sjsmartcontent.org
 0.0.0.0 skimresources.com
 0.0.0.0 skyglue.com
 0.0.0.0 skylog.kz
@@ -5085,6 +5094,7 @@
 0.0.0.0 spacehits.net
 0.0.0.0 space-link.de
 0.0.0.0 spacenine.biz
+0.0.0.0 sparagken.com
 0.0.0.0 spareton.online
 0.0.0.0 speciadnessing.pro
 0.0.0.0 specialgift.top
@@ -5496,6 +5506,7 @@
 0.0.0.0 tns-cs.net
 0.0.0.0 tns-gallup.dk
 0.0.0.0 tnsinternet.be
+0.0.0.0 toeapesob.com
 0.0.0.0 toecircle.com
 0.0.0.0 toftofcal.com
 0.0.0.0 togenron.com
@@ -5583,6 +5594,8 @@
 0.0.0.0 trackjs.com
 0.0.0.0 trackkas.com
 0.0.0.0 tracklab.club
+0.0.0.0 track.mp3bars.com
+0.0.0.0 track.mp3vizor.com
 0.0.0.0 trackmyweb.net
 0.0.0.0 track.pnicnik.live
 0.0.0.0 trackpush.com
@@ -5592,6 +5605,7 @@
 0.0.0.0 trackset.it
 0.0.0.0 track.special-offers.online
 0.0.0.0 tracksy.com
+0.0.0.0 track.thevtk.com
 0.0.0.0 tracktrk.net
 0.0.0.0 trackuity.com
 0.0.0.0 trackvoluum.com

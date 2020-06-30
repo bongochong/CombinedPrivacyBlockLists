@@ -1,4 +1,4 @@
-# Mon 29 Jun 2020 06:40:18 PM MDT
+# Tue 30 Jun 2020 01:06:24 PM MDT
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -2313,6 +2313,7 @@
 0.0.0.0 api.destinationrewards.com
 0.0.0.0 api-de-v3.conductrics.com
 0.0.0.0 api-device.mocaplatform.com
+0.0.0.0 api.device.xiaomi.net
 0.0.0.0 api-dot-mwm-ab-testing.appspot.com
 0.0.0.0 api-dot-mwm-ad-mediation.appspot.com
 0.0.0.0 api.doumob.com
