@@ -1,4 +1,4 @@
-# Tue 30 Jun 2020 01:09:01 PM MDT
+# Sun 05 Jul 2020 11:11:30 PM MDT
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -2510,7 +2510,6 @@
 0.0.0.0 api.taboola.com
 0.0.0.0 api.tapjoy.com
 0.0.0.0 api.taplytics.com
-0.0.0.0 api.tapsell.ir
 0.0.0.0 api.taps.io
 0.0.0.0 api.tapstream.com
 0.0.0.0 api.theadex.com
@@ -11119,6 +11118,7 @@
 0.0.0.0 tappx.com
 0.0.0.0 tap.rubiconproject.com
 0.0.0.0 tap-secure.rubiconproject.com
+0.0.0.0 tapsell.ir
 0.0.0.0 tapsense.com
 0.0.0.0 tapstat.ru
 0.0.0.0 taptica.com
