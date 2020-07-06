@@ -1,4 +1,4 @@
-// **** Tue 30 Jun 2020 01:11:02 PM MDT
+// **** Sun 05 Jul 2020 11:13:54 PM MDT
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0daygameparadise.com') ||
@@ -937,6 +937,7 @@ shExpMatch(host, '*.ads.larryaffiliates.com') ||
 shExpMatch(host, '*.ads.leovegas.com') ||
 shExpMatch(host, '*.ads.lesbianpersonals.com') ||
 shExpMatch(host, '*.ads.liberte.pl') ||
+shExpMatch(host, '*.ads.lifethink.net') ||
 shExpMatch(host, '*.ads.linkedin.com') ||
 shExpMatch(host, '*.ads.linuxfoundation.org') ||
 shExpMatch(host, '*.ads.linuxjournal.com') ||
@@ -1056,7 +1057,6 @@ shExpMatch(host, '*.ads.radio1.lv') ||
 shExpMatch(host, '*.ads.rcncdn.de') ||
 shExpMatch(host, '*.ads.rcs.it') ||
 shExpMatch(host, '*.ads.recoletos.es') ||
-shExpMatch(host, '*.ads.redactor.in.ua') ||
 shExpMatch(host, '*.ads.rediff.com') ||
 shExpMatch(host, '*.ads.redlightcenter.com') ||
 shExpMatch(host, '*.ads.redtube.com') ||
@@ -1244,6 +1244,7 @@ shExpMatch(host, '*.advangelists.com') ||
 shExpMatch(host, '*.advariant.com') ||
 shExpMatch(host, '*.adv-banner.libero.it') ||
 shExpMatch(host, '*.adv.cooperhosting.net') ||
+shExpMatch(host, '*.adv.donejty.pl') ||
 shExpMatch(host, '*.adventory.com') ||
 shExpMatch(host, '*.advert.bayarea.com') ||
 shExpMatch(host, '*.advert.dyna.ultraweb.hu') ||
@@ -4924,7 +4925,6 @@ shExpMatch(host, '*.findyourcasino.com') ||
 shExpMatch(host, '*.findyourhack.com') ||
 shExpMatch(host, '*.fineclicks.com') ||
 shExpMatch(host, '*.finelchck.biz') ||
-shExpMatch(host, '*.fingahvf.top') ||
 shExpMatch(host, '*.firal.net') ||
 shExpMatch(host, '*.fire-alts.com') ||
 shExpMatch(host, '*.firecash.org') ||
@@ -13581,6 +13581,7 @@ shExpMatch(host, 'ads.larryaffiliates.com') ||
 shExpMatch(host, 'ads.leovegas.com') ||
 shExpMatch(host, 'ads.lesbianpersonals.com') ||
 shExpMatch(host, 'ads.liberte.pl') ||
+shExpMatch(host, 'ads.lifethink.net') ||
 shExpMatch(host, 'ads.linkedin.com') ||
 shExpMatch(host, 'ads.linuxfoundation.org') ||
 shExpMatch(host, 'ads.linuxjournal.com') ||
@@ -13700,7 +13701,6 @@ shExpMatch(host, 'ads.radio1.lv') ||
 shExpMatch(host, 'ads.rcncdn.de') ||
 shExpMatch(host, 'ads.rcs.it') ||
 shExpMatch(host, 'ads.recoletos.es') ||
-shExpMatch(host, 'ads.redactor.in.ua') ||
 shExpMatch(host, 'ads.rediff.com') ||
 shExpMatch(host, 'ads.redlightcenter.com') ||
 shExpMatch(host, 'ads.redtube.com') ||
@@ -13888,6 +13888,7 @@ shExpMatch(host, 'advangelists.com') ||
 shExpMatch(host, 'advariant.com') ||
 shExpMatch(host, 'adv-banner.libero.it') ||
 shExpMatch(host, 'adv.cooperhosting.net') ||
+shExpMatch(host, 'adv.donejty.pl') ||
 shExpMatch(host, 'adventory.com') ||
 shExpMatch(host, 'advert.bayarea.com') ||
 shExpMatch(host, 'advert.dyna.ultraweb.hu') ||
@@ -17568,7 +17569,6 @@ shExpMatch(host, 'findyourcasino.com') ||
 shExpMatch(host, 'findyourhack.com') ||
 shExpMatch(host, 'fineclicks.com') ||
 shExpMatch(host, 'finelchck.biz') ||
-shExpMatch(host, 'fingahvf.top') ||
 shExpMatch(host, 'firal.net') ||
 shExpMatch(host, 'fire-alts.com') ||
 shExpMatch(host, 'firecash.org') ||
