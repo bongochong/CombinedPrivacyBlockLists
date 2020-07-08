@@ -41,6 +41,11 @@ goo.gl
 gs.apple.com
 hostsfile.org
 icloud.com
+i.imgbox.com
+images3.imgbox.com
+imgtaxi.com
+imgtown.pw
+imgview.pw
 instructorledlearning.dropboxbusiness.com
 itunes.apple.com
 itunes.com
