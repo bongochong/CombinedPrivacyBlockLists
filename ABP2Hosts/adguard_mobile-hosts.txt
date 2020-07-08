@@ -1,4 +1,4 @@
-# Sun 05 Jul 2020 11:11:30 PM MDT
+# Wed 08 Jul 2020 07:55:04 AM MDT
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -1845,6 +1845,7 @@
 0.0.0.0 ambient-platform.com
 0.0.0.0 ambimob.com
 0.0.0.0 amdc.m.taobao.com
+0.0.0.0 amdcopen.m.taobao.com
 0.0.0.0 a.medialytics.com
 0.0.0.0 americanairlines.demdex.net
 0.0.0.0 a.mgid.com
@@ -9304,6 +9305,7 @@
 0.0.0.0 register.appsflyer.com
 0.0.0.0 registerguard-d.openx.net
 0.0.0.0 registeridm.com
+0.0.0.0 register.xmpush.xiaomi.com
 0.0.0.0 registration.gimbal.com
 0.0.0.0 registration.tiltingpoint.io
 0.0.0.0 regor.iad-03.braze.com
@@ -11313,7 +11315,6 @@
 0.0.0.0 toptargeting.afftrack.com
 0.0.0.0 touchads.com
 0.0.0.0 touch-heresite.cleverpush.com
-0.0.0.0 touchtype-fluency.com
 0.0.0.0 townhallmedia-d.openx.net
 0.0.0.0 townsq.deliveryengine.adswizz.com
 0.0.0.0 townsquaremedia-d.openx.net

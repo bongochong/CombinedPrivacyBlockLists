@@ -1,4 +1,4 @@
-# Sun 05 Jul 2020 11:11:34 PM MDT
+# Wed 08 Jul 2020 07:55:08 AM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 0351dvd.cn
@@ -323,6 +323,7 @@
 0.0.0.0 a.doko.moe
 0.0.0.0 adoric.com
 0.0.0.0 adosia.com
+0.0.0.0 adpay.network
 0.0.0.0 adpeepshosted.com
 0.0.0.0 ad.pentabox.net
 0.0.0.0 adpia.vn
@@ -416,6 +417,7 @@
 0.0.0.0 advertiserurl.com
 0.0.0.0 advetvy.info
 0.0.0.0 adviator.com
+0.0.0.0 advinci.uno
 0.0.0.0 advmanager.techfun.pl
 0.0.0.0 adv.mediaharbor.co.kr
 0.0.0.0 advnetwork.net
@@ -1174,6 +1176,7 @@
 0.0.0.0 celebros-analytics.com
 0.0.0.0 celeritascdn.com
 0.0.0.0 cellorun.info
+0.0.0.0 centent.streamp1ay.cc
 0.0.0.0 center.io
 0.0.0.0 centraltag.com
 0.0.0.0 cepailru.com
@@ -1966,6 +1969,7 @@
 0.0.0.0 dynamicadx.com
 0.0.0.0 dynatrace.com
 0.0.0.0 dyntrk.com
+0.0.0.0 dz5bomaog2c5t.cloudfront.net
 0.0.0.0 dzizsih.ru
 0.0.0.0 dzs55b7slwyx.cloudfront.net
 0.0.0.0 e.211pu.cn
@@ -2112,6 +2116,7 @@
 0.0.0.0 etahub.com
 0.0.0.0 etherealhakai.com
 0.0.0.0 ethereum-pocket.de
+0.0.0.0 ethicalads.io
 0.0.0.0 ethn.io
 0.0.0.0 ethnio.com
 0.0.0.0 eth-pocket.com
@@ -2207,6 +2212,7 @@
 0.0.0.0 ezakus.net
 0.0.0.0 ezec.co.uk
 0.0.0.0 e-zeeinternet.com
+0.0.0.0 ezexfzek.com
 0.0.0.0 ezytrack.com
 0.0.0.0 f185cefa37b1806e.com
 0.0.0.0 f369a60bf483bcc9.com
@@ -4010,6 +4016,7 @@
 0.0.0.0 opgolan.com
 0.0.0.0 oproi.com
 0.0.0.0 opsivesh.net
+0.0.0.0 opsoomet.net
 0.0.0.0 optad360.io
 0.0.0.0 opten.hu
 0.0.0.0 optify.net
@@ -4420,6 +4427,7 @@
 0.0.0.0 p-td.com
 0.0.0.0 ptefautu.net
 0.0.0.0 ptengine.com
+0.0.0.0 p.tinynewsfeed.com
 0.0.0.0 pto.awecr.com
 0.0.0.0 ptocmaux.com
 0.0.0.0 pto-slb-09.com
@@ -5148,6 +5156,7 @@
 0.0.0.0 squeamishscarecrow.com
 0.0.0.0 squidanalytics.com
 0.0.0.0 squirrelhands.com
+0.0.0.0 s.remonti.org
 0.0.0.0 srpx.net
 0.0.0.0 srtb.msn.com
 0.0.0.0 srv.dc-1.net
@@ -5290,6 +5299,7 @@
 0.0.0.0 straightnest.com
 0.0.0.0 straightschool.com
 0.0.0.0 strands.com
+0.0.0.0 strangesink.com
 0.0.0.0 stremanp.com
 0.0.0.0 stringroadway.com
 0.0.0.0 stripe.rs-1028-a.com
