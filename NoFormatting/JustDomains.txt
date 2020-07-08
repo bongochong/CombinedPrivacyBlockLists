@@ -42160,7 +42160,6 @@ img-swarm.ucweb.com
 img.taotaosou.cn
 img.tradedoubler.com
 img.traffic-media.co.uk
-img.transcoder.opera.com
 img.turn.com
 img.ucweb.com
 img.uodoo.com
