@@ -1,4 +1,4 @@
-// **** Sun 05 Jul 2020 11:13:54 PM MDT
+// **** Wed 08 Jul 2020 07:58:05 AM MDT
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0daygameparadise.com') ||
@@ -6668,6 +6668,7 @@ shExpMatch(host, '*.halo4.console2pc.info') ||
 shExpMatch(host, '*.halo4.filesforgames.com') ||
 shExpMatch(host, '*.halo4hack.com') ||
 shExpMatch(host, '*.haltgame.com') ||
+shExpMatch(host, '*.haltingbadge.com') ||
 shExpMatch(host, '*.hammerhearing.com') ||
 shExpMatch(host, '*.handyfield.com') ||
 shExpMatch(host, '*.haniz.ru') ||
@@ -7505,6 +7506,7 @@ shExpMatch(host, '*.lakotorra.com') ||
 shExpMatch(host, '*.lakuhi.ru') ||
 shExpMatch(host, '*.la.land') ||
 shExpMatch(host, '*.lamboffers.com') ||
+shExpMatch(host, '*.lameletters.com') ||
 shExpMatch(host, '*.lampeduza.la') ||
 shExpMatch(host, '*.lampeduza.org') ||
 shExpMatch(host, '*.languagelake.com') ||
@@ -19312,6 +19314,7 @@ shExpMatch(host, 'halo4.console2pc.info') ||
 shExpMatch(host, 'halo4.filesforgames.com') ||
 shExpMatch(host, 'halo4hack.com') ||
 shExpMatch(host, 'haltgame.com') ||
+shExpMatch(host, 'haltingbadge.com') ||
 shExpMatch(host, 'hammerhearing.com') ||
 shExpMatch(host, 'handyfield.com') ||
 shExpMatch(host, 'haniz.ru') ||
@@ -20149,6 +20152,7 @@ shExpMatch(host, 'lakotorra.com') ||
 shExpMatch(host, 'lakuhi.ru') ||
 shExpMatch(host, 'la.land') ||
 shExpMatch(host, 'lamboffers.com') ||
+shExpMatch(host, 'lameletters.com') ||
 shExpMatch(host, 'lampeduza.la') ||
 shExpMatch(host, 'lampeduza.org') ||
 shExpMatch(host, 'languagelake.com') ||
