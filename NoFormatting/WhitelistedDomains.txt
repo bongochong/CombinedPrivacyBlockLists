@@ -43,6 +43,7 @@ hostsfile.org
 icloud.com
 i.imgbox.com
 images3.imgbox.com
+img.transcoder.opera.com
 imgtaxi.com
 imgtown.pw
 imgview.pw
