@@ -1,4 +1,4 @@
-# Wed 08 Jul 2020 07:55:08 AM MDT
+# Mon 13 Jul 2020 05:01:41 PM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 0351dvd.cn
@@ -209,6 +209,7 @@
 0.0.0.0 absorbingprison.com
 0.0.0.0 a-cast.jp
 0.0.0.0 acbp0020171456.page.tl
+0.0.0.0 accaii.com
 0.0.0.0 access-analyze.org
 0.0.0.0 accessi.it
 0.0.0.0 accessintel.com
@@ -629,6 +630,7 @@
 0.0.0.0 app.shoptarget.com.br
 0.0.0.0 apptentive.com
 0.0.0.0 apptimize.com
+0.0.0.0 app.titsx.com
 0.0.0.0 aprtx.com
 0.0.0.0 aptantasp.site
 0.0.0.0 aptapebog.online
@@ -687,6 +689,7 @@
 0.0.0.0 asqgcaeeprydk.com
 0.0.0.0 assandart.site
 0.0.0.0 assoctrac.com
+0.0.0.0 astat.nikkei.com
 0.0.0.0 aster18cdn.nl
 0.0.0.0 asterilivestream.com
 0.0.0.0 astg.widerplanet.com
@@ -730,6 +733,7 @@
 0.0.0.0 autologica.ga
 0.0.0.0 automoc.net
 0.0.0.0 auto-ping.com
+0.0.0.0 auweelta.net
 0.0.0.0 avalhukof.com
 0.0.0.0 avantlink.com
 0.0.0.0 avastats.com
@@ -1151,6 +1155,7 @@
 0.0.0.0 cdn-analytics.pl
 0.0.0.0 cdn.digitalpush.org
 0.0.0.0 cdn.driveback.ru
+0.0.0.0 cdn.glassboxcdn.com
 0.0.0.0 cdn.jquery-uim.download
 0.0.0.0 cdn.midas-network.com
 0.0.0.0 cdn.pljs.ru
@@ -1221,6 +1226,7 @@
 0.0.0.0 chinahdcm.com
 0.0.0.0 chinchickens.com
 0.0.0.0 chograud.com
+0.0.0.0 chouftak.net
 0.0.0.0 chouphoa.top
 0.0.0.0 christiantop1000.com
 0.0.0.0 christmalicious.com
@@ -1670,6 +1676,7 @@
 0.0.0.0 d3l4qa0kmel7is.cloudfront.net
 0.0.0.0 d3laygk9zni6hc.cloudfront.net
 0.0.0.0 d3m79ugzs2d8im.cloudfront.net
+0.0.0.0 d3mr7y154d2qg5.cloudfront.net
 0.0.0.0 d3noqwmgo39at7.cloudfront.net
 0.0.0.0 d3oep4gb91kpuv.cloudfront.net
 0.0.0.0 d3p2b5qewrnsyv.cloudfront.net
@@ -2003,6 +2010,7 @@
 0.0.0.0 ec-track.com
 0.0.0.0 ecustomeropinions.com
 0.0.0.0 ed9wkbpy.com
+0.0.0.0 edampeci.com
 0.0.0.0 edgeadx.net
 0.0.0.0 edigitalsurvey.com
 0.0.0.0 edococounter.de
@@ -2057,6 +2065,7 @@
 0.0.0.0 emetriq.de
 0.0.0.0 emjcd.com
 0.0.0.0 emltrk.com
+0.0.0.0 emolapnay.com
 0.0.0.0 emsecure.net
 0.0.0.0 emuboosag.com
 0.0.0.0 enclosely.info
@@ -2514,6 +2523,7 @@
 0.0.0.0 gixmo.dk
 0.0.0.0 glaimtug.com
 0.0.0.0 glanceguide.com
+0.0.0.0 glassboxdigital.io
 0.0.0.0 glaswall.online
 0.0.0.0 glbtracker.com
 0.0.0.0 gleaminist.info
@@ -2827,6 +2837,7 @@
 0.0.0.0 ibjivzn.com
 0.0.0.0 ibpxl.com
 0.0.0.0 ibpxl.net
+0.0.0.0 ib.snssdk.com
 0.0.0.0 icebns.com
 0.0.0.0 ichlnk.com
 0.0.0.0 i.clean.gg
@@ -2936,9 +2947,11 @@
 0.0.0.0 intelliad.de
 0.0.0.0 intelli-direct.com
 0.0.0.0 intelligencefocus.com
+0.0.0.0 intellipopup.com
 0.0.0.0 intelli-tracker.com
 0.0.0.0 intentmedia.net
 0.0.0.0 inter1ads.com
+0.0.0.0 interactive-circle.jp
 0.0.0.0 interaktiv-net.de
 0.0.0.0 interakt.ru
 0.0.0.0 interceptum.com
@@ -2992,6 +3005,7 @@
 0.0.0.0 irtyd.com
 0.0.0.0 irxcm.com
 0.0.0.0 iryazan.ru
+0.0.0.0 i.snssdk.com
 0.0.0.0 is.sabah.com.tr
 0.0.0.0 istat24.com
 0.0.0.0 i-stats.com
@@ -3088,9 +3102,13 @@
 0.0.0.0 jsid.info
 0.0.0.0 js.jianbaimei.com
 0.0.0.0 js.medi-8.net
+0.0.0.0 js.mediams.mb.softbank.jp
 0.0.0.0 js.mengheng.net
+0.0.0.0 js.monetize-ssp.com
 0.0.0.0 jsonip.com
+0.0.0.0 js.passaro-de-fogo.biz
 0.0.0.0 js.ptengine.jp
+0.0.0.0 js.rush-member.com
 0.0.0.0 js.srcsmrtgs.com
 0.0.0.0 jstracker.com
 0.0.0.0 js.union123.me
@@ -3293,6 +3311,7 @@
 0.0.0.0 listrakbi.com
 0.0.0.0 lists-tracking.komando.com
 0.0.0.0 listtop.ru
+0.0.0.0 litix.io
 0.0.0.0 livecounter.dk
 0.0.0.0 livecount.fr
 0.0.0.0 livehit.net
@@ -3307,6 +3326,7 @@
 0.0.0.0 lk.vectoranalytics.ru
 0.0.0.0 llgerege.com
 0.0.0.0 llladiez.org
+0.0.0.0 l.logly.co.jp
 0.0.0.0 lloogg.com
 0.0.0.0 llsp.gfd80.com
 0.0.0.0 lmodr.biz
@@ -3326,10 +3346,12 @@
 0.0.0.0 logger.pw
 0.0.0.0 logger.su
 0.0.0.0 loggly.com
+0.0.0.0 log-hl.snssdk.com
 0.0.0.0 log-ird.outbrain.com
 0.0.0.0 log.mediacategory.com
 0.0.0.0 lognormal.net
 0.0.0.0 log.popin.cc
+0.0.0.0 log.snssdk.com
 0.0.0.0 logs.roku.com
 0.0.0.0 logsss.com
 0.0.0.0 logua.com
@@ -3452,6 +3474,7 @@
 0.0.0.0 matheranalytics.com
 0.0.0.0 mathtag.com
 0.0.0.0 mavq.net
+0.0.0.0 mawsewtow.com
 0.0.0.0 max-adserv.com
 0.0.0.0 maxonclick.com
 0.0.0.0 maxtracker.net
@@ -3569,6 +3592,7 @@
 0.0.0.0 minewhat.com
 0.0.0.0 minexmr.stream
 0.0.0.0 minisrclink.cool
+0.0.0.0 minkatu.com
 0.0.0.0 minr.pw
 0.0.0.0 mintake.com
 0.0.0.0 mirafaren.pw
@@ -3618,6 +3642,7 @@
 0.0.0.0 monetate.net
 0.0.0.0 moneymakercdn.com
 0.0.0.0 moneyplatform.biz
+0.0.0.0 moneypunchstep.online
 0.0.0.0 mongoosemetrics.com
 0.0.0.0 monitis.com
 0.0.0.0 monitor.phorm.com
@@ -3870,6 +3895,7 @@
 0.0.0.0 nsaudience.pl
 0.0.0.0 nsdfsfi1q8asdasdzz.com
 0.0.0.0 nstracking.com
+0.0.0.0 nta1vb6cdlrl.com
 0.0.0.0 ntdvjlvau.com
 0.0.0.0 ntlab.org
 0.0.0.0 ntosarang.com
@@ -3880,6 +3906,7 @@
 0.0.0.0 nuggad.net
 0.0.0.0 nuhwyavc.com
 0.0.0.0 numerino.cz
+0.0.0.0 nunailsum.com
 0.0.0.0 nurno.com
 0.0.0.0 nvmsa.top
 0.0.0.0 nvoepbzqtn.com
@@ -4064,6 +4091,7 @@
 0.0.0.0 outseeltor.com
 0.0.0.0 ov2ochu.bid
 0.0.0.0 ovalpigs.com
+0.0.0.0 overconfidentfood.com
 0.0.0.0 overreare.co
 0.0.0.0 overstat.com
 0.0.0.0 ovgzbnjj.com
@@ -4081,6 +4109,7 @@
 0.0.0.0 paddsup.com
 0.0.0.0 padsbrown.com
 0.0.0.0 padsims.com
+0.0.0.0 padslimz.com
 0.0.0.0 padspms.com
 0.0.0.0 pagefair.com
 0.0.0.0 page-hit.de
@@ -4882,6 +4911,7 @@
 0.0.0.0 searchstats.usa.gov
 0.0.0.0 seayipsex.com
 0.0.0.0 sebadu.com
+0.0.0.0 secureanalytic.com
 0.0.0.0 secureboom.net
 0.0.0.0 secure.iqmining.com
 0.0.0.0 securepaths.com
@@ -5192,6 +5222,7 @@
 0.0.0.0 stat08.com
 0.0.0.0 stat24.com
 0.0.0.0 stat24.ru
+0.0.0.0 statad.ru
 0.0.0.0 stat.analytiall.com
 0.0.0.0 statcount.com
 0.0.0.0 statcounter.com
@@ -5250,6 +5281,7 @@
 0.0.0.0 statsp.fpop.net
 0.0.0.0 statsrely.com
 0.0.0.0 statssheet.com
+0.0.0.0 stats.streamhub.io
 0.0.0.0 statstat888.com
 0.0.0.0 statsview.it
 0.0.0.0 statswave.com
@@ -5386,6 +5418,7 @@
 0.0.0.0 tagdelivery.com
 0.0.0.0 tag.getdrip.com
 0.0.0.0 tagifydiageo.com
+0.0.0.0 tagmanager.alright.network
 0.0.0.0 tagsrvcs.com
 0.0.0.0 tagtray.com
 0.0.0.0 tailtarget.com
@@ -5414,6 +5447,7 @@
 0.0.0.0 targetpush.co.kr
 0.0.0.0 target.ukr.net
 0.0.0.0 taskapi.net
+0.0.0.0 tattle.api.osano.com
 0.0.0.0 tauptaup.com
 0.0.0.0 taxel.jp
 0.0.0.0 t.booksuper.info
@@ -5461,6 +5495,7 @@
 0.0.0.0 thaihary.link
 0.0.0.0 thankswrite.com
 0.0.0.0 thauftoa.net
+0.0.0.0 thautsie.net
 0.0.0.0 theadex.com
 0.0.0.0 theads.me
 0.0.0.0 thebestgame2020.com
@@ -5762,6 +5797,7 @@
 0.0.0.0 ubutplho.com
 0.0.0.0 ubxnqtnnoljn.com
 0.0.0.0 ucheephu.com
+0.0.0.0 udkcrj.com
 0.0.0.0 udmlkmzjkob.co
 0.0.0.0 udockoan.net
 0.0.0.0 udorik.com
@@ -6076,6 +6112,7 @@
 0.0.0.0 webminerpool.com
 0.0.0.0 webmining.co
 0.0.0.0 webmobile.ws
+0.0.0.0 webpinp.com
 0.0.0.0 webpower.eu
 0.0.0.0 webprospector.de
 0.0.0.0 webseoanalytics.co.za
@@ -6156,6 +6193,7 @@
 0.0.0.0 wikiodeliv.com
 0.0.0.0 wilburshort.pro
 0.0.0.0 wildxtraffic.com
+0.0.0.0 willalland.info
 0.0.0.0 wilwasharrabred.pro
 0.0.0.0 windowmentaria.com
 0.0.0.0 winneradsmedia.com
@@ -6199,6 +6237,7 @@
 0.0.0.0 wstatslive.com
 0.0.0.0 wsxxu.com
 0.0.0.0 wtag.estlier.net
+0.0.0.0 wtdome.com
 0.0.0.0 wtdtjs.club
 0.0.0.0 wtdtjs.rocks
 0.0.0.0 wt-eu02.net
@@ -6258,6 +6297,7 @@
 0.0.0.0 xkjxgt.com
 0.0.0.0 xl-counti.com
 0.0.0.0 x.ligatus.com
+0.0.0.0 xlog.snssdk.com
 0.0.0.0 xl-trk.com
 0.0.0.0 xm0siulufost.com
 0.0.0.0 xmazvzvbqli.com
@@ -6423,6 +6463,7 @@
 0.0.0.0 zoacaups.net
 0.0.0.0 zoafoaho.net
 0.0.0.0 zoagremo.net
+0.0.0.0 zoaheeth.com
 0.0.0.0 zonolali.com
 0.0.0.0 zonvid.com
 0.0.0.0 zoomanalytics.co

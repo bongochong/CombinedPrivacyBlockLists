@@ -1,4 +1,4 @@
-# Wed 08 Jul 2020 07:55:04 AM MDT
+# Mon 13 Jul 2020 05:01:34 PM MDT
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -2973,7 +2973,6 @@
 0.0.0.0 asth.innity.com
 0.0.0.0 as-tlx.3lift.com
 0.0.0.0 astrsk.net
-0.0.0.0 a.stun.kaptcha.com
 0.0.0.0 as-v1.presage.io
 0.0.0.0 as-v1.prod.cloud.ogury.io
 0.0.0.0 as.y.atwola.com
@@ -3062,12 +3061,6 @@
 0.0.0.0 axislogger.appspot.com
 0.0.0.0 axmtrack.com
 0.0.0.0 axonix.com
-0.0.0.0 az361816.vo.msecnd.net
-0.0.0.0 az413505.vo.msecnd.net
-0.0.0.0 az416426.vo.msecnd.net
-0.0.0.0 az512334.vo.msecnd.net
-0.0.0.0 az598575.vo.msecnd.net
-0.0.0.0 az708531.vo.msecnd.net
 0.0.0.0 azcdn.criteo.net
 0.0.0.0 azcdn-preprod.criteo.net
 0.0.0.0 az-ue2.atemda.com
@@ -10358,7 +10351,6 @@
 0.0.0.0 snrtp1.marketo.com
 0.0.0.0 snrtp-cdn.marketo.com
 0.0.0.0 snssdk1233.onelink.me
-0.0.0.0 snssdk.com
 0.0.0.0 s.ntv.io
 0.0.0.0 s.nvrentao8.com
 0.0.0.0 sobar.baidu.com
@@ -10490,7 +10482,6 @@
 0.0.0.0 ssl-i.cdn.openx.com
 0.0.0.0 ss.linksynergy.com
 0.0.0.0 ssl-i.xx.openx.com
-0.0.0.0 ssl.kaptcha.com
 0.0.0.0 ssl.ligatus.com
 0.0.0.0 ssl.linksynergy.com
 0.0.0.0 ssl.lomadee.com
@@ -11620,7 +11611,6 @@
 0.0.0.0 t.skimresources.com
 0.0.0.0 tsrid.cxense.com
 0.0.0.0 ts.tdxio.com
-0.0.0.0 tst.kaptcha.com
 0.0.0.0 ts-tracker-env-2.us-east-1.elasticbeanstalk.com
 0.0.0.0 ts-tracker-env.us-east-1.elasticbeanstalk.com
 0.0.0.0 tt.adcocktail.com
