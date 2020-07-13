@@ -1,4 +1,4 @@
-// **** Wed 08 Jul 2020 07:58:05 AM MDT
+// **** Mon 13 Jul 2020 05:06:41 PM MDT
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0daygameparadise.com') ||
@@ -453,6 +453,7 @@ shExpMatch(host, '*.admerize.be') ||
 shExpMatch(host, '*.admeta.com') ||
 shExpMatch(host, '*.admex.com') ||
 shExpMatch(host, '*.adm.fwmrm.net') ||
+shExpMatch(host, '*.ad.mg') ||
 shExpMatch(host, '*.ad.mgd.de') ||
 shExpMatch(host, '*.admidadsp.com') ||
 shExpMatch(host, '*.adminder.com') ||
@@ -1209,6 +1210,7 @@ shExpMatch(host, '*.ad.tbn.ru') ||
 shExpMatch(host, '*.ad-tech.com') ||
 shExpMatch(host, '*.adtech.com') ||
 shExpMatch(host, '*.adtech.de') ||
+shExpMatch(host, '*.adtech-digital.ru') ||
 shExpMatch(host, '*.adtechjp.com') ||
 shExpMatch(host, '*.ad.technoratimedia.com') ||
 shExpMatch(host, '*.adtechus.com') ||
@@ -2275,6 +2277,7 @@ shExpMatch(host, '*.bouncyproperty.com') ||
 shExpMatch(host, '*.bountylore.com') ||
 shExpMatch(host, '*.bountywin.com') ||
 shExpMatch(host, '*.bowaq.ru') ||
+shExpMatch(host, '*.bowie-cdn.fathomdns.com') ||
 shExpMatch(host, '*.box.anchorfree.net') ||
 shExpMatch(host, '*.boxhillpaper.com') ||
 shExpMatch(host, '*.boxinghd.net') ||
@@ -2860,6 +2863,7 @@ shExpMatch(host, '*.click.kmindex.ru') ||
 shExpMatch(host, '*.clicklink.jp') ||
 shExpMatch(host, '*.clickmate.io') ||
 shExpMatch(host, '*.clickmedia.ro') ||
+shExpMatch(host, '*.click.negociosdigitaisnapratica.com.br') ||
 shExpMatch(host, '*.clickonometrics.pl') ||
 shExpMatch(host, '*.clicks.equantum.com') ||
 shExpMatch(host, '*.clickserve.cc-dt.com') ||
@@ -7306,6 +7310,7 @@ shExpMatch(host, '*.jamexistence.com') ||
 shExpMatch(host, '*.jaminfinity.tk') ||
 shExpMatch(host, '*.jasvud.ru') ||
 shExpMatch(host, '*.jatxt.com') ||
+shExpMatch(host, '*.jauchuwa.net') ||
 shExpMatch(host, '*.javainstall.org') ||
 shExpMatch(host, '*.jaxx.in') ||
 shExpMatch(host, '*.jaxx.site') ||
@@ -9235,6 +9240,7 @@ shExpMatch(host, '*.plantsvszombies2download.me') ||
 shExpMatch(host, '*.plantsvszombies2pc.com') ||
 shExpMatch(host, '*.plantszombies.newzgames.com') ||
 shExpMatch(host, '*.platformhub.wtf') ||
+shExpMatch(host, '*.plausible.io') ||
 shExpMatch(host, '*.play4traffic.com') ||
 shExpMatch(host, '*.playbattlegrounds.trade') ||
 shExpMatch(host, '*.play-beta.com') ||
@@ -9276,6 +9282,7 @@ shExpMatch(host, '*.playstationstorecodes.com') ||
 shExpMatch(host, '*.playtomic.com') ||
 shExpMatch(host, '*.playtoolz.com') ||
 shExpMatch(host, '*.play-voice.com') ||
+shExpMatch(host, '*.pleasantpump.com') ||
 shExpMatch(host, '*.plethoramobile.com') ||
 shExpMatch(host, '*.plista.com') ||
 shExpMatch(host, '*.plmma26extra.streams24.tv') ||
@@ -11468,6 +11475,7 @@ shExpMatch(host, '*.tracking.1-a1502-bi.co.uk') ||
 shExpMatch(host, '*.tracking.1-kv015-ap.co.uk') ||
 shExpMatch(host, '*.tracking.21-a4652-bi.co.uk') ||
 shExpMatch(host, '*.tracking22.com') ||
+shExpMatch(host, '*.tracking.42-01pr5-osm-secure.co.uk') ||
 shExpMatch(host, '*.tracking42.com') ||
 shExpMatch(host, '*.tracking.5-47737-bi.co.uk') ||
 shExpMatch(host, '*.tracking.crunchiemedia.com') ||
@@ -11482,6 +11490,7 @@ shExpMatch(host, '*.tracking.olx-st.com') ||
 shExpMatch(host, '*.tracking.publicidees.com') ||
 shExpMatch(host, '*.trackingsoft.com') ||
 shExpMatch(host, '*.tracking.yourfilehost.com') ||
+shExpMatch(host, '*.tracklink-tel.de') ||
 shExpMatch(host, '*.track.mailerlite.com') ||
 shExpMatch(host, '*.trackmysales.com') ||
 shExpMatch(host, '*.track.nuxues.com') ||
@@ -11692,6 +11701,7 @@ shExpMatch(host, '*.ubiquitoushacking.com') ||
 shExpMatch(host, '*.ucfiles.com') ||
 shExpMatch(host, '*.ucfunnel.com') ||
 shExpMatch(host, '*.ucrack.pw') ||
+shExpMatch(host, '*.udkcrj.com') ||
 shExpMatch(host, '*.udncoeln.com') ||
 shExpMatch(host, '*.ufc168.streams24.tv') ||
 shExpMatch(host, '*.ufc-streams.com') ||
@@ -13099,6 +13109,7 @@ shExpMatch(host, 'admerize.be') ||
 shExpMatch(host, 'admeta.com') ||
 shExpMatch(host, 'admex.com') ||
 shExpMatch(host, 'adm.fwmrm.net') ||
+shExpMatch(host, 'ad.mg') ||
 shExpMatch(host, 'ad.mgd.de') ||
 shExpMatch(host, 'admidadsp.com') ||
 shExpMatch(host, 'adminder.com') ||
@@ -13855,6 +13866,7 @@ shExpMatch(host, 'ad.tbn.ru') ||
 shExpMatch(host, 'ad-tech.com') ||
 shExpMatch(host, 'adtech.com') ||
 shExpMatch(host, 'adtech.de') ||
+shExpMatch(host, 'adtech-digital.ru') ||
 shExpMatch(host, 'adtechjp.com') ||
 shExpMatch(host, 'ad.technoratimedia.com') ||
 shExpMatch(host, 'adtechus.com') ||
@@ -14921,6 +14933,7 @@ shExpMatch(host, 'bouncyproperty.com') ||
 shExpMatch(host, 'bountylore.com') ||
 shExpMatch(host, 'bountywin.com') ||
 shExpMatch(host, 'bowaq.ru') ||
+shExpMatch(host, 'bowie-cdn.fathomdns.com') ||
 shExpMatch(host, 'box.anchorfree.net') ||
 shExpMatch(host, 'boxhillpaper.com') ||
 shExpMatch(host, 'boxinghd.net') ||
@@ -15506,6 +15519,7 @@ shExpMatch(host, 'click.kmindex.ru') ||
 shExpMatch(host, 'clicklink.jp') ||
 shExpMatch(host, 'clickmate.io') ||
 shExpMatch(host, 'clickmedia.ro') ||
+shExpMatch(host, 'click.negociosdigitaisnapratica.com.br') ||
 shExpMatch(host, 'clickonometrics.pl') ||
 shExpMatch(host, 'clicks.equantum.com') ||
 shExpMatch(host, 'clickserve.cc-dt.com') ||
@@ -19952,6 +19966,7 @@ shExpMatch(host, 'jamexistence.com') ||
 shExpMatch(host, 'jaminfinity.tk') ||
 shExpMatch(host, 'jasvud.ru') ||
 shExpMatch(host, 'jatxt.com') ||
+shExpMatch(host, 'jauchuwa.net') ||
 shExpMatch(host, 'javainstall.org') ||
 shExpMatch(host, 'jaxx.in') ||
 shExpMatch(host, 'jaxx.site') ||
@@ -21881,6 +21896,7 @@ shExpMatch(host, 'plantsvszombies2download.me') ||
 shExpMatch(host, 'plantsvszombies2pc.com') ||
 shExpMatch(host, 'plantszombies.newzgames.com') ||
 shExpMatch(host, 'platformhub.wtf') ||
+shExpMatch(host, 'plausible.io') ||
 shExpMatch(host, 'play4traffic.com') ||
 shExpMatch(host, 'playbattlegrounds.trade') ||
 shExpMatch(host, 'play-beta.com') ||
@@ -21922,6 +21938,7 @@ shExpMatch(host, 'playstationstorecodes.com') ||
 shExpMatch(host, 'playtomic.com') ||
 shExpMatch(host, 'playtoolz.com') ||
 shExpMatch(host, 'play-voice.com') ||
+shExpMatch(host, 'pleasantpump.com') ||
 shExpMatch(host, 'plethoramobile.com') ||
 shExpMatch(host, 'plista.com') ||
 shExpMatch(host, 'plmma26extra.streams24.tv') ||
@@ -24114,6 +24131,7 @@ shExpMatch(host, 'tracking.1-a1502-bi.co.uk') ||
 shExpMatch(host, 'tracking.1-kv015-ap.co.uk') ||
 shExpMatch(host, 'tracking.21-a4652-bi.co.uk') ||
 shExpMatch(host, 'tracking22.com') ||
+shExpMatch(host, 'tracking.42-01pr5-osm-secure.co.uk') ||
 shExpMatch(host, 'tracking42.com') ||
 shExpMatch(host, 'tracking.5-47737-bi.co.uk') ||
 shExpMatch(host, 'tracking.crunchiemedia.com') ||
@@ -24128,6 +24146,7 @@ shExpMatch(host, 'tracking.olx-st.com') ||
 shExpMatch(host, 'tracking.publicidees.com') ||
 shExpMatch(host, 'trackingsoft.com') ||
 shExpMatch(host, 'tracking.yourfilehost.com') ||
+shExpMatch(host, 'tracklink-tel.de') ||
 shExpMatch(host, 'track.mailerlite.com') ||
 shExpMatch(host, 'trackmysales.com') ||
 shExpMatch(host, 'track.nuxues.com') ||
@@ -24338,6 +24357,7 @@ shExpMatch(host, 'ubiquitoushacking.com') ||
 shExpMatch(host, 'ucfiles.com') ||
 shExpMatch(host, 'ucfunnel.com') ||
 shExpMatch(host, 'ucrack.pw') ||
+shExpMatch(host, 'udkcrj.com') ||
 shExpMatch(host, 'udncoeln.com') ||
 shExpMatch(host, 'ufc168.streams24.tv') ||
 shExpMatch(host, 'ufc-streams.com') ||
