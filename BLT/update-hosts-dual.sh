@@ -28,6 +28,8 @@ wget -nv -O hosts.8 "https://raw.githubusercontent.com/bongochong/CombinedPrivac
 echo "Downloaded hosts list 8"
 wget -nv -O hosts.9 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/adguard_dns-hosts.txt"
 echo "Downloaded hosts list 9"
+wget -nv -O hosts.10 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/piperun-hosts.txt"
+echo "Downloaded hosts list 10"
 echo "Parsing data..."
 cat hosts.* > hosts-cat.final
 pcregrep -v -f ~/BLT/parsing/hostpatterns.dat hosts-cat.final > hosts-pre.final
