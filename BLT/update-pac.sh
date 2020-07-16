@@ -19,7 +19,7 @@ wget -nv -O 5.pac "https://raw.githubusercontent.com/Spam404/lists/master/main-b
 wget -nv -O 6.pac "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=0&mimetype=plaintext"
 wget -nv -O 7.pac "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/piperun-hosts.txt"
 echo "Lists Downloaded. Now parsing..."
-cat *.pac | sed "s/#.*$//" | sed "/^$/d" | sed "/^Site$/d" | pcregrep -f ~/BLT/parsing/tld-filter.dat | sed "/ /d" | sort | uniq -i > pac-uniq.txt
+cat *.pac | sed "s/#.*$//" | sed "/^$/d" | sed "/^Site$/d" | pcregrep -f ~/BLT/parsing/tld-filter.dat | sed "/ /d" | sed "s/\(.*\)/\L\1/" | sort | uniq -i > pac-uniq.txt
 cp pac-uniq.txt pac-pre.txt
 cp pac-pre.txt pac-pre2.txt
 sed -i "s/^/*./" pac-pre.txt
