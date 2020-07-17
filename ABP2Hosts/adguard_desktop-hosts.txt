@@ -1,4 +1,4 @@
-# Mon 13 Jul 2020 06:40:33 PM MDT
+# Fri 17 Jul 2020 05:08:50 PM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 0351dvd.cn
@@ -784,6 +784,7 @@
 0.0.0.0 badsbads.com
 0.0.0.0 badshades.com
 0.0.0.0 badshores.com
+0.0.0.0 badsims.com
 0.0.0.0 badslopes.com
 0.0.0.0 badtopwitch.work
 0.0.0.0 bagbeam.com
@@ -3073,6 +3074,7 @@
 0.0.0.0 join.xlgirls.com
 0.0.0.0 jokoshep.com
 0.0.0.0 jomys.xyz
+0.0.0.0 joobuste.com
 0.0.0.0 joredi.com
 0.0.0.0 jorjodika.com
 0.0.0.0 jotchept.com
@@ -3102,7 +3104,6 @@
 0.0.0.0 jsid.info
 0.0.0.0 js.jianbaimei.com
 0.0.0.0 js.medi-8.net
-0.0.0.0 js.mediams.mb.softbank.jp
 0.0.0.0 js.mengheng.net
 0.0.0.0 js.monetize-ssp.com
 0.0.0.0 jsonip.com
@@ -3284,6 +3285,7 @@
 0.0.0.0 lhinsights.com
 0.0.0.0 lhzgqc.com
 0.0.0.0 liadm.com
+0.0.0.0 libedgolart.com
 0.0.0.0 libertystmedia.com
 0.0.0.0 libstat.com
 0.0.0.0 lifestyle24h.com
@@ -3515,6 +3517,7 @@
 0.0.0.0 mediaindex.ee
 0.0.0.0 medialogger.ru
 0.0.0.0 mediametrics.ru
+0.0.0.0 mediams.mb.softbank.jp
 0.0.0.0 mediaoaktree.com
 0.0.0.0 mediapeartree.com
 0.0.0.0 mediapixelnet.com
@@ -4451,7 +4454,9 @@
 0.0.0.0 psulsobi.net
 0.0.0.0 psurdoak.com
 0.0.0.0 psyma-statistics.com
+0.0.0.0 p.tanx.com
 0.0.0.0 ptashibu.com
+0.0.0.0 ptaughar.com
 0.0.0.0 ptawe.com
 0.0.0.0 p-td.com
 0.0.0.0 ptefautu.net
@@ -4660,6 +4665,7 @@
 0.0.0.0 redirecting.download
 0.0.0.0 redistats.com
 0.0.0.0 rednews.me
+0.0.0.0 redresseducatedage.com
 0.0.0.0 redstatcounter.com
 0.0.0.0 reedbusiness.net
 0.0.0.0 reedge.com
@@ -4921,6 +4927,7 @@
 0.0.0.0 sedotracker.de
 0.0.0.0 seedtag.com
 0.0.0.0 seehits.com
+0.0.0.0 seeptauw.net
 0.0.0.0 seewhy.com
 0.0.0.0 segment-analytics.com
 0.0.0.0 segment.com
@@ -6363,6 +6370,7 @@
 0.0.0.0 yesmaris.com
 0.0.0.0 yesra.xyz
 0.0.0.0 yessearches.com
+0.0.0.0 yetseefad.com
 0.0.0.0 ygsm.com
 0.0.0.0 yieldbot.com
 0.0.0.0 yieldify.com

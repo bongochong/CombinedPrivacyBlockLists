@@ -1,4 +1,4 @@
-# Mon 13 Jul 2020 06:41:19 PM MDT
+# Fri 17 Jul 2020 05:09:05 PM MDT
 # Spam404 Hosts - Generated weekly by bongochong
 0.0.0.0 0daygameparadise.com
 0.0.0.0 0hacks.com
@@ -355,7 +355,6 @@
 0.0.0.0 authorizeddns.net
 0.0.0.0 authorizeddns.org
 0.0.0.0 authorizeddns.us
-0.0.0.0 autobuy.io
 0.0.0.0 autolikefb.net
 0.0.0.0 avantcase.com
 0.0.0.0 avast.legratuits.com
@@ -1279,6 +1278,7 @@
 0.0.0.0 crunchmutt.com
 0.0.0.0 crushthecandy.com
 0.0.0.0 cryptodoubler.io
+0.0.0.0 cryptoforhealth.com
 0.0.0.0 crypto-loot.com
 0.0.0.0 cryptoxcash.com
 0.0.0.0 cryptoxlogy.com

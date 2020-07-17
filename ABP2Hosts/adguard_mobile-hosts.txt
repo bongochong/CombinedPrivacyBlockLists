@@ -1,4 +1,4 @@
-# Mon 13 Jul 2020 06:40:27 PM MDT
+# Fri 17 Jul 2020 05:08:46 PM MDT
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -5834,6 +5834,7 @@
 0.0.0.0 gb-gmtdmp.mookie1.com
 0.0.0.0 gbk-d.openx.net
 0.0.0.0 g.c.appier.net
+0.0.0.0 gcdsdk.appsflyer.com
 0.0.0.0 gc.ds.duapps.com
 0.0.0.0 gcelb.lytics.io
 0.0.0.0 gcm.ksmobile.com
@@ -10391,7 +10392,6 @@
 0.0.0.0 southwestairlines.sc.omtrdc.net
 0.0.0.0 southwestairlines.tt.omtrdc.net
 0.0.0.0 sozcu.pushwoosh.com
-0.0.0.0 sp0.baidu.com
 0.0.0.0 sp1.baidu.com
 0.0.0.0 sp.analytics.yahoo.com
 0.0.0.0 spanishdict-d.openx.net
