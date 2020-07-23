@@ -1,4 +1,4 @@
-# Fri 17 Jul 2020 05:08:50 PM MDT
+# Thu 23 Jul 2020 05:33:13 AM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 0351dvd.cn
@@ -575,6 +575,7 @@
 0.0.0.0 anametrix.net
 0.0.0.0 anatid3.com
 0.0.0.0 andarcair.club
+0.0.0.0 andarmair.club
 0.0.0.0 andersenit.dk
 0.0.0.0 andyhoppe.com
 0.0.0.0 anexia-it.com
@@ -583,6 +584,7 @@
 0.0.0.0 anhuilitian.net
 0.0.0.0 aniashboy.club
 0.0.0.0 anlclqrvbsk.co
+0.0.0.0 announcedvillainvaluable.com
 0.0.0.0 announcement.ru
 0.0.0.0 anonymousdmp.com
 0.0.0.0 anormal-tracker.de
@@ -803,6 +805,7 @@
 0.0.0.0 bannery.hledejceny.cz
 0.0.0.0 bapalolo.com
 0.0.0.0 bapaquac.com
+0.0.0.0 bapsel.com
 0.0.0.0 baptisttop1000.com
 0.0.0.0 barddfvgkhctch11.ru
 0.0.0.0 barilliance.net
@@ -843,6 +846,7 @@
 0.0.0.0 beemrdwn.com
 0.0.0.0 beencounter.com
 0.0.0.0 befirstcdn.com
+0.0.0.0 beget.com
 0.0.0.0 beglorena.com
 0.0.0.0 beharmalted.info
 0.0.0.0 behavioralengine.com
@@ -1116,6 +1120,7 @@
 0.0.0.0 call-tracking.co.uk
 0.0.0.0 calltrackingmetrics.com
 0.0.0.0 calltracks.com
+0.0.0.0 calmcactus.com
 0.0.0.0 calmfoot.com
 0.0.0.0 campadv.ga
 0.0.0.0 campaigncog.com
@@ -1219,6 +1224,7 @@
 0.0.0.0 chengyuplaza.com
 0.0.0.0 cherrythread.com
 0.0.0.0 chersoat.com
+0.0.0.0 chicaudo.com
 0.0.0.0 chickensstation.com
 0.0.0.0 chidsimp.com
 0.0.0.0 chiefcurrent.com
@@ -2087,6 +2093,7 @@
 0.0.0.0 enrilov.info
 0.0.0.0 e-n-t-e-r-n-e-x.com
 0.0.0.0 enticelabs.com
+0.0.0.0 enviousshape.com
 0.0.0.0 eonwayaha.com
 0.0.0.0 eoredi.com
 0.0.0.0 eo.sdahxz.xyz
@@ -2580,6 +2587,7 @@
 0.0.0.0 gopjn.com
 0.0.0.0 go.rcvlinks.com
 0.0.0.0 gorgeousground.com
+0.0.0.0 go.schjmp.com
 0.0.0.0 gosquared.com
 0.0.0.0 gostats.com
 0.0.0.0 gostats.de
@@ -2864,6 +2872,7 @@
 0.0.0.0 ifactz.com
 0.0.0.0 ifmnwi.club
 0.0.0.0 igaming.biz
+0.0.0.0 ignitiontigercamera.com
 0.0.0.0 igrid.org
 0.0.0.0 ihosetch.com
 0.0.0.0 ihowed.info
@@ -3314,6 +3323,7 @@
 0.0.0.0 lists-tracking.komando.com
 0.0.0.0 listtop.ru
 0.0.0.0 litix.io
+0.0.0.0 litourge.com
 0.0.0.0 livecounter.dk
 0.0.0.0 livecount.fr
 0.0.0.0 livehit.net
@@ -3653,6 +3663,7 @@
 0.0.0.0 monkeytracker.cz
 0.0.0.0 monu.delivery
 0.0.0.0 moonads.net
+0.0.0.0 moontuftboy.com
 0.0.0.0 moowouzy.net
 0.0.0.0 mopinion.com
 0.0.0.0 mopnixhem.com
@@ -3983,6 +3994,7 @@
 0.0.0.0 olineman.pro
 0.0.0.0 olswr.27684.club
 0.0.0.0 olxt.top
+0.0.0.0 omappapi.com
 0.0.0.0 omareeper.com
 0.0.0.0 omarsys.com
 0.0.0.0 omeda.com
@@ -4112,6 +4124,7 @@
 0.0.0.0 paddsup.com
 0.0.0.0 padsbrown.com
 0.0.0.0 padsims.com
+0.0.0.0 padsimz.com
 0.0.0.0 padslimz.com
 0.0.0.0 padspms.com
 0.0.0.0 pagefair.com
@@ -4473,6 +4486,7 @@
 0.0.0.0 publish.iptvz.net
 0.0.0.0 pukrazopchatka.com
 0.0.0.0 pulleymarketing.com
+0.0.0.0 pulsar.xlisting.jp
 0.0.0.0 pulselog.com
 0.0.0.0 pulsemaps.com
 0.0.0.0 puls.lv
@@ -5039,6 +5053,7 @@
 0.0.0.0 simrubwan.com
 0.0.0.0 sincerebuffalo.com
 0.0.0.0 sinceresofa.com
+0.0.0.0 sinceresubstance.com
 0.0.0.0 singlefeed.com
 0.0.0.0 singleice.link
 0.0.0.0 sinsoftu.com
@@ -5073,7 +5088,9 @@
 0.0.0.0 sitetraq.nl
 0.0.0.0 sixscissors.com
 0.0.0.0 sjsmartcontent.org
+0.0.0.0 sjunnwxixycbv.com
 0.0.0.0 skimresources.com
+0.0.0.0 skjdtkoqlvrhcn.com
 0.0.0.0 skyglue.com
 0.0.0.0 skylog.kz
 0.0.0.0 sl-ct5.com
@@ -5288,6 +5305,7 @@
 0.0.0.0 statsp.fpop.net
 0.0.0.0 statsrely.com
 0.0.0.0 statssheet.com
+0.0.0.0 stats-stats.in.net
 0.0.0.0 stats.streamhub.io
 0.0.0.0 statstat888.com
 0.0.0.0 statsview.it
@@ -5872,6 +5890,7 @@
 0.0.0.0 urlbrief.com
 0.0.0.0 urlife2all.com
 0.0.0.0 urlself.com
+0.0.0.0 urnawareflan.com
 0.0.0.0 urstats.de
 0.0.0.0 usabilitytools.com
 0.0.0.0 usabilla.com
@@ -5898,6 +5917,7 @@
 0.0.0.0 uymkdz9s.com
 0.0.0.0 uytestion.info
 0.0.0.0 uzekrs.com
+0.0.0.0 uziilrlvkiy.com
 0.0.0.0 uzk4umokyri3.com
 0.0.0.0 uzotarak.com
 0.0.0.0 uzrating.com
@@ -6266,6 +6286,7 @@
 0.0.0.0 wwwstats.info
 0.0.0.0 wxbdfm.com
 0.0.0.0 wxktv.cn
+0.0.0.0 wyclddhldiou.com
 0.0.0.0 wynather.com
 0.0.0.0 wysasys.com
 0.0.0.0 wysistat.com
