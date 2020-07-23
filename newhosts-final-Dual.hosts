@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 # This *must* be the first line: 127.0.0.1    localhost    #
 #                                                          #
 #**********************************************************#
-# ------------- Thu 23 Jul 2020 06:53:03 AM MDT ---------- #
+# ------------- Thu 23 Jul 2020 08:21:42 AM MDT ---------- #
 #**********************************************************#
 #                                                          #
 # Disclaimer: cow pigs won dogs on six for personal use    #
@@ -66510,7 +66510,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 www4.addfreestats.com
 0.0.0.0 www4.clustrmaps.com
 0.0.0.0 www4search.net
-0.0.0.0 www.4shared.com
 0.0.0.0 www4.smartadserver.com
 0.0.0.0 www5.addfreestats.com
 0.0.0.0 www5.afsanalytics.com
@@ -136786,7 +136785,6 @@ ff02::2 ip6-allrouters
 :: www4.addfreestats.com
 :: www4.clustrmaps.com
 :: www4search.net
-:: www.4shared.com
 :: www4.smartadserver.com
 :: www5.addfreestats.com
 :: www5.afsanalytics.com
