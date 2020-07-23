@@ -1,4 +1,4 @@
-# Thu 23 Jul 2020 05:33:30 AM MDT
+# Thu 23 Jul 2020 05:36:21 AM MDT
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 0026645142c89aeb1.com
