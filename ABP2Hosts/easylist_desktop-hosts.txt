@@ -1,4 +1,4 @@
-# Thu 23 Jul 2020 05:36:21 AM MDT
+# Thu 23 Jul 2020 06:28:19 AM MDT
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 0026645142c89aeb1.com
@@ -658,6 +658,7 @@
 0.0.0.0 4o64flb.com
 0.0.0.0 4oney.com
 0.0.0.0 4prgkoj870j9.com
+0.0.0.0 4rt6auqet2rx.com
 0.0.0.0 4s5n.cn
 0.0.0.0 4sbs7w33ozxwnn.com
 0.0.0.0 4smi.ru
@@ -4964,6 +4965,7 @@
 0.0.0.0 btnibbler.com
 0.0.0.0 btn.onlylady.com
 0.0.0.0 btn.pchome.net
+0.0.0.0 btnvlvt.cn
 0.0.0.0 btonzfjleinuax.com
 0.0.0.0 btovopyov.com
 0.0.0.0 btpnav.com
@@ -5358,6 +5360,7 @@
 0.0.0.0 cautiouscredit.com
 0.0.0.0 cavcz.com
 0.0.0.0 cavdzowr.com
+0.0.0.0 cawbarthe.com
 0.0.0.0 cawsodpet.club
 0.0.0.0 caxiqapecuop.com
 0.0.0.0 caxvm62zyz.com
@@ -16442,6 +16445,7 @@
 0.0.0.0 mubra.ru
 0.0.0.0 muchritfakethen.info
 0.0.0.0 mueyqvzw.com
+0.0.0.0 mugleafly.com
 0.0.0.0 mugpothop.com
 0.0.0.0 muhexvakuawzo.com
 0.0.0.0 mujap.com
@@ -27256,6 +27260,7 @@
 0.0.0.0 xn--2qu92fhtx4ff.video
 0.0.0.0 xn--2qu96gouvko1a.com
 0.0.0.0 xn--2qux23c9ziyrq.icu
+0.0.0.0 xn--2qux23c9ziyrq.ink
 0.0.0.0 xn--2qux23confgml.club
 0.0.0.0 xn--2quz8f01ak10c.shop
 0.0.0.0 xn--2ssq0ktxigkq.cc
