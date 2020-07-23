@@ -1,4 +1,4 @@
-// **** Fri 17 Jul 2020 05:10:43 PM MDT
+// **** Thu 23 Jul 2020 05:40:43 AM MDT
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0daygameparadise.com') ||
@@ -1309,6 +1309,7 @@ shExpMatch(host, '*.ad.wz.cz') ||
 shExpMatch(host, '*.adx.allstar.cz') ||
 shExpMatch(host, '*.adx.atnext.com') ||
 shExpMatch(host, '*.adx.gainesvillesun.com') ||
+shExpMatch(host, '*.adx.gayboy.at') ||
 shExpMatch(host, '*.ad.xiaomi.com') ||
 shExpMatch(host, '*.ad.xmovies8.si') ||
 shExpMatch(host, '*.adxpansion.com') ||
@@ -5050,6 +5051,7 @@ shExpMatch(host, '*.foxnews-tv.info') ||
 shExpMatch(host, '*.foxub.ru') ||
 shExpMatch(host, '*.fpctraffic2.com') ||
 shExpMatch(host, '*.fpctraffic.com') ||
+shExpMatch(host, '*.fpjs.io') ||
 shExpMatch(host, '*.fpstool.com') ||
 shExpMatch(host, '*.fqtag.com') ||
 shExpMatch(host, '*.fragmentserv.iac-online.de') ||
@@ -8915,8 +8917,10 @@ shExpMatch(host, '*.openmarket.com') ||
 shExpMatch(host, '*.open.oneplus.net') ||
 shExpMatch(host, '*.open-skins.space') ||
 shExpMatch(host, '*.opentag-stats.qubit.com') ||
+shExpMatch(host, '*.openx.actvtech.com') ||
 shExpMatch(host, '*.openx.angelsgroup.org.uk') ||
 shExpMatch(host, '*.openx.blindferret.com') ||
+shExpMatch(host, '*.openx.cairo360.com') ||
 shExpMatch(host, '*.openx.com') ||
 shExpMatch(host, '*.openx.smcaen.fr') ||
 shExpMatch(host, '*.operationkettle.com') ||
@@ -13966,6 +13970,7 @@ shExpMatch(host, 'ad.wz.cz') ||
 shExpMatch(host, 'adx.allstar.cz') ||
 shExpMatch(host, 'adx.atnext.com') ||
 shExpMatch(host, 'adx.gainesvillesun.com') ||
+shExpMatch(host, 'adx.gayboy.at') ||
 shExpMatch(host, 'ad.xiaomi.com') ||
 shExpMatch(host, 'ad.xmovies8.si') ||
 shExpMatch(host, 'adxpansion.com') ||
@@ -17707,6 +17712,7 @@ shExpMatch(host, 'foxnews-tv.info') ||
 shExpMatch(host, 'foxub.ru') ||
 shExpMatch(host, 'fpctraffic2.com') ||
 shExpMatch(host, 'fpctraffic.com') ||
+shExpMatch(host, 'fpjs.io') ||
 shExpMatch(host, 'fpstool.com') ||
 shExpMatch(host, 'fqtag.com') ||
 shExpMatch(host, 'fragmentserv.iac-online.de') ||
@@ -21572,8 +21578,10 @@ shExpMatch(host, 'openmarket.com') ||
 shExpMatch(host, 'open.oneplus.net') ||
 shExpMatch(host, 'open-skins.space') ||
 shExpMatch(host, 'opentag-stats.qubit.com') ||
+shExpMatch(host, 'openx.actvtech.com') ||
 shExpMatch(host, 'openx.angelsgroup.org.uk') ||
 shExpMatch(host, 'openx.blindferret.com') ||
+shExpMatch(host, 'openx.cairo360.com') ||
 shExpMatch(host, 'openx.com') ||
 shExpMatch(host, 'openx.smcaen.fr') ||
 shExpMatch(host, 'operationkettle.com') ||
