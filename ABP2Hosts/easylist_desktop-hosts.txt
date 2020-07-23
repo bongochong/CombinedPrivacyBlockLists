@@ -1,4 +1,4 @@
-# Thu 23 Jul 2020 06:28:19 AM MDT
+# Thu 23 Jul 2020 02:23:30 PM MDT
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 0026645142c89aeb1.com
@@ -3312,6 +3312,7 @@
 0.0.0.0 ar1nvz5.com
 0.0.0.0 a.raasnet.com
 0.0.0.0 aralego.com
+0.0.0.0 aralego.net
 0.0.0.0 arana.pw
 0.0.0.0 aranlucas.pro
 0.0.0.0 arasyqslwmfat.com
@@ -4718,6 +4719,7 @@
 0.0.0.0 bnzxc.xyz
 0.0.0.0 boaawvdg.com
 0.0.0.0 boafabie.com
+0.0.0.0 boajagoar.com
 0.0.0.0 boardx.huanqiu.com
 0.0.0.0 boashesu.net
 0.0.0.0 bobarilla.com
@@ -6981,6 +6983,7 @@
 0.0.0.0 d1ilwohzbe4ao6.cloudfront.net
 0.0.0.0 d1jnvfp2m6fzvq.cloudfront.net
 0.0.0.0 d1ks8roequxbwa.cloudfront.net
+0.0.0.0 d1lxz4vuik53pc.cloudfront.net
 0.0.0.0 d1m6l9dfulcyw7.cloudfront.net
 0.0.0.0 d1mbgf0ge24riu.cloudfront.net
 0.0.0.0 d1mbihpm2gncx7.cloudfront.net
@@ -9491,6 +9494,7 @@
 0.0.0.0 feidalu.com
 0.0.0.0 feidhartaime.pro
 0.0.0.0 feifish66.com
+0.0.0.0 feimotailan.cn
 0.0.0.0 feipaihehuoren.cn
 0.0.0.0 feisia1.cn
 0.0.0.0 feitiesogates.fun
@@ -10864,6 +10868,7 @@
 0.0.0.0 googlealiyun.cn
 0.0.0.0 googleanalytcs.com
 0.0.0.0 googleapls.ru
+0.0.0.0 googleoptimize.com
 0.0.0.0 googlerank.info
 0.0.0.0 google-rank.org
 0.0.0.0 googlespider1.cn
@@ -11128,6 +11133,7 @@
 0.0.0.0 gudlhvxz.com
 0.0.0.0 guduopu.com
 0.0.0.0 gueqndbe.com
+0.0.0.0 gueselambe.club
 0.0.0.0 guess.h.qhimg.com
 0.0.0.0 gueur.com
 0.0.0.0 gueurs.com
@@ -11522,6 +11528,7 @@
 0.0.0.0 herordearhem.info
 0.0.0.0 herowebads.com
 0.0.0.0 herreperolsof.pro
+0.0.0.0 herscryptia.info
 0.0.0.0 hertforthatharrigh.pro
 0.0.0.0 hesepd.cn
 0.0.0.0 heshunjituan.com
@@ -19873,6 +19880,7 @@
 0.0.0.0 px69z.cn
 0.0.0.0 pxaction.com
 0.0.0.0 pxbryexcnyz.com
+0.0.0.0 px-cdn.net
 0.0.0.0 pxchk.net
 0.0.0.0 px-cloud.net
 0.0.0.0 pxcveedcuzy.com
@@ -21287,7 +21295,6 @@
 0.0.0.0 ruinfoblog.com
 0.0.0.0 rukwbbwcil.com
 0.0.0.0 rumanalytics.com
-0.0.0.0 rumble.com
 0.0.0.0 rum.conde.io
 0.0.0.0 rumimorigu.info
 0.0.0.0 rumldlbbkhetyv.com
@@ -22421,6 +22428,7 @@
 0.0.0.0 soagrist.net
 0.0.0.0 soalouve.com
 0.0.0.0 soapsoab.com
+0.0.0.0 so.auto999.cn
 0.0.0.0 soazooge.com
 0.0.0.0 sobolong.com
 0.0.0.0 socdm.com
@@ -24115,6 +24123,7 @@
 0.0.0.0 torrent-rutor.eu
 0.0.0.0 torrent-rutor.pl
 0.0.0.0 torrida.net
+0.0.0.0 torsperience.club
 0.0.0.0 tortdiscreets.club
 0.0.0.0 toruk.tanx.com
 0.0.0.0 torvind.com
@@ -25246,6 +25255,7 @@
 0.0.0.0 urdercomp.space
 0.0.0.0 uremechangec.info
 0.0.0.0 urercontalproces.info
+0.0.0.0 ureresponsbrit.club
 0.0.0.0 ureticrelingse.top
 0.0.0.0 urfdvrrg.com
 0.0.0.0 urgwritishimpos.info
@@ -25491,6 +25501,7 @@
 0.0.0.0 vast.videocdn.tv
 0.0.0.0 vatizon.com
 0.0.0.0 vatname.info
+0.0.0.0 vatskaylittl.club
 0.0.0.0 vaultwrite.com
 0.0.0.0 vaxaqngzs3.com
 0.0.0.0 vaygzgvc.com
