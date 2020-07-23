@@ -1,4 +1,4 @@
-# Thu 23 Jul 2020 02:23:30 PM MDT
+# Thu 23 Jul 2020 04:48:00 PM MDT
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 0026645142c89aeb1.com
@@ -4359,6 +4359,7 @@
 0.0.0.0 bfvkxdhrnx.com
 0.0.0.0 bfxachbubcki.com
 0.0.0.0 bg6s0.com
+0.0.0.0 bg9ugav5tik0mbh7n9ca.pro
 0.0.0.0 bgchxhhzdee.com
 0.0.0.0 bgcse.cn
 0.0.0.0 bgfdrngowyy.com
@@ -26994,6 +26995,7 @@
 0.0.0.0 xaogi.com
 0.0.0.0 xaoglctewqvhi.com
 0.0.0.0 xasuekjguyub.com
+0.0.0.0 xatczs.cn
 0.0.0.0 xauhsixqkymkra.com
 0.0.0.0 xauthorous.club
 0.0.0.0 xavingtsun.com
