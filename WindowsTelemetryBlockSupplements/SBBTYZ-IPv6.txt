@@ -1,7 +1,7 @@
 #Anti-Telemetry Hosts for Windows from TYZBIT, CrazyMax and SpyBot Anti-Beacon
 #IPv6 Version
 #Included in default hosts file
-#Last update 6/07/2020
+#Last update 7/23/2020
 
 :: a.ads1.msn.com
 :: a.ads2.msads.net
@@ -29,6 +29,8 @@
 :: bl3301-a.1drv.com
 :: bl3301-c.1drv.com
 :: bl3301-g.1drv.com
+:: bn2-ris-ap-prod-atm.trafficmanager.net
+:: bn2-ris-prod-atm.trafficmanager.net
 :: bn2b-cor001.api.p001.1drv.com
 :: bn2b-cor002.api.p001.1drv.com
 :: bn2b-cor003.api.p001.1drv.com
@@ -319,6 +321,7 @@
 :: i1.services.social.microsoft.com.nsatc.net
 :: ieonlinews.microsoft.com
 :: ieonlinews.trafficmanager.net
+:: insideruser.trafficmanager.net
 :: lb1.www.ms.akadns.net
 :: live.rads.msn.com
 :: m.adnxs.com
