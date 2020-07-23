@@ -1,4 +1,4 @@
-// **** Thu 23 Jul 2020 06:53:29 AM MDT
+// **** Thu 23 Jul 2020 02:27:11 PM MDT
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0daygameparadise.com') ||
@@ -140,6 +140,7 @@ shExpMatch(host, '*.a.0day.kiev.ua') ||
 shExpMatch(host, '*.a135.wftv.com') ||
 shExpMatch(host, '*.a1hacks.com') ||
 shExpMatch(host, '*.a32.g.a.yimg.com') ||
+shExpMatch(host, '*.a5.overclockers.ua') ||
 shExpMatch(host, '*.a9.com') ||
 shExpMatch(host, '*.aaddzz.com') ||
 shExpMatch(host, '*.a-ads.com') ||
@@ -1503,6 +1504,7 @@ shExpMatch(host, '*.analyticsapi.happypancake.net') ||
 shExpMatch(host, '*.analytics.bitrix.info') ||
 shExpMatch(host, '*.analytics.cloudron.io') ||
 shExpMatch(host, '*.analytics.cohesionapps.com') ||
+shExpMatch(host, '*.analytics.dnsfilter.com') ||
 shExpMatch(host, '*.analytics.ext.go-tellm.com') ||
 shExpMatch(host, '*.analytics.google.com') ||
 shExpMatch(host, '*.analytics.htmedia.in') ||
@@ -4261,6 +4263,7 @@ shExpMatch(host, '*.energeticexample.com') ||
 shExpMatch(host, '*.energeticladybug.com') ||
 shExpMatch(host, '*.energy-loot.com') ||
 shExpMatch(host, '*.engagebdr.com') ||
+shExpMatch(host, '*.engage.dnsfilter.com') ||
 shExpMatch(host, '*.engine.awaps.net') ||
 shExpMatch(host, '*.engine.espace.netavenir.com') ||
 shExpMatch(host, '*.enginenetwork.com') ||
@@ -12801,6 +12804,7 @@ shExpMatch(host, 'a.0day.kiev.ua') ||
 shExpMatch(host, 'a135.wftv.com') ||
 shExpMatch(host, 'a1hacks.com') ||
 shExpMatch(host, 'a32.g.a.yimg.com') ||
+shExpMatch(host, 'a5.overclockers.ua') ||
 shExpMatch(host, 'a9.com') ||
 shExpMatch(host, 'aaddzz.com') ||
 shExpMatch(host, 'a-ads.com') ||
@@ -14164,6 +14168,7 @@ shExpMatch(host, 'analyticsapi.happypancake.net') ||
 shExpMatch(host, 'analytics.bitrix.info') ||
 shExpMatch(host, 'analytics.cloudron.io') ||
 shExpMatch(host, 'analytics.cohesionapps.com') ||
+shExpMatch(host, 'analytics.dnsfilter.com') ||
 shExpMatch(host, 'analytics.ext.go-tellm.com') ||
 shExpMatch(host, 'analytics.google.com') ||
 shExpMatch(host, 'analytics.htmedia.in') ||
@@ -16922,6 +16927,7 @@ shExpMatch(host, 'energeticexample.com') ||
 shExpMatch(host, 'energeticladybug.com') ||
 shExpMatch(host, 'energy-loot.com') ||
 shExpMatch(host, 'engagebdr.com') ||
+shExpMatch(host, 'engage.dnsfilter.com') ||
 shExpMatch(host, 'engine.awaps.net') ||
 shExpMatch(host, 'engine.espace.netavenir.com') ||
 shExpMatch(host, 'enginenetwork.com') ||
