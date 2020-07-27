@@ -1,4 +1,4 @@
-# Thu 23 Jul 2020 04:47:52 PM MDT
+# Sun 26 Jul 2020 07:39:53 PM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 00bloggers.ru
@@ -107,6 +107,7 @@
 0.0.0.0 2d7bd9e6eb370143.com
 0.0.0.0 2da2.ru
 0.0.0.0 2e27bf1f09307aeb.com
+0.0.0.0 2gwzdkjrtb.ru
 0.0.0.0 2hanwriten.com
 0.0.0.0 2iiyrxk0.com
 0.0.0.0 2iui01.com
@@ -586,6 +587,7 @@
 0.0.0.0 ad.outstream.today
 0.0.0.0 ad.oyy.ru
 0.0.0.0 adpartner.pro
+0.0.0.0 adpaths.com
 0.0.0.0 adpay.network
 0.0.0.0 adpeepshosted.com
 0.0.0.0 ad.pentabox.net
@@ -835,6 +837,7 @@
 0.0.0.0 adwods.com
 0.0.0.0 adwolf.ru
 0.0.0.0 adword.ge
+0.0.0.0 adwstats.com
 0.0.0.0 adxadtracker.com
 0.0.0.0 adx.com.ru
 0.0.0.0 adxgeeks.com
@@ -3552,6 +3555,7 @@
 0.0.0.0 dragzebra.com
 0.0.0.0 drakorindo.club
 0.0.0.0 dramatical.online
+0.0.0.0 dr.atwoodubre.com
 0.0.0.0 drda5yf9kgz5p.cloudfront.net
 0.0.0.0 dreamcounter.de
 0.0.0.0 dreamlog.ru
@@ -3775,6 +3779,7 @@
 0.0.0.0 elephant.fotostrana.ru
 0.0.0.0 elephantqueue.com
 0.0.0.0 elevoy.ru
+0.0.0.0 elijahlio.com
 0.0.0.0 eliterudating.com
 0.0.0.0 elite-s001.com
 0.0.0.0 elitics.com
@@ -3951,6 +3956,7 @@
 0.0.0.0 evadavdsp.pro
 0.0.0.0 evaff.com
 0.0.0.0 evanetpro.com
+0.0.0.0 evangelineang.com
 0.0.0.0 evantative.top
 0.0.0.0 evemasoil.com
 0.0.0.0 event.condenastdigital.com
@@ -3961,6 +3967,7 @@
 0.0.0.0 eventlog.inspsearch.com
 0.0.0.0 eventlog.jackpot.de
 0.0.0.0 eventlog.outbrain.com
+0.0.0.0 event.prod.bidr.io
 0.0.0.0 event-reporting-dot-webylytics.appspot.com
 0.0.0.0 events.apester.com
 0.0.0.0 events.artirix.com
@@ -4141,6 +4148,7 @@
 0.0.0.0 fe.feedbackrights.com
 0.0.0.0 fegortius.com
 0.0.0.0 felix.data.tm-awx.com
+0.0.0.0 fenailany.com
 0.0.0.0 ferank.fr
 0.0.0.0 fermerrekrb.bid
 0.0.0.0 fer-ta.com
@@ -4263,6 +4271,7 @@
 0.0.0.0 fortsould.pro
 0.0.0.0 fortuka.com
 0.0.0.0 forum.globusevent.ru
+0.0.0.0 fosterheiressdug.com
 0.0.0.0 fotocash.ru
 0.0.0.0 fotrento.com
 0.0.0.0 fotw.xyz
@@ -5295,6 +5304,7 @@
 0.0.0.0 innorame.com
 0.0.0.0 innovateads.com
 0.0.0.0 inphonic.com
+0.0.0.0 inpiza.com
 0.0.0.0 inpref.com
 0.0.0.0 inpwrd.com
 0.0.0.0 inquisition.goguardian.com
@@ -6911,6 +6921,7 @@
 0.0.0.0 myonionsoup.com
 0.0.0.0 myonlineanalytics.com
 0.0.0.0 mypagerank.net
+0.0.0.0 mypagestats.online
 0.0.0.0 mypictures-onlinegood.info
 0.0.0.0 mypictures-onlinemaxpark.info
 0.0.0.0 mypictures-versii.info
@@ -7611,6 +7622,7 @@
 0.0.0.0 panther.goguardian.com
 0.0.0.0 pa-oa.com
 0.0.0.0 papatyrodum.com
+0.0.0.0 papawdadoton.com
 0.0.0.0 papoto.com
 0.0.0.0 parabit.ru
 0.0.0.0 parabolla.net
@@ -8019,6 +8031,7 @@
 0.0.0.0 postlnk.com
 0.0.0.0 post.rmbn.net
 0.0.0.0 post.rmbn.ru
+0.0.0.0 pouluwie.net
 0.0.0.0 poweradcash.net
 0.0.0.0 power.adhacker.online
 0.0.0.0 powerbar-pagerank.de
@@ -8891,6 +8904,7 @@
 0.0.0.0 s3s-main.net
 0.0.0.0 s4block.com
 0.0.0.0 s4r.tut.by
+0.0.0.0 s6mf2ru8h1.ru
 0.0.0.0 s6w.de
 0.0.0.0 s7c66wkh8k.com
 0.0.0.0 s85n4btydl.online
@@ -9271,6 +9285,7 @@
 0.0.0.0 slot-888.ru
 0.0.0.0 slowpoker.ru
 0.0.0.0 sls2.loisirsencheres.com
+0.0.0.0 smallbeginner.com
 0.0.0.0 smallseotools.com
 0.0.0.0 s-manager.com
 0.0.0.0 smart2cnjuh34jb.com
@@ -9290,6 +9305,7 @@
 0.0.0.0 smashseek.com
 0.0.0.0 smentcirrhoea.club
 0.0.0.0 smetrics.marriott.com
+0.0.0.0 smetrics.nfl.com
 0.0.0.0 smetrics.uhc.com
 0.0.0.0 smfsvc.com
 0.0.0.0 smigid.ru
@@ -11509,6 +11525,7 @@
 0.0.0.0 web-counter.net
 0.0.0.0 webcounter.ws
 0.0.0.0 web.dle-news.pw
+0.0.0.0 webed.dm-event.net
 0.0.0.0 webed.dm.gg
 0.0.0.0 webengage.com
 0.0.0.0 weberotic.net
@@ -11725,6 +11742,7 @@
 0.0.0.0 worldlogger.com
 0.0.0.0 worldmapd.online
 0.0.0.0 worldofrest.com.ua
+0.0.0.0 woryuc.com
 0.0.0.0 wowanalytics.co.uk
 0.0.0.0 wowboom2.ru
 0.0.0.0 wowlink.ru
@@ -12014,6 +12032,7 @@
 0.0.0.0 yndxstat.ru
 0.0.0.0 ynopkisq.com
 0.0.0.0 ynwia.com
+0.0.0.0 ynyy83za4i.ru
 0.0.0.0 yoads.net
 0.0.0.0 yoads.network
 0.0.0.0 yoc.younited-credit.com

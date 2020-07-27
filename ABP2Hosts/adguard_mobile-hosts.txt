@@ -1,4 +1,4 @@
-# Thu 23 Jul 2020 04:47:42 PM MDT
+# Sun 26 Jul 2020 07:39:42 PM MDT
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -2514,7 +2514,6 @@
 0.0.0.0 api.taps.io
 0.0.0.0 api.tapstream.com
 0.0.0.0 api.theadex.com
-0.0.0.0 api.tinypass.com
 0.0.0.0 api.toboads.com
 0.0.0.0 api.tusdk.com
 0.0.0.0 api.uca.cloud.unity3d.com
@@ -2530,7 +2529,6 @@
 0.0.0.0 apiv2mumbai.moengage.com
 0.0.0.0 apiv3india.moengage.com
 0.0.0.0 apiv3.moengage.com
-0.0.0.0 api-v3.tinypass.com
 0.0.0.0 apiv4.subiz.com
 0.0.0.0 api.veritix.com
 0.0.0.0 api.verticalscope.com
@@ -3453,7 +3451,6 @@
 0.0.0.0 buttons.googlesyndication.com
 0.0.0.0 buyhitscheap.com
 0.0.0.0 buysellads.com
-0.0.0.0 buy.tinypass.com
 0.0.0.0 buzzad.io
 0.0.0.0 buzzcity.net
 0.0.0.0 buzzfeed.amp.permutive.com
@@ -3873,7 +3870,6 @@
 0.0.0.0 cdn.taptica.com
 0.0.0.0 cdn.teads.tv
 0.0.0.0 cdn.thumbs.glispa.com
-0.0.0.0 cdn.tinypass.com
 0.0.0.0 cdn-traffic-director.krxd.net
 0.0.0.0 cdn.tremorhub.com
 0.0.0.0 cdn.unityads.unity3d.com
@@ -5679,7 +5675,6 @@
 0.0.0.0 folder.adfuture.cn
 0.0.0.0 folder.adsunflower.com
 0.0.0.0 folder.advmob.cn
-0.0.0.0 fonts.tinypass.com
 0.0.0.0 footerroll.admedia.com
 0.0.0.0 forbes.media.net
 0.0.0.0 forecast.analytiall.com
@@ -6384,7 +6379,6 @@
 0.0.0.0 ids.cdnwidget.com
 0.0.0.0 idsync.reson8.com
 0.0.0.0 idsync.rlcdn.com
-0.0.0.0 id.tinypass.com
 0.0.0.0 ifc.auth.inmobi.com
 0.0.0.0 iflscience-d.openx.net
 0.0.0.0 iframe-dsa.fyber.com
@@ -8680,7 +8674,6 @@
 0.0.0.0 phone-arena-d.openx.net
 0.0.0.0 photobucket.adnxs.com
 0.0.0.0 phunware.com
-0.0.0.0 piano.io
 0.0.0.0 piccdn.igetget.com
 0.0.0.0 pie.adcolony.com
 0.0.0.0 pilot.civicscience.com
@@ -9051,7 +9044,6 @@
 0.0.0.0 publisher-event.ads.prd.ie.internal.unity3d.com
 0.0.0.0 publisher-event.unityads.unity3d.com
 0.0.0.0 publisher.media.net
-0.0.0.0 publisher.piano.io
 0.0.0.0 publisherportal.doubleclick.net
 0.0.0.0 publisher-reporting-api.fyber.com
 0.0.0.0 publishers.adtrue.com
@@ -9777,7 +9769,6 @@
 0.0.0.0 sdk.e.qq.com
 0.0.0.0 sdk-events.inner-active.mobi
 0.0.0.0 sdkevents.zapr.in
-0.0.0.0 sdk.fevo.com
 0.0.0.0 sdk.fiksu.com
 0.0.0.0 sdk.fitle.com
 0.0.0.0 sdk.follow-apps.com
