@@ -29698,6 +29698,8 @@ grant-skins.com
 granturismo.console2pc.info
 grapeshot.co.uk
 grapheffect.com
+graph.facebook.com
+graph.instagram.com
 graphics1.sextracker.com
 graphics2.sextracker.com
 graphics.medleyads.com
@@ -49542,7 +49544,6 @@ pushazer.com
 pushbaddy.com
 pushbasic.com
 pushbird.com
-pushbullet.com
 pushcloud.org
 pushdi.com
 pushdom.co
@@ -65250,7 +65251,6 @@ walgreens.sc.omtrdc.net
 walgrns.112.2o7.net
 walkingdead.movie24.tv
 wall.adgaterewards.com
-wallet-api.urbanairship.com
 wallhackblackops2.com
 wallpapers91.com
 wallpapersfacts.com
