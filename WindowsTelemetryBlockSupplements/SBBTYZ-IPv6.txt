@@ -227,6 +227,8 @@
 :: geo.settings-win.data.microsoft.com.akadns.net
 :: geo.settings.data.microsoft.com.akadns.net
 :: geo.vortex.data.microsoft.com.akadns.net
+:: graph.facebook.com
+:: graph.instagram.com
 :: h1.msn.com
 :: h2.msn.com
 :: hk2.settings.data.microsoft.com.akadns.net
