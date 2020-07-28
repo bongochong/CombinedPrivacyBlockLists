@@ -66,6 +66,7 @@ pic.twitter.com
 platform.twitter.com
 play.spotify.com
 plex.tv
+pushbullet.com
 raw.githubusercontent.com
 search.twitter.com
 secure.netflix.com
@@ -92,6 +93,7 @@ userstream.twitter.com
 whispersystems.org
 winhelp2002.mvps.org
 wix.com
+wallet-api.urbanairship.com
 www.4shared.com
 www.countryflags.io
 www.staradvertiser.com
