@@ -12156,7 +12156,6 @@
 0.0.0.0 wa.koowo.com
 0.0.0.0 wa.kuwo.cn
 0.0.0.0 wall.adgaterewards.com
-0.0.0.0 wallet-api.urbanairship.com
 0.0.0.0 wap-click.com
 0.0.0.0 waps.cn
 0.0.0.0 wapstart.ru

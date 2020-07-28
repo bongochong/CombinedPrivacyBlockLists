@@ -19841,7 +19841,6 @@
 0.0.0.0 pushbaddy.com
 0.0.0.0 pushbasic.com
 0.0.0.0 pushbird.com
-0.0.0.0 pushbullet.com
 0.0.0.0 pushdom.co
 0.0.0.0 pushdusk.com
 0.0.0.0 pushego.com
@@ -25323,7 +25322,6 @@
 0.0.0.0 uqyatperdvczfw.com
 0.0.0.0 uralap.com
 0.0.0.0 uralweb.ru
-0.0.0.0 urbanairship.com
 0.0.0.0 urcakbypjfvsq.com
 0.0.0.0 urchrevening.info
 0.0.0.0 urc.taboolasyndication.com
