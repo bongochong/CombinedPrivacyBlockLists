@@ -1,4 +1,4 @@
-# Sun 26 Jul 2020 07:39:42 PM MDT
+# Wed 05 Aug 2020 12:47:39 AM MDT
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -461,6 +461,7 @@
 0.0.0.0 4768.content.swrve.com
 0.0.0.0 4771.api.swrve.com
 0.0.0.0 4771.content.swrve.com
+0.0.0.0 489a19fa-d831-4954-858d-46436d5cdb20.event.collector.scopely.io
 0.0.0.0 4984.engine.mobileapptracking.com
 0.0.0.0 4.afs.googleadservices.com
 0.0.0.0 4d83.playfabapi.com
@@ -2638,7 +2639,6 @@
 0.0.0.0 app.bugreplay.com
 0.0.0.0 app.cision.com
 0.0.0.0 appclick.co
-0.0.0.0 app.clickdimensions.com
 0.0.0.0 appclick.net
 0.0.0.0 appclick.rqmob.com
 0.0.0.0 app.clickyab.com
@@ -2656,7 +2656,6 @@
 0.0.0.0 appengage-video.sponsorpay.com
 0.0.0.0 appengage-video-staging.fyber.com
 0.0.0.0 appetizers.appsee.com
-0.0.0.0 app-eu.clickdimensions.com
 0.0.0.0 appevents.impactradius.com
 0.0.0.0 appfireworks.com
 0.0.0.0 appflood.com
@@ -3022,6 +3021,7 @@
 0.0.0.0 au-gmtdmp.gd3.mookie1.com
 0.0.0.0 au-gmtdmp.mookie1.com
 0.0.0.0 augur.io
+0.0.0.0 auiopt.unityads.unity3d.com
 0.0.0.0 a.unbounce.com
 0.0.0.0 au.res.keymedia.com
 0.0.0.0 a-usa.applovin.com
@@ -5221,8 +5221,6 @@
 0.0.0.0 elephantdata.net
 0.0.0.0 e.ligatus.com
 0.0.0.0 eligibility.wootric.com
-0.0.0.0 elink.clickdimensions.com
-0.0.0.0 elinkeu.clickdimensions.com
 0.0.0.0 elitedaily-d.openx.net
 0.0.0.0 e.logrocket.com
 0.0.0.0 elonezet.netadclick.com
@@ -5622,8 +5620,6 @@
 0.0.0.0 filecdn2.ad.dotandad.com
 0.0.0.0 files.adform.net
 0.0.0.0 files.appsgeyser.com
-0.0.0.0 files.clickdimensions.com
-0.0.0.0 files-eu.clickdimensions.com
 0.0.0.0 files.innovid.com
 0.0.0.0 files.revcontent.com
 0.0.0.0 filev4.subiz.com
@@ -7409,6 +7405,7 @@
 0.0.0.0 mathid-origin.mathtag.com
 0.0.0.0 mathtag.com
 0.0.0.0 matomy.com
+0.0.0.0 matrix.dailyinnovation.biz
 0.0.0.0 ma.tune.com
 0.0.0.0 maudau.com
 0.0.0.0 mau.mobincube.com
@@ -12156,6 +12153,7 @@
 0.0.0.0 wa.koowo.com
 0.0.0.0 wa.kuwo.cn
 0.0.0.0 wall.adgaterewards.com
+0.0.0.0 wallet-api.urbanairship.com
 0.0.0.0 wap-click.com
 0.0.0.0 waps.cn
 0.0.0.0 wapstart.ru
@@ -12535,6 +12533,7 @@
 0.0.0.0 z.optmnstr.com
 0.0.0.0 zplayer.trk.zapps.vn
 0.0.0.0 zplayer-trk.zdn.vn
+0.0.0.0 ztevents.zaloapp.com
 0.0.0.0 zucks.co.jp
 0.0.0.0 zucks.net
 0.0.0.0 zumobi.com
