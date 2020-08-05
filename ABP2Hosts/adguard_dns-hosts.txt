@@ -1,4 +1,4 @@
-# Wed 05 Aug 2020 12:53:50 AM MDT
+# Wed 05 Aug 2020 01:08:38 PM MDT
 # AdGuard DNS Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 0026645142c89aeb1.com
@@ -280,6 +280,7 @@
 0.0.0.0 1el-1el-fie.com
 0.0.0.0 1elllwrite.com
 0.0.0.0 1empiredirect.com
+0.0.0.0 1ex4oemg99mv.com
 0.0.0.0 1f58098dd54.com
 0.0.0.0 1f7de8569ea97f0614.com
 0.0.0.0 1.feihua.com
@@ -802,6 +803,7 @@
 0.0.0.0 53txs.com
 0.0.0.0 544bd1e82a9c8c39.com
 0.0.0.0 54kefu.net
+0.0.0.0 550b3ikb9j.com
 0.0.0.0 550tg.com
 0.0.0.0 551f044b1a3f4ef.com
 0.0.0.0 5535aibo.com
@@ -1212,6 +1214,7 @@
 0.0.0.0 8livevn.com
 0.0.0.0 8mb4qkd74cht.com
 0.0.0.0 8mlb.cn
+0.0.0.0 8po6fdwjsym3.com
 0.0.0.0 8q2g560ynxlkz9rm.in.net
 0.0.0.0 8s32e590un.com
 0.0.0.0 8s8.eu
@@ -3675,6 +3678,7 @@
 0.0.0.0 alappropolylibe.site
 0.0.0.0 alapsblu.com
 0.0.0.0 albacross.com
+0.0.0.0 albado-tech.xyz
 0.0.0.0 albado.xyz
 0.0.0.0 albalbant.com
 0.0.0.0 albanmagnit.ru
@@ -3792,6 +3796,7 @@
 0.0.0.0 allnvbtrtpku.com
 0.0.0.0 alloffs.ru
 0.0.0.0 allo-media.net
+0.0.0.0 allottenuy.club
 0.0.0.0 allowac.com
 0.0.0.0 allowmailbox.com
 0.0.0.0 alloydigital.com
@@ -4785,6 +4790,7 @@
 0.0.0.0 astrsk.net
 0.0.0.0 asuler.ru
 0.0.0.0 asumi.shinobi.jp
+0.0.0.0 asvatskaymj.club
 0.0.0.0 asv.whatismyip.win
 0.0.0.0 aswlx.cn
 0.0.0.0 aswpsdkus.com
@@ -6458,6 +6464,7 @@
 0.0.0.0 bqvgpuvjwhjggp.com
 0.0.0.0 bqyzesmanfucq.com
 0.0.0.0 brain.foresee.com
+0.0.0.0 brainian.club
 0.0.0.0 brainient.com
 0.0.0.0 brakesoutright.com
 0.0.0.0 branch.io
@@ -6594,6 +6601,7 @@
 0.0.0.0 bszaoqzjyx.com
 0.0.0.0 bt1.patexplorer.com
 0.0.0.0 btagmedia.com
+0.0.0.0 btbalex.cn
 0.0.0.0 btblsyvqaxkkx.com
 0.0.0.0 btbuckets.com
 0.0.0.0 btbuigpxge.com
@@ -7281,6 +7289,7 @@
 0.0.0.0 cdn.tubecorp.com
 0.0.0.0 cdn-t.xyz
 0.0.0.0 cdn.unityads.unity3d.com
+0.0.0.0 cdnvideo.mobi
 0.0.0.0 cdn-webview-pge.unityads.unity3d.com
 0.0.0.0 cdn.welcome.pussysaga.com
 0.0.0.0 cdn.wuyou.ca
@@ -7708,6 +7717,7 @@
 0.0.0.0 cl5tudale.ru
 0.0.0.0 clacson24.com
 0.0.0.0 claiks.com
+0.0.0.0 clairedikio.club
 0.0.0.0 clandia.cn
 0.0.0.0 clarifyingquack.com
 0.0.0.0 clarity.ms
@@ -8286,6 +8296,7 @@
 0.0.0.0 commodationship.info
 0.0.0.0 common.duapps.com
 0.0.0.0 communited.club
+0.0.0.0 communits.club
 0.0.0.0 companiedoml.site
 0.0.0.0 company-target.com
 0.0.0.0 comparencelabl.site
@@ -11865,6 +11876,8 @@
 0.0.0.0 exchange.informer.ua
 0.0.0.0 exchange.newsnet.in.ua
 0.0.0.0 exchangenews.ru
+0.0.0.0 exchangepresumeethel.com
+0.0.0.0 excited.me
 0.0.0.0 exclusivebrass.com
 0.0.0.0 exclusiveclicks.com
 0.0.0.0 excluzive.net
@@ -13865,6 +13878,7 @@
 0.0.0.0 go.hangzhou.com.cn
 0.0.0.0 gohillgo.com
 0.0.0.0 g--o.info
+0.0.0.0 goingsilltrusty.com
 0.0.0.0 goingup.com
 0.0.0.0 goiqwteaxvgc.com
 0.0.0.0 goitcl.com
@@ -15761,6 +15775,7 @@
 0.0.0.0 iklantop.net
 0.0.0.0 iklanumum.com
 0.0.0.0 iklmgdsfnajmoy.com
+0.0.0.0 ikunselt.com
 0.0.0.0 ikupicwg.com
 0.0.0.0 ikvagxovc.com
 0.0.0.0 ikwxqqaduybfnv.com
@@ -16867,6 +16882,7 @@
 0.0.0.0 jinsoopt.net
 0.0.0.0 jintonghua.com
 0.0.0.0 jinxinyuan.cn
+0.0.0.0 jinxiuzhilv.com
 0.0.0.0 jioads.akamaized.net
 0.0.0.0 jioeg.com
 0.0.0.0 jioivnytpmam.com
@@ -20096,6 +20112,7 @@
 0.0.0.0 mhorwseoai.com
 0.0.0.0 mhviessolums.com
 0.0.0.0 mhzaj.com
+0.0.0.0 mi82ltk3veb7.com
 0.0.0.0 miadates.com
 0.0.0.0 miahshnju.com
 0.0.0.0 miakalyn.pw
@@ -21255,6 +21272,7 @@
 0.0.0.0 ndkes.com
 0.0.0.0 ndlegwynetc.fun
 0.0.0.0 ndndasyo.com
+0.0.0.0 ndonsenatio.club
 0.0.0.0 ndprxvzgy.com
 0.0.0.0 ndreammin.space
 0.0.0.0 ndricshoweverau.info
@@ -22599,6 +22617,7 @@
 0.0.0.0 onshowit.com
 0.0.0.0 onsiterope.com
 0.0.0.0 onsnv.com
+0.0.0.0 onstunkyr.com
 0.0.0.0 onunughegmar.club
 0.0.0.0 onvertise.com
 0.0.0.0 onvictinitor.com
@@ -23751,6 +23770,7 @@
 0.0.0.0 pk965.com
 0.0.0.0 pkbook.com.cn
 0.0.0.0 pketred.com
+0.0.0.0 pkhhyool.com
 0.0.0.0 pkirdfqe.com
 0.0.0.0 pkitdifnkz.com
 0.0.0.0 pkk1.zuimeiniwo.com
@@ -23774,6 +23794,7 @@
 0.0.0.0 planktab.com
 0.0.0.0 plannto.com
 0.0.0.0 plantdigestion.com
+0.0.0.0 plasminori.club
 0.0.0.0 platformbot.xyz
 0.0.0.0 platform.communicatorcorp.com
 0.0.0.0 platform.iteratehq.com
@@ -24191,6 +24212,8 @@
 0.0.0.0 premiumstats.xyz
 0.0.0.0 premiumvertising.com
 0.0.0.0 preonesetro.com
+0.0.0.0 prepairoo.club
+0.0.0.0 preparedjuxtapose.com
 0.0.0.0 prepareplanes.com
 0.0.0.0 presage.io
 0.0.0.0 presatisfy.com
@@ -24907,7 +24930,6 @@
 0.0.0.0 qcsfxv.cn
 0.0.0.0 qcsjgzxqcyhv.com
 0.0.0.0 qc-static.coccoc.com
-0.0.0.0 qcupup.com
 0.0.0.0 qcvf.ifeng.com
 0.0.0.0 qd3u5eeuos.com
 0.0.0.0 qd836.cn
@@ -26168,6 +26190,7 @@
 0.0.0.0 ritinghimse.space
 0.0.0.0 ritogaga.com
 0.0.0.0 rituationscardb.info
+0.0.0.0 rityalthoutei.club
 0.0.0.0 ritzykey.com
 0.0.0.0 ritzysponge.com
 0.0.0.0 riverhit.com
@@ -27705,6 +27728,7 @@
 0.0.0.0 sittiad.com
 0.0.0.0 sitti.co.id
 0.0.0.0 situsiklanbaris.com
+0.0.0.0 sivide.cn
 0.0.0.0 siwtbongdxve.com
 0.0.0.0 sixautch.com
 0.0.0.0 sixgen.cn
@@ -29229,6 +29253,7 @@
 0.0.0.0 sxcol.cn
 0.0.0.0 sxdyrq.com
 0.0.0.0 sxedqvvaxxj.com
+0.0.0.0 sxehny.cn
 0.0.0.0 sxgmppxfts.com
 0.0.0.0 sxhpwsgdyhw.com
 0.0.0.0 sxhwscj.cn
@@ -32864,6 +32889,7 @@
 0.0.0.0 volgograd-info.ru
 0.0.0.0 volimole.com
 0.0.0.0 vologda-info.ru
+0.0.0.0 voltskegscurate.com
 0.0.0.0 volutionorigi.site
 0.0.0.0 voluumtlkrnarketing.com
 0.0.0.0 voluumtracker.com

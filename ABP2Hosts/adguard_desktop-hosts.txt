@@ -1,4 +1,4 @@
-# Wed 05 Aug 2020 12:53:37 AM MDT
+# Wed 05 Aug 2020 01:08:25 PM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 00bloggers.ru
@@ -976,6 +976,7 @@
 0.0.0.0 akstat.com
 0.0.0.0 akstat.io
 0.0.0.0 a.kubik3.ru
+0.0.0.0 albado-tech.xyz
 0.0.0.0 albado.xyz
 0.0.0.0 albanmagnit.ru
 0.0.0.0 albet400.com
@@ -4681,6 +4682,7 @@
 0.0.0.0 gogousenet.com
 0.0.0.0 gohillgo.com
 0.0.0.0 g--o.info
+0.0.0.0 goingsilltrusty.com
 0.0.0.0 goingup.com
 0.0.0.0 go.jetswap.com
 0.0.0.0 golayazv.com
@@ -7936,6 +7938,7 @@
 0.0.0.0 pj.l.admedo.com
 0.0.0.0 pjtra.com
 0.0.0.0 pketred.com
+0.0.0.0 pkhhyool.com
 0.0.0.0 pkqeg5z3xffs.info
 0.0.0.0 p.l1v.ly
 0.0.0.0 placemypixel.com

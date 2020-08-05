@@ -1,4 +1,4 @@
-# Wed 05 Aug 2020 12:53:47 AM MDT
+# Wed 05 Aug 2020 01:08:34 PM MDT
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 0026645142c89aeb1.com
@@ -243,6 +243,7 @@
 0.0.0.0 1el-1el-fie.com
 0.0.0.0 1elllwrite.com
 0.0.0.0 1empiredirect.com
+0.0.0.0 1ex4oemg99mv.com
 0.0.0.0 1f58098dd54.com
 0.0.0.0 1f7de8569ea97f0614.com
 0.0.0.0 1.feihua.com
@@ -1065,6 +1066,7 @@
 0.0.0.0 8mb4qkd74cht.com
 0.0.0.0 8mlb.cn
 0.0.0.0 8nr2bisa.ru
+0.0.0.0 8po6fdwjsym3.com
 0.0.0.0 8s32e590un.com
 0.0.0.0 8s8.eu
 0.0.0.0 8tduqa3h42y5.com
@@ -3482,6 +3484,7 @@
 0.0.0.0 astrack.ru
 0.0.0.0 astro-way.com
 0.0.0.0 asumi.shinobi.jp
+0.0.0.0 asvatskaymj.club
 0.0.0.0 aswlx.cn
 0.0.0.0 aswpsdkus.com
 0.0.0.0 aszyzwbjs.com
@@ -4744,6 +4747,7 @@
 0.0.0.0 bohowhepsandked.info
 0.0.0.0 bohuaqiche.com
 0.0.0.0 boiceta.com
+0.0.0.0 boilingbeetle.com
 0.0.0.0 boizgpgrxvokd.com
 0.0.0.0 bokilora.com
 0.0.0.0 bokrelri.com
@@ -6676,6 +6680,7 @@
 0.0.0.0 creatives.inmotionhosting.com
 0.0.0.0 creativetv.pro
 0.0.0.0 creator.zmags.com
+0.0.0.0 creditions.club
 0.0.0.0 cretaiformac.top
 0.0.0.0 cretextsma.info
 0.0.0.0 crewita.co
@@ -9042,6 +9047,7 @@
 0.0.0.0 ethereum-pocket.de
 0.0.0.0 ethereum-pocket.eu
 0.0.0.0 ethethoa.net
+0.0.0.0 ethicalads.io
 0.0.0.0 ethikuma.link
 0.0.0.0 ethn.io
 0.0.0.0 ethnio.com
@@ -9202,6 +9208,7 @@
 0.0.0.0 exchancetaur.info
 0.0.0.0 exchange4media.com
 0.0.0.0 exchange.meta.ua
+0.0.0.0 exchangepresumeethel.com
 0.0.0.0 excited.me
 0.0.0.0 exclusiveclicks.com
 0.0.0.0 exclusiverewards.xyz
@@ -12476,6 +12483,7 @@
 0.0.0.0 ikk2gh.eu
 0.0.0.0 iklmgdsfnajmoy.com
 0.0.0.0 ikolop.com
+0.0.0.0 ikunselt.com
 0.0.0.0 ikupicwg.com
 0.0.0.0 ikvagxovc.com
 0.0.0.0 ikwxqqaduybfnv.com
@@ -13382,6 +13390,7 @@
 0.0.0.0 jinsoopt.net
 0.0.0.0 jintonghua.com
 0.0.0.0 jinxinyuan.cn
+0.0.0.0 jinxiuzhilv.com
 0.0.0.0 jinxy.ru
 0.0.0.0 jioeg.com
 0.0.0.0 jioivnytpmam.com
@@ -15995,6 +16004,7 @@
 0.0.0.0 mhkx4.ru
 0.0.0.0 mhorwseoai.com
 0.0.0.0 mhviessolums.com
+0.0.0.0 mi82ltk3veb7.com
 0.0.0.0 miadates.com
 0.0.0.0 miahshnju.com
 0.0.0.0 mialbj6.com
@@ -16698,6 +16708,7 @@
 0.0.0.0 mystats.nl
 0.0.0.0 my-story.info
 0.0.0.0 mysty.com.cn
+0.0.0.0 mytehui.cn
 0.0.0.0 mythings.com
 0.0.0.0 mytictac.com
 0.0.0.0 mytizer.com
@@ -16887,6 +16898,7 @@
 0.0.0.0 ndkaxtyhxy.com
 0.0.0.0 ndlegwynetc.fun
 0.0.0.0 ndndasyo.com
+0.0.0.0 ndonsenatio.club
 0.0.0.0 ndprxvzgy.com
 0.0.0.0 ndreammin.space
 0.0.0.0 ndricshoweverau.info
@@ -17973,6 +17985,7 @@
 0.0.0.0 onscroll.com
 0.0.0.0 onsiterope.com
 0.0.0.0 onsnv.com
+0.0.0.0 onstunkyr.com
 0.0.0.0 onthe.io
 0.0.0.0 onunughegmar.club
 0.0.0.0 onvertise.com
@@ -18040,6 +18053,7 @@
 0.0.0.0 opresat.ru
 0.0.0.0 oproi.com
 0.0.0.0 opsivesh.net
+0.0.0.0 opsoomet.net
 0.0.0.0 opsooque.com
 0.0.0.0 optad360.io
 0.0.0.0 opteama.com
@@ -19190,6 +19204,8 @@
 0.0.0.0 premium.naturalnews.tv
 0.0.0.0 premiumpushnotification.com
 0.0.0.0 preonesetro.com
+0.0.0.0 prepairoo.club
+0.0.0.0 preparedjuxtapose.com
 0.0.0.0 prepareplanes.com
 0.0.0.0 prerol.tut.by
 0.0.0.0 presearchity.site
@@ -19745,7 +19761,6 @@
 0.0.0.0 q-counter.com
 0.0.0.0 qcsfxv.cn
 0.0.0.0 qcsjgzxqcyhv.com
-0.0.0.0 qcupup.com
 0.0.0.0 qcvdwtpnit.ru
 0.0.0.0 qcvf.ifeng.com
 0.0.0.0 qd3u5eeuos.com
@@ -21991,6 +22006,7 @@
 0.0.0.0 sitirkbit.com
 0.0.0.0 sitizy.network
 0.0.0.0 sittiad.com
+0.0.0.0 sivide.cn
 0.0.0.0 siwtbongdxve.com
 0.0.0.0 sixautch.com
 0.0.0.0 sixgen.cn
@@ -25705,6 +25721,7 @@
 0.0.0.0 volantix.com
 0.0.0.0 volgograd-info.ru
 0.0.0.0 vologda-info.ru
+0.0.0.0 voltskegscurate.com
 0.0.0.0 volutionorigi.site
 0.0.0.0 voluumtracker.com
 0.0.0.0 volvelle.tech
