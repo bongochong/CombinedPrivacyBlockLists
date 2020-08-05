@@ -1,4 +1,4 @@
-// **** Wed 05 Aug 2020 12:52:08 AM MDT
+// **** Wed 05 Aug 2020 01:11:02 PM MDT
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0daygameparadise.com') ||
