@@ -32,7 +32,7 @@ wget -nv -O hosts.10 "https://raw.githubusercontent.com/bongochong/CombinedPriva
 echo "Downloaded hosts list 10"
 wget -nv -O hosts.11 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/disconnect_consolidated.txt"
 echo "Downloaded hosts list 11"
-wget -nv -O hosts.12 "https://block.energized.pro/spark/formats/hosts.txt"
+wget -nv -O hosts.12 "https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts-online.txt"
 echo "Downloaded hosts list 12"
 echo "Parsing data..."
 cat hosts.* > hosts-cat.final
