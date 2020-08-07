@@ -1,4 +1,4 @@
-# Wed 05 Aug 2020 02:20:38 PM MDT
+# Fri 07 Aug 2020 05:52:32 PM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 00bloggers.ru
@@ -238,6 +238,7 @@
 0.0.0.0 7-link.ru
 0.0.0.0 7metodik.ru
 0.0.0.0 7mu36somt5.com
+0.0.0.0 7n32vb7tn4w7n373a.top
 0.0.0.0 7offers.ru
 0.0.0.0 7out.ru
 0.0.0.0 7porn.ru
@@ -272,6 +273,7 @@
 0.0.0.0 92ec94d51076357.com
 0.0.0.0 95558000.com
 0.0.0.0 95p5qep4aq.com
+0.0.0.0 95thalj5.ru
 0.0.0.0 97kuaixiu.com
 0.0.0.0 983jdh.xyz
 0.0.0.0 9990.spqsd.com
@@ -476,6 +478,7 @@
 0.0.0.0 adeko.mobi
 0.0.0.0 adelixir.com
 0.0.0.0 ad.emlakeki.com
+0.0.0.0 ad.erkiss.club
 0.0.0.0 ad.ettoday.net
 0.0.0.0 adf.acrosspf.com
 0.0.0.0 adf.hdkinoshka.net
@@ -1539,6 +1542,7 @@
 0.0.0.0 backlink-umsonst.de
 0.0.0.0 back.marketing
 0.0.0.0 backromy.com
+0.0.0.0 badamareus.com
 0.0.0.0 badokal.com
 0.0.0.0 badsbads.com
 0.0.0.0 badshades.com
@@ -2073,6 +2077,7 @@
 0.0.0.0 bubblestat.com
 0.0.0.0 bubblevard.com
 0.0.0.0 buckridge.link
+0.0.0.0 budaicius.com
 0.0.0.0 budvawshes.ru
 0.0.0.0 bufupacamo.com
 0.0.0.0 bugaga.tut.by
@@ -3163,6 +3168,7 @@
 0.0.0.0 d3hs51abvkuanv.cloudfront.net
 0.0.0.0 d3i1asoswufp5k.cloudfront.net
 0.0.0.0 d3id4jppiyyek8.cloudfront.net
+0.0.0.0 d3ithbwcmjcxl7.cloudfront.net
 0.0.0.0 d3iz6lralvg77g.cloudfront.net
 0.0.0.0 d3j1weegxvu8ns.cloudfront.net
 0.0.0.0 d3kblkhdtjv0tf.cloudfront.net
@@ -4855,6 +4861,7 @@
 0.0.0.0 habitualhumor.com
 0.0.0.0 hackesie.net
 0.0.0.0 hadarone.com
+0.0.0.0 haderilovas.com
 0.0.0.0 hadsokz.com
 0.0.0.0 haeechihhfajibdfaef.ru
 0.0.0.0 hahaha.ovh
@@ -5043,6 +5050,7 @@
 0.0.0.0 holm.ru
 0.0.0.0 homenick.biz
 0.0.0.0 homrus.net
+0.0.0.0 honeenatrus.com
 0.0.0.0 honey.briefly.ru
 0.0.0.0 hongjiujiaoyi.com
 0.0.0.0 hoohavoa.com
@@ -5754,6 +5762,7 @@
 0.0.0.0 kinderfinder.ru
 0.0.0.0 kinesis.us-east-1.amazonaws.com
 0.0.0.0 kinfly.ru
+0.0.0.0 kingads.mobi
 0.0.0.0 kingoablc.com
 0.0.0.0 kinoaction.ru
 0.0.0.0 kinobol.ru
@@ -6353,6 +6362,7 @@
 0.0.0.0 m.ailezhai.cn
 0.0.0.0 mailstat.us
 0.0.0.0 mainadd.com
+0.0.0.0 mainauko.net
 0.0.0.0 mainclc.com
 0.0.0.0 maizhenai.cn
 0.0.0.0 majoritishbettes.info
@@ -8335,6 +8345,7 @@
 0.0.0.0 pwnz.org
 0.0.0.0 px-cloud.net
 0.0.0.0 px.dynamicyield.com
+0.0.0.0 pxf.io
 0.0.0.0 px.gfycat.com
 0.0.0.0 pxi.pub
 0.0.0.0 pxlctl.elpais.com
@@ -8505,6 +8516,7 @@
 0.0.0.0 rbck.st3pst3p.com
 0.0.0.0 rbmcash.com
 0.0.0.0 rbnt.org
+0.0.0.0 rb.ras1.site
 0.0.0.0 rb.rfn.ru
 0.0.0.0 rbrxg.com
 0.0.0.0 rb.sport-express.ru
@@ -9071,6 +9083,7 @@
 0.0.0.0 seayipsex.com
 0.0.0.0 sebadu.com
 0.0.0.0 seclick.ru
+0.0.0.0 secretexts.club
 0.0.0.0 secureanalytic.com
 0.0.0.0 secureboom.net
 0.0.0.0 securee.ru
@@ -9096,6 +9109,7 @@
 0.0.0.0 segmentify.com
 0.0.0.0 segment.io
 0.0.0.0 segments.adap.tv
+0.0.0.0 sehtjv.com
 0.0.0.0 seitwert.de
 0.0.0.0 sektorial.com
 0.0.0.0 selaris.com
@@ -11004,6 +11018,8 @@
 0.0.0.0 uerzyr.cn
 0.0.0.0 ueuodgnrhb.com
 0.0.0.0 uezbshzpdcbb.info
+0.0.0.0 ufmmtncv.com
+0.0.0.0 ufow9xfashbm.com
 0.0.0.0 ufraton.com
 0.0.0.0 ugabuga.icu
 0.0.0.0 ugdturner.com
@@ -11044,6 +11060,7 @@
 0.0.0.0 umbel.com
 0.0.0.0 umcbbt.com
 0.0.0.0 umekana.ru
+0.0.0.0 umfxefqtqd.com
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 umrefebaot.biz
 0.0.0.0 umwiba.com
@@ -11997,6 +12014,7 @@
 0.0.0.0 xuculit.ru
 0.0.0.0 xunkhuczqnuf.com
 0.0.0.0 xunlaile.com
+0.0.0.0 xuossk3tu6hb.com
 0.0.0.0 xvhvm.top
 0.0.0.0 xvmvvh.zcrqsfq.biz
 0.0.0.0 xvqaz.com
@@ -12090,6 +12108,7 @@
 0.0.0.0 ylkkp.com
 0.0.0.0 yllanala.pw
 0.0.0.0 yluvo.com
+0.0.0.0 ylwu7xm3a1wv.com
 0.0.0.0 ylx-4.com
 0.0.0.0 ymetrica1.com
 0.0.0.0 ymetrica.com

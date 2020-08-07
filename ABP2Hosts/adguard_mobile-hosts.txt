@@ -1,4 +1,4 @@
-# Wed 05 Aug 2020 02:20:28 PM MDT
+# Fri 07 Aug 2020 05:52:21 PM MDT
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -2499,7 +2499,6 @@
 0.0.0.0 api.smbeat.jp
 0.0.0.0 api.soclminer.com.br
 0.0.0.0 api.sonobi.com
-0.0.0.0 apis.playstove.com.edgekey.net
 0.0.0.0 api.splkmobile.com
 0.0.0.0 api.sponsorpay.com
 0.0.0.0 apissl.ksapisrv.com
@@ -9870,7 +9869,6 @@
 0.0.0.0 sdk-vmh.prod-univision.com
 0.0.0.0 sdk.vstyle4u.com
 0.0.0.0 sdk.wappier.com
-0.0.0.0 sdkweb.playstove.com
 0.0.0.0 sdk.wesdk.co
 0.0.0.0 sdk.wjinfu.com
 0.0.0.0 sdk.yolanda.hk
