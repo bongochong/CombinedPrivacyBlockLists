@@ -34,6 +34,8 @@ wget -nv -O hosts.11 "https://raw.githubusercontent.com/bongochong/CombinedPriva
 echo "Downloaded hosts list 11"
 wget -nv -O hosts.12 "https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts-online.txt"
 echo "Downloaded hosts list 12"
+wget -nv -O hosts.13 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/AdditionalSupplementaryHosts.txt"
+echo "Downloaded hosts list 13"
 echo "Parsing data..."
 cat hosts.* > hosts-cat.final
 sort hosts-cat.final | uniq | sed "s/#.*$//" | sed "/[[:space:]]*#/d" | sed "/[[:blank:]]*#/d" | sed "s/\t/ /g" | sed "s/^127.0.0.1/0.0.0.0/g" | sed "s/^::1/0.0.0.0/g" | sed "s/^::/0.0.0.0/g" | sed "s/[[:space:]]*$//" | sed "s/[[:blank:]]*$//" | sed "s/[[:space:]]\+/ /g" | sed "/^0.0.0.0 /! s/^/0.0.0.0 /" > hosts-pre.final
