@@ -1,4 +1,4 @@
-# Fri 07 Aug 2020 05:52:21 PM MDT
+# Wed 12 Aug 2020 04:33:06 AM MDT
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -3960,8 +3960,6 @@
 0.0.0.0 ci.iasds01.com
 0.0.0.0 cimetrix.inmobi.com
 0.0.0.0 ci-mpsnare.iovation.com
-0.0.0.0 cint.com
-0.0.0.0 cintnetworks.com
 0.0.0.0 ciq.dmpxs.com
 0.0.0.0 ciq-st.nielsen.com
 0.0.0.0 c.isdspeed.qq.com
@@ -7088,7 +7086,6 @@
 0.0.0.0 load77.exelator.com
 0.0.0.0 loada.exelator.com
 0.0.0.0 load.ams1.exelator.com
-0.0.0.0 loadb.cint.com
 0.0.0.0 load.dfw2.exelator.com
 0.0.0.0 load.ewr1.exelator.com
 0.0.0.0 load.exelator.com
@@ -9409,7 +9406,6 @@
 0.0.0.0 rotaban.ru
 0.0.0.0 rotanev.iad-03.braze.com
 0.0.0.0 route.izooto.com
-0.0.0.0 router.cint.com
 0.0.0.0 rpc.tapjoy.com
 0.0.0.0 rpc-tapjoy-com-lb-1378811527.us-east-1.elb.amazonaws.com
 0.0.0.0 rp.gwallet.com
@@ -9977,7 +9973,6 @@
 0.0.0.0 senddroid.com
 0.0.0.0 sender.clevernt.com
 0.0.0.0 sender.megapopads.com
-0.0.0.0 sendgrid.cint.com
 0.0.0.0 send.microadinc.com
 0.0.0.0 sense360eng.com.herokudns.com
 0.0.0.0 sensytracker.appspot.com

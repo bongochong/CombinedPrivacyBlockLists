@@ -1,4 +1,4 @@
-# Fri 07 Aug 2020 05:52:32 PM MDT
+# Wed 12 Aug 2020 04:33:22 AM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 00bloggers.ru
@@ -590,6 +590,7 @@
 0.0.0.0 adosia.com
 0.0.0.0 ad.outstream.today
 0.0.0.0 ad.oyy.ru
+0.0.0.0 adp4wb.ru
 0.0.0.0 adpartner.pro
 0.0.0.0 adpaths.com
 0.0.0.0 adpay.network
@@ -1076,6 +1077,7 @@
 0.0.0.0 amparcaim.club
 0.0.0.0 amplifypixel.outbrain.com
 0.0.0.0 am-schedule.ru
+0.0.0.0 am-trc-events.taboola.com
 0.0.0.0 amung.us
 0.0.0.0 amunx.de
 0.0.0.0 amxdt.com
@@ -2192,10 +2194,12 @@
 0.0.0.0 caphyon-analytics.com
 0.0.0.0 capliman.com
 0.0.0.0 caprofitx.com
+0.0.0.0 capsfogpeck.com
 0.0.0.0 captify.co.uk
 0.0.0.0 captivate.ai
 0.0.0.0 caraphene.xyz
 0.0.0.0 carbian.info
+0.0.0.0 carelacysince.com
 0.0.0.0 caringzinc.com
 0.0.0.0 carpentercomparison.com
 0.0.0.0 cartponi.tk
@@ -2685,7 +2689,6 @@
 0.0.0.0 conf.international.baidu.com
 0.0.0.0 confirmational.com
 0.0.0.0 confirmit.com
-0.0.0.0 connatix.com
 0.0.0.0 connectad.io
 0.0.0.0 connectif.cloud
 0.0.0.0 connection36.com
@@ -3844,6 +3847,7 @@
 0.0.0.0 engine212.com
 0.0.0.0 engine64.com
 0.0.0.0 engine.adtidy.net
+0.0.0.0 engine-pmbk.ligastavok.ru
 0.0.0.0 engine.turboroller.ru
 0.0.0.0 enhance.com
 0.0.0.0 enlarget.com
@@ -4158,6 +4162,7 @@
 0.0.0.0 fc.webmasterpro.de
 0.0.0.0 fd9523b31ff93b5c.com
 0.0.0.0 fdgeen.com
+0.0.0.0 fdrhbw.com
 0.0.0.0 fdsur.com
 0.0.0.0 fe4r7k22y68p.info
 0.0.0.0 feb12740de5be9b3.com
@@ -4174,6 +4179,7 @@
 0.0.0.0 felix.data.tm-awx.com
 0.0.0.0 fenailany.com
 0.0.0.0 ferank.fr
+0.0.0.0 fergemcot.com
 0.0.0.0 fermerrekrb.bid
 0.0.0.0 fer-ta.com
 0.0.0.0 fessoovy.com
@@ -4211,6 +4217,7 @@
 0.0.0.0 fiozxmznaba.com
 0.0.0.0 firelove.ru
 0.0.0.0 firm.bidtizadd.ru
+0.0.0.0 firstfrogs.com
 0.0.0.0 firsttrack.ru
 0.0.0.0 fishhoo.com
 0.0.0.0 fitfas.ru
@@ -4438,6 +4445,7 @@
 0.0.0.0 fznpq.com
 0.0.0.0 fzwoa.com
 0.0.0.0 fzxrjx.com
+0.0.0.0 g2178927685.co
 0.0.0.0 g22rbb7.com
 0.0.0.0 g3j2wzmon8b.com
 0.0.0.0 g4p.redtram.com
@@ -4964,6 +4972,7 @@
 0.0.0.0 hiddencounter.de
 0.0.0.0 higherengine.com
 0.0.0.0 highmetrics.com
+0.0.0.0 highprofitnetwork.com
 0.0.0.0 hi.hellobar.com
 0.0.0.0 hikeheoratth.info
 0.0.0.0 hilariouszinc.com
@@ -5349,6 +5358,7 @@
 0.0.0.0 insigit.com
 0.0.0.0 insitemetrics.com
 0.0.0.0 inskinmedia.com
+0.0.0.0 insolencewalter.com
 0.0.0.0 inspectlet.com
 0.0.0.0 instadia.net
 0.0.0.0 installads2.com
@@ -5445,7 +5455,6 @@
 0.0.0.0 iqsns.top
 0.0.0.0 iqsoh.ru
 0.0.0.0 iqtewa.ru
-0.0.0.0 iraiser.eu
 0.0.0.0 irboga.info
 0.0.0.0 irdanen.ru
 0.0.0.0 iredirr.com
@@ -6593,6 +6602,7 @@
 0.0.0.0 meter-svc.nytimes.com
 0.0.0.0 metertna.ru
 0.0.0.0 metodikadeneg.info
+0.0.0.0 metosk.com
 0.0.0.0 metric-agent.i10c.net
 0.0.0.0 metric.gstatic.com
 0.0.0.0 metric.inetcore.com
@@ -7429,6 +7439,7 @@
 0.0.0.0 omarsys.com
 0.0.0.0 omasovizac.com
 0.0.0.0 om.cbsi.com
+0.0.0.0 omchanseyr.com
 0.0.0.0 om.dowjoneson.com
 0.0.0.0 omeda.com
 0.0.0.0 ometria.com
@@ -8262,6 +8273,7 @@
 0.0.0.0 ptengine.com
 0.0.0.0 ptgiweiu.com
 0.0.0.0 pthokfs.pro
+0.0.0.0 ptigjkkds.com
 0.0.0.0 p.tinynewsfeed.com
 0.0.0.0 pto.awecr.com
 0.0.0.0 ptocmaux.com
@@ -8567,6 +8579,7 @@
 0.0.0.0 receptiveink.com
 0.0.0.0 receptivereaction.com
 0.0.0.0 reclame.io
+0.0.0.0 recordervesttasting.com
 0.0.0.0 recoset.com
 0.0.0.0 recreativ.com.ua
 0.0.0.0 recreativ.ru
@@ -8744,6 +8757,7 @@
 0.0.0.0 rgitc.xyz
 0.0.0.0 rgqxbf.com
 0.0.0.0 rgy1wk.ru
+0.0.0.0 rhetoricalloss.com
 0.0.0.0 rhinoseo.com
 0.0.0.0 rholi.ru
 0.0.0.0 rhtag.com
@@ -9005,6 +9019,7 @@
 0.0.0.0 sapere.seed4.me
 0.0.0.0 sapha.com
 0.0.0.0 sapmedia.ru
+0.0.0.0 sapsuaveover.com
 0.0.0.0 sarevtop.com
 0.0.0.0 sarimsol.com
 0.0.0.0 sas15k01.com
@@ -10807,6 +10822,7 @@
 0.0.0.0 trafovod.com
 0.0.0.0 trafpyat.ru
 0.0.0.0 trafscan.com
+0.0.0.0 trafstats.ru
 0.0.0.0 trafstore.com
 0.0.0.0 traf-zona.ru
 0.0.0.0 trailheadapp.com
@@ -11237,6 +11253,7 @@
 0.0.0.0 vch.voyage-prive.ch
 0.0.0.0 v.ckpvz.space
 0.0.0.0 vclicks.net
+0.0.0.0 vcmrlwcafliaa.com
 0.0.0.0 vcslotoplay.com
 0.0.0.0 v.cuioj.com
 0.0.0.0 vdc.zoomph.com
@@ -11833,6 +11850,7 @@
 0.0.0.0 wpnjrm.com
 0.0.0.0 wp-stats.com
 0.0.0.0 wp-tk.ru
+0.0.0.0 wqpeltrb.com
 0.0.0.0 wrating.com
 0.0.0.0 wredint.com
 0.0.0.0 wrfiwa.ru
@@ -12080,6 +12098,7 @@
 0.0.0.0 yesra.xyz
 0.0.0.0 yessearches.com
 0.0.0.0 yetseefad.com
+0.0.0.0 yfivoqeh.online
 0.0.0.0 yfkha.xyz
 0.0.0.0 yfzbn.com
 0.0.0.0 ygsm.com
