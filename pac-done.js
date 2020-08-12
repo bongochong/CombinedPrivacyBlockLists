@@ -1,4 +1,4 @@
-// **** Fri 07 Aug 2020 06:13:30 PM MDT
+// **** Wed 12 Aug 2020 04:37:56 AM MDT
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0daygameparadise.com') ||
@@ -339,6 +339,7 @@ shExpMatch(host, '*.adexchangegate.com') ||
 shExpMatch(host, '*.adexchangeprediction.com') ||
 shExpMatch(host, '*.adexpose.com') ||
 shExpMatch(host, '*.adext.inkclub.com') ||
+shExpMatch(host, '*.ad.exyws.org') ||
 shExpMatch(host, '*.ad.f1cd.ru') ||
 shExpMatch(host, '*.adfactor.nl') ||
 shExpMatch(host, '*.adfarm.mediaplex.com') ||
@@ -4955,6 +4956,7 @@ shExpMatch(host, '*.findyourcasino.com') ||
 shExpMatch(host, '*.findyourhack.com') ||
 shExpMatch(host, '*.fineclicks.com') ||
 shExpMatch(host, '*.finelchck.biz') ||
+shExpMatch(host, '*.fineoffer.net') ||
 shExpMatch(host, '*.fingahvf.top') ||
 shExpMatch(host, '*.firal.net') ||
 shExpMatch(host, '*.fire-alts.com') ||
@@ -5018,6 +5020,7 @@ shExpMatch(host, '*.floweryoperation.com') ||
 shExpMatch(host, '*.flowgo.com') ||
 shExpMatch(host, '*.flstudioflp.com') ||
 shExpMatch(host, '*.flurry.com') ||
+shExpMatch(host, '*.fly-analytics.com') ||
 shExpMatch(host, '*.flycash.org') ||
 shExpMatch(host, '*.flyercase.fun') ||
 shExpMatch(host, '*.flyextensions.com') ||
@@ -8805,6 +8808,7 @@ shExpMatch(host, '*.nvfile.com') ||
 shExpMatch(host, '*.nzaza.com') ||
 shExpMatch(host, '*.o0bc.com') ||
 shExpMatch(host, '*.o239315.com') ||
+shExpMatch(host, '*.oafishobservation.com') ||
 shExpMatch(host, '*.oas.benchmark.fr') ||
 shExpMatch(host, '*.oascentral.businessweek.com') ||
 shExpMatch(host, '*.oascentral.chicagobusiness.com') ||
@@ -9801,6 +9805,7 @@ shExpMatch(host, '*.readingguilt.com') ||
 shExpMatch(host, '*.readingopera.com') ||
 shExpMatch(host, '*.readserver.net') ||
 shExpMatch(host, '*.readymoon.com') ||
+shExpMatch(host, '*.readyrobux.com') ||
 shExpMatch(host, '*.readysnails.com') ||
 shExpMatch(host, '*.real4bets.com') ||
 shExpMatch(host, '*.realcastmedia.com') ||
@@ -11527,6 +11532,7 @@ shExpMatch(host, '*.tracking.gajmp.com') ||
 shExpMatch(host, '*.tracking.ibxlink.com') ||
 shExpMatch(host, '*.tracking.internetstores.de') ||
 shExpMatch(host, '*.tracking.intl.miui.com') ||
+shExpMatch(host, '*.tracking.lenddom.com') ||
 shExpMatch(host, '*.tracking.miui.com') ||
 shExpMatch(host, '*.tracking.olx-st.com') ||
 shExpMatch(host, '*.tracking.publicidees.com') ||
@@ -13038,6 +13044,7 @@ shExpMatch(host, 'adexchangegate.com') ||
 shExpMatch(host, 'adexchangeprediction.com') ||
 shExpMatch(host, 'adexpose.com') ||
 shExpMatch(host, 'adext.inkclub.com') ||
+shExpMatch(host, 'ad.exyws.org') ||
 shExpMatch(host, 'ad.f1cd.ru') ||
 shExpMatch(host, 'adfactor.nl') ||
 shExpMatch(host, 'adfarm.mediaplex.com') ||
@@ -17654,6 +17661,7 @@ shExpMatch(host, 'findyourcasino.com') ||
 shExpMatch(host, 'findyourhack.com') ||
 shExpMatch(host, 'fineclicks.com') ||
 shExpMatch(host, 'finelchck.biz') ||
+shExpMatch(host, 'fineoffer.net') ||
 shExpMatch(host, 'fingahvf.top') ||
 shExpMatch(host, 'firal.net') ||
 shExpMatch(host, 'fire-alts.com') ||
@@ -17717,6 +17725,7 @@ shExpMatch(host, 'floweryoperation.com') ||
 shExpMatch(host, 'flowgo.com') ||
 shExpMatch(host, 'flstudioflp.com') ||
 shExpMatch(host, 'flurry.com') ||
+shExpMatch(host, 'fly-analytics.com') ||
 shExpMatch(host, 'flycash.org') ||
 shExpMatch(host, 'flyercase.fun') ||
 shExpMatch(host, 'flyextensions.com') ||
@@ -21504,6 +21513,7 @@ shExpMatch(host, 'nvfile.com') ||
 shExpMatch(host, 'nzaza.com') ||
 shExpMatch(host, 'o0bc.com') ||
 shExpMatch(host, 'o239315.com') ||
+shExpMatch(host, 'oafishobservation.com') ||
 shExpMatch(host, 'oas.benchmark.fr') ||
 shExpMatch(host, 'oascentral.businessweek.com') ||
 shExpMatch(host, 'oascentral.chicagobusiness.com') ||
@@ -22500,6 +22510,7 @@ shExpMatch(host, 'readingguilt.com') ||
 shExpMatch(host, 'readingopera.com') ||
 shExpMatch(host, 'readserver.net') ||
 shExpMatch(host, 'readymoon.com') ||
+shExpMatch(host, 'readyrobux.com') ||
 shExpMatch(host, 'readysnails.com') ||
 shExpMatch(host, 'real4bets.com') ||
 shExpMatch(host, 'realcastmedia.com') ||
@@ -24226,6 +24237,7 @@ shExpMatch(host, 'tracking.gajmp.com') ||
 shExpMatch(host, 'tracking.ibxlink.com') ||
 shExpMatch(host, 'tracking.internetstores.de') ||
 shExpMatch(host, 'tracking.intl.miui.com') ||
+shExpMatch(host, 'tracking.lenddom.com') ||
 shExpMatch(host, 'tracking.miui.com') ||
 shExpMatch(host, 'tracking.olx-st.com') ||
 shExpMatch(host, 'tracking.publicidees.com') ||
