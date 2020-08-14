@@ -1,4 +1,4 @@
-# Wed 12 Aug 2020 04:35:00 AM MDT
+# Thu 13 Aug 2020 06:49:33 PM MDT
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -2131,7 +2131,6 @@
 0.0.0.0 anpush.pushcrew.com
 0.0.0.0 anquan.baidu.com
 0.0.0.0 anquan.org
-0.0.0.0 answers.chartboost.com
 0.0.0.0 answers-d.openx.net
 0.0.0.0 answers.nielsen.com
 0.0.0.0 antenna-apse.ayads.co
@@ -3927,7 +3926,6 @@
 0.0.0.0 c.greystripe.com
 0.0.0.0 challenge.360in.com
 0.0.0.0 chanalytics.merchantadvantage.com
-0.0.0.0 changelog.taplytics.com
 0.0.0.0 chango.com
 0.0.0.0 channel.api.duapp.com
 0.0.0.0 chantal.parrable.com
@@ -4485,6 +4483,7 @@
 0.0.0.0 crashlogs.whatsapp.net
 0.0.0.0 crashlogs.woniu.com
 0.0.0.0 crashlytics.163.com
+0.0.0.0 crashlytics2.l.google.com
 0.0.0.0 crash-metrics.sdk.inmobi.com
 0.0.0.0 craveandlamb.com
 0.0.0.0 crazypopups.com
@@ -5942,7 +5941,6 @@
 0.0.0.0 go.amplitude.com
 0.0.0.0 go.apptimize.com
 0.0.0.0 go.apptrk.io
-0.0.0.0 go.branch.io
 0.0.0.0 gocarrot.com
 0.0.0.0 gocdn.ru
 0.0.0.0 gocm.c.appier.net
@@ -6664,7 +6662,6 @@
 0.0.0.0 intercom-assets.wootric.com
 0.0.0.0 intermarkets.net
 0.0.0.0 intermrkts.vo.llnwd.net
-0.0.0.0 internal.fullstory.com
 0.0.0.0 internal.revcontent.com
 0.0.0.0 interseek.si
 0.0.0.0 interstitial-content.otherlevels.com
@@ -6955,7 +6952,6 @@
 0.0.0.0 labs.revcontent.com
 0.0.0.0 labs-s1.revcontent.com
 0.0.0.0 labs-stg.revcontent.com
-0.0.0.0 labs.taplytics.com
 0.0.0.0 lacerta.iad-03.appboy.com
 0.0.0.0 lacerta.iad.appboy.com
 0.0.0.0 ladycash.ru
@@ -7468,7 +7464,6 @@
 0.0.0.0 med.heyzap.com
 0.0.0.0 media10.admicro.vn
 0.0.0.0 media1.admicro.vn
-0.0.0.0 media24.pushwoosh.com
 0.0.0.0 media2.admicro.vn
 0.0.0.0 media3.admicro.vn
 0.0.0.0 media4.admicro.vn
@@ -7631,7 +7626,6 @@
 0.0.0.0 millenialmedia.com
 0.0.0.0 millennialmedia.com
 0.0.0.0 millennialmedia-d.openx.net
-0.0.0.0 millicom.pushwoosh.com
 0.0.0.0 mime.iad.adswizz.com
 0.0.0.0 mimicromax.com
 0.0.0.0 min.admicro.vn
@@ -7804,7 +7798,6 @@
 0.0.0.0 mobixell.com
 0.0.0.0 mobi.yanosik.pl
 0.0.0.0 moblink.mob.com
-0.0.0.0 moblin.pushwoosh.com
 0.0.0.0 mobobeat.com
 0.0.0.0 mobojs.baidu.com
 0.0.0.0 moboland.net
@@ -8316,7 +8309,6 @@
 0.0.0.0 onedrive.su
 0.0.0.0 onelink.appsflyer.com
 0.0.0.0 onepush.query.yahoo.com
-0.0.0.0 one.pushwoosh.com
 0.0.0.0 onesignal.com
 0.0.0.0 onespot-tracking.herokuapp.com
 0.0.0.0 onetag-geo.onscroll.com
@@ -8491,7 +8483,6 @@
 0.0.0.0 ox-i.ebayus.servedbyopenx.com
 0.0.0.0 ox-i.quebecor.servedbyopenx.com
 0.0.0.0 oxjapan-d.openx.net
-0.0.0.0 ozon.pushwoosh.com
 0.0.0.0 p01234.clksite.com
 0.0.0.0 p13n-results-api.optimizely.com
 0.0.0.0 p1cluster.cxense.com
@@ -8562,7 +8553,6 @@
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 partner.knorex.com
 0.0.0.0 partners.ad-brix.com
-0.0.0.0 partners.chartboost.com
 0.0.0.0 partner.shareaholic.com
 0.0.0.0 partners-hotwire-com.impactradius.com
 0.0.0.0 partners.propellerads.com
@@ -10528,7 +10518,6 @@
 0.0.0.0 startapp.com
 0.0.0.0 startappexchange.com
 0.0.0.0 startappservice.com
-0.0.0.0 start.branch.io
 0.0.0.0 startribune-d.openx.net
 0.0.0.0 startup.inmobi.com
 0.0.0.0 startup.mobile.yandex.net
@@ -10744,17 +10733,9 @@
 0.0.0.0 stats.zmags.com
 0.0.0.0 stats.zotabox.com
 0.0.0.0 statt-collect.herokuapp.com
-0.0.0.0 status.amplitude.com
 0.0.0.0 status.appsee.com
-0.0.0.0 status.batch.com
-0.0.0.0 status.branch.io
-0.0.0.0 status.chartboost.com
-0.0.0.0 status.fullstory.com
 0.0.0.0 status.optimizely.com
 0.0.0.0 status.pubmatic.com
-0.0.0.0 status.pushwoosh.com
-0.0.0.0 status.taplytics.com
-0.0.0.0 status.urbanairship.com
 0.0.0.0 stat.v.baidu.com
 0.0.0.0 st-au.ants.vn
 0.0.0.0 stc.adtima.vn
@@ -12025,7 +12006,6 @@
 0.0.0.0 video-assets.mathtag.com
 0.0.0.0 video-aws-stg.fyber.com
 0.0.0.0 video.batmobi.net
-0.0.0.0 video.branch.io
 0.0.0.0 video-cdn.lentainform.com
 0.0.0.0 video-dsa.fyber.com
 0.0.0.0 videoevents.outbrain.com
@@ -12256,7 +12236,6 @@
 0.0.0.0 wowanalytics.co.uk
 0.0.0.0 wp.adperfect.com
 0.0.0.0 wpcdn1.herokuapp.com
-0.0.0.0 wpengine.taplytics.com
 0.0.0.0 wpg.adpxl.co
 0.0.0.0 wpg.blueconic.com
 0.0.0.0 wpix.media6degrees.com
@@ -12339,7 +12318,6 @@
 0.0.0.0 ww856.smartadserver.com
 0.0.0.0 wwtdd.tags.crwdcntrl.net
 0.0.0.0 www1.gto-media.com
-0.0.0.0 www2.branch.io
 0.0.0.0 www.5rocks.io
 0.0.0.0 www.adbert.com.tw
 0.0.0.0 www.api.appsee.com

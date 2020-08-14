@@ -1,4 +1,4 @@
-# Wed 12 Aug 2020 04:35:10 AM MDT
+# Thu 13 Aug 2020 06:49:44 PM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 00bloggers.ru
@@ -1865,6 +1865,7 @@
 0.0.0.0 bizspring.net
 0.0.0.0 bizua.com
 0.0.0.0 bj1110.online
+0.0.0.0 bjdsfgg.pro
 0.0.0.0 bjpwv.com
 0.0.0.0 bjrfnps4efhldfj.ru
 0.0.0.0 b.kakoysegodnyaprazdnik.ru
@@ -2595,6 +2596,7 @@
 0.0.0.0 cobrand.ria.com
 0.0.0.0 codata.ru
 0.0.0.0 codeadnetwork.com
+0.0.0.0 code.ainsyndication.com
 0.0.0.0 code.barrior.online
 0.0.0.0 code.barrior.ru
 0.0.0.0 code.curs.net.ua
@@ -3416,7 +3418,6 @@
 0.0.0.0 digdeepdigital.com.au
 0.0.0.0 digiadzone.com
 0.0.0.0 digidip.net
-0.0.0.0 diginetica.net
 0.0.0.0 digisets.com
 0.0.0.0 digital-forest.info
 0.0.0.0 digitaloptout.com
@@ -3835,6 +3836,7 @@
 0.0.0.0 emuboosag.com
 0.0.0.0 emu.ilovemp3.top
 0.0.0.0 enamadugib.com
+0.0.0.0 enbpvt.com
 0.0.0.0 enclosely.info
 0.0.0.0 endloseporno.com
 0.0.0.0 enectoanalytics.com
@@ -4214,6 +4216,7 @@
 0.0.0.0 finema.net
 0.0.0.0 finema-net.cdn.ampproject.org
 0.0.0.0 finized.co
+0.0.0.0 fiorenetwork.com
 0.0.0.0 fiozxmznaba.com
 0.0.0.0 firelove.ru
 0.0.0.0 firm.bidtizadd.ru
@@ -5001,7 +5004,9 @@
 0.0.0.0 hit-counts.com
 0.0.0.0 hitcpm.com
 0.0.0.0 hit.darmoweliczniki.pl
+0.0.0.0 hit.demirorenteknoloji.com
 0.0.0.0 hit.dogannet.tv
+0.0.0.0 hit.duhnet.tv
 0.0.0.0 hitfarm.com
 0.0.0.0 hitgelsin.com
 0.0.0.0 hitgraph.jp
@@ -5202,6 +5207,7 @@
 0.0.0.0 ie8eamus.com
 0.0.0.0 iendoo.com
 0.0.0.0 ieuhd.com
+0.0.0.0 ieydkx.com
 0.0.0.0 ifactz.com
 0.0.0.0 ifddigital.com
 0.0.0.0 ifhei9zzyu2r.ru
@@ -5483,6 +5489,7 @@
 0.0.0.0 isterra.ru
 0.0.0.0 istrack.com
 0.0.0.0 ist-track.com
+0.0.0.0 itadapi.ithome.com.tw
 0.0.0.0 itad.linetv.tw
 0.0.0.0 itageli.ru
 0.0.0.0 italianadirectory.com
@@ -5900,6 +5907,7 @@
 0.0.0.0 kvcd7w375h.ru
 0.0.0.0 kvidcq.com
 0.0.0.0 kvkoqywl.com
+0.0.0.0 kwtrdd.com
 0.0.0.0 kwunqjqntrnf.bid
 0.0.0.0 kxqvnfcg.xyz
 0.0.0.0 kyad88.com
@@ -6606,6 +6614,7 @@
 0.0.0.0 metric-agent.i10c.net
 0.0.0.0 metric.gstatic.com
 0.0.0.0 metric.inetcore.com
+0.0.0.0 metrics0.com
 0.0.0.0 metrics34.com
 0.0.0.0 metrics.apartments.com
 0.0.0.0 metrics-api.librato.com
@@ -7173,6 +7182,7 @@
 0.0.0.0 nextstat.com
 0.0.0.0 neyacpa.pro
 0.0.0.0 neyrvru.wmbgc.xyz
+0.0.0.0 nffkfg.com
 0.0.0.0 nfwljgjva.com
 0.0.0.0 ngacm.com
 0.0.0.0 ngads.com
@@ -7241,6 +7251,7 @@
 0.0.0.0 novem.pl
 0.0.0.0 nov.evmenov37.ru
 0.0.0.0 novfox2.com
+0.0.0.0 novizna.xyz
 0.0.0.0 novwolf.com
 0.0.0.0 now09.ru
 0.0.0.0 now73.ru
@@ -8807,6 +8818,7 @@
 0.0.0.0 rnlabs.com
 0.0.0.0 rnnuw.com
 0.0.0.0 rnpwxssirmgflk.com
+0.0.0.0 rnwbrm.com
 0.0.0.0 roagz.us
 0.0.0.0 roakicat.net
 0.0.0.0 robaduvulo.com
@@ -9051,6 +9063,7 @@
 0.0.0.0 scelebnow.xyz
 0.0.0.0 schoolyeargo.com
 0.0.0.0 sciencerevenue.com
+0.0.0.0 sc.lfeeder.com
 0.0.0.0 s.clicktex.ru
 0.0.0.0 sc.livetvcdn.net
 0.0.0.0 s.conyak.com
@@ -10655,6 +10668,7 @@
 0.0.0.0 tracking.cirrusinsight.com
 0.0.0.0 tracking.conduit.com
 0.0.0.0 tracking.deluxe-marketing.com
+0.0.0.0 tracking.diginetica.net
 0.0.0.0 tracking.eurosport.com
 0.0.0.0 tracking.g2crowd.com
 0.0.0.0 tracking.gj-mobile-services.de
@@ -10886,6 +10900,7 @@
 0.0.0.0 trk.stroeermediabrands.de
 0.0.0.0 trk.techtarget.com
 0.0.0.0 trk.vidible.tv
+0.0.0.0 tr.lfeeder.com
 0.0.0.0 trl.upperbooking.com
 0.0.0.0 trmit.com
 0.0.0.0 tropicalos.com
@@ -12195,6 +12210,7 @@
 0.0.0.0 yxbtyzqcczra.com
 0.0.0.0 yxgfcj.com
 0.0.0.0 yximgdpivguxke.com
+0.0.0.0 yxswtummev.info
 0.0.0.0 yxtwx.cn
 0.0.0.0 yycjho.com
 0.0.0.0 yyuin.com
