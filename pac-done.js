@@ -1,4 +1,4 @@
-// **** Wed 12 Aug 2020 04:37:56 AM MDT
+// **** Thu 13 Aug 2020 06:55:02 PM MDT
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0daygameparadise.com') ||
@@ -7660,6 +7660,7 @@ shExpMatch(host, '*.levelrate.de') ||
 shExpMatch(host, '*.lewdwind.com') ||
 shExpMatch(host, '*.lexec.ru') ||
 shExpMatch(host, '*.lezepi.ru') ||
+shExpMatch(host, '*.lfeeder.com') ||
 shExpMatch(host, '*.lflink.com') ||
 shExpMatch(host, '*.lflinkup.com') ||
 shExpMatch(host, '*.lflinkup.net') ||
@@ -9636,7 +9637,6 @@ shExpMatch(host, '*.pubg-trade.com') ||
 shExpMatch(host, '*.pub.hardware.fr') ||
 shExpMatch(host, '*.publicidad.elmundo.es') ||
 shExpMatch(host, '*.publicidees.com') ||
-shExpMatch(host, '*.publisher-assets.spot.im') ||
 shExpMatch(host, '*.pubmatic.com') ||
 shExpMatch(host, '*.pubmine.com') ||
 shExpMatch(host, '*.pubnative.net') ||
@@ -11537,6 +11537,7 @@ shExpMatch(host, '*.tracking.miui.com') ||
 shExpMatch(host, '*.tracking.olx-st.com') ||
 shExpMatch(host, '*.tracking.publicidees.com') ||
 shExpMatch(host, '*.trackingsoft.com') ||
+shExpMatch(host, '*.tracking.thinkabt.com') ||
 shExpMatch(host, '*.tracking.yourfilehost.com') ||
 shExpMatch(host, '*.tracklink-tel.de') ||
 shExpMatch(host, '*.track.mailerlite.com') ||
@@ -20365,6 +20366,7 @@ shExpMatch(host, 'levelrate.de') ||
 shExpMatch(host, 'lewdwind.com') ||
 shExpMatch(host, 'lexec.ru') ||
 shExpMatch(host, 'lezepi.ru') ||
+shExpMatch(host, 'lfeeder.com') ||
 shExpMatch(host, 'lflink.com') ||
 shExpMatch(host, 'lflinkup.com') ||
 shExpMatch(host, 'lflinkup.net') ||
@@ -22341,7 +22343,6 @@ shExpMatch(host, 'pubg-trade.com') ||
 shExpMatch(host, 'pub.hardware.fr') ||
 shExpMatch(host, 'publicidad.elmundo.es') ||
 shExpMatch(host, 'publicidees.com') ||
-shExpMatch(host, 'publisher-assets.spot.im') ||
 shExpMatch(host, 'pubmatic.com') ||
 shExpMatch(host, 'pubmine.com') ||
 shExpMatch(host, 'pubnative.net') ||
@@ -24242,6 +24243,7 @@ shExpMatch(host, 'tracking.miui.com') ||
 shExpMatch(host, 'tracking.olx-st.com') ||
 shExpMatch(host, 'tracking.publicidees.com') ||
 shExpMatch(host, 'trackingsoft.com') ||
+shExpMatch(host, 'tracking.thinkabt.com') ||
 shExpMatch(host, 'tracking.yourfilehost.com') ||
 shExpMatch(host, 'tracklink-tel.de') ||
 shExpMatch(host, 'track.mailerlite.com') ||
