@@ -1,4 +1,4 @@
-# Thu 13 Aug 2020 06:49:44 PM MDT
+# Mon 17 Aug 2020 11:53:10 AM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 00bloggers.ru
@@ -156,6 +156,7 @@
 0.0.0.0 3lucosy.com
 0.0.0.0 3mfm7jef91.ru
 0.0.0.0 3mtr.ru
+0.0.0.0 3qk4s31iy0.rest
 0.0.0.0 3under.ru
 0.0.0.0 3wdf4.xyz
 0.0.0.0 40nuggets.com
@@ -679,6 +680,7 @@
 0.0.0.0 adshost.site
 0.0.0.0 adshow.sc2tv.ru
 0.0.0.0 adsim.sabah.com.tr
+0.0.0.0 adskk.club
 0.0.0.0 ads.linkedin.com
 0.0.0.0 ads.livetvcdn.net
 0.0.0.0 adsliv.ru
@@ -1026,6 +1028,7 @@
 0.0.0.0 allmysource.ru
 0.0.0.0 alloffs.ru
 0.0.0.0 allowac.com
+0.0.0.0 allowfencelist.com
 0.0.0.0 allpopular.org
 0.0.0.0 allsiemens.com
 0.0.0.0 alltagcloud.info
@@ -1144,6 +1147,7 @@
 0.0.0.0 analytics.nextopia.net
 0.0.0.0 analytics.ooyala.com
 0.0.0.0 analytics.plaid.com
+0.0.0.0 analytics.plex.tv
 0.0.0.0 analytics.posttv.com
 0.0.0.0 analytics.proxer.me
 0.0.0.0 analyticsq.com
@@ -1555,6 +1559,7 @@
 0.0.0.0 bagbeam.com
 0.0.0.0 bahaimlo.com
 0.0.0.0 bahisciler.co
+0.0.0.0 baikalize.com
 0.0.0.0 baipagid.com
 0.0.0.0 bakteso.ru
 0.0.0.0 balancebreath.com
@@ -1685,6 +1690,7 @@
 0.0.0.0 beacon.riskified.com
 0.0.0.0 beacon.search.yahoo.com
 0.0.0.0 beacons.helium.com
+0.0.0.0 beacons.mediamelon.com
 0.0.0.0 beacon.sojern.com
 0.0.0.0 beacon.tingyun.com
 0.0.0.0 beacon.toyota.co.jp
@@ -2545,7 +2551,6 @@
 0.0.0.0 clvw.net
 0.0.0.0 clyilp.com
 0.0.0.0 cmap.alibaba.com
-0.0.0.0 c.marsflag.com
 0.0.0.0 cmcintra.net
 0.0.0.0 cmcore.com
 0.0.0.0 cm-exchange.toast.com
@@ -3251,6 +3256,7 @@
 0.0.0.0 daliantong.com.cn
 0.0.0.0 daljntupdaoejb.com
 0.0.0.0 dalseeds.net
+0.0.0.0 damskiy.xyz
 0.0.0.0 danilidi.ru
 0.0.0.0 danmeneldur.com
 0.0.0.0 daopz.top
@@ -3571,6 +3577,7 @@
 0.0.0.0 dpjtch.vestabalin.com
 0.0.0.0 dps-reach.com
 0.0.0.0 dpz55hrzd89zs.cloudfront.net
+0.0.0.0 dq3yxnlzwhcys.cloudfront.net
 0.0.0.0 dqqulesm3pfse.cloudfront.net
 0.0.0.0 dqzuy.com
 0.0.0.0 dr3k6qonw2kee.cloudfront.net
@@ -4053,6 +4060,7 @@
 0.0.0.0 excpm.com
 0.0.0.0 exdynsrv.com
 0.0.0.0 exelator.com
+0.0.0.0 exitbee.com
 0.0.0.0 exitintel.com
 0.0.0.0 exitmonitor.com
 0.0.0.0 exmarkt.de
@@ -4102,6 +4110,7 @@
 0.0.0.0 ezytrack.com
 0.0.0.0 f185cefa37b1806e.com
 0.0.0.0 f369a60bf483bcc9.com
+0.0.0.0 f6dy9wgfbf.ru
 0.0.0.0 f7ds.liberation.fr
 0.0.0.0 fabolele.com
 0.0.0.0 fabricmedia.ru
@@ -4277,6 +4286,7 @@
 0.0.0.0 focusego.info
 0.0.0.0 foditgoz.com
 0.0.0.0 foganonura.com
+0.0.0.0 fogbigcourt.com
 0.0.0.0 fogl1onf.com
 0.0.0.0 fogtrack.net
 0.0.0.0 foiozzs.pro
@@ -5358,6 +5368,7 @@
 0.0.0.0 inquisition.goguardian.com
 0.0.0.0 inrecsys.popin.cc
 0.0.0.0 inrool.com
+0.0.0.0 inservinea.com
 0.0.0.0 inside-graph.com
 0.0.0.0 insightera.com
 0.0.0.0 insightgrit.com
@@ -6133,6 +6144,7 @@
 0.0.0.0 lloogg.com
 0.0.0.0 llsp.gfd80.com
 0.0.0.0 lmodr.biz
+0.0.0.0 lmyiwaakn.com
 0.0.0.0 lmymere.info
 0.0.0.0 lnews.riafan.ru
 0.0.0.0 lnkfast.com
@@ -8649,6 +8661,7 @@
 0.0.0.0 reitingi.lv
 0.0.0.0 rejestr.org
 0.0.0.0 rek1.gtorrent.org
+0.0.0.0 rekagrorb.bid
 0.0.0.0 rekhatov.ru
 0.0.0.0 rek.hepaffiliates.com
 0.0.0.0 rekl1.com
@@ -8693,6 +8706,7 @@
 0.0.0.0 relap.io
 0.0.0.0 relead.com
 0.0.0.0 release-me.ru
+0.0.0.0 relevant-digital.com
 0.0.0.0 reliablecounter.com
 0.0.0.0 relmaxtop.com
 0.0.0.0 remarketstats.com
@@ -9391,6 +9405,7 @@
 0.0.0.0 smartinfomarketing.ru
 0.0.0.0 smart-ip.net
 0.0.0.0 smartlook.com
+0.0.0.0 smartocto.com
 0.0.0.0 smartoffer.site
 0.0.0.0 smartpixel.auditorius.ru
 0.0.0.0 smartracker.net
@@ -9719,6 +9734,7 @@
 0.0.0.0 stat24.ru
 0.0.0.0 stat.4u.pl
 0.0.0.0 statad.ru
+0.0.0.0 statafun.ru
 0.0.0.0 stat.alibaba.com
 0.0.0.0 stat.analytiall.com
 0.0.0.0 stat.botdetector.ru
@@ -10444,6 +10460,7 @@
 0.0.0.0 tneduf.com
 0.0.0.0 tnevota.ru
 0.0.0.0 tngmn.com
+0.0.0.0 t.njzrxx.xyz
 0.0.0.0 tns-counter.ru
 0.0.0.0 tns-cs.net
 0.0.0.0 tns-gallup.dk
@@ -10839,6 +10856,7 @@
 0.0.0.0 trafstats.ru
 0.0.0.0 trafstore.com
 0.0.0.0 traf-zona.ru
+0.0.0.0 trailerfilma.online
 0.0.0.0 trailheadapp.com
 0.0.0.0 trail-web.com
 0.0.0.0 trakken.de
@@ -10902,6 +10920,7 @@
 0.0.0.0 trk.vidible.tv
 0.0.0.0 tr.lfeeder.com
 0.0.0.0 trl.upperbooking.com
+0.0.0.0 tr.marsflag.com
 0.0.0.0 trmit.com
 0.0.0.0 tropicalos.com
 0.0.0.0 trothko.com
@@ -11226,6 +11245,7 @@
 0.0.0.0 uzmdfi.com
 0.0.0.0 uzotarak.com
 0.0.0.0 uzrating.com
+0.0.0.0 uzttnr.com
 0.0.0.0 v0hs81ev3vepjr.ru
 0.0.0.0 v1-c73e.kxcdn.com
 0.0.0.0 v1rton.news

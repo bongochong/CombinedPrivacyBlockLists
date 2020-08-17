@@ -1,4 +1,4 @@
-# Thu 13 Aug 2020 06:49:33 PM MDT
+# Mon 17 Aug 2020 11:53:00 AM MDT
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -10706,7 +10706,6 @@
 0.0.0.0 stats.mediaforge.com
 0.0.0.0 stats.mediaforge.com.edgekey.net
 0.0.0.0 stats.mobincube.com
-0.0.0.0 stats.nba.com.edgekey.net
 0.0.0.0 stats.netsolads.com
 0.0.0.0 statsonline.pushct.baidu.com
 0.0.0.0 stats.origin.kaltura.com
