@@ -1,4 +1,4 @@
-# Mon 17 Aug 2020 11:53:23 AM MDT
+# Mon 17 Aug 2020 12:22:34 PM MDT
 # AdGuard DNS Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com

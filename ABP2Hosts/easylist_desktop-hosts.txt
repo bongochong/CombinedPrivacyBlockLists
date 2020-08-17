@@ -1,4 +1,4 @@
-# Mon 17 Aug 2020 11:53:20 AM MDT
+# Mon 17 Aug 2020 12:22:31 PM MDT
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -6635,6 +6635,7 @@
 0.0.0.0 creator.zmags.com
 0.0.0.0 creditiesv.club
 0.0.0.0 creditions.club
+0.0.0.0 crepaidrfcs.club
 0.0.0.0 cretaiformac.top
 0.0.0.0 cretextsma.info
 0.0.0.0 crewita.co
