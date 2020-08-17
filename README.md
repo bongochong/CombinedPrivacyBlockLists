@@ -3,7 +3,7 @@ Ad-blocking hosts files, BitTorrent IP block lists, and PAC files, all merged, s
 
 These lists *only* block ad, tracking, telemetry, scam, and malware servers. These lists *do not* block porn, social media, or so-called "fake news" domains, except for the ad, tracking, telemetry, scam, and malware servers associated with said sites. Any potential false positives are rigorously removed as well. Additionally, the hosts lists are processed by an IDN-to-Punycode conversion routine (meaning that they can be utilized on *all* operating systems). In short, all of these block lists are comprehensive and universally compatible, while remaining reasonable in size and scope.
 
-Updates to all compiled lists usually occur around once a week, and sometimes more often. If there is a wave of updates occurring in a single day, that usually means there are significant improvements and/or additions under way.
+Updates to the lists usually occur around once a week, and sometimes more often. If there is a wave of updates occurring in a single day, that usually means there are significant improvements and/or additions under way.
 
 **Descriptions**
 
