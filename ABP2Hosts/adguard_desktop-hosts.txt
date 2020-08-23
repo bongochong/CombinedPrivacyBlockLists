@@ -1,4 +1,4 @@
-# Mon 17 Aug 2020 12:22:22 PM MDT
+# Sun 23 Aug 2020 12:40:10 AM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 00bloggers.ru
@@ -255,6 +255,7 @@
 0.0.0.0 822f797ef9d68ad3.com
 0.0.0.0 82448dceaaa13034.com
 0.0.0.0 82o9v830.com
+0.0.0.0 83.locksmaker.com.cn
 0.0.0.0 863c4c0c521.se
 0.0.0.0 86a6b542l7.com
 0.0.0.0 86cb1dcb13ba5a1a.com
@@ -321,6 +322,8 @@
 0.0.0.0 abcstats.com
 0.0.0.0 abdmi.ru
 0.0.0.0 abeets.ru
+0.0.0.0 a.bestcontentitem.top
+0.0.0.0 a.bestcontentproject.top
 0.0.0.0 a.bestcontenttool.top
 0.0.0.0 abid.w38store.ru
 0.0.0.0 ablaze-class.space
@@ -819,6 +822,7 @@
 0.0.0.0 advmaker.net
 0.0.0.0 advmaker.su
 0.0.0.0 advmanager.techfun.pl
+0.0.0.0 advmedia.by
 0.0.0.0 adv.mediaharbor.co.kr
 0.0.0.0 advmusic.net
 0.0.0.0 advnetwork.net
@@ -2148,6 +2152,7 @@
 0.0.0.0 bzrpvk.com
 0.0.0.0 c00.adobe.com
 0.0.0.0 c03jij5q.website
+0.0.0.0 c0.adalyser.com
 0.0.0.0 c1exchange.com
 0.0.0.0 c1hit.tut.by
 0.0.0.0 c2.xsu.cc
@@ -3002,6 +3007,7 @@
 0.0.0.0 d11eq81k50lwgi.cloudfront.net
 0.0.0.0 d138am4hd4ke4y.cloudfront.net
 0.0.0.0 d13jhr4vol1304.cloudfront.net
+0.0.0.0 d13k7prax1yi04.cloudfront.net
 0.0.0.0 d141wsrw9m4as6.cloudfront.net
 0.0.0.0 d14emrg9.com
 0.0.0.0 d15cjcet1djbmv.cloudfront.net
@@ -3023,6 +3029,7 @@
 0.0.0.0 d1clufhfw8sswh.cloudfront.net
 0.0.0.0 d1czd1q73kbu32.cloudfront.net
 0.0.0.0 d1d8vn0fpluuz7.cloudfront.net
+0.0.0.0 d1daeonbqcq0oh.cloudfront.net
 0.0.0.0 d1dli2tyorled9.cloudfront.net
 0.0.0.0 d1ewpr7kbabyrj.cloudfront.net
 0.0.0.0 d1f5rbi95y1icu.cloudfront.net
@@ -3170,6 +3177,7 @@
 0.0.0.0 d3cxv97fi8q177.cloudfront.net
 0.0.0.0 d3d52lhoy0sh2w.cloudfront.net
 0.0.0.0 d3elm8wezzwg42.cloudfront.net
+0.0.0.0 d3eyd961wi10bl.cloudfront.net
 0.0.0.0 d3ezl4ajpp2zy8.cloudfront.net
 0.0.0.0 d3fqhkmofpujs3.cloudfront.net
 0.0.0.0 d3h1v5cflrhzi4.cloudfront.net
@@ -3528,6 +3536,7 @@
 0.0.0.0 docols.net
 0.0.0.0 docqacvwhgbxv.com
 0.0.0.0 doctorsh.ru
+0.0.0.0 doflygonan.com
 0.0.0.0 doghoust.net
 0.0.0.0 dogus-ads-cdn.dygdigital.com
 0.0.0.0 dohillright.com
@@ -4442,6 +4451,7 @@
 0.0.0.0 fuse-data.com
 0.0.0.0 fusestats.com
 0.0.0.0 fusion.sydsvenskan.se
+0.0.0.0 futilereposerefreshments.com
 0.0.0.0 futuristicfairies.com
 0.0.0.0 fuxoasim.link
 0.0.0.0 fuziontech.net
@@ -4454,6 +4464,7 @@
 0.0.0.0 fx-trend.com
 0.0.0.0 fyreball.com
 0.0.0.0 fytboti.ru
+0.0.0.0 f.zgbmw.com.cn
 0.0.0.0 fzhxi.com
 0.0.0.0 fznpq.com
 0.0.0.0 fzwoa.com
@@ -5253,6 +5264,7 @@
 0.0.0.0 ijrah.top
 0.0.0.0 ikiif.com
 0.0.0.0 ikikik.xyz
+0.0.0.0 ileokscsawzzrh.com
 0.0.0.0 ili.pp.ua
 0.0.0.0 iljmp.com
 0.0.0.0 ilk10.az
@@ -5376,6 +5388,7 @@
 0.0.0.0 insitemetrics.com
 0.0.0.0 inskinmedia.com
 0.0.0.0 insolencewalter.com
+0.0.0.0 insolencewhoeverinsult.com
 0.0.0.0 inspectlet.com
 0.0.0.0 instadia.net
 0.0.0.0 installads2.com
@@ -6190,6 +6203,7 @@
 0.0.0.0 loggly.com
 0.0.0.0 log.go.com
 0.0.0.0 log.hira-meki.jp
+0.0.0.0 log.hitsteps.com
 0.0.0.0 log-hl.snssdk.com
 0.0.0.0 loginbox.ru
 0.0.0.0 login-megafon.ru
@@ -6263,6 +6277,7 @@
 0.0.0.0 lorahana.xyz
 0.0.0.0 lordofads.com
 0.0.0.0 loronap.info
+0.0.0.0 lorybnfh.com
 0.0.0.0 losecounter.de
 0.0.0.0 losstrack.com
 0.0.0.0 lostplanetcdn.com
@@ -6783,6 +6798,7 @@
 0.0.0.0 mobilebanner.ru
 0.0.0.0 mobile-click.biz
 0.0.0.0 mobileofferplace.site
+0.0.0.0 mobileoffers-7-q-download.com
 0.0.0.0 mobileoffers-a-download.com
 0.0.0.0 mobileoffers-cb-download.com
 0.0.0.0 mobilink.az
@@ -6862,6 +6878,7 @@
 0.0.0.0 moviecash.ru
 0.0.0.0 mo.vlpyj.xy
 0.0.0.0 mowfruit.com
+0.0.0.0 mowyappedbibs.com
 0.0.0.0 mozefakt.com
 0.0.0.0 mp3bars.com
 0.0.0.0 mp3vizor.com
@@ -6920,6 +6937,7 @@
 0.0.0.0 mtrcs.samba.tv
 0.0.0.0 mtrics.cdc.gov
 0.0.0.0 mts.sdtieta.com
+0.0.0.0 mtvekq.com
 0.0.0.0 mtvp05j.com
 0.0.0.0 mtwbedsl.biz
 0.0.0.0 muchhetont.ru
@@ -7401,6 +7419,7 @@
 0.0.0.0 offgashah.club
 0.0.0.0 office.ad1.ru
 0.0.0.0 offpageads.com
+0.0.0.0 offshoretolerantbenignity.com
 0.0.0.0 offshp.ru
 0.0.0.0 ofphanpytor.com
 0.0.0.0 oftatsit.com
@@ -8056,6 +8075,7 @@
 0.0.0.0 ponyvod.ru
 0.0.0.0 poogriry.click
 0.0.0.0 pool5.info
+0.0.0.0 poorlydig.com
 0.0.0.0 popadon.com
 0.0.0.0 popads.media
 0.0.0.0 popander.mobi
@@ -8414,6 +8434,7 @@
 0.0.0.0 qbhyczr5hw.ru
 0.0.0.0 qbop.com
 0.0.0.0 q-counter.com
+0.0.0.0 qcroag.com
 0.0.0.0 qd.maskbaby.com.cn
 0.0.0.0 qdtracking.com
 0.0.0.0 qenprsuoashu.com
@@ -9394,7 +9415,6 @@
 0.0.0.0 slowpoker.ru
 0.0.0.0 sls2.loisirsencheres.com
 0.0.0.0 smallbeginner.com
-0.0.0.0 smallseotools.com
 0.0.0.0 s-manager.com
 0.0.0.0 smart2cnjuh34jb.com
 0.0.0.0 smartclick.net
@@ -9456,6 +9476,7 @@
 0.0.0.0 sniperlog.ru
 0.0.0.0 sniphub.com
 0.0.0.0 snoobi.com
+0.0.0.0 snowdayonline.xyz
 0.0.0.0 snowplow-collector.sugarops.com
 0.0.0.0 snowsignal.com
 0.0.0.0 snyowx29.com
@@ -9605,6 +9626,7 @@
 0.0.0.0 sponsorcounter.de
 0.0.0.0 sponsored.com
 0.0.0.0 spoods.rce.veeseo.com
+0.0.0.0 sports-streams-online.com
 0.0.0.0 spotmx.com
 0.0.0.0 spottednoise.com
 0.0.0.0 spotxchange.com
@@ -10021,6 +10043,7 @@
 0.0.0.0 subpixel.4players.de
 0.0.0.0 subs.vingd.com
 0.0.0.0 subtraxion.com
+0.0.0.0 sub.xxx-porn-tube.com
 0.0.0.0 succeedscene.com
 0.0.0.0 successfultogether.co.uk
 0.0.0.0 suchmaschinen-ranking-hits.de
@@ -10267,6 +10290,7 @@
 0.0.0.0 telemetry.allrecipes.com
 0.0.0.0 telemetry.art19.com
 0.0.0.0 telemetry.jivosite.com
+0.0.0.0 telemetry.mozilla.org
 0.0.0.0 telemetry.soundcloud.com
 0.0.0.0 telemetry.swe.quicinc.com
 0.0.0.0 telemetrytaxonomy.net
@@ -11187,6 +11211,7 @@
 0.0.0.0 urltraf.com
 0.0.0.0 urnawareflan.com
 0.0.0.0 urstats.de
+0.0.0.0 uruswan.com
 0.0.0.0 urwb.ru
 0.0.0.0 uryle.ru
 0.0.0.0 us1tryasemi.ru
@@ -11339,6 +11364,7 @@
 0.0.0.0 vfo.voyage-prive.co.uk
 0.0.0.0 vftbnl.com
 0.0.0.0 vg4u8rvq65t6.com
+0.0.0.0 vggxxhton.com
 0.0.0.0 vgjackpot5.com
 0.0.0.0 vgo.vegaoo.de
 0.0.0.0 vhajaja.pro
@@ -11923,6 +11949,7 @@
 0.0.0.0 wundercounter.com
 0.0.0.0 wunderdaten.com
 0.0.0.0 wunderloop.net
+0.0.0.0 wvahelphpfnhyx.com
 0.0.0.0 wvghl.com
 0.0.0.0 wvzhj.com
 0.0.0.0 wwclickgo.com
@@ -12068,6 +12095,7 @@
 0.0.0.0 xunkhuczqnuf.com
 0.0.0.0 xunlaile.com
 0.0.0.0 xuossk3tu6hb.com
+0.0.0.0 xuveiai.ru
 0.0.0.0 xvhvm.top
 0.0.0.0 xvmvvh.zcrqsfq.biz
 0.0.0.0 xvqaz.com

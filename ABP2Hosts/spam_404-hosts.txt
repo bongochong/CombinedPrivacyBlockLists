@@ -1,4 +1,4 @@
-# Mon 17 Aug 2020 12:22:37 PM MDT
+# Sun 23 Aug 2020 12:40:26 AM MDT
 # Spam404 Hosts - Generated weekly by bongochong
 0.0.0.0 0daygameparadise.com
 0.0.0.0 0hacks.com
@@ -346,6 +346,7 @@
 0.0.0.0 atomicwallet.pro
 0.0.0.0 atomicwalletweb.com
 0.0.0.0 atomicwallet.ws
+0.0.0.0 atshop.io
 0.0.0.0 attackfile.com
 0.0.0.0 attractivevideos.com
 0.0.0.0 audioload.net
@@ -611,6 +612,7 @@
 0.0.0.0 bododu.ru
 0.0.0.0 bolgspot.com
 0.0.0.0 boltfiles.com
+0.0.0.0 bombalts.com
 0.0.0.0 bombgamble.com
 0.0.0.0 bomb-hack.com
 0.0.0.0 bombhack.com
@@ -6543,6 +6545,7 @@
 0.0.0.0 seizefile.co
 0.0.0.0 sekaze.ru
 0.0.0.0 sellclassics.com
+0.0.0.0 sellix.io
 0.0.0.0 semec.ru
 0.0.0.0 sendaufile.com
 0.0.0.0 sendblaze.com
