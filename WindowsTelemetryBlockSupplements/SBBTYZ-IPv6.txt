@@ -1,7 +1,7 @@
 #Anti-Telemetry Hosts for Windows from TYZBIT, CrazyMax and SpyBot Anti-Beacon
 #IPv6 Version
 #Included in default hosts file
-#Last update 8/07/2020
+#Last update 8/24/2020
 
 :: a.ads1.msn.com
 :: a.ads2.msads.net
@@ -219,7 +219,6 @@
 :: eu.vortex-win.data.microsoft.com
 :: eu.vortex.data.microsoft.com
 :: events.data.microsoft.com
-:: fe2.update.microsoft.com.akadns.net
 :: feedback.search.microsoft.com
 :: feedback.windows.com
 :: flex.msn.com
@@ -357,7 +356,6 @@
 :: settings.data.glbdns2.microsoft.com
 :: settingsfd-geo.trafficmanager.net
 :: sg2p.wns.windows.com
-:: sls.update.microsoft.com.akadns.net
 :: sn3301-c.1drv.com
 :: sn3301-e.1drv.com
 :: sn3301-g.1drv.com
