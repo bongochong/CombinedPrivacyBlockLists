@@ -1,4 +1,4 @@
-// **** Sun 23 Aug 2020 12:44:44 AM MDT
+// **** Mon 24 Aug 2020 07:08:12 PM MDT
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0daygameparadise.com') ||
@@ -4600,6 +4600,7 @@ shExpMatch(host, '*.fairhack.com') ||
 shExpMatch(host, '*.fakenotesplug.com') ||
 shExpMatch(host, '*.faker322.pro') ||
 shExpMatch(host, '*.faker322.ru') ||
+shExpMatch(host, '*.fallguysmobile.com') ||
 shExpMatch(host, '*.fallout4free.com') ||
 shExpMatch(host, '*.fame.web24news.com') ||
 shExpMatch(host, '*.familiarfloor.com') ||
@@ -17313,6 +17314,7 @@ shExpMatch(host, 'fairhack.com') ||
 shExpMatch(host, 'fakenotesplug.com') ||
 shExpMatch(host, 'faker322.pro') ||
 shExpMatch(host, 'faker322.ru') ||
+shExpMatch(host, 'fallguysmobile.com') ||
 shExpMatch(host, 'fallout4free.com') ||
 shExpMatch(host, 'fame.web24news.com') ||
 shExpMatch(host, 'familiarfloor.com') ||
