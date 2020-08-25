@@ -1,4 +1,4 @@
-# Sun 23 Aug 2020 12:42:48 AM MDT
+# Mon 24 Aug 2020 07:05:45 PM MDT
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -64,6 +64,7 @@
 0.0.0.0 198935.engine.mobileapptracking.com
 0.0.0.0 199002.engine.mobileapptracking.com
 0.0.0.0 1mp.mobi
+0.0.0.0 1rx.io
 0.0.0.0 204.scloud.lfengmobile.com
 0.0.0.0 20min.app.tamedia.click
 0.0.0.0 21104.engine.mobileapptracking.com
@@ -121,6 +122,7 @@
 0.0.0.0 3243857.fls.doubleclick.net
 0.0.0.0 3371.api.swrve.com
 0.0.0.0 3371.content.swrve.com
+0.0.0.0 33across.com
 0.0.0.0 33across-d.openx.net
 0.0.0.0 3426.api.swrve.com
 0.0.0.0 3444.api.swrve.com
@@ -157,6 +159,7 @@
 0.0.0.0 3991.content.swrve.com
 0.0.0.0 3cinteractive.com
 0.0.0.0 3gl.net
+0.0.0.0 3lift.com
 0.0.0.0 3m.mediav.com
 0.0.0.0 3pt.placelocal.com
 0.0.0.0 3.redirect.appmetrica.yandex.com
@@ -479,6 +482,7 @@
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 adelphic-partners.tremorhub.com
 0.0.0.0 ad-emea.doubleclick.net
+0.0.0.0 adentifi.com
 0.0.0.0 ad-ettoday.cdn.hinet.net
 0.0.0.0 ad-eu-west.ipredictive.com
 0.0.0.0 adeventtracker.spotify.com
@@ -518,6 +522,7 @@
 0.0.0.0 adj.st
 0.0.0.0 adjust.com
 0.0.0.0 adjust.io
+0.0.0.0 adkernel.com
 0.0.0.0 ad.kixer.com
 0.0.0.0 adkmob.com
 0.0.0.0 adlanding.admarketplace.net.akadns.net
@@ -963,6 +968,7 @@
 0.0.0.0 adups.com
 0.0.0.0 ad-us-west.ipredictive.com
 0.0.0.0 advancelocal-adapter-image-uploads.s3.amazonaws.com
+0.0.0.0 advangelists.com
 0.0.0.0 advantech.vo.llnwd.net
 0.0.0.0 adversal.com
 0.0.0.0 adverserve.net
@@ -1046,6 +1052,7 @@
 0.0.0.0 ag.gbc.criteo.com
 0.0.0.0 agility.cnn.com
 0.0.0.0 ag.innovid.com
+0.0.0.0 agkn.com
 0.0.0.0 agnes.scloud.lfengmobile.com
 0.0.0.0 a.goadservices.com
 0.0.0.0 agoodm.m.taobao.com
@@ -1079,6 +1086,7 @@
 0.0.0.0 ak.sail-horizon.com
 0.0.0.0 ak.sailthru.com
 0.0.0.0 aksdk-images.adikteev.com
+0.0.0.0 akstat.io
 0.0.0.0 aktrack.pubmatic.com
 0.0.0.0 alciqcnfnhhs.c.richmetrics.com
 0.0.0.0 alexajstrack.com
@@ -1327,6 +1335,7 @@
 0.0.0.0 an.facebook.com
 0.0.0.0 ani.adspruce.com
 0.0.0.0 a.niholaev.com
+0.0.0.0 aniview.com
 0.0.0.0 anquan.org
 0.0.0.0 answers-d.openx.net
 0.0.0.0 answers.nielsen.com
@@ -2192,6 +2201,7 @@
 0.0.0.0 betaffs.com
 0.0.0.0 betrad.com
 0.0.0.0 betsonsport.ru
+0.0.0.0 bfmio.com
 0.0.0.0 bgrndi.com
 0.0.0.0 bh.contextweb.com
 0.0.0.0 bhmedia-tagan.adlightning.com
@@ -2216,6 +2226,7 @@
 0.0.0.0 bid.pubmatic.com
 0.0.0.0 bidsopt.com
 0.0.0.0 bidswitch-eu.splicky.com
+0.0.0.0 bidswitch.net
 0.0.0.0 bigabid.offerstrack.net
 0.0.0.0 bigmobileads.com
 0.0.0.0 bi.manhuaren.com
@@ -2714,6 +2725,7 @@
 0.0.0.0 chango.com
 0.0.0.0 channel.api.duapp.com
 0.0.0.0 charles.huqindustries.co.uk
+0.0.0.0 chartbeat.net
 0.0.0.0 chartbeat-sdk.s3.amazonaws.com
 0.0.0.0 chartboost.com
 0.0.0.0 chartboost-east-bidder.manage.com
@@ -4047,6 +4059,7 @@
 0.0.0.0 geo.yahoo.com
 0.0.0.0 geo.yieldify.com
 0.0.0.0 geshopimg.logsss.com
+0.0.0.0 getclicky.com
 0.0.0.0 getwisdom.io
 0.0.0.0 g.fotoable.com
 0.0.0.0 gf.umenglog.com
@@ -5257,6 +5270,7 @@
 0.0.0.0 meucci.atinternet.com
 0.0.0.0 me.xdrig.com
 0.0.0.0 mfad.inskinad.com
+0.0.0.0 mfadsrvr.com
 0.0.0.0 mgage.com
 0.0.0.0 mgd-adengine.elasticbeanstalk.com
 0.0.0.0 mg.lentainform.com
@@ -6086,6 +6100,7 @@
 0.0.0.0 postrelease.com
 0.0.0.0 postut.cn
 0.0.0.0 powerclear.lionmobi.com
+0.0.0.0 powerlinks.com
 0.0.0.0 powerwifi.lionmobi.com
 0.0.0.0 powr-counter.herokuapp.com
 0.0.0.0 p.placed.com
@@ -6981,6 +6996,7 @@
 0.0.0.0 s-img.mgid.com
 0.0.0.0 simplesharebuttons.com
 0.0.0.0 simpletexting.com
+0.0.0.0 simpli.fi
 0.0.0.0 simplycast.com
 0.0.0.0 sin1-ib.adnxs.com
 0.0.0.0 sin1.ipromote.com
@@ -7163,6 +7179,7 @@
 0.0.0.0 spotscenered.info
 0.0.0.0 spotxchange.com
 0.0.0.0 spotx-match.dotomi.com
+0.0.0.0 springserve.com
 0.0.0.0 springserve.net
 0.0.0.0 sprint.asapp.com
 0.0.0.0 sprintcollector.tealeaf.ibmcloud.com
@@ -8391,6 +8408,7 @@
 0.0.0.0 v.w-x.co
 0.0.0.0 vyk.admaster.com.cn
 0.0.0.0 w3i.com
+0.0.0.0 w55c.net
 0.0.0.0 wa.appsflyer.com
 0.0.0.0 w.admedia.com
 0.0.0.0 wad.ojooo.com

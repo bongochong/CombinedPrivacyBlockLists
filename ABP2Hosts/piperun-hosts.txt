@@ -1,4 +1,4 @@
-# Sun 23 Aug 2020 12:43:17 AM MDT
+# Mon 24 Aug 2020 07:06:37 PM MDT
 # Piperun IPLoggerFilter Hosts - Generated weekly by bongochong
 0.0.0.0 00689.net
 0.0.0.0 02ip.ru
@@ -139,6 +139,7 @@
 0.0.0.0 cartouchespourfondationdesbrules.be
 0.0.0.0 casumocasino.no
 0.0.0.0 catercart.co.nz
+0.0.0.0 catsnthing.com
 0.0.0.0 cemalsenay.com
 0.0.0.0 centenarulromaniei.ro
 0.0.0.0 certificadobr.info

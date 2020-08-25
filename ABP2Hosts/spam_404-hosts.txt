@@ -1,4 +1,4 @@
-# Sun 23 Aug 2020 12:43:12 AM MDT
+# Mon 24 Aug 2020 07:06:32 PM MDT
 # Spam404 Hosts - Generated weekly by bongochong
 0.0.0.0 0daygameparadise.com
 0.0.0.0 0hacks.com
@@ -2361,6 +2361,7 @@
 0.0.0.0 fakenotesplug.com
 0.0.0.0 faker322.pro
 0.0.0.0 faker322.ru
+0.0.0.0 fallguysmobile.com
 0.0.0.0 fallout4free.com
 0.0.0.0 fame.web24news.com
 0.0.0.0 famog.ru

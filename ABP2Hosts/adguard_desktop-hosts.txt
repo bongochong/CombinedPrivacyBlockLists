@@ -1,4 +1,4 @@
-# Sun 23 Aug 2020 12:42:57 AM MDT
+# Mon 24 Aug 2020 07:05:58 PM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 00bloggers.ru
@@ -777,6 +777,7 @@
 0.0.0.0 advanced-web-analytics.com
 0.0.0.0 advancenative.com
 0.0.0.0 advancets.org
+0.0.0.0 advangelists.com
 0.0.0.0 advanter.ru
 0.0.0.0 advant.ml
 0.0.0.0 advarkads.com
@@ -1802,6 +1803,7 @@
 0.0.0.0 bf41f552ceb9a150ee17.date
 0.0.0.0 bfbdfjjacgddcajcej.ru
 0.0.0.0 bfe4e6d364be199.com
+0.0.0.0 bfmio.com
 0.0.0.0 bfoleyinteractive.com
 0.0.0.0 bformu12.tk
 0.0.0.0 bgadx.com
@@ -2321,6 +2323,7 @@
 0.0.0.0 cehiswasreb.ru
 0.0.0.0 cekyryfagyhy.ga
 0.0.0.0 celebros-analytics.com
+0.0.0.0 celebrus.com
 0.0.0.0 celeritascdn.com
 0.0.0.0 cellbux.com
 0.0.0.0 cellorun.info
@@ -4504,6 +4507,7 @@
 0.0.0.0 gapinubuso.com
 0.0.0.0 gardoult.com
 0.0.0.0 gasolina.ml
+0.0.0.0 gateway.answerscloud.com
 0.0.0.0 gatewey.net
 0.0.0.0 gaug.es
 0.0.0.0 gawxf.com
@@ -5000,6 +5004,7 @@
 0.0.0.0 hi.hellobar.com
 0.0.0.0 hikeheoratth.info
 0.0.0.0 hilariouszinc.com
+0.0.0.0 himekingrow.com
 0.0.0.0 hindisupref.ru
 0.0.0.0 hindsight.significanceapps.com
 0.0.0.0 hiopdi.com
@@ -5491,6 +5496,7 @@
 0.0.0.0 irelandmetrix.ie
 0.0.0.0 irleti.com
 0.0.0.0 irozl.com
+0.0.0.0 irpopup.ir
 0.0.0.0 irqs.ioam.de
 0.0.0.0 irs09.com
 0.0.0.0 irtya.com
@@ -6412,6 +6418,7 @@
 0.0.0.0 majoritishbettes.info
 0.0.0.0 makemyvids.com
 0.0.0.0 makroads.net
+0.0.0.0 makuzeko.xyz
 0.0.0.0 malictuiar.com
 0.0.0.0 maliva-mcs.byteoversea.com
 0.0.0.0 m.alylym.top
@@ -9737,6 +9744,7 @@
 0.0.0.0 stab.thench.net
 0.0.0.0 stack-sonar.com
 0.0.0.0 stags.bluekai.com
+0.0.0.0 stalesummer.com
 0.0.0.0 stalluva.pro
 0.0.0.0 stampshire.info
 0.0.0.0 standadv.com
@@ -10282,6 +10290,7 @@
 0.0.0.0 teazzer.ru
 0.0.0.0 tebadu.com
 0.0.0.0 techbeat.com
+0.0.0.0 techlab-cdn.com
 0.0.0.0 technical-service.net
 0.0.0.0 ted.dailymail.co.uk
 0.0.0.0 t.eharmony.com
