@@ -1,4 +1,4 @@
-// **** Mon 24 Aug 2020 07:08:12 PM MDT
+// **** Tue 25 Aug 2020 06:27:54 PM MDT
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0daygameparadise.com') ||
@@ -6336,6 +6336,7 @@ shExpMatch(host, '*.gurucheats.com') ||
 shExpMatch(host, '*.gurugiftcards.com') ||
 shExpMatch(host, '*.guzgame.com') ||
 shExpMatch(host, '*.gxprocord.com') ||
+shExpMatch(host, '*.h0.t.hubspotemail.net') ||
 shExpMatch(host, '*.h1z1.cash') ||
 shExpMatch(host, '*.h1z1echange.com') ||
 shExpMatch(host, '*.h1z1trade.online') ||
@@ -8713,6 +8714,7 @@ shExpMatch(host, '*.newpsncodegenerator.org') ||
 shExpMatch(host, '*.newsadsppush.com') ||
 shExpMatch(host, '*.newsgeek.pl') ||
 shExpMatch(host, '*.newshared.com') ||
+shExpMatch(host, '*.newsletter-link.com') ||
 shExpMatch(host, '*.newsregular.com') ||
 shExpMatch(host, '*.news-report24.com') ||
 shExpMatch(host, '*.newstarads.com') ||
@@ -19050,6 +19052,7 @@ shExpMatch(host, 'gurucheats.com') ||
 shExpMatch(host, 'gurugiftcards.com') ||
 shExpMatch(host, 'guzgame.com') ||
 shExpMatch(host, 'gxprocord.com') ||
+shExpMatch(host, 'h0.t.hubspotemail.net') ||
 shExpMatch(host, 'h1z1.cash') ||
 shExpMatch(host, 'h1z1echange.com') ||
 shExpMatch(host, 'h1z1trade.online') ||
@@ -21427,6 +21430,7 @@ shExpMatch(host, 'newpsncodegenerator.org') ||
 shExpMatch(host, 'newsadsppush.com') ||
 shExpMatch(host, 'newsgeek.pl') ||
 shExpMatch(host, 'newshared.com') ||
+shExpMatch(host, 'newsletter-link.com') ||
 shExpMatch(host, 'newsregular.com') ||
 shExpMatch(host, 'news-report24.com') ||
 shExpMatch(host, 'newstarads.com') ||
