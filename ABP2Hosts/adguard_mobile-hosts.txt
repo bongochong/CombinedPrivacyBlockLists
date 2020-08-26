@@ -1,4 +1,4 @@
-# Mon 24 Aug 2020 07:05:45 PM MDT
+# Tue 25 Aug 2020 06:20:58 PM MDT
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -764,6 +764,7 @@
 0.0.0.0 adservex.media.net
 0.0.0.0 adservice.google.com
 0.0.0.0 adservice.google.com.tr
+0.0.0.0 adservice.google.com.ua
 0.0.0.0 adservice.google.com.vn
 0.0.0.0 adservice.google.de
 0.0.0.0 adservice.google.ie
@@ -800,6 +801,7 @@
 0.0.0.0 ads.jianchiapp.com
 0.0.0.0 ads.justpremium.com
 0.0.0.0 ads.kontextua.com
+0.0.0.0 ads.latinongroup.com
 0.0.0.0 ads-leaseweb.appsgeyser.com
 0.0.0.0 ads.lfstmedia.com
 0.0.0.0 ads.linkedin.com
@@ -7404,7 +7406,6 @@
 0.0.0.0 stats.kumulos.com
 0.0.0.0 stats.mediaforge.com
 0.0.0.0 stats.mediaforge.com.edgekey.net
-0.0.0.0 stats.nba.com.edgekey.net
 0.0.0.0 stats.netsolads.com
 0.0.0.0 statsonline.pushct.baidu.com
 0.0.0.0 stats.origin.kaltura.com

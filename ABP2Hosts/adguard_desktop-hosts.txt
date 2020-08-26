@@ -1,4 +1,4 @@
-# Mon 24 Aug 2020 07:05:58 PM MDT
+# Tue 25 Aug 2020 06:21:09 PM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 00bloggers.ru
@@ -1367,6 +1367,7 @@
 0.0.0.0 aservices.party
 0.0.0.0 asewlfjqwlflkew.com
 0.0.0.0 asextube.net
+0.0.0.0 asgclickkl.com
 0.0.0.0 asgdfasad.mm-cgnews.com
 0.0.0.0 as.gooodloooking.com
 0.0.0.0 asg.xz2aab.xyz
@@ -3471,6 +3472,7 @@
 0.0.0.0 disklaimer.ru
 0.0.0.0 displaymarketplace.com
 0.0.0.0 display.nativemedia.rs
+0.0.0.0 displaynetworkprofit.com
 0.0.0.0 disp-x.space
 0.0.0.0 disredi.ru
 0.0.0.0 distiltag.com
@@ -6169,6 +6171,7 @@
 0.0.0.0 lnkfast.com
 0.0.0.0 loader-tor.ru
 0.0.0.0 loadmoney.ru
+0.0.0.0 loadonenot.online
 0.0.0.0 load.sumome.com
 0.0.0.0 lobster.unionpeer.com
 0.0.0.0 localbitcoins.com
@@ -6270,6 +6273,7 @@
 0.0.0.0 look-reklama.ru
 0.0.0.0 lookszone.ru
 0.0.0.0 loopfuse.net
+0.0.0.0 loopredsglen.com
 0.0.0.0 l.ooyala.com
 0.0.0.0 lopiner.ru
 0.0.0.0 lopireto.com
@@ -12097,6 +12101,7 @@
 0.0.0.0 x-tds-wiz.com
 0.0.0.0 x-traceur.com
 0.0.0.0 xtractor.no
+0.0.0.0 xtransferme.com
 0.0.0.0 xtremline.com
 0.0.0.0 xts-pay.ru
 0.0.0.0 xtvoh.com
