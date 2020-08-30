@@ -1,4 +1,4 @@
-# Tue 25 Aug 2020 06:21:09 PM MDT
+# Sun 30 Aug 2020 12:42:02 PM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 00bloggers.ru
@@ -132,6 +132,7 @@
 0.0.0.0 321gongsi.com
 0.0.0.0 33across.com
 0.0.0.0 33portala.ru
+0.0.0.0 348wd7etbann.com
 0.0.0.0 34bogatirya.ru
 0.0.0.0 34ed5da2977d1ace.com
 0.0.0.0 3585656d9351553f.com
@@ -1050,6 +1051,7 @@
 0.0.0.0 alogationa.co
 0.0.0.0 alpari.ru
 0.0.0.0 alphacash.biz
+0.0.0.0 alruqbfjg.com
 0.0.0.0 als.baidu.com
 0.0.0.0 alslz.top
 0.0.0.0 altabold1.com
@@ -1364,6 +1366,7 @@
 0.0.0.0 asdorka.com
 0.0.0.0 asdqweq.com
 0.0.0.0 a.sdska.ru
+0.0.0.0 aserverstats.com
 0.0.0.0 aservices.party
 0.0.0.0 asewlfjqwlflkew.com
 0.0.0.0 asextube.net
@@ -2082,6 +2085,7 @@
 0.0.0.0 bsyauqwerd.party
 0.0.0.0 btbuckets.com
 0.0.0.0 btdnav.com
+0.0.0.0 btemegxbnalq.com
 0.0.0.0 bt.mediaimpact.de
 0.0.0.0 bt.phorm.com
 0.0.0.0 btstatic.com
@@ -2442,6 +2446,7 @@
 0.0.0.0 clarivoy.com
 0.0.0.0 clarm.ru
 0.0.0.0 classentedol.club
+0.0.0.0 clawtoiltaupe.com
 0.0.0.0 clcassd.com
 0.0.0.0 clcktm.ru
 0.0.0.0 clcktms.ru
@@ -3963,6 +3968,7 @@
 0.0.0.0 eth-pocket.de
 0.0.0.0 eti-code.com
 0.0.0.0 etoads.net
+0.0.0.0 etpsn.com
 0.0.0.0 etqigt.com
 0.0.0.0 etrabandidlo.club
 0.0.0.0 etracker.com
@@ -4246,6 +4252,7 @@
 0.0.0.0 firstfrogs.com
 0.0.0.0 firsttrack.ru
 0.0.0.0 fishhoo.com
+0.0.0.0 fitbxtqgneq.com
 0.0.0.0 fitfas.ru
 0.0.0.0 fitfatdeals.com
 0.0.0.0 fixchidie.com
@@ -4284,6 +4291,7 @@
 0.0.0.0 fluencymedia.com
 0.0.0.0 fluidsurveys.com
 0.0.0.0 flurry.com
+0.0.0.0 flushafterwardinteger.com
 0.0.0.0 flx1.com
 0.0.0.0 flxpxl.com
 0.0.0.0 flygo.ru
@@ -5083,6 +5091,7 @@
 0.0.0.0 hm.baidu.com
 0.0.0.0 hnikna.ru
 0.0.0.0 hnixr.com
+0.0.0.0 hobfadbig.com
 0.0.0.0 hocgeese.com
 0.0.0.0 hochu-deneg.ru
 0.0.0.0 hogantgot.com
@@ -5222,6 +5231,7 @@
 0.0.0.0 idealmedia.io
 0.0.0.0 ideoclick.com
 0.0.0.0 idhvbfj.pro
+0.0.0.0 idiafix.com
 0.0.0.0 idio.co
 0.0.0.0 id.kbmg.cz
 0.0.0.0 idot.cz
@@ -5577,6 +5587,7 @@
 0.0.0.0 jadizayo.com
 0.0.0.0 jaizouji.com
 0.0.0.0 jajnhd.com
+0.0.0.0 jamdomn.pro
 0.0.0.0 jamexistence.com
 0.0.0.0 jandolav.com
 0.0.0.0 janndfsc.pro
@@ -5616,6 +5627,7 @@
 0.0.0.0 jin0cbonpi.ru
 0.0.0.0 jin33456.cn
 0.0.0.0 jinchaoyu.com
+0.0.0.0 jincodiks.com
 0.0.0.0 jingavot.com
 0.0.0.0 jirafe.com
 0.0.0.0 jiwvbck.com
@@ -5695,6 +5707,7 @@
 0.0.0.0 js.xz6d.com
 0.0.0.0 jsybwjivrlhx.com
 0.0.0.0 ju33.com
+0.0.0.0 jubnaadserve.com
 0.0.0.0 juejdkio.com
 0.0.0.0 juicyads.com
 0.0.0.0 jujzh9va.com
@@ -6933,6 +6946,7 @@
 0.0.0.0 m.siwmc.cn
 0.0.0.0 msrv.su
 0.0.0.0 mstat.acestream.net
+0.0.0.0 mstcs.info
 0.0.0.0 mstngh.com
 0.0.0.0 mstop.ru
 0.0.0.0 mstracker.net
@@ -7282,6 +7296,7 @@
 0.0.0.0 norvalur.xyz
 0.0.0.0 nostalgia.onego.ru
 0.0.0.0 notbad-ads.com
+0.0.0.0 notchcollectormuffin.com
 0.0.0.0 notification-centar.com
 0.0.0.0 notify-bugs-fra1.rtl.de
 0.0.0.0 notifyvisitors.com
@@ -7601,6 +7616,7 @@
 0.0.0.0 optmnstr.com
 0.0.0.0 optorb.com
 0.0.0.0 opt.ximad.com
+0.0.0.0 oqwrba.com
 0.0.0.0 oranges88.com
 0.0.0.0 orcapia.com
 0.0.0.0 oreshki-news.net
@@ -7799,6 +7815,7 @@
 0.0.0.0 pb.i.sogou.com
 0.0.0.0 pbnet.ru
 0.0.0.0 pbox.photobox.de
+0.0.0.0 pbstck.com
 0.0.0.0 pc1.io
 0.0.0.0 pcads.ru
 0.0.0.0 pc-agency24.de
@@ -8692,7 +8709,6 @@
 0.0.0.0 reitingas.lt
 0.0.0.0 reitingi.lv
 0.0.0.0 rejestr.org
-0.0.0.0 rek1.gtorrent.org
 0.0.0.0 rekagrorb.bid
 0.0.0.0 rekhatov.ru
 0.0.0.0 rek.hepaffiliates.com
@@ -8818,6 +8834,7 @@
 0.0.0.0 rhinoseo.com
 0.0.0.0 rholi.ru
 0.0.0.0 rhtag.com
+0.0.0.0 rhvfma2exjudfv.ru
 0.0.0.0 riastats.com
 0.0.0.0 richard-group.com
 0.0.0.0 richbanner.ru
@@ -9051,6 +9068,7 @@
 0.0.0.0 saber.srvcs.tumblr.com
 0.0.0.0 sad2tizer.ru
 0.0.0.0 safe524.xyz
+0.0.0.0 safebrowsdv.com
 0.0.0.0 saferedd.com
 0.0.0.0 saferedirrect.com
 0.0.0.0 sageanalyst.net
@@ -9103,6 +9121,7 @@
 0.0.0.0 scafer.ru
 0.0.0.0 scaledb.com
 0.0.0.0 scarabresearch.com
+0.0.0.0 scarceagitationwry.com
 0.0.0.0 scarcestream.com
 0.0.0.0 scarpbooking.ru
 0.0.0.0 scastnet.com
@@ -9335,6 +9354,7 @@
 0.0.0.0 shulhanafuh.com
 0.0.0.0 siblesectiveal.club
 0.0.0.0 sicksmash.com
+0.0.0.0 sidebar.incest-porno.tv
 0.0.0.0 siftscience.com
 0.0.0.0 sifuglie.com
 0.0.0.0 sigmaad.com
@@ -9579,6 +9599,7 @@
 0.0.0.0 speedcount.de
 0.0.0.0 speedcounter.net
 0.0.0.0 speedcurve.com
+0.0.0.0 speedsagesleepy.com
 0.0.0.0 speedtracker.de
 0.0.0.0 speed-trap.com
 0.0.0.0 spelar.org
@@ -9974,6 +9995,7 @@
 0.0.0.0 statun.com
 0.0.0.0 statuncore.com
 0.0.0.0 statuscake.com
+0.0.0.0 stat.ustore.bz
 0.0.0.0 stat.www.fi
 0.0.0.0 stat.xhamsterpremium.com
 0.0.0.0 stat.youku.com
@@ -10584,6 +10606,7 @@
 0.0.0.0 torstytons.pro
 0.0.0.0 torvind.com
 0.0.0.0 tostega.ru
+0.0.0.0 tothemoon.incest-porno.pro
 0.0.0.0 totogetica.com
 0.0.0.0 totsinuts.ru
 0.0.0.0 touchclarity.com
@@ -10777,6 +10800,7 @@
 0.0.0.0 trackkas.com
 0.0.0.0 tracklab.club
 0.0.0.0 track.leadhit.io
+0.0.0.0 track.lexico.com
 0.0.0.0 track.mopo.de
 0.0.0.0 track.mp3bars.com
 0.0.0.0 track.mp3vizor.com
@@ -11180,6 +11204,7 @@
 0.0.0.0 unolis.ru
 0.0.0.0 unrummaged.com
 0.0.0.0 unscrewing.ru
+0.0.0.0 untidyrice.com
 0.0.0.0 untily.com
 0.0.0.0 unusualtitle.com
 0.0.0.0 unzpc.com
@@ -11192,7 +11217,6 @@
 0.0.0.0 upasiansex.com
 0.0.0.0 upcash.ru
 0.0.0.0 upclick.ru
-0.0.0.0 up.gtorrent.org
 0.0.0.0 upgulpinon.com
 0.0.0.0 uplvcx.xyz
 0.0.0.0 uppro.ru
@@ -11626,6 +11650,7 @@
 0.0.0.0 vyborexperta.ru
 0.0.0.0 vyg.mobi
 0.0.0.0 vyykulowdu.com
+0.0.0.0 vznntmjdb.com
 0.0.0.0 vzrufh.com
 0.0.0.0 vztfc.com
 0.0.0.0 vzw.sp1.convertro.com
@@ -11797,6 +11822,7 @@
 0.0.0.0 west.click
 0.0.0.0 wexevoom.net
 0.0.0.0 wexrt.ru
+0.0.0.0 wgqakonrahgprc.com
 0.0.0.0 wguke.com
 0.0.0.0 whackedmedia.com
 0.0.0.0 whaleserver.com
@@ -12050,6 +12076,7 @@
 0.0.0.0 xk0x.cn
 0.0.0.0 xkjxgt.com
 0.0.0.0 xkort.biz
+0.0.0.0 xksqb.com
 0.0.0.0 xl-counti.com
 0.0.0.0 x.ligatus.com
 0.0.0.0 xlnuj.com
@@ -12120,6 +12147,7 @@
 0.0.0.0 xxrniridsnzr.com
 0.0.0.0 xxslu.space
 0.0.0.0 xxuhter.ru
+0.0.0.0 xxutoyreg.com
 0.0.0.0 xxx-babes.org
 0.0.0.0 xxxc2c.org
 0.0.0.0 xxxcounter.com
@@ -12395,6 +12423,7 @@
 0.0.0.0 zugnogne.com
 0.0.0.0 zukxd6fkxqn.com
 0.0.0.0 zurgerya.ru
+0.0.0.0 zurilito.xyz
 0.0.0.0 zusbzr.com
 0.0.0.0 zusrd.cn
 0.0.0.0 zuzodoad.com

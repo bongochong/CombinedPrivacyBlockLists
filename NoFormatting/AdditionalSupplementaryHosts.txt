@@ -720,7 +720,6 @@
 0.0.0.0 analsexphoto.yourfreesites.com
 0.0.0.0 anal-videos-photos.com
 0.0.0.0 analytics.admob.com
-0.0.0.0 analytics.cliqz.com
 0.0.0.0 analytics.google.com
 0.0.0.0 analytics.localytics.com
 0.0.0.0 analytics.query.yahoo.com

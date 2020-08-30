@@ -1,4 +1,4 @@
-# Tue 25 Aug 2020 06:21:26 PM MDT
+# Sun 30 Aug 2020 12:42:18 PM MDT
 # Spam404 Hosts - Generated weekly by bongochong
 0.0.0.0 0daygameparadise.com
 0.0.0.0 0hacks.com
@@ -8148,6 +8148,7 @@
 0.0.0.0 youtube.streaming.demovie.xyz
 0.0.0.0 youtube.wandi.onomovie.xyz
 0.0.0.0 yyoutube.com
+0.0.0.0 zadbit.com
 0.0.0.0 zagamers.com
 0.0.0.0 zans.onecinema.us
 0.0.0.0 zebracheats.com
