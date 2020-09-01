@@ -16,6 +16,7 @@ cdn-staging.signal.org
 cdn2-staging.signal.org
 community.signalusers.org
 configuration.apple.com
+content.jwplatform.com
 db.tt
 dev.twitter.com
 dropbox.com
