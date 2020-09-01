@@ -1,4 +1,4 @@
-# Mon 31 Aug 2020 06:24:17 PM MDT
+# Tue 01 Sep 2020 02:19:59 AM MDT
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -4308,6 +4308,7 @@
 0.0.0.0 bigbootymania.com
 0.0.0.0 bigcattracks.com
 0.0.0.0 bigchoicegroup.com
+0.0.0.0 bigcooc.xyz
 0.0.0.0 bigcood.xyz
 0.0.0.0 bigfineads.com
 0.0.0.0 bigmining.com
@@ -8481,6 +8482,7 @@
 0.0.0.0 enhance.com
 0.0.0.0 enjuk.com
 0.0.0.0 enjuw.com
+0.0.0.0 enkayijamal.club
 0.0.0.0 enkonyus.ru
 0.0.0.0 enlarget.com
 0.0.0.0 enlnks.com
@@ -10256,6 +10258,7 @@
 0.0.0.0 girlz42night.biz
 0.0.0.0 giroud.top
 0.0.0.0 girrjaqgjb.com
+0.0.0.0 giscoeswork.space
 0.0.0.0 gitishcreasu.info
 0.0.0.0 gitma.info
 0.0.0.0 gitoku.com
@@ -17532,6 +17535,7 @@
 0.0.0.0 oodraune.com
 0.0.0.0 oodsotso.com
 0.0.0.0 oojthlwtlu.com
+0.0.0.0 ookedapp.club
 0.0.0.0 ookiqhfioldxwj.com
 0.0.0.0 oonnmaxhz.com
 0.0.0.0 o-oo.ooo
@@ -18310,6 +18314,7 @@
 0.0.0.0 piginkdos.com
 0.0.0.0 p.igra-prestoloff.cx
 0.0.0.0 piifwkvdil.com
+0.0.0.0 pi.ispot.tv
 0.0.0.0 pijlvpsqf.com
 0.0.0.0 pikzor.com
 0.0.0.0 pimpmypr.de
@@ -18766,6 +18771,7 @@
 0.0.0.0 prepareplanes.com
 0.0.0.0 prerol.tut.by
 0.0.0.0 presearchity.site
+0.0.0.0 presentsh.club
 0.0.0.0 pressa-plus.com
 0.0.0.0 prestadsng.com
 0.0.0.0 presticikju.club
@@ -27684,6 +27690,7 @@
 0.0.0.0 zhkbjqtstd.com
 0.0.0.0 zhlfogiy.com
 0.0.0.0 zhlrcaahpuqh.com
+0.0.0.0 zhmatou.com
 0.0.0.0 zhongchengzp.com
 0.0.0.0 zhongdoulicai.com
 0.0.0.0 zhongfujiaoyu.cn

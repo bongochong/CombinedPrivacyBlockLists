@@ -1,4 +1,4 @@
-# Mon 31 Aug 2020 06:24:07 PM MDT
+# Tue 01 Sep 2020 02:19:48 AM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 00bloggers.ru
@@ -8427,6 +8427,7 @@
 0.0.0.0 pvclouds.com
 0.0.0.0 pv.dakawm.cc
 0.0.0.0 pv.ldlwdsx.com
+0.0.0.0 pvngnfe.pro
 0.0.0.0 pv.pjtsu.com
 0.0.0.0 pvp-pro.space
 0.0.0.0 pvrnqpgvbucif.com
