@@ -56,6 +56,7 @@ localhost$
 ^0.0.0.0 cdn2-staging.signal.org$
 ^0.0.0.0 community.signalusers.org$
 ^0.0.0.0 configuration.apple.com$
+^0.0.0.0 content.jwplatform.com$
 ^0.0.0.0 db.tt$
 ^0.0.0.0 dev.twitter.com$
 ^0.0.0.0 dropbox.com$
