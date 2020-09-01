@@ -1022,7 +1022,6 @@
 0.0.0.0 consultant-online.ru
 0.0.0.0 contactos-gay.com
 0.0.0.0 content.joinaxxess.com
-0.0.0.0 content.jwplatform.com
 0.0.0.0 content.seerealgirls.com
 0.0.0.0 contextualyield.com
 0.0.0.0 controlsecurity.net

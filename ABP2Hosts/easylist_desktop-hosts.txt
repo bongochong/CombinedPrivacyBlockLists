@@ -1,4 +1,4 @@
-# Sun 30 Aug 2020 12:42:12 PM MDT
+# Mon 31 Aug 2020 06:24:17 PM MDT
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -867,6 +867,7 @@
 0.0.0.0 6shuge.com
 0.0.0.0 6sxi6i74dk9m.com
 0.0.0.0 6u4dxh2f14.com
+0.0.0.0 6ujk8x9soxhm.com
 0.0.0.0 6vgtaearxl49.com
 0.0.0.0 6yag4bmwyhs4.com
 0.0.0.0 6yfory7f0njw.com
@@ -934,6 +935,7 @@
 0.0.0.0 7car.com.cn
 0.0.0.0 7cipgmg8r6.ru
 0.0.0.0 7d6260236b547b31f.com
+0.0.0.0 7d6b2264fe.com
 0.0.0.0 7dah8.com
 0.0.0.0 7db0b2a0ee95f557904.com
 0.0.0.0 7dee28afeb8c939d8.com
@@ -1165,6 +1167,7 @@
 0.0.0.0 a0c66.com
 0.0.0.0 a0c77.com
 0.0.0.0 a0e5b16728.com
+0.0.0.0 a0f3ad8585.com
 0.0.0.0 a0usa.top
 0.0.0.0 a1.0s.net.cn
 0.0.0.0 a15256378569ec595.com
@@ -3291,6 +3294,7 @@
 0.0.0.0 arkbuyarm.club
 0.0.0.0 arketscolourse.site
 0.0.0.0 arlime.com
+0.0.0.0 arlottencert.club
 0.0.0.0 armashair.site
 0.0.0.0 armatchints.info
 0.0.0.0 armbadare.site
@@ -3965,6 +3969,7 @@
 0.0.0.0 bd1.yidu.cc
 0.0.0.0 bd3.chuiyue.com
 0.0.0.0 bd888.qizuang.com
+0.0.0.0 bda18716516.com
 0.0.0.0 bdad.gaotie.net
 0.0.0.0 bdasd.chdbook.cn
 0.0.0.0 bdasd.chinabig.com.cn
@@ -4321,6 +4326,7 @@
 0.0.0.0 bilderfest.ru
 0.0.0.0 bildirt.com
 0.0.0.0 bileth.pw
+0.0.0.0 bilkscotpyx.com
 0.0.0.0 billionfocus.com
 0.0.0.0 billionpops.com
 0.0.0.0 billypub.com
@@ -6729,6 +6735,7 @@
 0.0.0.0 d1cr9zxt7u0sgu.cloudfront.net
 0.0.0.0 d1crt12zco2cvf.cloudfront.net
 0.0.0.0 d1diqetif5itzx.cloudfront.net
+0.0.0.0 d1e28xq8vu3baf.cloudfront.net
 0.0.0.0 d1ebha2k07asm5.cloudfront.net
 0.0.0.0 d1f5rbi95y1icu.cloudfront.net
 0.0.0.0 d1gp8joe0evc8s.cloudfront.net
@@ -7295,6 +7302,7 @@
 0.0.0.0 de-mi-nis-ner2.info
 0.0.0.0 de-mi-nis-ner.info
 0.0.0.0 denakop.com
+0.0.0.0 denaviatived.space
 0.0.0.0 de-ner-mi-nis4.info
 0.0.0.0 dengfenzhang.cn
 0.0.0.0 de-nis-ner-mi-5.info
@@ -7500,6 +7508,7 @@
 0.0.0.0 diseasonal.club
 0.0.0.0 diseasons.club
 0.0.0.0 disloyalstrapunderstatement.com
+0.0.0.0 disobeystewhit.com
 0.0.0.0 display.digitalriver.com
 0.0.0.0 displaymarketplace.com
 0.0.0.0 displaynews.live
@@ -8957,6 +8966,7 @@
 0.0.0.0 f18a35cc33ee29a.com
 0.0.0.0 f1.ichong123.com
 0.0.0.0 f1.pig66.com
+0.0.0.0 f1t5pb.cn
 0.0.0.0 f1tbit.com
 0.0.0.0 f1.zaojv.com
 0.0.0.0 f26f3cbe225289a0947.com
@@ -9245,6 +9255,7 @@
 0.0.0.0 ff.xue163.net
 0.0.0.0 ffychb.com
 0.0.0.0 fg09t.com
+0.0.0.0 fgangstsur.club
 0.0.0.0 fgbmbyqmdgr.com
 0.0.0.0 fgbmjogeurrqe.com
 0.0.0.0 fgddl9szdof7.com
@@ -9442,6 +9453,7 @@
 0.0.0.0 fmpub.net
 0.0.0.0 fmrbnuhtabzavu.com
 0.0.0.0 fmsads.com
+0.0.0.0 fmsde0dv2j54.com
 0.0.0.0 fmstigat.online
 0.0.0.0 fmu1qrtjoamc.pro
 0.0.0.0 fmusive.ru
@@ -9858,6 +9870,7 @@
 0.0.0.0 g3367433695.co
 0.0.0.0 g3369554495.com
 0.0.0.0 g344530742.com
+0.0.0.0 g3565518030.co
 0.0.0.0 g3ao2q.cn
 0.0.0.0 g3j2wzmon8b.com
 0.0.0.0 g.3lian.com
@@ -10479,6 +10492,7 @@
 0.0.0.0 goraps.com
 0.0.0.0 goredi.com
 0.0.0.0 goreleetren.com
+0.0.0.0 gorettent.xyz
 0.0.0.0 gorgeousground.com
 0.0.0.0 gorgonkil.com
 0.0.0.0 go-rillatrack.com
@@ -12358,6 +12372,7 @@
 0.0.0.0 invitejs.trustpilot.com
 0.0.0.0 invite.leanlab.co
 0.0.0.0 invitemedia.com
+0.0.0.0 invitesuperstitiousadmire.com
 0.0.0.0 inviziads.com
 0.0.0.0 invoca.net
 0.0.0.0 invoca.solutions
@@ -14716,6 +14731,7 @@
 0.0.0.0 lruvvletnhv.com
 0.0.0.0 lrwwnbjiv.com
 0.0.0.0 lryfmcok.com
+0.0.0.0 lsailington.club
 0.0.0.0 lsckvlhhqlo.com
 0.0.0.0 lsdgtifuqrwjax.com
 0.0.0.0 lseddehpo.com
@@ -16593,6 +16609,7 @@
 0.0.0.0 newstogram.com
 0.0.0.0 news-top-rated.com
 0.0.0.0 newsubscribes.com
+0.0.0.0 newsunads.com
 0.0.0.0 newsushe.info
 0.0.0.0 news-whistleout.s3.amazonaws.com
 0.0.0.0 newtention.net
@@ -17395,6 +17412,7 @@
 0.0.0.0 omchanseyr.com
 0.0.0.0 omclick.com
 0.0.0.0 ometria.com
+0.0.0.0 omfortsex.club
 0.0.0.0 omg2.com
 0.0.0.0 omgnjvrjgpeg.com
 0.0.0.0 omgpm.com
@@ -17916,6 +17934,7 @@
 0.0.0.0 panel-cn.com
 0.0.0.0 panelsave.com
 0.0.0.0 panicnews.ru
+0.0.0.0 panieswol.club
 0.0.0.0 pantherads.com
 0.0.0.0 panwenjun.top
 0.0.0.0 panyh123456.cn
@@ -18773,7 +18792,6 @@
 0.0.0.0 pr-inc.biz
 0.0.0.0 pritesol.com
 0.0.0.0 privacy-center.org
-0.0.0.0 privacy-mgmt.com
 0.0.0.0 privacy-policy.truste.com
 0.0.0.0 privacysearching.com
 0.0.0.0 privatteaser.ru
@@ -18872,6 +18890,7 @@
 0.0.0.0 prorentisol.com
 0.0.0.0 prospecteye.com
 0.0.0.0 prosperent.com
+0.0.0.0 prosumsit.com
 0.0.0.0 protally.net
 0.0.0.0 proteaser.com
 0.0.0.0 protectdedication.com
@@ -19759,6 +19778,7 @@
 0.0.0.0 ragapa.com
 0.0.0.0 rahvoujjgmtvft.com
 0.0.0.0 raigluce.net
+0.0.0.0 railroadheroicgold.com
 0.0.0.0 railwayreason.com
 0.0.0.0 rainfinemalawi.com
 0.0.0.0 raintwig.com
@@ -19906,6 +19926,7 @@
 0.0.0.0 readertracking.com
 0.0.0.0 readly-renterval.icu
 0.0.0.0 readnotify.com
+0.0.0.0 readpeak.com
 0.0.0.0 readserver.net
 0.0.0.0 readtoday.ru
 0.0.0.0 readvasturked.pro
@@ -21345,6 +21366,7 @@
 0.0.0.0 sheechoa.com
 0.0.0.0 shefficera.club
 0.0.0.0 she-ke.cn
+0.0.0.0 shellowsduo.space
 0.0.0.0 sheltenham.site
 0.0.0.0 shemeejo.com
 0.0.0.0 shemirta.info
@@ -21622,6 +21644,7 @@
 0.0.0.0 skyttt.com
 0.0.0.0 skytvonline.tv
 0.0.0.0 slartibartfast.ru
+0.0.0.0 slaveforgetfulsneak.com
 0.0.0.0 slavial.pro
 0.0.0.0 sl-ct5.com
 0.0.0.0 slectrumclarat.fun
@@ -23161,6 +23184,7 @@
 0.0.0.0 tinb.net
 0.0.0.0 tinbuadserv.com
 0.0.0.0 tineprepair.club
+0.0.0.0 tingenerall.club
 0.0.0.0 tingfengyu.top
 0.0.0.0 tinglian.com
 0.0.0.0 tinkerta.com
@@ -24554,6 +24578,7 @@
 0.0.0.0 uroki21.ru
 0.0.0.0 uropersag.club
 0.0.0.0 urstats.de
+0.0.0.0 urthvisitoric.space
 0.0.0.0 urtracker.q-sis.de
 0.0.0.0 uruswan.com
 0.0.0.0 urymiseshabe.club
@@ -24853,6 +24878,7 @@
 0.0.0.0 veewakim.net
 0.0.0.0 vegent.cn
 0.0.0.0 veille-referencement.com
+0.0.0.0 veilsrichae.club
 0.0.0.0 veinteractive.com
 0.0.0.0 ve.kj-cy.cn
 0.0.0.0 vekuridufq.com
@@ -25781,6 +25807,7 @@
 0.0.0.0 whgvyswets.com
 0.0.0.0 whhxnz.com
 0.0.0.0 whiceega.com
+0.0.0.0 whicherinc.club
 0.0.0.0 whichtalk.com
 0.0.0.0 whistleout.s3.amazonaws.com
 0.0.0.0 whiteboardnez.com
@@ -26758,6 +26785,7 @@
 0.0.0.0 xunhuaji.cn
 0.0.0.0 xunkhuczqnuf.com
 0.0.0.0 xunlaile.com
+0.0.0.0 xuossk3tu6hb.com
 0.0.0.0 xuqdbqkqgj.com
 0.0.0.0 xuqinqi.cn
 0.0.0.0 xurizhongguo.cn
@@ -27764,6 +27792,7 @@
 0.0.0.0 zlfhe8.cn
 0.0.0.0 zlfzeuvk.com
 0.0.0.0 zlhscyahjbaq.com
+0.0.0.0 zlinkm.com
 0.0.0.0 zlkrsqad.com
 0.0.0.0 zllanqoglad.com
 0.0.0.0 zlluzejac.com

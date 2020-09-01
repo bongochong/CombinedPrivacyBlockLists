@@ -1,4 +1,4 @@
-# Sun 30 Aug 2020 12:42:02 PM MDT
+# Mon 31 Aug 2020 06:24:07 PM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 00bloggers.ru
@@ -1196,6 +1196,7 @@
 0.0.0.0 analyticswizard.com
 0.0.0.0 analytics.xyscdn.com
 0.0.0.0 analytics.yahoo.com
+0.0.0.0 analytics.zeekit.co
 0.0.0.0 analytk.com
 0.0.0.0 analyzer52.fc2.com
 0.0.0.0 analyze.yahooapis.com
@@ -4144,6 +4145,7 @@
 0.0.0.0 fafc5ra5.ru
 0.0.0.0 fafc5ra6.ru
 0.0.0.0 faibl.org
+0.0.0.0 faigroas.net
 0.0.0.0 fairfaxmedia.sharedcount.com
 0.0.0.0 fairlink.ru
 0.0.0.0 fairnessels.com
@@ -4192,6 +4194,7 @@
 0.0.0.0 fcs.ovh
 0.0.0.0 fc.webmasterpro.de
 0.0.0.0 fd9523b31ff93b5c.com
+0.0.0.0 fdbtvavxtfvpbx.com
 0.0.0.0 fdgeen.com
 0.0.0.0 fdrhbw.com
 0.0.0.0 fdsur.com
@@ -5641,6 +5644,7 @@
 0.0.0.0 jmpmedia.club
 0.0.0.0 job-info2015.ru
 0.0.0.0 jofbu.com
+0.0.0.0 joggingavenge.com
 0.0.0.0 joheeptaicat.com
 0.0.0.0 johnsitsi.pro
 0.0.0.0 join.xlgirls.com
@@ -5739,6 +5743,7 @@
 0.0.0.0 k26fe9xhuzm.com
 0.0.0.0 k2n0f.cn
 0.0.0.0 k3node.com
+0.0.0.0 k50.ru
 0.0.0.0 k5evib.ru
 0.0.0.0 k77hof1z7k.com
 0.0.0.0 kadam.net
@@ -6035,6 +6040,7 @@
 0.0.0.0 ledhatbet.com
 0.0.0.0 ledhenone.com
 0.0.0.0 ledinika.ru
+0.0.0.0 ledmophemp.com
 0.0.0.0 ledsitling.pro
 0.0.0.0 leforma.com
 0.0.0.0 leftnetarenning.pro
@@ -6302,6 +6308,7 @@
 0.0.0.0 loronap.info
 0.0.0.0 lorybnfh.com
 0.0.0.0 losecounter.de
+0.0.0.0 losingoldfry.com
 0.0.0.0 losstrack.com
 0.0.0.0 lostplanetcdn.com
 0.0.0.0 loudloss.com
@@ -6923,6 +6930,7 @@
 0.0.0.0 mpianalytics.com
 0.0.0.0 mplxtms.com
 0.0.0.0 mpstat.us
+0.0.0.0 mp.subservis.com
 0.0.0.0 mpwe.net
 0.0.0.0 mq.d6s3mov.cn
 0.0.0.0 mqgpo.com
@@ -8126,6 +8134,7 @@
 0.0.0.0 populr.me
 0.0.0.0 popunderjs.club
 0.0.0.0 popunders.bid
+0.0.0.0 popupaval.com
 0.0.0.0 popupme.net
 0.0.0.0 popupplus.ir
 0.0.0.0 popups.ru
@@ -9206,6 +9215,7 @@
 0.0.0.0 seitwert.de
 0.0.0.0 sektorial.com
 0.0.0.0 selaris.com
+0.0.0.0 seldos.com.tr
 0.0.0.0 selectornews.com
 0.0.0.0 selectroduced.com
 0.0.0.0 selfcampaign.com

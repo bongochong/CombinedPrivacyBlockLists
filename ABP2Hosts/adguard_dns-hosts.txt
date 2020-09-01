@@ -1,4 +1,4 @@
-# Sun 30 Aug 2020 12:42:16 PM MDT
+# Mon 31 Aug 2020 06:24:20 PM MDT
 # AdGuard DNS Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -1056,6 +1056,7 @@
 0.0.0.0 7car.com.cn
 0.0.0.0 7cdf78unokr7.ru
 0.0.0.0 7d6260236b547b31f.com
+0.0.0.0 7d6b2264fe.com
 0.0.0.0 7dah8.com
 0.0.0.0 7db0b2a0ee95f557904.com
 0.0.0.0 7dee28afeb8c939d8.com
@@ -4573,6 +4574,7 @@
 0.0.0.0 arketscolourse.site
 0.0.0.0 arkinhechershedt.info
 0.0.0.0 arlime.com
+0.0.0.0 arlottencert.club
 0.0.0.0 armaimapt.club
 0.0.0.0 armame.info
 0.0.0.0 armashair.site
@@ -5455,6 +5457,7 @@
 0.0.0.0 bd3.chuiyue.com
 0.0.0.0 bd4travel.com
 0.0.0.0 bd888.qizuang.com
+0.0.0.0 bda18716516.com
 0.0.0.0 bdad.gaotie.net
 0.0.0.0 bdasd.chdbook.cn
 0.0.0.0 bdasd.chinabig.com.cn
@@ -9869,6 +9872,7 @@
 0.0.0.0 dis.hogei.info
 0.0.0.0 disklaimer.ru
 0.0.0.0 disloyalstrapunderstatement.com
+0.0.0.0 disobeystewhit.com
 0.0.0.0 dispatcher.mng-ads.com
 0.0.0.0 dispatcher.upmc.uc.cn
 0.0.0.0 displaymarketplace.com
@@ -11672,6 +11676,7 @@
 0.0.0.0 f18a35cc33ee29a.com
 0.0.0.0 f1.ichong123.com
 0.0.0.0 f1.pig66.com
+0.0.0.0 f1t5pb.cn
 0.0.0.0 f1tbit.com
 0.0.0.0 f1.zaojv.com
 0.0.0.0 f26f3cbe225289a0947.com
@@ -11738,6 +11743,7 @@
 0.0.0.0 fahimpace.pro
 0.0.0.0 faibl.org
 0.0.0.0 faidoud.com
+0.0.0.0 faigroas.net
 0.0.0.0 fail24h.com
 0.0.0.0 failoglo.com
 0.0.0.0 fairadsnetwork.com
@@ -11879,6 +11885,7 @@
 0.0.0.0 fd9523b31ff93b5c.com
 0.0.0.0 fdaoo.com
 0.0.0.0 fdbpnqh.cn
+0.0.0.0 fdbtvavxtfvpbx.com
 0.0.0.0 fdf4.com
 0.0.0.0 fdfrbyxylhgii.com
 0.0.0.0 fdgeen.com
@@ -12007,6 +12014,7 @@
 0.0.0.0 ff.xue163.net
 0.0.0.0 ffychb.com
 0.0.0.0 fg09t.com
+0.0.0.0 fgangstsur.club
 0.0.0.0 fgbmbyqmdgr.com
 0.0.0.0 fgbmjogeurrqe.com
 0.0.0.0 fgcash.com.br
@@ -12733,6 +12741,7 @@
 0.0.0.0 g3367433695.co
 0.0.0.0 g3369554495.com
 0.0.0.0 g344530742.com
+0.0.0.0 g3565518030.co
 0.0.0.0 g3ao2q.cn
 0.0.0.0 g3j2wzmon8b.com
 0.0.0.0 g.3lian.com
@@ -16547,6 +16556,7 @@
 0.0.0.0 jodellbrought.pro
 0.0.0.0 jodellvideos.pro
 0.0.0.0 jofbu.com
+0.0.0.0 joggingavenge.com
 0.0.0.0 johays.co
 0.0.0.0 joheeptaicat.com
 0.0.0.0 johnsitsi.pro
@@ -17849,6 +17859,7 @@
 0.0.0.0 ledhenone.com
 0.0.0.0 ledinika.ru
 0.0.0.0 lediyxobgmrgeb.com
+0.0.0.0 ledmophemp.com
 0.0.0.0 ledqfvbihsgs.com
 0.0.0.0 ledraumt.com
 0.0.0.0 ledsdwwmhapz.com
@@ -18582,6 +18593,7 @@
 0.0.0.0 lorybnfh.com
 0.0.0.0 lose4admin.de
 0.0.0.0 losecounter.de
+0.0.0.0 losingoldfry.com
 0.0.0.0 losstrack.com
 0.0.0.0 lostplanetcdn.com
 0.0.0.0 lotteryaffiliates.com
@@ -20256,6 +20268,7 @@
 0.0.0.0 mprisedluxemb.info
 0.0.0.0 mps-gba.de
 0.0.0.0 mpstat.us
+0.0.0.0 mp.subservis.com
 0.0.0.0 mps.yuwenba.cn
 0.0.0.0 mptedcazdep.info
 0.0.0.0 mptentry.com
@@ -21517,6 +21530,7 @@
 0.0.0.0 ntent.com
 0.0.0.0 ntentifycom.club
 0.0.0.0 nterbx.com
+0.0.0.0 nteredprac.club
 0.0.0.0 ntgqcnferh.com
 0.0.0.0 ntgygnke.com
 0.0.0.0 nthfds.xyz
@@ -22703,6 +22717,7 @@
 0.0.0.0 panection.co
 0.0.0.0 panel-cn.com
 0.0.0.0 panelsave.com
+0.0.0.0 panieswol.club
 0.0.0.0 panoll.com
 0.0.0.0 pantherads.com
 0.0.0.0 panther.goguardian.com
@@ -23618,6 +23633,7 @@
 0.0.0.0 popundertotal.com
 0.0.0.0 popunderz.com
 0.0.0.0 popunderzone.com
+0.0.0.0 popupaval.com
 0.0.0.0 popupdomination.com
 0.0.0.0 popupmaker.com
 0.0.0.0 popupme.net
@@ -23839,7 +23855,6 @@
 0.0.0.0 print3.info
 0.0.0.0 pritesol.com
 0.0.0.0 privacy-center.org
-0.0.0.0 privacy-mgmt.com
 0.0.0.0 privacy-policy.truste.com
 0.0.0.0 privacysearching.com
 0.0.0.0 privacysecurityprotection.com
@@ -23984,6 +23999,7 @@
 0.0.0.0 prostats.it
 0.0.0.0 prostolos.ru
 0.0.0.0 prostopartnerka.ru
+0.0.0.0 prosumsit.com
 0.0.0.0 protally.net
 0.0.0.0 protawe.com
 0.0.0.0 proteaser.net
@@ -25057,6 +25073,7 @@
 0.0.0.0 ragitupime.com
 0.0.0.0 rahvoujjgmtvft.com
 0.0.0.0 raigluce.net
+0.0.0.0 railroadheroicgold.com
 0.0.0.0 railwayreason.com
 0.0.0.0 rain4cloud.gold
 0.0.0.0 rainfinemalawi.com
@@ -25237,6 +25254,7 @@
 0.0.0.0 readme.ru
 0.0.0.0 readnewstoday.ru
 0.0.0.0 readnotify.com
+0.0.0.0 readpeak.com
 0.0.0.0 readserver.net
 0.0.0.0 readto.ru
 0.0.0.0 readvasturked.pro
@@ -26810,6 +26828,7 @@
 0.0.0.0 sektorial.com
 0.0.0.0 sekusfrgojuc.com
 0.0.0.0 selaris.com
+0.0.0.0 seldos.com.tr
 0.0.0.0 selectablemedia.com
 0.0.0.0 selectivesummer.com
 0.0.0.0 selectornews.com
@@ -27087,6 +27106,7 @@
 0.0.0.0 sheenami.net
 0.0.0.0 shefficera.club
 0.0.0.0 she-ke.cn
+0.0.0.0 shellowsduo.space
 0.0.0.0 sheltenham.site
 0.0.0.0 shelterstraw.com
 0.0.0.0 shemeejo.com
@@ -27414,6 +27434,7 @@
 0.0.0.0 skyvideo1.ru
 0.0.0.0 s-lab.it
 0.0.0.0 slava.soloway.su
+0.0.0.0 slaveforgetfulsneak.com
 0.0.0.0 slavial.pro
 0.0.0.0 slb.gedawang.com
 0.0.0.0 sl-ct5.com
@@ -29649,6 +29670,7 @@
 0.0.0.0 tinb.net
 0.0.0.0 tinbuadserv.com
 0.0.0.0 tineprepair.club
+0.0.0.0 tingenerall.club
 0.0.0.0 tingfengyu.top
 0.0.0.0 tinggalklik.com
 0.0.0.0 tinglian.com
@@ -31569,6 +31591,7 @@
 0.0.0.0 uroidgcc.com
 0.0.0.0 uropersag.club
 0.0.0.0 urstats.de
+0.0.0.0 urthvisitoric.space
 0.0.0.0 urtracker.q-sis.de
 0.0.0.0 uruswan.com
 0.0.0.0 urwb.ru
@@ -31951,6 +31974,7 @@
 0.0.0.0 vegabet.net
 0.0.0.0 vegent.cn
 0.0.0.0 veille-referencement.com
+0.0.0.0 veilsrichae.club
 0.0.0.0 veinteractive.com
 0.0.0.0 ve.kj-cy.cn
 0.0.0.0 vekuridufq.com

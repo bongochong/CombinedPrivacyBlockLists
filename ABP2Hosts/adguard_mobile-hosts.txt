@@ -1,4 +1,4 @@
-# Sun 30 Aug 2020 12:41:51 PM MDT
+# Mon 31 Aug 2020 06:23:49 PM MDT
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -434,7 +434,6 @@
 0.0.0.0 adashbc.ut.taobao.com
 0.0.0.0 adash.m.taobao.com
 0.0.0.0 adashxgc.ut.taobao.com
-0.0.0.0 adashx.m.taobao.com
 0.0.0.0 adasiaholdings.com
 0.0.0.0 adasiatagmanager.appspot.com
 0.0.0.0 ad.atdmt.com
@@ -3694,7 +3693,6 @@
 0.0.0.0 esimedia-d.openx.net
 0.0.0.0 espn.hb.omtrdc.net
 0.0.0.0 e-ssl.apsalar.com
-0.0.0.0 et2-na61-na62.wagbridge.alibaba.tanx.com
 0.0.0.0 etahub.com
 0.0.0.0 etargetnet.com
 0.0.0.0 et-code.ru
@@ -5519,7 +5517,6 @@
 0.0.0.0 n4403ad.doubleclick.net
 0.0.0.0 na61-na62-st3.wagbridge.advertisement.tanx.com
 0.0.0.0 na61-na62.wagbridge.advertisement.tanx.com
-0.0.0.0 na61-na62.wagbridge.alibaba.tanx.com
 0.0.0.0 na-ab05.marketo.com
 0.0.0.0 na-ab07.marketo.com
 0.0.0.0 na-ab17.marketo.com
@@ -6646,7 +6643,6 @@
 0.0.0.0 sc.iasds01.com
 0.0.0.0 s.click.aliexpress.com
 0.0.0.0 sclick.baidu.com
-0.0.0.0 s.click.taobao.com
 0.0.0.0 sc.omniture.com
 0.0.0.0 scorecardresearch.com
 0.0.0.0 scout24-d.openx.net
@@ -8486,7 +8482,6 @@
 0.0.0.0 wmhlch.com
 0.0.0.0 w.m.taobao.com
 0.0.0.0 wn.pos.baidu.com
-0.0.0.0 woodpecker.uc.cn
 0.0.0.0 wootric-eligibility.herokuapp.com
 0.0.0.0 wordego.com
 0.0.0.0 worker1.advertnative.com
