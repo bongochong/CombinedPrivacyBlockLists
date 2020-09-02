@@ -1,4 +1,4 @@
-# Tue 01 Sep 2020 02:19:38 AM MDT
+# Wed 02 Sep 2020 10:39:02 AM MDT
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -1767,7 +1767,6 @@
 0.0.0.0 applifier.com
 0.0.0.0 applift-a.apptornado.com
 0.0.0.0 applift-b.apptornado.com
-0.0.0.0 applift.com
 0.0.0.0 app.link
 0.0.0.0 appload.ingest.crittercism.com
 0.0.0.0 appload.ingest.eu.crittercism.com
@@ -3847,7 +3846,6 @@
 0.0.0.0 fastclick.net
 0.0.0.0 fastlane-adv.rubiconproject.com
 0.0.0.0 fastlane.rubiconproject.com
-0.0.0.0 fastmap33.com
 0.0.0.0 fast.mtvn.demdex.net
 0.0.0.0 fb.adsrvr.org
 0.0.0.0 fbapi.dxsvr.com
@@ -6275,6 +6273,7 @@
 0.0.0.0 px.moatads.com
 0.0.0.0 px.owneriq.net
 0.0.0.0 px.sharethis.com
+0.0.0.0 px.ucweb.com
 0.0.0.0 pythagore.demdex.net
 0.0.0.0 pyxis.iad.appboy.com
 0.0.0.0 qaamgo-d.openx.net
@@ -8314,7 +8313,6 @@
 0.0.0.0 vendimob.pl
 0.0.0.0 vendorlist.consensu.org
 0.0.0.0 venetia.iad.appboy.com
-0.0.0.0 vennala.pw
 0.0.0.0 verizon.asapp.com
 0.0.0.0 verizon.demdex.net
 0.0.0.0 verticalscope-d.openx.net

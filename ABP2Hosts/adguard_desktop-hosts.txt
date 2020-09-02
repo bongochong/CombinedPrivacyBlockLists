@@ -1,4 +1,4 @@
-# Tue 01 Sep 2020 02:19:48 AM MDT
+# Wed 02 Sep 2020 10:39:13 AM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 00bloggers.ru
@@ -178,6 +178,7 @@
 0.0.0.0 4jiqzr.ru
 0.0.0.0 4jnzhl0d0.com
 0.0.0.0 4n1hqmcoms.rest
+0.0.0.0 4nb437eugn.ru.com
 0.0.0.0 4oney.com
 0.0.0.0 4smi.ru
 0.0.0.0 4stats.de
@@ -484,7 +485,7 @@
 0.0.0.0 adelixir.com
 0.0.0.0 ad.emlakeki.com
 0.0.0.0 ad.erkiss.club
-0.0.0.0 ad.ettoday.net
+0.0.0.0 adex.sato.my.id
 0.0.0.0 adf.acrosspf.com
 0.0.0.0 adf.hdkinoshka.net
 0.0.0.0 adfill.me
@@ -581,7 +582,6 @@
 0.0.0.0 adnova.ru
 0.0.0.0 adn.porndig.com
 0.0.0.0 ad.ntvmsnbc.com
-0.0.0.0 adnxs.com
 0.0.0.0 adnz.co
 0.0.0.0 adobetag.com
 0.0.0.0 ado.delfi.ee
@@ -1004,6 +1004,7 @@
 0.0.0.0 alenty.com
 0.0.0.0 alephd.com
 0.0.0.0 alespeonor.com
+0.0.0.0 a.letsjerk.to
 0.0.0.0 alexacdn.com
 0.0.0.0 alexametrics.com
 0.0.0.0 alexrid.com
@@ -1306,8 +1307,6 @@
 0.0.0.0 appsha2.space
 0.0.0.0 app.shoptarget.com.br
 0.0.0.0 apps.poln.co
-0.0.0.0 apptentive.com
-0.0.0.0 apptimize.com
 0.0.0.0 app.titsx.com
 0.0.0.0 aprelite.com
 0.0.0.0 aprtx.com
@@ -1870,7 +1869,6 @@
 0.0.0.0 bitcoines.com
 0.0.0.0 bitcoinsad.com
 0.0.0.0 bitmedia.io
-0.0.0.0 bitmedianetwork.com
 0.0.0.0 bitonclick.com
 0.0.0.0 bitsads.xyz
 0.0.0.0 bittraffic.io
@@ -1905,7 +1903,6 @@
 0.0.0.0 blkget8.com
 0.0.0.0 blockbreaker.io
 0.0.0.0 blockmetrics.com
-0.0.0.0 block.pigiuqproxy.com
 0.0.0.0 block.s2block.com
 0.0.0.0 block.s2blosh.com
 0.0.0.0 blog104.com
@@ -2158,7 +2155,6 @@
 0.0.0.0 bzlwe.com
 0.0.0.0 bzoxa.cn
 0.0.0.0 bzrpvk.com
-0.0.0.0 c00.adobe.com
 0.0.0.0 c03jij5q.website
 0.0.0.0 c0.adalyser.com
 0.0.0.0 c1exchange.com
@@ -2632,6 +2628,7 @@
 0.0.0.0 cogleapad.com
 0.0.0.0 cogmatch.net
 0.0.0.0 cognitivematch.com
+0.0.0.0 coinad.media
 0.0.0.0 coinblind.com
 0.0.0.0 coinerra.com
 0.0.0.0 coin-have.com
@@ -2887,6 +2884,7 @@
 0.0.0.0 cpm10.com
 0.0.0.0 cpm20.com
 0.0.0.0 cpmly.com
+0.0.0.0 cpmprofitablecontent.com
 0.0.0.0 cpmterra.com
 0.0.0.0 cpm.wargaming.net
 0.0.0.0 cpm.worldoftanks.com
@@ -2909,6 +2907,7 @@
 0.0.0.0 crawlclocks.com
 0.0.0.0 craydark.pw
 0.0.0.0 crazyegg.com
+0.0.0.0 creamssicsite.com
 0.0.0.0 creara-media.com
 0.0.0.0 creara-media.ru
 0.0.0.0 creativecdn.com
@@ -3123,6 +3122,7 @@
 0.0.0.0 d2ho1n52p59mwv.cloudfront.net
 0.0.0.0 d2i54aseqwhx68.cloudfront.net
 0.0.0.0 d2ibu2ug0mt5qp.cloudfront.net
+0.0.0.0 d2j042cj1421wi.cloudfront.net
 0.0.0.0 d2j3te7y7s8xxp.cloudfront.net
 0.0.0.0 d2kmrmwhq7wkvs.cloudfront.net
 0.0.0.0 d2kz60b0gq4lg.cloudfront.net
@@ -3299,9 +3299,7 @@
 0.0.0.0 datafeedfile.com
 0.0.0.0 datamaster.com.cn
 0.0.0.0 datam.com
-0.0.0.0 datametrical.com
 0.0.0.0 datamind.ru
-0.0.0.0 data.mob.com
 0.0.0.0 data.neosmi.ru
 0.0.0.0 dataperforma.com
 0.0.0.0 data.permittingnorthlandseamen.info
@@ -3402,7 +3400,6 @@
 0.0.0.0 dev4enki.com
 0.0.0.0 devaxi.org
 0.0.0.0 device9.com
-0.0.0.0 device-analytics.rollout.io
 0.0.0.0 devkiforyou.org
 0.0.0.0 devtizer.ru
 0.0.0.0 dewife.ru
@@ -4182,6 +4179,7 @@
 0.0.0.0 fasttoss.com
 0.0.0.0 fastwebcounter.com
 0.0.0.0 fat1domain1.com
+0.0.0.0 fatchilli.media
 0.0.0.0 fate-xy.com
 0.0.0.0 fathomseo.com
 0.0.0.0 fawenys.xyz
@@ -4613,6 +4611,7 @@
 0.0.0.0 gethit.ru
 0.0.0.0 getmyfreetraffic.com
 0.0.0.0 getmygeo.com
+0.0.0.0 get.mypdf-search.com
 0.0.0.0 get.promofor.me
 0.0.0.0 getrotad.ru
 0.0.0.0 getrotag.ru
@@ -4622,6 +4621,8 @@
 0.0.0.0 getsmartcontent.com
 0.0.0.0 getsmartlook.com
 0.0.0.0 getstatistics.se
+0.0.0.0 getstat.net
+0.0.0.0 get.tfiph.com
 0.0.0.0 gettopup.com
 0.0.0.0 gettraff.com
 0.0.0.0 getuplinks.ru
@@ -4796,6 +4797,7 @@
 0.0.0.0 gostats.ro
 0.0.0.0 gostats.ru
 0.0.0.0 gostats.vn
+0.0.0.0 got-money.online
 0.0.0.0 goto.astdn.ru
 0.0.0.0 gotoredr.com
 0.0.0.0 gotostat.ru
@@ -4924,6 +4926,7 @@
 0.0.0.0 halstats.com
 0.0.0.0 hammerhearing.com
 0.0.0.0 hamphlete.com
+0.0.0.0 hamsterresentful.com
 0.0.0.0 hamtugin.com
 0.0.0.0 hanacbclbrdjon.com
 0.0.0.0 hanaprop.com
@@ -5594,6 +5597,7 @@
 0.0.0.0 jamexistence.com
 0.0.0.0 jandolav.com
 0.0.0.0 janndfsc.pro
+0.0.0.0 jannews.pro
 0.0.0.0 japanmetrix.jp
 0.0.0.0 jaskolski.biz
 0.0.0.0 javacript.cf
@@ -5758,6 +5762,7 @@
 0.0.0.0 kalooga.com
 0.0.0.0 kameleoon.com
 0.0.0.0 kampyle.com
+0.0.0.0 kaprila.com
 0.0.0.0 karaokepesni.ru
 0.0.0.0 karasutanu.com
 0.0.0.0 kataprius.com
@@ -6014,6 +6019,7 @@
 0.0.0.0 lead-123.com
 0.0.0.0 leadboxer.com
 0.0.0.0 lead-converter.com
+0.0.0.0 leadfeeder.com
 0.0.0.0 leadforce1.com
 0.0.0.0 leadforensics.com
 0.0.0.0 leadformix.com
@@ -6238,7 +6244,6 @@
 0.0.0.0 login.tracking101.com
 0.0.0.0 log.invodo.com
 0.0.0.0 log-ird.outbrain.com
-0.0.0.0 log.iyunmai.com
 0.0.0.0 log.krs-ix.ru
 0.0.0.0 loglady.publicbroadcasting.net
 0.0.0.0 log-live.direct.ly
@@ -6688,7 +6693,6 @@
 0.0.0.0 metrics.foxnews.com
 0.0.0.0 metrics.infranken.de
 0.0.0.0 metrics-logger.spot.im
-0.0.0.0 metrics.mzstatic.com
 0.0.0.0 metrics.n-tv.de
 0.0.0.0 metrics.pacsun.com
 0.0.0.0 metrics.tbliab.net
@@ -6828,7 +6832,6 @@
 0.0.0.0 mobiile-service.ru
 0.0.0.0 mobilebanner.ru
 0.0.0.0 mobile-click.biz
-0.0.0.0 mobileofferplace.site
 0.0.0.0 mobileoffers-7-q-download.com
 0.0.0.0 mobileoffers-a-download.com
 0.0.0.0 mobileoffers-cb-download.com
@@ -7364,6 +7367,7 @@
 0.0.0.0 n.vn-chk777.com
 0.0.0.0 nvoepbzqtn.com
 0.0.0.0 nvqsjdvgqnyk.com
+0.0.0.0 nvrblk.xyz
 0.0.0.0 nvrentao8.com
 0.0.0.0 nvsey.com
 0.0.0.0 nwmum.com
@@ -7391,6 +7395,7 @@
 0.0.0.0 oadz.com
 0.0.0.0 oagudsey.uk
 0.0.0.0 oardilin.com
+0.0.0.0 oarvfvntktnoto.com
 0.0.0.0 oassooxo.com
 0.0.0.0 oa-stc.zdn.vn
 0.0.0.0 obaizahshita.info
@@ -7715,7 +7720,6 @@
 0.0.0.0 pabhaco.ru
 0.0.0.0 pabrashu.info
 0.0.0.0 packsonikolas.info
-0.0.0.0 paclitor.com
 0.0.0.0 pacode.org
 0.0.0.0 paddsup.com
 0.0.0.0 padla.xyz
@@ -9918,7 +9922,6 @@
 0.0.0.0 stats.imgpay.ru
 0.0.0.0 statsinsight.com
 0.0.0.0 statsit.com
-0.0.0.0 stats.jpush.cn
 0.0.0.0 stats.kaltura.com
 0.0.0.0 statsmachine.com
 0.0.0.0 stats.macmillanusa.com
@@ -9936,7 +9939,6 @@
 0.0.0.0 stats.otempo.com.br
 0.0.0.0 stats.pandora.com
 0.0.0.0 stats.paste2.org
-0.0.0.0 stats.paypal.com
 0.0.0.0 stats.persgroep.be
 0.0.0.0 stats.persgroep.nl
 0.0.0.0 statsp.fpop.net
@@ -10026,7 +10028,6 @@
 0.0.0.0 steamsecretary.com
 0.0.0.0 steelhousemedia.com
 0.0.0.0 stellaservice.com
-0.0.0.0 stencef.com
 0.0.0.0 steptaik.net
 0.0.0.0 stf779.ru
 0.0.0.0 stg-data-collector.playbuzz.com
@@ -10268,7 +10269,6 @@
 0.0.0.0 tcactivity.net
 0.0.0.0 tch10.com
 0.0.0.0 tch30.com
-0.0.0.0 t.channeladvisor.com
 0.0.0.0 tcheck.outbrainimg.com
 0.0.0.0 tcimg.com
 0.0.0.0 t.cinemablend.com
@@ -11758,6 +11758,7 @@
 0.0.0.0 webmedia.co.il
 0.0.0.0 webmeter.ws
 0.0.0.0 webmine.cz
+0.0.0.0 webminepool.com
 0.0.0.0 webminerpool.com
 0.0.0.0 webmining.co
 0.0.0.0 webmobile.ws
