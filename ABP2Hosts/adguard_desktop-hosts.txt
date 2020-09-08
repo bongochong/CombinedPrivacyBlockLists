@@ -1,4 +1,4 @@
-# Wed 02 Sep 2020 10:39:13 AM MDT
+# Tue 08 Sep 2020 11:16:28 AM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 00bloggers.ru
@@ -509,6 +509,7 @@
 0.0.0.0 adhouse.cubecdn.net
 0.0.0.0 adhub.ru
 0.0.0.0 ad.hutor.ru
+0.0.0.0 adilk.ilikecomix.com
 0.0.0.0 adimage.media
 0.0.0.0 adinfo.ru
 0.0.0.0 adinlove.de
@@ -537,6 +538,7 @@
 0.0.0.0 adlmerge.com
 0.0.0.0 adl.mynetreklam.com
 0.0.0.0 ad.logro.com.tr
+0.0.0.0 adlook.me
 0.0.0.0 adlook.net
 0.0.0.0 admachina.com
 0.0.0.0 admachina.com.s.pstl.live
@@ -1029,6 +1031,7 @@
 0.0.0.0 allartand.club
 0.0.0.0 allbestnews.net
 0.0.0.0 allbn.net
+0.0.0.0 all-cod.com
 0.0.0.0 allcuteboys.com
 0.0.0.0 allergiya-na.ru
 0.0.0.0 allibestru.ru
@@ -1093,6 +1096,7 @@
 0.0.0.0 amunx.de
 0.0.0.0 amxdt.com
 0.0.0.0 amzbr.com
+0.0.0.0 analitik.edevlet.gov.tr
 0.0.0.0 analoganalytics.com
 0.0.0.0 analysis.afreecatv.com
 0.0.0.0 analysis.fi
@@ -1115,6 +1119,7 @@
 0.0.0.0 analytics.blue
 0.0.0.0 analytics.brave.com
 0.0.0.0 analytics.businessinsider.com
+0.0.0.0 analytics.callbell.eu
 0.0.0.0 analytics.carambo.la
 0.0.0.0 analytics.ceneo.pl
 0.0.0.0 analytics.cervellio.com
@@ -1572,6 +1577,7 @@
 0.0.0.0 baipagid.com
 0.0.0.0 bakteso.ru
 0.0.0.0 balancebreath.com
+0.0.0.0 balebunsob.com
 0.0.0.0 baletingo.com
 0.0.0.0 balks.pro
 0.0.0.0 balloontexture.com
@@ -1767,6 +1773,7 @@
 0.0.0.0 bestbestgirlz.in.net
 0.0.0.0 best-cargo.ru
 0.0.0.0 bestcontentfood.top
+0.0.0.0 bestcontentoperation.top
 0.0.0.0 bestdevchenki.pw
 0.0.0.0 bestdoska.ru
 0.0.0.0 bestevernews.com
@@ -4070,6 +4077,7 @@
 0.0.0.0 exapxl.de
 0.0.0.0 excalatom.com
 0.0.0.0 exchancetaur.info
+0.0.0.0 exchangedaudacious.com
 0.0.0.0 exchange.newsnet.in.ua
 0.0.0.0 exchangenews.ru
 0.0.0.0 exclusivebrass.com
@@ -4164,6 +4172,7 @@
 0.0.0.0 farshake.com
 0.0.0.0 fas.catholicgreatestinterpret.xyz
 0.0.0.0 f.asdfzxcv1312.com
+0.0.0.0 fasferesa.com
 0.0.0.0 fast12g.com
 0.0.0.0 fast2load.ru
 0.0.0.0 fastanalytic.com
@@ -4221,6 +4230,7 @@
 0.0.0.0 fextor.ru
 0.0.0.0 ff.astv.ru
 0.0.0.0 ffwap.com
+0.0.0.0 fggwavfjucnyw.com
 0.0.0.0 fgo22.info
 0.0.0.0 fgsffil.pro
 0.0.0.0 fhgh9sd.com
@@ -4822,6 +4832,7 @@
 0.0.0.0 gramovi.info
 0.0.0.0 grandoads.com
 0.0.0.0 grandslammedia.com
+0.0.0.0 graniteacquitcharacteristic.com
 0.0.0.0 grapheffect.com
 0.0.0.0 graphinsider.com
 0.0.0.0 graphli.net
@@ -4980,6 +4991,7 @@
 0.0.0.0 heightboost.com
 0.0.0.0 hellosherpa.com
 0.0.0.0 hellywood.ru
+0.0.0.0 helpful-web.com
 0.0.0.0 helpls.ru
 0.0.0.0 helvetinus.com
 0.0.0.0 hemnes.win
@@ -5396,6 +5408,7 @@
 0.0.0.0 innorame.com
 0.0.0.0 innovateads.com
 0.0.0.0 inoprosport.su
+0.0.0.0 in-page-push.com
 0.0.0.0 inphonic.com
 0.0.0.0 inpiza.com
 0.0.0.0 inpref.com
@@ -5463,6 +5476,7 @@
 0.0.0.0 invest-pool.ru
 0.0.0.0 invest-system.net
 0.0.0.0 invitemedia.com
+0.0.0.0 invitesuperstitiousadmire.com
 0.0.0.0 invoca.net
 0.0.0.0 invoca.solutions
 0.0.0.0 invoc.us
@@ -5810,6 +5824,7 @@
 0.0.0.0 kfrpr.club
 0.0.0.0 kfrqr.club
 0.0.0.0 kfryur.club
+0.0.0.0 kgnpwdf.cn
 0.0.0.0 khermesi.ru
 0.0.0.0 khesino.ru
 0.0.0.0 khilane.ru
@@ -6882,6 +6897,7 @@
 0.0.0.0 moonads.net
 0.0.0.0 moontuftboy.com
 0.0.0.0 moowouzy.net
+0.0.0.0 mopedisods.com
 0.0.0.0 mopinion.com
 0.0.0.0 mopnixhem.com
 0.0.0.0 morar.biz
@@ -7308,6 +7324,7 @@
 0.0.0.0 nostalgia.onego.ru
 0.0.0.0 notbad-ads.com
 0.0.0.0 notchcollectormuffin.com
+0.0.0.0 nothingarbourdough.com
 0.0.0.0 notification-centar.com
 0.0.0.0 notify-bugs-fra1.rtl.de
 0.0.0.0 notifyvisitors.com
@@ -7717,6 +7734,7 @@
 0.0.0.0 p0.raasnet.com
 0.0.0.0 p2p.bz
 0.0.0.0 p2trc.emv2.com
+0.0.0.0 p9oqu.com
 0.0.0.0 pabhaco.ru
 0.0.0.0 pabrashu.info
 0.0.0.0 packsonikolas.info
@@ -8122,6 +8140,7 @@
 0.0.0.0 popbounty.com
 0.0.0.0 popcent.net
 0.0.0.0 popclck.org
+0.0.0.0 popcornews.me
 0.0.0.0 pophahwot.com
 0.0.0.0 popinads.com
 0.0.0.0 popmajor.com
@@ -8482,6 +8501,7 @@
 0.0.0.0 qenprsuoashu.com
 0.0.0.0 qerusgreyt.com
 0.0.0.0 qeyps.com
+0.0.0.0 qfhmhhj.info
 0.0.0.0 qfhzki.com
 0.0.0.0 qfjherc.com
 0.0.0.0 qguwoq.cn
@@ -8557,6 +8577,7 @@
 0.0.0.0 qxyam.com
 0.0.0.0 qzlog.com
 0.0.0.0 qzxmtyy.com
+0.0.0.0 r023m83skv5v.com
 0.0.0.0 r528e.cn
 0.0.0.0 r5jpkacq.ru
 0.0.0.0 r6.galya.ru
@@ -8662,6 +8683,7 @@
 0.0.0.0 reborko.com
 0.0.0.0 rec2000.at.ua
 0.0.0.0 recallen.info
+0.0.0.0 recentrecentinsectsquantity.com
 0.0.0.0 receptiveink.com
 0.0.0.0 receptivereaction.com
 0.0.0.0 reclame.io
@@ -8778,6 +8800,7 @@
 0.0.0.0 renewnewss.net
 0.0.0.0 rensovetors.info
 0.0.0.0 reotherebyfery.club
+0.0.0.0 reoxclick.com
 0.0.0.0 rep0pkgr.com
 0.0.0.0 repaynik.com
 0.0.0.0 repdata.usatoday.com
@@ -8971,6 +8994,7 @@
 0.0.0.0 rtbauction.com
 0.0.0.0 rtbclick.net
 0.0.0.0 rtb.com.ru
+0.0.0.0 rtb.connatix.com
 0.0.0.0 rtbget.com
 0.0.0.0 rtbinternet.com
 0.0.0.0 rtb-media.ru
@@ -9329,6 +9353,7 @@
 0.0.0.0 shakytaste.com
 0.0.0.0 shalseey.com
 0.0.0.0 shareasale.com
+0.0.0.0 sharieta.com
 0.0.0.0 sharp.ondu.ru
 0.0.0.0 sharpspring.com
 0.0.0.0 sheenami.net
@@ -10096,6 +10121,7 @@
 0.0.0.0 sucior.ru
 0.0.0.0 suddensidewalk.com
 0.0.0.0 suggedin.info
+0.0.0.0 suggestions.dadata.ru
 0.0.0.0 suknora.info
 0.0.0.0 sulxddttj.com
 0.0.0.0 sumano.info
@@ -10258,6 +10284,7 @@
 0.0.0.0 targetseek.ru
 0.0.0.0 target.ukr.net
 0.0.0.0 t.arianelab.com
+0.0.0.0 tarnifotum.com
 0.0.0.0 taskapi.net
 0.0.0.0 tastishi.ru
 0.0.0.0 ta.trs.cn
@@ -10582,6 +10609,7 @@
 0.0.0.0 tophits4u.de
 0.0.0.0 tophot-news.com
 0.0.0.0 top.hsdn.org
+0.0.0.0 topisiders.ru
 0.0.0.0 topiz.ru
 0.0.0.0 topjlinks.com
 0.0.0.0 topkino.tv
@@ -10951,6 +10979,7 @@
 0.0.0.0 trck.cyberport.de
 0.0.0.0 trck.spoteffects.net
 0.0.0.0 trcksrvrs.com
+0.0.0.0 tr.connatix.com
 0.0.0.0 tr.datanyze.com
 0.0.0.0 treasuredata.com
 0.0.0.0 tredman.com
@@ -10978,6 +11007,7 @@
 0.0.0.0 tr.jixie.io
 0.0.0.0 tr.junaroad.com
 0.0.0.0 trk.10ru.pt
+0.0.0.0 trk.connatix.com
 0.0.0.0 trk.i0.cz
 0.0.0.0 trkjmp.com
 0.0.0.0 trkleads.ru
@@ -11340,6 +11370,7 @@
 0.0.0.0 valuedopinions.co.uk
 0.0.0.0 vam-nado.ru
 0.0.0.0 vamprog.site
+0.0.0.0 vaneplusnod.com
 0.0.0.0 vantage-media.net
 0.0.0.0 vareza.net
 0.0.0.0 varielcontentdelivery.info
@@ -11583,6 +11614,7 @@
 0.0.0.0 vm.timeinabottle.pw
 0.0.0.0 vmtrk.com
 0.0.0.0 vmweb.net
+0.0.0.0 vniwis.pro
 0.0.0.0 voaroawo.net
 0.0.0.0 voastauz.net
 0.0.0.0 vodnet.info
@@ -12174,6 +12206,7 @@
 0.0.0.0 xzwdo.top
 0.0.0.0 y.21haodianmt.com
 0.0.0.0 y2rmo576.top
+0.0.0.0 y3k7rqxsh55c.com
 0.0.0.0 y5wflt0xibmoufuvsayg1efy80yq0ystkjncf76cqm.com
 0.0.0.0 y6a7tqyr.com
 0.0.0.0 y8z.org

@@ -1,6 +1,5 @@
 0.0.0.0 000free.us
 0.0.0.0 000.gaysexe.free.fr
-0.0.0.0 000owamail0.000webhostapp.com
 0.0.0.0 000tristanprod.free.fr
 0.0.0.0 001.0x1f4b0.com
 0.0.0.0 002.0x1f4b0.com
@@ -92,7 +91,6 @@
 0.0.0.0 166f.com
 0.0.0.0 16aq.cn
 0.0.0.0 175.220.196.104.bc.googleusercontent.com
-0.0.0.0 17990.vicp.net
 0.0.0.0 17chezhan.com
 0.0.0.0 17youzi.com
 0.0.0.0 1-800onlinecasino.com
@@ -150,7 +148,6 @@
 0.0.0.0 2560.fd.mobile.tv.sms13.de
 0.0.0.0 257639.com
 0.0.0.0 259572.com
-0.0.0.0 25cat.tk
 0.0.0.0 267932.com
 0.0.0.0 271395.com
 0.0.0.0 272351.com
@@ -1722,7 +1719,6 @@
 0.0.0.0 jurtym.cf
 0.0.0.0 jurty.ml
 0.0.0.0 justicejudo.com
-0.0.0.0 kabey.000webhostapp.com
 0.0.0.0 karisimbi.net
 0.0.0.0 kdmkauchahynhrs.ru
 0.0.0.0 kedtise.com
