@@ -1,4 +1,4 @@
-// **** Mon 31 Aug 2020 06:26:48 PM MDT
+// **** Tue 08 Sep 2020 11:19:35 AM MDT
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0daygameparadise.com') ||
@@ -822,7 +822,6 @@ shExpMatch(host, '*.adserver.sharewareonline.com') ||
 shExpMatch(host, '*.adserversolutions.com') ||
 shExpMatch(host, '*.adserver.spankaway.com') ||
 shExpMatch(host, '*.adserver.startnow.com') ||
-shExpMatch(host, '*.adserver.thema.cc') ||
 shExpMatch(host, '*.adserver.theonering.net') ||
 shExpMatch(host, '*.adserver.twitpic.com') ||
 shExpMatch(host, '*.adserver.viagogo.com') ||
@@ -1102,7 +1101,6 @@ shExpMatch(host, '*.adsrv.moebelmarkt.tv') ||
 shExpMatch(host, '*.adsrvr.org') ||
 shExpMatch(host, '*.adsrv.swidnica24.pl') ||
 shExpMatch(host, '*.adsrvus.com') ||
-shExpMatch(host, '*.adsrvx.com') ||
 shExpMatch(host, '*.ads.s3.sitepoint.com') ||
 shExpMatch(host, '*.ads.satyamonline.com') ||
 shExpMatch(host, '*.ads.savannahnow.com') ||
@@ -6909,7 +6907,6 @@ shExpMatch(host, '*.howtobypasssurveys.com') ||
 shExpMatch(host, '*.howtobypasssurveys.net') ||
 shExpMatch(host, '*.howtobypasssurveys.org') ||
 shExpMatch(host, '*.howtocheat.net') ||
-shExpMatch(host, '*.how-to-create-a-resignation-letter.com') ||
 shExpMatch(host, '*.howtogetafree-ipad.com') ||
 shExpMatch(host, '*.how-to-get-gems-in-dragon-city.com') ||
 shExpMatch(host, '*.howtogetxboxlive.com') ||
@@ -9341,6 +9338,7 @@ shExpMatch(host, '*.pleasantpump.com') ||
 shExpMatch(host, '*.plethoramobile.com') ||
 shExpMatch(host, '*.plista.com') ||
 shExpMatch(host, '*.plmma26extra.streams24.tv') ||
+shExpMatch(host, '*.plotrabbit.com') ||
 shExpMatch(host, '*.plugrush.com') ||
 shExpMatch(host, '*.plusbatterypower.com') ||
 shExpMatch(host, '*.plusjouesjeuxlimited.fr') ||
@@ -9883,7 +9881,6 @@ shExpMatch(host, '*.reflectivereward.com') ||
 shExpMatch(host, '*.reforge.in') ||
 shExpMatch(host, '*.regalhacks.com') ||
 shExpMatch(host, '*.regnow.com') ||
-shExpMatch(host, '*.regularimptracker.xyz') ||
 shExpMatch(host, '*.reimageplus.com') ||
 shExpMatch(host, '*.reinvigorate.net') ||
 shExpMatch(host, '*.reklama.mironet.cz') ||
@@ -13552,7 +13549,6 @@ shExpMatch(host, 'adserver.sharewareonline.com') ||
 shExpMatch(host, 'adserversolutions.com') ||
 shExpMatch(host, 'adserver.spankaway.com') ||
 shExpMatch(host, 'adserver.startnow.com') ||
-shExpMatch(host, 'adserver.thema.cc') ||
 shExpMatch(host, 'adserver.theonering.net') ||
 shExpMatch(host, 'adserver.twitpic.com') ||
 shExpMatch(host, 'adserver.viagogo.com') ||
@@ -13832,7 +13828,6 @@ shExpMatch(host, 'adsrv.moebelmarkt.tv') ||
 shExpMatch(host, 'adsrvr.org') ||
 shExpMatch(host, 'adsrv.swidnica24.pl') ||
 shExpMatch(host, 'adsrvus.com') ||
-shExpMatch(host, 'adsrvx.com') ||
 shExpMatch(host, 'ads.s3.sitepoint.com') ||
 shExpMatch(host, 'ads.satyamonline.com') ||
 shExpMatch(host, 'ads.savannahnow.com') ||
@@ -19639,7 +19634,6 @@ shExpMatch(host, 'howtobypasssurveys.com') ||
 shExpMatch(host, 'howtobypasssurveys.net') ||
 shExpMatch(host, 'howtobypasssurveys.org') ||
 shExpMatch(host, 'howtocheat.net') ||
-shExpMatch(host, 'how-to-create-a-resignation-letter.com') ||
 shExpMatch(host, 'howtogetafree-ipad.com') ||
 shExpMatch(host, 'how-to-get-gems-in-dragon-city.com') ||
 shExpMatch(host, 'howtogetxboxlive.com') ||
@@ -22071,6 +22065,7 @@ shExpMatch(host, 'pleasantpump.com') ||
 shExpMatch(host, 'plethoramobile.com') ||
 shExpMatch(host, 'plista.com') ||
 shExpMatch(host, 'plmma26extra.streams24.tv') ||
+shExpMatch(host, 'plotrabbit.com') ||
 shExpMatch(host, 'plugrush.com') ||
 shExpMatch(host, 'plusbatterypower.com') ||
 shExpMatch(host, 'plusjouesjeuxlimited.fr') ||
@@ -22613,7 +22608,6 @@ shExpMatch(host, 'reflectivereward.com') ||
 shExpMatch(host, 'reforge.in') ||
 shExpMatch(host, 'regalhacks.com') ||
 shExpMatch(host, 'regnow.com') ||
-shExpMatch(host, 'regularimptracker.xyz') ||
 shExpMatch(host, 'reimageplus.com') ||
 shExpMatch(host, 'reinvigorate.net') ||
 shExpMatch(host, 'reklama.mironet.cz') ||
