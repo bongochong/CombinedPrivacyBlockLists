@@ -45,6 +45,7 @@ echo "Ensuring that scripts reflect your install directory..."
 echo "..."
 sed -i "s/BLT/$file_dir/g" update-btdat.sh
 sed -i "s/BLT/$file_dir/g" update-btp2p.sh
+sed -i "s/BLT/$file_dir/g" update-hosts-six.sh
 sed -i "s/BLT/$file_dir/g" update-hosts-dual.sh
 sed -i "s/BLT/$file_dir/g" update-hosts.sh
 sed -i "s/BLT/$file_dir/g" update-pac.sh
