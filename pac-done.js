@@ -1,4 +1,4 @@
-// **** Tue 08 Sep 2020 11:19:35 AM MDT
+// **** Mon 14 Sep 2020 06:05:48 PM MDT
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0daygameparadise.com') ||
@@ -4299,6 +4299,7 @@ shExpMatch(host, '*.enjoydownloads.com') ||
 shExpMatch(host, '*.enjoyfile.com') ||
 shExpMatch(host, '*.enooc.com') ||
 shExpMatch(host, '*.enoratraffic.com') ||
+shExpMatch(host, '*.enormousearth.com') ||
 shExpMatch(host, '*.enquisite.com') ||
 shExpMatch(host, '*.ensighten.com') ||
 shExpMatch(host, '*.enterainmentbuzz.com') ||
@@ -7801,7 +7802,10 @@ shExpMatch(host, '*.login2facebook.com') ||
 shExpMatch(host, '*.loginthief.com') ||
 shExpMatch(host, '*.log.logrocket.io') ||
 shExpMatch(host, '*.log.pinterest.com') ||
+shExpMatch(host, '*.logs.datadoghq.com') ||
+shExpMatch(host, '*.logs.datadoghq.eu') ||
 shExpMatch(host, '*.logs.roku.com') ||
+shExpMatch(host, '*.logs.spilgames.com') ||
 shExpMatch(host, '*.logsss.com') ||
 shExpMatch(host, '*.logua.com') ||
 shExpMatch(host, '*.lokhlp.com') ||
@@ -11182,6 +11186,7 @@ shExpMatch(host, '*.tapsense.com') ||
 shExpMatch(host, '*.targad.de') ||
 shExpMatch(host, '*.targetingnow.com') ||
 shExpMatch(host, '*.targeting.nzme.arcpublishing.com') ||
+shExpMatch(host, '*.target.microsoft.com') ||
 shExpMatch(host, '*.targetnet.com') ||
 shExpMatch(host, '*.targetpoint.com') ||
 shExpMatch(host, '*.targetspot.com') ||
@@ -17026,6 +17031,7 @@ shExpMatch(host, 'enjoydownloads.com') ||
 shExpMatch(host, 'enjoyfile.com') ||
 shExpMatch(host, 'enooc.com') ||
 shExpMatch(host, 'enoratraffic.com') ||
+shExpMatch(host, 'enormousearth.com') ||
 shExpMatch(host, 'enquisite.com') ||
 shExpMatch(host, 'ensighten.com') ||
 shExpMatch(host, 'enterainmentbuzz.com') ||
@@ -20528,7 +20534,10 @@ shExpMatch(host, 'login2facebook.com') ||
 shExpMatch(host, 'loginthief.com') ||
 shExpMatch(host, 'log.logrocket.io') ||
 shExpMatch(host, 'log.pinterest.com') ||
+shExpMatch(host, 'logs.datadoghq.com') ||
+shExpMatch(host, 'logs.datadoghq.eu') ||
 shExpMatch(host, 'logs.roku.com') ||
+shExpMatch(host, 'logs.spilgames.com') ||
 shExpMatch(host, 'logsss.com') ||
 shExpMatch(host, 'logua.com') ||
 shExpMatch(host, 'lokhlp.com') ||
@@ -23909,6 +23918,7 @@ shExpMatch(host, 'tapsense.com') ||
 shExpMatch(host, 'targad.de') ||
 shExpMatch(host, 'targetingnow.com') ||
 shExpMatch(host, 'targeting.nzme.arcpublishing.com') ||
+shExpMatch(host, 'target.microsoft.com') ||
 shExpMatch(host, 'targetnet.com') ||
 shExpMatch(host, 'targetpoint.com') ||
 shExpMatch(host, 'targetspot.com') ||
