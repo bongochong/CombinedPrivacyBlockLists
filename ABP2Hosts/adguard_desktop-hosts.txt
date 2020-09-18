@@ -1,4 +1,4 @@
-# Mon 14 Sep 2020 06:02:36 PM MDT
+# Fri 18 Sep 2020 01:28:20 AM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 00bloggers.ru
@@ -84,6 +84,7 @@
 0.0.0.0 204st.us
 0.0.0.0 206solutions.com
 0.0.0.0 20d625b48e.se
+0.0.0.0 22ei7q8l12.com
 0.0.0.0 23dsf.top
 0.0.0.0 247ilabs.com
 0.0.0.0 24businessnews.com
@@ -2114,6 +2115,7 @@
 0.0.0.0 boxxxcash.com
 0.0.0.0 boyaidare.club
 0.0.0.0 boyalebut.site
+0.0.0.0 bp5hq5jivj.ru
 0.0.0.0 bposterss.net
 0.0.0.0 b.povarenok.ru
 0.0.0.0 bps.sysact.cn
@@ -2808,6 +2810,7 @@
 0.0.0.0 collector1.xhamster.com
 0.0.0.0 collector-analytics.efigence.com
 0.0.0.0 collector.apester.com
+0.0.0.0 collector.appconsent.io
 0.0.0.0 collector.bunchbox.co
 0.0.0.0 collector-cdn.github.com
 0.0.0.0 collector.getyourguide.com
@@ -3346,6 +3349,7 @@
 0.0.0.0 d33im0067v833a.cloudfront.net
 0.0.0.0 d34ko97cxuv4p7.cloudfront.net
 0.0.0.0 d35r45qhjmgs3g.cloudfront.net
+0.0.0.0 d35u1vg1q28b3w.cloudfront.net
 0.0.0.0 d36lvucg9kzous.cloudfront.net
 0.0.0.0 d36sxvmjoflc2i.cloudfront.net
 0.0.0.0 d36wtdrdo22bqa.cloudfront.net
@@ -3415,6 +3419,7 @@
 0.0.0.0 d6ummfe8aubt5.cloudfront.net
 0.0.0.0 d.6xw.com
 0.0.0.0 d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
+0.0.0.0 d7dza8s7j2am6.cloudfront.net
 0.0.0.0 d81mfvml8p5ml.cloudfront.net
 0.0.0.0 d899.webazilla.com
 0.0.0.0 d8acddffe978b5dfcae6.date
@@ -7106,6 +7111,7 @@
 0.0.0.0 meteorsolutions.com
 0.0.0.0 meter-svc.nytimes.com
 0.0.0.0 metertna.ru
+0.0.0.0 methinking.club
 0.0.0.0 metodikadeneg.info
 0.0.0.0 metosk.com
 0.0.0.0 metric-agent.i10c.net
@@ -8083,6 +8089,7 @@
 0.0.0.0 ophan.theguardian.com
 0.0.0.0 opinionsurprise.com
 0.0.0.0 oppositeoperation.com
+0.0.0.0 oppressiveinterdependenthumanity.com
 0.0.0.0 oproi.com
 0.0.0.0 opsivesh.net
 0.0.0.0 opsoomet.net
@@ -8349,6 +8356,7 @@
 0.0.0.0 penspade.com
 0.0.0.0 people-group.su
 0.0.0.0 pepperjam.com
+0.0.0.0 pepsgolfsintake.com
 0.0.0.0 peptido.ru
 0.0.0.0 perabetads.com
 0.0.0.0 perceivequarter.com
@@ -8702,6 +8710,7 @@
 0.0.0.0 ppcnt.us
 0.0.0.0 ppco.trwba.com
 0.0.0.0 ppctracking.net
+0.0.0.0 ppfrlfe.com
 0.0.0.0 ppinstall.com
 0.0.0.0 pp.muzofon-online.com
 0.0.0.0 ppndr.xyz
@@ -10057,6 +10066,7 @@
 0.0.0.0 sitetracker.com
 0.0.0.0 sitetraq.nl
 0.0.0.0 sitorew.com
+0.0.0.0 sixloamsob.com
 0.0.0.0 sixscissors.com
 0.0.0.0 sizesidewalk.com
 0.0.0.0 sjsmartcontent.org
@@ -10953,6 +10963,7 @@
 0.0.0.0 t-ak.hulu.com
 0.0.0.0 takidd.site
 0.0.0.0 talentedsteel.com
+0.0.0.0 talhundrewr.club
 0.0.0.0 talk2none.com
 0.0.0.0 talkmego.com
 0.0.0.0 talysu.info
@@ -12861,6 +12872,7 @@
 0.0.0.0 wynather.com
 0.0.0.0 wysasys.com
 0.0.0.0 wysistat.com
+0.0.0.0 wysmmq.com
 0.0.0.0 wyuxy.com
 0.0.0.0 wywy.com
 0.0.0.0 wywyuserservice.com
