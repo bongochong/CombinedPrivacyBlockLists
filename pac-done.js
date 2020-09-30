@@ -1,4 +1,4 @@
-// **** Fri 18 Sep 2020 01:30:30 AM MDT
+// **** Tue 29 Sep 2020 11:26:24 PM MDT
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0daygameparadise.com') ||
@@ -252,7 +252,6 @@ shExpMatch(host, '*.adapt.tv') ||
 shExpMatch(host, '*.adap.tv') ||
 shExpMatch(host, '*.adaranth.com') ||
 shExpMatch(host, '*.ad.auditude.com') ||
-shExpMatch(host, '*.adback.co') ||
 shExpMatch(host, '*.ad-balancer.at') ||
 shExpMatch(host, '*.ad-balancer.net') ||
 shExpMatch(host, '*.adbanner.ro') ||
@@ -1312,6 +1311,7 @@ shExpMatch(host, '*.advisormedia.cz') ||
 shExpMatch(host, '*.adviva.com') ||
 shExpMatch(host, '*.adviva.net') ||
 shExpMatch(host, '*.adv.livedoor.com') ||
+shExpMatch(host, '*.adv.mezon.ru') ||
 shExpMatch(host, '*.adv.nexthardware.com') ||
 shExpMatch(host, '*.advnt.com') ||
 shExpMatch(host, '*.adv.webmd.com') ||
@@ -2064,7 +2064,6 @@ shExpMatch(host, '*.bestorican.com') ||
 shExpMatch(host, '*.bestphonehacks.com') ||
 shExpMatch(host, '*.best-pr.info') ||
 shExpMatch(host, '*.bestqualitynotes.com') ||
-shExpMatch(host, '*.best-realgirl2.com') ||
 shExpMatch(host, '*.bestremediesacne.com') ||
 shExpMatch(host, '*.bestscreen.biz') ||
 shExpMatch(host, '*.bestsearch.net') ||
@@ -2503,6 +2502,8 @@ shExpMatch(host, '*.cashfiles.org') ||
 shExpMatch(host, '*.cashfly.com') ||
 shExpMatch(host, '*.cashlayer.com') ||
 shExpMatch(host, '*.cashpartner.com') ||
+shExpMatch(host, '*.cashstaging.app') ||
+shExpMatch(host, '*.cashstaging.me') ||
 shExpMatch(host, '*.cashta.net') ||
 shExpMatch(host, '*.cashu.biz') ||
 shExpMatch(host, '*.casinopays.com') ||
@@ -5653,6 +5654,7 @@ shExpMatch(host, '*.futuristicfold.com') ||
 shExpMatch(host, '*.fuvow.ru') ||
 shExpMatch(host, '*.fuzegameit.com') ||
 shExpMatch(host, '*.fuzem.ru') ||
+shExpMatch(host, '*.fuzzybasketball.com') ||
 shExpMatch(host, '*.fuzzyflavor.com') ||
 shExpMatch(host, '*.fuzzyweather.com') ||
 shExpMatch(host, '*.fv2cheats.com') ||
@@ -8293,6 +8295,7 @@ shExpMatch(host, '*.mobigrr.com') ||
 shExpMatch(host, '*.mobilda.com') ||
 shExpMatch(host, '*.mobileactive.com') ||
 shExpMatch(host, '*.mobileadvertisinghub.com') ||
+shExpMatch(host, '*.mobileanalytics.us-east-1.amazonaws.com') ||
 shExpMatch(host, '*.mobileapptracking.com') ||
 shExpMatch(host, '*.mobile-collector.newrelic.com') ||
 shExpMatch(host, '*.mobile-ent.biz') ||
@@ -8824,6 +8827,7 @@ shExpMatch(host, '*.nvfile.com') ||
 shExpMatch(host, '*.nzaza.com') ||
 shExpMatch(host, '*.o0bc.com') ||
 shExpMatch(host, '*.o239315.com') ||
+shExpMatch(host, '*.o333o.com') ||
 shExpMatch(host, '*.oafishobservation.com') ||
 shExpMatch(host, '*.oas.benchmark.fr') ||
 shExpMatch(host, '*.oascentral.businessweek.com') ||
@@ -10543,6 +10547,7 @@ shExpMatch(host, '*.skinsmath.com') ||
 shExpMatch(host, '*.skins-miner.com') ||
 shExpMatch(host, '*.skinsnature.com') ||
 shExpMatch(host, '*.skins-offer.me') ||
+shExpMatch(host, '*.skinsplaid.com') ||
 shExpMatch(host, '*.skinsplays.com') ||
 shExpMatch(host, '*.skinspolygon.com') ||
 shExpMatch(host, '*.skinspositive.com') ||
@@ -11374,6 +11379,7 @@ shExpMatch(host, '*.ticfiles.com') ||
 shExpMatch(host, '*.ticklesign.com') ||
 shExpMatch(host, '*.ticksel.com') ||
 shExpMatch(host, '*.tidaltv.com') ||
+shExpMatch(host, '*.tidint.pro') ||
 shExpMatch(host, '*.ti.domainforlite.com') ||
 shExpMatch(host, '*.tidytrail.com') ||
 shExpMatch(host, '*.tiiny.me') ||
@@ -12984,7 +12990,6 @@ shExpMatch(host, 'adapt.tv') ||
 shExpMatch(host, 'adap.tv') ||
 shExpMatch(host, 'adaranth.com') ||
 shExpMatch(host, 'ad.auditude.com') ||
-shExpMatch(host, 'adback.co') ||
 shExpMatch(host, 'ad-balancer.at') ||
 shExpMatch(host, 'ad-balancer.net') ||
 shExpMatch(host, 'adbanner.ro') ||
@@ -14044,6 +14049,7 @@ shExpMatch(host, 'advisormedia.cz') ||
 shExpMatch(host, 'adviva.com') ||
 shExpMatch(host, 'adviva.net') ||
 shExpMatch(host, 'adv.livedoor.com') ||
+shExpMatch(host, 'adv.mezon.ru') ||
 shExpMatch(host, 'adv.nexthardware.com') ||
 shExpMatch(host, 'advnt.com') ||
 shExpMatch(host, 'adv.webmd.com') ||
@@ -14796,7 +14802,6 @@ shExpMatch(host, 'bestorican.com') ||
 shExpMatch(host, 'bestphonehacks.com') ||
 shExpMatch(host, 'best-pr.info') ||
 shExpMatch(host, 'bestqualitynotes.com') ||
-shExpMatch(host, 'best-realgirl2.com') ||
 shExpMatch(host, 'bestremediesacne.com') ||
 shExpMatch(host, 'bestscreen.biz') ||
 shExpMatch(host, 'bestsearch.net') ||
@@ -15235,6 +15240,8 @@ shExpMatch(host, 'cashfiles.org') ||
 shExpMatch(host, 'cashfly.com') ||
 shExpMatch(host, 'cashlayer.com') ||
 shExpMatch(host, 'cashpartner.com') ||
+shExpMatch(host, 'cashstaging.app') ||
+shExpMatch(host, 'cashstaging.me') ||
 shExpMatch(host, 'cashta.net') ||
 shExpMatch(host, 'cashu.biz') ||
 shExpMatch(host, 'casinopays.com') ||
@@ -18385,6 +18392,7 @@ shExpMatch(host, 'futuristicfold.com') ||
 shExpMatch(host, 'fuvow.ru') ||
 shExpMatch(host, 'fuzegameit.com') ||
 shExpMatch(host, 'fuzem.ru') ||
+shExpMatch(host, 'fuzzybasketball.com') ||
 shExpMatch(host, 'fuzzyflavor.com') ||
 shExpMatch(host, 'fuzzyweather.com') ||
 shExpMatch(host, 'fv2cheats.com') ||
@@ -21025,6 +21033,7 @@ shExpMatch(host, 'mobigrr.com') ||
 shExpMatch(host, 'mobilda.com') ||
 shExpMatch(host, 'mobileactive.com') ||
 shExpMatch(host, 'mobileadvertisinghub.com') ||
+shExpMatch(host, 'mobileanalytics.us-east-1.amazonaws.com') ||
 shExpMatch(host, 'mobileapptracking.com') ||
 shExpMatch(host, 'mobile-collector.newrelic.com') ||
 shExpMatch(host, 'mobile-ent.biz') ||
@@ -21556,6 +21565,7 @@ shExpMatch(host, 'nvfile.com') ||
 shExpMatch(host, 'nzaza.com') ||
 shExpMatch(host, 'o0bc.com') ||
 shExpMatch(host, 'o239315.com') ||
+shExpMatch(host, 'o333o.com') ||
 shExpMatch(host, 'oafishobservation.com') ||
 shExpMatch(host, 'oas.benchmark.fr') ||
 shExpMatch(host, 'oascentral.businessweek.com') ||
@@ -23275,6 +23285,7 @@ shExpMatch(host, 'skinsmath.com') ||
 shExpMatch(host, 'skins-miner.com') ||
 shExpMatch(host, 'skinsnature.com') ||
 shExpMatch(host, 'skins-offer.me') ||
+shExpMatch(host, 'skinsplaid.com') ||
 shExpMatch(host, 'skinsplays.com') ||
 shExpMatch(host, 'skinspolygon.com') ||
 shExpMatch(host, 'skinspositive.com') ||
@@ -24106,6 +24117,7 @@ shExpMatch(host, 'ticfiles.com') ||
 shExpMatch(host, 'ticklesign.com') ||
 shExpMatch(host, 'ticksel.com') ||
 shExpMatch(host, 'tidaltv.com') ||
+shExpMatch(host, 'tidint.pro') ||
 shExpMatch(host, 'ti.domainforlite.com') ||
 shExpMatch(host, 'tidytrail.com') ||
 shExpMatch(host, 'tiiny.me') ||
