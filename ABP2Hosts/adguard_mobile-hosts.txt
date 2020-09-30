@@ -1,4 +1,4 @@
-# Fri 18 Sep 2020 01:28:09 AM MDT
+# Tue 29 Sep 2020 11:22:47 PM MDT
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -517,6 +517,7 @@
 0.0.0.0 adingo.jp
 0.0.0.0 aditic.net
 0.0.0.0 adition.com
+0.0.0.0 ad.jetx.info
 0.0.0.0 ad.jorte.com
 0.0.0.0 adj.st
 0.0.0.0 adjust.com
@@ -834,6 +835,7 @@
 0.0.0.0 adsmo.ru
 0.0.0.0 ads.mp.mydas.mobi
 0.0.0.0 ads.msn.com
+0.0.0.0 ad.snappea.com
 0.0.0.0 adsnative.com
 0.0.0.0 ads.nexage.com
 0.0.0.0 ads.nicovideo.jp
@@ -1006,6 +1008,7 @@
 0.0.0.0 adwired.mobi
 0.0.0.0 adwo.com
 0.0.0.0 adwods.com
+0.0.0.0 ad.wynk.in
 0.0.0.0 adx.adform.net
 0.0.0.0 adx.admicro.vn
 0.0.0.0 adx.adnxs.com
@@ -1028,6 +1031,8 @@
 0.0.0.0 adywind.com
 0.0.0.0 adzerk.com
 0.0.0.0 adzerk.net
+0.0.0.0 adzfun.info
+0.0.0.0 adzfun.me
 0.0.0.0 adzip.s3.amazonaws.com
 0.0.0.0 adzmedia.com
 0.0.0.0 adz.mobi
@@ -1287,6 +1292,8 @@
 0.0.0.0 analytics.shareaholic.com
 0.0.0.0 analytics.slashdotmedia.com
 0.0.0.0 analyticssl.clickpathmedia.com
+0.0.0.0 analytics.snappea.com
+0.0.0.0 analytics.snaptube.app
 0.0.0.0 analytics.snssdk.com
 0.0.0.0 analytics-sprint.qoqa.com
 0.0.0.0 analytics-staging.tactilews.com
@@ -5868,6 +5875,7 @@
 0.0.0.0 pagefair.net
 0.0.0.0 pages.taboola.com
 0.0.0.0 paimgcdn.baidu.com
+0.0.0.0 painsko.com
 0.0.0.0 p.alcmpn.com
 0.0.0.0 p.algovid.com
 0.0.0.0 pali.iad-03.braze.com
@@ -6894,6 +6902,7 @@
 0.0.0.0 sender.clevernt.com
 0.0.0.0 send.microadinc.com
 0.0.0.0 sense360eng.com.herokudns.com
+0.0.0.0 sensors.snappea.com
 0.0.0.0 sensytracker.appspot.com
 0.0.0.0 ser.adledge.com
 0.0.0.0 serpens.iad-01.braze.com

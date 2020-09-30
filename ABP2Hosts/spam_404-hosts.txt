@@ -1,4 +1,4 @@
-# Fri 18 Sep 2020 01:28:36 AM MDT
+# Tue 29 Sep 2020 11:23:12 PM MDT
 # Spam404 Hosts - Generated weekly by bongochong
 0.0.0.0 0daygameparadise.com
 0.0.0.0 0hacks.com
@@ -6764,6 +6764,7 @@
 0.0.0.0 skins-miner.com
 0.0.0.0 skinsnature.com
 0.0.0.0 skins-offer.me
+0.0.0.0 skinsplaid.com
 0.0.0.0 skinsplays.com
 0.0.0.0 skinspolygon.com
 0.0.0.0 skinspositive.com

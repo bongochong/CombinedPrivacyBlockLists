@@ -1,4 +1,4 @@
-# Fri 18 Sep 2020 01:28:42 AM MDT
+# Tue 29 Sep 2020 11:23:17 PM MDT
 # Piperun IPLoggerFilter Hosts - Generated weekly by bongochong
 0.0.0.0 00689.net
 0.0.0.0 02ip.ru
@@ -10,10 +10,12 @@
 0.0.0.0 3a71q7jt.com
 0.0.0.0 3newsletter.com
 0.0.0.0 4bikebg.com
+0.0.0.0 5.gp
 0.0.0.0 65nq.com
 0.0.0.0 6umux.top
 0.0.0.0 760tv.com
 0.0.0.0 7gzn.com
+0.0.0.0 7.ly
 0.0.0.0 8955567.top
 0.0.0.0 8-crm.com
 0.0.0.0 8forum-bahis.com
@@ -27,6 +29,7 @@
 0.0.0.0 actionexcellents.top
 0.0.0.0 adairhomesyakima.com
 0.0.0.0 adf.ly
+0.0.0.0 adfoc.us
 0.0.0.0 adhd-solutions-now.live
 0.0.0.0 adkinnovations.com
 0.0.0.0 adultsex.world
@@ -84,6 +87,7 @@
 0.0.0.0 bbphotography.com
 0.0.0.0 b-coresalon.com
 0.0.0.0 bcuchargers.com
+0.0.0.0 bc.vc
 0.0.0.0 be-a-seniorcomputerskillsok.live
 0.0.0.0 beckercad.com
 0.0.0.0 bedandbarn.com
@@ -140,6 +144,7 @@
 0.0.0.0 casumocasino.no
 0.0.0.0 catercart.co.nz
 0.0.0.0 catsnthing.com
+0.0.0.0 catsnthings.fun
 0.0.0.0 cemalsenay.com
 0.0.0.0 centenarulromaniei.ro
 0.0.0.0 certificadobr.info
@@ -183,6 +188,7 @@
 0.0.0.0 csclientes.com.mx
 0.0.0.0 csgopot.zone
 0.0.0.0 cubeupload.xyz
+0.0.0.0 curiouscat.club
 0.0.0.0 cur.lv
 0.0.0.0 cursopdg.online
 0.0.0.0 cursosneuromarketing.com
@@ -192,6 +198,9 @@
 0.0.0.0 dambut.biz
 0.0.0.0 dangerfieldconsulting.com
 0.0.0.0 dank.host
+0.0.0.0 datasig.io
+0.0.0.0 datauth.io
+0.0.0.0 dateing.club
 0.0.0.0 datingzap.tk
 0.0.0.0 dc1199.com
 0.0.0.0 ddos.city
@@ -298,6 +307,8 @@
 0.0.0.0 gamehammer.info
 0.0.0.0 gameofstones.com
 0.0.0.0 gameskeys.shop
+0.0.0.0 gaming-at-my.best
+0.0.0.0 gamingfun.me
 0.0.0.0 garcinia-six.com
 0.0.0.0 gedichten-voor-iedereen.com
 0.0.0.0 geobug.net
@@ -340,6 +351,7 @@
 0.0.0.0 hbotv.co
 0.0.0.0 hdblog.tech
 0.0.0.0 hdringtones.com
+0.0.0.0 headshot.monster
 0.0.0.0 heartbeatsconsulting.com
 0.0.0.0 heathlylifestyleguide.com
 0.0.0.0 het-wittehuis.nl
@@ -363,6 +375,7 @@
 0.0.0.0 i.imger.me
 0.0.0.0 ikwyd.com
 0.0.0.0 imageshack.ml
+0.0.0.0 imageshare.best
 0.0.0.0 imger.me
 0.0.0.0 imgurl.us
 0.0.0.0 impactlc.net
@@ -445,6 +458,7 @@
 0.0.0.0 login.anal-porn.info
 0.0.0.0 longerdependent.com
 0.0.0.0 loopimagination.com
+0.0.0.0 lovebird.guru
 0.0.0.0 lumomongoose.com
 0.0.0.0 lvvi.icu
 0.0.0.0 lynngarytherapy.com
@@ -500,6 +514,7 @@
 0.0.0.0 mynews-line.com
 0.0.0.0 myorange.co
 0.0.0.0 myown42.com
+0.0.0.0 my.su
 0.0.0.0 mytubefire.com
 0.0.0.0 mzwhx.com
 0.0.0.0 nailkitofficial.com
@@ -534,7 +549,9 @@
 0.0.0.0 orangebooks.tk
 0.0.0.0 orboot.pw
 0.0.0.0 orcahub.com
+0.0.0.0 otherhalf.life
 0.0.0.0 otuin.com
+0.0.0.0 ouo.io
 0.0.0.0 outandappear.win
 0.0.0.0 ovrmxaqfashion.xyz
 0.0.0.0 oxyo2.com
@@ -582,6 +599,7 @@
 0.0.0.0 proficiently-soft.club
 0.0.0.0 profilebakanlar.com
 0.0.0.0 profootballacademy.eu
+0.0.0.0 progaming.monster
 0.0.0.0 progexer.tk
 0.0.0.0 progresskarate.com
 0.0.0.0 proxyfill.co
@@ -643,6 +661,8 @@
 0.0.0.0 scan-5398.win
 0.0.0.0 schaudt.eu
 0.0.0.0 sciencefuture.tk
+0.0.0.0 screenshare.host
+0.0.0.0 screenshot.best
 0.0.0.0 searchproducts2017.review
 0.0.0.0 sehabinden.com
 0.0.0.0 seiinmovimento.it
@@ -661,6 +681,7 @@
 0.0.0.0 shopbravesedge.com
 0.0.0.0 shopempire.su
 0.0.0.0 shorte.st
+0.0.0.0 shrekis.life
 0.0.0.0 shvana.com
 0.0.0.0 signsandwondersonline.com
 0.0.0.0 simonbutcherphotography.com
@@ -680,6 +701,7 @@
 0.0.0.0 snipe.blue
 0.0.0.0 softperts.com
 0.0.0.0 sonodrugs.eu
+0.0.0.0 soo.gd
 0.0.0.0 sortrashion.com
 0.0.0.0 spdollar.com
 0.0.0.0 spiralsense.jp
@@ -733,6 +755,7 @@
 0.0.0.0 tigercore.eu
 0.0.0.0 timberyart.gr
 0.0.0.0 timgorichanaz.com
+0.0.0.0 tiny.cc
 0.0.0.0 tipobet00938.com
 0.0.0.0 tizkarvpn76.biz
 0.0.0.0 tldr.ly
@@ -749,6 +772,7 @@
 0.0.0.0 transferfiles.cloud
 0.0.0.0 traxster.net
 0.0.0.0 truckracing.com.au
+0.0.0.0 trulove.guru
 0.0.0.0 ts3free.top
 0.0.0.0 t-safe.nl
 0.0.0.0 tsurugashima-golf.com
@@ -833,6 +857,7 @@
 0.0.0.0 yoshikanegroup.com
 0.0.0.0 youlikehookups.com
 0.0.0.0 youramonkey.com
+0.0.0.0 yourmy.monster
 0.0.0.0 yourskipper.co.uk
 0.0.0.0 youshouldclick.us
 0.0.0.0 youutube.gq
@@ -844,6 +869,7 @@
 0.0.0.0 zjrbc.cn
 0.0.0.0 zonahd.org
 0.0.0.0 zoneoccupee.com
+0.0.0.0 zzb.bz
 0.0.0.0 zzssfc.tk
 0.0.0.0 xn--battl-b0a.net
 0.0.0.0 xn--disordapp-2eb.com
