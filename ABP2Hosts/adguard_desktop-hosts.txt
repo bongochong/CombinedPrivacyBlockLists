@@ -1,4 +1,4 @@
-# Tue 29 Sep 2020 11:22:57 PM MDT
+# Mon 05 Oct 2020 05:48:36 PM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 00bloggers.ru
@@ -980,6 +980,7 @@
 0.0.0.0 aj1907.online
 0.0.0.0 aj1913.online
 0.0.0.0 aj2041.online
+0.0.0.0 aj2208.online
 0.0.0.0 ajaralarm.com
 0.0.0.0 ajaxbig.ru
 0.0.0.0 ajkelra.com
@@ -1620,6 +1621,7 @@
 0.0.0.0 balancebreath.com
 0.0.0.0 balancemailbox.com
 0.0.0.0 balebunsob.com
+0.0.0.0 baleiambwee.com
 0.0.0.0 baletingo.com
 0.0.0.0 balks.pro
 0.0.0.0 balloonbit.com
@@ -1718,6 +1720,7 @@
 0.0.0.0 bcggo.ru
 0.0.0.0 bchaser.info
 0.0.0.0 bc.infoblog.today
+0.0.0.0 bc.infovps.site
 0.0.0.0 bcloudhost.com
 0.0.0.0 bcnewltd.club
 0.0.0.0 bcoolandjustrelax.org
@@ -2018,7 +2021,6 @@
 0.0.0.0 b.misslk.com
 0.0.0.0 bmlmedia.com
 0.0.0.0 bmmetrix.com
-0.0.0.0 bms.adjarabet.com
 0.0.0.0 b-m.xyz
 0.0.0.0 bnbir.xyz
 0.0.0.0 bnc.lt
@@ -2352,6 +2354,7 @@
 0.0.0.0 causecherry.com
 0.0.0.0 cautiouscrate.com
 0.0.0.0 cautiouscredit.com
+0.0.0.0 cavewaxmalt.com
 0.0.0.0 ca.video-cdn.net
 0.0.0.0 cawsodpet.club
 0.0.0.0 cb8717377086c72d.com
@@ -2361,6 +2364,7 @@
 0.0.0.0 cbgunpz3aoayscg.ru
 0.0.0.0 cbn.tbn.ru
 0.0.0.0 c.bxjpl.cn
+0.0.0.0 ccalgf.com
 0.0.0.0 ccbaehjabejaegdeebe.ru
 0.0.0.0 cc.calltracking.ru
 0.0.0.0 cccpmo.com
@@ -2514,6 +2518,7 @@
 0.0.0.0 chidsimp.com
 0.0.0.0 chief-con.pro
 0.0.0.0 chiefcurrent.com
+0.0.0.0 chigrikecy.pro
 0.0.0.0 chikhanos.info
 0.0.0.0 chinahdcm.com
 0.0.0.0 chinchickens.com
@@ -3507,7 +3512,6 @@
 0.0.0.0 dc.tremormedia.com
 0.0.0.0 dcwacl.com
 0.0.0.0 dd6zx4ibq538k.cloudfront.net
-0.0.0.0 dd.70yst.com
 0.0.0.0 ddb0c3b17298fd1.com
 0.0.0.0 dddevki4u.com
 0.0.0.0 ddomb.com
@@ -3857,6 +3861,7 @@
 0.0.0.0 dtxtngytz5im1.cloudfront.net
 0.0.0.0 dubshub.com
 0.0.0.0 duck.wings-dark.services
+0.0.0.0 dudslubesviol.com
 0.0.0.0 d-ughwashes.ru
 0.0.0.0 duhtate.ru
 0.0.0.0 dulderbulder.com
@@ -5004,6 +5009,7 @@
 0.0.0.0 gnezdo.ru
 0.0.0.0 gnrdomimplementation.com
 0.0.0.0 go2funz.com
+0.0.0.0 go2of.com
 0.0.0.0 go2vulcan.com
 0.0.0.0 go7media.ru
 0.0.0.0 go7me.ru
@@ -5233,6 +5239,7 @@
 0.0.0.0 halstats.com
 0.0.0.0 haltingbadge.com
 0.0.0.0 haltinggold.com
+0.0.0.0 hamlipboat.com
 0.0.0.0 hammerhearing.com
 0.0.0.0 hamphlete.com
 0.0.0.0 hamsterresentful.com
@@ -5355,6 +5362,7 @@
 0.0.0.0 hit100.ro
 0.0.0.0 hit2map.com
 0.0.0.0 hit.8digits.com
+0.0.0.0 hit.acstat.com
 0.0.0.0 hitadsmedia.com
 0.0.0.0 hitbox.com
 0.0.0.0 hit.copesa.cl
@@ -5778,6 +5786,7 @@
 0.0.0.0 intelli-direct.com
 0.0.0.0 intelligencefocus.com
 0.0.0.0 intelligencehost.net
+0.0.0.0 intelligenceretarget.com
 0.0.0.0 intelligentscissors.com
 0.0.0.0 intellipopup.com
 0.0.0.0 intelli-tracker.com
@@ -5984,6 +5993,7 @@
 0.0.0.0 jiankongbao.com
 0.0.0.0 jigolobasvuru.xyz
 0.0.0.0 ji.ihualun.com
+0.0.0.0 jiltlargosirk.com
 0.0.0.0 jimdo-stats.com
 0.0.0.0 jin0cbonpi.ru
 0.0.0.0 jin33456.cn
@@ -6274,6 +6284,7 @@
 0.0.0.0 kost.tv
 0.0.0.0 kotaku.xyz
 0.0.0.0 kotengens.net
+0.0.0.0 kotikinar2ko8tiki09.com
 0.0.0.0 koutobey.net
 0.0.0.0 koviovius.com
 0.0.0.0 kpdn.ru
@@ -6772,6 +6783,7 @@
 0.0.0.0 m3hywq3xaias4u.download
 0.0.0.0 m3oxem1nip48.ru
 0.0.0.0 m4clicks.com
+0.0.0.0 m62rtkpf.de
 0.0.0.0 m6r.eu
 0.0.0.0 m71.qhdzfs.cn
 0.0.0.0 m73lae5cpmgrv38.com
@@ -8560,6 +8572,7 @@
 0.0.0.0 pocketsonic.com
 0.0.0.0 po-cloud.net
 0.0.0.0 podiumpresto.com
+0.0.0.0 poemsdeucewee.com
 0.0.0.0 pofqm.xyz
 0.0.0.0 pointlessrifle.com
 0.0.0.0 pointomatic.com
@@ -8892,6 +8905,7 @@
 0.0.0.0 pushosub.com
 0.0.0.0 pushs.site
 0.0.0.0 push-tools-system.com
+0.0.0.0 pushtora.com
 0.0.0.0 pushwhy.com
 0.0.0.0 pusk.ua
 0.0.0.0 pussl10.com
@@ -9306,6 +9320,7 @@
 0.0.0.0 reseau-pub.com
 0.0.0.0 reseireejoch.info
 0.0.0.0 resentaticexhaus.info
+0.0.0.0 resniks.pro
 0.0.0.0 resolutekey.com
 0.0.0.0 reson8.com
 0.0.0.0 resonantbrush.com
@@ -9379,6 +9394,7 @@
 0.0.0.0 rightnativecontent.com
 0.0.0.0 rightstats.com
 0.0.0.0 riibl.com
+0.0.0.0 rilelogicbuy.com
 0.0.0.0 riluaneth.com
 0.0.0.0 ringplayground.com
 0.0.0.0 ringsrecord.com
@@ -9568,6 +9584,7 @@
 0.0.0.0 rvttrack.com
 0.0.0.0 rvvslhmmbor.com
 0.0.0.0 rwhxz.space
+0.0.0.0 rwpypf.com
 0.0.0.0 rwqckakqfq.ru
 0.0.0.0 rxtbb.top
 0.0.0.0 rybkono.ru
@@ -9927,7 +9944,6 @@
 0.0.0.0 shoveac.com
 0.0.0.0 showbiz.mail.ru
 0.0.0.0 show.everytell.com
-0.0.0.0 show.g.mediav.com
 0.0.0.0 showroomlogic.com
 0.0.0.0 showsteel.com
 0.0.0.0 shp.0n3dmn.com
@@ -10709,6 +10725,7 @@
 0.0.0.0 stoshoos.com
 0.0.0.0 stoveseashore.com
 0.0.0.0 stovoudu.com
+0.0.0.0 stpmgo.com
 0.0.0.0 straightnest.com
 0.0.0.0 straightschool.com
 0.0.0.0 strands.com
@@ -10761,7 +10778,6 @@
 0.0.0.0 suddenstructure.com
 0.0.0.0 sugarcurtain.com
 0.0.0.0 suggedin.info
-0.0.0.0 suggestions.dadata.ru
 0.0.0.0 suknora.info
 0.0.0.0 sulkybutter.com
 0.0.0.0 sulxddttj.com
@@ -10945,6 +10961,7 @@
 0.0.0.0 ta.trs.cn
 0.0.0.0 tattle.api.osano.com
 0.0.0.0 tauptaup.com
+0.0.0.0 tauptoat.com
 0.0.0.0 tawdryson.com
 0.0.0.0 taxel.jp
 0.0.0.0 t.blinkist.com
@@ -11051,6 +11068,7 @@
 0.0.0.0 terhimpa.pro
 0.0.0.0 teriotracker.de
 0.0.0.0 teromil.com
+0.0.0.0 terra8nb.com
 0.0.0.0 terraclicks.com
 0.0.0.0 terra.fp.oix.net
 0.0.0.0 terrapsps.com
@@ -11996,6 +12014,7 @@
 0.0.0.0 urltraf.com
 0.0.0.0 urnawareflan.com
 0.0.0.0 urstats.de
+0.0.0.0 urtirepor.com
 0.0.0.0 uruswan.com
 0.0.0.0 urwb.ru
 0.0.0.0 uryle.ru
@@ -13076,6 +13095,7 @@
 0.0.0.0 yycjho.com
 0.0.0.0 yyjvimo.com
 0.0.0.0 yyuin.com
+0.0.0.0 zaeavr.com
 0.0.0.0 zaebaladblock.ru
 0.0.0.0 zaehler.tv
 0.0.0.0 zafrc.5780.site

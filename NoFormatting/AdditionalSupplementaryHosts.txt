@@ -709,7 +709,6 @@
 0.0.0.0 amateursconvert.com
 0.0.0.0 amateursexdvd.com
 0.0.0.0 amateursexplace.com
-0.0.0.0 amateursexvideo.de
 0.0.0.0 amateurs.jerkr.com
 0.0.0.0 amateurspain.com
 0.0.0.0 amateurtour.biz
@@ -782,7 +781,6 @@
 0.0.0.0 anticodistretto.com
 0.0.0.0 anticosm.com
 0.0.0.0 antifa.co.at
-0.0.0.0 anti-virus-removal.info
 0.0.0.0 anxiousapples.com
 0.0.0.0 an.yandex.ru
 0.0.0.0 anybest.host
