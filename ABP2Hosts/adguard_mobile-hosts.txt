@@ -1,4 +1,4 @@
-# Tue 06 Oct 2020 01:43:21 PM MDT
+# Tue 06 Oct 2020 03:32:40 PM MDT
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -1050,6 +1050,7 @@
 0.0.0.0 a.fiksu.com
 0.0.0.0 afiles.webengage.com
 0.0.0.0 afp.dotomi.com
+0.0.0.0 afreeca-tag.ad-mapps.com
 0.0.0.0 aftonbladetnya.sc.omtrdc.net
 0.0.0.0 agent.aralego.com
 0.0.0.0 agentchannel.api.duapp.com
@@ -1417,6 +1418,7 @@
 0.0.0.0 api.analytics.nexonm.com
 0.0.0.0 api.analytics.omgpop.com
 0.0.0.0 api.android-root-tool.com
+0.0.0.0 api-a.op-mobile.opera.com
 0.0.0.0 api.appcelerator.com
 0.0.0.0 api.appcelerator.net
 0.0.0.0 api.appexchange.salesforce.com
@@ -2819,6 +2821,7 @@
 0.0.0.0 clk.taptica.com
 0.0.0.0 clktrk.display.io
 0.0.0.0 cloud2.gsdk.proximabeta.com
+0.0.0.0 cloudads-a.akamaihd.net
 0.0.0.0 cloudapi.imrworldwide.com
 0.0.0.0 cloud.appcelerator.com
 0.0.0.0 cloud.datasphere.com
@@ -3188,6 +3191,7 @@
 0.0.0.0 d1.hadarone.com
 0.0.0.0 d1zkodo2u3p4pe.cloudfront.net
 0.0.0.0 d239g0z67jcted.cloudfront.net
+0.0.0.0 d27tpsznug51gz.cloudfront.net
 0.0.0.0 d2cmedia.ca
 0.0.0.0 d2.hadarone.com
 0.0.0.0 d2nrdy2pg3k168.cloudfront.net
@@ -3706,6 +3710,7 @@
 0.0.0.0 et-code.ru
 0.0.0.0 etcodes.com
 0.0.0.0 et.kissmetrics.com
+0.0.0.0 etl.tindersparks.com
 0.0.0.0 etl.xlmc.sandai.net
 0.0.0.0 et.mobadvent.com
 0.0.0.0 ets-eu-west-1.track.smaato.net
@@ -4974,6 +4979,7 @@
 0.0.0.0 log.intellimize.co
 0.0.0.0 log-ird.outbrain.com
 0.0.0.0 log.isnssdk.com
+0.0.0.0 log.kajicam.com
 0.0.0.0 log.kgrid.co.kr
 0.0.0.0 log.kuwo.cn
 0.0.0.0 log.leadboxer.com
@@ -5489,6 +5495,7 @@
 0.0.0.0 msntest.serving-sys.com
 0.0.0.0 mssp.baidu.com
 0.0.0.0 mtag.adxcore.com
+0.0.0.0 mtag.mman.kr
 0.0.0.0 mtag.yieldoptimizer.com
 0.0.0.0 mtburn.com
 0.0.0.0 mtburn.jp
@@ -5508,6 +5515,7 @@
 0.0.0.0 mxttrf.com
 0.0.0.0 mxvp-ad-config-prod-1.zenmxapps.com
 0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
+0.0.0.0 m.yanglaopt.net
 0.0.0.0 m.yangzhenpeng.top
 0.0.0.0 m.yap.yahoo.com
 0.0.0.0 mybuys.com
@@ -5589,6 +5597,7 @@
 0.0.0.0 network.innity.com
 0.0.0.0 networksdk.ssacdn.com
 0.0.0.0 networld.hk
+0.0.0.0 newad.ifeng.com
 0.0.0.0 new.afsanalytics.com
 0.0.0.0 newfeatureview.perfectionholic.com
 0.0.0.0 new.fqtag.com
@@ -6179,6 +6188,7 @@
 0.0.0.0 promo.propellerads.com
 0.0.0.0 promoted.soundcloud.com
 0.0.0.0 promotionengine.com
+0.0.0.0 promotion.polarisoffice.com
 0.0.0.0 prooffactor.com
 0.0.0.0 propermedia-d.openx.net
 0.0.0.0 proprofs-d.openx.net
@@ -6909,7 +6919,9 @@
 0.0.0.0 sender.clevernt.com
 0.0.0.0 send.microadinc.com
 0.0.0.0 sense360eng.com.herokudns.com
+0.0.0.0 sensors.larkplayerapp.com
 0.0.0.0 sensors.snappea.com
+0.0.0.0 sensors.snaptubeapp.com
 0.0.0.0 sensytracker.appspot.com
 0.0.0.0 ser.adledge.com
 0.0.0.0 serpens.iad-01.braze.com
