@@ -1,4 +1,4 @@
-# Tue 06 Oct 2020 03:46:15 PM MDT
+# Tue 06 Oct 2020 04:01:01 PM MDT
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -9962,6 +9962,7 @@
 0.0.0.0 fastonlineusers.com
 0.0.0.0 fastpopclick.com
 0.0.0.0 fastpopunder.com
+0.0.0.0 fast-redirecting.com
 0.0.0.0 fastsearcher.ru
 0.0.0.0 fast-search.info
 0.0.0.0 faststart.ru
