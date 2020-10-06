@@ -1,4 +1,4 @@
-# Mon 05 Oct 2020 05:48:36 PM MDT
+# Tue 06 Oct 2020 01:25:56 PM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 00bloggers.ru
@@ -322,6 +322,7 @@
 0.0.0.0 ablaze-class.space
 0.0.0.0 ablehed.pro
 0.0.0.0 ablenctionalle.info
+0.0.0.0 ablybeastssarcastic.com
 0.0.0.0 abmr.net
 0.0.0.0 a.b.napiszar.com
 0.0.0.0 aboardamusement.com
@@ -1426,6 +1427,7 @@
 0.0.0.0 askallalb.club
 0.0.0.0 askaspalb.online
 0.0.0.0 asketo.ru
+0.0.0.0 askewpatienceblameless.com
 0.0.0.0 askfuelads.com
 0.0.0.0 askmarket.net
 0.0.0.0 aso1.net
@@ -7863,6 +7865,7 @@
 0.0.0.0 odbabo.info
 0.0.0.0 odb.outbrain.com
 0.0.0.0 odcnpmjgsxrqpr.com
+0.0.0.0 oddertabrhino.com
 0.0.0.0 oddomane.com
 0.0.0.0 oderyuk.info
 0.0.0.0 odesaconflate.com
@@ -8269,6 +8272,7 @@
 0.0.0.0 p.aty.sohu.com
 0.0.0.0 paumoogo.net
 0.0.0.0 paupepsu.click
+0.0.0.0 pawheatyous.com
 0.0.0.0 paybackvocal.com
 0.0.0.0 payfery.ru
 0.0.0.0 pay-hit.com
@@ -8314,6 +8318,7 @@
 0.0.0.0 pelckw.qjudpxkisv.xyz
 0.0.0.0 pelicanprogram.com
 0.0.0.0 pelicansource.com
+0.0.0.0 penjazzvice.com
 0.0.0.0 penspade.com
 0.0.0.0 people-group.su
 0.0.0.0 pepperjam.com
