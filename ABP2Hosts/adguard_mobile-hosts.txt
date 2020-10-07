@@ -1,4 +1,4 @@
-# Tue 06 Oct 2020 07:23:06 PM MDT
+# Wed 07 Oct 2020 03:11:04 PM MDT
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -6785,6 +6785,7 @@
 0.0.0.0 sdk-key.ulsee.com
 0.0.0.0 sdk.kingoapp.com
 0.0.0.0 sdk-log.gwallet.com
+0.0.0.0 sdk-log-inter.youdao.com
 0.0.0.0 sdklogs.avocarrot.com
 0.0.0.0 sdk.loveota.net
 0.0.0.0 sdk.mediav.com
