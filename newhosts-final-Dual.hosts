@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 # This *must* be the first line: 127.0.0.1    localhost    #
 #                                                          #
 #**********************************************************#
-# ------------- Tue 06 Oct 2020 05:40:17 PM MDT ---------- #
+# ------------- Tue 06 Oct 2020 06:00:14 PM MDT ---------- #
 #**********************************************************#
 #                                                          #
 # Disclaimer: cow pigs won dogs on six for personal use    #
@@ -32753,6 +32753,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 hoqes.ru
 0.0.0.0 horedi.com
 0.0.0.0 horheloopo.com
+0.0.0.0 horiticalagen.club
 0.0.0.0 horizon.globo.com
 0.0.0.0 horizon.mashable.com
 0.0.0.0 horizon-nj1.sailthru.com
@@ -105377,6 +105378,7 @@ ff02::2 ip6-allrouters
 :: hoqes.ru
 :: horedi.com
 :: horheloopo.com
+:: horiticalagen.club
 :: horizon.globo.com
 :: horizon.mashable.com
 :: horizon-nj1.sailthru.com
