@@ -1,6 +1,16 @@
 **Please Consider Donating**
 ---
 
+**BitCoin**:
+33K5KYsQsX4uxQyiGQkyxtiPo68tfzSHa7
+
+---
+
+**BitCoin Cash**:
+qqflzh3alterxldvchql6wdu88j3aju2hvkheatsav
+
+---
+
 **Ethereum**:
 0x07312d5D41246c44A38c82ce42E70d831C6BFaa1
 
@@ -8,6 +18,11 @@
 
 **Ethereum Classic**:
 0x1084975397509FAeef9FBc22bdF61d4cA0a67ef3
+
+---
+
+**LiteCoin**:
+MKg7Y3BtNNw1RNfku9iPiXPFJyHq6G1hLV
 
 ---
 
