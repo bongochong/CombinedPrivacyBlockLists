@@ -3,9 +3,7 @@ Ad-blocking hosts files, BitTorrent IP block lists, and PAC filters, all merged,
 
 These lists block malicious and harmfully deceptive content, like advertising, tracking, telemetry, scam, and malware servers. These lists *do not* block porn, social media, or so-called "fake news" domains, except for the advertising, tracking, telemetry, scam, and malware servers associated with such sites. Potential false positives are rigorously removed, and the hosts files are processed by an IDN-to-Punycode conversion routine (meaning that they can be utilized on *all* operating systems). In short, all of these block lists are comprehensive and universally compatible, while remaining reasonable in size and scope.  
 
-Updates to the lists usually occur on a weekly basis, and sometimes more often. If there is a wave of rapid updates in a single day, this often means that there are significant improvements under way. Please consider [donating to the project](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/DONATE.md) if you find it useful.  
-
-It should also be noted that my lists are not just useful for those who live in English-speaking countries, as I make efforts to block malicious "international" content as well.  
+Updates to the lists usually occur on a weekly basis, and sometimes more often. If there is a wave of rapid updates in a single day, this often means that there are significant improvements under way. Please consider [donating to the project](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/DONATE.md) if you find it useful. It should also be noted that my lists are not just relevant to those living in English-speaking countries, as I make efforts to block malicious "international" content as well.  
 
 **Descriptions**
 
