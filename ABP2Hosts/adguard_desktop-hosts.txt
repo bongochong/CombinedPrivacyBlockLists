@@ -1,4 +1,4 @@
-# Tue 06 Oct 2020 05:57:34 PM MDT
+# Tue 06 Oct 2020 07:23:19 PM MDT
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 005.0x1f4b0.com
 0.0.0.0 006a039c957c142bb.com
@@ -108,6 +108,7 @@
 0.0.0.0 153105c2f9564.com
 0.0.0.0 1571627030.rsc.cdn77.org
 0.0.0.0 157ita684j.com
+0.0.0.0 15fa37b45d.com
 0.0.0.0 15yomodels.com
 0.0.0.0 165a7c15380874ef3.com
 0.0.0.0 1686607364.rsc.cdn77.org
@@ -340,6 +341,7 @@
 0.0.0.0 367e8bed2a847.com
 0.0.0.0 36900pf.com
 0.0.0.0 369bd3a861d8c27.com
+0.0.0.0 36a5b7eb2808.com
 0.0.0.0 36c00e71c2df28.com
 0.0.0.0 3761fcd24ef9281f5.com
 0.0.0.0 3878896c72ed218.com
@@ -3958,6 +3960,7 @@
 0.0.0.0 baronsoffers.com
 0.0.0.0 barpe.ru
 0.0.0.0 barraien.com
+0.0.0.0 bars2show.com
 0.0.0.0 barytonneras.site
 0.0.0.0 barytonneras.website
 0.0.0.0 basebanner.com
@@ -6264,6 +6267,7 @@
 0.0.0.0 consesculifin.site
 0.0.0.0 considedefinit.fun
 0.0.0.0 consideher.club
+0.0.0.0 consideratepronouncedcar.com
 0.0.0.0 consistpotato.com
 0.0.0.0 consorcraightyc.info
 0.0.0.0 constintptr.com
@@ -7181,6 +7185,7 @@
 0.0.0.0 d3laygk9zni6hc.cloudfront.net
 0.0.0.0 d3lvr7yuk4uaui.cloudfront.net
 0.0.0.0 d3lw2k94jnkvbs.cloudfront.net
+0.0.0.0 d3m4hp4bp4w996.cloudfront.net
 0.0.0.0 d3m79ugzs2d8im.cloudfront.net
 0.0.0.0 d3mr7y154d2qg5.cloudfront.net
 0.0.0.0 d3mzokty951c5w.cloudfront.net
@@ -9476,6 +9481,7 @@
 0.0.0.0 faceporn.com
 0.0.0.0 facetexamgrabbed.com
 0.0.0.0 facetz.net
+0.0.0.0 facilitategovernor.com
 0.0.0.0 facilitategrandfather.com
 0.0.0.0 factortg.com
 0.0.0.0 fadeaibgfihegegjadc.ru
@@ -11890,6 +11896,7 @@
 0.0.0.0 hopurl.org
 0.0.0.0 horedi.com
 0.0.0.0 horheloopo.com
+0.0.0.0 horiticalagen.club
 0.0.0.0 horizon.globo.com
 0.0.0.0 horizon-track.globo.com
 0.0.0.0 horjhksl.com
@@ -15391,6 +15398,7 @@
 0.0.0.0 mattempts.info
 0.0.0.0 matzosetagood.com
 0.0.0.0 maudau.com
+0.0.0.0 maudawhy.com
 0.0.0.0 mauringer.club
 0.0.0.0 maus77.ru
 0.0.0.0 mauzobou.net
@@ -17354,6 +17362,7 @@
 0.0.0.0 nswnseld.com
 0.0.0.0 nsxawdatuetbq.com
 0.0.0.0 nta1vb6cdlrl.com
+0.0.0.0 ntadnddfgogpse.com
 0.0.0.0 ntbftkhrsrh.com
 0.0.0.0 ntbtvdbomevgzs.com
 0.0.0.0 ntdbjlngermplx.com
@@ -18422,6 +18431,7 @@
 0.0.0.0 paperg.com
 0.0.0.0 papersion.club
 0.0.0.0 papoto.com
+0.0.0.0 paqiqqjmmo.com
 0.0.0.0 paqtnspb.com
 0.0.0.0 parabit.ru
 0.0.0.0 parabolla.net
@@ -20450,6 +20460,7 @@
 0.0.0.0 r4nwdude.com
 0.0.0.0 r528e.cn
 0.0.0.0 r5jpkacq.ru
+0.0.0.0 r66at6sf.com
 0.0.0.0 r66net.com
 0.0.0.0 r66net.net
 0.0.0.0 r6.galya.ru
@@ -21112,6 +21123,7 @@
 0.0.0.0 ricead.com
 0.0.0.0 richard-group.com
 0.0.0.0 richbanner.ru
+0.0.0.0 richcatis.com
 0.0.0.0 richinfo.co
 0.0.0.0 richmedia247.com
 0.0.0.0 richmediaads.com
@@ -22523,6 +22535,7 @@
 0.0.0.0 skyvideo1.ru
 0.0.0.0 slava.soloway.su
 0.0.0.0 slaveforgetfulsneak.com
+0.0.0.0 slavesfraudulent.com
 0.0.0.0 slavial.pro
 0.0.0.0 slaysweater.com
 0.0.0.0 sl-ct5.com
@@ -24303,6 +24316,7 @@
 0.0.0.0 thevtk.com
 0.0.0.0 thewebanswers.com
 0.0.0.0 thewebgemnetwork.com
+0.0.0.0 theweblocker.net
 0.0.0.0 thewheelof.com
 0.0.0.0 thewhizmarketing.com
 0.0.0.0 thewhizproducts.com
@@ -27250,6 +27264,7 @@
 0.0.0.0 whiteboardnez.com
 0.0.0.0 whitective.club
 0.0.0.0 whitepixel.com
+0.0.0.0 whitetrcklnk.click
 0.0.0.0 whittlecdn.xyz
 0.0.0.0 whitwise.com
 0.0.0.0 whixochyxy.pro
