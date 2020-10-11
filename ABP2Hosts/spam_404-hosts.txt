@@ -1,4 +1,4 @@
-# Wed 07 Oct 2020 03:27:03 PM MDT
+# Sat 10 Oct 2020 09:21:29 PM MDT
 # Spam404 Hosts - Generated weekly by bongochong
 0.0.0.0 0daygameparadise.com
 0.0.0.0 0hacks.com
@@ -1712,6 +1712,7 @@
 0.0.0.0 ddns.ms
 0.0.0.0 ddns.name
 0.0.0.0 ddns.us
+0.0.0.0 ddos-guard.net
 0.0.0.0 ddtankhack.net
 0.0.0.0 ddtankhacks.com
 0.0.0.0 ddtdown.pro
