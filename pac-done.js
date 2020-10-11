@@ -1,4 +1,4 @@
-// **** Wed 07 Oct 2020 03:19:10 PM MDT
+// **** Sat 10 Oct 2020 09:34:02 PM MDT
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0daygameparadise.com') ||
@@ -1213,7 +1213,6 @@ shExpMatch(host, '*.ads.wunderground.com') ||
 shExpMatch(host, '*.ads.wwe.biz') ||
 shExpMatch(host, '*.ads.xhamster.com') ||
 shExpMatch(host, '*.ads.xtra.co.nz') ||
-shExpMatch(host, '*.ads.xtribeapp.com') ||
 shExpMatch(host, '*.adsxyz.com') ||
 shExpMatch(host, '*.ads.y-0.net') ||
 shExpMatch(host, '*.ads.yahoo.com') ||
@@ -1346,7 +1345,6 @@ shExpMatch(host, '*.ad.yadro.ru') ||
 shExpMatch(host, '*.adyea.com') ||
 shExpMatch(host, '*.adyoulike.com') ||
 shExpMatch(host, '*.ad.yourmedia.com') ||
-shExpMatch(host, '*.adz2you.com') ||
 shExpMatch(host, '*.ad.zanox.com') ||
 shExpMatch(host, '*.adzbazar.com') ||
 shExpMatch(host, '*.adzerk.net') ||
@@ -3729,6 +3727,7 @@ shExpMatch(host, '*.ddns.mobi') ||
 shExpMatch(host, '*.ddns.ms') ||
 shExpMatch(host, '*.ddns.name') ||
 shExpMatch(host, '*.ddns.us') ||
+shExpMatch(host, '*.ddos-guard.net') ||
 shExpMatch(host, '*.ddtankhack.net') ||
 shExpMatch(host, '*.ddtankhacks.com') ||
 shExpMatch(host, '*.ddtdown.pro') ||
@@ -11558,7 +11557,6 @@ shExpMatch(host, '*.tracking.21-a4652-bi.co.uk') ||
 shExpMatch(host, '*.tracking22.com') ||
 shExpMatch(host, '*.tracking.39-bb4a9-osm.co.uk') ||
 shExpMatch(host, '*.tracking.42-01pr5-osm-secure.co.uk') ||
-shExpMatch(host, '*.tracking42.com') ||
 shExpMatch(host, '*.tracking.5-47737-bi.co.uk') ||
 shExpMatch(host, '*.tracking.crunchiemedia.com') ||
 shExpMatch(host, '*.tracking.epicgames.com') ||
@@ -12055,7 +12053,6 @@ shExpMatch(host, '*.visiblemeasures.com') ||
 shExpMatch(host, '*.visionfiles.com') ||
 shExpMatch(host, '*.visistat.com') ||
 shExpMatch(host, '*.visitbox.de') ||
-shExpMatch(host, '*.visitpath.com') ||
 shExpMatch(host, '*.visit.webhosting.yahoo.com') ||
 shExpMatch(host, '*.visual-pagerank.fr') ||
 shExpMatch(host, '*.visualrevenue.com') ||
@@ -13956,7 +13953,6 @@ shExpMatch(host, 'ads.wunderground.com') ||
 shExpMatch(host, 'ads.wwe.biz') ||
 shExpMatch(host, 'ads.xhamster.com') ||
 shExpMatch(host, 'ads.xtra.co.nz') ||
-shExpMatch(host, 'ads.xtribeapp.com') ||
 shExpMatch(host, 'adsxyz.com') ||
 shExpMatch(host, 'ads.y-0.net') ||
 shExpMatch(host, 'ads.yahoo.com') ||
@@ -14089,7 +14085,6 @@ shExpMatch(host, 'ad.yadro.ru') ||
 shExpMatch(host, 'adyea.com') ||
 shExpMatch(host, 'adyoulike.com') ||
 shExpMatch(host, 'ad.yourmedia.com') ||
-shExpMatch(host, 'adz2you.com') ||
 shExpMatch(host, 'ad.zanox.com') ||
 shExpMatch(host, 'adzbazar.com') ||
 shExpMatch(host, 'adzerk.net') ||
@@ -16472,6 +16467,7 @@ shExpMatch(host, 'ddns.mobi') ||
 shExpMatch(host, 'ddns.ms') ||
 shExpMatch(host, 'ddns.name') ||
 shExpMatch(host, 'ddns.us') ||
+shExpMatch(host, 'ddos-guard.net') ||
 shExpMatch(host, 'ddtankhack.net') ||
 shExpMatch(host, 'ddtankhacks.com') ||
 shExpMatch(host, 'ddtdown.pro') ||
@@ -24301,7 +24297,6 @@ shExpMatch(host, 'tracking.21-a4652-bi.co.uk') ||
 shExpMatch(host, 'tracking22.com') ||
 shExpMatch(host, 'tracking.39-bb4a9-osm.co.uk') ||
 shExpMatch(host, 'tracking.42-01pr5-osm-secure.co.uk') ||
-shExpMatch(host, 'tracking42.com') ||
 shExpMatch(host, 'tracking.5-47737-bi.co.uk') ||
 shExpMatch(host, 'tracking.crunchiemedia.com') ||
 shExpMatch(host, 'tracking.epicgames.com') ||
@@ -24798,7 +24793,6 @@ shExpMatch(host, 'visiblemeasures.com') ||
 shExpMatch(host, 'visionfiles.com') ||
 shExpMatch(host, 'visistat.com') ||
 shExpMatch(host, 'visitbox.de') ||
-shExpMatch(host, 'visitpath.com') ||
 shExpMatch(host, 'visit.webhosting.yahoo.com') ||
 shExpMatch(host, 'visual-pagerank.fr') ||
 shExpMatch(host, 'visualrevenue.com') ||
