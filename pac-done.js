@@ -1,4 +1,4 @@
-// **** Sat 10 Oct 2020 09:34:02 PM MDT
+// **** Tue 13 Oct 2020 04:42:07 PM MDT
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0daygameparadise.com') ||
@@ -4201,6 +4201,7 @@ shExpMatch(host, '*.edns.biz') ||
 shExpMatch(host, '*.edragoncityhack.com') ||
 shExpMatch(host, '*.effectivemeasure.com') ||
 shExpMatch(host, '*.effectivemeasure.net') ||
+shExpMatch(host, '*.effectstorestream8.live') ||
 shExpMatch(host, '*.efficaciouscactus.com') ||
 shExpMatch(host, '*.e-filesroom.com') ||
 shExpMatch(host, '*.e-gamespace.com') ||
@@ -6215,6 +6216,7 @@ shExpMatch(host, '*.grabpokecoins.xyz') ||
 shExpMatch(host, '*.grabtrk.com') ||
 shExpMatch(host, '*.gracefulsock.com') ||
 shExpMatch(host, '*.grafstat.ro') ||
+shExpMatch(host, '*.graizoah.com') ||
 shExpMatch(host, '*.grammy2014.streams24.tv') ||
 shExpMatch(host, '*.grandeveryday.com') ||
 shExpMatch(host, '*.grandfantasiahack.com') ||
@@ -8979,6 +8981,7 @@ shExpMatch(host, '*.openx.blindferret.com') ||
 shExpMatch(host, '*.openx.cairo360.com') ||
 shExpMatch(host, '*.openx.com') ||
 shExpMatch(host, '*.openx.kgmedia.eu') ||
+shExpMatch(host, '*.openx.net') ||
 shExpMatch(host, '*.openx.skinet.cz') ||
 shExpMatch(host, '*.openx.smcaen.fr') ||
 shExpMatch(host, '*.operationkettle.com') ||
@@ -10221,6 +10224,7 @@ shExpMatch(host, '*.sdkfjxjertertry.com') ||
 shExpMatch(host, '*.seadform.net') ||
 shExpMatch(host, '*.searchcheat.com') ||
 shExpMatch(host, '*.searchfeast.com') ||
+shExpMatch(host, '*.searching-place.com') ||
 shExpMatch(host, '*.searchmarketing.com') ||
 shExpMatch(host, '*.searchramp.com') ||
 shExpMatch(host, '*.seasoncode.sharezips.info') ||
@@ -11833,6 +11837,7 @@ shExpMatch(host, '*.unique-skins.net') ||
 shExpMatch(host, '*.unityhack.com') ||
 shExpMatch(host, '*.unityhacks.zone') ||
 shExpMatch(host, '*.universalhack.net') ||
+shExpMatch(host, '*.universcine.com') ||
 shExpMatch(host, '*.universehacks.com') ||
 shExpMatch(host, '*.universeofhacks.com') ||
 shExpMatch(host, '*.universithacker.com') ||
@@ -16941,6 +16946,7 @@ shExpMatch(host, 'edns.biz') ||
 shExpMatch(host, 'edragoncityhack.com') ||
 shExpMatch(host, 'effectivemeasure.com') ||
 shExpMatch(host, 'effectivemeasure.net') ||
+shExpMatch(host, 'effectstorestream8.live') ||
 shExpMatch(host, 'efficaciouscactus.com') ||
 shExpMatch(host, 'e-filesroom.com') ||
 shExpMatch(host, 'e-gamespace.com') ||
@@ -18955,6 +18961,7 @@ shExpMatch(host, 'grabpokecoins.xyz') ||
 shExpMatch(host, 'grabtrk.com') ||
 shExpMatch(host, 'gracefulsock.com') ||
 shExpMatch(host, 'grafstat.ro') ||
+shExpMatch(host, 'graizoah.com') ||
 shExpMatch(host, 'grammy2014.streams24.tv') ||
 shExpMatch(host, 'grandeveryday.com') ||
 shExpMatch(host, 'grandfantasiahack.com') ||
@@ -21719,6 +21726,7 @@ shExpMatch(host, 'openx.blindferret.com') ||
 shExpMatch(host, 'openx.cairo360.com') ||
 shExpMatch(host, 'openx.com') ||
 shExpMatch(host, 'openx.kgmedia.eu') ||
+shExpMatch(host, 'openx.net') ||
 shExpMatch(host, 'openx.skinet.cz') ||
 shExpMatch(host, 'openx.smcaen.fr') ||
 shExpMatch(host, 'operationkettle.com') ||
@@ -22961,6 +22969,7 @@ shExpMatch(host, 'sdkfjxjertertry.com') ||
 shExpMatch(host, 'seadform.net') ||
 shExpMatch(host, 'searchcheat.com') ||
 shExpMatch(host, 'searchfeast.com') ||
+shExpMatch(host, 'searching-place.com') ||
 shExpMatch(host, 'searchmarketing.com') ||
 shExpMatch(host, 'searchramp.com') ||
 shExpMatch(host, 'seasoncode.sharezips.info') ||
@@ -24573,6 +24582,7 @@ shExpMatch(host, 'unique-skins.net') ||
 shExpMatch(host, 'unityhack.com') ||
 shExpMatch(host, 'unityhacks.zone') ||
 shExpMatch(host, 'universalhack.net') ||
+shExpMatch(host, 'universcine.com') ||
 shExpMatch(host, 'universehacks.com') ||
 shExpMatch(host, 'universeofhacks.com') ||
 shExpMatch(host, 'universithacker.com') ||
