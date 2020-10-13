@@ -1,4 +1,4 @@
-# Sat 10 Oct 2020 10:21:02 PM MDT
+# Tue 13 Oct 2020 04:39:19 PM MDT
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -612,6 +612,7 @@
 0.0.0.0 ad.org.vn
 0.0.0.0 adotsolution.com
 0.0.0.0 adotube.com
+0.0.0.0 ad.particlenews.com
 0.0.0.0 ad.perfectaudience.com
 0.0.0.0 ad.period-calendar.com
 0.0.0.0 adpickup-east.adhaven.com
