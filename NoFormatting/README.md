@@ -5,7 +5,7 @@ Within this directory are the following items:
 
 - Four versions of [Chef Koch's](https://github.com/CHEF-KOCH) infamous [NSA block list](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/NoFormatting/NSABlockLists), which are not included in any of my other lists and are simply held here for posterity.  
 
-- Two very small lists which assist in blocking tracking servers associated with Device9 ([1](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/Device9domains-IPv4.txt), [2](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/Device9domains-IPv6.txt) in my main hosts files).  
+- Two very small lists which assist in blocking tracking servers associated with Device9 in my main hosts files ([1](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/Device9domains-IPv4.txt), [2](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/Device9domains-IPv6.txt)).  
 
 - A plain list of [the domains blocked by my main hosts files](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/BlacklistedDomains.txt).  
 
