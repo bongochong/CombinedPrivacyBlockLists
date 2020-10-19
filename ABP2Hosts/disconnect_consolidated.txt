@@ -1,4 +1,4 @@
-# Tue 13 Oct 2020 04:40:08 PM MDT
+# Sun 18 Oct 2020 06:13:16 PM MDT
 # Disconnect Consolidated Hosts - Generated weekly by bongochong
 0.0.0.0 101com.com
 0.0.0.0 101order.com
