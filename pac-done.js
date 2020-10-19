@@ -1,4 +1,4 @@
-// **** Tue 13 Oct 2020 04:42:07 PM MDT
+// **** Sun 18 Oct 2020 06:23:48 PM MDT
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0daygameparadise.com') ||
@@ -494,6 +494,7 @@ shExpMatch(host, '*.adnetworkperformance.com') ||
 shExpMatch(host, '*.adnet.worldreviewer.com') ||
 shExpMatch(host, '*.adnews.maddog2000.de') ||
 shExpMatch(host, '*.adnium.com') ||
+shExpMatch(host, '*.adn.lrb.co.uk') ||
 shExpMatch(host, '*.adnooka.com') ||
 shExpMatch(host, '*.adnotch.com') ||
 shExpMatch(host, '*.ad.nozonedata.com') ||
@@ -1345,6 +1346,7 @@ shExpMatch(host, '*.ad.yadro.ru') ||
 shExpMatch(host, '*.adyea.com') ||
 shExpMatch(host, '*.adyoulike.com') ||
 shExpMatch(host, '*.ad.yourmedia.com') ||
+shExpMatch(host, '*.adz2you.com') ||
 shExpMatch(host, '*.ad.zanox.com') ||
 shExpMatch(host, '*.adzbazar.com') ||
 shExpMatch(host, '*.adzerk.net') ||
@@ -3037,7 +3039,6 @@ shExpMatch(host, '*.coinspokemongo.com') ||
 shExpMatch(host, '*.cointraffic.io') ||
 shExpMatch(host, '*.coinxback.com') ||
 shExpMatch(host, '*.coldenvy.info') ||
-shExpMatch(host, '*.collector-medium.lightstep.com') ||
 shExpMatch(host, '*.colonize.com') ||
 shExpMatch(host, '*.combatarms-nx.com') ||
 shExpMatch(host, '*.comboapp.com') ||
@@ -4134,7 +4135,6 @@ shExpMatch(host, '*.dynamic.fmpub.net') ||
 shExpMatch(host, '*.dyndns.pro') ||
 shExpMatch(host, '*.dynssl.com') ||
 shExpMatch(host, '*.dyntrk.com') ||
-shExpMatch(host, '*.dzairads.com') ||
 shExpMatch(host, '*.dz-cheat.com') ||
 shExpMatch(host, '*.e406019.com') ||
 shExpMatch(host, '*.eadexchange.com') ||
@@ -4201,7 +4201,6 @@ shExpMatch(host, '*.edns.biz') ||
 shExpMatch(host, '*.edragoncityhack.com') ||
 shExpMatch(host, '*.effectivemeasure.com') ||
 shExpMatch(host, '*.effectivemeasure.net') ||
-shExpMatch(host, '*.effectstorestream8.live') ||
 shExpMatch(host, '*.efficaciouscactus.com') ||
 shExpMatch(host, '*.e-filesroom.com') ||
 shExpMatch(host, '*.e-gamespace.com') ||
@@ -10098,7 +10097,6 @@ shExpMatch(host, '*.rtbflairads.com') ||
 shExpMatch(host, '*.rtb.gumgum.com') ||
 shExpMatch(host, '*.rtbidder.net') ||
 shExpMatch(host, '*.rtbidhost.com') ||
-shExpMatch(host, '*.rtb.openx.net') ||
 shExpMatch(host, '*.rtbplatform.net') ||
 shExpMatch(host, '*.rtbpop.com') ||
 shExpMatch(host, '*.rtbpopd.com') ||
@@ -13239,6 +13237,7 @@ shExpMatch(host, 'adnetworkperformance.com') ||
 shExpMatch(host, 'adnet.worldreviewer.com') ||
 shExpMatch(host, 'adnews.maddog2000.de') ||
 shExpMatch(host, 'adnium.com') ||
+shExpMatch(host, 'adn.lrb.co.uk') ||
 shExpMatch(host, 'adnooka.com') ||
 shExpMatch(host, 'adnotch.com') ||
 shExpMatch(host, 'ad.nozonedata.com') ||
@@ -14090,6 +14089,7 @@ shExpMatch(host, 'ad.yadro.ru') ||
 shExpMatch(host, 'adyea.com') ||
 shExpMatch(host, 'adyoulike.com') ||
 shExpMatch(host, 'ad.yourmedia.com') ||
+shExpMatch(host, 'adz2you.com') ||
 shExpMatch(host, 'ad.zanox.com') ||
 shExpMatch(host, 'adzbazar.com') ||
 shExpMatch(host, 'adzerk.net') ||
@@ -15782,7 +15782,6 @@ shExpMatch(host, 'coinspokemongo.com') ||
 shExpMatch(host, 'cointraffic.io') ||
 shExpMatch(host, 'coinxback.com') ||
 shExpMatch(host, 'coldenvy.info') ||
-shExpMatch(host, 'collector-medium.lightstep.com') ||
 shExpMatch(host, 'colonize.com') ||
 shExpMatch(host, 'combatarms-nx.com') ||
 shExpMatch(host, 'comboapp.com') ||
@@ -16879,7 +16878,6 @@ shExpMatch(host, 'dynamic.fmpub.net') ||
 shExpMatch(host, 'dyndns.pro') ||
 shExpMatch(host, 'dynssl.com') ||
 shExpMatch(host, 'dyntrk.com') ||
-shExpMatch(host, 'dzairads.com') ||
 shExpMatch(host, 'dz-cheat.com') ||
 shExpMatch(host, 'e406019.com') ||
 shExpMatch(host, 'eadexchange.com') ||
@@ -16946,7 +16944,6 @@ shExpMatch(host, 'edns.biz') ||
 shExpMatch(host, 'edragoncityhack.com') ||
 shExpMatch(host, 'effectivemeasure.com') ||
 shExpMatch(host, 'effectivemeasure.net') ||
-shExpMatch(host, 'effectstorestream8.live') ||
 shExpMatch(host, 'efficaciouscactus.com') ||
 shExpMatch(host, 'e-filesroom.com') ||
 shExpMatch(host, 'e-gamespace.com') ||
@@ -22843,7 +22840,6 @@ shExpMatch(host, 'rtbflairads.com') ||
 shExpMatch(host, 'rtb.gumgum.com') ||
 shExpMatch(host, 'rtbidder.net') ||
 shExpMatch(host, 'rtbidhost.com') ||
-shExpMatch(host, 'rtb.openx.net') ||
 shExpMatch(host, 'rtbplatform.net') ||
 shExpMatch(host, 'rtbpop.com') ||
 shExpMatch(host, 'rtbpopd.com') ||
