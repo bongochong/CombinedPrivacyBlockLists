@@ -1,4 +1,4 @@
-# Sun 18 Oct 2020 06:20:23 PM MDT
+# Sat 24 Oct 2020 08:18:38 PM MDT
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -1465,6 +1465,7 @@
 0.0.0.0 appads.com
 0.0.0.0 app.adsunflower.cn
 0.0.0.0 app.adywind.com
+0.0.0.0 app-analytics-v2.snapchat.com
 0.0.0.0 app.appsflyer.com
 0.0.0.0 appbaqend.com
 0.0.0.0 appboy.com
@@ -4383,6 +4384,7 @@
 0.0.0.0 logsdk.qq.com
 0.0.0.0 log.sdk.zadn.vn
 0.0.0.0 logserver.insight.ucweb.com
+0.0.0.0 logs.gaaana.com
 0.0.0.0 log.sina.cn
 0.0.0.0 logsink.zedge.net
 0.0.0.0 log.snapdeal.com

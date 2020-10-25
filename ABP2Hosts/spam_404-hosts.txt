@@ -1,4 +1,4 @@
-# Sun 18 Oct 2020 06:13:07 PM MDT
+# Sat 24 Oct 2020 08:19:14 PM MDT
 # Spam404 Hosts - Generated weekly by bongochong
 0.0.0.0 0daygameparadise.com
 0.0.0.0 0hacks.com
@@ -11,7 +11,6 @@
 0.0.0.0 1centptc.com
 0.0.0.0 1dollarempire.com
 0.0.0.0 1dollarfreedom.us
-0.0.0.0 1dumb.com
 0.0.0.0 1hacks.com
 0.0.0.0 1minecraft8.ru
 0.0.0.0 1.pandawamovie.com
@@ -36,18 +35,15 @@
 0.0.0.0 24screen.net
 0.0.0.0 24-tabs.ru
 0.0.0.0 24tradecs.net
-0.0.0.0 25u.com
 0.0.0.0 270inc.com
 0.0.0.0 2in1pill.com
 0.0.0.0 2shocking4you.com
-0.0.0.0 2waky.com
 0.0.0.0 30dominos.com
 0.0.0.0 35hacks.com
 0.0.0.0 3604free.com
 0.0.0.0 360elite4free.com
 0.0.0.0 360emulator.com
 0.0.0.0 365giveaways.com
-0.0.0.0 3-a.net
 0.0.0.0 3d-download.org
 0.0.0.0 3dmoviehd.com
 0.0.0.0 3dsemudownload.com
@@ -64,10 +60,7 @@
 0.0.0.0 3xupdate.com
 0.0.0.0 411playz.com
 0.0.0.0 48hrcodes.com
-0.0.0.0 4dq.com
 0.0.0.0 4ieghiufb.website
-0.0.0.0 4mydomain.com
-0.0.0.0 4pu.com
 0.0.0.0 4ufiles.com
 0.0.0.0 50centstreetkingimmortal.com
 0.0.0.0 50nuancesdegrey-lefilm-vf.com
@@ -102,7 +95,6 @@
 0.0.0.0 accounthackers.com
 0.0.0.0 accounts.mx
 0.0.0.0 acieh.onecinema.us
-0.0.0.0 acmetoy.com
 0.0.0.0 actiongameshack.com
 0.0.0.0 activatemywindows8.com
 0.0.0.0 activefiles.org
@@ -190,7 +182,6 @@
 0.0.0.0 all-screenshots.net
 0.0.0.0 allthecheats.net
 0.0.0.0 allwarezfree.com
-0.0.0.0 almostmy.com
 0.0.0.0 alphacsgo.pro
 0.0.0.0 alphajailbreak.com
 0.0.0.0 alqbyte.com
@@ -217,7 +208,6 @@
 0.0.0.0 amazongiftvouchers.com
 0.0.0.0 amazon.hackingfree.com
 0.0.0.0 amber3graph.com
-0.0.0.0 americanunfinished.com
 0.0.0.0 amgcase.com
 0.0.0.0 amgiftcards.com
 0.0.0.0 anamovies.com
@@ -353,9 +343,6 @@
 0.0.0.0 au.id312666359-9036410720.w595505.com
 0.0.0.0 aussieupload.com
 0.0.0.0 australiaupload.com
-0.0.0.0 authorizeddns.net
-0.0.0.0 authorizeddns.org
-0.0.0.0 authorizeddns.us
 0.0.0.0 autolikefb.net
 0.0.0.0 avantcase.com
 0.0.0.0 avast.legratuits.com
@@ -524,7 +511,6 @@
 0.0.0.0 big-asses.ru
 0.0.0.0 bigbinnd.info
 0.0.0.0 biggyupload.com
-0.0.0.0 bigmoney.biz
 0.0.0.0 bigrxdiscountmedstore.com
 0.0.0.0 bigsoccerwinhack.gethackz.com
 0.0.0.0 bilbotrade.com
@@ -815,9 +801,6 @@
 0.0.0.0 cgo.money
 0.0.0.0 ch3at.com
 0.0.0.0 chackscheats.com
-0.0.0.0 changeip.name
-0.0.0.0 changeip.net
-0.0.0.0 changeip.org
 0.0.0.0 chaoshackss.com
 0.0.0.0 chatandgames.net
 0.0.0.0 chatter-bate.com
@@ -1065,9 +1048,6 @@
 0.0.0.0 cleanfiles.org
 0.0.0.0 cleanlinked.com
 0.0.0.0 cleanshare.net
-0.0.0.0 cleansite.biz
-0.0.0.0 cleansite.info
-0.0.0.0 cleansite.us
 0.0.0.0 clean-talks.com
 0.0.0.0 cliccaoggi.it
 0.0.0.0 cliccaraffinato.it
@@ -1184,7 +1164,6 @@
 0.0.0.0 comohackearunacuentadefacebook.com
 0.0.0.0 companyofheroes2.sharezips.info
 0.0.0.0 competehack.com
-0.0.0.0 compress.to
 0.0.0.0 com-promotions.us
 0.0.0.0 comptefacebookpirater.fr
 0.0.0.0 compte-facebook.ws
@@ -1706,12 +1685,6 @@
 0.0.0.0 dayzstandalonebeta.com
 0.0.0.0 dayzstandalone.gamespress.net
 0.0.0.0 dd2.ru
-0.0.0.0 ddns.info
-0.0.0.0 ddns.me.uk
-0.0.0.0 ddns.mobi
-0.0.0.0 ddns.ms
-0.0.0.0 ddns.name
-0.0.0.0 ddns.us
 0.0.0.0 ddos-guard.net
 0.0.0.0 ddtankhack.net
 0.0.0.0 ddtankhacks.com
@@ -1759,7 +1732,6 @@
 0.0.0.0 dewisri.pw
 0.0.0.0 dfile.info
 0.0.0.0 dfile.su
-0.0.0.0 dhcp.biz
 0.0.0.0 diablo3cracked.org
 0.0.0.0 diablo3keygen.org
 0.0.0.0 diablo3.sharezips.info
@@ -1804,14 +1776,6 @@
 0.0.0.0 dmzgames.com
 0.0.0.0 d.newagerocksinc.com
 0.0.0.0 dnjss.com
-0.0.0.0 dns04.com
-0.0.0.0 dns05.com
-0.0.0.0 dns1.us
-0.0.0.0 dns2.us
-0.0.0.0 dns-dns.com
-0.0.0.0 dnset.com
-0.0.0.0 dnsrd.com
-0.0.0.0 dns-stuff.com
 0.0.0.0 do2a.money
 0.0.0.0 doatgiveaway.top
 0.0.0.0 docactive.com
@@ -2011,12 +1975,9 @@
 0.0.0.0 dropsxskin.space
 0.0.0.0 dropx.fun
 0.0.0.0 drudgetube.com
-0.0.0.0 dsmtp.com
 0.0.0.0 dubemeqi.ru
-0.0.0.0 dubya.biz
 0.0.0.0 dudemobile.net
 0.0.0.0 dulue.ru
-0.0.0.0 dumb1.com
 0.0.0.0 dungeonrampage.haxdo.com
 0.0.0.0 dupidoq.ru
 0.0.0.0 duroq.ru
@@ -2024,13 +1985,6 @@
 0.0.0.0 duvuku.ru
 0.0.0.0 dvdrecorders4free.com
 0.0.0.0 dwnld24.com
-0.0.0.0 dynamicdns.biz
-0.0.0.0 dynamicdns.co.uk
-0.0.0.0 dynamicdns.me.uk
-0.0.0.0 dynamic-dns.net
-0.0.0.0 dynamicdns.org.uk
-0.0.0.0 dyndns.pro
-0.0.0.0 dynssl.com
 0.0.0.0 dz-cheat.com
 0.0.0.0 e406019.com
 0.0.0.0 eafifa19.club
@@ -2071,7 +2025,6 @@
 0.0.0.0 ecurrency4all.com
 0.0.0.0 e-currencyhacks.com
 0.0.0.0 edgydownload.com
-0.0.0.0 edns.biz
 0.0.0.0 edragoncityhack.com
 0.0.0.0 e-filesroom.com
 0.0.0.0 e-gamespace.com
@@ -2140,7 +2093,6 @@
 0.0.0.0 enterainmentbuzz.com
 0.0.0.0 envyjailbreak.com
 0.0.0.0 ep0ch.net
-0.0.0.0 epac.to
 0.0.0.0 e-paysafecard.com
 0.0.0.0 epctrking.com
 0.0.0.0 epiccheats.com
@@ -2179,7 +2131,6 @@
 0.0.0.0 esl-play.com
 0.0.0.0 esl-tournament.net
 0.0.0.0 esl-tournaments.com
-0.0.0.0 esmtp.biz
 0.0.0.0 espiarwhatsapp.es
 0.0.0.0 espiawhatsapp.net
 0.0.0.0 espiondiscret.com
@@ -2300,7 +2251,6 @@
 0.0.0.0 ezloaded.com
 0.0.0.0 ezskins.trade
 0.0.0.0 ez-trade.org
-0.0.0.0 ezua.com
 0.0.0.0 ezuploaded.com
 0.0.0.0 ezzdrop.com
 0.0.0.0 f19.mobi
@@ -2374,7 +2324,6 @@
 0.0.0.0 fantastiske-ting.com
 0.0.0.0 fantasyhack.com
 0.0.0.0 fantasy-hacks.com
-0.0.0.0 faqserv.com
 0.0.0.0 farcry3.sharezips.info
 0.0.0.0 farmepiccheats.elitegamershub.com
 0.0.0.0 farmingsimulator.dlcodes.com
@@ -2382,7 +2331,6 @@
 0.0.0.0 farmville2generator.com
 0.0.0.0 farmville2hack.com
 0.0.0.0 farmville2hack.social-cheats.com
-0.0.0.0 fartit.com
 0.0.0.0 fastalts.com
 0.0.0.0 fastbitcoingenerator.com
 0.0.0.0 fastdone.info
@@ -2865,7 +2813,6 @@
 0.0.0.0 free-csgo-skin.com
 0.0.0.0 freecsskins.com
 0.0.0.0 freedatadown.com
-0.0.0.0 freeddns.com
 0.0.0.0 freedlcool.com
 0.0.0.0 freedldz.com
 0.0.0.0 free-dominos.co.uk
@@ -3190,7 +3137,6 @@
 0.0.0.0 freestufforyou.com
 0.0.0.0 freestufftutorials.com
 0.0.0.0 freestuf.pl
-0.0.0.0 freetcp.com
 0.0.0.0 freethevbucks.live
 0.0.0.0 freetopgamesfor.me
 0.0.0.0 freetophacks.com
@@ -3223,8 +3169,6 @@
 0.0.0.0 freewowgametime.org
 0.0.0.0 freewowtime.net
 0.0.0.0 freewsodownload.com
-0.0.0.0 freewww.biz
-0.0.0.0 freewww.info
 0.0.0.0 freexblcode.com
 0.0.0.0 freexblcodes.net
 0.0.0.0 freexblgoldcode.com
@@ -3263,11 +3207,9 @@
 0.0.0.0 frosgame.com
 0.0.0.0 frovilew.ru
 0.0.0.0 frtelechargement.com
-0.0.0.0 ftp1.biz
 0.0.0.0 ftpclean.com
 0.0.0.0 ftpgood.com
 0.0.0.0 ftpsent.com
-0.0.0.0 ftpserver.biz
 0.0.0.0 ftptiny.com
 0.0.0.0 ftwcraft.net
 0.0.0.0 fubiq.ru
@@ -3642,7 +3584,6 @@
 0.0.0.0 getriotpointsfree.net
 0.0.0.0 getskin.pro
 0.0.0.0 getsomedownloads.com
-0.0.0.0 gettrials.com
 0.0.0.0 geturbobit.biz
 0.0.0.0 getwhatsappforpc.com
 0.0.0.0 getxbox360codes.com
@@ -3782,7 +3723,6 @@
 0.0.0.0 goswapcs.com
 0.0.0.0 gotgamecheats.net
 0.0.0.0 gotgamefree.us
-0.0.0.0 got-game.org
 0.0.0.0 gotlinks.co
 0.0.0.0 gotofreehack24.com
 0.0.0.0 goupload.net
@@ -3792,9 +3732,7 @@
 0.0.0.0 gpskins.com
 0.0.0.0 gqskins.fun
 0.0.0.0 gqskinsx.fun
-0.0.0.0 gr8domain.biz
 0.0.0.0 gr8musik.com
-0.0.0.0 gr8name.biz
 0.0.0.0 gr8plays.com
 0.0.0.0 grabclicks.com
 0.0.0.0 grabexpress.com
@@ -4432,8 +4370,6 @@
 0.0.0.0 hqstuff.net
 0.0.0.0 hship.org
 0.0.0.0 htoter.ru
-0.0.0.0 https443.net
-0.0.0.0 https443.org
 0.0.0.0 hubfast.com
 0.0.0.0 hubmyfile.com
 0.0.0.0 hubzoom.com
@@ -4509,7 +4445,6 @@
 0.0.0.0 ihackz.biz
 0.0.0.0 ihavetohave.net
 0.0.0.0 iheaven.us
-0.0.0.0 ikwb.com
 0.0.0.0 illymithics.fr
 0.0.0.0 ilove2hack.de
 0.0.0.0 ilovecrack.net
@@ -4581,7 +4516,6 @@
 0.0.0.0 instant-e.com
 0.0.0.0 instantfiles.net
 0.0.0.0 instantfreepsncodes.com
-0.0.0.0 instanthq.com
 0.0.0.0 instapirater.com
 0.0.0.0 instatracker.org
 0.0.0.0 intl-paypal-com.com
@@ -4613,8 +4547,6 @@
 0.0.0.0 iosjailbreakau.com
 0.0.0.0 iosjailbreakpod2g.com
 0.0.0.0 iostweaking.com
-0.0.0.0 iownyour.biz
-0.0.0.0 iownyour.org
 0.0.0.0 ipad--reviews.com
 0.0.0.0 ipetozi.ru
 0.0.0.0 iphone--4s.com
@@ -4636,17 +4568,14 @@
 0.0.0.0 ironhidecheats.com
 0.0.0.0 ironroguecostume.sharezips.info
 0.0.0.0 is-apple.com
-0.0.0.0 isasecret.com
 0.0.0.0 islandofhacks.com
 0.0.0.0 isopcgames.com
 0.0.0.0 istore-products.info
 0.0.0.0 ita-facebook.com
 0.0.0.0 itanito.ru
-0.0.0.0 itemdb.com
 0.0.0.0 itemsorter.com
 0.0.0.0 iteungfilms.filminstan.pw
 0.0.0.0 itgiftcards.com
-0.0.0.0 itsaol.com
 0.0.0.0 itshd.com
 0.0.0.0 itunecodegenerator.com
 0.0.0.0 itunesboss.com
@@ -4712,7 +4641,6 @@
 0.0.0.0 jeibgiftcards.com
 0.0.0.0 jeibpremiumdownloads.com
 0.0.0.0 jesuislol.fblikegenerateur.com
-0.0.0.0 jetos.com
 0.0.0.0 jetpackjoyride.newzgames.com
 0.0.0.0 jetplayz.com
 0.0.0.0 jeufax.com
@@ -4731,7 +4659,6 @@
 0.0.0.0 jfhvip.com
 0.0.0.0 jibonerareknamtaka.com
 0.0.0.0 jipive.ru
-0.0.0.0 jkub.com
 0.0.0.0 jlshayne.info
 0.0.0.0 jlyse.net
 0.0.0.0 job4pals.biz
@@ -4746,14 +4673,12 @@
 0.0.0.0 juegos-hack.info
 0.0.0.0 juicyfiles.net
 0.0.0.0 juicy-pubg.com
-0.0.0.0 jungleheart.com
 0.0.0.0 jupol.ru
 0.0.0.0 jurassicparkbuildercheats.net
 0.0.0.0 jurassicpark.newzgames.com
 0.0.0.0 just-bets.com
 0.0.0.0 justdance2014.sharezips.info
 0.0.0.0 justdance2014.sharezips.net
-0.0.0.0 justdied.com
 0.0.0.0 justdrop.store
 0.0.0.0 justinbieber.reviewbuckz.com
 0.0.0.0 just-watch-it.com
@@ -4936,10 +4861,6 @@
 0.0.0.0 letsweb.info
 0.0.0.0 lexec.ru
 0.0.0.0 lezepi.ru
-0.0.0.0 lflink.com
-0.0.0.0 lflinkup.com
-0.0.0.0 lflinkup.net
-0.0.0.0 lflinkup.org
 0.0.0.0 lfunny.com
 0.0.0.0 libergaming.com
 0.0.0.0 libez.ru
@@ -5017,7 +4938,6 @@
 0.0.0.0 lolrpcodes.net
 0.0.0.0 lolrphack.sharezips.info
 0.0.0.0 longer-battery-life.com
-0.0.0.0 longmusic.com
 0.0.0.0 looks-picture.com
 0.0.0.0 loomarnia.com
 0.0.0.0 loomplay.com
@@ -5163,7 +5083,6 @@
 0.0.0.0 meezhacks.net
 0.0.0.0 meez.us
 0.0.0.0 mefid.ru
-0.0.0.0 mefound.com
 0.0.0.0 mega-cheat.net
 0.0.0.0 megacinemahd.com
 0.0.0.0 megadataupload.com
@@ -5314,7 +5233,6 @@
 0.0.0.0 mol.cheatsplanet.net
 0.0.0.0 mol.haxdo.com
 0.0.0.0 mondodeitrucchi.net
-0.0.0.0 moneyhome.biz
 0.0.0.0 moneyisecondgod.com
 0.0.0.0 monjeuconcoursassurancedirexi.fr
 0.0.0.0 monplacementmalin.com
@@ -5410,11 +5328,7 @@
 0.0.0.0 mp3tomidiconverter.net
 0.0.0.0 mp3zer.com
 0.0.0.0 mpgames.org
-0.0.0.0 mrbasic.com
-0.0.0.0 mrbonus.com
 0.0.0.0 mrcrackworld.com
-0.0.0.0 mrface.com
-0.0.0.0 mrslove.com
 0.0.0.0 mscodes.info
 0.0.0.0 msgoldcodes.epickeys.com
 0.0.0.0 msihacks.com
@@ -5461,12 +5375,9 @@
 0.0.0.0 mw3wallhack.filesforgames.com
 0.0.0.0 mxapple-icloud.com
 0.0.0.0 mxbpointcodes.com
-0.0.0.0 my03.com
 0.0.0.0 myamzgiftcards.com
 0.0.0.0 myboxgo.com
 0.0.0.0 mycsgotrade.com
-0.0.0.0 mydad.info
-0.0.0.0 myddns.com
 0.0.0.0 mydownlodablethings.net
 0.0.0.0 mydownstore.com
 0.0.0.0 mydownzone.com
@@ -5490,35 +5401,22 @@
 0.0.0.0 myfreehacks.com
 0.0.0.0 myfreemediacloud.com
 0.0.0.0 myfreeriotpoints.com
-0.0.0.0 myftp.info
-0.0.0.0 myftp.name
 0.0.0.0 mygamehack.com
 0.0.0.0 mygamersarena.com
 0.0.0.0 mygiffgaff-agent.support
-0.0.0.0 mylftv.com
 0.0.0.0 mylolriotpoints.com
 0.0.0.0 mymediasearchnow.com
 0.0.0.0 mymobileappz.com
-0.0.0.0 mymom.info
 0.0.0.0 mymoviestube.com
-0.0.0.0 mynetav.net
-0.0.0.0 mynetav.org
-0.0.0.0 mynumber.org
 0.0.0.0 myon.biz
 0.0.0.0 mypcgamesdownload.com
-0.0.0.0 mypicture.info
-0.0.0.0 mypop3.net
-0.0.0.0 mypop3.org
 0.0.0.0 mypsncodes.com
 0.0.0.0 myq-see.com
 0.0.0.0 myreff.com
-0.0.0.0 mysecondarydns.com
 0.0.0.0 myskinstrade.com
 0.0.0.0 mysoftwareplace.com
 0.0.0.0 mytrustfile.com
 0.0.0.0 mywellsfaronline.com
-0.0.0.0 mywww.biz
-0.0.0.0 myz.info
 0.0.0.0 mz-vodacom.info
 0.0.0.0 n799436.com
 0.0.0.0 n95-mask.site
@@ -5631,7 +5529,6 @@
 0.0.0.0 nintendo3ds4free.com
 0.0.0.0 nintendo3dshack.com
 0.0.0.0 nintendobro.com
-0.0.0.0 ninth.biz
 0.0.0.0 nitasodo.ru
 0.0.0.0 nitrohacks.com
 0.0.0.0 nocostgiftcards.com
@@ -5655,15 +5552,6 @@
 0.0.0.0 nowfunnygame.com
 0.0.0.0 now-movie.com
 0.0.0.0 nowmusik.com
-0.0.0.0 ns01.biz
-0.0.0.0 ns01.info
-0.0.0.0 ns01.us
-0.0.0.0 ns02.biz
-0.0.0.0 ns02.info
-0.0.0.0 ns02.us
-0.0.0.0 ns1.name
-0.0.0.0 ns2.name
-0.0.0.0 ns3.name
 0.0.0.0 nuadagi.ru
 0.0.0.0 nucur.ru
 0.0.0.0 nug.jozmovie.xyz
@@ -5682,7 +5570,6 @@
 0.0.0.0 obtenircodesdeplaystationnetwork.fr
 0.0.0.0 obtenirxboxlivegratuit.com
 0.0.0.0 oceanshare.net
-0.0.0.0 ocry.com
 0.0.0.0 octavian.su
 0.0.0.0 odindownload.com
 0.0.0.0 ofclans.com
@@ -5705,7 +5592,6 @@
 0.0.0.0 omomovie.com
 0.0.0.0 onecinema.us
 0.0.0.0 oneclick2download.com
-0.0.0.0 onedumb.com
 0.0.0.0 one-image.pw
 0.0.0.0 onelovehacks.com
 0.0.0.0 one-picture.net
@@ -5743,11 +5629,6 @@
 0.0.0.0 onlygadgets.net
 0.0.0.0 only.onecinema.us
 0.0.0.0 onlyrealhacks.com
-0.0.0.0 onmypc.biz
-0.0.0.0 onmypc.info
-0.0.0.0 onmypc.net
-0.0.0.0 onmypc.org
-0.0.0.0 onmypc.us
 0.0.0.0 onomovie.xyz
 0.0.0.0 oopscaughoncam.info
 0.0.0.0 openbetakeys.com
@@ -5773,14 +5654,11 @@
 0.0.0.0 optout-blglb.net
 0.0.0.0 orderandchaoshack.blackhatsky.com
 0.0.0.0 ordermedonline.com
-0.0.0.0 organiccrap.com
 0.0.0.0 orgdotcom.com
 0.0.0.0 originalhack.info
 0.0.0.0 osmovie.xyz
-0.0.0.0 otzo.com
 0.0.0.0 ourhackgames.com
 0.0.0.0 ourhackz.com
-0.0.0.0 ourhobby.com
 0.0.0.0 outdonuthack.com
 0.0.0.0 outlast.sharezips.info
 0.0.0.0 over-talker.com
@@ -5834,7 +5712,6 @@
 0.0.0.0 paysafecardgenerator.com
 0.0.0.0 paysafe.leadrights.com
 0.0.0.0 pboh.punklocalbabez.com
-0.0.0.0 pcanywhere.net
 0.0.0.0 pcdownloadstation.com
 0.0.0.0 pcdownstation.com
 0.0.0.0 pcfullgamesfree.com
@@ -6043,7 +5920,6 @@
 0.0.0.0 popularupload.com
 0.0.0.0 porngeneratoraccess.com
 0.0.0.0 pornpasswordhack.com
-0.0.0.0 port25.biz
 0.0.0.0 portalhacks.com
 0.0.0.0 portalhacks.fr
 0.0.0.0 powerfulcheats.com
@@ -6128,7 +6004,6 @@
 0.0.0.0 pronanchacks.com
 0.0.0.0 propsncodegenerator.com
 0.0.0.0 prosperityteam.co
-0.0.0.0 proxydns.com
 0.0.0.0 ps3emulator.fr
 0.0.0.0 ps3jailbreakdownloadfree.com
 0.0.0.0 ps3jailbreaknow.com
@@ -6240,11 +6115,9 @@
 0.0.0.0 qeqom.ru
 0.0.0.0 qeret.ru
 0.0.0.0 qexow.ru
-0.0.0.0 qhigh.com
 0.0.0.0 qipob.ru
 0.0.0.0 qomeg.ru
 0.0.0.0 qoqupi.ru
-0.0.0.0 qpoe.com
 0.0.0.0 qqskinsx.fun
 0.0.0.0 qskin.pro
 0.0.0.0 qualitygamehacks.com
@@ -6317,7 +6190,6 @@
 0.0.0.0 realracinghack.com
 0.0.0.0 reapercase.com
 0.0.0.0 reason7crack.com
-0.0.0.0 rebatesrule.net
 0.0.0.0 recharge-mobile-gratuit.fr
 0.0.0.0 recording-music.net
 0.0.0.0 recovercode.com
@@ -6546,7 +6418,6 @@
 0.0.0.0 sega-rom.com
 0.0.0.0 seizefile.co
 0.0.0.0 sekaze.ru
-0.0.0.0 sellclassics.com
 0.0.0.0 sellix.io
 0.0.0.0 semec.ru
 0.0.0.0 sendaufile.com
@@ -6560,7 +6431,6 @@
 0.0.0.0 sendlargefiles.biz
 0.0.0.0 sendmini.com
 0.0.0.0 sendshort.com
-0.0.0.0 sendsmtp.com
 0.0.0.0 sendukfile.com
 0.0.0.0 sentry.mba
 0.0.0.0 sentshared.com
@@ -6576,19 +6446,15 @@
 0.0.0.0 server-csgo.com
 0.0.0.0 server.roulette-faker.pro
 0.0.0.0 serveupload.com
-0.0.0.0 serveuser.com
-0.0.0.0 serveusers.com
 0.0.0.0 sesaonpass.sharezips.info
 0.0.0.0 settlecruise.org
 0.0.0.0 setupandcrack.com
 0.0.0.0 sevenhack.com
 0.0.0.0 seventin17.com
 0.0.0.0 sewipo.ru
-0.0.0.0 sexidude.com
 0.0.0.0 sex-incest.ru
 0.0.0.0 sex-interactive.com
 0.0.0.0 sex-man.info
-0.0.0.0 sexxxy.biz
 0.0.0.0 sgdownload.com
 0.0.0.0 shadowfiend.info
 0.0.0.0 shadyscamband.pw
@@ -6673,7 +6539,6 @@
 0.0.0.0 simulator-mod.com
 0.0.0.0 situhuk.ru
 0.0.0.0 sivanik.ru
-0.0.0.0 sixth.biz
 0.0.0.0 skidrow-apps.com
 0.0.0.0 skidrow-cheat.com
 0.0.0.0 skidrowcrack.com
@@ -6929,9 +6794,7 @@
 0.0.0.0 spotmydl.com
 0.0.0.0 spotygen.com
 0.0.0.0 spywhatsapp.es
-0.0.0.0 squirly.info
 0.0.0.0 srv5.movie1get.com
-0.0.0.0 ssl443.org
 0.0.0.0 ssl-verified.site
 0.0.0.0 ssuvumo.ru
 0.0.0.0 st4ck-game.site
@@ -7332,7 +7195,6 @@
 0.0.0.0 tobink.com
 0.0.0.0 todayinfos.us
 0.0.0.0 tohacks.com
-0.0.0.0 toh.info
 0.0.0.0 tolap.ru
 0.0.0.0 tomscheats.com
 0.0.0.0 tomyfilms.filminstan.pw
@@ -7389,7 +7251,6 @@
 0.0.0.0 tovermailtje.nl
 0.0.0.0 tovoxu.ru
 0.0.0.0 toxicskins.com
-0.0.0.0 toythieves.com
 0.0.0.0 track-your-fedex-package.org
 0.0.0.0 trade4real.fun
 0.0.0.0 trade4real.net
@@ -7438,8 +7299,6 @@
 0.0.0.0 tricheurhq.com
 0.0.0.0 trickdad.com
 0.0.0.0 trickempire.com
-0.0.0.0 trickip.net
-0.0.0.0 trickip.org
 0.0.0.0 tricks4games.com
 0.0.0.0 trickshacks.com
 0.0.0.0 tricksplace.eu
@@ -7706,7 +7565,6 @@
 0.0.0.0 vivahacks.com
 0.0.0.0 vizeveso.ru
 0.0.0.0 vizol.ru
-0.0.0.0 vizvaz.com
 0.0.0.0 vkonte.club
 0.0.0.0 vkonte.live
 0.0.0.0 vodkahack.com
@@ -7825,7 +7683,6 @@
 0.0.0.0 westzip.in
 0.0.0.0 wetuma.ru
 0.0.0.0 wewgaming.com
-0.0.0.0 wha.la
 0.0.0.0 whatsapp-app.com
 0.0.0.0 whatsappcl.com
 0.0.0.0 whatsapphack.biz
@@ -7858,7 +7715,6 @@
 0.0.0.0 wifipasswordhack.filesforgames.com
 0.0.0.0 wifipasswordhacking.org
 0.0.0.0 wihack.com
-0.0.0.0 wikaba.com
 0.0.0.0 wikaoc.ru
 0.0.0.0 wilom.ru
 0.0.0.0 win7phone.net
@@ -7956,12 +7812,9 @@
 0.0.0.0 wwe2k14superstarsdlc.goblogz.net
 0.0.0.0 wwe2kbeta.com
 0.0.0.0 wwesupercardhack.xyz
-0.0.0.0 www1.biz
-0.0.0.0 wwwhost.biz
 0.0.0.0 www-secure-runescape.co
 0.0.0.0 wwwtestsportsclubs.com
 0.0.0.0 wxyrxthxswyxrcx.com
-0.0.0.0 x24hr.com
 0.0.0.0 x3x.su
 0.0.0.0 xadaca.ru
 0.0.0.0 xafon.ru
@@ -8067,9 +7920,6 @@
 0.0.0.0 xtracracks.com
 0.0.0.0 xtrades.pro
 0.0.0.0 xuwud.ru
-0.0.0.0 xxuz.com
-0.0.0.0 xxxy.biz
-0.0.0.0 xxxy.info
 0.0.0.0 y0utube.com.mx
 0.0.0.0 y439967.com
 0.0.0.0 yabeme.ru
@@ -8081,13 +7931,11 @@
 0.0.0.0 yeltex7.com
 0.0.0.0 yesfreedl.com
 0.0.0.0 yestimes.alexfilgueira.com
-0.0.0.0 ygto.com
 0.0.0.0 yinkuya.ru
 0.0.0.0 yituf.com
 0.0.0.0 yogode.ru
 0.0.0.0 yootube.com
 0.0.0.0 yotefiles.com
-0.0.0.0 youdontcare.com
 0.0.0.0 youdownloadreadynow.com
 0.0.0.0 youfiling.com
 0.0.0.0 yougamevox.com
@@ -8131,7 +7979,6 @@
 0.0.0.0 yoursendfile.com
 0.0.0.0 yoursharefile.com
 0.0.0.0 your-surveys.com
-0.0.0.0 yourtrap.com
 0.0.0.0 yourtrustedhacks.com
 0.0.0.0 youruploadfile.com
 0.0.0.0 yourwiiu4free.com
@@ -8194,5 +8041,3 @@
 0.0.0.0 zyngapoker.hackfree.us
 0.0.0.0 zynga-poker-hack.net
 0.0.0.0 zynga-poker-hacks.com
-0.0.0.0 zyns.com
-0.0.0.0 zzux.com
