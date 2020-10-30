@@ -1,4 +1,4 @@
-// **** Sat 24 Oct 2020 08:21:37 PM MDT
+// **** Fri 30 Oct 2020 03:21:20 PM MDT
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0daygameparadise.com') ||
@@ -135,6 +135,7 @@ shExpMatch(host, '*.a135.wftv.com') ||
 shExpMatch(host, '*.a1hacks.com') ||
 shExpMatch(host, '*.a32.g.a.yimg.com') ||
 shExpMatch(host, '*.a5.overclockers.ua') ||
+shExpMatch(host, '*.a8a8altrk.com') ||
 shExpMatch(host, '*.a9.com') ||
 shExpMatch(host, '*.aaddzz.com') ||
 shExpMatch(host, '*.a-ads.com') ||
@@ -3687,6 +3688,7 @@ shExpMatch(host, '*.dashbida.com') ||
 shExpMatch(host, '*.dashingdirt.com') ||
 shExpMatch(host, '*.dashingsweater.com') ||
 shExpMatch(host, '*.dash.prankvine.com') ||
+shExpMatch(host, '*.data8a8altrk.com') ||
 shExpMatch(host, '*.databass.info') ||
 shExpMatch(host, '*.data.namesakeoscilloscopemarquis.com') ||
 shExpMatch(host, '*.datashreddergold.com') ||
@@ -4091,6 +4093,7 @@ shExpMatch(host, '*.duroq.ru') ||
 shExpMatch(host, '*.duteja.ru') ||
 shExpMatch(host, '*.duvuku.ru') ||
 shExpMatch(host, '*.dvdrecorders4free.com') ||
+shExpMatch(host, '*.dvrlists.com') ||
 shExpMatch(host, '*.dwnld24.com') ||
 shExpMatch(host, '*.dynamic.fmpub.net') ||
 shExpMatch(host, '*.dyntrk.com') ||
@@ -10279,6 +10282,7 @@ shExpMatch(host, '*.shunmodav.ru') ||
 shExpMatch(host, '*.siccash.com') ||
 shExpMatch(host, '*.sicksmash.com') ||
 shExpMatch(host, '*.sidebar.angelfire.com') ||
+shExpMatch(host, '*.sideload.net') ||
 shExpMatch(host, '*.signalhq.com') ||
 shExpMatch(host, '*.silkysquirrel.com') ||
 shExpMatch(host, '*.sillyscrew.com') ||
@@ -10763,6 +10767,7 @@ shExpMatch(host, '*.stat.webmedia.pl') ||
 shExpMatch(host, '*.stat.xiaomi.com') ||
 shExpMatch(host, '*.statxpress.com') ||
 shExpMatch(host, '*.stat.zenon.net') ||
+shExpMatch(host, '*.stc.tools') ||
 shExpMatch(host, '*.st.dynamicyield.com') ||
 shExpMatch(host, '*.steaacommunity.com') ||
 shExpMatch(host, '*.steaccommunity.com') ||
@@ -11404,6 +11409,7 @@ shExpMatch(host, '*.trackedlink.net') ||
 shExpMatch(host, '*.trackedweb.net') ||
 shExpMatch(host, '*.track.effiliation.com') ||
 shExpMatch(host, '*.tracker.bannerflow.com') ||
+shExpMatch(host, '*.tracker.cdnbye.com') ||
 shExpMatch(host, '*.tracker.comunidadmarriott.com') ||
 shExpMatch(host, '*.tracker.icerocket.com') ||
 shExpMatch(host, '*.tracker.marinsm.com') ||
@@ -11551,6 +11557,7 @@ shExpMatch(host, '*.tritetongue.com') ||
 shExpMatch(host, '*.trixcase.com') ||
 shExpMatch(host, '*.trix.net') ||
 shExpMatch(host, '*.trk42.net') ||
+shExpMatch(host, '*.trk.bee-data.com') ||
 shExpMatch(host, '*.trkingrp.com') ||
 shExpMatch(host, '*.trknths.com') ||
 shExpMatch(host, '*.trkn.us') ||
@@ -11878,6 +11885,7 @@ shExpMatch(host, '*.videojuh.biz') ||
 shExpMatch(host, '*.videonews247.net') ||
 shExpMatch(host, '*.videoplex.pl') ||
 shExpMatch(host, '*.videosfordays.com') ||
+shExpMatch(host, '*.videostats.kakao.com') ||
 shExpMatch(host, '*.video-stats.video.google.com') ||
 shExpMatch(host, '*.videostecas.com') ||
 shExpMatch(host, '*.videosup.us') ||
@@ -12729,6 +12737,7 @@ shExpMatch(host, 'a135.wftv.com') ||
 shExpMatch(host, 'a1hacks.com') ||
 shExpMatch(host, 'a32.g.a.yimg.com') ||
 shExpMatch(host, 'a5.overclockers.ua') ||
+shExpMatch(host, 'a8a8altrk.com') ||
 shExpMatch(host, 'a9.com') ||
 shExpMatch(host, 'aaddzz.com') ||
 shExpMatch(host, 'a-ads.com') ||
@@ -16281,6 +16290,7 @@ shExpMatch(host, 'dashbida.com') ||
 shExpMatch(host, 'dashingdirt.com') ||
 shExpMatch(host, 'dashingsweater.com') ||
 shExpMatch(host, 'dash.prankvine.com') ||
+shExpMatch(host, 'data8a8altrk.com') ||
 shExpMatch(host, 'databass.info') ||
 shExpMatch(host, 'data.namesakeoscilloscopemarquis.com') ||
 shExpMatch(host, 'datashreddergold.com') ||
@@ -16685,6 +16695,7 @@ shExpMatch(host, 'duroq.ru') ||
 shExpMatch(host, 'duteja.ru') ||
 shExpMatch(host, 'duvuku.ru') ||
 shExpMatch(host, 'dvdrecorders4free.com') ||
+shExpMatch(host, 'dvrlists.com') ||
 shExpMatch(host, 'dwnld24.com') ||
 shExpMatch(host, 'dynamic.fmpub.net') ||
 shExpMatch(host, 'dyntrk.com') ||
@@ -22873,6 +22884,7 @@ shExpMatch(host, 'shunmodav.ru') ||
 shExpMatch(host, 'siccash.com') ||
 shExpMatch(host, 'sicksmash.com') ||
 shExpMatch(host, 'sidebar.angelfire.com') ||
+shExpMatch(host, 'sideload.net') ||
 shExpMatch(host, 'signalhq.com') ||
 shExpMatch(host, 'silkysquirrel.com') ||
 shExpMatch(host, 'sillyscrew.com') ||
@@ -23357,6 +23369,7 @@ shExpMatch(host, 'stat.webmedia.pl') ||
 shExpMatch(host, 'stat.xiaomi.com') ||
 shExpMatch(host, 'statxpress.com') ||
 shExpMatch(host, 'stat.zenon.net') ||
+shExpMatch(host, 'stc.tools') ||
 shExpMatch(host, 'st.dynamicyield.com') ||
 shExpMatch(host, 'steaacommunity.com') ||
 shExpMatch(host, 'steaccommunity.com') ||
@@ -23998,6 +24011,7 @@ shExpMatch(host, 'trackedlink.net') ||
 shExpMatch(host, 'trackedweb.net') ||
 shExpMatch(host, 'track.effiliation.com') ||
 shExpMatch(host, 'tracker.bannerflow.com') ||
+shExpMatch(host, 'tracker.cdnbye.com') ||
 shExpMatch(host, 'tracker.comunidadmarriott.com') ||
 shExpMatch(host, 'tracker.icerocket.com') ||
 shExpMatch(host, 'tracker.marinsm.com') ||
@@ -24145,6 +24159,7 @@ shExpMatch(host, 'tritetongue.com') ||
 shExpMatch(host, 'trixcase.com') ||
 shExpMatch(host, 'trix.net') ||
 shExpMatch(host, 'trk42.net') ||
+shExpMatch(host, 'trk.bee-data.com') ||
 shExpMatch(host, 'trkingrp.com') ||
 shExpMatch(host, 'trknths.com') ||
 shExpMatch(host, 'trkn.us') ||
@@ -24472,6 +24487,7 @@ shExpMatch(host, 'videojuh.biz') ||
 shExpMatch(host, 'videonews247.net') ||
 shExpMatch(host, 'videoplex.pl') ||
 shExpMatch(host, 'videosfordays.com') ||
+shExpMatch(host, 'videostats.kakao.com') ||
 shExpMatch(host, 'video-stats.video.google.com') ||
 shExpMatch(host, 'videostecas.com') ||
 shExpMatch(host, 'videosup.us') ||
