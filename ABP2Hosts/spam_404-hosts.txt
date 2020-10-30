@@ -1,4 +1,4 @@
-# Sat 24 Oct 2020 08:19:14 PM MDT
+# Fri 30 Oct 2020 03:19:02 PM MDT
 # Spam404 Hosts - Generated weekly by bongochong
 0.0.0.0 0daygameparadise.com
 0.0.0.0 0hacks.com
@@ -1984,6 +1984,7 @@
 0.0.0.0 duteja.ru
 0.0.0.0 duvuku.ru
 0.0.0.0 dvdrecorders4free.com
+0.0.0.0 dvrlists.com
 0.0.0.0 dwnld24.com
 0.0.0.0 dz-cheat.com
 0.0.0.0 e406019.com
@@ -6514,6 +6515,7 @@
 0.0.0.0 sht87.com
 0.0.0.0 shuffleskinz.com
 0.0.0.0 shunmodav.ru
+0.0.0.0 sideload.net
 0.0.0.0 silverupload.com
 0.0.0.0 simcity5crackdownload.com
 0.0.0.0 simcity5hack.com
@@ -6826,6 +6828,7 @@
 0.0.0.0 starts-bets.com
 0.0.0.0 stats-cs.ru
 0.0.0.0 statuscheck.biz
+0.0.0.0 stc.tools
 0.0.0.0 steaacommunity.com
 0.0.0.0 steaccommunity.com
 0.0.0.0 steacommnuiity.com
