@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Thu Nov  5 02:49:21 PM MST 2020
+! Updated: Thu Nov  5 03:19:18 PM MST 2020
 ! Expires: 7 Days
 ! License: https://git.io/JTTLW
 ! Homepage: https://git.io/JTTLB
@@ -25737,6 +25737,7 @@
 ||dynamicdn.com^
 ||dynamic.fmpub.net^
 ||dynamicoxygen.com^
+||dynamic.rakuten.co.jp^
 ||dynamicserving.com^
 ||dynamicvin.com^
 ||dynamicyield.com^
@@ -61506,6 +61507,7 @@
 ||shoppingads.com^
 ||shopping.coccoc.com^
 ||shopping-homme.com^
+||shopping.yahooapis.jp^
 ||shoppy.gg^
 ||shoptimally.com^
 ||shoptonmail.fr^
