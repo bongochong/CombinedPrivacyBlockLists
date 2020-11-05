@@ -1,5 +1,6 @@
-# Fri 30 Oct 2020 03:19:02 PM MDT
+# Thu Nov  5 02:41:25 PM MST 2020
 # Spam404 Hosts - Generated weekly by bongochong
+0.0.0.0 001www.com
 0.0.0.0 0daygameparadise.com
 0.0.0.0 0hacks.com
 0.0.0.0 0pencase.com
@@ -8,6 +9,7 @@
 0.0.0.0 100giveaways.com
 0.0.0.0 12gmedia.com
 0.0.0.0 12hack.com
+0.0.0.0 16-b.it
 0.0.0.0 1centptc.com
 0.0.0.0 1dollarempire.com
 0.0.0.0 1dollarfreedom.us
@@ -37,8 +39,10 @@
 0.0.0.0 24tradecs.net
 0.0.0.0 270inc.com
 0.0.0.0 2in1pill.com
+0.0.0.0 2mydns.net
 0.0.0.0 2shocking4you.com
 0.0.0.0 30dominos.com
+0.0.0.0 32-b.it
 0.0.0.0 35hacks.com
 0.0.0.0 3604free.com
 0.0.0.0 360elite4free.com
@@ -67,6 +71,7 @@
 0.0.0.0 50shadesofgreydownload.net
 0.0.0.0 613untetheredjailbreak.com
 0.0.0.0 623762.com
+0.0.0.0 64-b.it
 0.0.0.0 68769.videojuh.biz
 0.0.0.0 72hdownload.com
 0.0.0.0 774378.com
@@ -1244,6 +1249,7 @@
 0.0.0.0 crackyteam.com
 0.0.0.0 cracxsoftware.com
 0.0.0.0 craftferfree.com
+0.0.0.0 crafting.xyz
 0.0.0.0 craveforcheats.com
 0.0.0.0 crazy-files.com
 0.0.0.0 crazy-jackpots.com
@@ -1685,6 +1691,7 @@
 0.0.0.0 dayzstandalonebeta.com
 0.0.0.0 dayzstandalone.gamespress.net
 0.0.0.0 dd2.ru
+0.0.0.0 ddnslive.com
 0.0.0.0 ddos-guard.net
 0.0.0.0 ddtankhack.net
 0.0.0.0 ddtankhacks.com
@@ -1776,6 +1783,10 @@
 0.0.0.0 dmzgames.com
 0.0.0.0 d.newagerocksinc.com
 0.0.0.0 dnjss.com
+0.0.0.0 dnsapi.info
+0.0.0.0 dnsdyn.net
+0.0.0.0 dnsking.ch
+0.0.0.0 dnsup.net
 0.0.0.0 do2a.money
 0.0.0.0 doatgiveaway.top
 0.0.0.0 docactive.com
@@ -1986,6 +1997,8 @@
 0.0.0.0 dvdrecorders4free.com
 0.0.0.0 dvrlists.com
 0.0.0.0 dwnld24.com
+0.0.0.0 dynip.org
+0.0.0.0 dynserv.org
 0.0.0.0 dz-cheat.com
 0.0.0.0 e406019.com
 0.0.0.0 eafifa19.club
@@ -2720,6 +2733,7 @@
 0.0.0.0 fortunefiles.org
 0.0.0.0 fortuscase.com
 0.0.0.0 forumatomowe.net
+0.0.0.0 forumz.info
 0.0.0.0 forzacarpass.sharezips.info
 0.0.0.0 forza.console2pc.info
 0.0.0.0 forzagame.sharezips.info
@@ -2814,6 +2828,8 @@
 0.0.0.0 free-csgo-skin.com
 0.0.0.0 freecsskins.com
 0.0.0.0 freedatadown.com
+0.0.0.0 freeddns.uk
+0.0.0.0 freeddns.us
 0.0.0.0 freedlcool.com
 0.0.0.0 freedldz.com
 0.0.0.0 free-dominos.co.uk
@@ -4289,6 +4305,7 @@
 0.0.0.0 heroinelash.com
 0.0.0.0 heupload.com
 0.0.0.0 heyblink.me
+0.0.0.0 hicam.net
 0.0.0.0 hiddenmysterypackdlc.sharezips.info
 0.0.0.0 hiddenmysterypackdlc.sharezips.net
 0.0.0.0 highcash.org
@@ -5405,12 +5422,14 @@
 0.0.0.0 mygamehack.com
 0.0.0.0 mygamersarena.com
 0.0.0.0 mygiffgaff-agent.support
+0.0.0.0 myiphost.com
 0.0.0.0 mylolriotpoints.com
 0.0.0.0 mymediasearchnow.com
 0.0.0.0 mymobileappz.com
 0.0.0.0 mymoviestube.com
 0.0.0.0 myon.biz
 0.0.0.0 mypcgamesdownload.com
+0.0.0.0 mypi.co
 0.0.0.0 mypsncodes.com
 0.0.0.0 myq-see.com
 0.0.0.0 myreff.com
@@ -5419,6 +5438,7 @@
 0.0.0.0 mytrustfile.com
 0.0.0.0 mywellsfaronline.com
 0.0.0.0 mz-vodacom.info
+0.0.0.0 n4t.co
 0.0.0.0 n799436.com
 0.0.0.0 n95-mask.site
 0.0.0.0 nafamovies.com
@@ -5549,10 +5569,15 @@
 0.0.0.0 novahacks.com
 0.0.0.0 novedadesdiarias.com
 0.0.0.0 novitadelgiorno.com
+0.0.0.0 nowddns.com
+0.0.0.0 now-dns.net
+0.0.0.0 now-dns.org
+0.0.0.0 now-dns.top
 0.0.0.0 nowdownloadhack.com
 0.0.0.0 nowfunnygame.com
 0.0.0.0 now-movie.com
 0.0.0.0 nowmusik.com
+0.0.0.0 ntdll.top
 0.0.0.0 nuadagi.ru
 0.0.0.0 nucur.ru
 0.0.0.0 nug.jozmovie.xyz
@@ -5669,6 +5694,7 @@
 0.0.0.0 ovicase.com
 0.0.0.0 owhacks.com
 0.0.0.0 owlplayz.com
+0.0.0.0 ownip.net
 0.0.0.0 oxxieslife.com
 0.0.0.0 ozogame.com
 0.0.0.0 p0kec0ins.com
@@ -6754,6 +6780,7 @@
 0.0.0.0 sorteo-capraboacasa.com
 0.0.0.0 sosnovka.trade
 0.0.0.0 soulgaminghacks.com
+0.0.0.0 soundcast.me
 0.0.0.0 soundclouddownloader.info
 0.0.0.0 soundeem.com
 0.0.0.0 source-hack.com
@@ -7046,6 +7073,7 @@
 0.0.0.0 tappedoutdonuthack.com
 0.0.0.0 taxiqipi.ru
 0.0.0.0 taxoz.ru
+0.0.0.0 tcp4.me
 0.0.0.0 team10merch.us
 0.0.0.0 teamcheat.com
 0.0.0.0 teamripmax.com
@@ -7103,6 +7131,7 @@
 0.0.0.0 tf2mann.com
 0.0.0.0 tf2millenium.com
 0.0.0.0 tf2pull.com
+0.0.0.0 tftpd.net
 0.0.0.0 the2shared.com
 0.0.0.0 thealtening.com
 0.0.0.0 the-amazing-spider-man2.info
@@ -7579,6 +7608,7 @@
 0.0.0.0 vor.cc
 0.0.0.0 voucherfree.info
 0.0.0.0 vox-voice.com
+0.0.0.0 vpndns.net
 0.0.0.0 vpngratuitmaintenant.fr
 0.0.0.0 vprivate-sexa.ru
 0.0.0.0 vskin.pro
@@ -7717,6 +7747,7 @@
 0.0.0.0 wifipasswordhacker.com
 0.0.0.0 wifipasswordhack.filesforgames.com
 0.0.0.0 wifipasswordhacking.org
+0.0.0.0 wifizone.org
 0.0.0.0 wihack.com
 0.0.0.0 wikaoc.ru
 0.0.0.0 wilom.ru

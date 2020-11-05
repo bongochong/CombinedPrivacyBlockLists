@@ -1,4 +1,4 @@
-# Fri 30 Oct 2020 03:17:45 PM MDT
+# Thu Nov  5 02:40:39 PM MST 2020
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -1420,7 +1420,6 @@
 0.0.0.0 aniview-d.openx.net
 0.0.0.0 anquan.org
 0.0.0.0 answers-d.openx.net
-0.0.0.0 answers.nielsen.com
 0.0.0.0 antenna-apse.ayads.co
 0.0.0.0 antenna.ayads.co
 0.0.0.0 antenna-us.ayads.co
@@ -1442,7 +1441,6 @@
 0.0.0.0 a.optnmstr.com
 0.0.0.0 aorta.clickagy.com
 0.0.0.0 aos.gop1.co
-0.0.0.0 aos.opt8.co
 0.0.0.0 apacdigital-d.openx.net
 0.0.0.0 apac-hk-ad-track.aralego.com
 0.0.0.0 apacrtb.adtiming.com
@@ -1833,7 +1831,6 @@
 0.0.0.0 appads.com
 0.0.0.0 app.adsunflower.cn
 0.0.0.0 app.adywind.com
-0.0.0.0 app-analytics-v2.snapchat.com
 0.0.0.0 app.appsflyer.com
 0.0.0.0 appbaqend.com
 0.0.0.0 appboy.com
@@ -1913,7 +1910,6 @@
 0.0.0.0 app.push-ad.com
 0.0.0.0 appres.camera360.com
 0.0.0.0 app.roximity.com
-0.0.0.0 apps2.outfit7.com
 0.0.0.0 apps.admob.com
 0.0.0.0 apps.ad-x.co.uk
 0.0.0.0 apps.applift.com
@@ -1963,7 +1959,6 @@
 0.0.0.0 appservice5-8.omniture.com
 0.0.0.0 appservice5-9.omniture.com
 0.0.0.0 appservice5.omniture.com
-0.0.0.0 apps-ext.outfit7.com
 0.0.0.0 appsfire.net
 0.0.0.0 appsflyer.com.akamaized.net
 0.0.0.0 appsflyer-web-sdk-500562466.eu-west-1.elb.amazonaws.com
@@ -2004,7 +1999,6 @@
 0.0.0.0 app-sn01.marketo.com
 0.0.0.0 apps.nexus.bazaarvoice.com
 0.0.0.0 apps.nielsen.com
-0.0.0.0 apps.outfit7.com
 0.0.0.0 apps.pubmatic.com
 0.0.0.0 apps.shareaholic.com
 0.0.0.0 appswitch.adups.cn
@@ -2833,7 +2827,6 @@
 0.0.0.0 cdn.fqtag.com
 0.0.0.0 cdn.g5e.com
 0.0.0.0 cdn-gcp.siftscience.com
-0.0.0.0 cdn-gcs.outfit7.com
 0.0.0.0 cdn.geodns.tubemogul.com
 0.0.0.0 cdn.gimbal.tech
 0.0.0.0 cdn.gladly.com
@@ -2891,7 +2884,6 @@
 0.0.0.0 cdn.native.ai
 0.0.0.0 cdn.natpal.com
 0.0.0.0 cdn.o333o.com
-0.0.0.0 cdn-o7.outfit7.com
 0.0.0.0 cdn.oas-c18.adnxs.com
 0.0.0.0 cdn.okanjo.com
 0.0.0.0 cdn.onthe.io
@@ -2900,7 +2892,6 @@
 0.0.0.0 cdn-otf-cas.adperfect.com
 0.0.0.0 cdn-otf-cas.prfct.cc
 0.0.0.0 cdn.otherlevels.com
-0.0.0.0 cdn.outfit7.com
 0.0.0.0 cdnp1.yieldoptimizer.com
 0.0.0.0 cdn.parsely.com
 0.0.0.0 cdn-pci.optimizely.com
@@ -2919,7 +2910,6 @@
 0.0.0.0 cdn.rlcdn.com
 0.0.0.0 cdn.run-syndicate.com
 0.0.0.0 cdn-s2s.buysellads.net
-0.0.0.0 cdn-safe.outfit7.com
 0.0.0.0 cdn.sailthru.com
 0.0.0.0 cdns.connatix.com
 0.0.0.0 cdn.sdkconfig.site
@@ -4229,9 +4219,7 @@
 0.0.0.0 events.adwidecenter.com
 0.0.0.0 events.apester.com
 0.0.0.0 events.api.boomtrain.com
-0.0.0.0 events-api-ew1.outfit7.com
 0.0.0.0 events-api.otherlevels.com
-0.0.0.0 events-api.outfit7.com
 0.0.0.0 events.api.vungle.com
 0.0.0.0 events.appsflyer.com
 0.0.0.0 events.attentivemobile.com
@@ -4598,7 +4586,6 @@
 0.0.0.0 geolocation.onetrust.com
 0.0.0.0 geo-location.s-onetag.com
 0.0.0.0 geo.moatads.com
-0.0.0.0 geo.opt8.co
 0.0.0.0 geoplugin.net
 0.0.0.0 geo.query.yahoo.com
 0.0.0.0 geo.rlcdn.com
@@ -4916,7 +4903,6 @@
 0.0.0.0 hybridclient.naiadsystems.com
 0.0.0.0 hydra.alibaba.com
 0.0.0.0 hyperadx.com
-0.0.0.0 hypertext.service.newrelic.com
 0.0.0.0 i16-tb.isnssdk.com
 0.0.0.0 i16-tb.isnssdk.com.edgekey.net
 0.0.0.0 i16-tb.sgsnssdk.com.edgekey.net
@@ -5157,7 +5143,6 @@
 0.0.0.0 img.maropost.com
 0.0.0.0 img.mobusi.com
 0.0.0.0 img.netwrix.com
-0.0.0.0 img.opt8.co
 0.0.0.0 imgraovat.vnecdn.net
 0.0.0.0 img.revcontent.com
 0.0.0.0 img.riskified.com
@@ -5239,7 +5224,6 @@
 0.0.0.0 informer.yandex.ru
 0.0.0.0 info.startappservice.com
 0.0.0.0 info.static.startappservice.com
-0.0.0.0 infra-api.newrelic.com
 0.0.0.0 ingameads.gameloft.com
 0.0.0.0 ingamesads.gameloft.com
 0.0.0.0 ingest.m2appmonitor.com
@@ -5288,7 +5272,6 @@
 0.0.0.0 integral-marketing.com
 0.0.0.0 integration-assets.sharethrough.com
 0.0.0.0 integration.richrelevance.com
-0.0.0.0 intel11.edgekey.net
 0.0.0.0 intelligence.amobee.com
 0.0.0.0 intelligence-head.pinsightmedia.com
 0.0.0.0 intellitxt.com
@@ -5868,10 +5851,6 @@
 0.0.0.0 masky.biddingx.com
 0.0.0.0 mastermind.com
 0.0.0.0 mastertag.effiliation.com
-0.0.0.0 match7-as-s1.outfit7.com
-0.0.0.0 match7-eu-w1.outfit7.com
-0.0.0.0 match7-so-e1.outfit7.com
-0.0.0.0 match7-us-c1.outfit7.com
 0.0.0.0 match.adsrvr.org
 0.0.0.0 matchadsrvr.yieldmo.com
 0.0.0.0 match-ap-southeast-1-ecs.sharethrough.com
@@ -6471,7 +6450,6 @@
 0.0.0.0 nytelecom.vo.llnwd.net
 0.0.0.0 nz-gmtdmp.mookie1.com
 0.0.0.0 o2o.api.xiaomi.com
-0.0.0.0 o7hb.outfit7.com
 0.0.0.0 oao-d.openx.net
 0.0.0.0 oas-c18.adnxs.com
 0.0.0.0 oath-match.dotomi.com
@@ -6559,13 +6537,10 @@
 0.0.0.0 openx2-match.dotomi.com
 0.0.0.0 openx.adhaven.com
 0.0.0.0 openxdisplay970503469688.s.moatpixel.com
-0.0.0.0 openxenterprise.com
 0.0.0.0 openx.net
-0.0.0.0 openx.org
 0.0.0.0 openx-server.thinknearhub.com
 0.0.0.0 openxvideo114183407631.s.moatpixel.com
 0.0.0.0 opera-server.thinknearhub.com
-0.0.0.0 opinionstage.com
 0.0.0.0 opps.taboola.com
 0.0.0.0 opr.formulas.jp
 0.0.0.0 ops-cdn.undertone.com
@@ -6631,18 +6606,11 @@
 0.0.0.0 output.nend.net
 0.0.0.0 outstream.tremorvideo.com
 0.0.0.0 out.usbla.net
-0.0.0.0 overdrive-d.openx.net
 0.0.0.0 ovp.iris.tv
 0.0.0.0 owap.su
 0.0.0.0 owb101.goo.ne.jp
 0.0.0.0 ow-gateway.supersonicads.com
 0.0.0.0 owneriq.net.edgekey.net
-0.0.0.0 ox-delivery-prod-1-asia-northeast1.openx.net
-0.0.0.0 ox-delivery-prod-1-asia-southeast1.openx.net
-0.0.0.0 ox-delivery-prod-1-europe-west1.openx.net
-0.0.0.0 ox-delivery-prod-1-us-central1.openx.net
-0.0.0.0 ox-delivery-prod-1-us-east1.openx.net
-0.0.0.0 ox-delivery-prod-1-us-west1.openx.net
 0.0.0.0 ox-d.slader.servedbyopenx.com
 0.0.0.0 p1cluster.cxense.com
 0.0.0.0 p232207.clksite.com
@@ -6885,7 +6853,6 @@
 0.0.0.0 placebubble.gimbal.com
 0.0.0.0 placements.tapjoy.com
 0.0.0.0 planning-analytics.ibmcloud.com
-0.0.0.0 platform-api.newrelic.com
 0.0.0.0 platform-api.sharethis.com
 0.0.0.0 platform.bidgear.com
 0.0.0.0 platform-cdn.sharethis.com
@@ -7944,7 +7911,6 @@
 0.0.0.0 service.kingoapp.com
 0.0.0.0 servicelayer.king.com
 0.0.0.0 service.maxymiser.net
-0.0.0.0 service.newrelic.com
 0.0.0.0 servicer.lentainform.com
 0.0.0.0 servicer.mgid.com
 0.0.0.0 services.cdn.speedshiftmedia.com
