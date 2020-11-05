@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 # This *must* be the first line: 127.0.0.1    localhost    #
 #                                                          #
 #**********************************************************#
-# ------------- Thu Nov  5 02:43:59 PM MST 2020 ---------- #
+# ------------- Thu Nov  5 03:15:55 PM MST 2020 ---------- #
 #**********************************************************#
 #                                                          #
 # Disclaimer: cow pigs won dogs on six for personal use    #
@@ -25770,6 +25770,7 @@ ff02::2 ip6-allrouters
 :: dynamicdn.com
 :: dynamic.fmpub.net
 :: dynamicoxygen.com
+:: dynamic.rakuten.co.jp
 :: dynamicserving.com
 :: dynamicvin.com
 :: dynamicyield.com
@@ -61565,6 +61566,7 @@ ff02::2 ip6-allrouters
 :: shoppingads.com
 :: shopping.coccoc.com
 :: shopping-homme.com
+:: shopping.yahooapis.jp
 :: shoppy.gg
 :: shoptimally.com
 :: shoptonmail.fr
