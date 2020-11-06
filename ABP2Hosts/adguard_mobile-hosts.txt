@@ -1,4 +1,4 @@
-# Thu Nov  5 03:10:48 PM MST 2020
+# Fri Nov  6 11:13:34 AM MST 2020
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -1643,7 +1643,6 @@
 0.0.0.0 api.nanigans.com
 0.0.0.0 apinas.nct.vn
 0.0.0.0 api.native.ai
-0.0.0.0 api.newrelic.com
 0.0.0.0 api.newsfeed.intl.miui.com
 0.0.0.0 api.nicovideo.jp
 0.0.0.0 api.ning.com
@@ -5696,7 +5695,6 @@
 0.0.0.0 login-ds.dotomi.com
 0.0.0.0 log-ingestion-eu.samsungacr.com
 0.0.0.0 log-ingestion.samsungacr.com
-0.0.0.0 login.newrelic.com
 0.0.0.0 log.intellimize.co
 0.0.0.0 log.isnssdk.com
 0.0.0.0 log.kajicam.com

@@ -1,4 +1,4 @@
-# Thu Nov  5 03:11:02 PM MST 2020
+# Fri Nov  6 11:13:50 AM MST 2020
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -823,6 +823,7 @@
 0.0.0.0 4link.it
 0.0.0.0 4n1hqmcoms.rest
 0.0.0.0 4nb437eugn.ru.com
+0.0.0.0 4nzrqw.cn
 0.0.0.0 4o64flb.com
 0.0.0.0 4o7cj36hbaip.com
 0.0.0.0 4oney.com
@@ -1132,6 +1133,7 @@
 0.0.0.0 71sem.com
 0.0.0.0 729dcbaa57e80c1e.com
 0.0.0.0 72b8869dfc34690.com
+0.0.0.0 72zh.cn
 0.0.0.0 733xs.top
 0.0.0.0 736f35dde67b7da2976.com
 0.0.0.0 739c49a8c68917.com
@@ -1228,6 +1230,7 @@
 0.0.0.0 7j7jv5.cn
 0.0.0.0 7jiajiao.com
 0.0.0.0 7jzic2hylf.ru
+0.0.0.0 7kkqq.com
 0.0.0.0 7-link.ru
 0.0.0.0 7lstw4cd.top
 0.0.0.0 7lyonline.com
@@ -4086,6 +4089,7 @@
 0.0.0.0 andyhoppe.com
 0.0.0.0 anelexpres.club
 0.0.0.0 anevod.ru
+0.0.0.0 anews7.nvwu.com
 0.0.0.0 anews.cc
 0.0.0.0 anexia-it.com
 0.0.0.0 angege.com
@@ -5004,6 +5008,7 @@
 0.0.0.0 b96bcea4.cc
 0.0.0.0 b97beb2fed1c4f.com
 0.0.0.0 b9ba73f1cd9b6.com
+0.0.0.0 b9msljkxf96s.ru
 0.0.0.0 ba2b687.se
 0.0.0.0 ba5ed55a0d56f15.com
 0.0.0.0 ba6af3a0099c6cb9eb5.com
@@ -9940,6 +9945,7 @@
 0.0.0.0 dkecozphug.com
 0.0.0.0 dkfindnpdgac.com
 0.0.0.0 dkhywqapojyk7.cloudfront.net
+0.0.0.0 dkjdnq.cn
 0.0.0.0 dkm6b5q0h53z4.cloudfront.net
 0.0.0.0 dkmnn.top
 0.0.0.0 dkorusxgputkrb.com
@@ -12459,6 +12465,7 @@
 0.0.0.0 foreseeresults.com
 0.0.0.0 forestbrowser.com
 0.0.0.0 foreventwithenwas.info
+0.0.0.0 forever-k.com.cn
 0.0.0.0 foreveryoung.gz01.bdysite.com
 0.0.0.0 forex-affiliate.com
 0.0.0.0 forex-affiliate.net
@@ -12800,6 +12807,7 @@
 0.0.0.0 fuycai.com
 0.0.0.0 fuyigo.top
 0.0.0.0 fuyuap.xyz
+0.0.0.0 fuzausb.top
 0.0.0.0 fuziontech.net
 0.0.0.0 fuzzybasketball.com
 0.0.0.0 fuzzyflavor.com
@@ -14514,6 +14522,7 @@
 0.0.0.0 hfedqcww.com
 0.0.0.0 hferzkyqt.com
 0.0.0.0 hffgptqfpewjz.com
+0.0.0.0 hfiorasadions.mobi
 0.0.0.0 hfjuki.com
 0.0.0.0 hfsn.info
 0.0.0.0 hfsteel.net
@@ -15089,6 +15098,7 @@
 0.0.0.0 hunpp.com
 0.0.0.0 hunterdelivery.com
 0.0.0.0 hunt-leads.com
+0.0.0.0 huodiyun.cn
 0.0.0.0 huovernment.club
 0.0.0.0 huoyiad1.cn
 0.0.0.0 hupsouft.net
@@ -15750,6 +15760,7 @@
 0.0.0.0 info33.info
 0.0.0.0 info4.a7.org
 0.0.0.0 infoblog.site
+0.0.0.0 infoboom.club
 0.0.0.0 infocentro.ru
 0.0.0.0 infocode.tech
 0.0.0.0 infocollect.dk
@@ -19451,6 +19462,7 @@
 0.0.0.0 media-click.ru
 0.0.0.0 mediacot.com
 0.0.0.0 mediacpm.com
+0.0.0.0 mediacpm.pl
 0.0.0.0 mediad2.jp
 0.0.0.0 mediadar.ru
 0.0.0.0 mediad.co.jp
@@ -19590,6 +19602,7 @@
 0.0.0.0 meishiba.com.cn
 0.0.0.0 meiti1.net
 0.0.0.0 meituan.xn--io0a7i
+0.0.0.0 meituan.yoga
 0.0.0.0 meizhuli365.cn
 0.0.0.0 mekadr.com
 0.0.0.0 melatstat.com
@@ -20935,6 +20948,7 @@
 0.0.0.0 neighborlywatch.com
 0.0.0.0 neitherspreta.site
 0.0.0.0 neki.org
+0.0.0.0 nellads.com
 0.0.0.0 nelsdecademi.info
 0.0.0.0 neltoole.net
 0.0.0.0 nend.net
@@ -23468,6 +23482,7 @@
 0.0.0.0 planktab.com
 0.0.0.0 plannto.com
 0.0.0.0 plantaosexy.com
+0.0.0.0 plantationthrillednoncommittal.com
 0.0.0.0 plantdigestion.com
 0.0.0.0 plantpotato.com
 0.0.0.0 plasminori.club
@@ -23601,6 +23616,7 @@
 0.0.0.0 podimxqmqguj.com
 0.0.0.0 podiumpresto.com
 0.0.0.0 pod.manplay.com
+0.0.0.0 podsolnu9hi10.com
 0.0.0.0 pod.xpress.com
 0.0.0.0 poemsdeucewee.com
 0.0.0.0 poemsproduced.com
@@ -24314,6 +24330,7 @@
 0.0.0.0 ptwebcams.com
 0.0.0.0 ptw.la
 0.0.0.0 p.typekit.net
+0.0.0.0 pu0glv.cn
 0.0.0.0 pub1.cope.es
 0.0.0.0 pub2srv.com
 0.0.0.0 pub.admedia.io
@@ -30323,6 +30340,7 @@
 0.0.0.0 tracking.ukwm.co.uk
 0.0.0.0 tracking.unrealengine.com
 0.0.0.0 tracking.ustream.tv
+0.0.0.0 tracking.venturify.at
 0.0.0.0 tracking.vitringez.com
 0.0.0.0 tracking.yourfilehost.com
 0.0.0.0 trackingzen.com
@@ -32983,6 +33001,7 @@
 0.0.0.0 whethere.club
 0.0.0.0 whetherecyclo.fun
 0.0.0.0 whfpbc.99.com.cn
+0.0.0.0 whhrux.com
 0.0.0.0 whhxnz.com
 0.0.0.0 whiceega.com
 0.0.0.0 whicherinc.club
@@ -33855,6 +33874,7 @@
 0.0.0.0 xizupsawo.pro
 0.0.0.0 xjahyyhailnj.com
 0.0.0.0 xjdriaiyy.com
+0.0.0.0 xjhjtz.cn
 0.0.0.0 xjidian.com
 0.0.0.0 xjijqczj.com
 0.0.0.0 xjmrl.xyz
@@ -34310,6 +34330,7 @@
 0.0.0.0 yantairuide.com
 0.0.0.0 yaodianzhineng.cn
 0.0.0.0 yaohq.com
+0.0.0.0 yaoquanshumeiyu.com
 0.0.0.0 yaoxiaoli.com
 0.0.0.0 yaoyl.com
 0.0.0.0 yapparenalu.info
@@ -34410,6 +34431,7 @@
 0.0.0.0 yeplavtzm.com
 0.0.0.0 yeprimlax.club
 0.0.0.0 yepsobtax.com
+0.0.0.0 yes999.tk
 0.0.0.0 yesadsrv.com
 0.0.0.0 yesadvertising.com
 0.0.0.0 yescomition.club

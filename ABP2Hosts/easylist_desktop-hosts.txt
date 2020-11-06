@@ -1,4 +1,4 @@
-# Thu Nov  5 03:11:19 PM MST 2020
+# Fri Nov  6 11:14:04 AM MST 2020
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -702,6 +702,7 @@
 0.0.0.0 4kyu.cn
 0.0.0.0 4link.it
 0.0.0.0 4lucysu.com
+0.0.0.0 4nzrqw.cn
 0.0.0.0 4o64flb.com
 0.0.0.0 4o7cj36hbaip.com
 0.0.0.0 4oney.com
@@ -972,6 +973,7 @@
 0.0.0.0 720-trail.co.uk
 0.0.0.0 729dcbaa57e80c1e.com
 0.0.0.0 72b8869dfc34690.com
+0.0.0.0 72zh.cn
 0.0.0.0 733xs.top
 0.0.0.0 736f35dde67b7da2976.com
 0.0.0.0 739c49a8c68917.com
@@ -1055,6 +1057,7 @@
 0.0.0.0 7j7jv5.cn
 0.0.0.0 7jiajiao.com
 0.0.0.0 7k39lprupvfc83kxbhor.com
+0.0.0.0 7kkqq.com
 0.0.0.0 7lbd4.armandthiery.fr
 0.0.0.0 7lstw4cd.top
 0.0.0.0 7lyonline.com
@@ -3520,6 +3523,7 @@
 0.0.0.0 andyetanotherthing.com
 0.0.0.0 andyhoppe.com
 0.0.0.0 anelexpres.club
+0.0.0.0 anews7.nvwu.com
 0.0.0.0 angege.com
 0.0.0.0 angelfishstats.com
 0.0.0.0 anglended.club
@@ -8852,6 +8856,7 @@
 0.0.0.0 dkecozphug.com
 0.0.0.0 dkemeli.ru
 0.0.0.0 dkfindnpdgac.com
+0.0.0.0 dkjdnq.cn
 0.0.0.0 dkm6b5q0h53z4.cloudfront.net
 0.0.0.0 dkmnn.top
 0.0.0.0 dkorusxgputkrb.com
@@ -11220,6 +11225,7 @@
 0.0.0.0 foreignsec.club
 0.0.0.0 forensics1000.com
 0.0.0.0 foreseeresults.com
+0.0.0.0 forever-k.com.cn
 0.0.0.0 foreveryoung.gz01.bdysite.com
 0.0.0.0 forex-affiliate.com
 0.0.0.0 forex-affiliate.net
@@ -11529,6 +11535,7 @@
 0.0.0.0 fuycai.com
 0.0.0.0 fuyigo.top
 0.0.0.0 fuyuap.xyz
+0.0.0.0 fuzausb.top
 0.0.0.0 fuziontech.net
 0.0.0.0 fuzzybasketball.com
 0.0.0.0 fv99.com
@@ -13649,6 +13656,7 @@
 0.0.0.0 hunkal.com
 0.0.0.0 hunpp.com
 0.0.0.0 hunt-leads.com
+0.0.0.0 huodiyun.cn
 0.0.0.0 huovernment.club
 0.0.0.0 huoyiad1.cn
 0.0.0.0 hupsouft.net
@@ -17742,6 +17750,7 @@
 0.0.0.0 meinlnim.com
 0.0.0.0 meiti1.net
 0.0.0.0 meituan.xn--io0a7i
+0.0.0.0 meituan.yoga
 0.0.0.0 meizhuli365.cn
 0.0.0.0 mekadr.com
 0.0.0.0 melbet92609.com
@@ -21270,6 +21279,7 @@
 0.0.0.0 plausible.io
 0.0.0.0 play4k.co
 0.0.0.0 playerseo.club
+0.0.0.0 player-telemetry.vimeo.com
 0.0.0.0 playertraffic.com
 0.0.0.0 playgirl.com
 0.0.0.0 play.mix.kinostuff.com
@@ -21997,6 +22007,7 @@
 0.0.0.0 ptvcfltikpdi.com
 0.0.0.0 ptwebcams.com
 0.0.0.0 ptw.la
+0.0.0.0 pu0glv.cn
 0.0.0.0 pub1.cope.es
 0.0.0.0 pub.admedia.io
 0.0.0.0 pub.aujourdhui.com
@@ -28529,6 +28540,7 @@
 0.0.0.0 unionsformalclearance.com
 0.0.0.0 union.yihaodian.com
 0.0.0.0 uniqodo.com
+0.0.0.0 united-infos.net
 0.0.0.0 unitethecows.com
 0.0.0.0 units.knotch.it
 0.0.0.0 universal-lnk.net
@@ -30790,6 +30802,7 @@
 0.0.0.0 xizupsawo.pro
 0.0.0.0 xjahyyhailnj.com
 0.0.0.0 xjdriaiyy.com
+0.0.0.0 xjhjtz.cn
 0.0.0.0 xjidian.com
 0.0.0.0 xjijqczj.com
 0.0.0.0 xjqbftcstq.com
@@ -31183,6 +31196,7 @@
 0.0.0.0 yantairuide.com
 0.0.0.0 yaodianzhineng.cn
 0.0.0.0 yaohq.com
+0.0.0.0 yaoquanshumeiyu.com
 0.0.0.0 yaoxiaoli.com
 0.0.0.0 yaoyl.com
 0.0.0.0 yapparenalu.info
@@ -31447,6 +31461,7 @@
 0.0.0.0 ymmdpk.cn
 0.0.0.0 ymondardin.club
 0.0.0.0 ympkaxpaf.com
+0.0.0.0 ymprove.web.de
 0.0.0.0 ymsutnllwwcm.com
 0.0.0.0 ymuhybbrk.com
 0.0.0.0 ymuoqhmhnifzl.com
