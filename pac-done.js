@@ -1,4 +1,4 @@
-// **** Thu Nov  5 02:44:19 PM MST 2020
+// **** Fri Nov  6 11:16:35 AM MST 2020
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.001www.com') ||
@@ -4626,6 +4626,7 @@ shExpMatch(host, '*.fastly-insights.com') ||
 shExpMatch(host, '*.fastmediasearcher.com') ||
 shExpMatch(host, '*.fast-png.com') ||
 shExpMatch(host, '*.fastrade.net') ||
+shExpMatch(host, '*.fast-redirecting.com') ||
 shExpMatch(host, '*.fast-scr.pw') ||
 shExpMatch(host, '*.fastseascape.ru') ||
 shExpMatch(host, '*.fastskins4you.com') ||
@@ -8956,6 +8957,7 @@ shExpMatch(host, '*.owlplayz.com') ||
 shExpMatch(host, '*.owlsr.us') ||
 shExpMatch(host, '*.owneriq.net') ||
 shExpMatch(host, '*.ownip.net') ||
+shExpMatch(host, '*.ox1.shopcool.com.tw') ||
 shExpMatch(host, '*.oxado.com') ||
 shExpMatch(host, '*.oxcash.com') ||
 shExpMatch(host, '*.oxen.hillcountrytexas.com') ||
@@ -11531,6 +11533,7 @@ shExpMatch(host, '*.traffichunt.com') ||
 shExpMatch(host, '*.trafficjunky.net') ||
 shExpMatch(host, '*.trafficleader.com') ||
 shExpMatch(host, '*.traffic.liveuniversenetwork.com') ||
+shExpMatch(host, '*.traffic-redirecting.com') ||
 shExpMatch(host, '*.trafficrouter.io') ||
 shExpMatch(host, '*.trafficsecrets.com') ||
 shExpMatch(host, '*.trafficspaces.net') ||
@@ -17268,6 +17271,7 @@ shExpMatch(host, 'fastly-insights.com') ||
 shExpMatch(host, 'fastmediasearcher.com') ||
 shExpMatch(host, 'fast-png.com') ||
 shExpMatch(host, 'fastrade.net') ||
+shExpMatch(host, 'fast-redirecting.com') ||
 shExpMatch(host, 'fast-scr.pw') ||
 shExpMatch(host, 'fastseascape.ru') ||
 shExpMatch(host, 'fastskins4you.com') ||
@@ -21598,6 +21602,7 @@ shExpMatch(host, 'owlplayz.com') ||
 shExpMatch(host, 'owlsr.us') ||
 shExpMatch(host, 'owneriq.net') ||
 shExpMatch(host, 'ownip.net') ||
+shExpMatch(host, 'ox1.shopcool.com.tw') ||
 shExpMatch(host, 'oxado.com') ||
 shExpMatch(host, 'oxcash.com') ||
 shExpMatch(host, 'oxen.hillcountrytexas.com') ||
@@ -24173,6 +24178,7 @@ shExpMatch(host, 'traffichunt.com') ||
 shExpMatch(host, 'trafficjunky.net') ||
 shExpMatch(host, 'trafficleader.com') ||
 shExpMatch(host, 'traffic.liveuniversenetwork.com') ||
+shExpMatch(host, 'traffic-redirecting.com') ||
 shExpMatch(host, 'trafficrouter.io') ||
 shExpMatch(host, 'trafficsecrets.com') ||
 shExpMatch(host, 'trafficspaces.net') ||
