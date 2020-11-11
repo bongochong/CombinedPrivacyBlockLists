@@ -1,4 +1,4 @@
-# Fri Nov  6 11:13:34 AM MST 2020
+# Tue Nov 10 08:50:23 PM MST 2020
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -1156,7 +1156,6 @@
 0.0.0.0 akacdn.doubleverify.com.edgekey.net
 0.0.0.0 aka-cdn-ns.adtech.de
 0.0.0.0 akamai.mathtag.com
-0.0.0.0 akamai.tiqcdn.com
 0.0.0.0 akar.iad.appboy.com
 0.0.0.0 aka.spotxcdn.com
 0.0.0.0 ak-cdn.placelocal.com
@@ -1560,7 +1559,6 @@
 0.0.0.0 api.doumob.com
 0.0.0.0 apidq.punchh.com
 0.0.0.0 api.ent.mobileanjian.com
-0.0.0.0 api.espn.com
 0.0.0.0 api.exc.mob.com
 0.0.0.0 api-ext.mediav.com
 0.0.0.0 api.factual.com
@@ -2492,7 +2490,6 @@
 0.0.0.0 bridge.lga1.admarketplace.net
 0.0.0.0 bridge.sfo1.admarketplace.net
 0.0.0.0 bridgetrack.com
-0.0.0.0 br.ifunny.co
 0.0.0.0 brightcom-d.openx.net
 0.0.0.0 brightroll-partners.tremorhub.com
 0.0.0.0 brokerbabe.com
@@ -2748,7 +2745,6 @@
 0.0.0.0 cdn-api.admost.com
 0.0.0.0 cdn-api.appadhoc.com
 0.0.0.0 cdn.api.fotoable.com
-0.0.0.0 cdnapisec.kaltura.com
 0.0.0.0 cdn.appdynamics.com
 0.0.0.0 cdnappicons.appsflyer.com
 0.0.0.0 cdn.appmachine.com
@@ -2912,7 +2908,6 @@
 0.0.0.0 cdn.sailthru.com
 0.0.0.0 cdns.connatix.com
 0.0.0.0 cdn.sdkconfig.site
-0.0.0.0 cdnsecakmi.kaltura.com
 0.0.0.0 cdn.segment.com
 0.0.0.0 cdn.segmentify.com
 0.0.0.0 cdn.segment.io
@@ -2945,7 +2940,6 @@
 0.0.0.0 cdns.turn.com
 0.0.0.0 cdn-stv.adgrx.com
 0.0.0.0 cdn.taboola.com
-0.0.0.0 cdn.tagcommander.com
 0.0.0.0 cdn.tagular.com
 0.0.0.0 cdn.tanx.com
 0.0.0.0 cdn.targetspot.com
@@ -3002,7 +2996,6 @@
 0.0.0.0 c.fqtag.com
 0.0.0.0 cfr.us.v2.we-stats.com
 0.0.0.0 cf.ssacdn.com
-0.0.0.0 cfvod.kaltura.com
 0.0.0.0 cf.xad.com
 0.0.0.0 c.go-mpulse.net
 0.0.0.0 cguke-9h64o.ads.tremorhub.com
@@ -4229,7 +4222,6 @@
 0.0.0.0 events.engageya.com
 0.0.0.0 eventserver-eastus.trafficmanager.idsp.inmobi.com
 0.0.0.0 events.foreseeresults.com
-0.0.0.0 events.ifunny.co
 0.0.0.0 events.influencemobile.com
 0.0.0.0 events.kumulos.com
 0.0.0.0 events.lbesecapi.com
@@ -4633,7 +4625,6 @@
 0.0.0.0 glance-internal.inmobi.com
 0.0.0.0 glance.l.inmobicdn.net
 0.0.0.0 glbgcl.logsss.com
-0.0.0.0 glimmer.hearstapps.com
 0.0.0.0 glispa.com
 0.0.0.0 global.adserver.yahoo.com
 0.0.0.0 globalapi.ad.xiaomi.com
@@ -5082,7 +5073,6 @@
 0.0.0.0 image-int.richrelevance.com
 0.0.0.0 image.moengage.com
 0.0.0.0 imageplus.baidu.com
-0.0.0.0 imageproxy.ifunny.co
 0.0.0.0 image.richrelevance.com
 0.0.0.0 image.s10.exacttarget.com
 0.0.0.0 images1.taboola.com
@@ -5105,7 +5095,6 @@
 0.0.0.0 images.informatm.com
 0.0.0.0 images.mxpnl.com
 0.0.0.0 images.nuviad.com
-0.0.0.0 images-or.ott.kaltura.com
 0.0.0.0 images.outbrain.com
 0.0.0.0 images.outbrainimg.com
 0.0.0.0 images.outbrain.org
@@ -5137,7 +5126,6 @@
 0.0.0.0 imgg-cdn.mgid.com
 0.0.0.0 img.gop1.co
 0.0.0.0 imggprx.mgid.com
-0.0.0.0 img.ifunny.co
 0.0.0.0 img.leadzutw.com
 0.0.0.0 img.maropost.com
 0.0.0.0 img.mobusi.com
@@ -5673,7 +5661,6 @@
 0.0.0.0 log-config.samsungacr.com
 0.0.0.0 log-dbff2e04.us.v2.we-stats.com
 0.0.0.0 log.droid4x.cn
-0.0.0.0 log.espn.com
 0.0.0.0 log.fc.yahoo.com
 0.0.0.0 log.fotoable.com
 0.0.0.0 log.gds.mmstat.com
@@ -5721,7 +5708,6 @@
 0.0.0.0 log.sdk.zadn.vn
 0.0.0.0 logserver.insight.ucweb.com
 0.0.0.0 logs.gaaana.com
-0.0.0.0 logs.ifunny.co
 0.0.0.0 log.sina.cn
 0.0.0.0 logsink.zedge.net
 0.0.0.0 log.smaato.net
@@ -6570,7 +6556,6 @@
 0.0.0.0 origami.secure.ownlocal.com
 0.0.0.0 origin-ads.undertone.com
 0.0.0.0 origin-evt.undertone.com
-0.0.0.0 origin.kaltura.com
 0.0.0.0 origin.kaltura.perf.akadns.net
 0.0.0.0 origin.optimost.io
 0.0.0.0 orion.eyereturn.com
@@ -6591,7 +6576,6 @@
 0.0.0.0 other.upqzfile.com
 0.0.0.0 ots.optimize.webtrends.com
 0.0.0.0 ot.teads.tv
-0.0.0.0 ott.kaltura.com
 0.0.0.0 oumax.oupeng.com
 0.0.0.0 ouplog.umeng.com
 0.0.0.0 outbrain.com.edgekey.net
@@ -6682,7 +6666,6 @@
 0.0.0.0 pasta.pw.duapps.com
 0.0.0.0 pasta.sd.duapps.com
 0.0.0.0 pasta.tk.duapps.com
-0.0.0.0 pa-stats.origin-cogent.kaltura.com
 0.0.0.0 pasta.whosthat.duapps.com
 0.0.0.0 patch-d.openx.net
 0.0.0.0 patch-tagan.adlightning.com
@@ -7351,7 +7334,6 @@
 0.0.0.0 responsys.net
 0.0.0.0 res-push.ad.jiguang.cn
 0.0.0.0 restartad.com
-0.0.0.0 rest-as.ott.kaltura.com
 0.0.0.0 res.tdxio.com
 0.0.0.0 rest.dynamicyield.com
 0.0.0.0 rest.iad-01.braze.com
@@ -7899,7 +7881,6 @@
 0.0.0.0 server.iad.liveperson.net
 0.0.0.0 server.idreams.pl
 0.0.0.0 server.seadform.net
-0.0.0.0 serverside4285.tagcommander.com
 0.0.0.0 server-us.imrworldwide.com
 0.0.0.0 serve-sys.com
 0.0.0.0 serve.uberads.com
@@ -8496,13 +8477,11 @@
 0.0.0.0 stats.ipinyou.com
 0.0.0.0 stats.ivymobile.com
 0.0.0.0 stats.jpush.cn
-0.0.0.0 stats.kaltura.com
 0.0.0.0 stats.kumulos.com
 0.0.0.0 stats.mediaforge.com
 0.0.0.0 stats.mediaforge.com.edgekey.net
 0.0.0.0 stats.netsolads.com
 0.0.0.0 statsonline.pushct.baidu.com
-0.0.0.0 stats.origin.kaltura.com
 0.0.0.0 stats.origin.kaltura.perf.akadns.net
 0.0.0.0 stats.pingdom.com
 0.0.0.0 stats.popcap.com
@@ -8753,7 +8732,6 @@
 0.0.0.0 tags.clickintext.net
 0.0.0.0 tags.crwdcntrl.net
 0.0.0.0 tags.digital-metric.com
-0.0.0.0 tags-eu.tiqcdn.com
 0.0.0.0 tags.h12-media.com
 0.0.0.0 tag.simpli.fi
 0.0.0.0 tags.mathtag.com
@@ -8766,8 +8744,6 @@
 0.0.0.0 tags.rtbidder.net
 0.0.0.0 tags.srv.stackadapt.com
 0.0.0.0 tag-st.contextweb.com
-0.0.0.0 tags.tiqcdn.com
-0.0.0.0 tags.tiqcdn.com.edgekey.net
 0.0.0.0 tags.t.tailtarget.com
 0.0.0.0 tags.us.onscroll.com
 0.0.0.0 tags.viewdeos.com
@@ -8927,8 +8903,6 @@
 0.0.0.0 timeanddate-d.openx.net
 0.0.0.0 timeinc.trc.taboola.com
 0.0.0.0 timesinternet-d.openx.net
-0.0.0.0 tiqcdn.com
-0.0.0.0 tiqcdn.com.edgekey.net
 0.0.0.0 tizerclik.com
 0.0.0.0 tj.ijinshan.com
 0.0.0.0 tj.keymob.com
@@ -9085,7 +9059,6 @@
 0.0.0.0 tracking.publicidees.com
 0.0.0.0 tracking.pushcrew.com
 0.0.0.0 tracking.retargeting.biz
-0.0.0.0 tracking.s24.com
 0.0.0.0 tracking.sembox.it
 0.0.0.0 tracking-server-prod-1.zenmxapps.com
 0.0.0.0 tracking.taboola.com
@@ -9239,7 +9212,6 @@
 0.0.0.0 turn.com.akadns.net
 0.0.0.0 tveta.naver.net
 0.0.0.0 t.vi-serve.com
-0.0.0.0 tvpapi-as.ott.kaltura.com
 0.0.0.0 tv.rlcdn.com
 0.0.0.0 tvx.adgrx.com
 0.0.0.0 tvx.adgrx.com.tech.akadns.net
