@@ -1,4 +1,4 @@
-# Tue Nov 10 08:50:50 PM MST 2020
+# Tue Nov 10 11:06:48 PM MST 2020
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -11215,6 +11215,7 @@
 0.0.0.0 e-n-t-e-r-n-e-x.com
 0.0.0.0 entertainingeyes.com
 0.0.0.0 entertaininglarge.com
+0.0.0.0 enthusiasmturnipflare.com
 0.0.0.0 enthusiasticdad.com
 0.0.0.0 enticelabs.com
 0.0.0.0 entiethmenti.top
@@ -18142,6 +18143,7 @@
 0.0.0.0 leoneaningtoldre.pro
 0.0.0.0 leonodikeu9sj10.com
 0.0.0.0 leontius-eli.com
+0.0.0.0 leopardaddictedenthusiastic.com
 0.0.0.0 leoyard.com
 0.0.0.0 lepinsar.com
 0.0.0.0 lepintor.com
@@ -19916,6 +19918,7 @@
 0.0.0.0 mikpumwbahkx.com
 0.0.0.0 mikrairs.com
 0.0.0.0 milabra.com
+0.0.0.0 milasktic.com
 0.0.0.0 mileporn.com
 0.0.0.0 militaryverse.com
 0.0.0.0 milk.supertool.stunnermedia.com
@@ -21936,6 +21939,7 @@
 0.0.0.0 observare.de
 0.0.0.0 observerapp.com
 0.0.0.0 obstacleconsideringheadphone.com
+0.0.0.0 obstructlawn.com
 0.0.0.0 obsudam.ru
 0.0.0.0 obtainlylibuk.club
 0.0.0.0 obufquwiwy.com
@@ -22390,6 +22394,7 @@
 0.0.0.0 openinternetexchange.com
 0.0.0.0 openinternetexchange.net
 0.0.0.0 openlinks.ru
+0.0.0.0 openmindedisabella.com
 0.0.0.0 openstat.net
 0.0.0.0 opentracker.net
 0.0.0.0 opentracking.ru

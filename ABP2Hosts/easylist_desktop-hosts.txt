@@ -1,4 +1,4 @@
-# Tue Nov 10 08:51:04 PM MST 2020
+# Tue Nov 10 11:07:02 PM MST 2020
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -9820,6 +9820,7 @@
 0.0.0.0 ejee.xyz
 0.0.0.0 ejgdixiddmruql.com
 0.0.0.0 ejgpuaguf.com
+0.0.0.0 ejirytuw.xyz
 0.0.0.0 ejiur.com
 0.0.0.0 ejkeshrzwoe.com
 0.0.0.0 ejktviknfv.com
@@ -10051,6 +10052,7 @@
 0.0.0.0 entercash.ru
 0.0.0.0 enter-system.com
 0.0.0.0 entertaininglarge.com
+0.0.0.0 enthusiasmturnipflare.com
 0.0.0.0 enticelabs.com
 0.0.0.0 entiethmenti.top
 0.0.0.0 entimee.com
@@ -10435,6 +10437,7 @@
 0.0.0.0 events.tubecup.org
 0.0.0.0 events.turbosquid.com
 0.0.0.0 events.whisk.com
+0.0.0.0 event.syndigo.cloud
 0.0.0.0 events.yourcx.io
 0.0.0.0 eventtracker.videostrip.com
 0.0.0.0 eventurypol.site
@@ -16365,6 +16368,7 @@
 0.0.0.0 leokross.com
 0.0.0.0 leoneaningtoldre.pro
 0.0.0.0 leontius-eli.com
+0.0.0.0 leopardaddictedenthusiastic.com
 0.0.0.0 leoyard.com
 0.0.0.0 lepinsar.com
 0.0.0.0 lepintor.com
@@ -18049,6 +18053,7 @@
 0.0.0.0 mikpumwbahkx.com
 0.0.0.0 mikrairs.com
 0.0.0.0 milabra.com
+0.0.0.0 milasktic.com
 0.0.0.0 mileporn.com
 0.0.0.0 milfordmercury-gb.milfordmercury.co.uk
 0.0.0.0 milk.yesky.com.cn
@@ -19898,6 +19903,7 @@
 0.0.0.0 observerapp.com
 0.0.0.0 observer.ip-label.net
 0.0.0.0 obstacleconsideringheadphone.com
+0.0.0.0 obstructlawn.com
 0.0.0.0 obtainlylibuk.club
 0.0.0.0 obufquwiwy.com
 0.0.0.0 obwvmzdb.com
@@ -20291,6 +20297,7 @@
 0.0.0.0 openguid.org
 0.0.0.0 openhit.com
 0.0.0.0 openmace.net
+0.0.0.0 openmindedisabella.com
 0.0.0.0 open.mkt1397.com
 0.0.0.0 openstat.net
 0.0.0.0 opentracker.net
@@ -26397,6 +26404,7 @@
 0.0.0.0 sync.outbrain.com
 0.0.0.0 sync.rambler.ru
 0.0.0.0 sync.shinobi.jp
+0.0.0.0 sync.taboola.com
 0.0.0.0 sync.tv
 0.0.0.0 syndicatedsearchresults.com
 0.0.0.0 syndicate.payloadz.com
