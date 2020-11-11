@@ -1,4 +1,4 @@
-// **** Fri Nov  6 11:16:35 AM MST 2020
+// **** Tue Nov 10 08:55:37 PM MST 2020
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.001www.com') ||
@@ -9742,6 +9742,7 @@ shExpMatch(host, '*.razor1911gaming.net') ||
 shExpMatch(host, '*.razor1991games.org') ||
 shExpMatch(host, '*.razor-games.com') ||
 shExpMatch(host, '*.rb1.design.ru') ||
+shExpMatch(host, '*.rbipb.com') ||
 shExpMatch(host, '*.rd.meediabuy.com') ||
 shExpMatch(host, '*.rd.moonetizer.com') ||
 shExpMatch(host, '*.reachjunction.com') ||
@@ -22387,6 +22388,7 @@ shExpMatch(host, 'razor1911gaming.net') ||
 shExpMatch(host, 'razor1991games.org') ||
 shExpMatch(host, 'razor-games.com') ||
 shExpMatch(host, 'rb1.design.ru') ||
+shExpMatch(host, 'rbipb.com') ||
 shExpMatch(host, 'rd.meediabuy.com') ||
 shExpMatch(host, 'rd.moonetizer.com') ||
 shExpMatch(host, 'reachjunction.com') ||
