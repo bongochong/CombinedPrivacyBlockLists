@@ -1,4 +1,4 @@
-# Fri Nov 13 03:10:14 AM MST 2020
+# Fri Nov 13 03:16:42 AM MST 2020
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -24323,6 +24323,7 @@
 0.0.0.0 scund.com
 0.0.0.0 scupio.com
 0.0.0.0 scvdxxgbvoz.com
+0.0.0.0 scvxgm.cn
 0.0.0.0 scw0.com
 0.0.0.0 scw.systems
 0.0.0.0 sczcxmaizy.com
