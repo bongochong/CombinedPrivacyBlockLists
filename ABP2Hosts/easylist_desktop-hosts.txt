@@ -1,4 +1,4 @@
-# Thu Nov 12 07:37:36 PM MST 2020
+# Fri Nov 13 03:10:14 AM MST 2020
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -29817,6 +29817,7 @@
 0.0.0.0 wangqing7.top
 0.0.0.0 wangqipu.com
 0.0.0.0 wangsufast.com
+0.0.0.0 wannuochongkong.com
 0.0.0.0 wanrenshe.com
 0.0.0.0 wanrtqneiissrb.com
 0.0.0.0 wantaico.com
@@ -30973,6 +30974,7 @@
 0.0.0.0 xinlongrubber.com
 0.0.0.0 xinqiannv.com
 0.0.0.0 xinray.net
+0.0.0.0 xintaizhaoming.com
 0.0.0.0 xinuocp666.com
 0.0.0.0 xinyijiasc.cn
 0.0.0.0 xiongdong.com

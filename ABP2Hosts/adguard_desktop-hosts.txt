@@ -1,4 +1,4 @@
-# Thu Nov 12 07:36:42 PM MST 2020
+# Fri Nov 13 03:10:00 AM MST 2020
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -9342,6 +9342,7 @@
 0.0.0.0 datacaciques.com
 0.0.0.0 data-collector.wefi.com
 0.0.0.0 data-data-vac.com
+0.0.0.0 datadoghq-browser-agent.com
 0.0.0.0 datadome.co
 0.0.0.0 data-eroadvertising.com
 0.0.0.0 datafeedfile.com
@@ -32767,6 +32768,7 @@
 0.0.0.0 wangqing7.top
 0.0.0.0 wangqipu.com
 0.0.0.0 wangsufast.com
+0.0.0.0 wannuochongkong.com
 0.0.0.0 wanrenshe.com
 0.0.0.0 wanrtqneiissrb.com
 0.0.0.0 wantaico.com
@@ -34040,6 +34042,7 @@
 0.0.0.0 xinlongrubber.com
 0.0.0.0 xinqiannv.com
 0.0.0.0 xinray.net
+0.0.0.0 xintaizhaoming.com
 0.0.0.0 xinuocp666.com
 0.0.0.0 xinyijiasc.cn
 0.0.0.0 xiongdong.com
