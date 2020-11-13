@@ -14,7 +14,7 @@ wget -nv -O hosts.1 "http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hos
 echo "Downloaded hosts list 1"
 wget -nv -O hosts.2 "https://winhelp2002.mvps.org/hosts.txt"
 echo "Downloaded hosts list 2"
-wget -nv -O hosts.3 "https://www.malwaredomainlist.com/hostslist/hosts.txt"
+wget -nv -O hosts.3 "https://mirror1.malwaredomains.com/files/immortal_domains.txt"
 echo "Downloaded hosts list 3"
 wget -nv -O hosts.4 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/adguard_desktop-hosts.txt"
 echo "Downloaded hosts list 4"
