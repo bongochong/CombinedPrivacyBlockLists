@@ -1,4 +1,4 @@
-# Tue Nov 10 11:07:02 PM MST 2020
+# Thu Nov 12 06:56:10 PM MST 2020
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -603,6 +603,7 @@
 0.0.0.0 3gmtr.com
 0.0.0.0 3gporn.biz
 0.0.0.0 3.guidaye.com
+0.0.0.0 3hbox.com
 0.0.0.0 3jmcwio.com
 0.0.0.0 3lga3.cn
 0.0.0.0 3lift.com
@@ -770,6 +771,7 @@
 0.0.0.0 552239b90400b7.com
 0.0.0.0 5535aibo.com
 0.0.0.0 555b2b.com
+0.0.0.0 55d6000d6d.com
 0.0.0.0 55labs.com
 0.0.0.0 563015cf3d.com
 0.0.0.0 564d28256cddaeba.com
@@ -2780,6 +2782,7 @@
 0.0.0.0 affiliationzone.com
 0.0.0.0 affiliatly.com
 0.0.0.0 affiliaxe.com
+0.0.0.0 affiliclk.org
 0.0.0.0 affiligay.net
 0.0.0.0 affilijack.de
 0.0.0.0 affiliproducts.com
@@ -4148,6 +4151,7 @@
 0.0.0.0 avstat.it
 0.0.0.0 avtiaozhuan.com
 0.0.0.0 avtozapchastivazlanos.ru
+0.0.0.0 avuvldbc.com
 0.0.0.0 avwincall.info
 0.0.0.0 a.w3techs.com
 0.0.0.0 awakebird.com
@@ -4812,6 +4816,7 @@
 0.0.0.0 belvertising.be
 0.0.0.0 belwrite.com
 0.0.0.0 bemobpath.com
+0.0.0.0 bemobtrcks.com
 0.0.0.0 bemobtrk.com
 0.0.0.0 bemusic.xyz
 0.0.0.0 bemzepcnp.com
@@ -4947,6 +4952,7 @@
 0.0.0.0 bgn2zqlce1eiya.icu
 0.0.0.0 bgpng.me
 0.0.0.0 bgqddlvq.com
+0.0.0.0 bgrndi.com
 0.0.0.0 bgtrtv.top
 0.0.0.0 bgvexbybxxbcao.com
 0.0.0.0 bgvfceqpqzx.com
@@ -5470,6 +5476,7 @@
 0.0.0.0 bravo.israelweather.co.il
 0.0.0.0 brcache.madthumbs.com
 0.0.0.0 brcdn.com
+0.0.0.0 brdmin.com
 0.0.0.0 breadpro.com
 0.0.0.0 breadstringscrashed.com
 0.0.0.0 breakfastboat.com
@@ -5672,6 +5679,7 @@
 0.0.0.0 burytimes-gb.burytimes.co.uk
 0.0.0.0 busandcob.site
 0.0.0.0 busfarmum.com
+0.0.0.0 busguyspec.com
 0.0.0.0 bushoagh.com
 0.0.0.0 business.92wy.com
 0.0.0.0 businesscare.com
@@ -6049,6 +6057,7 @@
 0.0.0.0 cbiknyhztow.com
 0.0.0.0 cbjs.baidu.com
 0.0.0.0 cbleads.com
+0.0.0.0 cb-mms.carbuyer.co.uk
 0.0.0.0 cbn.ru
 0.0.0.0 cbn.tbn.ru
 0.0.0.0 cbpsdvozwsbf.com
@@ -6123,6 +6132,7 @@
 0.0.0.0 cdnaz.win
 0.0.0.0 cdnbalancer.ru
 0.0.0.0 cdnbd.com
+0.0.0.0 cdn-bk.ligastavok.ru
 0.0.0.0 cdncache2-a.akamaihd.net
 0.0.0.0 cdn-code.host
 0.0.0.0 cdneurope.com
@@ -6363,6 +6373,7 @@
 0.0.0.0 chengdahdf.cn
 0.0.0.0 chenghangtech.com
 0.0.0.0 chengzhao95511.com
+0.0.0.0 chengzilte.top
 0.0.0.0 chenyanjiao.cn
 0.0.0.0 chepaev.ru
 0.0.0.0 cheqzone.com
@@ -8054,6 +8065,7 @@
 0.0.0.0 d36lvucg9kzous.cloudfront.net
 0.0.0.0 d36sxvmjoflc2i.cloudfront.net
 0.0.0.0 d36zfztxfflmqo.cloudfront.net
+0.0.0.0 d37abonb6ucrhx.cloudfront.net
 0.0.0.0 d38dub.ru
 0.0.0.0 d38itq6vdv6gr9.cloudfront.net
 0.0.0.0 d39hdzmeufnl50.cloudfront.net
@@ -8823,6 +8835,7 @@
 0.0.0.0 disposecompere.com
 0.0.0.0 disqusads.com
 0.0.0.0 dissimilarambient.com
+0.0.0.0 dissimilartongueoatmeal.com
 0.0.0.0 dissonbegant.info
 0.0.0.0 disterme.com
 0.0.0.0 disticked.club
@@ -9188,6 +9201,7 @@
 0.0.0.0 dreyeli.info
 0.0.0.0 drf8e429z5jzt.cloudfront.net
 0.0.0.0 drgykb.cn
+0.0.0.0 driverwinggranulated.com
 0.0.0.0 drjgjngf.com
 0.0.0.0 drlsf.com
 0.0.0.0 drlyy.com
@@ -9952,6 +9966,7 @@
 0.0.0.0 emng.libero.it
 0.0.0.0 emnodar.ru
 0.0.0.0 emolapnay.com
+0.0.0.0 emotificc.top
 0.0.0.0 emotionalballotneedlework.com
 0.0.0.0 emphante.club
 0.0.0.0 empiremoney.com
@@ -10004,6 +10019,7 @@
 0.0.0.0 engagio.com
 0.0.0.0 engine212.com
 0.0.0.0 engine64.com
+0.0.0.0 engine-bk.ligastavok.ru
 0.0.0.0 engine.eroge.com
 0.0.0.0 engine.fxempire.com
 0.0.0.0 engine.laweekly.com
@@ -11118,6 +11134,7 @@
 0.0.0.0 flagads.net
 0.0.0.0 flagcounter.com
 0.0.0.0 flaghit.com
+0.0.0.0 flagros2sii8fdbrh09.com
 0.0.0.0 flags.es
 0.0.0.0 flagship.asp-host.co.uk
 0.0.0.0 fl.a.ki
@@ -11975,6 +11992,7 @@
 0.0.0.0 geo-idm.fr
 0.0.0.0 geoinventory.com
 0.0.0.0 geoip.al.com
+0.0.0.0 geoip.ativo.com
 0.0.0.0 geoip.boredpanda.com
 0.0.0.0 geoip.cleveland.com
 0.0.0.0 geoip-db.com
@@ -15312,7 +15330,6 @@
 0.0.0.0 jsn.st02.net
 0.0.0.0 jsonip.com
 0.0.0.0 js.qqsort.com
-0.0.0.0 jsr9.com
 0.0.0.0 jsretra.com
 0.0.0.0 js.ruiwen.com
 0.0.0.0 jssearch.net
@@ -19319,6 +19336,7 @@
 0.0.0.0 ngsaang.top
 0.0.0.0 ngsomedquiz.club
 0.0.0.0 ngtablishbol.top
+0.0.0.0 ngudjtrdcfwwn.com
 0.0.0.0 ngumyydbupv.com
 0.0.0.0 nguooqblyjrz.com
 0.0.0.0 ngyfmghgd.com
@@ -19529,7 +19547,6 @@
 0.0.0.0 nonoqcm.net
 0.0.0.0 nonpaly.ru
 0.0.0.0 nonstoppartner.de
-0.0.0.0 noob-club.ru
 0.0.0.0 noonraptnite.com
 0.0.0.0 noosaphy.net
 0.0.0.0 noowho.com
@@ -19910,6 +19927,7 @@
 0.0.0.0 obyxqjgwg.com
 0.0.0.0 occupangno.club
 0.0.0.0 occupantrookpurely.com
+0.0.0.0 oceanbot-steam.com
 0.0.0.0 oceanwebcraft.com
 0.0.0.0 ocejkjkopphj.com
 0.0.0.0 ocelot.studio
@@ -21435,6 +21453,7 @@
 0.0.0.0 plugrush.com
 0.0.0.0 plugs.co
 0.0.0.0 plumbus.minutemediaservices.com
+0.0.0.0 pluralbreakpractice7.live
 0.0.0.0 plus-2launch.biz
 0.0.0.0 plus.pornoshara.tv
 0.0.0.0 plx.porndig.com
@@ -23560,6 +23579,7 @@
 0.0.0.0 rivcash.com
 0.0.0.0 riverhit.com
 0.0.0.0 rivrai.com
+0.0.0.0 riwhedipsa.pro
 0.0.0.0 riwjpbpvkl.com
 0.0.0.0 rixaka.com
 0.0.0.0 rixpjpjl.com
@@ -26226,6 +26246,7 @@
 0.0.0.0 sundayceremonytitanic.com
 0.0.0.0 sundersetrgh.site
 0.0.0.0 suning.beer
+0.0.0.0 suning.design
 0.0.0.0 sunios.de
 0.0.0.0 sunmedia.net
 0.0.0.0 sunnybluecoral.com
@@ -26719,6 +26740,7 @@
 0.0.0.0 tds.io
 0.0.0.0 tdsjsext1.com
 0.0.0.0 tdsjsext1.life
+0.0.0.0 tdsjsext3.life
 0.0.0.0 tdsjsext.com
 0.0.0.0 tdstats.com
 0.0.0.0 tdtsd.com
@@ -27526,6 +27548,7 @@
 0.0.0.0 track.bcvcmedia.com
 0.0.0.0 track.berliner-kurier.de
 0.0.0.0 track.bernerzeitung.ch
+0.0.0.0 trackboxx.info
 0.0.0.0 track.briskfile.com
 0.0.0.0 track.byzon.swelen.net
 0.0.0.0 track.catalogs.com
@@ -28270,6 +28293,7 @@
 0.0.0.0 turboroller.ru
 0.0.0.0 turbotraff.com
 0.0.0.0 turbotraff.net
+0.0.0.0 tureabstra.fun
 0.0.0.0 turmoilexcessivetranslating.com
 0.0.0.0 turn.com
 0.0.0.0 turngrind.com
@@ -29368,6 +29392,7 @@
 0.0.0.0 vipicmou.net
 0.0.0.0 viptv91.cn
 0.0.0.0 vip-vip-vup.com
+0.0.0.0 viral481.com
 0.0.0.0 viral782.com
 0.0.0.0 viraladnetwork.net
 0.0.0.0 viralcpm.com
@@ -29430,6 +29455,7 @@
 0.0.0.0 vitr.alawar.ru
 0.0.0.0 viunypnvhcw.com
 0.0.0.0 viurihkwo.com
+0.0.0.0 vivaclix.com
 0.0.0.0 vivaldi-browser.com
 0.0.0.0 vivaldi-browser.net
 0.0.0.0 viva-vanna.ru
@@ -30202,6 +30228,7 @@
 0.0.0.0 whistleout.s3.amazonaws.com
 0.0.0.0 whistlingenrapturereprint.com
 0.0.0.0 whiteboardnez.com
+0.0.0.0 whiteclick.biz
 0.0.0.0 whitective.club
 0.0.0.0 whitepixel.com
 0.0.0.0 whitetrcklnk.click
@@ -30226,6 +30253,7 @@
 0.0.0.0 whs82908.com
 0.0.0.0 whshangsha.com
 0.0.0.0 whsjg.cn
+0.0.0.0 whudiphezy.pro
 0.0.0.0 whughesh.com
 0.0.0.0 whukroal.net
 0.0.0.0 whusebsu.com
@@ -31294,6 +31322,7 @@
 0.0.0.0 xyadaa.com
 0.0.0.0 xyaddby.com
 0.0.0.0 xyadtlyya.cn
+0.0.0.0 xyadtlyya.com
 0.0.0.0 xyadtlyy.com
 0.0.0.0 xyadyzpsb.com
 0.0.0.0 xycnz.com

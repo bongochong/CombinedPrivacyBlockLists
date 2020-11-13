@@ -1,4 +1,4 @@
-# Tue Nov 10 11:06:32 PM MST 2020
+# Thu Nov 12 06:54:58 PM MST 2020
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -2470,7 +2470,6 @@
 0.0.0.0 bootstrap.upsight-api.com
 0.0.0.0 boredpanda-d.openx.net
 0.0.0.0 boston-d.openx.net
-0.0.0.0 bot.whatismyipaddress.com
 0.0.0.0 bounce.emxdgt.com
 0.0.0.0 boxoffice.urbanairship.com
 0.0.0.0 bp.adkmob.com
@@ -2940,6 +2939,7 @@
 0.0.0.0 cdns.turn.com
 0.0.0.0 cdn-stv.adgrx.com
 0.0.0.0 cdn.taboola.com
+0.0.0.0 cdn.tagcommander.com
 0.0.0.0 cdn.tagular.com
 0.0.0.0 cdn.tanx.com
 0.0.0.0 cdn.targetspot.com
@@ -3447,8 +3447,6 @@
 0.0.0.0 crab.baidu.com
 0.0.0.0 crash.163.com
 0.0.0.0 crasheye.cn
-0.0.0.0 crashlogs.whatsapp.net
-0.0.0.0 crashlogs.woniu.com
 0.0.0.0 crashlytics.163.com
 0.0.0.0 crashlytics2.l.google.com
 0.0.0.0 crb.kargo.com
@@ -3876,7 +3874,6 @@
 0.0.0.0 do-not-tracker.org
 0.0.0.0 doodle-d.openx.net
 0.0.0.0 dopemobi.offerstrack.net
-0.0.0.0 doppler.hulu.com
 0.0.0.0 dot.a.mobimagic.com
 0.0.0.0 dotandad.com
 0.0.0.0 dotomi.com
@@ -4244,7 +4241,6 @@
 0.0.0.0 events.uber.com
 0.0.0.0 events-us-east-1.ipredictive.com
 0.0.0.0 events-us-west-2.ipredictive.com
-0.0.0.0 events.whisk.com
 0.0.0.0 events.xg4ken.com
 0.0.0.0 events.zaloapp.com
 0.0.0.0 event-tag.yesware.com.herokudns.com
@@ -4433,7 +4429,6 @@
 0.0.0.0 front-logs.voodoo-ads.io
 0.0.0.0 frtn.socdm.com
 0.0.0.0 fstatic.iadvize.com
-0.0.0.0 fsuseaad1.blob.core.windows.net
 0.0.0.0 ftjcfx.com
 0.0.0.0 fu-1d3645db85.upalytics.com
 0.0.0.0 fu-3449ae1057.upalytics.com
@@ -4496,7 +4491,6 @@
 0.0.0.0 gannett.hb.omtrdc.net
 0.0.0.0 ganon.yahoo.com
 0.0.0.0 gaspra.iad-03.braze.com
-0.0.0.0 gate.hockeyapp.net
 0.0.0.0 gateway-2.restartad.com
 0.0.0.0 gateway.adrta.com
 0.0.0.0 gateway.answerscloud.com
@@ -5670,7 +5664,6 @@
 0.0.0.0 logger.foxitcloud.com
 0.0.0.0 logger.ntracecloud.com
 0.0.0.0 logger.zcoup.com
-0.0.0.0 log.getdropbox.com
 0.0.0.0 logging.admicro.vn
 0.0.0.0 logging.carambo.la
 0.0.0.0 logging.fishsticksgames.com
@@ -5716,7 +5709,6 @@
 0.0.0.0 logs.starbolt.io
 0.0.0.0 logs.supersonic.com
 0.0.0.0 log.sunnyworks.co.kr
-0.0.0.0 logs.which.co.uk
 0.0.0.0 logs.xiti.com
 0.0.0.0 log.tapatalk.com
 0.0.0.0 log-tb.isnssdk.com
@@ -6110,7 +6102,6 @@
 0.0.0.0 mobile.mediabrix.com
 0.0.0.0 mobile.mng-ads.com
 0.0.0.0 mobilepartner.avcdn.net.edgekey.net
-0.0.0.0 mobile.pipe.aria.microsoft.com
 0.0.0.0 mobileposse.com
 0.0.0.0 mobileposse-d.openx.net
 0.0.0.0 mobile-sdk-resources.jumio.com
@@ -6171,7 +6162,6 @@
 0.0.0.0 motricity.com
 0.0.0.0 motu-hk.ssl2.duapps.com
 0.0.0.0 movad.de
-0.0.0.0 movip.wps.com
 0.0.0.0 mozbar.moz.com
 0.0.0.0 mp5-wl.mobileposse.com
 0.0.0.0 mparticle.uc.cn
@@ -7228,7 +7218,6 @@
 0.0.0.0 rat.nl.eu.criteo.com
 0.0.0.0 rat.va.us.criteo.com
 0.0.0.0 raven.aprod.scopely.io
-0.0.0.0 rawtelemetry-west.servicebus.windows.net
 0.0.0.0 rayjump.com
 0.0.0.0 rb.adnxs.com
 0.0.0.0 rbb.ic.llnwd.net
@@ -7264,7 +7253,6 @@
 0.0.0.0 reate.info
 0.0.0.0 rebootv5.adfuture.cn
 0.0.0.0 rebootv5.adsunflower.com
-0.0.0.0 rebtelsdk.pubnub.com
 0.0.0.0 recommendation-collector-v1.us-east-1.elasticbeanstalk.com
 0.0.0.0 recommends.media.net
 0.0.0.0 record.foresee.com
@@ -7697,7 +7685,6 @@
 0.0.0.0 sdk-h5-cdn.rayjoy.com
 0.0.0.0 sdk.hansel.io
 0.0.0.0 sdk-hb-cfg.smaato.net
-0.0.0.0 sdk.hockeyapp.net
 0.0.0.0 sdk.hostyour.video
 0.0.0.0 sdk.iad-01.braze.com
 0.0.0.0 sdk.iad-02.braze.com
@@ -7881,6 +7868,7 @@
 0.0.0.0 server.iad.liveperson.net
 0.0.0.0 server.idreams.pl
 0.0.0.0 server.seadform.net
+0.0.0.0 serverside4285.tagcommander.com
 0.0.0.0 server-us.imrworldwide.com
 0.0.0.0 serve-sys.com
 0.0.0.0 serve.uberads.com
@@ -8233,7 +8221,6 @@
 0.0.0.0 sptc.clicktale.net
 0.0.0.0 s.pubmine.com
 0.0.0.0 sp.yieldify.com
-0.0.0.0 sqm.woniu.com
 0.0.0.0 sq.requestads.com
 0.0.0.0 srd.simba.taobao.com
 0.0.0.0 srepdata.usatoday.com
@@ -8672,7 +8659,6 @@
 0.0.0.0 t1.mobrand.net
 0.0.0.0 t2.beanstalkdata.com
 0.0.0.0 t2.chartboost.com
-0.0.0.0 t2.hulu.com
 0.0.0.0 t3q7af0z.com
 0.0.0.0 t7z.cupid.iqiyi.com
 0.0.0.0 tabforacause-d.openx.net
@@ -9648,7 +9634,6 @@
 0.0.0.0 voicefive.com.edgekey.net
 0.0.0.0 vop-tracking-vpc-1741893498.us-east-1.elb.amazonaws.com
 0.0.0.0 vortex.data.microsoft.com
-0.0.0.0 vortex.hulu.com
 0.0.0.0 vox.amp.permutive.com
 0.0.0.0 voxcustomdfp152282307853.s.moatpixel.com
 0.0.0.0 voxvidint960547728228.s.moatpixel.com
