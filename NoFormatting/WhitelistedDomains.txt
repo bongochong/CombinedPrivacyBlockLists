@@ -34,6 +34,7 @@ dshield.org
 ea.com
 easylist.to
 embed.spotify.com
+g1.nyt.com
 get.adobe.com
 get3.adobe.com
 getdropbox.com
@@ -79,6 +80,7 @@ someonewhocares.org
 ssl-images-amazon.com
 ssl.bblck.me
 ssl.reddit.com
+static01.nyt.com
 storage-staging.signal.org
 support.signal.org
 swscan.apple.com
@@ -88,6 +90,7 @@ thepiratebay.org
 tinyurl.com
 tomshardware.com
 twimg.com
+typeface.nyt.com
 udemy.com
 upload.twitter.com
 urbanairship.com

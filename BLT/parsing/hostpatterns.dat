@@ -74,6 +74,7 @@ localhost$
 ^0.0.0.0 ea.com$
 ^0.0.0.0 easylist.to$
 ^0.0.0.0 embed.spotify.com$
+^0.0.0.0 g1.nyt.com$
 ^0.0.0.0 get.adobe.com$
 ^0.0.0.0 get3.adobe.com$
 ^0.0.0.0 getdropbox.com$
@@ -119,6 +120,7 @@ localhost$
 ^0.0.0.0 ssl-images-amazon.com$
 ^0.0.0.0 ssl.bblck.me$
 ^0.0.0.0 ssl.reddit.com$
+^0.0.0.0 static01.nyt.com$
 ^0.0.0.0 storage-staging.signal.org$
 ^0.0.0.0 support.signal.org$
 ^0.0.0.0 swscan.apple.com$
@@ -128,6 +130,7 @@ localhost$
 ^0.0.0.0 tinyurl.com$
 ^0.0.0.0 tomshardware.com$
 ^0.0.0.0 twimg.com$
+^0.0.0.0 typeface.nyt.com$
 ^0.0.0.0 udemy.com$
 ^0.0.0.0 upload.twitter.com$
 ^0.0.0.0 urbanairship.com$
