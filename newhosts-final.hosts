@@ -18,7 +18,7 @@
 # This *must* be the first line: 127.0.0.1    localhost    #
 #                                                          #
 #**********************************************************#
-# ------------- Fri Nov 13 10:52:45 PM MST 2020 ---------- #
+# ------------- Sat Nov 14 02:19:57 AM MST 2020 ---------- #
 #**********************************************************#
 #                                                          #
 # Disclaimer: cow pigs won dogs on six for personal use    #
@@ -1649,6 +1649,7 @@
 0.0.0.0 4753.content.swrve.com
 0.0.0.0 4768.api.swrve.com
 0.0.0.0 4768.content.swrve.com
+0.0.0.0 47api.cn
 0.0.0.0 47e224be59415ec068b94bca857581bd7dde7fb6.cws.conviva.com
 0.0.0.0 47f624b2e6c6072e.com
 0.0.0.0 47n209.com
@@ -21530,6 +21531,7 @@
 0.0.0.0 count.livetv.ru
 0.0.0.0 count.livetv.sx
 0.0.0.0 count.ly
+0.0.0.0 countly.stackvaults.com
 0.0.0.0 count.merian.de
 0.0.0.0 count.me.uk
 0.0.0.0 count.munhwa.com
@@ -72832,7 +72834,6 @@
 0.0.0.0 tynyh.com
 0.0.0.0 tynyturi.com
 0.0.0.0 tyo-v4.pops.fastly-insights.com
-0.0.0.0 typeface.nyt.com
 0.0.0.0 typekit.net-v3.edgekey.net
 0.0.0.0 typicalairplane.com
 0.0.0.0 typicalteeth.com

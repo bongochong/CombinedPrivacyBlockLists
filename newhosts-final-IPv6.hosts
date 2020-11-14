@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 # This *must* be the first line: 127.0.0.1    localhost    #
 #                                                          #
 #**********************************************************#
-# ------------- Fri Nov 13 10:52:45 PM MST 2020 ---------- #
+# ------------- Sat Nov 14 02:19:58 AM MST 2020 ---------- #
 #**********************************************************#
 #                                                          #
 # Disclaimer: cow pigs won dogs on six for personal use    #
@@ -1649,6 +1649,7 @@ ff02::2 ip6-allrouters
 :: 4753.content.swrve.com
 :: 4768.api.swrve.com
 :: 4768.content.swrve.com
+:: 47api.cn
 :: 47e224be59415ec068b94bca857581bd7dde7fb6.cws.conviva.com
 :: 47f624b2e6c6072e.com
 :: 47n209.com
@@ -21530,6 +21531,7 @@ ff02::2 ip6-allrouters
 :: count.livetv.ru
 :: count.livetv.sx
 :: count.ly
+:: countly.stackvaults.com
 :: count.merian.de
 :: count.me.uk
 :: count.munhwa.com
@@ -72832,7 +72834,6 @@ ff02::2 ip6-allrouters
 :: tynyh.com
 :: tynyturi.com
 :: tyo-v4.pops.fastly-insights.com
-:: typeface.nyt.com
 :: typekit.net-v3.edgekey.net
 :: typicalairplane.com
 :: typicalteeth.com
