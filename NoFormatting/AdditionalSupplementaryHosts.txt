@@ -15034,7 +15034,6 @@
 0.0.0.0 tycho.apptimize.com
 0.0.0.0 tyh.taobao.com
 0.0.0.0 tyo-v4.pops.fastly-insights.com
-0.0.0.0 typeface.nyt.com
 0.0.0.0 typicalteeth.com
 0.0.0.0 tyroo.com
 0.0.0.0 tzwaw.pw

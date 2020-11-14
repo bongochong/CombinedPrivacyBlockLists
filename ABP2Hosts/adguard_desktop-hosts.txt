@@ -1,4 +1,4 @@
-# Fri Nov 13 10:46:45 PM MST 2020
+# Sat Nov 14 02:17:19 AM MST 2020
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -725,6 +725,7 @@
 0.0.0.0 4702fb341ddf276d.com
 0.0.0.0 4736.in
 0.0.0.0 473863a8ef28.com
+0.0.0.0 47api.cn
 0.0.0.0 47f624b2e6c6072e.com
 0.0.0.0 47n209.com
 0.0.0.0 4808.jianbihua.com
