@@ -1,4 +1,4 @@
-# Fri Nov 13 10:18:06 PM MST 2020
+# Fri Nov 13 10:46:45 PM MST 2020
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -251,7 +251,9 @@
 0.0.0.0 18naked.com
 0.0.0.0 18tzx.com
 0.0.0.0 190282.xyz
+0.0.0.0 19086a38727f.com
 0.0.0.0 1.92caijing.com
+0.0.0.0 1955dcb2fee1a13.com
 0.0.0.0 196f25ce95a.com
 0.0.0.0 1983c499735.com
 0.0.0.0 1990tu.com
@@ -286,6 +288,7 @@
 0.0.0.0 1ea1sley.com
 0.0.0.0 1empiredirect.com
 0.0.0.0 1ex4oemg99mv.com
+0.0.0.0 1f2fbfdb08772f.com
 0.0.0.0 1f58098dd54.com
 0.0.0.0 1f7de8569ea97f0614.com
 0.0.0.0 1.feihua.com
@@ -497,6 +500,7 @@
 0.0.0.0 2dpt.com
 0.0.0.0 2e27bf1f09307aeb.com
 0.0.0.0 2f5a1f1fab21a56.com
+0.0.0.0 2fca2fdee31.com
 0.0.0.0 2fnrc.cn
 0.0.0.0 2fx32.cn
 0.0.0.0 2g2h.com
@@ -691,6 +695,7 @@
 0.0.0.0 40ceexln7929.com
 0.0.0.0 40ic.cn
 0.0.0.0 40nuggets.com
+0.0.0.0 410886a0d98cf.com
 0.0.0.0 4141d006e4f4dd17ab9.com
 0.0.0.0 41df76c67812005c.com
 0.0.0.0 41ef19c0f0794e058c.com
@@ -704,6 +709,7 @@
 0.0.0.0 43137c93a82b0e81da.com
 0.0.0.0 43711cffd26816e.com
 0.0.0.0 43d6f284d10bfbbb3.com
+0.0.0.0 43e6c30abcff9.com
 0.0.0.0 43plc.com
 0.0.0.0 43yagowe3y.com
 0.0.0.0 442d9f2ac50ca502.com
@@ -1344,6 +1350,7 @@
 0.0.0.0 99tuan.com.cn
 0.0.0.0 9a24a1b3dcd5f4.com
 0.0.0.0 9a6wb.cn
+0.0.0.0 9a7ed1aa344.com
 0.0.0.0 9ads.mobi
 0.0.0.0 9ae7c9ffe8509b0.com
 0.0.0.0 9amq5z4y1y.com
@@ -1356,6 +1363,7 @@
 0.0.0.0 9d766be9a3.com
 0.0.0.0 9d7in.cn
 0.0.0.0 9dc93a7c1dd.com
+0.0.0.0 9dc9ece33bd4.com
 0.0.0.0 9e1486fffbec3.com
 0.0.0.0 9e5420f6be48ccc.com
 0.0.0.0 9eb10b7a3d04a.com
@@ -3352,6 +3360,7 @@
 0.0.0.0 ahlxxx.com
 0.0.0.0 ahneiwkpsnxign.com
 0.0.0.0 ahoff.ru
+0.0.0.0 ahojer.com
 0.0.0.0 ahqlx.top
 0.0.0.0 ahqpqpdjpj.com
 0.0.0.0 ahrbsdyjux.com
@@ -4843,6 +4852,7 @@
 0.0.0.0 b81x63nc.ws.md
 0.0.0.0 b84pharkhv.com
 0.0.0.0 b88c9bd1dcedfc3.com
+0.0.0.0 b8af8878e9a9565.com
 0.0.0.0 b8cf0fd3179ef.com
 0.0.0.0 b8pfulzbyj7h.com
 0.0.0.0 b936c5932623f.com
@@ -6134,6 +6144,7 @@
 0.0.0.0 brimquoterash.com
 0.0.0.0 brinarynuker.site
 0.0.0.0 brinein.com
+0.0.0.0 brinkstretching.com
 0.0.0.0 bristlyapace.com
 0.0.0.0 briticatederfd.site
 0.0.0.0 briticsvocabin.club
@@ -6702,6 +6713,7 @@
 0.0.0.0 cbbp1.com
 0.0.0.0 cbbsnmrwpqou.com
 0.0.0.0 cbbvi.com
+0.0.0.0 cbce0c01b63399.com
 0.0.0.0 cbclickbank.com
 0.0.0.0 cbclicks.com
 0.0.0.0 cb-content.com
@@ -7211,6 +7223,7 @@
 0.0.0.0 circle.am
 0.0.0.0 circuitewate.space
 0.0.0.0 circular-counters.com
+0.0.0.0 circumscribevetofurther.com
 0.0.0.0 circumstantialobtrusive.com
 0.0.0.0 ciridola.com
 0.0.0.0 citinnoiddidn.pro
@@ -9646,6 +9659,7 @@
 0.0.0.0 directtrack.com
 0.0.0.0 dirkino-traff.ru
 0.0.0.0 dirritorexa.club
+0.0.0.0 disagreeablesmilingmagnet.com
 0.0.0.0 disappearanceherbalsixpence.com
 0.0.0.0 disappenedy.site
 0.0.0.0 disapprovalaccusedirt.com
@@ -9768,6 +9782,7 @@
 0.0.0.0 dktyjwldv.com
 0.0.0.0 dkus30wj6f84p.cloudfront.net
 0.0.0.0 dkyp75kj7ldlr.cloudfront.net
+0.0.0.0 dkypsidljq.com
 0.0.0.0 dl5ft52dtazxd.cloudfront.net
 0.0.0.0 dl6pkf7e.ru
 0.0.0.0 dlads.cn
@@ -10064,6 +10079,7 @@
 0.0.0.0 dramaticcondition.com
 0.0.0.0 dr.atwoodubre.com
 0.0.0.0 draulinehandon.info
+0.0.0.0 drawbacksubdue.com
 0.0.0.0 drawservant.com
 0.0.0.0 draydaisbitch.com
 0.0.0.0 drbwugautcgh.com
@@ -10559,6 +10575,7 @@
 0.0.0.0 edencourtbrita.info
 0.0.0.0 edestrathergo.club
 0.0.0.0 edfrencessaryhu.info
+0.0.0.0 edfsqfaeenij.com
 0.0.0.0 edgeads.org
 0.0.0.0 edgead.woomedya.com
 0.0.0.0 edgeadx.net
@@ -11729,6 +11746,7 @@
 0.0.0.0 fasferesa.com
 0.0.0.0 fashional.pro
 0.0.0.0 fashionapology.com
+0.0.0.0 fashionnightingale.com
 0.0.0.0 fast12g.com
 0.0.0.0 fast2earn.com
 0.0.0.0 fast2load.ru
@@ -11792,6 +11810,7 @@
 0.0.0.0 fbvwtb.biz
 0.0.0.0 fbxnqsviqujxv.com
 0.0.0.0 fc2b9b7ce3165.com
+0.0.0.0 fc455c6ee5.com
 0.0.0.0 fcafnvgdokqfo.com
 0.0.0.0 fcaot.com
 0.0.0.0 fccay.cn
@@ -12307,6 +12326,7 @@
 0.0.0.0 fos123.com
 0.0.0.0 foshou.pw
 0.0.0.0 fosterheiressdug.com
+0.0.0.0 fosterpeacesadly.com
 0.0.0.0 fosterstrawberry.com
 0.0.0.0 fotao9.com
 0.0.0.0 fotocash.ru
@@ -13702,6 +13722,7 @@
 0.0.0.0 groobsoo.com
 0.0.0.0 groogloo.net
 0.0.0.0 grooksom.com
+0.0.0.0 grooptie.com
 0.0.0.0 groorgex.net
 0.0.0.0 groovinads.com
 0.0.0.0 groucign.com
@@ -19523,6 +19544,7 @@
 0.0.0.0 migatesbala.fun
 0.0.0.0 mightiger.net
 0.0.0.0 mightseers.club
+0.0.0.0 mightspreadingrumour.com
 0.0.0.0 mightyspiders.com
 0.0.0.0 mignoops.net
 0.0.0.0 mignpaybmqkcy.com
@@ -20474,6 +20496,7 @@
 0.0.0.0 nalrxmmcs.com
 0.0.0.0 nameads.com
 0.0.0.0 nameketathar.pro
+0.0.0.0 namel.net
 0.0.0.0 namemek.com
 0.0.0.0 nametraff.com
 0.0.0.0 namitol.com
@@ -22985,6 +23008,7 @@
 0.0.0.0 pimpmypr.de
 0.0.0.0 pimygjumeyrtxe.com
 0.0.0.0 pinballpublishernetwork.com
+0.0.0.0 pinchingepoch.com
 0.0.0.0 pincidao.cn
 0.0.0.0 pindered.info
 0.0.0.0 pineapplesiblingerotic.com
@@ -23171,6 +23195,7 @@
 0.0.0.0 platformpanda.com
 0.0.0.0 plathwardsve.site
 0.0.0.0 platinumarrangements.com
+0.0.0.0 plausiblebyeshear.com
 0.0.0.0 play2.biz
 0.0.0.0 play4k.co
 0.0.0.0 play.entretenimientolz.com
@@ -23329,6 +23354,7 @@
 0.0.0.0 policityseriod.info
 0.0.0.0 polimadv.com
 0.0.0.0 polipol.pw
+0.0.0.0 polishshinyspectacles.com
 0.0.0.0 politegoldfish.com
 0.0.0.0 politota.ru
 0.0.0.0 polituremil.club
@@ -23613,6 +23639,7 @@
 0.0.0.0 predictivdisplay.com
 0.0.0.0 predictivedna.com
 0.0.0.0 predictiveresponse.net
+0.0.0.0 preferenceshackdeduction.com
 0.0.0.0 preferent.club
 0.0.0.0 preferredain.com
 0.0.0.0 preferredwhatknew.com
@@ -23735,6 +23762,7 @@
 0.0.0.0 profilesterility.com
 0.0.0.0 profi-link.org
 0.0.0.0 profistats.net
+0.0.0.0 profitablecpmnetwork.com
 0.0.0.0 profitabledisplaycontent.com
 0.0.0.0 profitablegate.com
 0.0.0.0 profitboosterapp.com
@@ -25170,6 +25198,7 @@
 0.0.0.0 reg88.ru
 0.0.0.0 regarden.club
 0.0.0.0 regardianpleast.site
+0.0.0.0 regionsparametersvacancy.com
 0.0.0.0 regisg.com
 0.0.0.0 regislandery.club
 0.0.0.0 registered-spotters-build.com
@@ -25494,6 +25523,7 @@
 0.0.0.0 rhotonaid.com
 0.0.0.0 rh.qq.com
 0.0.0.0 rhtag.com
+0.0.0.0 rhubarbauntiepreoccupy.com
 0.0.0.0 rhubarbsnagtip.com
 0.0.0.0 rhudsplm.com
 0.0.0.0 rhvdsplm.com
@@ -28304,6 +28334,7 @@
 0.0.0.0 storystack.com
 0.0.0.0 stoshoos.com
 0.0.0.0 stospubede.xyz
+0.0.0.0 stoutoffering.com
 0.0.0.0 stoveseashore.com
 0.0.0.0 stovoudu.com
 0.0.0.0 stpmgo.com
@@ -28311,9 +28342,11 @@
 0.0.0.0 straightschool.com
 0.0.0.0 strainemergency.com
 0.0.0.0 strands.com
+0.0.0.0 strangersincentive.com
 0.0.0.0 strangesink.com
 0.0.0.0 stratingtrea.club
 0.0.0.0 strawdense.com
+0.0.0.0 strayhepatitisbruise.com
 0.0.0.0 stream-all.com
 0.0.0.0 streamateaccess.com
 0.0.0.0 streamate.com
@@ -29406,6 +29439,7 @@
 0.0.0.0 tinyweene.com
 0.0.0.0 tiojk.com
 0.0.0.0 tionmodat.club
+0.0.0.0 tionmustai.fun
 0.0.0.0 tionpronomyim.info
 0.0.0.0 tionscofferent.info
 0.0.0.0 tiontablyvern.site
@@ -30214,6 +30248,7 @@
 0.0.0.0 tr.bannersdf.com
 0.0.0.0 trblocked.com
 0.0.0.0 trc85.com
+0.0.0.0 trccmpnlnk.com
 0.0.0.0 trck.bdi-services.de
 0.0.0.0 trckcommerce.com
 0.0.0.0 trck.cyberport.de
@@ -32217,6 +32252,7 @@
 0.0.0.0 waptraff.mobi
 0.0.0.0 waptrick.com
 0.0.0.0 waqsdyxhha.com
+0.0.0.0 wardenchamberensue.com
 0.0.0.0 warfarewithdigestion.com
 0.0.0.0 warlog.ru
 0.0.0.0 warmmyselfharness.com
@@ -32633,6 +32669,7 @@
 0.0.0.0 whohuphi.com
 0.0.0.0 whoisonline.net
 0.0.0.0 whoisvisiting.com
+0.0.0.0 wholesomeindians.com
 0.0.0.0 whos.amung.us
 0.0.0.0 whosclickingwho.com
 0.0.0.0 whoseesyou.com
