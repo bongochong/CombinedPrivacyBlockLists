@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Fri Nov 13 10:55:44 PM MST 2020
+! Updated: Sat Nov 14 02:22:38 AM MST 2020
 ! Expires: 7 Days
 ! License: https://git.io/JTTLW
 ! Homepage: https://git.io/JTTLB
@@ -1284,6 +1284,7 @@
 ||4702fb341ddf276d.com^
 ||4736.in^
 ||473863a8ef28.com^
+||47api.cn^
 ||47f624b2e6c6072e.com^
 ||47n209.com^
 ||4808.jianbihua.com^
@@ -58381,7 +58382,6 @@
 ||tynt.com^
 ||tynyh.com^
 ||tynyturi.com^
-||typeface.nyt.com^
 ||typekit.net-v3.edgekey.net^
 ||typicalairplane.com^
 ||typicalteeth.com^
