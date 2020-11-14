@@ -1,4 +1,4 @@
-# Fri Nov 13 03:16:47 AM MST 2020
+# Fri Nov 13 09:36:08 PM MST 2020
 # AdGuard DNS Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -4613,6 +4613,7 @@
 0.0.0.0 apirelay.ru
 0.0.0.0 api.reon.club
 0.0.0.0 api.rnet.plus
+0.0.0.0 api.rubic.com.tr
 0.0.0.0 api.safedk.com
 0.0.0.0 apis.appnxt.net
 0.0.0.0 api.sec.miui.com
@@ -6426,6 +6427,7 @@
 0.0.0.0 black6adv.com
 0.0.0.0 black77854.com
 0.0.0.0 blackforce.club
+0.0.0.0 blackname.biz
 0.0.0.0 blacknessversiondan.com
 0.0.0.0 blacktri-a.akamaihd.net
 0.0.0.0 blacktri.com
@@ -7836,6 +7838,7 @@
 0.0.0.0 chenghangtech.com
 0.0.0.0 chengyuplaza.com
 0.0.0.0 chengzhao95511.com
+0.0.0.0 chengzilte.top
 0.0.0.0 chenyanjiao.cn
 0.0.0.0 cheqzone.com
 0.0.0.0 cherriesobituary.com
@@ -9920,6 +9923,7 @@
 0.0.0.0 daima.ijq.tv
 0.0.0.0 daima.ysdui.com
 0.0.0.0 daima.yutou123.cn
+0.0.0.0 daima.yuzhulin.com
 0.0.0.0 dainaith.net
 0.0.0.0 daintyecstasyspleen.com
 0.0.0.0 dairouzy.net
@@ -12079,6 +12083,7 @@
 0.0.0.0 ericalmessar.club
 0.0.0.0 eriesfrequen.club
 0.0.0.0 erificyggw.com
+0.0.0.0 erihj.com
 0.0.0.0 erileni.ru
 0.0.0.0 eringassumpt.club
 0.0.0.0 eriniquep.club
@@ -12527,6 +12532,7 @@
 0.0.0.0 external-promo-metrics.yandex.net
 0.0.0.0 extfiles.net
 0.0.0.0 ext.goguardian.com
+0.0.0.0 ext-inv-cdn.presage.io
 0.0.0.0 ext.movixhub.com
 0.0.0.0 extole.com
 0.0.0.0 extole.io
@@ -18934,6 +18940,7 @@
 0.0.0.0 lassistslegisten.info
 0.0.0.0 lasttopreg.top
 0.0.0.0 la-sync.taboola.com
+0.0.0.0 lataurir.com
 0.0.0.0 latest-news.life
 0.0.0.0 latheendsmoo.com
 0.0.0.0 lationwordsi.club
@@ -28427,6 +28434,7 @@
 0.0.0.0 sculifinanthools.site
 0.0.0.0 scupio.com
 0.0.0.0 scvdxxgbvoz.com
+0.0.0.0 scvxgm.cn
 0.0.0.0 scw0.com
 0.0.0.0 scw.systems
 0.0.0.0 sczcxmaizy.com
@@ -29396,6 +29404,7 @@
 0.0.0.0 smetrics.cnn.com
 0.0.0.0 smetrics.marriott.com
 0.0.0.0 smetrics.nfl.com
+0.0.0.0 smetrics.samsung.com
 0.0.0.0 smetrics.uhc.com
 0.0.0.0 smf82.cn
 0.0.0.0 smfsvc.com
@@ -30744,6 +30753,7 @@
 0.0.0.0 sundaysky.com
 0.0.0.0 sundersetrgh.site
 0.0.0.0 suning.beer
+0.0.0.0 suning.design
 0.0.0.0 sunior.loftlm.ru
 0.0.0.0 sunios.de
 0.0.0.0 sunmedia.net
@@ -31121,6 +31131,7 @@
 0.0.0.0 tagtray.com
 0.0.0.0 tag.triboomedia.it
 0.0.0.0 tagvideo.eu
+0.0.0.0 tag.wknd.ai
 0.0.0.0 tahbmbqhvvi.com
 0.0.0.0 tahkezux.com
 0.0.0.0 tai789.net
@@ -31229,6 +31240,7 @@
 0.0.0.0 target.smi2.ru
 0.0.0.0 targetspot.com
 0.0.0.0 target.ukr.net
+0.0.0.0 target-us.samsung.com
 0.0.0.0 t.arianelab.com
 0.0.0.0 tarnifotum.com
 0.0.0.0 tartoals.net
@@ -34996,6 +35008,7 @@
 0.0.0.0 wangqing7.top
 0.0.0.0 wangqipu.com
 0.0.0.0 wangsufast.com
+0.0.0.0 wannuochongkong.com
 0.0.0.0 wanrenshe.com
 0.0.0.0 wanrtqneiissrb.com
 0.0.0.0 wantaico.com
@@ -36276,6 +36289,7 @@
 0.0.0.0 xinlongrubber.com
 0.0.0.0 xinqiannv.com
 0.0.0.0 xinray.net
+0.0.0.0 xintaizhaoming.com
 0.0.0.0 xinuocp666.com
 0.0.0.0 xinyijiasc.cn
 0.0.0.0 xiongdong.com
@@ -36834,6 +36848,7 @@
 0.0.0.0 yepsobtax.com
 0.0.0.0 yes999.cf
 0.0.0.0 yes999.ga
+0.0.0.0 yes999.gq
 0.0.0.0 yes999.ml
 0.0.0.0 yes999.tk
 0.0.0.0 yesads.com
@@ -42656,6 +42671,7 @@
 0.0.0.0 apirelay.ru
 0.0.0.0 api.reon.club
 0.0.0.0 api.rnet.plus
+0.0.0.0 api.rubic.com.tr
 0.0.0.0 api.safedk.com
 0.0.0.0 apis.appnxt.net
 0.0.0.0 api.sec.miui.com
@@ -44464,6 +44480,7 @@
 0.0.0.0 black6adv.com
 0.0.0.0 black77854.com
 0.0.0.0 blackforce.club
+0.0.0.0 blackname.biz
 0.0.0.0 blacknessversiondan.com
 0.0.0.0 blacktri-a.akamaihd.net
 0.0.0.0 blacktri.com
@@ -45873,6 +45890,7 @@
 0.0.0.0 chenghangtech.com
 0.0.0.0 chengyuplaza.com
 0.0.0.0 chengzhao95511.com
+0.0.0.0 chengzilte.top
 0.0.0.0 chenyanjiao.cn
 0.0.0.0 cheqzone.com
 0.0.0.0 cherriesobituary.com
@@ -47952,6 +47970,7 @@
 0.0.0.0 daima.ijq.tv
 0.0.0.0 daima.ysdui.com
 0.0.0.0 daima.yutou123.cn
+0.0.0.0 daima.yuzhulin.com
 0.0.0.0 dainaith.net
 0.0.0.0 daintyecstasyspleen.com
 0.0.0.0 dairouzy.net
@@ -50105,6 +50124,7 @@
 0.0.0.0 ericalmessar.club
 0.0.0.0 eriesfrequen.club
 0.0.0.0 erificyggw.com
+0.0.0.0 erihj.com
 0.0.0.0 erileni.ru
 0.0.0.0 eringassumpt.club
 0.0.0.0 eriniquep.club
@@ -50551,6 +50571,7 @@
 0.0.0.0 external-promo-metrics.yandex.net
 0.0.0.0 extfiles.net
 0.0.0.0 ext.goguardian.com
+0.0.0.0 ext-inv-cdn.presage.io
 0.0.0.0 ext.movixhub.com
 0.0.0.0 extole.com
 0.0.0.0 extole.io
@@ -56932,6 +56953,7 @@
 0.0.0.0 lassistslegisten.info
 0.0.0.0 lasttopreg.top
 0.0.0.0 la-sync.taboola.com
+0.0.0.0 lataurir.com
 0.0.0.0 latest-news.life
 0.0.0.0 latheendsmoo.com
 0.0.0.0 lationwordsi.club
@@ -66391,6 +66413,7 @@
 0.0.0.0 sculifinanthools.site
 0.0.0.0 scupio.com
 0.0.0.0 scvdxxgbvoz.com
+0.0.0.0 scvxgm.cn
 0.0.0.0 scw0.com
 0.0.0.0 scw.systems
 0.0.0.0 sczcxmaizy.com
@@ -67360,6 +67383,7 @@
 0.0.0.0 smetrics.cnn.com
 0.0.0.0 smetrics.marriott.com
 0.0.0.0 smetrics.nfl.com
+0.0.0.0 smetrics.samsung.com
 0.0.0.0 smetrics.uhc.com
 0.0.0.0 smf82.cn
 0.0.0.0 smfsvc.com
@@ -68707,6 +68731,7 @@
 0.0.0.0 sundaysky.com
 0.0.0.0 sundersetrgh.site
 0.0.0.0 suning.beer
+0.0.0.0 suning.design
 0.0.0.0 sunior.loftlm.ru
 0.0.0.0 sunios.de
 0.0.0.0 sunmedia.net
@@ -69083,6 +69108,7 @@
 0.0.0.0 tagtray.com
 0.0.0.0 tag.triboomedia.it
 0.0.0.0 tagvideo.eu
+0.0.0.0 tag.wknd.ai
 0.0.0.0 tahbmbqhvvi.com
 0.0.0.0 tahkezux.com
 0.0.0.0 tai789.net
@@ -69190,6 +69216,7 @@
 0.0.0.0 target.smi2.ru
 0.0.0.0 targetspot.com
 0.0.0.0 target.ukr.net
+0.0.0.0 target-us.samsung.com
 0.0.0.0 t.arianelab.com
 0.0.0.0 tarnifotum.com
 0.0.0.0 tartoals.net
@@ -72947,6 +72974,7 @@
 0.0.0.0 wangqing7.top
 0.0.0.0 wangqipu.com
 0.0.0.0 wangsufast.com
+0.0.0.0 wannuochongkong.com
 0.0.0.0 wanrenshe.com
 0.0.0.0 wanrtqneiissrb.com
 0.0.0.0 wantaico.com
@@ -74224,6 +74252,7 @@
 0.0.0.0 xinlongrubber.com
 0.0.0.0 xinqiannv.com
 0.0.0.0 xinray.net
+0.0.0.0 xintaizhaoming.com
 0.0.0.0 xinuocp666.com
 0.0.0.0 xinyijiasc.cn
 0.0.0.0 xiongdong.com
@@ -74782,6 +74811,7 @@
 0.0.0.0 yepsobtax.com
 0.0.0.0 yes999.cf
 0.0.0.0 yes999.ga
+0.0.0.0 yes999.gq
 0.0.0.0 yes999.ml
 0.0.0.0 yes999.tk
 0.0.0.0 yesads.com
