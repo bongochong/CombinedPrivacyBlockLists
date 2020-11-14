@@ -1,4 +1,4 @@
-// **** Thu Nov 12 07:06:16 PM MST 2020
+// **** Fri Nov 13 10:28:36 PM MST 2020
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.001www.com') ||
@@ -11969,6 +11969,7 @@ shExpMatch(host, '*.visiblemeasures.com') ||
 shExpMatch(host, '*.visionfiles.com') ||
 shExpMatch(host, '*.visistat.com') ||
 shExpMatch(host, '*.visitbox.de') ||
+shExpMatch(host, '*.visitpath.com') ||
 shExpMatch(host, '*.visit.webhosting.yahoo.com') ||
 shExpMatch(host, '*.visual-pagerank.fr') ||
 shExpMatch(host, '*.visualrevenue.com') ||
@@ -24615,6 +24616,7 @@ shExpMatch(host, 'visiblemeasures.com') ||
 shExpMatch(host, 'visionfiles.com') ||
 shExpMatch(host, 'visistat.com') ||
 shExpMatch(host, 'visitbox.de') ||
+shExpMatch(host, 'visitpath.com') ||
 shExpMatch(host, 'visit.webhosting.yahoo.com') ||
 shExpMatch(host, 'visual-pagerank.fr') ||
 shExpMatch(host, 'visualrevenue.com') ||
