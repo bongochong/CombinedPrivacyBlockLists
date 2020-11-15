@@ -1,4 +1,4 @@
-// **** Fri Nov 13 10:28:36 PM MST 2020
+// **** Sun Nov 15 03:21:40 PM MST 2020
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.001www.com') ||
@@ -5215,6 +5215,7 @@ shExpMatch(host, '*.freegamingcardcodes.com') ||
 shExpMatch(host, '*.free-gc.com') ||
 shExpMatch(host, '*.freegems.clashofclansresourcesgenerator.com') ||
 shExpMatch(host, '*.freegeneratorhack.com') ||
+shExpMatch(host, '*.freegenerator.io') ||
 shExpMatch(host, '*.freeghostskey.net') ||
 shExpMatch(host, '*.freegies.com') ||
 shExpMatch(host, '*.freegiftcardgenerator.com') ||
@@ -5905,6 +5906,7 @@ shExpMatch(host, '*.generateurderiotpoints.com') ||
 shExpMatch(host, '*.generateurs-du-web.fr') ||
 shExpMatch(host, '*.generateursgratuit.com') ||
 shExpMatch(host, '*.generateur-starpass.com') ||
+shExpMatch(host, '*.generator3030.online') ||
 shExpMatch(host, '*.generator4points.com') ||
 shExpMatch(host, '*.generator4u.com') ||
 shExpMatch(host, '*.generatorcoders.com') ||
@@ -17862,6 +17864,7 @@ shExpMatch(host, 'freegamingcardcodes.com') ||
 shExpMatch(host, 'free-gc.com') ||
 shExpMatch(host, 'freegems.clashofclansresourcesgenerator.com') ||
 shExpMatch(host, 'freegeneratorhack.com') ||
+shExpMatch(host, 'freegenerator.io') ||
 shExpMatch(host, 'freeghostskey.net') ||
 shExpMatch(host, 'freegies.com') ||
 shExpMatch(host, 'freegiftcardgenerator.com') ||
@@ -18552,6 +18555,7 @@ shExpMatch(host, 'generateurderiotpoints.com') ||
 shExpMatch(host, 'generateurs-du-web.fr') ||
 shExpMatch(host, 'generateursgratuit.com') ||
 shExpMatch(host, 'generateur-starpass.com') ||
+shExpMatch(host, 'generator3030.online') ||
 shExpMatch(host, 'generator4points.com') ||
 shExpMatch(host, 'generator4u.com') ||
 shExpMatch(host, 'generatorcoders.com') ||
