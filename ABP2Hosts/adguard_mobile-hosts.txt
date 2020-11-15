@@ -1,4 +1,4 @@
-# Sat Nov 14 02:17:04 AM MST 2020
+# Sun Nov 15 03:16:53 PM MST 2020
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -2252,6 +2252,7 @@
 0.0.0.0 banners.adnetmedia.lt
 0.0.0.0 banners.etermax.com
 0.0.0.0 banners.isoftmarketing.com
+0.0.0.0 banners.itunes.apple.com
 0.0.0.0 banners.mellowads.com
 0.0.0.0 banners.mobile.yandex.net
 0.0.0.0 bannersnack.com
@@ -2586,6 +2587,7 @@
 0.0.0.0 cafemedia-d.openx.net
 0.0.0.0 c.affntwklnk.com
 0.0.0.0 ca-gmtdmp.mookie1.com
+0.0.0.0 ca.iadsdk.apple.com
 0.0.0.0 ca-lapresse-main.collector.snplow.net
 0.0.0.0 c.algovid.com
 0.0.0.0 c.amazon-adsystem.com
@@ -2989,6 +2991,7 @@
 0.0.0.0 cfg.adxcel-ec2.com
 0.0.0.0 cfg.cml.ksmobile.com
 0.0.0.0 cfg.flurry.com
+0.0.0.0 cf.iadsdk.apple.com
 0.0.0.0 cfimage.moengage.com
 0.0.0.0 c.fqtag.com
 0.0.0.0 cfr.us.v2.we-stats.com
@@ -9117,6 +9120,7 @@
 0.0.0.0 tr.eyereturn.com
 0.0.0.0 trfmxt.com
 0.0.0.0 tr-gmtdmp.mookie1.com
+0.0.0.0 tr.iadsdk.apple.com
 0.0.0.0 trialpay.com
 0.0.0.0 tribalfusion.com
 0.0.0.0 tribez.game-insight.com
@@ -9419,6 +9423,7 @@
 0.0.0.0 utag.ijinshan.com
 0.0.0.0 utarget.ru
 0.0.0.0 utctime.tiltingpoint.io
+0.0.0.0 ut.iadsdk.apple.com
 0.0.0.0 utop.umengcloud.com
 0.0.0.0 uts.kingoapp.com
 0.0.0.0 u-us.openx.net

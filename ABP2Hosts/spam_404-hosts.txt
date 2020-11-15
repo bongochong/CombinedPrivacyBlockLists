@@ -1,4 +1,4 @@
-# Sat Nov 14 02:17:41 AM MST 2020
+# Sun Nov 15 03:17:31 PM MST 2020
 # Spam404 Hosts - Generated weekly by bongochong
 0.0.0.0 001www.com
 0.0.0.0 0daygameparadise.com
@@ -2888,6 +2888,7 @@
 0.0.0.0 free-gc.com
 0.0.0.0 freegems.clashofclansresourcesgenerator.com
 0.0.0.0 freegeneratorhack.com
+0.0.0.0 freegenerator.io
 0.0.0.0 freeghostskey.net
 0.0.0.0 freegies.com
 0.0.0.0 freegiftcardgenerator.com
@@ -3528,6 +3529,7 @@
 0.0.0.0 generateurs-du-web.fr
 0.0.0.0 generateursgratuit.com
 0.0.0.0 generateur-starpass.com
+0.0.0.0 generator3030.online
 0.0.0.0 generator4points.com
 0.0.0.0 generator4u.com
 0.0.0.0 generatorcoders.com
