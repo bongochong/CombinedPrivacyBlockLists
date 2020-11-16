@@ -53,12 +53,12 @@ echo "..."
 read -r -p "Would you like these tools to be automatically aliased in your bash configuration file, for easy launching? [y/N] " response
 	if [[ "$response" =~ ^([yY][eE][sS]|[yY])$ ]]
 		then
-			echo -e "\nalias uphosts='~/$file_dir/update-hosts.sh'" >> ~/.bashrc
+			echo -e "\nalias blthosts='~/$file_dir/update-hosts.sh'" >> ~/.bashrc
 			echo "alias blthosts6='~/$file_dir/update-hosts-six.sh'" >> ~/.bashrc
 			echo "alias blthosts2='~/$file_dir/update-hosts-dual.sh'" >> ~/.bashrc
 			echo "alias bltpac='~/$file_dir/update-pac.sh'" >> ~/.bashrc
-			echo "alias bltbtdat='~/$file_dir/update-btdat.sh'" >> ~/.bashrc
-			echo "alias bltbtp2p='~/$file_dir/update-btp2p.sh'" >> ~/.bashrc
+			echo "alias bltdat='~/$file_dir/update-btdat.sh'" >> ~/.bashrc
+			echo "alias bltp2p='~/$file_dir/update-btp2p.sh'" >> ~/.bashrc
 			echo "Done! All BLT aliases begin with the term 'blt', and you may see them by"
 			echo " reloading bash, typing 'alias' into your console prompt, then hitting enter."
 			echo "..."
