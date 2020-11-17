@@ -3,7 +3,7 @@
 #From the maintainer of Combined Privacy Block Lists (https://github.com/bongochong/CombinedPrivacyBlockLists)
 #License: CPAL-1.0 (https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/LICENSE.md)
 echo "..."
-echo -n "Which directory would you like these tools to be installed in, under your home folder? "
+echo -n "Which directory would you like these tools to be installed in under your home folder? "
 read file_dir
 echo "..."
 echo "Creating directories & Downloading block list utilities and documentation..."
@@ -48,7 +48,7 @@ sed -i "s/BLT/$file_dir/g" update-hosts-six.sh
 sed -i "s/BLT/$file_dir/g" update-hosts-dual.sh
 sed -i "s/BLT/$file_dir/g" update-hosts.sh
 sed -i "s/BLT/$file_dir/g" update-pac.sh
-echo -n "What is this computer's hostname? If you do not know, you can list it by typing 'hostname' into your prompt and hitting enter. This is useful for the structure of your hosts file: "
+echo -n "What is this computer's host name? If you do not know, you can list it by typing 'hostname' into another terminal prompt and hitting enter. This is important for the structure of your hosts file: "
 read host_name
 sed -i "s/# 127.0.1.1	PUT-YOUR-HOSTNAME-HERE-IF-YOU-WISH-THEN-UNCOMMENT-THIS-LINE/127.0.1.1	$host_name/g" parsing/newhosts-template.txt
 sed -i "s/# 127.0.1.1	PUT-YOUR-HOSTNAME-HERE-IF-YOU-WISH-THEN-UNCOMMENT-THIS-LINE/127.0.1.1	$host_name/g" parsing/newhosts-template-dual.txt
