@@ -1,4 +1,4 @@
-// **** Sun Nov 15 04:06:35 PM MST 2020
+// **** Mon Nov 16 10:25:26 PM MST 2020
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -11535,6 +11535,7 @@ shExpMatch(host, '*.processinfo.com.cn') ||
 shExpMatch(host, '*.procyclingmanager2013.sharezips.info') ||
 shExpMatch(host, '*.prodesigners.club') ||
 shExpMatch(host, '*.prod-review.info') ||
+shExpMatch(host, '*.producecopy.com') ||
 shExpMatch(host, '*.producer.getwisdom.io') ||
 shExpMatch(host, '*.productioncheats.com') ||
 shExpMatch(host, '*.productionguy.com') ||
@@ -27199,6 +27200,7 @@ shExpMatch(host, 'processinfo.com.cn') ||
 shExpMatch(host, 'procyclingmanager2013.sharezips.info') ||
 shExpMatch(host, 'prodesigners.club') ||
 shExpMatch(host, 'prod-review.info') ||
+shExpMatch(host, 'producecopy.com') ||
 shExpMatch(host, 'producer.getwisdom.io') ||
 shExpMatch(host, 'productioncheats.com') ||
 shExpMatch(host, 'productionguy.com') ||
