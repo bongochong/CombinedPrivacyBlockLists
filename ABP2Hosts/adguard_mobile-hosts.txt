@@ -1,4 +1,4 @@
-# Sun Nov 15 03:16:53 PM MST 2020
+# Mon Nov 16 10:17:22 PM MST 2020
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -1101,7 +1101,6 @@
 0.0.0.0 adz.mobi
 0.0.0.0 adzmobi.com
 0.0.0.0 adztec.com
-0.0.0.0 adzuna.co.uk
 0.0.0.0 adzworld.in
 0.0.0.0 ae.ads.justpremium.com
 0.0.0.0 a.eed1729eebe45b8cd49e10f2dd80e297.com
@@ -4032,7 +4031,6 @@
 0.0.0.0 ei-event-collector.us-east-1.elasticbeanstalk.com
 0.0.0.0 eihjefbbbbddeiacedb.ru
 0.0.0.0 e.imguol.com
-0.0.0.0 e.infogram.com
 0.0.0.0 ei.rlcdn.com
 0.0.0.0 eiv.baidu.com
 0.0.0.0 e.jp.miaozhen.com
@@ -7998,7 +7996,6 @@
 0.0.0.0 sinclair-d.openx.net
 0.0.0.0 sinclair-tagan.adlightning.com
 0.0.0.0 sindirect.adsrvr.org
-0.0.0.0 s.infogram.com
 0.0.0.0 single.upsight-api.com
 0.0.0.0 singular.net
 0.0.0.0 sinkhole.netmng.com
