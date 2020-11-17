@@ -40,7 +40,6 @@ echo "Ensuring that scripts are made executable..."
 echo "..."
 cd ~/"$file_dir"
 chmod +x update-btdat.sh update-btp2p.sh update-hosts-dual.sh update-hosts.sh update-hosts-six.sh update-pac.sh
-echo "..."
 echo "Ensuring that scripts reflect your install directory..."
 echo "..."
 sed -i "s/BLT/$file_dir/g" update-btdat.sh
@@ -49,8 +48,14 @@ sed -i "s/BLT/$file_dir/g" update-hosts-six.sh
 sed -i "s/BLT/$file_dir/g" update-hosts-dual.sh
 sed -i "s/BLT/$file_dir/g" update-hosts.sh
 sed -i "s/BLT/$file_dir/g" update-pac.sh
+echo -n "What is this computer's hostname? If you do not know, you can list it by typing 'hostname' into your prompt and hitting enter. This is useful for the structure of your hosts file: "
+read host_name
+sed -i "s/# 127.0.1.1	PUT-YOUR-HOSTNAME-HERE-IF-YOU-WISH-THEN-UNCOMMENT-THIS-LINE/127.0.1.1	$host_name/g" parsing/newhosts-template.txt
+sed -i "s/# 127.0.1.1	PUT-YOUR-HOSTNAME-HERE-IF-YOU-WISH-THEN-UNCOMMENT-THIS-LINE/127.0.1.1	$host_name/g" parsing/newhosts-template-dual.txt
+sed -i "s/# 127.0.1.1	PUT-YOUR-HOSTNAME-HERE-IF-YOU-WISH-THEN-UNCOMMENT-THIS-LINE/127.0.1.1	$host_name/g" parsing/newhosts-template-six.txt
+echo "Inserted host name into hosts file templates."
 echo "..."
-read -r -p "Would you like these tools to be automatically aliased in your bash configuration file, for easy launching? [y/N] " response
+read -r -p "Finally, would you like these tools to be automatically aliased in your bash configuration file, for easy launching? [y/N] " response
 	if [[ "$response" =~ ^([yY][eE][sS]|[yY])$ ]]
 		then
 			echo -e "\nalias blthosts='~/$file_dir/update-hosts.sh'" >> ~/.bashrc
