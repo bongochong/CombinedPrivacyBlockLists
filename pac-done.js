@@ -1,4 +1,4 @@
-// **** Mon Nov 16 10:25:26 PM MST 2020
+// **** Wed Nov 18 12:09:07 AM MST 2020
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -224,6 +224,7 @@ shExpMatch(host, '*.5780.com') ||
 shExpMatch(host, '*.5850777.ru') ||
 shExpMatch(host, '*.591xietaoji.com') ||
 shExpMatch(host, '*.5day.vn') ||
+shExpMatch(host, '*.5ijo.01net.com') ||
 shExpMatch(host, '*.5mcwl.pw') ||
 shExpMatch(host, '*.5organic.com') ||
 shExpMatch(host, '*.5thcongress.iribs.org') ||
@@ -9988,6 +9989,7 @@ shExpMatch(host, '*.mixtraffic.com') ||
 shExpMatch(host, '*.mj-ive.com') ||
 shExpMatch(host, '*.mjw.or.kr') ||
 shExpMatch(host, '*.mjxads.internet.com') ||
+shExpMatch(host, '*.mkto-ab410147.com') ||
 shExpMatch(host, '*.mktoresp.com') ||
 shExpMatch(host, '*.ml314.com') ||
 shExpMatch(host, '*.ml-company.com') ||
@@ -11438,6 +11440,7 @@ shExpMatch(host, '*.possibleboats.com') ||
 shExpMatch(host, '*.postback.iqm.com') ||
 shExpMatch(host, '*.postfolkovs.ru') ||
 shExpMatch(host, '*.postrelease.com') ||
+shExpMatch(host, '*.post.spmailtechno.com') ||
 shExpMatch(host, '*.posumeads.com') ||
 shExpMatch(host, '*.potenza.cz') ||
 shExpMatch(host, '*.powerfulcheats.com') ||
@@ -12910,6 +12913,7 @@ shExpMatch(host, '*.smartyads.com') ||
 shExpMatch(host, '*.smashfree.net') ||
 shExpMatch(host, '*.smashingsports.co') ||
 shExpMatch(host, '*.smashsurprise.com') ||
+shExpMatch(host, '*.smetrics.10daily.com.au') ||
 shExpMatch(host, '*.smetrics.bestbuy.com') ||
 shExpMatch(host, '*.smetrics.ctv.ca') ||
 shExpMatch(host, '*.smetrics.foxnews.com') ||
@@ -15889,6 +15893,7 @@ shExpMatch(host, '5780.com') ||
 shExpMatch(host, '5850777.ru') ||
 shExpMatch(host, '591xietaoji.com') ||
 shExpMatch(host, '5day.vn') ||
+shExpMatch(host, '5ijo.01net.com') ||
 shExpMatch(host, '5mcwl.pw') ||
 shExpMatch(host, '5organic.com') ||
 shExpMatch(host, '5thcongress.iribs.org') ||
@@ -25653,6 +25658,7 @@ shExpMatch(host, 'mixtraffic.com') ||
 shExpMatch(host, 'mj-ive.com') ||
 shExpMatch(host, 'mjw.or.kr') ||
 shExpMatch(host, 'mjxads.internet.com') ||
+shExpMatch(host, 'mkto-ab410147.com') ||
 shExpMatch(host, 'mktoresp.com') ||
 shExpMatch(host, 'ml314.com') ||
 shExpMatch(host, 'ml-company.com') ||
@@ -27103,6 +27109,7 @@ shExpMatch(host, 'possibleboats.com') ||
 shExpMatch(host, 'postback.iqm.com') ||
 shExpMatch(host, 'postfolkovs.ru') ||
 shExpMatch(host, 'postrelease.com') ||
+shExpMatch(host, 'post.spmailtechno.com') ||
 shExpMatch(host, 'posumeads.com') ||
 shExpMatch(host, 'potenza.cz') ||
 shExpMatch(host, 'powerfulcheats.com') ||
@@ -28575,6 +28582,7 @@ shExpMatch(host, 'smartyads.com') ||
 shExpMatch(host, 'smashfree.net') ||
 shExpMatch(host, 'smashingsports.co') ||
 shExpMatch(host, 'smashsurprise.com') ||
+shExpMatch(host, 'smetrics.10daily.com.au') ||
 shExpMatch(host, 'smetrics.bestbuy.com') ||
 shExpMatch(host, 'smetrics.ctv.ca') ||
 shExpMatch(host, 'smetrics.foxnews.com') ||
