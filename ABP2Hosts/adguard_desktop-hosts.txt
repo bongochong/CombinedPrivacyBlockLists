@@ -1,4 +1,4 @@
-# Mon Nov 16 10:17:37 PM MST 2020
+# Wed Nov 18 12:05:32 AM MST 2020
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -727,6 +727,7 @@
 0.0.0.0 4808.jianbihua.com
 0.0.0.0 48331375c351e.com
 0.0.0.0 48423894b2a24481.com
+0.0.0.0 493b98cce8bc1a2dd.com
 0.0.0.0 497761.top
 0.0.0.0 4ac484684040.com
 0.0.0.0 4affiliate.net
@@ -3153,6 +3154,7 @@
 0.0.0.0 affbot3.com
 0.0.0.0 affbuzzads.com
 0.0.0.0 aff.camplace.com
+0.0.0.0 affectiondifferentlysway.com
 0.0.0.0 affec.tv
 0.0.0.0 affex.org
 0.0.0.0 afficent.com
@@ -3429,6 +3431,7 @@
 0.0.0.0 aionfavoura.club
 0.0.0.0 aiphotogram.club
 0.0.0.0 aipmedia.com
+0.0.0.0 aipofeem.net
 0.0.0.0 airairgu.com
 0.0.0.0 airartapt.site
 0.0.0.0 airdauks.net
@@ -4849,6 +4852,7 @@
 0.0.0.0 b6roqgi.com
 0.0.0.0 b7sw62.pingshu8.xyz
 0.0.0.0 b81x63nc.ws.md
+0.0.0.0 b83pmp.cn
 0.0.0.0 b84pharkhv.com
 0.0.0.0 b88c9bd1dcedfc3.com
 0.0.0.0 b8af8878e9a9565.com
@@ -5427,6 +5431,7 @@
 0.0.0.0 bestcasinopartner.com
 0.0.0.0 bestcond1tions.com
 0.0.0.0 bestcontentcompany.top
+0.0.0.0 bestcontentcost.top
 0.0.0.0 bestcontentfee.top
 0.0.0.0 bestcontentfood.top
 0.0.0.0 bestcontenthost.com
@@ -6262,6 +6267,7 @@
 0.0.0.0 bucketbean.com
 0.0.0.0 bucketsofbanners.com
 0.0.0.0 buckridge.link
+0.0.0.0 bucogrzbgyysen.com
 0.0.0.0 budaicius.com
 0.0.0.0 budgetedbauer.com
 0.0.0.0 budurl.com
@@ -6272,6 +6278,7 @@
 0.0.0.0 bugel.pronpic.org
 0.0.0.0 bugherd.com
 0.0.0.0 buglethemfouls.casa
+0.0.0.0 buhatfjrk9dje10eme.com
 0.0.0.0 buildhoodpip.club
 0.0.0.0 buildtrafficx.com
 0.0.0.0 builfico.de
@@ -8351,6 +8358,7 @@
 0.0.0.0 cryptoads.space
 0.0.0.0 crypto-loot.com
 0.0.0.0 cryptoloot.pro
+0.0.0.0 crypub.com
 0.0.0.0 crywl.com
 0.0.0.0 crzytm.com
 0.0.0.0 cs12d.com
@@ -11040,6 +11048,7 @@
 0.0.0.0 enzodpxuons.com
 0.0.0.0 eo62cocntx.com
 0.0.0.0 eondunpea.com
+0.0.0.0 eonsmedia.com
 0.0.0.0 eonwayaha.com
 0.0.0.0 eooslfyhziubo.com
 0.0.0.0 eopazyxdkppnz.com
@@ -13035,6 +13044,7 @@
 0.0.0.0 geovisite.com
 0.0.0.0 geo.xcel.io
 0.0.0.0 geo.yahoo.com
+0.0.0.0 geras-con.com
 0.0.0.0 gerberka.com
 0.0.0.0 gernewt.info
 0.0.0.0 gerpkshe.com
@@ -13390,6 +13400,7 @@
 0.0.0.0 gndrglsn.com
 0.0.0.0 gneusqa.cn
 0.0.0.0 gnezdo.ru
+0.0.0.0 gng5.cn
 0.0.0.0 gnmbd.top
 0.0.0.0 gnncc.cc
 0.0.0.0 gnorityari.club
@@ -13414,6 +13425,7 @@
 0.0.0.0 goadservices.com
 0.0.0.0 goallurl.ru
 0.0.0.0 goaltraffic.com
+0.0.0.0 go.alxbgo.com
 0.0.0.0 goatoode.net
 0.0.0.0 gobaiwhe.net
 0.0.0.0 gobali.cn
@@ -13539,6 +13551,7 @@
 0.0.0.0 goshooph.com
 0.0.0.0 gos-kanal.ru
 0.0.0.0 goslavispro.info
+0.0.0.0 go.smljmp.com
 0.0.0.0 gospecularavch.site
 0.0.0.0 gosquared.com
 0.0.0.0 gostats.com
@@ -13642,6 +13655,7 @@
 0.0.0.0 grandoads.com
 0.0.0.0 grandparen.club
 0.0.0.0 grandslammedia.com
+0.0.0.0 granevahu.pro
 0.0.0.0 graniteacquitcharacteristic.com
 0.0.0.0 granticaffodily.club
 0.0.0.0 grapefruitlifestyle.com
@@ -14152,6 +14166,7 @@
 0.0.0.0 hbhxqcw.com
 0.0.0.0 hbid.ams3.cdn.digitaloceanspaces.com
 0.0.0.0 hbihjeebhghcdeeeaef.ru
+0.0.0.0 hbkhqc.com
 0.0.0.0 hblanghun.cn
 0.0.0.0 hblinwei.com
 0.0.0.0 hbngfy.com
@@ -14249,6 +14264,7 @@
 0.0.0.0 hedthertsu.pro
 0.0.0.0 hedtronverhan.ru
 0.0.0.0 hedvid.com
+0.0.0.0 heedlessdessertchips.com
 0.0.0.0 heeevykjhujfy.com
 0.0.0.0 hegreeks.com
 0.0.0.0 hehongmei.top
@@ -15938,7 +15954,6 @@
 0.0.0.0 istrack.com
 0.0.0.0 ist-track.com
 0.0.0.0 isupopc.com
-0.0.0.0 i.syasn.com
 0.0.0.0 isyxabloojj.com
 0.0.0.0 iszqveznr.com
 0.0.0.0 it028.net.cn
@@ -17514,6 +17529,7 @@
 0.0.0.0 l5wt3.cn
 0.0.0.0 l7r0sgc0.top
 0.0.0.0 l8ea1nesmb0e.com
+0.0.0.0 l99l.org
 0.0.0.0 la1dwne9cn5c.com
 0.0.0.0 la61d.cn
 0.0.0.0 labadon.com
@@ -18980,6 +18996,7 @@
 0.0.0.0 mashionalkov.info
 0.0.0.0 mashtourgaunt.com
 0.0.0.0 maskbaby.com.cn
+0.0.0.0 masklink.org
 0.0.0.0 massessede.top
 0.0.0.0 massivemark.com
 0.0.0.0 ma-static.ru
@@ -23263,6 +23280,7 @@
 0.0.0.0 plufdsa.com
 0.0.0.0 plufdsb.com
 0.0.0.0 plugerr.com
+0.0.0.0 pluggednow.com
 0.0.0.0 plugin.management
 0.0.0.0 pluginsjquery.com
 0.0.0.0 plugin.ws
@@ -23569,6 +23587,7 @@
 0.0.0.0 poza-69.ru
 0.0.0.0 pozzitiv.ru
 0.0.0.0 pp9kk.com
+0.0.0.0 pp.awmplus.com
 0.0.0.0 ppbvmesssyacij.com
 0.0.0.0 ppcashpop.com
 0.0.0.0 ppc-direct.com
@@ -24192,6 +24211,7 @@
 0.0.0.0 pushs.site
 0.0.0.0 push-tools-system.com
 0.0.0.0 pushtora.com
+0.0.0.0 pushub.net
 0.0.0.0 pushup.space
 0.0.0.0 pushwelcome.com
 0.0.0.0 pushwhy.com
@@ -25790,6 +25810,7 @@
 0.0.0.0 rotaban.ru
 0.0.0.0 rotabetaffiliates.com
 0.0.0.0 rotate4all.com
+0.0.0.0 rotate5url.com
 0.0.0.0 rotation-context.ru
 0.0.0.0 rotator.onokino.club
 0.0.0.0 rotator.promokrot.com
@@ -27032,6 +27053,7 @@
 0.0.0.0 sicksmash.com
 0.0.0.0 sicteppojdwr.com
 0.0.0.0 sidebar.incest-porno.tv
+0.0.0.0 sidewaybeings.com
 0.0.0.0 siegemeg.com
 0.0.0.0 sielsmaats.com
 0.0.0.0 sierraclumsy.com
@@ -28500,6 +28522,7 @@
 0.0.0.0 summerlove4u.org
 0.0.0.0 summerobject.com
 0.0.0.0 summitemarketinganalytics.com
+0.0.0.0 sumofainstuff.com
 0.0.0.0 sumologic.com
 0.0.0.0 sunburgh.com
 0.0.0.0 sundayceremonytitanic.com
@@ -30949,6 +30972,7 @@
 0.0.0.0 umyijmhalvbk.com
 0.0.0.0 umyjigrlwxywqz.com
 0.0.0.0 un1.wayoulegal.com
+0.0.0.0 unacceptableclevercapable.com
 0.0.0.0 unads.ru
 0.0.0.0 unanimis.co.uk
 0.0.0.0 unarmedindustry.com
@@ -31036,6 +31060,7 @@
 0.0.0.0 unrummaged.com
 0.0.0.0 unrzhgdly.com
 0.0.0.0 unscrewing.ru
+0.0.0.0 unseen2020.com
 0.0.0.0 unskilledsqueakjunk.com
 0.0.0.0 untabilityde.site
 0.0.0.0 untidyquestion.com
@@ -32024,6 +32049,7 @@
 0.0.0.0 vpwlynobnnqg.com
 0.0.0.0 vpyrfomwel.com
 0.0.0.0 vq40567.com
+0.0.0.0 vq7736.com
 0.0.0.0 vqamufkhkin.com
 0.0.0.0 vqcilhkfwvks.com
 0.0.0.0 vqd51a5.biz.ua
@@ -32755,6 +32781,7 @@
 0.0.0.0 widget-view.dmm.com
 0.0.0.0 widget.yavli.com
 0.0.0.0 widget.zenback.jp
+0.0.0.0 widvffyokrmlkk.com
 0.0.0.0 wie9eig.top
 0.0.0.0 wiewsulznyncf.com
 0.0.0.0 wifelovers.com
@@ -34536,6 +34563,7 @@
 0.0.0.0 ywgjjhjay.com
 0.0.0.0 ywhnh.top
 0.0.0.0 ywjxsp168.cn
+0.0.0.0 ywqpgy.com
 0.0.0.0 ywqum.cn
 0.0.0.0 ywsjtstwevknlc.com
 0.0.0.0 ywtofulqxeqcvq.com
