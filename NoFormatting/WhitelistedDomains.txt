@@ -1,5 +1,6 @@
 adaway.org
 albert.apple.com
+alohasoftware.net
 amazon.com
 ancestry.com
 angularjs.org
@@ -23,6 +24,7 @@ configuration.apple.com
 content.jwplatform.com
 cookieblock.trackersimulate.org
 dailymotion.com
+data.nal.usda.gov
 db.tt
 dev.twitter.com
 discovery.com

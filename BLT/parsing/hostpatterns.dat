@@ -40,6 +40,7 @@ localhost$
 ^fe80::
 ^0.0.0.0 adaway.org$
 ^0.0.0.0 albert.apple.com$
+^0.0.0.0 alohasoftware.net$
 ^0.0.0.0 amazon.com$
 ^0.0.0.0 ancestry.com$
 ^0.0.0.0 angularjs.org$
@@ -63,6 +64,7 @@ localhost$
 ^0.0.0.0 content.jwplatform.com$
 ^0.0.0.0 cookieblock.trackersimulate.org$
 ^0.0.0.0 dailymotion.com$
+^0.0.0.0 data.nal.usda.gov$
 ^0.0.0.0 db.tt$
 ^0.0.0.0 dev.twitter.com$
 ^0.0.0.0 discovery.com$
