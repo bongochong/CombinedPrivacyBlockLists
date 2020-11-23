@@ -56,24 +56,24 @@ sed -i "s/# 127.0.1.1	PUT-YOUR-HOSTNAME-HERE-IF-YOU-WISH-THEN-UNCOMMENT-THIS-LIN
 echo "Inserted host name into hosts file templates."
 echo "..."
 read -r -p "Finally, would you like these tools to be automatically aliased in your bash configuration file, for easy launching? [y/N] " response
-	if [[ "$response" =~ ^([yY][eE][sS]|[yY])$ ]]
-		then
-			echo -e "\nalias blthosts='~/$file_dir/update-hosts.sh'" >> ~/.bashrc
-			echo "alias blthosts6='~/$file_dir/update-hosts-six.sh'" >> ~/.bashrc
-			echo "alias blthosts2='~/$file_dir/update-hosts-dual.sh'" >> ~/.bashrc
-			echo "alias bltpac='~/$file_dir/update-pac.sh'" >> ~/.bashrc
-			echo "alias bltdat='~/$file_dir/update-btdat.sh'" >> ~/.bashrc
-			echo "alias bltp2p='~/$file_dir/update-btp2p.sh'" >> ~/.bashrc
-			echo "Done! All BLT aliases begin with the term 'blt', and you may see them by"
-			echo " reloading bash, typing 'alias' into your console prompt, then hitting enter."
-			echo "..."
-			echo "In addition, if you wish to utilize all the scripts"
-			echo "Make sure that you have the following packages installed:"
-			echo "perl wget pcregrep curl p7zip-full or their equivalents"
-			echo "Enjoy!"
-			echo "..."
-		exit
-	else
+if [[ "$response" =~ ^([yY][eE][sS]|[yY])$ ]]
+then
+echo -e "\nalias blthosts='~/$file_dir/update-hosts.sh'" >> ~/.bashrc
+echo "alias blthosts6='~/$file_dir/update-hosts-six.sh'" >> ~/.bashrc
+echo "alias blthosts2='~/$file_dir/update-hosts-dual.sh'" >> ~/.bashrc
+echo "alias bltpac='~/$file_dir/update-pac.sh'" >> ~/.bashrc
+echo "alias bltdat='~/$file_dir/update-btdat.sh'" >> ~/.bashrc
+echo "alias bltp2p='~/$file_dir/update-btp2p.sh'" >> ~/.bashrc
+echo "Done! All BLT aliases begin with the term 'blt', and you may see them by"
+echo " reloading bash, typing 'alias' into your console prompt, then hitting enter."
+echo "..."
+echo "In addition, if you wish to utilize all the scripts"
+echo "Make sure that you have the following packages installed:"
+echo "perl wget pcregrep curl p7zip-full or their equivalents"
+echo "Enjoy!"
+echo "..."
+exit
+else
 echo "..."
 echo "Done! Run whichever script you like via sh or dot-slash."
 echo "..."
