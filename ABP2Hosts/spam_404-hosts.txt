@@ -1,4 +1,4 @@
-# Wed Nov 18 12:06:12 AM MST 2020
+# Tue Nov 24 01:50:44 PM MST 2020
 # Spam404 Hosts - Generated weekly by bongochong
 0.0.0.0 001www.com
 0.0.0.0 0daygameparadise.com
@@ -4625,6 +4625,7 @@
 0.0.0.0 iuploadfile.com
 0.0.0.0 iusacell-movil.com.mx
 0.0.0.0 iwatch-now.com
+0.0.0.0 ixware.co
 0.0.0.0 j890482.com
 0.0.0.0 jack.beautyspaguide.com
 0.0.0.0 jackpot-bets.com
@@ -4684,6 +4685,7 @@
 0.0.0.0 job4pals.biz
 0.0.0.0 joehacks.com
 0.0.0.0 joharmovies.net
+0.0.0.0 joker-dz.com
 0.0.0.0 jounlock.com
 0.0.0.0 jozmovie.xyz
 0.0.0.0 jquery-js.com
@@ -5435,6 +5437,7 @@
 0.0.0.0 mypsncodes.com
 0.0.0.0 myq-see.com
 0.0.0.0 myreff.com
+0.0.0.0 myshraidar.net
 0.0.0.0 myskinstrade.com
 0.0.0.0 mysoftwareplace.com
 0.0.0.0 mytrustfile.com
@@ -5599,7 +5602,6 @@
 0.0.0.0 obtenirxboxlivegratuit.com
 0.0.0.0 oceanshare.net
 0.0.0.0 octavian.su
-0.0.0.0 odindownload.com
 0.0.0.0 ofclans.com
 0.0.0.0 offerbroker.net
 0.0.0.0 office2013activatorkey.com
@@ -6445,6 +6447,7 @@
 0.0.0.0 secure-runescape.co
 0.0.0.0 secure-runescape.com
 0.0.0.0 security.system.ssl-verified.site
+0.0.0.0 sef7at.com
 0.0.0.0 sega-rom.com
 0.0.0.0 seizefile.co
 0.0.0.0 sekaze.ru
@@ -6717,6 +6720,7 @@
 0.0.0.0 smartupload.org
 0.0.0.0 smashfree.net
 0.0.0.0 smashingsports.co
+0.0.0.0 smikta.info
 0.0.0.0 smitegemsgiveaway.com
 0.0.0.0 sms-applecare.com
 0.0.0.0 smushgame.com
@@ -6733,6 +6737,7 @@
 0.0.0.0 snapexploit.com
 0.0.0.0 snaphack.net
 0.0.0.0 sniffb.com
+0.0.0.0 sniperdz.com
 0.0.0.0 sniperghostwarrior2.sharezips.info
 0.0.0.0 snipeskins.com
 0.0.0.0 snow-case.net

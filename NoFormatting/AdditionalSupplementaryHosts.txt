@@ -476,6 +476,7 @@
 0.0.0.0 admob.tk
 0.0.0.0 admob.tw
 0.0.0.0 admob.vn
+0.0.0.0 admob.xiaomi.com
 0.0.0.0 ad.mo.doubleclick.net
 0.0.0.0 ad.msn.com
 0.0.0.0 adnexus.net
@@ -530,8 +531,10 @@
 0.0.0.0 ads.linkedin.com
 0.0.0.0 ads.mdotm.com
 0.0.0.0 ads.mobclix.com
+0.0.0.0 ads.mojiva.com
 0.0.0.0 ads.mopub.com
 0.0.0.0 ads.mp.mydas.mobi
+0.0.0.0 adspaces.ero-advertising.com
 0.0.0.0 ads.pandora.tv.net
 0.0.0.0 ads-pt.spotify.com
 0.0.0.0 ads.pubmatic.com
@@ -1055,6 +1058,7 @@
 0.0.0.0 csk2014.info
 0.0.0.0 csk.ru
 0.0.0.0 cstrespsurvey.ca
+0.0.0.0 cst.wpu.sh
 0.0.0.0 ctlrnwbv.ru
 0.0.0.0 c.vserv.mobi
 0.0.0.0 cvt.mydas.mobi
@@ -1125,6 +1129,8 @@
 0.0.0.0 eip-tata.audio-ak.spotify.com.akahost.net
 0.0.0.0 encoding.ovh
 0.0.0.0 ermaseuc.ru
+0.0.0.0 ero-advertising.com
+0.0.0.0 er.spo.spotify.com
 0.0.0.0 espritensemble.com
 0.0.0.0 etacontent.com
 0.0.0.0 etahub.com
@@ -1408,10 +1414,12 @@
 0.0.0.0 indetiske.ya.ru
 0.0.0.0 ininmacerad.pro
 0.0.0.0 inleadership.co.nz
+0.0.0.0 inmobi.com
 0.0.0.0 inside.bitcomet.com
 0.0.0.0 intactoffers.club
 0.0.0.0 intouch.adinfuse.com
 0.0.0.0 i.w.inmobi.com
+0.0.0.0 jads.co
 0.0.0.0 japan.inmobi.com
 0.0.0.0 jqcdn01.herokuapp.com
 0.0.0.0 jqcdn03.herokuapp.com
@@ -1425,6 +1433,7 @@
 0.0.0.0 js.moatads.com
 0.0.0.0 js.nahnoji.cz
 0.0.0.0 js.vidoza.net
+0.0.0.0 juicyads.com
 0.0.0.0 jumptap.com
 0.0.0.0 jupiter.appads.com
 0.0.0.0 jurtym.cf
@@ -1681,6 +1690,7 @@
 0.0.0.0 pool.etn.spacepools.org
 0.0.0.0 pool.hws.ru
 0.0.0.0 post.update.wtag.adaptv.advertising.com
+0.0.0.0 poweredby.jads.co
 0.0.0.0 pr0gram.org
 0.0.0.0 premiumstats.xyz
 0.0.0.0 prg03s02-in-f110.1e100.net
@@ -1932,6 +1942,7 @@
 0.0.0.0 synconnector.com
 0.0.0.0 sync.rhythmxchange.com
 0.0.0.0 sync.search.spotxchange.com
+0.0.0.0 syndication.exosrv.com
 0.0.0.0 syndication.twitter.com
 0.0.0.0 tag.medialytics.com
 0.0.0.0 tags.bkrtx.com
@@ -1991,6 +2002,7 @@
 0.0.0.0 vid.applovin.com
 0.0.0.0 video.adaptv.advertising.com
 0.0.0.0 video-ad-stats.googlesyndication.com
+0.0.0.0 video-ak.cdn.spotify.com
 0.0.0.0 video-akp-cdn-spotify-com.akamaized.net
 0.0.0.0 video-fa-b.cdn.spotify.com
 0.0.0.0 video-fa.cdn.spotify.com
@@ -2030,6 +2042,7 @@
 0.0.0.0 worker.salon.com
 0.0.0.0 wpcdn1.herokuapp.com
 0.0.0.0 wp-monero-miner.de
+0.0.0.0 wpu.sh
 0.0.0.0 ws.bhzejltg.info
 0.0.0.0 ws.browsermine.com
 0.0.0.0 wsp.marketgid.com
@@ -2051,6 +2064,7 @@
 0.0.0.0 www.coinimp.net
 0.0.0.0 www.cryptonoter.com
 0.0.0.0 www.datasecu.download
+0.0.0.0 www.ero-advertising.com
 0.0.0.0 www.etzbnfuigipwvs.ru
 0.0.0.0 www.freecontent.bid
 0.0.0.0 www.freecontent.date
@@ -2101,6 +2115,7 @@
 0.0.0.0 www.jshosting.stream
 0.0.0.0 www.jshosting.trade
 0.0.0.0 www.jshosting.win
+0.0.0.0 www.juicyads.com
 0.0.0.0 www.lightminer.co
 0.0.0.0 www.mixpanel.com
 0.0.0.0 www.monero-miner.com

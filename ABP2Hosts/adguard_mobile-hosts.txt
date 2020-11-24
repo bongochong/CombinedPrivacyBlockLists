@@ -1,4 +1,4 @@
-# Wed Nov 18 12:05:15 AM MST 2020
+# Tue Nov 24 01:50:06 PM MST 2020
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -2156,7 +2156,6 @@
 0.0.0.0 aucollector.tealeaf.ibmcloud.com
 0.0.0.0 auction-load.unityads.unity3d.com
 0.0.0.0 auction.unityads.unity3d.com
-0.0.0.0 audible.sc.omtrdc.net
 0.0.0.0 audible.tt.omtrdc.net
 0.0.0.0 audience-164723144.us-east-1.elb.amazonaws.com
 0.0.0.0 audience.tapad.com
@@ -2192,7 +2191,6 @@
 0.0.0.0 avd.innity.net
 0.0.0.0 a.vertamedia.com
 0.0.0.0 a.vidora.com
-0.0.0.0 a.vnecdn.net
 0.0.0.0 avn.innity.com
 0.0.0.0 avocarrot.com
 0.0.0.0 avowtech.mobileadstrk.com
@@ -4362,7 +4360,31 @@
 0.0.0.0 flapi2.rubiconproject.com
 0.0.0.0 flash.doubleclick-analytics.com
 0.0.0.0 flashtalking.com.edgekey.net
+0.0.0.0 fls-cn.amazon.cn
+0.0.0.0 fls-cn.amazon.com
+0.0.0.0 fls.doubleclick.net
+0.0.0.0 fls-eu.amazon-adsystem.com
+0.0.0.0 fls-eu.amazon.ae
+0.0.0.0 fls-eu.amazon.com
+0.0.0.0 fls-eu.amazon.co.uk
+0.0.0.0 fls-eu.amazon.de
+0.0.0.0 fls-eu.amazon.es
+0.0.0.0 fls-eu.amazon.fr
+0.0.0.0 fls-eu.amazon.in
+0.0.0.0 fls-eu.amazon.it
+0.0.0.0 fls-eu.amazon.nl
+0.0.0.0 fls-eu.amazon.sa
+0.0.0.0 fls-eu.amazon.se
+0.0.0.0 fls-fe.amazon-adsystem.com
+0.0.0.0 fls-fe.amazon.co.jp
+0.0.0.0 fls-fe.amazon.com
+0.0.0.0 fls-fe.amazon.com.au
+0.0.0.0 fls-fe.amazon.sg
+0.0.0.0 fls-na.amazon-adsystem.com
+0.0.0.0 fls-na.amazon.ca
 0.0.0.0 fls-na.amazon.com
+0.0.0.0 fls-na.amazon.com.br
+0.0.0.0 fls-na.amazon.com.mx
 0.0.0.0 fls.unrulymedia.com
 0.0.0.0 fluentmobile.com
 0.0.0.0 fluid-adverts.localstars.com
@@ -9512,6 +9534,7 @@
 0.0.0.0 vcdn.media.innity.net
 0.0.0.0 v.cf.ssacdn.com
 0.0.0.0 vcm-match.dotomi.com
+0.0.0.0 v-collector.dp.aws.charter.com
 0.0.0.0 vcore.connatix.com
 0.0.0.0 vdapp.nend.net
 0.0.0.0 vdna.exelator.com
