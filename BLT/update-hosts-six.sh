@@ -40,16 +40,16 @@ echo "Parsing data..."
 cat hosts.* > hosts-cat.final
 sort hosts-cat.final | uniq | sed "s/#.*$//" | sed "/[[:space:]]*#/d" | sed "/[[:blank:]]*#/d" | sed "s/\t/ /g" | sed "s/^127.0.0.1/0.0.0.0/g" | sed "s/^::1/0.0.0.0/g" | sed "s/^::/0.0.0.0/g" | sed "s/[[:space:]]*$//" | sed "s/[[:blank:]]*$//" | sed "s/[[:space:]]\+/ /g" | sed "/^0.0.0.0 /! s/^/0.0.0.0 /" > hosts-pre.final
 pcregrep -v -f ~/BLT/parsing/hostpatterns.dat hosts-pre.final > uniq-hosts.final
-#Optional routine to check for and convert Unicode IDNs to Punycode
-#if [[ $(grep -P -n "[^\x00-\x7F]" uniq-hosts.final) ]]; then
-#    echo "Non-ASCII strings found in domains. Converting to Punycode..."
-#    grep -P -v "[^\x00-\x7F]" uniq-hosts.final | sed "s/0.0.0.0 //" > uniq-hosts-na.final
-#    grep -P "[^\x00-\x7F]" uniq-hosts.final | sed "s/0.0.0.0 //" | idn >> uniq-hosts-na.final
-#    sed -i "/^0.0.0.0 /! s/^/0.0.0.0 /" uniq-hosts-na.final
-#    rm -f uniq-hosts.final && mv uniq-hosts-na.final uniq-hosts.final
-#else
-#    echo "All domains are valid ASCII strings. Continuing compilation of lists..."
-#fi
+#Routine to check for and convert Unicode IDNs to Punycode
+if [[ $(grep -P -n "[^\x00-\x7F]" uniq-hosts.final) ]]; then
+    echo "Non-ASCII strings found in domains. Converting to Punycode..."
+    grep -P -v "[^\x00-\x7F]" uniq-hosts.final | sed "s/0.0.0.0 //" > uniq-hosts-na.final
+    grep -P "[^\x00-\x7F]" uniq-hosts.final | sed "s/0.0.0.0 //" | idn2 >> uniq-hosts-na.final
+    sed -i "/^0.0.0.0 /! s/^/0.0.0.0 /" uniq-hosts-na.final
+    rm -f uniq-hosts.final && mv uniq-hosts-na.final uniq-hosts.final
+else
+    echo "All domains are valid ASCII strings. Continuing compilation of lists..."
+fi
 #End of Unicode IDN to Punycode conversion routine
 sed -i -e '/0.0.0.0 device9.com/d' -e '/\^\document/d' -e '/\^/d' -e '/\*/d' -e '/\?/d' -e '/\//d' -e '/@/d' -e '/!/d' -e '/|/d' -e '/:/d' -e '/~/d' -e '/,/d' -e '/=/d' -e "s/\(.*\)/\L\1/" uniq-hosts.final
 sort uniq-hosts.final | uniq -i > final-uniq.hosts
