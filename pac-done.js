@@ -1,4 +1,4 @@
-// **** Tue Nov 24 01:56:39 PM MST 2020
+// **** Sat Nov 28 10:36:20 PM MST 2020
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -1531,6 +1531,7 @@ shExpMatch(host, '*.ad.watch.impress.co.jp') ||
 shExpMatch(host, '*.ad.wavu.hu') ||
 shExpMatch(host, '*.ad.way.cz') ||
 shExpMatch(host, '*.ad.weatherbug.com') ||
+shExpMatch(host, '*.adwebone.com') ||
 shExpMatch(host, '*.adwhirl.com') ||
 shExpMatch(host, '*.adwitserver.com') ||
 shExpMatch(host, '*.adwordsecommerce.com.br') ||
@@ -9492,7 +9493,6 @@ shExpMatch(host, '*.lqlonqihgkco.kwik.to') ||
 shExpMatch(host, '*.lsjrs.com') ||
 shExpMatch(host, '*.lsxswsgka.myfw.us') ||
 shExpMatch(host, '*.ltc-airdrop.org') ||
-shExpMatch(host, '*.ltmastos.com') ||
 shExpMatch(host, '*.lubov.co.il') ||
 shExpMatch(host, '*.lucidmedia.com') ||
 shExpMatch(host, '*.lucklayed.info') ||
@@ -9544,6 +9544,7 @@ shExpMatch(host, '*.maddennfl13.sharezips.info') ||
 shExpMatch(host, '*.maddennfl25.sharezips.info') ||
 shExpMatch(host, '*.mad.excellentmovies.net') ||
 shExpMatch(host, '*.madgeniusreview.com') ||
+shExpMatch(host, '*.madinad.com') ||
 shExpMatch(host, '*.madisonavenue.com') ||
 shExpMatch(host, '*.mads.aol.com') ||
 shExpMatch(host, '*.mads.cnet.com') ||
@@ -11442,7 +11443,6 @@ shExpMatch(host, '*.postback.iqm.com') ||
 shExpMatch(host, '*.postfolkovs.ru') ||
 shExpMatch(host, '*.postrelease.com') ||
 shExpMatch(host, '*.post.spmailtechno.com') ||
-shExpMatch(host, '*.posumeads.com') ||
 shExpMatch(host, '*.potenza.cz') ||
 shExpMatch(host, '*.powerfulcheats.com') ||
 shExpMatch(host, '*.powerfulhacks.com') ||
@@ -12021,6 +12021,7 @@ shExpMatch(host, '*.regis.foultier.free.fr') ||
 shExpMatch(host, '*.registry-fix-softwares.com') ||
 shExpMatch(host, '*.reglasti.com') ||
 shExpMatch(host, '*.regnow.com') ||
+shExpMatch(host, '*.regularplants.com') ||
 shExpMatch(host, '*.rehyejereeeefh.bij.pl') ||
 shExpMatch(host, '*.reimageplus.com') ||
 shExpMatch(host, '*.reinvigorate.net') ||
@@ -14394,7 +14395,6 @@ shExpMatch(host, '*.unitedsol.net') ||
 shExpMatch(host, '*.unityhack.com') ||
 shExpMatch(host, '*.unityhacks.zone') ||
 shExpMatch(host, '*.universalhack.net') ||
-shExpMatch(host, '*.universcine.com') ||
 shExpMatch(host, '*.universehacks.com') ||
 shExpMatch(host, '*.universeofhacks.com') ||
 shExpMatch(host, '*.universithacker.com') ||
@@ -17204,6 +17204,7 @@ shExpMatch(host, 'ad.watch.impress.co.jp') ||
 shExpMatch(host, 'ad.wavu.hu') ||
 shExpMatch(host, 'ad.way.cz') ||
 shExpMatch(host, 'ad.weatherbug.com') ||
+shExpMatch(host, 'adwebone.com') ||
 shExpMatch(host, 'adwhirl.com') ||
 shExpMatch(host, 'adwitserver.com') ||
 shExpMatch(host, 'adwordsecommerce.com.br') ||
@@ -25165,7 +25166,6 @@ shExpMatch(host, 'lqlonqihgkco.kwik.to') ||
 shExpMatch(host, 'lsjrs.com') ||
 shExpMatch(host, 'lsxswsgka.myfw.us') ||
 shExpMatch(host, 'ltc-airdrop.org') ||
-shExpMatch(host, 'ltmastos.com') ||
 shExpMatch(host, 'lubov.co.il') ||
 shExpMatch(host, 'lucidmedia.com') ||
 shExpMatch(host, 'lucklayed.info') ||
@@ -25217,6 +25217,7 @@ shExpMatch(host, 'maddennfl13.sharezips.info') ||
 shExpMatch(host, 'maddennfl25.sharezips.info') ||
 shExpMatch(host, 'mad.excellentmovies.net') ||
 shExpMatch(host, 'madgeniusreview.com') ||
+shExpMatch(host, 'madinad.com') ||
 shExpMatch(host, 'madisonavenue.com') ||
 shExpMatch(host, 'mads.aol.com') ||
 shExpMatch(host, 'mads.cnet.com') ||
@@ -27115,7 +27116,6 @@ shExpMatch(host, 'postback.iqm.com') ||
 shExpMatch(host, 'postfolkovs.ru') ||
 shExpMatch(host, 'postrelease.com') ||
 shExpMatch(host, 'post.spmailtechno.com') ||
-shExpMatch(host, 'posumeads.com') ||
 shExpMatch(host, 'potenza.cz') ||
 shExpMatch(host, 'powerfulcheats.com') ||
 shExpMatch(host, 'powerfulhacks.com') ||
@@ -27694,6 +27694,7 @@ shExpMatch(host, 'regis.foultier.free.fr') ||
 shExpMatch(host, 'registry-fix-softwares.com') ||
 shExpMatch(host, 'reglasti.com') ||
 shExpMatch(host, 'regnow.com') ||
+shExpMatch(host, 'regularplants.com') ||
 shExpMatch(host, 'rehyejereeeefh.bij.pl') ||
 shExpMatch(host, 'reimageplus.com') ||
 shExpMatch(host, 'reinvigorate.net') ||
@@ -30067,7 +30068,6 @@ shExpMatch(host, 'unitedsol.net') ||
 shExpMatch(host, 'unityhack.com') ||
 shExpMatch(host, 'unityhacks.zone') ||
 shExpMatch(host, 'universalhack.net') ||
-shExpMatch(host, 'universcine.com') ||
 shExpMatch(host, 'universehacks.com') ||
 shExpMatch(host, 'universeofhacks.com') ||
 shExpMatch(host, 'universithacker.com') ||
