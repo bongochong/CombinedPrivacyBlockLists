@@ -26,15 +26,15 @@ Paste the following in your terminal and hit enter:
 `wget -nv -O ~/cpbl-installer.sh "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/cpbl-installer.sh" && chmod +x ~/cpbl-installer.sh && sh ~/cpbl-installer.sh && rm ~/cpbl-installer.sh`  
 Donezo. Now you have all the utilities. You can also use this one liner to update the scripts with the latest versions from this repository, whenever you wish.  
   
-**Checklist for normal use**:
+**Checklist for normal installation**:
 1. Download the installer [from this link](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/cpbl-installer.sh).
 2. Ensure the installer is executable (either via your file manager or `chmod +x cpbl-installer.sh` in a terminal).
 3. Run the installer (with `./cpbl-installer.sh` or `sh cpbl-installer.sh` in a terminal).
 4. Input your chosen install location at the prompt.
 5. Enjoy using the utilities to keep your block lists and hosts file up-to-date.
   
-**Checklist for manual use**:
-1. Ensure that all content herein is placed within a single folder named *BLT*, housed within your home/user directory (~/BLT).
+**Checklist for manual installation**:
+1. Clone this repo and move the *BLT* folder within, to your user home directory (~/BLT).
 2. Open a terminal in or `cd` to the aforementioned directory.
 3. Launch any of the scripts you desire.
 4. Watch the output of the script(s).
