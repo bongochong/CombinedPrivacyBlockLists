@@ -13,7 +13,7 @@ The [update-hosts.sh](https://github.com/bongochong/CombinedPrivacyBlockLists/bl
 **Notes**:
 - You can whitelist additional domains via appending them to the end of the `hostpatterns.dat` file, which is housed in the `parsing` subdirectory of the utilities. Each whitelisted domain must be preceded by `^0.0.0.0 ` and followed by `$`, just like the preconfigured whitelisted items.
 
-- You can blacklist additional domains via appending them to the relavant `newhosts` template files in the aforementioned `parsing` directory. Each additional blacklist entry must be preceded by `0.0.0.0 ` and/or `::`.
+- You can blacklist additional domains via appending them to the relavant `newhosts` template files in the aforementioned `parsing` directory. Each additional blacklist entry must be preceded by `0.0.0.0 `  and/or  `::`.
 
 - If you deviate from the checklist then you are being dumb. This does not apply if you are modifying the files as opposed to using them as is.
 
