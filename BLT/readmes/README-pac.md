@@ -5,3 +5,6 @@ The [update-pac.sh file](https://github.com/bongochong/CombinedPrivacyBlockLists
 This script only processes **plain domain lists** like the default ones included.  
 
 The Windows version of this can be found here: https://github.com/bongochong/CWP-Utilities
+
+**Notes**:
+- You can whitelist additional domains via appending them to the end of the `hostpatterns.dat` file, which is housed in the `parsing` subdirectory of the utilities. Each whitelisted domain must be preceded by `^0.0.0.0 ` and followed by `$`, just like the preconfigured whitelisted items.
