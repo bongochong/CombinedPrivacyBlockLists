@@ -12,4 +12,4 @@ The [update-btp2p.sh script](https://github.com/bongochong/CombinedPrivacyBlockL
 
 
 **Notes**:
-- If you deviate from the checklist then you are being dumb. This does not apply if you are modifying the files as opposed to using them as is.
+- If you don't know what you are doing and you deviate from the instructions, then you are being dumb.
