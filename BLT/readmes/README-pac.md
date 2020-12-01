@@ -7,4 +7,6 @@ The [update-pac.sh file](https://github.com/bongochong/CombinedPrivacyBlockLists
 
 - Domain list subscriptions can be modified directly in the script itself. All of them are prepended with the `wget` command. You may add and remove whatever sources you wish.
 
+- If you don't know what you are doing and you deviate from the instructions, then you are being dumb.
+
 - The Windows version of this can be found here: https://github.com/bongochong/CWP-Utilities
