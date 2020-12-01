@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mini CPBL Filters for ABP & uBO
-! Updated: Mon Nov 30 10:51:42 PM MST 2020
+! Updated: Tue Dec 1 04:07:48 AM MST 2020
 ! Expires: 7 Days
 ! License: https://git.io/JTTLW
 ! Homepage: https://git.io/JTTLB
@@ -48,6 +48,7 @@
 ||0351dvd.cn^
 ||039ad0897e6da.com^
 ||039e377h3b.com^
+||03a1414e1c.com^
 ||0413fsiuhwem.xyz^
 ||0420zvnmljgfdsa.xyz^
 ||04426f8b7ce9b069431.com^
@@ -6058,6 +6059,7 @@
 ||api.leadpages.io^
 ||api.locallogic.co^
 ||api.locately.com^
+||api-location-prd.pelcro.com^
 ||api.locuslabs.com^
 ||api-log-analytics.cloud.toast.com^
 ||api-log.immomo.com^
@@ -6445,6 +6447,7 @@
 ||arthurkade.com^
 ||arthwhilearthu.info^
 ||artificialgrasslive.online^
+||artisticdisgraceevidently.com^
 ||artmaxim.ru^
 ||artneesrparkete.info^
 ||artoninvoicing.com^
@@ -6590,6 +6593,7 @@
 ||assumptivestation.com^
 ||assurancemercysneak.com^
 ||assuremath.com^
+||astancerta.fun^
 ||a-static.com^
 ||astat.nikkei.com^
 ||asteriresearch.com^
@@ -7552,6 +7556,7 @@
 ||bcuuipewdz.com^
 ||bc.vc^
 ||bcvrczvqlm.com^
+||bcvutcks.com^
 ||bcvxpffzmkqf.com^
 ||bd100.010lm.com^
 ||bd11.nipic.com^
@@ -12091,6 +12096,7 @@
 ||d26c6kzavi5zwd.cloudfront.net^
 ||d27jk9dqha8met.cloudfront.net^
 ||d27tpsznug51gz.cloudfront.net^
+||d2850fafeb7.com^
 ||d28g9g3vb08y70.cloudfront.net^
 ||d29dbajta0the9.cloudfront.net^
 ||d29i6o40xcgdai.cloudfront.net^
@@ -12277,6 +12283,7 @@
 ||d71e6dd31a026d45.com^
 ||d72gb9oukw3j.com^
 ||d72l4.com^
+||d77685035ab.com^
 ||d7921da5d4c24.com^
 ||d7dza8s7j2am6.cloudfront.net^
 ||d7e10fa2099.com^
@@ -13560,6 +13567,7 @@
 ||dreamrecord.cn^
 ||dredkcyex.com^
 ||dregardianfl.site^
+||dressuresl.top^
 ||drevozone.com.cn^
 ||dreyeli.info^
 ||drf8e429z5jzt.cloudfront.net^
@@ -29205,6 +29213,7 @@
 ||pricejs.net^
 ||pricelist.skype.com^
 ||pricessmall.com^
+||pricestern.top^
 ||pricora.com^
 ||prieseerunbe.info^
 ||priesty.com^
@@ -30147,6 +30156,7 @@
 ||qpljfpwdpk.com^
 ||qpmue.xyz^
 ||qpokok.com^
+||qptqoylpxmqbz.com^
 ||qq4g.cn^
 ||qqatxipoki.com^
 ||qqdalrqzvukzto.com^
@@ -32046,6 +32056,7 @@
 ||sat.sanoma.fi^
 ||saturalerdax.site^
 ||saturalolk.club^
+||saturdayloathe.com^
 ||sauaopmdesyysa.com^
 ||saub27i3os.com^
 ||sauceheirloom.com^
@@ -33711,6 +33722,7 @@
 ||sparnove.com^
 ||spasbatwit.icu^
 ||spattermutiny.com^
+||spaung.cn^
 ||sp.azcentral.com^
 ||sp.battlecreekenquirer.com^
 ||sp.baxterbulletin.com^
@@ -37323,6 +37335,7 @@
 ||truex.com^
 ||trugaze.io^
 ||trulove.guru^
+||trulytonic.com^
 ||trumpia.com^
 ||trumsango.com.vn^
 ||truoptik.com^
