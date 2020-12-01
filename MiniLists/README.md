@@ -1,6 +1,6 @@
 # Miniature Combined Privacy Block Lists
   
-**Description**
+**You have found CPBL-Mini**
   
 These are the *mini* editions of my block lists, for less capable devices. Here, you will find significantly slimmed-down versions of the [standard hosts file](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts.hosts); the [IPv6-only hosts file](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts-IPv6.hosts); the [dual stack hosts file](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-newhosts-Dual.hosts); the [standard optimized Windows hosts file](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/NoFormatting/mini-opt-win.hosts); the [dual stack optimized Windows hosts file](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/NoFormatting/mini-opt-win-Dual.hosts), and the [PAC filter](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/mini-pac-done.js).
   
