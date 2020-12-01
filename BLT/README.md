@@ -41,6 +41,8 @@ Donezo. Now you have all the utilities. You can also use this one liner to updat
 5. Run the script(s) as often as you like to keep your block lists up-to-date.  
   
 **Notes**:
-- If you deviate from either of the checklists then you are being dumb. This does not apply if you know what you are doing.
 - There are [additional README files](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/BLT/readmes) for each utility, should you wish to inspect them.
+
+- If you deviate from either of the checklists then you are being dumb. This does not apply if you know what you are doing.
+
 - The Windows versions of these scripts (combined into a unified interface) can be found here: https://github.com/bongochong/CWP-Utilities
