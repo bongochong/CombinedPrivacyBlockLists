@@ -1,13 +1,12 @@
 The [update-hosts.sh](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/update-hosts.sh), [update-hosts-dual.sh](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/update-hosts-dual.sh), and [update-hosts-six.sh](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/update-hosts-six.sh) scripts are meant to automate the process of creating and updating your computer's hosts file on GNU/Linux and other Unix-like Operating Systems (like OS X).
 
 **Checklist for use**:
-1. Ensure that [all relevant files](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/BLT) are downloaded to a single directory.
-2. Make sure that you have [`pcre (or pcre2 or pcregrep)`](https://www.pcre.org/), [`perl`](https://www.perl.com/about/), and [`wget`](https://www.gnu.org/software/wget/) installed on your system, along with [`idn2 (or idn)`](https://linux.die.net/man/1/idn) if you wish to use the commented out routine in the scripts for handling Unicode internationalized domains.
-3. Open a terminal in or `cd` to the aforementioned directory.
-4. Launch the script (`sh update-hosts.sh` should do).
-5. Watch the output of the script.
-6. Run the script as often as you like to keep your hosts file up to date.
-7. Enjoy the magic of having a comprehensive and up-to-date hosts file which protects you from online trackers, advertisements, and exploits.
+1. Make sure that you have [`pcre (or pcre2 or pcregrep)`](https://www.pcre.org/), [`perl`](https://www.perl.com/about/), and [`wget`](https://www.gnu.org/software/wget/) installed on your system, along with [`idn2 (or idn)`](https://linux.die.net/man/1/idn) if you wish to use the commented out routine in the scripts for handling Unicode internationalized domains.
+2. Open a terminal in or `cd` to the aforementioned directory.
+3. Launch the script (`sh update-hosts.sh` should do).
+4. Watch the output of the script.
+5. Run the script as often as you like to keep your hosts file up to date.
+6. Enjoy the magic of having a comprehensive and up-to-date hosts file which protects you from online trackers, advertisements, and exploits.
 
 
 **Notes**:
