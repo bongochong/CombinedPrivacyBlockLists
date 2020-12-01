@@ -1,4 +1,4 @@
-# Mon Nov 30 08:32:06 PM MST 2020
+# Tue Dec  1 03:51:20 AM MST 2020
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -37,6 +37,7 @@
 0.0.0.0 0351dvd.cn
 0.0.0.0 039ad0897e6da.com
 0.0.0.0 039e377h3b.com
+0.0.0.0 03a1414e1c.com
 0.0.0.0 0413fsiuhwem.xyz
 0.0.0.0 0420zvnmljgfdsa.xyz
 0.0.0.0 04426f8b7ce9b069431.com
@@ -3714,6 +3715,7 @@
 0.0.0.0 apicloud.ru
 0.0.0.0 api.inwemo.com
 0.0.0.0 api-keks.com
+0.0.0.0 api-location-prd.pelcro.com
 0.0.0.0 api.nobeta.com.br
 0.0.0.0 apiskywebbercom-a.akamaihd.net
 0.0.0.0 api.smartadv.ru
@@ -3897,6 +3899,7 @@
 0.0.0.0 art-family.pro
 0.0.0.0 artfut.com
 0.0.0.0 arthwhilearthu.info
+0.0.0.0 artisticdisgraceevidently.com
 0.0.0.0 artmaxim.ru
 0.0.0.0 artneesrparkete.info
 0.0.0.0 artpever.com
@@ -3997,6 +4000,7 @@
 0.0.0.0 assumptivestation.com
 0.0.0.0 assurancemercysneak.com
 0.0.0.0 assuremath.com
+0.0.0.0 astancerta.fun
 0.0.0.0 a-static.com
 0.0.0.0 astat.nikkei.com
 0.0.0.0 asteriresearch.com
@@ -4643,6 +4647,7 @@
 0.0.0.0 bcunr.com
 0.0.0.0 bcuuipewdz.com
 0.0.0.0 bcvrczvqlm.com
+0.0.0.0 bcvutcks.com
 0.0.0.0 bcvxpffzmkqf.com
 0.0.0.0 bd100.010lm.com
 0.0.0.0 bd11.nipic.com
@@ -7993,6 +7998,7 @@
 0.0.0.0 d261u4g5nqprix.cloudfront.net
 0.0.0.0 d26c6kzavi5zwd.cloudfront.net
 0.0.0.0 d27jk9dqha8met.cloudfront.net
+0.0.0.0 d2850fafeb7.com
 0.0.0.0 d28g9g3vb08y70.cloudfront.net
 0.0.0.0 d29dbajta0the9.cloudfront.net
 0.0.0.0 d29i6o40xcgdai.cloudfront.net
@@ -8171,6 +8177,7 @@
 0.0.0.0 d71e6dd31a026d45.com
 0.0.0.0 d72gb9oukw3j.com
 0.0.0.0 d72l4.com
+0.0.0.0 d77685035ab.com
 0.0.0.0 d7921da5d4c24.com
 0.0.0.0 d7dza8s7j2am6.cloudfront.net
 0.0.0.0 d7e10fa2099.com
@@ -9200,6 +9207,7 @@
 0.0.0.0 dreamrecord.cn
 0.0.0.0 dredkcyex.com
 0.0.0.0 dregardianfl.site
+0.0.0.0 dressuresl.top
 0.0.0.0 drevozone.com.cn
 0.0.0.0 dreyeli.info
 0.0.0.0 drf8e429z5jzt.cloudfront.net
@@ -21667,6 +21675,7 @@
 0.0.0.0 pricejs.info
 0.0.0.0 pricejs.net
 0.0.0.0 pricessmall.com
+0.0.0.0 pricestern.top
 0.0.0.0 pricora.com
 0.0.0.0 prieseerunbe.info
 0.0.0.0 priesty.com
@@ -22456,6 +22465,7 @@
 0.0.0.0 qpljfpwdpk.com
 0.0.0.0 qpmue.xyz
 0.0.0.0 qpokok.com
+0.0.0.0 qptqoylpxmqbz.com
 0.0.0.0 qq4g.cn
 0.0.0.0 qqatxipoki.com
 0.0.0.0 qqdalrqzvukzto.com
@@ -23986,6 +23996,7 @@
 0.0.0.0 sat.sanoma.fi
 0.0.0.0 saturalerdax.site
 0.0.0.0 saturalolk.club
+0.0.0.0 saturdayloathe.com
 0.0.0.0 sauaopmdesyysa.com
 0.0.0.0 saub27i3os.com
 0.0.0.0 sauceheirloom.com
@@ -25178,6 +25189,7 @@
 0.0.0.0 sparnove.com
 0.0.0.0 spasbatwit.icu
 0.0.0.0 spattermutiny.com
+0.0.0.0 spaung.cn
 0.0.0.0 sp.azcentral.com
 0.0.0.0 sp.battlecreekenquirer.com
 0.0.0.0 sp.baxterbulletin.com
@@ -27918,6 +27930,7 @@
 0.0.0.0 truesweb.com
 0.0.0.0 truex.com
 0.0.0.0 trugaze.io
+0.0.0.0 trulytonic.com
 0.0.0.0 truoptik.com
 0.0.0.0 trustaffs.com
 0.0.0.0 trusted-click-host.com
