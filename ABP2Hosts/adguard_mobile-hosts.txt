@@ -1,4 +1,4 @@
-# Tue Dec  1 03:50:53 AM MST 2020
+# Wed Dec  2 03:29:17 PM MST 2020
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -1641,7 +1641,6 @@
 0.0.0.0 apinas.nct.vn
 0.0.0.0 api.native.ai
 0.0.0.0 api.newsfeed.intl.miui.com
-0.0.0.0 api.nicovideo.jp
 0.0.0.0 api.ning.com
 0.0.0.0 api.nrelate.com
 0.0.0.0 api.omniture.com
@@ -7076,7 +7075,6 @@
 0.0.0.0 pub.funshion.com
 0.0.0.0 pubgalaxy-d.openx.net
 0.0.0.0 pub.lavanetwork.net
-0.0.0.0 public.api.nicovideo.jp
 0.0.0.0 public-webservice.apdc1n.adpushup.com
 0.0.0.0 public-webservice.apdc3n.adpushup.com
 0.0.0.0 public-webservice.geo.adpushup.com
@@ -9400,6 +9398,7 @@
 0.0.0.0 userstats.shopee.vn
 0.0.0.0 use-tor.adsrvr.org
 0.0.0.0 use-va1.adsrvr.org
+0.0.0.0 us-events.api.iheart.com
 0.0.0.0 us-gmtdmp.mookie1.com
 0.0.0.0 ush.adspecs.yahoo.com
 0.0.0.0 us.iad.legacy.dotomi.weighted.com.akadns.net
@@ -9416,6 +9415,7 @@
 0.0.0.0 us-sync.taboola.com
 0.0.0.0 ustat.batmobi.net
 0.0.0.0 us-tracking.dyntrk.com
+0.0.0.0 us-tracking.nextdoor.com
 0.0.0.0 us-u.openx.net
 0.0.0.0 u.superadbox.com
 0.0.0.0 us-vid-events.taboola.com

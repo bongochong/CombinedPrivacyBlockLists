@@ -1,4 +1,4 @@
-# Tue Dec  1 03:51:20 AM MST 2020
+# Wed Dec  2 03:29:46 PM MST 2020
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -1459,6 +1459,7 @@
 0.0.0.0 a5e04df959f1af34.com
 0.0.0.0 a5e2773db8a5.com
 0.0.0.0 a63t9o1azf.com
+0.0.0.0 a67z.com
 0.0.0.0 a69ee4fa50dc3.com
 0.0.0.0 a6be07586bc4a7.com
 0.0.0.0 a6f845e6c37b2833148.com
@@ -3133,6 +3134,7 @@
 0.0.0.0 alcmpn.com
 0.0.0.0 alconbeatsi.club
 0.0.0.0 alcreasalcon.info
+0.0.0.0 alcroconawa.com
 0.0.0.0 alcularreless.club
 0.0.0.0 alcvid.com
 0.0.0.0 aleaidass.site
@@ -8229,6 +8231,7 @@
 0.0.0.0 daffices.com
 0.0.0.0 dafficha.com
 0.0.0.0 dagasaka.com
+0.0.0.0 dagonghuzhu.com
 0.0.0.0 dah0ooy4doe.info
 0.0.0.0 dahanedu.com
 0.0.0.0 dai18.mumu01.com
@@ -8760,6 +8763,7 @@
 0.0.0.0 dilcn.net
 0.0.0.0 dildo.tnaflix.com
 0.0.0.0 dilidd.com
+0.0.0.0 dilqdiw.cn
 0.0.0.0 dilruwha.net
 0.0.0.0 dilutercelebraltygu.info
 0.0.0.0 dimessing-parker.com
@@ -11023,6 +11027,7 @@
 0.0.0.0 fifoyegflivpk.com
 0.0.0.0 fifteenprefixselfemployed.com
 0.0.0.0 fiieresmi.ru
+0.0.0.0 fijipic.xyz
 0.0.0.0 fiksu.com
 0.0.0.0 filamentrectificationsetback.com
 0.0.0.0 filament-stats.herokuapp.com
@@ -13450,6 +13455,7 @@
 0.0.0.0 hondajd.cn
 0.0.0.0 honeycshfferufrew.com
 0.0.0.0 honeymaria.com
+0.0.0.0 honfleurisez.xyz
 0.0.0.0 hongchenzhilu.com
 0.0.0.0 hongdianshijue.com
 0.0.0.0 hongshikai.com
@@ -14963,6 +14969,7 @@
 0.0.0.0 jiankongbao.com
 0.0.0.0 jianmei123.com
 0.0.0.0 jianpian.vip
+0.0.0.0 jianxinshanghai.com
 0.0.0.0 jianyousj.com
 0.0.0.0 jianzhanxx.me
 0.0.0.0 jiaoben.eastday.com
@@ -22203,6 +22210,7 @@
 0.0.0.0 p.yotpo.com
 0.0.0.0 pypkrvtepsha.com
 0.0.0.0 pyqsbuaeqiku.com
+0.0.0.0 pyroguanites.xyz
 0.0.0.0 pyxjwks.com
 0.0.0.0 pyzkbxspoon.com
 0.0.0.0 pyzkk.com
@@ -23046,6 +23054,7 @@
 0.0.0.0 reitingi.lv
 0.0.0.0 rejectfairies.com
 0.0.0.0 rejestr.org
+0.0.0.0 rejouassions.xyz
 0.0.0.0 rekanw.com
 0.0.0.0 reklama-cluster.tut.by
 0.0.0.0 reklamadarom.com
@@ -23520,6 +23529,7 @@
 0.0.0.0 roogrujy.net
 0.0.0.0 roosterfirework.com
 0.0.0.0 roostsflewcat.cam
+0.0.0.0 root85.com
 0.0.0.0 rootinmyhead.ru
 0.0.0.0 root.qw.su
 0.0.0.0 rootstood.club
@@ -26665,6 +26675,7 @@
 0.0.0.0 terapou.com
 0.0.0.0 tercept.com
 0.0.0.0 terdaywe.top
+0.0.0.0 terephtalate.xyz
 0.0.0.0 terethat.ru
 0.0.0.0 terialexperi.top
 0.0.0.0 terialnevitiesini.info
@@ -29868,6 +29879,7 @@
 0.0.0.0 wegetpaid.net
 0.0.0.0 wegotmedia.com
 0.0.0.0 wehoysp.cn
+0.0.0.0 weifengtianxia.com
 0.0.0.0 weiguanwang888.com
 0.0.0.0 weihuiyungou.com
 0.0.0.0 weiiii.com
@@ -31136,6 +31148,8 @@
 0.0.0.0 yanbenji.cn
 0.0.0.0 yandepit.com
 0.0.0.0 yanderthundr.fun
+0.0.0.0 yandex-news.naydex.net
+0.0.0.0 yandex-pogoda.naydex.net
 0.0.0.0 yangdasen.cn
 0.0.0.0 yanglaopt.net
 0.0.0.0 yangot.com

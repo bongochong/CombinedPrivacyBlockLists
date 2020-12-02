@@ -1,4 +1,4 @@
-# Tue Dec  1 03:51:08 AM MST 2020
+# Wed Dec  2 03:29:32 PM MST 2020
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -1482,6 +1482,7 @@
 0.0.0.0 a5e04df959f1af34.com
 0.0.0.0 a5e2773db8a5.com
 0.0.0.0 a63t9o1azf.com
+0.0.0.0 a67z.com
 0.0.0.0 a69ee4fa50dc3.com
 0.0.0.0 a6be07586bc4a7.com
 0.0.0.0 a6f845e6c37b2833148.com
@@ -3847,6 +3848,7 @@
 0.0.0.0 analytics.artirix.com
 0.0.0.0 analytics.audioeye.com
 0.0.0.0 analytics.aweber.com
+0.0.0.0 analytics.bi.encuentra24.com
 0.0.0.0 analytics.bloomberg.com
 0.0.0.0 analytics.blue
 0.0.0.0 analytics.brave.com
@@ -9147,6 +9149,7 @@
 0.0.0.0 d-agency.net
 0.0.0.0 daghashmal.com
 0.0.0.0 dagnar.com
+0.0.0.0 dagonghuzhu.com
 0.0.0.0 dah0ooy4doe.info
 0.0.0.0 dahanedu.com
 0.0.0.0 dai0eej.bid
@@ -9726,6 +9729,7 @@
 0.0.0.0 dilcn.net
 0.0.0.0 dildo.tnaflix.com
 0.0.0.0 dilidd.com
+0.0.0.0 dilqdiw.cn
 0.0.0.0 dilruwha.net
 0.0.0.0 dilutercelebraltygu.info
 0.0.0.0 dimessing-parker.com
@@ -10027,6 +10031,7 @@
 0.0.0.0 dochase.com
 0.0.0.0 docksalmon.com
 0.0.0.0 doclix.com
+0.0.0.0 docodoco.jp
 0.0.0.0 docols.net
 0.0.0.0 docqacvwhgbxv.com
 0.0.0.0 doctorsh.ru
@@ -12156,6 +12161,7 @@
 0.0.0.0 fifoyegflivpk.com
 0.0.0.0 fifteenprefixselfemployed.com
 0.0.0.0 fifwin.com
+0.0.0.0 fijipic.xyz
 0.0.0.0 fiksu.com
 0.0.0.0 filadmir.site
 0.0.0.0 filamentrectificationsetback.com
@@ -14826,6 +14832,7 @@
 0.0.0.0 honeycshfferufrew.com
 0.0.0.0 honeygoldfish.com
 0.0.0.0 honeymaria.com
+0.0.0.0 honfleurisez.xyz
 0.0.0.0 hongchenzhilu.com
 0.0.0.0 hongdianshijue.com
 0.0.0.0 hongjiujiaoyi.com
@@ -16502,6 +16509,7 @@
 0.0.0.0 jiangmg.com
 0.0.0.0 jiankongbao.com
 0.0.0.0 jianmei123.com
+0.0.0.0 jianxinshanghai.com
 0.0.0.0 jianyousj.com
 0.0.0.0 jianzhanxx.me
 0.0.0.0 jiaoben.eastday.com
@@ -19588,6 +19596,7 @@
 0.0.0.0 memorizeneck.com
 0.0.0.0 memorycobweb.com
 0.0.0.0 memsyndazra.com
+0.0.0.0 memtkh.com
 0.0.0.0 menagexbqhxf.com
 0.0.0.0 mendoc.cn
 0.0.0.0 mendprayer.com
@@ -19791,6 +19800,7 @@
 0.0.0.0 midootib.net
 0.0.0.0 miegpokitjxm.com
 0.0.0.0 mierdydkqvpgno.com
+0.0.0.0 mieru-ca.com
 0.0.0.0 mieyisi.com
 0.0.0.0 mifxolavi.com
 0.0.0.0 migatesbala.fun
@@ -20463,6 +20473,7 @@
 0.0.0.0 mucocutaneousmyrmecophaga.com
 0.0.0.0 muddledaftermath.com
 0.0.0.0 mudezs.com
+0.0.0.0 mughaymil.site
 0.0.0.0 mugleafly.com
 0.0.0.0 mugpothop.com
 0.0.0.0 muhexvakuawzo.com
@@ -24588,6 +24599,7 @@
 0.0.0.0 pwrads.net
 0.0.0.0 pwrjjvjtvmr.com
 0.0.0.0 pwrlkyotm.com
+0.0.0.0 pwwghcyzsn.info
 0.0.0.0 px3792.com
 0.0.0.0 px69z.cn
 0.0.0.0 px.boundhub.com
@@ -24624,6 +24636,7 @@
 0.0.0.0 pypkrvtepsha.com
 0.0.0.0 pyq6n.com
 0.0.0.0 pyqsbuaeqiku.com
+0.0.0.0 pyroguanites.xyz
 0.0.0.0 pyscgael.bid
 0.0.0.0 pyxjwks.com
 0.0.0.0 pyzkbxspoon.com
@@ -25567,6 +25580,7 @@
 0.0.0.0 rejcinews.pro
 0.0.0.0 rejectfairies.com
 0.0.0.0 rejestr.org
+0.0.0.0 rejouassions.xyz
 0.0.0.0 rekagrorb.bid
 0.0.0.0 rekhatov.ru
 0.0.0.0 rek.hepaffiliates.com
@@ -26061,6 +26075,7 @@
 0.0.0.0 robotext.info
 0.0.0.0 robovoiz.com
 0.0.0.0 robsoaks.com
+0.0.0.0 robspabah.com
 0.0.0.0 robustbelieve.com
 0.0.0.0 rock.cheerfulhunter.com
 0.0.0.0 rockcoke.cn
@@ -26109,6 +26124,7 @@
 0.0.0.0 roomyreading.com
 0.0.0.0 roosterfirework.com
 0.0.0.0 roostsflewcat.cam
+0.0.0.0 root85.com
 0.0.0.0 rooton.in
 0.0.0.0 rootstood.club
 0.0.0.0 rooveysimagi.club
@@ -26551,6 +26567,7 @@
 0.0.0.0 sagimedyer.xyz
 0.0.0.0 sahishodilitt.info
 0.0.0.0 sahraex7vah.info
+0.0.0.0 sailcovertend.com
 0.0.0.0 sail-horizon.com
 0.0.0.0 sailif.com
 0.0.0.0 sailsuit.com
@@ -27407,6 +27424,7 @@
 0.0.0.0 sightcoloniansy.site
 0.0.0.0 sightjutfar.com
 0.0.0.0 sigmaad.com
+0.0.0.0 signal-collector.gemaltodigitalbankingidcloud.com
 0.0.0.0 signbullswaif.com
 0.0.0.0 signershipreg.club
 0.0.0.0 significantlywatertragedy.com
@@ -28695,6 +28713,7 @@
 0.0.0.0 stickysheet.com
 0.0.0.0 sticoats.net
 0.0.0.0 stiffenpersevere.com
+0.0.0.0 stiffgame.com
 0.0.0.0 stiffstem.com
 0.0.0.0 stilfb.com
 0.0.0.0 still-innocent.info
@@ -29564,6 +29583,7 @@
 0.0.0.0 terapou.com
 0.0.0.0 tercabilis.info
 0.0.0.0 terdaywe.top
+0.0.0.0 terephtalate.xyz
 0.0.0.0 terethat.ru
 0.0.0.0 terhimpa.pro
 0.0.0.0 terialexperi.top
@@ -32978,6 +32998,7 @@
 0.0.0.0 wegetpaid.net
 0.0.0.0 wegotmedia.com
 0.0.0.0 wehoysp.cn
+0.0.0.0 weifengtianxia.com
 0.0.0.0 weiguanwang888.com
 0.0.0.0 weihuiyungou.com
 0.0.0.0 weiiii.com

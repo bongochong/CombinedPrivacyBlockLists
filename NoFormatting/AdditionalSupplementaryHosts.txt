@@ -861,6 +861,7 @@
 0.0.0.0 audio-ak.cdn.spotify.com
 0.0.0.0 audio-ake.spotify.com.edgesuite.net
 0.0.0.0 audio-akp-bbr-spotify-com.akamaized.net
+0.0.0.0 audio-akp-quic-control-spotify-com.akamaized.net
 0.0.0.0 audio-akp.spotify.com
 0.0.0.0 audio-akp-spotify-com.akamaized.net
 0.0.0.0 audio-akp.spotify.com.edgesuite.net
@@ -1903,6 +1904,7 @@
 0.0.0.0 pixel.admobclick.com
 0.0.0.0 pixel.quantserve.com
 0.0.0.0 pixel.spotify.com
+0.0.0.0 pixel-static.spotify.com
 0.0.0.0 pixel.wp.com
 0.0.0.0 pj.l.admedo.com
 0.0.0.0 play1.flashx.pw
@@ -2070,6 +2072,7 @@
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 sb.voicefive.com
 0.0.0.0 scaleway.ovh
+0.0.0.0 scorecardresearch.com
 0.0.0.0 script.nimiqpool.com
 0.0.0.0 sdk.adtiming.com
 0.0.0.0 sdk.cheshmak.me
