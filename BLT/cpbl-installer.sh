@@ -58,7 +58,8 @@ echo "Inserted host name into hosts file templates."
 echo "..."
 read -r -p "Finally, would you like these tools to be automatically aliased in your bash configuration file, for easy launching? [y/N] " response
 if [[ "$response" =~ ^([yY][eE][sS]|[yY])$ ]]
-then echo -e "\nalias blthosts='~/$file_dir/update-hosts.sh'" >> ~/.bashrc
+then
+echo -e "\nalias blthosts='~/$file_dir/update-hosts.sh'" >> ~/.bashrc
 echo "alias blthosts6='~/$file_dir/update-hosts-six.sh'" >> ~/.bashrc
 echo "alias blthosts2='~/$file_dir/update-hosts-dual.sh'" >> ~/.bashrc
 echo "alias bltpac='~/$file_dir/update-pac.sh'" >> ~/.bashrc

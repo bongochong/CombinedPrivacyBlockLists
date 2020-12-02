@@ -13,6 +13,11 @@ The data within is meant to automate the generation and updating of the followin
 
 - [A PAC (proxy auto-configuration) file, to block undesirable domains](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/update-pac.sh)  
 
+**One-line installation**:  
+Paste the following in your terminal and hit enter:  
+`wget -nv -O ~/cpbl-installer.sh "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/cpbl-installer.sh" && chmod +x ~/cpbl-installer.sh && ~/cpbl-installer.sh && rm ~/cpbl-installer.sh`  
+Donezo. Now you have all the utilities. You can also use this one liner to update the scripts with the latest versions from this repository, whenever you wish.
+
 **Dependencies**:  
 The following packages are required to utilize all my block list utilities:  
 `wget` `pcre (or pcre2 or pcregrep)` `perl` `idn2 (or idn)` `p7zip` `p7zip-plugins (or p7zip-full)`
@@ -20,11 +25,6 @@ The following packages are required to utilize all my block list utilities:
 In addition, `curl` is suggested, to make use of the optional server upload feature in the PAC generator script.  
   
 It should also be noted that most of these tools make heavy use of GNU `sed`.
-  
-**One-line installation**:  
-Paste the following in your terminal and hit enter:  
-`wget -nv -O ~/cpbl-installer.sh "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/cpbl-installer.sh" && chmod +x ~/cpbl-installer.sh && ~/cpbl-installer.sh && rm ~/cpbl-installer.sh`  
-Donezo. Now you have all the utilities. You can also use this one liner to update the scripts with the latest versions from this repository, whenever you wish.  
   
 **Checklist for normal installation**:
 1. Download the installer [from this link](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/cpbl-installer.sh).
