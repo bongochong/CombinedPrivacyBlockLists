@@ -3,7 +3,7 @@ The [update-btp2p.sh script](https://github.com/bongochong/CombinedPrivacyBlockL
 **Checklist for use**:
 1. Make sure that you have [`p7zip` + `p7zip-plugins (or p7zip-full)`](http://p7zip.sourceforge.net/), [`perl`](https://www.perl.com/about/), and [`wget`](https://www.gnu.org/software/wget/) installed on your system.
 2. Open a terminal in or `cd` into your `BLT` directory.
-3. Launch the script (`sh update-btp2p.sh` should do).
+3. Launch the script (`./update-btp2p.sh` should do).
 4. Watch the output of the script.
 5. Move the resulting block list (`combined-final.dat`) to a directory of your choosing (or leave it in place), and configure your torrent client to utilize it.
 6. Run the script as often as you like to keep your BitTorrent IP block list up to date.
