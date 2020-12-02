@@ -29,7 +29,7 @@ Donezo. Now you have all the utilities. You can also use this one liner to updat
 **Checklist for normal installation**:
 1. Download the installer [from this link](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/cpbl-installer.sh).
 2. Ensure the installer is executable (either via your file manager or `chmod +x cpbl-installer.sh` in a terminal).
-3. Run the installer (with `./cpbl-installer.sh` or `sh cpbl-installer.sh` in a terminal).
+3. Run the installer (with `./cpbl-installer.sh` in a terminal).
 4. Input your chosen install location at the prompt.
 5. Enjoy using the utilities to keep your block lists and hosts file up-to-date.
   
