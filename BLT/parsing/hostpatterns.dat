@@ -106,6 +106,7 @@ localhost$
 ^0.0.0.0 lads.myspace.com$
 ^0.0.0.0 malwaredomainlist.com$
 ^0.0.0.0 malwaredomains.com$
+^0.0.0.0 managemymove.usps.com$
 ^0.0.0.0 medium.com$
 ^0.0.0.0 movies.netflix.com$
 ^0.0.0.0 neocities.org$
@@ -122,6 +123,7 @@ localhost$
 ^0.0.0.0 plex.tv$
 ^0.0.0.0 pushbullet.com$
 ^0.0.0.0 raw.githubusercontent.com$
+^0.0.0.0 sdc.usps.com$
 ^0.0.0.0 search.twitter.com$
 ^0.0.0.0 secure.netflix.com$
 ^0.0.0.0 shorl.com$
@@ -154,6 +156,7 @@ localhost$
 ^0.0.0.0 urbanairship.com$
 ^0.0.0.0 us.i1.yimg.com$
 ^0.0.0.0 userstream.twitter.com$
+^0.0.0.0 usps.com$
 ^0.0.0.0 wallet-api.urbanairship.com$
 ^0.0.0.0 whispersystems.org$
 ^0.0.0.0 winhelp2002.mvps.org$

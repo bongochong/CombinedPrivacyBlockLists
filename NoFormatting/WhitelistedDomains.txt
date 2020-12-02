@@ -66,6 +66,7 @@ itunes.com
 lads.myspace.com
 malwaredomainlist.com
 malwaredomains.com
+managemymove.usps.com
 medium.com
 movies.netflix.com
 neocities.org
@@ -82,6 +83,7 @@ play.spotify.com
 plex.tv
 pushbullet.com
 raw.githubusercontent.com
+sdc.usps.com
 search.twitter.com
 secure.netflix.com
 shorl.com
@@ -114,6 +116,7 @@ upload.twitter.com
 urbanairship.com
 us.i1.yimg.com
 userstream.twitter.com
+usps.com
 wallet-api.urbanairship.com
 whispersystems.org
 winhelp2002.mvps.org
