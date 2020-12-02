@@ -1,4 +1,4 @@
-# Wed Dec  2 03:29:32 PM MST 2020
+# Wed Dec  2 03:46:58 PM MST 2020
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -15595,7 +15595,6 @@
 0.0.0.0 img.servint.net
 0.0.0.0 imgshare.info
 0.0.0.0 imgsniper.com
-0.0.0.0 imgtaxi.com
 0.0.0.0 imgwebfeed.com
 0.0.0.0 imgwzzmb.net
 0.0.0.0 img.yangshengtang123.com
@@ -31572,7 +31571,6 @@
 0.0.0.0 uqsoxvwffpkrt.com
 0.0.0.0 uqyatperdvczfw.com
 0.0.0.0 uralap.com
-0.0.0.0 urbanairship.com
 0.0.0.0 urcakbypjfvsq.com
 0.0.0.0 urchinflare.com
 0.0.0.0 urchrevening.info
@@ -31667,7 +31665,6 @@
 0.0.0.0 usfmamdapvmfs.com
 0.0.0.0 ushoofop.com
 0.0.0.0 ushooque.net
-0.0.0.0 us.i1.yimg.com
 0.0.0.0 usjguyybhhtjos.com
 0.0.0.0 uslycoloursewo.info
 0.0.0.0 usr.trava.io

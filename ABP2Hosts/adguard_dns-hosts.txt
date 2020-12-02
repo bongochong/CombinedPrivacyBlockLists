@@ -1,4 +1,4 @@
-# Wed Dec  2 03:29:52 PM MST 2020
+# Wed Dec  2 03:47:29 PM MST 2020
 # AdGuard DNS Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -34348,7 +34348,6 @@
 0.0.0.0 usfmamdapvmfs.com
 0.0.0.0 ushoofop.com
 0.0.0.0 ushooque.net
-0.0.0.0 us.i1.yimg.com
 0.0.0.0 usjguyybhhtjos.com
 0.0.0.0 uslycoloursewo.info
 0.0.0.0 usp1.baidu.com
@@ -72758,7 +72757,6 @@
 0.0.0.0 usfmamdapvmfs.com
 0.0.0.0 ushoofop.com
 0.0.0.0 ushooque.net
-0.0.0.0 us.i1.yimg.com
 0.0.0.0 usjguyybhhtjos.com
 0.0.0.0 uslycoloursewo.info
 0.0.0.0 usp1.baidu.com

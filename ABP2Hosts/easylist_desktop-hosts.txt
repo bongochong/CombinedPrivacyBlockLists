@@ -1,4 +1,4 @@
-# Wed Dec  2 03:29:46 PM MST 2020
+# Wed Dec  2 03:47:23 PM MST 2020
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -7480,7 +7480,6 @@
 0.0.0.0 cpasmrttds.info
 0.0.0.0 cpa-system.ru
 0.0.0.0 cpaway.com
-0.0.0.0 c.paypal.com
 0.0.0.0 cpays.com
 0.0.0.0 cpc.cc
 0.0.0.0 cpcc.xyz
@@ -14159,7 +14158,6 @@
 0.0.0.0 imgsniper.com
 0.0.0.0 imgstat.ameba.jp
 0.0.0.0 imgstat.baidu.com
-0.0.0.0 imgtaxi.com
 0.0.0.0 imgtrack.domainmarket.com
 0.0.0.0 imgwebfeed.com
 0.0.0.0 imgwzzmb.net
@@ -22074,7 +22072,6 @@
 0.0.0.0 pushbaddy.com
 0.0.0.0 pushbasic.com
 0.0.0.0 pushbird.com
-0.0.0.0 pushbullet.com
 0.0.0.0 pushdom.co
 0.0.0.0 pushdusk.com
 0.0.0.0 pushebrod.com
@@ -28626,7 +28623,6 @@
 0.0.0.0 uqsoxvwffpkrt.com
 0.0.0.0 uqyatperdvczfw.com
 0.0.0.0 uralweb.ru
-0.0.0.0 urbanairship.com
 0.0.0.0 urcakbypjfvsq.com
 0.0.0.0 urchrevening.info
 0.0.0.0 urc.taboolasyndication.com
