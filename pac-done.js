@@ -1,4 +1,4 @@
-// **** Wed Dec  2 03:51:10 PM MST 2020
+// **** Tue Dec  8 04:05:55 PM MST 2020
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -1504,6 +1504,7 @@ shExpMatch(host, '*.adultgameshacked.com') ||
 shExpMatch(host, '*.adultmoda.com') ||
 shExpMatch(host, '*.adults-dvds.co.uk') ||
 shExpMatch(host, '*.adultsex.world') ||
+shExpMatch(host, '*.ad.universcine.com') ||
 shExpMatch(host, '*.ad-up.com') ||
 shExpMatch(host, '*.ad.usatoday.com') ||
 shExpMatch(host, '*.advabnr.com') ||
@@ -3703,6 +3704,7 @@ shExpMatch(host, '*.clickbank.net') ||
 shExpMatch(host, '*.clickbooth.com') ||
 shExpMatch(host, '*.clickboothlnk.com') ||
 shExpMatch(host, '*.clickbrokers.com') ||
+shExpMatch(host, '*.click.cartsguru.io') ||
 shExpMatch(host, '*.clickcompare.co.uk') ||
 shExpMatch(host, '*.clickdensity.com') ||
 shExpMatch(host, '*.clickedyclick.com') ||
@@ -4139,7 +4141,6 @@ shExpMatch(host, '*.creative-serving.com') ||
 shExpMatch(host, '*.creatives.livejasmin.com') ||
 shExpMatch(host, '*.creative.whi.co.nz') ||
 shExpMatch(host, '*.creativitygap.com') ||
-shExpMatch(host, '*.credishe.com') ||
 shExpMatch(host, '*.creditbureauexperts.com') ||
 shExpMatch(host, '*.creditcard-2014.com') ||
 shExpMatch(host, '*.creed3.sharezips.info') ||
@@ -8502,7 +8503,6 @@ shExpMatch(host, '*.hits.puls.lv') ||
 shExpMatch(host, '*.hits.theguardian.com') ||
 shExpMatch(host, '*.hittail.com') ||
 shExpMatch(host, '*.hittastilen.se') ||
-shExpMatch(host, '*.hitttenevtanin.com') ||
 shExpMatch(host, '*.hit.ua') ||
 shExpMatch(host, '*.hit.webcentre.lycos.co.uk') ||
 shExpMatch(host, '*.hl3beta.com') ||
@@ -10620,6 +10620,7 @@ shExpMatch(host, '*.monsterwarlordhack.net') ||
 shExpMatch(host, '*.monsterwarlordhacks.com') ||
 shExpMatch(host, '*.mookie1.com') ||
 shExpMatch(host, '*.moolahmedia.com') ||
+shExpMatch(host, '*.moondeal.net') ||
 shExpMatch(host, '*.moonetizer.com') ||
 shExpMatch(host, '*.moons-cases.com') ||
 shExpMatch(host, '*.moonskins.fun') ||
@@ -12802,7 +12803,6 @@ shExpMatch(host, '*.risehack.com') ||
 shExpMatch(host, '*.ristoncharge.in') ||
 shExpMatch(host, '*.ritymusccs.com') ||
 shExpMatch(host, '*.ritzykey.com') ||
-shExpMatch(host, '*.ritzysponge.com') ||
 shExpMatch(host, '*.rivalsseasonpass.dlcodes.com') ||
 shExpMatch(host, '*.rivekre.ru') ||
 shExpMatch(host, '*.rivenbet.com') ||
@@ -13557,6 +13557,7 @@ shExpMatch(host, '*.skins-white.com') ||
 shExpMatch(host, '*.skinswhite.com') ||
 shExpMatch(host, '*.skinswisdom.com') ||
 shExpMatch(host, '*.skinswood.com') ||
+shExpMatch(host, '*.skinszone.net') ||
 shExpMatch(host, '*.skintracker.net') ||
 shExpMatch(host, '*.skintrade24.com') ||
 shExpMatch(host, '*.skintrade.pro') ||
@@ -14834,6 +14835,7 @@ shExpMatch(host, '*.track.tkbo.com') ||
 shExpMatch(host, '*.trackuhub.com') ||
 shExpMatch(host, '*.track.ultravpn.com') ||
 shExpMatch(host, '*.track.undressingpics.work') ||
+shExpMatch(host, '*.track.unear.net') ||
 shExpMatch(host, '*.track.vcdc.com') ||
 shExpMatch(host, '*.track.viewdeos.com') ||
 shExpMatch(host, '*.track-your-fedex-package.org') ||
@@ -18078,6 +18080,7 @@ shExpMatch(host, 'adultgameshacked.com') ||
 shExpMatch(host, 'adultmoda.com') ||
 shExpMatch(host, 'adults-dvds.co.uk') ||
 shExpMatch(host, 'adultsex.world') ||
+shExpMatch(host, 'ad.universcine.com') ||
 shExpMatch(host, 'ad-up.com') ||
 shExpMatch(host, 'ad.usatoday.com') ||
 shExpMatch(host, 'advabnr.com') ||
@@ -20277,6 +20280,7 @@ shExpMatch(host, 'clickbank.net') ||
 shExpMatch(host, 'clickbooth.com') ||
 shExpMatch(host, 'clickboothlnk.com') ||
 shExpMatch(host, 'clickbrokers.com') ||
+shExpMatch(host, 'click.cartsguru.io') ||
 shExpMatch(host, 'clickcompare.co.uk') ||
 shExpMatch(host, 'clickdensity.com') ||
 shExpMatch(host, 'clickedyclick.com') ||
@@ -20713,7 +20717,6 @@ shExpMatch(host, 'creative-serving.com') ||
 shExpMatch(host, 'creatives.livejasmin.com') ||
 shExpMatch(host, 'creative.whi.co.nz') ||
 shExpMatch(host, 'creativitygap.com') ||
-shExpMatch(host, 'credishe.com') ||
 shExpMatch(host, 'creditbureauexperts.com') ||
 shExpMatch(host, 'creditcard-2014.com') ||
 shExpMatch(host, 'creed3.sharezips.info') ||
@@ -25076,7 +25079,6 @@ shExpMatch(host, 'hits.puls.lv') ||
 shExpMatch(host, 'hits.theguardian.com') ||
 shExpMatch(host, 'hittail.com') ||
 shExpMatch(host, 'hittastilen.se') ||
-shExpMatch(host, 'hitttenevtanin.com') ||
 shExpMatch(host, 'hit.ua') ||
 shExpMatch(host, 'hit.webcentre.lycos.co.uk') ||
 shExpMatch(host, 'hl3beta.com') ||
@@ -27194,6 +27196,7 @@ shExpMatch(host, 'monsterwarlordhack.net') ||
 shExpMatch(host, 'monsterwarlordhacks.com') ||
 shExpMatch(host, 'mookie1.com') ||
 shExpMatch(host, 'moolahmedia.com') ||
+shExpMatch(host, 'moondeal.net') ||
 shExpMatch(host, 'moonetizer.com') ||
 shExpMatch(host, 'moons-cases.com') ||
 shExpMatch(host, 'moonskins.fun') ||
@@ -29376,7 +29379,6 @@ shExpMatch(host, 'risehack.com') ||
 shExpMatch(host, 'ristoncharge.in') ||
 shExpMatch(host, 'ritymusccs.com') ||
 shExpMatch(host, 'ritzykey.com') ||
-shExpMatch(host, 'ritzysponge.com') ||
 shExpMatch(host, 'rivalsseasonpass.dlcodes.com') ||
 shExpMatch(host, 'rivekre.ru') ||
 shExpMatch(host, 'rivenbet.com') ||
@@ -30131,6 +30133,7 @@ shExpMatch(host, 'skins-white.com') ||
 shExpMatch(host, 'skinswhite.com') ||
 shExpMatch(host, 'skinswisdom.com') ||
 shExpMatch(host, 'skinswood.com') ||
+shExpMatch(host, 'skinszone.net') ||
 shExpMatch(host, 'skintracker.net') ||
 shExpMatch(host, 'skintrade24.com') ||
 shExpMatch(host, 'skintrade.pro') ||
@@ -31408,6 +31411,7 @@ shExpMatch(host, 'track.tkbo.com') ||
 shExpMatch(host, 'trackuhub.com') ||
 shExpMatch(host, 'track.ultravpn.com') ||
 shExpMatch(host, 'track.undressingpics.work') ||
+shExpMatch(host, 'track.unear.net') ||
 shExpMatch(host, 'track.vcdc.com') ||
 shExpMatch(host, 'track.viewdeos.com') ||
 shExpMatch(host, 'track-your-fedex-package.org') ||
