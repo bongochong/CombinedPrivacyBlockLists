@@ -1,4 +1,4 @@
-# Wed Dec  2 03:47:32 PM MST 2020
+# Tue Dec  8 04:02:08 PM MST 2020
 # Spam404 Hosts - Generated weekly by bongochong
 0.0.0.0 001www.com
 0.0.0.0 0daygameparadise.com
@@ -5267,6 +5267,7 @@
 0.0.0.0 monsterloot.fun
 0.0.0.0 monsterwarlordhack.net
 0.0.0.0 monsterwarlordhacks.com
+0.0.0.0 moondeal.net
 0.0.0.0 moonetizer.com
 0.0.0.0 moons-cases.com
 0.0.0.0 moonskins.fun
@@ -6692,6 +6693,7 @@
 0.0.0.0 skinswhite.com
 0.0.0.0 skinswisdom.com
 0.0.0.0 skinswood.com
+0.0.0.0 skinszone.net
 0.0.0.0 skintracker.net
 0.0.0.0 skintrade24.com
 0.0.0.0 skintrade.pro
