@@ -23,7 +23,7 @@ Updates to the lists usually occur on a weekly basis, and sometimes more frequen
 
 ***Please feel free to subscribe to or use these lists as is. I use them on all of my personal devices.***
 
-**Finally**, I have begun sharing some relatively user-friendly versions of the scripts and utilities that I use to generate these files on my main machine. Should you wish to utilize them to generate your own block lists, the currently working releases are [available here](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/BLT). They can be setup manually, or in one shot [with this simple install script](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/cpbl-installer.sh).  
+**Finally**, the user-friendly versions of the scripts and utilities that I use to generate these lists, can be set up in one shot [with this simple install script](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/cpbl-installer.sh).  
 
 They include the following:  
 + [**Hosts File Updater**](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/update-hosts.sh) - Fully automated and easy-to-configure bash script for updating your hosts file from multiple sources. Pre-configured to work with included templates. Runs properly out of the box. GNU/Linux and other Unix-like operating systems only. There is also a version that updates your hosts file with **both** IPv4 and IPv6 entries [here](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/update-hosts-dual.sh), and one for IPv6-only [here](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/update-hosts-six.sh).
