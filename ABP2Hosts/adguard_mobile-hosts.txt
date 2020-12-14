@@ -1,4 +1,4 @@
-# Tue Dec  8 04:01:30 PM MST 2020
+# Mon Dec 14 01:14:32 PM MST 2020
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -902,6 +902,7 @@
 0.0.0.0 adspecs.yahoo.com
 0.0.0.0 adspeed.com
 0.0.0.0 ads.perfectaudience.com
+0.0.0.0 ads.phonepe.com
 0.0.0.0 ads.pictela.net
 0.0.0.0 ads.pinger.com
 0.0.0.0 ads.pinterest.com
@@ -4570,7 +4571,6 @@
 0.0.0.0 geoip.fotoable.net
 0.0.0.0 geoip.goforandroid.com
 0.0.0.0 geoip.ifunny.co
-0.0.0.0 geolocation.onetrust.com
 0.0.0.0 geo-location.s-onetag.com
 0.0.0.0 geo.moatads.com
 0.0.0.0 geoplugin.net
