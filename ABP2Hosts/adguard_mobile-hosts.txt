@@ -1,4 +1,4 @@
-# Mon Dec 14 01:14:32 PM MST 2020
+# Sat Dec 19 01:10:21 AM MST 2020
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -361,7 +361,6 @@
 0.0.0.0 ac.adpia.vn
 0.0.0.0 a.c.appier.net
 0.0.0.0 ac.batmobi.net
-0.0.0.0 access-prod.apis.anvato.net
 0.0.0.0 accesstrade.com.vn
 0.0.0.0 accesstrade.vn
 0.0.0.0 acc.magixite.com
@@ -1686,7 +1685,6 @@
 0.0.0.0 api.sail-personalize.com
 0.0.0.0 api.sailthru.com
 0.0.0.0 api.salmonads.com
-0.0.0.0 apis.anvato.net
 0.0.0.0 apis.appnxt.net
 0.0.0.0 api.saypromo.net
 0.0.0.0 apis.com.br
@@ -2726,7 +2724,6 @@
 0.0.0.0 cdnaimg-ra.media.net
 0.0.0.0 cdn-akamai.mookie1.com
 0.0.0.0 cdn.amplitude.com
-0.0.0.0 cdn.anvato.net
 0.0.0.0 cdnap.airpush.com
 0.0.0.0 cdn-api.admost.com
 0.0.0.0 cdn-api.appadhoc.com
@@ -2829,7 +2826,6 @@
 0.0.0.0 cdn.inskinad.com
 0.0.0.0 cdn.inspectlet.com
 0.0.0.0 cdn.intergi.com
-0.0.0.0 cdn.ipromote.com
 0.0.0.0 cdn.isnssdk.com
 0.0.0.0 cdn.iubenda.com
 0.0.0.0 cdn.izooto.com
@@ -3097,7 +3093,6 @@
 0.0.0.0 cloud-emea.analytics-egain.com
 0.0.0.0 cloud-graphql-live.us-east-1.elasticbeanstalk.com
 0.0.0.0 cloud.gsdk.proximabeta.com
-0.0.0.0 cloud.internetstores.com
 0.0.0.0 cloudmobi.net
 0.0.0.0 cloud.ogury.io
 0.0.0.0 cloudservice14.kingsoft-office-service.com
@@ -3545,7 +3540,6 @@
 0.0.0.0 d2cmedia.ca
 0.0.0.0 d2.hadarone.com
 0.0.0.0 d2nrdy2pg3k168.cloudfront.net
-0.0.0.0 d2oj2jfp5qkm5dtc3gtiqjzaab.gcdn.anvato.net
 0.0.0.0 d32z5ni8t5127x.cloudfront.net
 0.0.0.0 d3.hadarone.com
 0.0.0.0 d3.moatads.com
@@ -3715,10 +3709,6 @@
 0.0.0.0 dco-assets.everestads.net
 0.0.0.0 dco-jads-727222375.us-west-2.elb.amazonaws.com
 0.0.0.0 dcs.adgear.com
-0.0.0.0 dcs-jite.cdn.anvato.net
-0.0.0.0 dcs-live.apis.anvato.net
-0.0.0.0 dcs-tgt.apis.anvato.net
-0.0.0.0 dcs-vod.apis.anvato.net
 0.0.0.0 dct.netmng.com
 0.0.0.0 dc.webtrends.com
 0.0.0.0 dc.yieldify.com
@@ -3873,7 +3863,6 @@
 0.0.0.0 dptr.areyouahuman.com
 0.0.0.0 d.pub.network
 0.0.0.0 d.r10.mopub.com
-0.0.0.0 drm.apis.anvato.net
 0.0.0.0 dr.socdm.com
 0.0.0.0 ds-aksb-a.akamaihd.net
 0.0.0.0 dsa.moatads.com
@@ -4329,7 +4318,6 @@
 0.0.0.0 findbestsolution.net
 0.0.0.0 fineboost-loghub.ap-southeast-1.log.aliyuncs.com
 0.0.0.0 finedesign.vo.llnwd.net
-0.0.0.0 finlogs.joyeggs.com
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 firstimpression-d.openx.net
 0.0.0.0 firstimpression.io
@@ -4414,8 +4402,6 @@
 0.0.0.0 fp3.ads.stickyadstv.com.akadns.net
 0.0.0.0 fptadtrue-d.openx.net
 0.0.0.0 fra-01.braze.eu
-0.0.0.0 fra1.ipromote.com
-0.0.0.0 fra2.ipromote.com
 0.0.0.0 fra-col.eum-appdynamics.com
 0.0.0.0 fr.ads.justpremium.com
 0.0.0.0 frame.appsgeyser.com
@@ -4526,7 +4512,6 @@
 0.0.0.0 gb-gmtdmp.mookie1.com
 0.0.0.0 g.c.appier.net
 0.0.0.0 gcd.mmstat.com
-0.0.0.0 gcdn.anvato.net
 0.0.0.0 gcdsdk.appsflyer.com
 0.0.0.0 gc.ds.duapps.com
 0.0.0.0 gcloud.bluecava.com
@@ -4683,7 +4668,6 @@
 0.0.0.0 go.vrvm.com
 0.0.0.0 gowadogo.com
 0.0.0.0 goyetteconnelly.bid
-0.0.0.0 gpizacfw3gtfw4vmh5nc4uq6gc.gcdn.anvato.net
 0.0.0.0 gplayer.kmpmedia.net
 0.0.0.0 grabify.link
 0.0.0.0 grace.shareaholic.com
@@ -5364,7 +5348,6 @@
 0.0.0.0 jfduv7.com
 0.0.0.0 jgl.microad.net
 0.0.0.0 jioads.akamaized.net
-0.0.0.0 jkvdxu3faz4qgr2j6w5qctdnde.gcdn.anvato.net
 0.0.0.0 j.microad.net
 0.0.0.0 jmp9.com
 0.0.0.0 jogger.zdbb.net
@@ -5442,7 +5425,6 @@
 0.0.0.0 kaffnet.com
 0.0.0.0 kaltura.com.edgekey.net
 0.0.0.0 kaltura.perf.akadns.net
-0.0.0.0 kaotic.com
 0.0.0.0 kargodfpnew803390365855.s.moatpixel.com
 0.0.0.0 kargo-match.dotomi.com
 0.0.0.0 kargovideojstag.s.moatpixel.com
@@ -6099,6 +6081,7 @@
 0.0.0.0 mobile-service.segment.com
 0.0.0.0 mobile-static.adsafeprotected.com
 0.0.0.0 mobile-stats.socialquantum.com
+0.0.0.0 mobiletelemetry.ebay.com
 0.0.0.0 mobiletheory.com
 0.0.0.0 mobile-ws.apprissmobile.com
 0.0.0.0 mobile.yandexadexchange.net
@@ -6357,7 +6340,6 @@
 0.0.0.0 nmcdn.us
 0.0.0.0 nmetrics.samsung.com
 0.0.0.0 nmtracking.netflix.com
-0.0.0.0 nmvxdvra2muiv2amejorzkvqgg.gcdn.anvato.net
 0.0.0.0 noclick.connexity.com
 0.0.0.0 nodeny.targetspot.com
 0.0.0.0 node.targetspot.com
@@ -6651,7 +6633,6 @@
 0.0.0.0 patriot.cs.pp.cn
 0.0.0.0 p.avazunativeads.com
 0.0.0.0 p-awse-ebs.adsymptotic.com
-0.0.0.0 payback.joyeggs.com
 0.0.0.0 payload.adadapted.com
 0.0.0.0 pba.aws.lijit.com
 0.0.0.0 p-behacdn.ksmobile.net
@@ -8157,6 +8138,7 @@
 0.0.0.0 so.rlcdn.com
 0.0.0.0 sor-sdk.follow-apps.com
 0.0.0.0 sortable-match.dotomi.com
+0.0.0.0 soundcloud-pax.pandora.com
 0.0.0.0 soundpublishing.blueconic.net
 0.0.0.0 source.bidgear.com
 0.0.0.0 sourcepoint.mgr.consensu.org
@@ -8813,7 +8795,6 @@
 0.0.0.0 testtradedeskmve.s.moatpixel.com
 0.0.0.0 textlink.simba.taobao.com
 0.0.0.0 textron.vo.llnwd.net
-0.0.0.0 tfa26fsjgzw475fipe42v4rhcf.gcdn.anvato.net
 0.0.0.0 tg1.aniview.com
 0.0.0.0 t.gammaplatform.com
 0.0.0.0 tg.dr.socdm.com
@@ -8878,7 +8859,6 @@
 0.0.0.0 tkr.yieldmo.com
 0.0.0.0 tktracker.aotter.net
 0.0.0.0 t.ktxtr.com
-0.0.0.0 tkx.apis.anvato.net
 0.0.0.0 t.leady.com
 0.0.0.0 tlg.mookie1.com
 0.0.0.0 t.lkqd.net
@@ -9104,6 +9084,7 @@
 0.0.0.0 triggeredmail.appspot.com
 0.0.0.0 trinitymirror.grapeshot.co.uk
 0.0.0.0 triplelift-match.dotomi.com
+0.0.0.0 trk2.pinterest.com
 0.0.0.0 trk.apperol.com
 0.0.0.0 trk.atomex.net
 0.0.0.0 trk.clinch.co
@@ -9639,7 +9620,6 @@
 0.0.0.0 vz-cdn2.trafficjunky.net
 0.0.0.0 vz-cdn.contentabc.com
 0.0.0.0 vz-cdn.trafficjunky.net
-0.0.0.0 w3.cdn.anvato.net
 0.0.0.0 w3i.com
 0.0.0.0 w55c.net
 0.0.0.0 wa.appsflyer.com
@@ -9732,7 +9712,6 @@
 0.0.0.0 widget.secure.ownlocal.com
 0.0.0.0 widgets.mgid.com
 0.0.0.0 widgets.outbrain.com
-0.0.0.0 widgets.pinterest.com
 0.0.0.0 widget.ty5.vip.prod.criteo.com
 0.0.0.0 widget.us.criteo.com
 0.0.0.0 widget.va1.vip.prod.criteo.com
@@ -9876,7 +9855,6 @@
 0.0.0.0 xenon.iad-03.braze.com
 0.0.0.0 xfeedback.scloud.lfengmobile.com
 0.0.0.0 x.fidelity-media.com
-0.0.0.0 xheimmxl4gfvfghng2jjos4qhb.gcdn.anvato.net
 0.0.0.0 xiaomi-mipdx.cn.miaozhen.com
 0.0.0.0 ximad.com
 0.0.0.0 x.innovid.com
