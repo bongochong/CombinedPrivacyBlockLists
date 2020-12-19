@@ -34,12 +34,9 @@ openpirate.org###\30 4da7223_1556855429
 openpirate.org###vpnvpn
 passwordtester.net##A[href="http://www.newtrailers.eu"]
 pcworld.com###toaster
-reddit.com##.PostFooter__award-wrapper
-reddit.com##.Post__awards
 reddit.com##.XPromoPopup
 reddit.com##.adLink
 reddit.com##.adLinkBar
-reddit.com##.m-large.m-redesign.AwardingsBar
 reddit.com##a[href*="alb.reddit.com"]
 reddit.com##a[href^="https://reddit.app.link"]
 sparkylinux.org##DIV#ad0569e
