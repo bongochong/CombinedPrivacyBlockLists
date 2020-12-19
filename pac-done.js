@@ -1,4 +1,4 @@
-// **** Mon Dec 14 01:17:49 PM MST 2020
+// **** Sat Dec 19 01:27:12 AM MST 2020
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -9302,6 +9302,7 @@ shExpMatch(host, '*.jubakupra.ru') ||
 shExpMatch(host, '*.juegoshackeados.info') ||
 shExpMatch(host, '*.juegos-hack.info') ||
 shExpMatch(host, '*.juicyads.com') ||
+shExpMatch(host, '*.juicyads.me') ||
 shExpMatch(host, '*.juicyfiles.net') ||
 shExpMatch(host, '*.juicy-pubg.com') ||
 shExpMatch(host, '*.julianas-travelgram.com') ||
@@ -9362,7 +9363,6 @@ shExpMatch(host, '*.karenbrowntx.com') ||
 shExpMatch(host, '*.karep.ru') ||
 shExpMatch(host, '*.kargo.com') ||
 shExpMatch(host, '*.karinot.ru') ||
-shExpMatch(host, '*.karisimbi.net') ||
 shExpMatch(host, '*.karlast.com') ||
 shExpMatch(host, '*.karmaskids.com') ||
 shExpMatch(host, '*.karmic-koala.info') ||
@@ -12731,6 +12731,7 @@ shExpMatch(host, '*.reversed.biz') ||
 shExpMatch(host, '*.revieweee.com') ||
 shExpMatch(host, '*.reviewscircle.com') ||
 shExpMatch(host, '*.revive.docmatic.org') ||
+shExpMatch(host, '*.revive.dubcnm.com') ||
 shExpMatch(host, '*.revive.haskovo.net') ||
 shExpMatch(host, '*.revive.netriota.hu') ||
 shExpMatch(host, '*.revive.plays.bg') ||
@@ -13806,6 +13807,7 @@ shExpMatch(host, '*.sponsorpay.com') ||
 shExpMatch(host, '*.sponsorpro.de') ||
 shExpMatch(host, '*.sponsors.thoughtsmedia.com') ||
 shExpMatch(host, '*.spoofing.host') ||
+shExpMatch(host, '*.sportsad.net') ||
 shExpMatch(host, '*.sportsnews-online.info') ||
 shExpMatch(host, '*.spotcentrum.com') ||
 shExpMatch(host, '*.spot.fitness.com') ||
@@ -14822,6 +14824,7 @@ shExpMatch(host, '*.tracking.gajmp.com') ||
 shExpMatch(host, '*.tracking.ibxlink.com') ||
 shExpMatch(host, '*.tracking.internetstores.de') ||
 shExpMatch(host, '*.tracking.intl.miui.com') ||
+shExpMatch(host, '*.tracking.jiffyworld.com') ||
 shExpMatch(host, '*.tracking.lenddom.com') ||
 shExpMatch(host, '*.tracking.miui.com') ||
 shExpMatch(host, '*.tracking.olx-st.com') ||
@@ -14895,6 +14898,7 @@ shExpMatch(host, '*.traffic.liveuniversenetwork.com') ||
 shExpMatch(host, '*.traffic-redirecting.com') ||
 shExpMatch(host, '*.trafficrouter.io') ||
 shExpMatch(host, '*.trafficsecrets.com') ||
+shExpMatch(host, '*.trafficshop.com') ||
 shExpMatch(host, '*.traffics-inspector.cn') ||
 shExpMatch(host, '*.trafficspaces.net') ||
 shExpMatch(host, '*.trafficstrategies.com') ||
@@ -25881,6 +25885,7 @@ shExpMatch(host, 'jubakupra.ru') ||
 shExpMatch(host, 'juegoshackeados.info') ||
 shExpMatch(host, 'juegos-hack.info') ||
 shExpMatch(host, 'juicyads.com') ||
+shExpMatch(host, 'juicyads.me') ||
 shExpMatch(host, 'juicyfiles.net') ||
 shExpMatch(host, 'juicy-pubg.com') ||
 shExpMatch(host, 'julianas-travelgram.com') ||
@@ -25941,7 +25946,6 @@ shExpMatch(host, 'karenbrowntx.com') ||
 shExpMatch(host, 'karep.ru') ||
 shExpMatch(host, 'kargo.com') ||
 shExpMatch(host, 'karinot.ru') ||
-shExpMatch(host, 'karisimbi.net') ||
 shExpMatch(host, 'karlast.com') ||
 shExpMatch(host, 'karmaskids.com') ||
 shExpMatch(host, 'karmic-koala.info') ||
@@ -29310,6 +29314,7 @@ shExpMatch(host, 'reversed.biz') ||
 shExpMatch(host, 'revieweee.com') ||
 shExpMatch(host, 'reviewscircle.com') ||
 shExpMatch(host, 'revive.docmatic.org') ||
+shExpMatch(host, 'revive.dubcnm.com') ||
 shExpMatch(host, 'revive.haskovo.net') ||
 shExpMatch(host, 'revive.netriota.hu') ||
 shExpMatch(host, 'revive.plays.bg') ||
@@ -30385,6 +30390,7 @@ shExpMatch(host, 'sponsorpay.com') ||
 shExpMatch(host, 'sponsorpro.de') ||
 shExpMatch(host, 'sponsors.thoughtsmedia.com') ||
 shExpMatch(host, 'spoofing.host') ||
+shExpMatch(host, 'sportsad.net') ||
 shExpMatch(host, 'sportsnews-online.info') ||
 shExpMatch(host, 'spotcentrum.com') ||
 shExpMatch(host, 'spot.fitness.com') ||
@@ -31401,6 +31407,7 @@ shExpMatch(host, 'tracking.gajmp.com') ||
 shExpMatch(host, 'tracking.ibxlink.com') ||
 shExpMatch(host, 'tracking.internetstores.de') ||
 shExpMatch(host, 'tracking.intl.miui.com') ||
+shExpMatch(host, 'tracking.jiffyworld.com') ||
 shExpMatch(host, 'tracking.lenddom.com') ||
 shExpMatch(host, 'tracking.miui.com') ||
 shExpMatch(host, 'tracking.olx-st.com') ||
@@ -31474,6 +31481,7 @@ shExpMatch(host, 'traffic.liveuniversenetwork.com') ||
 shExpMatch(host, 'traffic-redirecting.com') ||
 shExpMatch(host, 'trafficrouter.io') ||
 shExpMatch(host, 'trafficsecrets.com') ||
+shExpMatch(host, 'trafficshop.com') ||
 shExpMatch(host, 'traffics-inspector.cn') ||
 shExpMatch(host, 'trafficspaces.net') ||
 shExpMatch(host, 'trafficstrategies.com') ||
