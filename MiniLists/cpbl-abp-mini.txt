@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mini CPBL Filters for ABP & uBO
-! Updated: Sat Dec 19 01:42:04 AM MST 2020
+! Updated: Sat Dec 19 04:26:10 PM MST 2020
 ! Expires: 7 Days
 ! License: https://git.io/JTTLW
 ! Homepage: https://git.io/JTTLB
@@ -32,7 +32,6 @@ news.cnet.com###globalSocialPromo
 old.reddit.com###redesign-beta-optin-btn
 openpirate.org###\30 4da7223_1556855429
 openpirate.org###vpnvpn
-passwordtester.net##A[href="http://www.newtrailers.eu"]
 pcworld.com###toaster
 reddit.com##.XPromoPopup
 reddit.com##.adLink
@@ -65,7 +64,10 @@ www.eightvape.com##.mobile-half.tablet-2.desktop-2.product-list-item-3 > .warnin
 www.eightvape.com##.mobile-half.tablet-2.desktop-2.product-list-item-4 > .warning-label-1
 www.eightvape.com##.mobile-half.tablet-2.desktop-2.product-list-item-5 > .warning-label-1
 www.eightvape.com##.mobile-half.tablet-2.desktop-2.product-list-item-6 > .warning-label-1
+www.etymonline.com##.extensionHint
 www.etymonline.com##.wordDetail__extensionBanner--2Qrhv
+www.glassdoor.com##.background-overlay
+www.glassdoor.com##.actionBarMt0.modal_main
 www.glassdoor.com##.gdGrid.hardsellOverlay
 www.glassdoor.com##.hardsellContainer.flex-column.align-items-center.justify-content-center.d-flex
 www.glassdoor.com##.pt-xxl.pb-m-std.pb-72.hardsell
