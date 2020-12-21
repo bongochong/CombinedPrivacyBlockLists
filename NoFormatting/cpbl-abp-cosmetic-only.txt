@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Collected Cosmetic CPBL Filters for ABP & uBO
-! Updated: Sat Dec 19 05:15:10 PM MST 2020
+! Updated: Mon Dec 21 16:28:04 PM MST 2020
 ! Expires: 7 Days
 ! License: https://git.io/JTTLW
 ! Homepage: https://git.io/JTTLB
@@ -23,7 +23,6 @@ mondoweiss.net##li.mondo-ads-widget.widget
 mondoweiss.net##section.mondo-ads-widget.widget
 my.indeed.com##.MicroContentCard > .icl-Card--hasBorder.icl-Card
 my.indeed.com##.floating-tooltip.tooltip-type--SPELLING.resume-tooltip > div
-my.indeed.com##.gym_6.styles-module__suggestions___3vKX4.gym_1.gym_0
 my.indeed.com##.icl-Alert--info.icl-Alert
 my.indeed.com##.icl-Callout--caretStart.icl-Callout
 my.indeed.com##div.saved-item-inner.preview-editor-section:nth-of-type(5) > div:nth-of-type(2)
@@ -86,7 +85,6 @@ www.juicedb.com##.nicotine-warning
 www.linuxandubuntu.com##.hustle-optin--focus-optin.hustle-optin
 www.linuxandubuntu.com##.hustle-optin-mask.hustle-popup-mask
 www.linuxandubuntu.com##.hustle-show.module_id_1.hustle_module_id_1.hustle-palette--default.hustle-popup.hustle-ui
-www.nytimes.com##.e1x0szx60.css-16r57cp.expanded-dock.shown.MAG_web_anon_coronavirus-dock
 www.reddit.com##.Drawer__overlay
 www.reddit.com##.SignupDrawer__content.Drawer__content
 www.reddit.com##.in.fade.modal-backdrop
