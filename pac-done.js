@@ -1,4 +1,4 @@
-// **** Sat Dec 19 01:27:12 AM MST 2020
+// **** Wed Dec 23 12:02:31 AM MST 2020
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -10849,6 +10849,7 @@ shExpMatch(host, '*.mygoogle.ce.ms') ||
 shExpMatch(host, '*.mygooglemy.com') ||
 shExpMatch(host, '*.myinfod.com.ua') ||
 shExpMatch(host, '*.myiphost.com') ||
+shExpMatch(host, '*.myiptest.com') ||
 shExpMatch(host, '*.myjobresumeonline.com') ||
 shExpMatch(host, '*.mylada.ru') ||
 shExpMatch(host, '*.mylftv.com') ||
@@ -13983,6 +13984,7 @@ shExpMatch(host, '*.steambonus.com') ||
 shExpMatch(host, '*.steamcammunitu.com') ||
 shExpMatch(host, '*.steamcamrnunitty.com') ||
 shExpMatch(host, '*.steam-cards.com') ||
+shExpMatch(host, '*.steamcashrep.com') ||
 shExpMatch(host, '*.steamchristmas.com') ||
 shExpMatch(host, '*.steamcode.org') ||
 shExpMatch(host, '*.steamcodes4free.com') ||
@@ -27432,6 +27434,7 @@ shExpMatch(host, 'mygoogle.ce.ms') ||
 shExpMatch(host, 'mygooglemy.com') ||
 shExpMatch(host, 'myinfod.com.ua') ||
 shExpMatch(host, 'myiphost.com') ||
+shExpMatch(host, 'myiptest.com') ||
 shExpMatch(host, 'myjobresumeonline.com') ||
 shExpMatch(host, 'mylada.ru') ||
 shExpMatch(host, 'mylftv.com') ||
@@ -30566,6 +30569,7 @@ shExpMatch(host, 'steambonus.com') ||
 shExpMatch(host, 'steamcammunitu.com') ||
 shExpMatch(host, 'steamcamrnunitty.com') ||
 shExpMatch(host, 'steam-cards.com') ||
+shExpMatch(host, 'steamcashrep.com') ||
 shExpMatch(host, 'steamchristmas.com') ||
 shExpMatch(host, 'steamcode.org') ||
 shExpMatch(host, 'steamcodes4free.com') ||
