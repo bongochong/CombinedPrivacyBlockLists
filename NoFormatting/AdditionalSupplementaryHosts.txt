@@ -1063,6 +1063,7 @@
 0.0.0.0 clksite.com
 0.0.0.0 cloudcdn.gdn
 0.0.0.0 cloudir.cf
+0.0.0.0 cloudirs.cf
 0.0.0.0 cloud-miner.de
 0.0.0.0 cloud-miner.eu
 0.0.0.0 c.medialytics.com
@@ -1394,7 +1395,6 @@
 0.0.0.0 goforexvps.com
 0.0.0.0 gofun.info
 0.0.0.0 go-gal.com
-0.0.0.0 go.game2me.cn
 0.0.0.0 goldads.info
 0.0.0.0 goldoffer.online
 0.0.0.0 golds.lp.mydas.mobi
@@ -1501,7 +1501,6 @@
 0.0.0.0 hunger.xyz
 0.0.0.0 hunks-hardcore.com
 0.0.0.0 hunks-naked.com
-0.0.0.0 hunktoons.com
 0.0.0.0 hunshop.natureflower.com
 0.0.0.0 hunt4porn.com
 0.0.0.0 hustlervip.net

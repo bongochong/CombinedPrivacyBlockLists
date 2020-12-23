@@ -1,4 +1,4 @@
-# Sat Dec 19 01:10:59 AM MST 2020
+# Tue Dec 22 11:53:32 PM MST 2020
 # Spam404 Hosts - Generated weekly by bongochong
 0.0.0.0 001www.com
 0.0.0.0 0daygameparadise.com
@@ -6883,6 +6883,7 @@
 0.0.0.0 steamcammunitu.com
 0.0.0.0 steamcamrnunitty.com
 0.0.0.0 steam-cards.com
+0.0.0.0 steamcashrep.com
 0.0.0.0 steamchristmas.com
 0.0.0.0 steamcode.org
 0.0.0.0 steamcodes4free.com

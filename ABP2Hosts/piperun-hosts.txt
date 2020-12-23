@@ -1,4 +1,4 @@
-# Sat Dec 19 01:11:04 AM MST 2020
+# Tue Dec 22 11:53:38 PM MST 2020
 # Piperun IPLoggerFilter Hosts - Generated weekly by bongochong
 0.0.0.0 00689.net
 0.0.0.0 02ip.ru
@@ -516,6 +516,7 @@
 0.0.0.0 museumsinamerica.com
 0.0.0.0 my-alts.eu
 0.0.0.0 my-ap-p-applicatio-and-gratis.info
+0.0.0.0 myiptest.com
 0.0.0.0 mynews-line.com
 0.0.0.0 myorange.co
 0.0.0.0 myown42.com
