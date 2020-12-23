@@ -1,4 +1,4 @@
-# Wed Dec 23 12:00:36 AM MST 2020
+# Wed Dec 23 04:18:26 PM MST 2020
 # AdGuard DNS Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -6440,6 +6440,7 @@
 0.0.0.0 bihyteqy.xyz
 0.0.0.0 bikeacasqaxbs.com
 0.0.0.0 bikepasture.com
+0.0.0.0 bilanx.dcard.tw
 0.0.0.0 bildirt.com
 0.0.0.0 bileth.pw
 0.0.0.0 bilgibahis.com
@@ -8098,6 +8099,7 @@
 0.0.0.0 china-waters.com.cn
 0.0.0.0 chinaweian.com
 0.0.0.0 chinawms.cn
+0.0.0.0 chinaxingyin.com
 0.0.0.0 chinayutai.cn
 0.0.0.0 chinitnam.com
 0.0.0.0 chinsnakes.com
@@ -10836,6 +10838,7 @@
 0.0.0.0 discussneatglobe.com
 0.0.0.0 diseasonal.club
 0.0.0.0 diseasons.club
+0.0.0.0 disembarkappendix.com
 0.0.0.0 disgustingvoluntarilykiss.com
 0.0.0.0 dis.hogei.info
 0.0.0.0 disklaimer.ru
@@ -13714,6 +13717,7 @@
 0.0.0.0 fqsgj.com
 0.0.0.0 fqtag.com
 0.0.0.0 fqtra.com
+0.0.0.0 fqurmqe6agjyofb.ru
 0.0.0.0 fqwgi.com
 0.0.0.0 fqwrluzjti.com
 0.0.0.0 fqzds.com
@@ -14032,6 +14036,7 @@
 0.0.0.0 fyrsbckgi-c.global.ssl.fastly.net
 0.0.0.0 fyrvxydxsrww.com
 0.0.0.0 fytboti.ru
+0.0.0.0 fyzyf.com
 0.0.0.0 fz5akngy5o6r.com
 0.0.0.0 fzbymy.com
 0.0.0.0 fzdeng.com
@@ -14396,6 +14401,7 @@
 0.0.0.0 geolocation.performgroup.com
 0.0.0.0 geolocation.stroeerdp.de
 0.0.0.0 geoloc.hurriyet.com.tr
+0.0.0.0 geo.mattel163.com
 0.0.0.0 geo.metronews.ca
 0.0.0.0 geo.mezr.com
 0.0.0.0 geo.mozilla.org
@@ -16672,6 +16678,7 @@
 0.0.0.0 ichlnk.com
 0.0.0.0 ichnaea.netflix.com
 0.0.0.0 icilfj.com
+0.0.0.0 icjceddecjdgbaaaafc.ru
 0.0.0.0 icjvfvoh.com
 0.0.0.0 iclbkrgjdstqt.com
 0.0.0.0 iclbodnew.pro
@@ -16886,6 +16893,7 @@
 0.0.0.0 iljmp.com
 0.0.0.0 ilk10.az
 0.0.0.0 ilkmawgod.site
+0.0.0.0 ilkrileashes.com
 0.0.0.0 illallwoe.com
 0.0.0.0 illazkka.com
 0.0.0.0 illfatedsnail.com
@@ -17076,6 +17084,7 @@
 0.0.0.0 indecentfaces.com
 0.0.0.0 indemandads.com
 0.0.0.0 independentdespisedevolution.com
+0.0.0.0 index-markets.digital
 0.0.0.0 index.ru
 0.0.0.0 indexstats.com
 0.0.0.0 indextools.com
@@ -22946,6 +22955,7 @@
 0.0.0.0 newoctads.com
 0.0.0.0 newpoints.info
 0.0.0.0 newrrb.bid
+0.0.0.0 news02.biz
 0.0.0.0 news07.biz
 0.0.0.0 news19.biz
 0.0.0.0 news.1ru.tv
@@ -25832,6 +25842,7 @@
 0.0.0.0 poresresigntun.com
 0.0.0.0 porngraph.com
 0.0.0.0 pornin.ru
+0.0.0.0 porno365go.com
 0.0.0.0 pornoadvid.info
 0.0.0.0 pornodanke.com
 0.0.0.0 pornogoogle.info
@@ -29071,6 +29082,7 @@
 0.0.0.0 sc.smardroid.com
 0.0.0.0 sc-static.net
 0.0.0.0 scswlgxttvekd.com
+0.0.0.0 scswuliu.com
 0.0.0.0 sculifinanthools.site
 0.0.0.0 scupio.com
 0.0.0.0 scvdxxgbvoz.com
@@ -30758,6 +30770,7 @@
 0.0.0.0 s.soha.vn
 0.0.0.0 ssorsophicla.info
 0.0.0.0 ssp.adxpremium.com
+0.0.0.0 sspapi-prd.samsungrs.com
 0.0.0.0 ssp.hinet.net
 0.0.0.0 ssphwy.com
 0.0.0.0 ssp.kdnet.net
@@ -32045,6 +32058,7 @@
 0.0.0.0 tckjttdn.top
 0.0.0.0 tckn-code.com
 0.0.0.0 t.clic2buy.com
+0.0.0.0 tc-log.mattel163.com
 0.0.0.0 tcmdz.com
 0.0.0.0 tcnmf.com
 0.0.0.0 t.cnscore.com
@@ -33643,6 +33657,7 @@
 0.0.0.0 travidia.com
 0.0.0.0 traviilo.com
 0.0.0.0 traviously.pro
+0.0.0.0 trawahdh2hd8nbvy09.com
 0.0.0.0 trax-ad.jp
 0.0.0.0 tr.bannersdf.com
 0.0.0.0 trbas.com
@@ -45314,6 +45329,7 @@
 0.0.0.0 bihyteqy.xyz
 0.0.0.0 bikeacasqaxbs.com
 0.0.0.0 bikepasture.com
+0.0.0.0 bilanx.dcard.tw
 0.0.0.0 bildirt.com
 0.0.0.0 bileth.pw
 0.0.0.0 bilgibahis.com
@@ -46970,6 +46986,7 @@
 0.0.0.0 china-waters.com.cn
 0.0.0.0 chinaweian.com
 0.0.0.0 chinawms.cn
+0.0.0.0 chinaxingyin.com
 0.0.0.0 chinayutai.cn
 0.0.0.0 chinitnam.com
 0.0.0.0 chinsnakes.com
@@ -49700,6 +49717,7 @@
 0.0.0.0 discussneatglobe.com
 0.0.0.0 diseasonal.club
 0.0.0.0 diseasons.club
+0.0.0.0 disembarkappendix.com
 0.0.0.0 disgustingvoluntarilykiss.com
 0.0.0.0 dis.hogei.info
 0.0.0.0 disklaimer.ru
@@ -52568,6 +52586,7 @@
 0.0.0.0 fqsgj.com
 0.0.0.0 fqtag.com
 0.0.0.0 fqtra.com
+0.0.0.0 fqurmqe6agjyofb.ru
 0.0.0.0 fqwgi.com
 0.0.0.0 fqwrluzjti.com
 0.0.0.0 fqzds.com
@@ -52881,6 +52900,7 @@
 0.0.0.0 fyrsbckgi-c.global.ssl.fastly.net
 0.0.0.0 fyrvxydxsrww.com
 0.0.0.0 fytboti.ru
+0.0.0.0 fyzyf.com
 0.0.0.0 fz5akngy5o6r.com
 0.0.0.0 fzbymy.com
 0.0.0.0 fzdeng.com
@@ -53244,6 +53264,7 @@
 0.0.0.0 geolocation.performgroup.com
 0.0.0.0 geolocation.stroeerdp.de
 0.0.0.0 geoloc.hurriyet.com.tr
+0.0.0.0 geo.mattel163.com
 0.0.0.0 geo.metronews.ca
 0.0.0.0 geo.mezr.com
 0.0.0.0 geo.mozilla.org
@@ -55514,6 +55535,7 @@
 0.0.0.0 ichlnk.com
 0.0.0.0 ichnaea.netflix.com
 0.0.0.0 icilfj.com
+0.0.0.0 icjceddecjdgbaaaafc.ru
 0.0.0.0 icjvfvoh.com
 0.0.0.0 iclbkrgjdstqt.com
 0.0.0.0 iclbodnew.pro
@@ -55727,6 +55749,7 @@
 0.0.0.0 iljmp.com
 0.0.0.0 ilk10.az
 0.0.0.0 ilkmawgod.site
+0.0.0.0 ilkrileashes.com
 0.0.0.0 illallwoe.com
 0.0.0.0 illazkka.com
 0.0.0.0 illfatedsnail.com
@@ -55915,6 +55938,7 @@
 0.0.0.0 indecentfaces.com
 0.0.0.0 indemandads.com
 0.0.0.0 independentdespisedevolution.com
+0.0.0.0 index-markets.digital
 0.0.0.0 index.ru
 0.0.0.0 indexstats.com
 0.0.0.0 indextools.com
@@ -61764,6 +61788,7 @@
 0.0.0.0 newoctads.com
 0.0.0.0 newpoints.info
 0.0.0.0 newrrb.bid
+0.0.0.0 news02.biz
 0.0.0.0 news07.biz
 0.0.0.0 news19.biz
 0.0.0.0 news.1ru.tv
@@ -64640,6 +64665,7 @@
 0.0.0.0 poresresigntun.com
 0.0.0.0 porngraph.com
 0.0.0.0 pornin.ru
+0.0.0.0 porno365go.com
 0.0.0.0 pornoadvid.info
 0.0.0.0 pornodanke.com
 0.0.0.0 pornogoogle.info
@@ -67869,6 +67895,7 @@
 0.0.0.0 sc.smardroid.com
 0.0.0.0 sc-static.net
 0.0.0.0 scswlgxttvekd.com
+0.0.0.0 scswuliu.com
 0.0.0.0 sculifinanthools.site
 0.0.0.0 scupio.com
 0.0.0.0 scvdxxgbvoz.com
@@ -69556,6 +69583,7 @@
 0.0.0.0 s.soha.vn
 0.0.0.0 ssorsophicla.info
 0.0.0.0 ssp.adxpremium.com
+0.0.0.0 sspapi-prd.samsungrs.com
 0.0.0.0 ssp.hinet.net
 0.0.0.0 ssphwy.com
 0.0.0.0 ssp.kdnet.net
@@ -70840,6 +70868,7 @@
 0.0.0.0 tckjttdn.top
 0.0.0.0 tckn-code.com
 0.0.0.0 t.clic2buy.com
+0.0.0.0 tc-log.mattel163.com
 0.0.0.0 tcmdz.com
 0.0.0.0 tcnmf.com
 0.0.0.0 t.cnscore.com
@@ -72430,6 +72459,7 @@
 0.0.0.0 travidia.com
 0.0.0.0 traviilo.com
 0.0.0.0 traviously.pro
+0.0.0.0 trawahdh2hd8nbvy09.com
 0.0.0.0 trax-ad.jp
 0.0.0.0 tr.bannersdf.com
 0.0.0.0 trbas.com

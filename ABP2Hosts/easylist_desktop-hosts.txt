@@ -1,4 +1,4 @@
-# Wed Dec 23 12:00:30 AM MST 2020
+# Wed Dec 23 04:18:20 PM MST 2020
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -6558,6 +6558,7 @@
 0.0.0.0 china-waters.com.cn
 0.0.0.0 chinaweian.com
 0.0.0.0 chinawms.cn
+0.0.0.0 chinaxingyin.com
 0.0.0.0 chinayutai.cn
 0.0.0.0 chinesean.com
 0.0.0.0 chinitnam.com
@@ -8961,6 +8962,7 @@
 0.0.0.0 discussneatglobe.com
 0.0.0.0 diseasonal.club
 0.0.0.0 diseasons.club
+0.0.0.0 disembarkappendix.com
 0.0.0.0 dislanelibrar.top
 0.0.0.0 disloquerent.site
 0.0.0.0 disloquerent.website
@@ -9786,6 +9788,7 @@
 0.0.0.0 ec-concier.com
 0.0.0.0 ecdglplsmzxcergaqx.com
 0.0.0.0 ecezkkrm.com
+0.0.0.0 ecgopezooczg.com
 0.0.0.0 echeb.ru
 0.0.0.0 echoazou.com
 0.0.0.0 echobanners.net
@@ -11805,6 +11808,7 @@
 0.0.0.0 fyredet.xyz
 0.0.0.0 fyrsbckgi-c.global.ssl.fastly.net
 0.0.0.0 fyrvxydxsrww.com
+0.0.0.0 fyzyf.com
 0.0.0.0 fz5akngy5o6r.com
 0.0.0.0 fzbymy.com
 0.0.0.0 fzdeng.com
@@ -14290,6 +14294,7 @@
 0.0.0.0 iljmp.com
 0.0.0.0 ilkleygazette-gb.ilkleygazette.co.uk
 0.0.0.0 ilkmawgod.site
+0.0.0.0 ilkrileashes.com
 0.0.0.0 illallwoe.com
 0.0.0.0 illazkka.com
 0.0.0.0 illiage.com
@@ -14471,6 +14476,7 @@
 0.0.0.0 indecentfaces.com
 0.0.0.0 independentdespisedevolution.com
 0.0.0.0 index8.cn
+0.0.0.0 index-markets.digital
 0.0.0.0 index.ru
 0.0.0.0 indexstats.com
 0.0.0.0 indextools.com
@@ -17368,6 +17374,7 @@
 0.0.0.0 luoshenbest.cn
 0.0.0.0 luoyuanedu.cn
 0.0.0.0 lupoot.com
+0.0.0.0 luqafzbdscd.com
 0.0.0.0 luredac.com
 0.0.0.0 lushcrush.com
 0.0.0.0 lu.sogoucdn.com
@@ -19419,6 +19426,7 @@
 0.0.0.0 new-rutor.org.pl
 0.0.0.0 newrutor.org.pl
 0.0.0.0 new-rutor.pp.ua
+0.0.0.0 news02.biz
 0.0.0.0 news07.biz
 0.0.0.0 news19.biz
 0.0.0.0 newsadsppush.com
@@ -21188,6 +21196,7 @@
 0.0.0.0 pepnerdmime.cam
 0.0.0.0 pepperjam.com
 0.0.0.0 pepperjamnetwork.com
+0.0.0.0 peppy2lon1g1stalk.com
 0.0.0.0 pepsgolfsintake.com
 0.0.0.0 perceivecatastrophe.com
 0.0.0.0 perceivequarter.com
@@ -24473,6 +24482,7 @@
 0.0.0.0 scrutchother.club
 0.0.0.0 sc-static.net
 0.0.0.0 scswlgxttvekd.com
+0.0.0.0 scswuliu.com
 0.0.0.0 sctipt.prons.org
 0.0.0.0 sculifinanthools.site
 0.0.0.0 scupio.com
@@ -28314,6 +28324,7 @@
 0.0.0.0 trroawdnmt.com
 0.0.0.0 trs.cn
 0.0.0.0 tr.snapchat.com
+0.0.0.0 trtjigpsscmv9epe10.com
 0.0.0.0 trtkp.ru
 0.0.0.0 trtl.ws
 0.0.0.0 tru.am

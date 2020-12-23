@@ -1,4 +1,4 @@
-# Wed Dec 23 12:00:17 AM MST 2020
+# Wed Dec 23 04:18:07 PM MST 2020
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -5740,6 +5740,7 @@
 0.0.0.0 bihutg.com
 0.0.0.0 bihyteqy.xyz
 0.0.0.0 bikeacasqaxbs.com
+0.0.0.0 bilanx.dcard.tw
 0.0.0.0 bileth.pw
 0.0.0.0 bilgibahis.com
 0.0.0.0 bilink.xyz
@@ -7285,6 +7286,7 @@
 0.0.0.0 china-waters.com.cn
 0.0.0.0 chinaweian.com
 0.0.0.0 chinawms.cn
+0.0.0.0 chinaxingyin.com
 0.0.0.0 chinayutai.cn
 0.0.0.0 chinitnam.com
 0.0.0.0 chinsnakes.com
@@ -9868,6 +9870,7 @@
 0.0.0.0 discussneatglobe.com
 0.0.0.0 diseasonal.club
 0.0.0.0 diseasons.club
+0.0.0.0 disembarkappendix.com
 0.0.0.0 disfablot.com
 0.0.0.0 disgustingvoluntarilykiss.com
 0.0.0.0 dis.hogei.info
@@ -12632,6 +12635,7 @@
 0.0.0.0 fqsgj.com
 0.0.0.0 fqtag.com
 0.0.0.0 fqtra.com
+0.0.0.0 fqurmqe6agjyofb.ru
 0.0.0.0 fqwgi.com
 0.0.0.0 fqwrluzjti.com
 0.0.0.0 fqzds.com
@@ -12961,6 +12965,7 @@
 0.0.0.0 fyredet.xyz
 0.0.0.0 fyrvxydxsrww.com
 0.0.0.0 fytboti.ru
+0.0.0.0 fyzyf.com
 0.0.0.0 fz5akngy5o6r.com
 0.0.0.0 fzbymy.com
 0.0.0.0 fzdeng.com
@@ -13290,6 +13295,7 @@
 0.0.0.0 geolocation.performgroup.com
 0.0.0.0 geolocation.stroeerdp.de
 0.0.0.0 geoloc.hurriyet.com.tr
+0.0.0.0 geo.mattel163.com
 0.0.0.0 geo.metronews.ca
 0.0.0.0 geo.mozilla.org
 0.0.0.0 geo.perezhilton.com
@@ -15457,6 +15463,7 @@
 0.0.0.0 ichlnk.com
 0.0.0.0 ichnaea.netflix.com
 0.0.0.0 icilfj.com
+0.0.0.0 icjceddecjdgbaaaafc.ru
 0.0.0.0 icjvfvoh.com
 0.0.0.0 iclbkrgjdstqt.com
 0.0.0.0 iclbodnew.pro
@@ -15650,6 +15657,7 @@
 0.0.0.0 iljmp.com
 0.0.0.0 ilk10.az
 0.0.0.0 ilkmawgod.site
+0.0.0.0 ilkrileashes.com
 0.0.0.0 illallwoe.com
 0.0.0.0 illazkka.com
 0.0.0.0 illfatedsnail.com
@@ -15838,6 +15846,7 @@
 0.0.0.0 indecentfaces.com
 0.0.0.0 indemandads.com
 0.0.0.0 independentdespisedevolution.com
+0.0.0.0 index-markets.digital
 0.0.0.0 index.ru
 0.0.0.0 indexstats.com
 0.0.0.0 indextools.com
@@ -21273,6 +21282,7 @@
 0.0.0.0 newpoints.info
 0.0.0.0 newpush.support
 0.0.0.0 newrrb.bid
+0.0.0.0 news02.biz
 0.0.0.0 news07.biz
 0.0.0.0 news19.biz
 0.0.0.0 news.1ru.tv
@@ -24012,6 +24022,7 @@
 0.0.0.0 pornkings.com
 0.0.0.0 pornleep.com
 0.0.0.0 pornnperfect.com
+0.0.0.0 porno365go.com
 0.0.0.0 pornoadvid.info
 0.0.0.0 pornodanke.com
 0.0.0.0 porno-file.ru
@@ -27059,6 +27070,7 @@
 0.0.0.0 sc.rvtlife.com
 0.0.0.0 sc-static.net
 0.0.0.0 scswlgxttvekd.com
+0.0.0.0 scswuliu.com
 0.0.0.0 sculifinanthools.site
 0.0.0.0 scund.com
 0.0.0.0 scvdxxgbvoz.com
@@ -29696,6 +29708,7 @@
 0.0.0.0 tcimg.com
 0.0.0.0 t.cinemablend.com
 0.0.0.0 tckjttdn.top
+0.0.0.0 tc-log.mattel163.com
 0.0.0.0 tcmdz.com
 0.0.0.0 tcnmf.com
 0.0.0.0 t.cnscore.com
@@ -31020,6 +31033,7 @@
 0.0.0.0 travel-together.cn
 0.0.0.0 travidia.com
 0.0.0.0 traviously.pro
+0.0.0.0 trawahdh2hd8nbvy09.com
 0.0.0.0 tr.bannersdf.com
 0.0.0.0 trblocked.com
 0.0.0.0 trc85.com
@@ -31604,6 +31618,7 @@
 0.0.0.0 uitopadxdy.com
 0.0.0.0 uitrens.ru
 0.0.0.0 uiwaqbvvhz.com
+0.0.0.0 uixsuffkzkhbj.com
 0.0.0.0 uixvbjknkqxfvj.com
 0.0.0.0 uizhcjow.com
 0.0.0.0 ujav.net
@@ -35623,6 +35638,7 @@
 0.0.0.0 zhizones.com
 0.0.0.0 zhjfad.com
 0.0.0.0 zhkbjqtstd.com
+0.0.0.0 zhkquyvfndeker.com
 0.0.0.0 zhkzt.com
 0.0.0.0 zhlfogiy.com
 0.0.0.0 zhlrcaahpuqh.com

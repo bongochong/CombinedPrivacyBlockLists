@@ -1,4 +1,4 @@
-# Wed Dec 23 12:00:02 AM MST 2020
+# Wed Dec 23 04:17:51 PM MST 2020
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -8230,6 +8230,7 @@
 0.0.0.0 ssp.advertising.com
 0.0.0.0 sspapi.admicro.vn
 0.0.0.0 ssp-api.mobadvent.com
+0.0.0.0 sspapi-prd.samsungrs.com
 0.0.0.0 ssp.api.tappx.com
 0.0.0.0 ssp-csync.smartadserver.com
 0.0.0.0 ssp-events.chartboost.com
