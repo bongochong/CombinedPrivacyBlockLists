@@ -1,4 +1,4 @@
-# Wed Dec 23 04:18:20 PM MST 2020
+# Fri Dec 25 12:09:20 AM MST 2020
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -100,7 +100,6 @@
 0.0.0.0 0c8a10b46fc6.com
 0.0.0.0 0cf40a2064ce2.com
 0.0.0.0 0d20bff8143.com
-0.0.0.0 0d2c9f1f83e0.com
 0.0.0.0 0dbcf515975d.com
 0.0.0.0 0dc3c6535c5.com
 0.0.0.0 0e6fc55ed3d4c2c2ba0.com
@@ -215,7 +214,6 @@
 0.0.0.0 152media.com
 0.0.0.0 153105c2f9564.com
 0.0.0.0 157ita684j.com
-0.0.0.0 15976a3e57.com
 0.0.0.0 15fa37b45d.com
 0.0.0.0 15gifts.com
 0.0.0.0 15tianqi.com
@@ -735,7 +733,6 @@
 0.0.0.0 4c13cac4bb.com
 0.0.0.0 4c935d6a244f.com
 0.0.0.0 4cr447ewncl4.com
-0.0.0.0 4dc9170788e.com
 0.0.0.0 4dex.io
 0.0.0.0 4df5ef.xyz
 0.0.0.0 4dsbanner.net
@@ -870,7 +867,6 @@
 0.0.0.0 593pi.cn
 0.0.0.0 59519.com
 0.0.0.0 59a8e0d6fa2.com
-0.0.0.0 59ce3f2bf1b3.com
 0.0.0.0 59cn7.com
 0.0.0.0 59e6ea7248001c.com
 0.0.0.0 59gt.cn
@@ -2550,7 +2546,6 @@
 0.0.0.0 adsymptotic.com
 0.0.0.0 adsyst.com
 0.0.0.0 adsyst.ru
-0.0.0.0 ads.zynga.com
 0.0.0.0 adt100.com
 0.0.0.0 adtag.cc
 0.0.0.0 adtags.mobi
@@ -2964,7 +2959,6 @@
 0.0.0.0 agentinteractive.com
 0.0.0.0 agg.inquisitr.com
 0.0.0.0 agg.lifedaily.com
-0.0.0.0 aggnr.groovesharks.org
 0.0.0.0 aggravedgaree.info
 0.0.0.0 aggregateknowledge.com
 0.0.0.0 aggregator.inquisitr.com
@@ -3066,7 +3060,6 @@
 0.0.0.0 ai.iol.io
 0.0.0.0 aijielang.cn
 0.0.0.0 aikan6.com
-0.0.0.0 ailaskarc.club
 0.0.0.0 ailawlani.club
 0.0.0.0 aileenvideos.pro
 0.0.0.0 ailefen.com
@@ -3833,7 +3826,6 @@
 0.0.0.0 apsislead.com
 0.0.0.0 apsmediaagency.com
 0.0.0.0 ap-srv.net
-0.0.0.0 aptaleant.club
 0.0.0.0 aptapebog.online
 0.0.0.0 aptausad.com
 0.0.0.0 apus.tech
@@ -3891,7 +3883,6 @@
 0.0.0.0 arealx.com
 0.0.0.0 areandarm.com
 0.0.0.0 areantaid.site
-0.0.0.0 areapebeg.club
 0.0.0.0 arearmark.club
 0.0.0.0 areasins.com
 0.0.0.0 areasnap.com
@@ -4036,7 +4027,6 @@
 0.0.0.0 asparmany.site
 0.0.0.0 aspartbib.site
 0.0.0.0 aspartbus.site
-0.0.0.0 aspaskaim.club
 0.0.0.0 as.payback.it
 0.0.0.0 asperencium.com
 0.0.0.0 aspignitean.com
@@ -7056,7 +7046,7 @@
 0.0.0.0 cnt.nuvid.com
 0.0.0.0 cnt.rambler.ru
 0.0.0.0 cnt.rate.ru
-0.0.0.0 cntr.lookmovie.ag
+0.0.0.0 cntr.lookmovie.io
 0.0.0.0 cnt.vivatube.com
 0.0.0.0 cntvxymwesggem.com
 0.0.0.0 cnxad.com
@@ -8175,6 +8165,7 @@
 0.0.0.0 d2rnkf2kqy5m6h.cloudfront.net
 0.0.0.0 d2ry9vue95px0b.cloudfront.net
 0.0.0.0 d2san7t27xb2pn.cloudfront.net
+0.0.0.0 d2sbzwmcg5amr3.cloudfront.net
 0.0.0.0 d2ship.com
 0.0.0.0 d2sucq8qh4zqzj.cloudfront.net
 0.0.0.0 d2szg1g41jt3pq.cloudfront.net
@@ -9687,6 +9678,7 @@
 0.0.0.0 ea.kauf-unique.de
 0.0.0.0 eaknxurdsogwr.com
 0.0.0.0 ea.lafrancedunordausud.fr
+0.0.0.0 ealeo.com
 0.0.0.0 ea.leskidunordausud.fr
 0.0.0.0 ea.lespagnedunordausud.fr
 0.0.0.0 ea.lexpress.fr
@@ -10818,7 +10810,6 @@
 0.0.0.0 f3551539d6565853.com
 0.0.0.0 f35c5dba3b0b5b017.com
 0.0.0.0 f35ec1cf813.com
-0.0.0.0 f378d3c6a1d.com
 0.0.0.0 f3a2dc11dfb33.com
 0.0.0.0 f40f89d54b8.com
 0.0.0.0 f45ff72fec5426ae.com
@@ -12680,6 +12671,7 @@
 0.0.0.0 goverua.com
 0.0.0.0 govgift.com
 0.0.0.0 gov.hentaipix.ru
+0.0.0.0 govhunan.cn
 0.0.0.0 goviral-content.com
 0.0.0.0 govmetric.com
 0.0.0.0 govnogames.com
@@ -12829,6 +12821,7 @@
 0.0.0.0 growingio.com
 0.0.0.0 growltoe.com
 0.0.0.0 grownuplieutenant.com
+0.0.0.0 growthrx.in
 0.0.0.0 grsdvgnr.com
 0.0.0.0 grt01.com
 0.0.0.0 grt02.com
@@ -12929,6 +12922,7 @@
 0.0.0.0 guitaralliance.com
 0.0.0.0 guknpywmxk.com
 0.0.0.0 gulliblecamp.com
+0.0.0.0 gulpduereason.com
 0.0.0.0 gumbolersgthb.com
 0.0.0.0 gumgo.cn
 0.0.0.0 gumgum.com
@@ -13790,6 +13784,7 @@
 0.0.0.0 hpwzlfjpa.com
 0.0.0.0 hpyjmp.com
 0.0.0.0 hpyrdr.com
+0.0.0.0 hq3x.com
 0.0.0.0 hqczpetgslammu.com
 0.0.0.0 hqkwnyub.com
 0.0.0.0 hqr9q6f30371.com
@@ -14004,6 +13999,7 @@
 0.0.0.0 hyxca.top
 0.0.0.0 hyyazhaji.com
 0.0.0.0 hyz86.com
+0.0.0.0 hyzhongchuang.com
 0.0.0.0 hz3137.com
 0.0.0.0 hzaibi.com
 0.0.0.0 hzcrhwmi.com
@@ -15874,7 +15870,6 @@
 0.0.0.0 kgghxooarlnz.com
 0.0.0.0 kgnagbymcdmlr.com
 0.0.0.0 kgqhtakjphgdwg.com
-0.0.0.0 kgqlrcjlrx.com
 0.0.0.0 kgua0o66bcw8.com
 0.0.0.0 kguke.com
 0.0.0.0 kgvzesfexmenm.com
@@ -18188,8 +18183,8 @@
 0.0.0.0 mftracking.com
 0.0.0.0 mftxszpy.com
 0.0.0.0 mfwjyreguafi.com
-0.0.0.0 mfxjgymma.com
 0.0.0.0 mfxzxrveb.com
+0.0.0.0 mg17i.cn
 0.0.0.0 mg.32r.com
 0.0.0.0 mgcash.com
 0.0.0.0 mgcashgate.com
@@ -18308,6 +18303,7 @@
 0.0.0.0 miniatureabhor.com
 0.0.0.0 miniban.ru
 0.0.0.0 mini.hao123.com
+0.0.0.0 minimumkilledupdated.com
 0.0.0.0 minimumpay.info
 0.0.0.0 mining.best
 0.0.0.0 mininghub.club
@@ -19276,6 +19272,7 @@
 0.0.0.0 nedstat.net
 0.0.0.0 nedstatpro.net
 0.0.0.0 nedv21.ru
+0.0.0.0 neechube.net
 0.0.0.0 neechuce.net
 0.0.0.0 need2buy.1gb.ru
 0.0.0.0 neenaist.net
@@ -19602,6 +19599,7 @@
 0.0.0.0 nistdeathersd.club
 0.0.0.0 niteratebefo.top
 0.0.0.0 nitmus.com
+0.0.0.0 nitropay.com
 0.0.0.0 nityannoun.top
 0.0.0.0 niubiba.com
 0.0.0.0 niuguwang.net.cn
@@ -21034,6 +21032,7 @@
 0.0.0.0 passioncrunchfingernail.com
 0.0.0.0 passionfruitads.com
 0.0.0.0 passive-earner.com
+0.0.0.0 passiveinitialclass.com
 0.0.0.0 passivemarcoanyhow.com
 0.0.0.0 passtechusa.com
 0.0.0.0 pastilon.com
@@ -22443,7 +22442,6 @@
 0.0.0.0 pussl3.com
 0.0.0.0 pussl48.com
 0.0.0.0 pussl6.com
-0.0.0.0 pussyspace.com
 0.0.0.0 putags.com
 0.0.0.0 putfeepea.site
 0.0.0.0 putrr12.com
@@ -24350,6 +24348,7 @@
 0.0.0.0 sa.sina.cn
 0.0.0.0 sasingfinities.space
 0.0.0.0 sa.sky.it
+0.0.0.0 sasoo.cn
 0.0.0.0 sa.squareup.com
 0.0.0.0 sa.tf1.fr
 0.0.0.0 satgreera.com
@@ -24785,7 +24784,6 @@
 0.0.0.0 sexshop4ik.ru.swtest.ru
 0.0.0.0 sexualpitfall.com
 0.0.0.0 sexvrusko.org
-0.0.0.0 sexykittenporn.com
 0.0.0.0 sexy-more.com
 0.0.0.0 sexystat.com
 0.0.0.0 sezvc.com
@@ -24840,6 +24838,7 @@
 0.0.0.0 shangjiabiao.com
 0.0.0.0 shangyingwm.com
 0.0.0.0 shannon-porject.com
+0.0.0.0 shanprint.com
 0.0.0.0 shanta-jos.com
 0.0.0.0 shanxiyizhao.com
 0.0.0.0 shanyuebrowser.com
@@ -25450,7 +25449,9 @@
 0.0.0.0 softonic-analytics.net
 0.0.0.0 soft-pays.ru
 0.0.0.0 softpopads.com
+0.0.0.0 softspace.mobi
 0.0.0.0 softwares2015.com
+0.0.0.0 sogov587.top
 0.0.0.0 soholfit.com
 0.0.0.0 sohu999.com
 0.0.0.0 sojern.com
@@ -25468,6 +25469,7 @@
 0.0.0.0 solitudepeeves.com
 0.0.0.0 solocpm.com
 0.0.0.0 soloistforcefulvarious.com
+0.0.0.0 sololockscoin.com
 0.0.0.0 sololslol.ru
 0.0.0.0 solosegment.com
 0.0.0.0 soltitate.site
@@ -27530,6 +27532,7 @@
 0.0.0.0 tolethembehisy.club
 0.0.0.0 tolicando.com
 0.0.0.0 tollfreeforwarding.com
+0.0.0.0 tollholdmeg.cam
 0.0.0.0 tolyafbnjt9dedjj10.com
 0.0.0.0 tomekas.com
 0.0.0.0 tomiti.ru
@@ -28209,6 +28212,7 @@
 0.0.0.0 travidia.com
 0.0.0.0 traviilo.com
 0.0.0.0 traviously.pro
+0.0.0.0 trawahdh2hd8nbvy09.com
 0.0.0.0 trbas.com
 0.0.0.0 trblocked.com
 0.0.0.0 trbo.com
@@ -28797,6 +28801,7 @@
 0.0.0.0 uistspregna.club
 0.0.0.0 uitabletublis.info
 0.0.0.0 uiwaqbvvhz.com
+0.0.0.0 uixsuffkzkhbj.com
 0.0.0.0 uixvbjknkqxfvj.com
 0.0.0.0 uizhcjow.com
 0.0.0.0 ujav.net
@@ -29326,6 +29331,7 @@
 0.0.0.0 vashoaft.net
 0.0.0.0 vashoot.com
 0.0.0.0 vast.alloha.tv
+0.0.0.0 vast.bazonserver.site
 0.0.0.0 vastserved.com
 0.0.0.0 vast.spotim.market
 0.0.0.0 vast.videocdn.tv
@@ -30705,6 +30711,7 @@
 0.0.0.0 worldoffer.ru
 0.0.0.0 worldsearchpro.com
 0.0.0.0 worldwidemailer.com
+0.0.0.0 worsterring.com
 0.0.0.0 worthathousandwords.com
 0.0.0.0 worthersefim.club
 0.0.0.0 worthyadvertising.com
@@ -31018,6 +31025,7 @@
 0.0.0.0 xcads.cn
 0.0.0.0 x.castanet.net
 0.0.0.0 xcclzs.com
+0.0.0.0 xccpro.vip
 0.0.0.0 xcdzsw.com
 0.0.0.0 xcelltech.com
 0.0.0.0 xcelsiusadserver.com
@@ -32292,6 +32300,7 @@
 0.0.0.0 zedwhyex.com
 0.0.0.0 zee1qzzfnr.site
 0.0.0.0 zeegreen.net
+0.0.0.0 zeejuthu.com
 0.0.0.0 zeerat.com
 0.0.0.0 zeesiti.com
 0.0.0.0 zeewepie.net
@@ -32345,6 +32354,7 @@
 0.0.0.0 zgc66.com
 0.0.0.0 zgcplfvjpixarg.com
 0.0.0.0 zgczjw.com
+0.0.0.0 zgdfvih.cn
 0.0.0.0 zgdmsj.cn
 0.0.0.0 zgdtro.com
 0.0.0.0 zgeuzenogpy.com
@@ -32396,6 +32406,7 @@
 0.0.0.0 zhizones.com
 0.0.0.0 zhjfad.com
 0.0.0.0 zhkbjqtstd.com
+0.0.0.0 zhkquyvfndeker.com
 0.0.0.0 zhlfogiy.com
 0.0.0.0 zhlrcaahpuqh.com
 0.0.0.0 zhmatou.com
@@ -32547,6 +32558,7 @@
 0.0.0.0 zoastich.com
 0.0.0.0 zobsibzczd.com
 0.0.0.0 zodiac-game.info
+0.0.0.0 zoepb.cn
 0.0.0.0 zoeysqyx.com
 0.0.0.0 zoijpllqnm.com
 0.0.0.0 zonealta.com

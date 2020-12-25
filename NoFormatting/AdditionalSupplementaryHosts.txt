@@ -1013,6 +1013,7 @@
 0.0.0.0 cdn.taboola.com
 0.0.0.0 cdn.vdopia.com
 0.0.0.0 cdn.yektanet.com
+0.0.0.0 cdn.yektnet.com
 0.0.0.0 cds26.ams9.msecn.net
 0.0.0.0 certify-js.alexametrics.com
 0.0.0.0 cfcdist.gdn
@@ -2501,6 +2502,7 @@
 0.0.0.0 yekbux.com
 0.0.0.0 yekpop.com
 0.0.0.0 yektanet.com
+0.0.0.0 yektnet.com
 0.0.0.0 youtubologia.it
 0.0.0.0 yqaywudifu.date
 0.0.0.0 yrdrtzmsmt.com
