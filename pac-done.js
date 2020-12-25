@@ -1,4 +1,4 @@
-// **** Wed Dec 23 04:20:56 PM MST 2020
+// **** Fri Dec 25 12:12:30 AM MST 2020
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
