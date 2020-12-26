@@ -15,6 +15,8 @@ Within this directory are the following items:
 
 - Stripped down [IPv4](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/hosts.final) and [IPv6-only](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/hostsIPv6.final) hosts files which - aside from formatting - contain the same data as the hosts files mentioned on the main readme of this repository.  
 
+- Backups of the Immortal Malware Domain List in [hosts](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/MD-Immortal_Domains-Backup-HOSTS.txt) and [plain domain](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/MD-Immortal_Domains-Backup.txt) formats.  
+
 - Finally, the [plain version of my CIDR-format block list](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/combined-flat.cidr) is also available in this subdirectory.  
 
 File names in here are basically self-explanatory.
