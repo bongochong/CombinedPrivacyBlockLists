@@ -1,4 +1,4 @@
-# Sat Dec 26 10:21:49 PM MST 2020
+# Sun Dec 27 04:10:30 AM MST 2020
 # AdGuard DNS Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -6227,6 +6227,7 @@
 0.0.0.0 bestgameads.com
 0.0.0.0 besthitsnow.com
 0.0.0.0 besthpath.club
+0.0.0.0 bestialearnbuds.com
 0.0.0.0 besti.ga
 0.0.0.0 best.infoiswhatwedo.com
 0.0.0.0 bestmoneysites.com
@@ -16057,6 +16058,7 @@
 0.0.0.0 hjgajfbhiefjigafafc.ru
 0.0.0.0 hjgmasrve.com
 0.0.0.0 hjgtnhierc.com
+0.0.0.0 hjhbhddren.com
 0.0.0.0 hjiebsdcxldu.com
 0.0.0.0 hjiss.com
 0.0.0.0 hjjjsurdhtt.com
@@ -16494,6 +16496,7 @@
 0.0.0.0 hwstats.unity3d.com
 0.0.0.0 hwyoikfrfdtjp.com
 0.0.0.0 hxadt.com
+0.0.0.0 hxbt.alading123.com
 0.0.0.0 hxbvxmyldlt.com
 0.0.0.0 hxgccl.cn
 0.0.0.0 hxguqogewaicf42s.in.net
@@ -24132,6 +24135,7 @@
 0.0.0.0 onclickpulse.com
 0.0.0.0 onclicksuper.com
 0.0.0.0 onclicktop.com
+0.0.0.0 onclicktraffic.com
 0.0.0.0 onclkds.com
 0.0.0.0 oncustomer.asia
 0.0.0.0 ondayswr.club
@@ -29111,6 +29115,7 @@
 0.0.0.0 scswuliu.com
 0.0.0.0 sculifinanthools.site
 0.0.0.0 scupio.com
+0.0.0.0 scurewall.co
 0.0.0.0 scvdxxgbvoz.com
 0.0.0.0 scvxgm.cn
 0.0.0.0 scw0.com
@@ -29543,6 +29548,7 @@
 0.0.0.0 sgqqhydoovcd.com
 0.0.0.0 sgr1.com
 0.0.0.0 sgrreqyxvigwuh.com
+0.0.0.0 sgswuesocfr.com
 0.0.0.0 sguac.com
 0.0.0.0 sgutelyg.com
 0.0.0.0 sgxaqysyilwkiu.com
@@ -38145,6 +38151,7 @@
 0.0.0.0 yu987.com
 0.0.0.0 yuanhangpiju.cn
 0.0.0.0 yuanmengbi.com
+0.0.0.0 yuanqitu.com
 0.0.0.0 yuanyanglw.com
 0.0.0.0 yucce.com
 0.0.0.0 yudexjr.com
@@ -45163,6 +45170,7 @@
 0.0.0.0 bestgameads.com
 0.0.0.0 besthitsnow.com
 0.0.0.0 besthpath.club
+0.0.0.0 bestialearnbuds.com
 0.0.0.0 besti.ga
 0.0.0.0 best.infoiswhatwedo.com
 0.0.0.0 bestmoneysites.com
@@ -54965,6 +54973,7 @@
 0.0.0.0 hjgajfbhiefjigafafc.ru
 0.0.0.0 hjgmasrve.com
 0.0.0.0 hjgtnhierc.com
+0.0.0.0 hjhbhddren.com
 0.0.0.0 hjiebsdcxldu.com
 0.0.0.0 hjiss.com
 0.0.0.0 hjjjsurdhtt.com
@@ -55399,6 +55408,7 @@
 0.0.0.0 hwstats.unity3d.com
 0.0.0.0 hwyoikfrfdtjp.com
 0.0.0.0 hxadt.com
+0.0.0.0 hxbt.alading123.com
 0.0.0.0 hxbvxmyldlt.com
 0.0.0.0 hxgccl.cn
 0.0.0.0 hxguqogewaicf42s.in.net
@@ -63007,6 +63017,7 @@
 0.0.0.0 onclickpulse.com
 0.0.0.0 onclicksuper.com
 0.0.0.0 onclicktop.com
+0.0.0.0 onclicktraffic.com
 0.0.0.0 onclkds.com
 0.0.0.0 oncustomer.asia
 0.0.0.0 ondayswr.club
@@ -67972,6 +67983,7 @@
 0.0.0.0 scswuliu.com
 0.0.0.0 sculifinanthools.site
 0.0.0.0 scupio.com
+0.0.0.0 scurewall.co
 0.0.0.0 scvdxxgbvoz.com
 0.0.0.0 scvxgm.cn
 0.0.0.0 scw0.com
@@ -68404,6 +68416,7 @@
 0.0.0.0 sgqqhydoovcd.com
 0.0.0.0 sgr1.com
 0.0.0.0 sgrreqyxvigwuh.com
+0.0.0.0 sgswuesocfr.com
 0.0.0.0 sguac.com
 0.0.0.0 sgutelyg.com
 0.0.0.0 sgxaqysyilwkiu.com
@@ -76989,6 +77002,7 @@
 0.0.0.0 yu987.com
 0.0.0.0 yuanhangpiju.cn
 0.0.0.0 yuanmengbi.com
+0.0.0.0 yuanqitu.com
 0.0.0.0 yuanyanglw.com
 0.0.0.0 yucce.com
 0.0.0.0 yudexjr.com

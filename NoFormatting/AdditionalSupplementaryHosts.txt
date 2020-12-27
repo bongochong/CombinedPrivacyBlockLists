@@ -1802,6 +1802,7 @@
 0.0.0.0 cdn-code.host
 0.0.0.0 cdn.creative.medialytics.com
 0.0.0.0 cdn.fastclick.net
+0.0.0.0 cdn.i-xinnuo.com
 0.0.0.0 cdn-jquery.host
 0.0.0.0 cdn.jquery-uim.download
 0.0.0.0 cdnjs.cloudflane.com
@@ -3105,6 +3106,7 @@
 0.0.0.0 gustaver.ddns.net
 0.0.0.0 gw.brownsine.com
 0.0.0.0 gxbjugb.xyz
+0.0.0.0 gxd3fp7fe7cac6jzn2sac.online
 0.0.0.0 gxxservice.com
 0.0.0.0 h1.msn.com
 0.0.0.0 h2hphotography.com
@@ -3874,7 +3876,6 @@
 0.0.0.0 local-update.com
 0.0.0.0 localytics.com
 0.0.0.0 locatedforporternok.net
-0.0.0.0 lock.omkarfatale.in
 0.0.0.0 log2.spotify.com
 0.0.0.0 log.adaptv.advertising.com
 0.0.0.0 logger-keyz.tk
@@ -5464,6 +5465,7 @@
 0.0.0.0 sheepman.mine.bz
 0.0.0.0 sheibohchu.co.vu
 0.0.0.0 shgshgsndynationalobjindustrialatsngpx.ydns.eu
+0.0.0.0 shgsqfdzin.ru
 0.0.0.0 shilo.ml
 0.0.0.0 s.hitplus.ir
 0.0.0.0 shooting-portal.ru
@@ -5476,6 +5478,7 @@
 0.0.0.0 showads33000.pubmatic.com
 0.0.0.0 show-qo13.tk
 0.0.0.0 shubhinfoways.com
+0.0.0.0 siamimplement.co.th
 0.0.0.0 siamining.com
 0.0.0.0 sibernetix.fr
 0.0.0.0 sicurezzaonline.info
@@ -5557,7 +5560,6 @@
 0.0.0.0 sophosdefence.com
 0.0.0.0 sorna.at
 0.0.0.0 sorwatheltd.rw
-0.0.0.0 souffity.com
 0.0.0.0 space.bajamelide.ch
 0.0.0.0 spacebridemag.com
 0.0.0.0 spaceman07.ru
@@ -5926,6 +5928,7 @@
 0.0.0.0 trynda.xyz
 0.0.0.0 tsep13.com
 0.0.0.0 tshukwasolar.com
+0.0.0.0 tsrv4.ws
 0.0.0.0 tsunami.hopto.org
 0.0.0.0 ttreface.tk
 0.0.0.0 tuandat-vn.com
@@ -6178,6 +6181,7 @@
 0.0.0.0 wbinstall.pw
 0.0.0.0 wearewhatwesay.com
 0.0.0.0 weather.gbaycruise.com
+0.0.0.0 weatherwindows.pk
 0.0.0.0 web2kochanova.ru
 0.0.0.0 web2prox.com
 0.0.0.0 webapp-mpp2.com
@@ -6398,6 +6402,7 @@
 0.0.0.0 www.spotx.tv
 0.0.0.0 www.terethat.ru
 0.0.0.0 www.tune.com
+0.0.0.0 www.ukndesw19x.com
 0.0.0.0 www.verifier.live
 0.0.0.0 www.webassembly.stream
 0.0.0.0 www.webmine.cz

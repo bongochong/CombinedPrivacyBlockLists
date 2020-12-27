@@ -1,4 +1,4 @@
-# Sat Dec 26 10:21:31 PM MST 2020
+# Sun Dec 27 04:10:11 AM MST 2020
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -4078,6 +4078,7 @@
 0.0.0.0 aodsywsxzquemt.com
 0.0.0.0 ao-freegeoip.herokuapp.com
 0.0.0.0 a.oh100.com
+0.0.0.0 aoidf3.com
 0.0.0.0 a.oix.net
 0.0.0.0 aomde.com
 0.0.0.0 aomwoygnj.com
@@ -15251,6 +15252,7 @@
 0.0.0.0 hwpub.com
 0.0.0.0 hwyoikfrfdtjp.com
 0.0.0.0 hxadt.com
+0.0.0.0 hxbt.alading123.com
 0.0.0.0 hxbvxmyldlt.com
 0.0.0.0 hxgccl.cn
 0.0.0.0 hxguqogewaicf42s.in.net

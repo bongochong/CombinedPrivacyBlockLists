@@ -1,4 +1,4 @@
-# Sat Dec 26 10:21:16 PM MST 2020
+# Sun Dec 27 04:09:56 AM MST 2020
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -2677,7 +2677,6 @@
 0.0.0.0 cdn-3.convertexperiments.com.edgekey.net
 0.0.0.0 cdn3.doubleverify.com
 0.0.0.0 cdn.3lift.com
-0.0.0.0 cdn3.optimizely.com
 0.0.0.0 cdn4.buysellads.net
 0.0.0.0 cdn4.crispadvertising.com
 0.0.0.0 cdn4.mxpnl.com
@@ -2864,7 +2863,6 @@
 0.0.0.0 cdn.oas-c18.adnxs.com
 0.0.0.0 cdn.okanjo.com
 0.0.0.0 cdn.onthe.io
-0.0.0.0 cdn.optimizely.com
 0.0.0.0 cdn.optimizely.com.edgekey.net
 0.0.0.0 cdn-otf-cas.adperfect.com
 0.0.0.0 cdn-otf-cas.prfct.cc
