@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mini CPBL Filters for ABP & uBO
-! Updated: Sat Dec 26 10:53:38 PM MST 2020
+! Updated: Sun Dec 27 04:24:05 AM MST 2020
 ! Expires: 7 Days
 ! License: https://git.io/JTTLW
 ! Homepage: https://git.io/JTTLB
@@ -6972,6 +6972,7 @@
 ||ao-freegeoip.herokuapp.com^
 ||aogmphregion.org.za^
 ||a.oh100.com^
+||aoidf3.com^
 ||aol.vready.cn^
 ||aomde.com^
 ||aomeng.net^
@@ -20717,6 +20718,7 @@
 ||gwywsuemmf.com^
 ||gx101.com^
 ||gxbjugb.xyz^
+||gxd3fp7fe7cac6jzn2sac.online^
 ||gxejgs.com^
 ||gxgydnhz.com^
 ||gxgzyny.com^
@@ -22115,6 +22117,7 @@
 ||hwstats.unity3d.com^
 ||hwyoikfrfdtjp.com^
 ||hxadt.com^
+||hxbt.alading123.com^
 ||hxbvxmyldlt.com^
 ||hxfiqz.dynu.net^
 ||hxgccl.cn^
@@ -26449,7 +26452,6 @@
 ||lockerdome.com^
 ||lockhosts.com^
 ||lockingessay.com^
-||lock.omkarfatale.in^
 ||lockscalecompare.com^
 ||lockview.cn^
 ||loc.map.baidu.com^
@@ -37882,6 +37884,7 @@
 ||shftscdisov.com^
 ||shfutnjqshzw.com^
 ||shgshgsndynationalobjindustrialatsngpx.ydns.eu^
+||shgsqfdzin.ru^
 ||shibagongfang.com^
 ||shidailw.com^
 ||shigopo.ru^
@@ -38759,7 +38762,6 @@
 ||sotuktraffic.com^
 ||souacode.com^
 ||soueki.com^
-||souffity.com^
 ||soundcloud-pax.pandora.com^
 ||soundingexpulsioninspector.com^
 ||sourcecode.pro^
@@ -40424,8 +40426,6 @@
 ||szxpsg.com^
 ||szxzytech.com^
 ||szyuke.cn^
-||t0.ssl.ak.dynamic.tiles.virtualearth.net^
-||t0.ssl.ak.tiles.virtualearth.net^
 ||t1.612.com^
 ||t2.hulu.com^
 ||t2.huluim.com^
@@ -42815,6 +42815,7 @@
 ||tsr.cdns.com.ua^
 ||ts.richmedia.yahoo.com^
 ||ts.rtl.de^
+||tsrv4.ws^
 ||tst14netreal.com^
 ||t-staging.powerreviews.com^
 ||tstobkl.pro^
