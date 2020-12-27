@@ -1,4 +1,4 @@
-// **** Fri Dec 25 12:12:30 AM MST 2020
+// **** Sat Dec 26 10:28:10 PM MST 2020
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -11903,7 +11903,6 @@ shExpMatch(host, '*.playhaven.com') ||
 shExpMatch(host, '*.playhck.com') ||
 shExpMatch(host, '*.playinhd.biz') ||
 shExpMatch(host, '*.playkeys.pw') ||
-shExpMatch(host, '*.playmobileads.com') ||
 shExpMatch(host, '*.playmovie.biz') ||
 shExpMatch(host, '*.play.movieglobal.co') ||
 shExpMatch(host, '*.playnewgame.net') ||
@@ -28488,7 +28487,6 @@ shExpMatch(host, 'playhaven.com') ||
 shExpMatch(host, 'playhck.com') ||
 shExpMatch(host, 'playinhd.biz') ||
 shExpMatch(host, 'playkeys.pw') ||
-shExpMatch(host, 'playmobileads.com') ||
 shExpMatch(host, 'playmovie.biz') ||
 shExpMatch(host, 'play.movieglobal.co') ||
 shExpMatch(host, 'playnewgame.net') ||
