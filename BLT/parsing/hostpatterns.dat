@@ -60,7 +60,10 @@ localhost$
 ^0.0.0.0 c.paypal.com$
 ^0.0.0.0 cdn-staging.signal.org$
 ^0.0.0.0 cdn.cloudflare.net$
+^0.0.0.0 cdn.optimizely.com$
 ^0.0.0.0 cdn2-staging.signal.org$
+^0.0.0.0 cdn2.optimizely.com$
+^0.0.0.0 cdn3.optimizely.com$
 ^0.0.0.0 cdnjs.cloudflare.com$
 ^0.0.0.0 clientconfig.passport.net$
 ^0.0.0.0 clients1.google.com$
@@ -168,6 +171,8 @@ localhost$
 ^0.0.0.0 support.signal.org$
 ^0.0.0.0 swscan.apple.com$
 ^0.0.0.0 sysctl.org$
+^0.0.0.0 t0.ssl.ak.dynamic.tiles.virtualearth.net$
+^0.0.0.0 t0.ssl.ak.tiles.virtualearth.net$
 ^0.0.0.0 textsecure-service-staging.whispersystems.org$
 ^0.0.0.0 thepiratebay.org$
 ^0.0.0.0 timeinc.net$

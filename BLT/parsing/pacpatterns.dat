@@ -40,7 +40,10 @@
 ^c.paypal.com$
 ^cdn-staging.signal.org$
 ^cdn.cloudflare.net$
+^cdn.optimizely.com$
 ^cdn2-staging.signal.org$
+^cdn2.optimizely.com$
+^cdn3.optimizely.com$
 ^cdnjs.cloudflare.com$
 ^clientconfig.passport.net$
 ^clients1.google.com$
@@ -148,6 +151,8 @@
 ^support.signal.org$
 ^swscan.apple.com$
 ^sysctl.org$
+^t0.ssl.ak.dynamic.tiles.virtualearth.net$
+^t0.ssl.ak.tiles.virtualearth.net$
 ^textsecure-service-staging.whispersystems.org$
 ^thepiratebay.org$
 ^timeinc.net$
