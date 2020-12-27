@@ -1,4 +1,4 @@
-# Sun Dec 27 04:10:30 AM MST 2020
+# Sun Dec 27 05:46:15 AM MST 2020
 # AdGuard DNS Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -4613,6 +4613,7 @@
 0.0.0.0 aodepuo.cn
 0.0.0.0 aodsywsxzquemt.com
 0.0.0.0 a.oh100.com
+0.0.0.0 aoidf3.com
 0.0.0.0 a.oix.net
 0.0.0.0 aomde.com
 0.0.0.0 aomwoygnj.com
@@ -16734,6 +16735,7 @@
 0.0.0.0 identifyluckyexactly.com
 0.0.0.0 ideoclick.com
 0.0.0.0 idezofimc.com
+0.0.0.0 idgdmgroup.com.cn
 0.0.0.0 idhvbfj.pro
 0.0.0.0 idiafix.com
 0.0.0.0 idianfang.com
@@ -33721,7 +33723,6 @@
 0.0.0.0 tr.datanyze.com
 0.0.0.0 treadbun.com
 0.0.0.0 treammicr.club
-0.0.0.0 treasuredata.com
 0.0.0.0 treateramortgag.info
 0.0.0.0 treaturesfg.club
 0.0.0.0 tredirect.com
@@ -43562,6 +43563,7 @@
 0.0.0.0 aodepuo.cn
 0.0.0.0 aodsywsxzquemt.com
 0.0.0.0 a.oh100.com
+0.0.0.0 aoidf3.com
 0.0.0.0 a.oix.net
 0.0.0.0 aomde.com
 0.0.0.0 aomwoygnj.com
@@ -55645,6 +55647,7 @@
 0.0.0.0 identifyluckyexactly.com
 0.0.0.0 ideoclick.com
 0.0.0.0 idezofimc.com
+0.0.0.0 idgdmgroup.com.cn
 0.0.0.0 idhvbfj.pro
 0.0.0.0 idiafix.com
 0.0.0.0 idianfang.com
@@ -72578,7 +72581,6 @@
 0.0.0.0 tr.datanyze.com
 0.0.0.0 treadbun.com
 0.0.0.0 treammicr.club
-0.0.0.0 treasuredata.com
 0.0.0.0 treateramortgag.info
 0.0.0.0 treaturesfg.club
 0.0.0.0 tredirect.com

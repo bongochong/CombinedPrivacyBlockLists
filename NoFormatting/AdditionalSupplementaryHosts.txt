@@ -808,6 +808,8 @@
 0.0.0.0 ads.api.vungle.com
 0.0.0.0 ads.asr24.com
 0.0.0.0 ads.bizhut.com
+0.0.0.0 ads.brave.software
+0.0.0.0 ads.bravesoftware.com
 0.0.0.0 ads-br.spotify.com
 0.0.0.0 ads-ca.spotify.com
 0.0.0.0 ads.cdn.live
@@ -5627,6 +5629,7 @@
 0.0.0.0 stationery.link
 0.0.0.0 statistics-pro.best
 0.0.0.0 statototalitario.com
+0.0.0.0 stats.brave.com
 0.0.0.0 stats.calldorado.com
 0.0.0.0 stats.cliqz.com
 0.0.0.0 stats.g.doubleclick.net

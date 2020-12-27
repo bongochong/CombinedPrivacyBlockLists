@@ -1,4 +1,4 @@
-# Sun Dec 27 04:10:24 AM MST 2020
+# Sun Dec 27 05:46:09 AM MST 2020
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -14181,6 +14181,7 @@
 0.0.0.0 identifyluckyexactly.com
 0.0.0.0 ideoclick.com
 0.0.0.0 idezofimc.com
+0.0.0.0 idgdmgroup.com.cn
 0.0.0.0 idiafix.com
 0.0.0.0 idianfang.com
 0.0.0.0 idio.co
