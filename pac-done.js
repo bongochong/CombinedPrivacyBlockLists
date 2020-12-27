@@ -1,4 +1,4 @@
-// **** Sun Dec 27 05:19:08 AM MST 2020
+// **** Sun Dec 27 05:22:29 AM MST 2020
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -16588,7 +16588,6 @@ shExpMatch(host, '*.zzjsujpstcsx.myfw.us') ||
 shExpMatch(host, '*.zzpxw.cn') ||
 shExpMatch(host, '*.zzskmmdu.cz.cc') ||
 shExpMatch(host, '*.zzssfc.tk') ||
-shExpMatch(host, '') ||
 shExpMatch(host, '000007.ru') ||
 shExpMatch(host, '0000mps.webpreview.dsl.net') ||
 shExpMatch(host, '0001.2waky.com') ||

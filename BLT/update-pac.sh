@@ -23,7 +23,7 @@ sed -e '$s/$/\n/' -s *.pac | sed "s/#.*$//" | sed "/^$/d" | sed "/^Site$/d" | se
 cp pac-uniq.txt pac-pre.txt
 cp pac-pre.txt pac-pre2.txt
 sed -i "s/^/*./" pac-pre.txt
-cat pac-pre.txt <(echo) pac-pre2.txt > pac-wew.txt
+cat pac-pre.txt pac-pre2.txt > pac-wew.txt
 perl -i -pe 'chomp if eof' pac-wew.txt
 sed "s/^/shExpMatch(host, '/" pac-wew.txt > pac-lad.txt
 sed -i "s/$/') ||/" pac-lad.txt
