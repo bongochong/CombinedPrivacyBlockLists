@@ -1,4 +1,4 @@
-// **** Sun Dec 27 04:14:09 AM MST 2020
+// **** Sun Dec 27 04:48:25 AM MST 2020
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -891,6 +891,7 @@ shExpMatch(host, '*.ads.bonniercorp.com') ||
 shExpMatch(host, '*.ads.boylesports.com') ||
 shExpMatch(host, '*.ads.brabys.com') ||
 shExpMatch(host, '*.ads.brain.pk') ||
+shExpMatch(host, '*.ads.bravesoftware.com') ||
 shExpMatch(host, '*.ads.brazzers.com') ||
 shExpMatch(host, '*.ads.bumq.com') ||
 shExpMatch(host, '*.ads.businessweek.com') ||
@@ -13929,6 +13930,7 @@ shExpMatch(host, '*.stat.pl') ||
 shExpMatch(host, '*.stats2.self.com') ||
 shExpMatch(host, '*.stats4all.com') ||
 shExpMatch(host, '*.stats.blogger.com') ||
+shExpMatch(host, '*.stats.brave.com') ||
 shExpMatch(host, '*.stats-cs.ru') ||
 shExpMatch(host, '*.stats.cts-bv.nl') ||
 shExpMatch(host, '*.stats.directnic.com') ||
@@ -16230,7 +16232,7 @@ shExpMatch(host, '*.xn--yotbe-lvab.co') ||
 shExpMatch(host, '*.xn--yotbe-lvab.com') ||
 shExpMatch(host, '*.xn--yotu-1ra.be') ||
 shExpMatch(host, '*.xn--yutube-3wa.com') ||
-shExpMatch(host, '*.xn--yutube-iqc.com') ||
+shExpMatch(host, '*.xn--yutube-iqc.comads.brave.software') ||
 shExpMatch(host, '*.xn--zqsu8k5y0b.com') ||
 shExpMatch(host, '*.xofem.ru') ||
 shExpMatch(host, '*.xofub.ru') ||
@@ -17475,6 +17477,7 @@ shExpMatch(host, 'ads.bonniercorp.com') ||
 shExpMatch(host, 'ads.boylesports.com') ||
 shExpMatch(host, 'ads.brabys.com') ||
 shExpMatch(host, 'ads.brain.pk') ||
+shExpMatch(host, 'ads.bravesoftware.com') ||
 shExpMatch(host, 'ads.brazzers.com') ||
 shExpMatch(host, 'ads.bumq.com') ||
 shExpMatch(host, 'ads.businessweek.com') ||
@@ -30513,6 +30516,7 @@ shExpMatch(host, 'stat.pl') ||
 shExpMatch(host, 'stats2.self.com') ||
 shExpMatch(host, 'stats4all.com') ||
 shExpMatch(host, 'stats.blogger.com') ||
+shExpMatch(host, 'stats.brave.com') ||
 shExpMatch(host, 'stats-cs.ru') ||
 shExpMatch(host, 'stats.cts-bv.nl') ||
 shExpMatch(host, 'stats.directnic.com') ||
@@ -32814,7 +32818,7 @@ shExpMatch(host, 'xn--yotbe-lvab.co') ||
 shExpMatch(host, 'xn--yotbe-lvab.com') ||
 shExpMatch(host, 'xn--yotu-1ra.be') ||
 shExpMatch(host, 'xn--yutube-3wa.com') ||
-shExpMatch(host, 'xn--yutube-iqc.com') ||
+shExpMatch(host, 'xn--yutube-iqc.comads.brave.software') ||
 shExpMatch(host, 'xn--zqsu8k5y0b.com') ||
 shExpMatch(host, 'xofem.ru') ||
 shExpMatch(host, 'xofub.ru') ||
