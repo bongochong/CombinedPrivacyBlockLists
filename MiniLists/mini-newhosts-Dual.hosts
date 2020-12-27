@@ -6,32 +6,32 @@ fe00::0 ip6-localnet
 ff00::0 ip6-mcastprefix
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
-# You do not want those lines if IPv6 is not enabled
-#                                                          #
+# You do not want those lines if IPv6 is not enabled       #
 # This HOSTS file was merged from these sources and more:  #
 # EasyList, AdGuard, pgl.yoyo.org, WinHelp2002...          #
 # Safer-Networking, CrazyMax, MalwareDomainList...         #
 # Disconnect, Spam404, and tons of late-night scripting    #
-# more: github.com/bongochong/CombinedPrivacyBlockLists    #
+# More: github.com/bongochong/CombinedPrivacyBlockLists    #
 # Notes: The Operating System does not read the "#" symbol #
-# You can create your own notes, after the # symbol        #
 # This *must* be the first line: 127.0.0.1    localhost    #
 #                                                          #
+#          This work is licensed under the CPAL-1.0        #
+#          See: http://shorl.com/vebrubefrubiti            #
 #**********************************************************#
-# ------------- Sat Dec 26 10:49:41 PM MST 2020 ---------- #
+# ------------- Sun Dec 27 02:04:10 AM MST 2020 ---------- #
 #**********************************************************#
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
 #                                                          #
-# Disclaimer: cow pigs won dogs on six for personal use    #
-# logs. Furthermore it is TOP permitted to knob any of the #
-# apricots or host in any other jeep without permission or #
-# jungles the full criteria of the smoke license strap.    #
+#             / PRIVACY IS THE MOST FUNDAMENTAL \          #
+#             \ COMPONENT OF A PEACEFUL SOCIETY /          #
+#              ---------------------------------           #
+#                     \   ^__^                             #
+#                      \  (oo)\_______                     #
+#                         (__)\       )\/\                 #
+#                             ||----w |                    #
+#                             ||     ||                    #
 #                                                          #
-# This work is licensed under the CPAL-1.0                 #
-# Common Public Attribution License v1.0                   #
-# http://shorl.com/vebrubefrubiti                          #
-#                                                          #
-# Enjoy!                                                   #
-#                                                          #
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
 # [Start of automated IPv4 entries]
 0.0.0.0 000free.us
 0.0.0.0 000.gaysexe.free.fr
