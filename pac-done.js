@@ -1,4 +1,4 @@
-// **** Sun Dec 27 05:48:48 AM MST 2020
+// **** Sun Dec 27 04:54:26 PM MST 2020
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -7469,7 +7469,6 @@ shExpMatch(host, '*.getriotpointsfree.net') ||
 shExpMatch(host, '*.get.setheo.com') ||
 shExpMatch(host, '*.getskin.pro') ||
 shExpMatch(host, '*.getsomedownloads.com') ||
-shExpMatch(host, '*.ge.tt') ||
 shExpMatch(host, '*.gettruck-autonow.market') ||
 shExpMatch(host, '*.geturbobit.biz') ||
 shExpMatch(host, '*.get-well-now.info') ||
@@ -11453,7 +11452,6 @@ shExpMatch(host, '*.ops-screen.com') ||
 shExpMatch(host, '*.opticaforteza.com') ||
 shExpMatch(host, '*.optidl.com') ||
 shExpMatch(host, '*.optimallimit.com') ||
-shExpMatch(host, '*.optimizely.com') ||
 shExpMatch(host, '*.optimize-stats.voxmedia.com') ||
 shExpMatch(host, '*.optimost.com') ||
 shExpMatch(host, '*.optmd.com') ||
@@ -12484,6 +12482,7 @@ shExpMatch(host, '*.ragebooter.net') ||
 shExpMatch(host, '*.ragegamble.com') ||
 shExpMatch(host, '*.rahpublications.com') ||
 shExpMatch(host, '*.raidcalll.com') ||
+shExpMatch(host, '*.raidforums.com') ||
 shExpMatch(host, '*.railwayrainstorm.com') ||
 shExpMatch(host, '*.railwayreason.com') ||
 shExpMatch(host, '*.rainbow-case.com') ||
@@ -12752,6 +12751,7 @@ shExpMatch(host, '*.reyden-x.com') ||
 shExpMatch(host, '*.rezh-gid.ru') ||
 shExpMatch(host, '*.rfemfxnm.cz.cc') ||
 shExpMatch(host, '*.rfki.voetsjoeba.com') ||
+shExpMatch(host, '*.rf.ws') ||
 shExpMatch(host, '*.rgyhk2yt.club') ||
 shExpMatch(host, '*.rhombusads.com') ||
 shExpMatch(host, '*.rhrhrhrhereo.cn') ||
@@ -24056,7 +24056,6 @@ shExpMatch(host, 'getriotpointsfree.net') ||
 shExpMatch(host, 'get.setheo.com') ||
 shExpMatch(host, 'getskin.pro') ||
 shExpMatch(host, 'getsomedownloads.com') ||
-shExpMatch(host, 'ge.tt') ||
 shExpMatch(host, 'gettruck-autonow.market') ||
 shExpMatch(host, 'geturbobit.biz') ||
 shExpMatch(host, 'get-well-now.info') ||
@@ -28040,7 +28039,6 @@ shExpMatch(host, 'ops-screen.com') ||
 shExpMatch(host, 'opticaforteza.com') ||
 shExpMatch(host, 'optidl.com') ||
 shExpMatch(host, 'optimallimit.com') ||
-shExpMatch(host, 'optimizely.com') ||
 shExpMatch(host, 'optimize-stats.voxmedia.com') ||
 shExpMatch(host, 'optimost.com') ||
 shExpMatch(host, 'optmd.com') ||
@@ -29071,6 +29069,7 @@ shExpMatch(host, 'ragebooter.net') ||
 shExpMatch(host, 'ragegamble.com') ||
 shExpMatch(host, 'rahpublications.com') ||
 shExpMatch(host, 'raidcalll.com') ||
+shExpMatch(host, 'raidforums.com') ||
 shExpMatch(host, 'railwayrainstorm.com') ||
 shExpMatch(host, 'railwayreason.com') ||
 shExpMatch(host, 'rainbow-case.com') ||
@@ -29339,6 +29338,7 @@ shExpMatch(host, 'reyden-x.com') ||
 shExpMatch(host, 'rezh-gid.ru') ||
 shExpMatch(host, 'rfemfxnm.cz.cc') ||
 shExpMatch(host, 'rfki.voetsjoeba.com') ||
+shExpMatch(host, 'rf.ws') ||
 shExpMatch(host, 'rgyhk2yt.club') ||
 shExpMatch(host, 'rhombusads.com') ||
 shExpMatch(host, 'rhrhrhrhereo.cn') ||

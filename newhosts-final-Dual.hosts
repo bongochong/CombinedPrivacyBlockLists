@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 #          This work is licensed under the CPAL-1.0        #
 #          See: http://shorl.com/vebrubefrubiti            #
 #**********************************************************#
-# ------------- Sun Dec 27 05:48:26 AM MST 2020 ---------- #
+# ------------- Sun Dec 27 04:54:09 PM MST 2020 ---------- #
 #**********************************************************#
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
 #                                                          #
@@ -3223,13 +3223,10 @@ ff02::2 ip6-allrouters
 0.0.0.0 a9nf3hg5c2.com
 0.0.0.0 a9rhiwa.cn
 0.0.0.0 aa.0755rc.com
-0.0.0.0 aa08daf7e13b6345e09e92f771507fa5f4.com
 0.0.0.0 aa-1255839675.cos.ap-chengdu.myqcloud.com
 0.0.0.0 aa13.cloud
-0.0.0.0 aa14ab57a3339c4064bd9ae6fad7495b5f.com
 0.0.0.0 aa24h.com
 0.0.0.0 aa53df329975c325.com
-0.0.0.0 aa625d84f1587749c1ab011d6f269f7d64.com
 0.0.0.0 aa81bf391151884adfa3dd677e41f94be1.com
 0.0.0.0 aa88.in
 0.0.0.0 aa9bd78f328a6a41279d0fad0a88df1901.com
@@ -3626,6 +3623,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 acceptancecedehumorous.com
 0.0.0.0 acceptiongere.site
 0.0.0.0 acceptionijes.site
+0.0.0.0 access-accounts1.com
 0.0.0.0 access-analyze.org
 0.0.0.0 accessheler.com
 0.0.0.0 accessi.it
@@ -4931,7 +4929,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ad.mail.ru
 0.0.0.0 admailtiser.com
 0.0.0.0 ad.mainichi.jp
-0.0.0.0 ad.main-netz.de
 0.0.0.0 admaji.com
 0.0.0.0 admamba.com
 0.0.0.0 admanage.com
@@ -5202,7 +5199,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 adn-j.sp.gmossp-sp.jp
 0.0.0.0 ad.nl.doubleclick.net
 0.0.0.0 adn.lrb.co.uk
-0.0.0.0 adn.meinsol.de
 0.0.0.0 adnmore.co.kr
 0.0.0.0 adnmya.tk
 0.0.0.0 adnoble.com
@@ -5829,6 +5825,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.brain.pk
 0.0.0.0 ads.brand.net
 0.0.0.0 ads-brand-postback.unityads.unity3d.com
+0.0.0.0 ads.brave.software
+0.0.0.0 ads.bravesoftware.com
 0.0.0.0 ads.brazzers.com
 0.0.0.0 adsbreak.com
 0.0.0.0 ads.bridgebase.com
@@ -9418,7 +9416,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ampcid.google.com
 0.0.0.0 ampclicks.com
 0.0.0.0 amp-error-reporting.appspot.com
-0.0.0.0 amphorasf.com
 0.0.0.0 ampleteexis.info
 0.0.0.0 amplexheter.club
 0.0.0.0 amplifiernetworks.com
@@ -11951,7 +11948,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 a.tempurpedic.com
 0.0.0.0 atemutermed.hu
 0.0.0.0 atesbrothereso.info
-0.0.0.0 ate.spritmonitor.de
 0.0.0.0 atesupheast.fun
 0.0.0.0 atfile.com
 0.0.0.0 atgalacticwoken.com
@@ -33413,7 +33409,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 getstatistics.se
 0.0.0.0 getstat.net
 0.0.0.0 getsupernova.com
-0.0.0.0 ge.tt
 0.0.0.0 gettate.date
 0.0.0.0 gettate.faith
 0.0.0.0 gettate.racing
@@ -45375,7 +45370,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 lqfvlnnygf.com
 0.0.0.0 lqlonqihgkco.kwik.to
 0.0.0.0 lqmohun.com
-0.0.0.0 lqo02.pro
 0.0.0.0 lqpkjasgqjve.com
 0.0.0.0 l.qq.com
 0.0.0.0 lqqpabnu.com
@@ -47715,7 +47709,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 mhkx4.ru
 0.0.0.0 mhogb.space
 0.0.0.0 mhorwseoai.com
-0.0.0.0 m.hotmail.com
 0.0.0.0 mh-service.ru
 0.0.0.0 mhub.work
 0.0.0.0 mhviessolums.com
@@ -53264,7 +53257,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 optimize.indieclick.com
 0.0.0.0 optimize.innity.com
 0.0.0.0 optimizely.appspot.com
-0.0.0.0 optimizely.com
 0.0.0.0 optimizely.com.edgekey.net
 0.0.0.0 optimizelydata.com
 0.0.0.0 optimizesocial.com
@@ -54187,6 +54179,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 partnerearn.net
 0.0.0.0 partner.e-conomic.com
 0.0.0.0 partner.eviton.ru
+0.0.0.0 partner.fondsdiscount.de
 0.0.0.0 partnergateway.liga-stavok.com
 0.0.0.0 partner.gde.ru
 0.0.0.0 partner.googleadservices.com
@@ -58936,6 +58929,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ragitupime.com
 0.0.0.0 rahpublications.com
 0.0.0.0 raidcalll.com
+0.0.0.0 raidforums.com
 0.0.0.0 raigluce.net
 0.0.0.0 railroadheroicgold.com
 0.0.0.0 railroadtomato.com
@@ -60290,6 +60284,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 rfpnlsbbu.com
 0.0.0.0 rfr-69.com
 0.0.0.0 rfsfpomom.com
+0.0.0.0 rf.ws
 0.0.0.0 rgadvert.com
 0.0.0.0 rgahmllbgubakm.com
 0.0.0.0 rgalldmn.duckdns.org
@@ -61309,6 +61304,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 runandgunpack.sharezips.info
 0.0.0.0 runative.com
 0.0.0.0 runative-syndicate.com
+0.0.0.0 runbornto.com
 0.0.0.0 runcornandwidnesworld-gb.runcornandwidnesworld.co.uk
 0.0.0.0 rundsp.com
 0.0.0.0 runedo.ru
@@ -66121,6 +66117,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 sshowads.pubmatic.com
 0.0.0.0 ssjy168.com
 0.0.0.0 s.skimresources.com
+0.0.0.0 sskmnews.pro
 0.0.0.0 ssknweoz.cn
 0.0.0.0 ssl2anyone2.com
 0.0.0.0 ssl2anyone3.com
@@ -66794,6 +66791,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 stats.bmw.de
 0.0.0.0 stats.bookingbuddy.com
 0.0.0.0 statsbox.nl
+0.0.0.0 stats.brave.com
 0.0.0.0 stats.break.com
 0.0.0.0 stats.buycostumes.com
 0.0.0.0 stats.buysellads.com
@@ -85505,13 +85503,10 @@ ff02::2 ip6-allrouters
 :: a9nf3hg5c2.com
 :: a9rhiwa.cn
 :: aa.0755rc.com
-:: aa08daf7e13b6345e09e92f771507fa5f4.com
 :: aa-1255839675.cos.ap-chengdu.myqcloud.com
 :: aa13.cloud
-:: aa14ab57a3339c4064bd9ae6fad7495b5f.com
 :: aa24h.com
 :: aa53df329975c325.com
-:: aa625d84f1587749c1ab011d6f269f7d64.com
 :: aa81bf391151884adfa3dd677e41f94be1.com
 :: aa88.in
 :: aa9bd78f328a6a41279d0fad0a88df1901.com
@@ -85908,6 +85903,7 @@ ff02::2 ip6-allrouters
 :: acceptancecedehumorous.com
 :: acceptiongere.site
 :: acceptionijes.site
+:: access-accounts1.com
 :: access-analyze.org
 :: accessheler.com
 :: accessi.it
@@ -87213,7 +87209,6 @@ ff02::2 ip6-allrouters
 :: ad.mail.ru
 :: admailtiser.com
 :: ad.mainichi.jp
-:: ad.main-netz.de
 :: admaji.com
 :: admamba.com
 :: admanage.com
@@ -87484,7 +87479,6 @@ ff02::2 ip6-allrouters
 :: adn-j.sp.gmossp-sp.jp
 :: ad.nl.doubleclick.net
 :: adn.lrb.co.uk
-:: adn.meinsol.de
 :: adnmore.co.kr
 :: adnmya.tk
 :: adnoble.com
@@ -88111,6 +88105,8 @@ ff02::2 ip6-allrouters
 :: ads.brain.pk
 :: ads.brand.net
 :: ads-brand-postback.unityads.unity3d.com
+:: ads.brave.software
+:: ads.bravesoftware.com
 :: ads.brazzers.com
 :: adsbreak.com
 :: ads.bridgebase.com
@@ -91700,7 +91696,6 @@ ff02::2 ip6-allrouters
 :: ampcid.google.com
 :: ampclicks.com
 :: amp-error-reporting.appspot.com
-:: amphorasf.com
 :: ampleteexis.info
 :: amplexheter.club
 :: amplifiernetworks.com
@@ -94233,7 +94228,6 @@ ff02::2 ip6-allrouters
 :: a.tempurpedic.com
 :: atemutermed.hu
 :: atesbrothereso.info
-:: ate.spritmonitor.de
 :: atesupheast.fun
 :: atfile.com
 :: atgalacticwoken.com
@@ -115695,7 +115689,6 @@ ff02::2 ip6-allrouters
 :: getstatistics.se
 :: getstat.net
 :: getsupernova.com
-:: ge.tt
 :: gettate.date
 :: gettate.faith
 :: gettate.racing
@@ -127657,7 +127650,6 @@ ff02::2 ip6-allrouters
 :: lqfvlnnygf.com
 :: lqlonqihgkco.kwik.to
 :: lqmohun.com
-:: lqo02.pro
 :: lqpkjasgqjve.com
 :: l.qq.com
 :: lqqpabnu.com
@@ -129997,7 +129989,6 @@ ff02::2 ip6-allrouters
 :: mhkx4.ru
 :: mhogb.space
 :: mhorwseoai.com
-:: m.hotmail.com
 :: mh-service.ru
 :: mhub.work
 :: mhviessolums.com
@@ -135546,7 +135537,6 @@ ff02::2 ip6-allrouters
 :: optimize.indieclick.com
 :: optimize.innity.com
 :: optimizely.appspot.com
-:: optimizely.com
 :: optimizely.com.edgekey.net
 :: optimizelydata.com
 :: optimizesocial.com
@@ -136469,6 +136459,7 @@ ff02::2 ip6-allrouters
 :: partnerearn.net
 :: partner.e-conomic.com
 :: partner.eviton.ru
+:: partner.fondsdiscount.de
 :: partnergateway.liga-stavok.com
 :: partner.gde.ru
 :: partner.googleadservices.com
@@ -141218,6 +141209,7 @@ ff02::2 ip6-allrouters
 :: ragitupime.com
 :: rahpublications.com
 :: raidcalll.com
+:: raidforums.com
 :: raigluce.net
 :: railroadheroicgold.com
 :: railroadtomato.com
@@ -142572,6 +142564,7 @@ ff02::2 ip6-allrouters
 :: rfpnlsbbu.com
 :: rfr-69.com
 :: rfsfpomom.com
+:: rf.ws
 :: rgadvert.com
 :: rgahmllbgubakm.com
 :: rgalldmn.duckdns.org
@@ -143591,6 +143584,7 @@ ff02::2 ip6-allrouters
 :: runandgunpack.sharezips.info
 :: runative.com
 :: runative-syndicate.com
+:: runbornto.com
 :: runcornandwidnesworld-gb.runcornandwidnesworld.co.uk
 :: rundsp.com
 :: runedo.ru
@@ -148403,6 +148397,7 @@ ff02::2 ip6-allrouters
 :: sshowads.pubmatic.com
 :: ssjy168.com
 :: s.skimresources.com
+:: sskmnews.pro
 :: ssknweoz.cn
 :: ssl2anyone2.com
 :: ssl2anyone3.com
@@ -149076,6 +149071,7 @@ ff02::2 ip6-allrouters
 :: stats.bmw.de
 :: stats.bookingbuddy.com
 :: statsbox.nl
+:: stats.brave.com
 :: stats.break.com
 :: stats.buycostumes.com
 :: stats.buysellads.com
