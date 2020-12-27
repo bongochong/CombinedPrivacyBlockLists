@@ -8468,6 +8468,7 @@ aodsywsxzquemt.com
 ao-freegeoip.herokuapp.com
 aogmphregion.org.za
 a.oh100.com
+aoidf3.com
 aol-bidout-d.openx.net
 aolbks.122.2o7.net
 aolcamember.122.2o7.net
@@ -13910,7 +13911,6 @@ cdn3.appnext.com
 cdn-3.convertexperiments.com.edgekey.net
 cdn3.doubleverify.com
 cdn.3lift.com
-cdn3.optimizely.com
 cdn-41111111217-ms-telemetry.net
 cdn-4111111217-ms-telemetry.net
 cdn4ads.com
@@ -14234,7 +14234,6 @@ cdn.onesignal.com
 cdn.onscroll.com
 cdn.onthe.io
 cdn.optimatic.com
-cdn.optimizely.com
 cdn.optimizely.com.edgekey.net
 cdn.optmd.com
 cdnopw.com
@@ -26030,6 +26029,7 @@ gw.zedo.com
 gx101.com
 gxbjugb.xyz
 gxb.mmstat.com
+gxd3fp7fe7cac6jzn2sac.online
 gxejgs.com
 gxgydnhz.com
 gxgzyny.com
@@ -27625,6 +27625,7 @@ hwpub.com
 hwstats.unity3d.com
 hwyoikfrfdtjp.com
 hxadt.com
+hxbt.alading123.com
 hxbvxmyldlt.com
 hxfiqz.dynu.net
 hxgccl.cn
@@ -32857,7 +32858,6 @@ lockerdome.com
 lockergnome.us.intellitxt.com
 lockhosts.com
 lockingessay.com
-lock.omkarfatale.in
 lockscalecompare.com
 lockview.cn
 loc.map.baidu.com
@@ -47026,6 +47026,7 @@ shforu.com
 shftscdisov.com
 shfutnjqshzw.com
 shgshgsndynationalobjindustrialatsngpx.ydns.eu
+shgsqfdzin.ru
 shibagongfang.com
 shidailw.com
 shigopo.ru
@@ -48120,7 +48121,6 @@ sota-france.fr
 sotuktraffic.com
 souacode.com
 soueki.com
-souffity.com
 soundcloud-pax.pandora.com
 soundingexpulsioninspector.com
 soundpublishing.blueconic.net
@@ -50336,8 +50336,6 @@ szyuke.cn
 t01.proximic.com
 t0.c.appier.net
 t0.extreme-dm.com
-t0.ssl.ak.dynamic.tiles.virtualearth.net
-t0.ssl.ak.tiles.virtualearth.net
 t1.612.com
 t1.extreme-dm.com
 t1.mobrand.net
@@ -53324,6 +53322,7 @@ tsr.cdns.com.ua
 ts.richmedia.yahoo.com
 tsrid.cxense.com
 ts.rtl.de
+tsrv4.ws
 tst14netreal.com
 t-staging.powerreviews.com
 t.steelhousemedia.com
@@ -58309,6 +58308,7 @@ www.tune.com
 www.turkeyrank.com
 www.ugdturner.com
 www.ukbanners.com
+www.ukndesw19x.com
 www.ultimatetopsites.com
 www.undertonenetworks.com
 www.universal-traffic.com

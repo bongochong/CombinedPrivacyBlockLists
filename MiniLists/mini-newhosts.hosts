@@ -18,7 +18,7 @@
 #          This work is licensed under the CPAL-1.0        #
 #          See: http://shorl.com/vebrubefrubiti            #
 #**********************************************************#
-# ------------- Sun Dec 27 02:04:10 AM MST 2020 ---------- #
+# ------------- Sun Dec 27 04:22:10 AM MST 2020 ---------- #
 #**********************************************************#
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
 #                                                          #
@@ -8503,6 +8503,7 @@
 0.0.0.0 ao-freegeoip.herokuapp.com
 0.0.0.0 aogmphregion.org.za
 0.0.0.0 a.oh100.com
+0.0.0.0 aoidf3.com
 0.0.0.0 aol-bidout-d.openx.net
 0.0.0.0 aolbks.122.2o7.net
 0.0.0.0 aolcamember.122.2o7.net
@@ -13945,7 +13946,6 @@
 0.0.0.0 cdn-3.convertexperiments.com.edgekey.net
 0.0.0.0 cdn3.doubleverify.com
 0.0.0.0 cdn.3lift.com
-0.0.0.0 cdn3.optimizely.com
 0.0.0.0 cdn-41111111217-ms-telemetry.net
 0.0.0.0 cdn-4111111217-ms-telemetry.net
 0.0.0.0 cdn4ads.com
@@ -14269,7 +14269,6 @@
 0.0.0.0 cdn.onscroll.com
 0.0.0.0 cdn.onthe.io
 0.0.0.0 cdn.optimatic.com
-0.0.0.0 cdn.optimizely.com
 0.0.0.0 cdn.optimizely.com.edgekey.net
 0.0.0.0 cdn.optmd.com
 0.0.0.0 cdnopw.com
@@ -26063,6 +26062,7 @@
 0.0.0.0 gx101.com
 0.0.0.0 gxbjugb.xyz
 0.0.0.0 gxb.mmstat.com
+0.0.0.0 gxd3fp7fe7cac6jzn2sac.online
 0.0.0.0 gxejgs.com
 0.0.0.0 gxgydnhz.com
 0.0.0.0 gxgzyny.com
@@ -27658,6 +27658,7 @@
 0.0.0.0 hwstats.unity3d.com
 0.0.0.0 hwyoikfrfdtjp.com
 0.0.0.0 hxadt.com
+0.0.0.0 hxbt.alading123.com
 0.0.0.0 hxbvxmyldlt.com
 0.0.0.0 hxfiqz.dynu.net
 0.0.0.0 hxgccl.cn
@@ -32890,7 +32891,6 @@
 0.0.0.0 lockergnome.us.intellitxt.com
 0.0.0.0 lockhosts.com
 0.0.0.0 lockingessay.com
-0.0.0.0 lock.omkarfatale.in
 0.0.0.0 lockscalecompare.com
 0.0.0.0 lockview.cn
 0.0.0.0 loc.map.baidu.com
@@ -47059,6 +47059,7 @@
 0.0.0.0 shftscdisov.com
 0.0.0.0 shfutnjqshzw.com
 0.0.0.0 shgshgsndynationalobjindustrialatsngpx.ydns.eu
+0.0.0.0 shgsqfdzin.ru
 0.0.0.0 shibagongfang.com
 0.0.0.0 shidailw.com
 0.0.0.0 shigopo.ru
@@ -48153,7 +48154,6 @@
 0.0.0.0 sotuktraffic.com
 0.0.0.0 souacode.com
 0.0.0.0 soueki.com
-0.0.0.0 souffity.com
 0.0.0.0 soundcloud-pax.pandora.com
 0.0.0.0 soundingexpulsioninspector.com
 0.0.0.0 soundpublishing.blueconic.net
@@ -50369,8 +50369,6 @@
 0.0.0.0 t01.proximic.com
 0.0.0.0 t0.c.appier.net
 0.0.0.0 t0.extreme-dm.com
-0.0.0.0 t0.ssl.ak.dynamic.tiles.virtualearth.net
-0.0.0.0 t0.ssl.ak.tiles.virtualearth.net
 0.0.0.0 t1.612.com
 0.0.0.0 t1.extreme-dm.com
 0.0.0.0 t1.mobrand.net
@@ -53353,6 +53351,7 @@
 0.0.0.0 ts.richmedia.yahoo.com
 0.0.0.0 tsrid.cxense.com
 0.0.0.0 ts.rtl.de
+0.0.0.0 tsrv4.ws
 0.0.0.0 tst14netreal.com
 0.0.0.0 t-staging.powerreviews.com
 0.0.0.0 t.steelhousemedia.com
@@ -58336,6 +58335,7 @@
 0.0.0.0 www.turkeyrank.com
 0.0.0.0 www.ugdturner.com
 0.0.0.0 www.ukbanners.com
+0.0.0.0 www.ukndesw19x.com
 0.0.0.0 www.ultimatetopsites.com
 0.0.0.0 www.undertonenetworks.com
 0.0.0.0 www.universal-traffic.com

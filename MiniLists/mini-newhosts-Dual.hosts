@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 #          This work is licensed under the CPAL-1.0        #
 #          See: http://shorl.com/vebrubefrubiti            #
 #**********************************************************#
-# ------------- Sun Dec 27 02:04:10 AM MST 2020 ---------- #
+# ------------- Sun Dec 27 04:22:10 AM MST 2020 ---------- #
 #**********************************************************#
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
 #                                                          #
@@ -8503,6 +8503,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ao-freegeoip.herokuapp.com
 0.0.0.0 aogmphregion.org.za
 0.0.0.0 a.oh100.com
+0.0.0.0 aoidf3.com
 0.0.0.0 aol-bidout-d.openx.net
 0.0.0.0 aolbks.122.2o7.net
 0.0.0.0 aolcamember.122.2o7.net
@@ -13945,7 +13946,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn-3.convertexperiments.com.edgekey.net
 0.0.0.0 cdn3.doubleverify.com
 0.0.0.0 cdn.3lift.com
-0.0.0.0 cdn3.optimizely.com
 0.0.0.0 cdn-41111111217-ms-telemetry.net
 0.0.0.0 cdn-4111111217-ms-telemetry.net
 0.0.0.0 cdn4ads.com
@@ -14269,7 +14269,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.onscroll.com
 0.0.0.0 cdn.onthe.io
 0.0.0.0 cdn.optimatic.com
-0.0.0.0 cdn.optimizely.com
 0.0.0.0 cdn.optimizely.com.edgekey.net
 0.0.0.0 cdn.optmd.com
 0.0.0.0 cdnopw.com
@@ -26063,6 +26062,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 gx101.com
 0.0.0.0 gxbjugb.xyz
 0.0.0.0 gxb.mmstat.com
+0.0.0.0 gxd3fp7fe7cac6jzn2sac.online
 0.0.0.0 gxejgs.com
 0.0.0.0 gxgydnhz.com
 0.0.0.0 gxgzyny.com
@@ -27658,6 +27658,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 hwstats.unity3d.com
 0.0.0.0 hwyoikfrfdtjp.com
 0.0.0.0 hxadt.com
+0.0.0.0 hxbt.alading123.com
 0.0.0.0 hxbvxmyldlt.com
 0.0.0.0 hxfiqz.dynu.net
 0.0.0.0 hxgccl.cn
@@ -32890,7 +32891,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 lockergnome.us.intellitxt.com
 0.0.0.0 lockhosts.com
 0.0.0.0 lockingessay.com
-0.0.0.0 lock.omkarfatale.in
 0.0.0.0 lockscalecompare.com
 0.0.0.0 lockview.cn
 0.0.0.0 loc.map.baidu.com
@@ -47059,6 +47059,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 shftscdisov.com
 0.0.0.0 shfutnjqshzw.com
 0.0.0.0 shgshgsndynationalobjindustrialatsngpx.ydns.eu
+0.0.0.0 shgsqfdzin.ru
 0.0.0.0 shibagongfang.com
 0.0.0.0 shidailw.com
 0.0.0.0 shigopo.ru
@@ -48153,7 +48154,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 sotuktraffic.com
 0.0.0.0 souacode.com
 0.0.0.0 soueki.com
-0.0.0.0 souffity.com
 0.0.0.0 soundcloud-pax.pandora.com
 0.0.0.0 soundingexpulsioninspector.com
 0.0.0.0 soundpublishing.blueconic.net
@@ -50369,8 +50369,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 t01.proximic.com
 0.0.0.0 t0.c.appier.net
 0.0.0.0 t0.extreme-dm.com
-0.0.0.0 t0.ssl.ak.dynamic.tiles.virtualearth.net
-0.0.0.0 t0.ssl.ak.tiles.virtualearth.net
 0.0.0.0 t1.612.com
 0.0.0.0 t1.extreme-dm.com
 0.0.0.0 t1.mobrand.net
@@ -53353,6 +53351,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ts.richmedia.yahoo.com
 0.0.0.0 tsrid.cxense.com
 0.0.0.0 ts.rtl.de
+0.0.0.0 tsrv4.ws
 0.0.0.0 tst14netreal.com
 0.0.0.0 t-staging.powerreviews.com
 0.0.0.0 t.steelhousemedia.com
@@ -58336,6 +58335,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.turkeyrank.com
 0.0.0.0 www.ugdturner.com
 0.0.0.0 www.ukbanners.com
+0.0.0.0 www.ukndesw19x.com
 0.0.0.0 www.ultimatetopsites.com
 0.0.0.0 www.undertonenetworks.com
 0.0.0.0 www.universal-traffic.com
@@ -69294,6 +69294,7 @@ ff02::2 ip6-allrouters
 :: ao-freegeoip.herokuapp.com
 :: aogmphregion.org.za
 :: a.oh100.com
+:: aoidf3.com
 :: aol-bidout-d.openx.net
 :: aolbks.122.2o7.net
 :: aolcamember.122.2o7.net
@@ -74736,7 +74737,6 @@ ff02::2 ip6-allrouters
 :: cdn-3.convertexperiments.com.edgekey.net
 :: cdn3.doubleverify.com
 :: cdn.3lift.com
-:: cdn3.optimizely.com
 :: cdn-41111111217-ms-telemetry.net
 :: cdn-4111111217-ms-telemetry.net
 :: cdn4ads.com
@@ -75060,7 +75060,6 @@ ff02::2 ip6-allrouters
 :: cdn.onscroll.com
 :: cdn.onthe.io
 :: cdn.optimatic.com
-:: cdn.optimizely.com
 :: cdn.optimizely.com.edgekey.net
 :: cdn.optmd.com
 :: cdnopw.com
@@ -86854,6 +86853,7 @@ ff02::2 ip6-allrouters
 :: gx101.com
 :: gxbjugb.xyz
 :: gxb.mmstat.com
+:: gxd3fp7fe7cac6jzn2sac.online
 :: gxejgs.com
 :: gxgydnhz.com
 :: gxgzyny.com
@@ -88449,6 +88449,7 @@ ff02::2 ip6-allrouters
 :: hwstats.unity3d.com
 :: hwyoikfrfdtjp.com
 :: hxadt.com
+:: hxbt.alading123.com
 :: hxbvxmyldlt.com
 :: hxfiqz.dynu.net
 :: hxgccl.cn
@@ -93681,7 +93682,6 @@ ff02::2 ip6-allrouters
 :: lockergnome.us.intellitxt.com
 :: lockhosts.com
 :: lockingessay.com
-:: lock.omkarfatale.in
 :: lockscalecompare.com
 :: lockview.cn
 :: loc.map.baidu.com
@@ -107850,6 +107850,7 @@ ff02::2 ip6-allrouters
 :: shftscdisov.com
 :: shfutnjqshzw.com
 :: shgshgsndynationalobjindustrialatsngpx.ydns.eu
+:: shgsqfdzin.ru
 :: shibagongfang.com
 :: shidailw.com
 :: shigopo.ru
@@ -108944,7 +108945,6 @@ ff02::2 ip6-allrouters
 :: sotuktraffic.com
 :: souacode.com
 :: soueki.com
-:: souffity.com
 :: soundcloud-pax.pandora.com
 :: soundingexpulsioninspector.com
 :: soundpublishing.blueconic.net
@@ -111160,8 +111160,6 @@ ff02::2 ip6-allrouters
 :: t01.proximic.com
 :: t0.c.appier.net
 :: t0.extreme-dm.com
-:: t0.ssl.ak.dynamic.tiles.virtualearth.net
-:: t0.ssl.ak.tiles.virtualearth.net
 :: t1.612.com
 :: t1.extreme-dm.com
 :: t1.mobrand.net
@@ -114144,6 +114142,7 @@ ff02::2 ip6-allrouters
 :: ts.richmedia.yahoo.com
 :: tsrid.cxense.com
 :: ts.rtl.de
+:: tsrv4.ws
 :: tst14netreal.com
 :: t-staging.powerreviews.com
 :: t.steelhousemedia.com
@@ -119127,6 +119126,7 @@ ff02::2 ip6-allrouters
 :: www.turkeyrank.com
 :: www.ugdturner.com
 :: www.ukbanners.com
+:: www.ukndesw19x.com
 :: www.ultimatetopsites.com
 :: www.undertonenetworks.com
 :: www.universal-traffic.com
