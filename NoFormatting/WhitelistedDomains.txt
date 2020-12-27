@@ -14,6 +14,7 @@ appldnld.apple.com
 apple.com
 appleid.apple.com
 apresolve.spotify.com
+archive.org
 assets.ubuntu.com
 bit.ly
 bitbucket.org
@@ -66,6 +67,7 @@ embed.spotify.com
 fonts.gstatic.com
 forums.sonarr.tv
 g1.nyt.com
+ge.tt
 get.adobe.com
 get3.adobe.com
 getdropbox.com
@@ -93,6 +95,7 @@ jquery.com
 jsdelivr.net
 lads.myspace.com
 licensing.xboxlive.com
+m.hotmail.com
 malwaredomainlist.com
 malwaredomains.com
 managemymove.usps.com
@@ -105,6 +108,7 @@ office.com
 onedrive.com
 onedrive.live.com
 openphish.com
+optimizely.com
 paper.dropbox.com
 pgl.yoyo.org
 phobos.apple.com
@@ -152,6 +156,7 @@ us.i1.yimg.com
 userstream.twitter.com
 usps.com
 wallet-api.urbanairship.com
+web.archive.org
 whispersystems.org
 winhelp2002.mvps.org
 wix.com

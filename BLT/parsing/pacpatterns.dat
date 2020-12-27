@@ -34,6 +34,7 @@
 ^apple.com$
 ^appleid.apple.com$
 ^apresolve.spotify.com$
+^archive.org$
 ^assets.ubuntu.com$
 ^bit.ly$
 ^bitbucket.org$
@@ -86,6 +87,7 @@
 ^fonts.gstatic.com$
 ^forums.sonarr.tv$
 ^g1.nyt.com$
+^ge.tt$
 ^get.adobe.com$
 ^get3.adobe.com$
 ^getdropbox.com$
@@ -113,6 +115,7 @@
 ^jsdelivr.net$
 ^lads.myspace.com$
 ^licensing.xboxlive.com$
+^m.hotmail.com$
 ^malwaredomainlist.com$
 ^malwaredomains.com$
 ^managemymove.usps.com$
@@ -125,6 +128,7 @@
 ^onedrive.com$
 ^onedrive.live.com$
 ^openphish.com$
+^optimizely.com$
 ^paper.dropbox.com$
 ^pgl.yoyo.org$
 ^phobos.apple.com$
@@ -172,6 +176,7 @@
 ^userstream.twitter.com$
 ^usps.com$
 ^wallet-api.urbanairship.com$
+^web.archive.org$
 ^whispersystems.org$
 ^winhelp2002.mvps.org$
 ^wix.com$

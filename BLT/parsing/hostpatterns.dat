@@ -54,6 +54,7 @@ localhost$
 ^0.0.0.0 apple.com$
 ^0.0.0.0 appleid.apple.com$
 ^0.0.0.0 apresolve.spotify.com$
+^0.0.0.0 archive.org$
 ^0.0.0.0 assets.ubuntu.com$
 ^0.0.0.0 bit.ly$
 ^0.0.0.0 bitbucket.org$
@@ -106,6 +107,7 @@ localhost$
 ^0.0.0.0 fonts.gstatic.com$
 ^0.0.0.0 forums.sonarr.tv$
 ^0.0.0.0 g1.nyt.com$
+^0.0.0.0 ge.tt$
 ^0.0.0.0 get.adobe.com$
 ^0.0.0.0 get3.adobe.com$
 ^0.0.0.0 getdropbox.com$
@@ -133,6 +135,7 @@ localhost$
 ^0.0.0.0 jsdelivr.net$
 ^0.0.0.0 lads.myspace.com$
 ^0.0.0.0 licensing.xboxlive.com$
+^0.0.0.0 m.hotmail.com$
 ^0.0.0.0 malwaredomainlist.com$
 ^0.0.0.0 malwaredomains.com$
 ^0.0.0.0 managemymove.usps.com$
@@ -145,6 +148,7 @@ localhost$
 ^0.0.0.0 onedrive.com$
 ^0.0.0.0 onedrive.live.com$
 ^0.0.0.0 openphish.com$
+^0.0.0.0 optimizely.com$
 ^0.0.0.0 paper.dropbox.com$
 ^0.0.0.0 pgl.yoyo.org$
 ^0.0.0.0 phobos.apple.com$
@@ -192,6 +196,7 @@ localhost$
 ^0.0.0.0 userstream.twitter.com$
 ^0.0.0.0 usps.com$
 ^0.0.0.0 wallet-api.urbanairship.com$
+^0.0.0.0 web.archive.org$
 ^0.0.0.0 whispersystems.org$
 ^0.0.0.0 winhelp2002.mvps.org$
 ^0.0.0.0 wix.com$
