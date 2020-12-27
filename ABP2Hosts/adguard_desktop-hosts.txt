@@ -1,4 +1,4 @@
-# Sun Dec 27 05:45:56 AM MST 2020
+# Sun Dec 27 04:51:38 PM MST 2020
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -22548,7 +22548,6 @@
 0.0.0.0 optimatic.com
 0.0.0.0 optimierung-der-website.de
 0.0.0.0 optimix.asia
-0.0.0.0 optimizely.com
 0.0.0.0 optimizesocial.com
 0.0.0.0 optimizesrv.com
 0.0.0.0 optimize-stats.voxmedia.com
@@ -26581,6 +26580,7 @@
 0.0.0.0 runadtag.com
 0.0.0.0 runative.com
 0.0.0.0 runative-syndicate.com
+0.0.0.0 runbornto.com
 0.0.0.0 runetki.co
 0.0.0.0 runetki.com
 0.0.0.0 runetki.tv
@@ -28609,6 +28609,7 @@
 0.0.0.0 ssgg.chazidian.com
 0.0.0.0 s.shbywsd.cn
 0.0.0.0 ssjy168.com
+0.0.0.0 sskmnews.pro
 0.0.0.0 ssknweoz.cn
 0.0.0.0 ssl2anyone2.com
 0.0.0.0 ssl2anyone3.com

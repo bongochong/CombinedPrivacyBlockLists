@@ -1,4 +1,4 @@
-# Sun Dec 27 05:46:18 AM MST 2020
+# Sun Dec 27 04:52:00 PM MST 2020
 # Spam404 Hosts - Generated weekly by bongochong
 0.0.0.0 001www.com
 0.0.0.0 0daygameparadise.com
@@ -6174,6 +6174,7 @@
 0.0.0.0 ragebooter.net
 0.0.0.0 ragegamble.com
 0.0.0.0 raidcalll.com
+0.0.0.0 raidforums.com
 0.0.0.0 rainbow-case.com
 0.0.0.0 rainhack.com
 0.0.0.0 raisegame.com
@@ -6269,6 +6270,7 @@
 0.0.0.0 rewardprogram.allalla.com
 0.0.0.0 rewardsforpoints.info
 0.0.0.0 rexisa.ru
+0.0.0.0 rf.ws
 0.0.0.0 riben.ru
 0.0.0.0 rich-bets.one
 0.0.0.0 richboysblog.com

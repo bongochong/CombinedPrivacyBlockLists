@@ -1,4 +1,4 @@
-# Sun Dec 27 05:46:09 AM MST 2020
+# Sun Dec 27 04:51:51 PM MST 2020
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -2127,7 +2127,6 @@
 0.0.0.0 adm.6park.com
 0.0.0.0 admagnet.net
 0.0.0.0 admailtiser.com
-0.0.0.0 ad.main-netz.de
 0.0.0.0 admaji.com
 0.0.0.0 admamba.com
 0.0.0.0 admanage.com
@@ -2216,7 +2215,6 @@
 0.0.0.0 adnimation.com
 0.0.0.0 adnimo.com
 0.0.0.0 adnium.com
-0.0.0.0 adn.meinsol.de
 0.0.0.0 adnmore.co.kr
 0.0.0.0 adnoble.com
 0.0.0.0 adnow.cc
@@ -4077,7 +4075,6 @@
 0.0.0.0 atelovesinothic.info
 0.0.0.0 atemda.com
 0.0.0.0 atesbrothereso.info
-0.0.0.0 ate.spritmonitor.de
 0.0.0.0 atesupheast.fun
 0.0.0.0 atgalacticwoken.com
 0.0.0.0 atgsvcs.com
@@ -9282,6 +9279,7 @@
 0.0.0.0 doudao.cn
 0.0.0.0 doufoacu.net
 0.0.0.0 doug1izaerwt3.cloudfront.net
+0.0.0.0 douhooke.net
 0.0.0.0 douoblelimpup.com
 0.0.0.0 doushoom.net
 0.0.0.0 douteure.com
@@ -20579,7 +20577,6 @@
 0.0.0.0 optimierung-der-website.de
 0.0.0.0 optimix.asia
 0.0.0.0 optimizely.appspot.com
-0.0.0.0 optimizely.com
 0.0.0.0 optimizelydata.com
 0.0.0.0 optimizesocial.com
 0.0.0.0 optimizesrv.com
@@ -21017,6 +21014,7 @@
 0.0.0.0 partner.dasoertliche-marketing.de
 0.0.0.0 partnerearning.com
 0.0.0.0 partner.e-conomic.com
+0.0.0.0 partner.fondsdiscount.de
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 partner.ixi.ua
 0.0.0.0 partner.join.com.ua
@@ -24096,6 +24094,7 @@
 0.0.0.0 runadtag.com
 0.0.0.0 runative.com
 0.0.0.0 runative-syndicate.com
+0.0.0.0 runbornto.com
 0.0.0.0 runcornandwidnesworld-gb.runcornandwidnesworld.co.uk
 0.0.0.0 ru.net
 0.0.0.0 runewslenta.com
@@ -25911,6 +25910,7 @@
 0.0.0.0 ssfiles.com
 0.0.0.0 ssgg.chazidian.com
 0.0.0.0 ssjy168.com
+0.0.0.0 sskmnews.pro
 0.0.0.0 ssknweoz.cn
 0.0.0.0 ssl2anyone2.com
 0.0.0.0 ssl2anyone3.com
