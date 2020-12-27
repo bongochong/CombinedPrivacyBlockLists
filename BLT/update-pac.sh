@@ -19,11 +19,11 @@ wget -nv -O 5.pac "https://raw.githubusercontent.com/Spam404/lists/master/main-b
 wget -nv -O 6.pac "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=0&mimetype=plaintext"
 wget -nv -O 7.pac "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/piperun-hosts.txt"
 echo "Lists Downloaded. Now parsing..."
-cat *.pac | sed "s/#.*$//" | sed "/^$/d" | sed "/^Site$/d" | sed "s/\(.*\)/\L\1/" | pcregrep -f ~/BLT/parsing/tld-filter.dat | sed "s/^127.0.0.1 //g" | sed "s/^0.0.0.0 //g" | sed "s/^::1 //g" | sed "s/^:: //g" | pcregrep -v -f ~/BLT/parsing/pacpatterns.dat | sed "/ /d" | sort | uniq -i > pac-uniq.txt
+sed -e '$s/$/\n/' -s *.pac | sed "s/#.*$//" | sed "/^$/d" | sed "/^Site$/d" | sed "s/\(.*\)/\L\1/" | pcregrep -f ~/BLT/parsing/tld-filter.dat | sed "s/^127.0.0.1 //g" | sed "s/^0.0.0.0 //g" | sed "s/^::1 //g" | sed "s/^:: //g" | pcregrep -v -f ~/BLT/parsing/pacpatterns.dat | sed "/ /d" | sort | uniq -i > pac-uniq.txt
 cp pac-uniq.txt pac-pre.txt
 cp pac-pre.txt pac-pre2.txt
 sed -i "s/^/*./" pac-pre.txt
-cat pac-pre.txt pac-pre2.txt > pac-wew.txt
+cat pac-pre.txt <(echo) pac-pre2.txt > pac-wew.txt
 perl -i -pe 'chomp if eof' pac-wew.txt
 sed "s/^/shExpMatch(host, '/" pac-wew.txt > pac-lad.txt
 sed -i "s/$/') ||/" pac-lad.txt
