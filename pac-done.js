@@ -1,4 +1,4 @@
-// **** Sun Dec 27 04:48:25 AM MST 2020
+// **** Sun Dec 27 05:11:12 AM MST 2020
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -891,6 +891,7 @@ shExpMatch(host, '*.ads.bonniercorp.com') ||
 shExpMatch(host, '*.ads.boylesports.com') ||
 shExpMatch(host, '*.ads.brabys.com') ||
 shExpMatch(host, '*.ads.brain.pk') ||
+shExpMatch(host, '*.ads.brave.software') ||
 shExpMatch(host, '*.ads.bravesoftware.com') ||
 shExpMatch(host, '*.ads.brazzers.com') ||
 shExpMatch(host, '*.ads.bumq.com') ||
@@ -14410,6 +14411,7 @@ shExpMatch(host, '*.telechargementspremium.com') ||
 shExpMatch(host, '*.telecharger1.com') ||
 shExpMatch(host, '*.telecharger24.fr') ||
 shExpMatch(host, '*.telechargerassassinscreed.gamerlh.com') ||
+shExpMatch(host, '*.telechargerdes.com') ||
 shExpMatch(host, '*.telechargerfilmsfrancaisgratuit.info') ||
 shExpMatch(host, '*.telechargergratuites.com') ||
 shExpMatch(host, '*.telecharger-gratuit-pirate-jeux.com') ||
@@ -15572,7 +15574,6 @@ shExpMatch(host, '*.vufese.ru') ||
 shExpMatch(host, '*.vukoldi.ru') ||
 shExpMatch(host, '*.vukxljtb.cz.cc') ||
 shExpMatch(host, '*.vungle.com') ||
-shExpMatch(host, '*.vungle.comtelechargerdes.com') ||
 shExpMatch(host, '*.vurud.ru') ||
 shExpMatch(host, '*.vutera.ru') ||
 shExpMatch(host, '*.vuthanhluan.com') ||
@@ -16232,7 +16233,7 @@ shExpMatch(host, '*.xn--yotbe-lvab.co') ||
 shExpMatch(host, '*.xn--yotbe-lvab.com') ||
 shExpMatch(host, '*.xn--yotu-1ra.be') ||
 shExpMatch(host, '*.xn--yutube-3wa.com') ||
-shExpMatch(host, '*.xn--yutube-iqc.comads.brave.software') ||
+shExpMatch(host, '*.xn--yutube-iqc.com') ||
 shExpMatch(host, '*.xn--zqsu8k5y0b.com') ||
 shExpMatch(host, '*.xofem.ru') ||
 shExpMatch(host, '*.xofub.ru') ||
@@ -17477,6 +17478,7 @@ shExpMatch(host, 'ads.bonniercorp.com') ||
 shExpMatch(host, 'ads.boylesports.com') ||
 shExpMatch(host, 'ads.brabys.com') ||
 shExpMatch(host, 'ads.brain.pk') ||
+shExpMatch(host, 'ads.brave.software') ||
 shExpMatch(host, 'ads.bravesoftware.com') ||
 shExpMatch(host, 'ads.brazzers.com') ||
 shExpMatch(host, 'ads.bumq.com') ||
@@ -30996,6 +30998,7 @@ shExpMatch(host, 'telechargementspremium.com') ||
 shExpMatch(host, 'telecharger1.com') ||
 shExpMatch(host, 'telecharger24.fr') ||
 shExpMatch(host, 'telechargerassassinscreed.gamerlh.com') ||
+shExpMatch(host, 'telechargerdes.com') ||
 shExpMatch(host, 'telechargerfilmsfrancaisgratuit.info') ||
 shExpMatch(host, 'telechargergratuites.com') ||
 shExpMatch(host, 'telecharger-gratuit-pirate-jeux.com') ||
@@ -32158,7 +32161,6 @@ shExpMatch(host, 'vufese.ru') ||
 shExpMatch(host, 'vukoldi.ru') ||
 shExpMatch(host, 'vukxljtb.cz.cc') ||
 shExpMatch(host, 'vungle.com') ||
-shExpMatch(host, 'vungle.comtelechargerdes.com') ||
 shExpMatch(host, 'vurud.ru') ||
 shExpMatch(host, 'vutera.ru') ||
 shExpMatch(host, 'vuthanhluan.com') ||
@@ -32818,7 +32820,7 @@ shExpMatch(host, 'xn--yotbe-lvab.co') ||
 shExpMatch(host, 'xn--yotbe-lvab.com') ||
 shExpMatch(host, 'xn--yotu-1ra.be') ||
 shExpMatch(host, 'xn--yutube-3wa.com') ||
-shExpMatch(host, 'xn--yutube-iqc.comads.brave.software') ||
+shExpMatch(host, 'xn--yutube-iqc.com') ||
 shExpMatch(host, 'xn--zqsu8k5y0b.com') ||
 shExpMatch(host, 'xofem.ru') ||
 shExpMatch(host, 'xofub.ru') ||
