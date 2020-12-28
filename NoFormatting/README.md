@@ -11,7 +11,7 @@ Within this directory are the following items:
 
 - [The whitelist](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/WhitelistedDomains.txt) for my hosts and PAC files.  
 
-- A [list of supplementary domains to block](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/AdditionalSupplementaryHosts.txt), Which is compiled from my own observations, and a frequently shifting list of threat intelligence sources. Included in my main hosts files.  
+- A [list of supplementary domains to block](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/AdditionalSupplementaryHosts.txt), which is compiled from my own observations, and a frequently shifting list of threat intelligence sources. Included in my main hosts files.  
 
 - Stripped down [IPv4](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/hosts.final) and [IPv6-only](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/hostsIPv6.final) hosts files which - aside from formatting - contain the same data as the hosts files mentioned on the main readme of this repository.  
 
