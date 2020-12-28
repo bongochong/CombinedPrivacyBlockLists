@@ -9,7 +9,7 @@ Within this directory are the following items:
 
 - A plain list of [the domains blocked by my main hosts files](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/BlacklistedDomains.txt).  
 
-- [The whitelist](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/WhitelistedDomains.txt) for my main hosts files.  
+- [The whitelist](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/WhitelistedDomains.txt) for my hosts and PAC files.  
 
 - A [list of supplementary domains to block](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/AdditionalSupplementaryHosts.txt) (which is compiled from my own observations and an ever-shifting list of sources, and is included in my main hosts files).  
 
