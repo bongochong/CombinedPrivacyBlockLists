@@ -45,7 +45,7 @@ In addition, see the [**Windows Versions of these Tools**](https://github.com/bo
 <sup>3. [Malware Domains Immortal List](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/MD-Immortal_Domains-Backup.txt). </sup> <br>
 <sup>4. [URL Haus](https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts-online.txt). </sup> <br>
 <sup>5. [EasyList](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/ABP2Hosts/easylist_desktop-hosts.txt). </sup> <br>
-<sup>6. [Supplementary](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/WindowsTelemetryBlockSupplements) [Entries](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/ABP2Hosts). </sup> <br>
+<sup>6. [Additional](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/README.md) [Supplementary](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/WindowsTelemetryBlockSupplements) [Entries](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/ABP2Hosts). </sup> <br>
 <sup>7. [Halite](https://www.fosshub.com/Halite.html). </sup> <br>
 <sup>8. [BlueTack Lists on I-BlockList](https://www.iblocklist.com/lists). </sup> <br>
 <sup>9. [qBitTorrent](https://www.qbittorrent.org/). </sup> <br>
