@@ -1,4 +1,4 @@
-// **** Sun Dec 27 06:02:44 AM MST 2020
+// **** Sun Dec 27 05:07:07 PM MST 2020
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.001.0x1f4b0.com') ||
@@ -373,6 +373,7 @@ shExpMatch(host, '*.acbp0020171456.page.tl') ||
 shExpMatch(host, '*.acbsearch.com') ||
 shExpMatch(host, '*.accbmosol.com') ||
 shExpMatch(host, '*.acceptable.a-ads.com') ||
+shExpMatch(host, '*.access-accounts1.com') ||
 shExpMatch(host, '*.accessheler.com') ||
 shExpMatch(host, '*.accesso-cupo-de-tarjeta-cl.cf') ||
 shExpMatch(host, '*.accesso-cupo-de-tarjeta-cl.gq') ||
@@ -6042,7 +6043,6 @@ shExpMatch(host, '*.lovliygtyu.ml') ||
 shExpMatch(host, '*.lowashemterle.top') ||
 shExpMatch(host, '*.lowcostpower.ru') ||
 shExpMatch(host, '*.lp3tdqle.com') ||
-shExpMatch(host, '*.lqo02.pro') ||
 shExpMatch(host, '*.lritck.tk') ||
 shExpMatch(host, '*.ls2web-redmond-corp.com') ||
 shExpMatch(host, '*.lse-my.asia') ||
@@ -7205,7 +7205,6 @@ shExpMatch(host, '*.opt91.ddns.net') ||
 shExpMatch(host, '*.opticaforteza.com') ||
 shExpMatch(host, '*.opticaoptigral.cl') ||
 shExpMatch(host, '*.optimallimit.com') ||
-shExpMatch(host, '*.optimizely.com') ||
 shExpMatch(host, '*.optimize-stats.voxmedia.com') ||
 shExpMatch(host, '*.optimost.com') ||
 shExpMatch(host, '*.optimus.com.sg') ||
@@ -11037,6 +11036,7 @@ shExpMatch(host, 'acbp0020171456.page.tl') ||
 shExpMatch(host, 'acbsearch.com') ||
 shExpMatch(host, 'accbmosol.com') ||
 shExpMatch(host, 'acceptable.a-ads.com') ||
+shExpMatch(host, 'access-accounts1.com') ||
 shExpMatch(host, 'accessheler.com') ||
 shExpMatch(host, 'accesso-cupo-de-tarjeta-cl.cf') ||
 shExpMatch(host, 'accesso-cupo-de-tarjeta-cl.gq') ||
@@ -16706,7 +16706,6 @@ shExpMatch(host, 'lovliygtyu.ml') ||
 shExpMatch(host, 'lowashemterle.top') ||
 shExpMatch(host, 'lowcostpower.ru') ||
 shExpMatch(host, 'lp3tdqle.com') ||
-shExpMatch(host, 'lqo02.pro') ||
 shExpMatch(host, 'lritck.tk') ||
 shExpMatch(host, 'ls2web-redmond-corp.com') ||
 shExpMatch(host, 'lse-my.asia') ||
@@ -17869,7 +17868,6 @@ shExpMatch(host, 'opt91.ddns.net') ||
 shExpMatch(host, 'opticaforteza.com') ||
 shExpMatch(host, 'opticaoptigral.cl') ||
 shExpMatch(host, 'optimallimit.com') ||
-shExpMatch(host, 'optimizely.com') ||
 shExpMatch(host, 'optimize-stats.voxmedia.com') ||
 shExpMatch(host, 'optimost.com') ||
 shExpMatch(host, 'optimus.com.sg') ||

@@ -2661,13 +2661,10 @@ a9.com
 a9d7c19f0282.com
 a9nf3hg5c2.com
 aa.0755rc.com
-aa08daf7e13b6345e09e92f771507fa5f4.com
 aa-1255839675.cos.ap-chengdu.myqcloud.com
 aa13.cloud
-aa14ab57a3339c4064bd9ae6fad7495b5f.com
 aa24h.com
 aa53df329975c325.com
-aa625d84f1587749c1ab011d6f269f7d64.com
 aa81bf391151884adfa3dd677e41f94be1.com
 aa9bd78f328a6a41279d0fad0a88df1901.com
 aa9d046aab36af4ff182f097f840430d51.com
@@ -3002,6 +2999,7 @@ acceptableserver.com
 acceptancecedehumorous.com
 acceptiongere.site
 acceptionijes.site
+access-accounts1.com
 access-analyze.org
 accessheler.com
 accessi.it
@@ -4065,7 +4063,6 @@ ad.madvertise.de
 admagnet.net
 ad.mail.ru
 admailtiser.com
-ad.main-netz.de
 admaji.com
 admamba.com
 admanage.com
@@ -4290,7 +4287,6 @@ adnium.com
 adn-j.sp.gmossp-sp.jp
 ad.nl.doubleclick.net
 adn.lrb.co.uk
-adn.meinsol.de
 adnmore.co.kr
 adnmya.tk
 adnoble.com
@@ -7761,7 +7757,6 @@ amp.casalemedia.com
 amp-cdn.rqmob.com
 ampcid.google.com
 amp-error-reporting.appspot.com
-amphorasf.com
 ampleteexis.info
 amplexheter.club
 amplifiernetworks.com
@@ -9843,7 +9838,6 @@ atelovesinothic.info
 atemda.com
 a.tempurpedic.com
 atesbrothereso.info
-ate.spritmonitor.de
 atesupheast.fun
 atfile.com
 atgalacticwoken.com
@@ -19839,6 +19833,7 @@ doudao.cn
 doufoacu.net
 doug1izaerwt3.cloudfront.net
 douglas01.webtrekk.net
+douhooke.net
 douoblelimpup.com
 doushoom.net
 douteure.com
@@ -33363,7 +33358,6 @@ lqdqjkzfhijx.com
 lqeevjgkjjwi.com
 lqfvlnnygf.com
 lqmohun.com
-lqo02.pro
 lqpkjasgqjve.com
 l.qq.com
 lqqpabnu.com
@@ -35142,7 +35136,6 @@ mhj765.xyz
 mhkdhotbot80.myvnc.com
 mhkx4.ru
 mhorwseoai.com
-m.hotmail.com
 mh-service.ru
 mhviessolums.com
 mi82ltk3veb7.com
@@ -39211,7 +39204,6 @@ optimized.by.vitalads.net
 optimize.indieclick.com
 optimize.innity.com
 optimizely.appspot.com
-optimizely.com
 optimizely.com.edgekey.net
 optimizelydata.com
 optimizesocial.com
@@ -39930,6 +39922,7 @@ partner.cynapse.com
 partner.dasoertliche-marketing.de
 partnerearning.com
 partner.e-conomic.com
+partner.fondsdiscount.de
 partner.googleadservices.com
 partner.ixi.ua
 partner.join.com.ua
@@ -45120,6 +45113,7 @@ runads.com
 runadtag.com
 runative.com
 runative-syndicate.com
+runbornto.com
 runcornandwidnesworld-gb.runcornandwidnesworld.co.uk
 rundsp.com
 ru.net
@@ -48701,6 +48695,7 @@ s.shopify.com
 sshowads.pubmatic.com
 ssjy168.com
 s.skimresources.com
+sskmnews.pro
 ssknweoz.cn
 ssl2anyone2.com
 ssl2anyone3.com
