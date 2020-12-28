@@ -85,6 +85,7 @@ www.juicedb.com##.nicotine-warning
 www.linuxandubuntu.com##.hustle-optin--focus-optin.hustle-optin
 www.linuxandubuntu.com##.hustle-optin-mask.hustle-popup-mask
 www.linuxandubuntu.com##.hustle-show.module_id_1.hustle_module_id_1.hustle-palette--default.hustle-popup.hustle-ui
+www.phantasytour.com##.col3
 www.reddit.com##.Drawer__overlay
 www.reddit.com##.SignupDrawer__content.Drawer__content
 www.reddit.com##.in.fade.modal-backdrop
