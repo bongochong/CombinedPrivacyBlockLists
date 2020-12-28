@@ -1,4 +1,4 @@
-# Sun Dec 27 04:51:51 PM MST 2020
+# Sun Dec 27 11:32:06 PM MST 2020
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -109,6 +109,7 @@
 0.0.0.0 0fmm.com
 0.0.0.0 0fwg.cn
 0.0.0.0 0gctp5ht.top
+0.0.0.0 0gw7e6s3wrao9y3q.pro
 0.0.0.0 0h6djpk8fn.com
 0.0.0.0 0j7z9aw6.top
 0.0.0.0 0ka.com
@@ -181,6 +182,7 @@
 0.0.0.0 12291.com
 0.0.0.0 123456.asia
 0.0.0.0 12365chia.com
+0.0.0.0 123advertising.nl
 0.0.0.0 123compteur.com
 0.0.0.0 123count.com
 0.0.0.0 123-counter.de
@@ -412,6 +414,7 @@
 0.0.0.0 21kk.cc
 0.0.0.0 21pokupki.ru
 0.0.0.0 21sale.ru
+0.0.0.0 21sexturycash.com
 0.0.0.0 21xsk.com
 0.0.0.0 21.zhaozongjie.com
 0.0.0.0 220efda3143.com
@@ -444,9 +447,11 @@
 0.0.0.0 24reporter.ru
 0.0.0.0 24-rus.info
 0.0.0.0 24smi.info
+0.0.0.0 24smile.org
 0.0.0.0 24smi.net
 0.0.0.0 24s.ru
 0.0.0.0 24vunvrv.com
+0.0.0.0 24x7adservice.com
 0.0.0.0 2526game.com
 0.0.0.0 2529.com
 0.0.0.0 25348f89a3.com
@@ -510,6 +515,7 @@
 0.0.0.0 2i829cwhe9gq.ru
 0.0.0.0 2ip.ua
 0.0.0.0 2iui01.com
+0.0.0.0 2kl08cd74f.com
 0.0.0.0 _2krota.ru
 0.0.0.0 2ktd0.cn
 0.0.0.0 2l1f.cn
@@ -652,6 +658,7 @@
 0.0.0.0 3g.990.net
 0.0.0.0 3gl.net
 0.0.0.0 3gmtr.com
+0.0.0.0 3gporn.biz
 0.0.0.0 3.guidaye.com
 0.0.0.0 3hbox.com
 0.0.0.0 3jmcwio.com
@@ -755,6 +762,7 @@
 0.0.0.0 4ib3rzfjqh.buzz
 0.0.0.0 4ixbffsib0.monster
 0.0.0.0 4jiqzr.ru
+0.0.0.0 4jpf0karrejn6yla.pro
 0.0.0.0 4kfv18.cn
 0.0.0.0 4kmovies.online
 0.0.0.0 4kt2.com
@@ -1079,6 +1087,7 @@
 0.0.0.0 74da0fffc981.com
 0.0.0.0 74p030.cn
 0.0.0.0 74vc.cn
+0.0.0.0 750industries.com
 0.0.0.0 7540.com
 0.0.0.0 754baa76596c3d1.com
 0.0.0.0 754daf9cd396259.com
@@ -1128,6 +1137,7 @@
 0.0.0.0 7car.com.cn
 0.0.0.0 7cipgmg8r6.ru
 0.0.0.0 7clink.com
+0.0.0.0 7cxcrejm.com
 0.0.0.0 7d6260236b547b31f.com
 0.0.0.0 7dah8.com
 0.0.0.0 7db0b2a0ee95f557904.com
@@ -1372,6 +1382,7 @@
 0.0.0.0 9c40a04e9732e6a6.com
 0.0.0.0 9c690ac2bcb.com
 0.0.0.0 9cd76b4462bb.com
+0.0.0.0 9content.com
 0.0.0.0 9d766be9a3.com
 0.0.0.0 9d7in.cn
 0.0.0.0 9dc93a7c1dd.com
@@ -1532,6 +1543,7 @@
 0.0.0.0 aamsitecertifier.com
 0.0.0.0 aan.amazon.com
 0.0.0.0 aa.ninze.com
+0.0.0.0 aappf.pt
 0.0.0.0 aapsis.com
 0.0.0.0 aaqpsddtjnsmug.com
 0.0.0.0 a.armystar.com
@@ -1550,14 +1562,17 @@
 0.0.0.0 aayeljzpuu.com
 0.0.0.0 aazcio.cn
 0.0.0.0 aazwugtom.com
+0.0.0.0 ab4tn.com
 0.0.0.0 ab913aa797e78b3.com
 0.0.0.0 ab9dbc9a0cda.com
 0.0.0.0 abadrease.top
 0.0.0.0 a.bake818.cn
 0.0.0.0 abakus.freenet.de
+0.0.0.0 abakys.ru
 0.0.0.0 a.baomihua.com
 0.0.0.0 abb963a46029eb.com
 0.0.0.0 abbp1.com
+0.0.0.0 abbp1.pw
 0.0.0.0 abcdcfasda.gushiwen.cn
 0.0.0.0 abc.douguo.com
 0.0.0.0 abc.hearst.co.uk
@@ -1579,6 +1594,7 @@
 0.0.0.0 abevc.club
 0.0.0.0 abfcfxfkzmiqht.com
 0.0.0.0 abfirst.cn
+0.0.0.0 abgeobalancer.com
 0.0.0.0 abgligarchan.com
 0.0.0.0 abie10.top
 0.0.0.0 abie11.top
@@ -1629,6 +1645,7 @@
 0.0.0.0 abtshield.com
 0.0.0.0 abundled.club
 0.0.0.0 abuse8.com
+0.0.0.0 abusedbabysitters.com
 0.0.0.0 abusieux.com
 0.0.0.0 abusticsevi.club
 0.0.0.0 abwsunml.com
@@ -1836,6 +1853,7 @@
 0.0.0.0 adblockrelief.com
 0.0.0.0 adbl.spieletipps.de
 0.0.0.0 adbma.com
+0.0.0.0 adbmi.com
 0.0.0.0 adbn.ru
 0.0.0.0 ad.bobi.tw
 0.0.0.0 adbomb.ru
@@ -1938,6 +1956,7 @@
 0.0.0.0 adelement.com
 0.0.0.0 adelixir.com
 0.0.0.0 ademails.com
+0.0.0.0 adenabler.com
 0.0.0.0 adenc.co.kr
 0.0.0.0 adengage.com
 0.0.0.0 adentifi.com
@@ -2015,6 +2034,7 @@
 0.0.0.0 adgrx.com
 0.0.0.0 ad.gt
 0.0.0.0 adhdsb.cn
+0.0.0.0 adhealers.com
 0.0.0.0 adheart.de
 0.0.0.0 adhese.be
 0.0.0.0 adhese.com
@@ -2162,6 +2182,7 @@
 0.0.0.0 admeta.com
 0.0.0.0 admetric.io
 0.0.0.0 admetricspro.com
+0.0.0.0 admez.com
 0.0.0.0 admile.ru
 0.0.0.0 admin6.com
 0.0.0.0 ad.minecraft-mods.ru
@@ -2207,6 +2228,7 @@
 0.0.0.0 adnet.vn
 0.0.0.0 adnetworkme.com
 0.0.0.0 adnetworkperformance.com
+0.0.0.0 adnetxchange.com
 0.0.0.0 adneutralads.com
 0.0.0.0 adnex.tech
 0.0.0.0 adnext.fr
@@ -2294,6 +2316,7 @@
 0.0.0.0 adpressi.com
 0.0.0.0 adpro.cn
 0.0.0.0 adpro.com.ua
+0.0.0.0 adpron.com
 0.0.0.0 adprotected.com
 0.0.0.0 adprotraffic.com
 0.0.0.0 adprovi.de
@@ -2321,13 +2344,17 @@
 0.0.0.0 ad-recommend.com
 0.0.0.0 adrecord.com
 0.0.0.0 adrecover.com
+0.0.0.0 adrecreate.com
 0.0.0.0 adreep.cn
 0.0.0.0 adregain.com
 0.0.0.0 adregain.ru
 0.0.0.0 ad.reklamport.com
 0.0.0.0 adrelayer.com
+0.0.0.0 adrenovate.com
+0.0.0.0 adrent.net
 0.0.0.0 adres21.ru
 0.0.0.0 adresellers.com
+0.0.0.0 adrevenuerescue.com
 0.0.0.0 adrevolver.com
 0.0.0.0 adright.co
 0.0.0.0 adrise.de
@@ -2371,6 +2398,7 @@
 0.0.0.0 adsclick.yx.js.cn
 0.0.0.0 adsco.re
 0.0.0.0 ad-score.com
+0.0.0.0 adscore.com
 0.0.0.0 adscpm.net
 0.0.0.0 adscreendirect.com
 0.0.0.0 adscustsrv.com
@@ -3094,6 +3122,7 @@
 0.0.0.0 aishake.cn
 0.0.0.0 aishangcan.com
 0.0.0.0 aishowbger.com
+0.0.0.0 aissoksu.net
 0.0.0.0 aiwen.cc
 0.0.0.0 aiwhamti.com
 0.0.0.0 aixiutui.com
@@ -25482,6 +25511,7 @@
 0.0.0.0 soflopxl.com
 0.0.0.0 soft4dle.com
 0.0.0.0 _softbaron.ru
+0.0.0.0 soft-com.biz
 0.0.0.0 softonicads.com
 0.0.0.0 softonic-analytics.net
 0.0.0.0 soft-pays.ru
@@ -27256,6 +27286,7 @@
 0.0.0.0 thighlykamsh.site
 0.0.0.0 thikraik.net
 0.0.0.0 thimoaph.net
+0.0.0.0 thindsoo.cn
 0.0.0.0 thingswontend.com
 0.0.0.0 thinktot.com
 0.0.0.0 thinnerlessenfounded.com

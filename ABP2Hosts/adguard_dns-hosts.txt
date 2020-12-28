@@ -1,4 +1,4 @@
-# Sun Dec 27 04:51:57 PM MST 2020
+# Sun Dec 27 11:32:12 PM MST 2020
 # AdGuard DNS Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -185,6 +185,7 @@
 0.0.0.0 1224.dxsbb.com
 0.0.0.0 123456.asia
 0.0.0.0 12365chia.com
+0.0.0.0 123advertising.nl
 0.0.0.0 123compteur.com
 0.0.0.0 123count.com
 0.0.0.0 123-counter.de
@@ -433,6 +434,7 @@
 0.0.0.0 21.cizhibaogao.org
 0.0.0.0 21.fh21static.com
 0.0.0.0 21kk.cc
+0.0.0.0 21sexturycash.com
 0.0.0.0 21xsk.com
 0.0.0.0 21.zhaozongjie.com
 0.0.0.0 220efda3143.com
@@ -464,8 +466,10 @@
 0.0.0.0 24new.ru
 0.0.0.0 24productions.info
 0.0.0.0 24smi.info
+0.0.0.0 24smile.org
 0.0.0.0 24smi.net
 0.0.0.0 24vunvrv.com
+0.0.0.0 24x7adservice.com
 0.0.0.0 2526game.com
 0.0.0.0 25348f89a3.com
 0.0.0.0 254a.com
@@ -534,6 +538,7 @@
 0.0.0.0 2iiyrxk0.com
 0.0.0.0 2iui01.com
 0.0.0.0 2.kaktakkk.ru
+0.0.0.0 2kl08cd74f.com
 0.0.0.0 2ktd0.cn
 0.0.0.0 2l1f.cn
 0.0.0.0 2leep.com
@@ -683,6 +688,7 @@
 0.0.0.0 3g.990.net
 0.0.0.0 3gl.net
 0.0.0.0 3gmtr.com
+0.0.0.0 3gporn.biz
 0.0.0.0 3.guidaye.com
 0.0.0.0 3hbox.com
 0.0.0.0 3jmcwio.com
@@ -791,6 +797,7 @@
 0.0.0.0 4ixbffsib0.monster
 0.0.0.0 4jiqzr.ru
 0.0.0.0 4jnzhl0d0.com
+0.0.0.0 4jpf0karrejn6yla.pro
 0.0.0.0 4kfv18.cn
 0.0.0.0 4kmovies.online
 0.0.0.0 4kyu.cn
@@ -1117,6 +1124,7 @@
 0.0.0.0 74da0fffc981.com
 0.0.0.0 74p030.cn
 0.0.0.0 74vc.cn
+0.0.0.0 750industries.com
 0.0.0.0 7527v.cn
 0.0.0.0 754baa76596c3d1.com
 0.0.0.0 754daf9cd396259.com
@@ -1165,6 +1173,7 @@
 0.0.0.0 7c1e55606540.com
 0.0.0.0 7car.com.cn
 0.0.0.0 7cdf78unokr7.ru
+0.0.0.0 7cxcrejm.com
 0.0.0.0 7d6260236b547b31f.com
 0.0.0.0 7dah8.com
 0.0.0.0 7db0b2a0ee95f557904.com
@@ -1605,6 +1614,7 @@
 0.0.0.0 aa.ninze.com
 0.0.0.0 aanqylta.com
 0.0.0.0 a.appbaqend.com
+0.0.0.0 aappf.pt
 0.0.0.0 a.applvn.com
 0.0.0.0 aapsis.com
 0.0.0.0 aaqpsddtjnsmug.com
@@ -1624,16 +1634,19 @@
 0.0.0.0 aayeljzpuu.com
 0.0.0.0 aazcio.cn
 0.0.0.0 aazwugtom.com
+0.0.0.0 ab4tn.com
 0.0.0.0 ab913aa797e78b3.com
 0.0.0.0 ab9dbc9a0cda.com
 0.0.0.0 abackchain.com
 0.0.0.0 abadrease.top
 0.0.0.0 ab.advertiserurl.com
 0.0.0.0 a.bake818.cn
+0.0.0.0 abakys.ru
 0.0.0.0 abandonedaction.com
 0.0.0.0 a.baomihua.com
 0.0.0.0 abb963a46029eb.com
 0.0.0.0 abbott.vo.llnwd.net
+0.0.0.0 abbp1.pw
 0.0.0.0 abcdcfasda.gushiwen.cn
 0.0.0.0 abc.douguo.com
 0.0.0.0 abc.esprit.de
@@ -1663,6 +1676,7 @@
 0.0.0.0 abevc.club
 0.0.0.0 abfcfxfkzmiqht.com
 0.0.0.0 abfirst.cn
+0.0.0.0 abgeobalancer.com
 0.0.0.0 abgligarchan.com
 0.0.0.0 abid.w38store.ru
 0.0.0.0 abie10.top
@@ -1729,6 +1743,7 @@
 0.0.0.0 abtshield.com
 0.0.0.0 abundled.club
 0.0.0.0 abuse8.com
+0.0.0.0 abusedbabysitters.com
 0.0.0.0 abusieux.com
 0.0.0.0 abusticsevi.club
 0.0.0.0 abwsunml.com
@@ -2151,6 +2166,7 @@
 0.0.0.0 adelixir.com
 0.0.0.0 ademails.com
 0.0.0.0 ad.emlakeki.com
+0.0.0.0 adenabler.com
 0.0.0.0 adenc.co.kr
 0.0.0.0 adengage.com
 0.0.0.0 adentifi.com
@@ -2247,6 +2263,7 @@
 0.0.0.0 ad.harrenmedianetwork.com
 0.0.0.0 adhaus.de
 0.0.0.0 adhdsb.cn
+0.0.0.0 adhealers.com
 0.0.0.0 adheart.de
 0.0.0.0 adhese.be
 0.0.0.0 adhese.com
@@ -2452,6 +2469,7 @@
 0.0.0.0 admeta.com
 0.0.0.0 admetric.io
 0.0.0.0 admetricspro.com
+0.0.0.0 admez.com
 0.0.0.0 admicro1.vcmedia.vn
 0.0.0.0 admicro2.vcmedia.vn
 0.0.0.0 admicro.vn
@@ -2520,6 +2538,7 @@
 0.0.0.0 adnetworkperformance.com
 0.0.0.0 adnetworks.co.jp
 0.0.0.0 adnetwork.vn
+0.0.0.0 adnetxchange.com
 0.0.0.0 adnety.com
 0.0.0.0 ad.netzquadrat.de
 0.0.0.0 adneutralads.com
@@ -2658,6 +2677,7 @@
 0.0.0.0 adpro.com.ua
 0.0.0.0 adprofits.ru
 0.0.0.0 adprofy.com
+0.0.0.0 adpron.com
 0.0.0.0 adprotected.com
 0.0.0.0 adprotraffic.com
 0.0.0.0 adprovi.de
@@ -2701,12 +2721,15 @@
 0.0.0.0 ad.reklam.xyz
 0.0.0.0 adrelayer.com
 0.0.0.0 adreman.pro
+0.0.0.0 adrenovate.com
+0.0.0.0 adrent.net
 0.0.0.0 adreport.de
 0.0.0.0 adrequests.com
 0.0.0.0 adresellers.com
 0.0.0.0 adresponse.it
 0.0.0.0 ad.response.jp
 0.0.0.0 adresult-sp.jp
+0.0.0.0 adrevenuerescue.com
 0.0.0.0 adreviewcamp.com
 0.0.0.0 adrevolver.com
 0.0.0.0 adrewards.com
@@ -2795,6 +2818,7 @@
 0.0.0.0 ads-connect.com
 0.0.0.0 adsco.re
 0.0.0.0 ad-score.com
+0.0.0.0 adscore.com
 0.0.0.0 adscorp.win
 0.0.0.0 adscpm.net
 0.0.0.0 adscpm.site
@@ -3841,6 +3865,7 @@
 0.0.0.0 aishake.cn
 0.0.0.0 aishangcan.com
 0.0.0.0 aishowbger.com
+0.0.0.0 aissoksu.net
 0.0.0.0 aitaoshegnqian.cn
 0.0.0.0 aiwanma99.com
 0.0.0.0 aiwen.cc
@@ -28612,6 +28637,7 @@
 0.0.0.0 runadtag.com
 0.0.0.0 runative.com
 0.0.0.0 runative-syndicate.com
+0.0.0.0 runbornto.com
 0.0.0.0 runetki.tv
 0.0.0.0 runewslenta.com
 0.0.0.0 runghollow.com
@@ -30295,6 +30321,7 @@
 0.0.0.0 soft4dle.com
 0.0.0.0 softbn.ru
 0.0.0.0 softclick.com.br
+0.0.0.0 soft-com.biz
 0.0.0.0 softexcellence.com
 0.0.0.0 softonicads.com
 0.0.0.0 softonic-analytics.net
@@ -32490,6 +32517,7 @@
 0.0.0.0 thiksikr.com
 0.0.0.0 thimoaph.net
 0.0.0.0 thind-gke-euw.prd.data.corp.unity3d.com
+0.0.0.0 thindsoo.cn
 0.0.0.0 thingsafterthought.com
 0.0.0.0 thingswontend.com
 0.0.0.0 thinkablefloor.com
@@ -42797,6 +42825,7 @@
 0.0.0.0 aishake.cn
 0.0.0.0 aishangcan.com
 0.0.0.0 aishowbger.com
+0.0.0.0 aissoksu.net
 0.0.0.0 aitaoshegnqian.cn
 0.0.0.0 aiwanma99.com
 0.0.0.0 aiwen.cc
@@ -67484,6 +67513,7 @@
 0.0.0.0 runadtag.com
 0.0.0.0 runative.com
 0.0.0.0 runative-syndicate.com
+0.0.0.0 runbornto.com
 0.0.0.0 runetki.tv
 0.0.0.0 runewslenta.com
 0.0.0.0 runghollow.com

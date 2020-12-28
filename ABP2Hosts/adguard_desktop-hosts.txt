@@ -1,4 +1,4 @@
-# Sun Dec 27 04:51:38 PM MST 2020
+# Sun Dec 27 11:31:53 PM MST 2020
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -218,7 +218,6 @@
 0.0.0.0 1571627030.rsc.cdn77.org
 0.0.0.0 157ita684j.com
 0.0.0.0 15fa37b45d.com
-0.0.0.0 15yomodels.com
 0.0.0.0 16482f75cb.com
 0.0.0.0 16577716.com
 0.0.0.0 165a7c15380874ef3.com
@@ -327,7 +326,6 @@
 0.0.0.0 1lib.cn
 0.0.0.0 1.lishibu.com
 0.0.0.0 1lo0.net
-0.0.0.0 1loop.com
 0.0.0.0 1.lvshi567.com
 0.0.0.0 1lzz.com
 0.0.0.0 1.mgff.com
@@ -442,7 +440,6 @@
 0.0.0.0 2444efc8cd8e.com
 0.0.0.0 247ilabs.com
 0.0.0.0 247realmedia.com
-0.0.0.0 247teencash.net
 0.0.0.0 24ad89fc2690ed9369.com
 0.0.0.0 24businessnews.com
 0.0.0.0 24counter.com
@@ -1776,7 +1773,6 @@
 0.0.0.0 actionallocator.com
 0.0.0.0 actiondesk.com
 0.0.0.0 action.evrikak.ru
-0.0.0.0 actionlocker.com
 0.0.0.0 actionpay.ru
 0.0.0.0 actionrtb.com
 0.0.0.0 actionteaser.ru
@@ -1824,7 +1820,6 @@
 0.0.0.0 ad.4ertik.porn
 0.0.0.0 ad4game.com
 0.0.0.0 ad4m.at
-0.0.0.0 ad4partners.com
 0.0.0.0 ad4sell.com
 0.0.0.0 ad4.udn.com
 0.0.0.0 ad4xh85llhcbfis8.com
@@ -1986,7 +1981,6 @@
 0.0.0.0 adc.xxxlutz.de
 0.0.0.0 addaim.com
 0.0.0.0 addan.xyz
-0.0.0.0 addbags.com
 0.0.0.0 addclips.org
 0.0.0.0 addcontrol.net
 0.0.0.0 adddpc01.ru
@@ -2084,7 +2078,6 @@
 0.0.0.0 adfun.ru
 0.0.0.0 adfurikun.jp
 0.0.0.0 adfusion.com
-0.0.0.0 adfux.com
 0.0.0.0 adg99.com
 0.0.0.0 adgain-publisher.com
 0.0.0.0 ad.gameagregator.com
@@ -2193,7 +2186,6 @@
 0.0.0.0 adjuggler.net
 0.0.0.0 ad.juksy.com
 0.0.0.0 adjungle.com
-0.0.0.0 adjunky.com
 0.0.0.0 adjust.com
 0.0.0.0 adjust-net.jp
 0.0.0.0 adjust-sp.jp
@@ -2578,7 +2570,6 @@
 0.0.0.0 adscendmedia.com
 0.0.0.0 adsclick.yx.js.cn
 0.0.0.0 ads-connect.com
-0.0.0.0 adsco.re
 0.0.0.0 ad-score.com
 0.0.0.0 adscorp.win
 0.0.0.0 adscpm.net
@@ -2866,7 +2857,6 @@
 0.0.0.0 adtwirl.com
 0.0.0.0 adt.xdrig.com
 0.0.0.0 a.duanmeiwen.com
-0.0.0.0 ad-u.com
 0.0.0.0 a.duduji.com
 0.0.0.0 aduic.com
 0.0.0.0 adult3dcomics.com
@@ -3493,6 +3483,7 @@
 0.0.0.0 aishake.cn
 0.0.0.0 aishangcan.com
 0.0.0.0 aishowbger.com
+0.0.0.0 aissoksu.net
 0.0.0.0 aitaoshegnqian.cn
 0.0.0.0 aiwen.cc
 0.0.0.0 aiwhamti.com
@@ -11323,6 +11314,7 @@
 0.0.0.0 eroadvertising.com
 0.0.0.0 erocw.com
 0.0.0.0 erogaliv.com
+0.0.0.0 eroge.com
 0.0.0.0 eroksen.ru
 0.0.0.0 eropayper.com
 0.0.0.0 eropays2.com
@@ -25989,6 +25981,7 @@
 0.0.0.0 resultsgenou.club
 0.0.0.0 resultsz.com
 0.0.0.0 resupposer.club
+0.0.0.0 resurrect.club
 0.0.0.0 res-x.com
 0.0.0.0 reszkzmyzceve.com
 0.0.0.0 retaconnerons.site
@@ -27924,6 +27917,7 @@
 0.0.0.0 sls2.loisirsencheres.com
 0.0.0.0 slshiye.cn
 0.0.0.0 sluhcvyzgd.com
+0.0.0.0 slut2fuck.net
 0.0.0.0 slvcwiabpgyxa.com
 0.0.0.0 slvtx.com
 0.0.0.0 slychicks.com
@@ -30056,6 +30050,7 @@
 0.0.0.0 thikraik.net
 0.0.0.0 thiksikr.com
 0.0.0.0 thimoaph.net
+0.0.0.0 thindsoo.cn
 0.0.0.0 thingsafterthought.com
 0.0.0.0 thinkablefloor.com
 0.0.0.0 thinkablerice.com
