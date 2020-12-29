@@ -51,7 +51,7 @@ else
     echo "All domains are valid ASCII strings. Continuing compilation of lists..."
 fi
 #End of Unicode IDN to Punycode conversion routine
-sed -i -e '/0.0.0.0 device9.com/d' -e '/\^\document/d' -e '/\^/d' -e '/\*/d' -e '/\?/d' -e '/\//d' -e '/@/d' -e '/!/d' -e '/|/d' -e '/:/d' -e '/~/d' -e '/,/d' -e '/=/d' uniq-hosts.final
+sed -i -e '/\^\document/d' -e '/\^/d' -e '/\*/d' -e '/\?/d' -e '/\//d' -e '/@/d' -e '/!/d' -e '/|/d' -e '/:/d' -e '/~/d' -e '/,/d' -e '/=/d' uniq-hosts.final
 sort uniq-hosts.final | uniq -i > final-uniq.hosts
 pcregrep -f ~/BLT/parsing/tld-filter.dat final-uniq.hosts > hosts.final
 sed "s/^0.0.0.0/::/g" hosts.final > hostsIPv6.final

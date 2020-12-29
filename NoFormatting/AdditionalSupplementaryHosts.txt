@@ -1192,6 +1192,7 @@
 0.0.0.0 anal-videos-photos.com
 0.0.0.0 analytics.admob.com
 0.0.0.0 analytics.blue
+0.0.0.0 analytics.brave.com
 0.0.0.0 analytics.ff.avast.com
 0.0.0.0 analytics.google.com
 0.0.0.0 analytics.kidoz.net
@@ -1946,9 +1947,16 @@
 0.0.0.0 cdfolkme.cf
 0.0.0.0 cdn-01.anonfiles.com
 0.0.0.0 cdn-13.anonfiles.com
+0.0.0.0 cdn1.bigcommerce.com
 0.0.0.0 cdn1.pebx.pl
+0.0.0.0 cdn2.bigcommerce.com
+0.0.0.0 cdn3.bigcommerce.com
 0.0.0.0 cdn-41111111217-ms-telemetry.net
 0.0.0.0 cdn-4111111217-ms-telemetry.net
+0.0.0.0 cdn4.bigcommerce.com
+0.0.0.0 cdn5.bigcommerce.com
+0.0.0.0 cdn6.bigcommerce.com
+0.0.0.0 cdn7.bigcommerce.com
 0.0.0.0 cdn.adaptv.advertising.com
 0.0.0.0 cdn.adless.io
 0.0.0.0 cdn.adnxs.com
@@ -1958,6 +1966,7 @@
 0.0.0.0 cdn.appround.biz
 0.0.0.0 cdn.app.yourwebdesignguys.com
 0.0.0.0 cdn.atdmt.com
+0.0.0.0 cdn.bigcommerce.com
 0.0.0.0 cdn.celtra.com
 0.0.0.0 cdn.cloudcoins.co
 0.0.0.0 cdn-code.host
@@ -2539,6 +2548,8 @@
 0.0.0.0 detrogoldenmayer.com
 0.0.0.0 dev.cryptobara.com
 0.0.0.0 developmasters.com
+0.0.0.0 device9.com
+0.0.0.0 device9.net
 0.0.0.0 devomchart.com
 0.0.0.0 dexim.space
 0.0.0.0 dfgdfgghjghfshfgh.ru
@@ -2565,6 +2576,7 @@
 0.0.0.0 digicert-global-root.site
 0.0.0.0 digidick.xyz
 0.0.0.0 digimonex.host
+0.0.0.0 digitalcurrencyexchane.com
 0.0.0.0 digital-game.ru
 0.0.0.0 digitalmarketingcampaignlanding.com
 0.0.0.0 digital-studio.org
@@ -2957,6 +2969,7 @@
 0.0.0.0 evolveplatform.net
 0.0.0.0 evoyci.com
 0.0.0.0 e.weclick.ir
+0.0.0.0 excelcryptocurrency.com
 0.0.0.0 excelofficeonline.com
 0.0.0.0 exchangeser.com
 0.0.0.0 exclusivebrass.com
@@ -5898,7 +5911,6 @@
 0.0.0.0 sam-go.ru
 0.0.0.0 samsungads.com
 0.0.0.0 samuelkerns.com
-0.0.0.0 sanamlive.in
 0.0.0.0 sandbox-cloudapp.com
 0.0.0.0 sandbox-cloudapp.org
 0.0.0.0 sanolifescence.com
@@ -6552,6 +6564,8 @@
 0.0.0.0 ta4ila.ru
 0.0.0.0 taamgol.com
 0.0.0.0 tabligheirani.com
+0.0.0.0 tag.device9.com
+0.0.0.0 tag.device9.net
 0.0.0.0 tag.medialytics.com
 0.0.0.0 tags.bkrtx.com
 0.0.0.0 tagsmarkt.com
@@ -6580,6 +6594,8 @@
 0.0.0.0 tawdryson.com
 0.0.0.0 taxjustice-usa.org
 0.0.0.0 tb6fo.jumevty.ru
+0.0.0.0 t.device9.com
+0.0.0.0 t.device9.net
 0.0.0.0 tdzvm.pw
 0.0.0.0 te1.ir
 0.0.0.0 team-bobcat.org
@@ -6700,6 +6716,7 @@
 0.0.0.0 t.medialytics.com
 0.0.0.0 t.mookie1.com
 0.0.0.0 t.myvisualiq.net
+0.0.0.0 tmz.vo.llnwd.net
 0.0.0.0 toddstretinc.com
 0.0.0.0 toecircle.com
 0.0.0.0 toedrawer.com
@@ -7247,6 +7264,8 @@
 0.0.0.0 www.coinimp.net
 0.0.0.0 www.cryptonoter.com
 0.0.0.0 www.datasecu.download
+0.0.0.0 www.device9.com
+0.0.0.0 www.device9.net
 0.0.0.0 wwwelectrum.org
 0.0.0.0 www.ero-advertising.com
 0.0.0.0 www.errepartributario.com.ar

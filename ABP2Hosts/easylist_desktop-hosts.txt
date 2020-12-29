@@ -1,4 +1,4 @@
-# Sun Dec 27 11:32:06 PM MST 2020
+# Mon Dec 28 06:48:51 PM MST 2020
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -38,6 +38,7 @@
 0.0.0.0 039e377h3b.com
 0.0.0.0 0413fsiuhwem.xyz
 0.0.0.0 0420zvnmljgfdsa.xyz
+0.0.0.0 04273b4d0ffe.com
 0.0.0.0 04426f8b7ce9b069431.com
 0.0.0.0 0451106.com
 0.0.0.0 047855sphr.com
@@ -332,6 +333,7 @@
 0.0.0.0 1phads.com
 0.0.0.0 1plus1tv.tv
 0.0.0.0 1.pncdn.cn
+0.0.0.0 1pzskg.cn
 0.0.0.0 1q2w3.fun
 0.0.0.0 1q2w3.website
 0.0.0.0 1q8h.cn
@@ -418,6 +420,7 @@
 0.0.0.0 21xsk.com
 0.0.0.0 21.zhaozongjie.com
 0.0.0.0 220efda3143.com
+0.0.0.0 2219ca6fc1.com
 0.0.0.0 2227q.com
 0.0.0.0 222im.com
 0.0.0.0 228pu.cn
@@ -474,6 +477,7 @@
 0.0.0.0 2894c9d5b32.com
 0.0.0.0 2898.com
 0.0.0.0 28acglz.com
+0.0.0.0 292f18b4e7b4.com
 0.0.0.0 293870.com
 0.0.0.0 29ae58661b9c7178.com
 0.0.0.0 29d65cebb82ef9f.com
@@ -889,6 +893,7 @@
 0.0.0.0 5bir9vuqcq.com
 0.0.0.0 5c43cbc0f41.com
 0.0.0.0 5c577fc74618431b.com
+0.0.0.0 5cebdc16d51ea.com
 0.0.0.0 5cwr93yyd4lf.com
 0.0.0.0 5d02977f6511aa.com
 0.0.0.0 5dabf928ad9ad4.com
@@ -1793,6 +1798,7 @@
 0.0.0.0 ad20.net
 0.0.0.0 ad2adnetwork.biz
 0.0.0.0 ad2up.com
+0.0.0.0 ad42877d321.com
 0.0.0.0 ad4980.kr
 0.0.0.0 ad4989.co.kr
 0.0.0.0 ad4game.com
@@ -3041,6 +3047,7 @@
 0.0.0.0 ahyhhxpeeswgtl.com
 0.0.0.0 a.hyperoi.com
 0.0.0.0 ahyuns.com
+0.0.0.0 ahzdlvsli.com
 0.0.0.0 aiadvi.com
 0.0.0.0 aibangzs.com
 0.0.0.0 ai.bioon.com
@@ -3230,6 +3237,7 @@
 0.0.0.0 a.ligatus.com
 0.0.0.0 alightin.com
 0.0.0.0 aligiao.info
+0.0.0.0 alignclamstram.com
 0.0.0.0 alikeaddition.com
 0.0.0.0 alimama.alicdn.com
 0.0.0.0 alimama.com
@@ -4967,6 +4975,7 @@
 0.0.0.0 bemarts.club
 0.0.0.0 bemobpath.com
 0.0.0.0 bemobtrcks.com
+0.0.0.0 bemobtrk.com
 0.0.0.0 bemusic.xyz
 0.0.0.0 bemzepcnp.com
 0.0.0.0 benchit.com
@@ -5621,7 +5630,6 @@
 0.0.0.0 braintreeandwithamtimes-gb.braintreeandwithamtimes.co.uk
 0.0.0.0 brakesoutright.com
 0.0.0.0 brameriez.xyz
-0.0.0.0 branchenbuch.pixelio.de
 0.0.0.0 branchr.com
 0.0.0.0 brandads.net
 0.0.0.0 brandaffinity.net
@@ -6214,6 +6222,7 @@
 0.0.0.0 caykotranybjvx.com
 0.0.0.0 cb3fzwkkt6yxt.xyz
 0.0.0.0 cb4faf87ffae.com
+0.0.0.0 cb74a5af6bedd.com
 0.0.0.0 cba-fed-igh.com
 0.0.0.0 cbapp.com
 0.0.0.0 cb.baidu.com
@@ -6877,6 +6886,7 @@
 0.0.0.0 clicks.dealer.com
 0.0.0.0 clicks.demotivators.to
 0.0.0.0 clicksen.se
+0.0.0.0 clicksgate.com
 0.0.0.0 clicksgear.com
 0.0.0.0 clickshift.com
 0.0.0.0 clicks.hurriyet.com.tr
@@ -7303,7 +7313,6 @@
 0.0.0.0 connectif.cloud
 0.0.0.0 connectignite.com
 0.0.0.0 connectionads.com
-0.0.0.0 connect.quoka.de
 0.0.0.0 connect.summit.co.uk
 0.0.0.0 connees.com
 0.0.0.0 connexity.net
@@ -8750,6 +8759,7 @@
 0.0.0.0 deployads.com
 0.0.0.0 depnegj.cn
 0.0.0.0 depotshine.com
+0.0.0.0 deprivationcorrectioncoats.com
 0.0.0.0 deprivationzomby.com
 0.0.0.0 dep-x.com
 0.0.0.0 deqwas.net
@@ -9677,6 +9687,7 @@
 0.0.0.0 e960e146d9b5ca.com
 0.0.0.0 e9976b21f1b2775b.com
 0.0.0.0 e9c1khhwn4uf.com
+0.0.0.0 e9e1542c796.com
 0.0.0.0 e9emh.cn
 0.0.0.0 ea6353e47e0ab3f78.com
 0.0.0.0 ea.auchantelecom.fr
@@ -11430,6 +11441,7 @@
 0.0.0.0 fnxmyx.cn
 0.0.0.0 fnyhewjd.com
 0.0.0.0 fnytdllpzdv.com
+0.0.0.0 foapsovi.net
 0.0.0.0 foavistu.net
 0.0.0.0 foazasis.com
 0.0.0.0 focalex.com
@@ -11896,6 +11908,7 @@
 0.0.0.0 g52bl.cn
 0.0.0.0 g5348277045.co
 0.0.0.0 g5546361380.co
+0.0.0.0 g5744445715.co
 0.0.0.0 g5fzq2l.com
 0.0.0.0 g6zkzy0g2g.com
 0.0.0.0 g8cp5djk1j0r.com
@@ -12295,6 +12308,7 @@
 0.0.0.0 gf108.com
 0.0.0.0 gfaf-banners.s3.amazonaws.com
 0.0.0.0 gfbrfqfwwis.com
+0.0.0.0 gfcowlrmdt.com
 0.0.0.0 gfd80.com
 0.0.0.0 gfdfhdh5t5453.com
 0.0.0.0 gfeaegaepsgp.com
@@ -12652,6 +12666,7 @@
 0.0.0.0 go.optifuze.com
 0.0.0.0 goossb.com
 0.0.0.0 goozbkcchscvb.com
+0.0.0.0 gopejk.com
 0.0.0.0 gopfltvoiflf.com
 0.0.0.0 gopjn.com
 0.0.0.0 go.pornav.net
@@ -18058,6 +18073,7 @@
 0.0.0.0 meehaina.net
 0.0.0.0 meendocash.com
 0.0.0.0 meepwrite.com
+0.0.0.0 meethanshi.com
 0.0.0.0 meetic-partners.com
 0.0.0.0 meetingking.club
 0.0.0.0 meetrics.net
@@ -19227,6 +19243,7 @@
 0.0.0.0 navilytics.com
 0.0.0.0 nav-links.com
 0.0.0.0 navrcholu.cz
+0.0.0.0 nawpush.com
 0.0.0.0 naxerposlan.com
 0.0.0.0 naxrjxij.com
 0.0.0.0 naytev.com
@@ -19970,6 +19987,8 @@
 0.0.0.0 ntvcld-a.akamaihd.net
 0.0.0.0 ntv.io
 0.0.0.0 ntvk1.ru
+0.0.0.0 ntvpevents.com
+0.0.0.0 ntvpwpush.com
 0.0.0.0 ntvsw.com
 0.0.0.0 ntxiangtai.com
 0.0.0.0 ntymurmud.top
@@ -19994,6 +20013,7 @@
 0.0.0.0 nunailsum.com
 0.0.0.0 nunc-china.com
 0.0.0.0 nunhoefey.com
+0.0.0.0 nunscawamok.icu
 0.0.0.0 nuonuo1.icu
 0.0.0.0 nuoqingck.cn
 0.0.0.0 nuowoczmvits.com
@@ -20224,6 +20244,7 @@
 0.0.0.0 oezgivtasc.com
 0.0.0.0 ofbapmmo.com
 0.0.0.0 ofdfinqurwpi.com
+0.0.0.0 ofdittor.com
 0.0.0.0 ofeetles.pro
 0.0.0.0 ofenltlzepz.com
 0.0.0.0 ofexmskz.com
@@ -22737,6 +22758,7 @@
 0.0.0.0 qilashou.com
 0.0.0.0 qilungroup.cn
 0.0.0.0 qinchugudao.com
+0.0.0.0 qingjiedi.com
 0.0.0.0 qingyanmjg.com
 0.0.0.0 qingzhencai.net
 0.0.0.0 qinlinquan.cn
@@ -26638,6 +26660,7 @@
 0.0.0.0 swqlzufnbngw.com
 0.0.0.0 swstkrihg.com
 0.0.0.0 swtkc.cn
+0.0.0.0 swwpush.com
 0.0.0.0 swzhaohuo.com.cn
 0.0.0.0 sxbhzs.net
 0.0.0.0 sxcol.cn
@@ -27961,6 +27984,7 @@
 0.0.0.0 tracking.g2crowd.com
 0.0.0.0 tracking.gameforge.de
 0.0.0.0 tracking.godatafeed.com
+0.0.0.0 tracking.gpm-rtv.ru
 0.0.0.0 tracking.gruppo.mps.it
 0.0.0.0 tracking.hannoversche.de
 0.0.0.0 tracking.ha.rueducommerce.fr
