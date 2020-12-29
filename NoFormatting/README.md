@@ -1,4 +1,4 @@
-# Optimized Windows Hosts Files and Miscellaneous Content
+# Additional Supplementary and Miscellaneous Content
 Within this directory are the following items:  
 
 - The optimized Windows hosts files ([1](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/optimized-win.hosts), [2](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/optimized-win-Dual.hosts)) mentioned on the [main readme](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/README.md) of this repository.  
