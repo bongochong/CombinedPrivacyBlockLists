@@ -1,4 +1,4 @@
-# Tue Dec 29 12:39:58 AM MST 2020
+# Tue Dec 29 12:51:01 AM MST 2020
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -91,6 +91,7 @@
 0.0.0.0 0923csfsteibv12.xyz
 0.0.0.0 0926a687679d337e9d.com
 0.0.0.0 0928vld.xyz
+0.0.0.0 0937js.com
 0.0.0.0 0937jyg.com
 0.0.0.0 0956228a2df97a.com
 0.0.0.0 0a0qetx8et.com
@@ -206,6 +207,7 @@
 0.0.0.0 1314sss.top
 0.0.0.0 13190546cd1dec9bbdc.com
 0.0.0.0 1.32xp.com
+0.0.0.0 133gp.com
 0.0.0.0 138lm.com
 0.0.0.0 13p76nnir.de
 0.0.0.0 13vm73vbmp.com
@@ -432,6 +434,7 @@
 0.0.0.0 2219ca6fc1.com
 0.0.0.0 2227q.com
 0.0.0.0 222im.com
+0.0.0.0 22588888.com
 0.0.0.0 228pu.cn
 0.0.0.0 22ei7q8l12.com
 0.0.0.0 22pixx.xyz
@@ -444,6 +447,7 @@
 0.0.0.0 2444efc8cd8e.com
 0.0.0.0 247ilabs.com
 0.0.0.0 247realmedia.com
+0.0.0.0 2481e.com
 0.0.0.0 24ad89fc2690ed9369.com
 0.0.0.0 24businessnews.com
 0.0.0.0 24counter.com
@@ -1006,6 +1010,7 @@
 0.0.0.0 688ct.com
 0.0.0.0 688de7b3822de.com
 0.0.0.0 68d0d5e26bb0ae.com
+0.0.0.0 693836.com
 0.0.0.0 6942f24115b63.com
 0.0.0.0 6945k6.cn
 0.0.0.0 69content.com
@@ -1196,6 +1201,7 @@
 0.0.0.0 7tpfnjn03b32.com
 0.0.0.0 7vxlfstt.top
 0.0.0.0 7wen.cn
+0.0.0.0 7wkw.com
 0.0.0.0 7wtic7ru.com
 0.0.0.0 7wwchtqe.ru
 0.0.0.0 7x749.xyz
@@ -1264,6 +1270,7 @@
 0.0.0.0 88d7b6aa44fb8eb.com
 0.0.0.0 88eg.cn
 0.0.0.0 88hb7evabd.com
+0.0.0.0 88p2p.com
 0.0.0.0 88rpg.net
 0.0.0.0 88shu.cn
 0.0.0.0 892155.com
@@ -1343,6 +1350,7 @@
 0.0.0.0 93c8c9a28e1db445.com
 0.0.0.0 93vitui.com
 0.0.0.0 944e66f8683ac43c.com
+0.0.0.0 9453hot.com
 0.0.0.0 94dwc.com
 0.0.0.0 94lm.com
 0.0.0.0 94nw.com
@@ -1352,6 +1360,7 @@
 0.0.0.0 958so.cn
 0.0.0.0 9596yy.com
 0.0.0.0 95a44ebca8b1abc20.com
+0.0.0.0 95p2.com
 0.0.0.0 95p5qep4aq.com
 0.0.0.0 95thalj5.ru
 0.0.0.0 967rett6fzaf.com
@@ -1445,6 +1454,7 @@
 0.0.0.0 a157ad075fcb34c.com
 0.0.0.0 a15c5009bcbe272.com
 0.0.0.0 a15d55423.5tps.xyz
+0.0.0.0 a1714.com
 0.0.0.0 a1.99933.cn
 0.0.0.0 a1.99966.cn
 0.0.0.0 a1a5ab31bcd1bc68.com
@@ -3487,6 +3497,7 @@
 0.0.0.0 aishowbger.com
 0.0.0.0 aissoksu.net
 0.0.0.0 aitaoshegnqian.cn
+0.0.0.0 aiwanma99.com
 0.0.0.0 aiwen.cc
 0.0.0.0 aiwhamti.com
 0.0.0.0 aiwhebey.com
@@ -4989,6 +5000,7 @@
 0.0.0.0 baiducom.bj.bcebos.com
 0.0.0.0 baidujavascript.com
 0.0.0.0 baidujs.cnys.com
+0.0.0.0 baidu-jxf.co
 0.0.0.0 baidulao.com
 0.0.0.0 baiduspider1.cn
 0.0.0.0 baiduyoukualiyun.com
@@ -5948,6 +5960,7 @@
 0.0.0.0 blyxb.27667.club
 0.0.0.0 bm23.com
 0.0.0.0 bm324.com
+0.0.0.0 bm999999.com
 0.0.0.0 bm.adentifi.com
 0.0.0.0 bmayyviswklkd.com
 0.0.0.0 bmbvnmgucbk.com
@@ -6606,6 +6619,7 @@
 0.0.0.0 cadenevery.club
 0.0.0.0 cadfixbig.site
 0.0.0.0 cadimavume.com
+0.0.0.0 c.admaster.com.cn
 0.0.0.0 cadreon.com
 0.0.0.0 c.adroll.com
 0.0.0.0 cadsabs.com
@@ -8327,6 +8341,7 @@
 0.0.0.0 cpl1.ru
 0.0.0.0 c-planet.net
 0.0.0.0 cpm10.com
+0.0.0.0 cpm.193g.cn
 0.0.0.0 cpm20.com
 0.0.0.0 cpm30.com
 0.0.0.0 cpm-ad.com
@@ -9093,6 +9108,7 @@
 0.0.0.0 d5pb47xzjz3fc.cloudfront.net
 0.0.0.0 d602196786e42d.com
 0.0.0.0 d60227ef59e.com
+0.0.0.0 d6262.com
 0.0.0.0 d63a3au5lqmtu.cloudfront.net
 0.0.0.0 d663q.cn
 0.0.0.0 d6jfiirio372.com
@@ -10545,6 +10561,7 @@
 0.0.0.0 e553bcf717698d33.com
 0.0.0.0 e5d944a25e468d.com
 0.0.0.0 e5mbjzv.com
+0.0.0.0 e5yx.com
 0.0.0.0 e6081b73afec581f.com
 0.0.0.0 e.60sk.ru
 0.0.0.0 e6916adeb7e46a883.com
@@ -14241,6 +14258,7 @@
 0.0.0.0 h4k5.com
 0.0.0.0 h5e6d5.xyz
 0.0.0.0 h5tjj3loy2.com
+0.0.0.0 h6295.com
 0.0.0.0 h78xb.pw
 0.0.0.0 h7fy4ur0in94g016.in.net
 0.0.0.0 h83zvgrg29.com
@@ -15503,6 +15521,7 @@
 0.0.0.0 iedijlgkbqc.com
 0.0.0.0 iedzocfoflfgam.com
 0.0.0.0 ieeagbtui.com
+0.0.0.0 ieeod0.com
 0.0.0.0 iefjsqos.com
 0.0.0.0 iendoo.com
 0.0.0.0 ienkdaccessible.cn
@@ -17766,6 +17785,7 @@
 0.0.0.0 kudzuphloemgunk.tech
 0.0.0.0 kueimatyr.com
 0.0.0.0 kugo.cc
+0.0.0.0 kuheju.com
 0.0.0.0 kuhni.kuhnisiblings.ru
 0.0.0.0 kuhnisister.ru
 0.0.0.0 kuhou.com
@@ -17908,6 +17928,7 @@
 0.0.0.0 ladspmz.com
 0.0.0.0 ladsreds.com
 0.0.0.0 ladsup.com
+0.0.0.0 lady177.com
 0.0.0.0 ladyads.ru
 0.0.0.0 ladycash.ru
 0.0.0.0 ladyclicks.ru
@@ -19205,6 +19226,7 @@
 0.0.0.0 magma-analytics.com
 0.0.0.0 magna.ru
 0.0.0.0 magnetairport.com
+0.0.0.0 magnetdog.net
 0.0.0.0 magnetisemedia.com
 0.0.0.0 magnetmail1.net
 0.0.0.0 magnetrack.klangoo.com
@@ -24792,6 +24814,7 @@
 0.0.0.0 puudeng.com.tw
 0.0.0.0 puwvuscm.com
 0.0.0.0 puzzlingproperty.com
+0.0.0.0 pv4b.com
 0.0.0.0 pvclouds.com
 0.0.0.0 pvcndecvyb.com
 0.0.0.0 pv.dakawm.cc
@@ -24852,6 +24875,7 @@
 0.0.0.0 pyksf.com
 0.0.0.0 pyllxjfkjhpjbq.com
 0.0.0.0 pymx5.com
+0.0.0.0 p.ynb2dca.com
 0.0.0.0 p.yotpo.com
 0.0.0.0 pypkrvtepsha.com
 0.0.0.0 pyq6n.com
@@ -25324,6 +25348,7 @@
 0.0.0.0 qwulxgznx.com
 0.0.0.0 qwvajuyccl.com
 0.0.0.0 qwyzzghouu.com
+0.0.0.0 qx568.com
 0.0.0.0 qxboqjnmxv.com
 0.0.0.0 qxfly.com
 0.0.0.0 qxjdlf.com
@@ -26766,6 +26791,7 @@
 0.0.0.0 s9w.cc
 0.0.0.0 s9wp1.cn
 0.0.0.0 sa2xskt.com
+0.0.0.0 sa669.com
 0.0.0.0 saambaa.com
 0.0.0.0 sa.aol.com
 0.0.0.0 sabavision.com
@@ -34162,6 +34188,7 @@
 0.0.0.0 xddqdioms.com
 0.0.0.0 xdev.info
 0.0.0.0 xdgeph.ru
+0.0.0.0 xdh0808.com
 0.0.0.0 xdirectx.com
 0.0.0.0 xdjdwpwwbky.com
 0.0.0.0 xdjefibopixf.com
@@ -34275,6 +34302,7 @@
 0.0.0.0 xinghao89.com
 0.0.0.0 xingjuhe.com
 0.0.0.0 xingpingmaoyi.cn
+0.0.0.0 xingshenfang.cn
 0.0.0.0 xingsky.cn
 0.0.0.0 xingtai0.com
 0.0.0.0 xingyaoapi.com
@@ -35298,6 +35326,7 @@
 0.0.0.0 yun-pdm5000.cn
 0.0.0.0 yunpifu.cn
 0.0.0.0 yunrong360.com
+0.0.0.0 yunsennet.com
 0.0.0.0 yunshipei.com
 0.0.0.0 yunsoka.com
 0.0.0.0 yupfiles.net

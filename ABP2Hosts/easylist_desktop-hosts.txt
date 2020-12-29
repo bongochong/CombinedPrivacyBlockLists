@@ -1,4 +1,4 @@
-# Tue Dec 29 12:40:11 AM MST 2020
+# Tue Dec 29 12:51:14 AM MST 2020
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -13413,7 +13413,6 @@
 0.0.0.0 hbhtbn.com
 0.0.0.0 hbhxqcw.com
 0.0.0.0 hbid.ams3.cdn.digitaloceanspaces.com
-0.0.0.0 h-bid.com
 0.0.0.0 hbkhqc.com
 0.0.0.0 hblanghun.cn
 0.0.0.0 hblinwei.com
