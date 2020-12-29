@@ -1,4 +1,4 @@
-// **** Sun Dec 27 11:43:15 PM MST 2020
+// **** Mon Dec 28 06:53:56 PM MST 2020
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -4782,6 +4782,8 @@ shExpMatch(host, '*.devconn.co') ||
 shExpMatch(host, '*.dev-eye.com') ||
 shExpMatch(host, '*.deviantartt.ga') ||
 shExpMatch(host, '*.deviantartt.ml') ||
+shExpMatch(host, '*.device9.com') ||
+shExpMatch(host, '*.device9.net') ||
 shExpMatch(host, '*.device-shell-breach-alert.us') ||
 shExpMatch(host, '*.devteamjailbreak.com') ||
 shExpMatch(host, '*.dewisri.pw') ||
@@ -14302,6 +14304,8 @@ shExpMatch(host, '*.taboola.com') ||
 shExpMatch(host, '*.tacoda.net') ||
 shExpMatch(host, '*.tagan.adlightning.com') ||
 shExpMatch(host, '*.tagdebate.ru') ||
+shExpMatch(host, '*.tag.device9.com') ||
+shExpMatch(host, '*.tag.device9.net') ||
 shExpMatch(host, '*.tagdol.dothome.co.kr') ||
 shExpMatch(host, '*.taged.ru') ||
 shExpMatch(host, '*.tagger.opecloud.com') ||
@@ -14365,6 +14369,8 @@ shExpMatch(host, '*.tbdistributors.co.nz') ||
 shExpMatch(host, '*.tcads.net') ||
 shExpMatch(host, '*.tcam.club') ||
 shExpMatch(host, '*.tcp4.me') ||
+shExpMatch(host, '*.t.device9.com') ||
+shExpMatch(host, '*.t.device9.net') ||
 shExpMatch(host, '*.tds-23vb8g5ff.co.cc') ||
 shExpMatch(host, '*.tdska22.ru') ||
 shExpMatch(host, '*.tds.sdieta.com') ||
@@ -16014,6 +16020,8 @@ shExpMatch(host, '*.www.barbiemobi.cn') ||
 shExpMatch(host, '*.www.bxgjiage.com') ||
 shExpMatch(host, '*.wwwcfg.com') ||
 shExpMatch(host, '*.www.cibonline.org') ||
+shExpMatch(host, '*.www.device9.com') ||
+shExpMatch(host, '*.www.device9.net') ||
 shExpMatch(host, '*.www.dnps.com') ||
 shExpMatch(host, '*.www.ebibliothek.de') ||
 shExpMatch(host, '*.www.galliagroup.com') ||
@@ -21369,6 +21377,8 @@ shExpMatch(host, 'devconn.co') ||
 shExpMatch(host, 'dev-eye.com') ||
 shExpMatch(host, 'deviantartt.ga') ||
 shExpMatch(host, 'deviantartt.ml') ||
+shExpMatch(host, 'device9.com') ||
+shExpMatch(host, 'device9.net') ||
 shExpMatch(host, 'device-shell-breach-alert.us') ||
 shExpMatch(host, 'devteamjailbreak.com') ||
 shExpMatch(host, 'dewisri.pw') ||
@@ -30889,6 +30899,8 @@ shExpMatch(host, 'taboola.com') ||
 shExpMatch(host, 'tacoda.net') ||
 shExpMatch(host, 'tagan.adlightning.com') ||
 shExpMatch(host, 'tagdebate.ru') ||
+shExpMatch(host, 'tag.device9.com') ||
+shExpMatch(host, 'tag.device9.net') ||
 shExpMatch(host, 'tagdol.dothome.co.kr') ||
 shExpMatch(host, 'taged.ru') ||
 shExpMatch(host, 'tagger.opecloud.com') ||
@@ -30952,6 +30964,8 @@ shExpMatch(host, 'tbdistributors.co.nz') ||
 shExpMatch(host, 'tcads.net') ||
 shExpMatch(host, 'tcam.club') ||
 shExpMatch(host, 'tcp4.me') ||
+shExpMatch(host, 't.device9.com') ||
+shExpMatch(host, 't.device9.net') ||
 shExpMatch(host, 'tds-23vb8g5ff.co.cc') ||
 shExpMatch(host, 'tdska22.ru') ||
 shExpMatch(host, 'tds.sdieta.com') ||
@@ -32601,6 +32615,8 @@ shExpMatch(host, 'www.barbiemobi.cn') ||
 shExpMatch(host, 'www.bxgjiage.com') ||
 shExpMatch(host, 'wwwcfg.com') ||
 shExpMatch(host, 'www.cibonline.org') ||
+shExpMatch(host, 'www.device9.com') ||
+shExpMatch(host, 'www.device9.net') ||
 shExpMatch(host, 'www.dnps.com') ||
 shExpMatch(host, 'www.ebibliothek.de') ||
 shExpMatch(host, 'www.galliagroup.com') ||
