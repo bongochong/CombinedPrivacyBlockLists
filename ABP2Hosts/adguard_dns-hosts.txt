@@ -1,4 +1,4 @@
-# Mon Dec 28 06:48:57 PM MST 2020
+# Tue Dec 29 12:40:17 AM MST 2020
 # AdGuard DNS Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -116,6 +116,7 @@
 0.0.0.0 0gctp5ht.top
 0.0.0.0 0gw7e6s3wrao9y3q.pro
 0.0.0.0 0h6djpk8fn.com
+0.0.0.0 0ij3tm.com
 0.0.0.0 0j7z9aw6.top
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
 0.0.0.0 0klxjejyxak3.com
@@ -3121,6 +3122,7 @@
 0.0.0.0 adsvolum.com
 0.0.0.0 adsvolume.com
 0.0.0.0 ads.vovlive.vn
+0.0.0.0 adswam.com
 0.0.0.0 adsweb.vn
 0.0.0.0 ads-wordego.azureedge.net
 0.0.0.0 adswrapme.click
@@ -3133,6 +3135,7 @@
 0.0.0.0 adsy.mail.bg
 0.0.0.0 adsymptotic.com
 0.0.0.0 ads.youtube.com
+0.0.0.0 adsyst.biz
 0.0.0.0 adsyst.net
 0.0.0.0 adsyst.ru
 0.0.0.0 ads.zaloapp.com
@@ -3187,6 +3190,7 @@
 0.0.0.0 adtoma.com
 0.0.0.0 adtomafusion.com
 0.0.0.0 adtomafusion.net
+0.0.0.0 adtonement.com
 0.0.0.0 ad-tool.com
 0.0.0.0 adtoox.com
 0.0.0.0 ad.topwar.ru
@@ -3226,13 +3230,20 @@
 0.0.0.0 aduic.com
 0.0.0.0 adultadspy.com
 0.0.0.0 adult-adv.com
+0.0.0.0 adultadvertising.net
 0.0.0.0 adultadworld.com
 0.0.0.0 adultblogtoplist.com
+0.0.0.0 adultcamchatfree.com
+0.0.0.0 adultcamfree.com
+0.0.0.0 adultcamliveweb.com
 0.0.0.0 adultimate.net
+0.0.0.0 adultlinkexchange.com
+0.0.0.0 adultmoviegroup.com
 0.0.0.0 adultoafiliados.com.br
 0.0.0.0 adultpay.net
 0.0.0.0 adultsadv.com
 0.0.0.0 adultsense.net
+0.0.0.0 adultsense.org
 0.0.0.0 adulttds.com
 0.0.0.0 adultterritory.net
 0.0.0.0 adulttiz.com
@@ -3246,6 +3257,7 @@
 0.0.0.0 adv457895.ru
 0.0.0.0 adv679854.ru
 0.0.0.0 adv758968.ru
+0.0.0.0 adv777.com
 0.0.0.0 adv859672.ru
 0.0.0.0 adv9.net
 0.0.0.0 advaction.ru
@@ -3282,6 +3294,7 @@
 0.0.0.0 advendi.de
 0.0.0.0 adventertainment.it
 0.0.0.0 adventori.com
+0.0.0.0 adventory.com
 0.0.0.0 adventurefeeds.com
 0.0.0.0 adverdata.net
 0.0.0.0 adverd.ru
@@ -3314,6 +3327,7 @@
 0.0.0.0 advertising365.com
 0.0.0.0 advertising.com
 0.0.0.0 advertisingiq.com
+0.0.0.0 advertisingsex.com
 0.0.0.0 advertisingvalue.info
 0.0.0.0 advertjunction.com
 0.0.0.0 advertland.ru
@@ -3327,11 +3341,13 @@
 0.0.0.0 advertnative.com
 0.0.0.0 advertnetworks.com
 0.0.0.0 advertoly.com
+0.0.0.0 advertom.com
 0.0.0.0 advertone.ru
 0.0.0.0 advertop.ru
 0.0.0.0 advertpay.net
 0.0.0.0 advert.polonsil.ru
 0.0.0.0 advert.punyu.com
+0.0.0.0 advertrtb.com
 0.0.0.0 advertserve.com
 0.0.0.0 advertshot.ru
 0.0.0.0 advertstar.ru
@@ -3395,6 +3411,7 @@
 0.0.0.0 ad-vortex.com
 0.0.0.0 adv.pilseta24.lv
 0.0.0.0 advplace.com
+0.0.0.0 adv-plus.com
 0.0.0.0 advpoints.com
 0.0.0.0 advredirect.net
 0.0.0.0 advrush.com
@@ -3402,6 +3419,7 @@
 0.0.0.0 advs2sonline.goforandroid.com
 0.0.0.0 adv.sec.intl.miui.com
 0.0.0.0 adv.sec.miui.com
+0.0.0.0 advsense.info
 0.0.0.0 advserver.cgv.vn
 0.0.0.0 advserver.xyz
 0.0.0.0 advsmedia.com
@@ -3461,6 +3479,7 @@
 0.0.0.0 adx.edutimes.com.vn
 0.0.0.0 adxgeeks.com
 0.0.0.0 adxion.com
+0.0.0.0 adxite.com
 0.0.0.0 adx.kul.vn
 0.0.0.0 adxnexus.com
 0.0.0.0 adxoo.com
@@ -3528,6 +3547,7 @@
 0.0.0.0 aeckcjy.com
 0.0.0.0 a.eed1729eebe45b8cd49e10f2dd80e297.com
 0.0.0.0 aeeefzfuk.com
+0.0.0.0 aeesy.com
 0.0.0.0 aeghae5y.com
 0.0.0.0 aegzjowko.com
 0.0.0.0 aehdgzigy.com
@@ -3620,6 +3640,7 @@
 0.0.0.0 affiliates.treasureisland.com
 0.0.0.0 affiliates.vpn.ht
 0.0.0.0 affiliatetrackingsetup.com
+0.0.0.0 affiliatewindow.com
 0.0.0.0 affiliationcash.com
 0.0.0.0 affiliation-france.com
 0.0.0.0 affiliationpartner.it
@@ -3946,6 +3967,7 @@
 0.0.0.0 akuettddwkwtdx.com
 0.0.0.0 alaccinalcom.top
 0.0.0.0 ala.durasite.net
+0.0.0.0 alahnavideos.pro
 0.0.0.0 alappropolylibe.site
 0.0.0.0 alapsblu.com
 0.0.0.0 albacross.com
@@ -3992,6 +4014,7 @@
 0.0.0.0 alexrid.com
 0.0.0.0 alfainternet.su
 0.0.0.0 alfatarget.ru
+0.0.0.0 alfatraffic.com
 0.0.0.0 alfynetwork.com
 0.0.0.0 algat.intergoles.me
 0.0.0.0 algopine.com
@@ -4140,6 +4163,7 @@
 0.0.0.0 alvfzqwkb.com
 0.0.0.0 alwayspainfully.com
 0.0.0.0 alwkvwdxqojyce.com
+0.0.0.0 alwqfajh.com
 0.0.0.0 alwsaz.com
 0.0.0.0 alwsbnvialll.com
 0.0.0.0 alxsite.com
@@ -4161,6 +4185,7 @@
 0.0.0.0 amaqvmfd.com
 0.0.0.0 amarceusan.com
 0.0.0.0 amarfa.ir
+0.0.0.0 amateurcouplewebcam.com
 0.0.0.0 amaumomt.com
 0.0.0.0 amavalet.com
 0.0.0.0 amavirgin.pro
@@ -4241,6 +4266,7 @@
 0.0.0.0 amsvts.com
 0.0.0.0 amswtlxkvzc.com
 0.0.0.0 am.szhome.com
+0.0.0.0 amtracking01.com
 0.0.0.0 am-trc-events.taboola.com
 0.0.0.0 amuletlatemanagement.com
 0.0.0.0 amung.us
@@ -4521,6 +4547,7 @@
 0.0.0.0 anametrix.com
 0.0.0.0 anametrix.net
 0.0.0.0 a.nanhuwang.com
+0.0.0.0 anastasia-international.com
 0.0.0.0 anastasiasaffiliate.com
 0.0.0.0 anatid3.com
 0.0.0.0 anatomicele.site
@@ -4868,6 +4895,7 @@
 0.0.0.0 appwall.tv2phone.cn
 0.0.0.0 appwebview.com
 0.0.0.0 aprelite.com
+0.0.0.0 apromoweb.com
 0.0.0.0 aprtn.com
 0.0.0.0 aprtx.com
 0.0.0.0 apserver.net
@@ -4989,6 +5017,7 @@
 0.0.0.0 arketscolourse.site
 0.0.0.0 arkinhechershedt.info
 0.0.0.0 arlime.com
+0.0.0.0 arlitasite.pro
 0.0.0.0 arlottencert.club
 0.0.0.0 armaimapt.club
 0.0.0.0 armame.info
@@ -5091,6 +5120,7 @@
 0.0.0.0 a.shenchuang.com
 0.0.0.0 ashingcontro.top
 0.0.0.0 ashow.pcpop.com
+0.0.0.0 asiangfsex.com
 0.0.0.0 asiantraffic.net
 0.0.0.0 asidecasev.com
 0.0.0.0 asiinbyu.com
@@ -5432,8 +5462,13 @@
 0.0.0.0 aweinkbum.com
 0.0.0.0 awelessawelesscedar.com
 0.0.0.0 awempire.com
+0.0.0.0 awemwh.com
+0.0.0.0 awentw.com
 0.0.0.0 aweproto.com
+0.0.0.0 aweprotostatic.com
+0.0.0.0 aweprt.com
 0.0.0.0 awepsi.com
+0.0.0.0 awept.com
 0.0.0.0 awesomelytics.com
 0.0.0.0 awesomenewspush.com
 0.0.0.0 awesomepeculiar.com
@@ -5454,6 +5489,7 @@
 0.0.0.0 a.wlgnd.com
 0.0.0.0 awltovhc.com
 0.0.0.0 awmengine.net
+0.0.0.0 awmserve.com
 0.0.0.0 awnyohgtmb.com
 0.0.0.0 awprt.com
 0.0.0.0 awptjmp.com
@@ -5559,6 +5595,7 @@
 0.0.0.0 azrjdlvlsxihbd.com
 0.0.0.0 azsikvmhlzuhje.com
 0.0.0.0 azsin.ru
+0.0.0.0 aztecash.com
 0.0.0.0 aztu.ynfolstw.xyz
 0.0.0.0 a.zuowenxuan.cn
 0.0.0.0 azvjudwr.info
@@ -6160,6 +6197,7 @@
 0.0.0.0 beha.ksmobile.com
 0.0.0.0 behance.vo.llnwd.net
 0.0.0.0 beharmalted.info
+0.0.0.0 behave.com
 0.0.0.0 behavingsali.club
 0.0.0.0 behavioralengine.com
 0.0.0.0 behybmunweid.com
@@ -8485,6 +8523,7 @@
 0.0.0.0 click.scour.com
 0.0.0.0 clicks.dealer.com
 0.0.0.0 clicksen.se
+0.0.0.0 clicksgate.com
 0.0.0.0 clicksgear.com
 0.0.0.0 clickshift.com
 0.0.0.0 clicks.hurriyet.com.tr
@@ -9988,6 +10027,7 @@
 0.0.0.0 d2wl3qmk54t3ha.cloudfront.net
 0.0.0.0 d2wlwbnaa4keje.cloudfront.net
 0.0.0.0 d2wpknqle9nuv8.cloudfront.net
+0.0.0.0 d2wy8f7a9ursnm.cloudfront.net
 0.0.0.0 d2xgf76oeu9pbh.cloudfront.net
 0.0.0.0 d2xsy1lxezptdm.cloudfront.net
 0.0.0.0 d2yh8t8mdj4l9x.cloudfront.net
@@ -14991,6 +15031,7 @@
 0.0.0.0 goossb.com
 0.0.0.0 goozbkcchscvb.com
 0.0.0.0 gop1.co
+0.0.0.0 gopejk.com
 0.0.0.0 gopfltvoiflf.com
 0.0.0.0 gopjn.com
 0.0.0.0 goprediction.com
@@ -23229,6 +23270,7 @@
 0.0.0.0 ningsovern.fun
 0.0.0.0 ningxiayy.com
 0.0.0.0 ninja.akamaized.net
+0.0.0.0 ninjacat.io
 0.0.0.0 ninja.onap.io
 0.0.0.0 ninkorant.online
 0.0.0.0 nirentang.com
@@ -25188,6 +25230,7 @@
 0.0.0.0 performax.cz
 0.0.0.0 performit.club
 0.0.0.0 performtracking.com
+0.0.0.0 perf-serving.com
 0.0.0.0 perfunctorytalentcompute.com
 0.0.0.0 pergavelshot.com
 0.0.0.0 perhangeflets.site
@@ -27004,6 +27047,7 @@
 0.0.0.0 qilashou.com
 0.0.0.0 qilungroup.cn
 0.0.0.0 qinchugudao.com
+0.0.0.0 qingjiedi.com
 0.0.0.0 qingyanmjg.com
 0.0.0.0 qingzhencai.net
 0.0.0.0 qinlinquan.cn
@@ -33367,6 +33411,7 @@
 0.0.0.0 tracking.gj-mobile-services.de
 0.0.0.0 tracking.godatafeed.com
 0.0.0.0 tracking.goodgamestudios.com
+0.0.0.0 tracking.gpm-rtv.ru
 0.0.0.0 tracking.hannoversche.de
 0.0.0.0 tracking.hi-pi.com
 0.0.0.0 tracking.hotel.check24.de
@@ -39134,6 +39179,7 @@
 0.0.0.0 0gctp5ht.top
 0.0.0.0 0gw7e6s3wrao9y3q.pro
 0.0.0.0 0h6djpk8fn.com
+0.0.0.0 0ij3tm.com
 0.0.0.0 0j7z9aw6.top
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
 0.0.0.0 0klxjejyxak3.com
@@ -42138,6 +42184,7 @@
 0.0.0.0 adsvolum.com
 0.0.0.0 adsvolume.com
 0.0.0.0 ads.vovlive.vn
+0.0.0.0 adswam.com
 0.0.0.0 adsweb.vn
 0.0.0.0 ads-wordego.azureedge.net
 0.0.0.0 adswrapme.click
@@ -42150,6 +42197,7 @@
 0.0.0.0 adsy.mail.bg
 0.0.0.0 adsymptotic.com
 0.0.0.0 ads.youtube.com
+0.0.0.0 adsyst.biz
 0.0.0.0 adsyst.net
 0.0.0.0 adsyst.ru
 0.0.0.0 ads.zaloapp.com
@@ -42204,6 +42252,7 @@
 0.0.0.0 adtoma.com
 0.0.0.0 adtomafusion.com
 0.0.0.0 adtomafusion.net
+0.0.0.0 adtonement.com
 0.0.0.0 ad-tool.com
 0.0.0.0 adtoox.com
 0.0.0.0 ad.topwar.ru
@@ -42243,13 +42292,20 @@
 0.0.0.0 aduic.com
 0.0.0.0 adultadspy.com
 0.0.0.0 adult-adv.com
+0.0.0.0 adultadvertising.net
 0.0.0.0 adultadworld.com
 0.0.0.0 adultblogtoplist.com
+0.0.0.0 adultcamchatfree.com
+0.0.0.0 adultcamfree.com
+0.0.0.0 adultcamliveweb.com
 0.0.0.0 adultimate.net
+0.0.0.0 adultlinkexchange.com
+0.0.0.0 adultmoviegroup.com
 0.0.0.0 adultoafiliados.com.br
 0.0.0.0 adultpay.net
 0.0.0.0 adultsadv.com
 0.0.0.0 adultsense.net
+0.0.0.0 adultsense.org
 0.0.0.0 adulttds.com
 0.0.0.0 adultterritory.net
 0.0.0.0 adulttraffic.ru
@@ -42262,6 +42318,7 @@
 0.0.0.0 adv457895.ru
 0.0.0.0 adv679854.ru
 0.0.0.0 adv758968.ru
+0.0.0.0 adv777.com
 0.0.0.0 adv859672.ru
 0.0.0.0 adv9.net
 0.0.0.0 advaction.ru
@@ -42298,6 +42355,7 @@
 0.0.0.0 advendi.de
 0.0.0.0 adventertainment.it
 0.0.0.0 adventori.com
+0.0.0.0 adventory.com
 0.0.0.0 adventurefeeds.com
 0.0.0.0 adverdata.net
 0.0.0.0 adverd.ru
@@ -42330,6 +42388,7 @@
 0.0.0.0 advertising365.com
 0.0.0.0 advertising.com
 0.0.0.0 advertisingiq.com
+0.0.0.0 advertisingsex.com
 0.0.0.0 advertisingvalue.info
 0.0.0.0 advertjunction.com
 0.0.0.0 advertland.ru
@@ -42343,11 +42402,13 @@
 0.0.0.0 advertnative.com
 0.0.0.0 advertnetworks.com
 0.0.0.0 advertoly.com
+0.0.0.0 advertom.com
 0.0.0.0 advertone.ru
 0.0.0.0 advertop.ru
 0.0.0.0 advertpay.net
 0.0.0.0 advert.polonsil.ru
 0.0.0.0 advert.punyu.com
+0.0.0.0 advertrtb.com
 0.0.0.0 advertserve.com
 0.0.0.0 advertshot.ru
 0.0.0.0 advertstar.ru
@@ -42411,6 +42472,7 @@
 0.0.0.0 ad-vortex.com
 0.0.0.0 adv.pilseta24.lv
 0.0.0.0 advplace.com
+0.0.0.0 adv-plus.com
 0.0.0.0 advpoints.com
 0.0.0.0 advredirect.net
 0.0.0.0 advrush.com
@@ -42418,6 +42480,7 @@
 0.0.0.0 advs2sonline.goforandroid.com
 0.0.0.0 adv.sec.intl.miui.com
 0.0.0.0 adv.sec.miui.com
+0.0.0.0 advsense.info
 0.0.0.0 advserver.cgv.vn
 0.0.0.0 advserver.xyz
 0.0.0.0 advsmedia.com
@@ -42477,6 +42540,7 @@
 0.0.0.0 adx.edutimes.com.vn
 0.0.0.0 adxgeeks.com
 0.0.0.0 adxion.com
+0.0.0.0 adxite.com
 0.0.0.0 adx.kul.vn
 0.0.0.0 adxnexus.com
 0.0.0.0 adxoo.com
@@ -42544,6 +42608,7 @@
 0.0.0.0 aeckcjy.com
 0.0.0.0 a.eed1729eebe45b8cd49e10f2dd80e297.com
 0.0.0.0 aeeefzfuk.com
+0.0.0.0 aeesy.com
 0.0.0.0 aeghae5y.com
 0.0.0.0 aegzjowko.com
 0.0.0.0 aehdgzigy.com
@@ -42636,6 +42701,7 @@
 0.0.0.0 affiliates.treasureisland.com
 0.0.0.0 affiliates.vpn.ht
 0.0.0.0 affiliatetrackingsetup.com
+0.0.0.0 affiliatewindow.com
 0.0.0.0 affiliationcash.com
 0.0.0.0 affiliation-france.com
 0.0.0.0 affiliationpartner.it
@@ -42962,6 +43028,7 @@
 0.0.0.0 akuettddwkwtdx.com
 0.0.0.0 alaccinalcom.top
 0.0.0.0 ala.durasite.net
+0.0.0.0 alahnavideos.pro
 0.0.0.0 alappropolylibe.site
 0.0.0.0 alapsblu.com
 0.0.0.0 albacross.com
@@ -43007,6 +43074,7 @@
 0.0.0.0 alexrid.com
 0.0.0.0 alfainternet.su
 0.0.0.0 alfatarget.ru
+0.0.0.0 alfatraffic.com
 0.0.0.0 alfynetwork.com
 0.0.0.0 algat.intergoles.me
 0.0.0.0 algopine.com
@@ -43153,6 +43221,7 @@
 0.0.0.0 alvfzqwkb.com
 0.0.0.0 alwayspainfully.com
 0.0.0.0 alwkvwdxqojyce.com
+0.0.0.0 alwqfajh.com
 0.0.0.0 alwsaz.com
 0.0.0.0 alwsbnvialll.com
 0.0.0.0 alxsite.com
@@ -43174,6 +43243,7 @@
 0.0.0.0 amaqvmfd.com
 0.0.0.0 amarceusan.com
 0.0.0.0 amarfa.ir
+0.0.0.0 amateurcouplewebcam.com
 0.0.0.0 amaumomt.com
 0.0.0.0 amavalet.com
 0.0.0.0 amavirgin.pro
@@ -43254,6 +43324,7 @@
 0.0.0.0 amsvts.com
 0.0.0.0 amswtlxkvzc.com
 0.0.0.0 am.szhome.com
+0.0.0.0 amtracking01.com
 0.0.0.0 am-trc-events.taboola.com
 0.0.0.0 amuletlatemanagement.com
 0.0.0.0 amung.us
@@ -43533,6 +43604,7 @@
 0.0.0.0 anametrix.com
 0.0.0.0 anametrix.net
 0.0.0.0 a.nanhuwang.com
+0.0.0.0 anastasia-international.com
 0.0.0.0 anastasiasaffiliate.com
 0.0.0.0 anatid3.com
 0.0.0.0 anatomicele.site
@@ -43878,6 +43950,7 @@
 0.0.0.0 appwall.tv2phone.cn
 0.0.0.0 appwebview.com
 0.0.0.0 aprelite.com
+0.0.0.0 apromoweb.com
 0.0.0.0 aprtn.com
 0.0.0.0 aprtx.com
 0.0.0.0 apserver.net
@@ -43999,6 +44072,7 @@
 0.0.0.0 arketscolourse.site
 0.0.0.0 arkinhechershedt.info
 0.0.0.0 arlime.com
+0.0.0.0 arlitasite.pro
 0.0.0.0 arlottencert.club
 0.0.0.0 armaimapt.club
 0.0.0.0 armame.info
@@ -44101,6 +44175,7 @@
 0.0.0.0 a.shenchuang.com
 0.0.0.0 ashingcontro.top
 0.0.0.0 ashow.pcpop.com
+0.0.0.0 asiangfsex.com
 0.0.0.0 asiantraffic.net
 0.0.0.0 asidecasev.com
 0.0.0.0 asiinbyu.com
@@ -44441,8 +44516,13 @@
 0.0.0.0 aweinkbum.com
 0.0.0.0 awelessawelesscedar.com
 0.0.0.0 awempire.com
+0.0.0.0 awemwh.com
+0.0.0.0 awentw.com
 0.0.0.0 aweproto.com
+0.0.0.0 aweprotostatic.com
+0.0.0.0 aweprt.com
 0.0.0.0 awepsi.com
+0.0.0.0 awept.com
 0.0.0.0 awesomelytics.com
 0.0.0.0 awesomenewspush.com
 0.0.0.0 awesomepeculiar.com
@@ -44462,6 +44542,7 @@
 0.0.0.0 awkmzvii39ei4.xyz
 0.0.0.0 a.wlgnd.com
 0.0.0.0 awltovhc.com
+0.0.0.0 awmserve.com
 0.0.0.0 awnyohgtmb.com
 0.0.0.0 awprt.com
 0.0.0.0 awptjmp.com
@@ -44567,6 +44648,7 @@
 0.0.0.0 azrjdlvlsxihbd.com
 0.0.0.0 azsikvmhlzuhje.com
 0.0.0.0 azsin.ru
+0.0.0.0 aztecash.com
 0.0.0.0 aztu.ynfolstw.xyz
 0.0.0.0 a.zuowenxuan.cn
 0.0.0.0 azvjudwr.info
@@ -45165,6 +45247,7 @@
 0.0.0.0 beha.ksmobile.com
 0.0.0.0 behance.vo.llnwd.net
 0.0.0.0 beharmalted.info
+0.0.0.0 behave.com
 0.0.0.0 behavingsali.club
 0.0.0.0 behavioralengine.com
 0.0.0.0 behybmunweid.com
@@ -47488,6 +47571,7 @@
 0.0.0.0 click.scour.com
 0.0.0.0 clicks.dealer.com
 0.0.0.0 clicksen.se
+0.0.0.0 clicksgate.com
 0.0.0.0 clicksgear.com
 0.0.0.0 clickshift.com
 0.0.0.0 clicks.hurriyet.com.tr
@@ -48986,6 +49070,7 @@
 0.0.0.0 d2wl3qmk54t3ha.cloudfront.net
 0.0.0.0 d2wlwbnaa4keje.cloudfront.net
 0.0.0.0 d2wpknqle9nuv8.cloudfront.net
+0.0.0.0 d2wy8f7a9ursnm.cloudfront.net
 0.0.0.0 d2xgf76oeu9pbh.cloudfront.net
 0.0.0.0 d2xsy1lxezptdm.cloudfront.net
 0.0.0.0 d2yh8t8mdj4l9x.cloudfront.net
@@ -53969,6 +54054,7 @@
 0.0.0.0 goossb.com
 0.0.0.0 goozbkcchscvb.com
 0.0.0.0 gop1.co
+0.0.0.0 gopejk.com
 0.0.0.0 gopfltvoiflf.com
 0.0.0.0 gopjn.com
 0.0.0.0 goprediction.com
@@ -62177,6 +62263,7 @@
 0.0.0.0 ningsovern.fun
 0.0.0.0 ningxiayy.com
 0.0.0.0 ninja.akamaized.net
+0.0.0.0 ninjacat.io
 0.0.0.0 ninja.onap.io
 0.0.0.0 ninkorant.online
 0.0.0.0 nirentang.com
@@ -64130,6 +64217,7 @@
 0.0.0.0 performax.cz
 0.0.0.0 performit.club
 0.0.0.0 performtracking.com
+0.0.0.0 perf-serving.com
 0.0.0.0 perfunctorytalentcompute.com
 0.0.0.0 pergavelshot.com
 0.0.0.0 perhangeflets.site
@@ -65938,6 +66026,7 @@
 0.0.0.0 qilashou.com
 0.0.0.0 qilungroup.cn
 0.0.0.0 qinchugudao.com
+0.0.0.0 qingjiedi.com
 0.0.0.0 qingyanmjg.com
 0.0.0.0 qingzhencai.net
 0.0.0.0 qinlinquan.cn
@@ -72287,6 +72376,7 @@
 0.0.0.0 tracking.gj-mobile-services.de
 0.0.0.0 tracking.godatafeed.com
 0.0.0.0 tracking.goodgamestudios.com
+0.0.0.0 tracking.gpm-rtv.ru
 0.0.0.0 tracking.hannoversche.de
 0.0.0.0 tracking.hi-pi.com
 0.0.0.0 tracking.hotel.check24.de

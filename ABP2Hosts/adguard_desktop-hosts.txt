@@ -1,4 +1,4 @@
-# Mon Dec 28 06:48:39 PM MST 2020
+# Tue Dec 29 12:39:58 AM MST 2020
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -116,6 +116,7 @@
 0.0.0.0 0gctp5ht.top
 0.0.0.0 0gw7e6s3wrao9y3q.pro
 0.0.0.0 0h6djpk8fn.com
+0.0.0.0 0ij3tm.com
 0.0.0.0 0j7z9aw6.top
 0.0.0.0 0klxjejyxak3.com
 0.0.0.0 0mr.cc
@@ -2867,7 +2868,6 @@
 0.0.0.0 a.duduji.com
 0.0.0.0 aduic.com
 0.0.0.0 adult3dcomics.com
-0.0.0.0 adultaccessnow.com
 0.0.0.0 adultadspy.com
 0.0.0.0 adult-adv.com
 0.0.0.0 adultadvertising.net
@@ -2876,12 +2876,9 @@
 0.0.0.0 adultcamchatfree.com
 0.0.0.0 adultcamfree.com
 0.0.0.0 adultcamliveweb.com
-0.0.0.0 adultcommercial.net
-0.0.0.0 adultdatingtraffic.com
 0.0.0.0 adultforce.com
 0.0.0.0 adultimate.net
 0.0.0.0 adultlinkexchange.com
-0.0.0.0 adultmediabuying.com
 0.0.0.0 adultmoviegroup.com
 0.0.0.0 adultoafiliados.com.br
 0.0.0.0 adultpay.net
@@ -2891,7 +2888,6 @@
 0.0.0.0 adulttds.com
 0.0.0.0 adultterritory.net
 0.0.0.0 adulttraffic.ru
-0.0.0.0 adulttubetraffic.com
 0.0.0.0 adult.xyz
 0.0.0.0 adup-tech.com
 0.0.0.0 adurr.com
@@ -3023,7 +3019,6 @@
 0.0.0.0 advmaker.ru
 0.0.0.0 advmaker.su
 0.0.0.0 advmanager.techfun.pl
-0.0.0.0 advmania.com
 0.0.0.0 advmd.com
 0.0.0.0 advmedia.by
 0.0.0.0 adv.mediaharbor.co.kr
@@ -3091,7 +3086,6 @@
 0.0.0.0 adxgeeks.com
 0.0.0.0 adxion.com
 0.0.0.0 adxite.com
-0.0.0.0 adxmarket.com
 0.0.0.0 adxnexus.com
 0.0.0.0 adxoo.com
 0.0.0.0 adxpansion.com
@@ -3686,7 +3680,6 @@
 0.0.0.0 allmyverygreatlife.com
 0.0.0.0 alloffs.ru
 0.0.0.0 allosponsor.com
-0.0.0.0 allotraffic.com
 0.0.0.0 allottenuy.club
 0.0.0.0 allowac.com
 0.0.0.0 allowandgo.link
@@ -4001,7 +3994,6 @@
 0.0.0.0 angusmemor.info
 0.0.0.0 anhuilitian.net
 0.0.0.0 aniashboy.club
-0.0.0.0 animeidhentai.com
 0.0.0.0 animeyes.ru
 0.0.0.0 animits.com
 0.0.0.0 animosityluxurioussack.com
@@ -4764,7 +4756,6 @@
 0.0.0.0 a.wlgnd.com
 0.0.0.0 awltovhc.com
 0.0.0.0 awmengine.net
-0.0.0.0 awmpartners.com
 0.0.0.0 awmserve.com
 0.0.0.0 awnyohgtmb.com
 0.0.0.0 awprt.com
@@ -4783,7 +4774,6 @@
 0.0.0.0 awtvnrgwxletd.com
 0.0.0.0 awyys.com
 0.0.0.0 awzbijw.com
-0.0.0.0 ax47mp-xp-21.com
 0.0.0.0 axadaldlozmqu.com
 0.0.0.0 axad.shinobi.jp
 0.0.0.0 axazusys.xyz
@@ -5429,6 +5419,7 @@
 0.0.0.0 begunprescription.com
 0.0.0.0 begun.ru
 0.0.0.0 beharmalted.info
+0.0.0.0 behave.com
 0.0.0.0 behavingsali.club
 0.0.0.0 behavioralengine.com
 0.0.0.0 behybmunweid.com
@@ -8958,6 +8949,7 @@
 0.0.0.0 d2tgfbvjf3q6hn.cloudfront.net
 0.0.0.0 d2tkdzior84vck.cloudfront.net
 0.0.0.0 d2u1npnnqecmpq.cloudfront.net
+0.0.0.0 d2uap9jskdzp2.cloudfront.net
 0.0.0.0 d2uepos3ef6db0.cloudfront.net
 0.0.0.0 d2uy8iq3fi50kh.cloudfront.net
 0.0.0.0 d2va1d0hpla18n.cloudfront.net
