@@ -21,4 +21,4 @@ Within this directory are the following items:
 
 - Finally, the [plain version of my CIDR-format block list](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/combined-flat.cidr) is also available in this subdirectory.  
 
-File names in here are basically self-explanatory.
+File names in here are basically self-explanatory, and I'm well aware at this point, that this directory should be named *AdditionalContent* or something of the sort, but it is what it is.
