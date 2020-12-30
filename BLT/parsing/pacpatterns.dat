@@ -23,6 +23,8 @@
 ^alohasoftware.net$
 ^amazon.com$
 ^amazonaws.com$
+^amzn.com$
+^amzn.to$
 ^ancestry.com$
 ^angularjs.org$
 ^ap.spotify.com$
@@ -92,6 +94,7 @@
 ^get3.adobe.com$
 ^getdropbox.com$
 ^giphy.com$
+^git.io$
 ^github.com$
 ^github.io$
 ^goo.gl$
@@ -129,6 +132,7 @@
 ^onedrive.live.com$
 ^openphish.com$
 ^optimizely.com$
+^ow.ly$
 ^paper.dropbox.com$
 ^pgl.yoyo.org$
 ^phobos.apple.com$
@@ -181,8 +185,14 @@
 ^winhelp2002.mvps.org$
 ^wix.com$
 ^www.4shared.com$
+^www.archive.org$
+^www.bit.ly$
 ^www.countryflags.io$
+^www.neocities.org$
+^www.ow.ly$
+^www.shorl.com$
 ^www.staradvertiser.com$
+^www.urbanairship.com$
 ^www.youtube-nocookie.com$
 ^yimg.com$
 ^yimg.jp$
