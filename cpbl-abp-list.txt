@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Wed Dec 30 12:33:57 AM MST 2020
+! Updated: Wed Dec 30 01:45:26 AM MST 2020
 ! Expires: 7 Days
 ! License: https://git.io/JTTLW
 ! Homepage: https://git.io/JTTLB
@@ -2361,6 +2361,7 @@
 ||913nd.dieti-natura.es^
 ||913vt.com^
 ||91cy.top^
+||91damimi.com^
 ||91friend.com^
 ||91funcy.com^
 ||91jiedai.cn^
@@ -2992,6 +2993,7 @@
 ||aboybvnm.com^
 ||abp.smartadcheck.de^
 ||abrahamschildren.com^
+||abrillofurniture.com^
 ||abroad-ad.kingsoft-office-service.com^
 ||abroadlynijiz.site^
 ||abrsamar.com^
@@ -3106,7 +3108,6 @@
 ||accguitar.com^
 ||acc-hd.de^
 ||accio.ai^
-||accionistas.balneariodealange.com^
 ||acc.magixite.com^
 ||accmgr.com^
 ||accoladebestiality.com^
@@ -10004,6 +10005,7 @@
 ||atharori.net^
 ||athear.com^
 ||athena-ads.wikia.com^
+||athenaat.com^
 ||athenainstitute.biz^
 ||athenatmpbeacon.theglobeandmail.ca^
 ||athercompet.club^
@@ -10042,7 +10044,6 @@
 ||atomicwallet.ws^
 ||atomikad.com^
 ||atomisons.xyz^
-||atom.lk^
 ||ato.mx^
 ||atonato.de^
 ||at-o.net^
@@ -12387,7 +12388,6 @@
 ||bioclinord.info^
 ||bio-free.ru^
 ||bioito.cn^
-||biolandmedical.litofis.com^
 ||bio-lifehealth.com^
 ||bionaft.ru^
 ||bional-dested.icu^
@@ -14134,6 +14134,7 @@
 ||cahdfzg.cn^
 ||cahf4eed.mooo.com^
 ||cahvxjmcl.com^
+||cahyaproperty.bbtbatam.com^
 ||caichenguang.cn^
 ||caiji.wiki^
 ||caikouli.com^
@@ -15805,7 +15806,6 @@
 ||circumscribevetofurther.com^
 ||circumstantialobtrusive.com^
 ||ciridola.com^
-||ciroiluminacion.litofis.com^
 ||ciscotred.cz.cc^
 ||c.isdspeed.qq.com^
 ||cision.com^
@@ -17719,7 +17719,6 @@
 ||countrynavigator.com^
 ||country.yepshare.com^
 ||count-server.sharethis.com^
-||countsquare.com^
 ||counts.tucows.com^
 ||count.taobao.com^
 ||count.upc.rakuten.co.jp^
@@ -19831,7 +19830,6 @@
 ||dating.majorwap.com^
 ||dating-service.net^
 ||datingzap.tk^
-||datnenduanbd.com^
 ||datoporn.com^
 ||datropy.com^
 ||datsgirl.com^
@@ -20251,6 +20249,7 @@
 ||deobp.com^
 ||deonixion.com^
 ||deostr.com^
+||depannage-vehicule-maroc.com^
 ||deparabides.club^
 ||deparationew.info^
 ||deparisesamer.info^
@@ -21278,6 +21277,7 @@
 ||dormitysature.info^
 ||dormyawape.com^
 ||doroga.kugesi.ru^
+||dorotheesausset.com^
 ||dorsetecho-gb.dorsetecho.co.uk^
 ||dorthuredwardles.info^
 ||dortnath.com^
@@ -21672,6 +21672,7 @@
 ||dreamintim.net^
 ||dreamlog.ru^
 ||dreampartners.ru^
+||dream.pics^
 ||dreampics.biz^
 ||dreamrecord.cn^
 ||dreamteaser.ru^
@@ -23805,6 +23806,7 @@
 ||eti-code.com^
 ||etihenbteb.com^
 ||etisalatebill.net^
+||etkindedektiflik.com^
 ||etknnufo.com^
 ||et-land.xyz^
 ||etlcrfkkfl.com^
@@ -25702,7 +25704,6 @@
 ||fishclix.com^
 ||fisher56.com^
 ||fishhoo.com^
-||fishing4tackle.com^
 ||fishin.rs^
 ||fishkekcamp.info^
 ||fishum.com^
@@ -26329,6 +26330,7 @@
 ||frankychamp.com^
 ||franticcarpenter.com^
 ||frantsuz.com^
+||fraud.bpcbankingtech.com^
 ||fraudjs.io^
 ||fraudmetrix.cn^
 ||fraudoutrageoustransport.com^
@@ -28511,6 +28513,7 @@
 ||ghwoo-setatg.ru^
 ||ghxadv.com^
 ||gialnk.com^
+||giannaspsychicstudio.com^
 ||giantaffiliates.com^
 ||giantengineteam.com^
 ||giantpremium.cn^
@@ -30629,6 +30632,7 @@
 ||hardtofindmilk.com^
 ||hardydisplayedprawn.com^
 ||hariqavi.com^
+||harmonimedia.com^
 ||harmonyfacility.com^
 ||harolmo.ru^
 ||harovar.com^
@@ -30901,7 +30905,6 @@
 ||heauty-viesected.com^
 ||heaven4cheats.eu^
 ||heavenlybike.com^
-||heaventoearth.com^
 ||heavenwil.top^
 ||heavyplayground.com^
 ||heawzlvivkakly.com^
@@ -31929,7 +31932,6 @@
 ||howtowinjustinbiebertickets.com^
 ||howtubray.com^
 ||howubdgdt.com^
-||howwevacation.sheltonpropertiesllc.com^
 ||hp0hnj.cn^
 ||hpasvfsndgr.com^
 ||hpbsyqsypxy.com^
@@ -32994,6 +32996,7 @@
 ||illustrationmanlypageant.com^
 ||illustriousoatmeal.com^
 ||illymithics.fr^
+||ilmeteo.dev.keyformat.it^
 ||ilmijlktgjx.com^
 ||ilogbox.com^
 ||i-lookup.com^
@@ -35207,6 +35210,7 @@
 ||johncharcol.com^
 ||johnfoxphotography.com^
 ||johnhaydenwrites.com^
+||johnloveskim.com^
 ||johnsitsi.pro^
 ||johtzj.com^
 ||joinads.me^
@@ -35247,7 +35251,6 @@
 ||jorjodika.com^
 ||jorpe.co.za^
 ||jorsdbphuyng.com^
-||josefpeters.com^
 ||josegene.com^
 ||josephcalculatedsewer.com^
 ||joshdghd.cf^
@@ -36019,6 +36022,7 @@
 ||ketchapp.org^
 ||ketoanhaiphong.vn^
 ||ketoo.com^
+||ketoresetme.com^
 ||ketstheralinver.info^
 ||keuhne-negal.com^
 ||kevfer.com^
@@ -36565,7 +36569,6 @@
 ||kopilka.io^
 ||kopsil.com^
 ||kopterka.ru^
-||ko-racingshop.com^
 ||koradu.com^
 ||korastar.net^
 ||korbatech.com^
@@ -37000,6 +37003,7 @@
 ||lailitou.com^
 ||lailivob.net^
 ||laim.tv^
+||lainiotisllc.com^
 ||lainswitche.top^
 ||laiye315.top^
 ||lajgmzddxrzjl.com^
@@ -40556,6 +40560,7 @@
 ||melvillet.pro^
 ||membergo.club^
 ||members.chello.nl^
+||members.nlbformula.com^
 ||membersonly.pw^
 ||members.sexroulette.com^
 ||memecounter.com^
@@ -42008,7 +42013,6 @@
 ||monochromestr.site^
 ||monotonoussurveytoxic.com^
 ||monplacementmalin.com^
-||monshaallahu.olaitanoluwasegunglobalent.org.ng^
 ||monsoniq.us^
 ||monsoonads.com^
 ||monstat.com^
@@ -42534,6 +42538,7 @@
 ||mu722.com^
 ||muabancaoocwnet.ru^
 ||muagjoxfew.com^
+||muahangvietmy.com^
 ||muatui.com^
 ||mubam.ru^
 ||mubite.cn^
@@ -43978,6 +43983,7 @@
 ||nicevideos.xyz^
 ||nicewii.com^
 ||nicheads.com^
+||nichimanabi.com^
 ||nicholaspring.xyz^
 ||nichools.com^
 ||nickarini.com^
@@ -44195,7 +44201,6 @@
 ||nmwalbwu.com^
 ||nmwzrcdzbrjj.com^
 ||nmxliveads.akamaized.net^
-||nmxlive.akamaized.net^
 ||nmywwgnnkmud.com^
 ||nnavigation.info^
 ||nndgxdunwvte.com^
@@ -46612,7 +46617,6 @@
 ||pakjevoordeel.net^
 ||pakkagit.com.tr^
 ||palandan.com^
-||palanskaotg.org.ua^
 ||palauone.com^
 ||palazzogrimani.org^
 ||paleenem.com^
@@ -50539,7 +50543,6 @@
 ||quakearena32.ru^
 ||quakemarketing.com^
 ||qualaroo.com^
-||qualcommmedia.com^
 ||qualigo.de^
 ||quality-channel.de^
 ||qualitycontrols.mx^
@@ -51432,6 +51435,7 @@
 ||redjezelf.net^
 ||redlele.com^
 ||redlightcenter.com^
+||redmanns-way.com^
 ||redmas.com^
 ||redmoscow.info^
 ||redmx.cn^
@@ -52954,7 +52958,6 @@
 ||russianporn.tv^
 ||russiawala.com^
 ||russionsdeath.fun^
-||russk16.icu^
 ||russkistandart.info^
 ||rustbetakey.net^
 ||rustbetakeys.com^
@@ -54568,6 +54571,7 @@
 ||sevening.club^
 ||sevenj.club^
 ||sevenrumblepunishment.com^
+||sevensteel.com.tr^
 ||seventa.ru^
 ||seventin17.com^
 ||seventual.site^
@@ -55213,6 +55217,7 @@
 ||sinceresubstance.com^
 ||sincernething.site^
 ||sincetrade.com^
+||sinclair-electrical.com^
 ||sindicato1ucm.cl^
 ||sinettrk.com^
 ||s.infogr.am^
@@ -58317,6 +58322,7 @@
 ||surefire.link^
 ||surfacecharo.info^
 ||surf-bar-traffic.com^
+||surfboarddigital.com^
 ||surfcounters.com^
 ||surfcountor.com^
 ||surfearner.com^
@@ -59293,6 +59299,7 @@
 ||techsolutions.com.tw^
 ||techspotcom.skimlinks.com^
 ||techstats.net^
+||techworldo.com^
 ||tecnevo.com^
 ||tecnoteakviareggio.it^
 ||tecontx.com^
@@ -59770,7 +59777,6 @@
 ||themdesertdumbest.com^
 ||themecat.cn^
 ||themee.cn^
-||themesgiant.net^
 ||themodernwarfare3hack.net^
 ||themoneyes.ru^
 ||themoneytizer.com^
@@ -64584,6 +64590,7 @@
 ||visit.webhosting.yahoo.com^
 ||visiweb.top^
 ||vis.optimizely.com^
+||vissermalin.com^
 ||visto1.net^
 ||visualagesachievement.org^
 ||visualdna.com^
@@ -66981,7 +66988,7 @@
 ||www.ab.auone-net.jp^
 ||www.abcjmp.com^
 ||www.ac.auone-net.jp^
-||www.aciparis.com^
+||www.achutamanasa.com^
 ||www.adbert.com.tw^
 ||www.adbonus.com^
 ||www.ad-click.biz^
@@ -67028,6 +67035,7 @@
 ||www.banner-link.com.br^
 ||www.barbiemobi.cn^
 ||www.bettertextads.com^
+||www.bidwincash.com^
 ||www.bigpenisguide.com^
 ||www.blockchained.party^
 ||www.blogcatalog.com^
@@ -67109,6 +67117,7 @@
 ||www.freedownloadzone.com^
 ||www.freeezinebucks.com^
 ||www.freehitwebcounters.com^
+||www.freejobalertcom.xyz^
 ||www.freenew.net^
 ||www.freepornsubmits.com^
 ||www.g-af.com^
@@ -67116,6 +67125,7 @@
 ||www.gbcash.com^
 ||www.gbooksdownloader.com^
 ||www.gcmadvertising.com^
+||www.geosrt.com^
 ||www.getsmart.com^
 ||www.girlz-high.com^
 ||www.globalcharge.com^
@@ -67178,6 +67188,7 @@
 ||www.knacads.com^
 ||www.komodia.com^
 ||www.kurulumtr.com^
+||www.lapcare.com^
 ||www.leadtrackgo.com^
 ||www.lifeforminc.com^
 ||www.linkbucks.com^
@@ -67317,6 +67328,7 @@
 ||www.taichang.co.kr^
 ||www.tangibledownload.com^
 ||www.targeted-banners.com^
+||www.taylordbackups.com^
 ||www.terrapops.com^
 ||wwwtestsportsclubs.com^
 ||www.textlinkads.com^
@@ -69859,6 +69871,7 @@
 ||zhlfogiy.com^
 ||zhlrcaahpuqh.com^
 ||zhmatou.com^
+||zhongbolm.com^
 ||zhongchengzp.com^
 ||zhongdoulicai.com^
 ||zhongfujiaoyu.cn^
@@ -70213,7 +70226,6 @@
 ||zryydi.com^
 ||zrzeewya.com^
 ||zrzrpxzvsk.com^
-||zsartandcraft.com^
 ||zsaugustowo.pl^
 ||zsdexun.com.cn^
 ||zs.dhl.de^
