@@ -1,4 +1,4 @@
-# Tue Dec 29 12:51:14 AM MST 2020
+# Tue Dec 29 07:40:24 PM MST 2020
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -133,6 +133,7 @@
 0.0.0.0 0pixl.com
 0.0.0.0 0qkc.cn
 0.0.0.0 0ql3xxre2h.com
+0.0.0.0 0redirb.com
 0.0.0.0 0s9dxlr07huu.com
 0.0.0.0 0sbm.consobaby.co.uk
 0.0.0.0 0stats.com
@@ -10904,7 +10905,6 @@
 0.0.0.0 exteriapremai.info
 0.0.0.0 extole.com
 0.0.0.0 extole.io
-0.0.0.0 ext.platinnetz.de
 0.0.0.0 extra33.com
 0.0.0.0 extra-7news.ru
 0.0.0.0 extremedirectness.com
@@ -16317,6 +16317,7 @@
 0.0.0.0 kolitter.com
 0.0.0.0 koluty.com
 0.0.0.0 kolwksic.com
+0.0.0.0 komi168.com
 0.0.0.0 komoona.com
 0.0.0.0 komtrack.com
 0.0.0.0 koncbabae.com
@@ -16817,6 +16818,7 @@
 0.0.0.0 leimardog.com
 0.0.0.0 leisurebrain.com
 0.0.0.0 lejhdbxl.com
+0.0.0.0 lejuyoujia2019.com
 0.0.0.0 leletuitui.com
 0.0.0.0 lemaite.cn
 0.0.0.0 lemetri.info
@@ -17203,6 +17205,7 @@
 0.0.0.0 ljggc.com
 0.0.0.0 ljhyotgxuyglm.com
 0.0.0.0 ljjaiargqfwtzu.com
+0.0.0.0 ljmei.com
 0.0.0.0 ljqnbiogjp.com
 0.0.0.0 ljteas.com
 0.0.0.0 ljucamkqc.com
@@ -21310,7 +21313,6 @@
 0.0.0.0 partners.autotrader.co.uk
 0.0.0.0 partners.badongo.com
 0.0.0.0 partners.betus.com
-0.0.0.0 partners.eatsmarter.de
 0.0.0.0 partners.etoro.com
 0.0.0.0 partner.simplytel.de
 0.0.0.0 partners.mobiguru.ru
@@ -24357,6 +24359,7 @@
 0.0.0.0 rtox.net
 0.0.0.0 rtpdn10.com
 0.0.0.0 rtpdn11.com
+0.0.0.0 rtpdn12.com
 0.0.0.0 rtpetworki.fun
 0.0.0.0 rt.prnewswire.com
 0.0.0.0 rtrk.com
@@ -28356,6 +28359,7 @@
 0.0.0.0 tracking.shopstyle.com
 0.0.0.0 tracking.shoptogether.buy.com
 0.0.0.0 tracking.skyword.com
+0.0.0.0 trackingsltns.click
 0.0.0.0 tracking.smartmeapp.com
 0.0.0.0 tracking.softwareprojects.com
 0.0.0.0 tracking.sokrati.com
@@ -32535,6 +32539,7 @@
 0.0.0.0 yviletet.online
 0.0.0.0 yviqapajvhsx.com
 0.0.0.0 yvirandu.top
+0.0.0.0 yvktmda.cn
 0.0.0.0 yvmads.com
 0.0.0.0 yvoria.com
 0.0.0.0 yvsymvjzk.com
@@ -32822,6 +32827,7 @@
 0.0.0.0 zhangshiyuan.com
 0.0.0.0 zhanjiangletian.com
 0.0.0.0 zhanlan5.cn
+0.0.0.0 zhekoudajie.com
 0.0.0.0 zhengjsmd.cn
 0.0.0.0 zhengyejixie.com
 0.0.0.0 zhengzhoupengbo.com

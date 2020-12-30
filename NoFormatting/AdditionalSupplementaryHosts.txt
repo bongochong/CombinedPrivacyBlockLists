@@ -226,7 +226,6 @@
 0.0.0.0 2anal.net
 0.0.0.0 2be431d7.ngrok.io
 0.0.0.0 2bunny.com
-0.0.0.0 2cam.eu
 0.0.0.0 2cam.nl
 0.0.0.0 2daytrendingnews.com
 0.0.0.0 2gay.net
@@ -245,6 +244,7 @@
 0.0.0.0 2mycomputer.com
 0.0.0.0 2n2qlh5hqcwrvo.net
 0.0.0.0 2o34.com
+0.0.0.0 2o7.net
 0.0.0.0 2ogo.com
 0.0.0.0 2p9fyvx.com
 0.0.0.0 2rich4bitches.com
@@ -557,13 +557,16 @@
 0.0.0.0 a2btrans.pl
 0.0.0.0 a2sex.com
 0.0.0.0 a2zgroup.in
+0.0.0.0 a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com
 0.0.0.0 a460.cell.phone.ringtone.samsung.sms13.de
 0.0.0.0 a48.info
 0.0.0.0 a50625ja.beget.tech
 0.0.0.0 a50.g2.akamai.net
+0.0.0.0 a5e652663674a11e997c60ac8a4ec150-1684524385.eu-central-1.elb.amazonaws.com
 0.0.0.0 a-5.info
 0.0.0.0 a-7763.com
 0.0.0.0 a85.info
+0.0.0.0 a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com
 0.0.0.0 a94.info
 0.0.0.0 aa81bf391151884adfa3dd677e41f94be1.com
 0.0.0.0 aa9bd78f328a6a41279d0fad0a88df1901.com
@@ -954,6 +957,8 @@
 0.0.0.0 aeros12.tk
 0.0.0.0 aesculapius.000webhostapp.com
 0.0.0.0 af721e3a.ngrok.io
+0.0.0.0 afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com
+0.0.0.0 affex.org
 0.0.0.0 afflow.18-plus.net
 0.0.0.0 afminer.com
 0.0.0.0 afraidlanguage.com
@@ -1408,6 +1413,7 @@
 0.0.0.0 atlasglb.tk
 0.0.0.0 atom.adjust.com
 0.0.0.0 atom.lk
+0.0.0.0 at-o.net
 0.0.0.0 atrinbux.ir
 0.0.0.0 attachments.goapk.com
 0.0.0.0 atti.velti.com
@@ -2020,6 +2026,7 @@
 0.0.0.0 chargement-pro.icu
 0.0.0.0 charjackyum.com
 0.0.0.0 charlesprofile.website
+0.0.0.0 chartbeat.com
 0.0.0.0 chartboost.com
 0.0.0.0 chaseonlinebusinesssolution.com
 0.0.0.0 chaseonlinei.com
@@ -2319,6 +2326,7 @@
 0.0.0.0 critictruck.com
 0.0.0.0 crosspeenpress.com
 0.0.0.0 crownclam.com
+0.0.0.0 crsspxl.com
 0.0.0.0 crudtest.srintegrated.com
 0.0.0.0 cryberpunk.download
 0.0.0.0 crypt24.in
@@ -2465,6 +2473,7 @@
 0.0.0.0 dashboard.evolveplatform.net
 0.0.0.0 dashingdirt.com
 0.0.0.0 dashingsweater.com
+0.0.0.0 data.adobedc.net
 0.0.0.0 data.flurry.com
 0.0.0.0 data.mobclix.com
 0.0.0.0 datenhaus.info
@@ -2601,6 +2610,7 @@
 0.0.0.0 dns9.ffv3.ru
 0.0.0.0 dns.cloudipnameserver.com
 0.0.0.0 dns.cloudnameservice.com
+0.0.0.0 dnsdelegation.io
 0.0.0.0 dnsedc.com
 0.0.0.0 dnsfordomains.ru
 0.0.0.0 dns-forwarding.com
@@ -2929,6 +2939,7 @@
 0.0.0.0 eucsoft.com
 0.0.0.0 eu-gmtdmp.gd1.mookie1.com
 0.0.0.0 euirterhgt.pw
+0.0.0.0 eulerian.net
 0.0.0.0 eupornstar.info
 0.0.0.0 eurogov.pw
 0.0.0.0 euro-option.info
@@ -3297,6 +3308,7 @@
 0.0.0.0 generationgrowth.ml
 0.0.0.0 genzmag.com
 0.0.0.0 geolocation-sys.com
+0.0.0.0 geo.ngtv.io
 0.0.0.0 germerand.com
 0.0.0.0 geroipanel.site
 0.0.0.0 getdownload4812.ru
@@ -3321,6 +3333,7 @@
 0.0.0.0 ggpht.ml
 0.0.0.0 gg.usdipc.com
 0.0.0.0 ghjdthrf.tk
+0.0.0.0 ghochv3eng.trafficmanager.net
 0.0.0.0 ghor-e-keshi.com
 0.0.0.0 ghostru.biz
 0.0.0.0 ghrelokamkaj.com
@@ -4143,6 +4156,7 @@
 0.0.0.0 kitchenraja.in
 0.0.0.0 kitcross.ca
 0.0.0.0 kiwi237au.tk
+0.0.0.0 k.keyade.com
 0.0.0.0 kkgroupbd.com
 0.0.0.0 kkrudy.com
 0.0.0.0 kladara.ml
@@ -4697,6 +4711,7 @@
 0.0.0.0 mkzd.ru
 0.0.0.0 mlhxyz.ml
 0.0.0.0 mlib.browsermine.com
+0.0.0.0 mms.cnn.com
 0.0.0.0 mm.zubovskaya-banya.ru
 0.0.0.0 mnsoorysoemsystems.com
 0.0.0.0 mnv.terasoffshore.xyz
@@ -5090,6 +5105,7 @@
 0.0.0.0 offthewall.top
 0.0.0.0 oficina24.online
 0.0.0.0 og-funds.net
+0.0.0.0 oghub.io
 0.0.0.0 ogrid.org
 0.0.0.0 ohso.site
 0.0.0.0 oiwcvbnc2e.stream
@@ -5218,6 +5234,7 @@
 0.0.0.0 partclick.ir
 0.0.0.0 partnerad.l.doubleclick.net
 0.0.0.0 partner.googleadservices.com
+0.0.0.0 partner.intentmedia.net
 0.0.0.0 partner-service.spotify.com
 0.0.0.0 partner-service-testing.spotify.com
 0.0.0.0 partplanes.com
@@ -5912,6 +5929,7 @@
 0.0.0.0 saysidewalk.com
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 sb.voicefive.com
+0.0.0.0 sc.adobedc.net
 0.0.0.0 scaleway.ovh
 0.0.0.0 scanjet.tk
 0.0.0.0 scarcesign.com
@@ -5926,6 +5944,7 @@
 0.0.0.0 scientificshirt.com
 0.0.0.0 scintillatingscissors.com
 0.0.0.0 scintillatingspace.com
+0.0.0.0 sc.omtrdc.net
 0.0.0.0 scoot-mail.net
 0.0.0.0 scope-sci.org
 0.0.0.0 scorecardresearch.com
@@ -6376,6 +6395,7 @@
 0.0.0.0 static-assets-queue-it.net
 0.0.0.0 static.browsermine.com
 0.0.0.0 static-cdn.adro.co
+0.0.0.0 static.chartbeat.com
 0.0.0.0 static.clix.ir
 0.0.0.0 static.doubleclick.net
 0.0.0.0 static.farakav.com
@@ -6422,6 +6442,7 @@
 0.0.0.0 storescissors.com
 0.0.0.0 storeslope.com
 0.0.0.0 storesurprise.com
+0.0.0.0 storetail.io
 0.0.0.0 stormyachiever.com
 0.0.0.0 stormyshock.com
 0.0.0.0 stormysponge.com
@@ -6547,6 +6568,8 @@
 0.0.0.0 ta4ila.ru
 0.0.0.0 taamgol.com
 0.0.0.0 tabligheirani.com
+0.0.0.0 tagcommander.com
+0.0.0.0 tag.crsspxl.com
 0.0.0.0 tag.device9.com
 0.0.0.0 tag.device9.net
 0.0.0.0 tag.medialytics.com
@@ -6744,6 +6767,7 @@
 0.0.0.0 track.adform.net
 0.0.0.0 track.celtra.com
 0.0.0.0 tracking.admobsphere.com
+0.0.0.0 tracking.bp01.net
 0.0.0.0 tracking.monsido.com
 0.0.0.0 tracking.opencandy.com.s3.amazonaws.com
 0.0.0.0 tracking.tidalhifi.com
@@ -7111,6 +7135,7 @@
 0.0.0.0 webs-net-techie-app.win
 0.0.0.0 websolution.vipwell.org
 0.0.0.0 webtransferorder.xyz
+0.0.0.0 webtrekk.net
 0.0.0.0 webwestfieldindustries.tk
 0.0.0.0 webwetrans.xyz
 0.0.0.0 webxmr.com
@@ -7174,6 +7199,7 @@
 0.0.0.0 withmychild.ru
 0.0.0.0 wittersphere.net
 0.0.0.0 witthethim.com
+0.0.0.0 wizaly.com
 0.0.0.0 wizardside.club
 0.0.0.0 wmspb.ru
 0.0.0.0 wmtech.website
@@ -7216,6 +7242,7 @@
 0.0.0.0 wss.nablabee.com
 0.0.0.0 wss.rand.com.ru
 0.0.0.0 ws.tapjoyads.com
+0.0.0.0 wt-eu02.net
 0.0.0.0 wtm.monitoringservice.co
 0.0.0.0 ww2rai.ru
 0.0.0.0 wwikrrtt.info
@@ -7228,6 +7255,7 @@
 0.0.0.0 www.aciparis.com
 0.0.0.0 www.adiode.com
 0.0.0.0 www.admob.com.akadns.net
+0.0.0.0 www.adnxs.com
 0.0.0.0 www.agnespagan.com
 0.0.0.0 www.alshuwail.com
 0.0.0.0 www.audio2.spotify.com
@@ -7242,9 +7270,11 @@
 0.0.0.0 www.besocial.online
 0.0.0.0 www.blockchained.party
 0.0.0.0 www.bmsystem.ro
+0.0.0.0 www.chartbeat.com
 0.0.0.0 www.cloudflane.com
 0.0.0.0 www.coinimp.com
 0.0.0.0 www.coinimp.net
+0.0.0.0 www.crsspxl.com
 0.0.0.0 www.cryptonoter.com
 0.0.0.0 www.datasecu.download
 0.0.0.0 www.device9.com
