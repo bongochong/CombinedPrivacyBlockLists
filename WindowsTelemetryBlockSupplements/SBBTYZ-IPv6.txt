@@ -1,7 +1,7 @@
 #Anti-Telemetry Hosts for Windows from TYZBIT, CrazyMax and SpyBot Anti-Beacon
 #IPv6 Version
 #Included in default hosts file
-#Last update 12/27/2020
+#Last update 12/29/2020
 
 :: a.ads1.msn.com
 :: a.ads2.msads.net
@@ -203,6 +203,7 @@
 :: cs1.wpc.v0cdn.net
 :: cy2.vortex.data.microsoft.com.akadns.net
 :: db3aqu.atdmt.com
+:: db3wns2011111.wns.windows.com
 :: db5-eap.settings-win.data.microsoft.com.akadns.net
 :: db5.settings-win.data.microsoft.com.akadns.net
 :: db5.settings.data.microsoft.com.akadns.net
@@ -318,6 +319,7 @@
 :: i-sn3p-cor002.api.p001.1drv.com
 :: i1.services.social.microsoft.com
 :: i1.services.social.microsoft.com.nsatc.net
+:: i1.services.social.microsoft.comv10.vortex-win.data.microsoft.com
 :: ieonlinews.microsoft.com
 :: ieonlinews.trafficmanager.net
 :: insideruser.trafficmanager.net
@@ -352,6 +354,7 @@
 :: services.wes.df.telemetry.microsoft.com
 :: settings-sandbox.data.microsoft.com
 :: settings-win-ppe.data.microsoft.com
+:: settings-win.data.microsoft.com
 :: settings.data.glbdns2.microsoft.com
 :: settingsfd-geo.trafficmanager.net
 :: sg2p.wns.windows.com
@@ -374,6 +377,7 @@
 :: telecommand.telemetry.microsoft.com
 :: telecommand.telemetry.microsoft.com.nsatc.net
 :: telemetry.appex.bing.net
+:: telemetry.appex.bing.net:443
 :: telemetry.microsoft.com
 :: telemetry.remoteapp.windowsazure.com
 :: telemetry.urs.microsoft.com
