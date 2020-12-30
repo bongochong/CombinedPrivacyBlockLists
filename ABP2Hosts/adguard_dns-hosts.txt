@@ -1,4 +1,4 @@
-# Tue Dec 29 07:40:29 PM MST 2020
+# Wed Dec 30 12:21:49 AM MST 2020
 # AdGuard DNS Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -20045,6 +20045,7 @@
 0.0.0.0 ljggc.com
 0.0.0.0 ljhyotgxuyglm.com
 0.0.0.0 ljjaiargqfwtzu.com
+0.0.0.0 ljmei.com
 0.0.0.0 ljqnbiogjp.com
 0.0.0.0 ljteas.com
 0.0.0.0 ljucamkqc.com
@@ -59062,6 +59063,7 @@
 0.0.0.0 ljggc.com
 0.0.0.0 ljhyotgxuyglm.com
 0.0.0.0 ljjaiargqfwtzu.com
+0.0.0.0 ljmei.com
 0.0.0.0 ljqnbiogjp.com
 0.0.0.0 ljteas.com
 0.0.0.0 ljucamkqc.com

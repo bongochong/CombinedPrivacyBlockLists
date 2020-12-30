@@ -1,4 +1,4 @@
-# Tue Dec 29 07:40:24 PM MST 2020
+# Wed Dec 30 12:21:44 AM MST 2020
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
