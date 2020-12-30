@@ -1,4 +1,4 @@
-# Wed Dec 30 01:34:03 AM MST 2020
+# Wed Dec 30 04:40:31 AM MST 2020
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -3515,7 +3515,6 @@
 0.0.0.0 c.webengage.com
 0.0.0.0 c.webtrends.com
 0.0.0.0 cws-cctv.conviva.com
-0.0.0.0 cws.conviva.com
 0.0.0.0 cws-eu.conviva.com
 0.0.0.0 cws-hulu.conviva.com
 0.0.0.0 cws-iad1.conviva.com
@@ -4395,7 +4394,6 @@
 0.0.0.0 fout.jp
 0.0.0.0 foxmvsdata.s.moatpixel.com
 0.0.0.0 foxnet.demdex.net
-0.0.0.0 foxnews.demdex.net
 0.0.0.0 foxnews.hb.omtrdc.net
 0.0.0.0 fp3.ads.stickyadstv.com.akadns.net
 0.0.0.0 fptadtrue-d.openx.net
@@ -6711,7 +6709,6 @@
 0.0.0.0 pingfore.qq.com
 0.0.0.0 pingjs.qq.com
 0.0.0.0 pingma.qq.com
-0.0.0.0 pings.conviva.com
 0.0.0.0 ping.taplytics.com
 0.0.0.0 pingtcss.qq.com
 0.0.0.0 ping.xlmc.sandai.net
@@ -9612,7 +9609,6 @@
 0.0.0.0 vungle.com
 0.0.0.0 vungle.com.edgekey.net
 0.0.0.0 vuukle-d.openx.net
-0.0.0.0 v.w-x.co
 0.0.0.0 vyk.admaster.com.cn
 0.0.0.0 vz-cdn2.adtng.com
 0.0.0.0 vz-cdn2.contentabc.com
@@ -9938,7 +9934,6 @@
 0.0.0.0 zdbb.net
 0.0.0.0 zedo.com
 0.0.0.0 zedo-d.openx.net
-0.0.0.0 zee.cws.conviva.com
 0.0.0.0 zemanta-ny.outbrain.org
 0.0.0.0 zem.outbrainimg.com
 0.0.0.0 zergnet-d.openx.net

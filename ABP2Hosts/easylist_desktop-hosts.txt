@@ -1,4 +1,4 @@
-# Wed Dec 30 01:34:33 AM MST 2020
+# Wed Dec 30 04:41:00 AM MST 2020
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -3849,7 +3849,6 @@
 0.0.0.0 apicloud.ru
 0.0.0.0 api.inwemo.com
 0.0.0.0 api-keks.com
-0.0.0.0 api-location-prd.pelcro.com
 0.0.0.0 api.nobeta.com.br
 0.0.0.0 apiskywebbercom-a.akamaihd.net
 0.0.0.0 api.smartadv.ru
@@ -8072,7 +8071,6 @@
 0.0.0.0 c.wort-suche.com
 0.0.0.0 cwplubzglmfah.com
 0.0.0.0 cwpumsjshnacl.com
-0.0.0.0 cws.conviva.com
 0.0.0.0 cwsgwqbcdhtk.com
 0.0.0.0 cx.atdmt.com
 0.0.0.0 cxb4.cn
@@ -21735,7 +21733,6 @@
 0.0.0.0 pingping888.com
 0.0.0.0 pingqwlxklbiev.com
 0.0.0.0 pings.blip.tv
-0.0.0.0 pings.conviva.com
 0.0.0.0 pingshu365.xyz
 0.0.0.0 ping.smyte.com
 0.0.0.0 ping.staticmoly.me

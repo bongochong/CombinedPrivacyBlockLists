@@ -1,4 +1,4 @@
-# Wed Dec 30 01:34:20 AM MST 2020
+# Wed Dec 30 04:40:47 AM MST 2020
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -2598,6 +2598,7 @@
 0.0.0.0 adscendmedia.com
 0.0.0.0 adsclick.yx.js.cn
 0.0.0.0 ads-connect.com
+0.0.0.0 adsco.re
 0.0.0.0 ad-score.com
 0.0.0.0 adscorp.win
 0.0.0.0 adscpm.net
@@ -23812,7 +23813,6 @@
 0.0.0.0 pingomatic.com
 0.0.0.0 pingping888.com
 0.0.0.0 pingqwlxklbiev.com
-0.0.0.0 pings.conviva.com
 0.0.0.0 pingshu365.xyz
 0.0.0.0 ping.smyte.com
 0.0.0.0 ping.taplytics.com
@@ -34545,6 +34545,7 @@
 0.0.0.0 xclgusxcdjd.com
 0.0.0.0 xclicks.net
 0.0.0.0 xclk-integracion.com
+0.0.0.0 xclofrfa.com
 0.0.0.0 xc.macd.cn
 0.0.0.0 xcmxsw.com
 0.0.0.0 xc.mydrivers.com
