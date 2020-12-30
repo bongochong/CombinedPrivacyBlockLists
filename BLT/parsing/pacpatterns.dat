@@ -23,15 +23,18 @@
 ^alohasoftware.net$
 ^amazon.com$
 ^amazonaws.com$
+^amd.cdn.turner.com$
 ^amzn.com$
 ^amzn.to$
 ^ancestry.com$
 ^angularjs.org$
 ^ap.spotify.com$
+^api-global.netflix.com$
 ^api-staging.backup.signal.org$
 ^api-staging.directory.signal.org$
 ^api.twitter.com$
 ^app.link$
+^appboot.netflix.com$
 ^appldnld.apple.com$
 ^apple.com$
 ^appleid.apple.com$
@@ -101,6 +104,7 @@
 ^gravatar.com$
 ^gs.apple.com$
 ^hostsfile.org$
+^i.cdn.turner.com$
 ^i.imgbox.com$
 ^i.ytimg.com$
 ^i1.ytimg.com$
@@ -140,8 +144,10 @@
 ^platform.twitter.com$
 ^play.spotify.com$
 ^plex.tv$
+^pmd.cdn.turner.com$
 ^pushbullet.com$
 ^raw.githubusercontent.com$
+^s.cdn.turner.com$
 ^sdc.usps.com$
 ^search.twitter.com$
 ^secure.netflix.com$
@@ -174,6 +180,7 @@
 ^typepad.com$
 ^typography.com$
 ^udemy.com$
+^ugdturner.com$
 ^upload.twitter.com$
 ^urbanairship.com$
 ^us.i1.yimg.com$
@@ -192,9 +199,11 @@
 ^www.ow.ly$
 ^www.shorl.com$
 ^www.staradvertiser.com$
+^www.ugdturner.com$
 ^www.urbanairship.com$
 ^www.youtube-nocookie.com$
 ^yimg.com$
 ^yimg.jp$
 ^youtube-nocookie.com$
 ^ytimg.com$
+^z.cdn.turner.com$
