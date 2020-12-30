@@ -18,7 +18,7 @@
 # This work is licensed under the CPAL-1.0
 # See: http://shorl.com/vebrubefrubiti
 #
-# ~- Wed Dec 30 01:43:43 AM MST 2020 -~
+# ~- Wed Dec 30 04:46:38 AM MST 2020 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -9303,7 +9303,6 @@
 0.0.0.0 api.locallogic.co
 0.0.0.0 api.localytics.com
 0.0.0.0 api.locately.com
-0.0.0.0 api-location-prd.pelcro.com
 0.0.0.0 api.locuslabs.com
 0.0.0.0 api-log-analytics.cloud.toast.com
 0.0.0.0 api.logentries.com
@@ -18651,7 +18650,6 @@
 0.0.0.0 cwportal.112.2o7.net
 0.0.0.0 cwpumsjshnacl.com
 0.0.0.0 cws-cctv.conviva.com
-0.0.0.0 cws.conviva.com
 0.0.0.0 cws-eu.conviva.com
 0.0.0.0 cwsgwqbcdhtk.com
 0.0.0.0 cws-hulu.conviva.com
@@ -18928,7 +18926,6 @@
 0.0.0.0 d2as12kgjg8gw5.cloudfront.net
 0.0.0.0 d2bgg7rjywcwsy.cloudfront.net
 0.0.0.0 d2c4ylitp1qu24.cloudfront.net
-0.0.0.0 d2c8v52ll5s99u.cloudfront.net
 0.0.0.0 d2cgumzzqhgmdu.cloudfront.net
 0.0.0.0 d2cmedia.ca
 0.0.0.0 d2cmh8xu3ncrj2.cloudfront.net
@@ -20999,7 +20996,6 @@
 0.0.0.0 dpjszs.com
 0.0.0.0 dpkubdncmez.com
 0.0.0.0 dpm.bluray-disc.de
-0.0.0.0 dpm.demdex.net
 0.0.0.0 dpmsrv.com
 0.0.0.0 dpoulbxouhor.com
 0.0.0.0 d.powerofwish.com
@@ -24832,7 +24828,6 @@
 0.0.0.0 foxlaytg.com
 0.0.0.0 foxmvsdata.s.moatpixel.com
 0.0.0.0 foxnet.demdex.net
-0.0.0.0 foxnews.demdex.net
 0.0.0.0 foxnews.hb.omtrdc.net
 0.0.0.0 foxnewsmeta.biz
 0.0.0.0 foxnews.tt.omtrdc.net
@@ -26123,7 +26118,6 @@
 0.0.0.0 g.fotoable.com
 0.0.0.0 gft2.de
 0.0.0.0 gf.umenglog.com
-0.0.0.0 gfwsl.geforce.com
 0.0.0.0 gfxa.sheetmusicplus.com
 0.0.0.0 gfxzwyphyv.com
 0.0.0.0 gfzluvsjsprkac.com
@@ -42714,7 +42708,6 @@
 0.0.0.0 pingping888.com
 0.0.0.0 pingqwlxklbiev.com
 0.0.0.0 pings.blip.tv
-0.0.0.0 pings.conviva.com
 0.0.0.0 pingshu365.xyz
 0.0.0.0 ping.smyte.com
 0.0.0.0 ping.staticmoly.me
@@ -49313,7 +49306,6 @@
 0.0.0.0 shaquevip.oss-cn-zhangjiakou.aliyuncs.com
 0.0.0.0 shareably-d.openx.net
 0.0.0.0 shareadspace.com
-0.0.0.0 shareaholic.com
 0.0.0.0 shareasale.com
 0.0.0.0 share.baidu.com
 0.0.0.0 sharecash.org
@@ -52909,7 +52901,6 @@
 0.0.0.0 szh6.xyz
 0.0.0.0 s.zixuntop.com
 0.0.0.0 szjianxin.net
-0.0.0.0 s.zkcdn.net
 0.0.0.0 szmxwjm.com
 0.0.0.0 szn.services
 0.0.0.0 szpcxramtfr.com
@@ -58702,7 +58693,6 @@
 0.0.0.0 vwuyuahqf.com
 0.0.0.0 vwvnounnfteusv.com
 0.0.0.0 vwvvaeor.com
-0.0.0.0 v.w-x.co
 0.0.0.0 vwxgxculdbybw.com
 0.0.0.0 vwxptkkqbyppe.com
 0.0.0.0 vwxqv.xyz
@@ -61029,7 +61019,6 @@
 0.0.0.0 www.mp3downloadhq.com
 0.0.0.0 www.mp3helpdesk.com
 0.0.0.0 www.msedge.net
-0.0.0.0 www.msftncsi.com
 0.0.0.0 www.msgtag.com
 0.0.0.0 www.ms-mvp.org
 0.0.0.0 www.mt4-ea.vip
@@ -63234,7 +63223,6 @@
 0.0.0.0 zedo-d.openx.net
 0.0.0.0 zedwhyex.com
 0.0.0.0 zee1qzzfnr.site
-0.0.0.0 zee.cws.conviva.com
 0.0.0.0 zeegreen.net
 0.0.0.0 zeejuthu.com
 0.0.0.0 zeepmedia.com
