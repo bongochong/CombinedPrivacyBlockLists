@@ -1,4 +1,4 @@
-# Wed Dec 30 12:21:44 AM MST 2020
+# Wed Dec 30 01:25:35 AM MST 2020
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -29162,7 +29162,6 @@
 0.0.0.0 ufwpwt.com
 0.0.0.0 ugahbedypf.com
 0.0.0.0 ugbadcqsqep.com
-0.0.0.0 ugdturner.com
 0.0.0.0 ugg66.com
 0.0.0.0 uggvuuquxj.com
 0.0.0.0 ughdqpwtfabsqg.com
@@ -32853,6 +32852,7 @@
 0.0.0.0 zhlfogiy.com
 0.0.0.0 zhlrcaahpuqh.com
 0.0.0.0 zhmatou.com
+0.0.0.0 zhongbolm.com
 0.0.0.0 zhongchengzp.com
 0.0.0.0 zhongdoulicai.com
 0.0.0.0 zhongfujiaoyu.cn
