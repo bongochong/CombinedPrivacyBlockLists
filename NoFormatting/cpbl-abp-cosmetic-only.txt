@@ -31,6 +31,7 @@ old.reddit.com###redesign-beta-optin-btn
 openpirate.org###\30 4da7223_1556855429
 openpirate.org###vpnvpn
 pcworld.com###toaster
+phantasytour.com##.col3
 reddit.com##.XPromoPopup
 reddit.com##.adLink
 reddit.com##.adLinkBar
