@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Wed Dec 30 01:45:26 AM MST 2020
+! Updated: Wed Dec 30 04:48:18 AM MST 2020
 ! Expires: 7 Days
 ! License: https://git.io/JTTLW
 ! Homepage: https://git.io/JTTLB
@@ -416,6 +416,7 @@
 ||1314sss.top^
 ||13190546cd1dec9bbdc.com^
 ||1.32xp.com^
+||133446f3fa16c4a2f02e9f45a1d9d640705b7b62.cws.conviva.com^
 ||1337crew.info^
 ||133gp.com^
 ||13453765871837679316.googlegroups.com^
@@ -910,6 +911,7 @@
 ||259572.com^
 ||25haich4342.ru^
 ||265958.com^
+||268a2000018370f5f35b29272d1942aa2ff7b6a9.cws.conviva.com^
 ||268mob.cn^
 ||26f396e0b71780f057be4d4af8ebe55b.com^
 ||270inc.com^
@@ -930,6 +932,7 @@
 ||2898.com^
 ||289931.com^
 ||28acglz.com^
+||28bbf0a3decf6d1165032bfd835d6e1844c5d44d.cws.conviva.com^
 ||28.securefinds2.com^
 ||290684.en.world-stone.com^
 ||292f18b4e7b4.com^
@@ -1412,6 +1415,7 @@
 ||4736.in^
 ||473863a8ef28.com^
 ||47api.cn^
+||47e224be59415ec068b94bca857581bd7dde7fb6.cws.conviva.com^
 ||47f624b2e6c6072e.com^
 ||47n209.com^
 ||4808.jianbihua.com^
@@ -1426,6 +1430,7 @@
 ||49parallel.ca^
 ||4a93ed09d81f.com^
 ||4ac484684040.com^
+||4ae1981d8d1a370d08bf3d24f50f5baf47ef1b62.cws.conviva.com^
 ||4aeoewr91oas1.anomalix.ml^
 ||4affiliate.net^
 ||4ak50p1xo77f.com^
@@ -1686,6 +1691,7 @@
 ||593pi.cn^
 ||59519.com^
 ||59a8e0d6fa2.com^
+||59cb81261a926ddc6abcc287cd8e3d6fbc119f77.cws.conviva.com^
 ||59cn7.com^
 ||59e6ea7248001c.com^
 ||59gt.cn^
@@ -2066,6 +2072,7 @@
 ||7a8fe1c29493.com^
 ||7alati.com^
 ||7b7by5utoney.com^
+||7ba3f64df98de730df38846b54ecfbdf7f61f80f.cws.conviva.com^
 ||7bog.ru^
 ||7bpeople.com^
 ||7bwan.com^
@@ -2222,6 +2229,7 @@
 ||8761f9f83613.com^
 ||877ky.com^
 ||879d2cchfa.xyz^
+||87a6b28bc7823e67a5bb2a0a6728c702afcae78d.cws.conviva.com^
 ||87afbf97c88.com^
 ||87du.vip^
 ||87gw0fl0rc11.com^
@@ -2590,6 +2598,7 @@
 ||a14738960062.cdn.optimizely.com^
 ||a14932920627.cdn.optimizely.com^
 ||a1517994423.cdn.optimizely.com^
+||a1521dca917ff0e871c935c9253afc0626587b2d.cws.conviva.com^
 ||a15256378569ec595.com^
 ||a157ad075fcb34c.com^
 ||a15c5009bcbe272.com^
@@ -2710,6 +2719,7 @@
 ||a5.overclockers.ua^
 ||a63t9o1azf.com^
 ||a6529002483.cdn.optimizely.com^
+||a6709203f34992a5095d2bc7ceaf2ec504f651a8.cws.conviva.com^
 ||a67z.com^
 ||a69ee4fa50dc3.com^
 ||a6be07586bc4a7.com^
@@ -3323,6 +3333,7 @@
 ||ad127m.com^
 ||ad131m.com^
 ||ad132m.com^
+||ad16a8c8b860d62e9d55b11a66f20c9e32f3e887.cws.conviva.com^
 ||ad1.adtitan.net^
 ||ad1data.com^
 ||ad1.emule-project.org^
@@ -8498,6 +8509,7 @@
 ||analytics.servogram.io^
 ||analytics.sgnapps.com^
 ||analytics-sg.tiktok.com^
+||analytics.shareaholic.com^
 ||analytics.shop.hisense.com^
 ||analytics.siliconexpert.com^
 ||analytics.similarweb.com^
@@ -9399,6 +9411,7 @@
 ||apps.nexus.bazaarvoice.com^
 ||apps.nielsen.com^
 ||apps.poln.co^
+||apps.shareaholic.com^
 ||apps.skype.com^
 ||appstoore.online^
 ||appsunlocker.com^
@@ -10682,6 +10695,7 @@
 ||b2janitorial.com^
 ||b343.playfabapi.com^
 ||b36df47b3d.site.internapcdn.net^
+||b3bb7de118d3a2fed1dd1ee77ed5a2bac10fe77b.cws.conviva.com^
 ||b3d.com^
 ||b3ff2cfeb6f49e.com^
 ||b3stcond1tions.com^
@@ -16140,6 +16154,7 @@
 ||clickcash.com^
 ||clickcashmoney.com^
 ||clickcdn.co^
+||clickcdn.shareaholic.com^
 ||clickcease.com^
 ||clickcertain.com^
 ||click.cheapstuff.com^
@@ -16570,6 +16585,7 @@
 ||cmrewards.site^
 ||cmsbetconstruct.com^
 ||cms.grandcloud.cn^
+||cm.shareaholic.com^
 ||cmsjs.eastmoney.com^
 ||cmslayue.com^
 ||cms.lv^
@@ -18878,7 +18894,6 @@
 ||cwplubzglmfah.com^
 ||cwpumsjshnacl.com^
 ||cws-cctv.conviva.com^
-||cws.conviva.com^
 ||cws-eu.conviva.com^
 ||cwsgwqbcdhtk.com^
 ||cws-hulu.conviva.com^
@@ -19020,6 +19035,7 @@
 ||d140sbu1b1m3h0.cloudfront.net^
 ||d141wsrw9m4as6.cloudfront.net^
 ||d14821r0t3377v.cloudfront.net^
+||d14bd151e5e8a2a2551514106f790db76ce3fa35.cws.conviva.com^
 ||d14emrg9.com^
 ||d15cjcet1djbmv.cloudfront.net^
 ||d15gt9gwxw5wu0.cloudfront.net^
@@ -19207,7 +19223,6 @@
 ||d2bgg7rjywcwsy.cloudfront.net^
 ||d2bj2texxib1qg.cloudfront.net^
 ||d2c4ylitp1qu24.cloudfront.net^
-||d2c8v52ll5s99u.cloudfront.net^
 ||d2cgumzzqhgmdu.cloudfront.net^
 ||d2cmedia.ca^
 ||d2cmh8xu3ncrj2.cloudfront.net^
@@ -21789,6 +21804,7 @@
 ||dsh1ct2zrfakt.cloudfront.net^
 ||dsh7ky7308k4b.cloudfront.net^
 ||ds.haaretz.co.il^
+||d.shareaholic.com^
 ||dsid.e-mobiletech.com^
 ||dsie7h4lo9wxu.cloudfront.net^
 ||dsi-info.fr^
@@ -22146,6 +22162,7 @@
 ||e01.taggyad.jp^
 ||e0663490cca0296f7.com^
 ||e0a42e1a21669b.com^
+||e12872de91aaca7a39095801bdf5f168d87912fa.cws.conviva.com^
 ||e13085e58935e6.com^
 ||e18a97eee94d0f2519.com^
 ||e1bl1t39c4.com^
@@ -25018,6 +25035,7 @@
 ||fbxnqsviqujxv.com^
 ||fbxploitz.com^
 ||fc2b9b7ce3165.com^
+||fc8dbfdc5da519f576628f619306a357f31bd006.cws.conviva.com^
 ||fcafnvgdokqfo.com^
 ||fcaot.com^
 ||fccay.cn^
@@ -25234,6 +25252,7 @@
 ||ff01s.cn^
 ||ff52e77ba517.com^
 ||ff5bd8d9f8df.com^
+||ff84ae928c3b33064b76dec08f12500465e59a6f.cws.conviva.com^
 ||ffa9.cn^
 ||ffaamympgd.com^
 ||ffa-hosting.com^
@@ -28422,7 +28441,6 @@
 ||gfstrck.com^
 ||gft2.de^
 ||gf.umenglog.com^
-||gfwsl.geforce.com^
 ||gfxa.sheetmusicplus.com^
 ||gfxzwyphyv.com^
 ||gfzluvsjsprkac.com^
@@ -29256,6 +29274,7 @@
 ||gorskprof2it8og09.com^
 ||go.searchlock.com^
 ||go.sexu.tv^
+||go.shareaholic.com^
 ||goshooph.com^
 ||gos-kanal.ru^
 ||goska.siol.net^
@@ -29405,6 +29424,7 @@
 ||gracecore.com^
 ||gracefulsock.com^
 ||gracesandoval.com^
+||grace.shareaholic.com^
 ||gracetab.co.za^
 ||gracetime.tech^
 ||graciamediaweb.com^
@@ -31900,6 +31920,7 @@
 ||howeverhou.fun^
 ||howhackgamefree.com^
 ||howhack.info^
+||howler.shareaholic.com^
 ||howllskins.fun^
 ||howlmax.com^
 ||howl.money^
@@ -46798,6 +46819,7 @@
 ||partner-service.spotify.com^
 ||partner-service-testing.spotify.com^
 ||partners.fanduel.com^
+||partner.shareaholic.com^
 ||partner.shop.vorwerk.de^
 ||partner.simplytel.de^
 ||partners.mobiguru.ru^
@@ -47650,7 +47672,6 @@
 ||pingpong-shop.info^
 ||pingqwlxklbiev.com^
 ||pings.blip.tv^
-||pings.conviva.com^
 ||pingshu365.xyz^
 ||ping.smyte.com^
 ||ping.staticmoly.me^
@@ -47844,6 +47865,7 @@
 ||pixels.boxberry.ru^
 ||pixelservice.apphb.com^
 ||pixelsfighting.co^
+||pixel.shareaholic.com^
 ||pixels.livingsocial.com^
 ||pixel.smartmedia.tj^
 ||pixelsnippet.com^
@@ -51350,6 +51372,7 @@
 ||recruisefukiby.club^
 ||recruitics.com^
 ||recs.richrelevance.com^
+||recs.shareaholic.com^
 ||rectangletrkr.co^
 ||rectangletrkr.com^
 ||rec.udn.com^
@@ -54737,7 +54760,6 @@
 ||shaque.vip^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||shareadspace.com^
-||shareaholic.com^
 ||shareasale.com^
 ||share.baidu.com^
 ||sharebay.net^
@@ -58675,7 +58697,6 @@
 ||s.zixuntop.com^
 ||szjianxin.net^
 ||szjyfund.com^
-||s.zkcdn.net^
 ||szmxwjm.com^
 ||sznaucer-figa.nd.e-wro.pl^
 ||sznm.com.cn^
@@ -61622,6 +61643,7 @@
 ||trafficsan.com^
 ||trafficscanner.pl^
 ||trafficsecrets.com^
+||traffic.shareaholic.com^
 ||trafficshirts.com^
 ||trafficshop.com^
 ||traffics-inspector.cn^
@@ -65087,7 +65109,6 @@
 ||vwuyuahqf.com^
 ||vwvnounnfteusv.com^
 ||vwvvaeor.com^
-||v.w-x.co^
 ||vwxgxculdbybw.com^
 ||vwxptkkqbyppe.com^
 ||vwxqv.xyz^
@@ -67650,6 +67671,7 @@
 ||xclgusxcdjd.com^
 ||xclicks.net^
 ||xclk-integracion.com^
+||xclofrfa.com^
 ||xclusivedigital.com^
 ||xc.macd.cn^
 ||xcmxsw.com^
