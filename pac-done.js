@@ -1,4 +1,4 @@
-// **** Wed Dec 30 11:28:32 PM MST 2020
+// **** Thu Dec 31 03:50:38 AM MST 2020
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -119,7 +119,6 @@ shExpMatch(host, '*.2chicksathome.com') ||
 shExpMatch(host, '*.2d7d.co.cc') ||
 shExpMatch(host, '*.2domeinold.ru') ||
 shExpMatch(host, '*.2in1pill.com') ||
-shExpMatch(host, '*.2mdn.net') ||
 shExpMatch(host, '*.2motor.ru') ||
 shExpMatch(host, '*.2mydns.net') ||
 shExpMatch(host, '*.2no.co') ||
@@ -3076,7 +3075,6 @@ shExpMatch(host, '*.burstmedia.com') ||
 shExpMatch(host, '*.burstskins.com') ||
 shExpMatch(host, '*.busanprint.net') ||
 shExpMatch(host, '*.businessbells.com') ||
-shExpMatch(host, '*.business.opera.com') ||
 shExpMatch(host, '*.bustabite.com') ||
 shExpMatch(host, '*.bustlinganimal.com') ||
 shExpMatch(host, '*.butdt.com') ||
@@ -15322,7 +15320,6 @@ shExpMatch(host, '*.username-search.com') ||
 shExpMatch(host, '*.userreplay.com') ||
 shExpMatch(host, '*.userreplay.net') ||
 shExpMatch(host, '*.users.atw.hu') ||
-shExpMatch(host, '*.users.telenet.be') ||
 shExpMatch(host, '*.usmsad.tom.com') ||
 shExpMatch(host, '*.usscase.com') ||
 shExpMatch(host, '*.ustocn.com.cn') ||
@@ -16714,7 +16711,6 @@ shExpMatch(host, '2chicksathome.com') ||
 shExpMatch(host, '2d7d.co.cc') ||
 shExpMatch(host, '2domeinold.ru') ||
 shExpMatch(host, '2in1pill.com') ||
-shExpMatch(host, '2mdn.net') ||
 shExpMatch(host, '2motor.ru') ||
 shExpMatch(host, '2mydns.net') ||
 shExpMatch(host, '2no.co') ||
@@ -19671,7 +19667,6 @@ shExpMatch(host, 'burstmedia.com') ||
 shExpMatch(host, 'burstskins.com') ||
 shExpMatch(host, 'busanprint.net') ||
 shExpMatch(host, 'businessbells.com') ||
-shExpMatch(host, 'business.opera.com') ||
 shExpMatch(host, 'bustabite.com') ||
 shExpMatch(host, 'bustlinganimal.com') ||
 shExpMatch(host, 'butdt.com') ||
@@ -31917,7 +31912,6 @@ shExpMatch(host, 'username-search.com') ||
 shExpMatch(host, 'userreplay.com') ||
 shExpMatch(host, 'userreplay.net') ||
 shExpMatch(host, 'users.atw.hu') ||
-shExpMatch(host, 'users.telenet.be') ||
 shExpMatch(host, 'usmsad.tom.com') ||
 shExpMatch(host, 'usscase.com') ||
 shExpMatch(host, 'ustocn.com.cn') ||
