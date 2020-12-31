@@ -4362,6 +4362,7 @@
 0.0.0.0 f9uri.mymobilelead.com
 0.0.0.0 facbeookloggin.com
 0.0.0.0 facebokloggin.com
+0.0.0.0 facebook8abc.com
 0.0.0.0 facebook.com.and.ovh.adx1.com
 0.0.0.0 facebook.com.deroullatte.xyz.adx1.com
 0.0.0.0 facebook.com.kachvam.xyz.adx1.com
@@ -8938,6 +8939,7 @@
 0.0.0.0 serving-sys-windows.net
 0.0.0.0 serving-windows.net
 0.0.0.0 servjces.com
+0.0.0.0 servlce.store
 0.0.0.0 setarebux.ir
 0.0.0.0 setseta.com
 0.0.0.0 settings.crashlytics.com

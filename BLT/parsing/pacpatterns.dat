@@ -30,7 +30,6 @@
 ^alohasoftware.net$
 ^amazon.com$
 ^amazonaws.com$
-^amd.cdn.turner.com$
 ^amzn.com$
 ^amzn.to$
 ^ancestry.com$
@@ -140,7 +139,6 @@
 ^gs.apple.com$
 ^gstatic.com$
 ^hostsfile.org$
-^i.cdn.turner.com$
 ^i.imgbox.com$
 ^i.ytimg.com$
 ^i1.ytimg.com$
@@ -168,7 +166,6 @@
 ^malwaredomainlist.com$
 ^malwaredomains.com$
 ^managemymove.usps.com$
-^manifest.auditude.com$
 ^medium.com$
 ^movies.netflix.com$
 ^neocities.org$
@@ -197,7 +194,6 @@
 ^pushbullet.com$
 ^raw.githubusercontent.com$
 ^redirector.googlevideo.com$
-^s.cdn.turner.com$
 ^s.zkcdn.net$
 ^s3-eu-west-1.amazonaws.com$
 ^sdc.usps.com$
@@ -271,5 +267,4 @@
 ^yimg.jp$
 ^youtube-nocookie.com$
 ^ytimg.com$
-^z.cdn.turner.com$
 ^zee.cws.conviva.com$
