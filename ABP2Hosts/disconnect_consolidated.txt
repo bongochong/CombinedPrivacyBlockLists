@@ -1,4 +1,4 @@
-# Wed Dec 30 11:25:51 PM MST 2020
+# Thu Dec 31 03:27:48 AM MST 2020
 # Disconnect Consolidated Hosts - Generated weekly by bongochong
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -12,7 +12,6 @@
 0.0.0.0 24log.com
 0.0.0.0 24log.de
 0.0.0.0 24pm-affiliation.com
-0.0.0.0 2mdn.net
 0.0.0.0 2o7.net
 0.0.0.0 360yield.com
 0.0.0.0 3cinteractive.com
@@ -1209,7 +1208,6 @@
 0.0.0.0 bullseye.backbeatmedia.com
 0.0.0.0 burstly.com
 0.0.0.0 burstmedia.com
-0.0.0.0 business.opera.com
 0.0.0.0 buyhitscheap.com
 0.0.0.0 buysellads.com
 0.0.0.0 buzzonclick.com

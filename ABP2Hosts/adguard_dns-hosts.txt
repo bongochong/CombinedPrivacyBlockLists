@@ -1,4 +1,4 @@
-# Wed Dec 30 11:25:39 PM MST 2020
+# Thu Dec 31 03:27:36 AM MST 2020
 # AdGuard DNS Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -8561,7 +8561,6 @@
 0.0.0.0 client.88tours.com
 0.0.0.0 client-analytics.braintreegateway.com
 0.0.0.0 client-api.matchinguu.com
-0.0.0.0 client-event-reporter.twitch.tv
 0.0.0.0 clientgear.com
 0.0.0.0 clientinfo.phimmoizz.net
 0.0.0.0 clientlogger-prod.elasticbeanstalk.com
@@ -8669,7 +8668,6 @@
 0.0.0.0 cmm.xmfish.com
 0.0.0.0 c.mnjkw.cn
 0.0.0.0 cmoneba.ru
-0.0.0.0 cmp-cdn.ghostery.com
 0.0.0.0 cmp.dreamlab.pl
 0.0.0.0 cmpgns.net
 0.0.0.0 cmplay.did.ijinshan.com
@@ -8679,7 +8677,6 @@
 0.0.0.0 cmslayue.com
 0.0.0.0 cms.lv
 0.0.0.0 cmsmodnews.com
-0.0.0.0 c.msn.com
 0.0.0.0 cmspoddbak.com
 0.0.0.0 cms-skin.com
 0.0.0.0 cmstrendslog.indiatimes.com
@@ -9032,7 +9029,6 @@
 0.0.0.0 consciouschairs.com
 0.0.0.0 consciousdirt.com
 0.0.0.0 consentedimpunity.com
-0.0.0.0 consent-manager-events.ogury.io
 0.0.0.0 consesculifin.site
 0.0.0.0 considedefinit.fun
 0.0.0.0 consideher.club
@@ -18547,7 +18543,6 @@
 0.0.0.0 jwmyba.biz
 0.0.0.0 jwofadcwpocm.com
 0.0.0.0 jwplayer.space
-0.0.0.0 jwpltx.com
 0.0.0.0 jwt8e5vzc1.com
 0.0.0.0 jwuqescfqa.xyz
 0.0.0.0 jwvwak1a.com
@@ -24159,7 +24154,6 @@
 0.0.0.0 omarsys.com
 0.0.0.0 omasovizac.com
 0.0.0.0 omatri.info
-0.0.0.0 om.cbsi.com
 0.0.0.0 omchanseyr.com
 0.0.0.0 omclick.com
 0.0.0.0 om.dowjoneson.com
@@ -26548,7 +26542,6 @@
 0.0.0.0 ptummn.cn
 0.0.0.0 ptvcfltikpdi.com
 0.0.0.0 ptw.la
-0.0.0.0 p.typekit.net
 0.0.0.0 pu0glv.cn
 0.0.0.0 pub1.co
 0.0.0.0 pub2srv.com
@@ -47602,7 +47595,6 @@
 0.0.0.0 client.88tours.com
 0.0.0.0 client-analytics.braintreegateway.com
 0.0.0.0 client-api.matchinguu.com
-0.0.0.0 client-event-reporter.twitch.tv
 0.0.0.0 clientgear.com
 0.0.0.0 clientinfo.phimmoizz.net
 0.0.0.0 clientlogger-prod.elasticbeanstalk.com
@@ -47710,7 +47702,6 @@
 0.0.0.0 cmm.xmfish.com
 0.0.0.0 c.mnjkw.cn
 0.0.0.0 cmoneba.ru
-0.0.0.0 cmp-cdn.ghostery.com
 0.0.0.0 cmp.dreamlab.pl
 0.0.0.0 cmpgns.net
 0.0.0.0 cmplay.did.ijinshan.com
@@ -47720,7 +47711,6 @@
 0.0.0.0 cmslayue.com
 0.0.0.0 cms.lv
 0.0.0.0 cmsmodnews.com
-0.0.0.0 c.msn.com
 0.0.0.0 cmspoddbak.com
 0.0.0.0 cms-skin.com
 0.0.0.0 cmstrendslog.indiatimes.com
@@ -48071,7 +48061,6 @@
 0.0.0.0 consciouschairs.com
 0.0.0.0 consciousdirt.com
 0.0.0.0 consentedimpunity.com
-0.0.0.0 consent-manager-events.ogury.io
 0.0.0.0 consesculifin.site
 0.0.0.0 considedefinit.fun
 0.0.0.0 consideher.club
@@ -54473,6 +54462,7 @@
 0.0.0.0 gwywsuemmf.com
 0.0.0.0 gx101.com
 0.0.0.0 gxejgs.com
+0.0.0.0 gxfc2021.top
 0.0.0.0 gxgydnhz.com
 0.0.0.0 gxgzyny.com
 0.0.0.0 gxhxmy88.com
@@ -57551,7 +57541,6 @@
 0.0.0.0 jwmyba.biz
 0.0.0.0 jwofadcwpocm.com
 0.0.0.0 jwplayer.space
-0.0.0.0 jwpltx.com
 0.0.0.0 jwt8e5vzc1.com
 0.0.0.0 jwuqescfqa.xyz
 0.0.0.0 jwvwak1a.com
@@ -63141,7 +63130,6 @@
 0.0.0.0 omarsys.com
 0.0.0.0 omasovizac.com
 0.0.0.0 omatri.info
-0.0.0.0 om.cbsi.com
 0.0.0.0 omchanseyr.com
 0.0.0.0 omclick.com
 0.0.0.0 om.dowjoneson.com
@@ -65521,7 +65509,6 @@
 0.0.0.0 ptummn.cn
 0.0.0.0 ptvcfltikpdi.com
 0.0.0.0 ptw.la
-0.0.0.0 p.typekit.net
 0.0.0.0 pu0glv.cn
 0.0.0.0 pub1.co
 0.0.0.0 pub2srv.com
@@ -77575,6 +77562,7 @@
 0.0.0.0 zhihu.xmcimg.com
 0.0.0.0 zhinengap.com
 0.0.0.0 zhiong.net
+0.0.0.0 zhipinbook.cn
 0.0.0.0 zhitkise.info
 0.0.0.0 zhivalley.cn
 0.0.0.0 zhixd.cn

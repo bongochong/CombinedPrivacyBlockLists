@@ -1,4 +1,4 @@
-# Wed Dec 30 11:25:21 PM MST 2020
+# Thu Dec 31 03:27:17 AM MST 2020
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -533,7 +533,6 @@
 0.0.0.0 2m2n.com
 0.0.0.0 2manygirlzhere.org
 0.0.0.0 2mdn.info
-0.0.0.0 2mdn.net
 0.0.0.0 2o7.net
 0.0.0.0 2oyb82awp8.monster
 0.0.0.0 2p9fyvx.com
@@ -7729,7 +7728,6 @@
 0.0.0.0 client.88tours.com
 0.0.0.0 client-analytics.braintreegateway.com
 0.0.0.0 client-api.matchinguu.com
-0.0.0.0 client-event-reporter.twitch.tv
 0.0.0.0 clientlogger-prod.elasticbeanstalk.com
 0.0.0.0 clientlog.midomi.com
 0.0.0.0 clientlog.portal.office.com
@@ -7830,7 +7828,6 @@
 0.0.0.0 c.mnjkw.cn
 0.0.0.0 cmoneba.ru
 0.0.0.0 cmp.advertising.com
-0.0.0.0 cmp-cdn.ghostery.com
 0.0.0.0 cmpgns.net
 0.0.0.0 cmplay.did.ijinshan.com
 0.0.0.0 cmptch.com
@@ -7839,7 +7836,6 @@
 0.0.0.0 cmslayue.com
 0.0.0.0 cms.lv
 0.0.0.0 cmsmodnews.com
-0.0.0.0 c.msn.com
 0.0.0.0 cmspoddbak.com
 0.0.0.0 cms-skin.com
 0.0.0.0 cmstrendslog.indiatimes.com
@@ -8151,7 +8147,6 @@
 0.0.0.0 consciouschairs.com
 0.0.0.0 consciousdirt.com
 0.0.0.0 consentedimpunity.com
-0.0.0.0 consent-manager-events.ogury.io
 0.0.0.0 consesculifin.site
 0.0.0.0 considedefinit.fun
 0.0.0.0 consideher.club
@@ -8657,7 +8652,6 @@
 0.0.0.0 cshkgktv.com
 0.0.0.0 cshwhy.cn
 0.0.0.0 csiasvapqrccq.com
-0.0.0.0 csi.gstatic.com
 0.0.0.0 csi-tracking.com
 0.0.0.0 csjayzqifekaq.com
 0.0.0.0 csjuq.com
@@ -13800,7 +13794,6 @@
 0.0.0.0 gmodmp.jp
 0.0.0.0 gmoshk.com
 0.0.0.0 gmossp-sp.jp
-0.0.0.0 g.msn.com
 0.0.0.0 gmuqa.cn
 0.0.0.0 gmxyorg.cn
 0.0.0.0 gmyvids.com
@@ -15501,6 +15494,7 @@
 0.0.0.0 hzaibi.com
 0.0.0.0 hzcrhwmi.com
 0.0.0.0 hzfcx.top
+0.0.0.0 hzhfhkj.cn
 0.0.0.0 hzht666.com
 0.0.0.0 hzhyhm.com
 0.0.0.0 hzkachqd.com
@@ -17313,7 +17307,6 @@
 0.0.0.0 jwmyba.biz
 0.0.0.0 jwofadcwpocm.com
 0.0.0.0 jwplayer.space
-0.0.0.0 jwpltx.com
 0.0.0.0 jwt8e5vzc1.com
 0.0.0.0 jwuqescfqa.xyz
 0.0.0.0 jwvwak1a.com
@@ -22551,7 +22544,6 @@
 0.0.0.0 omarsys.com
 0.0.0.0 omasovizac.com
 0.0.0.0 omatri.info
-0.0.0.0 om.cbsi.com
 0.0.0.0 omchanseyr.com
 0.0.0.0 omclick.com
 0.0.0.0 om.dowjoneson.com
@@ -24855,7 +24847,6 @@
 0.0.0.0 ptvcfltikpdi.com
 0.0.0.0 ptwebcams.com
 0.0.0.0 ptw.la
-0.0.0.0 p.typekit.net
 0.0.0.0 pu0glv.cn
 0.0.0.0 pub1.cope.es
 0.0.0.0 pub2srv.com
@@ -29752,7 +29743,6 @@
 0.0.0.0 s-yoolk-banner-assets.yoolk.com
 0.0.0.0 s-yoolk-billboard-assets.yoolk.com
 0.0.0.0 syooys.com
-0.0.0.0 s.youtube.com
 0.0.0.0 syphilohmmaging.site
 0.0.0.0 sypleni.ru
 0.0.0.0 syrstrq.cn
@@ -34877,6 +34867,7 @@
 0.0.0.0 xpwppacpda.com
 0.0.0.0 xpwwqbkezdr.com
 0.0.0.0 xpx7heciz9.com
+0.0.0.0 xpxvok.cn
 0.0.0.0 xpywzbxjwbxafv.com
 0.0.0.0 xpzdvubwncvi.com
 0.0.0.0 xq0wju848zr.ga

@@ -1,4 +1,4 @@
-# Wed Dec 30 11:25:33 PM MST 2020
+# Thu Dec 31 03:27:30 AM MST 2020
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -544,7 +544,6 @@
 0.0.0.0 2lycosy.com
 0.0.0.0 2m2n.com
 0.0.0.0 2mdn.info
-0.0.0.0 2mdn.net
 0.0.0.0 2o7.net
 0.0.0.0 2oyb82awp8.monster
 0.0.0.0 2p9fyvx.com
@@ -5276,7 +5275,6 @@
 0.0.0.0 bilrtklg.com
 0.0.0.0 bilsyndication.com
 0.0.0.0 biluzhang.cn
-0.0.0.0 bi.medscape.com
 0.0.0.0 bimlocal.com
 0.0.0.0 b.imwx.com
 0.0.0.0 binalbamp.com
@@ -7018,7 +7016,6 @@
 0.0.0.0 cliennes.com
 0.0.0.0 client.88tours.com
 0.0.0.0 client-analytics.braintreegateway.com
-0.0.0.0 client-event-reporter.twitch.tv
 0.0.0.0 clientgear.com
 0.0.0.0 client.tahono.com
 0.0.0.0 clierets.com
@@ -7940,7 +7937,6 @@
 0.0.0.0 cshwhy.cn
 0.0.0.0 csiasvapqrccq.com
 0.0.0.0 c.sibnet.ru
-0.0.0.0 csi.gstatic.com
 0.0.0.0 csjayzqifekaq.com
 0.0.0.0 csmcfetvb.com
 0.0.0.0 csnd.xyz
@@ -12687,7 +12683,6 @@
 0.0.0.0 gmodmp.jp
 0.0.0.0 gmonitor.aliimg.com
 0.0.0.0 gmossp-sp.jp
-0.0.0.0 g.msn.com
 0.0.0.0 gmuqa.cn
 0.0.0.0 gmxyorg.cn
 0.0.0.0 gmzaaeenp.com
@@ -20613,7 +20608,6 @@
 0.0.0.0 omaris.pw
 0.0.0.0 omarsys.com
 0.0.0.0 omatri.info
-0.0.0.0 om.cbsi.com
 0.0.0.0 omchanseyr.com
 0.0.0.0 omclick.com
 0.0.0.0 ometria.com
@@ -31766,6 +31760,7 @@
 0.0.0.0 xpwppacpda.com
 0.0.0.0 xpwwqbkezdr.com
 0.0.0.0 xpx7heciz9.com
+0.0.0.0 xpxvok.cn
 0.0.0.0 xpywzbxjwbxafv.com
 0.0.0.0 xpzdvubwncvi.com
 0.0.0.0 xq0wju848zr.ga

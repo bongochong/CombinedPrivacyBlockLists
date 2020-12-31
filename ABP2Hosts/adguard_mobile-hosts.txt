@@ -1,4 +1,4 @@
-# Wed Dec 30 11:25:04 PM MST 2020
+# Thu Dec 31 03:27:01 AM MST 2020
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -2745,7 +2745,6 @@
 0.0.0.0 cdn.bidadx.com
 0.0.0.0 cdn.biddingx.com
 0.0.0.0 cdn.bizible.com
-0.0.0.0 cdn.bluebillywig.com
 0.0.0.0 cdn.blueconic.net
 0.0.0.0 cdn.bluecore.com
 0.0.0.0 cdn.boomtrain.com
@@ -2807,7 +2806,6 @@
 0.0.0.0 cdn.geodns.tubemogul.com
 0.0.0.0 cdn.gimbal.tech
 0.0.0.0 cdn.gladly.com
-0.0.0.0 cdn-gl.imrworldwide.com
 0.0.0.0 cdn.gmossp-sp.jp
 0.0.0.0 cdn.go.affec.tv
 0.0.0.0 cdn-guile.akamaized.net
@@ -3200,7 +3198,6 @@
 0.0.0.0 collect-ap-southeast-2.tealiumiq.com
 0.0.0.0 collect-eu-central-1.tealiumiq.com
 0.0.0.0 collect-eu-west-1.tealiumiq.com
-0.0.0.0 collecting-consent.g5e.com
 0.0.0.0 collection.decibelinsight.net
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
@@ -3318,7 +3315,6 @@
 0.0.0.0 consent.adincube.com
 0.0.0.0 consentcdn.cookiebot.com-v1.edgekey.net
 0.0.0.0 consent.cmp.oath.com
-0.0.0.0 consent-manager-events.ogury.io
 0.0.0.0 consentmanager.mgr.consensu.org
 0.0.0.0 consent.mediaforge.com
 0.0.0.0 console.adtarget.com.tr
@@ -3469,7 +3465,6 @@
 0.0.0.0 cs.atdmt.com
 0.0.0.0 cs.emxdgt.com
 0.0.0.0 c.sharethis.mgr.consensu.org
-0.0.0.0 csi.gstatic.com
 0.0.0.0 cs.lkqd.net
 0.0.0.0 csm.as.criteo.net
 0.0.0.0 csm.da1.vip.prod.criteo.net
@@ -4119,7 +4114,6 @@
 0.0.0.0 etcodes.com
 0.0.0.0 et-eus.w.inmobi.com
 0.0.0.0 et.kissmetrics.com
-0.0.0.0 etl.tindersparks.com
 0.0.0.0 etl.xlmc.sandai.net
 0.0.0.0 et.mobadvent.com
 0.0.0.0 ets-ap-southeast-1.track.smaato.net
@@ -7741,7 +7735,6 @@
 0.0.0.0 search.media.net
 0.0.0.0 seattle-times-d.openx.net
 0.0.0.0 sea-u.openx.net
-0.0.0.0 seccdn-gl.imrworldwide.com
 0.0.0.0 sec-citi.bridgetrack.com
 0.0.0.0 seccosquared-d.openx.net
 0.0.0.0 secgw-na61-na62.wagbridge.alibaba.tanx.com
@@ -9576,7 +9569,6 @@
 0.0.0.0 v.lkqd.net
 0.0.0.0 vm5apis.com
 0.0.0.0 vmed.vrtcal.com
-0.0.0.0 vms.bluebillywig.com
 0.0.0.0 vmweb.net
 0.0.0.0 vn.alexajstrack.com
 0.0.0.0 vnet.cn
