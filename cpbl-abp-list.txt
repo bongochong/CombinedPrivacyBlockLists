@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Wed Dec 30 09:15:30 PM MST 2020
+! Updated: Wed Dec 30 11:34:06 PM MST 2020
 ! Expires: 7 Days
 ! License: https://git.io/JTTLW
 ! Homepage: https://git.io/JTTLB
@@ -32409,6 +32409,7 @@
 ||hzdmr.com^
 ||hzdoctor.com^
 ||hzfcx.top^
+||hzhfhkj.cn^
 ||hzht666.com^
 ||hzhyhm.com^
 ||hzkachqd.com^
@@ -60165,6 +60166,7 @@
 ||timteen.com^
 ||timtogo.ru^
 ||tin010.com^
+||tina-toilet-cantina.xyz^
 ||tinb.net^
 ||tinbuadserv.com^
 ||t.indeed.com^
@@ -60494,8 +60496,7 @@
 ||togroltu.net^
 ||tohacks.com^
 ||tohopes.ru^
-||toilet-tina-cantina.xyz^
-||toilet-tony-pizza.gay^
+||toilet-tony-pizza.edu^
 ||toissue.cn^
 ||tojinr.com^
 ||tok-dan-host.com^

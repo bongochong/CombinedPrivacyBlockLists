@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mini CPBL Filters for ABP & uBO
-! Updated: Wed Dec 30 09:27:36 PM MST 2020
+! Updated: Wed Dec 30 11:34:10 PM MST 2020
 ! Expires: 7 Days
 ! License: https://git.io/JTTLW
 ! Homepage: https://git.io/JTTLB
@@ -23217,6 +23217,7 @@
 ||hzaibi.com^
 ||hzcrhwmi.com^
 ||hzdoctor.com^
+||hzhfhkj.cn^
 ||hzht666.com^
 ||hzhyhm.com^
 ||hzkachqd.com^
@@ -43253,6 +43254,7 @@
 ||timgorichanaz.com^
 ||tim.nextinpact.com^
 ||timonom.com^
+||tina-toilet-cantina.xyz^
 ||tinb.net^
 ||tinbuadserv.com^
 ||t.indeed.com^
@@ -43490,8 +43492,7 @@
 ||togenron.com^
 ||togo666.com^
 ||togroltu.net^
-||toilet-tina-cantina.xyz^
-||toilet-tony-pizza.gay^
+||toilet-tony-pizza.edu^
 ||toissue.cn^
 ||tojinr.com^
 ||tok-dan-host.com^
