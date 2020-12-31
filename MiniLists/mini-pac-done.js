@@ -1,4 +1,4 @@
-// **** Wed Dec 30 11:31:23 PM MST 2020
+// **** Thu Dec 31 03:54:30 AM MST 2020
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.001.0x1f4b0.com') ||
@@ -121,7 +121,6 @@ shExpMatch(host, '*.273625612.netxi.in') ||
 shExpMatch(host, '*.2be431d7.ngrok.io') ||
 shExpMatch(host, '*.2bunny.com') ||
 shExpMatch(host, '*.2giga.download') ||
-shExpMatch(host, '*.2mdn.net') ||
 shExpMatch(host, '*.2mdns.org') ||
 shExpMatch(host, '*.2no.co') ||
 shExpMatch(host, '*.2o7.net') ||
@@ -2750,7 +2749,6 @@ shExpMatch(host, '*.burstly.com') ||
 shExpMatch(host, '*.burstmedia.com') ||
 shExpMatch(host, '*.businessbells.com') ||
 shExpMatch(host, '*.business-in.ru') ||
-shExpMatch(host, '*.business.opera.com') ||
 shExpMatch(host, '*.bustlinganimal.com') ||
 shExpMatch(host, '*.bustvch.com') ||
 shExpMatch(host, '*.butcalve.com') ||
@@ -10935,7 +10933,6 @@ shExpMatch(host, '273625612.netxi.in') ||
 shExpMatch(host, '2be431d7.ngrok.io') ||
 shExpMatch(host, '2bunny.com') ||
 shExpMatch(host, '2giga.download') ||
-shExpMatch(host, '2mdn.net') ||
 shExpMatch(host, '2mdns.org') ||
 shExpMatch(host, '2no.co') ||
 shExpMatch(host, '2o7.net') ||
@@ -13564,7 +13561,6 @@ shExpMatch(host, 'burstly.com') ||
 shExpMatch(host, 'burstmedia.com') ||
 shExpMatch(host, 'businessbells.com') ||
 shExpMatch(host, 'business-in.ru') ||
-shExpMatch(host, 'business.opera.com') ||
 shExpMatch(host, 'bustlinganimal.com') ||
 shExpMatch(host, 'bustvch.com') ||
 shExpMatch(host, 'butcalve.com') ||
