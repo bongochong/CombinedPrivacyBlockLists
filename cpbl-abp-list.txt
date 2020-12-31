@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Wed Dec 30 11:34:06 PM MST 2020
+! Updated: Thu Dec 31 03:57:43 AM MST 2020
 ! Expires: 7 Days
 ! License: https://git.io/JTTLW
 ! Homepage: https://git.io/JTTLB
@@ -1013,7 +1013,6 @@
 ||2manshow.com^
 ||2manygirlzhere.org^
 ||2mdn.info^
-||2mdn.net^
 ||2mdns.org^
 ||2mdnsys.com^
 ||2mj.pl^
@@ -6643,7 +6642,6 @@
 ||adv.nexthardware.com^
 ||advn.ir^
 ||advnt.com^
-||advokatemelyanov.ru^
 ||advolution.biz^
 ||advolution.de^
 ||advoly.com^
@@ -6966,6 +6964,7 @@
 ||affiliago.it^
 ||affiliando.com^
 ||affiliate.1800flowers.com^
+||affiliate.2mdn.net^
 ||affiliate6.com^
 ||affiliate.7host.com^
 ||affiliate.adgtracker.com^
@@ -7777,6 +7776,7 @@
 ||aljassarengineering.com^
 ||alka.institute^
 ||alkalabs.cf^
+||alkamefood.com^
 ||alkdmsxs.bid^
 ||alkemics.com^
 ||alkhayyatbusiness.com^
@@ -8174,6 +8174,7 @@
 ||amradmin.5173.com^
 ||amre.work^
 ||amrnhiqy.com^
+||amruthaprojects.com^
 ||ams900.goo.ne.jp^
 ||am-schedule.ru^
 ||a-msedge.org^
@@ -8871,7 +8872,6 @@
 ||antifa.co.at^
 ||anti-gemorroy.com^
 ||antinomics.com^
-||antipiracytudydetectorganisationfftugpb.ydns.eu^
 ||antipix.ru^
 ||antiquesilversouvenirspoons.com^
 ||antistarforce.com^
@@ -9965,7 +9965,6 @@
 ||astuce-triche-cheat.com^
 ||asuler.ru^
 ||asumi.shinobi.jp^
-||asustech.cf^
 ||asuydisi.com^
 ||asvatskaymj.club^
 ||as.webmd.com^
@@ -10939,6 +10938,7 @@
 ||banburycake-gb.banburycake.co.uk^
 ||banclip.com^
 ||bandai.hs.llnwd.net^
+||bandarabbad.com^
 ||bandborder.com^
 ||bandbuzzer.com^
 ||banddos.ru^
@@ -12360,7 +12360,6 @@
 ||biluzhang.cn^
 ||bimagric.com^
 ||bi.manhuaren.com^
-||bi.medscape.com^
 ||bimeiranonline.com^
 ||bimil.ru^
 ||bimlocal.com^
@@ -13797,7 +13796,6 @@
 ||businessclick.ch^
 ||businessclick.com^
 ||business-in.ru^
-||business.opera.com^
 ||business.sharedcount.com^
 ||busingleni.club^
 ||busions.com^
@@ -13980,7 +13978,6 @@
 ||byujf.cn^
 ||byuop.com^
 ||byusabodcwyct.com^
-||by.uservoice.com^
 ||byvngx98ssphwzkrrtsjhnbyz5zss81dxygxvlqd05.com^
 ||byvue.com^
 ||byxlivaqzo.com^
@@ -14528,6 +14525,7 @@
 ||catamountcenter.org^
 ||catastrophetray.com^
 ||catchinemuj.club^
+||catchpoolshetlands.co.uk^
 ||catchynerves.com^
 ||catercart.co.nz^
 ||cathaycentury.com^
@@ -14770,7 +14768,6 @@
 ||cdn.beaconpush.com^
 ||cdn.bigcommerce.com^
 ||cdn-bk.ligastavok.ru^
-||cdn.bluebillywig.com^
 ||cdn.braze.eu^
 ||cdn-cf-hc-banners.hgonline.net^
 ||cdn.c-i.as^
@@ -15640,7 +15637,6 @@
 ||choddia.com^
 ||chofezrj.com^
 ||chograud.com^
-||choice.microsoft.com^
 ||choice.microsoft.com.nsatc.net^
 ||choice.microsoft.com.nstac.net^
 ||choices.trustarc.com^
@@ -16344,7 +16340,6 @@
 ||client.88tours.com^
 ||client-analytics.braintreegateway.com^
 ||client-api.matchinguu.com^
-||client-event-reporter.twitch.tv^
 ||clientgear.com^
 ||client-googledns.com^
 ||clientinfo.phimmoizz.net^
@@ -16546,7 +16541,6 @@
 ||cmoneba.ru^
 ||cmoney.money^
 ||cmp.arnnet.com.au^
-||cmp-cdn.ghostery.com^
 ||cmp.channelpartner.de^
 ||cmp.cio.com^
 ||cmp.cio.com.au^
@@ -16585,7 +16579,6 @@
 ||cmslayue.com^
 ||cms.lv^
 ||cmsmodnews.com^
-||c.msn.com^
 ||cmsp.com.ar^
 ||cmspoddbak.com^
 ||cms-skin.com^
@@ -16913,7 +16906,6 @@
 ||collect.feefo.com^
 ||collect.igodigital.com^
 ||collecting.click^
-||collecting-consent.g5e.com^
 ||collection-day.com^
 ||collection-endpoint-prod.herokuapp.com^
 ||collection-endpoint-staging.herokuapp.com^
@@ -17101,7 +17093,6 @@
 ||compactbanner.com^
 ||companiedoml.site^
 ||companies-catalog.com^
-||companieshouseonlinedownload.com^
 ||company01.sutoweb.com^
 ||company.1ps.ru^
 ||company.com.ph^
@@ -17261,7 +17252,6 @@
 ||consent.cmp.oath.com^
 ||consentedimpunity.com^
 ||consent.inm.ie^
-||consent-manager-events.ogury.io^
 ||conservative.ru^
 ||consesculifin.site^
 ||considedefinit.fun^
@@ -17427,7 +17417,6 @@
 ||cookiebot.com-v1.edgekey.net^
 ||cookie-jam.sgn.com^
 ||cookielawblog.wordpress.com^
-||cookie.monster.com^
 ||cookies.cmpnet.com^
 ||cookiescript.info^
 ||cookies.livepartners.com^
@@ -18597,7 +18586,6 @@
 ||cshwhy.cn^
 ||csiasvapqrccq.com^
 ||c.sibnet.ru^
-||csi.gstatic.com^
 ||csi-tracking.com^
 ||csjayzqifekaq.com^
 ||csjuq.com^
@@ -20399,7 +20387,6 @@
 ||dev.sebpo.net^
 ||devteamjailbreak.com^
 ||devtizer.ru^
-||dev.virtualearth.net^
 ||dew9ckzjyt2gn.cloudfront.net^
 ||dewgnvonohak.com^
 ||dewife.ru^
@@ -21563,6 +21550,7 @@
 ||downupfiles.com^
 ||down.webbora.com^
 ||down.whphonesoft.com^
+||down.xrpdf.com^
 ||down.yxdfc.com^
 ||doxliwesed.de.ms^
 ||doxurgeoisuniv.info^
@@ -23829,7 +23817,6 @@
 ||etknnufo.com^
 ||et-land.xyz^
 ||etlcrfkkfl.com^
-||etl.tindersparks.com^
 ||etl.xlmc.sandai.net^
 ||etmattemptholla.info^
 ||etm-consult.de^
@@ -25753,7 +25740,6 @@
 ||fixedlyuncoveradjoin.com^
 ||fixel.ai^
 ||fix-files.com^
-||fixhomes.ca^
 ||fixionmedia.com^
 ||fixpass.net^
 ||fixreputation.net^
@@ -27916,6 +27902,7 @@
 ||gccode.gongchang.com^
 ||gccoetmm.com^
 ||gccraze.com^
+||gcdn.2mdn.net^
 ||gcdn.kz^
 ||gceleritasads.com^
 ||gchhswgagb.com^
@@ -28912,7 +28899,6 @@
 ||gmo-searchteria.jp^
 ||gmoshk.com^
 ||gmossp-sp.jp^
-||g.msn.com^
 ||gmter.com^
 ||gmuqa.cn^
 ||gmxyorg.cn^
@@ -33313,7 +33299,6 @@
 ||imp.dmm.co.jp^
 ||imp.dmm.com^
 ||impeacknow.xyz^
-||impeledu.com^
 ||imperfectinstrument.com^
 ||imperialcheats.com^
 ||imperiumfiles.com^
@@ -33617,6 +33602,7 @@
 ||inject.in^
 ||in.joinourwebsite.com^
 ||injuredcandy.com^
+||i.n.jwpltx.com^
 ||ink1001.com^
 ||inkornesto.com^
 ||inktad.com^
@@ -35681,7 +35667,6 @@
 ||jwmyba.biz^
 ||jwofadcwpocm.com^
 ||jwplayer.space^
-||jwpltx.com^
 ||jwt8e5vzc1.com^
 ||jwuqescfqa.xyz^
 ||jwvwak1a.com^
@@ -39117,6 +39102,7 @@
 ||lunarads.com^
 ||luolikong.net^
 ||luoshenbest.cn^
+||luoyb.com^
 ||luoyuanedu.cn^
 ||lupoot.com^
 ||lupustrade.com^
@@ -39305,6 +39291,7 @@
 ||m1.100how.com^
 ||m.12306media.com^
 ||m1.27com.com^
+||m1.2mdn.net^
 ||m1.51kaowang.com^
 ||m1700.com^
 ||m1.81312.com^
@@ -39325,6 +39312,7 @@
 ||m2.ai^
 ||m2.lelemh.com^
 ||m2m-api.inmarket.com^
+||m.2mdn.net^
 ||m2pk.com^
 ||m2pub.com^
 ||m2track.co^
@@ -39606,6 +39594,7 @@
 ||makuzeko.xyz^
 ||malakasonline.com^
 ||malathris.cz.cc^
+||malaysianscoop.com^
 ||malaysia-online-bank-kasino.com^
 ||maldonandburnhamstandard-gb.maldonandburnhamstandard.co.uk^
 ||maleass.eu^
@@ -40132,7 +40121,6 @@
 ||mddwabpvzcr.com^
 ||mdeih.com^
 ||mdfc.info^
-||mdflandres.com^
 ||mdformo1.ddns.net^
 ||mdformo.ddns.net^
 ||md-hl.apptimize.com^
@@ -42712,7 +42700,6 @@
 ||mvdvktbaptzl.com^
 ||mvilivestats.com^
 ||mvimzkmondb.com^
-||mvldesign.ca^
 ||mvmbs.com^
 ||mvnuyjsdgle.com^
 ||mvo.g45td.xyz^
@@ -42950,6 +42937,7 @@
 ||mypcgamesdownload.com^
 ||mypenny.xyz^
 ||mypersonalhttp.com^
+||myphamjapan.com^
 ||mypi.co^
 ||mypictures-onlinegood.info^
 ||mypictures-onlinemaxpark.info^
@@ -43408,6 +43396,7 @@
 ||ne9377.com^
 ||neads.delivery^
 ||nearbyad.com^
+||nearlearn.com^
 ||neasyset.icu^
 ||neatblogs.com^
 ||neathsmik.top^
@@ -43643,7 +43632,6 @@
 ||nevernews.club^
 ||never.ovh^
 ||neverstdywalkachinese2loneinlifekstfnp.ydns.eu^
-||nevertudywalkachinese2loneinlifektugwq.ydns.eu^
 ||neverythin.club^
 ||new17write.com^
 ||new2019.mine.nu^
@@ -43978,6 +43966,7 @@
 ||ngmco.net^
 ||n.gold-liter.org.ua^
 ||ngr61ail.rr.nu^
+||ngrehab.biz^
 ||ngrichtelcr.club^
 ||ngsaang.top^
 ||ngsbeautio.fun^
@@ -44299,6 +44288,7 @@
 ||noiselessplough.com^
 ||noitdcelol.com^
 ||noitdicelol.com^
+||noithatcongnghieptantien.com^
 ||nojepofyren.eu^
 ||nojose.ru^
 ||nojsstats.appspot.com^
@@ -45462,7 +45452,6 @@
 ||omaze.com^
 ||om.blockbuster.com^
 ||om.businessweek.com^
-||om.cbsi.com^
 ||omchanseyr.com^
 ||omclick.com^
 ||om.cnet.co.uk^
@@ -45544,7 +45533,6 @@
 ||oms.expedia.com^
 ||om.sfgate.com^
 ||omsyfxirjg.com^
-||om.symantec.com^
 ||omt.honda.com^
 ||omtrdc.net^
 ||om.truecar.com^
@@ -45600,7 +45588,6 @@
 ||one.cam4ads.com^
 ||onecinema.us^
 ||oneclick2download.com^
-||onecollector.cloudapp.aria.akadns.net^
 ||oneday88.com^
 ||onedmp.com^
 ||onedrive-collection.device.mobileengagement.windows.net^
@@ -46070,7 +46057,6 @@
 ||ordealgraveyard.com^
 ||ordermc.com^
 ||ordermedonline.com^
-||order.nordbyvaktmesterogvaktservice.no^
 ||ordernow.cf^
 ||ordernow.site^
 ||ordinggrandt.fun^
@@ -47707,6 +47693,7 @@
 ||pinocularoud.site^
 ||pinpoll.com^
 ||pinresentag.info^
+||pinwu123.com^
 ||pinyoux.com^
 ||pion.loveserials.net^
 ||piou.kirkir.xyz^
@@ -49701,7 +49688,6 @@
 ||ptvcfltikpdi.com^
 ||ptwebcams.com^
 ||ptw.la^
-||p.typekit.net^
 ||pu0glv.cn^
 ||pu97.ru^
 ||pub03832.duckdns.org^
@@ -51761,7 +51747,6 @@
 ||renminben.com^
 ||renshengyiyi.com^
 ||rensovetors.info^
-||rentosweep.co.uk^
 ||rentracks.jp^
 ||rentsincrea.top^
 ||rentwillionc.club^
@@ -52703,7 +52688,6 @@
 ||rpt.anchorfree.net^
 ||rpts.org^
 ||rpuuwsjcu.com^
-||rpxnow.com^
 ||rqbxfbls.com^
 ||rqgsf.com^
 ||rqhere.com^
@@ -53157,6 +53141,7 @@
 ||s0-2mdn-net.l.google.com^
 ||s0ft3r.ru^
 ||s11.cn^
+||s1.2mdn.net^
 ||s1591e46.xyz^
 ||s1-adfly.com^
 ||s1.adguard.com^
@@ -53328,6 +53313,7 @@
 ||sagimedyer.xyz^
 ||sahathaikasetpan.com^
 ||sahishodilitt.info^
+||sahla-ad.com^
 ||sahraex7vah.info^
 ||saiappstore.com^
 ||saifudesigner.com^
@@ -53497,6 +53483,7 @@
 ||sa.sina.cn^
 ||sasingfinities.space^
 ||sasisa.ru^
+||sasksseed.mymonolith.com^
 ||saskya.com.br^
 ||sa.sky.it^
 ||sasontnwc.net^
@@ -54703,7 +54690,6 @@
 ||sg2p.wns.windows.com^
 ||sg2rgnza7k9t.com^
 ||sgali-mcs.byteoversea.com^
-||s.gateway.messenger.live.com^
 ||sgbmhkptxali.com^
 ||sgbzw12y.club^
 ||sgcsuscnyw.com^
@@ -54978,6 +54964,7 @@
 ||shopbravesedge.com^
 ||shopbreakfast.com^
 ||shop-cdn.coccoc.com^
+||shopchailo.com^
 ||shopeasy.by^
 ||shop.eldalile.com^
 ||shopempire.su^
@@ -54996,7 +54983,6 @@
 ||shoppingads.com^
 ||shopping.coccoc.com^
 ||shopping-homme.com^
-||shopping.yahooapis.jp^
 ||shoppy.gg^
 ||shop.schlachtstall.de^
 ||shop-sis.com^
@@ -55597,6 +55583,7 @@
 ||skyadvideo.ru^
 ||skycdnhost.com^
 ||skydrop.top^
+||skyeconsultoria.com.br^
 ||skyglue.com^
 ||skygohack.org^
 ||skyht.cf^
@@ -56207,6 +56194,7 @@
 ||soluxury.co.uk^
 ||soluzionibio.it^
 ||som.aeroplan.com^
+||somatone.atakdev.com^
 ||somberattack.com^
 ||somberscarecrow.com^
 ||sombersea.com^
@@ -57167,6 +57155,7 @@
 ||stathat.com^
 ||stat.headlines.pw^
 ||stathound.com^
+||static.2mdn.net^
 ||static2.rutracker.org^
 ||static.3001.net^
 ||static.4chan-ads.org^
@@ -58296,7 +58285,6 @@
 ||superinterstitial.com^
 ||superiorclueless.com^
 ||superior-net.tech^
-||superiorsurfacings.com^
 ||superippo.com^
 ||superjob.icu^
 ||superjuryger.site^
@@ -58664,7 +58652,6 @@
 ||s-yoolk-banner-assets.yoolk.com^
 ||s-yoolk-billboard-assets.yoolk.com^
 ||syooys.com^
-||s.youtube.com^
 ||syphilohmmaging.site^
 ||sypleni.ru^
 ||syracusecoffee.com^
@@ -58914,6 +58901,7 @@
 ||talaropa.com^
 ||talazywho.pro^
 ||talentedsteel.com^
+||talentvalue.com^
 ||talentvillage.co.uk^
 ||talentztech.com^
 ||talhanterbutres.top^
@@ -59496,9 +59484,9 @@
 ||tenin58gaccel.rr.nu^
 ||tenlokif.com^
 ||tenmax.io^
+||tenmoney.business^
 ||tennysondonehue.com^
 ||tenping.kr^
-||tenrougroup.com^
 ||tensecolonialismwandering.com^
 ||tentaculos.net^
 ||tentandoserfitness.000webhostapp.com^
@@ -59904,6 +59892,7 @@
 ||thetop.be^
 ||thetottenhamindependent-gb.thetottenhamindependent.co.uk^
 ||thetradedesk-tags.s3.amazonaws.com^
+||thetradepad.co.uk^
 ||thetrafficstat.net^
 ||thetreuntalle.pro^
 ||theunderheard.com^
@@ -62145,6 +62134,7 @@
 ||trys5.com^
 ||trysera.com^
 ||trytipemo.com^
+||trytuc.com^
 ||trzi30ic.com^
 ||ts166.net^
 ||ts2a1s.com^
@@ -62310,8 +62300,6 @@
 ||tudotecnologia.site^
 ||tudown.com^
 ||tu.dxcnd.cn^
-||tudychnesqudusisabadassniggainthetubmx.ydns.eu^
-||tudyrusschine2mapanxmenischangednetuicm.ydns.eu^
 ||tuerkiyemspor.de^
 ||tufamugevih.eu^
 ||tufosex.com.br^
@@ -62525,6 +62513,7 @@
 ||twthack.com^
 ||twthack.net^
 ||twuiebkcnvr.com^
+||twx.2mdn.net^
 ||twyn.com^
 ||twzui6.com^
 ||tx2.ru^
@@ -62913,6 +62902,7 @@
 ||ukatoe.com^
 ||ukbanners.com^
 ||ukbet99.com^
+||uk-bet.com^
 ||ukcomparends.pro^
 ||ukdtx.31202.fun^
 ||ukdzmuvtelq.com^
@@ -63328,7 +63318,6 @@
 ||upijhkdcovdep.com^
 ||upikeoshfhw.com^
 ||upliftsearch.com^
-||up.llw0.com^
 ||uploadamigo.com^
 ||uploadcash.org^
 ||uploaderonline.com^
@@ -63593,7 +63582,6 @@
 ||usersegment.wpdigital.net^
 ||users.quantumgraph.com^
 ||userstats.shopee.vn^
-||users.telenet.be^
 ||userzoom.com^
 ||usesfathom.com^
 ||us-events.api.iheart.com^
@@ -64495,7 +64483,6 @@
 ||vinov24.com^
 ||vinregle.com^
 ||vinsight.de^
-||vintageartgalleria.com^
 ||vintagebox.pro^
 ||vinub.com^
 ||vinushka.xsrv.jp^
@@ -64774,7 +64761,6 @@
 ||vmqgouvq.com^
 ||vmraahnmspzy.com^
 ||vmrsmnrvzh.com^
-||vms.bluebillywig.com^
 ||vmstats.varrando.com^
 ||vm.timeinabottle.pw^
 ||vmtjybwfb.com^
@@ -67088,6 +67074,7 @@
 ||www-banner.chat.ru^
 ||www.banner-link.com.br^
 ||www.barbiemobi.cn^
+||www.bereketsutesisatcisi.com^
 ||www.bettertextads.com^
 ||www.bidwincash.com^
 ||www.bigpenisguide.com^
@@ -68255,6 +68242,7 @@
 ||xpwppacpda.com^
 ||xpwwqbkezdr.com^
 ||xpx7heciz9.com^
+||xpxvok.cn^
 ||xpywzbxjwbxafv.com^
 ||xpzdvubwncvi.com^
 ||xq0wju848zr.ga^
@@ -70543,69 +70531,71 @@ unixmen.com##DIV.reveal-modal-bg
 vapordna.com###age-check-prompt
 vapordna.com###prompt-background
 vapordna.com##.top_header_banner > p
-www.affinia.com###things-to-do > .on.overlay-container
-www.affinia.com##footer > .wrapper > .on.special-message.most-of-screen.full-overlay
-www.cnet.com##.entered.dock.inviewElement
-www.cnn.com###dazbnm
-www.cnn.com###sskxzejroaldqjo
-www.cnn.com##.csnufnmschc
-www.cnn.com##.jfisjoibqwpgzn
-www.cnn.com##.saxocwzwwx
-www.eightvape.com##.header-warning
-www.eightvape.com##.header-warning2
-www.eightvape.com##.mobile-6.desktop-12
-www.eightvape.com##.mobile-half.tablet-2.desktop-2.product-list-item-1 > .warning-label-1
-www.eightvape.com##.mobile-half.tablet-2.desktop-2.product-list-item-3 > .warning-label-1
-www.eightvape.com##.mobile-half.tablet-2.desktop-2.product-list-item-4 > .warning-label-1
-www.eightvape.com##.mobile-half.tablet-2.desktop-2.product-list-item-5 > .warning-label-1
-www.eightvape.com##.mobile-half.tablet-2.desktop-2.product-list-item-6 > .warning-label-1
-www.etymonline.com##.extensionHint
-www.etymonline.com##.wordDetail__extensionBanner--2Qrhv
-www.glassdoor.com##.background-overlay
-www.glassdoor.com##.actionBarMt0.modal_main
-www.glassdoor.com##.gdGrid.hardsellOverlay
-www.glassdoor.com##.hardsellContainer.flex-column.align-items-center.justify-content-center.d-flex
-www.glassdoor.com##.pt-xxl.pb-m-std.pb-72.hardsell
-www.haaretz.com##.footer-ruler
-www.incredibox.com###bbox
-www.incredibox.com###bbox-click
-www.incredibox.com###box-abp
-www.indeed.com###popover-background
-www.indeed.com###popover-foreground
-www.indeed.com##.jobalert-create-wrapper--noIcon.jobalert-create-wrapper
-www.indeed.com##.jobalert-white.jobalert-create-wrapper
-www.indiadivine.org###ulp-RyvojwyPSZ6Q7NUR
-www.indiadivine.org###ulp-RyvojwyPSZ6Q7NUR-overlay
-www.instagram.com##.DCpAF
-www.instagram.com##.qD5Mv._4EzTm.eGOV_.IwRSH.Igw0E
-www.juicedb.com##.nicotine-warning
-www.linuxandubuntu.com##.hustle-optin--focus-optin.hustle-optin
-www.linuxandubuntu.com##.hustle-optin-mask.hustle-popup-mask
-www.linuxandubuntu.com##.hustle-show.module_id_1.hustle_module_id_1.hustle-palette--default.hustle-popup.hustle-ui
-www.reddit.com##.Drawer__overlay
-www.reddit.com##.SignupDrawer__content.Drawer__content
-www.reddit.com##.in.fade.modal-backdrop
-www.reddit.com##.in.spezmodal.fade.modal
-www.reddit.com##.m-didInit.AnnouncementsScroller
-www.reddit.com##.modal-body > .md-container > .md > p
-www.reddit.com##.redesign-beta-optin
-www.reddit.com##.redesignbetabar-js.redesignInfiniteScroll.onboardingbar.infobar
-www.reddit.com##.redesignbetabar-js.redesignNightmodeBar.onboardingbar.infobar
-www.slant.co##.LustrePromoteModal-Content.Modal-Content
-www.slant.co##._View.AIHome-TopGradient.AIHome-Gradient.LustreAIPromoteFooter._LustreAIPromoteFooterView
-www.slant.co##._View.LustreAIBanner._LustreAIBannerView
-www.slant.co##._View.LustrePromoteModal.Modal._LustreAIPromoteModalView
-www.slant.co##._soft-close-link.Modal-Cover
-www.smoktech.com###warning-message
-www.sportiquescooters.com###lbOverlay
-www.sztobeco.com###tq_float_container
-www.tastyvapor.us###lbContent
-www.tastyvapor.us###lbFooter
-www.tastyvapor.us###lbHeader
-www.tastyvapor.us###mask
-www.tastyvapor.us##.footer_bottom
-www.vapecentric.com###agechecker-age-gate
-www.vapecentric.com##.fomo-notification-container
-www.vapecentric.com##.fomo-notification-content-wrapper
-www.washingtonpost.com##.z-eyei-bvs
+affinia.com###things-to-do > .on.overlay-container
+affinia.com##footer > .wrapper > .on.special-message.most-of-screen.full-overlay
+cnet.com##.entered.dock.inviewElement
+cnn.com###dazbnm
+cnn.com###sskxzejroaldqjo
+cnn.com##.csnufnmschc
+cnn.com##.jfisjoibqwpgzn
+cnn.com##.saxocwzwwx
+eightvape.com##.header-warning
+eightvape.com##.header-warning2
+eightvape.com##.mobile-6.desktop-12
+eightvape.com##.mobile-half.tablet-2.desktop-2.product-list-item-1 > .warning-label-1
+eightvape.com##.mobile-half.tablet-2.desktop-2.product-list-item-3 > .warning-label-1
+eightvape.com##.mobile-half.tablet-2.desktop-2.product-list-item-4 > .warning-label-1
+eightvape.com##.mobile-half.tablet-2.desktop-2.product-list-item-5 > .warning-label-1
+eightvape.com##.mobile-half.tablet-2.desktop-2.product-list-item-6 > .warning-label-1
+etymonline.com##.extensionHint
+etymonline.com##.wordDetail__extensionBanner--2Qrhv
+glassdoor.com##.background-overlay
+glassdoor.com##.actionBarMt0.modal_main
+glassdoor.com##.gdGrid.hardsellOverlay
+glassdoor.com##.hardsellContainer.flex-column.align-items-center.justify-content-center.d-flex
+glassdoor.com##.pt-xxl.pb-m-std.pb-72.hardsell
+haaretz.com##.footer-ruler
+huffpost.com##.modal-content
+huffpost.com##.js-entry-promo.small.entry-promo
+incredibox.com###bbox
+incredibox.com###bbox-click
+incredibox.com###box-abp
+indeed.com###popover-background
+indeed.com###popover-foreground
+indeed.com##.jobalert-create-wrapper--noIcon.jobalert-create-wrapper
+indeed.com##.jobalert-white.jobalert-create-wrapper
+indiadivine.org###ulp-RyvojwyPSZ6Q7NUR
+indiadivine.org###ulp-RyvojwyPSZ6Q7NUR-overlay
+instagram.com##.DCpAF
+instagram.com##.qD5Mv._4EzTm.eGOV_.IwRSH.Igw0E
+juicedb.com##.nicotine-warning
+linuxandubuntu.com##.hustle-optin--focus-optin.hustle-optin
+linuxandubuntu.com##.hustle-optin-mask.hustle-popup-mask
+linuxandubuntu.com##.hustle-show.module_id_1.hustle_module_id_1.hustle-palette--default.hustle-popup.hustle-ui
+reddit.com##.Drawer__overlay
+reddit.com##.SignupDrawer__content.Drawer__content
+reddit.com##.in.fade.modal-backdrop
+reddit.com##.in.spezmodal.fade.modal
+reddit.com##.m-didInit.AnnouncementsScroller
+reddit.com##.modal-body > .md-container > .md > p
+reddit.com##.redesign-beta-optin
+reddit.com##.redesignbetabar-js.redesignInfiniteScroll.onboardingbar.infobar
+reddit.com##.redesignbetabar-js.redesignNightmodeBar.onboardingbar.infobar
+slant.co##.LustrePromoteModal-Content.Modal-Content
+slant.co##._View.AIHome-TopGradient.AIHome-Gradient.LustreAIPromoteFooter._LustreAIPromoteFooterView
+slant.co##._View.LustreAIBanner._LustreAIBannerView
+slant.co##._View.LustrePromoteModal.Modal._LustreAIPromoteModalView
+slant.co##._soft-close-link.Modal-Cover
+smoktech.com###warning-message
+sportiquescooters.com###lbOverlay
+sztobeco.com###tq_float_container
+tastyvapor.us###lbContent
+tastyvapor.us###lbFooter
+tastyvapor.us###lbHeader
+tastyvapor.us###mask
+tastyvapor.us##.footer_bottom
+vapecentric.com###agechecker-age-gate
+vapecentric.com##.fomo-notification-container
+vapecentric.com##.fomo-notification-content-wrapper
+washingtonpost.com##.z-eyei-bvs
 ~safaribooksonline.com##.subscribe-panel
