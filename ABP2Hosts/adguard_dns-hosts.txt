@@ -1,4 +1,4 @@
-# Wed Dec 30 09:06:50 PM MST 2020
+# Wed Dec 30 11:25:39 PM MST 2020
 # AdGuard DNS Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -15456,6 +15456,7 @@
 0.0.0.0 gwywsuemmf.com
 0.0.0.0 gx101.com
 0.0.0.0 gxejgs.com
+0.0.0.0 gxfc2021.top
 0.0.0.0 gxgydnhz.com
 0.0.0.0 gxgzyny.com
 0.0.0.0 gxhxmy88.com
@@ -38623,6 +38624,7 @@
 0.0.0.0 zhihu.xmcimg.com
 0.0.0.0 zhinengap.com
 0.0.0.0 zhiong.net
+0.0.0.0 zhipinbook.cn
 0.0.0.0 zhitkise.info
 0.0.0.0 zhivalley.cn
 0.0.0.0 zhixd.cn

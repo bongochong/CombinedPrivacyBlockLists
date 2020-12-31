@@ -2215,7 +2215,6 @@
 0.0.0.0 avitocars.ru
 0.0.0.0 avito.cm
 0.0.0.0 avito.vg
-0.0.0.0 aviva.112.2o7.net
 0.0.0.0 avixxx.com
 0.0.0.0 avkzarabotok.info
 0.0.0.0 av-mdeta.com
@@ -2564,7 +2563,6 @@
 0.0.0.0 boredborder.com
 0.0.0.0 boredcrown.com
 0.0.0.0 boringcoat.com
-0.0.0.0 boscovs.com.ssl.sc.omtrdc.net
 0.0.0.0 bostoncommonpress.112.2o7.net
 0.0.0.0 bostonscientificcorporation.112.2o7.net
 0.0.0.0 bot.lobodomarketingonline.com
@@ -2658,7 +2656,6 @@
 0.0.0.0 budgetcarhire.112.2o7.net
 0.0.0.0 budison-oklarly.com
 0.0.0.0 bug.spotify.com
-0.0.0.0 builderonlinecom.112.2o7.net
 0.0.0.0 buildyourownbotnet.com
 0.0.0.0 bulbbait.com
 0.0.0.0 bulehero2019.club
@@ -2799,7 +2796,6 @@
 0.0.0.0 carriagecan.com
 0.0.0.0 carscannon.com
 0.0.0.0 carsitxal.tk
-0.0.0.0 cartoonnetwork.122.2o7.net
 0.0.0.0 casa24ore.com
 0.0.0.0 casaconceitoltda.info
 0.0.0.0 cas.criteo.com
@@ -3100,7 +3096,6 @@
 0.0.0.0 ckssplcom.ga
 0.0.0.0 ck.storematch.jp
 0.0.0.0 clan.setare-bash.com
-0.0.0.0 classicvacations.112.2o7.net
 0.0.0.0 classmatescom.112.2o7.net
 0.0.0.0 clean24world.ru
 0.0.0.0 clean.crypt24.in
@@ -3173,7 +3168,6 @@
 0.0.0.0 cloud.xenoris.fr
 0.0.0.0 cltrpt.vbnm34567.xyz
 0.0.0.0 clubmed.112.2o7.net
-0.0.0.0 clubmom.122.2o7.net
 0.0.0.0 c.m-a-d.jp
 0.0.0.0 cma.jword.jp
 0.0.0.0 c.medialytics.com
@@ -3579,7 +3573,6 @@
 0.0.0.0 cwportal.112.2o7.net
 0.0.0.0 cxgtgdf.com
 0.0.0.0 cxociocom.112.2o7.net
-0.0.0.0 cxocomdev.112.2o7.net
 0.0.0.0 cxvbilladsoi-legal.1gb.ru
 0.0.0.0 cy91219.tmweb.ru
 0.0.0.0 cyanobac.com
@@ -3806,7 +3799,6 @@
 0.0.0.0 directitsolutions.com
 0.0.0.0 directlink.jp
 0.0.0.0 directrev.com
-0.0.0.0 directtv.tt.omtrdc.net
 0.0.0.0 discovercard.112.2o7.net
 0.0.0.0 discoveryplus.popin.cc
 0.0.0.0 discreetfield.com
@@ -4673,7 +4665,6 @@
 0.0.0.0 fyber.com
 0.0.0.0 g1thub.com
 0.0.0.0 g2.072m.com
-0.0.0.0 g2.112.2o7.net
 0.0.0.0 g2.gumgum.com
 0.0.0.0 g53lois51bruce.company
 0.0.0.0 ga87z2o.com
@@ -5397,6 +5388,7 @@
 0.0.0.0 ijcaiatas.name
 0.0.0.0 i.jumptap.com
 0.0.0.0 ikdarkhawast.com
+0.0.0.0 ikea.122.2o7.net
 0.0.0.0 iliketopunchnoah.com
 0.0.0.0 illegalfawn.com
 0.0.0.0 illfatedsnail.com
@@ -5505,7 +5497,6 @@
 0.0.0.0 incremento-avance-en-tarjeta-cl.gq
 0.0.0.0 indabol.com.bo
 0.0.0.0 indemnity360.com
-0.0.0.0 independentdigital.d3.sc.omtrdc.net
 0.0.0.0 indetiske.ya.ru
 0.0.0.0 indiangirlsnude.com
 0.0.0.0 indicasativas.com
@@ -5768,7 +5759,6 @@
 0.0.0.0 jijsonline.112.2o7.net
 0.0.0.0 jijsonline.122.2o7.net
 0.0.0.0 jikenick12and67.com
-0.0.0.0 jiktnv.122.2o7.net
 0.0.0.0 jilliancamwell.com
 0.0.0.0 j.image-ad.jp
 0.0.0.0 jim-dandy.jp
@@ -6675,7 +6665,6 @@
 0.0.0.0 microsoft-products.com
 0.0.0.0 microsoft-shop.com
 0.0.0.0 microsoftsto.112.2o7.net
-0.0.0.0 microsoftuk.122.2o7.net
 0.0.0.0 microsoftupa.com
 0.0.0.0 microsoftwga.112.2o7.net
 0.0.0.0 microsoftwindows.112.2o7.net
@@ -6834,7 +6823,6 @@
 0.0.0.0 mngimercurynews.112.2o7.net
 0.0.0.0 mngimng.112.2o7.net
 0.0.0.0 mngirockymtnnews.112.2o7.net
-0.0.0.0 mngislcnac.112.2o7.net
 0.0.0.0 mngislctrib.112.2o7.net
 0.0.0.0 mngisv.112.2o7.net
 0.0.0.0 mngitwincities.112.2o7.net
@@ -7031,7 +7019,6 @@
 0.0.0.0 mwor.gq
 0.0.0.0 mxcdn1.now.sh
 0.0.0.0 mxcdn2.now.sh
-0.0.0.0 mxmacromedia.112.2o7.net
 0.0.0.0 mxmkitchen.com
 0.0.0.0 mx.neperepahano.top
 0.0.0.0 mxvp-ad-config-prod-1.zenmxapps.com
@@ -7255,6 +7242,7 @@
 0.0.0.0 nimiqtest.ml
 0.0.0.0 ninaning.com
 0.0.0.0 nintedrer.com
+0.0.0.0 nissan.d3.sc.omtrdc.net
 0.0.0.0 nitb.pk-gov.org
 0.0.0.0 nitrixserver.com
 0.0.0.0 nitro-malwrhunterteams.com
@@ -7591,7 +7579,6 @@
 0.0.0.0 oteam.io
 0.0.0.0 oteroindustrial.com
 0.0.0.0 ottacknet.112.2o7.net
-0.0.0.0 ottdailytidingscom.112.2o7.net
 0.0.0.0 our20203.duckdns.org
 0.0.0.0 ourmazdcompany.net
 0.0.0.0 ourteam.searchkero.com
@@ -8323,7 +8310,6 @@
 0.0.0.0 reconindia.co.in
 0.0.0.0 recordeaglecom.112.2o7.net
 0.0.0.0 recordnetcom.112.2o7.net
-0.0.0.0 recordonlinecom.112.2o7.net
 0.0.0.0 recordsforsmssent.xyz
 0.0.0.0 recoverydata.merehosting.com
 0.0.0.0 recruit.112.2o7.net
@@ -8365,7 +8351,6 @@
 0.0.0.0 rencontres-idf.fr
 0.0.0.0 renewingfaces.com
 0.0.0.0 renhertfo.com
-0.0.0.0 rentcom.112.2o7.net
 0.0.0.0 rentcom.tt.omtrdc.net
 0.0.0.0 rentosweep.co.uk
 0.0.0.0 reon.club
@@ -8702,7 +8687,6 @@
 0.0.0.0 schoolbustracker.softgig.co.ke
 0.0.0.0 schwellenwertdaten.de
 0.0.0.0 schwerdt.org
-0.0.0.0 sciamcom.112.2o7.net
 0.0.0.0 scientificshirt.com
 0.0.0.0 scintillatingscissors.com
 0.0.0.0 scintillatingspace.com
@@ -9327,7 +9311,6 @@
 0.0.0.0 staglion.pro
 0.0.0.0 stakingscrew.com
 0.0.0.0 stakingslope.com
-0.0.0.0 stampscom.112.2o7.net
 0.0.0.0 standardpopulation.icu
 0.0.0.0 standingnest.com
 0.0.0.0 standtrouble.com
@@ -9702,7 +9685,6 @@
 0.0.0.0 terribleturkey.com
 0.0.0.0 terryhill.top
 0.0.0.0 teschenite.com
-0.0.0.0 tescostores.122.2o7.net
 0.0.0.0 test2.cxyw.net
 0.0.0.0 testapi.app.jarcatech.com
 0.0.0.0 testcdn.adsafeprotected.com
@@ -9810,11 +9792,11 @@
 0.0.0.0 timespctenbest.122.2o7.net
 0.0.0.0 timeteenpeople.122.2o7.net
 0.0.0.0 timetwig.com
+0.0.0.0 tina-toilet-cantina.xyz
 0.0.0.0 tinkoff.llc
 0.0.0.0 tirerack.tt.omtrdc.net
 0.0.0.0 tivolibasket.it
 0.0.0.0 tjcyint.ml
-0.0.0.0 tjx.112.2o7.net
 0.0.0.0 tk.mobri.jp
 0.0.0.0 tm1.hoiplay.com
 0.0.0.0 tm2.r-ad.ne.jp
@@ -9834,8 +9816,7 @@
 0.0.0.0 toecircle.com
 0.0.0.0 toedrawer.com
 0.0.0.0 toftofcal.com
-0.0.0.0 toilet-tina-cantina.xyz
-0.0.0.0 toilet-tony-pizza.gay
+0.0.0.0 toilet-tony-pizza.edu
 0.0.0.0 tokihakita.vis1.shinobi.jp
 0.0.0.0 tokomaru.nimiqpool.com
 0.0.0.0 tokovio.com
@@ -9868,7 +9849,6 @@
 0.0.0.0 torprojectonioncheck.com
 0.0.0.0 torrecid.ml
 0.0.0.0 torresansrl-it.com
-0.0.0.0 torstardigital.122.2o7.net
 0.0.0.0 tortonrcommt.pw
 0.0.0.0 toryburchoutlet.info
 0.0.0.0 toterh.pw
@@ -10400,7 +10380,6 @@
 0.0.0.0 wbnews.112.2o7.net
 0.0.0.0 wbprocurement.112.2o7.net
 0.0.0.0 wbrostheatricalother.112.2o7.net
-0.0.0.0 wcastrprod.122.2o7.net
 0.0.0.0 wearelovelive.com
 0.0.0.0 wearewhatwesay.com
 0.0.0.0 weather.gbaycruise.com
