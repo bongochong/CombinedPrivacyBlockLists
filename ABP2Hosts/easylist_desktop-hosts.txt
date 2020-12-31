@@ -1,4 +1,4 @@
-# Thu Dec 31 03:36:46 AM MST 2020
+# Thu Dec 31 03:43:28 AM MST 2020
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -21718,6 +21718,7 @@
 0.0.0.0 pinocularoud.site
 0.0.0.0 pinpoll.com
 0.0.0.0 pinresentag.info
+0.0.0.0 pinwu123.com
 0.0.0.0 pinyoux.com
 0.0.0.0 piozhntfxag.com
 0.0.0.0 pipeaota.com
