@@ -1,4 +1,4 @@
-# Thu Dec 31 03:46:46 AM MST 2020
+# Fri Jan  1 03:04:51 PM MST 2021
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -1563,7 +1563,6 @@
 0.0.0.0 aamejtdlmk.com
 0.0.0.0 aamhrnptzw.com
 0.0.0.0 aamsitecertifier.com
-0.0.0.0 aan.amazon.com
 0.0.0.0 aa.ninze.com
 0.0.0.0 aappf.pt
 0.0.0.0 aapsis.com
@@ -3322,6 +3321,7 @@
 0.0.0.0 alleliteads.com
 0.0.0.0 allemodels.com
 0.0.0.0 alleyarm.com
+0.0.0.0 alliedthirteen.com
 0.0.0.0 alllget.com
 0.0.0.0 allluck.cn
 0.0.0.0 allmt.com
@@ -3499,7 +3499,6 @@
 0.0.0.0 analytics.amakings.com
 0.0.0.0 analytics.anvato.net
 0.0.0.0 analytics.apnewsregistry.com
-0.0.0.0 analytics.archive.org
 0.0.0.0 analytics.arz.at
 0.0.0.0 analytics.atomiconline.com
 0.0.0.0 analytics.audioeye.com
@@ -5801,7 +5800,6 @@
 0.0.0.0 browserpusher.com
 0.0.0.0 browserr.top
 0.0.0.0 browser-ru.site
-0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 browsersfeedback.com
 0.0.0.0 browsers.support
 0.0.0.0 browser-statistik.de
@@ -9241,6 +9239,7 @@
 0.0.0.0 dlzjdesign.com
 0.0.0.0 dlzm790g.com
 0.0.0.0 dm0acvguygm9h.cloudfront.net
+0.0.0.0 dm1.ddwk8.cn
 0.0.0.0 dm1.dnpz123.com
 0.0.0.0 dm1.guanwawa.com
 0.0.0.0 dm1.zjydt.com
@@ -9678,7 +9677,6 @@
 0.0.0.0 dw998.com
 0.0.0.0 dw9uc6c6b8nwx.cloudfront.net
 0.0.0.0 dwaceiiywjwcyf.com
-0.0.0.0 dw.cbsi.com
 0.0.0.0 dw.cbsimg.net
 0.0.0.0 dw.cnet.com
 0.0.0.0 dw.com.com
@@ -10563,6 +10561,7 @@
 0.0.0.0 esfivwvnawienn.com
 0.0.0.0 esfrustrides.club
 0.0.0.0 esgvhaspsjg.com
+0.0.0.0 eshncdkjp.com
 0.0.0.0 eshopcomp.com
 0.0.0.0 eshortonempleae.info
 0.0.0.0 eshowever.club
@@ -11947,6 +11946,7 @@
 0.0.0.0 fxbn.fxcd.ru
 0.0.0.0 fxdepo.com
 0.0.0.0 fxfhjs.com
+0.0.0.0 fxfvttu.cn
 0.0.0.0 fxgpbkwu.com
 0.0.0.0 fxhoog.com
 0.0.0.0 fxjs.2541.com
@@ -12342,7 +12342,6 @@
 0.0.0.0 geo.mezr.com
 0.0.0.0 geo.mtvnn.com
 0.0.0.0 geo.nbcsports.com
-0.0.0.0 geo.ngtv.io
 0.0.0.0 geoplugin.net
 0.0.0.0 geopromos.com
 0.0.0.0 geo.q5media.net
@@ -12957,7 +12956,6 @@
 0.0.0.0 greengaming.de
 0.0.0.0 green-griffin-860.appspot.com
 0.0.0.0 greenhouseglobal.cn
-0.0.0.0 green.ingame.de
 0.0.0.0 greenlabelppc.com
 0.0.0.0 greenocktelegraph-gb.greenocktelegraph.co.uk
 0.0.0.0 green-red.com
@@ -13027,6 +13025,7 @@
 0.0.0.0 grumpult.com
 0.0.0.0 grumpyadzen.com
 0.0.0.0 grumrt.com
+0.0.0.0 grupticaje.pro
 0.0.0.0 grursusy.com
 0.0.0.0 grxzcfdcxu.com
 0.0.0.0 grykuutktgaun.com
@@ -13508,7 +13507,6 @@
 0.0.0.0 heima8.com
 0.0.0.0 heirloomouterminus.com
 0.0.0.0 heirloomsupervisemanager.com
-0.0.0.0 heisebanner.geizhals.at
 0.0.0.0 hejingroup.cn
 0.0.0.0 helanpinpai.com
 0.0.0.0 helessenge.club
@@ -14946,7 +14944,6 @@
 0.0.0.0 ipaddresslabs.com
 0.0.0.0 ip-adress.com
 0.0.0.0 ipapi.co
-0.0.0.0 ip-api.com
 0.0.0.0 ipapi.tmbi.com
 0.0.0.0 ipaypay.cn
 0.0.0.0 ipbiydocgvllrg.com
@@ -16199,6 +16196,7 @@
 0.0.0.0 kkkjjskrtsjvx.com
 0.0.0.0 kklzztog.com
 0.0.0.0 kknhirncxal.com
+0.0.0.0 k.kolplay.com
 0.0.0.0 kkqusrnaf.com
 0.0.0.0 kkscoephxrum.com
 0.0.0.0 kkxrizpdh.com
@@ -21401,6 +21399,7 @@
 0.0.0.0 pcmzn.com
 0.0.0.0 pcommaging.site
 0.0.0.0 p-comme-performance.com
+0.0.0.0 pcon.space
 0.0.0.0 pcouis.cn
 0.0.0.0 pcrhfkuwp.com
 0.0.0.0 pcskkmgjnubi.com
@@ -22113,6 +22112,7 @@
 0.0.0.0 portantreadedagree.info
 0.0.0.0 portedlysarcatc.info
 0.0.0.0 portfold.com
+0.0.0.0 portionlilacrig.com
 0.0.0.0 portkingric.net
 0.0.0.0 portlytinytimeout.com
 0.0.0.0 pos68.cn
@@ -22654,6 +22654,7 @@
 0.0.0.0 puls.lv
 0.0.0.0 pumtaimp.com
 0.0.0.0 punctualbuzzerleaflet.com
+0.0.0.0 punkrevealed.com
 0.0.0.0 punosy.com
 0.0.0.0 punpisurn.site
 0.0.0.0 puntoenun.site
@@ -24792,7 +24793,6 @@
 0.0.0.0 scripts.psyma.com
 0.0.0.0 scrubswim.com
 0.0.0.0 scrutchother.club
-0.0.0.0 sc-static.net
 0.0.0.0 scswlgxttvekd.com
 0.0.0.0 scswuliu.com
 0.0.0.0 sctipt.prons.org
@@ -24942,7 +24942,6 @@
 0.0.0.0 seewhy.com
 0.0.0.0 segment.com
 0.0.0.0 segmentify.com
-0.0.0.0 segment.io
 0.0.0.0 segments.adap.tv
 0.0.0.0 segodnia.club
 0.0.0.0 segodnia.space
@@ -26333,7 +26332,6 @@
 0.0.0.0 staticiv.com
 0.0.0.0 static.jiaquyi.com
 0.0.0.0 staticjs.cn
-0.0.0.0 static.parsely.com
 0.0.0.0 static-sb.com
 0.0.0.0 staticsfs.host
 0.0.0.0 static-ssp.yidianzixun.com
@@ -27468,6 +27466,7 @@
 0.0.0.0 tf2www.com
 0.0.0.0 tf.360.cn
 0.0.0.0 tfa5e.top
+0.0.0.0 tfaa2.com
 0.0.0.0 tfatalonepres.top
 0.0.0.0 tfbqvqclg.com
 0.0.0.0 tf-con.com
@@ -30333,6 +30332,7 @@
 0.0.0.0 vxsnk.com
 0.0.0.0 vyagpffxvs.com
 0.0.0.0 vyatdrilrtgeh.com
+0.0.0.0 vyhezucha.pro
 0.0.0.0 vysgpewbyfbiob.com
 0.0.0.0 vyule.com
 0.0.0.0 vyykulowdu.com
@@ -30363,7 +30363,6 @@
 0.0.0.0 w5wm7.cn
 0.0.0.0 w65p.com
 0.0.0.0 w717.com
-0.0.0.0 w88.espn.com
 0.0.0.0 w88.go.com
 0.0.0.0 w9statistics.info
 0.0.0.0 wa11ace.net
@@ -31439,6 +31438,7 @@
 0.0.0.0 xcjy876.com
 0.0.0.0 xclaimwords.net
 0.0.0.0 xclgusxcdjd.com
+0.0.0.0 xclofrfa.com
 0.0.0.0 xc.macd.cn
 0.0.0.0 xcmxsw.com
 0.0.0.0 xc.mydrivers.com
@@ -31970,6 +31970,7 @@
 0.0.0.0 y96e1tnmr2.buzz
 0.0.0.0 yaaqsdteo.com
 0.0.0.0 yaba.org.cn
+0.0.0.0 yabo168.cc
 0.0.0.0 yaboshadi.com
 0.0.0.0 yabuka.com
 0.0.0.0 yachtpreceding.com
@@ -33160,6 +33161,7 @@
 0.0.0.0 zygrlkimddjzd.com
 0.0.0.0 zyiis.net
 0.0.0.0 zyikzhgqzjyvgu.com
+0.0.0.0 zykxjt.com
 0.0.0.0 zylotcosp.com
 0.0.0.0 zymro.com
 0.0.0.0 zypenetwork.com

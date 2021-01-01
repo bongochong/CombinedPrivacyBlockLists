@@ -1,4 +1,4 @@
-# Thu Dec 31 03:46:35 AM MST 2020
+# Fri Jan  1 03:04:38 PM MST 2021
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -2318,7 +2318,6 @@
 0.0.0.0 ad.jp.ap.valuecommerce.com
 0.0.0.0 adjs.net
 0.0.0.0 adjs.ru
-0.0.0.0 adj.st
 0.0.0.0 adjug.com
 0.0.0.0 adjuggler.com
 0.0.0.0 adjuggler.net
@@ -3829,6 +3828,7 @@
 0.0.0.0 allemodels.com
 0.0.0.0 allergiya-na.ru
 0.0.0.0 allibestru.ru
+0.0.0.0 alliedthirteen.com
 0.0.0.0 alli-tcod.com
 0.0.0.0 alllget.com
 0.0.0.0 allluck.cn
@@ -3919,6 +3919,7 @@
 0.0.0.0 amaqvmfd.com
 0.0.0.0 amarceusan.com
 0.0.0.0 amateurcouplewebcam.com
+0.0.0.0 amateurporn.net
 0.0.0.0 amaumomt.com
 0.0.0.0 amavalet.com
 0.0.0.0 amavirgin.pro
@@ -4022,7 +4023,6 @@
 0.0.0.0 analytics.anvato.net
 0.0.0.0 analytics.any.do
 0.0.0.0 analytics-api.a-f.io
-0.0.0.0 analytics.archive.org
 0.0.0.0 analytics.artirix.com
 0.0.0.0 analytics.audioeye.com
 0.0.0.0 analytics.aweber.com
@@ -4315,7 +4315,6 @@
 0.0.0.0 apiads.gg.pl
 0.0.0.0 api.ad.xiaomi.com
 0.0.0.0 apiafubb.com
-0.0.0.0 api.amplitude.com
 0.0.0.0 api-analytics-bootstrap.metaps.com
 0.0.0.0 api-analytics.metaps.com
 0.0.0.0 api.analytics.omgpop.com
@@ -4325,7 +4324,6 @@
 0.0.0.0 api.apptentive.com
 0.0.0.0 api.bitp.it
 0.0.0.0 api.bonusberry.ru
-0.0.0.0 api.branch.io
 0.0.0.0 api.calq.io
 0.0.0.0 api.cazamba.com
 0.0.0.0 apicit.net
@@ -7060,6 +7058,7 @@
 0.0.0.0 catalogdiscovery.com
 0.0.0.0 catastrophetray.com
 0.0.0.0 catchinemuj.club
+0.0.0.0 catchtheclick.com
 0.0.0.0 catchynerves.com
 0.0.0.0 cathaycentury.com
 0.0.0.0 catiligh.ru
@@ -10298,6 +10297,7 @@
 0.0.0.0 dlzjdesign.com
 0.0.0.0 dlzm790g.com
 0.0.0.0 dm0acvguygm9h.cloudfront.net
+0.0.0.0 dm1.ddwk8.cn
 0.0.0.0 dm1.dnpz123.com
 0.0.0.0 dm1.guanwawa.com
 0.0.0.0 dm1.zjydt.com
@@ -11730,6 +11730,7 @@
 0.0.0.0 esfivwvnawienn.com
 0.0.0.0 esfrustrides.club
 0.0.0.0 esgvhaspsjg.com
+0.0.0.0 eshncdkjp.com
 0.0.0.0 eshortonempleae.info
 0.0.0.0 eshowever.club
 0.0.0.0 esidentioncoa.club
@@ -11911,7 +11912,6 @@
 0.0.0.0 events.kaloo.ga
 0.0.0.0 events.kalooga.com
 0.0.0.0 events.lbesecapi.com
-0.0.0.0 events.mapbox.com
 0.0.0.0 events.mediarithmics.com
 0.0.0.0 events.mobile.optimizely.com
 0.0.0.0 events.ocdn.eu
@@ -12456,6 +12456,7 @@
 0.0.0.0 felixflow.com
 0.0.0.0 feljack.com
 0.0.0.0 femininefurrow.com
+0.0.0.0 femvxitrquzretxzdq.info
 0.0.0.0 fenailany.com
 0.0.0.0 fenbengpan.cn
 0.0.0.0 fencemiracle.com
@@ -13253,6 +13254,7 @@
 0.0.0.0 fxdepo.com
 0.0.0.0 fxfahn.com
 0.0.0.0 fxfhjs.com
+0.0.0.0 fxfvttu.cn
 0.0.0.0 fxgpbkwu.com
 0.0.0.0 fxhoog.com
 0.0.0.0 fxjs.2541.com
@@ -14409,6 +14411,7 @@
 0.0.0.0 grumpyadzen.com
 0.0.0.0 grunkav.online
 0.0.0.0 gruponn.com
+0.0.0.0 grupticaje.pro
 0.0.0.0 grursusy.com
 0.0.0.0 grxzcfdcxu.com
 0.0.0.0 grykuutktgaun.com
@@ -16726,6 +16729,7 @@
 0.0.0.0 itpchjbr.com
 0.0.0.0 it-pearl.com
 0.0.0.0 itrackerpro.com
+0.0.0.0 itrght.com
 0.0.0.0 itrigra.ru
 0.0.0.0 itrustzone.site
 0.0.0.0 itrxx.com
@@ -23773,6 +23777,7 @@
 0.0.0.0 pcmzn.com
 0.0.0.0 pcommaging.site
 0.0.0.0 p-comme-performance.com
+0.0.0.0 pcon.space
 0.0.0.0 pcouis.cn
 0.0.0.0 pcrhfkuwp.com
 0.0.0.0 pcskkmgjnubi.com
@@ -24135,6 +24140,7 @@
 0.0.0.0 pinlrzucbjt.com
 0.0.0.0 pinocularoud.site
 0.0.0.0 pinresentag.info
+0.0.0.0 pinwu123.com
 0.0.0.0 pinyoux.com
 0.0.0.0 pion.loveserials.net
 0.0.0.0 piou.kirkir.xyz
@@ -24615,6 +24621,7 @@
 0.0.0.0 portech315.net
 0.0.0.0 portedlysarcatc.info
 0.0.0.0 portfold.com
+0.0.0.0 portionlilacrig.com
 0.0.0.0 portkingric.net
 0.0.0.0 portlytinytimeout.com
 0.0.0.0 pos68.cn
@@ -25254,6 +25261,7 @@
 0.0.0.0 puls.lv
 0.0.0.0 pumtaimp.com
 0.0.0.0 punctualbuzzerleaflet.com
+0.0.0.0 punkrevealed.com
 0.0.0.0 punosy.com
 0.0.0.0 punosy.top
 0.0.0.0 punpisurn.site
@@ -27684,7 +27692,6 @@
 0.0.0.0 scrubswim.com
 0.0.0.0 scrutchother.club
 0.0.0.0 sc.rvtlife.com
-0.0.0.0 sc-static.net
 0.0.0.0 scswlgxttvekd.com
 0.0.0.0 scswuliu.com
 0.0.0.0 sculifinanthools.site
@@ -27850,7 +27857,6 @@
 0.0.0.0 segment-analytics.com
 0.0.0.0 segment.com
 0.0.0.0 segmentify.com
-0.0.0.0 segment.io
 0.0.0.0 segments.adap.tv
 0.0.0.0 sehiba.com
 0.0.0.0 sehtjv.com
@@ -28641,7 +28647,6 @@
 0.0.0.0 smentcirrhoea.club
 0.0.0.0 smetrics.att.com
 0.0.0.0 smetrics.capitalone.com
-0.0.0.0 smetrics.cnn.com
 0.0.0.0 smetrics.marriott.com
 0.0.0.0 smetrics.nfl.com
 0.0.0.0 smetrics.samsung.com
@@ -29409,7 +29414,6 @@
 0.0.0.0 static.jiaquyi.com
 0.0.0.0 staticjs.cn
 0.0.0.0 staticmedia.org
-0.0.0.0 static.parsely.com
 0.0.0.0 static.prototypes.ru
 0.0.0.0 static.selfpuc.com
 0.0.0.0 staticsfs.host
@@ -30641,6 +30645,7 @@
 0.0.0.0 tf2www.com
 0.0.0.0 tf.360.cn
 0.0.0.0 tfa5e.top
+0.0.0.0 tfaa2.com
 0.0.0.0 tfatalonepres.top
 0.0.0.0 tfbqvqclg.com
 0.0.0.0 t-fb-w-sv-bn-7j.ru
@@ -33768,7 +33773,6 @@
 0.0.0.0 w55c.net
 0.0.0.0 w5wm7.cn
 0.0.0.0 w65p.com
-0.0.0.0 w88.espn.com
 0.0.0.0 w88.go.com
 0.0.0.0 w9statistics.info
 0.0.0.0 wa11ace.net
@@ -35571,6 +35575,7 @@
 0.0.0.0 y96e1tnmr2.buzz
 0.0.0.0 yaaqsdteo.com
 0.0.0.0 yaba.org.cn
+0.0.0.0 yabo168.cc
 0.0.0.0 yaboshadi.com
 0.0.0.0 yabuka.com
 0.0.0.0 yachtpreceding.com
@@ -36901,6 +36906,7 @@
 0.0.0.0 zygrlkimddjzd.com
 0.0.0.0 zyiis.net
 0.0.0.0 zyikzhgqzjyvgu.com
+0.0.0.0 zykxjt.com
 0.0.0.0 zylotcosp.com
 0.0.0.0 zymro.com
 0.0.0.0 zypenetwork.com

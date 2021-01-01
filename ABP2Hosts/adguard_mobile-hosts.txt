@@ -1,4 +1,4 @@
-# Thu Dec 31 03:46:22 AM MST 2020
+# Fri Jan  1 03:04:20 PM MST 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -320,7 +320,6 @@
 0.0.0.0 a.algovid.com
 0.0.0.0 aan.amazon-adsystem.com
 0.0.0.0 aan.amazon.co.jp
-0.0.0.0 aan.amazon.com
 0.0.0.0 aan.amazon.co.uk
 0.0.0.0 aan.cdn.speedshiftmedia.com
 0.0.0.0 aan.speedshiftmedia.com
@@ -524,7 +523,6 @@
 0.0.0.0 ad.jetx.info
 0.0.0.0 ad.jiguang.cn
 0.0.0.0 ad.jorte.com
-0.0.0.0 adj.st
 0.0.0.0 adjust.com
 0.0.0.0 adjust.io
 0.0.0.0 adkernel.com
@@ -1489,7 +1487,6 @@
 0.0.0.0 api.airpush.com
 0.0.0.0 api.altamob.com
 0.0.0.0 api.ampiri.com
-0.0.0.0 api.amplitude.com
 0.0.0.0 api.anagog.com
 0.0.0.0 api-analytics-bootstrap.metaps.com
 0.0.0.0 api-analytics.metaps.com
@@ -1522,9 +1519,7 @@
 0.0.0.0 api.beaconstreetservices.com
 0.0.0.0 api.bee7.com
 0.0.0.0 api.bitmango.com
-0.0.0.0 api.bluecore.com
 0.0.0.0 api.bounceexchange.com
-0.0.0.0 api.branch.io
 0.0.0.0 api.brs.intl.miui.com
 0.0.0.0 api.bttrack.com
 0.0.0.0 api.bugfender.com
@@ -1547,7 +1542,6 @@
 0.0.0.0 api.crispadvertising.com
 0.0.0.0 api.crittercism.com
 0.0.0.0 apicssdk.onemt.co
-0.0.0.0 api.cxense.com
 0.0.0.0 api.datadoghq.com
 0.0.0.0 api.data.sentinel.mob.com
 0.0.0.0 api.decibelinsight.net
@@ -1592,7 +1586,6 @@
 0.0.0.0 api.intellimize.co
 0.0.0.0 api.intentiq.com
 0.0.0.0 api.iperceptions.com
-0.0.0.0 api.ipstack.com
 0.0.0.0 api.itv.letv.com
 0.0.0.0 api.ivymobile.com
 0.0.0.0 api.jeeng.com
@@ -1652,7 +1645,6 @@
 0.0.0.0 api.optnmstr.com
 0.0.0.0 api.otherlevels.com
 0.0.0.0 api.parse.com
-0.0.0.0 api.parsely.com
 0.0.0.0 api.pdbarea.com
 0.0.0.0 api.permutive.com
 0.0.0.0 api.personali.com
@@ -1819,7 +1811,6 @@
 0.0.0.0 appad-api-02.perfectcorp.com
 0.0.0.0 app.adapt.io
 0.0.0.0 app-adforce.jp
-0.0.0.0 app.adjust.com
 0.0.0.0 app.adjust.io
 0.0.0.0 app.adroll.com
 0.0.0.0 appads.com
@@ -1828,7 +1819,6 @@
 0.0.0.0 app.appsflyer.com
 0.0.0.0 appbaqend.com
 0.0.0.0 appboy.com
-0.0.0.0 appboy-images.com
 0.0.0.0 app.bugfender.com
 0.0.0.0 app.bugreplay.com
 0.0.0.0 app.cision.com
@@ -2727,7 +2717,6 @@
 0.0.0.0 cdn-api.admost.com
 0.0.0.0 cdn-api.appadhoc.com
 0.0.0.0 cdn.api.fotoable.com
-0.0.0.0 cdn.appdynamics.com
 0.0.0.0 cdnappicons.appsflyer.com
 0.0.0.0 cdn.appmachine.com
 0.0.0.0 cdn.appnext.com
@@ -2763,7 +2752,6 @@
 0.0.0.0 cdn.comedia.coccoc.com
 0.0.0.0 cdn.concert.io
 0.0.0.0 cdn.connatix.com
-0.0.0.0 cdn.consentmanager.mgr.consensu.org
 0.0.0.0 cdn.conversant.mgr.consensu.org
 0.0.0.0 cdn.cpiera.com
 0.0.0.0 cdn-creatives-akamai-prd.unityads.unity3d.com
@@ -2877,7 +2865,6 @@
 0.0.0.0 cdn.pushwoosh.com
 0.0.0.0 cdn-qc.coccoc.com
 0.0.0.0 cdn-resources.prfct.cc
-0.0.0.0 cdn.responsys.net
 0.0.0.0 cdn.revcontent.com
 0.0.0.0 cdn.revjet.com
 0.0.0.0 cdn.rlcdn.com
@@ -2886,9 +2873,7 @@
 0.0.0.0 cdn.sailthru.com
 0.0.0.0 cdns.connatix.com
 0.0.0.0 cdn.sdkconfig.site
-0.0.0.0 cdn.segment.com
 0.0.0.0 cdn.segmentify.com
-0.0.0.0 cdn.segment.io
 0.0.0.0 cdn-settings.segment.com
 0.0.0.0 cdn.siftscience.com
 0.0.0.0 cdn.simpleanalytics.io
@@ -2962,7 +2947,6 @@
 0.0.0.0 certify-amp.alexametrics.com
 0.0.0.0 certify-js.alexametrics.com
 0.0.0.0 c-eus.w.inmobi.com
-0.0.0.0 c.evidon.com
 0.0.0.0 cfa.2mdnsys.com
 0.0.0.0 cf-ads.pinger.com
 0.0.0.0 cf.adxcel.com
@@ -3315,7 +3299,6 @@
 0.0.0.0 consent.adincube.com
 0.0.0.0 consentcdn.cookiebot.com-v1.edgekey.net
 0.0.0.0 consent.cmp.oath.com
-0.0.0.0 consentmanager.mgr.consensu.org
 0.0.0.0 consent.mediaforge.com
 0.0.0.0 console.adtarget.com.tr
 0.0.0.0 consoliads-api.us-west-2.elasticbeanstalk.com
@@ -4570,7 +4553,6 @@
 0.0.0.0 ghkbid.adview.com
 0.0.0.0 gift-connect-d.openx.net
 0.0.0.0 gigamega.su
-0.0.0.0 gigazine.asia
 0.0.0.0 gi-js.genieessp.com
 0.0.0.0 ginf.adfurikun.jp
 0.0.0.0 gionee.analytics.glance.inmobi.com
@@ -6303,7 +6285,6 @@
 0.0.0.0 nexstar.blueconic.net
 0.0.0.0 nextclick.pl
 0.0.0.0 next.lenzmx.com
-0.0.0.0 nexus.ensighten.com
 0.0.0.0 nginx12.iad1.videohub.tv
 0.0.0.0 nginx13.iad1.videohub.tv
 0.0.0.0 nginx14.iad1.videohub.tv
@@ -7274,7 +7255,6 @@
 0.0.0.0 resources.taboola.com
 0.0.0.0 resources-us.yinzcam.com
 0.0.0.0 responsys.hs.llnwd.net
-0.0.0.0 responsys.net
 0.0.0.0 res-push.ad.jiguang.cn
 0.0.0.0 restartad.com
 0.0.0.0 res.tdxio.com
@@ -7572,7 +7552,6 @@
 0.0.0.0 scripts.webcontentassessor.com
 0.0.0.0 script.tapfiliate.com
 0.0.0.0 sc.smardroid.com
-0.0.0.0 sc-static.net
 0.0.0.0 scs.webtrends.com
 0.0.0.0 s.d.adup-tech.com
 0.0.0.0 sdc.cnn.com
@@ -7682,7 +7661,6 @@
 0.0.0.0 sdk.persona.ly
 0.0.0.0 sdk.playtem.com
 0.0.0.0 sdk.popjam.com
-0.0.0.0 sdk.privacy-center.org
 0.0.0.0 sdk.push7.jp
 0.0.0.0 sdk.push.mob.com
 0.0.0.0 sdk.qikify.com
@@ -7775,7 +7753,6 @@
 0.0.0.0 secure-sg.imrworldwide.com
 0.0.0.0 secure-uat2.imrworldwide.com
 0.0.0.0 secure-uk.imrworldwide.com
-0.0.0.0 secure-us.imrworldwide.com
 0.0.0.0 secure-wbw.imrworldwide.com
 0.0.0.0 seeder.igetget.com
 0.0.0.0 s.effectivemeasure.net
@@ -8071,7 +8048,6 @@
 0.0.0.0 smetrics.bestbuy.com
 0.0.0.0 smetrics.boston.com
 0.0.0.0 smetrics.chrysler.com
-0.0.0.0 smetrics.cnn.com
 0.0.0.0 smetrics.cox.com
 0.0.0.0 smetrics.dickssportinggoods.com
 0.0.0.0 smetrics.foxnews.com
@@ -8299,7 +8275,6 @@
 0.0.0.0 static.apester.com
 0.0.0.0 static.aprod.scopely.io
 0.0.0.0 static-cdn.adblade.com
-0.0.0.0 static.cdn.responsys.net
 0.0.0.0 static.chartbeat.com
 0.0.0.0 static.cleverpush.com
 0.0.0.0 static.clevertap.com
@@ -8340,7 +8315,6 @@
 0.0.0.0 static.media.net
 0.0.0.0 static.mgid.com
 0.0.0.0 static.mobilemonkey.com
-0.0.0.0 static.parsely.com
 0.0.0.0 static.par.vip.prod.criteo.net
 0.0.0.0 static.polarcdn.com
 0.0.0.0 static.popads.net
@@ -9198,7 +9172,6 @@
 0.0.0.0 uk-ads.openx.net
 0.0.0.0 uk.advertising.yahoo.com
 0.0.0.0 ul.a.mobimagic.com
-0.0.0.0 ulink.adjust.com
 0.0.0.0 ulink.immomo.com
 0.0.0.0 ulml.mob.com
 0.0.0.0 ulog.ksapisrv.com
