@@ -7,4 +7,4 @@ Within this directory are two hosts files which block all known Windows-related 
 
 Enjoy!  
 
-P.S. Please don't be shy about creating an issue if these lists prevent you from using Windows Update. The only versions of Windows I have regular access to are 7 and 8.1, so that's what I use these lists on, and they don't cause any issues on those installs.
+P.S. Please don't be shy about creating an issue if these lists prevent you from using Windows Update. The only versions of Windows I have regular access to are 7 and 8.1, so that's what I use these lists on, and they don't cause any problems on those installs.
