@@ -1,7 +1,7 @@
 #Anti-Telemetry Hosts for Windows from TYZBIT, CrazyMax and SpyBot Anti-Beacon
 #IPv4 Version
 #Included in default hosts file
-#Last update 12/29/2020
+#Last update 12/31/2020
 
 0.0.0.0 a.ads1.msn.com
 0.0.0.0 a.ads2.msads.net
@@ -81,7 +81,6 @@
 0.0.0.0 by3301-c.1drv.com
 0.0.0.0 by3301-e.1drv.com
 0.0.0.0 c.atdmt.com
-0.0.0.0 c.msn.com
 0.0.0.0 ca.telemetry.microsoft.com
 0.0.0.0 cache.datamart.windows.com
 0.0.0.0 cdn.atdmt.com
@@ -191,7 +190,6 @@
 0.0.0.0 ch3301-g.1drv.com
 0.0.0.0 ch3302-c.1drv.com
 0.0.0.0 ch3302-e.1drv.com
-0.0.0.0 choice.microsoft.com
 0.0.0.0 choice.microsoft.com.nsatc.net
 0.0.0.0 choice.microsoft.com.nstac.net
 0.0.0.0 compatexchange.cloudapp.net
@@ -208,13 +206,11 @@
 0.0.0.0 db5.settings-win.data.microsoft.com.akadns.net
 0.0.0.0 db5.settings.data.microsoft.com.akadns.net
 0.0.0.0 db5.vortex.data.microsoft.com.akadns.net
-0.0.0.0 dev.virtualearth.net
 0.0.0.0 df.telemetry.microsoft.com
 0.0.0.0 diagnostics.support.microsoft.com
 0.0.0.0 eaus2watcab01.blob.core.windows.net
 0.0.0.0 eaus2watcab02.blob.core.windows.net
 0.0.0.0 ec.atdmt.com
-0.0.0.0 ecn.dev.virtualearth.net
 0.0.0.0 eu-v10.events.data.microsoft.com
 0.0.0.0 eu-v20.events.data.microsoft.com
 0.0.0.0 eu.vortex-win.data.microsoft.com
@@ -223,7 +219,6 @@
 0.0.0.0 feedback.search.microsoft.com
 0.0.0.0 feedback.windows.com
 0.0.0.0 flex.msn.com
-0.0.0.0 g.msn.com
 0.0.0.0 geo.settings-win.data.microsoft.com.akadns.net
 0.0.0.0 geo.settings.data.microsoft.com.akadns.net
 0.0.0.0 geo.vortex.data.microsoft.com.akadns.net
@@ -330,14 +325,12 @@
 0.0.0.0 mobile.pipe.aria.microsoft.com
 0.0.0.0 modern.watson.data.microsoft.com.akadns.net
 0.0.0.0 msedge.net
-0.0.0.0 msftncsi.com
 0.0.0.0 msntest.serving-sys.com
 0.0.0.0 nexus.officeapps.live.com
 0.0.0.0 nexusrules.officeapps.live.com
 0.0.0.0 nw-umwatson.events.data.microsoft.com
 0.0.0.0 oca.telemetry.microsoft.com
 0.0.0.0 oca.telemetry.microsoft.com.nsatc.net
-0.0.0.0 onecollector.cloudapp.aria.akadns.net
 0.0.0.0 pre.footprintpredict.com
 0.0.0.0 preview.msn.com
 0.0.0.0 pricelist.skype.com
@@ -345,8 +338,6 @@
 0.0.0.0 rad.msn.com
 0.0.0.0 redir.metaservices.microsoft.com
 0.0.0.0 reports.wes.df.telemetry.microsoft.com
-0.0.0.0 s.gateway.messenger.live.com
-0.0.0.0 s0.2mdn.net
 0.0.0.0 schemas.microsoft.akadns.net
 0.0.0.0 secure.adnxs.com
 0.0.0.0 secure.flashtalking.com
@@ -371,8 +362,6 @@
 0.0.0.0 statsfe1.ws.microsoft.com
 0.0.0.0 statsfe2.update.microsoft.com.akadns.net
 0.0.0.0 survey.watson.microsoft.com
-0.0.0.0 t0.ssl.ak.dynamic.tiles.virtualearth.net
-0.0.0.0 t0.ssl.ak.tiles.virtualearth.net
 0.0.0.0 tele.trafficmanager.net
 0.0.0.0 telecommand.telemetry.microsoft.com
 0.0.0.0 telecommand.telemetry.microsoft.com.nsatc.net
@@ -413,5 +402,4 @@
 0.0.0.0 win1710.ipv6.microsoft.com
 0.0.0.0 win8.ipv6.microsoft.com
 0.0.0.0 www.msedge.net
-0.0.0.0 www.msftncsi.com
 0.0.0.0 ztd.dds.microsoft.com

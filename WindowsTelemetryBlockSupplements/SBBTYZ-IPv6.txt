@@ -1,7 +1,7 @@
 #Anti-Telemetry Hosts for Windows from TYZBIT, CrazyMax and SpyBot Anti-Beacon
 #IPv6 Version
 #Included in default hosts file
-#Last update 12/29/2020
+#Last update 12/31/2020
 
 :: a.ads1.msn.com
 :: a.ads2.msads.net
@@ -81,7 +81,6 @@
 :: by3301-c.1drv.com
 :: by3301-e.1drv.com
 :: c.atdmt.com
-:: c.msn.com
 :: ca.telemetry.microsoft.com
 :: cache.datamart.windows.com
 :: cdn.atdmt.com
@@ -191,7 +190,6 @@
 :: ch3301-g.1drv.com
 :: ch3302-c.1drv.com
 :: ch3302-e.1drv.com
-:: choice.microsoft.com
 :: choice.microsoft.com.nsatc.net
 :: choice.microsoft.com.nstac.net
 :: compatexchange.cloudapp.net
@@ -208,13 +206,11 @@
 :: db5.settings-win.data.microsoft.com.akadns.net
 :: db5.settings.data.microsoft.com.akadns.net
 :: db5.vortex.data.microsoft.com.akadns.net
-:: dev.virtualearth.net
 :: df.telemetry.microsoft.com
 :: diagnostics.support.microsoft.com
 :: eaus2watcab01.blob.core.windows.net
 :: eaus2watcab02.blob.core.windows.net
 :: ec.atdmt.com
-:: ecn.dev.virtualearth.net
 :: eu-v10.events.data.microsoft.com
 :: eu-v20.events.data.microsoft.com
 :: eu.vortex-win.data.microsoft.com
@@ -223,7 +219,6 @@
 :: feedback.search.microsoft.com
 :: feedback.windows.com
 :: flex.msn.com
-:: g.msn.com
 :: geo.settings-win.data.microsoft.com.akadns.net
 :: geo.settings.data.microsoft.com.akadns.net
 :: geo.vortex.data.microsoft.com.akadns.net
@@ -330,14 +325,12 @@
 :: mobile.pipe.aria.microsoft.com
 :: modern.watson.data.microsoft.com.akadns.net
 :: msedge.net
-:: msftncsi.com
 :: msntest.serving-sys.com
 :: nexus.officeapps.live.com
 :: nexusrules.officeapps.live.com
 :: nw-umwatson.events.data.microsoft.com
 :: oca.telemetry.microsoft.com
 :: oca.telemetry.microsoft.com.nsatc.net
-:: onecollector.cloudapp.aria.akadns.net
 :: pre.footprintpredict.com
 :: preview.msn.com
 :: pricelist.skype.com
@@ -345,8 +338,6 @@
 :: rad.msn.com
 :: redir.metaservices.microsoft.com
 :: reports.wes.df.telemetry.microsoft.com
-:: s.gateway.messenger.live.com
-:: s0.2mdn.net
 :: schemas.microsoft.akadns.net
 :: secure.adnxs.com
 :: secure.flashtalking.com
@@ -371,8 +362,6 @@
 :: statsfe1.ws.microsoft.com
 :: statsfe2.update.microsoft.com.akadns.net
 :: survey.watson.microsoft.com
-:: t0.ssl.ak.dynamic.tiles.virtualearth.net
-:: t0.ssl.ak.tiles.virtualearth.net
 :: tele.trafficmanager.net
 :: telecommand.telemetry.microsoft.com
 :: telecommand.telemetry.microsoft.com.nsatc.net
@@ -413,5 +402,4 @@
 :: win1710.ipv6.microsoft.com
 :: win8.ipv6.microsoft.com
 :: www.msedge.net
-:: www.msftncsi.com
 :: ztd.dds.microsoft.com
