@@ -1,4 +1,4 @@
-// **** Thu Dec 31 03:50:38 AM MST 2020
+// **** Fri Jan  1 03:09:07 PM MST 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -756,7 +756,6 @@ shExpMatch(host, '*.adprofits.ru') ||
 shExpMatch(host, '*.ad.profiwin.de') ||
 shExpMatch(host, '*.adprojekt.pl') ||
 shExpMatch(host, '*.ad.prv.pl') ||
-shExpMatch(host, '*.ad.pttcn.net') ||
 shExpMatch(host, '*.adq.nextag.com') ||
 shExpMatch(host, '*.ad.rambler.ru') ||
 shExpMatch(host, '*.adrazzi.com') ||
@@ -3307,7 +3306,6 @@ shExpMatch(host, '*.cdn.freshmarketer.com') ||
 shExpMatch(host, '*.cdn.heapanalytics.com') ||
 shExpMatch(host, '*.cdn.keywee.co') ||
 shExpMatch(host, '*.cdn.onesignal.com') ||
-shExpMatch(host, '*.cdn.segment.com') ||
 shExpMatch(host, '*.cdynwt.com') ||
 shExpMatch(host, '*.ce7.org') ||
 shExpMatch(host, '*.cecash.com') ||
@@ -10494,7 +10492,6 @@ shExpMatch(host, '*.mix-plus.co.kr') ||
 shExpMatch(host, '*.mixtraffic.com') ||
 shExpMatch(host, '*.mj-ive.com') ||
 shExpMatch(host, '*.mjw.or.kr') ||
-shExpMatch(host, '*.mjxads.internet.com') ||
 shExpMatch(host, '*.mjzssc.cn') ||
 shExpMatch(host, '*.mkto-ab410147.com') ||
 shExpMatch(host, '*.mktoresp.com') ||
@@ -13103,7 +13100,6 @@ shExpMatch(host, '*.scriptslimit.info') ||
 shExpMatch(host, '*.scrpng.eu') ||
 shExpMatch(host, '*.scrubswim.com') ||
 shExpMatch(host, '*.scuolaartedanza.net') ||
-shExpMatch(host, '*.sdcswingers.online') ||
 shExpMatch(host, '*.sdhzth.com') ||
 shExpMatch(host, '*.sdkangjie.com') ||
 shExpMatch(host, '*.sdkfjxjertertry.com') ||
@@ -14308,7 +14304,6 @@ shExpMatch(host, '*.tagdol.dothome.co.kr') ||
 shExpMatch(host, '*.taged.ru') ||
 shExpMatch(host, '*.tagger.opecloud.com') ||
 shExpMatch(host, '*.tag.links-analytics.com') ||
-shExpMatch(host, '*.tags.tiqcdn.com') ||
 shExpMatch(host, '*.tagular.com') ||
 shExpMatch(host, '*.tahfifak.ru') ||
 shExpMatch(host, '*.taihehao.net') ||
@@ -17348,7 +17343,6 @@ shExpMatch(host, 'adprofits.ru') ||
 shExpMatch(host, 'ad.profiwin.de') ||
 shExpMatch(host, 'adprojekt.pl') ||
 shExpMatch(host, 'ad.prv.pl') ||
-shExpMatch(host, 'ad.pttcn.net') ||
 shExpMatch(host, 'adq.nextag.com') ||
 shExpMatch(host, 'ad.rambler.ru') ||
 shExpMatch(host, 'adrazzi.com') ||
@@ -19899,7 +19893,6 @@ shExpMatch(host, 'cdn.freshmarketer.com') ||
 shExpMatch(host, 'cdn.heapanalytics.com') ||
 shExpMatch(host, 'cdn.keywee.co') ||
 shExpMatch(host, 'cdn.onesignal.com') ||
-shExpMatch(host, 'cdn.segment.com') ||
 shExpMatch(host, 'cdynwt.com') ||
 shExpMatch(host, 'ce7.org') ||
 shExpMatch(host, 'cecash.com') ||
@@ -27086,7 +27079,6 @@ shExpMatch(host, 'mix-plus.co.kr') ||
 shExpMatch(host, 'mixtraffic.com') ||
 shExpMatch(host, 'mj-ive.com') ||
 shExpMatch(host, 'mjw.or.kr') ||
-shExpMatch(host, 'mjxads.internet.com') ||
 shExpMatch(host, 'mjzssc.cn') ||
 shExpMatch(host, 'mkto-ab410147.com') ||
 shExpMatch(host, 'mktoresp.com') ||
@@ -29695,7 +29687,6 @@ shExpMatch(host, 'scriptslimit.info') ||
 shExpMatch(host, 'scrpng.eu') ||
 shExpMatch(host, 'scrubswim.com') ||
 shExpMatch(host, 'scuolaartedanza.net') ||
-shExpMatch(host, 'sdcswingers.online') ||
 shExpMatch(host, 'sdhzth.com') ||
 shExpMatch(host, 'sdkangjie.com') ||
 shExpMatch(host, 'sdkfjxjertertry.com') ||
@@ -30900,7 +30891,6 @@ shExpMatch(host, 'tagdol.dothome.co.kr') ||
 shExpMatch(host, 'taged.ru') ||
 shExpMatch(host, 'tagger.opecloud.com') ||
 shExpMatch(host, 'tag.links-analytics.com') ||
-shExpMatch(host, 'tags.tiqcdn.com') ||
 shExpMatch(host, 'tagular.com') ||
 shExpMatch(host, 'tahfifak.ru') ||
 shExpMatch(host, 'taihehao.net') ||
