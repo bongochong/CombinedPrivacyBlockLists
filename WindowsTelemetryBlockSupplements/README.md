@@ -7,4 +7,6 @@ Within this directory are two hosts files which block all known Windows-related 
 
 Enjoy!  
 
-P.S. Please don't be shy about creating an issue if these lists prevent you from using Windows Update. The only versions of Windows I have regular access to are 7 and 8.1, so that's what I use these lists on, and they don't cause any problems on those installs.
+P.S. I now keep a list of domains which are potentially involved in Windows telemetry, but have not been included in the default lists (as they can interfere with Windows Update). It can be viewed by [clicking this link](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/WindowsTelemetryBlockSupplements/PPD-AWT.txt).
+
+P.P.S. Please don't be shy about creating an issue if these lists prevent you from using Windows Update. The only versions of Windows I have regular access to are 7 and 8.1, so that's what I use these lists on, and they don't cause any problems on those installs.

@@ -1,0 +1,13 @@
+#Potentially Problematic Microsoft Telemetry Domains
+#Not included by default in other lists, as they can interfere with Windows Update
+
+c.msn.com
+choice.microsoft.com
+dev.virtualearth.net
+ecn.dev.virtualearth.net
+g.msn.com
+msftncsi.com
+onecollector.cloudapp.aria.akadns.net
+s.gateway.messenger.live.com
+s0.2mdn.net
+www.msftncsi.com
