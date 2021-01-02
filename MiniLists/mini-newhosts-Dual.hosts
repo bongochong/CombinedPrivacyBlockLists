@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 # This work is licensed under the CPAL-1.0
 # See: http://shorl.com/vebrubefrubiti
 #
-# ~- Fri Jan  1 06:07:49 PM MST 2021 -~
+# ~- Fri Jan  1 06:53:12 PM MST 2021 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -10303,6 +10303,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 assetscdn.jivox.com
 0.0.0.0 assets.connatix.com
 0.0.0.0 assets.customer.io
+0.0.0.0 assets-demo.publicgood.com
 0.0.0.0 assets.deployads.com
 0.0.0.0 assets.dwell.com
 0.0.0.0 assets.gunosy.com
@@ -10320,6 +10321,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 assets.privy.com
 0.0.0.0 assets.prod.leanplum.com
 0.0.0.0 assets-production.applicaster.com
+0.0.0.0 assets.publicgood.com
 0.0.0.0 assets.purch.com
 0.0.0.0 assets.quantcount.com
 0.0.0.0 assets.revcontent.com
@@ -10327,6 +10329,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 assets-secure.applicaster.com
 0.0.0.0 assets.soom.la
 0.0.0.0 assets.spotify.com
+0.0.0.0 assets-staging.publicgood.com
 0.0.0.0 assets.taboola.com
 0.0.0.0 assets.tapad.com
 0.0.0.0 assets.unbounce.com
@@ -51530,6 +51533,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 static.popads.net
 0.0.0.0 static.proximic.com
 0.0.0.0 static.pubdirecte.com
+0.0.0.0 static.publicgood.com
 0.0.0.0 static.quantcast.mgr.consensu.org
 0.0.0.0 static.quantcount.com
 0.0.0.0 static.realsrv.com
@@ -61082,6 +61086,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 wwwpromoter.com
 0.0.0.0 www-protection.com
 0.0.0.0 www.pubdirecte.com
+0.0.0.0 www.publicgood.com
 0.0.0.0 www.pulsix.com
 0.0.0.0 www.pureadexchange.com
 0.0.0.0 www.qbop.com
@@ -74090,6 +74095,7 @@ ff02::2 ip6-allrouters
 :: assetscdn.jivox.com
 :: assets.connatix.com
 :: assets.customer.io
+:: assets-demo.publicgood.com
 :: assets.deployads.com
 :: assets.dwell.com
 :: assets.gunosy.com
@@ -74107,6 +74113,7 @@ ff02::2 ip6-allrouters
 :: assets.privy.com
 :: assets.prod.leanplum.com
 :: assets-production.applicaster.com
+:: assets.publicgood.com
 :: assets.purch.com
 :: assets.quantcount.com
 :: assets.revcontent.com
@@ -74114,6 +74121,7 @@ ff02::2 ip6-allrouters
 :: assets-secure.applicaster.com
 :: assets.soom.la
 :: assets.spotify.com
+:: assets-staging.publicgood.com
 :: assets.taboola.com
 :: assets.tapad.com
 :: assets.unbounce.com
@@ -115317,6 +115325,7 @@ ff02::2 ip6-allrouters
 :: static.popads.net
 :: static.proximic.com
 :: static.pubdirecte.com
+:: static.publicgood.com
 :: static.quantcast.mgr.consensu.org
 :: static.quantcount.com
 :: static.realsrv.com
@@ -124869,6 +124878,7 @@ ff02::2 ip6-allrouters
 :: wwwpromoter.com
 :: www-protection.com
 :: www.pubdirecte.com
+:: www.publicgood.com
 :: www.pulsix.com
 :: www.pureadexchange.com
 :: www.qbop.com
