@@ -18,7 +18,7 @@
 # This work is licensed under the CPAL-1.0
 # See: http://shorl.com/vebrubefrubiti
 #
-# ~- Fri Jan  1 06:04:52 PM MST 2021 -~
+# ~- Fri Jan  1 06:49:55 PM MST 2021 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -12199,6 +12199,7 @@
 0.0.0.0 assetscdn.jivox.com
 0.0.0.0 assets.connatix.com
 0.0.0.0 assets.customer.io
+0.0.0.0 assets-demo.publicgood.com
 0.0.0.0 assets.deployads.com
 0.0.0.0 assets.dwell.com
 0.0.0.0 assets.gunosy.com
@@ -12217,6 +12218,7 @@
 0.0.0.0 assets.privy.com
 0.0.0.0 assets.prod.leanplum.com
 0.0.0.0 assets-production.applicaster.com
+0.0.0.0 assets.publicgood.com
 0.0.0.0 assets.purch.com
 0.0.0.0 assets.quantcount.com
 0.0.0.0 assets.revcontent.com
@@ -12224,6 +12226,7 @@
 0.0.0.0 assets-secure.applicaster.com
 0.0.0.0 assets.soom.la
 0.0.0.0 assets.spotify.com
+0.0.0.0 assets-staging.publicgood.com
 0.0.0.0 assets.taboola.com
 0.0.0.0 assets.tapad.com
 0.0.0.0 assets.unbounce.com
@@ -68555,6 +68558,7 @@
 0.0.0.0 static.prototypes.ru
 0.0.0.0 static.proximic.com
 0.0.0.0 static.pubdirecte.com
+0.0.0.0 static.publicgood.com
 0.0.0.0 static.quantcast.mgr.consensu.org
 0.0.0.0 static.quantcount.com
 0.0.0.0 static.realsrv.com
@@ -81232,6 +81236,7 @@
 0.0.0.0 wwwpromoter.com
 0.0.0.0 www-protection.com
 0.0.0.0 www.pubdirecte.com
+0.0.0.0 www.publicgood.com
 0.0.0.0 www.pulsix.com
 0.0.0.0 www.pureadexchange.com
 0.0.0.0 www.qbop.com

@@ -12164,6 +12164,7 @@ assets.buysellads.com
 assetscdn.jivox.com
 assets.connatix.com
 assets.customer.io
+assets-demo.publicgood.com
 assets.deployads.com
 assets.dwell.com
 assets.gunosy.com
@@ -12182,6 +12183,7 @@ assets.popmarker.com
 assets.privy.com
 assets.prod.leanplum.com
 assets-production.applicaster.com
+assets.publicgood.com
 assets.purch.com
 assets.quantcount.com
 assets.revcontent.com
@@ -12189,6 +12191,7 @@ assets.rubiconproject.com
 assets-secure.applicaster.com
 assets.soom.la
 assets.spotify.com
+assets-staging.publicgood.com
 assets.taboola.com
 assets.tapad.com
 assets.unbounce.com
@@ -68520,6 +68523,7 @@ static.popads.net
 static.prototypes.ru
 static.proximic.com
 static.pubdirecte.com
+static.publicgood.com
 static.quantcast.mgr.consensu.org
 static.quantcount.com
 static.realsrv.com
@@ -81197,6 +81201,7 @@ www.promo.com.au
 wwwpromoter.com
 www-protection.com
 www.pubdirecte.com
+www.publicgood.com
 www.pulsix.com
 www.pureadexchange.com
 www.qbop.com
