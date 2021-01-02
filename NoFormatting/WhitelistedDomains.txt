@@ -1,3 +1,6 @@
+#These domains are excluded from all of my standard lists
+#Everything in this list has been carefully selected
+#I will not add just any domain to this list
 0.client-channel.google.com
 2.android.pool.ntp.org
 2mdn.net
