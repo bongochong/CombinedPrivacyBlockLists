@@ -2046,10 +2046,13 @@
 0.0.0.0 as.se.impact-ad.jp
 0.0.0.0 asset.adserver.vrizead.com
 0.0.0.0 assets.applovin.com
+0.0.0.0 assets-demo.publicgood.com
 0.0.0.0 assets.gunosy.com
 0.0.0.0 assets.micpn.com
 0.0.0.0 assets.nvidiagrid.net
+0.0.0.0 assets.publicgood.com
 0.0.0.0 assets.spotify.com
+0.0.0.0 assets-staging.publicgood.com
 0.0.0.0 associatedbnking.com
 0.0.0.0 associatedcontent.112.2o7.net
 0.0.0.0 associate.microad.jp
@@ -8136,6 +8139,7 @@
 0.0.0.0 public.adgger.jp
 0.0.0.0 public.astrsk.net
 0.0.0.0 public.fam-8.com
+0.0.0.0 publicgood.com
 0.0.0.0 pubmatic.com
 0.0.0.0 puffyloss.com
 0.0.0.0 puffypull.com
@@ -9353,6 +9357,7 @@
 0.0.0.0 static.doubleclick.net
 0.0.0.0 static.farakav.com
 0.0.0.0 static.newsmaxfeednetwork.com
+0.0.0.0 static.publicgood.com
 0.0.0.0 static.realsrv.com
 0.0.0.0 staticsfs.host
 0.0.0.0 static.share-videos.se
