@@ -825,6 +825,7 @@
 0.0.0.0 ad.ad-arata.com
 0.0.0.0 adad.ir
 0.0.0.0 ad.adlantis.jp
+0.0.0.0 ad-admin.vnay.vn
 0.0.0.0 ad.adnow.com
 0.0.0.0 ad.adpon.jp
 0.0.0.0 ad.adresult.jp
@@ -12411,7 +12412,7 @@
 0.0.0.0 x9.shinobi.jp
 0.0.0.0 xa.shinobi.jp
 0.0.0.0 xbasfbno.info
-0.0.0.0 xcnnuxfd.lmyiwaakn.com0.0.0.0 ad-admin.vnay.vn
+0.0.0.0 xcnnuxfd.lmyiwaakn.com
 0.0.0.0 xdzzt.cn
 0.0.0.0 xeyaz.biz
 0.0.0.0 xfxf.ddns.net
