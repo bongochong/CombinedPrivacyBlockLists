@@ -1080,6 +1080,7 @@
 0.0.0.0 adrakwalichae.com
 0.0.0.0 adrcf.com
 0.0.0.0 ad-repack.ddns.net
+0.0.0.0 ad-resources.brandcdn.com
 0.0.0.0 ad.response.jp
 0.0.0.0 adresult.jp
 0.0.0.0 adresult-sp.jp
@@ -1113,6 +1114,7 @@
 0.0.0.0 ads.api.vungle.com
 0.0.0.0 ads.asr24.com
 0.0.0.0 ads.bizhut.com
+0.0.0.0 ads.brandcdn.com
 0.0.0.0 ads.brave.software
 0.0.0.0 ads.bravesoftware.com
 0.0.0.0 ads-br.spotify.com
@@ -2576,6 +2578,7 @@
 0.0.0.0 bpsservices.org
 0.0.0.0 bpswired.com
 0.0.0.0 braincarney.hopto.org
+0.0.0.0 brandads.net
 0.0.0.0 brandcopy2016.com
 0.0.0.0 brandedcorner.com
 0.0.0.0 brandheya.com
@@ -5555,6 +5558,7 @@
 0.0.0.0 insidesalesinc.com
 0.0.0.0 insight.adsrvr.org
 0.0.0.0 insightenterprises.tt.omtrdc.net
+0.0.0.0 insight-event.brandcdn.com
 0.0.0.0 insnw.net
 0.0.0.0 instadia.112.2o7.net
 0.0.0.0 installer.betterinstaller.com
@@ -10647,6 +10651,7 @@
 0.0.0.0 www.ac.auone-net.jp
 0.0.0.0 www.achutamanasa.com
 0.0.0.0 www.adcash.com
+0.0.0.0 www.adchoice.com
 0.0.0.0 www.ad-click.biz
 0.0.0.0 www.adgger.jp
 0.0.0.0 www.adiode.com
@@ -10684,6 +10689,8 @@
 0.0.0.0 www.bidwincash.com
 0.0.0.0 www.blockchained.party
 0.0.0.0 www.bmsystem.ro
+0.0.0.0 www.brandads.net
+0.0.0.0 www.brandcdn.com
 0.0.0.0 www.buzzimpress.jp
 0.0.0.0 www.chartbeat.com
 0.0.0.0 www.clicksgear.com
