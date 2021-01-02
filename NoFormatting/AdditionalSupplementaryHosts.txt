@@ -3671,6 +3671,7 @@
 0.0.0.0 ddtupdate4.top
 0.0.0.0 ddy7itsuemb9i.cloudfront.net
 0.0.0.0 de1.eu.nimiqpool.com
+0.0.0.0 de9a11s35xj3d.cloudfront.net
 0.0.0.0 deadnig.ga
 0.0.0.0 deadpantruck.com
 0.0.0.0 deadrick-812.tk
@@ -7627,6 +7628,7 @@
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pagead3.googlesyndication.com
 0.0.0.0 pagead46.l.doubleclick.net
+0.0.0.0 pagead.googleadservices.com
 0.0.0.0 pagead-googlehosted.l.google.com
 0.0.0.0 pagead.googlesyndication.com
 0.0.0.0 pagead.l.doubleclick.net

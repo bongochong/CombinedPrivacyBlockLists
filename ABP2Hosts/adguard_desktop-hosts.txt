@@ -1,4 +1,4 @@
-# Fri Jan  1 03:04:38 PM MST 2021
+# Fri Jan  1 05:12:05 PM MST 2021
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -6018,7 +6018,6 @@
 0.0.0.0 bittads.com
 0.0.0.0 bitterbear.com
 0.0.0.0 bitterstrawberry.com
-0.0.0.0 bitterstrawberry.org
 0.0.0.0 bittraffic.io
 0.0.0.0 bitvertise.io
 0.0.0.0 bitx.tv
@@ -6372,7 +6371,6 @@
 0.0.0.0 boubeeth.com
 0.0.0.0 boudja.com
 0.0.0.0 boudougu.com
-0.0.0.0 bouermes.be
 0.0.0.0 bouillerines.site
 0.0.0.0 bouillerines.website
 0.0.0.0 bounce-ads.de

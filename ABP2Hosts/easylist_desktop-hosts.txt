@@ -1,4 +1,4 @@
-# Fri Jan  1 03:04:51 PM MST 2021
+# Fri Jan  1 05:12:18 PM MST 2021
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -4841,6 +4841,7 @@
 0.0.0.0 bd1.szhk.com
 0.0.0.0 bd1.xiby.cn
 0.0.0.0 bd1.yidu.cc
+0.0.0.0 bd202457b.com
 0.0.0.0 bd2fbnfg.com
 0.0.0.0 bd3.chuiyue.com
 0.0.0.0 bd888.qizuang.com
@@ -4972,6 +4973,7 @@
 0.0.0.0 beatpreservelost.com
 0.0.0.0 beatriceeatr.com
 0.0.0.0 beaverads.com
+0.0.0.0 beavertron.com
 0.0.0.0 bebadu.com
 0.0.0.0 bebelait.com
 0.0.0.0 bebi.com
@@ -5095,8 +5097,11 @@
 0.0.0.0 bestcontentfee.top
 0.0.0.0 bestcontentfood.top
 0.0.0.0 bestcontenthost.com
+0.0.0.0 bestcontentjob.top
 0.0.0.0 bestcontentoperation.top
+0.0.0.0 bestcontentservice.top
 0.0.0.0 bestcontentsoftware.top
+0.0.0.0 bestcontentuse.top
 0.0.0.0 bestcpmnetwork.com
 0.0.0.0 bestdeals.ws
 0.0.0.0 bestdisplaycontent.com
@@ -5118,6 +5123,7 @@
 0.0.0.0 bestquickcontentfiles.com
 0.0.0.0 bestrevenuenetwork.com
 0.0.0.0 bestsecurepractice.com
+0.0.0.0 bestssn.com
 0.0.0.0 beststbuy.ru
 0.0.0.0 best-top.de
 0.0.0.0 best-top.ro
@@ -5181,6 +5187,7 @@
 0.0.0.0 bgkxbknajdn.com
 0.0.0.0 bglnzzsgigbto.com
 0.0.0.0 bglog.bitauto.com
+0.0.0.0 bgmtracker.com
 0.0.0.0 bgn2zqlce1eiya.icu
 0.0.0.0 bgpng.me
 0.0.0.0 bgqddlvq.com
@@ -5297,6 +5304,7 @@
 0.0.0.0 biochempop.com
 0.0.0.0 bio-lifehealth.com
 0.0.0.0 bionicclick.com
+0.0.0.0 biosda.com
 0.0.0.0 bipwrite.com
 0.0.0.0 biquge22.com
 0.0.0.0 birdmedia.com
@@ -5593,6 +5601,7 @@
 0.0.0.0 bodyfairesra.club
 0.0.0.0 bodyfit-muscles.ru
 0.0.0.0 boerilav.com
+0.0.0.0 boffinsoft.com
 0.0.0.0 boffoadsfeeds.com
 0.0.0.0 bogads.com
 0.0.0.0 bogglecool.club
@@ -5601,6 +5610,7 @@
 0.0.0.0 bohowhepsandked.info
 0.0.0.0 bohuaqiche.com
 0.0.0.0 boilingbeetle.com
+0.0.0.0 boinkcash.com
 0.0.0.0 bokilora.com
 0.0.0.0 bokrelri.com
 0.0.0.0 bolahepelm.com
@@ -5641,6 +5651,7 @@
 0.0.0.0 boostads.net
 0.0.0.0 boostclic.com
 0.0.0.0 boostshow.com
+0.0.0.0 bootstrap-framework.org
 0.0.0.0 bootstrap-js.com
 0.0.0.0 bootstraplugin.com
 0.0.0.0 bopbes.cn
@@ -5693,6 +5704,7 @@
 0.0.0.0 bozhixiang.top
 0.0.0.0 bpdffh.cn
 0.0.0.0 bpmonline.com
+0.0.0.0 bposterss.net
 0.0.0.0 bpplltxabaayhm.com
 0.0.0.0 bppzqphtd.com
 0.0.0.0 bpsxhmtotf.com
@@ -5808,6 +5820,7 @@
 0.0.0.0 browserutility1.net
 0.0.0.0 browsiprod.com
 0.0.0.0 browsobsolete.com
+0.0.0.0 brqvld0p.com
 0.0.0.0 br.realitykings.com
 0.0.0.0 br.rk.com
 0.0.0.0 brrqeprqsrvrt.com
@@ -5914,6 +5927,7 @@
 0.0.0.0 bullionyield.com
 0.0.0.0 bulovuni.pro
 0.0.0.0 bultigho.net
+0.0.0.0 bumblecash.com
 0.0.0.0 bumlam.com
 0.0.0.0 bumq.com
 0.0.0.0 bunchbox.co
@@ -6015,6 +6029,7 @@
 0.0.0.0 bx9000.top
 0.0.0.0 bxaddbia.com
 0.0.0.0 bxczchdxynw.com
+0.0.0.0 bxgjpocfz1g1jiwb.pro
 0.0.0.0 bxgmb.com
 0.0.0.0 bxgnnzwagkxur.com
 0.0.0.0 bxgz.cc
@@ -17373,6 +17388,7 @@
 0.0.0.0 log.outbrain.com
 0.0.0.0 log.outbrainimg.com
 0.0.0.0 log.pinterest.com
+0.0.0.0 log.plinga.de
 0.0.0.0 log.popin.cc
 0.0.0.0 log.prezi.com
 0.0.0.0 logql.yahoo.co.jp
