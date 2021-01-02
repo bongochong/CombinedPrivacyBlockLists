@@ -9,7 +9,7 @@ Within this directory are the following items:
 
 - Two very small lists which assist in blocking tracking servers associated with Device9 in my main hosts files ([1](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/Device9domains-IPv4.txt), [2](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/Device9domains-IPv6.txt)).  
 
-- [The whitelist](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/WhitelistedDomains.txt) for my hosts and PAC files.  
+- [The whitelist](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/WhitelistedDomains.txt) for my hosts and PAC files. I want to be very clear about my whitelisting policy, which is simply that privacy will always be the top priority. I definitely do add entries to the whitelist which should prevent issues for most people on most devices, and I'm certainly not opposed to adding more, but will only do so after careful consideration and research.  
 
 - A plain list of [the domains blocked by my main hosts files](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/BlacklistedDomains.txt).  
 
@@ -19,6 +19,8 @@ Within this directory are the following items:
 
 - The PGL Yoyo Ad-Blocking Hosts file, converted to plain [CIDR Format](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/pgl-yoyo-hosts.cidr), and CIDR format [with `deny from` prepended to each line](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/pgl-yoyo-hosts-deny.cidr).
 
-- Finally, the [plain version of my CIDR-format block list](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/combined-flat.cidr) is also available in this subdirectory.  
+- The [plain version of my CIDR-format block list](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/combined-flat.cidr) is also available in this subdirectory.  
+
+- Finally, an ABP / uBO filter list which is [solely the cosmetic filters](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/cpbl-abp-cosmetic-only.txt) from my main ABP / uBO lists.
 
 File names in here are basically self-explanatory, and I'm well aware at this point, that this directory should be named *AdditionalContent* or something of the sort, but it is what it is.
