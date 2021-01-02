@@ -1,4 +1,4 @@
-# Fri Jan  1 06:42:38 PM MST 2021
+# Fri Jan  1 07:35:06 PM MST 2021
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
