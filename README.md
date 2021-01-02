@@ -3,7 +3,8 @@ Ad & malware-blocking hosts files, IP block lists, PAC filters, and ABP / uBO su
 
 <p align="center"><img src="https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/CPBL-Clacks.gif" alt="GNU Terry Pratchett | Carpentry Get Truth | A.M.K."></p>
 These lists block malicious and harmfully deceptive content, like advertising, tracking, telemetry, scam, and malware servers. These lists **do not** block porn, social media, or so-called "fake news" domains, except for the advertising, tracking, telemetry, scam, and malware servers associated with such sites. False positives are [rigorously removed](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/WhitelistedDomains.txt) from all lists upon discovery, and the hosts files are processed by an IDN-to-Punycode conversion routine (meaning that they can be utilized on *all* operating systems). In short, all of these block lists are comprehensive and universally compatible, while remaining reasonable in size and scope.  
-  
+
+
 Updates to the lists usually occur on a weekly basis, and sometimes more frequently. If there is a wave of rapid updates in a single day, this often means that there are significant improvements under way. Please consider [donating to the project](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/DONATE.md) if you find it useful. It should also be noted that my lists are not *just* relevant to those living in English-speaking countries, as I make efforts to block a good amount of malicious "international" content as well. Additionally, I would like to point out that I manually go over all updates with a diff utility, before making final commits (as I rely on this data myself).  
 
 **Descriptions**
