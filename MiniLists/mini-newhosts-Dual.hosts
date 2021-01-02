@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 # This work is licensed under the CPAL-1.0
 # See: http://shorl.com/vebrubefrubiti
 #
-# ~- Fri Jan  1 05:20:19 PM MST 2021 -~
+# ~- Fri Jan  1 06:07:49 PM MST 2021 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -4790,6 +4790,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adres21.ru
 0.0.0.0 adresellers.com
 0.0.0.0 adres.internet.com
+0.0.0.0 ad-resources.brandcdn.com
 0.0.0.0 ad.response.jp
 0.0.0.0 adresult.jp
 0.0.0.0 adresult-sp.jp
@@ -5118,6 +5119,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.boylesports.com
 0.0.0.0 ads.brabys.com
 0.0.0.0 ads.brain.pk
+0.0.0.0 ads.brandcdn.com
 0.0.0.0 ads.brand.net
 0.0.0.0 ads-brand-postback.unityads.unity3d.com
 0.0.0.0 ads.brave.software
@@ -30474,6 +30476,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 insight.adsrvr.org
 0.0.0.0 insightenterprises.tt.omtrdc.net
 0.0.0.0 insightera.com
+0.0.0.0 insight-event.brandcdn.com
 0.0.0.0 insightexpressai.com
 0.0.0.0 insightexpressai.com.edgekey.net
 0.0.0.0 insightexpress.com
@@ -60434,6 +60437,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.adbuka.com
 0.0.0.0 www.adcash.com
 0.0.0.0 www.adchimp.com
+0.0.0.0 www.adchoice.com
 0.0.0.0 www.ad-click.biz
 0.0.0.0 wwwadcntr.com
 0.0.0.0 www.adcode.ws
@@ -60594,6 +60598,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.bnhtml.com
 0.0.0.0 www.bnmq.com
 0.0.0.0 www.brainfox.com
+0.0.0.0 www.brandads.net
+0.0.0.0 www.brandcdn.com
 0.0.0.0 www.bravospots.com
 0.0.0.0 www.broadspring.com
 0.0.0.0 www.bt.emsecure.net
@@ -68571,6 +68577,7 @@ ff02::2 ip6-allrouters
 :: adres21.ru
 :: adresellers.com
 :: adres.internet.com
+:: ad-resources.brandcdn.com
 :: ad.response.jp
 :: adresult.jp
 :: adresult-sp.jp
@@ -68899,6 +68906,7 @@ ff02::2 ip6-allrouters
 :: ads.boylesports.com
 :: ads.brabys.com
 :: ads.brain.pk
+:: ads.brandcdn.com
 :: ads.brand.net
 :: ads-brand-postback.unityads.unity3d.com
 :: ads.brave.software
@@ -94255,6 +94263,7 @@ ff02::2 ip6-allrouters
 :: insight.adsrvr.org
 :: insightenterprises.tt.omtrdc.net
 :: insightera.com
+:: insight-event.brandcdn.com
 :: insightexpressai.com
 :: insightexpressai.com.edgekey.net
 :: insightexpress.com
@@ -124215,6 +124224,7 @@ ff02::2 ip6-allrouters
 :: www.adbuka.com
 :: www.adcash.com
 :: www.adchimp.com
+:: www.adchoice.com
 :: www.ad-click.biz
 :: wwwadcntr.com
 :: www.adcode.ws
@@ -124375,6 +124385,8 @@ ff02::2 ip6-allrouters
 :: www.bnhtml.com
 :: www.bnmq.com
 :: www.brainfox.com
+:: www.brandads.net
+:: www.brandcdn.com
 :: www.bravospots.com
 :: www.broadspring.com
 :: www.bt.emsecure.net

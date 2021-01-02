@@ -4755,6 +4755,7 @@ adreq.vivo.com.cn
 adres21.ru
 adresellers.com
 adres.internet.com
+ad-resources.brandcdn.com
 ad.response.jp
 adresult.jp
 adresult-sp.jp
@@ -5083,6 +5084,7 @@ adsbox.detik.com
 ads.boylesports.com
 ads.brabys.com
 ads.brain.pk
+ads.brandcdn.com
 ads.brand.net
 ads-brand-postback.unityads.unity3d.com
 ads.brave.software
@@ -30439,6 +30441,7 @@ insight-1616140656.us-west-2.elb.amazonaws.com
 insight.adsrvr.org
 insightenterprises.tt.omtrdc.net
 insightera.com
+insight-event.brandcdn.com
 insightexpressai.com
 insightexpressai.com.edgekey.net
 insightexpress.com
@@ -60399,6 +60402,7 @@ www.adbooth.com
 www.adbuka.com
 www.adcash.com
 www.adchimp.com
+www.adchoice.com
 www.ad-click.biz
 wwwadcntr.com
 www.adcode.ws
@@ -60559,6 +60563,8 @@ www.bmsystem.ro
 www.bnhtml.com
 www.bnmq.com
 www.brainfox.com
+www.brandads.net
+www.brandcdn.com
 www.bravospots.com
 www.broadspring.com
 www.bt.emsecure.net
