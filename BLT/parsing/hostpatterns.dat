@@ -227,7 +227,6 @@ localhost$
 ^0.0.0.0 dropboxpartners.com$
 ^0.0.0.0 dropboxstatic.com$
 ^0.0.0.0 dshield.org$
-^0.0.0.0 dsms0mj1bbhn4.cloudfront.net$
 ^0.0.0.0 duckdns.org$
 ^0.0.0.0 duo.nl$
 ^0.0.0.0 dw.cbsi.com$
@@ -406,7 +405,6 @@ localhost$
 ^0.0.0.0 privacy-center.org$
 ^0.0.0.0 pro.fontawesome.com$
 ^0.0.0.0 pro.ip-api.com$
-^0.0.0.0 prod.telemetry.ros.rockstargames.com$
 ^0.0.0.0 production-cmp.isgprivacy.cbsi.com$
 ^0.0.0.0 proxy.novafusion.ea.com$
 ^0.0.0.0 public.vilynx.com$
@@ -450,7 +448,6 @@ localhost$
 ^0.0.0.0 serverfault.com$
 ^0.0.0.0 services.fandom.com$
 ^0.0.0.0 sevenforums.com$
-^0.0.0.0 shareaholic.com$
 ^0.0.0.0 shavar.services.mozilla.com$
 ^0.0.0.0 shop.rewe-static.de$
 ^0.0.0.0 shorl.com$

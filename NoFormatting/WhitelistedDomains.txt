@@ -190,7 +190,6 @@ dropboxmail.com
 dropboxpartners.com
 dropboxstatic.com
 dshield.org
-dsms0mj1bbhn4.cloudfront.net
 duckdns.org
 duo.nl
 dw.cbsi.com
@@ -369,7 +368,6 @@ prisacom.112.2o7.net
 privacy-center.org
 pro.fontawesome.com
 pro.ip-api.com
-prod.telemetry.ros.rockstargames.com
 production-cmp.isgprivacy.cbsi.com
 proxy.novafusion.ea.com
 public.vilynx.com
@@ -413,7 +411,6 @@ serials.ws
 serverfault.com
 services.fandom.com
 sevenforums.com
-shareaholic.com
 shavar.services.mozilla.com
 shop.rewe-static.de
 shorl.com
