@@ -1,4 +1,4 @@
-# Fri Jan  1 07:35:25 PM MST 2021
+# Sat Jan  2 06:49:07 PM MST 2021
 # AdGuard DNS Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -1977,6 +1977,7 @@
 0.0.0.0 ad.arklm.com
 0.0.0.0 adasiaholdings.com
 0.0.0.0 adasist.com
+0.0.0.0 adasta.it
 0.0.0.0 adatrix.com
 0.0.0.0 ad.auditude.com
 0.0.0.0 adavz.xyz
@@ -2061,6 +2062,7 @@
 0.0.0.0 adcater.com
 0.0.0.0 ad.cauly.co.kr
 0.0.0.0 ad.cbonds.info
+0.0.0.0 ad.ccement.com
 0.0.0.0 adccoo.cn
 0.0.0.0 adcde.com
 0.0.0.0 ad.cdnjm.cn
@@ -8633,6 +8635,7 @@
 0.0.0.0 cloud-iq.com
 0.0.0.0 cloud-miner.de
 0.0.0.0 cloud-miner.eu
+0.0.0.0 cloudpsvn.com
 0.0.0.0 cloud.roistat.com
 0.0.0.0 cloudsdestruction.com
 0.0.0.0 cloudtracer101.com
@@ -15292,6 +15295,7 @@
 0.0.0.0 grt02.org
 0.0.0.0 grt03.com
 0.0.0.0 grteab.com
+0.0.0.0 grtexch.com
 0.0.0.0 grtnahd.cn
 0.0.0.0 grtyj.com
 0.0.0.0 grubfast.com
@@ -29843,6 +29847,7 @@
 0.0.0.0 shucaihangjia.com
 0.0.0.0 shuccn.com
 0.0.0.0 shuffele.com
+0.0.0.0 shukongshebei.net
 0.0.0.0 shulhanafuh.com
 0.0.0.0 shunlige.com
 0.0.0.0 shunxinyuancaiwu.cn
@@ -41041,6 +41046,7 @@
 0.0.0.0 ad.arklm.com
 0.0.0.0 adasiaholdings.com
 0.0.0.0 adasist.com
+0.0.0.0 adasta.it
 0.0.0.0 adatrix.com
 0.0.0.0 ad.auditude.com
 0.0.0.0 adavz.xyz
@@ -41125,6 +41131,7 @@
 0.0.0.0 adcater.com
 0.0.0.0 ad.cauly.co.kr
 0.0.0.0 ad.cbonds.info
+0.0.0.0 ad.ccement.com
 0.0.0.0 adccoo.cn
 0.0.0.0 adcde.com
 0.0.0.0 ad.cdnjm.cn
@@ -47682,6 +47689,7 @@
 0.0.0.0 cloud-iq.com
 0.0.0.0 cloud-miner.de
 0.0.0.0 cloud-miner.eu
+0.0.0.0 cloudpsvn.com
 0.0.0.0 cloud.roistat.com
 0.0.0.0 cloudsdestruction.com
 0.0.0.0 cloudtracer101.com
@@ -54317,6 +54325,7 @@
 0.0.0.0 grt02.org
 0.0.0.0 grt03.com
 0.0.0.0 grteab.com
+0.0.0.0 grtexch.com
 0.0.0.0 grtnahd.cn
 0.0.0.0 grtyj.com
 0.0.0.0 grubfast.com
@@ -68820,6 +68829,7 @@
 0.0.0.0 shucaihangjia.com
 0.0.0.0 shuccn.com
 0.0.0.0 shuffele.com
+0.0.0.0 shukongshebei.net
 0.0.0.0 shulhanafuh.com
 0.0.0.0 shunlige.com
 0.0.0.0 shunxinyuancaiwu.cn

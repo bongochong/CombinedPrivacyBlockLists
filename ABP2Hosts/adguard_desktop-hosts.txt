@@ -1,4 +1,4 @@
-# Fri Jan  1 07:35:06 PM MST 2021
+# Sat Jan  2 06:48:48 PM MST 2021
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -2072,6 +2072,7 @@
 0.0.0.0 adcast.ru
 0.0.0.0 adcater.com
 0.0.0.0 ad.cbonds.info
+0.0.0.0 ad.ccement.com
 0.0.0.0 adccoo.cn
 0.0.0.0 adcde.com
 0.0.0.0 ad.cdnjm.cn
@@ -7943,6 +7944,7 @@
 0.0.0.0 cloudioo.net
 0.0.0.0 cloud-miner.de
 0.0.0.0 cloudplane.xyz
+0.0.0.0 cloudpsvn.com
 0.0.0.0 cloud.roistat.com
 0.0.0.0 cloudsdestruction.com
 0.0.0.0 cloudsrvtrk.com
@@ -14397,6 +14399,7 @@
 0.0.0.0 grt02.org
 0.0.0.0 grt03.com
 0.0.0.0 grteab.com
+0.0.0.0 grtexch.com
 0.0.0.0 grtnahd.cn
 0.0.0.0 grtyj.com
 0.0.0.0 grtyv.com
@@ -18981,7 +18984,6 @@
 0.0.0.0 livepromotools.com
 0.0.0.0 liverail.com
 0.0.0.0 liverank.org
-0.0.0.0 liveresources.mensxp.com
 0.0.0.0 live.rezync.com
 0.0.0.0 liversely.com
 0.0.0.0 liversely.net
@@ -28296,6 +28298,7 @@
 0.0.0.0 shuffele.com
 0.0.0.0 shuihulu.com
 0.0.0.0 shujuwu.com
+0.0.0.0 shukongshebei.net
 0.0.0.0 shulhanafuh.com
 0.0.0.0 shunlige.com
 0.0.0.0 shunxinyuancaiwu.cn

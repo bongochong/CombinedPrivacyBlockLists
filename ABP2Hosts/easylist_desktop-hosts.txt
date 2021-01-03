@@ -1,4 +1,4 @@
-# Fri Jan  1 07:35:19 PM MST 2021
+# Sat Jan  2 06:49:01 PM MST 2021
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -1907,6 +1907,7 @@
 0.0.0.0 adcash.com
 0.0.0.0 adcastplus.net
 0.0.0.0 adcast.ru
+0.0.0.0 ad.ccement.com
 0.0.0.0 adccoo.cn
 0.0.0.0 adcde.com
 0.0.0.0 ad.cdnjm.cn
@@ -7084,6 +7085,7 @@
 0.0.0.0 cloud-iq.com
 0.0.0.0 cloud-miner.de
 0.0.0.0 cloud-miner.eu
+0.0.0.0 cloudpsvn.com
 0.0.0.0 cloudtracer101.com
 0.0.0.0 clrstm.com
 0.0.0.0 cls7.theushuaiaexperience.com
@@ -13030,6 +13032,7 @@
 0.0.0.0 grt02.com
 0.0.0.0 grt03.com
 0.0.0.0 grteab.com
+0.0.0.0 grtexch.com
 0.0.0.0 grtnahd.cn
 0.0.0.0 grtyj.com
 0.0.0.0 grubfast.com
@@ -16065,6 +16068,7 @@
 0.0.0.0 keyword-match.com
 0.0.0.0 keywordmax.com
 0.0.0.0 keywordpop.com
+0.0.0.0 keywords.complex.com
 0.0.0.0 keywordsconnect.com
 0.0.0.0 keywordstrategy.org
 0.0.0.0 keyxel.com
@@ -17159,7 +17163,6 @@
 0.0.0.0 livehapp.com
 0.0.0.0 livejurnal.org
 0.0.0.0 live-novostimira.ru
-0.0.0.0 liveresources.mensxp.com
 0.0.0.0 live-rutor.ga
 0.0.0.0 livesblogg.com
 0.0.0.0 livesblogger.com
@@ -25338,6 +25341,7 @@
 0.0.0.0 shuffele.com
 0.0.0.0 shuihulu.com
 0.0.0.0 shujuwu.com
+0.0.0.0 shukongshebei.net
 0.0.0.0 shunlige.com
 0.0.0.0 shunxinyuancaiwu.cn
 0.0.0.0 shusacem.net
@@ -30773,6 +30777,7 @@
 0.0.0.0 we.wecanimal.pt
 0.0.0.0 weymsohsafjs.com
 0.0.0.0 wf321.com
+0.0.0.0 wfaffwshop.xyz
 0.0.0.0 wfawhfxe.com
 0.0.0.0 wfcvhhmumb.com
 0.0.0.0 wfcxcblmy.com
