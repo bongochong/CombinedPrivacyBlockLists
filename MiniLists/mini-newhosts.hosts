@@ -18,7 +18,7 @@
 # This work is licensed under the CPAL-1.0
 # See: http://shorl.com/vebrubefrubiti
 #
-# ~- Mon Jan  4 02:20:01 PM MST 2021 -~
+# ~- Mon Jan  4 02:48:39 PM MST 2021 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -15256,6 +15256,7 @@
 0.0.0.0 cdn.adsrvmedia.net
 0.0.0.0 cdn.adswizz.com
 0.0.0.0 cdn.adsymptotic.com
+0.0.0.0 cdn.adtechus.com
 0.0.0.0 cdn.adtheorent.com
 0.0.0.0 cdn.adtrace.org
 0.0.0.0 cdn.adtradr.com
