@@ -4436,6 +4436,7 @@
 0.0.0.0 cdn.adspirit.net
 0.0.0.0 cdn.adswizz.com
 0.0.0.0 cdn.adsymptotic.com
+0.0.0.0 cdn.adtechus.com
 0.0.0.0 cdn.adtrue.com
 0.0.0.0 cdn.alistcloud.com
 0.0.0.0 cdn-analytics.pl
