@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 # This work is licensed under the CPAL-1.0
 # See: http://shorl.com/vebrubefrubiti
 #
-# ~- Mon Jan  4 02:05:46 PM MST 2021 -~
+# ~- Mon Jan  4 02:46:43 PM MST 2021 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -18425,6 +18425,7 @@ ff02::2 ip6-allrouters
 :: cdn-ads.thesaigontimes.vn
 :: cdn.adswizz.com
 :: cdn.adsymptotic.com
+:: cdn.adtechus.com
 :: cdn.adtheorent.com
 :: cdn.adtrace.org
 :: cdn.adtradr.com
