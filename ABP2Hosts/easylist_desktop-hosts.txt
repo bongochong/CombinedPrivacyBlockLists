@@ -1,4 +1,4 @@
-# Sat Jan  2 06:49:01 PM MST 2021
+# Mon Jan  4 01:57:54 PM MST 2021
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -1195,6 +1195,7 @@
 0.0.0.0 7news.site
 0.0.0.0 7o2o.com
 0.0.0.0 7pud.com
+0.0.0.0 7q1z79gxsi.global.ssl.fastly.net
 0.0.0.0 7rtv.com
 0.0.0.0 7search.com
 0.0.0.0 7t15ny0f4f.top
@@ -4043,7 +4044,6 @@
 0.0.0.0 artsmalle.pro
 0.0.0.0 arxistenthe.top
 0.0.0.0 arzcwgdzsed.com
-0.0.0.0 as01.overbuff.com
 0.0.0.0 as07d698u9.com
 0.0.0.0 as1.m.hao123.com
 0.0.0.0 as1.wenku.baidu.com
@@ -4604,7 +4604,7 @@
 0.0.0.0 baiduace.com
 0.0.0.0 baiduada.babihu.com
 0.0.0.0 baiduappu.top
-0.0.0.0 baidu.bxwx666.org
+0.0.0.0 baidu.bxwx555.org
 0.0.0.0 baiduccdn1.com
 0.0.0.0 baiduccdn.com
 0.0.0.0 baiduccdn.org
@@ -5143,6 +5143,7 @@
 0.0.0.0 betahit.click
 0.0.0.0 betarget.com
 0.0.0.0 betarget.de
+0.0.0.0 betemolgar.com
 0.0.0.0 betimbur.com
 0.0.0.0 betoga.com
 0.0.0.0 betohomeall.com
@@ -5915,6 +5916,7 @@
 0.0.0.0 buildbull.ru
 0.0.0.0 buildhoodpip.club
 0.0.0.0 buildtrafficx.com
+0.0.0.0 buipovexhav.com
 0.0.0.0 bulankk.com
 0.0.0.0 bulb.76.my
 0.0.0.0 bulbsanctify.com
@@ -7370,6 +7372,7 @@
 0.0.0.0 compensions.pro
 0.0.0.0 competing-stinger.site
 0.0.0.0 comp-ex.ru
+0.0.0.0 compiletormentboats.com
 0.0.0.0 complextoad.com
 0.0.0.0 complicatedtelegraph.com
 0.0.0.0 complified.club
@@ -8043,6 +8046,7 @@
 0.0.0.0 curriculture.com
 0.0.0.0 curtisfrierson.com
 0.0.0.0 curvycry.com
+0.0.0.0 cushionpig.com
 0.0.0.0 customerconversio.com
 0.0.0.0 customer.heartinternet.co.uk
 0.0.0.0 customer.io
@@ -8288,6 +8292,7 @@
 0.0.0.0 d2fbkzyicji7c4.cloudfront.net
 0.0.0.0 d2focgxak1cn74.cloudfront.net
 0.0.0.0 d2g9nmtuil60cb.cloudfront.net
+0.0.0.0 d2gbtcuv3w9qyv.cloudfront.net
 0.0.0.0 d2ghscazvn398x.cloudfront.net
 0.0.0.0 d2glav2919q4cw.cloudfront.net
 0.0.0.0 d2hvwfg7vv4mhf.cloudfront.net
@@ -9257,7 +9262,6 @@
 0.0.0.0 dlzm790g.com
 0.0.0.0 dm0acvguygm9h.cloudfront.net
 0.0.0.0 dm1.ddwk8.cn
-0.0.0.0 dm1.dnpz123.com
 0.0.0.0 dm1.guanwawa.com
 0.0.0.0 dm1.zjydt.com
 0.0.0.0 dm.21hubei.com
@@ -9328,6 +9332,7 @@
 0.0.0.0 dnhfi5nn2dt67.cloudfront.net
 0.0.0.0 dnkwgzmuxv.com
 0.0.0.0 dnn506yrbagrg.cloudfront.net
+0.0.0.0 dnpz123.com
 0.0.0.0 dns21.ru
 0.0.0.0 dnskuu.com
 0.0.0.0 dnyjhikistbhvg.com
@@ -10682,6 +10687,11 @@
 0.0.0.0 etzbnfuigipwvs.ru
 0.0.0.0 etzhporcxprf.com
 0.0.0.0 etzyzocznjd.com
+0.0.0.0 eu1l.dotabuff.com
+0.0.0.0 eu1l.overbuff.com
+0.0.0.0 eu1l.speedrun.com
+0.0.0.0 eu1l.trackdota.com
+0.0.0.0 eu1l.valorbuff.com
 0.0.0.0 eucsoft.com
 0.0.0.0 eu.groupondata.com
 0.0.0.0 eujjcfegnqfa.com
@@ -12578,7 +12588,6 @@
 0.0.0.0 gk1.582582.com
 0.0.0.0 gk1.zjbiz.net
 0.0.0.0 gk277.cn
-0.0.0.0 gk3o.trackdota.com
 0.0.0.0 gk8j5woqk26f.com
 0.0.0.0 gkgojxjucutvnt.com
 0.0.0.0 gkpsrxgdbco.com
@@ -13513,6 +13522,7 @@
 0.0.0.0 heckhaphanofres.info
 0.0.0.0 hedlimitatelearlyb.info
 0.0.0.0 hedressive.info
+0.0.0.0 hedrvszms.com
 0.0.0.0 hedtgodingsincy.info
 0.0.0.0 heedlessdessertchips.com
 0.0.0.0 heeevykjhujfy.com
@@ -14629,6 +14639,7 @@
 0.0.0.0 imp.constantcontact.com
 0.0.0.0 impeacknow.xyz
 0.0.0.0 imp.go.sohu.com
+0.0.0.0 implementtransmitted.com
 0.0.0.0 implicationdownloadpercy.com
 0.0.0.0 implishing.club
 0.0.0.0 implix.com
@@ -14803,6 +14814,7 @@
 0.0.0.0 insightgrit.com
 0.0.0.0 insight.mintel.com
 0.0.0.0 insight.rapid7.com
+0.0.0.0 insights.algolia.io
 0.0.0.0 insights.blogfoster.com
 0.0.0.0 insights.cdt.ch
 0.0.0.0 insights.plista.com
@@ -15230,6 +15242,7 @@
 0.0.0.0 jacklm1.com
 0.0.0.0 jacklm2.com
 0.0.0.0 jacobeshort.pro
+0.0.0.0 jac.yahoosandbox.com
 0.0.0.0 jadcenter.com
 0.0.0.0 jadedi.com
 0.0.0.0 jadeitite.com
@@ -15267,6 +15280,7 @@
 0.0.0.0 jaxwrwvxfscq.com
 0.0.0.0 jaxxenpro.com
 0.0.0.0 jaxzjs.info
+0.0.0.0 jayhintcull.com
 0.0.0.0 jazdoxthxiv.com
 0.0.0.0 jazmonbetter.pro
 0.0.0.0 jb7hvcksstar.com
@@ -15909,7 +15923,6 @@
 0.0.0.0 k77hof1z7k.com
 0.0.0.0 k7tju.xyz
 0.0.0.0 k99.cc
-0.0.0.0 k9v7.dotabuff.com
 0.0.0.0 k9wz7.cn
 0.0.0.0 ka12138.top
 0.0.0.0 ka5188.com
@@ -16667,7 +16680,6 @@
 0.0.0.0 lawumi.cn
 0.0.0.0 laydcilck.com
 0.0.0.0 layer-ad.org
-0.0.0.0 layer.lima-city.de
 0.0.0.0 layerloop.com
 0.0.0.0 laygunwow.com
 0.0.0.0 laynews.ru
@@ -16867,6 +16879,7 @@
 0.0.0.0 letsinfospree.com
 0.0.0.0 letterboxtrail.com
 0.0.0.0 leturich.org
+0.0.0.0 leukemiatwinklesagacious.com
 0.0.0.0 levelbehavior.com
 0.0.0.0 leveloped.club
 0.0.0.0 levenileheshe.site
@@ -17822,7 +17835,6 @@
 0.0.0.0 madspms.com
 0.0.0.0 madspmz.com
 0.0.0.0 maebtjn.com
-0.0.0.0 maerkte.sueddeutsche.de
 0.0.0.0 mafia-banner.myftp.org
 0.0.0.0 mafvijpjsaz.com
 0.0.0.0 magararepublic.com
@@ -18112,7 +18124,6 @@
 0.0.0.0 mdcytqwnbr.com
 0.0.0.0 mddwabpvzcr.com
 0.0.0.0 mdialog.com
-0.0.0.0 mdlbs.motor-talk.de
 0.0.0.0 mdlo324fsd.ru
 0.0.0.0 mdlsite.com
 0.0.0.0 mdmupsmel.com
@@ -18197,7 +18208,6 @@
 0.0.0.0 mediaoaktree.com
 0.0.0.0 mediaonenetwork.net
 0.0.0.0 media.onlineteachers.co.in
-0.0.0.0 media.onlinewelten.com
 0.0.0.0 mediaonpro.com
 0.0.0.0 mediapeartree.com
 0.0.0.0 mediaplan.ru
@@ -18341,6 +18351,7 @@
 0.0.0.0 mentad.com
 0.0.0.0 mentalbackie.site
 0.0.0.0 mentalks.ru
+0.0.0.0 mentalsweatextent.com
 0.0.0.0 mentcompa.club
 0.0.0.0 mentpyjam.fun
 0.0.0.0 mentredu.top
@@ -18765,6 +18776,7 @@
 0.0.0.0 mobatori.com
 0.0.0.0 mobbahjug.com
 0.0.0.0 mobbober.com
+0.0.0.0 mobcrummymow.com
 0.0.0.0 mobday.com
 0.0.0.0 mobee.xyz
 0.0.0.0 mobfox.com
@@ -18877,6 +18889,7 @@
 0.0.0.0 monotonoussurveytoxic.com
 0.0.0.0 monsoonads.com
 0.0.0.0 monstat.com
+0.0.0.0 montafp.top
 0.0.0.0 montiera.com
 0.0.0.0 montkpl.top
 0.0.0.0 montwam.top
@@ -19034,7 +19047,6 @@
 0.0.0.0 mqs.ioam.de
 0.0.0.0 mquvqdhzgfyjl.com
 0.0.0.0 mqwcuesny6.ru
-0.0.0.0 mqzy.dotabuff.com
 0.0.0.0 mr087.cn
 0.0.0.0 mr2cnjuh34jb.com
 0.0.0.0 mr5aqoqlegsp.com
@@ -19892,7 +19904,6 @@
 0.0.0.0 niwztgetlytxv.com
 0.0.0.0 nixiclothing.com
 0.0.0.0 nization.com
-0.0.0.0 nj1r.valorbuff.com
 0.0.0.0 njawafwpmv.com
 0.0.0.0 njcn888.com
 0.0.0.0 njcyfpv.cn
@@ -19915,7 +19926,6 @@
 0.0.0.0 njyyk.com
 0.0.0.0 nk26uvjrz0tt.com
 0.0.0.0 nk295.cn
-0.0.0.0 nkeq.speedrun.com
 0.0.0.0 nkjomdiztdy.com
 0.0.0.0 nklrfqgz.com
 0.0.0.0 nklwltrpzhy.com
@@ -20254,7 +20264,6 @@
 0.0.0.0 nvbwgk.com
 0.0.0.0 nvcwpexqk.com
 0.0.0.0 nvdljujp.com
-0.0.0.0 nvea.valorbuff.com
 0.0.0.0 nvergetpatr.top
 0.0.0.0 nvhzkdltdxfoax.com
 0.0.0.0 nvikgaormj.com
@@ -21408,6 +21417,7 @@
 0.0.0.0 pcdjvinnlhysg.com
 0.0.0.0 pcgamer-gb.pcgamer.com
 0.0.0.0 pc-games-torrent.ru
+0.0.0.0 pci3oo5mg4mn-a.akamaihd.net
 0.0.0.0 pcizpawioulv.com
 0.0.0.0 pcjkmabp.com
 0.0.0.0 pclicc1.com
@@ -22213,7 +22223,6 @@
 0.0.0.0 pqlveeoq.com
 0.0.0.0 pqmfbegdsuwqiz.com
 0.0.0.0 pqnlorg.cn
-0.0.0.0 pqoz.trackdota.com
 0.0.0.0 pqpuraoxacaxw.com
 0.0.0.0 pquuiokltzjpeg.com
 0.0.0.0 pqwtrq.xyz
@@ -23385,6 +23394,7 @@
 0.0.0.0 rankings24.de
 0.0.0.0 rankinteractive.com
 0.0.0.0 rank-power.com
+0.0.0.0 ranqibio.com
 0.0.0.0 ranqpbnd.com
 0.0.0.0 ransparleddorob.info
 0.0.0.0 raonie.com
@@ -23585,7 +23595,6 @@
 0.0.0.0 rechampouinerai.website
 0.0.0.0 rechaptalisent.xyz
 0.0.0.0 recheriend.top
-0.0.0.0 recipetocook.recipes
 0.0.0.0 reciteme.com
 0.0.0.0 reckedmane.club
 0.0.0.0 reckinbuttiten.pro
@@ -27395,6 +27404,7 @@
 0.0.0.0 teipgupp.com
 0.0.0.0 tek-tek-trek.com
 0.0.0.0 telemetric.dk
+0.0.0.0 telemetry.api.wmcdp.io
 0.0.0.0 telemetry.art19.com
 0.0.0.0 telemetry.jivosite.com
 0.0.0.0 telemetry.reembed.com
@@ -29608,7 +29618,6 @@
 0.0.0.0 uunewcar.com
 0.0.0.0 uunriutbi.com
 0.0.0.0 uuopp.com
-0.0.0.0 uuqz.overbuff.com
 0.0.0.0 uuribxuxsbdfof.com
 0.0.0.0 uusftafycvolbk.com
 0.0.0.0 uutew.info
@@ -30471,6 +30480,7 @@
 0.0.0.0 warron.cn
 0.0.0.0 warsalsintrol.site
 0.0.0.0 warten-sie-mal.xyz
+0.0.0.0 warumbistdusoarm.space
 0.0.0.0 wasm.stream
 0.0.0.0 wasp-182b.com
 0.0.0.0 wastedcooperate.com

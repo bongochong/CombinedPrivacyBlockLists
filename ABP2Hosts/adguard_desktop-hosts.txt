@@ -1,4 +1,4 @@
-# Sat Jan  2 06:48:48 PM MST 2021
+# Mon Jan  4 01:57:41 PM MST 2021
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -4215,6 +4215,7 @@
 0.0.0.0 annoyingacoustics.com
 0.0.0.0 annrdf.com
 0.0.0.0 anobufefig.com
+0.0.0.0 anomaloustradingmerciful.com
 0.0.0.0 anonymousads.com
 0.0.0.0 anormal-tracker.de
 0.0.0.0 anorrecenturybr.info
@@ -5210,7 +5211,7 @@
 0.0.0.0 baiduace.com
 0.0.0.0 baiduada.babihu.com
 0.0.0.0 baiduappu.top
-0.0.0.0 baidu.bxwx666.org
+0.0.0.0 baidu.bxwx555.org
 0.0.0.0 baiducom.bj.bcebos.com
 0.0.0.0 baidujavascript.com
 0.0.0.0 baidujs.cnys.com
@@ -5788,6 +5789,7 @@
 0.0.0.0 beta.tidint.pro
 0.0.0.0 betburdaaffiliates.com
 0.0.0.0 bet.championat.com
+0.0.0.0 betemolgar.com
 0.0.0.0 betendads.com
 0.0.0.0 bethoy.es
 0.0.0.0 betimbur.com
@@ -6620,6 +6622,7 @@
 0.0.0.0 buildhoodpip.club
 0.0.0.0 buildtrafficx.com
 0.0.0.0 builfico.de
+0.0.0.0 buipovexhav.com
 0.0.0.0 bukolii.ru
 0.0.0.0 bulankk.com
 0.0.0.0 bulbazoa.com
@@ -8251,6 +8254,7 @@
 0.0.0.0 compensess.club
 0.0.0.0 compensions.pro
 0.0.0.0 competitionbeetle.com
+0.0.0.0 compiletormentboats.com
 0.0.0.0 completecabbage.com
 0.0.0.0 complextoad.com
 0.0.0.0 complicatedtelegraph.com
@@ -10298,7 +10302,6 @@
 0.0.0.0 dlzm790g.com
 0.0.0.0 dm0acvguygm9h.cloudfront.net
 0.0.0.0 dm1.ddwk8.cn
-0.0.0.0 dm1.dnpz123.com
 0.0.0.0 dm1.guanwawa.com
 0.0.0.0 dm1.zjydt.com
 0.0.0.0 dm.21hubei.com
@@ -10367,6 +10370,7 @@
 0.0.0.0 dnn506yrbagrg.cloudfront.net
 0.0.0.0 dnovaku.ru
 0.0.0.0 dnoyrz.com
+0.0.0.0 dnpz123.com
 0.0.0.0 dnsdelegation.io
 0.0.0.0 dnskuu.com
 0.0.0.0 dntrax.com
@@ -14918,6 +14922,7 @@
 0.0.0.0 heckhaphanofres.info
 0.0.0.0 hedlimitatelearlyb.info
 0.0.0.0 hedressive.info
+0.0.0.0 hedrvszms.com
 0.0.0.0 hedtgodingsincy.info
 0.0.0.0 hedthertsu.pro
 0.0.0.0 hedtronverhan.ru
@@ -16168,6 +16173,7 @@
 0.0.0.0 impeacknow.xyz
 0.0.0.0 imperfectinstrument.com
 0.0.0.0 imp.go.sohu.com
+0.0.0.0 implementtransmitted.com
 0.0.0.0 implicationdownloadpercy.com
 0.0.0.0 implishing.club
 0.0.0.0 implix.com
@@ -16916,6 +16922,7 @@
 0.0.0.0 j.avz4.com
 0.0.0.0 jaxwrwvxfscq.com
 0.0.0.0 jaxxenpro.com
+0.0.0.0 jayhintcull.com
 0.0.0.0 jaymancash.com
 0.0.0.0 jaymedianetwork.com
 0.0.0.0 jazdoxthxiv.com
@@ -18515,6 +18522,7 @@
 0.0.0.0 lcryooiliokm.com
 0.0.0.0 lcs.livedoor.net
 0.0.0.0 lcs.loginfra.com
+0.0.0.0 lcs.modoo.at
 0.0.0.0 lcs.naver.com
 0.0.0.0 lct.salesforce.com
 0.0.0.0 lcttjawsbwol.com
@@ -18702,6 +18710,7 @@
 0.0.0.0 lettucelimit.com
 0.0.0.0 leturich.org
 0.0.0.0 letzonke.com
+0.0.0.0 leukemiatwinklesagacious.com
 0.0.0.0 leuxq.com
 0.0.0.0 level1cdn.com
 0.0.0.0 levelbehavior.com
@@ -20292,6 +20301,7 @@
 0.0.0.0 mentad.com
 0.0.0.0 mentalbackie.site
 0.0.0.0 mentalks.ru
+0.0.0.0 mentalsweatextent.com
 0.0.0.0 mentcompa.club
 0.0.0.0 mentpyjam.fun
 0.0.0.0 mentredu.top
@@ -20768,6 +20778,7 @@
 0.0.0.0 mobatori.com
 0.0.0.0 mobatory.com
 0.0.0.0 mobbahjug.com
+0.0.0.0 mobcrummymow.com
 0.0.0.0 mobday.com
 0.0.0.0 mobfox.com
 0.0.0.0 mobgold.com
@@ -20902,6 +20913,7 @@
 0.0.0.0 monkposseacre.casa
 0.0.0.0 monotonoussurveytoxic.com
 0.0.0.0 monsoonads.com
+0.0.0.0 montafp.top
 0.0.0.0 montblanc.lenta.ru
 0.0.0.0 montblanc.rambler.ru
 0.0.0.0 montkpl.top
@@ -26075,11 +26087,13 @@
 0.0.0.0 rankinteractive.com
 0.0.0.0 ranklink.de
 0.0.0.0 rank-power.com
+0.0.0.0 ranqibio.com
 0.0.0.0 ranqpbnd.com
 0.0.0.0 ransparleddorob.info
 0.0.0.0 raonie.com
 0.0.0.0 rap4me.com
 0.0.0.0 rapeuptown.com
+0.0.0.0 rapgasyogin.com
 0.0.0.0 rapidcounter.com
 0.0.0.0 rapiddictionarytemporarily.com
 0.0.0.0 rapidkittens.com
@@ -26286,7 +26300,6 @@
 0.0.0.0 rechampouinerai.website
 0.0.0.0 rechaptalisent.xyz
 0.0.0.0 recheriend.top
-0.0.0.0 recipetocook.recipes
 0.0.0.0 reckedmane.club
 0.0.0.0 reckinbuttiten.pro
 0.0.0.0 reclame.io
@@ -31199,6 +31212,7 @@
 0.0.0.0 top.myfilms.su
 0.0.0.0 top.nydus.org
 0.0.0.0 topofblogs.com
+0.0.0.0 top-performance.best
 0.0.0.0 topperformance.xyz
 0.0.0.0 topperyregard.fun
 0.0.0.0 topprofitablecpm.com
@@ -31468,6 +31482,7 @@
 0.0.0.0 tracking.epicgames.com
 0.0.0.0 tracking.eurosport.com
 0.0.0.0 tracking.g2crowd.com
+0.0.0.0 tracking.game8.jp
 0.0.0.0 tracking.gj-mobile-services.de
 0.0.0.0 tracking.goodgamestudios.com
 0.0.0.0 tracking.hotel.check24.de
@@ -34192,6 +34207,7 @@
 0.0.0.0 wexrt.ru
 0.0.0.0 weymsohsafjs.com
 0.0.0.0 wf321.com
+0.0.0.0 wfaffwshop.xyz
 0.0.0.0 wfawhfxe.com
 0.0.0.0 wfcvhhmumb.com
 0.0.0.0 wfcxcblmy.com
