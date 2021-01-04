@@ -1,4 +1,4 @@
-// **** Sat Jan  2 06:55:21 PM MST 2021
+// **** Mon Jan  4 02:06:05 PM MST 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -14584,6 +14584,7 @@ shExpMatch(host, '*.thisisjess.co.uk') ||
 shExpMatch(host, '*.this-moment-in-time.com') ||
 shExpMatch(host, '*.thisyears.us') ||
 shExpMatch(host, '*.thomashobbs.com') ||
+shExpMatch(host, '*.thomastorch.com') ||
 shExpMatch(host, '*.thomchotte.com') ||
 shExpMatch(host, '*.thoosje.com') ||
 shExpMatch(host, '*.thor2-movie.com') ||
@@ -31171,6 +31172,7 @@ shExpMatch(host, 'thisisjess.co.uk') ||
 shExpMatch(host, 'this-moment-in-time.com') ||
 shExpMatch(host, 'thisyears.us') ||
 shExpMatch(host, 'thomashobbs.com') ||
+shExpMatch(host, 'thomastorch.com') ||
 shExpMatch(host, 'thomchotte.com') ||
 shExpMatch(host, 'thoosje.com') ||
 shExpMatch(host, 'thor2-movie.com') ||
