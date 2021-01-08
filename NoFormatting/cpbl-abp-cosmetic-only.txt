@@ -6,65 +6,28 @@
 ! Homepage: https://git.io/JTTLB
 ! Issues: https://git.io/JTTL0
 0bin.net##.pull-right.about
+affinia.com###things-to-do > .on.overlay-container
+affinia.com##footer > .wrapper > .on.special-message.most-of-screen.full-overlay
 apptracker.indeed.com##.apptracker-CovidBanner
 apptracker.indeed.com##.atw-IsHelpfulSurvey
 apptracker.indeed.com##.atw-IsHelpfulSurvey-initialState
 breitbart.com###content_0_fixedshare_0_divSocialMedia
-connectwww.com##DIV#an-Modal.reveal-modal
-connectwww.com##DIV.reveal-modal-bg
-docs.google.com##.docs-dialog.modal-dialog
-docs.google.com##.modal-dialog-bg
-hackintosh.zone###document_modal
-hackintosh.zone###some_ad_block_key_inner
-huffingtonpost.com##DIV#top_news_inner
-liveleak.com##TABLE[style="border: 1px solid; background-color: #eceff5; border-color: #94a3c4;"]
-liveleak.com##TABLE[style="border:1px #CCC dotted; width:304px; margin-bottom:9px;"]
-mondoweiss.net##li.mondo-ads-widget.widget
-mondoweiss.net##section.mondo-ads-widget.widget
-my.indeed.com##.MicroContentCard > .icl-Card--hasBorder.icl-Card
-my.indeed.com##.floating-tooltip.tooltip-type--SPELLING.resume-tooltip > div
-my.indeed.com##.icl-Alert--info.icl-Alert
-my.indeed.com##.icl-Callout--caretStart.icl-Callout
-my.indeed.com##div.saved-item-inner.preview-editor-section:nth-of-type(5) > div:nth-of-type(2)
-news.cnet.com###globalSocialPromo
-old.reddit.com###redesign-beta-optin-btn
-openpirate.org###\30 4da7223_1556855429
-openpirate.org###vpnvpn
-pcworld.com###toaster
-phantasytour.com##.col3
-reddit.com##.XPromoPopup
-reddit.com##.adLink
-reddit.com##.adLinkBar
-reddit.com##a[href*="alb.reddit.com"]
-reddit.com##a[href*="reddit.app.link"]
-reddit.com##.mSmall.XPromoPill
-reddit.com##.mSmall.XPromoInFeed
-reddit.com##.mSmall.XPromoAdFeed
-reddit.com##.TopNav-promoButton
-sparkylinux.org##DIV#ad0569e
-statelocalgov.net###IPEbgCover
-statelocalgov.net###IPEinvL
-thepiratebay.se##DIV[style="position: relative; height: 350px; width: 100%; margin: 0px; background: none repeat scroll 0% 0% rgb(0, 0, 0); z-index: 1;"]
-ubuntuce.com###column > center
-unixmen.com##DIV#an-Modal
-unixmen.com##DIV.reveal-modal-bg
-vapordna.com###age-check-prompt
-vapordna.com###prompt-background
-vapordna.com##.top_header_banner > p
-affinia.com###things-to-do > .on.overlay-container
-affinia.com##footer > .wrapper > .on.special-message.most-of-screen.full-overlay
 cnet.com##.entered.dock.inviewElement
 cnn.com###dazbnm
 cnn.com###sskxzejroaldqjo
 cnn.com##.csnufnmschc
 cnn.com##.jfisjoibqwpgzn
 cnn.com##.saxocwzwwx
+connectwww.com##DIV#an-Modal.reveal-modal
+connectwww.com##DIV.reveal-modal-bg
 cuevana2.io##+js(aopr, decodeURI)
 cuevana3.*##+js(aopr, S9tt)
 cuevana3.*##+js(aopr, decodeURI)
 cuevana3.*##+js(aopw, popUpUrl)
 cuevana3.video##DIV[style="padding: 5px 15px !important;"]
 cuevana3.video##iframe[style*="z-index: 2147483647"]
+docs.google.com##.docs-dialog.modal-dialog
+docs.google.com##.modal-dialog-bg
 eightvape.com##.header-warning
 eightvape.com##.header-warning2
 eightvape.com##.mobile-6.desktop-12
@@ -75,14 +38,17 @@ eightvape.com##.mobile-half.tablet-2.desktop-2.product-list-item-5 > .warning-la
 eightvape.com##.mobile-half.tablet-2.desktop-2.product-list-item-6 > .warning-label-1
 etymonline.com##.extensionHint
 etymonline.com##.wordDetail__extensionBanner--2Qrhv
-glassdoor.com##.background-overlay
 glassdoor.com##.actionBarMt0.modal_main
+glassdoor.com##.background-overlay
 glassdoor.com##.gdGrid.hardsellOverlay
 glassdoor.com##.hardsellContainer.flex-column.align-items-center.justify-content-center.d-flex
 glassdoor.com##.pt-xxl.pb-m-std.pb-72.hardsell
 haaretz.com##.footer-ruler
-huffpost.com##.modal-content
+hackintosh.zone###document_modal
+hackintosh.zone###some_ad_block_key_inner
+huffingtonpost.com##DIV#top_news_inner
 huffpost.com##.js-entry-promo.small.entry-promo
+huffpost.com##.modal-content
 incredibox.com###bbox
 incredibox.com###bbox-click
 incredibox.com###box-abp
@@ -98,19 +64,44 @@ juicedb.com##.nicotine-warning
 linuxandubuntu.com##.hustle-optin--focus-optin.hustle-optin
 linuxandubuntu.com##.hustle-optin-mask.hustle-popup-mask
 linuxandubuntu.com##.hustle-show.module_id_1.hustle_module_id_1.hustle-palette--default.hustle-popup.hustle-ui
+liveleak.com##TABLE[style="border: 1px solid; background-color: #eceff5; border-color: #94a3c4;"]
+liveleak.com##TABLE[style="border:1px #CCC dotted; width:304px; margin-bottom:9px;"]
+mondoweiss.net##li.mondo-ads-widget.widget
+mondoweiss.net##section.mondo-ads-widget.widget
+my.indeed.com##.MicroContentCard > .icl-Card--hasBorder.icl-Card
+my.indeed.com##.floating-tooltip.tooltip-type--SPELLING.resume-tooltip > div
+my.indeed.com##.icl-Alert--info.icl-Alert
+my.indeed.com##.icl-Callout--caretStart.icl-Callout
+my.indeed.com##div.saved-item-inner.preview-editor-section:nth-of-type(5) > div:nth-of-type(2)
+news.cnet.com###globalSocialPromo
+old.reddit.com###redesign-beta-optin-btn
+openpirate.org###\30 4da7223_1556855429
+openpirate.org###vpnvpn
+pcworld.com###toaster
+phantasytour.com##.col3
+reddit.com###ad_2
 reddit.com##.Drawer__overlay
 reddit.com##.SignupDrawer__content.Drawer__content
+reddit.com##.TopNav-promoButton
+reddit.com##.XPromoAdFeed
+reddit.com##.XPromoInFeed
+reddit.com##.XPromoPill
+reddit.com##.XPromoPopup
+reddit.com##.adLink
+reddit.com##.adLinkBar
 reddit.com##.in.fade.modal-backdrop
 reddit.com##.in.spezmodal.fade.modal
 reddit.com##.m-didInit.AnnouncementsScroller
 reddit.com##.modal-body > .md-container > .md > p
+reddit.com##.native-ad-container
 reddit.com##.redesign-beta-optin
 reddit.com##.redesignbetabar-js.redesignInfiniteScroll.onboardingbar.infobar
 reddit.com##.redesignbetabar-js.redesignNightmodeBar.onboardingbar.infobar
+reddit.com##.xPromoAppStoreFooter
+reddit.com##.xPromoChoiceBanner
+reddit.com##a[href*="alb.reddit.com"]
+reddit.com##a[href*="reddit.app.link"]
 reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
-reddit.com##.XPromoPill
-reddit.com##.XPromoInFeed
-||reddit.com/account/register/?mobile_ui=on&compact_mode=on&experiment_mweb_sso_login_link=enabled&experiment_mweb_google_onetap=onetap_auto$subdocument
 slant.co##.LustrePromoteModal-Content.Modal-Content
 slant.co##._View.AIHome-TopGradient.AIHome-Gradient.LustreAIPromoteFooter._LustreAIPromoteFooterView
 slant.co##._View.LustreAIBanner._LustreAIBannerView
@@ -118,15 +109,26 @@ slant.co##._View.LustrePromoteModal.Modal._LustreAIPromoteModalView
 slant.co##._soft-close-link.Modal-Cover
 slashdot.org###slashdot_deals
 smoktech.com###warning-message
+sparkylinux.org##DIV#ad0569e
 sportiquescooters.com###lbOverlay
+statelocalgov.net###IPEbgCover
+statelocalgov.net###IPEinvL
 sztobeco.com###tq_float_container
 tastyvapor.us###lbContent
 tastyvapor.us###lbFooter
 tastyvapor.us###lbHeader
 tastyvapor.us###mask
 tastyvapor.us##.footer_bottom
+thepiratebay.se##DIV[style="position: relative; height: 350px; width: 100%; margin: 0px; background: none repeat scroll 0% 0% rgb(0, 0, 0); z-index: 1;"]
+ubuntuce.com###column > center
+unixmen.com##DIV#an-Modal
+unixmen.com##DIV.reveal-modal-bg
 vapecentric.com###agechecker-age-gate
 vapecentric.com##.fomo-notification-container
 vapecentric.com##.fomo-notification-content-wrapper
+vapordna.com###age-check-prompt
+vapordna.com###prompt-background
+vapordna.com##.top_header_banner > p
 washingtonpost.com##.z-eyei-bvs
+||reddit.com/account/register/?mobile_ui=on&compact_mode=on&experiment_mweb_sso_login_link=enabled&experiment_mweb_google_onetap=onetap_auto$subdocument
 ~safaribooksonline.com##.subscribe-panel
