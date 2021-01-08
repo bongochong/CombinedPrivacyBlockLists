@@ -37,6 +37,10 @@ reddit.com##.adLink
 reddit.com##.adLinkBar
 reddit.com##a[href*="alb.reddit.com"]
 reddit.com##a[href*="reddit.app.link"]
+reddit.com##a[href^="http://alb.reddit.com/"]
+reddit.com##a[href^="http://reddit.app.link/"]
+reddit.com##a[href^="https://alb.reddit.com/"]
+reddit.com##a[href^="https://reddit.app.link/"]
 sparkylinux.org##DIV#ad0569e
 statelocalgov.net###IPEbgCover
 statelocalgov.net###IPEinvL
