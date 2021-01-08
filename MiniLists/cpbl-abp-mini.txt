@@ -51271,6 +51271,7 @@ reddit.com##.redesignbetabar-js.redesignInfiniteScroll.onboardingbar.infobar
 reddit.com##.redesignbetabar-js.redesignNightmodeBar.onboardingbar.infobar
 reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
 reddit.com##.XPromoPill
+reddit.com##.XPromoInFeed
 ||reddit.com/account/register/?mobile_ui=on&compact_mode=on&experiment_mweb_sso_login_link=enabled&experiment_mweb_google_onetap=onetap_auto$subdocument
 slant.co##.LustrePromoteModal-Content.Modal-Content
 slant.co##._View.AIHome-TopGradient.AIHome-Gradient.LustreAIPromoteFooter._LustreAIPromoteFooterView
