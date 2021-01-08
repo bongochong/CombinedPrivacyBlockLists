@@ -51263,10 +51263,15 @@ reddit.com##.native-ad-container
 reddit.com##.redesign-beta-optin
 reddit.com##.redesignbetabar-js.redesignInfiniteScroll.onboardingbar.infobar
 reddit.com##.redesignbetabar-js.redesignNightmodeBar.onboardingbar.infobar
+reddit.com##.size-compact.Post:has([class*="promoted"])
 reddit.com##.xPromoAppStoreFooter
 reddit.com##.xPromoChoiceBanner
 reddit.com##a[href*="alb.reddit.com"]
 reddit.com##a[href*="reddit.app.link"]
+reddit.com##+js(abort-current-inline-script, window.__adslots)
+reddit.com##+js(abort-current-inline-script, googletag.pubads)
+reddit.com##+js(abort-current-inline-script, adSlots)
+reddit.com##+js(abort-current-inline-script, addScript)
 reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
 slant.co##.LustrePromoteModal-Content.Modal-Content
 slant.co##._View.AIHome-TopGradient.AIHome-Gradient.LustreAIPromoteFooter._LustreAIPromoteFooterView
@@ -51297,4 +51302,5 @@ vapordna.com###prompt-background
 vapordna.com##.top_header_banner > p
 washingtonpost.com##.z-eyei-bvs
 ||reddit.com/account/register/?mobile_ui=on&compact_mode=on&experiment_mweb_sso_login_link=enabled&experiment_mweb_google_onetap=onetap_auto$subdocument
+||redditmedia.com/gtm/jail?
 ~safaribooksonline.com##.subscribe-panel
