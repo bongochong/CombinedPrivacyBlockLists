@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Mon Jan  4 02:51:27 PM MST 2021
+! Updated: Thu Jan  7 06:07:54 PM MST 2021
 ! Expires: 7 Days
 ! License: https://git.io/JTTLW
 ! Homepage: https://git.io/JTTLB
@@ -70687,6 +70687,7 @@ cnn.com###sskxzejroaldqjo
 cnn.com##.csnufnmschc
 cnn.com##.jfisjoibqwpgzn
 cnn.com##.saxocwzwwx
+cuevana3.video##DIV[style="padding: 5px 15px !important;"]
 eightvape.com##.header-warning
 eightvape.com##.header-warning2
 eightvape.com##.mobile-6.desktop-12

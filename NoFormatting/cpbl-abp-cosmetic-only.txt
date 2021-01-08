@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Collected Cosmetic CPBL Filters for ABP & uBO
-! Updated: Mon Dec 31 01:13:04 AM MST 2020
+! Updated: Thu Jan  7 06:07:54 PM MST 2021
 ! Expires: 7 Days
 ! License: https://git.io/JTTLW
 ! Homepage: https://git.io/JTTLB
@@ -55,6 +55,7 @@ cnn.com###sskxzejroaldqjo
 cnn.com##.csnufnmschc
 cnn.com##.jfisjoibqwpgzn
 cnn.com##.saxocwzwwx
+cuevana3.video##DIV[style="padding: 5px 15px !important;"]
 eightvape.com##.header-warning
 eightvape.com##.header-warning2
 eightvape.com##.mobile-6.desktop-12
