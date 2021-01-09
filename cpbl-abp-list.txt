@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Fri Jan  8 07:43:05 PM MST 2021
+! Updated: Fri Jan  8 09:08:15 PM MST 2021
 ! Expires: 7 Days
 ! License: https://git.io/JTTLW
 ! Homepage: https://git.io/JTTLB
@@ -32451,6 +32451,7 @@
 ||huntmad.com^
 ||huodiyun.cn^
 ||huostaan-eksperten.makemoneywithmegan.net^
+||huosuniao.com^
 ||huovernment.club^
 ||huoyiad1.cn^
 ||hupsouft.net^
@@ -42132,6 +42133,7 @@
 ||moguldom.com^
 ||moguozhi.com^
 ||mogyang.net^
+||mohaijishu.cn^
 ||mohammequhe.site^
 ||mohini-ger.com^
 ||mohqurakhwvf.com^
