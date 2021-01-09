@@ -1,4 +1,4 @@
-# Mon Jan  4 01:58:03 PM MST 2021
+# Fri Jan  8 07:29:52 PM MST 2021
 # Spam404 Hosts - Generated weekly by bongochong
 0.0.0.0 001www.com
 0.0.0.0 0daygameparadise.com
@@ -6952,6 +6952,7 @@
 0.0.0.0 steamskins.ru
 0.0.0.0 steamtommunity.com
 0.0.0.0 steamtops.com
+0.0.0.0 steamtradesrep.com
 0.0.0.0 steamtrade.store
 0.0.0.0 steamunibets.com
 0.0.0.0 steamwalletadder.com

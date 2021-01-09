@@ -1,4 +1,4 @@
-# Mon Jan  4 01:57:24 PM MST 2021
+# Fri Jan  8 07:29:14 PM MST 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -1296,6 +1296,7 @@
 0.0.0.0 analytics-dal-nfl.yinzcam.com
 0.0.0.0 analytics.datasavannah.com
 0.0.0.0 analytics.digital-metric.com
+0.0.0.0 analytics.dns-shop.ru
 0.0.0.0 analytics.dspunion.com
 0.0.0.0 analytics.edgekey.net
 0.0.0.0 analytics-eu.clickdimensions.com
@@ -1343,6 +1344,7 @@
 0.0.0.0 analytics.po.st
 0.0.0.0 analytics-prod2.glance-internal.inmobi.com
 0.0.0.0 analytics-prod-ingress.bricknet.com
+0.0.0.0 analytics.prod.mybuddy.ai
 0.0.0.0 analytics-production.hapyak.com
 0.0.0.0 analytics.publitas.com
 0.0.0.0 analytics.qoqa.ch
@@ -1407,6 +1409,7 @@
 0.0.0.0 android-quinoa-config-prod.sense360eng.com
 0.0.0.0 android-quinoa-config-prod.sense360eng.com.herokudns.com
 0.0.0.0 androidsdk.ads.mp.mydas.mobi
+0.0.0.0 android-stat.acestream.net
 0.0.0.0 andromeda.iad-01.braze.com
 0.0.0.0 andromeda.iad.appboy.com
 0.0.0.0 an.facebook.com
@@ -1816,6 +1819,7 @@
 0.0.0.0 appads.com
 0.0.0.0 app.adsunflower.cn
 0.0.0.0 app.adywind.com
+0.0.0.0 app-analytics-ru.huami.com
 0.0.0.0 app.appsflyer.com
 0.0.0.0 appbaqend.com
 0.0.0.0 appboy.com
@@ -1854,6 +1858,8 @@
 0.0.0.0 applog.camera360.com
 0.0.0.0 app-log.immomo.com
 0.0.0.0 applogios.uc.cn
+0.0.0.0 applogs.pixelfederation.com
+0.0.0.0 applogs-v2.pixelfederation.com
 0.0.0.0 applog.uc.cn
 0.0.0.0 app-lon02.marketo.com
 0.0.0.0 app-lon03.marketo.com
@@ -3625,6 +3631,7 @@
 0.0.0.0 datacloud-us-east-1.tealiumiq.com
 0.0.0.0 data-collect-337392791.ap-northeast-2.elb.amazonaws.com
 0.0.0.0 datacollect9.abtasty.com
+0.0.0.0 datacollector-drru.dt.hicloud.com
 0.0.0.0 data.coremetrics.com
 0.0.0.0 dataf.ads.oppomobile.com
 0.0.0.0 data.flurry.com
@@ -3972,6 +3979,7 @@
 0.0.0.0 edge-west.customer.io
 0.0.0.0 edge.yieldify.com
 0.0.0.0 e.dlx.addthis.com
+0.0.0.0 edmanalytics.pandahall.com
 0.0.0.0 edwlifes.vo.llnwd.net
 0.0.0.0 ef-dongfeng.tanx.com
 0.0.0.0 effectivemeasure.net
@@ -5646,6 +5654,7 @@
 0.0.0.0 logs-01.loggly.com
 0.0.0.0 logs1202.xiti.com
 0.0.0.0 logs.81plug.com
+0.0.0.0 logs.amap.com
 0.0.0.0 logsdk.qq.com
 0.0.0.0 log.sdk.zadn.vn
 0.0.0.0 logserver.insight.ucweb.com
@@ -5928,6 +5937,7 @@
 0.0.0.0 metrics.macys.net
 0.0.0.0 metrics.roblox.com
 0.0.0.0 metrics.sdkbox.com
+0.0.0.0 metrics.spbtv.com
 0.0.0.0 metrics.tbliab.net
 0.0.0.0 metrics.ted.com
 0.0.0.0 metrics.timewarnercable.com
@@ -6904,6 +6914,7 @@
 0.0.0.0 privacy.as.criteo.com
 0.0.0.0 privacy.commander1.com
 0.0.0.0 privacy.us.criteo.com
+0.0.0.0 privatestats.whatsapp.net
 0.0.0.0 priv-policy.imrworldwide.com
 0.0.0.0 privy.com
 0.0.0.0 prlds.appia.com
@@ -7418,6 +7429,7 @@
 0.0.0.0 rum-collector.wpm.neustar.biz
 0.0.0.0 rum.logsss.com
 0.0.0.0 rum.optimizely.com
+0.0.0.0 rumstat.cdnvideo.ru
 0.0.0.0 rundsp.com
 0.0.0.0 run-syndicate.com
 0.0.0.0 runtastic.pushwoosh.com
@@ -7484,6 +7496,7 @@
 0.0.0.0 san-www.adobetag.com.edgekey.net
 0.0.0.0 sa.outbrain.com
 0.0.0.0 sargas.iad-03.braze.com
+0.0.0.0 sas53netbynet.visualon.info
 0.0.0.0 sas816.ujikdd041o.cn
 0.0.0.0 sascdn.com
 0.0.0.0 sa.scorecardresearch.com.edgekey.net
@@ -8043,6 +8056,7 @@
 0.0.0.0 smarttds.ru
 0.0.0.0 smetrics1.experian.com
 0.0.0.0 smetrics.aa.com
+0.0.0.0 smetrics.aem.playstation.com
 0.0.0.0 smetrics.att.com
 0.0.0.0 smetrics.att.com.edgekey.net
 0.0.0.0 smetrics.bestbuy.com
@@ -8381,6 +8395,7 @@
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 stats.gioneemobile.net
 0.0.0.0 statsgoogle.appsflyer.com
+0.0.0.0 stats.grafana.org
 0.0.0.0 stats.hbbtv.smartclip.net
 0.0.0.0 stats.huuuge.net
 0.0.0.0 stats.ipinyou.com
@@ -8739,6 +8754,7 @@
 0.0.0.0 telegraph.grapeshot.co.uk
 0.0.0.0 telemetrics.klaviyo.com
 0.0.0.0 telemetries.jeeng.com
+0.0.0.0 telemetry.api.playstation.com
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry.malwarebytes.com
 0.0.0.0 telemetry.sdk.eastus-ssp.appgwv2.inmobi.com
@@ -9257,6 +9273,7 @@
 0.0.0.0 usadmm-ds.dotomi.com
 0.0.0.0 us.adserver.yahoo.com
 0.0.0.0 us-ads.openx.net
+0.0.0.0 usage.influxdata.com
 0.0.0.0 usarmy.vo.llnwd.net
 0.0.0.0 usasync01.admantx.com
 0.0.0.0 usatodaysports-d.openx.net
