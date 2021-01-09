@@ -69,6 +69,7 @@ assets.huluim.com
 assets.ubuntu.com
 beforeitsnews.com
 bet365.com
+beyondsecurity.com
 bi.medscape.com
 binance.com
 bing.net
