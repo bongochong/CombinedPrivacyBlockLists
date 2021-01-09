@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mini CPBL Filters for ABP & uBO
-! Updated: Fri Jan  8 11:09:07 PM MST 2021
+! Updated: Sat Jan  9 04:13:42 PM MST 2021
 ! Expires: 7 Days
 ! License: https://git.io/JTTLW
 ! Homepage: https://git.io/JTTLB
@@ -51251,6 +51251,9 @@
 ! Cosmetic
 4chan.org##body > .mobile.adg-rects
 4channel.org##body > .mobile.adg-rects
+420chan.org##.blarbl[style="font-size:10px;margin-bottom:2px;margin-top:2px;text-align:center;"]:first-child:last-child
+420chan.org##A[target="_blank"]:first-child:last-child
+420chan.org##DIV.tooltip
 0bin.net##.pull-right.about
 affinia.com###things-to-do > .on.overlay-container
 affinia.com##footer > .wrapper > .on.special-message.most-of-screen.full-overlay
