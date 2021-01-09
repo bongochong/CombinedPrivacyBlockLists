@@ -1,4 +1,4 @@
-# Fri Jan  8 07:29:58 PM MST 2021
+# Fri Jan  8 08:16:00 PM MST 2021
 # Piperun IPLoggerFilter Hosts - Generated weekly by bongochong
 0.0.0.0 00689.net
 0.0.0.0 02ip.ru
@@ -845,7 +845,29 @@
 0.0.0.0 xda-developers.us
 0.0.0.0 xgfgt.cn
 0.0.0.0 xmzbsjgv.icu
+0.0.0.0 xn--battl-b0a.net
+0.0.0.0 xn--discrd-zxa.com
+0.0.0.0 xn--disordapp-2eb.com
+0.0.0.0 xn--disordapp-s3a.com
+0.0.0.0 xn--gur-mma9668a.com
+0.0.0.0 xn--hackfrums-ksd.com
+0.0.0.0 xn--hackfrums-ksd.net
+0.0.0.0 xn--imgr-sra.com
+0.0.0.0 xn--minecrft-5za.com
+0.0.0.0 xn--oole-9wao.com
+0.0.0.0 xn--rddt-lpa0a.com
+0.0.0.0 xn--shrt-6qa.co
+0.0.0.0 xn--sptify-xxa.com
+0.0.0.0 xn--srahah-bua.eu
+0.0.0.0 xn--srahah-bua.pl
+0.0.0.0 xn--sype-l0a.com
+0.0.0.0 xn--twiter-rkb.com
 0.0.0.0 xnxx4porn.com
+0.0.0.0 xn--yotbe-lvab.co
+0.0.0.0 xn--yotbe-lvab.com
+0.0.0.0 xn--yotu-1ra.be
+0.0.0.0 xn--yutube-3wa.com
+0.0.0.0 xn--yutube-iqc.com
 0.0.0.0 xn--zqsu8k5y0b.com
 0.0.0.0 xtydt.icu
 0.0.0.0 xupjsw.icu
@@ -877,25 +899,3 @@
 0.0.0.0 zoneoccupee.com
 0.0.0.0 zzb.bz
 0.0.0.0 zzssfc.tk
-0.0.0.0 xn--battl-b0a.net
-0.0.0.0 xn--disordapp-2eb.com
-0.0.0.0 xn--disordapp-s3a.com
-0.0.0.0 xn--discrd-zxa.com
-0.0.0.0 xn--oole-9wao.com
-0.0.0.0 xn--hackfrums-ksd.com
-0.0.0.0 xn--hackfrums-ksd.net
-0.0.0.0 xn--imgr-sra.com
-0.0.0.0 xn--gur-mma9668a.com
-0.0.0.0 xn--minecrft-5za.com
-0.0.0.0 xn--rddt-lpa0a.com
-0.0.0.0 xn--srahah-bua.eu
-0.0.0.0 xn--srahah-bua.pl
-0.0.0.0 xn--shrt-6qa.co
-0.0.0.0 xn--sptify-xxa.com
-0.0.0.0 xn--sype-l0a.com
-0.0.0.0 xn--twiter-rkb.com
-0.0.0.0 xn--yotu-1ra.be
-0.0.0.0 xn--yotbe-lvab.co
-0.0.0.0 xn--yotbe-lvab.com
-0.0.0.0 xn--yutube-3wa.com
-0.0.0.0 xn--yutube-iqc.com

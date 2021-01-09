@@ -1,4 +1,4 @@
-# Fri Jan  8 07:29:30 PM MST 2021
+# Fri Jan  8 08:15:31 PM MST 2021
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -35333,6 +35333,9 @@
 0.0.0.0 xn--3bs795g.zone
 0.0.0.0 xn--4gqqc629gbju.com
 0.0.0.0 xn--4gqvdz18f.xyz
+0.0.0.0 xn-----7kcnh2ac3afebiffxijf2d6a5e.xn--p1ai
+0.0.0.0 xn--80abnuns.xn--p1acf
+0.0.0.0 xn--80affy2c3b.xn--p1ai
 0.0.0.0 xn--9kq745jwng.ink
 0.0.0.0 xn--9kq745jwng.work
 0.0.0.0 xncgroup.cn
@@ -35360,6 +35363,7 @@
 0.0.0.0 x-nomer.com
 0.0.0.0 xn--peeticdd-eza.com
 0.0.0.0 xn--tst552fo5s.xyz
+0.0.0.0 xn--u1aaw.xn--p1ai
 0.0.0.0 xn--upgulpinn-71a.com
 0.0.0.0 xn--wcsy74a6d835f5lf.com
 0.0.0.0 xnwndbef.com
@@ -37035,7 +37039,3 @@
 0.0.0.0 zzxlukodff.com
 0.0.0.0 zzyonghao.com
 0.0.0.0 zzznews.ru
-0.0.0.0 xn--80abnuns.xn--p1acf
-0.0.0.0 xn-----7kcnh2ac3afebiffxijf2d6a5e.xn--p1ai
-0.0.0.0 xn--80affy2c3b.xn--p1ai
-0.0.0.0 xn--u1aaw.xn--p1ai

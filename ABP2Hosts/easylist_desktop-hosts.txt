@@ -1,4 +1,4 @@
-# Fri Jan  8 07:29:43 PM MST 2021
+# Fri Jan  8 08:15:45 PM MST 2021
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0024aaaa.com
 0.0.0.0 003store.com
@@ -14150,6 +14150,7 @@
 0.0.0.0 hunpp.com
 0.0.0.0 hunt-leads.com
 0.0.0.0 huodiyun.cn
+0.0.0.0 huosuniao.com
 0.0.0.0 huovernment.club
 0.0.0.0 huoyiad1.cn
 0.0.0.0 hupsouft.net
