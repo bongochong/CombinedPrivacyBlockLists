@@ -1,4 +1,4 @@
-// **** Mon Jan  4 02:47:05 PM MST 2021
+// **** Fri Jan  8 07:38:29 PM MST 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -354,6 +354,7 @@ shExpMatch(host, '*.abo-arish.net') ||
 shExpMatch(host, '*.abonnement-xboxlive.fr') ||
 shExpMatch(host, '*.abonnementxbox-live.fr') ||
 shExpMatch(host, '*.abonnementxboxlive.net') ||
+shExpMatch(host, '*.aboutads.gr') ||
 shExpMatch(host, '*.aboutconvert.ru') ||
 shExpMatch(host, '*.aboveandbeyondcaregivers.com') ||
 shExpMatch(host, '*.abruptroad.com') ||
@@ -638,7 +639,6 @@ shExpMatch(host, '*.adk2.co') ||
 shExpMatch(host, '*.adk2.com') ||
 shExpMatch(host, '*.ad.keenspace.com') ||
 shExpMatch(host, '*.adkinnovations.com') ||
-shExpMatch(host, '*.ad.kissanime.nz') ||
 shExpMatch(host, '*.adland.ru') ||
 shExpMatch(host, '*.adlantic.nl') ||
 shExpMatch(host, '*.ad.leadbolt.net') ||
@@ -976,6 +976,7 @@ shExpMatch(host, '*.ads.epi.sk') ||
 shExpMatch(host, '*.ads.epltalk.com') ||
 shExpMatch(host, '*.adserv.cn') ||
 shExpMatch(host, '*.adserve.ams.rhythmxchange.com') ||
+shExpMatch(host, '*.adserve.gkeurope.de') ||
 shExpMatch(host, '*.adserve.io') ||
 shExpMatch(host, '*.adserve.jbs.org') ||
 shExpMatch(host, '*.adserver01.de') ||
@@ -999,6 +1000,7 @@ shExpMatch(host, '*.adserver.bdoce.cl') ||
 shExpMatch(host, '*.adserver.beggarspromo.com') ||
 shExpMatch(host, '*.adserver.betandwin.de') ||
 shExpMatch(host, '*.adserver.bing.com') ||
+shExpMatch(host, '*.adserver.bizedge.com') ||
 shExpMatch(host, '*.adserver.bizhat.com') ||
 shExpMatch(host, '*.adserver.break-even.it') ||
 shExpMatch(host, '*.adserver.cams.com') ||
@@ -1038,6 +1040,7 @@ shExpMatch(host, '*.adserver.nydailynews.com') ||
 shExpMatch(host, '*.adserver.o2.pl') ||
 shExpMatch(host, '*.adserver.oddschecker.com') ||
 shExpMatch(host, '*.adserver.omroepzeeland.nl') ||
+shExpMatch(host, '*.adserver.otthonom.hu') ||
 shExpMatch(host, '*.adserver.pampa.com.br') ||
 shExpMatch(host, '*.ad-serverparc.nl') ||
 shExpMatch(host, '*.adserver.pl') ||
@@ -1056,6 +1059,7 @@ shExpMatch(host, '*.adserversolutions.com') ||
 shExpMatch(host, '*.adserver.spankaway.com') ||
 shExpMatch(host, '*.adserver.startnow.com') ||
 shExpMatch(host, '*.adserver.theonering.net') ||
+shExpMatch(host, '*.adserver.trojaner-info.de') ||
 shExpMatch(host, '*.adserver.twitpic.com') ||
 shExpMatch(host, '*.adserver.viagogo.com') ||
 shExpMatch(host, '*.adserver.virginmedia.com') ||
@@ -1161,7 +1165,6 @@ shExpMatch(host, '*.ads.imgur.com') ||
 shExpMatch(host, '*.ads.independent.com.mt') ||
 shExpMatch(host, '*.ads.indiatimes.com') ||
 shExpMatch(host, '*.ads.infi.net') ||
-shExpMatch(host, '*.ads.internet24.se') ||
 shExpMatch(host, '*.ads.internic.co.il') ||
 shExpMatch(host, '*.ads.ipowerweb.com') ||
 shExpMatch(host, '*.ads.isoftmarketing.com') ||
@@ -6699,7 +6702,6 @@ shExpMatch(host, '*.free-lol-skins.org') ||
 shExpMatch(host, '*.freelyupload.com') ||
 shExpMatch(host, '*.freemacbookpro.eu') ||
 shExpMatch(host, '*.freemaddencoins.com') ||
-shExpMatch(host, '*.freemaineads.com') ||
 shExpMatch(host, '*.freemazon.org') ||
 shExpMatch(host, '*.freemcaccount.com') ||
 shExpMatch(host, '*.freemcdonalds.holidayvoucher.us') ||
@@ -8678,6 +8680,7 @@ shExpMatch(host, '*.hyperbanner.net') ||
 shExpMatch(host, '*.hyperhacks.net') ||
 shExpMatch(host, '*.hypertracker.com') ||
 shExpMatch(host, '*.hyprmx.com') ||
+shExpMatch(host, '*.hyros.com') ||
 shExpMatch(host, '*.hystericalhelp.com') ||
 shExpMatch(host, '*.hzdmr.com') ||
 shExpMatch(host, '*.hznverhong.com') ||
@@ -13156,6 +13159,7 @@ shExpMatch(host, '*.seeq.com.invalid') ||
 shExpMatch(host, '*.sef7at.com') ||
 shExpMatch(host, '*.sega-rom.com') ||
 shExpMatch(host, '*.segling.org') ||
+shExpMatch(host, '*.segmetrics.io') ||
 shExpMatch(host, '*.sehabinden.com') ||
 shExpMatch(host, '*.seiinmovimento.it') ||
 shExpMatch(host, '*.seikopacking.cn') ||
@@ -14050,6 +14054,7 @@ shExpMatch(host, '*.steamskins.ru') ||
 shExpMatch(host, '*.steamtommunity.com') ||
 shExpMatch(host, '*.steamtools.co') ||
 shExpMatch(host, '*.steamtops.com') ||
+shExpMatch(host, '*.steamtradesrep.com') ||
 shExpMatch(host, '*.steamtrade.store') ||
 shExpMatch(host, '*.steamunibets.com') ||
 shExpMatch(host, '*.steamwalletadder.com') ||
@@ -16942,6 +16947,7 @@ shExpMatch(host, 'abo-arish.net') ||
 shExpMatch(host, 'abonnement-xboxlive.fr') ||
 shExpMatch(host, 'abonnementxbox-live.fr') ||
 shExpMatch(host, 'abonnementxboxlive.net') ||
+shExpMatch(host, 'aboutads.gr') ||
 shExpMatch(host, 'aboutconvert.ru') ||
 shExpMatch(host, 'aboveandbeyondcaregivers.com') ||
 shExpMatch(host, 'abruptroad.com') ||
@@ -17226,7 +17232,6 @@ shExpMatch(host, 'adk2.co') ||
 shExpMatch(host, 'adk2.com') ||
 shExpMatch(host, 'ad.keenspace.com') ||
 shExpMatch(host, 'adkinnovations.com') ||
-shExpMatch(host, 'ad.kissanime.nz') ||
 shExpMatch(host, 'adland.ru') ||
 shExpMatch(host, 'adlantic.nl') ||
 shExpMatch(host, 'ad.leadbolt.net') ||
@@ -17564,6 +17569,7 @@ shExpMatch(host, 'ads.epi.sk') ||
 shExpMatch(host, 'ads.epltalk.com') ||
 shExpMatch(host, 'adserv.cn') ||
 shExpMatch(host, 'adserve.ams.rhythmxchange.com') ||
+shExpMatch(host, 'adserve.gkeurope.de') ||
 shExpMatch(host, 'adserve.io') ||
 shExpMatch(host, 'adserve.jbs.org') ||
 shExpMatch(host, 'adserver01.de') ||
@@ -17587,6 +17593,7 @@ shExpMatch(host, 'adserver.bdoce.cl') ||
 shExpMatch(host, 'adserver.beggarspromo.com') ||
 shExpMatch(host, 'adserver.betandwin.de') ||
 shExpMatch(host, 'adserver.bing.com') ||
+shExpMatch(host, 'adserver.bizedge.com') ||
 shExpMatch(host, 'adserver.bizhat.com') ||
 shExpMatch(host, 'adserver.break-even.it') ||
 shExpMatch(host, 'adserver.cams.com') ||
@@ -17626,6 +17633,7 @@ shExpMatch(host, 'adserver.nydailynews.com') ||
 shExpMatch(host, 'adserver.o2.pl') ||
 shExpMatch(host, 'adserver.oddschecker.com') ||
 shExpMatch(host, 'adserver.omroepzeeland.nl') ||
+shExpMatch(host, 'adserver.otthonom.hu') ||
 shExpMatch(host, 'adserver.pampa.com.br') ||
 shExpMatch(host, 'ad-serverparc.nl') ||
 shExpMatch(host, 'adserver.pl') ||
@@ -17644,6 +17652,7 @@ shExpMatch(host, 'adserversolutions.com') ||
 shExpMatch(host, 'adserver.spankaway.com') ||
 shExpMatch(host, 'adserver.startnow.com') ||
 shExpMatch(host, 'adserver.theonering.net') ||
+shExpMatch(host, 'adserver.trojaner-info.de') ||
 shExpMatch(host, 'adserver.twitpic.com') ||
 shExpMatch(host, 'adserver.viagogo.com') ||
 shExpMatch(host, 'adserver.virginmedia.com') ||
@@ -17749,7 +17758,6 @@ shExpMatch(host, 'ads.imgur.com') ||
 shExpMatch(host, 'ads.independent.com.mt') ||
 shExpMatch(host, 'ads.indiatimes.com') ||
 shExpMatch(host, 'ads.infi.net') ||
-shExpMatch(host, 'ads.internet24.se') ||
 shExpMatch(host, 'ads.internic.co.il') ||
 shExpMatch(host, 'ads.ipowerweb.com') ||
 shExpMatch(host, 'ads.isoftmarketing.com') ||
@@ -23287,7 +23295,6 @@ shExpMatch(host, 'free-lol-skins.org') ||
 shExpMatch(host, 'freelyupload.com') ||
 shExpMatch(host, 'freemacbookpro.eu') ||
 shExpMatch(host, 'freemaddencoins.com') ||
-shExpMatch(host, 'freemaineads.com') ||
 shExpMatch(host, 'freemazon.org') ||
 shExpMatch(host, 'freemcaccount.com') ||
 shExpMatch(host, 'freemcdonalds.holidayvoucher.us') ||
@@ -25266,6 +25273,7 @@ shExpMatch(host, 'hyperbanner.net') ||
 shExpMatch(host, 'hyperhacks.net') ||
 shExpMatch(host, 'hypertracker.com') ||
 shExpMatch(host, 'hyprmx.com') ||
+shExpMatch(host, 'hyros.com') ||
 shExpMatch(host, 'hystericalhelp.com') ||
 shExpMatch(host, 'hzdmr.com') ||
 shExpMatch(host, 'hznverhong.com') ||
@@ -29744,6 +29752,7 @@ shExpMatch(host, 'seeq.com.invalid') ||
 shExpMatch(host, 'sef7at.com') ||
 shExpMatch(host, 'sega-rom.com') ||
 shExpMatch(host, 'segling.org') ||
+shExpMatch(host, 'segmetrics.io') ||
 shExpMatch(host, 'sehabinden.com') ||
 shExpMatch(host, 'seiinmovimento.it') ||
 shExpMatch(host, 'seikopacking.cn') ||
@@ -30638,6 +30647,7 @@ shExpMatch(host, 'steamskins.ru') ||
 shExpMatch(host, 'steamtommunity.com') ||
 shExpMatch(host, 'steamtools.co') ||
 shExpMatch(host, 'steamtops.com') ||
+shExpMatch(host, 'steamtradesrep.com') ||
 shExpMatch(host, 'steamtrade.store') ||
 shExpMatch(host, 'steamunibets.com') ||
 shExpMatch(host, 'steamwalletadder.com') ||
