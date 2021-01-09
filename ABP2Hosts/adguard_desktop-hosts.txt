@@ -1,4 +1,4 @@
-# Fri Jan  8 08:31:25 PM MST 2021
+# Fri Jan  8 10:46:34 PM MST 2021
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 00-gov.cn
 0.0.0.0 0024aaaa.com
@@ -15655,6 +15655,7 @@
 0.0.0.0 hunt-leads.com
 0.0.0.0 hunterdelivery.com
 0.0.0.0 huodiyun.cn
+0.0.0.0 huosuniao.com
 0.0.0.0 huovernment.club
 0.0.0.0 huoyiad1.cn
 0.0.0.0 hupsouft.net
@@ -20906,6 +20907,7 @@
 0.0.0.0 mogointeractive.com
 0.0.0.0 moguldom.com
 0.0.0.0 moguozhi.com
+0.0.0.0 mohaijishu.cn
 0.0.0.0 mohammequhe.site
 0.0.0.0 mohini-ger.com
 0.0.0.0 mohqurakhwvf.com

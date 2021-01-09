@@ -1,4 +1,4 @@
-# Fri Jan  8 08:31:39 PM MST 2021
+# Fri Jan  8 10:46:48 PM MST 2021
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 00-gov.cn
 0.0.0.0 0024aaaa.com
@@ -6757,7 +6757,6 @@
 0.0.0.0 chronicleisoconfused.com
 0.0.0.0 chrumedia.com
 0.0.0.0 chspracteri.fun
-0.0.0.0 chtbl.com
 0.0.0.0 chuangyixi.com
 0.0.0.0 chucity.com
 0.0.0.0 chufudsi.net
