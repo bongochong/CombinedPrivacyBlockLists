@@ -1,4 +1,4 @@
-# Fri Jan  8 10:46:17 PM MST 2021
+# Tue Jan 12 02:35:49 PM MST 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -422,6 +422,7 @@
 0.0.0.0 ad-api.ehawk.com
 0.0.0.0 ad-brix.com
 0.0.0.0 ad-cloud.jp
+0.0.0.0 ad-creative.projectcarmen.com
 0.0.0.0 ad-creatives-public.commondatastorage.googleapis.com
 0.0.0.0 ad-delivery.net
 0.0.0.0 ad-emea.doubleclick.net
@@ -1378,6 +1379,7 @@
 0.0.0.0 analytics.po.st
 0.0.0.0 analytics.pokki.com
 0.0.0.0 analytics.prod.mybuddy.ai
+0.0.0.0 analytics.projectcarmen.com
 0.0.0.0 analytics.publitas.com
 0.0.0.0 analytics.qoqa.ch
 0.0.0.0 analytics.qoqa.com
@@ -3769,6 +3771,7 @@
 0.0.0.0 didna-d.openx.net
 0.0.0.0 diff.smartadserver.com
 0.0.0.0 diff3.smartadserver.com
+0.0.0.0 digianalytics.airtel.in
 0.0.0.0 digicertwc.rubiconproject.com.edgekey.net
 0.0.0.0 digikulture-d.openx.net
 0.0.0.0 digitalfirstmedia.blueconic.net
@@ -5664,6 +5667,7 @@
 0.0.0.0 logger.ntracecloud.com
 0.0.0.0 logger.zcoup.com
 0.0.0.0 logging.admicro.vn
+0.0.0.0 logging.api.intuit.com
 0.0.0.0 logging.carambo.la
 0.0.0.0 logging.fishsticksgames.com
 0.0.0.0 login-ds.dotomi.com
@@ -6111,6 +6115,7 @@
 0.0.0.0 monitor-tools.cn.miaozhen.com
 0.0.0.0 monitor.adcaffe.com
 0.0.0.0 monitor.uu.qq.com
+0.0.0.0 monitoring-sdk.experimentation.intuit.com
 0.0.0.0 monitorsdk.appsflyer.com
 0.0.0.0 mookie1.com
 0.0.0.0 mookie1.com.edgekey.net
@@ -7490,7 +7495,6 @@
 0.0.0.0 s.moatpixel.com
 0.0.0.0 s.mobile-global.baidu.com
 0.0.0.0 s.mopub.com
-0.0.0.0 s.mxmcdn.net
 0.0.0.0 s.ntv.io
 0.0.0.0 s.nvrentao8.com
 0.0.0.0 s.po.st
