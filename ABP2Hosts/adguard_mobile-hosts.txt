@@ -1,4 +1,4 @@
-# Tue Jan 12 02:35:49 PM MST 2021
+# Sat Jan 16 04:50:40 PM MST 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -3030,6 +3030,7 @@
 0.0.0.0 ckmap.mediav.com
 0.0.0.0 cks.connatix.com
 0.0.0.0 cks.mynativeplatform.com
+0.0.0.0 cl-ad.x-flow.app
 0.0.0.0 cl-gmtdmp.mookie1.com
 0.0.0.0 cl6.perimeterx.net
 0.0.0.0 clad.perfectcorp.com
@@ -5960,6 +5961,7 @@
 0.0.0.0 metrics.fedex.com
 0.0.0.0 metrics.fidelity.com.edgekey.net
 0.0.0.0 metrics.hackerrank.com.edgekey.net
+0.0.0.0 metrics.happycolor.app
 0.0.0.0 metrics.macys.net
 0.0.0.0 metrics.roblox.com
 0.0.0.0 metrics.sdkbox.com
@@ -9017,6 +9019,7 @@
 0.0.0.0 trackimpression.com
 0.0.0.0 tracking-1611167402.us-east-1.elb.amazonaws.com
 0.0.0.0 tracking-1659963975.ap-southeast-1.elb.amazonaws.com
+0.0.0.0 tracking-receiver.prod-general.stocard-backend.com
 0.0.0.0 tracking-server-prod-1.zenmxapps.com
 0.0.0.0 tracking.aatkit.com
 0.0.0.0 tracking.acekoala.com
@@ -9457,7 +9460,6 @@
 0.0.0.0 vastx.moatads.com
 0.0.0.0 vcardsdkservice.vivo.com.cn
 0.0.0.0 vcdn.adnxs.com
-0.0.0.0 vcdn.biz
 0.0.0.0 vcdn.media.innity.net
 0.0.0.0 vcm-match.dotomi.com
 0.0.0.0 vcore.connatix.com
