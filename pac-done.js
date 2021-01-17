@@ -1,4 +1,4 @@
-// **** Tue Jan 12 02:39:57 PM MST 2021
+// **** Sat Jan 16 04:57:09 PM MST 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -427,6 +427,7 @@ shExpMatch(host, '*.ad-balancer.at') ||
 shExpMatch(host, '*.ad-balancer.net') ||
 shExpMatch(host, '*.ad-center.com') ||
 shExpMatch(host, '*.ad-check.disconnect.me') ||
+shExpMatch(host, '*.ad-cupid.com') ||
 shExpMatch(host, '*.ad-delivery.net') ||
 shExpMatch(host, '*.ad-images.suntimes.com') ||
 shExpMatch(host, '*.ad-pay.de') ||
@@ -1450,6 +1451,7 @@ shExpMatch(host, '*.adservinginternational.com') ||
 shExpMatch(host, '*.adsfac.eu') ||
 shExpMatch(host, '*.adsfac.net') ||
 shExpMatch(host, '*.adsfac.us') ||
+shExpMatch(host, '*.adsfactor.net') ||
 shExpMatch(host, '*.adsfeed.brabys.com') ||
 shExpMatch(host, '*.adshiftmedia.com') ||
 shExpMatch(host, '*.adshost1.com') ||
@@ -1726,6 +1728,7 @@ shExpMatch(host, '*.albumdownloadfree.com') ||
 shExpMatch(host, '*.albumleak.freehst.com') ||
 shExpMatch(host, '*.albumleaked.com') ||
 shExpMatch(host, '*.alburyaccounting.com.au') ||
+shExpMatch(host, '*.alchemist.go2cloud.org') ||
 shExpMatch(host, '*.alclick.com') ||
 shExpMatch(host, '*.alcoenterprises.com') ||
 shExpMatch(host, '*.aldenfiles.com') ||
@@ -2192,6 +2195,7 @@ shExpMatch(host, '*.atkinsmusquee.net') ||
 shExpMatch(host, '*.atlanticcustombrokers.com') ||
 shExpMatch(host, '*.atlashacks.com') ||
 shExpMatch(host, '*.atlassolutions.com') ||
+shExpMatch(host, '*.ato.mx') ||
 shExpMatch(host, '*.atomhack.net') ||
 shExpMatch(host, '*.atomic.sharezips.info') ||
 shExpMatch(host, '*.atomicwallet.pro') ||
@@ -9172,6 +9176,7 @@ shExpMatch(host, '*.jailbreakspace.net') ||
 shExpMatch(host, '*.jailbreaktut.com') ||
 shExpMatch(host, '*.jailbreakyourps4.com') ||
 shExpMatch(host, '*.jailbroken.co') ||
+shExpMatch(host, '*.jaizouji.com') ||
 shExpMatch(host, '*.jakahi.ru') ||
 shExpMatch(host, '*.jakklong.com') ||
 shExpMatch(host, '*.jam-kim.ru') ||
@@ -9867,6 +9872,7 @@ shExpMatch(host, '*.lofeier.com') ||
 shExpMatch(host, '*.log.btopenworld.com') ||
 shExpMatch(host, '*.log.logrocket.io') ||
 shExpMatch(host, '*.log.pinterest.com') ||
+shExpMatch(host, '*.log.videocampaign.co') ||
 shExpMatch(host, '*.logabc.pro') ||
 shExpMatch(host, '*.logangmerch.us') ||
 shExpMatch(host, '*.logger.snackly.co') ||
@@ -14809,6 +14815,7 @@ shExpMatch(host, '*.track.gawker.com') ||
 shExpMatch(host, '*.track.hexcan.com') ||
 shExpMatch(host, '*.track.mailerlite.com') ||
 shExpMatch(host, '*.track.nuxues.com') ||
+shExpMatch(host, '*.track.themaccleanup.info') ||
 shExpMatch(host, '*.track.tkbo.com') ||
 shExpMatch(host, '*.track.ultravpn.com') ||
 shExpMatch(host, '*.track.undressingpics.work') ||
@@ -17022,6 +17029,7 @@ shExpMatch(host, 'ad-balancer.at') ||
 shExpMatch(host, 'ad-balancer.net') ||
 shExpMatch(host, 'ad-center.com') ||
 shExpMatch(host, 'ad-check.disconnect.me') ||
+shExpMatch(host, 'ad-cupid.com') ||
 shExpMatch(host, 'ad-delivery.net') ||
 shExpMatch(host, 'ad-images.suntimes.com') ||
 shExpMatch(host, 'ad-pay.de') ||
@@ -18045,6 +18053,7 @@ shExpMatch(host, 'adservinginternational.com') ||
 shExpMatch(host, 'adsfac.eu') ||
 shExpMatch(host, 'adsfac.net') ||
 shExpMatch(host, 'adsfac.us') ||
+shExpMatch(host, 'adsfactor.net') ||
 shExpMatch(host, 'adsfeed.brabys.com') ||
 shExpMatch(host, 'adshiftmedia.com') ||
 shExpMatch(host, 'adshost1.com') ||
@@ -18321,6 +18330,7 @@ shExpMatch(host, 'albumdownloadfree.com') ||
 shExpMatch(host, 'albumleak.freehst.com') ||
 shExpMatch(host, 'albumleaked.com') ||
 shExpMatch(host, 'alburyaccounting.com.au') ||
+shExpMatch(host, 'alchemist.go2cloud.org') ||
 shExpMatch(host, 'alclick.com') ||
 shExpMatch(host, 'alcoenterprises.com') ||
 shExpMatch(host, 'aldenfiles.com') ||
@@ -18787,6 +18797,7 @@ shExpMatch(host, 'atkinsmusquee.net') ||
 shExpMatch(host, 'atlanticcustombrokers.com') ||
 shExpMatch(host, 'atlashacks.com') ||
 shExpMatch(host, 'atlassolutions.com') ||
+shExpMatch(host, 'ato.mx') ||
 shExpMatch(host, 'atomhack.net') ||
 shExpMatch(host, 'atomic.sharezips.info') ||
 shExpMatch(host, 'atomicwallet.pro') ||
@@ -25767,6 +25778,7 @@ shExpMatch(host, 'jailbreakspace.net') ||
 shExpMatch(host, 'jailbreaktut.com') ||
 shExpMatch(host, 'jailbreakyourps4.com') ||
 shExpMatch(host, 'jailbroken.co') ||
+shExpMatch(host, 'jaizouji.com') ||
 shExpMatch(host, 'jakahi.ru') ||
 shExpMatch(host, 'jakklong.com') ||
 shExpMatch(host, 'jam-kim.ru') ||
@@ -26462,6 +26474,7 @@ shExpMatch(host, 'lofeier.com') ||
 shExpMatch(host, 'log.btopenworld.com') ||
 shExpMatch(host, 'log.logrocket.io') ||
 shExpMatch(host, 'log.pinterest.com') ||
+shExpMatch(host, 'log.videocampaign.co') ||
 shExpMatch(host, 'logabc.pro') ||
 shExpMatch(host, 'logangmerch.us') ||
 shExpMatch(host, 'logger.snackly.co') ||
@@ -31404,6 +31417,7 @@ shExpMatch(host, 'track.gawker.com') ||
 shExpMatch(host, 'track.hexcan.com') ||
 shExpMatch(host, 'track.mailerlite.com') ||
 shExpMatch(host, 'track.nuxues.com') ||
+shExpMatch(host, 'track.themaccleanup.info') ||
 shExpMatch(host, 'track.tkbo.com') ||
 shExpMatch(host, 'track.ultravpn.com') ||
 shExpMatch(host, 'track.undressingpics.work') ||
