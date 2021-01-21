@@ -1,6 +1,7 @@
 **Please Consider Donating**  
 Along with donating through the Brave *Tip* button, you can also donate with the following crypto-currencies:
 
+
 **BitCoin**:
 33K5KYsQsX4uxQyiGQkyxtiPo68tfzSHa7
 
