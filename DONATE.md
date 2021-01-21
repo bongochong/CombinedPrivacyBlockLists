@@ -1,4 +1,9 @@
 **Please Consider Donating**
+
+---
+
+Along with donating through the Brave *Tip* button, you can also donate with the following crypto-currencies:
+
 ---
 
 **BitCoin**:
@@ -31,6 +36,11 @@ JKUM2ATRQMLVQCT6ZZJL3TLCNHL3P4EDNSMUWN7BD23J5XHY7MOTL2LVHQ
 
 ---
 
+**Basic Attention Token**:
+0x3bA48404E1A05083bd4160aB9f5E628A53Df42e4
+
+---
+
 **Cosmos**:
 cosmos13ys7rvydaf525a33qgcpktddhvalj0gxq0ty8l
 
@@ -41,8 +51,18 @@ cosmos13ys7rvydaf525a33qgcpktddhvalj0gxq0ty8l
 
 ---
 
+**The Graph**:
+0x7bF62bdd8B270Db9b9B1177Ea28a12a05b8D2FE9
+
+---
+
 **OMG**:
 0x63eB38FB99F0866De157E1311D308441BD22F64E
+
+---
+
+**NuCypher**:
+0x070699fCb9bb0E66fF4AfB10570b2Ee917cF74a6
 
 ---
 
