@@ -1,4 +1,4 @@
-// **** Sat Jan 16 04:57:09 PM MST 2021
+// **** Thu Jan 21 03:20:54 PM MST 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -590,6 +590,7 @@ shExpMatch(host, '*.adaranth.com') ||
 shExpMatch(host, '*.adascorp.com') ||
 shExpMatch(host, '*.adbanner.ro') ||
 shExpMatch(host, '*.adbard.net') ||
+shExpMatch(host, '*.adbilty.me') ||
 shExpMatch(host, '*.adblade.com') ||
 shExpMatch(host, '*.adblade.org') ||
 shExpMatch(host, '*.adblockanalytics.com') ||
@@ -3035,6 +3036,8 @@ shExpMatch(host, '*.brokeneagledlc.goblogz.net') ||
 shExpMatch(host, '*.brokeneagledlc.sharezips.info') ||
 shExpMatch(host, '*.bronotak.cn') ||
 shExpMatch(host, '*.bronzesage.ru') ||
+shExpMatch(host, '*.browser-http-intake.logs.datadoghq.com') ||
+shExpMatch(host, '*.browser-http-intake.logs.datadoghq.eu') ||
 shExpMatch(host, '*.browsergamescheats.net') ||
 shExpMatch(host, '*.browserupdaters.com') ||
 shExpMatch(host, '*.brozsearch.com') ||
@@ -9884,8 +9887,6 @@ shExpMatch(host, '*.login2facebook.com') ||
 shExpMatch(host, '*.loginnewman.in') ||
 shExpMatch(host, '*.loginthief.com') ||
 shExpMatch(host, '*.logodesignfreelance.com') ||
-shExpMatch(host, '*.logs.datadoghq.com') ||
-shExpMatch(host, '*.logs.datadoghq.eu') ||
 shExpMatch(host, '*.logs.roku.com') ||
 shExpMatch(host, '*.logs.spilgames.com') ||
 shExpMatch(host, '*.logsss.com') ||
@@ -12955,6 +12956,8 @@ shExpMatch(host, '*.rubiconproject.com') ||
 shExpMatch(host, '*.ruby-files.com') ||
 shExpMatch(host, '*.ruigena.com') ||
 shExpMatch(host, '*.rujascur.ru') ||
+shExpMatch(host, '*.rum-http-intake.logs.datadoghq.com') ||
+shExpMatch(host, '*.rum-http-intake.logs.datadoghq.eu') ||
 shExpMatch(host, '*.rumblefighterhacks.com') ||
 shExpMatch(host, '*.runads.com') ||
 shExpMatch(host, '*.runandgunpack.sharezips.info') ||
@@ -13952,6 +13955,7 @@ shExpMatch(host, '*.stats.directnic.com') ||
 shExpMatch(host, '*.stats.hyperinzerce.cz') ||
 shExpMatch(host, '*.stats.merriam-webster.com') ||
 shExpMatch(host, '*.stats.mirrorfootball.co.uk') ||
+shExpMatch(host, '*.stats.nextgen-email.com') ||
 shExpMatch(host, '*.stats.olark.com') ||
 shExpMatch(host, '*.stats.pusher.com') ||
 shExpMatch(host, '*.stats.rdphv.net') ||
@@ -15535,6 +15539,7 @@ shExpMatch(host, '*.visitpath.com') ||
 shExpMatch(host, '*.visual-pagerank.fr') ||
 shExpMatch(host, '*.visualagesachievement.org') ||
 shExpMatch(host, '*.visualrevenue.com') ||
+shExpMatch(host, '*.vivads.net') ||
 shExpMatch(host, '*.vivahacks.com') ||
 shExpMatch(host, '*.vivamariapizza.com') ||
 shExpMatch(host, '*.vivtracking.com') ||
@@ -16166,6 +16171,7 @@ shExpMatch(host, '*.xclicks.net') ||
 shExpMatch(host, '*.xclusivedigital.com') ||
 shExpMatch(host, '*.xcounter.ru') ||
 shExpMatch(host, '*.xcracked.com') ||
+shExpMatch(host, '*.xcsypkknp.com') ||
 shExpMatch(host, '*.xda-developers.io') ||
 shExpMatch(host, '*.xda-developers.us') ||
 shExpMatch(host, '*.xe6.ru') ||
@@ -17192,6 +17198,7 @@ shExpMatch(host, 'adaranth.com') ||
 shExpMatch(host, 'adascorp.com') ||
 shExpMatch(host, 'adbanner.ro') ||
 shExpMatch(host, 'adbard.net') ||
+shExpMatch(host, 'adbilty.me') ||
 shExpMatch(host, 'adblade.com') ||
 shExpMatch(host, 'adblade.org') ||
 shExpMatch(host, 'adblockanalytics.com') ||
@@ -19637,6 +19644,8 @@ shExpMatch(host, 'brokeneagledlc.goblogz.net') ||
 shExpMatch(host, 'brokeneagledlc.sharezips.info') ||
 shExpMatch(host, 'bronotak.cn') ||
 shExpMatch(host, 'bronzesage.ru') ||
+shExpMatch(host, 'browser-http-intake.logs.datadoghq.com') ||
+shExpMatch(host, 'browser-http-intake.logs.datadoghq.eu') ||
 shExpMatch(host, 'browsergamescheats.net') ||
 shExpMatch(host, 'browserupdaters.com') ||
 shExpMatch(host, 'brozsearch.com') ||
@@ -26486,8 +26495,6 @@ shExpMatch(host, 'login2facebook.com') ||
 shExpMatch(host, 'loginnewman.in') ||
 shExpMatch(host, 'loginthief.com') ||
 shExpMatch(host, 'logodesignfreelance.com') ||
-shExpMatch(host, 'logs.datadoghq.com') ||
-shExpMatch(host, 'logs.datadoghq.eu') ||
 shExpMatch(host, 'logs.roku.com') ||
 shExpMatch(host, 'logs.spilgames.com') ||
 shExpMatch(host, 'logsss.com') ||
@@ -29557,6 +29564,8 @@ shExpMatch(host, 'rubiconproject.com') ||
 shExpMatch(host, 'ruby-files.com') ||
 shExpMatch(host, 'ruigena.com') ||
 shExpMatch(host, 'rujascur.ru') ||
+shExpMatch(host, 'rum-http-intake.logs.datadoghq.com') ||
+shExpMatch(host, 'rum-http-intake.logs.datadoghq.eu') ||
 shExpMatch(host, 'rumblefighterhacks.com') ||
 shExpMatch(host, 'runads.com') ||
 shExpMatch(host, 'runandgunpack.sharezips.info') ||
@@ -30554,6 +30563,7 @@ shExpMatch(host, 'stats.directnic.com') ||
 shExpMatch(host, 'stats.hyperinzerce.cz') ||
 shExpMatch(host, 'stats.merriam-webster.com') ||
 shExpMatch(host, 'stats.mirrorfootball.co.uk') ||
+shExpMatch(host, 'stats.nextgen-email.com') ||
 shExpMatch(host, 'stats.olark.com') ||
 shExpMatch(host, 'stats.pusher.com') ||
 shExpMatch(host, 'stats.rdphv.net') ||
@@ -32137,6 +32147,7 @@ shExpMatch(host, 'visitpath.com') ||
 shExpMatch(host, 'visual-pagerank.fr') ||
 shExpMatch(host, 'visualagesachievement.org') ||
 shExpMatch(host, 'visualrevenue.com') ||
+shExpMatch(host, 'vivads.net') ||
 shExpMatch(host, 'vivahacks.com') ||
 shExpMatch(host, 'vivamariapizza.com') ||
 shExpMatch(host, 'vivtracking.com') ||
@@ -32768,6 +32779,7 @@ shExpMatch(host, 'xclicks.net') ||
 shExpMatch(host, 'xclusivedigital.com') ||
 shExpMatch(host, 'xcounter.ru') ||
 shExpMatch(host, 'xcracked.com') ||
+shExpMatch(host, 'xcsypkknp.com') ||
 shExpMatch(host, 'xda-developers.io') ||
 shExpMatch(host, 'xda-developers.us') ||
 shExpMatch(host, 'xe6.ru') ||
