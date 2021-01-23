@@ -144,7 +144,6 @@ connectivitycheck.android.com
 connectivitycheck.gstatic.com
 consent-manager-events.ogury.io
 consent.cookiebot.com
-consent.cookiebot.com 
 consentmanager.mgr.consensu.org
 content.jwplatform.com
 conviva.com

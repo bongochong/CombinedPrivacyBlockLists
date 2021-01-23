@@ -181,7 +181,6 @@ localhost$
 ^0.0.0.0 connectivitycheck.gstatic.com$
 ^0.0.0.0 consent-manager-events.ogury.io$
 ^0.0.0.0 consent.cookiebot.com$
-^0.0.0.0 consent.cookiebot.com $
 ^0.0.0.0 consentmanager.mgr.consensu.org$
 ^0.0.0.0 content.jwplatform.com$
 ^0.0.0.0 conviva.com$
