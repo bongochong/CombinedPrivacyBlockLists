@@ -10,7 +10,7 @@ Along with donating through Brave Rewards, you can also use the following crypto
 ---
 
 **BitCoin Cash**:
-qqflzh3alterxldvchql6wdu88j3aju2hvkheatsav
+18FVWa2p6XdATYbemFkTWwC5rCZ2yEb94L
 
 ---
 
@@ -20,7 +20,7 @@ qqflzh3alterxldvchql6wdu88j3aju2hvkheatsav
 ---
 
 **Ethereum Classic**:
-0x1084975397509FAeef9FBc22bdF61d4cA0a67ef3
+0x184E4EFc4Aa9d9482e96b4e6c193418b8d40817A
 
 ---
 
