@@ -129,6 +129,13 @@ tastyvapor.us###lbFooter
 tastyvapor.us###lbHeader
 tastyvapor.us###mask
 tastyvapor.us##.footer_bottom
+theblockcrypto.com##.modal
+theblockcrypto.com##.modal-
+theblockcrypto.com##.modal-bg
+theblockcrypto.com##.modal-body
+theblockcrypto.com##.modal-body-content
+theblockcrypto.com##.modal-container
+theblockcrypto.com##.modal-retainer
 thepiratebay.se##DIV[style="position: relative; height: 350px; width: 100%; margin: 0px; background: none repeat scroll 0% 0% rgb(0, 0, 0); z-index: 1;"]
 ubuntuce.com###column > center
 unixmen.com##DIV#an-Modal
@@ -140,6 +147,16 @@ vapordna.com###age-check-prompt
 vapordna.com###prompt-background
 vapordna.com##.top_header_banner > p
 washingtonpost.com##.z-eyei-bvs
+||cdn.jsdelivr.net/npm/workbox-cdn*$script,domain=theblockcrypto.com
+||embed.theblockcrypto.com/dist/*/js/chunk*.js$domain=theblockcrypto.com
 ||reddit.com/account/register/?mobile_ui=on&compact_mode=on&experiment_mweb_sso_login_link=enabled&experiment_mweb_google_onetap=onetap_auto$subdocument
 ||redditmedia.com/gtm/jail?
+||tbstat.com*$script,domain=theblockcrypto.com
+||tbstat.com*$xhr,domain=theblockcrypto.com
+||tbstat.com/wp/uploads/*popupbanner*.png$image,domain=theblockcrypto.com
+||theblockcrypto.com/cdn-cgi/*.js$script,domain=theblockcrypto.com
+||theblockcrypto.com/cdn-cgi/*.js$xhr,domain=theblockcrypto.com
+||theblockcrypto.com/sw.js$script,domain=theblockcrypto.com
+||theblockcrypto.com/wp-json/v1/modal*$domain=theblockcrypto.com
+||theblockcrypto.com/wp-json/v1/sponsorships*$domain=theblockcrypto.com
 ~safaribooksonline.com##.subscribe-panel
