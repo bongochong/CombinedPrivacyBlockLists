@@ -129,6 +129,11 @@ tastyvapor.us###lbFooter
 tastyvapor.us###lbHeader
 tastyvapor.us###mask
 tastyvapor.us##.footer_bottom
+theblockcrypto.com##.modal-bg
+theblockcrypto.com##.modal-body
+theblockcrypto.com##.modal-body-content
+theblockcrypto.com##.modal-container
+theblockcrypto.com##.modal-retainer
 thepiratebay.se##DIV[style="position: relative; height: 350px; width: 100%; margin: 0px; background: none repeat scroll 0% 0% rgb(0, 0, 0); z-index: 1;"]
 ubuntuce.com###column > center
 unixmen.com##DIV#an-Modal
