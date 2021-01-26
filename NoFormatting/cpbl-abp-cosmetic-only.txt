@@ -5,12 +5,12 @@
 ! License: https://git.io/JTTLW
 ! Homepage: https://git.io/JTTLB
 ! Issues: https://git.io/JTTL0
-4chan.org##body > .mobile.adg-rects
-4channel.org##body > .mobile.adg-rects
+0bin.net##.pull-right.about
 420chan.org##.blarbl[style="font-size:10px;margin-bottom:2px;margin-top:2px;text-align:center;"]:first-child:last-child
 420chan.org##A[target="_blank"]:first-child:last-child
 420chan.org##DIV.tooltip
-0bin.net##.pull-right.about
+4chan.org##body > .mobile.adg-rects
+4channel.org##body > .mobile.adg-rects
 affinia.com###things-to-do > .on.overlay-container
 affinia.com##footer > .wrapper > .on.special-message.most-of-screen.full-overlay
 apptracker.indeed.com##.apptracker-CovidBanner
@@ -85,6 +85,10 @@ openpirate.org###vpnvpn
 pcworld.com###toaster
 phantasytour.com##.col3
 reddit.com###ad_2
+reddit.com##+js(abort-current-inline-script, adSlots)
+reddit.com##+js(abort-current-inline-script, addScript)
+reddit.com##+js(abort-current-inline-script, googletag.pubads)
+reddit.com##+js(abort-current-inline-script, window.__adslots)
 reddit.com##.Drawer__overlay
 reddit.com##.SignupDrawer__content.Drawer__content
 reddit.com##.TopNav-promoButton
@@ -107,10 +111,6 @@ reddit.com##.xPromoAppStoreFooter
 reddit.com##.xPromoChoiceBanner
 reddit.com##a[href*="alb.reddit.com"]
 reddit.com##a[href*="reddit.app.link"]
-reddit.com##+js(abort-current-inline-script, window.__adslots)
-reddit.com##+js(abort-current-inline-script, googletag.pubads)
-reddit.com##+js(abort-current-inline-script, adSlots)
-reddit.com##+js(abort-current-inline-script, addScript)
 reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
 slant.co##.LustrePromoteModal-Content.Modal-Content
 slant.co##._View.AIHome-TopGradient.AIHome-Gradient.LustreAIPromoteFooter._LustreAIPromoteFooterView
@@ -129,11 +129,6 @@ tastyvapor.us###lbFooter
 tastyvapor.us###lbHeader
 tastyvapor.us###mask
 tastyvapor.us##.footer_bottom
-theblockcrypto.com##.modal-bg
-theblockcrypto.com##.modal-body
-theblockcrypto.com##.modal-body-content
-theblockcrypto.com##.modal-container
-theblockcrypto.com##.modal-retainer
 thepiratebay.se##DIV[style="position: relative; height: 350px; width: 100%; margin: 0px; background: none repeat scroll 0% 0% rgb(0, 0, 0); z-index: 1;"]
 ubuntuce.com###column > center
 unixmen.com##DIV#an-Modal
