@@ -1,4 +1,4 @@
-// **** Thu Jan 21 03:20:54 PM MST 2021
+// **** Tue Jan 26 05:27:11 PM MST 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -11431,7 +11431,6 @@ shExpMatch(host, '*.openfreefile.com') ||
 shExpMatch(host, '*.opengamehack.com') ||
 shExpMatch(host, '*.openmarket.com') ||
 shExpMatch(host, '*.opentag-stats.qubit.com') ||
-shExpMatch(host, '*.openx.actvtech.com') ||
 shExpMatch(host, '*.openx.angelsgroup.org.uk') ||
 shExpMatch(host, '*.openx.aosis.co.za') ||
 shExpMatch(host, '*.openx.blindferret.com') ||
@@ -14393,6 +14392,7 @@ shExpMatch(host, '*.tdska22.ru') ||
 shExpMatch(host, '*.tdstdsotpravka.com') ||
 shExpMatch(host, '*.teads.tv') ||
 shExpMatch(host, '*.tealeaf.com') ||
+shExpMatch(host, '*.tealium.cbsnews.com') ||
 shExpMatch(host, '*.tealium.com') ||
 shExpMatch(host, '*.tealiumiq.com') ||
 shExpMatch(host, '*.team-talker.net') ||
@@ -16171,7 +16171,6 @@ shExpMatch(host, '*.xclicks.net') ||
 shExpMatch(host, '*.xclusivedigital.com') ||
 shExpMatch(host, '*.xcounter.ru') ||
 shExpMatch(host, '*.xcracked.com') ||
-shExpMatch(host, '*.xcsypkknp.com') ||
 shExpMatch(host, '*.xda-developers.io') ||
 shExpMatch(host, '*.xda-developers.us') ||
 shExpMatch(host, '*.xe6.ru') ||
@@ -28039,7 +28038,6 @@ shExpMatch(host, 'openfreefile.com') ||
 shExpMatch(host, 'opengamehack.com') ||
 shExpMatch(host, 'openmarket.com') ||
 shExpMatch(host, 'opentag-stats.qubit.com') ||
-shExpMatch(host, 'openx.actvtech.com') ||
 shExpMatch(host, 'openx.angelsgroup.org.uk') ||
 shExpMatch(host, 'openx.aosis.co.za') ||
 shExpMatch(host, 'openx.blindferret.com') ||
@@ -31001,6 +30999,7 @@ shExpMatch(host, 'tdska22.ru') ||
 shExpMatch(host, 'tdstdsotpravka.com') ||
 shExpMatch(host, 'teads.tv') ||
 shExpMatch(host, 'tealeaf.com') ||
+shExpMatch(host, 'tealium.cbsnews.com') ||
 shExpMatch(host, 'tealium.com') ||
 shExpMatch(host, 'tealiumiq.com') ||
 shExpMatch(host, 'team-talker.net') ||
@@ -32779,7 +32778,6 @@ shExpMatch(host, 'xclicks.net') ||
 shExpMatch(host, 'xclusivedigital.com') ||
 shExpMatch(host, 'xcounter.ru') ||
 shExpMatch(host, 'xcracked.com') ||
-shExpMatch(host, 'xcsypkknp.com') ||
 shExpMatch(host, 'xda-developers.io') ||
 shExpMatch(host, 'xda-developers.us') ||
 shExpMatch(host, 'xe6.ru') ||
