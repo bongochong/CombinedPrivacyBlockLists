@@ -1,4 +1,4 @@
-# Tue Jan 26 04:58:12 PM MST 2021
+# Tue Jan 26 05:20:30 PM MST 2021
 # AdGuard DNS Hosts - Generated weekly by bongochong
 0.0.0.0 00-gov.cn
 0.0.0.0 0024aaaa.com
@@ -1803,6 +1803,7 @@
 0.0.0.0 ablenctionalle.info
 0.0.0.0 ablerivetdoubted.com
 0.0.0.0 ablida-rotation.com
+0.0.0.0 ablida.net
 0.0.0.0 ablsrv.com
 0.0.0.0 abluvdiscr.com
 0.0.0.0 ablybeastssarcastic.com
@@ -19453,6 +19454,7 @@
 0.0.0.0 l.ooyala.com
 0.0.0.0 l.player.ooyala.com
 0.0.0.0 l.sharethis.com
+0.0.0.0 l.typesquare.com
 0.0.0.0 l.www.naver.com
 0.0.0.0 l0-secure.videohub.tv
 0.0.0.0 l0b.ru
@@ -22357,6 +22359,7 @@
 0.0.0.0 moulieres.xyz
 0.0.0.0 mountain.zhidao.baidu.com
 0.0.0.0 mountainouspear.com
+0.0.0.0 mountrs.com
 0.0.0.0 mouse3k.com
 0.0.0.0 mouseflow.com
 0.0.0.0 mousestats.com
@@ -38712,6 +38715,7 @@
 0.0.0.0 z5x.net
 0.0.0.0 z65j.cn
 0.0.0.0 z6vmw.top
+0.0.0.0 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0.0.0.0 z97g.cn
 0.0.0.0 za-ads.de
 0.0.0.0 zabanit.xyz
