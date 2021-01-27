@@ -1,4 +1,4 @@
-# Tue Jan 26 05:20:22 PM MST 2021
+# Tue Jan 26 05:52:01 PM MST 2021
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 00-gov.cn
 0.0.0.0 0024aaaa.com

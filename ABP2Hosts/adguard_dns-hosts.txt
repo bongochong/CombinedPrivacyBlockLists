@@ -1,4 +1,4 @@
-# Tue Jan 26 05:20:30 PM MST 2021
+# Tue Jan 26 05:52:09 PM MST 2021
 # AdGuard DNS Hosts - Generated weekly by bongochong
 0.0.0.0 00-gov.cn
 0.0.0.0 0024aaaa.com
@@ -10209,7 +10209,6 @@
 0.0.0.0 d3hs51abvkuanv.cloudfront.net
 0.0.0.0 d3id4jppiyyek8.cloudfront.net
 0.0.0.0 d3iouejux1os58.cloudfront.net
-0.0.0.0 d3ithbwcmjcxl7.cloudfront.net
 0.0.0.0 d3iz6lralvg77g.cloudfront.net
 0.0.0.0 d3j1weegxvu8ns.cloudfront.net
 0.0.0.0 d3kyk5bao1crtw.cloudfront.net
@@ -13114,7 +13113,6 @@
 0.0.0.0 fabet.com
 0.0.0.0 fabet.vip
 0.0.0.0 fabetvn.com
-0.0.0.0 fabolele.com
 0.0.0.0 fabricmedia.ru
 0.0.0.0 fabricww.com
 0.0.0.0 fabrkrup.com
@@ -22909,7 +22907,6 @@
 0.0.0.0 nangong2.com
 0.0.0.0 nanigans.com
 0.0.0.0 nanjinglongyu.com
-0.0.0.0 nanoadexchange.com
 0.0.0.0 nanofantiki.edigest.ru
 0.0.0.0 nanostats.nanopress.it
 0.0.0.0 nanovisor.io
@@ -23469,7 +23466,6 @@
 0.0.0.0 njjmp.com
 0.0.0.0 njjrlf.com
 0.0.0.0 njkgqdxavz.com
-0.0.0.0 njmaq.com
 0.0.0.0 njmeadll.com
 0.0.0.0 njmpacc.com
 0.0.0.0 njmztqqtigys.com
