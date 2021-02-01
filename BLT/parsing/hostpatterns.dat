@@ -334,6 +334,7 @@ localhost$
 ^0.0.0.0 letsencrypt.org$
 ^0.0.0.0 licensing.xboxlive.com$
 ^0.0.0.0 linkedin-learning.pxf.io$
+^0.0.0.0 live-nhl.stream$
 ^0.0.0.0 live.com$
 ^0.0.0.0 liveinternet.ru$
 ^0.0.0.0 livepassdl.conviva.com$
@@ -364,6 +365,7 @@ localhost$
 ^0.0.0.0 nexus.ensighten.com$
 ^0.0.0.0 nitroflare.com$
 ^0.0.0.0 nj.com$
+^0.0.0.0 nocdnrlly.xyz$
 ^0.0.0.0 notify.xboxlive.com$
 ^0.0.0.0 nu.nl$
 ^0.0.0.0 ocsp.rootg2.amazontrust.com$
@@ -419,6 +421,7 @@ localhost$
 ^0.0.0.0 redirector.googlevideo.com$
 ^0.0.0.0 res.cloudinary.com$
 ^0.0.0.0 richmedia.channeladvisor.com$
+^0.0.0.0 rolo.nocdnrlly.xyz$
 ^0.0.0.0 rpxnow.com$
 ^0.0.0.0 s.gateway.messenger.live.com$
 ^0.0.0.0 s.marketwatch.com$
@@ -464,6 +467,7 @@ localhost$
 ^0.0.0.0 someonewhocares.org$
 ^0.0.0.0 spclient.spotify.com$
 ^0.0.0.0 spclient.wg.spotify.com$
+^0.0.0.0 sports-streams-online.best$
 ^0.0.0.0 src.litix.io$
 ^0.0.0.0 ssl-images-amazon.com$
 ^0.0.0.0 ssl.bblck.me$
@@ -562,12 +566,14 @@ localhost$
 ^0.0.0.0 www.jdownloader.org$
 ^0.0.0.0 www.jwplayer.com$
 ^0.0.0.0 www.letsencrypt.org$
+^0.0.0.0 www.live-nhl.stream$
 ^0.0.0.0 www.liveinternet.ru$
 ^0.0.0.0 www.lotustalk.com$
 ^0.0.0.0 www.mcssl.com$
 ^0.0.0.0 www.msftncsi.com$
 ^0.0.0.0 www.neocities.org$
 ^0.0.0.0 www.no-ip.com$
+^0.0.0.0 www.nocdnrlly.xyz$
 ^0.0.0.0 www.opendns.com$
 ^0.0.0.0 www.opensubtitles.org$
 ^0.0.0.0 www.ow.ly$
@@ -576,6 +582,7 @@ localhost$
 ^0.0.0.0 www.serials.ws$
 ^0.0.0.0 www.sevenforums.com$
 ^0.0.0.0 www.shorl.com$
+^0.0.0.0 www.sports-streams-online.best$
 ^0.0.0.0 www.staradvertiser.com$
 ^0.0.0.0 www.tenforums.com$
 ^0.0.0.0 www.theguardian.com$
