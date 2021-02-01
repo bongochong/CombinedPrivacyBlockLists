@@ -1,4 +1,4 @@
-# Tue Jan 26 05:52:12 PM MST 2021
+# Mon Feb  1 01:29:18 AM MST 2021
 # Spam404 Hosts - Generated weekly by bongochong
 0.0.0.0 001www.com
 0.0.0.0 0daygameparadise.com
@@ -6037,7 +6037,6 @@
 0.0.0.0 propsncodegenerator.com
 0.0.0.0 prosperityteam.co
 0.0.0.0 ps3emulator.fr
-0.0.0.0 ps3jailbreakdownloadfree.com
 0.0.0.0 ps3jailbreaknow.com
 0.0.0.0 ps3jailbreaks.org
 0.0.0.0 ps3jailbreaktuts.net
@@ -7199,6 +7198,7 @@
 0.0.0.0 thewarzdownloads.com
 0.0.0.0 thiccalts.net
 0.0.0.0 thiefgratuit.com
+0.0.0.0 thiscrack.com
 0.0.0.0 thisyears.us
 0.0.0.0 thor2-movie.com
 0.0.0.0 thosee.ru

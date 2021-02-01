@@ -1,4 +1,4 @@
-# Tue Jan 26 05:51:29 PM MST 2021
+# Mon Feb  1 01:28:37 AM MST 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -2723,6 +2723,7 @@
 0.0.0.0 cdn-highwinds.unityads.unity3d.com
 0.0.0.0 cdn-image.com
 0.0.0.0 cdn-inner-active.edgekey.net
+0.0.0.0 cdn-ketchapp.akamaized.net
 0.0.0.0 cdn-lb.vungle.akadns.net
 0.0.0.0 cdn-lb.vungle.com
 0.0.0.0 cdn-otf-cas.adperfect.com
@@ -5420,6 +5421,7 @@
 0.0.0.0 kds-pixel.kargo.com
 0.0.0.0 kejet.net
 0.0.0.0 kerio-push-gateway-prod.elasticbeanstalk.com
+0.0.0.0 ketchapp.org
 0.0.0.0 keydot.net
 0.0.0.0 keymaker.go.sonobi.com
 0.0.0.0 keyserver.ijinshan.com
@@ -7573,7 +7575,6 @@
 0.0.0.0 sanalytics.verizonwireless.com
 0.0.0.0 sandbox.duapps.com
 0.0.0.0 sargas.iad-03.braze.com
-0.0.0.0 sas53netbynet.visualon.info
 0.0.0.0 sas816.ujikdd041o.cn
 0.0.0.0 sascdn.com
 0.0.0.0 sasdk.3g.qq.com
