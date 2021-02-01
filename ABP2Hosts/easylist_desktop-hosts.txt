@@ -1,4 +1,4 @@
-# Mon Feb  1 01:29:08 AM MST 2021
+# Mon Feb  1 03:57:58 PM MST 2021
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 00-gov.cn
 0.0.0.0 0024aaaa.com
@@ -7214,6 +7214,7 @@
 0.0.0.0 cloakroomobsceneredress.com
 0.0.0.0 clog.go.com
 0.0.0.0 cloisteredcord.com
+0.0.0.0 closiner.com
 0.0.0.0 clotezar.com
 0.0.0.0 cloud-exploration.com
 0.0.0.0 cloud-iq.com
@@ -8748,6 +8749,7 @@
 0.0.0.0 darwarvid.com
 0.0.0.0 das5ku9q.com
 0.0.0.0 dasfdasfasdf.no-ip.info
+0.0.0.0 dasfelynsaterr.webcam
 0.0.0.0 dashaowu.com
 0.0.0.0 dashbida.com
 0.0.0.0 dashboard.adclipse.lk
@@ -12958,6 +12960,7 @@
 0.0.0.0 gongfanglong.cn
 0.0.0.0 gongxifacai21.top
 0.0.0.0 goo2anywhere.com
+0.0.0.0 goo4anywhere.com
 0.0.0.0 gooblesdd.com
 0.0.0.0 good-pressa.com
 0.0.0.0 good-teasers.ru
@@ -14388,6 +14391,7 @@
 0.0.0.0 hzaibi.com
 0.0.0.0 hzcrhwmi.com
 0.0.0.0 hzhfhkj.cn
+0.0.0.0 hzhongjianfund.com
 0.0.0.0 hzht666.com
 0.0.0.0 hzhyhm.com
 0.0.0.0 hzkachqd.com
@@ -20787,6 +20791,7 @@
 0.0.0.0 okvidihqc.com
 0.0.0.0 okvtmvrmha.com
 0.0.0.0 okwan.cn
+0.0.0.0 ol6nhf.cn
 0.0.0.0 olc0.cn
 0.0.0.0 olderdiverge.com
 0.0.0.0 oldership.com
@@ -21513,6 +21518,7 @@
 0.0.0.0 partner.maxxim.de
 0.0.0.0 partner.pladform.ru
 0.0.0.0 partner.premiumdomains.com
+0.0.0.0 partner.schalke04.de
 0.0.0.0 partner.simplytel.de
 0.0.0.0 partner.teufel.de
 0.0.0.0 partner.toutiao.com
@@ -24312,6 +24318,7 @@
 0.0.0.0 rkauzlyh.com
 0.0.0.0 rkcqlsiu9fr6.top
 0.0.0.0 rkdms.com
+0.0.0.0 rkfnrkjfnrkfnkjh.xyz
 0.0.0.0 rkomf.com
 0.0.0.0 rkpecade.com
 0.0.0.0 rkssxrh.cn
@@ -26364,7 +26371,6 @@
 0.0.0.0 sportivki2v1cvetocher1fh.com
 0.0.0.0 sportradarserving.com
 0.0.0.0 sports-live-streams.club
-0.0.0.0 sports-streams-online.best
 0.0.0.0 sports-streams-online.com
 0.0.0.0 sportsbetaffiliates.com.au
 0.0.0.0 sportstreams.xyz
@@ -27030,6 +27036,7 @@
 0.0.0.0 sumokoin.com
 0.0.0.0 sumome.com
 0.0.0.0 sums.suning.com
+0.0.0.0 sundady.online
 0.0.0.0 sundayceremonytitanic.com
 0.0.0.0 sundersetrgh.site
 0.0.0.0 suning.beer
@@ -30995,6 +31002,7 @@
 0.0.0.0 welcomingprotective.com
 0.0.0.0 welllwrite.com
 0.0.0.0 wellmov.com
+0.0.0.0 wellnesszap.com
 0.0.0.0 wells.murmann.ru
 0.0.0.0 welsworn.info
 0.0.0.0 welt-der-links.de

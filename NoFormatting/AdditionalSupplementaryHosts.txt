@@ -337,7 +337,6 @@
 0.0.0.0 3vig.com
 0.0.0.0 3w24.com
 0.0.0.0 3weekdiet.com
-0.0.0.0 3wt4c.com
 0.0.0.0 3xit.net
 0.0.0.0 4.mcnt.jp
 0.0.0.0 404.mysyncdns.com
@@ -682,7 +681,6 @@
 0.0.0.0 aaronabel.com
 0.0.0.0 aaronautosandtrucks.com
 0.0.0.0 aarp.122.2o7.net
-0.0.0.0 aashima.goyal.com.au
 0.0.0.0 aashyamayro.com
 0.0.0.0 aatreefelling.co.za
 0.0.0.0 aax-eu.amazon-adsystem.com
@@ -3100,6 +3098,7 @@
 0.0.0.0 algerianembassy.co.in
 0.0.0.0 algodon.net
 0.0.0.0 algreensndykeghesnpw.dns.army
+0.0.0.0 algreenstdykeghestdb.dns.army
 0.0.0.0 algreno.com
 0.0.0.0 alhaji.top
 0.0.0.0 alhjchfsndyonlinsnwq.dns.army
@@ -3271,6 +3270,7 @@
 0.0.0.0 analytics-ingress-global.bitmovin.com
 0.0.0.0 analytics.admob.com
 0.0.0.0 analytics.blue
+0.0.0.0 analytics.brave.com
 0.0.0.0 analytics.cocolog-nifty.com
 0.0.0.0 analytics.ff.avast.com
 0.0.0.0 analytics.global.sky.com
@@ -4668,6 +4668,7 @@
 0.0.0.0 chevroletcentrohistorico.com
 0.0.0.0 chewcoat.com
 0.0.0.0 chez-lai.com
+0.0.0.0 chfourstdyanothestoq.dns.army
 0.0.0.0 chghowardjohnson.112.2o7.net
 0.0.0.0 chgsupereight.112.2o7.net
 0.0.0.0 chgwyndham.112.2o7.net
@@ -5602,6 +5603,8 @@
 0.0.0.0 down.heheelibom.com
 0.0.0.0 down.idocument.cn
 0.0.0.0 down.onefast.cc
+0.0.0.0 down.post-gg.top
+0.0.0.0 down.postch-b.top
 0.0.0.0 downcleardown.xyz
 0.0.0.0 download-updates-comp.com
 0.0.0.0 download.008ex.com
@@ -6196,7 +6199,6 @@
 0.0.0.0 file.gamefeat.net
 0.0.0.0 file.ziyu.net
 0.0.0.0 filebase.duckdns.org
-0.0.0.0 files.slack.com
 0.0.0.0 fileserveravast.com
 0.0.0.0 films-smotret-online.ru
 0.0.0.0 fim.122.2o7.net
@@ -6952,6 +6954,7 @@
 0.0.0.0 honeybulb.com
 0.0.0.0 honeygoldfish.com
 0.0.0.0 honorableland.com
+0.0.0.0 hookedupboatclub.com
 0.0.0.0 host-serv.xyz
 0.0.0.0 host.d-ns.ga
 0.0.0.0 hostalelcandil.com
@@ -7848,6 +7851,7 @@
 0.0.0.0 kunden-contact-5126351253252.icu
 0.0.0.0 kunden-contact-6478585764.top
 0.0.0.0 kungsb2sndygotchtsnp.dns.army
+0.0.0.0 kungsb2stdygotchtstj.dns.army
 0.0.0.0 kungwsdycommunicwsgd.dns.army
 0.0.0.0 kupizhaluzi.ru
 0.0.0.0 kurtillon.com
@@ -8758,6 +8762,7 @@
 0.0.0.0 msf-supernova.net78.net
 0.0.0.0 msf.org.kz
 0.0.0.0 msg.simeji.baidu.jp
+0.0.0.0 mslogstdyinvestmstqw.dns.army
 0.0.0.0 mslogtsdyinvestmntsn.dns.army
 0.0.0.0 msmetrics.ws.sonos.com
 0.0.0.0 msna1com.112.2o7.net
@@ -8840,6 +8845,7 @@
 0.0.0.0 myfamilycominc.tt.omtrdc.net
 0.0.0.0 myharlemshake.info
 0.0.0.0 myholiday.co.in
+0.0.0.0 myhostisstillgood.hopto.org
 0.0.0.0 myjs.me
 0.0.0.0 myloki.icu
 0.0.0.0 mylondon.hc0.me
@@ -9387,6 +9393,7 @@
 0.0.0.0 orangeoperation.com
 0.0.0.0 orangeuk-mc.adinfuse.com
 0.0.0.0 orangeyouglad.xyz
+0.0.0.0 orapllc.net
 0.0.0.0 ordernow.cf
 0.0.0.0 ordernow.site
 0.0.0.0 oreck.tt.omtrdc.net
@@ -9638,6 +9645,7 @@
 0.0.0.0 pireulwiterykam.ml
 0.0.0.0 pireulwiterykam.tk
 0.0.0.0 pirscupper.club
+0.0.0.0 piscopo.med.br
 0.0.0.0 pittsburghpostgazette.112.2o7.net
 0.0.0.0 pix-fix.net
 0.0.0.0 pixel-static.spotify.com
@@ -10220,6 +10228,7 @@
 0.0.0.0 rentcom.tt.omtrdc.net
 0.0.0.0 reon.club
 0.0.0.0 rep.exblog.jp
+0.0.0.0 repair-electrons.com
 0.0.0.0 repeatsweater.com
 0.0.0.0 reporo.net
 0.0.0.0 report2.ziyu.net
@@ -11283,7 +11292,9 @@
 0.0.0.0 statuesquebrush.com
 0.0.0.0 stcinet.com
 0.0.0.0 stcnet.ddns.net
+0.0.0.0 stdychnesqudusisstds.dns.army
 0.0.0.0 stdyunitedkesokostri.dns.navy
+0.0.0.0 stdyunitedkesokostxm.dns.army
 0.0.0.0 steadfastsound.com
 0.0.0.0 steadfastsystem.com
 0.0.0.0 steadypaddling.com
@@ -11403,6 +11414,7 @@
 0.0.0.0 supportxmr.com
 0.0.0.0 suprnova.cc
 0.0.0.0 suresb1sndyintercont.dns.army
+0.0.0.0 suresb1stdyinterstpm.dns.army
 0.0.0.0 surfband.info
 0.0.0.0 surfline.112.2o7.net
 0.0.0.0 survey-smiles.com
@@ -12781,6 +12793,7 @@
 0.0.0.0 workableachiever.com
 0.0.0.0 workedgames.com
 0.0.0.0 worker.salon.com
+0.0.0.0 workfinestdyrainbost.dns.army
 0.0.0.0 workoperation.com
 0.0.0.0 workshop002.duckdns.org
 0.0.0.0 worldatdoor.in

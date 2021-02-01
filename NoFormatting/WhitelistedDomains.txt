@@ -297,6 +297,7 @@ lastfm-img2.akamaized.net
 letsencrypt.org
 licensing.xboxlive.com
 linkedin-learning.pxf.io
+live-nhl.stream
 live.com
 liveinternet.ru
 livepassdl.conviva.com
@@ -327,6 +328,7 @@ nextdns.io
 nexus.ensighten.com
 nitroflare.com
 nj.com
+nocdnrlly.xyz
 notify.xboxlive.com
 nu.nl
 ocsp.rootg2.amazontrust.com
@@ -382,6 +384,7 @@ reach-api.urbanairship.com
 redirector.googlevideo.com
 res.cloudinary.com
 richmedia.channeladvisor.com
+rolo.nocdnrlly.xyz
 rpxnow.com
 s.gateway.messenger.live.com
 s.marketwatch.com
@@ -427,6 +430,7 @@ socket.bittrex.com
 someonewhocares.org
 spclient.spotify.com
 spclient.wg.spotify.com
+sports-streams-online.best
 src.litix.io
 ssl-images-amazon.com
 ssl.bblck.me
@@ -525,12 +529,14 @@ www.html5zombo.com
 www.jdownloader.org
 www.jwplayer.com
 www.letsencrypt.org
+www.live-nhl.stream
 www.liveinternet.ru
 www.lotustalk.com
 www.mcssl.com
 www.msftncsi.com
 www.neocities.org
 www.no-ip.com
+www.nocdnrlly.xyz
 www.opendns.com
 www.opensubtitles.org
 www.ow.ly
@@ -539,6 +545,7 @@ www.privacy-center.org
 www.serials.ws
 www.sevenforums.com
 www.shorl.com
+www.sports-streams-online.best
 www.staradvertiser.com
 www.tenforums.com
 www.theguardian.com

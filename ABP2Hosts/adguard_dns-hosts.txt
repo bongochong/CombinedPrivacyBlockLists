@@ -1,4 +1,4 @@
-# Mon Feb  1 01:29:16 AM MST 2021
+# Mon Feb  1 03:58:06 PM MST 2021
 # AdGuard DNS Hosts - Generated weekly by bongochong
 0.0.0.0 00-gov.cn
 0.0.0.0 0024aaaa.com
@@ -7687,6 +7687,7 @@
 0.0.0.0 calculatorstatement.com
 0.0.0.0 calfsbreedstax.com
 0.0.0.0 caligula.pro
+0.0.0.0 caliskankoylu.com
 0.0.0.0 caljqsml.com
 0.0.0.0 call-tracking.by
 0.0.0.0 call-tracking.co.uk
@@ -8002,6 +8003,7 @@
 0.0.0.0 cdn.trafficexchangelist.com
 0.0.0.0 cdn.tubecorp.com
 0.0.0.0 cdn.unityads.unity3d.com
+0.0.0.0 cdn.usefathom.com
 0.0.0.0 cdn.wadawada-stop-report-us.com
 0.0.0.0 cdn.welcome.pussysaga.com
 0.0.0.0 cdn.wuyou.ca
@@ -8758,6 +8760,7 @@
 0.0.0.0 clog.go.com
 0.0.0.0 cloisteredcord.com
 0.0.0.0 cloisteredhydrant.com
+0.0.0.0 closiner.com
 0.0.0.0 clotezar.com
 0.0.0.0 cloud-exploration.com
 0.0.0.0 cloud-iq.com
@@ -10427,6 +10430,7 @@
 0.0.0.0 dartsirhose.icu
 0.0.0.0 darwarvid.com
 0.0.0.0 das5ku9q.com
+0.0.0.0 dasfelynsaterr.webcam
 0.0.0.0 dash.tmearn.com
 0.0.0.0 dashaowu.com
 0.0.0.0 dashbida.com
@@ -10490,6 +10494,7 @@
 0.0.0.0 datas.tianqistatic.com
 0.0.0.0 datasecu.download
 0.0.0.0 datasteam.io
+0.0.0.0 dataunion.com.br
 0.0.0.0 dataur.ru
 0.0.0.0 datawrkz.com
 0.0.0.0 dataxpand.com
@@ -11460,6 +11465,7 @@
 0.0.0.0 dramaticcondition.com
 0.0.0.0 draulinehandon.info
 0.0.0.0 drawbacksubdue.com
+0.0.0.0 drawnperink.com
 0.0.0.0 drawservant.com
 0.0.0.0 draydaisbitch.com
 0.0.0.0 drbwugautcgh.com
@@ -16801,6 +16807,7 @@
 0.0.0.0 hzcrhwmi.com
 0.0.0.0 hzfcx.top
 0.0.0.0 hzhfhkj.cn
+0.0.0.0 hzhongjianfund.com
 0.0.0.0 hzht666.com
 0.0.0.0 hzhyhm.com
 0.0.0.0 hzkachqd.com
@@ -24324,6 +24331,7 @@
 0.0.0.0 okvidihqc.com
 0.0.0.0 okvtmvrmha.com
 0.0.0.0 okwan.cn
+0.0.0.0 ol6nhf.cn
 0.0.0.0 olc0.cn
 0.0.0.0 olderdiverge.com
 0.0.0.0 oldership.com
@@ -28563,6 +28571,7 @@
 0.0.0.0 rkauzlyh.com
 0.0.0.0 rkcqlsiu9fr6.top
 0.0.0.0 rkdms.com
+0.0.0.0 rkfnrkjfnrkfnkjh.xyz
 0.0.0.0 rkft2sdl8b.ru
 0.0.0.0 rkomf.com
 0.0.0.0 rkpecade.com
@@ -31002,7 +31011,6 @@
 0.0.0.0 sportivki2v1cvetocher1fh.com
 0.0.0.0 sportradarserving.com
 0.0.0.0 sports-live-streams.club
-0.0.0.0 sports-streams-online.best
 0.0.0.0 sports-streams-online.com
 0.0.0.0 sportstreams.xyz
 0.0.0.0 sportsyndicator.com
@@ -31225,6 +31233,7 @@
 0.0.0.0 starkunfinisheddestroyed.com
 0.0.0.0 starlayer.com
 0.0.0.0 starlizard.com.cn
+0.0.0.0 starman.fathomdns.com
 0.0.0.0 starseed.fr
 0.0.0.0 start.fotostrana.ru
 0.0.0.0 start.parimatch.com
@@ -31871,6 +31880,7 @@
 0.0.0.0 sun.win
 0.0.0.0 sunaffiliation.com
 0.0.0.0 sunburgh.com
+0.0.0.0 sundady.online
 0.0.0.0 sundayceremonytitanic.com
 0.0.0.0 sundaysky.com
 0.0.0.0 sundersetrgh.site
@@ -34961,6 +34971,7 @@
 0.0.0.0 unreshiramor.com
 0.0.0.0 unrestchat.com
 0.0.0.0 unrulymedia.com
+0.0.0.0 unrulyrotate.com
 0.0.0.0 unrummaged.com
 0.0.0.0 unrzhgdly.com
 0.0.0.0 unscrewing.ru
@@ -35137,7 +35148,6 @@
 0.0.0.0 useconoming.club
 0.0.0.0 usedbreat.club
 0.0.0.0 usedexample.com
-0.0.0.0 usefathom.com
 0.0.0.0 useg.nextdigital.com.hk
 0.0.0.0 useinsider.com
 0.0.0.0 useitbetter.com
@@ -36644,6 +36654,7 @@
 0.0.0.0 welllwrite.com
 0.0.0.0 wellmadefrog.com
 0.0.0.0 wellmov.com
+0.0.0.0 wellnesszap.com
 0.0.0.0 welsworn.info
 0.0.0.0 welt-der-links.de
 0.0.0.0 welted.cn
