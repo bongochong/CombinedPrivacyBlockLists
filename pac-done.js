@@ -1,4 +1,4 @@
-// **** Mon Feb  1 01:33:18 AM MST 2021
+// **** Mon Feb  1 04:14:39 PM MST 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -1421,6 +1421,7 @@ shExpMatch(host, '*.adserver.quizdingo.com') ||
 shExpMatch(host, '*.adserver.realhomesex.net') ||
 shExpMatch(host, '*.adserver.sanomawsoy.fi') ||
 shExpMatch(host, '*.adserver.sciflicks.com') ||
+shExpMatch(host, '*.adserver.scr.sk') ||
 shExpMatch(host, '*.adserver.sharewareonline.com') ||
 shExpMatch(host, '*.adserver.spankaway.com') ||
 shExpMatch(host, '*.adserver.startnow.com') ||
@@ -1542,6 +1543,7 @@ shExpMatch(host, '*.adv.freeonline.it') ||
 shExpMatch(host, '*.adv.hwupgrade.it') ||
 shExpMatch(host, '*.adv.livedoor.com') ||
 shExpMatch(host, '*.adv.mezon.ru') ||
+shExpMatch(host, '*.adv.mpvc.it') ||
 shExpMatch(host, '*.adv.nexthardware.com') ||
 shExpMatch(host, '*.adv.webmd.com') ||
 shExpMatch(host, '*.adv.wp.pl') ||
@@ -1887,6 +1889,7 @@ shExpMatch(host, '*.analyticin.online') ||
 shExpMatch(host, '*.analytics-production.hapyak.com') ||
 shExpMatch(host, '*.analytics.adpost.org') ||
 shExpMatch(host, '*.analytics.bitrix.info') ||
+shExpMatch(host, '*.analytics.brave.com') ||
 shExpMatch(host, '*.analytics.cloudron.io') ||
 shExpMatch(host, '*.analytics.cohesionapps.com') ||
 shExpMatch(host, '*.analytics.dnsfilter.com') ||
@@ -18026,6 +18029,7 @@ shExpMatch(host, 'adserver.quizdingo.com') ||
 shExpMatch(host, 'adserver.realhomesex.net') ||
 shExpMatch(host, 'adserver.sanomawsoy.fi') ||
 shExpMatch(host, 'adserver.sciflicks.com') ||
+shExpMatch(host, 'adserver.scr.sk') ||
 shExpMatch(host, 'adserver.sharewareonline.com') ||
 shExpMatch(host, 'adserver.spankaway.com') ||
 shExpMatch(host, 'adserver.startnow.com') ||
@@ -18147,6 +18151,7 @@ shExpMatch(host, 'adv.freeonline.it') ||
 shExpMatch(host, 'adv.hwupgrade.it') ||
 shExpMatch(host, 'adv.livedoor.com') ||
 shExpMatch(host, 'adv.mezon.ru') ||
+shExpMatch(host, 'adv.mpvc.it') ||
 shExpMatch(host, 'adv.nexthardware.com') ||
 shExpMatch(host, 'adv.webmd.com') ||
 shExpMatch(host, 'adv.wp.pl') ||
@@ -18492,6 +18497,7 @@ shExpMatch(host, 'analyticin.online') ||
 shExpMatch(host, 'analytics-production.hapyak.com') ||
 shExpMatch(host, 'analytics.adpost.org') ||
 shExpMatch(host, 'analytics.bitrix.info') ||
+shExpMatch(host, 'analytics.brave.com') ||
 shExpMatch(host, 'analytics.cloudron.io') ||
 shExpMatch(host, 'analytics.cohesionapps.com') ||
 shExpMatch(host, 'analytics.dnsfilter.com') ||
