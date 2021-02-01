@@ -1,4 +1,4 @@
-// **** Tue Jan 26 05:54:36 PM MST 2021
+// **** Mon Feb  1 01:33:18 AM MST 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -902,8 +902,6 @@ shExpMatch(host, '*.ads.bonniercorp.com') ||
 shExpMatch(host, '*.ads.boylesports.com') ||
 shExpMatch(host, '*.ads.brabys.com') ||
 shExpMatch(host, '*.ads.brain.pk') ||
-shExpMatch(host, '*.ads.brave.software') ||
-shExpMatch(host, '*.ads.bravesoftware.com') ||
 shExpMatch(host, '*.ads.brazzers.com') ||
 shExpMatch(host, '*.ads.bumq.com') ||
 shExpMatch(host, '*.ads.businessweek.com') ||
@@ -1456,6 +1454,7 @@ shExpMatch(host, '*.adsfactor.net') ||
 shExpMatch(host, '*.adsfeed.brabys.com') ||
 shExpMatch(host, '*.adshiftmedia.com') ||
 shExpMatch(host, '*.adshost1.com') ||
+shExpMatch(host, '*.adshrink.it') ||
 shExpMatch(host, '*.adside.com') ||
 shExpMatch(host, '*.adsiduous.com') ||
 shExpMatch(host, '*.adsk2.co') ||
@@ -3793,6 +3792,7 @@ shExpMatch(host, '*.cmecsgoldcup.com') ||
 shExpMatch(host, '*.cmepure.com') ||
 shExpMatch(host, '*.cmoney.money') ||
 shExpMatch(host, '*.cmp.dmgmediaprivacy.co.uk') ||
+shExpMatch(host, '*.cmp.osano.com') ||
 shExpMatch(host, '*.cmpstar.com') ||
 shExpMatch(host, '*.cmrewards.site') ||
 shExpMatch(host, '*.cmsp.com.ar') ||
@@ -8534,7 +8534,6 @@ shExpMatch(host, '*.hojava.ru') ||
 shExpMatch(host, '*.holadescuentos.com') ||
 shExpMatch(host, '*.holidayvoucher.us') ||
 shExpMatch(host, '*.hollandbusinessadvertising.nl') ||
-shExpMatch(host, '*.hollps.win') ||
 shExpMatch(host, '*.hollylsmith.com') ||
 shExpMatch(host, '*.holmesballard.chez.com') ||
 shExpMatch(host, '*.holyw.ddns.me.uk') ||
@@ -12225,7 +12224,6 @@ shExpMatch(host, '*.prsitecheck.com') ||
 shExpMatch(host, '*.prysmm.net') ||
 shExpMatch(host, '*.ps3cfw.com') ||
 shExpMatch(host, '*.ps3emulator.fr') ||
-shExpMatch(host, '*.ps3jailbreakdownloadfree.com') ||
 shExpMatch(host, '*.ps3jailbreaknow.com') ||
 shExpMatch(host, '*.ps3jailbreaks.org') ||
 shExpMatch(host, '*.ps3jailbreaktuts.net') ||
@@ -13948,7 +13946,6 @@ shExpMatch(host, '*.statm.the-adult-company.com') ||
 shExpMatch(host, '*.stats-cs.ru') ||
 shExpMatch(host, '*.stats-master11.info') ||
 shExpMatch(host, '*.stats.blogger.com') ||
-shExpMatch(host, '*.stats.brave.com') ||
 shExpMatch(host, '*.stats.cts-bv.nl') ||
 shExpMatch(host, '*.stats.directnic.com') ||
 shExpMatch(host, '*.stats.hyperinzerce.cz') ||
@@ -14602,6 +14599,7 @@ shExpMatch(host, '*.thirdrange.co.uk') ||
 shExpMatch(host, '*.thirdrespect.com') ||
 shExpMatch(host, '*.thirstytwig.com') ||
 shExpMatch(host, '*.this-moment-in-time.com') ||
+shExpMatch(host, '*.thiscrack.com') ||
 shExpMatch(host, '*.thisisjess.co.uk') ||
 shExpMatch(host, '*.thisyears.us') ||
 shExpMatch(host, '*.thomashobbs.com') ||
@@ -17509,8 +17507,6 @@ shExpMatch(host, 'ads.bonniercorp.com') ||
 shExpMatch(host, 'ads.boylesports.com') ||
 shExpMatch(host, 'ads.brabys.com') ||
 shExpMatch(host, 'ads.brain.pk') ||
-shExpMatch(host, 'ads.brave.software') ||
-shExpMatch(host, 'ads.bravesoftware.com') ||
 shExpMatch(host, 'ads.brazzers.com') ||
 shExpMatch(host, 'ads.bumq.com') ||
 shExpMatch(host, 'ads.businessweek.com') ||
@@ -18063,6 +18059,7 @@ shExpMatch(host, 'adsfactor.net') ||
 shExpMatch(host, 'adsfeed.brabys.com') ||
 shExpMatch(host, 'adshiftmedia.com') ||
 shExpMatch(host, 'adshost1.com') ||
+shExpMatch(host, 'adshrink.it') ||
 shExpMatch(host, 'adside.com') ||
 shExpMatch(host, 'adsiduous.com') ||
 shExpMatch(host, 'adsk2.co') ||
@@ -20400,6 +20397,7 @@ shExpMatch(host, 'cmecsgoldcup.com') ||
 shExpMatch(host, 'cmepure.com') ||
 shExpMatch(host, 'cmoney.money') ||
 shExpMatch(host, 'cmp.dmgmediaprivacy.co.uk') ||
+shExpMatch(host, 'cmp.osano.com') ||
 shExpMatch(host, 'cmpstar.com') ||
 shExpMatch(host, 'cmrewards.site') ||
 shExpMatch(host, 'cmsp.com.ar') ||
@@ -25141,7 +25139,6 @@ shExpMatch(host, 'hojava.ru') ||
 shExpMatch(host, 'holadescuentos.com') ||
 shExpMatch(host, 'holidayvoucher.us') ||
 shExpMatch(host, 'hollandbusinessadvertising.nl') ||
-shExpMatch(host, 'hollps.win') ||
 shExpMatch(host, 'hollylsmith.com') ||
 shExpMatch(host, 'holmesballard.chez.com') ||
 shExpMatch(host, 'holyw.ddns.me.uk') ||
@@ -28832,7 +28829,6 @@ shExpMatch(host, 'prsitecheck.com') ||
 shExpMatch(host, 'prysmm.net') ||
 shExpMatch(host, 'ps3cfw.com') ||
 shExpMatch(host, 'ps3emulator.fr') ||
-shExpMatch(host, 'ps3jailbreakdownloadfree.com') ||
 shExpMatch(host, 'ps3jailbreaknow.com') ||
 shExpMatch(host, 'ps3jailbreaks.org') ||
 shExpMatch(host, 'ps3jailbreaktuts.net') ||
@@ -30555,7 +30551,6 @@ shExpMatch(host, 'statm.the-adult-company.com') ||
 shExpMatch(host, 'stats-cs.ru') ||
 shExpMatch(host, 'stats-master11.info') ||
 shExpMatch(host, 'stats.blogger.com') ||
-shExpMatch(host, 'stats.brave.com') ||
 shExpMatch(host, 'stats.cts-bv.nl') ||
 shExpMatch(host, 'stats.directnic.com') ||
 shExpMatch(host, 'stats.hyperinzerce.cz') ||
@@ -31209,6 +31204,7 @@ shExpMatch(host, 'thirdrange.co.uk') ||
 shExpMatch(host, 'thirdrespect.com') ||
 shExpMatch(host, 'thirstytwig.com') ||
 shExpMatch(host, 'this-moment-in-time.com') ||
+shExpMatch(host, 'thiscrack.com') ||
 shExpMatch(host, 'thisisjess.co.uk') ||
 shExpMatch(host, 'thisyears.us') ||
 shExpMatch(host, 'thomashobbs.com') ||
