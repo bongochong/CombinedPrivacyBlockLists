@@ -110,6 +110,7 @@ cdn.ravenjs.com
 cdn.samsungcloudsolution.com
 cdn.segment.com
 cdn.segment.io
+cdn.sports-streams-online.best
 cdn.syndication.twitter.com
 cdn2-staging.signal.org
 cdn2.optimizely.com
