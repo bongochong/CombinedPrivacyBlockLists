@@ -1,4 +1,4 @@
-# Mon Feb  1 04:11:20 PM MST 2021
+# Thu Feb 11 04:09:46 PM MST 2021
 # Spam404 Hosts - Generated weekly by bongochong
 0.0.0.0 001www.com
 0.0.0.0 0daygameparadise.com
@@ -1253,6 +1253,7 @@
 0.0.0.0 craveforcheats.com
 0.0.0.0 crazy-files.com
 0.0.0.0 crazy-jackpots.com
+0.0.0.0 crazyrdp.com
 0.0.0.0 crazyshare.net
 0.0.0.0 crazyskins.fun
 0.0.0.0 crdshipp.org
@@ -5609,6 +5610,7 @@
 0.0.0.0 official-guide.net
 0.0.0.0 officialcheats.info
 0.0.0.0 officialgiveaway.net
+0.0.0.0 ogusers.com
 0.0.0.0 okayfiles.com
 0.0.0.0 okfileload.com
 0.0.0.0 okfiles.net
@@ -6239,6 +6241,7 @@
 0.0.0.0 reechh.faboshine.com
 0.0.0.0 reelhd.com
 0.0.0.0 reelvidz.com
+0.0.0.0 refund.sh
 0.0.0.0 regalhacks.com
 0.0.0.0 reimageplus.com
 0.0.0.0 relandicevip.com
@@ -7935,6 +7938,7 @@
 0.0.0.0 xiaomovie.com
 0.0.0.0 xidibumu.ru
 0.0.0.0 xl-partenariat.com
+0.0.0.0 xleet.to
 0.0.0.0 xloot.wtf
 0.0.0.0 xmoneymakers.com
 0.0.0.0 xmultiply.pro
