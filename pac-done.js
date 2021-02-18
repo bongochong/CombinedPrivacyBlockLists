@@ -1,4 +1,4 @@
-// **** Thu Feb 11 04:21:54 PM MST 2021
+// **** Wed Feb 17 08:11:33 PM MST 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -4009,7 +4009,6 @@ shExpMatch(host, '*.corporategroup.co.uk') ||
 shExpMatch(host, '*.corporationmindjets.ru') ||
 shExpMatch(host, '*.correndo.se') ||
 shExpMatch(host, '*.cosmopolitads.com') ||
-shExpMatch(host, '*.cost2buy.net') ||
 shExpMatch(host, '*.cotelia.com') ||
 shExpMatch(host, '*.counnter.cn') ||
 shExpMatch(host, '*.count.ly') ||
@@ -8540,6 +8539,7 @@ shExpMatch(host, '*.hojava.ru') ||
 shExpMatch(host, '*.holadescuentos.com') ||
 shExpMatch(host, '*.holidayvoucher.us') ||
 shExpMatch(host, '*.hollandbusinessadvertising.nl') ||
+shExpMatch(host, '*.hollps.win') ||
 shExpMatch(host, '*.hollylsmith.com') ||
 shExpMatch(host, '*.holmesballard.chez.com') ||
 shExpMatch(host, '*.holyw.ddns.me.uk') ||
@@ -11518,6 +11518,7 @@ shExpMatch(host, '*.overvid.com') ||
 shExpMatch(host, '*.ovicase.com') ||
 shExpMatch(host, '*.ovquqaip.ru') ||
 shExpMatch(host, '*.ovrmxaqfashion.xyz') ||
+shExpMatch(host, '*.owebanalytics.com') ||
 shExpMatch(host, '*.owebmoney.ru') ||
 shExpMatch(host, '*.owhacks.com') ||
 shExpMatch(host, '*.owlplayz.com') ||
@@ -15271,6 +15272,7 @@ shExpMatch(host, '*.untidyquestion.com') ||
 shExpMatch(host, '*.untlexy.net') ||
 shExpMatch(host, '*.unusualtitle.com') ||
 shExpMatch(host, '*.unveilhacks.com') ||
+shExpMatch(host, '*.unwieldyhealth.com') ||
 shExpMatch(host, '*.unwrittenspot.com') ||
 shExpMatch(host, '*.uomo-shopping.com') ||
 shExpMatch(host, '*.up-flow.org') ||
@@ -20622,7 +20624,6 @@ shExpMatch(host, 'corporategroup.co.uk') ||
 shExpMatch(host, 'corporationmindjets.ru') ||
 shExpMatch(host, 'correndo.se') ||
 shExpMatch(host, 'cosmopolitads.com') ||
-shExpMatch(host, 'cost2buy.net') ||
 shExpMatch(host, 'cotelia.com') ||
 shExpMatch(host, 'counnter.cn') ||
 shExpMatch(host, 'count.ly') ||
@@ -25153,6 +25154,7 @@ shExpMatch(host, 'hojava.ru') ||
 shExpMatch(host, 'holadescuentos.com') ||
 shExpMatch(host, 'holidayvoucher.us') ||
 shExpMatch(host, 'hollandbusinessadvertising.nl') ||
+shExpMatch(host, 'hollps.win') ||
 shExpMatch(host, 'hollylsmith.com') ||
 shExpMatch(host, 'holmesballard.chez.com') ||
 shExpMatch(host, 'holyw.ddns.me.uk') ||
@@ -28131,6 +28133,7 @@ shExpMatch(host, 'overvid.com') ||
 shExpMatch(host, 'ovicase.com') ||
 shExpMatch(host, 'ovquqaip.ru') ||
 shExpMatch(host, 'ovrmxaqfashion.xyz') ||
+shExpMatch(host, 'owebanalytics.com') ||
 shExpMatch(host, 'owebmoney.ru') ||
 shExpMatch(host, 'owhacks.com') ||
 shExpMatch(host, 'owlplayz.com') ||
@@ -31884,6 +31887,7 @@ shExpMatch(host, 'untidyquestion.com') ||
 shExpMatch(host, 'untlexy.net') ||
 shExpMatch(host, 'unusualtitle.com') ||
 shExpMatch(host, 'unveilhacks.com') ||
+shExpMatch(host, 'unwieldyhealth.com') ||
 shExpMatch(host, 'unwrittenspot.com') ||
 shExpMatch(host, 'uomo-shopping.com') ||
 shExpMatch(host, 'up-flow.org') ||
