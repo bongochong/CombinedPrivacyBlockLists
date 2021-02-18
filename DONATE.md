@@ -14,6 +14,11 @@ NP2BFYMFHJD4Y4U3HTFCTT3ZOAU2WAOEJ5V24RO56W3NGHFJXZ7MO4LAFY
 
 ---
 
+**Cardano**:
+addr1qxl9mhqw2dnghm3a52mzp8qtmkmzt3dc28mnsdc2e40rwja7thwqu5mx30hrmg4kyzwqhhdkyhzms50h8qms4n27xa9st7p9u5
+
+---
+
 **Cosmos**:
 cosmos1mtjnz3ek0xzsykydxnmzc4ut6qc07u32up2wdk
 
