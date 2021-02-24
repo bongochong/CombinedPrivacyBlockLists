@@ -1,4 +1,4 @@
-// **** Wed Feb 17 08:11:33 PM MST 2021
+// **** Wed Feb 24 04:07:20 PM MST 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -1203,7 +1203,6 @@ shExpMatch(host, '*.ads.soweb.gr') ||
 shExpMatch(host, '*.ads.space.com') ||
 shExpMatch(host, '*.ads.spoonfeduk.com') ||
 shExpMatch(host, '*.ads.sptimes.com') ||
-shExpMatch(host, '*.ads.squarecrop.net') ||
 shExpMatch(host, '*.ads.stackoverflow.com') ||
 shExpMatch(host, '*.ads.stationplay.com') ||
 shExpMatch(host, '*.ads.struq.com') ||
@@ -1571,7 +1570,6 @@ shExpMatch(host, '*.advertising.microsoft.com') ||
 shExpMatch(host, '*.advertising.yahoo.com') ||
 shExpMatch(host, '*.advertisingbanners.com') ||
 shExpMatch(host, '*.advertisingbox.com') ||
-shExpMatch(host, '*.advertisingtag.net') ||
 shExpMatch(host, '*.advertlead.net') ||
 shExpMatch(host, '*.advertmarket.com') ||
 shExpMatch(host, '*.advertmedia.de') ||
@@ -8988,7 +8986,6 @@ shExpMatch(host, '*.intelliads.com') ||
 shExpMatch(host, '*.intelliduct.com') ||
 shExpMatch(host, '*.intellitxt.com') ||
 shExpMatch(host, '*.intentmedia.com') ||
-shExpMatch(host, '*.intentmedia.net') ||
 shExpMatch(host, '*.interactive-assets.s3.amazonaws.com') ||
 shExpMatch(host, '*.interactive.forthnet.gr') ||
 shExpMatch(host, '*.intergi.com') ||
@@ -12212,7 +12209,6 @@ shExpMatch(host, '*.propellerclick.com') ||
 shExpMatch(host, '*.proper.io') ||
 shExpMatch(host, '*.propertyadvancement.com') ||
 shExpMatch(host, '*.proppera.co.cc') ||
-shExpMatch(host, '*.props.id') ||
 shExpMatch(host, '*.propsncodegenerator.com') ||
 shExpMatch(host, '*.proranktracker.com') ||
 shExpMatch(host, '*.prosper.on-line-casino.ca') ||
@@ -12439,6 +12435,7 @@ shExpMatch(host, '*.quakemarketing.com') ||
 shExpMatch(host, '*.quality-hacks.com') ||
 shExpMatch(host, '*.qualitygamehacks.com') ||
 shExpMatch(host, '*.quantcast.com') ||
+shExpMatch(host, '*.quantcount.com') ||
 shExpMatch(host, '*.quantserve.com') ||
 shExpMatch(host, '*.quantumfiles.com') ||
 shExpMatch(host, '*.quantummetric.com') ||
@@ -15367,7 +15364,6 @@ shExpMatch(host, '*.v-voice.com') ||
 shExpMatch(host, '*.v00d00.org') ||
 shExpMatch(host, '*.v1.cnzz.com') ||
 shExpMatch(host, '*.v1adserver.com') ||
-shExpMatch(host, '*.v1hcmqbaqw.ru') ||
 shExpMatch(host, '*.v339419.com') ||
 shExpMatch(host, '*.v4download.com') ||
 shExpMatch(host, '*.vaccine-coronavirus.com') ||
@@ -17818,7 +17814,6 @@ shExpMatch(host, 'ads.soweb.gr') ||
 shExpMatch(host, 'ads.space.com') ||
 shExpMatch(host, 'ads.spoonfeduk.com') ||
 shExpMatch(host, 'ads.sptimes.com') ||
-shExpMatch(host, 'ads.squarecrop.net') ||
 shExpMatch(host, 'ads.stackoverflow.com') ||
 shExpMatch(host, 'ads.stationplay.com') ||
 shExpMatch(host, 'ads.struq.com') ||
@@ -18186,7 +18181,6 @@ shExpMatch(host, 'advertising.microsoft.com') ||
 shExpMatch(host, 'advertising.yahoo.com') ||
 shExpMatch(host, 'advertisingbanners.com') ||
 shExpMatch(host, 'advertisingbox.com') ||
-shExpMatch(host, 'advertisingtag.net') ||
 shExpMatch(host, 'advertlead.net') ||
 shExpMatch(host, 'advertmarket.com') ||
 shExpMatch(host, 'advertmedia.de') ||
@@ -25603,7 +25597,6 @@ shExpMatch(host, 'intelliads.com') ||
 shExpMatch(host, 'intelliduct.com') ||
 shExpMatch(host, 'intellitxt.com') ||
 shExpMatch(host, 'intentmedia.com') ||
-shExpMatch(host, 'intentmedia.net') ||
 shExpMatch(host, 'interactive-assets.s3.amazonaws.com') ||
 shExpMatch(host, 'interactive.forthnet.gr') ||
 shExpMatch(host, 'intergi.com') ||
@@ -28827,7 +28820,6 @@ shExpMatch(host, 'propellerclick.com') ||
 shExpMatch(host, 'proper.io') ||
 shExpMatch(host, 'propertyadvancement.com') ||
 shExpMatch(host, 'proppera.co.cc') ||
-shExpMatch(host, 'props.id') ||
 shExpMatch(host, 'propsncodegenerator.com') ||
 shExpMatch(host, 'proranktracker.com') ||
 shExpMatch(host, 'prosper.on-line-casino.ca') ||
@@ -29054,6 +29046,7 @@ shExpMatch(host, 'quakemarketing.com') ||
 shExpMatch(host, 'quality-hacks.com') ||
 shExpMatch(host, 'qualitygamehacks.com') ||
 shExpMatch(host, 'quantcast.com') ||
+shExpMatch(host, 'quantcount.com') ||
 shExpMatch(host, 'quantserve.com') ||
 shExpMatch(host, 'quantumfiles.com') ||
 shExpMatch(host, 'quantummetric.com') ||
@@ -31982,7 +31975,6 @@ shExpMatch(host, 'v-voice.com') ||
 shExpMatch(host, 'v00d00.org') ||
 shExpMatch(host, 'v1.cnzz.com') ||
 shExpMatch(host, 'v1adserver.com') ||
-shExpMatch(host, 'v1hcmqbaqw.ru') ||
 shExpMatch(host, 'v339419.com') ||
 shExpMatch(host, 'v4download.com') ||
 shExpMatch(host, 'vaccine-coronavirus.com') ||
