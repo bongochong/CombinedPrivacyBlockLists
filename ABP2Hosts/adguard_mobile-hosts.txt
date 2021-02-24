@@ -1,4 +1,4 @@
-# Wed Feb 17 08:08:31 PM MST 2021
+# Wed Feb 24 04:03:30 PM MST 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -478,6 +478,7 @@
 0.0.0.0 ad.leadboltads.net
 0.0.0.0 ad.leadboltapps.net
 0.0.0.0 ad.leadboltmobile.net
+0.0.0.0 ad.leap.app
 0.0.0.0 ad.linkprice.com
 0.0.0.0 ad.linksynergy.com
 0.0.0.0 ad.lionmobi.com
@@ -1369,6 +1370,7 @@
 0.0.0.0 analytics.mobile-cdn.walmart.com.akadns.net
 0.0.0.0 analytics.mobile.walmart.com
 0.0.0.0 analytics.mobile.yandex.net
+0.0.0.0 analytics.mobilegamestats.com
 0.0.0.0 analytics.mopub.com
 0.0.0.0 analytics.moz.com
 0.0.0.0 analytics.nike.com
@@ -1602,6 +1604,7 @@
 0.0.0.0 api.idio.co
 0.0.0.0 api.ihuman.com
 0.0.0.0 api.immomo.com
+0.0.0.0 api.imqtyik.com
 0.0.0.0 api.indicative.com
 0.0.0.0 api.infinario.com
 0.0.0.0 api.infiniadmp.com
@@ -6055,7 +6058,6 @@
 0.0.0.0 mobilefuse.com
 0.0.0.0 mobileiosapi.punchh.com
 0.0.0.0 mobilelog.upqzfile.com
-0.0.0.0 mobilepartner.avcdn.net.edgekey.net
 0.0.0.0 mobileposse-d.openx.net
 0.0.0.0 mobileposse.com
 0.0.0.0 mobilesdk-us.kampyle.com
@@ -6543,6 +6545,7 @@
 0.0.0.0 p.rfihub.com
 0.0.0.0 p.share.mob.com
 0.0.0.0 p.skimresources.com
+0.0.0.0 p.statp.com
 0.0.0.0 p.tanx.com
 0.0.0.0 p.teads.tv
 0.0.0.0 p.typekit.net-v3.edgekey.net
@@ -7422,6 +7425,7 @@
 0.0.0.0 rx-stats3.unrulymedia.com
 0.0.0.0 rx.targeting.unrulymedia.com
 0.0.0.0 s-a.innovid.com
+0.0.0.0 s-adx.op-mobile.opera.com
 0.0.0.0 s-cdn-tag.medialytics.com
 0.0.0.0 s-cdn.innovid.com
 0.0.0.0 s-files.innovid.com
@@ -9503,7 +9507,6 @@
 0.0.0.0 video.fyber.com
 0.0.0.0 video.innovid.com
 0.0.0.0 video.inskinad.com
-0.0.0.0 video.intl.xiaomi.com
 0.0.0.0 video.moatads.com
 0.0.0.0 video.rec.duapps.com
 0.0.0.0 video.sekindo.com
