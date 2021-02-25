@@ -1,4 +1,4 @@
-# Wed Feb 24 04:04:13 PM MST 2021
+# Wed Feb 24 05:57:00 PM MST 2021
 # Piperun IPLoggerFilter Hosts - Generated weekly by bongochong
 0.0.0.0 00689.net
 0.0.0.0 02ip.ru
