@@ -40687,8 +40687,8 @@
 ||sport205.club^
 ||sportivki2v1cvetocher1fh.com^
 ||sportradarserving.com^
-||sports-live-streams.club,domain=~live-nhl.stream|~sports-streams-online.best|~sports-streams-online.com
-||sports-streams-online.com,domain=~live-nhl.stream|~sports-streams-online.best|~sports-streams-online.com
+||sports-live-streams.club^$domain=~live-nhl.stream|~sports-streams-online.best|~sports-streams-online.com
+||sports-streams-online.com^$domain=~live-nhl.stream|~sports-streams-online.best|~sports-streams-online.com
 ||sportsad.net^
 ||sportsbetaffiliates.com.au^
 ||sportscatchup.com^

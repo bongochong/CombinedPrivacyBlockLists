@@ -15745,8 +15745,8 @@
 ||cdn.socialbakers.com^
 ||cdn.split.io^
 ||cdn.sportlabs.online^
-||cdn.sports-streams-online.club,domain=~live-nhl.stream|~sports-streams-online.best|~sports-streams-online.com
-||cdn.sports-streams-online.xyz,domain=~live-nhl.stream|~sports-streams-online.best|~sports-streams-online.com
+||cdn.sports-streams-online.club^$domain=~live-nhl.stream|~sports-streams-online.best|~sports-streams-online.com
+||cdn.sports-streams-online.xyz^$domain=~live-nhl.stream|~sports-streams-online.best|~sports-streams-online.com
 ||cdn.springboard.gorillanation.com^
 ||cdn.static-cnt.bid^
 ||cdn.steambets.net^
@@ -56606,8 +56606,8 @@
 ||sportbets.su^
 ||sportivki2v1cvetocher1fh.com^
 ||sportradarserving.com^
-||sports-live-streams.club,domain=~live-nhl.stream|~sports-streams-online.best|~sports-streams-online.com
-||sports-streams-online.com,domain=~live-nhl.stream|~sports-streams-online.best|~sports-streams-online.com
+||sports-live-streams.club^$domain=~live-nhl.stream|~sports-streams-online.best|~sports-streams-online.com
+||sports-streams-online.com^$domain=~live-nhl.stream|~sports-streams-online.best|~sports-streams-online.com
 ||sportsad.net^
 ||sportsbetaffiliates.com.au^
 ||sportscatchup.com^
