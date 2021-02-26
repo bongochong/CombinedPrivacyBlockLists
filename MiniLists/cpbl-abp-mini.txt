@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mini CPBL Filters for ABP & uBO
-! Updated: Wed Feb 24 06:07:45 PM MST 2021
+! Updated: Fri Feb 26 02:06:34 PM MST 2021
 ! Expires: 7 Days
 ! License: https://git.io/JTTLW
 ! Homepage: https://git.io/JTTLB
@@ -40687,8 +40687,8 @@
 ||sport205.club^
 ||sportivki2v1cvetocher1fh.com^
 ||sportradarserving.com^
-||sports-live-streams.club^
-||sports-streams-online.com^
+||sports-live-streams.club,domain=~live-nhl.stream|~sports-streams-online.best|~sports-streams-online.com
+||sports-streams-online.com,domain=~live-nhl.stream|~sports-streams-online.best|~sports-streams-online.com
 ||sportsad.net^
 ||sportsbetaffiliates.com.au^
 ||sportscatchup.com^
@@ -51025,4 +51025,3 @@ washingtonpost.com##.z-eyei-bvs
 ||theblockcrypto.com/sw.js$script,domain=theblockcrypto.com
 ||theblockcrypto.com/wp-json/v1/modal*$domain=theblockcrypto.com
 ||theblockcrypto.com/wp-json/v1/sponsorships*$domain=theblockcrypto.com
-~safaribooksonline.com##.subscribe-panel
