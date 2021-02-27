@@ -45,7 +45,7 @@ tz1QamL5nAt82RYMJceGs8E5Hadn1BLpCPa8
 ---
 
 **BitCoin**:
-33K5KYsQsX4uxQyiGQkyxtiPo68tfzSHa7
+bc1qk6gz7pwf2p57u5u88uc9298x4fhzmaecff5zgg
 
 ---
 
@@ -60,7 +60,7 @@ tz1QamL5nAt82RYMJceGs8E5Hadn1BLpCPa8
 ---
 
 **Ethereum**:
-0x07312d5D41246c44A38c82ce42E70d831C6BFaa1
+0x3A8fE00E78E1a823C7C691d1AE029Bd8eC8Bc207
 
 ---
 
