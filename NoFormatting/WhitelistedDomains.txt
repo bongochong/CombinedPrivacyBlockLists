@@ -111,6 +111,8 @@ cdn.samsungcloudsolution.com
 cdn.segment.com
 cdn.segment.io
 cdn.sports-streams-online.best
+cdn.sports-streams-online.club
+cdn.sports-streams-online.xyz
 cdn.syndication.twitter.com
 cdn2-staging.signal.org
 cdn2.optimizely.com
@@ -434,6 +436,7 @@ spankbang.com
 spclient.spotify.com
 spclient.wg.spotify.com
 sports-streams-online.best
+sports-streams-online.com
 src.litix.io
 ssl-images-amazon.com
 ssl.bblck.me
