@@ -1,4 +1,4 @@
-# Mon Mar  1 01:54:48 PM MST 2021
+# Thu Mar  4 03:40:08 PM MST 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -448,6 +448,7 @@
 0.0.0.0 ad.360in.com
 0.0.0.0 ad.8live.com
 0.0.0.0 ad.a-ads.com
+0.0.0.0 ad.accesstrade.vn
 0.0.0.0 ad.adacado.com
 0.0.0.0 ad.adapter.kaffnet.com
 0.0.0.0 ad.adsrvr.org
@@ -507,6 +508,8 @@
 0.0.0.0 ad.snappea.com
 0.0.0.0 ad.turn.com
 0.0.0.0 ad.turn.com.akadns.net
+0.0.0.0 ad.vidver.to
+0.0.0.0 ad.vidverto.io
 0.0.0.0 ad.vrvm.com
 0.0.0.0 ad.weplayer.cc
 0.0.0.0 ad.wynk.in
@@ -672,6 +675,7 @@
 0.0.0.0 adobe.adhaven.com
 0.0.0.0 adobetag.com.edgekey.net
 0.0.0.0 adocean.pl
+0.0.0.0 adolf.tv
 0.0.0.0 adomega-d.openx.net
 0.0.0.0 adonly.com
 0.0.0.0 adopkorea-d.openx.net
@@ -854,6 +858,7 @@
 0.0.0.0 ads.smartstream.tv
 0.0.0.0 ads.snapchat.com
 0.0.0.0 ads.sonataplatform.com
+0.0.0.0 ads.staging.superawesome.tv
 0.0.0.0 ads.stickyadstv.com
 0.0.0.0 ads.stickyadstv.com.akadns.net
 0.0.0.0 ads.storm8.com
@@ -1023,6 +1028,7 @@
 0.0.0.0 adsstatic.vivo.com.cn
 0.0.0.0 adstax-match-proxy.adrtx.net
 0.0.0.0 adstax-match.adrtx.net
+0.0.0.0 adstrck.tutotoons.com
 0.0.0.0 adstune.com
 0.0.0.0 adsunflower.com
 0.0.0.0 adsv2.autodaily.vn
@@ -1732,6 +1738,7 @@
 0.0.0.0 api.tappx.com
 0.0.0.0 api.taps.io
 0.0.0.0 api.tapstream.com
+0.0.0.0 api.target2sell.com
 0.0.0.0 api.theadex.com
 0.0.0.0 api.tusdk.com
 0.0.0.0 api.uca.cloud.unity3d.com
@@ -2925,6 +2932,7 @@
 0.0.0.0 cdn.teads.tv.edgekey.net
 0.0.0.0 cdn.thumbs.glispa.com
 0.0.0.0 cdn.tremorhub.com
+0.0.0.0 cdn.tutoads.tv
 0.0.0.0 cdn.uc.atwola.com
 0.0.0.0 cdn.unityads.unity3d.com
 0.0.0.0 cdn.uprivaladserver.net
@@ -4589,7 +4597,9 @@
 0.0.0.0 geoplugin.net
 0.0.0.0 geoworker.ayads.co
 0.0.0.0 geshopimg.logsss.com
+0.0.0.0 get.adolf.tv
 0.0.0.0 get.s-onetag.com
+0.0.0.0 get.tutoads.tv
 0.0.0.0 getclicky.com
 0.0.0.0 getwisdom.io
 0.0.0.0 gf.umenglog.com
@@ -5286,7 +5296,6 @@
 0.0.0.0 inv-nets-wus-s1.admixer.net
 0.0.0.0 invenio.sgn.com
 0.0.0.0 investing-channel-d.openx.net
-0.0.0.0 investingapp.net
 0.0.0.0 investingchannel.com
 0.0.0.0 io.innertrends.com
 0.0.0.0 io.narrative.io
@@ -5418,6 +5427,7 @@
 0.0.0.0 jscount.com
 0.0.0.0 jslog.krxd.net
 0.0.0.0 jssdk.rayjump.com
+0.0.0.0 jssdkcdn.mparticle.com
 0.0.0.0 jssdkcdns.mparticle.com
 0.0.0.0 jssdks.mparticle.com
 0.0.0.0 ju.taobao.com
@@ -6111,6 +6121,7 @@
 0.0.0.0 mobilefuse.com
 0.0.0.0 mobileiosapi.punchh.com
 0.0.0.0 mobilelog.upqzfile.com
+0.0.0.0 mobilelogs.supersonic.com
 0.0.0.0 mobileposse-d.openx.net
 0.0.0.0 mobileposse.com
 0.0.0.0 mobilesdk-us.kampyle.com
@@ -6170,6 +6181,8 @@
 0.0.0.0 mozbar.moz.com
 0.0.0.0 mp.teads.tv
 0.0.0.0 mp5-wl.mobileposse.com
+0.0.0.0 mparticle.map.fastly.net
+0.0.0.0 mparticle.slack.com
 0.0.0.0 mparticle.uc.cn
 0.0.0.0 mpg.taboola.com
 0.0.0.0 mpnrs.com
@@ -6651,6 +6664,7 @@
 0.0.0.0 parameter.lionmobi.com
 0.0.0.0 parrable.com
 0.0.0.0 parsnip.gocarrot.com
+0.0.0.0 partner.accesstrade.vn
 0.0.0.0 partner.ads.placeiq.com
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 partner.knorex.com
@@ -7908,6 +7922,7 @@
 0.0.0.0 ser.adledge.com
 0.0.0.0 serpens.iad-01.braze.com
 0.0.0.0 serpens.iad.appboy.com
+0.0.0.0 serv-api.target2sell.com
 0.0.0.0 serve-prod1204.uberads.com
 0.0.0.0 serve-sys.com
 0.0.0.0 serve.popads.net
@@ -7924,6 +7939,7 @@
 0.0.0.0 server.seadform.net
 0.0.0.0 serverc.shoofle.tv
 0.0.0.0 serverside4285.tagcommander.com
+0.0.0.0 service-api.accesstrade.vn
 0.0.0.0 service.cmp.oath.com
 0.0.0.0 service.fyber.com
 0.0.0.0 service.innovid.com
@@ -8437,6 +8453,7 @@
 0.0.0.0 static.media.net
 0.0.0.0 static.mgid.com
 0.0.0.0 static.mobilemonkey.com
+0.0.0.0 static.mparticle.com
 0.0.0.0 static.par.vip.prod.criteo.net
 0.0.0.0 static.polarcdn.com
 0.0.0.0 static.popads.net
@@ -8455,6 +8472,7 @@
 0.0.0.0 static.tagmanager.toast.com
 0.0.0.0 static.tagsrvcs.com
 0.0.0.0 static.tapfiliate.com
+0.0.0.0 static.target2sell.com
 0.0.0.0 static.tf-cdn.net
 0.0.0.0 static.tieba.baidu.com
 0.0.0.0 static.track.omguk.com
@@ -8826,6 +8844,7 @@
 0.0.0.0 tapsense.com
 0.0.0.0 tapstat.ru
 0.0.0.0 taptica.com
+0.0.0.0 target2sell.com
 0.0.0.0 targetdfp320149284940.s.moatpixel.com
 0.0.0.0 targeting.influencemobile.com
 0.0.0.0 targeting.unrulymedia.com
@@ -9004,6 +9023,7 @@
 0.0.0.0 tracing-collector.strava.com
 0.0.0.0 track-core.bncnt.com
 0.0.0.0 track-east.mobileadtrading.com
+0.0.0.0 track.accesstrade.vn
 0.0.0.0 track.ad.xiaomi.com
 0.0.0.0 track.adclear.net
 0.0.0.0 track.addict-mobile.net
@@ -9080,6 +9100,7 @@
 0.0.0.0 tracker.rqmob.com
 0.0.0.0 tracker.samplicio.us
 0.0.0.0 tracker.tagsrvcs.com
+0.0.0.0 tracker.tutotoons.com
 0.0.0.0 tracker.winudf.com
 0.0.0.0 trackers.voodoo-analytics.io
 0.0.0.0 trackersimulator.org
@@ -9133,6 +9154,8 @@
 0.0.0.0 tracking.yieldlove-ad-serving.net
 0.0.0.0 tracking.yomedia.vn
 0.0.0.0 tracking1.firstimpression.io
+0.0.0.0 tracy.adolf.tv
+0.0.0.0 tracy.tutoads.tv
 0.0.0.0 tradeadexchange.com
 0.0.0.0 tradedesk-match.dotomi.com
 0.0.0.0 traff10wap.com
@@ -9208,6 +9231,7 @@
 0.0.0.0 turbo2sdk-push.oupeng.com
 0.0.0.0 turn.com
 0.0.0.0 turn.com.akadns.net
+0.0.0.0 tutoads.tv
 0.0.0.0 tv.rlcdn.com
 0.0.0.0 tveta.naver.net
 0.0.0.0 tvx.adgrx.com
