@@ -1,4 +1,4 @@
-// **** Mon Mar  1 01:58:21 PM MST 2021
+// **** Thu Mar  4 03:49:12 PM MST 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -134,6 +134,7 @@ shExpMatch(host, '*.318x.com') ||
 shExpMatch(host, '*.32-b.it') ||
 shExpMatch(host, '*.32tsdgseg.co.cc') ||
 shExpMatch(host, '*.3322.org') ||
+shExpMatch(host, '*.3337723.com') ||
 shExpMatch(host, '*.33across.com') ||
 shExpMatch(host, '*.35hacks.com') ||
 shExpMatch(host, '*.3604free.com') ||
@@ -1513,6 +1514,7 @@ shExpMatch(host, '*.adtegrity.net') ||
 shExpMatch(host, '*.adtheorent.com') ||
 shExpMatch(host, '*.adthis.com') ||
 shExpMatch(host, '*.adthrive.com') ||
+shExpMatch(host, '*.adthurst.com') ||
 shExpMatch(host, '*.adtiger.de') ||
 shExpMatch(host, '*.adtilt.com') ||
 shExpMatch(host, '*.adtng.com') ||
@@ -3696,6 +3698,7 @@ shExpMatch(host, '*.cliccaraffinato.it') ||
 shExpMatch(host, '*.click.a-ads.com') ||
 shExpMatch(host, '*.click.absoluteagency.com') ||
 shExpMatch(host, '*.click.cartsguru.io') ||
+shExpMatch(host, '*.click.email.bbc.com') ||
 shExpMatch(host, '*.click.email.sonos.com') ||
 shExpMatch(host, '*.click.fool.com') ||
 shExpMatch(host, '*.click.kmindex.ru') ||
@@ -12997,6 +13000,7 @@ shExpMatch(host, '*.s268400504.onlinehome.us') ||
 shExpMatch(host, '*.s2d6.com') ||
 shExpMatch(host, '*.s4gvhd35.ru') ||
 shExpMatch(host, '*.sa-m.com') ||
+shExpMatch(host, '*.sa.api.intl.miui.com') ||
 shExpMatch(host, '*.saadilent.ir') ||
 shExpMatch(host, '*.saarcop.net') ||
 shExpMatch(host, '*.sabafon.info') ||
@@ -16747,6 +16751,7 @@ shExpMatch(host, '318x.com') ||
 shExpMatch(host, '32-b.it') ||
 shExpMatch(host, '32tsdgseg.co.cc') ||
 shExpMatch(host, '3322.org') ||
+shExpMatch(host, '3337723.com') ||
 shExpMatch(host, '33across.com') ||
 shExpMatch(host, '35hacks.com') ||
 shExpMatch(host, '3604free.com') ||
@@ -18126,6 +18131,7 @@ shExpMatch(host, 'adtegrity.net') ||
 shExpMatch(host, 'adtheorent.com') ||
 shExpMatch(host, 'adthis.com') ||
 shExpMatch(host, 'adthrive.com') ||
+shExpMatch(host, 'adthurst.com') ||
 shExpMatch(host, 'adtiger.de') ||
 shExpMatch(host, 'adtilt.com') ||
 shExpMatch(host, 'adtng.com') ||
@@ -20309,6 +20315,7 @@ shExpMatch(host, 'cliccaraffinato.it') ||
 shExpMatch(host, 'click.a-ads.com') ||
 shExpMatch(host, 'click.absoluteagency.com') ||
 shExpMatch(host, 'click.cartsguru.io') ||
+shExpMatch(host, 'click.email.bbc.com') ||
 shExpMatch(host, 'click.email.sonos.com') ||
 shExpMatch(host, 'click.fool.com') ||
 shExpMatch(host, 'click.kmindex.ru') ||
@@ -29610,6 +29617,7 @@ shExpMatch(host, 's268400504.onlinehome.us') ||
 shExpMatch(host, 's2d6.com') ||
 shExpMatch(host, 's4gvhd35.ru') ||
 shExpMatch(host, 'sa-m.com') ||
+shExpMatch(host, 'sa.api.intl.miui.com') ||
 shExpMatch(host, 'saadilent.ir') ||
 shExpMatch(host, 'saarcop.net') ||
 shExpMatch(host, 'sabafon.info') ||
