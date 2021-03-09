@@ -1,4 +1,4 @@
-// **** Thu Mar  4 03:49:12 PM MST 2021
+// **** Mon Mar  8 05:39:51 PM MST 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -415,6 +415,7 @@ shExpMatch(host, '*.activatemywindows8.com') ||
 shExpMatch(host, '*.activefiles.org') ||
 shExpMatch(host, '*.activefollowerz.xyz') ||
 shExpMatch(host, '*.activehacks.com') ||
+shExpMatch(host, '*.actonsoftware.com') ||
 shExpMatch(host, '*.actris.ru') ||
 shExpMatch(host, '*.actualconnection.ru') ||
 shExpMatch(host, '*.actualdeals.com') ||
@@ -1398,7 +1399,6 @@ shExpMatch(host, '*.adserver.janes.com') ||
 shExpMatch(host, '*.adserver.kyoceramita-europe.com') ||
 shExpMatch(host, '*.adserver.lecool.com') ||
 shExpMatch(host, '*.adserver.libero.it') ||
-shExpMatch(host, '*.adserver.madeby.ws') ||
 shExpMatch(host, '*.adserver.mobi') ||
 shExpMatch(host, '*.adserver.motorpresse.de') ||
 shExpMatch(host, '*.adserver.msmb.biz') ||
@@ -1993,7 +1993,6 @@ shExpMatch(host, '*.apcoi.com') ||
 shExpMatch(host, '*.apex-ad.com') ||
 shExpMatch(host, '*.api.addthis.com') ||
 shExpMatch(host, '*.api.intensifier.de') ||
-shExpMatch(host, '*.api.jetlore.com') ||
 shExpMatch(host, '*.apie-soft.com') ||
 shExpMatch(host, '*.apkandroidhack.com') ||
 shExpMatch(host, '*.apkcake.com') ||
@@ -2189,6 +2188,7 @@ shExpMatch(host, '*.aswpapius.com') ||
 shExpMatch(host, '*.aswpsdkus.com') ||
 shExpMatch(host, '*.asynartete.makemoneywithmegan.net') ||
 shExpMatch(host, '*.at-adserver.alltop.com') ||
+shExpMatch(host, '*.at-o.net') ||
 shExpMatch(host, '*.atdmt.com') ||
 shExpMatch(host, '*.atemutermed.hu') ||
 shExpMatch(host, '*.atharori.net') ||
@@ -3954,6 +3954,7 @@ shExpMatch(host, '*.connectingcloud.bid') ||
 shExpMatch(host, '*.connextra.com') ||
 shExpMatch(host, '*.consciouschairs.com') ||
 shExpMatch(host, '*.consensad.com') ||
+shExpMatch(host, '*.consensu.org') ||
 shExpMatch(host, '*.conservative.ru') ||
 shExpMatch(host, '*.consolesupply.com') ||
 shExpMatch(host, '*.constructionverified.org') ||
@@ -4921,6 +4922,7 @@ shExpMatch(host, '*.dnjss.com') ||
 shExpMatch(host, '*.dns-vip.net') ||
 shExpMatch(host, '*.dns.acidcrud.com') ||
 shExpMatch(host, '*.dnsapi.info') ||
+shExpMatch(host, '*.dnsdelegation.io') ||
 shExpMatch(host, '*.dnsdyn.net') ||
 shExpMatch(host, '*.dnsking.ch') ||
 shExpMatch(host, '*.dnsup.net') ||
@@ -9158,6 +9160,7 @@ shExpMatch(host, '*.j0008.com') ||
 shExpMatch(host, '*.j890482.com') ||
 shExpMatch(host, '*.j93557g.com') ||
 shExpMatch(host, '*.jack.beautyspaguide.com') ||
+shExpMatch(host, '*.jackabit.com') ||
 shExpMatch(host, '*.jackmedway.co.uk') ||
 shExpMatch(host, '*.jackpot-bets.com') ||
 shExpMatch(host, '*.jackpothard.com') ||
@@ -9165,6 +9168,7 @@ shExpMatch(host, '*.jackpotjoy.freeproductgiveaway.info') ||
 shExpMatch(host, '*.jackpotwinner.info') ||
 shExpMatch(host, '*.jackskins.com') ||
 shExpMatch(host, '*.jadeitite.com') ||
+shExpMatch(host, '*.jads.co') ||
 shExpMatch(host, '*.jafiles.net') ||
 shExpMatch(host, '*.jailbreak-absinthe.com') ||
 shExpMatch(host, '*.jailbreak-app.com') ||
@@ -14130,6 +14134,7 @@ shExpMatch(host, '*.storefiles.me') ||
 shExpMatch(host, '*.storegiftcardgiveaways.com') ||
 shExpMatch(host, '*.storeoffers.info') ||
 shExpMatch(host, '*.storesurprise.com') ||
+shExpMatch(host, '*.storetail.io') ||
 shExpMatch(host, '*.storm-hacks.com') ||
 shExpMatch(host, '*.stormnouc.cx.cc') ||
 shExpMatch(host, '*.stormxcup.pro') ||
@@ -15906,6 +15911,7 @@ shExpMatch(host, '*.witchsoft.de') ||
 shExpMatch(host, '*.witcobber.com') ||
 shExpMatch(host, '*.wittyvideos.com') ||
 shExpMatch(host, '*.wiwox.ru') ||
+shExpMatch(host, '*.wizaly.com') ||
 shExpMatch(host, '*.wizard101-crowngenerator.com') ||
 shExpMatch(host, '*.wizard101.com-cheat.in') ||
 shExpMatch(host, '*.wizard101codes.com-host.info') ||
@@ -17032,6 +17038,7 @@ shExpMatch(host, 'activatemywindows8.com') ||
 shExpMatch(host, 'activefiles.org') ||
 shExpMatch(host, 'activefollowerz.xyz') ||
 shExpMatch(host, 'activehacks.com') ||
+shExpMatch(host, 'actonsoftware.com') ||
 shExpMatch(host, 'actris.ru') ||
 shExpMatch(host, 'actualconnection.ru') ||
 shExpMatch(host, 'actualdeals.com') ||
@@ -18015,7 +18022,6 @@ shExpMatch(host, 'adserver.janes.com') ||
 shExpMatch(host, 'adserver.kyoceramita-europe.com') ||
 shExpMatch(host, 'adserver.lecool.com') ||
 shExpMatch(host, 'adserver.libero.it') ||
-shExpMatch(host, 'adserver.madeby.ws') ||
 shExpMatch(host, 'adserver.mobi') ||
 shExpMatch(host, 'adserver.motorpresse.de') ||
 shExpMatch(host, 'adserver.msmb.biz') ||
@@ -18610,7 +18616,6 @@ shExpMatch(host, 'apcoi.com') ||
 shExpMatch(host, 'apex-ad.com') ||
 shExpMatch(host, 'api.addthis.com') ||
 shExpMatch(host, 'api.intensifier.de') ||
-shExpMatch(host, 'api.jetlore.com') ||
 shExpMatch(host, 'apie-soft.com') ||
 shExpMatch(host, 'apkandroidhack.com') ||
 shExpMatch(host, 'apkcake.com') ||
@@ -18806,6 +18811,7 @@ shExpMatch(host, 'aswpapius.com') ||
 shExpMatch(host, 'aswpsdkus.com') ||
 shExpMatch(host, 'asynartete.makemoneywithmegan.net') ||
 shExpMatch(host, 'at-adserver.alltop.com') ||
+shExpMatch(host, 'at-o.net') ||
 shExpMatch(host, 'atdmt.com') ||
 shExpMatch(host, 'atemutermed.hu') ||
 shExpMatch(host, 'atharori.net') ||
@@ -20571,6 +20577,7 @@ shExpMatch(host, 'connectingcloud.bid') ||
 shExpMatch(host, 'connextra.com') ||
 shExpMatch(host, 'consciouschairs.com') ||
 shExpMatch(host, 'consensad.com') ||
+shExpMatch(host, 'consensu.org') ||
 shExpMatch(host, 'conservative.ru') ||
 shExpMatch(host, 'consolesupply.com') ||
 shExpMatch(host, 'constructionverified.org') ||
@@ -21538,6 +21545,7 @@ shExpMatch(host, 'dnjss.com') ||
 shExpMatch(host, 'dns-vip.net') ||
 shExpMatch(host, 'dns.acidcrud.com') ||
 shExpMatch(host, 'dnsapi.info') ||
+shExpMatch(host, 'dnsdelegation.io') ||
 shExpMatch(host, 'dnsdyn.net') ||
 shExpMatch(host, 'dnsking.ch') ||
 shExpMatch(host, 'dnsup.net') ||
@@ -25775,6 +25783,7 @@ shExpMatch(host, 'j0008.com') ||
 shExpMatch(host, 'j890482.com') ||
 shExpMatch(host, 'j93557g.com') ||
 shExpMatch(host, 'jack.beautyspaguide.com') ||
+shExpMatch(host, 'jackabit.com') ||
 shExpMatch(host, 'jackmedway.co.uk') ||
 shExpMatch(host, 'jackpot-bets.com') ||
 shExpMatch(host, 'jackpothard.com') ||
@@ -25782,6 +25791,7 @@ shExpMatch(host, 'jackpotjoy.freeproductgiveaway.info') ||
 shExpMatch(host, 'jackpotwinner.info') ||
 shExpMatch(host, 'jackskins.com') ||
 shExpMatch(host, 'jadeitite.com') ||
+shExpMatch(host, 'jads.co') ||
 shExpMatch(host, 'jafiles.net') ||
 shExpMatch(host, 'jailbreak-absinthe.com') ||
 shExpMatch(host, 'jailbreak-app.com') ||
@@ -30747,6 +30757,7 @@ shExpMatch(host, 'storefiles.me') ||
 shExpMatch(host, 'storegiftcardgiveaways.com') ||
 shExpMatch(host, 'storeoffers.info') ||
 shExpMatch(host, 'storesurprise.com') ||
+shExpMatch(host, 'storetail.io') ||
 shExpMatch(host, 'storm-hacks.com') ||
 shExpMatch(host, 'stormnouc.cx.cc') ||
 shExpMatch(host, 'stormxcup.pro') ||
@@ -32523,6 +32534,7 @@ shExpMatch(host, 'witchsoft.de') ||
 shExpMatch(host, 'witcobber.com') ||
 shExpMatch(host, 'wittyvideos.com') ||
 shExpMatch(host, 'wiwox.ru') ||
+shExpMatch(host, 'wizaly.com') ||
 shExpMatch(host, 'wizard101-crowngenerator.com') ||
 shExpMatch(host, 'wizard101.com-cheat.in') ||
 shExpMatch(host, 'wizard101codes.com-host.info') ||
