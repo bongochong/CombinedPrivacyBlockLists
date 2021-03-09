@@ -1,4 +1,4 @@
-# Thu Mar  4 03:40:08 PM MST 2021
+# Mon Mar  8 05:22:12 PM MST 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -396,8 +396,6 @@
 0.0.0.0 ac.mmstat.com
 0.0.0.0 ac7aa69d96b75a55c5e0fe8035f45bce.ulink.adjust.com
 0.0.0.0 acc.magixite.com
-0.0.0.0 accesstrade.com.vn
-0.0.0.0 accesstrade.vn
 0.0.0.0 accounts.doubleclick.net
 0.0.0.0 accscdn.m.taobao.com
 0.0.0.0 accuradio-d.openx.net
@@ -724,6 +722,7 @@
 0.0.0.0 ads-privacy-api.prd.mz.internal.unity3d.com
 0.0.0.0 ads-resources-legacy.waze.com
 0.0.0.0 ads-resources.waze.com
+0.0.0.0 ads-router-noneu.truecaller.com
 0.0.0.0 ads-sdk.avidly.com
 0.0.0.0 ads-sdk.upltv.com
 0.0.0.0 ads-secure.videohub.tv
@@ -917,6 +916,8 @@
 0.0.0.0 ads37.vertamedia.com
 0.0.0.0 ads40.vertamedia.com
 0.0.0.0 ads5-adnow.com
+0.0.0.0 ads5-noneu.truecaller.com
+0.0.0.0 ads5.truecaller.com
 0.0.0.0 adsaccount.appcpi.net
 0.0.0.0 adsafeprotected.com
 0.0.0.0 adsage.com
@@ -2282,6 +2283,7 @@
 0.0.0.0 basepush.com
 0.0.0.0 bat.bing.com
 0.0.0.0 batch.upsight-api.com
+0.0.0.0 batchlogging4.truecaller.com
 0.0.0.0 batmobil.net
 0.0.0.0 bats.video.yahoo.com
 0.0.0.0 batsavcdn.ksmobile.net
@@ -3044,7 +3046,6 @@
 0.0.0.0 choices.trustarc.com
 0.0.0.0 choices.truste.com
 0.0.0.0 chtatic.appspot.com
-0.0.0.0 chtbl.com
 0.0.0.0 churchdwightsizmek22033498.s.moatpixel.com
 0.0.0.0 ci-first.iovation.com
 0.0.0.0 ci-mpsnare.iovation.com
@@ -3072,7 +3073,6 @@
 0.0.0.0 cli.linksynergy.com
 0.0.0.0 click-haproxy.supersonicads.com
 0.0.0.0 click.a-ads.com
-0.0.0.0 click.accesstrade.vn
 0.0.0.0 click.admedia.com
 0.0.0.0 click.adpia.vn
 0.0.0.0 click.advertnative.com
@@ -4305,7 +4305,6 @@
 0.0.0.0 fanserv.us-west-2.stinger-ad.bidr.io
 0.0.0.0 farlex-d.openx.net
 0.0.0.0 fast.a.klaviyo.com
-0.0.0.0 fast.accesstrade.com.vn
 0.0.0.0 fast.mtvn.demdex.net
 0.0.0.0 fast.wistia.com
 0.0.0.0 fastapi.net

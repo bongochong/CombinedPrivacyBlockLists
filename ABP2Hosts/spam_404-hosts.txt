@@ -1,4 +1,4 @@
-# Thu Mar  4 03:40:45 PM MST 2021
+# Mon Mar  8 05:22:51 PM MST 2021
 # Spam404 Hosts - Generated weekly by bongochong
 0.0.0.0 001www.com
 0.0.0.0 0daygameparadise.com
@@ -4629,6 +4629,7 @@
 0.0.0.0 ixware.co
 0.0.0.0 j890482.com
 0.0.0.0 jack.beautyspaguide.com
+0.0.0.0 jackabit.com
 0.0.0.0 jackpot-bets.com
 0.0.0.0 jackpothard.com
 0.0.0.0 jackpotjoy.freeproductgiveaway.info
