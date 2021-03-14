@@ -1,4 +1,4 @@
-# Sat Mar 13 03:32:44 PM MST 2021
+# Sun Mar 14 05:42:26 PM MDT 2021
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 00-gov.cn
 0.0.0.0 0024aaaa.com
@@ -2382,6 +2382,7 @@
 0.0.0.0 adexprt.com
 0.0.0.0 adexprts.com
 0.0.0.0 adextent.com
+0.0.0.0 adextrem.com
 0.0.0.0 adf.acrosspf.com
 0.0.0.0 adf.dahe.cn
 0.0.0.0 adf.hdkinoshka.net
@@ -4560,6 +4561,7 @@
 0.0.0.0 appsflybeta.biz
 0.0.0.0 appsha2.space
 0.0.0.0 appstoore.online
+0.0.0.0 appstreets.com
 0.0.0.0 apptap.com
 0.0.0.0 apptracker.gamedock.io
 0.0.0.0 appwebview.com
@@ -5953,6 +5955,7 @@
 0.0.0.0 betpartners.it
 0.0.0.0 betrad.com
 0.0.0.0 betrayedregretdeadline.com
+0.0.0.0 betshucklean.com
 0.0.0.0 betsonsport.ru
 0.0.0.0 betteradsystem.com
 0.0.0.0 bettercontentservice.top
@@ -10678,6 +10681,7 @@
 0.0.0.0 dorapodorasham.com
 0.0.0.0 dorbanise.pw
 0.0.0.0 dorectertnerow.info
+0.0.0.0 dorimnews.com
 0.0.0.0 dormitysature.info
 0.0.0.0 dormyawape.com
 0.0.0.0 dorthuredwardles.info
@@ -14841,6 +14845,7 @@
 0.0.0.0 h3lw971ym6.com
 0.0.0.0 h41s.com
 0.0.0.0 h4k5.com
+0.0.0.0 h4kdxs.com
 0.0.0.0 h501.cn
 0.0.0.0 h5tjj3loy2.com
 0.0.0.0 h6295.com
@@ -15628,6 +15633,7 @@
 0.0.0.0 houanjijuxie.cn
 0.0.0.0 houchosi.net
 0.0.0.0 houdodoo.net
+0.0.0.0 houfang8.com
 0.0.0.0 houghtdespe.fun
 0.0.0.0 hounicuy.com
 0.0.0.0 hourakob.net
@@ -15918,6 +15924,7 @@
 0.0.0.0 i-mobile.co.jp
 0.0.0.0 i-sol-geo.ru
 0.0.0.0 i-stats.com
+0.0.0.0 i.btg360.com.br
 0.0.0.0 i.clean.gg
 0.0.0.0 i.compendium.com
 0.0.0.0 i.image-ad.jp
@@ -16778,6 +16785,7 @@
 0.0.0.0 iqu-operation.com
 0.0.0.0 iquyclpvbx.com
 0.0.0.0 iqyxvcqns.com
+0.0.0.0 ir2aok.com
 0.0.0.0 iraithiz.com
 0.0.0.0 irboga.info
 0.0.0.0 irdanen.ru
@@ -16979,6 +16987,7 @@
 0.0.0.0 j1.piaobing.com
 0.0.0.0 j1ybkf.cn
 0.0.0.0 j2k9.in
+0.0.0.0 j5sq8.com
 0.0.0.0 j7rzxe098g5m.com
 0.0.0.0 j83ad.speedrun.com
 0.0.0.0 j8j9.com
@@ -17654,6 +17663,7 @@
 0.0.0.0 jzqce.com
 0.0.0.0 jzrzpump.com
 0.0.0.0 jzswicjgfvtqun.com
+0.0.0.0 k-analytix.com
 0.0.0.0 k.cocooncenter.co.uk
 0.0.0.0 k.cocooncenter.com
 0.0.0.0 k.cocooncenter.de
@@ -19238,6 +19248,7 @@
 0.0.0.0 loopme.me
 0.0.0.0 loopoohy.com
 0.0.0.0 loopredsglen.com
+0.0.0.0 lootynews.com
 0.0.0.0 lopetgohou.cf
 0.0.0.0 lophaszip.com
 0.0.0.0 lopiner.ru
@@ -21238,6 +21249,7 @@
 0.0.0.0 moowouzy.net
 0.0.0.0 mooxar.com
 0.0.0.0 mopedisods.com
+0.0.0.0 mopemodelingfrown.com
 0.0.0.0 mopinion.com
 0.0.0.0 mopnixhem.com
 0.0.0.0 mopo.jp
@@ -25836,6 +25848,7 @@
 0.0.0.0 qhdop.com
 0.0.0.0 qhiip.com
 0.0.0.0 qhkhchjqawst.com
+0.0.0.0 qhmrasvwzbwjpz.com
 0.0.0.0 qhqofqeivtno.com
 0.0.0.0 qhxcdmfj.cn
 0.0.0.0 qhzefk.drmartens.com
@@ -27235,6 +27248,7 @@
 0.0.0.0 rqgsf.com
 0.0.0.0 rqhere.com
 0.0.0.0 rqtrk.eu
+0.0.0.0 rqusuqakwyejjn.com
 0.0.0.0 rqvfewi.cn
 0.0.0.0 rqyxdk.myanimelist.net
 0.0.0.0 rr.pochengweiyuan.com
@@ -27418,6 +27432,7 @@
 0.0.0.0 rva.outbrain.com
 0.0.0.0 rvbibmaixelnq.com
 0.0.0.0 rvdiwgntri.com
+0.0.0.0 rvedfxeljxo.com
 0.0.0.0 rviceschoolr.club
 0.0.0.0 rvkfiomrjn.com
 0.0.0.0 rvlzsbmshtt.com
@@ -30494,6 +30509,7 @@
 0.0.0.0 spankswindlewatchman.com
 0.0.0.0 spannersalesman.com
 0.0.0.0 sparagken.com
+0.0.0.0 spareddepressing.com
 0.0.0.0 sparedshabbylaugh.com
 0.0.0.0 sparelli.com
 0.0.0.0 spareton.online
@@ -37188,6 +37204,7 @@
 0.0.0.0 xiaoling.ixiunv.com
 0.0.0.0 xiaomiaoquan.com
 0.0.0.0 xiaopangtao.com
+0.0.0.0 xiaoshuoyun.cn
 0.0.0.0 xiaoyida.com
 0.0.0.0 xiarikui08.com
 0.0.0.0 xidx.org
@@ -38111,6 +38128,7 @@
 0.0.0.0 yourblocksite.com
 0.0.0.0 yourclick.pw
 0.0.0.0 yourclk.com
+0.0.0.0 yourcommonfeed.com
 0.0.0.0 yourdarkdesires.com
 0.0.0.0 yourdatelink.com
 0.0.0.0 yourfoxes.ru

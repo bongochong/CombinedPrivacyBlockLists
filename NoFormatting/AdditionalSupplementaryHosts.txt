@@ -2132,6 +2132,7 @@
 0.0.0.0 ads.parrysound.com
 0.0.0.0 ads.passion.com
 0.0.0.0 ads.paxnet.co.kr
+0.0.0.0 ads.pcccdongduong.vn
 0.0.0.0 ads.peel.com
 0.0.0.0 ads.pennet.com
 0.0.0.0 ads.pennyweb.com
@@ -6124,7 +6125,6 @@
 0.0.0.0 electrumware.com
 0.0.0.0 electrumware.org
 0.0.0.0 electrumweb.net
-0.0.0.0 elenari.cl
 0.0.0.0 elephantqueue.com
 0.0.0.0 elievarsen.ru
 0.0.0.0 eliminateeffect.com
@@ -6322,7 +6322,6 @@
 0.0.0.0 expertsexchange.112.2o7.net
 0.0.0.0 expertsjourney.com
 0.0.0.0 expertswebservices.com
-0.0.0.0 exploit.cab
 0.0.0.0 exploits.pro
 0.0.0.0 exportdocs.biz
 0.0.0.0 expressdatings.info
@@ -8343,6 +8342,7 @@
 0.0.0.0 llkty.gq
 0.0.0.0 lmage1.com
 0.0.0.0 lmodr.biz
+0.0.0.0 lms.login2.in
 0.0.0.0 lnkexploit.com
 0.0.0.0 load.jsecoin.com
 0.0.0.0 loading-delivery2.com
@@ -8405,6 +8405,7 @@
 0.0.0.0 lovliygtyu.ml
 0.0.0.0 lowashemterle.top
 0.0.0.0 lowcostpower.ru
+0.0.0.0 lowes-ca.org
 0.0.0.0 lowes.tt.omtrdc.net
 0.0.0.0 lp.mp.mydas.mobi
 0.0.0.0 lp.mydas.mobi
@@ -9062,6 +9063,7 @@
 0.0.0.0 mtburn.com
 0.0.0.0 mtcareers.myftp.org
 0.0.0.0 mtcunlocker.info
+0.0.0.0 mtspsmjeli.sch.id
 0.0.0.0 mttag.com
 0.0.0.0 mtvn.112.2o7.net
 0.0.0.0 muabancaoocwnet.ru
@@ -11360,7 +11362,6 @@
 0.0.0.0 spdeliver.i-mobile.co.jp
 0.0.0.0 spdeliverp.i-mobile.co.jp
 0.0.0.0 spearsrnfq.net
-0.0.0.0 special-key.cf
 0.0.0.0 specialdeals.g5e.com
 0.0.0.0 specialtyaltruistic.com
 0.0.0.0 spectacularsnail.com
@@ -11530,6 +11531,7 @@
 0.0.0.0 stcinet.com
 0.0.0.0 stcnet.ddns.net
 0.0.0.0 stdyalgreenkegfixryu.dns.army
+0.0.0.0 stdykungsb2gotmencri.dns.army
 0.0.0.0 stdymorcmmylntwinstr.dns.army
 0.0.0.0 stdyrmtcntlenverpfbi.dns.army
 0.0.0.0 stdyrmtcntlenverpsfd.dns.army
@@ -12004,6 +12006,7 @@
 0.0.0.0 toperdona.com
 0.0.0.0 topichawaii.com
 0.0.0.0 toppopup.com
+0.0.0.0 toprethreestdymovstc.dns.army
 0.0.0.0 topretwostdyanimakas.dns.army
 0.0.0.0 tops.sineadholly.com
 0.0.0.0 topwarenhub.top
@@ -12203,6 +12206,7 @@
 0.0.0.0 track.ultragaming.biz
 0.0.0.0 track.vdo.ai
 0.0.0.0 track.viewdeos.com
+0.0.0.0 track.vio.edu.vn
 0.0.0.0 track.vivaclix.com
 0.0.0.0 track.vivid.com
 0.0.0.0 track.xapads.com
@@ -12301,6 +12305,7 @@
 0.0.0.0 tracking.appwifi.com
 0.0.0.0 tracking.arxibs01.com
 0.0.0.0 tracking.autoads.asia
+0.0.0.0 tracking.banner.g6.zing.vn
 0.0.0.0 tracking.bp01.net
 0.0.0.0 tracking.chartboost.com
 0.0.0.0 tracking.cirrusinsight.com
@@ -13214,7 +13219,6 @@
 0.0.0.0 www.fullstory.com
 0.0.0.0 www.g-af.com
 0.0.0.0 www.gamefeat.net
-0.0.0.0 www.giddos.ga
 0.0.0.0 www.girlz-high.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googletagmanager.com
@@ -13525,6 +13529,7 @@
 0.0.0.0 yun3.6fenkj.com
 0.0.0.0 yunque.pluto.ro
 0.0.0.0 yurmaufat.ddns.net
+0.0.0.0 yuvikadvertisments.com
 0.0.0.0 yuxinproteins.com
 0.0.0.0 yvyqyr.com
 0.0.0.0 yxpwly.com
