@@ -1,5 +1,5 @@
 **Please Consider Donating**  
-Times are tough, and any donations go toward helping this guy stay alive, housed, and working.
+Times are tough, and any donations go toward helping this guy stay working.
 <br>
 Along with donating through Brave Rewards, you can also use the following cryptocurrencies:  
 <br>
