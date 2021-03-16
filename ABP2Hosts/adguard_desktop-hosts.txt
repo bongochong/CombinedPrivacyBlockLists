@@ -1,4 +1,4 @@
-# Sun Mar 14 05:42:26 PM MDT 2021
+# Tue Mar 16 02:33:20 PM MDT 2021
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 00-gov.cn
 0.0.0.0 0024aaaa.com
@@ -593,6 +593,7 @@
 0.0.0.0 32979c00fcc59b5.com
 0.0.0.0 32a79e2833309ebe.com
 0.0.0.0 3324.cn
+0.0.0.0 3336639.com
 0.0.0.0 3336653.com
 0.0.0.0 3336657.com
 0.0.0.0 3336670.com
@@ -607,10 +608,12 @@
 0.0.0.0 3337738.com
 0.0.0.0 3337739.com
 0.0.0.0 3337751.com
+0.0.0.0 3337765.com
 0.0.0.0 3337780.com
 0.0.0.0 3337781.com
 0.0.0.0 3337783.com
 0.0.0.0 3338808.com
+0.0.0.0 3338863.com
 0.0.0.0 3338877.com
 0.0.0.0 333bj.cloud
 0.0.0.0 333dm.com
@@ -810,6 +813,7 @@
 0.0.0.0 4ebde70ccf.com
 0.0.0.0 4edidqmtzlsa.com
 0.0.0.0 4ekx.cn
+0.0.0.0 4everfeel.xyz
 0.0.0.0 4excel.cn
 0.0.0.0 4exlkjnngs.com
 0.0.0.0 4f2sm1y1ss.com
@@ -890,6 +894,7 @@
 0.0.0.0 52homie.cn
 0.0.0.0 52kmh.com
 0.0.0.0 52kmk.com
+0.0.0.0 52kp2.com
 0.0.0.0 52tushuo.com
 0.0.0.0 52yugan.com
 0.0.0.0 52zfl.com
@@ -904,6 +909,7 @@
 0.0.0.0 550tg.com
 0.0.0.0 551f044b1a3f4ef.com
 0.0.0.0 552239b90400b7.com
+0.0.0.0 5551193.com
 0.0.0.0 5551650.com
 0.0.0.0 5551660.com
 0.0.0.0 5551825.com
@@ -3071,6 +3077,7 @@
 0.0.0.0 adsxyz.com
 0.0.0.0 adsy.mail.bg
 0.0.0.0 adsymptotic.com
+0.0.0.0 adsyou.pro
 0.0.0.0 adsyst.biz
 0.0.0.0 adsyst.net
 0.0.0.0 adsyst.ru
@@ -3758,6 +3765,7 @@
 0.0.0.0 aj1913.online
 0.0.0.0 aj2041.online
 0.0.0.0 aj2073.online
+0.0.0.0 aj2178.online
 0.0.0.0 aj2208.online
 0.0.0.0 ajagrofy.com
 0.0.0.0 ajansreklam.net
@@ -6935,6 +6943,7 @@
 0.0.0.0 c-o-u-n-t.com
 0.0.0.0 c-on-text.com
 0.0.0.0 c-planet.net
+0.0.0.0 c-rings.net
 0.0.0.0 c.8l8l.com
 0.0.0.0 c.91wan.com
 0.0.0.0 c.admaster.com.cn
@@ -10099,6 +10108,7 @@
 0.0.0.0 deskmony.info
 0.0.0.0 deskt.cn
 0.0.0.0 despearingle.co
+0.0.0.0 despicablereporthusband.com
 0.0.0.0 despisenoughtshit.com
 0.0.0.0 despitalyt.club
 0.0.0.0 destinationurl.com
@@ -10539,6 +10549,7 @@
 0.0.0.0 dm.pw0.cn
 0.0.0.0 dm.riji.cn
 0.0.0.0 dm.sanwen.net
+0.0.0.0 dm.sg92.com
 0.0.0.0 dm.taobaojuhuasuan.cn
 0.0.0.0 dm.wenshenxiu.com
 0.0.0.0 dm.zuowenku.net
@@ -11043,6 +11054,7 @@
 0.0.0.0 dyssir.com
 0.0.0.0 dytupr.com
 0.0.0.0 dyuadask.com
+0.0.0.0 dyx0878.cn
 0.0.0.0 dyzha.com
 0.0.0.0 dyzvxhch.com
 0.0.0.0 dz4ad.com
@@ -12859,6 +12871,7 @@
 0.0.0.0 fifoyegflivpk.com
 0.0.0.0 fifteenprefixselfemployed.com
 0.0.0.0 fifwin.com
+0.0.0.0 fikri-ayo.com
 0.0.0.0 fiksu.com
 0.0.0.0 filadmir.site
 0.0.0.0 filamentrectificationsetback.com
@@ -15319,6 +15332,7 @@
 0.0.0.0 hinksdeba.top
 0.0.0.0 hinkslovel.top
 0.0.0.0 hioeb.com
+0.0.0.0 hionedaugsbu.info
 0.0.0.0 hiopdi.com
 0.0.0.0 hiouschron.club
 0.0.0.0 hipals.com
@@ -16003,6 +16017,7 @@
 0.0.0.0 icast.cn
 0.0.0.0 icbwyfg.pro
 0.0.0.0 iccompanzens.fun
+0.0.0.0 icdecidents.biz
 0.0.0.0 icdirect.com
 0.0.0.0 ice-media.ru
 0.0.0.0 iceban.su
@@ -17014,6 +17029,7 @@
 0.0.0.0 jamdomn.pro
 0.0.0.0 jamestop.xyz
 0.0.0.0 jamexistence.com
+0.0.0.0 jamsoulsfriday.com
 0.0.0.0 jandolav.com
 0.0.0.0 jango.com
 0.0.0.0 jangonetwork.com
@@ -17145,6 +17161,7 @@
 0.0.0.0 jfrwheneva.club
 0.0.0.0 jfxkxoicr.com
 0.0.0.0 jfypfmew.com
+0.0.0.0 jg.wensixuetang.com
 0.0.0.0 jg1668.com
 0.0.0.0 jgbaoydldw.com
 0.0.0.0 jgchq.com
@@ -17372,6 +17389,7 @@
 0.0.0.0 jorjodika.com
 0.0.0.0 josephcalculatedsewer.com
 0.0.0.0 jotchept.com
+0.0.0.0 jotpoolwarren.com
 0.0.0.0 jotrening.com
 0.0.0.0 jougrevu.com
 0.0.0.0 journalforum.org
@@ -17539,6 +17557,7 @@
 0.0.0.0 julitenj.com
 0.0.0.0 jullssc.pro
 0.0.0.0 jullycn.com
+0.0.0.0 julrdr.com
 0.0.0.0 jumboaffiliates.com
 0.0.0.0 jump-time.net
 0.0.0.0 jump.fhoa365.com
@@ -19151,6 +19170,7 @@
 0.0.0.0 loganaut.com
 0.0.0.0 logapi.tv.naver.com
 0.0.0.0 logbor.com
+0.0.0.0 logcol.kyobobook.co.kr
 0.0.0.0 logcollector.viewster.com
 0.0.0.0 logcounter.com
 0.0.0.0 logdy.com
@@ -19163,6 +19183,7 @@
 0.0.0.0 logger.cloudmobi.net
 0.0.0.0 logger.co.kr
 0.0.0.0 logger.dailymotion.com
+0.0.0.0 logger.eigene.io
 0.0.0.0 logger.nerdwallet.com
 0.0.0.0 logger.ntracecloud.com
 0.0.0.0 logger.pw
@@ -20294,6 +20315,7 @@
 0.0.0.0 mentalks.ru
 0.0.0.0 mentalsweatextent.com
 0.0.0.0 mentcompa.club
+0.0.0.0 mentionedabjection.com
 0.0.0.0 mentpyjam.fun
 0.0.0.0 mentredu.top
 0.0.0.0 mentsundert.club
@@ -21991,6 +22013,7 @@
 0.0.0.0 netcpms.com
 0.0.0.0 netdeal.com.br
 0.0.0.0 netdebit-counter.de
+0.0.0.0 neterou.com
 0.0.0.0 netfix8.info
 0.0.0.0 netflame.cc
 0.0.0.0 netflopin.com
@@ -23159,6 +23182,7 @@
 0.0.0.0 omoaxaus.net
 0.0.0.0 omotorax.ru
 0.0.0.0 omoukkkj.stream
+0.0.0.0 ompanythats.biz
 0.0.0.0 omparentcarage.info
 0.0.0.0 oms.570news.com
 0.0.0.0 oms.660citynews.com
@@ -26159,6 +26183,7 @@
 0.0.0.0 qzyiming.cn
 0.0.0.0 qzylyp.com
 0.0.0.0 qzzljx.com
+0.0.0.0 r-ad.linkshare.jp
 0.0.0.0 r-ln-2.net.daraz.com
 0.0.0.0 r-tb.com
 0.0.0.0 r.99waiyu.com
@@ -26449,6 +26474,7 @@
 0.0.0.0 rec2000.at.ua
 0.0.0.0 recallen.info
 0.0.0.0 recallysugg.club
+0.0.0.0 receiver.eigene.io
 0.0.0.0 receiver.pravoved.org
 0.0.0.0 recentlycollectannihilate.com
 0.0.0.0 recentrecentinsectsquantity.com
@@ -31810,6 +31836,7 @@
 0.0.0.0 sw88.shopdisney.fr
 0.0.0.0 sw88.shopdisney.it
 0.0.0.0 sw88.starwars.ru
+0.0.0.0 sw9t.ml
 0.0.0.0 swa.and.co.uk
 0.0.0.0 swa.asnbank.nl
 0.0.0.0 swa.bol.com
@@ -32042,6 +32069,7 @@
 0.0.0.0 t.dailymail.co.uk
 0.0.0.0 t.dtscdn.com
 0.0.0.0 t.eharmony.com
+0.0.0.0 t.felmat.net
 0.0.0.0 t.festo.com
 0.0.0.0 t.flix360.com
 0.0.0.0 t.frtyi.com
@@ -34256,6 +34284,7 @@
 0.0.0.0 uazmti.a101.com.tr
 0.0.0.0 ub1.job592.com
 0.0.0.0 ubalh.com
+0.0.0.0 uballcc.com
 0.0.0.0 ubar-pro4.ru
 0.0.0.0 ubcpm.com
 0.0.0.0 ubdwc.com
@@ -35000,6 +35029,7 @@
 0.0.0.0 vbtrax.com
 0.0.0.0 vbuhzjnj.com
 0.0.0.0 vbwfqaisbgn.com
+0.0.0.0 vc370.com
 0.0.0.0 vcaif.com
 0.0.0.0 vcfnspbgztl.com
 0.0.0.0 vcfs6ip5h6.bid
@@ -37362,6 +37392,7 @@
 0.0.0.0 xn--2ssq0ktxigkq.cc
 0.0.0.0 xn--2ssq0ktxigkq.com
 0.0.0.0 xn--3bs795g.chat
+0.0.0.0 xn--3bs795g.pub
 0.0.0.0 xn--3bs795g.zone
 0.0.0.0 xn--4gqqc629gbju.com
 0.0.0.0 xn--80abnuns.xn--p1acf
@@ -37966,6 +37997,7 @@
 0.0.0.0 yishuifa.org
 0.0.0.0 yitai001.com
 0.0.0.0 yitiaoyu.top
+0.0.0.0 yituo-patibao.cn
 0.0.0.0 yiudy.com
 0.0.0.0 yiuilserianaus.club
 0.0.0.0 yivzznzrujt.com
@@ -38918,6 +38950,7 @@
 0.0.0.0 zsjyc.top
 0.0.0.0 zsrycovuxfgzyn.com
 0.0.0.0 zstjy.com
+0.0.0.0 zswinwin.xyz
 0.0.0.0 zswph.com
 0.0.0.0 zswzri7ju3.ru
 0.0.0.0 zsxqjjobfb.com

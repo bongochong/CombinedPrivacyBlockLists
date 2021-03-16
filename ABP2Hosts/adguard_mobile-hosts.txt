@@ -1,4 +1,4 @@
-# Sun Mar 14 05:42:26 PM MDT 2021
+# Tue Mar 16 02:33:04 PM MDT 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -2191,8 +2191,11 @@
 0.0.0.0 beaconhub.iadmob.com
 0.0.0.0 beacons-wxm0dh1cst4.stackpathdns.com
 0.0.0.0 beacons.extremereach.io
+0.0.0.0 beacons.gcp.gvt2.com
+0.0.0.0 beacons.gvt2.com
 0.0.0.0 beacons.mediamelon.com
 0.0.0.0 beacons2.extremereach.io
+0.0.0.0 beacons5.gvt3.com
 0.0.0.0 beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com
 0.0.0.0 beaconserver-ce-vpc0-1909323404.us-west-2.elb.amazonaws.com
 0.0.0.0 beacontest.cardlytics.com
@@ -2250,6 +2253,7 @@
 0.0.0.0 bidstream.advertserve.com
 0.0.0.0 bidswitch-eu.splicky.com
 0.0.0.0 bidswitch.net
+0.0.0.0 bifjicdigchgihajabb.ru
 0.0.0.0 bigmobileads.com
 0.0.0.0 bigosg-inv-eu.admixer.net
 0.0.0.0 bingads.microsoft.com
@@ -3115,6 +3119,7 @@
 0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 config.unityads.unity3d.com
 0.0.0.0 config2.mparticle.com
+0.0.0.0 configs-community-app.audent.io
 0.0.0.0 configuration.ttpsdk.info
 0.0.0.0 configure.rayjump.com
 0.0.0.0 connatix-d.openx.net
@@ -3760,6 +3765,7 @@
 0.0.0.0 ecs.mantisadnetwork.com
 0.0.0.0 ecs.mb.moatads.com
 0.0.0.0 eddd6b75.api.splkmobile.com
+0.0.0.0 edge-mcdn-beacon.secure.yahoo.com
 0.0.0.0 edge-west.customer.io
 0.0.0.0 edge.addthis.com
 0.0.0.0 edge.safedk.com
@@ -4881,6 +4887,7 @@
 0.0.0.0 in.advertising.yahoo.com
 0.0.0.0 in.analytics.glance.inmobi.com
 0.0.0.0 in.api.glance.inmobi.com
+0.0.0.0 in.appcenter.ms
 0.0.0.0 in.cuebiq.com
 0.0.0.0 in.getclicky.com
 0.0.0.0 in.treasuredata.com
@@ -5393,6 +5400,7 @@
 0.0.0.0 lowes.netmng.com
 0.0.0.0 lp.netwrix.com
 0.0.0.0 lp4.io
+0.0.0.0 lptag.liveperson.net
 0.0.0.0 lrc.nct.nixcdn.com
 0.0.0.0 lrpush.apxlv.com
 0.0.0.0 ls.skimresources.com
@@ -5667,6 +5675,7 @@
 0.0.0.0 microad.net
 0.0.0.0 mid.rkdms.com
 0.0.0.0 midasplayer.com
+0.0.0.0 middycdn-a.akamaihd.net
 0.0.0.0 midoweb.offerstrack.net
 0.0.0.0 millennialmedia.com
 0.0.0.0 mimicromax.com
@@ -5732,11 +5741,13 @@
 0.0.0.0 mobile.cmtelematics.com
 0.0.0.0 mobile.controller.duokanbox.com
 0.0.0.0 mobile.eum-appdynamics.com
+0.0.0.0 mobile.events.data.microsoft.com
 0.0.0.0 mobile.game-insight.com
 0.0.0.0 mobile.ib.sin1.geoadnxs.com
 0.0.0.0 mobile.launchdarkly.com
 0.0.0.0 mobile.mediabrix.com
 0.0.0.0 mobile.mng-ads.com
+0.0.0.0 mobile.pipe.aria.microsoft.com
 0.0.0.0 mobile.yandexadexchange.net
 0.0.0.0 mobile01-d.openx.net
 0.0.0.0 mobile333.com
@@ -6048,6 +6059,7 @@
 0.0.0.0 nz-gmtdmp.mookie1.com
 0.0.0.0 o.cmp.advertising.com
 0.0.0.0 o2o.api.xiaomi.com
+0.0.0.0 o430870.ingest.sentry.io
 0.0.0.0 oao-d.openx.net
 0.0.0.0 oas-c18.adnxs.com
 0.0.0.0 oauth.datorama.com
@@ -6336,6 +6348,7 @@
 0.0.0.0 performancehorizon.com
 0.0.0.0 permutive.com
 0.0.0.0 persona.ly
+0.0.0.0 personalization.bloomberg.com
 0.0.0.0 personalization.centech.glulive.com
 0.0.0.0 pespn.chartbeat.net
 0.0.0.0 pflexads.com
@@ -6583,6 +6596,7 @@
 0.0.0.0 prod-ads.aerserv.com
 0.0.0.0 prod-ash-beacon-1960876484.us-east-1.elb.amazonaws.com
 0.0.0.0 prod-bid.applovin.com
+0.0.0.0 prod-collecticon.outlookmobile.com
 0.0.0.0 prod-customfeeds.flashtalking.com
 0.0.0.0 prod-dcs-eventlog.decagames.com
 0.0.0.0 prod-defaulting-subscriptiontool.gismart.xyz
@@ -7449,6 +7463,7 @@
 0.0.0.0 sejs.moatads.com
 0.0.0.0 sekindo.com
 0.0.0.0 select-d.openx.net
+0.0.0.0 self.events.data.microsoft.com
 0.0.0.0 send.microadinc.com
 0.0.0.0 sender.clevernt.com
 0.0.0.0 sense360eng.com.herokudns.com
@@ -7457,6 +7472,7 @@
 0.0.0.0 sensors.snaptubeapp.com
 0.0.0.0 sensors.yodo1api.com
 0.0.0.0 sentinel.mob.com
+0.0.0.0 sentry.audent.io
 0.0.0.0 ser.adledge.com
 0.0.0.0 serpens.iad-01.braze.com
 0.0.0.0 serpens.iad.appboy.com
@@ -8309,9 +8325,7 @@
 0.0.0.0 tapi.optimizely.com
 0.0.0.0 tapit.com
 0.0.0.0 tapjoy-com-lb-vpc-332546193.us-east-1.elb.amazonaws.com
-0.0.0.0 tapjoy.com
 0.0.0.0 tapjoy.go2cloud.org
-0.0.0.0 tapjoy.net
 0.0.0.0 tapjoyads.com
 0.0.0.0 tapone.jp
 0.0.0.0 tapps.analytics.s3.amazonaws.com
@@ -9004,6 +9018,7 @@
 0.0.0.0 verizon.adhaven.com
 0.0.0.0 verizon.asapp.com
 0.0.0.0 verizon.demdex.net
+0.0.0.0 verizontelecom.tt.omtrdc.net
 0.0.0.0 verticalscope-d.openx.net
 0.0.0.0 vervemobile.com
 0.0.0.0 vet-us-east-1.track.smaato.net
@@ -9025,6 +9040,8 @@
 0.0.0.0 video-ads.rubiconproject.com
 0.0.0.0 video-ads.rubiconproject.com-v1.edgekey.net
 0.0.0.0 video-assets.mathtag.com
+0.0.0.0 video-dfw5-1.xx.fbcdn.net
+0.0.0.0 video-dfw5-2.xx.fbcdn.net
 0.0.0.0 video-native.mgid.com
 0.0.0.0 video-stats.video.google.com
 0.0.0.0 video.adaptv.advertising.com
@@ -9101,6 +9118,7 @@
 0.0.0.0 vpaid.springserve.com
 0.0.0.0 vqq.admaster.com.cn
 0.0.0.0 vrl.m.conviva.com
+0.0.0.0 vrt.outbrain.com
 0.0.0.0 vserv.mobi
 0.0.0.0 vst.c.appier.net
 0.0.0.0 vt.adition.com
@@ -9316,6 +9334,7 @@
 0.0.0.0 www.adbert.com.tw
 0.0.0.0 www.auditude.com
 0.0.0.0 www.chartboost.com
+0.0.0.0 www.clarity.ms
 0.0.0.0 www.geoplugin.net
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.googleadservices.com
