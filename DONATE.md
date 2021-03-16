@@ -4,6 +4,11 @@ Times are tough, and any donations go toward helping this guy stay working.
 Along with donating through Brave Rewards, you can also use the following cryptocurrencies:  
 <br>
 
+**Algorand** (*ALGO*):  
+NP2BFYMFHJD4Y4U3HTFCTT3ZOAU2WAOEJ5V24RO56W3NGHFJXZ7MO4LAFY
+
+---
+
 **Basic Attention Token** (*BAT*):  
 0x3A8fE00E78E1a823C7C691d1AE029Bd8eC8Bc207
 
@@ -21,11 +26,6 @@ addr1qxl9mhqw2dnghm3a52mzp8qtmkmzt3dc28mnsdc2e40rwja7thwqu5mx30hrmg4kyzwqhhdkyhz
 
 **Tezos** (*XTZ*):  
 tz1QamL5nAt82RYMJceGs8E5Hadn1BLpCPa8
-
----
-
-**Algorand** (*ALGO*):  
-NP2BFYMFHJD4Y4U3HTFCTT3ZOAU2WAOEJ5V24RO56W3NGHFJXZ7MO4LAFY
 
 ---
 
