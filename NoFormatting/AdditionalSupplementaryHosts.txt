@@ -12867,7 +12867,6 @@
 0.0.0.0 uatimes-meta.biz
 0.0.0.0 ubercoupon.site
 0.0.0.0 ubiquitousyard.com
-0.0.0.0 ublock.org
 0.0.0.0 ublockerext.com
 0.0.0.0 ubm.tt.omtrdc.net
 0.0.0.0 ubnuov.com
@@ -12912,7 +12911,6 @@
 0.0.0.0 undwohed.ru
 0.0.0.0 unequalbrake.com
 0.0.0.0 unetbootin.net
-0.0.0.0 unetbootin.org
 0.0.0.0 unevenstring.com
 0.0.0.0 uni-full.com
 0.0.0.0 unian-search.com
