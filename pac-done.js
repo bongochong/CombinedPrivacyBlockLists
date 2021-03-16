@@ -1,4 +1,4 @@
-// **** Sun Mar 14 05:47:48 PM MDT 2021
+// **** Tue Mar 16 02:42:51 PM MDT 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -4581,6 +4581,7 @@ shExpMatch(host, '*.cursopdg.online') ||
 shExpMatch(host, '*.cursosneuromarketing.com') ||
 shExpMatch(host, '*.curtaincows.com') ||
 shExpMatch(host, '*.custom-blacklisted-tracking-example.com') ||
+shExpMatch(host, '*.custom.plausible.io') ||
 shExpMatch(host, '*.customad.cnn.com') ||
 shExpMatch(host, '*.customermgmt.net') ||
 shExpMatch(host, '*.cutaiamortgagegroup.cn') ||
@@ -14334,6 +14335,7 @@ shExpMatch(host, '*.tag.device9.com') ||
 shExpMatch(host, '*.tag.device9.net') ||
 shExpMatch(host, '*.tag.links-analytics.com') ||
 shExpMatch(host, '*.tagan.adlightning.com') ||
+shExpMatch(host, '*.tagcommander.com') ||
 shExpMatch(host, '*.tagdebate.ru') ||
 shExpMatch(host, '*.tagdol.dothome.co.kr') ||
 shExpMatch(host, '*.taged.ru') ||
@@ -14965,6 +14967,7 @@ shExpMatch(host, '*.transportationrouter.net') ||
 shExpMatch(host, '*.travis.bosscasinos.com') ||
 shExpMatch(host, '*.trax-doma.ru') ||
 shExpMatch(host, '*.traxster.net') ||
+shExpMatch(host, '*.trck.a8.net') ||
 shExpMatch(host, '*.trcking4wdm.de') ||
 shExpMatch(host, '*.trcklion.com') ||
 shExpMatch(host, '*.treasuredata.com') ||
@@ -21201,6 +21204,7 @@ shExpMatch(host, 'cursopdg.online') ||
 shExpMatch(host, 'cursosneuromarketing.com') ||
 shExpMatch(host, 'curtaincows.com') ||
 shExpMatch(host, 'custom-blacklisted-tracking-example.com') ||
+shExpMatch(host, 'custom.plausible.io') ||
 shExpMatch(host, 'customad.cnn.com') ||
 shExpMatch(host, 'customermgmt.net') ||
 shExpMatch(host, 'cutaiamortgagegroup.cn') ||
@@ -30954,6 +30958,7 @@ shExpMatch(host, 'tag.device9.com') ||
 shExpMatch(host, 'tag.device9.net') ||
 shExpMatch(host, 'tag.links-analytics.com') ||
 shExpMatch(host, 'tagan.adlightning.com') ||
+shExpMatch(host, 'tagcommander.com') ||
 shExpMatch(host, 'tagdebate.ru') ||
 shExpMatch(host, 'tagdol.dothome.co.kr') ||
 shExpMatch(host, 'taged.ru') ||
@@ -31585,6 +31590,7 @@ shExpMatch(host, 'transportationrouter.net') ||
 shExpMatch(host, 'travis.bosscasinos.com') ||
 shExpMatch(host, 'trax-doma.ru') ||
 shExpMatch(host, 'traxster.net') ||
+shExpMatch(host, 'trck.a8.net') ||
 shExpMatch(host, 'trcking4wdm.de') ||
 shExpMatch(host, 'trcklion.com') ||
 shExpMatch(host, 'treasuredata.com') ||
