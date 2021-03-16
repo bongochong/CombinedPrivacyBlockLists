@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 # This work is licensed under the CPAL-1.0
 # See: http://shorl.com/vebrubefrubiti
 #
-# ~- Tue Mar 16 02:42:33 PM MDT 2021 -~
+# ~- Tue Mar 16 02:57:17 PM MDT 2021 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -78870,7 +78870,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 ubimoinappdisplay34181600889.s.moatpixel.com
 0.0.0.0 ubiquitoushacking.com
 0.0.0.0 ubiquitousyard.com
-0.0.0.0 ublock.org
 0.0.0.0 ublockerext.com
 0.0.0.0 ublretailerdemo.cstdevs.com
 0.0.0.0 ublrfs.com
@@ -79290,7 +79289,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 unequalbrake.com
 0.0.0.0 unetall.com
 0.0.0.0 unetbootin.net
-0.0.0.0 unetbootin.org
 0.0.0.0 unevenstring.com
 0.0.0.0 unfairliam.club
 0.0.0.0 unfeaecmhszmsx.com
@@ -167343,7 +167341,6 @@ ff02::2 ip6-allrouters
 :: ubimoinappdisplay34181600889.s.moatpixel.com
 :: ubiquitoushacking.com
 :: ubiquitousyard.com
-:: ublock.org
 :: ublockerext.com
 :: ublretailerdemo.cstdevs.com
 :: ublrfs.com
@@ -167763,7 +167760,6 @@ ff02::2 ip6-allrouters
 :: unequalbrake.com
 :: unetall.com
 :: unetbootin.net
-:: unetbootin.org
 :: unevenstring.com
 :: unfairliam.club
 :: unfeaecmhszmsx.com
