@@ -30,7 +30,7 @@ ff02::2 ip6-allrouters
 #                                                          #
 # This work is licensed under the CPAL-1.0                 #
 # Common Public Attribution License v1.0                   #
-# http://shorl.com/vebrubefrubiti                          #
+# https://shorl.com/vebrubefrubiti                         #
 #                                                          #
 # [Start of automated IPv4 entries]
 
