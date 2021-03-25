@@ -1,4 +1,4 @@
-# Thu Mar 25 04:25:32 PM MDT 2021
+# Thu Mar 25 04:30:06 PM MDT 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
