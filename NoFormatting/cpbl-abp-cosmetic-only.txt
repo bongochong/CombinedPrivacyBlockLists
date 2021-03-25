@@ -162,6 +162,8 @@ washingtonpost.com##.z-eyei-bvs
 ||cdn.jsdelivr.net/npm/workbox-cdn*$script,domain=theblockcrypto.com
 ||embed.theblockcrypto.com/dist/*/js/chunk*.js$domain=theblockcrypto.com
 ||exodus.com/img/subscribe-popup.jpg$image
+||graph.facebook.com^$domain=~facebook.com|~fbcdn.com|~apps.facebook.com|~instagram.com|~linkedin.com
+||graph.instagram.com^$domain=~facebook.com|~fbcdn.com|~apps.facebook.com|~instagram.com|~linkedin.com
 ||reddit.com/account/register/?mobile_ui=on&compact_mode=on&experiment_mweb_sso_login_link=enabled&experiment_mweb_google_onetap=onetap_auto$subdocument
 ||redditmedia.com/gtm/jail?
 ||tbstat.com*$script,domain=theblockcrypto.com

@@ -1,4 +1,4 @@
-# Thu Mar 18 05:58:11 PM MDT 2021
+# Thu Mar 25 04:25:32 PM MDT 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -623,6 +623,7 @@
 0.0.0.0 adplatform.vrtcal.com
 0.0.0.0 adplex.co.kr
 0.0.0.0 adpone-d.openx.net
+0.0.0.0 adpopcorn.com
 0.0.0.0 adpriv.nikkei.com
 0.0.0.0 adprotected.com
 0.0.0.0 adpublisher.s3.amazonaws.com
@@ -6271,6 +6272,7 @@
 0.0.0.0 panel.moat.com
 0.0.0.0 panelist-api.vertoanalytics.com
 0.0.0.0 panelist.placed.com
+0.0.0.0 pangle.io
 0.0.0.0 pangle.io.edgekey.net
 0.0.0.0 pangolin16.isnssdk.com
 0.0.0.0 par.vip.prod.criteo.com
