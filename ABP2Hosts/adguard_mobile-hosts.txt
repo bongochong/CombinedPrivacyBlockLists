@@ -1,4 +1,4 @@
-# Thu Mar 25 04:30:06 PM MDT 2021
+# Fri Mar 26 02:21:10 PM MDT 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -2276,7 +2276,6 @@
 0.0.0.0 bktr2-06hdl.ads.tremorhub.com
 0.0.0.0 black6adv.com
 0.0.0.0 blackhole.chango.com
-0.0.0.0 bling2.midasplayer.com
 0.0.0.0 blisspoint.us-east-1.stinger-ad.bidr.io
 0.0.0.0 blisspoint.us-west-2.stinger-ad.bidr.io
 0.0.0.0 blizzard.blueoxtech.com
@@ -5115,8 +5114,6 @@
 0.0.0.0 jzwjq.ads.tremorhub.com
 0.0.0.0 k.streamrail.com
 0.0.0.0 k.tcp.push.mob.com
-0.0.0.0 k1.midasplayer.com
-0.0.0.0 k1qa.midasplayer.com
 0.0.0.0 kaffnet.com
 0.0.0.0 kaltura.perf.akadns.net
 0.0.0.0 kargo-match.dotomi.com
@@ -5675,7 +5672,6 @@
 0.0.0.0 microad.jp
 0.0.0.0 microad.net
 0.0.0.0 mid.rkdms.com
-0.0.0.0 midasplayer.com
 0.0.0.0 middycdn-a.akamaihd.net
 0.0.0.0 midoweb.offerstrack.net
 0.0.0.0 millennialmedia.com
@@ -5748,7 +5744,6 @@
 0.0.0.0 mobile.launchdarkly.com
 0.0.0.0 mobile.mediabrix.com
 0.0.0.0 mobile.mng-ads.com
-0.0.0.0 mobile.pipe.aria.microsoft.com
 0.0.0.0 mobile.yandexadexchange.net
 0.0.0.0 mobile01-d.openx.net
 0.0.0.0 mobile333.com
@@ -6101,7 +6096,6 @@
 0.0.0.0 oneid.mmstat.com
 0.0.0.0 onelink.appsflyer.com
 0.0.0.0 onepush.query.yahoo.com
-0.0.0.0 onesignal.com
 0.0.0.0 onetag-geo-grouping.s-onetag.com
 0.0.0.0 onetag-geo.onscroll.com
 0.0.0.0 onetag-geo.s-onetag.com
@@ -6226,7 +6220,6 @@
 0.0.0.0 p.dlx.addthis.com
 0.0.0.0 p.l.qq.com
 0.0.0.0 p.metrilo.com
-0.0.0.0 p.midasplayer.com
 0.0.0.0 p.placed.com
 0.0.0.0 p.po.st
 0.0.0.0 p.presage.io
