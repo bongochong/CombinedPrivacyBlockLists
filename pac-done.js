@@ -1,4 +1,4 @@
-// **** Thu Mar 25 04:34:19 PM MDT 2021
+// **** Fri Mar 26 02:33:20 PM MDT 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -1162,7 +1162,6 @@ shExpMatch(host, '*.ads.program3.com') ||
 shExpMatch(host, '*.ads.programattik.com') ||
 shExpMatch(host, '*.ads.psd2html.com') ||
 shExpMatch(host, '*.ads.pushplay.com') ||
-shExpMatch(host, '*.ads.quasaraffiliates.com') ||
 shExpMatch(host, '*.ads.quoka.de') ||
 shExpMatch(host, '*.ads.radialserver.com') ||
 shExpMatch(host, '*.ads.radio1.lv') ||
@@ -3382,7 +3381,6 @@ shExpMatch(host, '*.chainbit.club') ||
 shExpMatch(host, '*.chairscrack.com') ||
 shExpMatch(host, '*.chameleon.ad') ||
 shExpMatch(host, '*.chango.com') ||
-shExpMatch(host, '*.channel1vids.com') ||
 shExpMatch(host, '*.channelintelligence.com') ||
 shExpMatch(host, '*.chaoshackss.com') ||
 shExpMatch(host, '*.chardwardse.club') ||
@@ -8666,6 +8664,7 @@ shExpMatch(host, '*.hubmyfile.com') ||
 shExpMatch(host, '*.hubzoom.com') ||
 shExpMatch(host, '*.hudbee.com') ||
 shExpMatch(host, '*.hueads.com') ||
+shExpMatch(host, '*.hueadsortb.com') ||
 shExpMatch(host, '*.hueadsxml.com') ||
 shExpMatch(host, '*.hugebestbuy.cn') ||
 shExpMatch(host, '*.hugefileshare.com') ||
@@ -14872,6 +14871,7 @@ shExpMatch(host, '*.tracking.ibxlink.com') ||
 shExpMatch(host, '*.tracking.internetstores.de') ||
 shExpMatch(host, '*.tracking.intl.miui.com') ||
 shExpMatch(host, '*.tracking.jiffyworld.com') ||
+shExpMatch(host, '*.tracking.lenddom.com') ||
 shExpMatch(host, '*.tracking.miui.com') ||
 shExpMatch(host, '*.tracking.olx-st.com') ||
 shExpMatch(host, '*.tracking.orixa-media.com') ||
@@ -17791,7 +17791,6 @@ shExpMatch(host, 'ads.program3.com') ||
 shExpMatch(host, 'ads.programattik.com') ||
 shExpMatch(host, 'ads.psd2html.com') ||
 shExpMatch(host, 'ads.pushplay.com') ||
-shExpMatch(host, 'ads.quasaraffiliates.com') ||
 shExpMatch(host, 'ads.quoka.de') ||
 shExpMatch(host, 'ads.radialserver.com') ||
 shExpMatch(host, 'ads.radio1.lv') ||
@@ -20011,7 +20010,6 @@ shExpMatch(host, 'chainbit.club') ||
 shExpMatch(host, 'chairscrack.com') ||
 shExpMatch(host, 'chameleon.ad') ||
 shExpMatch(host, 'chango.com') ||
-shExpMatch(host, 'channel1vids.com') ||
 shExpMatch(host, 'channelintelligence.com') ||
 shExpMatch(host, 'chaoshackss.com') ||
 shExpMatch(host, 'chardwardse.club') ||
@@ -25295,6 +25293,7 @@ shExpMatch(host, 'hubmyfile.com') ||
 shExpMatch(host, 'hubzoom.com') ||
 shExpMatch(host, 'hudbee.com') ||
 shExpMatch(host, 'hueads.com') ||
+shExpMatch(host, 'hueadsortb.com') ||
 shExpMatch(host, 'hueadsxml.com') ||
 shExpMatch(host, 'hugebestbuy.cn') ||
 shExpMatch(host, 'hugefileshare.com') ||
@@ -31501,6 +31500,7 @@ shExpMatch(host, 'tracking.ibxlink.com') ||
 shExpMatch(host, 'tracking.internetstores.de') ||
 shExpMatch(host, 'tracking.intl.miui.com') ||
 shExpMatch(host, 'tracking.jiffyworld.com') ||
+shExpMatch(host, 'tracking.lenddom.com') ||
 shExpMatch(host, 'tracking.miui.com') ||
 shExpMatch(host, 'tracking.olx-st.com') ||
 shExpMatch(host, 'tracking.orixa-media.com') ||
