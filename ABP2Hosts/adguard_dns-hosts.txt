@@ -1,4 +1,4 @@
-# Fri Mar 26 02:21:49 PM MDT 2021
+# Fri Mar 26 02:28:25 PM MDT 2021
 # AdGuard DNS Hosts - Generated weekly by bongochong
 0.0.0.0 00-gov.cn
 0.0.0.0 0024aaaa.com
