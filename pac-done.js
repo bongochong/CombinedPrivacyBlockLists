@@ -1,4 +1,4 @@
-// **** Fri Mar 26 02:33:20 PM MDT 2021
+// **** Fri Apr  2 11:23:17 PM MDT 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -668,7 +668,6 @@ shExpMatch(host, '*.adforce.com') ||
 shExpMatch(host, '*.adform.com') ||
 shExpMatch(host, '*.adform.net') ||
 shExpMatch(host, '*.adformdsp.net') ||
-shExpMatch(host, '*.adfries.info') ||
 shExpMatch(host, '*.adfrut.cl') ||
 shExpMatch(host, '*.adfs.senacrs.com.br') ||
 shExpMatch(host, '*.adgardener.com') ||
@@ -1883,7 +1882,6 @@ shExpMatch(host, '*.anadoluvitamin.com.tr') ||
 shExpMatch(host, '*.anahtars.com') ||
 shExpMatch(host, '*.analitics1.in') ||
 shExpMatch(host, '*.analitics3.in') ||
-shExpMatch(host, '*.analyticin.online') ||
 shExpMatch(host, '*.analytics-production.hapyak.com') ||
 shExpMatch(host, '*.analytics.adpost.org') ||
 shExpMatch(host, '*.analytics.bitrix.info') ||
@@ -3702,6 +3700,7 @@ shExpMatch(host, '*.click.fool.com') ||
 shExpMatch(host, '*.click.kmindex.ru') ||
 shExpMatch(host, '*.click.lovltrzwzqeux.info') ||
 shExpMatch(host, '*.click.negociosdigitaisnapratica.com.br') ||
+shExpMatch(host, '*.click.redditmail.com') ||
 shExpMatch(host, '*.click.twcwigs.com') ||
 shExpMatch(host, '*.click2freemoney.com') ||
 shExpMatch(host, '*.click2paid.com') ||
@@ -5456,6 +5455,7 @@ shExpMatch(host, '*.elitetoplist.com') ||
 shExpMatch(host, '*.eliteviphacks.com') ||
 shExpMatch(host, '*.elohell.org') ||
 shExpMatch(host, '*.elon-promo.com') ||
+shExpMatch(host, '*.elongives.biz') ||
 shExpMatch(host, '*.eloyed.com') ||
 shExpMatch(host, '*.elskins.com') ||
 shExpMatch(host, '*.elthamely.com') ||
@@ -9512,6 +9512,7 @@ shExpMatch(host, '*.krackers.eu') ||
 shExpMatch(host, '*.kraker-sh.ru') ||
 shExpMatch(host, '*.krasota-olimpia.ru') ||
 shExpMatch(host, '*.kreatemore.com') ||
+shExpMatch(host, '*.krebsonsecurity.top') ||
 shExpMatch(host, '*.krxd.net') ||
 shExpMatch(host, '*.ksdiy.com') ||
 shExpMatch(host, '*.ksdnewr.com') ||
@@ -10802,6 +10803,8 @@ shExpMatch(host, '*.musicg8.com') ||
 shExpMatch(host, '*.musicleaked.com') ||
 shExpMatch(host, '*.musique-france.com') ||
 shExpMatch(host, '*.musk.plus') ||
+shExpMatch(host, '*.muskgives.net') ||
+shExpMatch(host, '*.muskgives.org') ||
 shExpMatch(host, '*.muwmedia.com') ||
 shExpMatch(host, '*.muziczion.com') ||
 shExpMatch(host, '*.mv-wallern-pamhagen.at') ||
@@ -13697,6 +13700,7 @@ shExpMatch(host, '*.soccergamesunblocked.us') ||
 shExpMatch(host, '*.soccerstars-hack.net') ||
 shExpMatch(host, '*.social-cheats.com') ||
 shExpMatch(host, '*.social-stats.info') ||
+shExpMatch(host, '*.socialcapital.cc') ||
 shExpMatch(host, '*.socialcheats.com') ||
 shExpMatch(host, '*.socialempirehack.com') ||
 shExpMatch(host, '*.socialgamegifts.com') ||
@@ -14486,6 +14490,7 @@ shExpMatch(host, '*.tesago.ru') ||
 shExpMatch(host, '*.tesco.100giveaways.com') ||
 shExpMatch(host, '*.tesco.365giveaways.com') ||
 shExpMatch(host, '*.tescovouchersfree.com') ||
+shExpMatch(host, '*.tesla-coins.net') ||
 shExpMatch(host, '*.tesla-gifting.site') ||
 shExpMatch(host, '*.tesla-musk.eu') ||
 shExpMatch(host, '*.tesopportunites.fr') ||
@@ -15650,6 +15655,7 @@ shExpMatch(host, '*.warface-hack.net') ||
 shExpMatch(host, '*.warlog.info') ||
 shExpMatch(host, '*.warlog.ru') ||
 shExpMatch(host, '*.warlordsofdraenorbetakeys.net') ||
+shExpMatch(host, '*.warmafterthought.com') ||
 shExpMatch(host, '*.warneracademy.com') ||
 shExpMatch(host, '*.warofmercenarieshack.net') ||
 shExpMatch(host, '*.warp.ly') ||
@@ -17297,7 +17303,6 @@ shExpMatch(host, 'adforce.com') ||
 shExpMatch(host, 'adform.com') ||
 shExpMatch(host, 'adform.net') ||
 shExpMatch(host, 'adformdsp.net') ||
-shExpMatch(host, 'adfries.info') ||
 shExpMatch(host, 'adfrut.cl') ||
 shExpMatch(host, 'adfs.senacrs.com.br') ||
 shExpMatch(host, 'adgardener.com') ||
@@ -18512,7 +18517,6 @@ shExpMatch(host, 'anadoluvitamin.com.tr') ||
 shExpMatch(host, 'anahtars.com') ||
 shExpMatch(host, 'analitics1.in') ||
 shExpMatch(host, 'analitics3.in') ||
-shExpMatch(host, 'analyticin.online') ||
 shExpMatch(host, 'analytics-production.hapyak.com') ||
 shExpMatch(host, 'analytics.adpost.org') ||
 shExpMatch(host, 'analytics.bitrix.info') ||
@@ -20331,6 +20335,7 @@ shExpMatch(host, 'click.fool.com') ||
 shExpMatch(host, 'click.kmindex.ru') ||
 shExpMatch(host, 'click.lovltrzwzqeux.info') ||
 shExpMatch(host, 'click.negociosdigitaisnapratica.com.br') ||
+shExpMatch(host, 'click.redditmail.com') ||
 shExpMatch(host, 'click.twcwigs.com') ||
 shExpMatch(host, 'click2freemoney.com') ||
 shExpMatch(host, 'click2paid.com') ||
@@ -22085,6 +22090,7 @@ shExpMatch(host, 'elitetoplist.com') ||
 shExpMatch(host, 'eliteviphacks.com') ||
 shExpMatch(host, 'elohell.org') ||
 shExpMatch(host, 'elon-promo.com') ||
+shExpMatch(host, 'elongives.biz') ||
 shExpMatch(host, 'eloyed.com') ||
 shExpMatch(host, 'elskins.com') ||
 shExpMatch(host, 'elthamely.com') ||
@@ -26141,6 +26147,7 @@ shExpMatch(host, 'krackers.eu') ||
 shExpMatch(host, 'kraker-sh.ru') ||
 shExpMatch(host, 'krasota-olimpia.ru') ||
 shExpMatch(host, 'kreatemore.com') ||
+shExpMatch(host, 'krebsonsecurity.top') ||
 shExpMatch(host, 'krxd.net') ||
 shExpMatch(host, 'ksdiy.com') ||
 shExpMatch(host, 'ksdnewr.com') ||
@@ -27431,6 +27438,8 @@ shExpMatch(host, 'musicg8.com') ||
 shExpMatch(host, 'musicleaked.com') ||
 shExpMatch(host, 'musique-france.com') ||
 shExpMatch(host, 'musk.plus') ||
+shExpMatch(host, 'muskgives.net') ||
+shExpMatch(host, 'muskgives.org') ||
 shExpMatch(host, 'muwmedia.com') ||
 shExpMatch(host, 'muziczion.com') ||
 shExpMatch(host, 'mv-wallern-pamhagen.at') ||
@@ -30326,6 +30335,7 @@ shExpMatch(host, 'soccergamesunblocked.us') ||
 shExpMatch(host, 'soccerstars-hack.net') ||
 shExpMatch(host, 'social-cheats.com') ||
 shExpMatch(host, 'social-stats.info') ||
+shExpMatch(host, 'socialcapital.cc') ||
 shExpMatch(host, 'socialcheats.com') ||
 shExpMatch(host, 'socialempirehack.com') ||
 shExpMatch(host, 'socialgamegifts.com') ||
@@ -31115,6 +31125,7 @@ shExpMatch(host, 'tesago.ru') ||
 shExpMatch(host, 'tesco.100giveaways.com') ||
 shExpMatch(host, 'tesco.365giveaways.com') ||
 shExpMatch(host, 'tescovouchersfree.com') ||
+shExpMatch(host, 'tesla-coins.net') ||
 shExpMatch(host, 'tesla-gifting.site') ||
 shExpMatch(host, 'tesla-musk.eu') ||
 shExpMatch(host, 'tesopportunites.fr') ||
@@ -32279,6 +32290,7 @@ shExpMatch(host, 'warface-hack.net') ||
 shExpMatch(host, 'warlog.info') ||
 shExpMatch(host, 'warlog.ru') ||
 shExpMatch(host, 'warlordsofdraenorbetakeys.net') ||
+shExpMatch(host, 'warmafterthought.com') ||
 shExpMatch(host, 'warneracademy.com') ||
 shExpMatch(host, 'warofmercenarieshack.net') ||
 shExpMatch(host, 'warp.ly') ||
