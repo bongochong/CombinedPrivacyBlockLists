@@ -1,4 +1,4 @@
-# Fri Mar 26 02:28:29 PM MDT 2021
+# Fri Apr  2 11:19:35 PM MDT 2021
 # Spam404 Hosts - Generated weekly by bongochong
 0.0.0.0 001www.com
 0.0.0.0 0daygameparadise.com
@@ -2092,6 +2092,7 @@
 0.0.0.0 eliteviphacks.com
 0.0.0.0 elohell.org
 0.0.0.0 elon-promo.com
+0.0.0.0 elongives.biz
 0.0.0.0 elskins.com
 0.0.0.0 email-hack.com
 0.0.0.0 emeraldfiles.com
@@ -4779,6 +4780,7 @@
 0.0.0.0 konere.ru
 0.0.0.0 korbatech.com
 0.0.0.0 krackers.eu
+0.0.0.0 krebsonsecurity.top
 0.0.0.0 ksw-stream.pl
 0.0.0.0 ksw22live.pl
 0.0.0.0 ksw26-transmisja.pl
@@ -5387,6 +5389,8 @@
 0.0.0.0 musicleaked.com
 0.0.0.0 musique-france.com
 0.0.0.0 musk.plus
+0.0.0.0 muskgives.net
+0.0.0.0 muskgives.org
 0.0.0.0 muziczion.com
 0.0.0.0 mvcbattle.pro
 0.0.0.0 mw2aimbot.filesforgames.com
@@ -6753,6 +6757,7 @@
 0.0.0.0 soccergamesunblocked.us
 0.0.0.0 soccerstars-hack.net
 0.0.0.0 social-cheats.com
+0.0.0.0 socialcapital.cc
 0.0.0.0 socialcheats.com
 0.0.0.0 socialempirehack.com
 0.0.0.0 socialgamegifts.com
@@ -7132,6 +7137,7 @@
 0.0.0.0 tesco.100giveaways.com
 0.0.0.0 tesco.365giveaways.com
 0.0.0.0 tescovouchersfree.com
+0.0.0.0 tesla-coins.net
 0.0.0.0 tesla-gifting.site
 0.0.0.0 tesla-musk.eu
 0.0.0.0 tesopportunites.fr
