@@ -1,4 +1,4 @@
-# Fri Apr  9 11:40:41 PM MDT 2021
+# Fri Apr  9 11:47:49 PM MDT 2021
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0-24bpautomentes.hu
 0.0.0.0 00-gov.cn
