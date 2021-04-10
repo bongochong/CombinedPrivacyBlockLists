@@ -1,4 +1,4 @@
-// **** Fri Apr  2 11:23:17 PM MDT 2021
+// **** Fri Apr  9 11:57:36 PM MDT 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -552,6 +552,7 @@ shExpMatch(host, '*.ad.weatherbug.com') ||
 shExpMatch(host, '*.ad.wsod.com') ||
 shExpMatch(host, '*.ad.wz.cz') ||
 shExpMatch(host, '*.ad.xiaomi.com') ||
+shExpMatch(host, '*.ad.xmovies8.si') ||
 shExpMatch(host, '*.ad.xrea.com') ||
 shExpMatch(host, '*.ad.yadro.ru') ||
 shExpMatch(host, '*.ad.yourmedia.com') ||
@@ -1482,7 +1483,6 @@ shExpMatch(host, '*.adsroller.com') ||
 shExpMatch(host, '*.adsrv.deviantart.com') ||
 shExpMatch(host, '*.adsrv.eacdn.com') ||
 shExpMatch(host, '*.adsrv.iol.co.za') ||
-shExpMatch(host, '*.adsrv.kobi.tv') ||
 shExpMatch(host, '*.adsrv.moebelmarkt.tv') ||
 shExpMatch(host, '*.adsrv.swidnica24.pl') ||
 shExpMatch(host, '*.adsrv2.swidnica24.pl') ||
@@ -3265,7 +3265,6 @@ shExpMatch(host, '*.cashfiles.org') ||
 shExpMatch(host, '*.cashfly.com') ||
 shExpMatch(host, '*.cashlayer.com') ||
 shExpMatch(host, '*.cashpartner.com') ||
-shExpMatch(host, '*.cashstaging.app') ||
 shExpMatch(host, '*.cashstaging.me') ||
 shExpMatch(host, '*.cashta.net') ||
 shExpMatch(host, '*.cashu.biz') ||
@@ -12712,7 +12711,6 @@ shExpMatch(host, '*.reloadedhacks.org') ||
 shExpMatch(host, '*.reltime-2014.ru') ||
 shExpMatch(host, '*.reltime2012.ru') ||
 shExpMatch(host, '*.reltimes-2010.ru') ||
-shExpMatch(host, '*.remarketingpixel.com') ||
 shExpMatch(host, '*.remistrainew.club') ||
 shExpMatch(host, '*.remodelinginportland.net') ||
 shExpMatch(host, '*.remotead.cnet.com') ||
@@ -14272,6 +14270,7 @@ shExpMatch(host, '*.surup.ru') ||
 shExpMatch(host, '*.surveybypass.com') ||
 shExpMatch(host, '*.surveybypass.net') ||
 shExpMatch(host, '*.surveybypassdirect.com') ||
+shExpMatch(host, '*.surveygizmobeacon.s3.amazonaws.com') ||
 shExpMatch(host, '*.surveyremover2013.com') ||
 shExpMatch(host, '*.surveyremovertool.com') ||
 shExpMatch(host, '*.surveysmasher.com') ||
@@ -17187,6 +17186,7 @@ shExpMatch(host, 'ad.weatherbug.com') ||
 shExpMatch(host, 'ad.wsod.com') ||
 shExpMatch(host, 'ad.wz.cz') ||
 shExpMatch(host, 'ad.xiaomi.com') ||
+shExpMatch(host, 'ad.xmovies8.si') ||
 shExpMatch(host, 'ad.xrea.com') ||
 shExpMatch(host, 'ad.yadro.ru') ||
 shExpMatch(host, 'ad.yourmedia.com') ||
@@ -18117,7 +18117,6 @@ shExpMatch(host, 'adsroller.com') ||
 shExpMatch(host, 'adsrv.deviantart.com') ||
 shExpMatch(host, 'adsrv.eacdn.com') ||
 shExpMatch(host, 'adsrv.iol.co.za') ||
-shExpMatch(host, 'adsrv.kobi.tv') ||
 shExpMatch(host, 'adsrv.moebelmarkt.tv') ||
 shExpMatch(host, 'adsrv.swidnica24.pl') ||
 shExpMatch(host, 'adsrv2.swidnica24.pl') ||
@@ -19900,7 +19899,6 @@ shExpMatch(host, 'cashfiles.org') ||
 shExpMatch(host, 'cashfly.com') ||
 shExpMatch(host, 'cashlayer.com') ||
 shExpMatch(host, 'cashpartner.com') ||
-shExpMatch(host, 'cashstaging.app') ||
 shExpMatch(host, 'cashstaging.me') ||
 shExpMatch(host, 'cashta.net') ||
 shExpMatch(host, 'cashu.biz') ||
@@ -29347,7 +29345,6 @@ shExpMatch(host, 'reloadedhacks.org') ||
 shExpMatch(host, 'reltime-2014.ru') ||
 shExpMatch(host, 'reltime2012.ru') ||
 shExpMatch(host, 'reltimes-2010.ru') ||
-shExpMatch(host, 'remarketingpixel.com') ||
 shExpMatch(host, 'remistrainew.club') ||
 shExpMatch(host, 'remodelinginportland.net') ||
 shExpMatch(host, 'remotead.cnet.com') ||
@@ -30907,6 +30904,7 @@ shExpMatch(host, 'surup.ru') ||
 shExpMatch(host, 'surveybypass.com') ||
 shExpMatch(host, 'surveybypass.net') ||
 shExpMatch(host, 'surveybypassdirect.com') ||
+shExpMatch(host, 'surveygizmobeacon.s3.amazonaws.com') ||
 shExpMatch(host, 'surveyremover2013.com') ||
 shExpMatch(host, 'surveyremovertool.com') ||
 shExpMatch(host, 'surveysmasher.com') ||
