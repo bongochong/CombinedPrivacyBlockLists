@@ -1,4 +1,4 @@
-# Fri Apr  2 11:18:56 PM MDT 2021
+# Fri Apr  9 11:40:13 PM MDT 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -3038,8 +3038,6 @@
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
 0.0.0.0 collection.decibelinsight.net
-0.0.0.0 collection.sumologic.com
-0.0.0.0 collection.us2.sumologic.com
 0.0.0.0 collector-001.newrelic.com
 0.0.0.0 collector-002.newrelic.com
 0.0.0.0 collector-003.newrelic.com
@@ -3079,8 +3077,6 @@
 0.0.0.0 collector.stats.socialquantum.ru
 0.0.0.0 collector.tealeaf.ibmcloud.com
 0.0.0.0 collector1.afreecatv.com
-0.0.0.0 collectors.sumologic.com
-0.0.0.0 collectors.us2.sumologic.com
 0.0.0.0 com-fcagroup.netmng.com
 0.0.0.0 com-geckoboard-main.collector.snplow.net
 0.0.0.0 com-thebigwillow-prod1.collector.snplow.net
@@ -3578,6 +3574,7 @@
 0.0.0.0 di.deliveryengine.adswizz.com
 0.0.0.0 di.ssl.msdk.qq.com
 0.0.0.0 diag-wd.gridsumdissector.com
+0.0.0.0 diagnosis.ad.intl.xiaomi.com
 0.0.0.0 dialacrum.iad-03.braze.com
 0.0.0.0 dickssportinggoods.demdex.net
 0.0.0.0 did.ijinshan.com
@@ -3828,8 +3825,6 @@
 0.0.0.0 emxhb.emxdgt.com
 0.0.0.0 encyclopediabritannica.blueconic.net
 0.0.0.0 end.scorecardresearch.com
-0.0.0.0 endpoint1.collection.us2.sumologic.com
-0.0.0.0 endpoint2.collection.sumologic.com
 0.0.0.0 engage-network.influencemobile.com
 0.0.0.0 engage.commander1.com
 0.0.0.0 engage.marketo.com
@@ -5440,7 +5435,6 @@
 0.0.0.0 lynx.cognitivlabs.com
 0.0.0.0 m-adash.m.taobao.com
 0.0.0.0 m-metrics.capitalone.com
-0.0.0.0 m-motu.doglobal.net
 0.0.0.0 m-shes.ru
 0.0.0.0 m.12306media.com
 0.0.0.0 m.adnxs.com
@@ -5996,6 +5990,7 @@
 0.0.0.0 newad.ifeng.com
 0.0.0.0 newfeatureview.perfectionholic.com
 0.0.0.0 newre-conversions.clickmeter.com
+0.0.0.0 news.iadsdk.apple.com
 0.0.0.0 newscorp.grapeshot.co.uk
 0.0.0.0 newsnet.in.ua
 0.0.0.0 newspush.sinajs.cn
@@ -6732,6 +6727,7 @@
 0.0.0.0 pubnative-d.openx.net
 0.0.0.0 pubnative.info
 0.0.0.0 pubnative.net
+0.0.0.0 pubstatus.sinaapp.com
 0.0.0.0 pubwise-d.openx.net
 0.0.0.0 puds.ucweb.com
 0.0.0.0 puhtml.com
@@ -8110,6 +8106,7 @@
 0.0.0.0 stuff.cdn.biddingx.com
 0.0.0.0 stx-assets.sharethrough.com
 0.0.0.0 stx-match.dotomi.com
+0.0.0.0 su.iadsdk.apple.com
 0.0.0.0 sube.puwangkj.com
 0.0.0.0 submit.zapr.in
 0.0.0.0 suite-analytics.socialbakers.com
@@ -8608,6 +8605,7 @@
 0.0.0.0 trackimpression.com
 0.0.0.0 tracking-1611167402.us-east-1.elb.amazonaws.com
 0.0.0.0 tracking-1659963975.ap-southeast-1.elb.amazonaws.com
+0.0.0.0 tracking-3-9f58.trnox.com
 0.0.0.0 tracking-receiver.prod-general.stocard-backend.com
 0.0.0.0 tracking-server-prod-1.zenmxapps.com
 0.0.0.0 tracking.aatkit.com
@@ -8619,6 +8617,7 @@
 0.0.0.0 tracking.admarketplace.net.edgekey.net
 0.0.0.0 tracking.adsx.unityads.unity3d.com
 0.0.0.0 tracking.applift.com
+0.0.0.0 tracking.apptrackerlink.com
 0.0.0.0 tracking.autoads.asia
 0.0.0.0 tracking.crazyegg.com
 0.0.0.0 tracking.directservices.it
@@ -8674,6 +8673,7 @@
 0.0.0.0 trc-events.taboola.com
 0.0.0.0 trc.kissmetrics.com
 0.0.0.0 trc.taboola.com
+0.0.0.0 trcakingapp.trnox.com
 0.0.0.0 tremor-match.dotomi.com
 0.0.0.0 tremorhub.com
 0.0.0.0 tremormedia.com
@@ -8909,7 +8909,6 @@
 0.0.0.0 us01.rayjump.com
 0.0.0.0 us1-spiky.wzrkt.com
 0.0.0.0 us1.wzrkt.com
-0.0.0.0 us2.sumologic.com
 0.0.0.0 usadmm-ds.dotomi.com
 0.0.0.0 usadmm.dotomi.com
 0.0.0.0 usage.influxdata.com
@@ -9382,6 +9381,7 @@
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.googletagservices.com
+0.0.0.0 www.iadsdk.apple.com
 0.0.0.0 www.leanplum.com
 0.0.0.0 www.localytics.com
 0.0.0.0 www.npttech.com
