@@ -1,4 +1,4 @@
-// **** Fri Apr  9 11:57:36 PM MDT 2021
+// **** Sun Apr 11 10:00:01 PM MDT 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -1896,6 +1896,7 @@ shExpMatch(host, '*.analytics.htmedia.in') ||
 shExpMatch(host, '*.analytics.icons8.com') ||
 shExpMatch(host, '*.analytics.inlinemanual.com') ||
 shExpMatch(host, '*.analytics.jst.ai') ||
+shExpMatch(host, '*.analytics.justuno.com') ||
 shExpMatch(host, '*.analytics.live.com') ||
 shExpMatch(host, '*.analytics.mailmunch.co') ||
 shExpMatch(host, '*.analytics.myfinance.com') ||
@@ -4174,6 +4175,7 @@ shExpMatch(host, '*.crtv.mate1.com') ||
 shExpMatch(host, '*.crunchmutt.com') ||
 shExpMatch(host, '*.crushthecandy.com') ||
 shExpMatch(host, '*.crwdcntrl.net') ||
+shExpMatch(host, '*.crypto-gifts.net') ||
 shExpMatch(host, '*.crypto-loot.com') ||
 shExpMatch(host, '*.crypto-loot.org') ||
 shExpMatch(host, '*.cryptodoubler.io') ||
@@ -5453,6 +5455,7 @@ shExpMatch(host, '*.elitesfiles.com') ||
 shExpMatch(host, '*.elitetoplist.com') ||
 shExpMatch(host, '*.eliteviphacks.com') ||
 shExpMatch(host, '*.elohell.org') ||
+shExpMatch(host, '*.elon-gifts.net') ||
 shExpMatch(host, '*.elon-promo.com') ||
 shExpMatch(host, '*.elongives.biz') ||
 shExpMatch(host, '*.eloyed.com') ||
@@ -9346,7 +9349,6 @@ shExpMatch(host, '*.justinbieber.reviewbuckz.com') ||
 shExpMatch(host, '*.justpremium.com') ||
 shExpMatch(host, '*.justrelevant.com') ||
 shExpMatch(host, '*.justtroll.it') ||
-shExpMatch(host, '*.justuno.com') ||
 shExpMatch(host, '*.justwebads.com') ||
 shExpMatch(host, '*.juxingguandao.com') ||
 shExpMatch(host, '*.jvauto29.free.fr') ||
@@ -14387,6 +14389,7 @@ shExpMatch(host, '*.targad.de') ||
 shExpMatch(host, '*.target.microsoft.com') ||
 shExpMatch(host, '*.targeting.api.drift.com') ||
 shExpMatch(host, '*.targeting.nzme.arcpublishing.com') ||
+shExpMatch(host, '*.targeting.voxus.tv') ||
 shExpMatch(host, '*.targetingnow.com') ||
 shExpMatch(host, '*.targetnet.com') ||
 shExpMatch(host, '*.targetpoint.com') ||
@@ -14650,6 +14653,7 @@ shExpMatch(host, '*.tiande-rivne-com-ua.1gb.ua') ||
 shExpMatch(host, '*.tiburon.viralvideos.es') ||
 shExpMatch(host, '*.ticdewi.ru') ||
 shExpMatch(host, '*.ticfiles.com') ||
+shExpMatch(host, '*.ticketaunt.com') ||
 shExpMatch(host, '*.ticklesign.com') ||
 shExpMatch(host, '*.ticksel.com') ||
 shExpMatch(host, '*.tidaltv.com') ||
@@ -18530,6 +18534,7 @@ shExpMatch(host, 'analytics.htmedia.in') ||
 shExpMatch(host, 'analytics.icons8.com') ||
 shExpMatch(host, 'analytics.inlinemanual.com') ||
 shExpMatch(host, 'analytics.jst.ai') ||
+shExpMatch(host, 'analytics.justuno.com') ||
 shExpMatch(host, 'analytics.live.com') ||
 shExpMatch(host, 'analytics.mailmunch.co') ||
 shExpMatch(host, 'analytics.myfinance.com') ||
@@ -20808,6 +20813,7 @@ shExpMatch(host, 'crtv.mate1.com') ||
 shExpMatch(host, 'crunchmutt.com') ||
 shExpMatch(host, 'crushthecandy.com') ||
 shExpMatch(host, 'crwdcntrl.net') ||
+shExpMatch(host, 'crypto-gifts.net') ||
 shExpMatch(host, 'crypto-loot.com') ||
 shExpMatch(host, 'crypto-loot.org') ||
 shExpMatch(host, 'cryptodoubler.io') ||
@@ -22087,6 +22093,7 @@ shExpMatch(host, 'elitesfiles.com') ||
 shExpMatch(host, 'elitetoplist.com') ||
 shExpMatch(host, 'eliteviphacks.com') ||
 shExpMatch(host, 'elohell.org') ||
+shExpMatch(host, 'elon-gifts.net') ||
 shExpMatch(host, 'elon-promo.com') ||
 shExpMatch(host, 'elongives.biz') ||
 shExpMatch(host, 'eloyed.com') ||
@@ -25980,7 +25987,6 @@ shExpMatch(host, 'justinbieber.reviewbuckz.com') ||
 shExpMatch(host, 'justpremium.com') ||
 shExpMatch(host, 'justrelevant.com') ||
 shExpMatch(host, 'justtroll.it') ||
-shExpMatch(host, 'justuno.com') ||
 shExpMatch(host, 'justwebads.com') ||
 shExpMatch(host, 'juxingguandao.com') ||
 shExpMatch(host, 'jvauto29.free.fr') ||
@@ -31021,6 +31027,7 @@ shExpMatch(host, 'targad.de') ||
 shExpMatch(host, 'target.microsoft.com') ||
 shExpMatch(host, 'targeting.api.drift.com') ||
 shExpMatch(host, 'targeting.nzme.arcpublishing.com') ||
+shExpMatch(host, 'targeting.voxus.tv') ||
 shExpMatch(host, 'targetingnow.com') ||
 shExpMatch(host, 'targetnet.com') ||
 shExpMatch(host, 'targetpoint.com') ||
@@ -31284,6 +31291,7 @@ shExpMatch(host, 'tiande-rivne-com-ua.1gb.ua') ||
 shExpMatch(host, 'tiburon.viralvideos.es') ||
 shExpMatch(host, 'ticdewi.ru') ||
 shExpMatch(host, 'ticfiles.com') ||
+shExpMatch(host, 'ticketaunt.com') ||
 shExpMatch(host, 'ticklesign.com') ||
 shExpMatch(host, 'ticksel.com') ||
 shExpMatch(host, 'tidaltv.com') ||
