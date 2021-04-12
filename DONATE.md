@@ -19,11 +19,6 @@ addr1qxl9mhqw2dnghm3a52mzp8qtmkmzt3dc28mnsdc2e40rwja7thwqu5mx30hrmg4kyzwqhhdkyhz
 
 ---
 
-**Hedera Hashgraph** (*HBAR*):  
-0.0.127187
-
----
-
 **Tezos** (*XTZ*):  
 tz1QamL5nAt82RYMJceGs8E5Hadn1BLpCPa8
 
@@ -36,6 +31,11 @@ cosmos1mtjnz3ek0xzsykydxnmzc4ut6qc07u32up2wdk
 
 **Stellar Lumens** (*XLM*):  
 GDNNSJH2PGIPIOZHJE2BS2TMECQXWDZ5AWTLFIJL7TNN4S7QF3A45N4D
+
+---
+
+**Hedera Hashgraph** (*HBAR*):  
+0.0.127187
 
 ---
 

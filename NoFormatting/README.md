@@ -21,6 +21,6 @@ Within this directory are the following items:
 
 - The [plain version of my CIDR-format block list](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/combined-flat.cidr) is also available in this subdirectory.  
 
-- Finally, an ABP / uBO filter list which is [solely the cosmetic filters](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/cpbl-abp-cosmetic-only.txt) from my main ABP / uBO lists.
+- Finally, an ABP / uBO filter list which is [mostly the cosmetic filters](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/cpbl-abp-cosmetic-only.txt) from my main ABP / uBO lists.
 
 File names in here are basically self-explanatory, and I'm well aware at this point, that this directory should be named *AdditionalContent* or something of the sort, but it is what it is.
