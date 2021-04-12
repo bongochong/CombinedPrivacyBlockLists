@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Sun Apr 11 10:10:16 PM MDT 2021
+! Updated: Mon Apr 12 05:23:13 PM MDT 2021
 ! Expires: 7 Days
 ! License: https://git.io/JTTLW
 ! Homepage: https://git.io/JTTLB
@@ -76340,6 +76340,7 @@ linuxandubuntu.com##.hustle-optin-mask.hustle-popup-mask
 linuxandubuntu.com##.hustle-show.module_id_1.hustle_module_id_1.hustle-palette--default.hustle-popup.hustle-ui
 liveleak.com##TABLE[style="border: 1px solid; background-color: #eceff5; border-color: #94a3c4;"]
 liveleak.com##TABLE[style="border:1px #CCC dotted; width:304px; margin-bottom:9px;"]
+mintscan.io##[class^="Ad__adCarousel-wrapper-"]
 mondoweiss.net##li.mondo-ads-widget.widget
 mondoweiss.net##section.mondo-ads-widget.widget
 my.indeed.com##.MicroContentCard > .icl-Card--hasBorder.icl-Card
