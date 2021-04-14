@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mini CPBL Filters for ABP & uBO
-! Updated: Tue Apr 13 12:49:55 PM MDT 2021
+! Updated: Wed Apr 14 03:44:47 PM MDT 2021
 ! Expires: 7 Days
 ! License: https://git.io/JTTLW
 ! Homepage: https://git.io/JTTLB
@@ -53159,6 +53159,8 @@
 8kun.top##.disclaimer-8kun
 affinia.com###things-to-do > .on.overlay-container
 affinia.com##footer > .wrapper > .on.special-message.most-of-screen.full-overlay
+affinia.com##.privacy-policy__container
+affinia.com##.fade-slide-up.has-fade-slide-up.privacy-policy
 alltrainerspc.com##a[href*="hskwq.com"]
 apptracker.indeed.com##.apptracker-CovidBanner
 apptracker.indeed.com##.atw-IsHelpfulSurvey
@@ -53314,6 +53316,7 @@ website2.me##[id^="ws-side-banner-"]
 ||exodus.com/img/subscribe-popup.jpg$image
 ||graph.facebook.com^$domain=~facebook.com|~fbcdn.com|~apps.facebook.com|~instagram.com|~linkedin.com,app=~com.facebook.katana|~com.instagram.android|~com.facebook.orca|~com.mobile.legends|~com.minigames.sweetcrossing|~com.moonton.mobilehero|~com.supercell.clashofclans|~com.playrix.fishdomdd.gplay|~com.tencent.ig|~com.ngame.allstar.eu|~com.garena.game.kgid|~com.netease.g78na.gb|~com.stackwares.android.storysaver.facebook
 ||graph.instagram.com^$domain=~facebook.com|~fbcdn.com|~apps.facebook.com|~instagram.com|~linkedin.com,app=~com.facebook.katana|~com.instagram.android
+||indiadivine.org/wp-content/plugins/layered-popups/js/ads.js$script,domain=indiadivine.org
 ||reddit.com/account/register/?mobile_ui=on&compact_mode=on&experiment_mweb_sso_login_link=enabled&experiment_mweb_google_onetap=onetap_auto$subdocument
 ||redditmedia.com/gtm/jail?
 ||tbstat.com*$script,domain=theblockcrypto.com
