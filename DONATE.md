@@ -44,11 +44,6 @@ GDNNSJH2PGIPIOZHJE2BS2TMECQXWDZ5AWTLFIJL7TNN4S7QF3A45N4D
 
 ---
 
-**NuCypher** (*NU*):  
-0x070699fCb9bb0E66fF4AfB10570b2Ee917cF74a6
-
----
-
 **BitCoin** (*BTC*):  
 bc1qk6gz7pwf2p57u5u88uc9298x4fhzmaecff5zgg
 
@@ -76,11 +71,6 @@ qr5zr074hsq250hfx2hnye4cdadct7y8cyx6k0a6gu
 
 **LiteCoin** (*LTC*):  
 LXZ2VXDtYEJwhWVN6dqkGLP7t2qD7mSYBF
-
----
-
-**OMG** (*OMG*):  
-0x3A8fE00E78E1a823C7C691d1AE029Bd8eC8Bc207
 
 ---
 
