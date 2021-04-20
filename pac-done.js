@@ -1,4 +1,4 @@
-// **** Sun Apr 18 02:12:23 PM MDT 2021
+// **** Mon Apr 19 08:29:12 PM MDT 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -1921,6 +1921,7 @@ shExpMatch(host, '*.anamol.net') ||
 shExpMatch(host, '*.anamovies.com') ||
 shExpMatch(host, '*.anayaoeventos.com') ||
 shExpMatch(host, '*.anchoreditor.com') ||
+shExpMatch(host, '*.ancientact.com') ||
 shExpMatch(host, '*.ancientroom.com') ||
 shExpMatch(host, '*.ancom1.ru') ||
 shExpMatch(host, '*.andersoninc.biz') ||
@@ -18572,6 +18573,7 @@ shExpMatch(host, 'anamol.net') ||
 shExpMatch(host, 'anamovies.com') ||
 shExpMatch(host, 'anayaoeventos.com') ||
 shExpMatch(host, 'anchoreditor.com') ||
+shExpMatch(host, 'ancientact.com') ||
 shExpMatch(host, 'ancientroom.com') ||
 shExpMatch(host, 'ancom1.ru') ||
 shExpMatch(host, 'andersoninc.biz') ||
