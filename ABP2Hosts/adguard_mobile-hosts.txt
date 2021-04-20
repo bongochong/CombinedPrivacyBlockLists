@@ -1,4 +1,4 @@
-# Sun Apr 18 02:08:14 PM MDT 2021
+# Mon Apr 19 08:23:21 PM MDT 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -6952,10 +6952,8 @@
 0.0.0.0 register.appsflyer.com
 0.0.0.0 register.collector.scopely.io
 0.0.0.0 register.xmpush.xiaomi.com
-0.0.0.0 registeridm.com
 0.0.0.0 registration.gimbal.com
 0.0.0.0 registration.tiltingpoint.io
-0.0.0.0 regmedia.co.uk
 0.0.0.0 rek.mobi
 0.0.0.0 reklamz.com
 0.0.0.0 relap.io
@@ -9141,8 +9139,6 @@
 0.0.0.0 video-ads.rubiconproject.com
 0.0.0.0 video-ads.rubiconproject.com-v1.edgekey.net
 0.0.0.0 video-assets.mathtag.com
-0.0.0.0 video-dfw5-1.xx.fbcdn.net
-0.0.0.0 video-dfw5-2.xx.fbcdn.net
 0.0.0.0 video-native.mgid.com
 0.0.0.0 video-stats.video.google.com
 0.0.0.0 video.adaptv.advertising.com

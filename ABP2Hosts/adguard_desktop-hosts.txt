@@ -1,4 +1,4 @@
-# Sun Apr 18 02:08:33 PM MDT 2021
+# Mon Apr 19 08:23:43 PM MDT 2021
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 00-gov.cn
 0.0.0.0 0024aaaa.com
@@ -27,6 +27,7 @@
 0.0.0.0 033.com
 0.0.0.0 0330vsdgdwer.xyz
 0.0.0.0 0351dvd.cn
+0.0.0.0 0376ddaf55.com
 0.0.0.0 039ad0897e6da.com
 0.0.0.0 0413fsiuhwem.xyz
 0.0.0.0 0420zvnmljgfdsa.xyz
@@ -6254,6 +6255,7 @@
 0.0.0.0 betrad.com
 0.0.0.0 betrayedgeoffrey.com
 0.0.0.0 betrayedregretdeadline.com
+0.0.0.0 betrustkelping.com
 0.0.0.0 betshucklean.com
 0.0.0.0 betsonsport.ru
 0.0.0.0 betteradsystem.com
@@ -7671,6 +7673,7 @@
 0.0.0.0 cbtpzx.pazar3.mk
 0.0.0.0 cbvjddh.23txt.com
 0.0.0.0 cbxe1r.cn
+0.0.0.0 cbyckdf.cn
 0.0.0.0 cbyzgxhbovgwju.com
 0.0.0.0 cc-dt.com
 0.0.0.0 cc.calltracking.ru
@@ -7919,6 +7922,7 @@
 0.0.0.0 cftrack.com
 0.0.0.0 cfts1tifqr.com
 0.0.0.0 cg2017.com
+0.0.0.0 cggeffgbbfgcefjhgbg.ru
 0.0.0.0 cgi.keele-nnw-leis-mc-leis.net.daraz.com
 0.0.0.0 cgiale.com
 0.0.0.0 cgiwinter.net.daraz.com
@@ -9512,6 +9516,7 @@
 0.0.0.0 crptentry.com
 0.0.0.0 crptgate.com
 0.0.0.0 crsspxl.com
+0.0.0.0 crt.livejasmin.com
 0.0.0.0 crta.dailymail.co.uk
 0.0.0.0 crta.metro.co.uk
 0.0.0.0 crtracklink.com
@@ -11139,6 +11144,7 @@
 0.0.0.0 districtbaloneywhiskers.com
 0.0.0.0 districtm.ca
 0.0.0.0 distrikerkvazar.site
+0.0.0.0 disturbedaccruesurfaces.com
 0.0.0.0 dit-dit-dot.com
 0.0.0.0 dita6jhhqwoiz.cloudfront.net
 0.0.0.0 ditabu.pro
@@ -11159,6 +11165,7 @@
 0.0.0.0 dividedscientific.com
 0.0.0.0 divisionap.top
 0.0.0.0 divolution.com
+0.0.0.0 divscripty.net
 0.0.0.0 diwfhgfszus.com
 0.0.0.0 dizhonghaihotel.com
 0.0.0.0 dizzyac.com
@@ -14392,6 +14399,7 @@
 0.0.0.0 fsyzcs.com
 0.0.0.0 fsz1.francoisesaget.com
 0.0.0.0 fszhxd.com
+0.0.0.0 fsznrodyocq.com
 0.0.0.0 ftbpro.com
 0.0.0.0 ftd.agency
 0.0.0.0 ftd2q1g8id1z.ru
@@ -14719,7 +14727,6 @@
 0.0.0.0 garettygrea.space
 0.0.0.0 garristo.com
 0.0.0.0 gars57.cn
-0.0.0.0 gashot.yurivideos.com
 0.0.0.0 gasolina.ml
 0.0.0.0 gasxf.com
 0.0.0.0 gatesrichestbusts.com
@@ -14854,7 +14861,6 @@
 0.0.0.0 genuschaseslowly.com
 0.0.0.0 geo-idm.fr
 0.0.0.0 geo.bluedot.io
-0.0.0.0 geo.cliphunter.com
 0.0.0.0 geo.connexionsecure.com
 0.0.0.0 geo.frtya.com
 0.0.0.0 geo.frtyd.com
@@ -15517,6 +15523,7 @@
 0.0.0.0 gorselcdn.com
 0.0.0.0 gorselpanel.com
 0.0.0.0 gorskprof2it8og09.com
+0.0.0.0 goryachie-foto.net
 0.0.0.0 gos-kanal.ru
 0.0.0.0 goshenhealth.hrm.healthgrades.com
 0.0.0.0 goshooph.com
@@ -15645,6 +15652,7 @@
 0.0.0.0 gravellocus.com
 0.0.0.0 gravity4.com
 0.0.0.0 graxarosi.pro
+0.0.0.0 graypay1.cn
 0.0.0.0 grayreceipt.com
 0.0.0.0 greasegarden.com
 0.0.0.0 greasemotion.com
@@ -17806,6 +17814,7 @@
 0.0.0.0 inimbus.com.au
 0.0.0.0 ininmacerad.pro
 0.0.0.0 initiateplayed.com
+0.0.0.0 injectlocum.com
 0.0.0.0 injuredcandy.com
 0.0.0.0 inkornesto.com
 0.0.0.0 inktad.com
@@ -18183,6 +18192,7 @@
 0.0.0.0 istcg.com
 0.0.0.0 istcommun.info
 0.0.0.0 istcs.top
+0.0.0.0 istori.site
 0.0.0.0 istrack.com
 0.0.0.0 istreamsche.com
 0.0.0.0 isu.weidianyuedu.com
@@ -19172,6 +19182,7 @@
 0.0.0.0 kenizg.com
 0.0.0.0 kennetting.club
 0.0.0.0 kenomal.com
+0.0.0.0 kenskitscurt.com
 0.0.0.0 kensyii.com
 0.0.0.0 kenvam.online
 0.0.0.0 keoofp.gulfnews.com
@@ -19280,6 +19291,7 @@
 0.0.0.0 kimus.ru
 0.0.0.0 kinak.top
 0.0.0.0 kinderfinder.ru
+0.0.0.0 kindlyfeebleremembered.com
 0.0.0.0 kindredplc.com
 0.0.0.0 kindsworthmp.club
 0.0.0.0 kindznnd998.xyz
@@ -19446,6 +19458,7 @@
 0.0.0.0 koindut.com
 0.0.0.0 koiper.com
 0.0.0.0 kojwex.top
+0.0.0.0 kok.eroterest.net
 0.0.0.0 kokofits.com
 0.0.0.0 kokojia.com
 0.0.0.0 kokos.click
@@ -20511,7 +20524,6 @@
 0.0.0.0 log.mediacategory.com
 0.0.0.0 log.musical.ly
 0.0.0.0 log.newsvine.com
-0.0.0.0 log.nordot.jp
 0.0.0.0 log.ohmynews.com
 0.0.0.0 log.olark.com
 0.0.0.0 log.optimizely.com
@@ -21933,8 +21945,6 @@
 0.0.0.0 media.fc2.com
 0.0.0.0 media.goldline.pro
 0.0.0.0 media.kahoxa.ru
-0.0.0.0 media.match.com
-0.0.0.0 media.mykocam.com
 0.0.0.0 media.mykodial.com
 0.0.0.0 media.net
 0.0.0.0 media.netrefer.com
@@ -22856,6 +22866,7 @@
 0.0.0.0 mightyspiders.com
 0.0.0.0 mignoops.net
 0.0.0.0 migongetlucky.com
+0.0.0.0 mikla.site
 0.0.0.0 mikpumwbahkx.com
 0.0.0.0 mikrairs.com
 0.0.0.0 milabra.com
@@ -22976,6 +22987,7 @@
 0.0.0.0 mixtraff.silvercdn.com
 0.0.0.0 mixturehopeful.com
 0.0.0.0 mj23.eulerian.com
+0.0.0.0 mj23nba.txxx.com
 0.0.0.0 mjbuuxt7l18r.com
 0.0.0.0 mjeejc.tiki.vn
 0.0.0.0 mjita.cn
@@ -23344,6 +23356,7 @@
 0.0.0.0 motherehoom.pro
 0.0.0.0 motherhoodenhanced.com
 0.0.0.0 mothhatekick.com
+0.0.0.0 mothkennethaccomplish.com
 0.0.0.0 motille.com
 0.0.0.0 motion.kollmorgen.com
 0.0.0.0 motionlessbag.com
@@ -23798,6 +23811,7 @@
 0.0.0.0 n156adserv.com
 0.0.0.0 n161adserv.com
 0.0.0.0 n18uji.xyz
+0.0.0.0 n19.biz
 0.0.0.0 n1ora14.online
 0.0.0.0 n2s.co.kr
 0.0.0.0 n39hc7isp08t.com
@@ -24028,6 +24042,7 @@
 0.0.0.0 nepsauss.net
 0.0.0.0 neqky.com
 0.0.0.0 nerbulsterme.club
+0.0.0.0 nerdolac.com
 0.0.0.0 nererut.com
 0.0.0.0 nernv.com
 0.0.0.0 nerohut.com
@@ -26487,6 +26502,7 @@
 0.0.0.0 peptido.ru
 0.0.0.0 perabetads.com
 0.0.0.0 perceivecatastrophe.com
+0.0.0.0 perceivednameless.com
 0.0.0.0 perceivequarter.com
 0.0.0.0 percentmobile.com
 0.0.0.0 pereval.net
@@ -28983,6 +28999,7 @@
 0.0.0.0 redtram.com
 0.0.0.0 reducatedc.top
 0.0.0.0 reductingds.club
+0.0.0.0 redundancyphilosophicalwest.com
 0.0.0.0 reduxmediagroup.com
 0.0.0.0 redvase.bravenet.com
 0.0.0.0 redvxjlmaehy.com
@@ -31332,7 +31349,6 @@
 0.0.0.0 shorlakmedia.com
 0.0.0.0 shorteh.com
 0.0.0.0 shortfolio.club
-0.0.0.0 shortpixel.ai
 0.0.0.0 shorug.cn
 0.0.0.0 shostobs.net
 0.0.0.0 shotarget.co.uk
@@ -31622,6 +31638,7 @@
 0.0.0.0 sl-h-statistics-ch-1.storeland.ru
 0.0.0.0 sl1me.com
 0.0.0.0 slabshookwasted.com
+0.0.0.0 slakesshimtames.com
 0.0.0.0 slammederasepolicy.com
 0.0.0.0 slashstar.net
 0.0.0.0 slava.soloway.su
@@ -35991,6 +36008,7 @@
 0.0.0.0 theatredveres.site
 0.0.0.0 theatrialmero.club
 0.0.0.0 thebannerexchange.com
+0.0.0.0 thebest-casualdating1.com
 0.0.0.0 thebestgame2020.com
 0.0.0.0 thebestlinks.com
 0.0.0.0 theblackdeath.ru
@@ -36092,6 +36110,7 @@
 0.0.0.0 thomageothe.club
 0.0.0.0 thomastorch.com
 0.0.0.0 thompaur.com
+0.0.0.0 thongaspredo.com
 0.0.0.0 thoodsoy.net
 0.0.0.0 thoorest.com
 0.0.0.0 thor-media.ru
@@ -36446,7 +36465,6 @@
 0.0.0.0 toolbarw-htgb-a.net.daraz.com
 0.0.0.0 toolcount.ru
 0.0.0.0 tools.bongacams.com
-0.0.0.0 tools.gfcash.com
 0.0.0.0 tools.ranker.com
 0.0.0.0 tools.ricoh.co.uk
 0.0.0.0 toolset.vip
@@ -38179,6 +38197,7 @@
 0.0.0.0 umyetor.ru
 0.0.0.0 umyijmhalvbk.com
 0.0.0.0 un1.wayoulegal.com
+0.0.0.0 unableincludingrow.com
 0.0.0.0 unacceptableclevercapable.com
 0.0.0.0 unads.ru
 0.0.0.0 unanimis.co.uk
@@ -38956,6 +38975,7 @@
 0.0.0.0 vids63.com
 0.0.0.0 vidsdelivery.com
 0.0.0.0 vidseed.ru
+0.0.0.0 vidsforuz.com
 0.0.0.0 vidtok.ru
 0.0.0.0 vidustal.com
 0.0.0.0 vidyp.com
@@ -38990,6 +39010,7 @@
 0.0.0.0 vimmenced.club
 0.0.0.0 vimvio.ru
 0.0.0.0 vindicosuite.com
+0.0.0.0 vinegarweb.com
 0.0.0.0 vinfdv6b4j.com
 0.0.0.0 vinlens.com
 0.0.0.0 vinov24.com
@@ -39288,7 +39309,6 @@
 0.0.0.0 vsdcdn.com
 0.0.0.0 vse.srazu.org
 0.0.0.0 vsekiski.org
-0.0.0.0 vserv.bc.cdn.bitgravity.com
 0.0.0.0 vsesumki.com
 0.0.0.0 vsetfdtwhp.com
 0.0.0.0 vsexshop.ru
@@ -40596,6 +40616,7 @@
 0.0.0.0 wxcwtehxsfri.com
 0.0.0.0 wxebgpj.cn
 0.0.0.0 wxhdwy.com
+0.0.0.0 wxhiojortldjyegtkx.bid
 0.0.0.0 wxiansen.cn
 0.0.0.0 wxktv.cn
 0.0.0.0 wxs666.cn
@@ -42318,13 +42339,16 @@
 0.0.0.0 zwkssb.com
 0.0.0.0 zwmunz.com
 0.0.0.0 zwnxzckwihg.com
+0.0.0.0 zwqpqrtpjt.com
 0.0.0.0 zwwbvpwd.com
 0.0.0.0 zwychain.cn
+0.0.0.0 zwyymwy.com
 0.0.0.0 zwzfujusmwsbun.com
 0.0.0.0 zxa4kxw2nvox.com
 0.0.0.0 zxavxgjcjmkh.com
 0.0.0.0 zxbumj.edreams.it
 0.0.0.0 zxclan.com
+0.0.0.0 zxcvbnmasdfghjklqwertyuiop.work
 0.0.0.0 zxcvxmtzs.com
 0.0.0.0 zxdardwpsuf.com
 0.0.0.0 zxevjtzvqlxy.com
@@ -42359,6 +42383,7 @@
 0.0.0.0 zymro.com
 0.0.0.0 zypenetwork.com
 0.0.0.0 zyqp9.com
+0.0.0.0 zyqtc.cn
 0.0.0.0 zyrjagscswahgz.com
 0.0.0.0 zywhjd.com
 0.0.0.0 zyxwpj.com

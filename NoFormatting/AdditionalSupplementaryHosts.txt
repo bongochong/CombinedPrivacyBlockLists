@@ -4113,7 +4113,6 @@
 0.0.0.0 arms.livedoor.net
 0.0.0.0 aromamirror.com
 0.0.0.0 art.lead-ad.jp
-0.0.0.0 artadvancekid.info
 0.0.0.0 artdefensive.com
 0.0.0.0 arthurmiddletoncapit.tt.omtrdc.net
 0.0.0.0 arvidarena.com
@@ -4381,6 +4380,7 @@
 0.0.0.0 awholeblueworld.com
 0.0.0.0 awumad01.top
 0.0.0.0 awupet08.top
+0.0.0.0 awushk10.top
 0.0.0.0 awzbijw.com
 0.0.0.0 ax.xrea.com
 0.0.0.0 axad.shinobi.jp
@@ -6760,6 +6760,7 @@
 0.0.0.0 file.gamefeat.net
 0.0.0.0 file.ziyu.net
 0.0.0.0 filebase.duckdns.org
+0.0.0.0 files-quotecheck.xyz
 0.0.0.0 fileserveravast.com
 0.0.0.0 filezilla.es
 0.0.0.0 filezilla.fr
@@ -6936,6 +6937,7 @@
 0.0.0.0 frmnbcccclilink.cf
 0.0.0.0 front.aid-ad.jp
 0.0.0.0 frostite.biz
+0.0.0.0 frostycitadel.xyz
 0.0.0.0 frtyhyyttrtrreee.xyz
 0.0.0.0 fruitice.realnetwrk.com
 0.0.0.0 fsafakfskane.net
@@ -7316,6 +7318,7 @@
 0.0.0.0 gruopcor.com
 0.0.0.0 grvspn.com
 0.0.0.0 gryphs.ru
+0.0.0.0 gs.monerorx.com
 0.0.0.0 gs5j7zyhogb53dmqmjfqljsq2ykksm3.spotify.com
 0.0.0.0 gsicpbs.112.2o7.net
 0.0.0.0 gslll.ru
@@ -8150,7 +8153,6 @@
 0.0.0.0 jetbux.ir
 0.0.0.0 jetrun.jp
 0.0.0.0 jewelcheese.com
-0.0.0.0 jfas.top
 0.0.0.0 jfashop.net
 0.0.0.0 jfnutts.com
 0.0.0.0 jih465flash.com
@@ -9032,6 +9034,7 @@
 0.0.0.0 meremark.com
 0.0.0.0 merhabaslm.su
 0.0.0.0 merkez.tk
+0.0.0.0 merrybmx.dtdns.org
 0.0.0.0 mesearch.xyz
 0.0.0.0 messagenovice.com
 0.0.0.0 met.adwhirl.com
@@ -13012,6 +13015,7 @@
 0.0.0.0 tuckermolybdenum.com
 0.0.0.0 tufamugevih.eu
 0.0.0.0 tugunhey.ru
+0.0.0.0 tuimclean.com
 0.0.0.0 tulip18.com
 0.0.0.0 tumi.112.2o7.net
 0.0.0.0 tunarivutop.eu
