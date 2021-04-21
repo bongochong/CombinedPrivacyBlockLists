@@ -10,7 +10,7 @@ mkdir -p ~/BLT/hosts
 cd ~/BLT/hosts
 rm -f hosts.* *.final *.hosts newhosts.txt
 sleep 1
-wget -nv -O hosts.1 "http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext"
+wget -nv -O hosts.1 "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext"
 echo "Downloaded hosts list 1"
 wget -nv -O hosts.2 "https://winhelp2002.mvps.org/hosts.txt"
 echo "Downloaded hosts list 2"
