@@ -1,4 +1,4 @@
-// **** Thu Apr 22 05:14:52 AM UTC 2021
+// **** Thu Apr 22 11:54:14 PM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -1938,6 +1938,7 @@ shExpMatch(host, '*.analytics.swiggy.com') ||
 shExpMatch(host, '*.analytics.xelondigital.com') ||
 shExpMatch(host, '*.analytics.yahoo.com') ||
 shExpMatch(host, '*.analyticsapi.happypancake.net') ||
+shExpMatch(host, '*.analytik.xyz') ||
 shExpMatch(host, '*.anamol.net') ||
 shExpMatch(host, '*.anamovies.com') ||
 shExpMatch(host, '*.anayaoeventos.com') ||
@@ -13779,6 +13780,7 @@ shExpMatch(host, '*.siccash.com') ||
 shExpMatch(host, '*.sicksmash.com') ||
 shExpMatch(host, '*.sidebar.angelfire.com') ||
 shExpMatch(host, '*.sideload.net') ||
+shExpMatch(host, '*.signalayer.com') ||
 shExpMatch(host, '*.signalhq.com') ||
 shExpMatch(host, '*.signsandwondersonline.com') ||
 shExpMatch(host, '*.silkysquirrel.com') ||
@@ -19328,6 +19330,7 @@ shExpMatch(host, 'analytics.swiggy.com') ||
 shExpMatch(host, 'analytics.xelondigital.com') ||
 shExpMatch(host, 'analytics.yahoo.com') ||
 shExpMatch(host, 'analyticsapi.happypancake.net') ||
+shExpMatch(host, 'analytik.xyz') ||
 shExpMatch(host, 'anamol.net') ||
 shExpMatch(host, 'anamovies.com') ||
 shExpMatch(host, 'anayaoeventos.com') ||
@@ -31169,6 +31172,7 @@ shExpMatch(host, 'siccash.com') ||
 shExpMatch(host, 'sicksmash.com') ||
 shExpMatch(host, 'sidebar.angelfire.com') ||
 shExpMatch(host, 'sideload.net') ||
+shExpMatch(host, 'signalayer.com') ||
 shExpMatch(host, 'signalhq.com') ||
 shExpMatch(host, 'signsandwondersonline.com') ||
 shExpMatch(host, 'silkysquirrel.com') ||
