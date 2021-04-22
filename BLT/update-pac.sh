@@ -11,7 +11,7 @@ cd ~/BLT/pac
 rm -f pac-* *.pac
 sleep 1
 echo "Changed working directory and cleaned up old data. Now downloading new lists."
-wget -nv -O 1.pac "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/MD-Immortal_Domains-Backup.txt"
+wget -nv -O 1.pac "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/MD-ID-Fork.txt"
 wget -nv -O 2.pac "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt"
 wget -nv -O 3.pac "https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt"
 wget -nv -O 4.pac "https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt"

@@ -14,7 +14,7 @@ wget -nv -O hosts.1 "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=ho
 echo "Downloaded hosts list 1"
 wget -nv -O hosts.2 "https://winhelp2002.mvps.org/hosts.txt"
 echo "Downloaded hosts list 2"
-wget -nv -O hosts.3 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/MD-Immortal_Domains-Backup-HOSTS.txt"
+wget -nv -O hosts.3 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/MD-ID-H-Fork.txt"
 echo "Downloaded hosts list 3"
 wget -nv -O hosts.4 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/adguard_desktop-hosts.txt"
 echo "Downloaded hosts list 4"
