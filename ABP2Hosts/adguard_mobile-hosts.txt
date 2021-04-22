@@ -1,4 +1,4 @@
-# Thu Apr 22 05:10:28 AM UTC 2021
+# Thu Apr 22 11:29:18 PM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -2750,7 +2750,6 @@
 0.0.0.0 cdn.simpleanalytics.io
 0.0.0.0 cdn.simpli.fi
 0.0.0.0 cdn.smartnews-ads.com
-0.0.0.0 cdn.smassets.net
 0.0.0.0 cdn.socialannex.com
 0.0.0.0 cdn.socialbakers.com
 0.0.0.0 cdn.speedshiftmedia.com
@@ -2877,7 +2876,6 @@
 0.0.0.0 chitika.net
 0.0.0.0 choices.trustarc.com
 0.0.0.0 choices.truste.com
-0.0.0.0 chtbl.com
 0.0.0.0 churchdwightsizmek22033498.s.moatpixel.com
 0.0.0.0 ci-first.iovation.com
 0.0.0.0 ci-mpsnare.iovation.com
@@ -4042,7 +4040,6 @@
 0.0.0.0 exponentialjsint8023749877114.s.moatpixel.com
 0.0.0.0 ext-inv-cdn.presage.io
 0.0.0.0 ext-inv-cdn.prod.cloud.ogury.io
-0.0.0.0 ext.chtbl.com
 0.0.0.0 extreme-ip-lookup.com
 0.0.0.0 eyeblaster.akadns.net
 0.0.0.0 eyeota-match.dotomi.com
@@ -6688,7 +6685,6 @@
 0.0.0.0 prod.pw.analytics.console.aws.a2z.com
 0.0.0.0 prod.search.deployads.com
 0.0.0.0 prod.sift.co
-0.0.0.0 prod.smassets.net
 0.0.0.0 production-adkviewtrackingtagserver.ap-northeast-1.elasticbeanstalk.com
 0.0.0.0 production-public.tubi.io
 0.0.0.0 production.wootric.com
@@ -9278,7 +9274,6 @@
 0.0.0.0 web-sdk.urbanairship.com
 0.0.0.0 web.53.localytics.com
 0.0.0.0 web.btncdn.com
-0.0.0.0 web.chtbl.com
 0.0.0.0 web.hb.ad.cpe.dotomi.com
 0.0.0.0 web.localytics.com
 0.0.0.0 web0.track.appier.net
