@@ -57,7 +57,7 @@ pcregrep -f ~/BLT/parsing/tld-filter.dat final-uniq.hosts > hosts.final
 perl -i -pe 'chomp if eof' hosts.final
 echo "Successfully merged hosts lists!"
 sed '35r hosts.final' < ~/BLT/parsing/newhosts-template.txt > newhosts.txt
-sed -i "23s|DAYBONGODATEREPLACE|$(date)|" newhosts.txt
+sed -i "23s|DAYBONGODATEREPLACE|$(date -u)|" newhosts.txt
 perl -i -pe 'chomp if eof' newhosts.txt
 echo "Successfully cleaned up and formatted hosts file! Prompting for password to make backup of and overwrite /etc/hosts..."
 sudo cp /etc/hosts hostsbackup.txt
