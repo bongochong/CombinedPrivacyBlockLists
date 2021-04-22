@@ -1,4 +1,4 @@
-// **** Thu Apr 22 02:01:08 AM UTC 2021
+// **** Thu Apr 22 02:20:04 AM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0-24bpautomentes.hu') ||
@@ -3740,7 +3740,6 @@ shExpMatch(host, '*.depilflash.tv') ||
 shExpMatch(host, '*.deployads.com') ||
 shExpMatch(host, '*.depttake.ga') ||
 shExpMatch(host, '*.dersed.com') ||
-shExpMatch(host, '*.desce.n.d.a.sls@gfold1.webselffiles01.com') ||
 shExpMatch(host, '*.desertedbreath.com') ||
 shExpMatch(host, '*.desertedrat.com') ||
 shExpMatch(host, '*.desertlandtrd.com') ||
@@ -3994,8 +3993,6 @@ shExpMatch(host, '*.drmarciavila.com.br') ||
 shExpMatch(host, '*.droidcraftismelmao.ddns.net') ||
 shExpMatch(host, '*.droidjack.hopto.org') ||
 shExpMatch(host, '*.droidjack1.sytes.net') ||
-shExpMatch(host, '*.drolukse.rokz@gfmodd1.webselffiles01.com') ||
-shExpMatch(host, '*.drolukse.rokz@modem.pw') ||
 shExpMatch(host, '*.dronml.ml') ||
 shExpMatch(host, '*.drools-moved.46999.n3.nabble.com') ||
 shExpMatch(host, '*.dropbox-apps.com') ||
@@ -8010,7 +8007,6 @@ shExpMatch(host, '*.pppoe-kyivstar.com') ||
 shExpMatch(host, '*.pppoe-ukrtel.com') ||
 shExpMatch(host, '*.pr-star.de') ||
 shExpMatch(host, '*.pr-ten.de') ||
-shExpMatch(host, '*.pr.o.p.os.alsc.vh@gfold1.webselffiles01.com') ||
 shExpMatch(host, '*.pr0gram.org') ||
 shExpMatch(host, '*.pr5dir.com') ||
 shExpMatch(host, '*.praddpro.de') ||
@@ -8669,7 +8665,6 @@ shExpMatch(host, '*.rytahagemeg.eu') ||
 shExpMatch(host, '*.rythmxchange.com') ||
 shExpMatch(host, '*.s.51shijuan.com') ||
 shExpMatch(host, '*.s.adroll.com') ||
-shExpMatch(host, '*.s.hu.d.es.h.d.u.e54.78.16247@gfold1.webselffiles01.com') ||
 shExpMatch(host, '*.s.leas.im') ||
 shExpMatch(host, '*.s.thechinesemuslim.com') ||
 shExpMatch(host, '*.s01.hostcontent.live') ||
@@ -10323,7 +10318,6 @@ shExpMatch(host, '*.unigraphix.co') ||
 shExpMatch(host, '*.unik.trexa.id') ||
 shExpMatch(host, '*.unintentionallyintent.com') ||
 shExpMatch(host, '*.union.jctrip.cn') ||
-shExpMatch(host, '*.united.5765@panslimiterd.com') ||
 shExpMatch(host, '*.unitedwebpay.co') ||
 shExpMatch(host, '*.uniteti.net') ||
 shExpMatch(host, '*.universalitbiz.com') ||
@@ -10333,7 +10327,6 @@ shExpMatch(host, '*.unlaca.net') ||
 shExpMatch(host, '*.unlaca.org') ||
 shExpMatch(host, '*.unless.com') ||
 shExpMatch(host, '*.unnews.freetcp.com') ||
-shExpMatch(host, '*.unrel.a.t.ed.o.j.b.v@iklangratissurabaya.skom.id') ||
 shExpMatch(host, '*.unrulymedia.com') ||
 shExpMatch(host, '*.unrummaged.com') ||
 shExpMatch(host, '*.untd.com') ||
@@ -15020,7 +15013,6 @@ shExpMatch(host, 'depilflash.tv') ||
 shExpMatch(host, 'deployads.com') ||
 shExpMatch(host, 'depttake.ga') ||
 shExpMatch(host, 'dersed.com') ||
-shExpMatch(host, 'desce.n.d.a.sls@gfold1.webselffiles01.com') ||
 shExpMatch(host, 'desertedbreath.com') ||
 shExpMatch(host, 'desertedrat.com') ||
 shExpMatch(host, 'desertlandtrd.com') ||
@@ -15274,8 +15266,6 @@ shExpMatch(host, 'drmarciavila.com.br') ||
 shExpMatch(host, 'droidcraftismelmao.ddns.net') ||
 shExpMatch(host, 'droidjack.hopto.org') ||
 shExpMatch(host, 'droidjack1.sytes.net') ||
-shExpMatch(host, 'drolukse.rokz@gfmodd1.webselffiles01.com') ||
-shExpMatch(host, 'drolukse.rokz@modem.pw') ||
 shExpMatch(host, 'dronml.ml') ||
 shExpMatch(host, 'drools-moved.46999.n3.nabble.com') ||
 shExpMatch(host, 'dropbox-apps.com') ||
@@ -19290,7 +19280,6 @@ shExpMatch(host, 'pppoe-kyivstar.com') ||
 shExpMatch(host, 'pppoe-ukrtel.com') ||
 shExpMatch(host, 'pr-star.de') ||
 shExpMatch(host, 'pr-ten.de') ||
-shExpMatch(host, 'pr.o.p.os.alsc.vh@gfold1.webselffiles01.com') ||
 shExpMatch(host, 'pr0gram.org') ||
 shExpMatch(host, 'pr5dir.com') ||
 shExpMatch(host, 'praddpro.de') ||
@@ -19949,7 +19938,6 @@ shExpMatch(host, 'rytahagemeg.eu') ||
 shExpMatch(host, 'rythmxchange.com') ||
 shExpMatch(host, 's.51shijuan.com') ||
 shExpMatch(host, 's.adroll.com') ||
-shExpMatch(host, 's.hu.d.es.h.d.u.e54.78.16247@gfold1.webselffiles01.com') ||
 shExpMatch(host, 's.leas.im') ||
 shExpMatch(host, 's.thechinesemuslim.com') ||
 shExpMatch(host, 's01.hostcontent.live') ||
@@ -21603,7 +21591,6 @@ shExpMatch(host, 'unigraphix.co') ||
 shExpMatch(host, 'unik.trexa.id') ||
 shExpMatch(host, 'unintentionallyintent.com') ||
 shExpMatch(host, 'union.jctrip.cn') ||
-shExpMatch(host, 'united.5765@panslimiterd.com') ||
 shExpMatch(host, 'unitedwebpay.co') ||
 shExpMatch(host, 'uniteti.net') ||
 shExpMatch(host, 'universalitbiz.com') ||
@@ -21613,7 +21600,6 @@ shExpMatch(host, 'unlaca.net') ||
 shExpMatch(host, 'unlaca.org') ||
 shExpMatch(host, 'unless.com') ||
 shExpMatch(host, 'unnews.freetcp.com') ||
-shExpMatch(host, 'unrel.a.t.ed.o.j.b.v@iklangratissurabaya.skom.id') ||
 shExpMatch(host, 'unrulymedia.com') ||
 shExpMatch(host, 'unrummaged.com') ||
 shExpMatch(host, 'untd.com') ||
