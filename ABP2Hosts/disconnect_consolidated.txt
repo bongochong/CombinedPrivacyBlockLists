@@ -1,4 +1,4 @@
-# Mon Apr 19 08:24:21 PM MDT 2021
+# Thu Apr 22 01:47:14 AM UTC 2021
 # Disconnect Consolidated Hosts - Generated weekly by bongochong
 0.0.0.0 101com.com
 0.0.0.0 101order.com

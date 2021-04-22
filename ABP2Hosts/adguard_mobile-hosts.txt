@@ -1,4 +1,4 @@
-# Mon Apr 19 08:23:21 PM MDT 2021
+# Thu Apr 22 01:46:18 AM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -1060,6 +1060,7 @@
 0.0.0.0 adzworld.in
 0.0.0.0 ae.ads.justpremium.com
 0.0.0.0 aexception.bugly.qq.com
+0.0.0.0 af-event-logger.appsflyer.com
 0.0.0.0 af.monetate.net
 0.0.0.0 af4a.adj.st
 0.0.0.0 af89dacd-4aec-4ac1-9d52-2a66ce5e4fb5.edge.permutive.app
@@ -2769,6 +2770,7 @@
 0.0.0.0 cdn.teads.tv
 0.0.0.0 cdn.teads.tv.edgekey.net
 0.0.0.0 cdn.tremorhub.com
+0.0.0.0 cdn.tsyndicate.com
 0.0.0.0 cdn.tt.omtrdc.net
 0.0.0.0 cdn.tutoads.tv
 0.0.0.0 cdn.uc.atwola.com
@@ -3097,6 +3099,7 @@
 0.0.0.0 collector.snplow.net
 0.0.0.0 collector.stats.socialquantum.ru
 0.0.0.0 collector.tealeaf.ibmcloud.com
+0.0.0.0 collector.xhamster.com
 0.0.0.0 collector1.afreecatv.com
 0.0.0.0 colossusssp.com
 0.0.0.0 com-fcagroup.netmng.com
@@ -5279,6 +5282,7 @@
 0.0.0.0 lbnyj2.bidder.owneriq.net
 0.0.0.0 lbsjc.bidder.owneriq.net
 0.0.0.0 lc.iadvize.com
+0.0.0.0 lcdn.tsyndicate.com
 0.0.0.0 lcf.cmplay.cmcm.com
 0.0.0.0 lciapi.ninthdecimal.com
 0.0.0.0 lcsdk.3g.qq.com
@@ -5732,7 +5736,6 @@
 0.0.0.0 mid.rkdms.com
 0.0.0.0 middycdn-a.akamaihd.net
 0.0.0.0 midoweb.offerstrack.net
-0.0.0.0 midrollmedia.mc.tritondigital.com
 0.0.0.0 millennialmedia.com
 0.0.0.0 mimicromax.com
 0.0.0.0 min.admicro.vn
@@ -5794,7 +5797,6 @@
 0.0.0.0 mobile.appchina.com
 0.0.0.0 mobile.controller.duokanbox.com
 0.0.0.0 mobile.eum-appdynamics.com
-0.0.0.0 mobile.events.data.microsoft.com
 0.0.0.0 mobile.game-insight.com
 0.0.0.0 mobile.ib.sin1.geoadnxs.com
 0.0.0.0 mobile.launchdarkly.com
@@ -7535,7 +7537,6 @@
 0.0.0.0 sejs.moatads.com
 0.0.0.0 sekindo.com
 0.0.0.0 select-d.openx.net
-0.0.0.0 self.events.data.microsoft.com
 0.0.0.0 send.microadinc.com
 0.0.0.0 sender.clevernt.com
 0.0.0.0 sense360eng.com.herokudns.com
@@ -9207,7 +9208,6 @@
 0.0.0.0 vogo-vogo.ru
 0.0.0.0 voicefive.com.edgekey.net
 0.0.0.0 vop-tracking-vpc-1741893498.us-east-1.elb.amazonaws.com
-0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 vox.amp.permutive.com
 0.0.0.0 voxcustomdfp152282307853.s.moatpixel.com
 0.0.0.0 voxvidint960547728228.s.moatpixel.com
