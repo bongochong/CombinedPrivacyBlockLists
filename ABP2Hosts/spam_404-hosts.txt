@@ -1,4 +1,4 @@
-# Thu Apr 22 11:44:02 PM UTC 2021
+# Fri Apr 23 12:03:13 AM UTC 2021
 # Spam404 Hosts - Generated weekly by bongochong
 0.0.0.0 001www.com
 0.0.0.0 0daygameparadise.com
