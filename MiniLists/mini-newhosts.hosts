@@ -18,7 +18,7 @@
 # This work is licensed under the CPAL-1.0
 # See: https://shorl.com/vebrubefrubiti
 #
-# ~- Fri Apr 23 12:12:25 AM UTC 2021 -~
+# ~- Fri Apr 23 12:55:23 AM UTC 2021 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -9974,6 +9974,7 @@
 0.0.0.0 anametrix.net
 0.0.0.0 ananashotel.com
 0.0.0.0 anandabazar.pushengage.com
+0.0.0.0 anantam.net.in
 0.0.0.0 anapixel.marca.com
 0.0.0.0 anastasia-international.com
 0.0.0.0 anastasiasaffiliate.com
@@ -10973,6 +10974,7 @@
 0.0.0.0 appclick.net
 0.0.0.0 appclick.rqmob.com
 0.0.0.0 appconfig.cmgdigital.com
+0.0.0.0 appconsent.io
 0.0.0.0 appdeumext.tdameritrade.com
 0.0.0.0 appdiscovery.apptap.com
 0.0.0.0 appdog.com
@@ -12384,6 +12386,7 @@
 0.0.0.0 b0d3ea12ec1b93f7af9.com
 0.0.0.0 b0e8.com
 0.0.0.0 b0omr3wn6u4b.com
+0.0.0.0 b0tz.xyz
 0.0.0.0 b1.51scw.net
 0.0.0.0 b1.91jucai.com
 0.0.0.0 b1.b2b168.com
@@ -18070,12 +18073,21 @@
 0.0.0.0 cmp.112.2o7.net
 0.0.0.0 cmp.advertising.com
 0.0.0.0 cmp.channelpartner.de
+0.0.0.0 cmp.computerworld.pl
+0.0.0.0 cmp.cxo.pl
 0.0.0.0 cmp.dmgmediaprivacy.co.uk
 0.0.0.0 cmp.dreamlab.pl
 0.0.0.0 cmp.faktor.mgr.consensu.org
 0.0.0.0 cmp.geodns.tubemogul.com
+0.0.0.0 cmp.idg.pl
+0.0.0.0 cmp.infopro-digital.com
+0.0.0.0 cmp.internetstandard.pl
 0.0.0.0 cmp.optad360.io
+0.0.0.0 cmp.osano.com
+0.0.0.0 cmp.pcwelt.de
+0.0.0.0 cmp.pcworld.pl
 0.0.0.0 cmp.teads.mgr.consensu.org
+0.0.0.0 cmp.tvspielfilm.de
 0.0.0.0 cmp.uniconsent.com
 0.0.0.0 cmp.uniconsent.mgr.consensu.org
 0.0.0.0 cmp.us.intellitxt.com
@@ -18144,6 +18156,7 @@
 0.0.0.0 cnhinewsservicedev.122.2o7.net
 0.0.0.0 cnhirecordeagle.122.2o7.net
 0.0.0.0 cnhv.co
+0.0.0.0 cnil.links-lab.fr
 0.0.0.0 cniuv.com
 0.0.0.0 cnkok.com
 0.0.0.0 cnlbxi.zoopla.co.uk
@@ -18755,7 +18768,6 @@
 0.0.0.0 congoro.com
 0.0.0.0 congregorysun.site
 0.0.0.0 conjeller-chikemon.com
-0.0.0.0 conlazionzzytz.eastus.cloudapp.azure.com
 0.0.0.0 conloap.linkin.tw
 0.0.0.0 connatix-d.openx.net
 0.0.0.0 connatix-supply-partners.tremorhub.com
@@ -18807,11 +18819,18 @@
 0.0.0.0 consciousdirt.com
 0.0.0.0 consensad.com
 0.0.0.0 consensu.org
+0.0.0.0 consent-wrapper.jameda.de
+0.0.0.0 consent.23g.io
 0.0.0.0 consent.adincube.com
 0.0.0.0 consent.api.osano.com
+0.0.0.0 consent.berliner-kurier.de
 0.0.0.0 consent.cmp.oath.com
+0.0.0.0 consent.faz.net
+0.0.0.0 consent.gutefrage.net
 0.0.0.0 consent.inm.ie
 0.0.0.0 consent.mediaforge.com
+0.0.0.0 consent.prismamedia.com
+0.0.0.0 consent.theneweuropean.co.uk
 0.0.0.0 consent.trustarc.com
 0.0.0.0 consentcdn.cookiebot.com-v1.edgekey.net
 0.0.0.0 consentedconscientious.com
@@ -19052,10 +19071,14 @@
 0.0.0.0 cookevegas.com
 0.0.0.0 cookie-jam.sgn.com
 0.0.0.0 cookie-sync-service-prod.steelhousemedia.com
+0.0.0.0 cookie.aerostatonet.it
 0.0.0.0 cookie.brealtime.com
+0.0.0.0 cookie.gazeta.pl
 0.0.0.0 cookie.sync.ad.cpe.dotomi.com
 0.0.0.0 cookie.sync.usonar.jp
+0.0.0.0 cookie.vrt.be
 0.0.0.0 cookie.vrtzads.com
+0.0.0.0 cookie.wieni.be
 0.0.0.0 cookiea1.veinteractive.com
 0.0.0.0 cookiebot.com-v1.edgekey.net
 0.0.0.0 cookiee1.veinteractive.com
@@ -19066,11 +19089,18 @@
 0.0.0.0 cookiematch-us-west-2.prod.justpremium.com
 0.0.0.0 cookies.cmpnet.com
 0.0.0.0 cookies.engage.russellinvestments.com
+0.0.0.0 cookies.fakt.pl
+0.0.0.0 cookies.forbes.pl
+0.0.0.0 cookies.gardena.net
+0.0.0.0 cookies.leadplace.fr
 0.0.0.0 cookies.livepartners.com
+0.0.0.0 cookies.nos.nl
 0.0.0.0 cookies.onetrust.mgr.consensu.org
 0.0.0.0 cookies.reedbusiness.nl
 0.0.0.0 cookies.siemens-energy.com
 0.0.0.0 cookies.siemens.com
+0.0.0.0 cookies.teraz.sk
+0.0.0.0 cookies.unidadeditorial.es
 0.0.0.0 cookiescript.info
 0.0.0.0 cookiesync.mparticle.com
 0.0.0.0 cookietracking.eatonpowersource.com
@@ -20098,6 +20128,7 @@
 0.0.0.0 cv.bsvideos.com
 0.0.0.0 cvbt.ml
 0.0.0.0 cvhefd.ixbt.com
+0.0.0.0 cvinfo.in
 0.0.0.0 cvintertain.club
 0.0.0.0 cvixcaboqq.com
 0.0.0.0 cvlqivkartyki.com
@@ -22257,6 +22288,7 @@
 0.0.0.0 dlads.cn
 0.0.0.0 dlak0ie0yn.buzz
 0.0.0.0 dlb1uotpjs6s.com
+0.0.0.0 dlcswsdymedicalcenfw.dns.army
 0.0.0.0 dldiuzdkrqbk.com
 0.0.0.0 dldsrs.com
 0.0.0.0 dlero.net
@@ -22858,7 +22890,6 @@
 0.0.0.0 dsa.moatads.com
 0.0.0.0 dsa5as.xyz
 0.0.0.0 dsdsds8848.xyz
-0.0.0.0 dsenterprize.co.za
 0.0.0.0 dserver.hw.net
 0.0.0.0 dsg.hgigs.info
 0.0.0.0 dsg.interia.pl
@@ -25995,6 +26026,7 @@
 0.0.0.0 ferritors.club
 0.0.0.0 ferrpictak.com
 0.0.0.0 fertilizeranaemiaupcoming.com
+0.0.0.0 fertyh05.top
 0.0.0.0 fessmegilscha.info
 0.0.0.0 fessoovy.com
 0.0.0.0 festivaleradicate.com
@@ -27659,6 +27691,8 @@
 0.0.0.0 gdmdigital.com
 0.0.0.0 gdn.bigfishgames.com
 0.0.0.0 gdn.socdm.com
+0.0.0.0 gdpr.internetbrands.com
+0.0.0.0 gdpr.prisa.com
 0.0.0.0 gdpr.rw.yieldmo.com
 0.0.0.0 gdres.tk
 0.0.0.0 gdrintl.com
@@ -30052,6 +30086,7 @@
 0.0.0.0 hira-meki.jp
 0.0.0.0 hiram.iad-03.braze.com
 0.0.0.0 hiredringjuices.com
+0.0.0.0 hirezz.com
 0.0.0.0 hirmatrix.hu
 0.0.0.0 hiroiro.vis1.shinobi.jp
 0.0.0.0 his.112.2o7.net
@@ -36096,7 +36131,6 @@
 0.0.0.0 lioningepit.fun
 0.0.0.0 lionstracking.com
 0.0.0.0 liquidad.narrowcastmedia.com
-0.0.0.0 liquidaz.casa
 0.0.0.0 liquidroll.com
 0.0.0.0 liqurestore.cf
 0.0.0.0 liqwid.net
@@ -38329,6 +38363,7 @@
 0.0.0.0 mediapalmtree.com
 0.0.0.0 mediapeartree.com
 0.0.0.0 mediaplan.ru
+0.0.0.0 mediaplayerapp.info
 0.0.0.0 mediaplazza.com
 0.0.0.0 mediaplex-match.dotomi.com
 0.0.0.0 mediaplex.com
@@ -38580,7 +38615,6 @@
 0.0.0.0 merrybmx.dtdns.org
 0.0.0.0 merryemotionally.com
 0.0.0.0 mertlog.com
-0.0.0.0 mertyapit.com
 0.0.0.0 merunexcuses.club
 0.0.0.0 mervetos.com
 0.0.0.0 meryjane.pro
@@ -39599,6 +39633,7 @@
 0.0.0.0 mms.cbslocal.com
 0.0.0.0 mms.cleveland.com
 0.0.0.0 mms.cloudpro.co.uk
+0.0.0.0 mms.cmpsky.com
 0.0.0.0 mms.cnn.com
 0.0.0.0 mms.coachmag.co.uk
 0.0.0.0 mms.deadspin.com
@@ -40226,6 +40261,7 @@
 0.0.0.0 mpx.monetate.net
 0.0.0.0 mpx.mopub.com
 0.0.0.0 mpyiiswvgxz.com
+0.0.0.0 mqeuae.com
 0.0.0.0 mql5.com
 0.0.0.0 mqs.ioam.de
 0.0.0.0 mqwcuesny6.ru
@@ -41687,6 +41723,7 @@
 0.0.0.0 njdijiani.com
 0.0.0.0 njfsk.com
 0.0.0.0 njguluyu.cn
+0.0.0.0 njhdxxgc.com
 0.0.0.0 njhj.cc
 0.0.0.0 njhuashidai.cn
 0.0.0.0 njinmobirtb.lfstmedia.com
@@ -44734,7 +44771,6 @@
 0.0.0.0 pianistrefutationgoose.com
 0.0.0.0 pianjjiicdn.com
 0.0.0.0 piano.io
-0.0.0.0 piazzimulobanquituto.com
 0.0.0.0 pic.0597kk.com
 0.0.0.0 pic.ak.mangatoon.akamaized.net.domain.name
 0.0.0.0 pic.fengniao.com
@@ -46059,8 +46095,13 @@
 0.0.0.0 priv112.com
 0.0.0.0 privacy-policy.truste.com
 0.0.0.0 privacy.as.criteo.com
+0.0.0.0 privacy.claytonhomes.com
 0.0.0.0 privacy.commander1.com
+0.0.0.0 privacy.schibsted.com
+0.0.0.0 privacy.totaaltv.nl
 0.0.0.0 privacy.us.criteo.com
+0.0.0.0 privacypolicy.trgr.be
+0.0.0.0 privacyportal.fatergroup.com
 0.0.0.0 privacysearching.com
 0.0.0.0 privacytools.xyz
 0.0.0.0 privacytoolsfree.site
@@ -46502,7 +46543,6 @@
 0.0.0.0 psh.one
 0.0.0.0 pshtr.xyz
 0.0.0.0 psi.tubemogul.com
-0.0.0.0 psicheaurora.it
 0.0.0.0 psisalte.com
 0.0.0.0 psitchie.com
 0.0.0.0 psiwaphado.pro
@@ -47885,6 +47925,7 @@
 0.0.0.0 readvesti.ru
 0.0.0.0 readwrite26.nl
 0.0.0.0 ready4win.com
+0.0.0.0 readymmade.com
 0.0.0.0 readymoon.com
 0.0.0.0 readysnails.com
 0.0.0.0 readyteam.org
@@ -48947,6 +48988,7 @@
 0.0.0.0 rodeopolice.com
 0.0.0.0 rodeostampedehack.pro
 0.0.0.0 rodik2020m.temp.swtest.ru
+0.0.0.0 rodo.agora.pl
 0.0.0.0 rodrigoeberienos.com
 0.0.0.0 roem.ru
 0.0.0.0 roeye.com
@@ -49491,6 +49533,7 @@
 0.0.0.0 rv-gateway.supersonicads.com
 0.0.0.0 rv.modanisa.com
 0.0.0.0 rva.outbrain.com
+0.0.0.0 rvcj8xc616holdings.buzz
 0.0.0.0 rvedfxeljxo.com
 0.0.0.0 rviceschoolr.club
 0.0.0.0 rvkcpqz.com
@@ -53561,6 +53604,7 @@
 0.0.0.0 sp.jrklein.com
 0.0.0.0 sp.jsonline.com
 0.0.0.0 sp.kitsapsun.com
+0.0.0.0 sp.knowyourmeme.com
 0.0.0.0 sp.knoxnews.com
 0.0.0.0 sp.lancastereaglegazette.com
 0.0.0.0 sp.lansingstatejournal.com
@@ -53764,6 +53808,7 @@
 0.0.0.0 sphostserver.com
 0.0.0.0 spi.domainsponsor.com
 0.0.0.0 spica.iad-03.braze.com
+0.0.0.0 spices.com.sg
 0.0.0.0 spiceworks-d.openx.net
 0.0.0.0 spider-mich.com
 0.0.0.0 spideraf.com
@@ -61188,6 +61233,7 @@
 0.0.0.0 uoredi.com
 0.0.0.0 uovyniuak3w4d3yzs4z4hfgx2qa6l2u6cx4wqsje4pmnmygc6vfddwqd.onion
 0.0.0.0 uoyrsd.com
+0.0.0.0 up-cookiemon.wavecdn.net
 0.0.0.0 up-date.to
 0.0.0.0 up-dates.to
 0.0.0.0 up-rank.com
@@ -63531,7 +63577,6 @@
 0.0.0.0 wellnesszap.com
 0.0.0.0 wells.murmann.ru
 0.0.0.0 wellsfargosz.com
-0.0.0.0 weloveplayinggames.servegame.com
 0.0.0.0 welsworn.info
 0.0.0.0 welt-der-links.de
 0.0.0.0 weltonline01.webtrekk.net
@@ -64287,6 +64332,7 @@
 0.0.0.0 wsdk-files.webengage.com
 0.0.0.0 wsdyalhjchfonlinftws.dns.army
 0.0.0.0 wsdyanaekppyinitalymedicalconsultant3.duckdns.org
+0.0.0.0 wsdykungsb2talenwsgv.dns.army
 0.0.0.0 wsgblw.com
 0.0.0.0 wsgddl.deporvillage.it
 0.0.0.0 wshufa.com
@@ -67193,6 +67239,7 @@
 0.0.0.0 zgktxx.com
 0.0.0.0 zgncpjyw.cn
 0.0.0.0 zgnieka.cn
+0.0.0.0 zgody.infor.pl
 0.0.0.0 zgqgig.skillbox.ru
 0.0.0.0 zgrsq.cn
 0.0.0.0 zgsdk.zhugeio.com
