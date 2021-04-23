@@ -1,4 +1,4 @@
-# Fri Apr 23 12:07:36 AM UTC 2021
+# Fri Apr 23 12:47:54 AM UTC 2021
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0-24bpautomentes.hu
 0.0.0.0 00-gov.cn
@@ -4252,6 +4252,7 @@
 0.0.0.0 appaugust.ru
 0.0.0.0 appboycdn.com
 0.0.0.0 appcast.io
+0.0.0.0 appconsent.io
 0.0.0.0 appealthroughout.com
 0.0.0.0 appearancefingerprintabet.com
 0.0.0.0 appendad.com
@@ -7768,7 +7769,16 @@
 0.0.0.0 cmon.loc.gov
 0.0.0.0 cmp.advertising.com
 0.0.0.0 cmp.channelpartner.de
+0.0.0.0 cmp.computerworld.pl
+0.0.0.0 cmp.cxo.pl
 0.0.0.0 cmp.dreamlab.pl
+0.0.0.0 cmp.idg.pl
+0.0.0.0 cmp.infopro-digital.com
+0.0.0.0 cmp.internetstandard.pl
+0.0.0.0 cmp.osano.com
+0.0.0.0 cmp.pcwelt.de
+0.0.0.0 cmp.pcworld.pl
+0.0.0.0 cmp.tvspielfilm.de
 0.0.0.0 cmpgns.net
 0.0.0.0 cmptch.com
 0.0.0.0 cms.freya.net.daraz.com
@@ -7791,6 +7801,7 @@
 0.0.0.0 cngxkybnoawhxt.com
 0.0.0.0 cnhbxx.com
 0.0.0.0 cnhv.co
+0.0.0.0 cnil.links-lab.fr
 0.0.0.0 cniuv.com
 0.0.0.0 cnkok.com
 0.0.0.0 cnlbxi.zoopla.co.uk
@@ -8115,8 +8126,16 @@
 0.0.0.0 consciencebarrowcash.com
 0.0.0.0 consciencevenomous.com
 0.0.0.0 consciouschairs.com
+0.0.0.0 consent-wrapper.jameda.de
+0.0.0.0 consent.23g.io
 0.0.0.0 consent.api.osano.com
+0.0.0.0 consent.berliner-kurier.de
+0.0.0.0 consent.cmp.oath.com
+0.0.0.0 consent.faz.net
+0.0.0.0 consent.gutefrage.net
 0.0.0.0 consent.inm.ie
+0.0.0.0 consent.prismamedia.com
+0.0.0.0 consent.theneweuropean.co.uk
 0.0.0.0 consentedconscientious.com
 0.0.0.0 consentedimpunity.com
 0.0.0.0 consesculifin.site
@@ -8248,13 +8267,24 @@
 0.0.0.0 convrse.media
 0.0.0.0 convsgmp.taboola.com
 0.0.0.0 conyak.com
+0.0.0.0 cookie.aerostatonet.it
+0.0.0.0 cookie.gazeta.pl
 0.0.0.0 cookie.sync.usonar.jp
+0.0.0.0 cookie.vrt.be
+0.0.0.0 cookie.wieni.be
 0.0.0.0 cookiejar.atea.no
 0.0.0.0 cookies.engage.russellinvestments.com
+0.0.0.0 cookies.fakt.pl
+0.0.0.0 cookies.forbes.pl
+0.0.0.0 cookies.gardena.net
+0.0.0.0 cookies.leadplace.fr
 0.0.0.0 cookies.livepartners.com
+0.0.0.0 cookies.nos.nl
 0.0.0.0 cookies.reedbusiness.nl
 0.0.0.0 cookies.siemens-energy.com
 0.0.0.0 cookies.siemens.com
+0.0.0.0 cookies.teraz.sk
+0.0.0.0 cookies.unidadeditorial.es
 0.0.0.0 cookiescript.info
 0.0.0.0 cookietracking.eatonpowersource.com
 0.0.0.0 cookiex.ngd.yahoo.com
@@ -13518,6 +13548,8 @@
 0.0.0.0 gdm1.toner.fr
 0.0.0.0 gdmconvtrck.com
 0.0.0.0 gdmdigital.com
+0.0.0.0 gdpr.internetbrands.com
+0.0.0.0 gdpr.prisa.com
 0.0.0.0 gdskywings.com
 0.0.0.0 gdsoq.com
 0.0.0.0 gdsqwy.org
@@ -20582,6 +20614,7 @@
 0.0.0.0 mms.cbslocal.com
 0.0.0.0 mms.cleveland.com
 0.0.0.0 mms.cloudpro.co.uk
+0.0.0.0 mms.cmpsky.com
 0.0.0.0 mms.cnn.com
 0.0.0.0 mms.coachmag.co.uk
 0.0.0.0 mms.deadspin.com
@@ -24293,6 +24326,11 @@
 0.0.0.0 prism.pandora.tv
 0.0.0.0 pritesol.com
 0.0.0.0 privacy-policy.truste.com
+0.0.0.0 privacy.claytonhomes.com
+0.0.0.0 privacy.schibsted.com
+0.0.0.0 privacy.totaaltv.nl
+0.0.0.0 privacypolicy.trgr.be
+0.0.0.0 privacyportal.fatergroup.com
 0.0.0.0 privacysearching.com
 0.0.0.0 privatede.top
 0.0.0.0 privatteaser.ru
@@ -26079,6 +26117,7 @@
 0.0.0.0 rockincontent.net
 0.0.0.0 rocks.io
 0.0.0.0 rockyou.net
+0.0.0.0 rodo.agora.pl
 0.0.0.0 roem.ru
 0.0.0.0 roeye.com
 0.0.0.0 rofessiveco.top
@@ -28732,6 +28771,7 @@
 0.0.0.0 sp.jrklein.com
 0.0.0.0 sp.jsonline.com
 0.0.0.0 sp.kitsapsun.com
+0.0.0.0 sp.knowyourmeme.com
 0.0.0.0 sp.knoxnews.com
 0.0.0.0 sp.lancastereaglegazette.com
 0.0.0.0 sp.lansingstatejournal.com
@@ -33358,6 +33398,7 @@
 0.0.0.0 uoqktpjfrctroa.com
 0.0.0.0 uoredi.com
 0.0.0.0 uoyrsd.com
+0.0.0.0 up-cookiemon.wavecdn.net
 0.0.0.0 up-rank.com
 0.0.0.0 up.boston.com
 0.0.0.0 up.hiao.com
@@ -36490,6 +36531,7 @@
 0.0.0.0 zgktxx.com
 0.0.0.0 zgncpjyw.cn
 0.0.0.0 zgnieka.cn
+0.0.0.0 zgody.infor.pl
 0.0.0.0 zgqgig.skillbox.ru
 0.0.0.0 zgrsq.cn
 0.0.0.0 zgsxhx.com
