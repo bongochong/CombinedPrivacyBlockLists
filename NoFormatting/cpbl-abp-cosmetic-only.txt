@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mostly Cosmetic CPBL Filters for ABP & uBO
-! Updated: Thu Apr 22 05:07:14 AM UTC 2021
+! Updated: Sat Apr 24 12:27:33 AM UTC 2021
 ! Expires: 7 Days
 ! License: https://git.io/JTTLW
 ! Homepage: https://git.io/JTTLB
@@ -31,8 +31,9 @@ cnn.com###sskxzejroaldqjo
 cnn.com##.csnufnmschc
 cnn.com##.jfisjoibqwpgzn
 cnn.com##.saxocwzwwx
-coinbase.com##.kekvi.InstantAchBanner__Container-sc-8ek5zk-4.Flex-l69ttv-0
-coinbase.com##.lexENG.RecurringBuysBanner__Container-otio30-0
+coinbase.com##[class*="RecurringBuysBanner"]
+coinbase.com##[class*="SettingsUpsellBanner"]
+coinbase.com##[class*="InstantAchBanner"]
 connectwww.com##DIV#an-Modal.reveal-modal
 connectwww.com##DIV.reveal-modal-bg
 cuevana2.io##+js(aopr, decodeURI)
@@ -98,6 +99,8 @@ openpirate.org###\30 4da7223_1556855429
 openpirate.org###vpnvpn
 pcworld.com###toaster
 phantasytour.com##.col3
+publish0x.com###registerPopup > .modal-dialog-centered.modal-lg.modal-dialog > .modal-content
+publish0x.com##.show.fade.modal
 reddit.com###ad_2
 reddit.com##+js(abort-current-inline-script, adSlots)
 reddit.com##+js(abort-current-inline-script, addScript)
