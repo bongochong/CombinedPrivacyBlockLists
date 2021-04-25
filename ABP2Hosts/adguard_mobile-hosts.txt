@@ -1,4 +1,4 @@
-# Fri Apr 23 12:47:18 AM UTC 2021
+# Sun Apr 25 07:01:18 PM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
@@ -7162,7 +7162,6 @@
 0.0.0.0 s.206ads.com
 0.0.0.0 s.ad.smaato.net
 0.0.0.0 s.ad4.com.cn
-0.0.0.0 s.adrise.tv
 0.0.0.0 s.adtelligent.com
 0.0.0.0 s.adx.io
 0.0.0.0 s.adx.opera.com
@@ -9210,6 +9209,7 @@
 0.0.0.0 vpaid.doubleverify.com
 0.0.0.0 vpaid.springserve.com
 0.0.0.0 vqq.admaster.com.cn
+0.0.0.0 vrizead.com
 0.0.0.0 vrl.m.conviva.com
 0.0.0.0 vrt.outbrain.com
 0.0.0.0 vserv.mobi
@@ -9308,7 +9308,6 @@
 0.0.0.0 whos.amung.us
 0.0.0.0 widespace.com
 0.0.0.0 widget-cdn.rpxnow.com
-0.0.0.0 widget-mediator.zopim.com
 0.0.0.0 widget-pixels.outbrain.com
 0.0.0.0 widget.am5.vip.prod.criteo.com
 0.0.0.0 widget.as.criteo.com
