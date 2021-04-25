@@ -123,6 +123,7 @@ checkip.justwatch.com
 choice.microsoft.com
 chrome.google.com
 clamav.net
+click.e.progressive.com
 client-event-reporter.twitch.tv
 client-s.gateway.messenger.live.com
 clientconfig.passport.net
