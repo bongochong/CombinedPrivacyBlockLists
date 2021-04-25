@@ -1,4 +1,4 @@
-// **** Fri Apr 23 12:53:34 AM UTC 2021
+// **** Sun Apr 25 09:24:52 PM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -899,7 +899,6 @@ shExpMatch(host, '*.ads.bigfoot.com') ||
 shExpMatch(host, '*.ads.billiton.de') ||
 shExpMatch(host, '*.ads.bing.com') ||
 shExpMatch(host, '*.ads.bittorrent.com') ||
-shExpMatch(host, '*.ads.biz.tr') ||
 shExpMatch(host, '*.ads.blog.com') ||
 shExpMatch(host, '*.ads.bloomberg.com') ||
 shExpMatch(host, '*.ads.bluelithium.com') ||
@@ -3373,6 +3372,7 @@ shExpMatch(host, '*.cdn.freshmarketer.com') ||
 shExpMatch(host, '*.cdn.heapanalytics.com') ||
 shExpMatch(host, '*.cdn.keywee.co') ||
 shExpMatch(host, '*.cdn.onesignal.com') ||
+shExpMatch(host, '*.cdn.panelbear.com') ||
 shExpMatch(host, '*.cdn314.com') ||
 shExpMatch(host, '*.cdynwt.com') ||
 shExpMatch(host, '*.ce7.org') ||
@@ -7780,6 +7780,7 @@ shExpMatch(host, '*.go-quicky.com') ||
 shExpMatch(host, '*.go-rank.de') ||
 shExpMatch(host, '*.go.budurl.co') ||
 shExpMatch(host, '*.go.jozmovie.xyz') ||
+shExpMatch(host, '*.go.pardot.com') ||
 shExpMatch(host, '*.go00ogle.net') ||
 shExpMatch(host, '*.go2affise.com') ||
 shExpMatch(host, '*.go4freehacks.com') ||
@@ -8544,6 +8545,7 @@ shExpMatch(host, '*.haydenpanettierenude.com') ||
 shExpMatch(host, '*.hazelwave.ru') ||
 shExpMatch(host, '*.hazinyolcu.com') ||
 shExpMatch(host, '*.hb.afl.rakuten.co.jp') ||
+shExpMatch(host, '*.hb.vntsm.com') ||
 shExpMatch(host, '*.hbb.afl.rakuten.co.jp') ||
 shExpMatch(host, '*.hbckissimmee.org') ||
 shExpMatch(host, '*.hbhybw888.com') ||
@@ -15942,7 +15944,6 @@ shExpMatch(host, '*.uvidu.butlerelectricsupply.com') ||
 shExpMatch(host, '*.uwselectie.be') ||
 shExpMatch(host, '*.uxqt.co.cc') ||
 shExpMatch(host, '*.uziskins.com') ||
-shExpMatch(host, '*.uzk4umokyri3.com') ||
 shExpMatch(host, '*.uznai-pravdu-ru.1gb.ru') ||
 shExpMatch(host, '*.uzohacks.com') ||
 shExpMatch(host, '*.uzsldka.ce.ms') ||
@@ -18291,7 +18292,6 @@ shExpMatch(host, 'ads.bigfoot.com') ||
 shExpMatch(host, 'ads.billiton.de') ||
 shExpMatch(host, 'ads.bing.com') ||
 shExpMatch(host, 'ads.bittorrent.com') ||
-shExpMatch(host, 'ads.biz.tr') ||
 shExpMatch(host, 'ads.blog.com') ||
 shExpMatch(host, 'ads.bloomberg.com') ||
 shExpMatch(host, 'ads.bluelithium.com') ||
@@ -20765,6 +20765,7 @@ shExpMatch(host, 'cdn.freshmarketer.com') ||
 shExpMatch(host, 'cdn.heapanalytics.com') ||
 shExpMatch(host, 'cdn.keywee.co') ||
 shExpMatch(host, 'cdn.onesignal.com') ||
+shExpMatch(host, 'cdn.panelbear.com') ||
 shExpMatch(host, 'cdn314.com') ||
 shExpMatch(host, 'cdynwt.com') ||
 shExpMatch(host, 'ce7.org') ||
@@ -25172,6 +25173,7 @@ shExpMatch(host, 'go-quicky.com') ||
 shExpMatch(host, 'go-rank.de') ||
 shExpMatch(host, 'go.budurl.co') ||
 shExpMatch(host, 'go.jozmovie.xyz') ||
+shExpMatch(host, 'go.pardot.com') ||
 shExpMatch(host, 'go00ogle.net') ||
 shExpMatch(host, 'go2affise.com') ||
 shExpMatch(host, 'go4freehacks.com') ||
@@ -25936,6 +25938,7 @@ shExpMatch(host, 'haydenpanettierenude.com') ||
 shExpMatch(host, 'hazelwave.ru') ||
 shExpMatch(host, 'hazinyolcu.com') ||
 shExpMatch(host, 'hb.afl.rakuten.co.jp') ||
+shExpMatch(host, 'hb.vntsm.com') ||
 shExpMatch(host, 'hbb.afl.rakuten.co.jp') ||
 shExpMatch(host, 'hbckissimmee.org') ||
 shExpMatch(host, 'hbhybw888.com') ||
@@ -33334,7 +33337,6 @@ shExpMatch(host, 'uvidu.butlerelectricsupply.com') ||
 shExpMatch(host, 'uwselectie.be') ||
 shExpMatch(host, 'uxqt.co.cc') ||
 shExpMatch(host, 'uziskins.com') ||
-shExpMatch(host, 'uzk4umokyri3.com') ||
 shExpMatch(host, 'uznai-pravdu-ru.1gb.ru') ||
 shExpMatch(host, 'uzohacks.com') ||
 shExpMatch(host, 'uzsldka.ce.ms') ||
