@@ -1,4 +1,4 @@
-# Mon Apr 26 12:25:18 AM UTC 2021
+# Mon Apr 26 10:20:24 PM UTC 2021
 # Spam404 Hosts - Generated weekly by bongochong
 0.0.0.0 001www.com
 0.0.0.0 0daygameparadise.com
@@ -6340,6 +6340,7 @@
 0.0.0.0 roll4big.com
 0.0.0.0 roll4skins.com
 0.0.0.0 roll4tune.com
+0.0.0.0 rollbitgg.net
 0.0.0.0 rollpubg.com
 0.0.0.0 rolls-hack.com
 0.0.0.0 rolls.wtf
