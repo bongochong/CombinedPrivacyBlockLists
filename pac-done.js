@@ -1,4 +1,4 @@
-// **** Mon Apr 26 12:28:56 AM UTC 2021
+// **** Mon Apr 26 10:28:10 PM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -13253,6 +13253,7 @@ shExpMatch(host, '*.roll-skins.com') ||
 shExpMatch(host, '*.roll4big.com') ||
 shExpMatch(host, '*.roll4skins.com') ||
 shExpMatch(host, '*.roll4tune.com') ||
+shExpMatch(host, '*.rollbitgg.net') ||
 shExpMatch(host, '*.rollpubg.com') ||
 shExpMatch(host, '*.rolls-hack.com') ||
 shExpMatch(host, '*.rolls.wtf') ||
@@ -30643,6 +30644,7 @@ shExpMatch(host, 'roll-skins.com') ||
 shExpMatch(host, 'roll4big.com') ||
 shExpMatch(host, 'roll4skins.com') ||
 shExpMatch(host, 'roll4tune.com') ||
+shExpMatch(host, 'rollbitgg.net') ||
 shExpMatch(host, 'rollpubg.com') ||
 shExpMatch(host, 'rolls-hack.com') ||
 shExpMatch(host, 'rolls.wtf') ||
