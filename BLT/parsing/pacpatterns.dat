@@ -140,7 +140,16 @@
 ^choice.microsoft.com$
 ^chrome.google.com$
 ^clamav.net$
+^click.e.affirm.com$
 ^click.e.progressive.com$
+^click.e.tdbank.com$
+^click.email-stubhub.com$
+^click.email.bbc.com$
+^click.email.chope.co$
+^click.email.sonos.com$
+^click.email.soundhound.com$
+^click.emails.creditonebank.com$
+^click.engage.xbox.com$
 ^client-event-reporter.twitch.tv$
 ^client-s.gateway.messenger.live.com$
 ^clientconfig.passport.net$

@@ -160,7 +160,16 @@ localhost$
 ^0.0.0.0 choice.microsoft.com$
 ^0.0.0.0 chrome.google.com$
 ^0.0.0.0 clamav.net$
+^0.0.0.0 click.e.affirm.com$
 ^0.0.0.0 click.e.progressive.com$
+^0.0.0.0 click.e.tdbank.com$
+^0.0.0.0 click.email-stubhub.com$
+^0.0.0.0 click.email.bbc.com$
+^0.0.0.0 click.email.chope.co$
+^0.0.0.0 click.email.sonos.com$
+^0.0.0.0 click.email.soundhound.com$
+^0.0.0.0 click.emails.creditonebank.com$
+^0.0.0.0 click.engage.xbox.com$
 ^0.0.0.0 client-event-reporter.twitch.tv$
 ^0.0.0.0 client-s.gateway.messenger.live.com$
 ^0.0.0.0 clientconfig.passport.net$
