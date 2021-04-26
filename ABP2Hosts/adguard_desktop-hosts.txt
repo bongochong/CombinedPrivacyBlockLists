@@ -1,4 +1,4 @@
-# Sun Apr 25 07:01:33 PM UTC 2021
+# Mon Apr 26 12:09:55 AM UTC 2021
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 00-gov.cn
 0.0.0.0 0024aaaa.com
@@ -28055,6 +28055,7 @@
 0.0.0.0 postupset.com
 0.0.0.0 potatoes.dinomatic.com
 0.0.0.0 potatoescollections.com
+0.0.0.0 potawe.com
 0.0.0.0 potd.onlytease.com
 0.0.0.0 potedly.co
 0.0.0.0 potentingaknt.club
