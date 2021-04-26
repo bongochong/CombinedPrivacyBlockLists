@@ -4,7 +4,7 @@
 # This work is licensed under the CPAL-1.0
 # See: https://shorl.com/vebrubefrubiti
 #
-# ~- Mon Apr 26 10:43:51 PM UTC 2021 -~
+# ~- Mon Apr 26 11:20:36 PM UTC 2021 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -24134,6 +24134,7 @@
 *.dz4ad.com
 *.dz5bomaog2c5t.cloudfront.net
 *.dzbx8qv1at614.cloudfront.net
+*.dzc-metrics.mzstatic.com
 *.dzhjmp.com
 *.dzinestudio87.co.uk
 *.dzizsih.ru
