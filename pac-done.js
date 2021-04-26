@@ -1,4 +1,4 @@
-// **** Sun Apr 25 09:24:52 PM UTC 2021
+// **** Mon Apr 26 12:28:56 AM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -3761,13 +3761,10 @@ shExpMatch(host, '*.cliccaraffinato.it') ||
 shExpMatch(host, '*.click.a-ads.com') ||
 shExpMatch(host, '*.click.absoluteagency.com') ||
 shExpMatch(host, '*.click.cartsguru.io') ||
-shExpMatch(host, '*.click.email.bbc.com') ||
-shExpMatch(host, '*.click.email.sonos.com') ||
 shExpMatch(host, '*.click.fool.com') ||
 shExpMatch(host, '*.click.kmindex.ru') ||
 shExpMatch(host, '*.click.lovltrzwzqeux.info') ||
 shExpMatch(host, '*.click.negociosdigitaisnapratica.com.br') ||
-shExpMatch(host, '*.click.redditmail.com') ||
 shExpMatch(host, '*.click.twcwigs.com') ||
 shExpMatch(host, '*.click2freemoney.com') ||
 shExpMatch(host, '*.click2paid.com') ||
@@ -21154,13 +21151,10 @@ shExpMatch(host, 'cliccaraffinato.it') ||
 shExpMatch(host, 'click.a-ads.com') ||
 shExpMatch(host, 'click.absoluteagency.com') ||
 shExpMatch(host, 'click.cartsguru.io') ||
-shExpMatch(host, 'click.email.bbc.com') ||
-shExpMatch(host, 'click.email.sonos.com') ||
 shExpMatch(host, 'click.fool.com') ||
 shExpMatch(host, 'click.kmindex.ru') ||
 shExpMatch(host, 'click.lovltrzwzqeux.info') ||
 shExpMatch(host, 'click.negociosdigitaisnapratica.com.br') ||
-shExpMatch(host, 'click.redditmail.com') ||
 shExpMatch(host, 'click.twcwigs.com') ||
 shExpMatch(host, 'click2freemoney.com') ||
 shExpMatch(host, 'click2paid.com') ||
