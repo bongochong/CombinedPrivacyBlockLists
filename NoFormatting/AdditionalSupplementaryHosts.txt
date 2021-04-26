@@ -6195,6 +6195,7 @@
 0.0.0.0 dynamic.rakuten.co.jp
 0.0.0.0 dynamicrosoft.com
 0.0.0.0 dzizsih.ru
+0.0.0.0 dzc-metrics.mzstatic.com
 0.0.0.0 e-engenering.ru
 0.0.0.0 e-helpingcenterxg.pl
 0.0.0.0 e-mailupgrade.com
