@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 # This work is licensed under the CPAL-1.0
 # See: https://shorl.com/vebrubefrubiti
 #
-# ~- Sun Apr 25 09:33:58 PM UTC 2021 -~
+# ~- Mon Apr 26 12:32:05 AM UTC 2021 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -17554,7 +17554,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 click.amazingfacts.org
 0.0.0.0 click.appinthestore.com
 0.0.0.0 click.atdmt.com
-0.0.0.0 click.bible.com
 0.0.0.0 click.bokecc.com
 0.0.0.0 click.bounceads.net
 0.0.0.0 click.cartsguru.io
@@ -17564,18 +17563,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 click.community.carousell.com
 0.0.0.0 click.dealshark.com
 0.0.0.0 click.depop.com
-0.0.0.0 click.drizly.com
 0.0.0.0 click.dtiserv2.com
 0.0.0.0 click.duga.jp
-0.0.0.0 click.e.affirm.com
-0.0.0.0 click.e.tdbank.com
-0.0.0.0 click.email-stubhub.com
-0.0.0.0 click.email.bbc.com
-0.0.0.0 click.email.chope.co
-0.0.0.0 click.email.sonos.com
-0.0.0.0 click.email.soundhound.com
-0.0.0.0 click.emails.creditonebank.com
-0.0.0.0 click.engage.xbox.com
 0.0.0.0 click.eyk.net
 0.0.0.0 click.favordelivery.com
 0.0.0.0 click.food.mercato.com
@@ -17586,7 +17575,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 click.gowadogo.com
 0.0.0.0 click.hm.baidu.com
 0.0.0.0 click.howdoesin.net
-0.0.0.0 click.instacartemail.com
 0.0.0.0 click.interactivebrands.com
 0.0.0.0 click.j-a-net.jp
 0.0.0.0 click.kataweb.it
@@ -17600,12 +17588,8 @@ ff02::2 ip6-allrouters
 0.0.0.0 click.marketing.carousell.com
 0.0.0.0 click.mobile-bt.com
 0.0.0.0 click.negociosdigitaisnapratica.com.br
-0.0.0.0 click.official.nike.com
-0.0.0.0 click.oneplus.cn
-0.0.0.0 click.oneplus.com
 0.0.0.0 click.plista.com
 0.0.0.0 click.readme.ru
-0.0.0.0 click.redditmail.com
 0.0.0.0 click.rssfwd.com
 0.0.0.0 click.scour.com
 0.0.0.0 click.searchnation.net
@@ -19659,7 +19643,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 creafi.com
 0.0.0.0 creamdrskincare.com
 0.0.0.0 creamssicsite.com
-0.0.0.0 crearechile.cl
 0.0.0.0 creasureeffe.club
 0.0.0.0 create.leadid.com
 0.0.0.0 create.unity.com
@@ -21452,7 +21435,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 decoctionembedded.com
 0.0.0.0 decordingaudied.site
 0.0.0.0 decoroustitle.com
-0.0.0.0 decosa.co.hu
 0.0.0.0 decoycreation.com
 0.0.0.0 ded.gostats.com
 0.0.0.0 ded733b374cc1c3f.com
@@ -21596,6 +21578,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 demilith.com
 0.0.0.0 demo-cliente.mindcreative.com.br
 0.0.0.0 demo.g-mart.in
+0.0.0.0 demo.glassforcars.com.au
 0.0.0.0 demo.lib-ln-1.net.daraz.com
 0.0.0.0 demo.lib-oa-2.net.daraz.com
 0.0.0.0 demo.r-ln-1.net.daraz.com
@@ -33438,6 +33421,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 jdgtgb.pcgames.de
 0.0.0.0 jdgtgb.t-online.de
 0.0.0.0 jdgtgb.watson.de
+0.0.0.0 jdkems.com
 0.0.0.0 jdlhg.com
 0.0.0.0 jdoqocy.com
 0.0.0.0 jdownloader.fr
@@ -36171,6 +36155,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 lioningepit.fun
 0.0.0.0 lionstracking.com
 0.0.0.0 liquidad.narrowcastmedia.com
+0.0.0.0 liquidaz.casa
 0.0.0.0 liquidroll.com
 0.0.0.0 liqurestore.cf
 0.0.0.0 liqwid.net
@@ -37709,6 +37694,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 marketing.dnacenter.com
 0.0.0.0 marketing.dropbox.com
 0.0.0.0 marketing.ece.org
+0.0.0.0 marketing.enexusgroup.com.au
 0.0.0.0 marketing.entgov.tomtom.com
 0.0.0.0 marketing.epson.com.au
 0.0.0.0 marketing.equippo.com
@@ -45834,6 +45820,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 potamitis.gr
 0.0.0.0 potatoes.dinomatic.com
 0.0.0.0 potatoescollections.com
+0.0.0.0 potawe.com
 0.0.0.0 potedly.co
 0.0.0.0 potentingaknt.club
 0.0.0.0 potentingxyr.club
@@ -57121,6 +57108,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tdayi.com
 0.0.0.0 tdcv3.talkingdata.net
 0.0.0.0 tdeilxkjxgdedb.com
+0.0.0.0 tdejob.work
 0.0.0.0 tdep.bunzlonline.nl
 0.0.0.0 tdep.suncamp.de
 0.0.0.0 tdep.suncamp.nl
@@ -57214,6 +57202,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tecchannel.de.intellitxt.com
 0.0.0.0 tech-faq.us.intellitxt.com
 0.0.0.0 tech.jiukang.org
+0.0.0.0 tech332.synology.me
 0.0.0.0 tech4215978.ru
 0.0.0.0 tech5877413.ru
 0.0.0.0 tech9638514.ru
@@ -57870,6 +57859,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tiads.people.com
 0.0.0.0 tiads.timeinc.net
 0.0.0.0 tiamos.co
+0.0.0.0 tianangdep.com
 0.0.0.0 tiandihui9450.top
 0.0.0.0 tianfus.com
 0.0.0.0 tiangu99.com
@@ -85244,7 +85234,6 @@ ff02::2 ip6-allrouters
 :: click.amazingfacts.org
 :: click.appinthestore.com
 :: click.atdmt.com
-:: click.bible.com
 :: click.bokecc.com
 :: click.bounceads.net
 :: click.cartsguru.io
@@ -85254,18 +85243,8 @@ ff02::2 ip6-allrouters
 :: click.community.carousell.com
 :: click.dealshark.com
 :: click.depop.com
-:: click.drizly.com
 :: click.dtiserv2.com
 :: click.duga.jp
-:: click.e.affirm.com
-:: click.e.tdbank.com
-:: click.email-stubhub.com
-:: click.email.bbc.com
-:: click.email.chope.co
-:: click.email.sonos.com
-:: click.email.soundhound.com
-:: click.emails.creditonebank.com
-:: click.engage.xbox.com
 :: click.eyk.net
 :: click.favordelivery.com
 :: click.food.mercato.com
@@ -85276,7 +85255,6 @@ ff02::2 ip6-allrouters
 :: click.gowadogo.com
 :: click.hm.baidu.com
 :: click.howdoesin.net
-:: click.instacartemail.com
 :: click.interactivebrands.com
 :: click.j-a-net.jp
 :: click.kataweb.it
@@ -85290,12 +85268,8 @@ ff02::2 ip6-allrouters
 :: click.marketing.carousell.com
 :: click.mobile-bt.com
 :: click.negociosdigitaisnapratica.com.br
-:: click.official.nike.com
-:: click.oneplus.cn
-:: click.oneplus.com
 :: click.plista.com
 :: click.readme.ru
-:: click.redditmail.com
 :: click.rssfwd.com
 :: click.scour.com
 :: click.searchnation.net
@@ -87349,7 +87323,6 @@ ff02::2 ip6-allrouters
 :: creafi.com
 :: creamdrskincare.com
 :: creamssicsite.com
-:: crearechile.cl
 :: creasureeffe.club
 :: create.leadid.com
 :: create.unity.com
@@ -89142,7 +89115,6 @@ ff02::2 ip6-allrouters
 :: decoctionembedded.com
 :: decordingaudied.site
 :: decoroustitle.com
-:: decosa.co.hu
 :: decoycreation.com
 :: ded.gostats.com
 :: ded733b374cc1c3f.com
@@ -89286,6 +89258,7 @@ ff02::2 ip6-allrouters
 :: demilith.com
 :: demo-cliente.mindcreative.com.br
 :: demo.g-mart.in
+:: demo.glassforcars.com.au
 :: demo.lib-ln-1.net.daraz.com
 :: demo.lib-oa-2.net.daraz.com
 :: demo.r-ln-1.net.daraz.com
@@ -101128,6 +101101,7 @@ ff02::2 ip6-allrouters
 :: jdgtgb.pcgames.de
 :: jdgtgb.t-online.de
 :: jdgtgb.watson.de
+:: jdkems.com
 :: jdlhg.com
 :: jdoqocy.com
 :: jdownloader.fr
@@ -103861,6 +103835,7 @@ ff02::2 ip6-allrouters
 :: lioningepit.fun
 :: lionstracking.com
 :: liquidad.narrowcastmedia.com
+:: liquidaz.casa
 :: liquidroll.com
 :: liqurestore.cf
 :: liqwid.net
@@ -105399,6 +105374,7 @@ ff02::2 ip6-allrouters
 :: marketing.dnacenter.com
 :: marketing.dropbox.com
 :: marketing.ece.org
+:: marketing.enexusgroup.com.au
 :: marketing.entgov.tomtom.com
 :: marketing.epson.com.au
 :: marketing.equippo.com
@@ -113524,6 +113500,7 @@ ff02::2 ip6-allrouters
 :: potamitis.gr
 :: potatoes.dinomatic.com
 :: potatoescollections.com
+:: potawe.com
 :: potedly.co
 :: potentingaknt.club
 :: potentingxyr.club
@@ -124811,6 +124788,7 @@ ff02::2 ip6-allrouters
 :: tdayi.com
 :: tdcv3.talkingdata.net
 :: tdeilxkjxgdedb.com
+:: tdejob.work
 :: tdep.bunzlonline.nl
 :: tdep.suncamp.de
 :: tdep.suncamp.nl
@@ -124904,6 +124882,7 @@ ff02::2 ip6-allrouters
 :: tecchannel.de.intellitxt.com
 :: tech-faq.us.intellitxt.com
 :: tech.jiukang.org
+:: tech332.synology.me
 :: tech4215978.ru
 :: tech5877413.ru
 :: tech9638514.ru
@@ -125560,6 +125539,7 @@ ff02::2 ip6-allrouters
 :: tiads.people.com
 :: tiads.timeinc.net
 :: tiamos.co
+:: tianangdep.com
 :: tiandihui9450.top
 :: tianfus.com
 :: tiangu99.com
