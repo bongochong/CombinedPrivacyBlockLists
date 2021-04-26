@@ -1,4 +1,4 @@
-# Mon Apr 26 12:10:11 AM UTC 2021
+# Mon Apr 26 12:25:09 AM UTC 2021
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0-24bpautomentes.hu
 0.0.0.0 00-gov.cn
@@ -7515,27 +7515,20 @@
 0.0.0.0 click.ali213.net
 0.0.0.0 click.amazingfacts.org
 0.0.0.0 click.appinthestore.com
-0.0.0.0 click.bible.com
 0.0.0.0 click.bokecc.com
 0.0.0.0 click.community.carousell.com
 0.0.0.0 click.depop.com
-0.0.0.0 click.drizly.com
 0.0.0.0 click.eyk.net
 0.0.0.0 click.favordelivery.com
 0.0.0.0 click.food.mercato.com
 0.0.0.0 click.gamersky.com
-0.0.0.0 click.instacartemail.com
 0.0.0.0 click.kataweb.it
 0.0.0.0 click.livedoor.com
 0.0.0.0 click.mail.carousell.com
 0.0.0.0 click.mail.thecarousell.com
 0.0.0.0 click.mail.theknot.com
 0.0.0.0 click.marketing.carousell.com
-0.0.0.0 click.official.nike.com
-0.0.0.0 click.oneplus.cn
-0.0.0.0 click.oneplus.com
 0.0.0.0 click.readme.ru
-0.0.0.0 click.redditmail.com
 0.0.0.0 click.rssfwd.com
 0.0.0.0 click.scour.com
 0.0.0.0 click.sinx.com
