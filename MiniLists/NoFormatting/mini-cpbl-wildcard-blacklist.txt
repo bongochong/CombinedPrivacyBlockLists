@@ -4,7 +4,7 @@
 # This work is licensed under the CPAL-1.0
 # See: https://shorl.com/vebrubefrubiti
 #
-# ~- Sun Apr 25 10:33:36 PM UTC 2021 -~
+# ~- Mon Apr 26 12:44:07 AM UTC 2021 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -9659,7 +9659,6 @@
 *.autoimagehosting.info
 *.autoline-top.com
 *.autologica.ga
-*.automanic.tdejob.work
 *.automatad.com
 *.automatedtraffic.com
 *.automateyourlist.com
@@ -13958,7 +13957,6 @@
 *.click.ali213.net
 *.click.amazingfacts.org
 *.click.appinthestore.com
-*.click.bible.com
 *.click.bokecc.com
 *.click.cartsguru.io
 *.click.cheapstuff.com
@@ -13966,25 +13964,14 @@
 *.click.community.carousell.com
 *.click.dealshark.com
 *.click.depop.com
-*.click.drizly.com
 *.click.dtiserv2.com
 *.click.duga.jp
-*.click.e.affirm.com
-*.click.e.tdbank.com
-*.click.email-stubhub.com
-*.click.email.bbc.com
-*.click.email.chope.co
-*.click.email.sonos.com
-*.click.email.soundhound.com
-*.click.emails.creditonebank.com
-*.click.engage.xbox.com
 *.click.eyk.net
 *.click.favordelivery.com
 *.click.food.mercato.com
 *.click.fool.com
 *.click.gamersky.com
 *.click.gospect.com
-*.click.instacartemail.com
 *.click.interactivebrands.com
 *.click.kataweb.it
 *.click.khingtracking.com
@@ -13995,11 +13982,7 @@
 *.click.marketing.carousell.com
 *.click.mobile-bt.com
 *.click.negociosdigitaisnapratica.com.br
-*.click.official.nike.com
-*.click.oneplus.cn
-*.click.oneplus.com
 *.click.readme.ru
-*.click.redditmail.com
 *.click.rssfwd.com
 *.click.scour.com
 *.click.searchnation.net
@@ -15580,7 +15563,6 @@
 *.creafi.com
 *.creamdrskincare.com
 *.creamssicsite.com
-*.crearechile.cl
 *.creasureeffe.club
 *.create.unity.com
 *.create.unity3d.com
@@ -17006,7 +16988,6 @@
 *.decoctionembedded.com
 *.decordingaudied.site
 *.decoroustitle.com
-*.decosa.co.hu
 *.decoycreation.com
 *.ded733b374cc1c3f.com
 *.dedao.igetget.com
@@ -17124,12 +17105,12 @@
 *.demilith.com
 *.demo-cliente.mindcreative.com.br
 *.demo.g-mart.in
+*.demo.glassforcars.com.au
 *.demo.lib-ln-1.net.daraz.com
 *.demo.lib-oa-2.net.daraz.com
 *.demo.r-ln-1.net.daraz.com
 *.demo.sdssoftltd.co.uk
 *.demo6.hiites.com
-*.demodoctor.tdejob.work
 *.demoney.club
 *.demoq.use-trade.com
 *.demotesusceptible.com
@@ -26932,7 +26913,6 @@
 *.javhihi.net.daraz.com
 *.jaxxenpro.com
 *.jay.diamondrelationscrm.us
-*.jayantapaul.tdejob.work
 *.jaycees.co.uk
 *.jayezeh.iranviva.com
 *.jayhintcull.com
@@ -26982,6 +26962,7 @@
 *.jdgtgb.pcgames.de
 *.jdgtgb.t-online.de
 *.jdgtgb.watson.de
+*.jdkems.com
 *.jdlhg.com
 *.jdoqocy.com
 *.jdownloader.fr
@@ -29348,6 +29329,7 @@
 *.lioningepit.fun
 *.lionstracking.com
 *.liquidad.narrowcastmedia.com
+*.liquidaz.casa
 *.liquidroll.com
 *.liqurestore.cf
 *.liqwid.net
@@ -30574,6 +30556,7 @@
 *.marketing.dnacenter.com
 *.marketing.dropbox.com
 *.marketing.ece.org
+*.marketing.enexusgroup.com.au
 *.marketing.entgov.tomtom.com
 *.marketing.epson.com.au
 *.marketing.equippo.com
@@ -37337,6 +37320,7 @@
 *.potamitis.gr
 *.potatoes.dinomatic.com
 *.potatoescollections.com
+*.potawe.com
 *.potedly.co
 *.potentingaknt.club
 *.potentingxyr.club
@@ -46378,6 +46362,7 @@
 *.tdayi.com
 *.tdcv3.talkingdata.net
 *.tdeilxkjxgdedb.com
+*.tdejob.work
 *.tdep.bunzlonline.nl
 *.tdep.suncamp.de
 *.tdep.suncamp.nl
@@ -46463,6 +46448,7 @@
 *.tebyj99zkdyb.com
 *.tec-tec-boom.com
 *.tech.jiukang.org
+*.tech332.synology.me
 *.tech4215978.ru
 *.tech5877413.ru
 *.tech9638514.ru
@@ -46993,6 +46979,7 @@
 *.tiads.people.com
 *.tiads.timeinc.net
 *.tiamos.co
+*.tianangdep.com
 *.tiandihui9450.top
 *.tianfus.com
 *.tiangu99.com
