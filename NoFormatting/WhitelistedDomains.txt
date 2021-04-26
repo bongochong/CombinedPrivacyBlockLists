@@ -133,6 +133,13 @@ click.email.sonos.com
 click.email.soundhound.com
 click.emails.creditonebank.com
 click.engage.xbox.com
+click.bible.com
+click.drizly.com
+click.instacartemail.com
+click.official.nike.com
+click.oneplus.cn
+click.oneplus.com
+click.redditmail.com
 client-event-reporter.twitch.tv
 client-s.gateway.messenger.live.com
 clientconfig.passport.net

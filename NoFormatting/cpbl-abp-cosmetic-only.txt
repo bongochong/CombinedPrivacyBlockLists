@@ -182,6 +182,13 @@ website2.me##[id^="ws-side-banner-"]
 ||click.email.soundhound.com^$third-party
 ||click.emails.creditonebank.com^$third-party
 ||click.engage.xbox.com^$third-party
+||click.bible.com^$third-party
+||click.drizly.com^$third-party
+||click.instacartemail.com^$third-party
+||click.official.nike.com^$third-party
+||click.oneplus.cn^$third-party
+||click.oneplus.com^$third-party
+||click.redditmail.com^$third-party
 ||embed.theblockcrypto.com/dist/*/js/chunk*.js$domain=theblockcrypto.com
 ||exodus.com/img/subscribe-popup.jpg$image
 ||graph.facebook.com^$domain=~facebook.com|~fbcdn.com|~apps.facebook.com|~instagram.com|~linkedin.com,app=~com.facebook.katana|~com.instagram.android|~com.facebook.orca|~com.mobile.legends|~com.minigames.sweetcrossing|~com.moonton.mobilehero|~com.supercell.clashofclans|~com.playrix.fishdomdd.gplay|~com.tencent.ig|~com.ngame.allstar.eu|~com.garena.game.kgid|~com.netease.g78na.gb|~com.stackwares.android.storysaver.facebook

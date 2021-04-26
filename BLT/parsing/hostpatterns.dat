@@ -170,6 +170,13 @@ localhost$
 ^0.0.0.0 click.email.soundhound.com$
 ^0.0.0.0 click.emails.creditonebank.com$
 ^0.0.0.0 click.engage.xbox.com$
+^0.0.0.0 click.bible.com$
+^0.0.0.0 click.drizly.com$
+^0.0.0.0 click.instacartemail.com$
+^0.0.0.0 click.official.nike.com$
+^0.0.0.0 click.oneplus.cn$
+^0.0.0.0 click.oneplus.com$
+^0.0.0.0 click.redditmail.com$
 ^0.0.0.0 client-event-reporter.twitch.tv$
 ^0.0.0.0 client-s.gateway.messenger.live.com$
 ^0.0.0.0 clientconfig.passport.net$
