@@ -4,7 +4,7 @@
 # This work is licensed under the CPAL-1.0
 # See: https://shorl.com/vebrubefrubiti
 #
-# ~- Mon Apr 26 11:20:38 PM UTC 2021 -~
+# ~- Tue Apr 27 03:34:13 AM UTC 2021 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -4864,6 +4864,7 @@
 *.ads.expedia.com
 *.ads.expekt.com
 *.ads.ezboard.com
+*.ads.facebook.com
 *.ads.factorymedia.com
 *.ads.fairfax.com.au
 *.ads.farakav.com
@@ -9376,6 +9377,7 @@
 *.at-o.net
 *.at.ontargetjobs.com
 *.at98.com
+*.ata-ads.realmemobile.com
 *.atadserver.com
 *.ataijeeg.net
 *.atanx.alicdn.com
@@ -10155,6 +10157,7 @@
 *.baj.fanwenzhan.com
 *.bajieyy.cc
 *.bajvt.com
+*.bakamla.go.id
 *.baladefarms-com.ga
 *.baladefarms.ga
 *.balakhonov-yuriy.ru
@@ -10615,6 +10618,7 @@
 *.bd888.qizuang.com
 *.bda1.ayule.net
 *.bdad.gaotie.net
+*.bdapi-in-ads.realmemobile.com
 *.bdapi.ads.oppomobile.com
 *.bdasd.chdbook.cn
 *.bdasd.chinabig.com.cn
@@ -11088,6 +11092,7 @@
 *.bh3.net
 *.bhaoea.cn
 *.bhatner.com
+*.bhavaniengineering.com
 *.bhawtp.vitacost.com
 *.bhcf764sf8pg.com
 *.bhclicks.com
@@ -12679,6 +12684,7 @@
 *.capeturk.com
 *.caphaiks.com
 *.caphyon-analytics.com
+*.capitalavepharmacy.com
 *.capitalgroup-kw.com
 *.cappens-dreperor.com
 *.capriciouscorn.com
@@ -15021,6 +15027,7 @@
 *.contlist.com
 *.contrarysignificancedolls.com
 *.contribusourcesyndication.com
+*.contributeindustry.com
 *.contributionsthroughy.net
 *.contributiont.biz
 *.contributorshaveangry.com
@@ -18084,6 +18091,7 @@
 *.downloadlitefree.org
 *.downloadlitefree.ru
 *.downloadr.xyz
+*.downloads.fdossena.com
 *.downloads2020.com
 *.downloadtg4.website
 *.downloadz.us
@@ -18242,7 +18250,6 @@
 *.dspmulti.com
 *.dsptrack.mobshark.net
 *.dssdr.top
-*.dsspainting.com
 *.dsstrk.com
 *.dstik9906m659.cloudfront.net
 *.dstillery.com
@@ -19365,7 +19372,6 @@
 *.emp.aiasahi.jp
 *.emphante.club
 *.empiremoney.com
-*.emploimed.com
 *.empowerclemencyjoggle.com
 *.emptyescort.com
 *.emptyspaceads.com
@@ -21074,6 +21080,7 @@
 *.fivecdm.com
 *.fiwinet.firmenwissen.de
 *.fix-america-now.org
+*.fixauto.illumetechnology.com
 *.fixchidie.com
 *.fixcounter.com
 *.fixedlyuncoveradjoin.com
@@ -23848,6 +23855,7 @@
 *.hassanproduct.com
 *.hastikapubli.club
 *.hastilyantiterrorist.com
+*.hastkargha.com
 *.hatagashira.com
 *.hatcalter.com
 *.hatchord.com
@@ -26826,6 +26834,7 @@
 *.japanshopstyle.com
 *.japsulsa.com
 *.jarailso.com
+*.jardindhelena.com
 *.jarhcvnlj.com
 *.jarproducercane.com
 *.jas.indeednps.com
@@ -31275,6 +31284,7 @@
 *.merlin.abc.go.com
 *.merryemotionally.com
 *.mertlog.com
+*.mertyapit.com
 *.merunexcuses.club
 *.mervetos.com
 *.meryjane.pro
@@ -31825,6 +31835,7 @@
 *.micakidaugust.com
 *.micalle.com.au
 *.michaelphilip.com
+*.michimal2.000webhostapp.com
 *.micmatchi.club
 *.micodigo.com
 *.micorsoft.cc
@@ -35069,6 +35080,7 @@
 *.onlineredirr.com
 *.onlinerewardcenter.com
 *.onlinerotator.net
+*.onlinesgate.com
 *.onlinesnotes.top
 *.onlinewebstat.com
 *.only-humans.xyz
@@ -46902,6 +46914,7 @@
 *.tidningsnatet.se
 *.tidyboressire.com
 *.tidydownright.com
+*.tidymasters.com.au
 *.tidytrail.com
 *.tie.iprom.net
 *.tieecstasythrong.com
@@ -51156,7 +51169,6 @@
 *.wamnetwork.com
 *.wandara113.xyz
 *.wandersongay.ddns.net
-*.wanepliberia.org
 *.wanfukang.cc
 *.wangdaguanli.com
 *.wangdaizao.com
@@ -51912,7 +51924,6 @@
 *.windoorsew.club
 *.window.nixnet.cz
 *.window1.com
-*.windowcafe.biz
 *.windowmentaria.com
 *.windows-pcrepair.com
 *.windows-remora-system.com
@@ -52160,6 +52171,7 @@
 *.wowostar.cn
 *.wowreality.info
 *.woymebsi.com
+*.wozata.000webhostapp.com
 *.wp-monero-miner.de
 *.wp-stats.com
 *.wp.readhere.in
