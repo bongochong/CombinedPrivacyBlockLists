@@ -4,7 +4,7 @@
 # This work is licensed under the CPAL-1.0
 # See: https://shorl.com/vebrubefrubiti
 #
-# ~- Tue Apr 27 03:34:13 AM UTC 2021 -~
+# ~- Tue Apr 27 04:01:09 AM UTC 2021 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -53971,6 +53971,7 @@
 *.youshouge513.cn
 *.youshouldclick.us
 *.youthrenewphyto.com
+*.youtube.cleverads.vn
 *.youtube4kprod.xyz
 *.youutube.gq
 *.youvisit.com
