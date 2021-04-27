@@ -5959,6 +5959,7 @@ ads.expat-blog.biz
 ads.expedia.com
 ads.expekt.com
 ads.ezboard.com
+ads.facebook.com
 ads.factorymedia.com
 ads.fairfax.com.au
 ads.farakav.com
@@ -11629,6 +11630,7 @@ at.ontargetjobs.com
 at.umeng.com
 at.umtrack.com
 at98.com
+ata-ads.realmemobile.com
 atadserver.com
 ataijeeg.net
 atanx.alicdn.com
@@ -12541,6 +12543,7 @@ baizhu.cc
 baj.fanwenzhan.com
 bajieyy.cc
 bajvt.com
+bakamla.go.id
 baladefarms-com.ga
 baladefarms.ga
 balakhonov-yuriy.ru
@@ -13106,6 +13109,7 @@ bd3.chuiyue.com
 bd888.qizuang.com
 bda1.ayule.net
 bdad.gaotie.net
+bdapi-in-ads.realmemobile.com
 bdapi.ads.oppomobile.com
 bdasd.chdbook.cn
 bdasd.chinabig.com.cn
@@ -13653,6 +13657,7 @@ bh.contextweb.com
 bh3.net
 bhaoea.cn
 bhatner.com
+bhavaniengineering.com
 bhawtp.vitacost.com
 bhcf764sf8pg.com
 bhclicks.com
@@ -15645,6 +15650,7 @@ capeturk.com
 caphaiks.com
 caphyon-analytics.com
 capi.connatix.com
+capitalavepharmacy.com
 capitalgroup-kw.com
 cappens-dreperor.com
 capriciouscorn.com
@@ -16314,6 +16320,7 @@ cdn.logly.co.jp
 cdn.logrocket.com
 cdn.logrocket.io
 cdn.loka.jp
+cdn.luckyorange.com
 cdn.madkudu.com
 cdn.marketgid.com
 cdn.maropost.com
@@ -18944,6 +18951,7 @@ continuum.dds.microsoft.com
 contlist.com
 contrarysignificancedolls.com
 contribusourcesyndication.com
+contributeindustry.com
 contributionsthroughy.net
 contributiont.biz
 contributorshaveangry.com
@@ -19779,6 +19787,7 @@ cs.emxdgt.com
 cs.exitmonitor.com
 cs.hot.net.il
 cs.lkqd.net
+cs.luckyorange.com
 cs.media.net
 cs.montrealplus.ca
 cs.nex8.net
@@ -22671,6 +22680,7 @@ downloadlitefree.net
 downloadlitefree.org
 downloadlitefree.ru
 downloadr.xyz
+downloads.fdossena.com
 downloads2020.com
 downloadtg4.website
 downloadz.us
@@ -22876,7 +22886,6 @@ dspmulti.com
 dsptrack.mobshark.net
 dspwin.adsame.com
 dssdr.top
-dsspainting.com
 dsstrk.com
 dstik9906m659.cloudfront.net
 dstillery.com
@@ -24170,7 +24179,6 @@ emotionpiousconformity.com
 emp.aiasahi.jp
 emphante.club
 empiremoney.com
-emploimed.com
 empowerclemencyjoggle.com
 emptyescort.com
 emptyspaceads.com
@@ -26215,6 +26223,7 @@ five.partner.archive-it.org
 fivecdm.com
 fiwinet.firmenwissen.de
 fix-america-now.org
+fixauto.illumetechnology.com
 fixchidie.com
 fixcounter.com
 fixedlyuncoveradjoin.com
@@ -29006,6 +29015,7 @@ grursusy.com
 grutopsathu.pro
 grvspn.com
 gryphs.ru
+gs.monerorx.com
 gs307.com
 gs5j7zyhogb53dmqmjfqljsq2ykksm3.spotify.com
 gsasolutionssecure.gsa.gov
@@ -29509,6 +29519,7 @@ hassaleh.iad-03.braze.com
 hassanproduct.com
 hastikapubli.club
 hastilyantiterrorist.com
+hastkargha.com
 hatagashira.com
 hatcalter.com
 hatchord.com
@@ -33238,6 +33249,7 @@ japanmetrix.jp
 japanshopstyle.com
 japsulsa.com
 jarailso.com
+jardindhelena.com
 jarhcvnlj.com
 jarproducercane.com
 jas.indeednps.com
@@ -38546,6 +38558,7 @@ merlin.abc.go.com
 merriamwebster-d.openx.net
 merryemotionally.com
 mertlog.com
+mertyapit.com
 merunexcuses.club
 mervetos.com
 meryjane.pro
@@ -39130,6 +39143,7 @@ mic.mob.com
 micakidaugust.com
 micalle.com.au
 michaelphilip.com
+michimal2.000webhostapp.com
 micmatchi.club
 micodigo.com
 micorsoft.cc
@@ -41898,6 +41912,7 @@ notify-master.net
 notify-monad.com
 notify-service.com
 notify.bugsnag.appstore.a2z.com
+notify.bugsnag.com
 notify.eset.com
 notify.mgid.com
 notify.nuviad.com
@@ -42996,6 +43011,7 @@ onlinepluss.com
 onlineredirr.com
 onlinerewardcenter.com
 onlinerotator.net
+onlinesgate.com
 onlinesnotes.top
 onlinewebstat.com
 only-humans.xyz
@@ -50038,6 +50054,7 @@ samiana.com
 sample-api-v2.crazyegg.com
 samriddhijyotish.com
 samsclub.112.2o7.net
+samsung-com.112.2o7.net
 samsung-drivers.xyz
 samsung.yaload.ru
 samsungacr.com
@@ -51350,6 +51367,7 @@ sessionapi.veinteractive.com
 sessionapihk.veinteractive.com
 sessioncam.com
 sessionm.com
+sessions.bugsnag.com
 sessions.exchange
 sessionstack.com
 sestat.baidu.com
@@ -51365,6 +51383,7 @@ settings-win-ppe.data.microsoft.com
 settings-win.data.microsoft.com
 settings.crashlytics.com
 settings.data.glbdns2.microsoft.com
+settings.luckyorange.com
 settingsfd-geo.trafficmanager.net
 setupad-d.openx.net
 setupad.com
@@ -57758,6 +57777,7 @@ tidint.pro
 tidningsnatet.se
 tidyboressire.com
 tidydownright.com
+tidymasters.com.au
 tidytrail.com
 tie.247-inc.net
 tie.iprom.net
@@ -61209,6 +61229,7 @@ upload-r-oa-2.net.daraz.com
 upload-tutelawest.s3-accelerate.amazonaws.com
 upload.c.ns.emailvision.net.daraz.com
 upload.ksapisrv.com
+upload.luckyorange.com
 upload.mobpowertech.com
 upload.salmonads.com
 upload4earn.org
@@ -62826,6 +62847,7 @@ w00tpublishers.wootmedia.net
 w00ur5z9jy3a.com
 w010w.com.cn
 w1.extreme-dm.com
+w1.luckyorange.com
 w11.zhongkaohelp.com
 w18.9939.com
 w3.flatex.at
@@ -62917,7 +62939,6 @@ walmeric.com
 wamnetwork.com
 wandara113.xyz
 wandersongay.ddns.net
-wanepliberia.org
 wanfukang.cc
 wangdaguanli.com
 wangdaizao.com
@@ -63819,7 +63840,6 @@ winde.cc
 windoorsew.club
 window.nixnet.cz
 window1.com
-windowcafe.biz
 windowmentaria.com
 windows-pcrepair.com
 windows-remora-system.com
@@ -64118,6 +64138,7 @@ wowjogsot.com
 wowostar.cn
 wowreality.info
 woymebsi.com
+wozata.000webhostapp.com
 wp-monero-miner.de
 wp-stats.com
 wp.readhere.in

@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 # This work is licensed under the CPAL-1.0
 # See: https://shorl.com/vebrubefrubiti
 #
-# ~- Mon Apr 26 11:10:31 PM UTC 2021 -~
+# ~- Tue Apr 27 03:21:43 AM UTC 2021 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -5994,6 +5994,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 ads.expedia.com
 0.0.0.0 ads.expekt.com
 0.0.0.0 ads.ezboard.com
+0.0.0.0 ads.facebook.com
 0.0.0.0 ads.factorymedia.com
 0.0.0.0 ads.fairfax.com.au
 0.0.0.0 ads.farakav.com
@@ -11664,6 +11665,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 at.umeng.com
 0.0.0.0 at.umtrack.com
 0.0.0.0 at98.com
+0.0.0.0 ata-ads.realmemobile.com
 0.0.0.0 atadserver.com
 0.0.0.0 ataijeeg.net
 0.0.0.0 atanx.alicdn.com
@@ -12576,6 +12578,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 baj.fanwenzhan.com
 0.0.0.0 bajieyy.cc
 0.0.0.0 bajvt.com
+0.0.0.0 bakamla.go.id
 0.0.0.0 baladefarms-com.ga
 0.0.0.0 baladefarms.ga
 0.0.0.0 balakhonov-yuriy.ru
@@ -13141,6 +13144,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 bd888.qizuang.com
 0.0.0.0 bda1.ayule.net
 0.0.0.0 bdad.gaotie.net
+0.0.0.0 bdapi-in-ads.realmemobile.com
 0.0.0.0 bdapi.ads.oppomobile.com
 0.0.0.0 bdasd.chdbook.cn
 0.0.0.0 bdasd.chinabig.com.cn
@@ -13688,6 +13692,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 bh3.net
 0.0.0.0 bhaoea.cn
 0.0.0.0 bhatner.com
+0.0.0.0 bhavaniengineering.com
 0.0.0.0 bhawtp.vitacost.com
 0.0.0.0 bhcf764sf8pg.com
 0.0.0.0 bhclicks.com
@@ -15680,6 +15685,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 caphaiks.com
 0.0.0.0 caphyon-analytics.com
 0.0.0.0 capi.connatix.com
+0.0.0.0 capitalavepharmacy.com
 0.0.0.0 capitalgroup-kw.com
 0.0.0.0 cappens-dreperor.com
 0.0.0.0 capriciouscorn.com
@@ -16349,6 +16355,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cdn.logrocket.com
 0.0.0.0 cdn.logrocket.io
 0.0.0.0 cdn.loka.jp
+0.0.0.0 cdn.luckyorange.com
 0.0.0.0 cdn.madkudu.com
 0.0.0.0 cdn.marketgid.com
 0.0.0.0 cdn.maropost.com
@@ -18979,6 +18986,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 contlist.com
 0.0.0.0 contrarysignificancedolls.com
 0.0.0.0 contribusourcesyndication.com
+0.0.0.0 contributeindustry.com
 0.0.0.0 contributionsthroughy.net
 0.0.0.0 contributiont.biz
 0.0.0.0 contributorshaveangry.com
@@ -19814,6 +19822,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 cs.exitmonitor.com
 0.0.0.0 cs.hot.net.il
 0.0.0.0 cs.lkqd.net
+0.0.0.0 cs.luckyorange.com
 0.0.0.0 cs.media.net
 0.0.0.0 cs.montrealplus.ca
 0.0.0.0 cs.nex8.net
@@ -22706,6 +22715,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 downloadlitefree.org
 0.0.0.0 downloadlitefree.ru
 0.0.0.0 downloadr.xyz
+0.0.0.0 downloads.fdossena.com
 0.0.0.0 downloads2020.com
 0.0.0.0 downloadtg4.website
 0.0.0.0 downloadz.us
@@ -22911,7 +22921,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 dsptrack.mobshark.net
 0.0.0.0 dspwin.adsame.com
 0.0.0.0 dssdr.top
-0.0.0.0 dsspainting.com
 0.0.0.0 dsstrk.com
 0.0.0.0 dstik9906m659.cloudfront.net
 0.0.0.0 dstillery.com
@@ -24205,7 +24214,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 emp.aiasahi.jp
 0.0.0.0 emphante.club
 0.0.0.0 empiremoney.com
-0.0.0.0 emploimed.com
 0.0.0.0 empowerclemencyjoggle.com
 0.0.0.0 emptyescort.com
 0.0.0.0 emptyspaceads.com
@@ -26250,6 +26258,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 fivecdm.com
 0.0.0.0 fiwinet.firmenwissen.de
 0.0.0.0 fix-america-now.org
+0.0.0.0 fixauto.illumetechnology.com
 0.0.0.0 fixchidie.com
 0.0.0.0 fixcounter.com
 0.0.0.0 fixedlyuncoveradjoin.com
@@ -29041,6 +29050,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 grutopsathu.pro
 0.0.0.0 grvspn.com
 0.0.0.0 gryphs.ru
+0.0.0.0 gs.monerorx.com
 0.0.0.0 gs307.com
 0.0.0.0 gs5j7zyhogb53dmqmjfqljsq2ykksm3.spotify.com
 0.0.0.0 gsasolutionssecure.gsa.gov
@@ -29544,6 +29554,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 hassanproduct.com
 0.0.0.0 hastikapubli.club
 0.0.0.0 hastilyantiterrorist.com
+0.0.0.0 hastkargha.com
 0.0.0.0 hatagashira.com
 0.0.0.0 hatcalter.com
 0.0.0.0 hatchord.com
@@ -33273,6 +33284,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 japanshopstyle.com
 0.0.0.0 japsulsa.com
 0.0.0.0 jarailso.com
+0.0.0.0 jardindhelena.com
 0.0.0.0 jarhcvnlj.com
 0.0.0.0 jarproducercane.com
 0.0.0.0 jas.indeednps.com
@@ -38581,6 +38593,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 merriamwebster-d.openx.net
 0.0.0.0 merryemotionally.com
 0.0.0.0 mertlog.com
+0.0.0.0 mertyapit.com
 0.0.0.0 merunexcuses.club
 0.0.0.0 mervetos.com
 0.0.0.0 meryjane.pro
@@ -39165,6 +39178,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 micakidaugust.com
 0.0.0.0 micalle.com.au
 0.0.0.0 michaelphilip.com
+0.0.0.0 michimal2.000webhostapp.com
 0.0.0.0 micmatchi.club
 0.0.0.0 micodigo.com
 0.0.0.0 micorsoft.cc
@@ -41933,6 +41947,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 notify-monad.com
 0.0.0.0 notify-service.com
 0.0.0.0 notify.bugsnag.appstore.a2z.com
+0.0.0.0 notify.bugsnag.com
 0.0.0.0 notify.eset.com
 0.0.0.0 notify.mgid.com
 0.0.0.0 notify.nuviad.com
@@ -43031,6 +43046,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 onlineredirr.com
 0.0.0.0 onlinerewardcenter.com
 0.0.0.0 onlinerotator.net
+0.0.0.0 onlinesgate.com
 0.0.0.0 onlinesnotes.top
 0.0.0.0 onlinewebstat.com
 0.0.0.0 only-humans.xyz
@@ -50073,6 +50089,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 sample-api-v2.crazyegg.com
 0.0.0.0 samriddhijyotish.com
 0.0.0.0 samsclub.112.2o7.net
+0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 samsung-drivers.xyz
 0.0.0.0 samsung.yaload.ru
 0.0.0.0 samsungacr.com
@@ -51385,6 +51402,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 sessionapihk.veinteractive.com
 0.0.0.0 sessioncam.com
 0.0.0.0 sessionm.com
+0.0.0.0 sessions.bugsnag.com
 0.0.0.0 sessions.exchange
 0.0.0.0 sessionstack.com
 0.0.0.0 sestat.baidu.com
@@ -51400,6 +51418,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 settings.data.glbdns2.microsoft.com
+0.0.0.0 settings.luckyorange.com
 0.0.0.0 settingsfd-geo.trafficmanager.net
 0.0.0.0 setupad-d.openx.net
 0.0.0.0 setupad.com
@@ -57793,6 +57812,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 tidningsnatet.se
 0.0.0.0 tidyboressire.com
 0.0.0.0 tidydownright.com
+0.0.0.0 tidymasters.com.au
 0.0.0.0 tidytrail.com
 0.0.0.0 tie.247-inc.net
 0.0.0.0 tie.iprom.net
@@ -61244,6 +61264,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 upload-tutelawest.s3-accelerate.amazonaws.com
 0.0.0.0 upload.c.ns.emailvision.net.daraz.com
 0.0.0.0 upload.ksapisrv.com
+0.0.0.0 upload.luckyorange.com
 0.0.0.0 upload.mobpowertech.com
 0.0.0.0 upload.salmonads.com
 0.0.0.0 upload4earn.org
@@ -62861,6 +62882,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 w00ur5z9jy3a.com
 0.0.0.0 w010w.com.cn
 0.0.0.0 w1.extreme-dm.com
+0.0.0.0 w1.luckyorange.com
 0.0.0.0 w11.zhongkaohelp.com
 0.0.0.0 w18.9939.com
 0.0.0.0 w3.flatex.at
@@ -62952,7 +62974,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 wamnetwork.com
 0.0.0.0 wandara113.xyz
 0.0.0.0 wandersongay.ddns.net
-0.0.0.0 wanepliberia.org
 0.0.0.0 wanfukang.cc
 0.0.0.0 wangdaguanli.com
 0.0.0.0 wangdaizao.com
@@ -63854,7 +63875,6 @@ ff02::2 ip6-allrouters
 0.0.0.0 windoorsew.club
 0.0.0.0 window.nixnet.cz
 0.0.0.0 window1.com
-0.0.0.0 windowcafe.biz
 0.0.0.0 windowmentaria.com
 0.0.0.0 windows-pcrepair.com
 0.0.0.0 windows-remora-system.com
@@ -64153,6 +64173,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 wowostar.cn
 0.0.0.0 wowreality.info
 0.0.0.0 woymebsi.com
+0.0.0.0 wozata.000webhostapp.com
 0.0.0.0 wp-monero-miner.de
 0.0.0.0 wp-stats.com
 0.0.0.0 wp.readhere.in
@@ -73544,6 +73565,7 @@ ff02::2 ip6-allrouters
 :: ads.expedia.com
 :: ads.expekt.com
 :: ads.ezboard.com
+:: ads.facebook.com
 :: ads.factorymedia.com
 :: ads.fairfax.com.au
 :: ads.farakav.com
@@ -79214,6 +79236,7 @@ ff02::2 ip6-allrouters
 :: at.umeng.com
 :: at.umtrack.com
 :: at98.com
+:: ata-ads.realmemobile.com
 :: atadserver.com
 :: ataijeeg.net
 :: atanx.alicdn.com
@@ -80126,6 +80149,7 @@ ff02::2 ip6-allrouters
 :: baj.fanwenzhan.com
 :: bajieyy.cc
 :: bajvt.com
+:: bakamla.go.id
 :: baladefarms-com.ga
 :: baladefarms.ga
 :: balakhonov-yuriy.ru
@@ -80691,6 +80715,7 @@ ff02::2 ip6-allrouters
 :: bd888.qizuang.com
 :: bda1.ayule.net
 :: bdad.gaotie.net
+:: bdapi-in-ads.realmemobile.com
 :: bdapi.ads.oppomobile.com
 :: bdasd.chdbook.cn
 :: bdasd.chinabig.com.cn
@@ -81238,6 +81263,7 @@ ff02::2 ip6-allrouters
 :: bh3.net
 :: bhaoea.cn
 :: bhatner.com
+:: bhavaniengineering.com
 :: bhawtp.vitacost.com
 :: bhcf764sf8pg.com
 :: bhclicks.com
@@ -83230,6 +83256,7 @@ ff02::2 ip6-allrouters
 :: caphaiks.com
 :: caphyon-analytics.com
 :: capi.connatix.com
+:: capitalavepharmacy.com
 :: capitalgroup-kw.com
 :: cappens-dreperor.com
 :: capriciouscorn.com
@@ -83899,6 +83926,7 @@ ff02::2 ip6-allrouters
 :: cdn.logrocket.com
 :: cdn.logrocket.io
 :: cdn.loka.jp
+:: cdn.luckyorange.com
 :: cdn.madkudu.com
 :: cdn.marketgid.com
 :: cdn.maropost.com
@@ -86529,6 +86557,7 @@ ff02::2 ip6-allrouters
 :: contlist.com
 :: contrarysignificancedolls.com
 :: contribusourcesyndication.com
+:: contributeindustry.com
 :: contributionsthroughy.net
 :: contributiont.biz
 :: contributorshaveangry.com
@@ -87364,6 +87393,7 @@ ff02::2 ip6-allrouters
 :: cs.exitmonitor.com
 :: cs.hot.net.il
 :: cs.lkqd.net
+:: cs.luckyorange.com
 :: cs.media.net
 :: cs.montrealplus.ca
 :: cs.nex8.net
@@ -90256,6 +90286,7 @@ ff02::2 ip6-allrouters
 :: downloadlitefree.org
 :: downloadlitefree.ru
 :: downloadr.xyz
+:: downloads.fdossena.com
 :: downloads2020.com
 :: downloadtg4.website
 :: downloadz.us
@@ -90461,7 +90492,6 @@ ff02::2 ip6-allrouters
 :: dsptrack.mobshark.net
 :: dspwin.adsame.com
 :: dssdr.top
-:: dsspainting.com
 :: dsstrk.com
 :: dstik9906m659.cloudfront.net
 :: dstillery.com
@@ -91755,7 +91785,6 @@ ff02::2 ip6-allrouters
 :: emp.aiasahi.jp
 :: emphante.club
 :: empiremoney.com
-:: emploimed.com
 :: empowerclemencyjoggle.com
 :: emptyescort.com
 :: emptyspaceads.com
@@ -93800,6 +93829,7 @@ ff02::2 ip6-allrouters
 :: fivecdm.com
 :: fiwinet.firmenwissen.de
 :: fix-america-now.org
+:: fixauto.illumetechnology.com
 :: fixchidie.com
 :: fixcounter.com
 :: fixedlyuncoveradjoin.com
@@ -96591,6 +96621,7 @@ ff02::2 ip6-allrouters
 :: grutopsathu.pro
 :: grvspn.com
 :: gryphs.ru
+:: gs.monerorx.com
 :: gs307.com
 :: gs5j7zyhogb53dmqmjfqljsq2ykksm3.spotify.com
 :: gsasolutionssecure.gsa.gov
@@ -97094,6 +97125,7 @@ ff02::2 ip6-allrouters
 :: hassanproduct.com
 :: hastikapubli.club
 :: hastilyantiterrorist.com
+:: hastkargha.com
 :: hatagashira.com
 :: hatcalter.com
 :: hatchord.com
@@ -100823,6 +100855,7 @@ ff02::2 ip6-allrouters
 :: japanshopstyle.com
 :: japsulsa.com
 :: jarailso.com
+:: jardindhelena.com
 :: jarhcvnlj.com
 :: jarproducercane.com
 :: jas.indeednps.com
@@ -106131,6 +106164,7 @@ ff02::2 ip6-allrouters
 :: merriamwebster-d.openx.net
 :: merryemotionally.com
 :: mertlog.com
+:: mertyapit.com
 :: merunexcuses.club
 :: mervetos.com
 :: meryjane.pro
@@ -106715,6 +106749,7 @@ ff02::2 ip6-allrouters
 :: micakidaugust.com
 :: micalle.com.au
 :: michaelphilip.com
+:: michimal2.000webhostapp.com
 :: micmatchi.club
 :: micodigo.com
 :: micorsoft.cc
@@ -109483,6 +109518,7 @@ ff02::2 ip6-allrouters
 :: notify-monad.com
 :: notify-service.com
 :: notify.bugsnag.appstore.a2z.com
+:: notify.bugsnag.com
 :: notify.eset.com
 :: notify.mgid.com
 :: notify.nuviad.com
@@ -110581,6 +110617,7 @@ ff02::2 ip6-allrouters
 :: onlineredirr.com
 :: onlinerewardcenter.com
 :: onlinerotator.net
+:: onlinesgate.com
 :: onlinesnotes.top
 :: onlinewebstat.com
 :: only-humans.xyz
@@ -117623,6 +117660,7 @@ ff02::2 ip6-allrouters
 :: sample-api-v2.crazyegg.com
 :: samriddhijyotish.com
 :: samsclub.112.2o7.net
+:: samsung-com.112.2o7.net
 :: samsung-drivers.xyz
 :: samsung.yaload.ru
 :: samsungacr.com
@@ -118935,6 +118973,7 @@ ff02::2 ip6-allrouters
 :: sessionapihk.veinteractive.com
 :: sessioncam.com
 :: sessionm.com
+:: sessions.bugsnag.com
 :: sessions.exchange
 :: sessionstack.com
 :: sestat.baidu.com
@@ -118950,6 +118989,7 @@ ff02::2 ip6-allrouters
 :: settings-win.data.microsoft.com
 :: settings.crashlytics.com
 :: settings.data.glbdns2.microsoft.com
+:: settings.luckyorange.com
 :: settingsfd-geo.trafficmanager.net
 :: setupad-d.openx.net
 :: setupad.com
@@ -125343,6 +125383,7 @@ ff02::2 ip6-allrouters
 :: tidningsnatet.se
 :: tidyboressire.com
 :: tidydownright.com
+:: tidymasters.com.au
 :: tidytrail.com
 :: tie.247-inc.net
 :: tie.iprom.net
@@ -128794,6 +128835,7 @@ ff02::2 ip6-allrouters
 :: upload-tutelawest.s3-accelerate.amazonaws.com
 :: upload.c.ns.emailvision.net.daraz.com
 :: upload.ksapisrv.com
+:: upload.luckyorange.com
 :: upload.mobpowertech.com
 :: upload.salmonads.com
 :: upload4earn.org
@@ -130411,6 +130453,7 @@ ff02::2 ip6-allrouters
 :: w00ur5z9jy3a.com
 :: w010w.com.cn
 :: w1.extreme-dm.com
+:: w1.luckyorange.com
 :: w11.zhongkaohelp.com
 :: w18.9939.com
 :: w3.flatex.at
@@ -130502,7 +130545,6 @@ ff02::2 ip6-allrouters
 :: wamnetwork.com
 :: wandara113.xyz
 :: wandersongay.ddns.net
-:: wanepliberia.org
 :: wanfukang.cc
 :: wangdaguanli.com
 :: wangdaizao.com
@@ -131404,7 +131446,6 @@ ff02::2 ip6-allrouters
 :: windoorsew.club
 :: window.nixnet.cz
 :: window1.com
-:: windowcafe.biz
 :: windowmentaria.com
 :: windows-pcrepair.com
 :: windows-remora-system.com
@@ -131703,6 +131744,7 @@ ff02::2 ip6-allrouters
 :: wowostar.cn
 :: wowreality.info
 :: woymebsi.com
+:: wozata.000webhostapp.com
 :: wp-monero-miner.de
 :: wp-stats.com
 :: wp.readhere.in
