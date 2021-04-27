@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 # This work is licensed under the CPAL-1.0
 # See: https://shorl.com/vebrubefrubiti
 #
-# ~- Tue Apr 27 03:21:43 AM UTC 2021 -~
+# ~- Tue Apr 27 03:49:21 AM UTC 2021 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -66743,6 +66743,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 youshouge513.cn
 0.0.0.0 youshouldclick.us
 0.0.0.0 youthrenewphyto.com
+0.0.0.0 youtube.cleverads.vn
 0.0.0.0 youtube4kprod.xyz
 0.0.0.0 youutube.gq
 0.0.0.0 youvisit.com
@@ -134314,6 +134315,7 @@ ff02::2 ip6-allrouters
 :: youshouge513.cn
 :: youshouldclick.us
 :: youthrenewphyto.com
+:: youtube.cleverads.vn
 :: youtube4kprod.xyz
 :: youutube.gq
 :: youvisit.com
