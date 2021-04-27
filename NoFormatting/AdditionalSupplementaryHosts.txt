@@ -1948,6 +1948,7 @@
 0.0.0.0 ads.exosrv.com
 0.0.0.0 ads.expat-blog.biz
 0.0.0.0 ads.expekt.com
+0.0.0.0 ads.facebook.com
 0.0.0.0 ads.fairfax.com.au
 0.0.0.0 ads.farakav.com
 0.0.0.0 ads.faxo.com
@@ -4158,6 +4159,7 @@
 0.0.0.0 aszzfjwuzngkao.com
 0.0.0.0 at-2.com
 0.0.0.0 at-o.net
+0.0.0.0 ata-ads.realmemobile.com
 0.0.0.0 atcproje.com
 0.0.0.0 atdmt.com
 0.0.0.0 atech.ne.jp
@@ -4475,6 +4477,7 @@
 0.0.0.0 bcjsoinlsidun3.eu
 0.0.0.0 bclm-es.info
 0.0.0.0 bcloudhost.com
+0.0.0.0 bdapi-in-ads.realmemobile.com
 0.0.0.0 bdv.bidvertiser.com
 0.0.0.0 bdwiki.ru
 0.0.0.0 bea4.cnn.com
@@ -5060,6 +5063,7 @@
 0.0.0.0 cdn.kixer.com
 0.0.0.0 cdn.lodeo.io
 0.0.0.0 cdn.loka.jp
+0.0.0.0 cdn.luckyorange.com
 0.0.0.0 cdn.mdotm.com
 0.0.0.0 cdn.media-a.net
 0.0.0.0 cdn.minescripts.info
@@ -5664,6 +5668,7 @@
 0.0.0.0 cs-gra.pl
 0.0.0.0 cs.adingo.jp
 0.0.0.0 cs.adxpansion.com
+0.0.0.0 cs.luckyorange.com
 0.0.0.0 cs.r-ad.ne.jp
 0.0.0.0 cs126.wpc.edgecastcdn.net
 0.0.0.0 cs126.wpc.teliasoneracdn.net
@@ -6194,8 +6199,8 @@
 0.0.0.0 dynalyst.jp
 0.0.0.0 dynamic.rakuten.co.jp
 0.0.0.0 dynamicrosoft.com
-0.0.0.0 dzizsih.ru
 0.0.0.0 dzc-metrics.mzstatic.com
+0.0.0.0 dzizsih.ru
 0.0.0.0 e-engenering.ru
 0.0.0.0 e-helpingcenterxg.pl
 0.0.0.0 e-mailupgrade.com
@@ -9795,6 +9800,7 @@
 0.0.0.0 notepad2.com
 0.0.0.0 notification-centar.com
 0.0.0.0 notification-time.com
+0.0.0.0 notify.bugsnag.com
 0.0.0.0 notorious.vis1.shinobi.jp
 0.0.0.0 nottepad-plus-plus.org
 0.0.0.0 notz.icu
@@ -11212,6 +11218,7 @@
 0.0.0.0 samaravablog.pw
 0.0.0.0 samaste.net
 0.0.0.0 samsclub.112.2o7.net
+0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 samsung-drivers.xyz
 0.0.0.0 samsungads.com
 0.0.0.0 samuelkerns.com
@@ -11519,9 +11526,11 @@
 0.0.0.0 serving-windows.net
 0.0.0.0 servjces.com
 0.0.0.0 servlce.store
+0.0.0.0 sessions.bugsnag.com
 0.0.0.0 setarebux.ir
 0.0.0.0 setseta.com
 0.0.0.0 settings.crashlytics.com
+0.0.0.0 settings.luckyorange.com
 0.0.0.0 setupdnsbase.cc
 0.0.0.0 sevbizleadservices.com
 0.0.0.0 sevenj.club
@@ -13089,6 +13098,7 @@
 0.0.0.0 upgrade.scdn.com
 0.0.0.0 upgrade.spotify.com
 0.0.0.0 upi.112.2o7.net
+0.0.0.0 upload.luckyorange.com
 0.0.0.0 upload4earn.org
 0.0.0.0 ups.tt.omtrdc.net
 0.0.0.0 ups.virool.com
@@ -13349,6 +13359,7 @@
 0.0.0.0 vwxqv.xyz
 0.0.0.0 w.inmobi.com
 0.0.0.0 w.zenback.jp
+0.0.0.0 w1.luckyorange.com
 0.0.0.0 w3i.com
 0.0.0.0 wa-track.com
 0.0.0.0 wa5to7naa1.a01mt584zk32sw1.ml
