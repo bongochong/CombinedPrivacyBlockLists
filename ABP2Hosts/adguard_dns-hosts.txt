@@ -1,4 +1,4 @@
-# Mon Apr 26 10:24:30 PM UTC 2021
+# Tue Apr 27 08:23:15 AM UTC 2021
 # AdGuard DNS Hosts - Generated weekly by bongochong
 0.0.0.0 00-gov.cn
 0.0.0.0 0024aaaa.com
@@ -1724,7 +1724,6 @@
 0.0.0.0 abstractedamount.com
 0.0.0.0 absurdapple.com
 0.0.0.0 absurdwater.com
-0.0.0.0 abtest.mistat.xiaomi.com
 0.0.0.0 abtest.swrve.com
 0.0.0.0 abtrcking.com
 0.0.0.0 abtshield.com
@@ -1969,6 +1968,7 @@
 0.0.0.0 ad.holmesmind.com
 0.0.0.0 ad.hutor.ru
 0.0.0.0 ad.icheck.com.vn
+0.0.0.0 ad.intl.xiaomi.com
 0.0.0.0 ad.iplayer.org
 0.0.0.0 ad.jamba.net
 0.0.0.0 ad.jamba.pt
@@ -2035,6 +2035,7 @@
 0.0.0.0 ad.wsod.com
 0.0.0.0 ad.wurangxian.top
 0.0.0.0 ad.wynk.in
+0.0.0.0 ad.xiaomi.com
 0.0.0.0 ad.yemeksepeti.com
 0.0.0.0 ad.yieldpartners.com
 0.0.0.0 ad.zima.kg
@@ -2955,6 +2956,7 @@
 0.0.0.0 adscustsrv.com
 0.0.0.0 adsdk.com
 0.0.0.0 adsdk.vrvm.com
+0.0.0.0 adsdk.yandex.ru
 0.0.0.0 adsdot.ph
 0.0.0.0 adsee.jp
 0.0.0.0 adselector.ru
@@ -4236,6 +4238,7 @@
 0.0.0.0 analyticapi.piri.net
 0.0.0.0 analyticcdn.globalmailer.com
 0.0.0.0 analytics-api.a-f.io
+0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 analytics-api.smzdm.com
 0.0.0.0 analytics-cdiscount.com
 0.0.0.0 analytics-cms.whitebeard.me
@@ -4314,6 +4317,7 @@
 0.0.0.0 analytics.electro-com.ru
 0.0.0.0 analytics.erepublic.com
 0.0.0.0 analytics.explus.vn
+0.0.0.0 analytics.facebook.com
 0.0.0.0 analytics.fairfax.com.au
 0.0.0.0 analytics.favcy.com
 0.0.0.0 analytics.faw.sky.com
@@ -4379,8 +4383,10 @@
 0.0.0.0 analytics.paddle.com
 0.0.0.0 analytics.performable.com
 0.0.0.0 analytics.piksel.com
+0.0.0.0 analytics.pinterest.com
 0.0.0.0 analytics.plaid.com
 0.0.0.0 analytics.plex.tv
+0.0.0.0 analytics.pointdrive.linkedin.com
 0.0.0.0 analytics.posttv.com
 0.0.0.0 analytics.praetor.im
 0.0.0.0 analytics.prezly.com
@@ -4402,6 +4408,7 @@
 0.0.0.0 analytics.rogersmedia.com
 0.0.0.0 analytics.rotapost.ru
 0.0.0.0 analytics.salesanalytics.io
+0.0.0.0 analytics.samsungknox.com
 0.0.0.0 analytics.sanoma.fi
 0.0.0.0 analytics.schoolwires.com
 0.0.0.0 analytics.services.distractify.com
@@ -4667,8 +4674,6 @@
 0.0.0.0 api.140proof.com
 0.0.0.0 api.557400.com
 0.0.0.0 api.ad-locus.com
-0.0.0.0 api.ad.intl.xiaomi.com
-0.0.0.0 api.ad.xiaomi.com
 0.0.0.0 api.adintext.net
 0.0.0.0 api.adnet.mob.com
 0.0.0.0 api.adnsafe.org
@@ -4750,6 +4755,7 @@
 0.0.0.0 app-trackings.com
 0.0.0.0 app.adjust.io
 0.0.0.0 app.airtrack.jp
+0.0.0.0 app.chat.xiaomi.net
 0.0.0.0 app.crossengage.io
 0.0.0.0 app.gelirartisi.com
 0.0.0.0 app.hstatic.net
@@ -6353,6 +6359,7 @@
 0.0.0.0 bigcook.xyz
 0.0.0.0 bigcoon.xyz
 0.0.0.0 bigdata.riamedia.com.ua
+0.0.0.0 bigdata.ssp.samsung.com
 0.0.0.0 bigdate.biz
 0.0.0.0 bigfineads.com
 0.0.0.0 biggbossseason11.com
@@ -10248,9 +10255,9 @@
 0.0.0.0 data.alexa.com
 0.0.0.0 data.circulate.com
 0.0.0.0 data.econa.com
+0.0.0.0 data.hicloud.com
 0.0.0.0 data.imakenews.com
 0.0.0.0 data.minute.ly
-0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 data.neosmi.ru
 0.0.0.0 data.neuroxmedia.com
 0.0.0.0 data.permittingnorthlandseamen.info
@@ -12677,6 +12684,7 @@
 0.0.0.0 external-promo-metrics.yandex.net
 0.0.0.0 externalmedia.ru
 0.0.0.0 extfiles.net
+0.0.0.0 extmaps-api.yandex.net
 0.0.0.0 extole.com
 0.0.0.0 extole.io
 0.0.0.0 extra33.com
@@ -14487,7 +14495,6 @@
 0.0.0.0 globaladmedia.net
 0.0.0.0 globaladsales.com
 0.0.0.0 globaladv.net
-0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 globalinteractive.com
 0.0.0.0 globalsiteanalytics.com
 0.0.0.0 globalstars.ru
@@ -16814,6 +16821,7 @@
 0.0.0.0 insightgrit.com
 0.0.0.0 insights.algolia.io
 0.0.0.0 insights.plista.com
+0.0.0.0 insights.samsung.com
 0.0.0.0 insights.sitesearch360.com
 0.0.0.0 insigit.com
 0.0.0.0 insitemetrics.com
@@ -19354,6 +19362,7 @@
 0.0.0.0 loganaut.com
 0.0.0.0 logapi.misa.com.vn
 0.0.0.0 logapi.tv.naver.com
+0.0.0.0 logbak.hicloud.com
 0.0.0.0 logbor.com
 0.0.0.0 logcol.kyobobook.co.kr
 0.0.0.0 logcollector.viewster.com
@@ -19420,6 +19429,8 @@
 0.0.0.0 logs1.reatimes.vn
 0.0.0.0 logsbin.dantri.com.vn
 0.0.0.0 logscafef.channelvn.net
+0.0.0.0 logservice.hicloud.com
+0.0.0.0 logservice1.hicloud.com
 0.0.0.0 logsink.zedge.net
 0.0.0.0 logsobtainedprediction.com
 0.0.0.0 logsoc.ru
@@ -20495,6 +20506,7 @@
 0.0.0.0 metrics-api.librato.com
 0.0.0.0 metrics-broker.prod.p.tf1.fr
 0.0.0.0 metrics-cbslocal-com.cdn.ampproject.org
+0.0.0.0 metrics-dra.dt.hicloud.com
 0.0.0.0 metrics-logger.spot.im
 0.0.0.0 metrics.apartments.com
 0.0.0.0 metrics.api.drift.com
@@ -20515,10 +20527,12 @@
 0.0.0.0 metrics.foxnews.com
 0.0.0.0 metrics.getvitals.io
 0.0.0.0 metrics.happycolor.app
+0.0.0.0 metrics.icloud.com
 0.0.0.0 metrics.infranken.de
 0.0.0.0 metrics.io
 0.0.0.0 metrics.macys.net
 0.0.0.0 metrics.makemytrip.com
+0.0.0.0 metrics.mzstatic.com
 0.0.0.0 metrics.n-tv.de
 0.0.0.0 metrics.news.com.au
 0.0.0.0 metrics.pacsun.com
@@ -20740,6 +20754,7 @@
 0.0.0.0 misslk.com
 0.0.0.0 missrich.net
 0.0.0.0 mistakemargarineprimrose.com
+0.0.0.0 mistat.xiaomi.com
 0.0.0.0 mistletoecaliberdecency.com
 0.0.0.0 mistletoeethicleak.com
 0.0.0.0 mistressavouchdeity.com
@@ -23028,6 +23043,7 @@
 0.0.0.0 opekoobs.net
 0.0.0.0 open-up.it
 0.0.0.0 open.delivery.net
+0.0.0.0 open.oneplus.net
 0.0.0.0 openads.ab-daily.by
 0.0.0.0 openadserving.com
 0.0.0.0 openbook.net
@@ -26439,6 +26455,7 @@
 0.0.0.0 requestmetrics.com
 0.0.0.0 requiresdetached.com
 0.0.0.0 requivalfun.club
+0.0.0.0 rereddit.com
 0.0.0.0 rereegny.net
 0.0.0.0 reroplittrewheck.pro
 0.0.0.0 res.rbl.ms
@@ -27254,6 +27271,7 @@
 0.0.0.0 s99i.org
 0.0.0.0 s9w.cc
 0.0.0.0 sa.aol.com
+0.0.0.0 sa.api.intl.miui.com
 0.0.0.0 sa.bbc.co.uk
 0.0.0.0 sa.bbc.com
 0.0.0.0 sa.entireweb.com
@@ -27345,6 +27363,7 @@
 0.0.0.0 samestretch.com
 0.0.0.0 samiana.com
 0.0.0.0 samplerpouch.com
+0.0.0.0 samsungadhub.com
 0.0.0.0 samsungads.com
 0.0.0.0 samsungtvads.com
 0.0.0.0 samtrg.com
@@ -27582,8 +27601,6 @@
 0.0.0.0 sdk.starbolt.io
 0.0.0.0 sdk.stats-locations.com
 0.0.0.0 sdk.zadn.vn
-0.0.0.0 sdkconfig.ad.intl.xiaomi.com
-0.0.0.0 sdkconfig.ad.xiaomi.com
 0.0.0.0 sdkfjxjertertry.com
 0.0.0.0 sdklogs.avocarrot.com
 0.0.0.0 sdks.stats-locations.com
@@ -28000,6 +28017,7 @@
 0.0.0.0 shareste.top
 0.0.0.0 sharethrough.com
 0.0.0.0 sharieta.com
+0.0.0.0 sharilon.site
 0.0.0.0 sharks.vn
 0.0.0.0 sharppatch.com
 0.0.0.0 sharpspring.com
@@ -29291,6 +29309,7 @@
 0.0.0.0 stat.ws.126.net
 0.0.0.0 stat.www.fi
 0.0.0.0 stat.xhamsterpremium.com
+0.0.0.0 stat.xiaomi.com
 0.0.0.0 stat.youku.com
 0.0.0.0 stat24.com
 0.0.0.0 stat24.meta.ua
@@ -29919,6 +29938,7 @@
 0.0.0.0 supply.upjers.com
 0.0.0.0 supplyglossailment.com
 0.0.0.0 supportiveimpassableevasion.com
+0.0.0.0 supportmetrics.apple.com
 0.0.0.0 supportxmr.com
 0.0.0.0 supreme-hunter.com
 0.0.0.0 supremish.club
@@ -31813,6 +31833,7 @@
 0.0.0.0 trackingapi.meinprospekt.de
 0.0.0.0 trackinglabs.com
 0.0.0.0 trackingpro.pro
+0.0.0.0 trackingshipment.apple.com
 0.0.0.0 trackingsltns.click
 0.0.0.0 trackingvn.zingplay.com
 0.0.0.0 trackingzen.com
@@ -34393,6 +34414,7 @@
 0.0.0.0 widgets.lendingtree.com
 0.0.0.0 widgets.mobilelocalnews.com
 0.0.0.0 widgets.mozo.com.au
+0.0.0.0 widgets.pinterest.com
 0.0.0.0 widgets.planeta.ru
 0.0.0.0 widgets.privateproperty.com.ng
 0.0.0.0 widgets.progrids.com
@@ -35245,6 +35267,7 @@
 0.0.0.0 xunzhuo123.com
 0.0.0.0 xuossk3tu6hb.com
 0.0.0.0 xuro006.com
+0.0.0.0 xuthid.com
 0.0.0.0 xuveiai.ru
 0.0.0.0 xuxiangkj.com
 0.0.0.0 xuyssur.cn
@@ -36023,7 +36046,6 @@
 0.0.0.0 zetamm.com
 0.0.0.0 zeti.com
 0.0.0.0 zetrade.net
-0.0.0.0 zeus.ad.intl.xiaomi.com
 0.0.0.0 zeustechnology.com
 0.0.0.0 zeuuwb.com
 0.0.0.0 zewkj.com
