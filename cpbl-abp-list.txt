@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Fri Apr 30 10:42:50 PM UTC 2021
+! Updated: Fri Apr 30 11:43:58 PM UTC 2021
 ! Expires: 7 Days
 ! License: https://git.io/JTTLW
 ! Homepage: https://git.io/JTTLB
@@ -1772,6 +1772,7 @@
 ||61739011039d41a.com^
 ||61861486484.ru^
 ||6198399e4910e66-ovc.com^
+||61kx.uk-insolvencydirect.com^
 ||620c663bca9a4.com^
 ||623762.com^
 ||625c9289e60793.com^
@@ -4686,6 +4687,7 @@
 ||adelement.com^
 ||adelixir.com^
 ||ademails.com^
+||adenabler.com^
 ||adenc.co.kr^
 ||adengage.com^
 ||adentifi.com^
@@ -12515,6 +12517,7 @@
 ||azuviraza.com^
 ||azvjudwr.info^
 ||azvozac.ru^
+||azwancan.trafficmanager.net^
 ||azxsd.pro^
 ||azyda.ru^
 ||azzpbn.com^
@@ -18818,6 +18821,7 @@
 ||coachquartz.com^
 ||coads.akipress.org^
 ||coadvertise.com^
+||coaha.frenchgerlemanelectric.com^
 ||coalimpex.com^
 ||coaphauk.net^
 ||coastsoak.com^
@@ -23688,6 +23692,7 @@
 ||dodolive.cn^
 ||dodomo.info^
 ||dodsonimaging.com^
+||dofeb.frenchgerlemanelectric.com^
 ||dofkfhv.cn^
 ||doflygonan.com^
 ||dofuskamas-generateur.com^
@@ -35459,6 +35464,11 @@
 ||hzzevwlmjji.com^
 ||hzzfan.com^
 ||i-adv.biz^
+||i-am3p-cor001.api.p001.1drv.com^
+||i-am3p-cor002.api.p001.1drv.com^
+||i-am3p-cor003.api.p001.1drv.com^
+||i-am3p-cor004.api.p001.1drv.com^
+||i-am3p-cor005.api.p001.1drv.com^
 ||i-awazpeople25.pl^
 ||i-bl6p-cor001.api.p001.1drv.com^
 ||i-bl6p-cor002.api.p001.1drv.com^
@@ -35474,6 +35484,11 @@
 ||i-clicks.net^
 ||i-cooker.com^
 ||i-dating.info^
+||i-db3p-cor001.api.p001.1drv.com^
+||i-db3p-cor002.api.p001.1drv.com^
+||i-db3p-cor003.api.p001.1drv.com^
+||i-db3p-cor004.api.p001.1drv.com^
+||i-db3p-cor005.api.p001.1drv.com^
 ||i-generation.jp^
 ||i-glogger.ru^
 ||i-i.lt^
@@ -37705,6 +37720,7 @@
 ||itgpll.com^
 ||ithinkthereforeiam.net^
 ||ithoahie.com^
+||ithyk.frenchgerlemanelectric.com^
 ||itim.vn^
 ||itinerarymonarchy.com^
 ||itineraryupper.com^
@@ -38782,6 +38798,7 @@
 ||judgementinvincible.com^
 ||judicated.com^
 ||judicialance.com^
+||juedische-kammerphilharmonie.de^
 ||juegos-hack.info^
 ||juegoshackeados.info^
 ||juejdkio.com^
@@ -49457,6 +49474,7 @@
 ||oathhillsidetile.com^
 ||oauth.datorama.com^
 ||oavaidan.com^
+||oawoo.frenchgerlemanelectric.com^
 ||oaxpcohp.com^
 ||obada-konstruktiwa.org^
 ||obahet.com^
@@ -51356,6 +51374,7 @@
 ||papoto.com^
 ||pappagallu.onefootball.com^
 ||paqiqqjmmo.com^
+||par02p.wns.windows.com^
 ||para-new.com^
 ||parabit.ru^
 ||parabolla.net^
@@ -58317,6 +58336,7 @@
 ||safestteacherwaiting.com^
 ||safetexgroup.tk^
 ||safetimes.biz^
+||safety.amw.com^
 ||safety.nanotechproautocare.com^
 ||safety1connection.com^
 ||safetytrade.net^
@@ -61016,6 +61036,7 @@
 ||slimxxxtubebgp.ddns.name^
 ||slimxxxtubebnd.ddns.name^
 ||slimxxxtubecgl.ddns.name^
+||slimxxxtubectk.dnset.com^
 ||slimxxxtubecty.ddns.name^
 ||slimxxxtubeczp.ddns.name^
 ||slimxxxtubedjm.ddns.name^
@@ -61024,13 +61045,16 @@
 ||slimxxxtubedxc.ddns.name^
 ||slimxxxtubedya.ddns.name^
 ||slimxxxtubeejs.ddns.name^
+||slimxxxtubeemz.dnset.com^
 ||slimxxxtubefdr.ddns.name^
 ||slimxxxtubefel.ddns.name^
 ||slimxxxtubeftb.dnset.com^
 ||slimxxxtubefzc.ddns.name^
 ||slimxxxtubehan.ddns.name^
+||slimxxxtubehdn.dnset.com^
 ||slimxxxtubehli.dnset.com^
 ||slimxxxtubeidv.ddns.name^
+||slimxxxtubeijc.dnset.com^
 ||slimxxxtubeiqb.dnset.com^
 ||slimxxxtubejlp.ddns.name^
 ||slimxxxtubejpe.ddns.name^
@@ -61053,24 +61077,30 @@
 ||slimxxxtubenqp.ddns.name^
 ||slimxxxtubentf.dnset.com^
 ||slimxxxtubeocr.dnset.com^
+||slimxxxtubeonf.dnset.com^
 ||slimxxxtubeopy.ddns.name^
 ||slimxxxtubeoxo.ddns.name^
 ||slimxxxtubeoxy.ddns.name^
 ||slimxxxtubeppj.dnset.com^
 ||slimxxxtubeqfo.ddns.name^
 ||slimxxxtubeqsh.ddns.name^
+||slimxxxtubeqve.dnset.com^
 ||slimxxxtuberau.ddns.name^
 ||slimxxxtuberea.ddns.name^
 ||slimxxxtuberfe.dnset.com^
 ||slimxxxtuberjj.ddns.name^
 ||slimxxxtuberme.dnset.com^
+||slimxxxtuberue.dnset.com^
 ||slimxxxtubesrs.dnset.com^
 ||slimxxxtubesrw.ddns.name^
 ||slimxxxtubesun.ddns.name^
 ||slimxxxtubetmf.ddns.name^
 ||slimxxxtubetmg.dnset.com^
 ||slimxxxtubetns.ddns.name^
+||slimxxxtubetts.dnset.com^
 ||slimxxxtubeujh.ddns.name^
+||slimxxxtubeull.dnset.com^
+||slimxxxtubeuvd.dnset.com^
 ||slimxxxtubevdn.ddns.name^
 ||slimxxxtubevih.dnset.com^
 ||slimxxxtubevjk.ddns.name^
@@ -70920,6 +70950,7 @@
 ||tube-xnxx.com^
 ||tube.ac^
 ||tube8vidsbhy.dnset.com^
+||tube8vidsbzx.dnset.com^
 ||tube8vidscjk.ddns.name^
 ||tube8vidscqs.ddns.name^
 ||tube8vidscut.ddns.name^
@@ -70930,6 +70961,7 @@
 ||tube8vidshrw.dnset.com^
 ||tube8vidsiet.ddns.name^
 ||tube8vidsiww.ddns.name^
+||tube8vidsjac.dnset.com^
 ||tube8vidsjan.ddns.name^
 ||tube8vidsjhn.ddns.name^
 ||tube8vidsjtq.ddns.name^
@@ -70939,25 +70971,32 @@
 ||tube8vidsnlq.dnset.com^
 ||tube8vidsnrt.ddns.name^
 ||tube8vidsnvd.ddns.name^
+||tube8vidsnyp.dnset.com^
 ||tube8vidsolh.ddns.name^
+||tube8vidsotz.dnset.com^
 ||tube8vidspeq.ddns.name^
 ||tube8vidsqof.ddns.name^
 ||tube8vidsrau.dnset.com^
 ||tube8vidsrdr.dnset.com^
 ||tube8vidsrhl.ddns.name^
+||tube8vidssan.dnset.com^
 ||tube8vidssjw.ddns.name^
 ||tube8vidssyg.dnset.com^
 ||tube8vidstrh.dnset.com^
 ||tube8vidstyp.ddns.name^
+||tube8vidsuty.dnset.com^
 ||tube8vidsvcs.ddns.name^
 ||tube8vidsvmr.ddns.name^
 ||tube8vidsvrx.ddns.name^
+||tube8vidsvtp.dnset.com^
+||tube8vidswsy.dnset.com^
 ||tube8vidswtb.ddns.name^
 ||tube8vidswys.ddns.name^
 ||tube8vidsxlo.ddns.name^
 ||tube8vidsxmx.dnset.com^
 ||tube8vidsxpg.ddns.name^
 ||tube8vidsxwu.ddns.name^
+||tube8vidsycs.dnset.com^
 ||tube8vidsyip.ddns.name^
 ||tube8vidsyre.dnset.com^
 ||tube8vidszmi.ddns.name^
@@ -74438,6 +74477,7 @@
 ||websfarm.org^
 ||websharks.ru^
 ||website-hit-counters.com^
+||websitebuildersinfo.in^
 ||websiteceo.com^
 ||websitecom.us^
 ||websitehackz.net^
@@ -76989,6 +77029,7 @@
 ||xoredi.com^
 ||xorgwebs.webs.com^
 ||xorody.ru^
+||xotsa.frenchgerlemanelectric.com^
 ||xouzmvlt.com^
 ||xovq5nemr.com^
 ||xoxbxd.opus-fashion.com^
