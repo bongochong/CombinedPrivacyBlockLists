@@ -1,4 +1,4 @@
-# Tue Apr 27 08:23:17 AM UTC 2021
+# Fri Apr 30 10:29:09 PM UTC 2021
 # Spam404 Hosts - Generated weekly by bongochong
 0.0.0.0 001www.com
 0.0.0.0 0daygameparadise.com
@@ -665,6 +665,7 @@
 0.0.0.0 btcgen.info
 0.0.0.0 btcxadder.com
 0.0.0.0 bthacks.us
+0.0.0.0 btt-ceo.com
 0.0.0.0 buddydocument.com
 0.0.0.0 buddyhacker.com
 0.0.0.0 budgetwizard.io
@@ -3670,6 +3671,7 @@
 0.0.0.0 giveawayskins.online
 0.0.0.0 givehack.com
 0.0.0.0 givemecheats.com
+0.0.0.0 givesbnb.com
 0.0.0.0 giveskins4you.fun
 0.0.0.0 giveway-st4ck.site
 0.0.0.0 glassgrip.biz
@@ -4999,6 +5001,7 @@
 0.0.0.0 lowifox.ru
 0.0.0.0 loxtk.com
 0.0.0.0 ltc-airdrop.org
+0.0.0.0 ltcdrop.com
 0.0.0.0 lucky-cases.org
 0.0.0.0 lucky-loot.com
 0.0.0.0 luckybox.pro
@@ -5261,6 +5264,7 @@
 0.0.0.0 mol.cheatsplanet.net
 0.0.0.0 mol.haxdo.com
 0.0.0.0 mondodeitrucchi.net
+0.0.0.0 moneroceo.com
 0.0.0.0 moneyisecondgod.com
 0.0.0.0 monjeuconcoursassurancedirexi.fr
 0.0.0.0 monplacementmalin.com
