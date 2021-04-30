@@ -1427,6 +1427,7 @@
 0.0.0.0 addressbooklocater.net
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 adelaidemotorshow.com.au
+0.0.0.0 adenabler.com
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 adexchangeguru.com
 0.0.0.0 adf.fc2.com
