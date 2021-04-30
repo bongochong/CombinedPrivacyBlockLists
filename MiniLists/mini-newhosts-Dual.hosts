@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 # This work is licensed under the CPAL-1.0
 # See: https://shorl.com/vebrubefrubiti
 #
-# ~- Fri Apr 30 10:41:24 PM UTC 2021 -~
+# ~- Fri Apr 30 11:41:47 PM UTC 2021 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -4748,6 +4748,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 adelixir.com
 0.0.0.0 adelphic-partners.tremorhub.com
 0.0.0.0 ademails.com
+0.0.0.0 adenabler.com
 0.0.0.0 adenc.co.kr
 0.0.0.0 adengage.com
 0.0.0.0 adentifi.com
@@ -12928,6 +12929,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 azureus.es
 0.0.0.0 azuviraza.com
 0.0.0.0 azvjudwr.info
+0.0.0.0 azwancan.trafficmanager.net
 0.0.0.0 azyda.ru
 0.0.0.0 b-1st.com
 0.0.0.0 b-aws.aol.com
@@ -31672,6 +31674,11 @@ ff02::2 ip6-allrouters
 0.0.0.0 hzzevwlmjji.com
 0.0.0.0 hzzfan.com
 0.0.0.0 i-adv.biz
+0.0.0.0 i-am3p-cor001.api.p001.1drv.com
+0.0.0.0 i-am3p-cor002.api.p001.1drv.com
+0.0.0.0 i-am3p-cor003.api.p001.1drv.com
+0.0.0.0 i-am3p-cor004.api.p001.1drv.com
+0.0.0.0 i-am3p-cor005.api.p001.1drv.com
 0.0.0.0 i-awazpeople25.pl
 0.0.0.0 i-bl6p-cor001.api.p001.1drv.com
 0.0.0.0 i-bl6p-cor002.api.p001.1drv.com
@@ -31686,6 +31693,11 @@ ff02::2 ip6-allrouters
 0.0.0.0 i-ch1-cor002.api.p001.1drv.com
 0.0.0.0 i-clicks.net
 0.0.0.0 i-dating.info
+0.0.0.0 i-db3p-cor001.api.p001.1drv.com
+0.0.0.0 i-db3p-cor002.api.p001.1drv.com
+0.0.0.0 i-db3p-cor003.api.p001.1drv.com
+0.0.0.0 i-db3p-cor004.api.p001.1drv.com
+0.0.0.0 i-db3p-cor005.api.p001.1drv.com
 0.0.0.0 i-generation.jp
 0.0.0.0 i-glogger.ru
 0.0.0.0 i-hacked.us.intellitxt.com
@@ -44712,6 +44724,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 paqiqqjmmo.com
 0.0.0.0 par.vip.prod.criteo.com
 0.0.0.0 par.vip.prod.criteo.net
+0.0.0.0 par02p.wns.windows.com
 0.0.0.0 para-new.com
 0.0.0.0 parade.122.2o7.net
 0.0.0.0 paradisebux.com
@@ -73047,6 +73060,7 @@ ff02::2 ip6-allrouters
 :: adelixir.com
 :: adelphic-partners.tremorhub.com
 :: ademails.com
+:: adenabler.com
 :: adenc.co.kr
 :: adengage.com
 :: adentifi.com
@@ -81227,6 +81241,7 @@ ff02::2 ip6-allrouters
 :: azureus.es
 :: azuviraza.com
 :: azvjudwr.info
+:: azwancan.trafficmanager.net
 :: azyda.ru
 :: b-1st.com
 :: b-aws.aol.com
@@ -99971,6 +99986,11 @@ ff02::2 ip6-allrouters
 :: hzzevwlmjji.com
 :: hzzfan.com
 :: i-adv.biz
+:: i-am3p-cor001.api.p001.1drv.com
+:: i-am3p-cor002.api.p001.1drv.com
+:: i-am3p-cor003.api.p001.1drv.com
+:: i-am3p-cor004.api.p001.1drv.com
+:: i-am3p-cor005.api.p001.1drv.com
 :: i-awazpeople25.pl
 :: i-bl6p-cor001.api.p001.1drv.com
 :: i-bl6p-cor002.api.p001.1drv.com
@@ -99985,6 +100005,11 @@ ff02::2 ip6-allrouters
 :: i-ch1-cor002.api.p001.1drv.com
 :: i-clicks.net
 :: i-dating.info
+:: i-db3p-cor001.api.p001.1drv.com
+:: i-db3p-cor002.api.p001.1drv.com
+:: i-db3p-cor003.api.p001.1drv.com
+:: i-db3p-cor004.api.p001.1drv.com
+:: i-db3p-cor005.api.p001.1drv.com
 :: i-generation.jp
 :: i-glogger.ru
 :: i-hacked.us.intellitxt.com
@@ -113011,6 +113036,7 @@ ff02::2 ip6-allrouters
 :: paqiqqjmmo.com
 :: par.vip.prod.criteo.com
 :: par.vip.prod.criteo.net
+:: par02p.wns.windows.com
 :: para-new.com
 :: parade.122.2o7.net
 :: paradisebux.com
