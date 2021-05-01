@@ -70,6 +70,7 @@ localhost$
 ^0.0.0.0 amzn.to$
 ^0.0.0.0 analytics.archive.org$
 ^0.0.0.0 ancestry.com$
+^0.0.0.0 android.clients.google.com$
 ^0.0.0.0 angularjs.org$
 ^0.0.0.0 ap.spotify.com$
 ^0.0.0.0 api-global.netflix.com$
@@ -160,6 +161,8 @@ localhost$
 ^0.0.0.0 choice.microsoft.com$
 ^0.0.0.0 chrome.google.com$
 ^0.0.0.0 clamav.net$
+^0.0.0.0 click.bible.com$
+^0.0.0.0 click.drizly.com$
 ^0.0.0.0 click.e.affirm.com$
 ^0.0.0.0 click.e.progressive.com$
 ^0.0.0.0 click.e.tdbank.com$
@@ -170,8 +173,6 @@ localhost$
 ^0.0.0.0 click.email.soundhound.com$
 ^0.0.0.0 click.emails.creditonebank.com$
 ^0.0.0.0 click.engage.xbox.com$
-^0.0.0.0 click.bible.com$
-^0.0.0.0 click.drizly.com$
 ^0.0.0.0 click.instacartemail.com$
 ^0.0.0.0 click.official.nike.com$
 ^0.0.0.0 click.oneplus.cn$
@@ -476,8 +477,8 @@ localhost$
 ^0.0.0.0 sevenforums.com$
 ^0.0.0.0 shavar.services.mozilla.com$
 ^0.0.0.0 shop.rewe-static.de$
-^0.0.0.0 shortpixel.ai$
 ^0.0.0.0 shorl.com$
+^0.0.0.0 shortpixel.ai$
 ^0.0.0.0 signal.art$
 ^0.0.0.0 signal.org$
 ^0.0.0.0 signalcaptchas.org$
@@ -555,6 +556,8 @@ localhost$
 ^0.0.0.0 usps.com$
 ^0.0.0.0 v.w-x.co$
 ^0.0.0.0 vanilla.futurecdn.net$
+^0.0.0.0 videos.vidible.tv$
+^0.0.0.0 vidible.tv$
 ^0.0.0.0 virtualearth.net$
 ^0.0.0.0 vms.bluebillywig.com$
 ^0.0.0.0 void.gr$
@@ -565,6 +568,7 @@ localhost$
 ^0.0.0.0 webmd.com$
 ^0.0.0.0 wellsfargobankna.demdex.net$
 ^0.0.0.0 whispersystems.org$
+^0.0.0.0 widget-cdn.rpxnow.com$
 ^0.0.0.0 winhelp2002.mvps.org$
 ^0.0.0.0 wix.com$
 ^0.0.0.0 ws.audioscrobbler.com$
@@ -614,6 +618,7 @@ localhost$
 ^0.0.0.0 www.travelzoo.com$
 ^0.0.0.0 www.tvaddons.ag$
 ^0.0.0.0 www.urbanairship.com$
+^0.0.0.0 www.vidible.tv$
 ^0.0.0.0 www.void.gr$
 ^0.0.0.0 www.xda-developers.com$
 ^0.0.0.0 www.youtube-nocookie.com$

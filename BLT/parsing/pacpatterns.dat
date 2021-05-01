@@ -50,6 +50,7 @@
 ^amzn.to$
 ^analytics.archive.org$
 ^ancestry.com$
+^android.clients.google.com$
 ^angularjs.org$
 ^ap.spotify.com$
 ^api-global.netflix.com$
@@ -140,6 +141,8 @@
 ^choice.microsoft.com$
 ^chrome.google.com$
 ^clamav.net$
+^click.bible.com$
+^click.drizly.com$
 ^click.e.affirm.com$
 ^click.e.progressive.com$
 ^click.e.tdbank.com$
@@ -150,8 +153,6 @@
 ^click.email.soundhound.com$
 ^click.emails.creditonebank.com$
 ^click.engage.xbox.com$
-^click.bible.com$
-^click.drizly.com$
 ^click.instacartemail.com$
 ^click.official.nike.com$
 ^click.oneplus.cn$
@@ -456,8 +457,8 @@
 ^sevenforums.com$
 ^shavar.services.mozilla.com$
 ^shop.rewe-static.de$
-^shortpixel.ai$
 ^shorl.com$
+^shortpixel.ai$
 ^signal.art$
 ^signal.org$
 ^signalcaptchas.org$
@@ -535,6 +536,8 @@
 ^usps.com$
 ^v.w-x.co$
 ^vanilla.futurecdn.net$
+^videos.vidible.tv$
+^vidible.tv$
 ^virtualearth.net$
 ^vms.bluebillywig.com$
 ^void.gr$
@@ -545,6 +548,7 @@
 ^webmd.com$
 ^wellsfargobankna.demdex.net$
 ^whispersystems.org$
+^widget-cdn.rpxnow.com$
 ^winhelp2002.mvps.org$
 ^wix.com$
 ^ws.audioscrobbler.com$
@@ -594,6 +598,7 @@
 ^www.travelzoo.com$
 ^www.tvaddons.ag$
 ^www.urbanairship.com$
+^www.vidible.tv$
 ^www.void.gr$
 ^www.xda-developers.com$
 ^www.youtube-nocookie.com$
