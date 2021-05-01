@@ -10779,7 +10779,6 @@
 0.0.0.0 optimize.adpushup.com
 0.0.0.0 optimost.112.2o7.net
 0.0.0.0 optout3.adaptv.advertising.com
-0.0.0.0 oracle.112.2o7.net
 0.0.0.0 oraclecom.112.2o7.net
 0.0.0.0 oracleglobal.112.2o7.net
 0.0.0.0 orange-fr.adinfuse.com
@@ -11278,7 +11277,6 @@
 0.0.0.0 printerplasma.com
 0.0.0.0 printnow.club
 0.0.0.0 prioritywireless.club
-0.0.0.0 prisacom.112.2o7.net
 0.0.0.0 prisacom.sc.omtrdc.net
 0.0.0.0 prism.pandora.tv
 0.0.0.0 priv112.com
