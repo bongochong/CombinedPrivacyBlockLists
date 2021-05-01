@@ -1,4 +1,4 @@
-# Fri Apr 30 11:35:53 PM UTC 2021
+# Sat May  1 01:20:40 AM UTC 2021
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 00-gov.cn
 0.0.0.0 0024aaaa.com
@@ -13938,6 +13938,7 @@
 0.0.0.0 far-far-star.com
 0.0.0.0 faracoon.com
 0.0.0.0 farantitid.racing
+0.0.0.0 farcdnf.com
 0.0.0.0 farehitchlower.icu
 0.0.0.0 farethief.com
 0.0.0.0 farfarida.com
@@ -25878,6 +25879,7 @@
 0.0.0.0 ohndsplu.com
 0.0.0.0 ohnooo.ru
 0.0.0.0 ohodsplu.com
+0.0.0.0 ohpdsplu.com
 0.0.0.0 ohrdsplu.com
 0.0.0.0 ohsatum.info
 0.0.0.0 ohsyat.jdsports.it

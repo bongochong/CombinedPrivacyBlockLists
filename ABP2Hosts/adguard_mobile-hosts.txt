@@ -1,4 +1,4 @@
-# Fri Apr 30 11:35:37 PM UTC 2021
+# Sat May  1 01:20:24 AM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -9242,7 +9242,6 @@
 0.0.0.0 whitelabel.media.net
 0.0.0.0 whos.amung.us
 0.0.0.0 widespace.com
-0.0.0.0 widget-cdn.rpxnow.com
 0.0.0.0 widget-pixels.outbrain.com
 0.0.0.0 widget.am5.vip.prod.criteo.com
 0.0.0.0 widget.as.criteo.com
