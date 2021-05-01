@@ -1,4 +1,4 @@
-// **** Fri Apr 30 11:38:44 PM UTC 2021
+// **** Sat May  1 01:33:55 AM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -16114,7 +16114,6 @@ shExpMatch(host, '*.videostecas.com') ||
 shExpMatch(host, '*.videostreaming.rs') ||
 shExpMatch(host, '*.videosup.us') ||
 shExpMatch(host, '*.vidhaze.com') ||
-shExpMatch(host, '*.vidible.tv') ||
 shExpMatch(host, '*.vidora.com') ||
 shExpMatch(host, '*.vidpromoter.com') ||
 shExpMatch(host, '*.vidupe.ru') ||
@@ -33547,7 +33546,6 @@ shExpMatch(host, 'videostecas.com') ||
 shExpMatch(host, 'videostreaming.rs') ||
 shExpMatch(host, 'videosup.us') ||
 shExpMatch(host, 'vidhaze.com') ||
-shExpMatch(host, 'vidible.tv') ||
 shExpMatch(host, 'vidora.com') ||
 shExpMatch(host, 'vidpromoter.com') ||
 shExpMatch(host, 'vidupe.ru') ||
