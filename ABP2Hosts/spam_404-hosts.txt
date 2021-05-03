@@ -1,4 +1,4 @@
-# Sat May  1 01:21:06 AM UTC 2021
+# Mon May  3 11:12:42 PM UTC 2021
 # Spam404 Hosts - Generated weekly by bongochong
 0.0.0.0 001www.com
 0.0.0.0 0daygameparadise.com
@@ -693,6 +693,7 @@
 0.0.0.0 bzupload.com
 0.0.0.0 c100.rxhealthprescriptions.com
 0.0.0.0 c102.pharmacyalberta.com
+0.0.0.0 c2bit.mu
 0.0.0.0 c5gamec.com
 0.0.0.0 c667628.com
 0.0.0.0 caaarss.us
@@ -735,8 +736,10 @@
 0.0.0.0 capturescreen.tech
 0.0.0.0 carboneas.com
 0.0.0.0 cardcodes.net
+0.0.0.0 carderprofit.ws
 0.0.0.0 carderx.com
 0.0.0.0 cardgen.co
+0.0.0.0 cardingforum.su
 0.0.0.0 cardingmafia.net
 0.0.0.0 cardsfree.net
 0.0.0.0 carrecase.com
@@ -780,6 +783,7 @@
 0.0.0.0 cazarure.ru
 0.0.0.0 cazow.com
 0.0.0.0 cc-cleanup.com
+0.0.0.0 cc-shop.su
 0.0.0.0 ccsagacheats.com
 0.0.0.0 ce7.org
 0.0.0.0 cecav.ru
@@ -1216,6 +1220,7 @@
 0.0.0.0 crackandhack.info
 0.0.0.0 crackcreateworld.com
 0.0.0.0 crackdb.info
+0.0.0.0 cracked.sx
 0.0.0.0 crackedcraft.org
 0.0.0.0 crackedscripts.com
 0.0.0.0 crackedzone.org
@@ -1257,6 +1262,7 @@
 0.0.0.0 crazyrdp.com
 0.0.0.0 crazyshare.net
 0.0.0.0 crazyskins.fun
+0.0.0.0 crdclub.su
 0.0.0.0 crdshipp.org
 0.0.0.0 creditcard-2014.com
 0.0.0.0 creed3.sharezips.info
@@ -1656,8 +1662,10 @@
 0.0.0.0 customermgmt.net
 0.0.0.0 cutin.ru
 0.0.0.0 cuwuk.ru
+0.0.0.0 cweb.ws
 0.0.0.0 cyber-cheat.com
 0.0.0.0 cyber-hub.net
+0.0.0.0 cybercarders.su
 0.0.0.0 cyberchampion.space
 0.0.0.0 cyberdelf.net
 0.0.0.0 cyberiumhacks.com
@@ -1682,6 +1690,7 @@
 0.0.0.0 darkavenger.hackfree.us
 0.0.0.0 darkhacks.eu
 0.0.0.0 darknesscsgo.com
+0.0.0.0 darkwebmafias.ws
 0.0.0.0 dash.prankvine.com
 0.0.0.0 databass.info
 0.0.0.0 datawork24.com
@@ -1992,6 +2001,7 @@
 0.0.0.0 dubemeqi.ru
 0.0.0.0 dudemobile.net
 0.0.0.0 dulue.ru
+0.0.0.0 dumpsbuy.su
 0.0.0.0 dungeonrampage.haxdo.com
 0.0.0.0 dupidoq.ru
 0.0.0.0 duroq.ru
@@ -2449,6 +2459,7 @@
 0.0.0.0 fecebook.com
 0.0.0.0 feedpedia.com
 0.0.0.0 female-orgazm.com
+0.0.0.0 ferumshop.su
 0.0.0.0 fetemaf.ru
 0.0.0.0 fetuh.ru
 0.0.0.0 ffa-hosting.com
@@ -2761,6 +2772,7 @@
 0.0.0.0 france.id108979765-7218227704.w595505.com
 0.0.0.0 france.id130546622-3701190119.w595505.com
 0.0.0.0 france.id131337608-5036396713.w595505.com
+0.0.0.0 frankdoc.site
 0.0.0.0 frankjackpot.io
 0.0.0.0 frankjackpot.pro
 0.0.0.0 frankychamp.com
@@ -3230,6 +3242,7 @@
 0.0.0.0 frosgame.com
 0.0.0.0 frovilew.ru
 0.0.0.0 frtelechargement.com
+0.0.0.0 fssquad.com
 0.0.0.0 ftpclean.com
 0.0.0.0 ftpgood.com
 0.0.0.0 ftpsent.com
@@ -3256,6 +3269,7 @@
 0.0.0.0 fullpcgames.xyz
 0.0.0.0 fullvideo-watch-here.org
 0.0.0.0 fullysoftware.com
+0.0.0.0 fullzinfo.com
 0.0.0.0 functionalhack.info
 0.0.0.0 fungamecheats.com
 0.0.0.0 fungames.vip
@@ -4415,6 +4429,7 @@
 0.0.0.0 hyperhacks.net
 0.0.0.0 iapphackstools.com
 0.0.0.0 ibreak.us
+0.0.0.0 ica.su
 0.0.0.0 icardcodes.com
 0.0.0.0 icehacks.com
 0.0.0.0 icehacks.info
@@ -5017,6 +5032,7 @@
 0.0.0.0 lupustrade.com
 0.0.0.0 lushbombfree.com
 0.0.0.0 lushbombsgiveaway.com
+0.0.0.0 luxchecker.pw
 0.0.0.0 luxury-roll.com
 0.0.0.0 m0vl.com
 0.0.0.0 mabexo.ru
@@ -5788,6 +5804,7 @@
 0.0.0.0 pes2014.sharezips.info
 0.0.0.0 peskygamer.com
 0.0.0.0 petuc.ru
+0.0.0.0 phantomhacker.su
 0.0.0.0 pharmacyalberta.com
 0.0.0.0 pharmacybestbuys.com
 0.0.0.0 phone-hack.com
@@ -6426,6 +6443,7 @@
 0.0.0.0 savepictures.us
 0.0.0.0 sbb-pubg.com
 0.0.0.0 sbstriders.org
+0.0.0.0 scans365.com
 0.0.0.0 scars-acne.com
 0.0.0.0 scenepirat.us
 0.0.0.0 scifimovies4u.com
@@ -6823,6 +6841,7 @@
 0.0.0.0 spacex.plus
 0.0.0.0 spacexskins.fun
 0.0.0.0 spam-egy.com
+0.0.0.0 spammer.ro
 0.0.0.0 sparkcodes.com
 0.0.0.0 special-promo.com
 0.0.0.0 specialcontest.pw
@@ -7179,6 +7198,7 @@
 0.0.0.0 thecheatplanet.com
 0.0.0.0 theclanofhack.com
 0.0.0.0 theclashroyale.com
+0.0.0.0 thecrimebay.store
 0.0.0.0 thecsgoknife.com
 0.0.0.0 thedailyreward.com
 0.0.0.0 thedataworld.com
@@ -7856,6 +7876,7 @@
 0.0.0.0 wowku.ru
 0.0.0.0 wpthemes.lock24.net
 0.0.0.0 wsofreedownload.com
+0.0.0.0 wsstore.cc
 0.0.0.0 wtfdrop.top
 0.0.0.0 wtfdrops.com
 0.0.0.0 wtfskins.de
@@ -8101,6 +8122,7 @@
 0.0.0.0 zulaman.ru
 0.0.0.0 zumedianetwork.com
 0.0.0.0 zuneplay.com
+0.0.0.0 zunostore.su
 0.0.0.0 zupiv.ru
 0.0.0.0 zurev.ru
 0.0.0.0 zynga-poker-hack.net
