@@ -4,7 +4,7 @@
 # This work is licensed under the CPAL-1.0
 # See: https://shorl.com/vebrubefrubiti
 #
-# ~- Wed May  5 03:07:09 AM UTC 2021 -~
+# ~- Wed May  5 04:09:34 AM UTC 2021 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -42101,6 +42101,7 @@
 *.sentinel.mob.com
 *.sentrinonline.com
 *.sentry.audent.io
+*.sentry.mediacdn.vn
 *.sentwrote.live
 *.senuti.org
 *.seo-master.net
