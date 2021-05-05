@@ -1,4 +1,4 @@
-# Wed May  5 02:15:10 AM UTC 2021
+# Wed May  5 11:02:33 PM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -1486,7 +1486,6 @@
 0.0.0.0 api.crispadvertising.com
 0.0.0.0 api.crittercism.com
 0.0.0.0 api.data.sentinel.mob.com
-0.0.0.0 api.datadoghq.com
 0.0.0.0 api.decibelinsight.net
 0.0.0.0 api.demandbase.com
 0.0.0.0 api.destinationrewards.com
