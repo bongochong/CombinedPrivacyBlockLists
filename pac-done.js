@@ -1,4 +1,4 @@
-// **** Mon May  3 11:22:19 PM UTC 2021
+// **** Wed May  5 02:31:26 AM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -14492,6 +14492,7 @@ shExpMatch(host, '*.stats.olark.com') ||
 shExpMatch(host, '*.stats.pusher.com') ||
 shExpMatch(host, '*.stats.rdphv.net') ||
 shExpMatch(host, '*.stats.self.com') ||
+shExpMatch(host, '*.stats.stb-ottow.de') ||
 shExpMatch(host, '*.stats.suite101.com') ||
 shExpMatch(host, '*.stats.surfaid.ihost.com') ||
 shExpMatch(host, '*.stats.townnews.com') ||
@@ -15417,6 +15418,7 @@ shExpMatch(host, '*.tracking.39-bb4a9-osm.co.uk') ||
 shExpMatch(host, '*.tracking.42-01pr5-osm-secure.co.uk') ||
 shExpMatch(host, '*.tracking.5-47737-bi.co.uk') ||
 shExpMatch(host, '*.tracking.crunchiemedia.com') ||
+shExpMatch(host, '*.tracking.emilyclarkconsulting.com') ||
 shExpMatch(host, '*.tracking.epicgames.com') ||
 shExpMatch(host, '*.tracking.gajmp.com') ||
 shExpMatch(host, '*.tracking.hyros.com') ||
@@ -31946,6 +31948,7 @@ shExpMatch(host, 'stats.olark.com') ||
 shExpMatch(host, 'stats.pusher.com') ||
 shExpMatch(host, 'stats.rdphv.net') ||
 shExpMatch(host, 'stats.self.com') ||
+shExpMatch(host, 'stats.stb-ottow.de') ||
 shExpMatch(host, 'stats.suite101.com') ||
 shExpMatch(host, 'stats.surfaid.ihost.com') ||
 shExpMatch(host, 'stats.townnews.com') ||
@@ -32871,6 +32874,7 @@ shExpMatch(host, 'tracking.39-bb4a9-osm.co.uk') ||
 shExpMatch(host, 'tracking.42-01pr5-osm-secure.co.uk') ||
 shExpMatch(host, 'tracking.5-47737-bi.co.uk') ||
 shExpMatch(host, 'tracking.crunchiemedia.com') ||
+shExpMatch(host, 'tracking.emilyclarkconsulting.com') ||
 shExpMatch(host, 'tracking.epicgames.com') ||
 shExpMatch(host, 'tracking.gajmp.com') ||
 shExpMatch(host, 'tracking.hyros.com') ||
