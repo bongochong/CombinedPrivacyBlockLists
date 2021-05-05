@@ -469,6 +469,7 @@ localhost$
 ^0.0.0.0 secure.netflix.com$
 ^0.0.0.0 secure.skypeassets.com$
 ^0.0.0.0 secure.surveymonkey.com$
+^0.0.0.0 segment.com$
 ^0.0.0.0 segment.io$
 ^0.0.0.0 sentry.io$
 ^0.0.0.0 serials.ws$

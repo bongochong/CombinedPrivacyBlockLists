@@ -449,6 +449,7 @@
 ^secure.netflix.com$
 ^secure.skypeassets.com$
 ^secure.surveymonkey.com$
+^segment.com$
 ^segment.io$
 ^sentry.io$
 ^serials.ws$

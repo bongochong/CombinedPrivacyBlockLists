@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mostly Cosmetic CPBL Filters for ABP & uBO
-! Updated: Tue Apr 27 02:14:40 AM UTC 2021
+! Updated: Wed May  5 02:07:37 AM UTC 2021
 ! Expires: 7 Days
 ! License: https://git.io/JTTLW
 ! Homepage: https://git.io/JTTLB
@@ -197,6 +197,7 @@ website2.me##[id^="ws-side-banner-"]
 ||onelink.me^$third-party
 ||reddit.com/account/register/?mobile_ui=on&compact_mode=on&experiment_mweb_sso_login_link=enabled&experiment_mweb_google_onetap=onetap_auto$subdocument
 ||redditmedia.com/gtm/jail?
+||segment.com^$third-party
 ||tbstat.com*$script,domain=theblockcrypto.com
 ||tbstat.com*$xhr,domain=theblockcrypto.com
 ||tbstat.com/wp/uploads/*popupbanner*.png$image,domain=theblockcrypto.com
@@ -206,6 +207,7 @@ website2.me##[id^="ws-side-banner-"]
 ||theblockcrypto.com/wp-json/v1/modal*$domain=theblockcrypto.com
 ||theblockcrypto.com/wp-json/v1/sponsorships*$domain=theblockcrypto.com
 ! Exceptions for Un-Breaking Certain Sites
+@@||segment.com/v1/projects/$xmlhttprequest,domain=reuters.com
 @@||geolocation.onetrust.com^$domain=secure.soundcloud.com
 @@||pwt.soundcloud.com^$domain=secure.soundcloud.com
 @@||sndcdn.com^$domain=secure.soundcloud.com
