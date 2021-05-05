@@ -1,4 +1,4 @@
-# Mon May  3 11:16:48 PM UTC 2021
+# Wed May  5 02:15:10 AM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -1301,6 +1301,7 @@
 0.0.0.0 analytics.rogersmedia.com
 0.0.0.0 analytics.s3.amazonaws.com
 0.0.0.0 analytics.salmonads.com
+0.0.0.0 analytics.scalemonk.com
 0.0.0.0 analytics.seattleclouds.com
 0.0.0.0 analytics.shareaholic.com
 0.0.0.0 analytics.slashdotmedia.com
@@ -2450,6 +2451,7 @@
 0.0.0.0 cacp-hlb.doubleverify.com
 0.0.0.0 cacp-hlb.dvgtm.akadns.net
 0.0.0.0 cade.clmbtech.com
+0.0.0.0 cads.scalemonk.com
 0.0.0.0 cads.wildlifestudios.com
 0.0.0.0 caesar.iad-03.braze.com
 0.0.0.0 cafe-latte.myshoplus.com

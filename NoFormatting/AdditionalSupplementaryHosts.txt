@@ -4114,6 +4114,7 @@
 0.0.0.0 af721e3a.ngrok.io
 0.0.0.0 afac.mopo.jp
 0.0.0.0 afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com
+0.0.0.0 afeifieuuufufufuf.su
 0.0.0.0 aff.celebritytrip.club
 0.0.0.0 aff.i-mobile.co.jp
 0.0.0.0 aff.jskyservices.com
@@ -4137,6 +4138,7 @@
 0.0.0.0 agamgreetingscom.112.2o7.net
 0.0.0.0 agbmcom.112.2o7.net
 0.0.0.0 agegreetings.112.2o7.net
+0.0.0.0 agenciachida.com
 0.0.0.0 aghightile.ml
 0.0.0.0 agilemedia.jp
 0.0.0.0 agility.cnn.com
@@ -4156,6 +4158,7 @@
 0.0.0.0 aid-ad.jp
 0.0.0.0 aid.send.microad.jp
 0.0.0.0 aidps.atdmt.com
+0.0.0.0 aiiaiafrzrueuedur.ru
 0.0.0.0 aimds.er.cyberwing.co.jp
 0.0.0.0 aimg.fc2.com
 0.0.0.0 aio.lp.mydas.mobi
@@ -4321,6 +4324,7 @@
 0.0.0.0 alprazolam.rip
 0.0.0.0 alrayyanplastics.com
 0.0.0.0 alrazi-pharrna.com
+0.0.0.0 alsameemint.com
 0.0.0.0 alsancakgaming.com
 0.0.0.0 alsblueshelpt.nl
 0.0.0.0 alspi.cf
@@ -5618,6 +5622,7 @@
 0.0.0.0 cancalgary.112.2o7.net
 0.0.0.0 cancertreatmente.tt.omtrdc.net
 0.0.0.0 candid.zone
+0.0.0.0 cando--china.net
 0.0.0.0 candy-network.com
 0.0.0.0 candy.fairuse.org
 0.0.0.0 candy.smv.to
@@ -5642,7 +5647,6 @@
 0.0.0.0 capella.122.2o7.net
 0.0.0.0 capeplcinc.com.ua
 0.0.0.0 capeturk.com
-0.0.0.0 capitalavepharmacy.com
 0.0.0.0 caprofitx.adtop.com
 0.0.0.0 caprofitx.com
 0.0.0.0 capt.ga
@@ -5971,6 +5975,7 @@
 0.0.0.0 ciscolearningnetwork.tt.omtrdc.net
 0.0.0.0 ciscowebex.112.2o7.net
 0.0.0.0 citimobile.d2.sc.omtrdc.net
+0.0.0.0 citycardriving.net
 0.0.0.0 citygame.xyz
 0.0.0.0 citytrading.usa.cc
 0.0.0.0 ciuj.ir
@@ -6787,7 +6792,9 @@
 0.0.0.0 dnsnode.netnod.se
 0.0.0.0 docj27ko03fnu.cloudfront.net
 0.0.0.0 docksalmon.com
+0.0.0.0 docs.atu.ngr.mybluehost.me
 0.0.0.0 docs.healthmade.org
+0.0.0.0 docs.pipenv.org
 0.0.0.0 docswitch.com
 0.0.0.0 doctopdftech.com
 0.0.0.0 doctorsassociatesrx.112.2o7.net
@@ -7400,6 +7407,7 @@
 0.0.0.0 fasttads.com
 0.0.0.0 fasttransfer-trafficads.xyz
 0.0.0.0 fasunshi.com
+0.0.0.0 fatakagodam.com
 0.0.0.0 fatando.pw
 0.0.0.0 fateh-news.my-firewall.org
 0.0.0.0 fateh.aba.ae
@@ -8406,6 +8414,7 @@
 0.0.0.0 iaheyftbsn.review
 0.0.0.0 iaieqqo.review
 0.0.0.0 iamahackeur.servehttp.com
+0.0.0.0 iamtrdng.com
 0.0.0.0 ias.rakuten.co.jp
 0.0.0.0 iauany.com
 0.0.0.0 ib.adnxs.com
@@ -8832,6 +8841,7 @@
 0.0.0.0 jajoyeninigerialimited.com
 0.0.0.0 jalanbebekjos.com
 0.0.0.0 jamecoelectronics.sc.omtrdc.net
+0.0.0.0 jamesbond.camdvr.org
 0.0.0.0 jamesxx.dynu.net
 0.0.0.0 jamexistence.com
 0.0.0.0 jan.008ex.com
@@ -9483,6 +9493,7 @@
 0.0.0.0 logoole.yahoo.co.jp
 0.0.0.0 logover.su
 0.0.0.0 logoworksdev.112.2o7.net
+0.0.0.0 logowrench.website
 0.0.0.0 logp3.xiti.com
 0.0.0.0 logping.exblog.jp
 0.0.0.0 logs.comics.com
@@ -9813,7 +9824,6 @@
 0.0.0.0 meremark.com
 0.0.0.0 merhabaslm.su
 0.0.0.0 merkez.tk
-0.0.0.0 mertyapit.com
 0.0.0.0 mesearch.xyz
 0.0.0.0 messagenovice.com
 0.0.0.0 met.adwhirl.com
@@ -10131,7 +10141,6 @@
 0.0.0.0 mopub.com
 0.0.0.0 moradu.com
 0.0.0.0 moras.jp
-0.0.0.0 moresalesbetterprofits.com
 0.0.0.0 morganjeff.com
 0.0.0.0 moriaxmr.com
 0.0.0.0 mormonorg.112.2o7.net
@@ -10262,6 +10271,7 @@
 0.0.0.0 myelectrum.org
 0.0.0.0 myfamilycominc.tt.omtrdc.net
 0.0.0.0 myharlemshake.info
+0.0.0.0 myhostisstillgood11.zapto.org
 0.0.0.0 myjs.me
 0.0.0.0 myloki.icu
 0.0.0.0 mylondon.hc0.me
@@ -11066,6 +11076,7 @@
 0.0.0.0 pink.clicktx.jp
 0.0.0.0 pinkeyesaure.com
 0.0.0.0 pinkpanda.pw
+0.0.0.0 pipenv.org
 0.0.0.0 pipopetfiu.ru
 0.0.0.0 piquantpigs.com
 0.0.0.0 piquantstove.com
@@ -11637,6 +11648,7 @@
 0.0.0.0 red.hatena.ne.jp
 0.0.0.0 red.st-hatena.com
 0.0.0.0 red3.hatena.ne.jp
+0.0.0.0 redak.mg
 0.0.0.0 redge-a.akamaihd.net
 0.0.0.0 redhat.sc.omtrdc.net
 0.0.0.0 redidfe.ru
@@ -11720,6 +11732,7 @@
 0.0.0.0 richelle-mead.ru
 0.0.0.0 richstring.com
 0.0.0.0 richweva.com
+0.0.0.0 ridho-setiawan.com
 0.0.0.0 ridihaagroup.com
 0.0.0.0 rifat01.info
 0.0.0.0 rifat02.info
@@ -12389,6 +12402,7 @@
 0.0.0.0 sigaingegneria.com
 0.0.0.0 sigmaad.com
 0.0.0.0 siiigroup.com
+0.0.0.0 silatama.com
 0.0.0.0 silentcredit.com
 0.0.0.0 silimbompom.com
 0.0.0.0 silkysquirrel.com
@@ -12769,10 +12783,7 @@
 0.0.0.0 stay-notified.live
 0.0.0.0 stcinet.com
 0.0.0.0 stcnet.ddns.net
-0.0.0.0 stdynmxwllminorabxst.dns.army
-0.0.0.0 stdysara2entertastxc.dns.army
 0.0.0.0 stdyunitedkesokostri.dns.navy
-0.0.0.0 stdyworkfinetrairest.dns.army
 0.0.0.0 steadfastsound.com
 0.0.0.0 steadfastsystem.com
 0.0.0.0 steadypaddling.com
@@ -14468,6 +14479,7 @@
 0.0.0.0 www.etzbnfuigipwvs.ru
 0.0.0.0 www.facebook.com.and.ovh.adx1.com
 0.0.0.0 www.facebook.com.kachvam.xyz.adx1.com
+0.0.0.0 www.fightfactoryph.com
 0.0.0.0 www.freecontent.bid
 0.0.0.0 www.freecontent.date
 0.0.0.0 www.freecontent.download

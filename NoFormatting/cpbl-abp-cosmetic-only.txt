@@ -172,6 +172,8 @@ website2.me##[id^="ws-bottom-banner-"]
 website2.me##[id^="ws-side-banner-"]
 ||bscscan.com/images/gen/*1140x90.png$image
 ||cdn.jsdelivr.net/npm/workbox-cdn*$script,domain=theblockcrypto.com
+||click.bible.com^$third-party
+||click.drizly.com^$third-party
 ||click.e.affirm.com^$third-party
 ||click.e.progressive.com^$third-party
 ||click.e.tdbank.com^$third-party
@@ -182,8 +184,6 @@ website2.me##[id^="ws-side-banner-"]
 ||click.email.soundhound.com^$third-party
 ||click.emails.creditonebank.com^$third-party
 ||click.engage.xbox.com^$third-party
-||click.bible.com^$third-party
-||click.drizly.com^$third-party
 ||click.instacartemail.com^$third-party
 ||click.official.nike.com^$third-party
 ||click.oneplus.cn^$third-party
@@ -198,6 +198,8 @@ website2.me##[id^="ws-side-banner-"]
 ||reddit.com/account/register/?mobile_ui=on&compact_mode=on&experiment_mweb_sso_login_link=enabled&experiment_mweb_google_onetap=onetap_auto$subdocument
 ||redditmedia.com/gtm/jail?
 ||segment.com^$third-party
+||sentry.io^$third-party
+||sentry-cdn.com^$third-party,domain=~sentry.dev|~sentry.io
 ||tbstat.com*$script,domain=theblockcrypto.com
 ||tbstat.com*$xhr,domain=theblockcrypto.com
 ||tbstat.com/wp/uploads/*popupbanner*.png$image,domain=theblockcrypto.com
@@ -208,6 +210,8 @@ website2.me##[id^="ws-side-banner-"]
 ||theblockcrypto.com/wp-json/v1/sponsorships*$domain=theblockcrypto.com
 ! Exceptions for Un-Breaking Certain Sites
 @@||segment.com/v1/projects/$xmlhttprequest,domain=reuters.com
+@@||ingest.sentry.io/api/$xmlhttprequest,domain=tesco.com
+@@||ingest.sentry.io/api/$xmlhttprequest,domain=tesco.hu
 @@||geolocation.onetrust.com^$domain=secure.soundcloud.com
 @@||pwt.soundcloud.com^$domain=secure.soundcloud.com
 @@||sndcdn.com^$domain=secure.soundcloud.com
