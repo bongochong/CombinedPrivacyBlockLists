@@ -210,6 +210,7 @@ website2.me##[id^="ws-side-banner-"]
 ||theblockcrypto.com/wp-json/v1/sponsorships*$domain=theblockcrypto.com
 ! Exceptions for Un-Breaking Certain Sites
 @@||segment.com/v1/projects/$xmlhttprequest,domain=reuters.com
+@@||z.moatads.com^$script,domain=reuters.com
 @@||ingest.sentry.io/api/$xmlhttprequest,domain=tesco.com
 @@||ingest.sentry.io/api/$xmlhttprequest,domain=tesco.hu
 @@||geolocation.onetrust.com^$domain=secure.soundcloud.com
