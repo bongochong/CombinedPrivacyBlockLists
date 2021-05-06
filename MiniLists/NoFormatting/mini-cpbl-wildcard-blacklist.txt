@@ -4,7 +4,7 @@
 # This work is licensed under the CPAL-1.0
 # See: https://shorl.com/vebrubefrubiti
 #
-# ~- Wed May  5 11:48:57 PM UTC 2021 -~
+# ~- Thu May  6 01:31:45 AM UTC 2021 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -38780,6 +38780,7 @@
 *.play5.flashx.pw
 *.playe.vidto.se
 *.player-telemetry.vimeo.com
+*.player.anyclip.com
 *.player.kmpmedia.net
 *.player.stats.live-video.net
 *.playerassets.info
