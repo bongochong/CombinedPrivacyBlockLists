@@ -1,4 +1,4 @@
-# Wed May  5 11:23:40 PM UTC 2021
+# Wed May  5 11:57:48 PM UTC 2021
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 00-gov.cn
 0.0.0.0 0024aaaa.com
@@ -26798,6 +26798,7 @@
 0.0.0.0 peekdedicatecylinder.com
 0.0.0.0 peekscrane.com
 0.0.0.0 peemee.com
+0.0.0.0 peepholecarrying.com
 0.0.0.0 peer39.com
 0.0.0.0 peer39.net
 0.0.0.0 peerius.com
