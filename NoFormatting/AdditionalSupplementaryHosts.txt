@@ -13934,7 +13934,6 @@
 0.0.0.0 syndication.exdynsrv.com
 0.0.0.0 syndication.exoclick.com
 0.0.0.0 syndication.exosrv.com
-0.0.0.0 syndication.twitter.com
 0.0.0.0 syrian-martyrs.com
 0.0.0.0 system-analyse.win
 0.0.0.0 system-check.services
