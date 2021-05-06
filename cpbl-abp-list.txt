@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Wed May  5 11:36:42 PM UTC 2021
+! Updated: Thu May  6 01:20:36 AM UTC 2021
 ! Expires: 7 Days
 ! License: https://git.io/JTTLW
 ! Homepage: https://git.io/JTTLB
@@ -53021,6 +53021,7 @@
 ||playdownstationdownloadlinks.com^
 ||playe.vidto.se^
 ||player-telemetry.vimeo.com^
+||player.anyclip.com^
 ||player.avplayer.com^
 ||player.kmpmedia.net^
 ||player.stats.live-video.net^
