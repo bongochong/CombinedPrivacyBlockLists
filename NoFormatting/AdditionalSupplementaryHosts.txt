@@ -5383,6 +5383,8 @@
 0.0.0.0 anybest.site
 0.0.0.0 anybest.space
 0.0.0.0 anycast.pixel.adsafeprotected.com
+0.0.0.0 anyclip-d.openx.net
+0.0.0.0 anyclip-media.com
 0.0.0.0 anyconnect.stream
 0.0.0.0 anydesk.s3-us-west-1.amazonaws.com
 0.0.0.0 anydeskstat.com
@@ -12092,6 +12094,7 @@
 0.0.0.0 play5.flashx.pw
 0.0.0.0 playe.vidto.se
 0.0.0.0 player.adtelligent.com
+0.0.0.0 player.anyclip.com
 0.0.0.0 playerassets.info
 0.0.0.0 playfolders.com
 0.0.0.0 playtune.info
@@ -15623,6 +15626,7 @@
 0.0.0.0 www.agkn.com
 0.0.0.0 www.aid-ad.jp
 0.0.0.0 www.antennash.com
+0.0.0.0 www.anyclip-media.com
 0.0.0.0 www.aolturnercnnmoney.112.2o7.net
 0.0.0.0 www.apps.facebook.com.deroullatte.xyz.adx1.com
 0.0.0.0 www.assoc-amazon.jp
