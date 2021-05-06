@@ -4,7 +4,7 @@
 # This work is licensed under the CPAL-1.0
 # See: https://shorl.com/vebrubefrubiti
 #
-# ~- Thu May  6 01:31:45 AM UTC 2021 -~
+# ~- Thu May  6 04:55:20 AM UTC 2021 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -47484,7 +47484,6 @@
 *.syndicatedsearchresults.com
 *.syndication.jsadapi.com
 *.syndication.trafficreps.com
-*.syndication.twitter.com
 *.syndicpop.com
 *.syndopop.com
 *.synergy-e.com
