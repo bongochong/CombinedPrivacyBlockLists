@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 # This work is licensed under the CPAL-1.0
 # See: https://shorl.com/vebrubefrubiti
 #
-# ~- Wed May  5 11:33:43 PM UTC 2021 -~
+# ~- Thu May  6 01:18:03 AM UTC 2021 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -47446,6 +47446,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 player-telemetry.vimeo.com
 0.0.0.0 player.adtelligent.com
 0.0.0.0 player.aniview.com
+0.0.0.0 player.anyclip.com
 0.0.0.0 player.kmpmedia.net
 0.0.0.0 player.stats.live-video.net
 0.0.0.0 playerassets.info
@@ -66569,6 +66570,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 www.antaraimedia.com
 0.0.0.0 www.antennash.com
 0.0.0.0 www.anticlown.com
+0.0.0.0 www.anyclip-media.com
 0.0.0.0 www.aolturnercnnmoney.112.2o7.net
 0.0.0.0 www.apmebf.com
 0.0.0.0 www.apponic.com
@@ -116953,6 +116955,7 @@ ff02::2 ip6-allrouters
 :: player-telemetry.vimeo.com
 :: player.adtelligent.com
 :: player.aniview.com
+:: player.anyclip.com
 :: player.kmpmedia.net
 :: player.stats.live-video.net
 :: playerassets.info
@@ -136076,6 +136079,7 @@ ff02::2 ip6-allrouters
 :: www.antaraimedia.com
 :: www.antennash.com
 :: www.anticlown.com
+:: www.anyclip-media.com
 :: www.aolturnercnnmoney.112.2o7.net
 :: www.apmebf.com
 :: www.apponic.com
