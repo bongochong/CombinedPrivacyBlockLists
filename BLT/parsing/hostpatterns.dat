@@ -511,6 +511,7 @@ localhost$
 ^0.0.0.0 support.microsoft.com$
 ^0.0.0.0 support.signal.org$
 ^0.0.0.0 swscan.apple.com$
+^0.0.0.0 syndication.twitter.com$
 ^0.0.0.0 sysctl.org$
 ^0.0.0.0 t0.ssl.ak.dynamic.tiles.virtualearth.net$
 ^0.0.0.0 t0.ssl.ak.tiles.virtualearth.net$
