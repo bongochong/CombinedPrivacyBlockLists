@@ -1,4 +1,4 @@
-# Wed May  5 11:58:13 PM UTC 2021
+# Fri May  7 04:58:28 AM UTC 2021
 # Spam404 Hosts - Generated weekly by bongochong
 0.0.0.0 001www.com
 0.0.0.0 0daygameparadise.com
@@ -963,6 +963,7 @@
 0.0.0.0 cityville2hack.com
 0.0.0.0 civilization5.sharezips.info
 0.0.0.0 claimiphone7.net
+0.0.0.0 claimunibonus.com
 0.0.0.0 clansastuce.newzgames.com
 0.0.0.0 clanshacktool.com
 0.0.0.0 clanshelper.com
@@ -1705,7 +1706,6 @@
 0.0.0.0 dayzstandalonebeta.com
 0.0.0.0 dd2.ru
 0.0.0.0 ddnslive.com
-0.0.0.0 ddos-guard.net
 0.0.0.0 ddtankhack.net
 0.0.0.0 ddtankhacks.com
 0.0.0.0 ddtdown.pro
@@ -1849,6 +1849,7 @@
 0.0.0.0 dota2xbet.com
 0.0.0.0 dota4bet.com
 0.0.0.0 dotagive.com
+0.0.0.0 dotairdrop.com
 0.0.0.0 dotaskins2you.com
 0.0.0.0 dotcommoneypile.com
 0.0.0.0 double-skins.pro
@@ -5742,6 +5743,7 @@
 0.0.0.0 pakjevoordeel.net
 0.0.0.0 pamila.medlafare.com
 0.0.0.0 panacinema.pw
+0.0.0.0 pancakebonus.com
 0.0.0.0 pandapopcheats.xyz
 0.0.0.0 pandawamovie.com
 0.0.0.0 papapear.fb-hacks.com
@@ -5970,6 +5972,7 @@
 0.0.0.0 pokemonxetyroms.extafiles.com
 0.0.0.0 pokemonxetyroms.gamerlh.com
 0.0.0.0 pokemonxydownload.org
+0.0.0.0 polkacoinbonus.com
 0.0.0.0 polquxa.ru
 0.0.0.0 poollivetourhack.net
 0.0.0.0 poolpartypromotion.com
@@ -6203,7 +6206,6 @@
 0.0.0.0 ragebooter.net
 0.0.0.0 ragegamble.com
 0.0.0.0 raidcalll.com
-0.0.0.0 raidforums.com
 0.0.0.0 rainbow-case.com
 0.0.0.0 rainhack.com
 0.0.0.0 raisegame.com
@@ -6300,7 +6302,6 @@
 0.0.0.0 rewardprogram.allalla.com
 0.0.0.0 rewardsforpoints.info
 0.0.0.0 rexisa.ru
-0.0.0.0 rf.ws
 0.0.0.0 riben.ru
 0.0.0.0 rich-bets.one
 0.0.0.0 richboysblog.com
@@ -7487,6 +7488,7 @@
 0.0.0.0 unique-skins.net
 0.0.0.0 uniquehack.com
 0.0.0.0 uniquehacks.org
+0.0.0.0 unireceive.com
 0.0.0.0 unityhack.com
 0.0.0.0 unityhacks.zone
 0.0.0.0 universalhack.net

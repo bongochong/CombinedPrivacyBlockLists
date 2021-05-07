@@ -292,6 +292,7 @@ localhost$
 ^0.0.0.0 g.msn.com$
 ^0.0.0.0 g1.nyt.com$
 ^0.0.0.0 game.weixin.qq.com$
+^0.0.0.0 gameanalytics.com$
 ^0.0.0.0 gcs.sc-cdn.net$
 ^0.0.0.0 ge.tt$
 ^0.0.0.0 gearbest.com$
@@ -589,6 +590,7 @@ localhost$
 ^0.0.0.0 www.countryflags.io$
 ^0.0.0.0 www.fanboy.co.nz$
 ^0.0.0.0 www.fide.com$
+^0.0.0.0 www.gameanalytics.com$
 ^0.0.0.0 www.github.com$
 ^0.0.0.0 www.godaddy.com$
 ^0.0.0.0 www.gravatar.com$

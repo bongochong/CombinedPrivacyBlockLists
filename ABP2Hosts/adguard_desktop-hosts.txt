@@ -1,4 +1,4 @@
-# Wed May  5 11:57:48 PM UTC 2021
+# Fri May  7 04:58:05 AM UTC 2021
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 00-gov.cn
 0.0.0.0 0024aaaa.com
@@ -381,6 +381,7 @@
 0.0.0.0 1ts03.top
 0.0.0.0 1txt.ru
 0.0.0.0 1uejo00npy.buzz
+0.0.0.0 1ug8jn.cn
 0.0.0.0 1ulebzhsv7.buzz
 0.0.0.0 1under.ru
 0.0.0.0 1v7.cn
@@ -1176,6 +1177,7 @@
 0.0.0.0 78986ba32c.com
 0.0.0.0 789a42c1a33aa5.com
 0.0.0.0 78tdd75.com
+0.0.0.0 78yvreh.site
 0.0.0.0 7987809d62.com
 0.0.0.0 79k52baw2qa3.com
 0.0.0.0 79ucic4ss8.com
@@ -1400,6 +1402,7 @@
 0.0.0.0 94nw.com
 0.0.0.0 951896.com
 0.0.0.0 9519.net
+0.0.0.0 951e8b9cd72.com
 0.0.0.0 95558000.com
 0.0.0.0 956b2fb847d.com
 0.0.0.0 958so.cn
@@ -3075,6 +3078,7 @@
 0.0.0.0 ads-delivery.gameforge.com
 0.0.0.0 ads-elsevier.net
 0.0.0.0 ads-for-free.com
+0.0.0.0 ads-lot.ru
 0.0.0.0 ads-media.gameforge.com
 0.0.0.0 ads-pixiv.net
 0.0.0.0 ads-sg.tiktok.com
@@ -6407,7 +6411,6 @@
 0.0.0.0 bestgameads.com
 0.0.0.0 besthitsnow.com
 0.0.0.0 bestialearnbuds.com
-0.0.0.0 bestmoneysites.com
 0.0.0.0 bestnews.biz
 0.0.0.0 bestnewsforbest.com
 0.0.0.0 bestnewsworld.net
@@ -7969,6 +7972,7 @@
 0.0.0.0 ccrkqqnxmnwlm.com
 0.0.0.0 cctg.cc
 0.0.0.0 cctole.com
+0.0.0.0 ccuyuna.cn
 0.0.0.0 ccvwtdtwyu.trade
 0.0.0.0 ccxxkt.eurostarshotels.fr
 0.0.0.0 cczuxie.com
@@ -8262,6 +8266,7 @@
 0.0.0.0 chatintr.com
 0.0.0.0 chauksoa.net
 0.0.0.0 chautcho.com
+0.0.0.0 chaxiaoyin.cn
 0.0.0.0 chaxinyong.net
 0.0.0.0 chayayeon.com
 0.0.0.0 chayibu.com
@@ -9933,6 +9938,7 @@
 0.0.0.0 cttghjfhsw.com
 0.0.0.0 ctureencroo.site
 0.0.0.0 ctureperform.info
+0.0.0.0 ctxtfl.com
 0.0.0.0 ctyzd.com
 0.0.0.0 cubanetestoon.com
 0.0.0.0 cubchannel.com
@@ -10517,6 +10523,7 @@
 0.0.0.0 d81mfvml8p5ml.cloudfront.net
 0.0.0.0 d8360.com
 0.0.0.0 d869381a42af33b.com
+0.0.0.0 d86ac31f6a.com
 0.0.0.0 d899.webazilla.com
 0.0.0.0 d8acddffe978b5dfcae6.date
 0.0.0.0 d8ekco.com
@@ -11178,6 +11185,7 @@
 0.0.0.0 dfehnb.xyz
 0.0.0.0 dfgbalon.com
 0.0.0.0 dfgchcnqsa.com
+0.0.0.0 dfjbgfldsjdsnldksjalld1235.cn
 0.0.0.0 dflfnrmi.xyz
 0.0.0.0 dfmnbv.pro
 0.0.0.0 dfseafood.com
@@ -16017,6 +16025,7 @@
 0.0.0.0 gripdownload.co
 0.0.0.0 grirault.net
 0.0.0.0 gritchuw.com
+0.0.0.0 gritspera.mobi
 0.0.0.0 grjs02.com
 0.0.0.0 grjs06.com
 0.0.0.0 grjs08.com
@@ -16074,6 +16083,7 @@
 0.0.0.0 gsasd.info
 0.0.0.0 gsasolutionssecure.gsa.gov
 0.0.0.0 gscarcinoh.club
+0.0.0.0 gscggckvmd.com
 0.0.0.0 gscontxt.net
 0.0.0.0 gscounters.gigya.com
 0.0.0.0 gsecondscreen.com
@@ -16335,6 +16345,7 @@
 0.0.0.0 hanacbclbrdjon.com
 0.0.0.0 handanxinkai.com
 0.0.0.0 handleteeth.com
+0.0.0.0 handred.ru
 0.0.0.0 handsomeindustry.com
 0.0.0.0 handtub.com
 0.0.0.0 handy-tab.com
@@ -18638,6 +18649,8 @@
 0.0.0.0 izrelo.ru
 0.0.0.0 izuis.com
 0.0.0.0 j.77power.com
+0.0.0.0 j.9136.com
+0.0.0.0 j.98158.com
 0.0.0.0 j.avz4.com
 0.0.0.0 j.baminw.cn
 0.0.0.0 j.bg.adresult-sp.jp
@@ -20118,7 +20131,6 @@
 0.0.0.0 laserveradedomaina.com
 0.0.0.0 lashquivercakes.com
 0.0.0.0 lasimakiz.xyz
-0.0.0.0 last2.cn
 0.0.0.0 lasttopreg.top
 0.0.0.0 lasyowayrzgv.com
 0.0.0.0 lataurir.com
@@ -20967,6 +20979,7 @@
 0.0.0.0 lorassocialgr.club
 0.0.0.0 lord.actonservice.com
 0.0.0.0 lordofads.com
+0.0.0.0 lordtao.cn
 0.0.0.0 lorenzourban.com
 0.0.0.0 loricalreach.info
 0.0.0.0 lornardchr.club
@@ -24473,6 +24486,7 @@
 0.0.0.0 neltoole.net
 0.0.0.0 nenrk.us
 0.0.0.0 neo-neo-xeo.com
+0.0.0.0 neoamwhdg.com
 0.0.0.0 neobasnet.timeout.ru
 0.0.0.0 neobux.com
 0.0.0.0 neodatagroup.com
@@ -25513,6 +25527,7 @@
 0.0.0.0 officultpolicit.pro
 0.0.0.0 offoonguser.com
 0.0.0.0 offpageads.com
+0.0.0.0 offshoreanglehost.com
 0.0.0.0 offshorecockpit.com
 0.0.0.0 offshoretolerantbenignity.com
 0.0.0.0 offshp.ru
@@ -26562,6 +26577,7 @@
 0.0.0.0 park.realadev.ru
 0.0.0.0 parketsy.pro
 0.0.0.0 parkingcrew.net
+0.0.0.0 parkinggrumpy.com
 0.0.0.0 parkingpremium.com
 0.0.0.0 parklogic.com
 0.0.0.0 parkurl.com
@@ -26701,6 +26717,7 @@
 0.0.0.0 pb.s3wfg.com
 0.0.0.0 pb.shuxigua.com
 0.0.0.0 pb5oqguywycj.com
+0.0.0.0 pbbgfsm.cn
 0.0.0.0 pbbl.co
 0.0.0.0 pbcde.com
 0.0.0.0 pbid.iforex.com
@@ -26783,6 +26800,7 @@
 0.0.0.0 pebadu.com
 0.0.0.0 pebblemedia.be
 0.0.0.0 pebed.dm-event.net
+0.0.0.0 pebidigra.pro
 0.0.0.0 pecaning.com
 0.0.0.0 pecash.com
 0.0.0.0 peckshadowlousy.com
@@ -28097,6 +28115,7 @@
 0.0.0.0 prostolos.ru
 0.0.0.0 prostopartnerka.ru
 0.0.0.0 prosumsit.com
+0.0.0.0 protagcdn.com
 0.0.0.0 protally.net
 0.0.0.0 protawe.com
 0.0.0.0 proteaser.net
@@ -29389,6 +29408,7 @@
 0.0.0.0 regressure.club
 0.0.0.0 regularplants.com
 0.0.0.0 regulationprivilegescan.top
+0.0.0.0 rehearsaltoxicmishandle.com
 0.0.0.0 rehmann.actonservice.com
 0.0.0.0 rehomesit.info
 0.0.0.0 rei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes
@@ -29667,6 +29687,7 @@
 0.0.0.0 retsiti.ru
 0.0.0.0 rettik.ru
 0.0.0.0 returso.com
+0.0.0.0 retyphuho.pro
 0.0.0.0 reu5uut0.top
 0.0.0.0 reundcwkqvctq.com
 0.0.0.0 reurbanisant.xyz
@@ -30061,6 +30082,7 @@
 0.0.0.0 rqbxfbls.com
 0.0.0.0 rqgsf.com
 0.0.0.0 rqhere.com
+0.0.0.0 rqjhhg.cn
 0.0.0.0 rqtrk.eu
 0.0.0.0 rqusuqakwyejjn.com
 0.0.0.0 rqyxdk.myanimelist.net
@@ -35817,6 +35839,7 @@
 0.0.0.0 tag.regieci.com
 0.0.0.0 tag.wknd.ai
 0.0.0.0 tag4arm.com
+0.0.0.0 tagbom.com
 0.0.0.0 tagbucket.cc
 0.0.0.0 tagcade.com
 0.0.0.0 tagcommander.com
@@ -38050,6 +38073,7 @@
 0.0.0.0 ttspikbeglki.com
 0.0.0.0 tttxx.cn
 0.0.0.0 ttudsdf.pro
+0.0.0.0 ttyvdilxsuorg.com
 0.0.0.0 ttz.com
 0.0.0.0 ttzmedia.com
 0.0.0.0 tu.7j813.cn
@@ -40598,6 +40622,7 @@
 0.0.0.0 wrdbknbczcf.com
 0.0.0.0 wreckvolcano.com
 0.0.0.0 wredmtmvkjbg.com
+0.0.0.0 wretchauraflirt.com
 0.0.0.0 wretchedchapterdozen.com
 0.0.0.0 wrfiwa.ru
 0.0.0.0 wrierville.com
@@ -40795,6 +40820,7 @@
 0.0.0.0 wwyfcalkqahi.com
 0.0.0.0 wwznqib.com
 0.0.0.0 wxbdfm.com
+0.0.0.0 wxbdwj.cn
 0.0.0.0 wxcwtehxsfri.com
 0.0.0.0 wxebgpj.cn
 0.0.0.0 wxhdwy.com
@@ -41443,6 +41469,7 @@
 0.0.0.0 yanyanbiji.com
 0.0.0.0 yaodianzhineng.cn
 0.0.0.0 yaohq.com
+0.0.0.0 yaokuan01.cn
 0.0.0.0 yaoquanshumeiyu.com
 0.0.0.0 yaoxiaoli.com
 0.0.0.0 yapgrubupper.com
@@ -41462,6 +41489,7 @@
 0.0.0.0 yb0t.com
 0.0.0.0 yb7a1bb6k1.com
 0.0.0.0 ybcrwm.com
+0.0.0.0 ybej5ohp0x.ru
 0.0.0.0 ybhypt.com
 0.0.0.0 ybmlwhhsuf.com
 0.0.0.0 ybotvisit.com
@@ -42011,6 +42039,7 @@
 0.0.0.0 yzzqza.vanillashu.co.kr
 0.0.0.0 z-profit.com
 0.0.0.0 z.cdn.trafficlide.com
+0.0.0.0 z.grfyw.com
 0.0.0.0 z.nowscore.com
 0.0.0.0 z.opmnstr.com
 0.0.0.0 z.tudouxy01.com

@@ -1,4 +1,4 @@
-# Wed May  5 11:57:34 PM UTC 2021
+# Fri May  7 04:57:51 AM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -4231,7 +4231,6 @@
 0.0.0.0 game.weibo.com
 0.0.0.0 gameanalisys.appcpi.net
 0.0.0.0 gameanalysis.appcpi.net
-0.0.0.0 gameanalytics.com
 0.0.0.0 gamebooster.lionmobi.com
 0.0.0.0 gamestats.herocraft.com
 0.0.0.0 gammaplatform.com
