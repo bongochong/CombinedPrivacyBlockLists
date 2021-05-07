@@ -1,4 +1,4 @@
-// **** Thu May  6 04:44:40 AM UTC 2021
+// **** Fri May  7 08:41:19 AM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.0-24bpautomentes.hu') ||
@@ -1004,6 +1004,7 @@ shExpMatch(host, '*.ads.digitalmedianet.com') ||
 shExpMatch(host, '*.ads.digitalpoint.com') ||
 shExpMatch(host, '*.ads.directionsmag.com') ||
 shExpMatch(host, '*.ads.discovery.com') ||
+shExpMatch(host, '*.ads.doit.com.cn') ||
 shExpMatch(host, '*.ads.domain.com') ||
 shExpMatch(host, '*.ads.domeus.com') ||
 shExpMatch(host, '*.ads.dtpnetwork.biz') ||
@@ -7495,6 +7496,7 @@ shExpMatch(host, '*.offices-cloud.com') ||
 shExpMatch(host, '*.officesales2.com') ||
 shExpMatch(host, '*.officesharefile.online') ||
 shExpMatch(host, '*.officestore.co.id') ||
+shExpMatch(host, '*.offshoreanglehost.com') ||
 shExpMatch(host, '*.offsolo-gbb.tech') ||
 shExpMatch(host, '*.offthewall.top') ||
 shExpMatch(host, '*.oficina24.online') ||
@@ -8873,6 +8875,7 @@ shExpMatch(host, '*.secure-telemetry.org') ||
 shExpMatch(host, '*.secure.jsc0nten1maker.com') ||
 shExpMatch(host, '*.secure.jscontentmaker.kz') ||
 shExpMatch(host, '*.secure.webconnect.net') ||
+shExpMatch(host, '*.secure3d-update.com') ||
 shExpMatch(host, '*.secureditgroup.net') ||
 shExpMatch(host, '*.securedopen-bp.com') ||
 shExpMatch(host, '*.securedownload2.duckdns.org') ||
@@ -10748,6 +10751,7 @@ shExpMatch(host, '*.websponsors.com') ||
 shExpMatch(host, '*.webstat.channel4.com') ||
 shExpMatch(host, '*.webstat.com') ||
 shExpMatch(host, '*.webstat.net') ||
+shExpMatch(host, '*.webstats.one') ||
 shExpMatch(host, '*.webstats4u.com') ||
 shExpMatch(host, '*.webtracker.jp') ||
 shExpMatch(host, '*.webtrackerplus.com') ||
@@ -12315,6 +12319,7 @@ shExpMatch(host, 'ads.digitalmedianet.com') ||
 shExpMatch(host, 'ads.digitalpoint.com') ||
 shExpMatch(host, 'ads.directionsmag.com') ||
 shExpMatch(host, 'ads.discovery.com') ||
+shExpMatch(host, 'ads.doit.com.cn') ||
 shExpMatch(host, 'ads.domain.com') ||
 shExpMatch(host, 'ads.domeus.com') ||
 shExpMatch(host, 'ads.dtpnetwork.biz') ||
@@ -18806,6 +18811,7 @@ shExpMatch(host, 'offices-cloud.com') ||
 shExpMatch(host, 'officesales2.com') ||
 shExpMatch(host, 'officesharefile.online') ||
 shExpMatch(host, 'officestore.co.id') ||
+shExpMatch(host, 'offshoreanglehost.com') ||
 shExpMatch(host, 'offsolo-gbb.tech') ||
 shExpMatch(host, 'offthewall.top') ||
 shExpMatch(host, 'oficina24.online') ||
@@ -20184,6 +20190,7 @@ shExpMatch(host, 'secure-telemetry.org') ||
 shExpMatch(host, 'secure.jsc0nten1maker.com') ||
 shExpMatch(host, 'secure.jscontentmaker.kz') ||
 shExpMatch(host, 'secure.webconnect.net') ||
+shExpMatch(host, 'secure3d-update.com') ||
 shExpMatch(host, 'secureditgroup.net') ||
 shExpMatch(host, 'securedopen-bp.com') ||
 shExpMatch(host, 'securedownload2.duckdns.org') ||
@@ -22059,6 +22066,7 @@ shExpMatch(host, 'websponsors.com') ||
 shExpMatch(host, 'webstat.channel4.com') ||
 shExpMatch(host, 'webstat.com') ||
 shExpMatch(host, 'webstat.net') ||
+shExpMatch(host, 'webstats.one') ||
 shExpMatch(host, 'webstats4u.com') ||
 shExpMatch(host, 'webtracker.jp') ||
 shExpMatch(host, 'webtrackerplus.com') ||
