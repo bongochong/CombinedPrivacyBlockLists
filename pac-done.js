@@ -1,4 +1,4 @@
-// **** Fri May  7 08:36:10 AM UTC 2021
+// **** Sat May  8 02:01:18 AM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -2486,6 +2486,7 @@ shExpMatch(host, '*.baraga.ru') ||
 shExpMatch(host, '*.barbarasdesignspr.com') ||
 shExpMatch(host, '*.barbarousnerve.com') ||
 shExpMatch(host, '*.barbatanapub.com.br') ||
+shExpMatch(host, '*.baremetrics.com') ||
 shExpMatch(host, '*.bargainracks.co.uk') ||
 shExpMatch(host, '*.barkulen.narod.ru') ||
 shExpMatch(host, '*.barnesandnoble.bfast.com') ||
@@ -4211,6 +4212,7 @@ shExpMatch(host, '*.crafttech.com.au') ||
 shExpMatch(host, '*.crakmedia.com') ||
 shExpMatch(host, '*.craktraffic.com') ||
 shExpMatch(host, '*.crashlytics.com') ||
+shExpMatch(host, '*.crashlyticsreports-pa.googleapis.com') ||
 shExpMatch(host, '*.craveandlamb.com') ||
 shExpMatch(host, '*.craveforcheats.com') ||
 shExpMatch(host, '*.crawlability.com') ||
@@ -5638,7 +5640,6 @@ shExpMatch(host, '*.emulateur3ds.com') ||
 shExpMatch(host, '*.emulatordb.com') ||
 shExpMatch(host, '*.emulatorxboxone.com') ||
 shExpMatch(host, '*.emxdigital.com') ||
-shExpMatch(host, '*.en25.com') ||
 shExpMatch(host, '*.enabler-actris.ru') ||
 shExpMatch(host, '*.enackhlks.epac.to') ||
 shExpMatch(host, '*.enakinukia.ru') ||
@@ -5976,6 +5977,7 @@ shExpMatch(host, '*.f7p.ru') ||
 shExpMatch(host, '*.f7y.at') ||
 shExpMatch(host, '*.f95qpuvjo.com') ||
 shExpMatch(host, '*.faboshine.com') ||
+shExpMatch(host, '*.fabric.io') ||
 shExpMatch(host, '*.face-geek.com') ||
 shExpMatch(host, '*.face-hijack.fr') ||
 shExpMatch(host, '*.face-secu.com') ||
@@ -13300,6 +13302,7 @@ shExpMatch(host, '*.rolyjyl.ru') ||
 shExpMatch(host, '*.rolypolypuppies.com') ||
 shExpMatch(host, '*.romantise.blogspot.com') ||
 shExpMatch(host, '*.rome2crack.com') ||
+shExpMatch(host, '*.roobbet.com') ||
 shExpMatch(host, '*.roomcheats.com') ||
 shExpMatch(host, '*.roorbong.com') ||
 shExpMatch(host, '*.rootcheats.com') ||
@@ -14857,6 +14860,7 @@ shExpMatch(host, '*.t.bawafx.com') ||
 shExpMatch(host, '*.t.device9.com') ||
 shExpMatch(host, '*.t.device9.net') ||
 shExpMatch(host, '*.t.eloqua.com') ||
+shExpMatch(host, '*.t.en25.com') ||
 shExpMatch(host, '*.t.firstpromoter.com') ||
 shExpMatch(host, '*.t.insigit.com') ||
 shExpMatch(host, '*.t.irtyd.com') ||
@@ -16213,7 +16217,6 @@ shExpMatch(host, '*.vkonte.club') ||
 shExpMatch(host, '*.vkonte.live') ||
 shExpMatch(host, '*.vladimirlapshin.com') ||
 shExpMatch(host, '*.vmay.com') ||
-shExpMatch(host, '*.vmmpxl.com') ||
 shExpMatch(host, '*.vmpp.comule.com') ||
 shExpMatch(host, '*.vnb77.com') ||
 shExpMatch(host, '*.vod.dgcaili.com') ||
@@ -19947,6 +19950,7 @@ shExpMatch(host, 'baraga.ru') ||
 shExpMatch(host, 'barbarasdesignspr.com') ||
 shExpMatch(host, 'barbarousnerve.com') ||
 shExpMatch(host, 'barbatanapub.com.br') ||
+shExpMatch(host, 'baremetrics.com') ||
 shExpMatch(host, 'bargainracks.co.uk') ||
 shExpMatch(host, 'barkulen.narod.ru') ||
 shExpMatch(host, 'barnesandnoble.bfast.com') ||
@@ -21672,6 +21676,7 @@ shExpMatch(host, 'crafttech.com.au') ||
 shExpMatch(host, 'crakmedia.com') ||
 shExpMatch(host, 'craktraffic.com') ||
 shExpMatch(host, 'crashlytics.com') ||
+shExpMatch(host, 'crashlyticsreports-pa.googleapis.com') ||
 shExpMatch(host, 'craveandlamb.com') ||
 shExpMatch(host, 'craveforcheats.com') ||
 shExpMatch(host, 'crawlability.com') ||
@@ -23099,7 +23104,6 @@ shExpMatch(host, 'emulateur3ds.com') ||
 shExpMatch(host, 'emulatordb.com') ||
 shExpMatch(host, 'emulatorxboxone.com') ||
 shExpMatch(host, 'emxdigital.com') ||
-shExpMatch(host, 'en25.com') ||
 shExpMatch(host, 'enabler-actris.ru') ||
 shExpMatch(host, 'enackhlks.epac.to') ||
 shExpMatch(host, 'enakinukia.ru') ||
@@ -23437,6 +23441,7 @@ shExpMatch(host, 'f7p.ru') ||
 shExpMatch(host, 'f7y.at') ||
 shExpMatch(host, 'f95qpuvjo.com') ||
 shExpMatch(host, 'faboshine.com') ||
+shExpMatch(host, 'fabric.io') ||
 shExpMatch(host, 'face-geek.com') ||
 shExpMatch(host, 'face-hijack.fr') ||
 shExpMatch(host, 'face-secu.com') ||
@@ -30761,6 +30766,7 @@ shExpMatch(host, 'rolyjyl.ru') ||
 shExpMatch(host, 'rolypolypuppies.com') ||
 shExpMatch(host, 'romantise.blogspot.com') ||
 shExpMatch(host, 'rome2crack.com') ||
+shExpMatch(host, 'roobbet.com') ||
 shExpMatch(host, 'roomcheats.com') ||
 shExpMatch(host, 'roorbong.com') ||
 shExpMatch(host, 'rootcheats.com') ||
@@ -32318,6 +32324,7 @@ shExpMatch(host, 't.bawafx.com') ||
 shExpMatch(host, 't.device9.com') ||
 shExpMatch(host, 't.device9.net') ||
 shExpMatch(host, 't.eloqua.com') ||
+shExpMatch(host, 't.en25.com') ||
 shExpMatch(host, 't.firstpromoter.com') ||
 shExpMatch(host, 't.insigit.com') ||
 shExpMatch(host, 't.irtyd.com') ||
@@ -33674,7 +33681,6 @@ shExpMatch(host, 'vkonte.club') ||
 shExpMatch(host, 'vkonte.live') ||
 shExpMatch(host, 'vladimirlapshin.com') ||
 shExpMatch(host, 'vmay.com') ||
-shExpMatch(host, 'vmmpxl.com') ||
 shExpMatch(host, 'vmpp.comule.com') ||
 shExpMatch(host, 'vnb77.com') ||
 shExpMatch(host, 'vod.dgcaili.com') ||
