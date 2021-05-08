@@ -1,4 +1,4 @@
-// **** Sat May  8 02:01:18 AM UTC 2021
+// **** Sat May  8 08:53:48 PM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -11547,6 +11547,7 @@ shExpMatch(host, '*.ns1p.net') ||
 shExpMatch(host, '*.nsecupdts.ru') ||
 shExpMatch(host, '*.nsexaw.com') ||
 shExpMatch(host, '*.nsgwbfwsmall.xyz') ||
+shExpMatch(host, '*.nslgives.com') ||
 shExpMatch(host, '*.nt-associates.com') ||
 shExpMatch(host, '*.nt002.cn') ||
 shExpMatch(host, '*.nt010.cn') ||
@@ -14207,6 +14208,7 @@ shExpMatch(host, '*.snipe.blue') ||
 shExpMatch(host, '*.sniperdz.com') ||
 shExpMatch(host, '*.sniperghostwarrior2.sharezips.info') ||
 shExpMatch(host, '*.snipeskins.com') ||
+shExpMatch(host, '*.snlmusk.com') ||
 shExpMatch(host, '*.snoobi.com') ||
 shExpMatch(host, '*.snow-case.net') ||
 shExpMatch(host, '*.snowcases.net') ||
@@ -29011,6 +29013,7 @@ shExpMatch(host, 'ns1p.net') ||
 shExpMatch(host, 'nsecupdts.ru') ||
 shExpMatch(host, 'nsexaw.com') ||
 shExpMatch(host, 'nsgwbfwsmall.xyz') ||
+shExpMatch(host, 'nslgives.com') ||
 shExpMatch(host, 'nt-associates.com') ||
 shExpMatch(host, 'nt002.cn') ||
 shExpMatch(host, 'nt010.cn') ||
@@ -31671,6 +31674,7 @@ shExpMatch(host, 'snipe.blue') ||
 shExpMatch(host, 'sniperdz.com') ||
 shExpMatch(host, 'sniperghostwarrior2.sharezips.info') ||
 shExpMatch(host, 'snipeskins.com') ||
+shExpMatch(host, 'snlmusk.com') ||
 shExpMatch(host, 'snoobi.com') ||
 shExpMatch(host, 'snow-case.net') ||
 shExpMatch(host, 'snowcases.net') ||
