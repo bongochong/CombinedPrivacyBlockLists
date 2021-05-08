@@ -1,4 +1,4 @@
-# Sat May  8 01:58:56 AM UTC 2021
+# Sat May  8 08:48:09 PM UTC 2021
 # Spam404 Hosts - Generated weekly by bongochong
 0.0.0.0 001www.com
 0.0.0.0 0daygameparadise.com
@@ -5612,6 +5612,7 @@
 0.0.0.0 nowdownloadhack.com
 0.0.0.0 nowfunnygame.com
 0.0.0.0 nowmusik.com
+0.0.0.0 nslgives.com
 0.0.0.0 ntdll.top
 0.0.0.0 nuadagi.ru
 0.0.0.0 nucur.ru
@@ -6779,6 +6780,7 @@
 0.0.0.0 sniperdz.com
 0.0.0.0 sniperghostwarrior2.sharezips.info
 0.0.0.0 snipeskins.com
+0.0.0.0 snlmusk.com
 0.0.0.0 snow-case.net
 0.0.0.0 snowcases.net
 0.0.0.0 soccergamesunblocked.us
