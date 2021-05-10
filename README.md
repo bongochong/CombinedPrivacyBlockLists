@@ -45,7 +45,7 @@ In addition, see the [**Windows Versions of these Tools**](https://github.com/bo
 <sup>1. [MVPS Hosts Files](http://winhelp2002.mvps.org/). </sup> <br>
 <sup>2. [PGL Yoyo Hosts Files](http://pgl.yoyo.org/adservers/). </sup> <br>
 <sup>3. [Updated Malware Domains Immortal List](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/MD-ID-Fork.txt). </sup> <br>
-<sup>4. [URL Haus](https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts-online.txt). </sup> <br>
+<sup>4. [URL Haus](https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts-online.txt) (Active domains only). </sup> <br>
 <sup>5. [EasyList](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/ABP2Hosts/easylist_desktop-hosts.txt). </sup> <br>
 <sup>6. [Additional](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/README.md) [Supplementary](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/WindowsTelemetryBlockSupplements) [Entries](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/ABP2Hosts). </sup> <br>
 <sup>7. [Halite](https://www.fosshub.com/Halite.html). </sup> <br>
