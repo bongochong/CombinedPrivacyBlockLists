@@ -19,7 +19,7 @@ Within this directory are the following items:
 
 - The PGL Yoyo Ad-Blocking Hosts file, converted to plain [CIDR Format](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/pgl-yoyo-hosts.cidr), and CIDR format [with `deny from` prepended to each line](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/pgl-yoyo-hosts-deny.cidr).
 
-- The [plain version of my CIDR-format block list](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/combined-flat.cidr) is also available in this subdirectory.  
+- The [version of my CIDR-format block list with `deny from` prepended to each line](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/combined-flat.cidr) is also available in this subdirectory.  
 
 - Finally, an ABP / uBO filter list which is [mostly the cosmetic filters](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/cpbl-abp-cosmetic-only.txt) from my main ABP / uBO lists.
 
