@@ -192,6 +192,7 @@ deny from 108.60.149.204/32
 deny from 108.61.16.85/32
 deny from 108.61.4.52/32
 deny from 108.61.5.242/31
+deny from 109.105.190.253/32
 deny from 109.123.194.85/32
 deny from 109.123.74.252/32
 deny from 109.123.89.175/32
@@ -278,7 +279,6 @@ deny from 115.239.210.151/32
 deny from 115.73.211.230/32
 deny from 116.139.200.238/32
 deny from 116.144.0.0/14
-deny from 116.228.223.154/32
 deny from 116.55.241.240/32
 deny from 116.55.241.250/32
 deny from 116.79.0.0/16
@@ -460,7 +460,6 @@ deny from 124.232.159.250/32
 deny from 124.242.0.0/16
 deny from 124.36.209.244/32
 deny from 124.68.0.0/15
-deny from 124.94.18.114/32
 deny from 125.119.32.0/22
 deny from 125.169.0.0/16
 deny from 125.31.192.0/18
@@ -1430,7 +1429,6 @@ deny from 180.188.173.89/32
 deny from 180.236.0.0/14
 deny from 180.67.220.137/32
 deny from 180.76.164.93/32
-deny from 180.76.235.126/32
 deny from 180.96.17.240/32
 deny from 180.96.17.250/32
 deny from 181.143.251.154/32
@@ -3957,6 +3955,7 @@ deny from 211.115.71.50/32
 deny from 211.128.99.12/32
 deny from 211.13.223.60/32
 deny from 211.147.222.95/32
+deny from 211.149.193.132/32
 deny from 211.151.90.109/32
 deny from 211.233.15.102/32
 deny from 211.233.58.252/32
@@ -5555,6 +5554,7 @@ deny from 42.96.0.0/18
 deny from 43.181.0.0/16
 deny from 43.229.52.0/22
 deny from 43.236.0.0/16
+deny from 43.248.129.123/32
 deny from 43.250.116.0/22
 deny from 43.252.80.0/22
 deny from 43.57.0.0/16
@@ -6157,6 +6157,7 @@ deny from 59.254.0.0/15
 deny from 59.46.124.38/32
 deny from 60.12.231.36/32
 deny from 60.190.113.12/32
+deny from 60.223.86.121/32
 deny from 60.233.0.0/16
 deny from 61.11.224.0/19
 deny from 61.111.9.66/31
@@ -6166,10 +6167,11 @@ deny from 61.129.52.198/32
 deny from 61.135.162.26/32
 deny from 61.135.163.221/32
 deny from 61.139.126.56/32
-deny from 61.142.20.28/31
+deny from 61.142.20.28/32
 deny from 61.142.20.5/32
 deny from 61.155.199.240/32
 deny from 61.155.199.250/32
+deny from 61.184.173.84/32
 deny from 61.187.235.110/32
 deny from 61.187.92.46/32
 deny from 61.213.12.16/32
