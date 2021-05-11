@@ -1,4 +1,4 @@
-# Sat May  8 08:48:09 PM UTC 2021
+# Tue May 11 09:36:56 PM UTC 2021
 # Spam404 Hosts - Generated weekly by bongochong
 0.0.0.0 001www.com
 0.0.0.0 0daygameparadise.com
@@ -105,6 +105,8 @@
 0.0.0.0 activefiles.org
 0.0.0.0 activefollowerz.xyz
 0.0.0.0 activehacks.com
+0.0.0.0 adabonus2021.com
+0.0.0.0 adabonus2021.net
 0.0.0.0 adbon.us
 0.0.0.0 addcocgems.com
 0.0.0.0 addgramfollows.com
@@ -1809,6 +1811,11 @@
 0.0.0.0 dofuskamas-generateur.com
 0.0.0.0 dofuskamasgenerateur.com
 0.0.0.0 dofuskamashack.net
+0.0.0.0 doge-elon.com
+0.0.0.0 doge-event.net
+0.0.0.0 doge-snl.org
+0.0.0.0 dogecoin-snl.com
+0.0.0.0 dogesnl.live
 0.0.0.0 dokona.ru
 0.0.0.0 doktordick.com
 0.0.0.0 dolcedrop.com
@@ -3272,6 +3279,8 @@
 0.0.0.0 fullysoftware.com
 0.0.0.0 fullzinfo.com
 0.0.0.0 functionalhack.info
+0.0.0.0 fund-doge.net
+0.0.0.0 fundsdoge.org
 0.0.0.0 fungamecheats.com
 0.0.0.0 fungames.vip
 0.0.0.0 funinformatique.com
@@ -3525,6 +3534,7 @@
 0.0.0.0 gehifu.ru
 0.0.0.0 gelatogems.com
 0.0.0.0 gem24.net
+0.0.0.0 geminigiveaway.club
 0.0.0.0 gempubg.com
 0.0.0.0 gems-community.com
 0.0.0.0 gemsclashofclans.com
@@ -5282,6 +5292,7 @@
 0.0.0.0 mol.haxdo.com
 0.0.0.0 mondodeitrucchi.net
 0.0.0.0 moneroceo.com
+0.0.0.0 moneroholders.com
 0.0.0.0 moneyisecondgod.com
 0.0.0.0 monjeuconcoursassurancedirexi.fr
 0.0.0.0 monplacementmalin.com
@@ -6780,7 +6791,11 @@
 0.0.0.0 sniperdz.com
 0.0.0.0 sniperghostwarrior2.sharezips.info
 0.0.0.0 snipeskins.com
+0.0.0.0 snl-doge.ceo
+0.0.0.0 snlday.top
+0.0.0.0 snlgive.org
 0.0.0.0 snlmusk.com
+0.0.0.0 snlprize.net
 0.0.0.0 snow-case.net
 0.0.0.0 snowcases.net
 0.0.0.0 soccergamesunblocked.us
@@ -7170,6 +7185,7 @@
 0.0.0.0 tesla-coins.net
 0.0.0.0 tesla-gifting.site
 0.0.0.0 tesla-musk.eu
+0.0.0.0 teslaicrypto.com
 0.0.0.0 tesopportunites.fr
 0.0.0.0 test-domuin1.com
 0.0.0.0 testerl.pw
