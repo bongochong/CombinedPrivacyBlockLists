@@ -5259,7 +5259,6 @@
 0.0.0.0 agamgreetingscom.112.2o7.net
 0.0.0.0 agbmcom.112.2o7.net
 0.0.0.0 agegreetings.112.2o7.net
-0.0.0.0 agenciachida.com
 0.0.0.0 agency.adsota.com
 0.0.0.0 aghightile.ml
 0.0.0.0 agilemedia.jp
@@ -5862,7 +5861,6 @@
 0.0.0.0 analytics02.metalocator.com
 0.0.0.0 analytics20.kochava.com
 0.0.0.0 analyticsapi.bsbportal.com
-0.0.0.0 analyticspage.tools
 0.0.0.0 analyticsq.com
 0.0.0.0 analyticssl.clickpathmedia.com
 0.0.0.0 analyze.accesstrade.net
@@ -7504,6 +7502,7 @@
 0.0.0.0 cash-advance.now-cash.com
 0.0.0.0 cashadvancework.com
 0.0.0.0 cashbeet.com
+0.0.0.0 cashreportz.com
 0.0.0.0 casino-ad-mediation.me2zengame.com
 0.0.0.0 casinonono.ddns.net
 0.0.0.0 casmagnat.rocks
@@ -7958,7 +7957,6 @@
 0.0.0.0 citimobile.d2.sc.omtrdc.net
 0.0.0.0 city-ads.de
 0.0.0.0 cityads.telus.net
-0.0.0.0 citycardriving.net
 0.0.0.0 citycash2.blogspot.com
 0.0.0.0 citygame.xyz
 0.0.0.0 citytrading.usa.cc
@@ -8278,7 +8276,6 @@
 0.0.0.0 collegeprowler.adblade.com
 0.0.0.0 collierymines.com
 0.0.0.0 collinsserver.duckdns.org
-0.0.0.0 colombecrs.biz
 0.0.0.0 colompna-youm.ga
 0.0.0.0 colorfulafterthought.com
 0.0.0.0 colovilla.top
@@ -9624,6 +9621,7 @@
 0.0.0.0 ehg-adeptscience.hitbox.com
 0.0.0.0 ehg-advertisementbv.hitbox.com
 0.0.0.0 ehg-kingstontechnology.hitbox.com
+0.0.0.0 ehg-usnewsworldreport.hitbox.com
 0.0.0.0 ehg-wacomtechnology.hitbox.com
 0.0.0.0 ehsanmaali.ddns.net
 0.0.0.0 eiectrum.net
@@ -11232,6 +11230,7 @@
 0.0.0.0 hitgraph.jp
 0.0.0.0 hitlerloco.xtrweb.com
 0.0.0.0 hitpop.ir
+0.0.0.0 hits.gureport.co.uk
 0.0.0.0 hitsite.crazy-bee.com
 0.0.0.0 hitweb.chosun.com
 0.0.0.0 hitx.statistics.ro
@@ -12375,6 +12374,7 @@
 0.0.0.0 kaspersky.d3.sc.omtrdc.net
 0.0.0.0 kaspersky.science
 0.0.0.0 kasvatus.org
+0.0.0.0 katie.v4.omgtnc.com
 0.0.0.0 katu.adbureau.net
 0.0.0.0 kau.li
 0.0.0.0 kazaa.adserver.co.il
@@ -12618,6 +12618,7 @@
 0.0.0.0 lans.setare-bash.com
 0.0.0.0 lapaz.ru
 0.0.0.0 laptopmag.122.2o7.net
+0.0.0.0 laptopreportcard.com
 0.0.0.0 laptopscreen.jp
 0.0.0.0 laserjetpro.com
 0.0.0.0 lasersteam178.ru
@@ -12718,6 +12719,7 @@
 0.0.0.0 lga1.admarketplace.net
 0.0.0.0 lgcreditdemo.qnotice.com
 0.0.0.0 lgelectronics.122.2o7.net
+0.0.0.0 lgsa.adv.br
 0.0.0.0 lh590.com
 0.0.0.0 lh65.com
 0.0.0.0 lh660.com
@@ -13051,6 +13053,7 @@
 0.0.0.0 logi6.xiti.com
 0.0.0.0 logi7.xiti.com
 0.0.0.0 logi8.xiti.com
+0.0.0.0 logicav.in
 0.0.0.0 login-avance-incremento-web-cl.cf
 0.0.0.0 login-avance-incremento-web-cl.gq
 0.0.0.0 login-ds.dotomi.com
@@ -13178,6 +13181,7 @@
 0.0.0.0 lp.mydas.mobi
 0.0.0.0 lp.vasta.co.jp
 0.0.0.0 lp3tdqle.com
+0.0.0.0 lp4.onlinecasinoreports.com
 0.0.0.0 lpdk.net
 0.0.0.0 lritck.tk
 0.0.0.0 ls.srvcs.tumblr.com
@@ -14419,6 +14423,7 @@
 0.0.0.0 newsmaxfeednetwork.com
 0.0.0.0 newsok.112.2o7.net
 0.0.0.0 newsquestdigitalmedia.122.2o7.net
+0.0.0.0 newsreport.com-alerts.info
 0.0.0.0 newstimeslivecom.112.2o7.net
 0.0.0.0 newsurprizeforyou.com
 0.0.0.0 newt1.adultadworld.com
@@ -14695,6 +14700,7 @@
 0.0.0.0 oascentral.adage.com
 0.0.0.0 oascentral.adageglobal.com
 0.0.0.0 oascentral.blogher.org
+0.0.0.0 oascentral.consumerreports.org
 0.0.0.0 oascentral.hamptonroads.com
 0.0.0.0 oascentral.hamptoroads.com
 0.0.0.0 oascentral.hamtoroads.com
@@ -15051,6 +15057,7 @@
 0.0.0.0 pagead3.googlesyndication.com
 0.0.0.0 pagead46.l.doubleclick.net
 0.0.0.0 pages.etology.com
+0.0.0.0 pagespeed.report.qq.com
 0.0.0.0 paintnet.es
 0.0.0.0 paintnet.fr
 0.0.0.0 paintnet.it
@@ -15364,7 +15371,6 @@
 0.0.0.0 plasmid904.site
 0.0.0.0 plastileen.pw
 0.0.0.0 platads.com
-0.0.0.0 plataforma.uenf.br
 0.0.0.0 platform-metrics-api.sharethis.com
 0.0.0.0 platform.adright.com
 0.0.0.0 platform.cloud-iq.com.au
@@ -16022,6 +16028,7 @@
 0.0.0.0 raresummer.com
 0.0.0.0 rarog-cobetchik.ru
 0.0.0.0 rasakltd.biz
+0.0.0.0 rasmussenreports.us.intellitxt.com
 0.0.0.0 ratchetmining.com
 0.0.0.0 ratforandroid.ddns.net
 0.0.0.0 rathot.ml
@@ -16058,6 +16065,7 @@
 0.0.0.0 rdr.ad-score.com
 0.0.0.0 rdr.adsfactor.net
 0.0.0.0 rdrs.ad-score.com
+0.0.0.0 reachglobal-in.com
 0.0.0.0 reactads.cdn.adglare.net
 0.0.0.0 readersdigest.tt.omtrdc.net
 0.0.0.0 readgoldfish.com
@@ -16172,6 +16180,7 @@
 0.0.0.0 report.adsplay.net
 0.0.0.0 report.adsplay.xyz
 0.0.0.0 report.adview.cn
+0.0.0.0 report.broadcastpc.tv
 0.0.0.0 report.statistics.aatkit.com
 0.0.0.0 report02.adtech.de
 0.0.0.0 report02.adtech.fr
@@ -16187,11 +16196,13 @@
 0.0.0.0 reportimage.adtech.fr
 0.0.0.0 reportimage.adtech.us
 0.0.0.0 reporting-stvde.adsafety.net
+0.0.0.0 reporting.aatkit.com
 0.0.0.0 reporting.deliveryengine.adswizz.com
 0.0.0.0 reports-telemetry-microsoft.com
 0.0.0.0 reports.ad.plus
 0.0.0.0 reports.admanmedia.com
 0.0.0.0 reports.crashlytics.com
+0.0.0.0 reports.extreme-dm.com
 0.0.0.0 reports.wes.df.telemetry.microsoft.com
 0.0.0.0 repostuj.push-ad.com
 0.0.0.0 repurikakamire.com
@@ -16282,6 +16293,7 @@
 0.0.0.0 rivonka.ga
 0.0.0.0 rjodmz.com
 0.0.0.0 rlabinsahab.com
+0.0.0.0 rlvieiraconsult.adv.br
 0.0.0.0 rm-admin-demo.iovation.com
 0.0.0.0 rm-cdn.trackjs.netdna-cdn.com
 0.0.0.0 rm-lo-sdk.adbrix.io
@@ -16349,6 +16361,7 @@
 0.0.0.0 royalbankservicescheck.com
 0.0.0.0 royalgroup.ga
 0.0.0.0 rp-lb-766892831.us-east-1.elb.amazonaws.com
+0.0.0.0 rpa21.proasdf.com
 0.0.0.0 rpc-php.trafficfactory.biz
 0.0.0.0 rpc.adpopcorn.com
 0.0.0.0 rpc.tapjoy.com
@@ -18285,6 +18298,8 @@
 0.0.0.0 tech.admicro.vn
 0.0.0.0 techeblog.us.intellitxt.com
 0.0.0.0 technicads.com
+0.0.0.0 technicalconsumerreports.com
+0.0.0.0 technicaldigitalreporting.com
 0.0.0.0 technocloudxpert.com
 0.0.0.0 technology-revealed.com
 0.0.0.0 technologyreview.us.intellitxt.com
@@ -20217,6 +20232,7 @@
 0.0.0.0 webassembly.stream
 0.0.0.0 webbelflax.pt
 0.0.0.0 webbserfer.ru
+0.0.0.0 webbug.seatreport.com
 0.0.0.0 webbux.ir
 0.0.0.0 webeclipsagr.site
 0.0.0.0 webewr.com
@@ -20392,7 +20408,6 @@
 0.0.0.0 wms.assoc-amazon.jp
 0.0.0.0 wmspb.ru
 0.0.0.0 wmtech.website
-0.0.0.0 wnsetup.net
 0.0.0.0 woeiuyfgowe.xyz
 0.0.0.0 wolframalpha.pw
 0.0.0.0 womanear.com
@@ -20875,12 +20890,14 @@
 0.0.0.0 www.adalliance.io
 0.0.0.0 www.adalyser.com
 0.0.0.0 www.adamatic.co
+0.0.0.0 www.adamjeelife.com
 0.0.0.0 www.adamoads.com
 0.0.0.0 www.adamorinmusic.com
 0.0.0.0 www.adamsfilms.com
 0.0.0.0 www.adaog.com
 0.0.0.0 www.adaos-ads.net
 0.0.0.0 www.adap.tv
+0.0.0.0 www.adapelayo.com.mx
 0.0.0.0 www.adapex.io
 0.0.0.0 www.adapt.tv
 0.0.0.0 www.adaptiveads.com
@@ -21727,7 +21744,6 @@
 0.0.0.0 www.adventertainment.it
 0.0.0.0 www.adventori.com
 0.0.0.0 www.adventory.com
-0.0.0.0 www.adventphilomels.org
 0.0.0.0 www.adventureexplorer.in
 0.0.0.0 www.adventurefeeds.com
 0.0.0.0 www.advergine.com
@@ -21996,7 +22012,6 @@
 0.0.0.0 www.analysys.cn
 0.0.0.0 www.analytiall.com
 0.0.0.0 www.analytics.s3.amazonaws.com
-0.0.0.0 www.analyticspage.tools
 0.0.0.0 www.analyticsq.com
 0.0.0.0 www.ananashotel.com
 0.0.0.0 www.anatomytrains.co.uk
@@ -22420,13 +22435,16 @@
 0.0.0.0 www.laanchoa.it
 0.0.0.0 www.lacasadialicedesenzano.it
 0.0.0.0 www.ladsblue.com
+0.0.0.0 www.laptopreportcard.com
 0.0.0.0 www.layer-ad.de
 0.0.0.0 www.layer-ad.org
 0.0.0.0 www.layer-ads.de
+0.0.0.0 www.lgsa.adv.br
 0.0.0.0 www.lightminer.co
 0.0.0.0 www.linksourcetrack.com
 0.0.0.0 www.live1powerlife.com
 0.0.0.0 www.lldiettracker.com
+0.0.0.0 www.logicav.in
 0.0.0.0 www.logly.co.jp
 0.0.0.0 www.logo-net.co.uk
 0.0.0.0 www.logoeps.com
@@ -22528,6 +22546,7 @@
 0.0.0.0 www.ristorante53.it
 0.0.0.0 www.ristorantebiri.it
 0.0.0.0 www.ristoranteilmedioevo.it
+0.0.0.0 www.rlvieiraconsult.adv.br
 0.0.0.0 www.roosterfirework.com
 0.0.0.0 www.rosafondente.it
 0.0.0.0 www.rss141.com
@@ -22576,6 +22595,7 @@
 0.0.0.0 www.statsy.net
 0.0.0.0 www.statt-collect.herokuapp.com
 0.0.0.0 www.stattrax.com
+0.0.0.0 www.statusquobrand.com
 0.0.0.0 www.statutecompatibility.com
 0.0.0.0 www.statutorjuihui.site
 0.0.0.0 www.statxpress.com
@@ -22617,7 +22637,6 @@
 0.0.0.0 www.trackimpression.com
 0.0.0.0 www.tracking.to
 0.0.0.0 www.tracking101.com
-0.0.0.0 www.trackingflaregames.net
 0.0.0.0 www.trackingpro.pro
 0.0.0.0 www.trackingsoft.com
 0.0.0.0 www.trackingzen.com

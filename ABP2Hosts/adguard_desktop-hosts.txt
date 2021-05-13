@@ -1,4 +1,4 @@
-# Tue May 11 09:36:31 PM UTC 2021
+# Thu May 13 02:48:13 AM UTC 2021
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 00-gov.cn
 0.0.0.0 0024aaaa.com
@@ -63,6 +63,7 @@
 0.0.0.0 0727vjdl.xyz
 0.0.0.0 0728w.cn
 0.0.0.0 073img.com
+0.0.0.0 0748d0112a4fb.com
 0.0.0.0 0755man.cn
 0.0.0.0 0796gou.com
 0.0.0.0 0798ls.com
@@ -571,6 +572,7 @@
 0.0.0.0 3.5646.cn
 0.0.0.0 3.guidaye.com
 0.0.0.0 3.ssqzj.com
+0.0.0.0 30104fd89dc.com
 0.0.0.0 301848.com
 0.0.0.0 302a67cac6.com
 0.0.0.0 303marketplace.com
@@ -1253,6 +1255,7 @@
 0.0.0.0 800d24d61daea3c.com
 0.0.0.0 801.tianyaui.com
 0.0.0.0 8020solutions.net
+0.0.0.0 806360b129d126.com
 0.0.0.0 8080i.com
 0.0.0.0 8092686a39ac5.com
 0.0.0.0 80juqing.com
@@ -3883,6 +3886,7 @@
 0.0.0.0 agillic.eu
 0.0.0.0 agilone.com
 0.0.0.0 agitazio.com
+0.0.0.0 agjy6.com
 0.0.0.0 agkn.com
 0.0.0.0 agkxwjwutrhw.com
 0.0.0.0 aglai-tan.com
@@ -5337,6 +5341,7 @@
 0.0.0.0 atgalacticwoken.com
 0.0.0.0 athenainstitute.biz
 0.0.0.0 athercompet.club
+0.0.0.0 atherenoth.info
 0.0.0.0 atherethundr.fun
 0.0.0.0 athsexten.top
 0.0.0.0 athshebath.club
@@ -7418,6 +7423,7 @@
 0.0.0.0 burstnet.akadns.net
 0.0.0.0 burstnet.com
 0.0.0.0 burt.io
+0.0.0.0 buscando.heavenmedia.com
 0.0.0.0 busfarmum.com
 0.0.0.0 busguyspec.com
 0.0.0.0 bushesearlobe.com
@@ -8447,6 +8453,7 @@
 0.0.0.0 chinyeatoy.com
 0.0.0.0 chipleader.com
 0.0.0.0 chiptionics.co
+0.0.0.0 chirkacylal.com
 0.0.0.0 chistochisto.com
 0.0.0.0 chitereach.club
 0.0.0.0 chitika.com
@@ -8685,6 +8692,7 @@
 0.0.0.0 clfvfumqqok.com
 0.0.0.0 clfxjrlui.com
 0.0.0.0 clhko.top
+0.0.0.0 cli2020.com
 0.0.0.0 clic2pub.com
 0.0.0.0 clicadu.com
 0.0.0.0 clicationsul.club
@@ -10936,6 +10944,7 @@
 0.0.0.0 dcclaa.freundin.de
 0.0.0.0 dccqzsmabz.com
 0.0.0.0 dcdilhaybpzkvj.com
+0.0.0.0 dcdz5xfv4nws.com
 0.0.0.0 dce0k0.cn
 0.0.0.0 dceni.com
 0.0.0.0 dcfkalvbcs.com
@@ -13196,7 +13205,6 @@
 0.0.0.0 engine-w-htgb-a.net.daraz.com
 0.0.0.0 engine.adtidy.net
 0.0.0.0 engine.eroge.com
-0.0.0.0 engine.fxempire.com
 0.0.0.0 engine.laweekly.com
 0.0.0.0 engine.mobileapptracking.com
 0.0.0.0 engine.partylemons.com
@@ -13215,7 +13223,6 @@
 0.0.0.0 enhancereviewpacket.com
 0.0.0.0 enhucherions.xyz
 0.0.0.0 eniousirre.top
-0.0.0.0 enjoy.modd.io
 0.0.0.0 enjuk.com
 0.0.0.0 enjuw.com
 0.0.0.0 enkayijamal.club
@@ -13883,6 +13890,7 @@
 0.0.0.0 f17a5ff6bf31.com
 0.0.0.0 f185cefa37b1806e.com
 0.0.0.0 f18a35cc33ee29a.com
+0.0.0.0 f18ea5c9f46a.com
 0.0.0.0 f1f60d2ef1a4ed.com
 0.0.0.0 f1t5pb.cn
 0.0.0.0 f1zd.com
@@ -14618,7 +14626,6 @@
 0.0.0.0 forex-affiliate.net
 0.0.0.0 forexplmdb.com
 0.0.0.0 forexprostools.com
-0.0.0.0 forextuner.com
 0.0.0.0 forexyard.com
 0.0.0.0 forgetfulflowers.com
 0.0.0.0 forgivencardiac.com
@@ -14731,6 +14738,7 @@
 0.0.0.0 fqzds.com
 0.0.0.0 fr.promo.skf.com
 0.0.0.0 fr.sharpmarketing.eu
+0.0.0.0 fractionwhatsoever.com
 0.0.0.0 frailflock.com
 0.0.0.0 frailoffer.com
 0.0.0.0 framentyder.pro
@@ -15264,6 +15272,7 @@
 0.0.0.0 gcm.ksmobile.com
 0.0.0.0 gcm.ksmobile.net
 0.0.0.0 gcomrarlta.com
+0.0.0.0 gconfirmat.fun
 0.0.0.0 gcontentdelivery.info
 0.0.0.0 gcowhi.thesalarycalculator.co.uk
 0.0.0.0 gcqdiydpfytvn.com
@@ -15407,6 +15416,7 @@
 0.0.0.0 geras-con.com
 0.0.0.0 gerberka.com
 0.0.0.0 gerbil.buf.build
+0.0.0.0 germinatedisgustokay.com
 0.0.0.0 gernewt.info
 0.0.0.0 gerpkshe.com
 0.0.0.0 gersairg.net
@@ -15941,6 +15951,7 @@
 0.0.0.0 gompoozu.net
 0.0.0.0 gomsa.ru
 0.0.0.0 gomtdatacom.xyz
+0.0.0.0 gonczpsaceew.com
 0.0.0.0 gondolagnome.com
 0.0.0.0 goneviral.com
 0.0.0.0 gonextpage.ru
@@ -16919,6 +16930,7 @@
 0.0.0.0 hindsight.significanceapps.com
 0.0.0.0 hindurinning.pro
 0.0.0.0 hinesdenien.club
+0.0.0.0 hinfectlyb.biz
 0.0.0.0 hingefestivitysmelt.com
 0.0.0.0 hingenerall.club
 0.0.0.0 hinksdeba.top
@@ -17241,6 +17253,7 @@
 0.0.0.0 hotlinking.dosmil.imap.cc
 0.0.0.0 hotlog.ru
 0.0.0.0 hotrank.com.tw
+0.0.0.0 hotrodsvmsize.casa
 0.0.0.0 hotsexmeet.ru
 0.0.0.0 hotsocials.com
 0.0.0.0 hottod.info
@@ -22550,6 +22563,7 @@
 0.0.0.0 mdyhb.com
 0.0.0.0 me.networkandfaces.com
 0.0.0.0 meadigital.com
+0.0.0.0 meadowleader.com
 0.0.0.0 mealparameter.com
 0.0.0.0 meantlick.com
 0.0.0.0 meapk.com
@@ -24546,6 +24560,7 @@
 0.0.0.0 myzk1.com
 0.0.0.0 myzwqwe12.com
 0.0.0.0 mz28ismn.com
+0.0.0.0 mzbb8872.cn
 0.0.0.0 mzbsdt.mobilityhouse.com
 0.0.0.0 mzirmall.com
 0.0.0.0 mzol7lbm.com
@@ -25553,6 +25568,7 @@
 0.0.0.0 nuoqingck.cn
 0.0.0.0 nupoot.com
 0.0.0.0 nuquds.citizenwatch.com
+0.0.0.0 nuqwe.com
 0.0.0.0 nurno.com
 0.0.0.0 nurobi.info
 0.0.0.0 nuseek.com
@@ -27086,6 +27102,7 @@
 0.0.0.0 pclicks.com
 0.0.0.0 pcmzn.com
 0.0.0.0 pcon.space
+0.0.0.0 pcshuju.com
 0.0.0.0 pcskkmgjnubi.com
 0.0.0.0 pcspeedup.com
 0.0.0.0 pctext.ru
@@ -29908,6 +29925,7 @@
 0.0.0.0 reporting.aatkit.com
 0.0.0.0 reportionbreedy.pro
 0.0.0.0 reportions.club
+0.0.0.0 reportsnakefill.com
 0.0.0.0 repositorycsr12.net.daraz.com
 0.0.0.0 reprak.com
 0.0.0.0 reprenees.club
@@ -31021,6 +31039,7 @@
 0.0.0.0 sallyminority.com
 0.0.0.0 salmon.literallife.church
 0.0.0.0 salmon.thespiritualpsychologist.co.uk
+0.0.0.0 salutationcheerlessdemote.com
 0.0.0.0 salvador24.com
 0.0.0.0 salzwerk.viessmann.de
 0.0.0.0 sam.msn.com
@@ -31488,6 +31507,7 @@
 0.0.0.0 sdqoi2d.com
 0.0.0.0 sdsttt.com
 0.0.0.0 sdv-m.ru
+0.0.0.0 sdweldrobot.cn
 0.0.0.0 sdwsxf.africanmall.com
 0.0.0.0 sdxctr.com
 0.0.0.0 sdxkdj.cn
@@ -31753,6 +31773,7 @@
 0.0.0.0 sensortoluy.club
 0.0.0.0 sentemanactri.com
 0.0.0.0 sentifi.com
+0.0.0.0 sentphysically.com
 0.0.0.0 sentry01.zerg.rambler.ru
 0.0.0.0 seo-master.net
 0.0.0.0 seo-sport.ru
@@ -39901,6 +39922,7 @@
 0.0.0.0 vnbugnmwq.com
 0.0.0.0 vnf4.belleetbio.com
 0.0.0.0 vniwis.pro
+0.0.0.0 vnkevmoytft.com
 0.0.0.0 vnl1.voyage-prive.nl
 0.0.0.0 vnnv777.cn
 0.0.0.0 vnrherdsxr.com
@@ -40584,6 +40606,7 @@
 0.0.0.0 wenqixiefu.cn
 0.0.0.0 wenshenbang.com
 0.0.0.0 wensoono.com
+0.0.0.0 wenwen120.com
 0.0.0.0 wenxuemi6.com
 0.0.0.0 wenzhougy.cn
 0.0.0.0 weoccn.bonito.pl
@@ -42579,6 +42602,7 @@
 0.0.0.0 zapunited.com
 0.0.0.0 zarabotay.1gif.ru
 0.0.0.0 zarabotki.ru
+0.0.0.0 zargutivisor.info
 0.0.0.0 zarlomgog.com
 0.0.0.0 zarpop.com
 0.0.0.0 zashtorkino.ru
