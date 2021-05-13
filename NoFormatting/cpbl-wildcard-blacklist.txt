@@ -4,7 +4,7 @@
 # This work is licensed under the CPAL-1.0
 # See: https://shorl.com/vebrubefrubiti
 #
-# ~- Thu May 13 04:14:10 AM UTC 2021 -~
+# ~- Thu May 13 05:09:32 AM UTC 2021 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -2376,6 +2376,7 @@
 *.91yktong.com
 *.91ysa.com
 *.920sbo17zn88.com
+*.921ce2aa2264.com
 *.924e60106cd9d0e.com
 *.925.lt
 *.927a8dd1afec73.com
@@ -3315,6 +3316,7 @@
 *.ab163949.adbutler-kaon.com
 *.ab199.de
 *.ab4tn.com
+*.ab6c5bb0893.com
 *.ab78f9910d.com
 *.ab913aa797e78b3.com
 *.ab9dbc9a0cda.com
@@ -3555,6 +3557,7 @@
 *.abonnementxboxlive.net
 *.aboriginalboats.com
 *.abort-count.smbeat.jp
+*.abostimp.com
 *.abourselfi.com
 *.aboutads.gr
 *.aboutconvert.ru
@@ -5043,6 +5046,7 @@
 *.adgrowmedia.com
 *.adgrx.com.tech.akadns.net
 *.adgrx.com
+*.adgxptnsiwxjx.com
 *.adhall.com
 *.adhands.ru
 *.adhaven.com
@@ -10182,6 +10186,7 @@
 *.altedrop.com
 *.alternads.info
 *.alternativeadverts.com
+*.alternativeprofitablegate.com
 *.alternativhirek.blogspot.hu
 *.alternativos.iw-advertising.com
 *.altero.gr
@@ -10654,6 +10659,7 @@
 *.analytics.explus.vn
 *.analytics.ext.go-tellm.com
 *.analytics.facebook.com
+*.analytics.faceitanalytics.com
 *.analytics.fairfax.com.au
 *.analytics.favcy.com
 *.analytics.faw.sky.com
@@ -13255,6 +13261,7 @@
 *.b81x63nc.ws.md
 *.b83pmp.cn
 *.b88c9bd1dcedfc3.com
+*.b892942df6.com
 *.b8af8878e9a9565.com
 *.b8cf0fd3179ef.com
 *.b8pfulzbyj7h.com
@@ -13296,6 +13303,7 @@
 *.babyboomboomads.com
 *.babylyst.com
 *.babysitter.gen.tr
+*.babysitterdeadlockjuly.com
 *.babysitterpancakerich.com
 *.babywantsbling.com
 *.babyxox.com
@@ -21258,6 +21266,7 @@
 *.criteo.com
 *.criteo.net
 *.critical-boot.com
+*.criticismvillagegun.com
 *.critictruck.com
 *.crittercism.com
 *.crittersbythebay.com
@@ -27210,6 +27219,7 @@
 *.entryhit.wp.pl
 *.entrypoint.search.yahooapis.jp
 *.entsbecaus.top
+*.entsnotesq.fun
 *.entysaturesc.space
 *.enumerateenvironment.com
 *.enumeraterunnerscommence.com
@@ -28928,6 +28938,7 @@
 *.fbvbyi.abekker.ru
 *.fbvwtb.biz
 *.fbwand.com
+*.fbxnsabawjkylo.com
 *.fbxploitz.com
 *.fb_servpub-a.akamaihd.net
 *.fc.co.mz
@@ -30086,6 +30097,7 @@
 *.foreign.dt00.net
 *.foreignsec.club
 *.foremaneasierperiods.com
+*.foremangreek.com
 *.forensics1000.com
 *.foresee.com
 *.foreseeresults.com
@@ -31488,6 +31500,7 @@
 *.gahoqohofib.eu
 *.gaietyejection.com
 *.gaietyswamp.com
+*.gaihethu.net
 *.gaihunuo.cn
 *.gaijiglo.net
 *.gain-a-dentalimplantssite.fyi
@@ -32575,6 +32588,7 @@
 *.gibeleftyeuro.com
 *.gidaq.ru
 *.giddinessdefensivesubject.com
+*.giddinessfeintsum.com
 *.giddos.ga
 *.giddyattendant.com
 *.giddycoat.com
@@ -32637,6 +32651,7 @@
 *.gingerandcoblog.com
 *.gingoblindri.club
 *.ginuhy.ru
+*.giocdn.com
 *.giojhm.finya.de
 *.giokole.com
 *.gioorrs.pro
@@ -36388,6 +36403,7 @@
 *.humanpresence.app
 *.humanredirect.ru
 *.humanverify.net
+*.humbugplanning.com
 *.humdrumhat.com
 *.humiconfort.com
 *.humidmentioned.com
@@ -37662,6 +37678,7 @@
 *.incor.xyz
 *.increased.cn
 *.increaserev.com
+*.increasingtrack.com
 *.incrediblepixels.com
 *.incrediblesugar.com
 *.incrediblevideosvst.com
@@ -39375,6 +39392,7 @@
 *.jemmgroup.com
 *.jen.jiji.com
 *.jenergy.tw
+*.jenicdntc.com
 *.jenno.adsb4all.com
 *.jennus.com
 *.jennwolfemtb.com
@@ -44208,6 +44226,7 @@
 *.magneticva.com
 *.magnetisemedia.com
 *.magnetmail1.net
+*.magnificentmanlyyeast.com
 *.magnificentmeasure.com
 *.magnificentmist.com
 *.magnify360-cdn.s3.amazonaws.com
@@ -45144,6 +45163,7 @@
 *.masudel.com
 *.maszcjc.com
 *.mataharirama.xyz
+*.match.seesaa.jp
 *.matchaix.net
 *.matchbin-assets.s3.amazonaws.com
 *.matchcows.com
@@ -48161,7 +48181,6 @@
 *.movad.net
 *.movcpm.com
 *.movdec.com
-*.move2.co
 *.moveadrenaline.com
 *.movemeal.com
 *.movepix.com
@@ -53405,6 +53424,7 @@
 *.pecash.com
 *.peckshadowlousy.com
 *.pectors.info
+*.peculiaritiesfrequencymedicine.com
 *.pedailyu.com
 *.pedestalturner.com
 *.pedestrianneighbourly.com
@@ -56983,6 +57003,7 @@
 *.quakedamnalight.com
 *.quakemarketing.com
 *.qualaroo.com
+*.qualifiedcuter.com
 *.qualigo.de
 *.quality-channel.de
 *.quality-hacks.com
@@ -58700,6 +58721,7 @@
 *.ridihaagroup.com
 *.ridikuluskouture.com
 *.ridingintractable.com
+*.riencesco.biz
 *.rientofficim.club
 *.rifat01.info
 *.rifat02.info
@@ -59009,6 +59031,7 @@
 *.rogermccay.org
 *.rogew.com
 *.rogojaob.info
+*.roguefairfaxeminent.com
 *.rohingyaedu.com
 *.roi-pro.com
 *.roi-rocket.net
@@ -59690,6 +59713,7 @@
 *.s.avforums.ru
 *.s.bangkokoutline.com
 *.s.baomoi.xdn.vn
+*.s.beop.io
 *.s.bigbolz.com
 *.s.blinds.com
 *.s.cadent.bloomberglaw.com
@@ -60771,6 +60795,7 @@
 *.sd.sharethis.com
 *.sd346.zzz.com.ua
 *.sd5doozry8.com
+*.sda.seesaa.jp
 *.sda.tamdiem247.com
 *.sdabfw.cn
 *.sdad.guru
@@ -61289,7 +61314,6 @@
 *.seeptoag.net
 *.seeq.com.invalid
 *.seerpiu002.com
-*.seesaa.jp
 *.seethisinaction.com
 *.seevolution.com
 *.seewhy.com
@@ -64660,6 +64684,7 @@
 *.snappytvpoc-vh.akamaihd.net
 *.snaps.vidiemi.com
 *.snapsed.club
+*.snarlleadenpsychology.com
 *.snat.goguardian.com
 *.snbwyi.heine.at
 *.snd.tc
@@ -65571,6 +65596,7 @@
 *.sprocket-ping.s3.amazonaws.com
 *.sproose.com
 *.sprout-ad.com
+*.sproutstarbarnacle.com
 *.spruceatom.com
 *.spscas.hitachi-solutions.co.jp
 *.spstav.ru
@@ -66783,6 +66809,7 @@
 *.stats.proff.no
 *.stats.propublica.org
 *.stats.pselookup.vrymel.com
+*.stats.pstream.net
 *.stats.pusher.com
 *.stats.qawl.app
 *.stats.qbitstore.nl
@@ -76222,6 +76249,7 @@
 *.wearelovelive.com
 *.weareqy.com
 *.wearewhatwesay.com
+*.weaselfundamental.com
 *.weather-analytics-events.apple.com
 *.weather.gbaycruise.com
 *.weatherent.club
@@ -76891,6 +76919,7 @@
 *.widewiderangers.fun
 *.widget-view.dmm.co.jp
 *.widget-view.dmm.com
+*.widget.beop.io
 *.widget.blogram.jp
 *.widget.cheki.com.ng
 *.widget.convertiser.com
