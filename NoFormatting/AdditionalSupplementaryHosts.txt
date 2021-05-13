@@ -16536,6 +16536,7 @@
 0.0.0.0 s.adx.io
 0.0.0.0 s.adx.opera.com
 0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 s.beop.io
 0.0.0.0 s.d.adup-tech.com
 0.0.0.0 s.f1.impact-ad.jp
 0.0.0.0 s.hitplus.ir
@@ -20323,6 +20324,7 @@
 0.0.0.0 wi-fitechnology.uk.intellitxt.com
 0.0.0.0 wideads.com
 0.0.0.0 widewiderangers.fun
+0.0.0.0 widget.beop.io
 0.0.0.0 widget.blogram.jp
 0.0.0.0 widget.congoro.com
 0.0.0.0 widget.iid-network.jp
