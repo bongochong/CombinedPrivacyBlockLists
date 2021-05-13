@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mini CPBL Filters for ABP & uBO
-! Updated: Thu May 13 05:02:51 AM UTC 2021
+! Updated: Thu May 13 10:01:49 PM UTC 2021
 ! Expires: 7 Days
 ! License: https://git.io/JTTLW
 ! Homepage: https://git.io/JTTLB
@@ -58389,14 +58389,17 @@ website2.me##[id^="ws-side-banner-"]
 ||theblockcrypto.com/wp-json/v1/sponsorships*$domain=theblockcrypto.com
 ! Exceptions for Un-Breaking Certain Sites
 @@||a.pub.network/reuters-com/*$script,domain=reuters.com
+@@||amazon-adsystem.com^$domain=weather.com
 @@||api.segment.io^$xhr,domain=reuters.com
 @@||cdn.segment.com^$script,domain=reuters.com
 @@||geolocation.onetrust.com^$domain=secure.soundcloud.com
 @@||ingest.sentry.io/api/$xmlhttprequest,domain=tesco.com
 @@||ingest.sentry.io/api/$xmlhttprequest,domain=tesco.hu
 @@||pwt.soundcloud.com^$domain=secure.soundcloud.com
+@@||sb.scorecardresearch.com/c2/plugins/streamingtag_plugin_jwplayer.js$script,domain=weather.com
 @@||segment.com/v1/projects/$xmlhttprequest,domain=reuters.com
 @@||sndcdn.com^$domain=secure.soundcloud.com
+@@||tags.crwdcntrl.net^$domain=weather.com
 @@||tru.am/scripts/custom/reuters.js$script,domain=reuters.com
 @@||usasync01.admantx.com/admantx/service$xhr,domain=reuters.com
 @@||z.moatads.com^$script,domain=reuters.com
