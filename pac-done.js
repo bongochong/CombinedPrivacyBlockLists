@@ -1,4 +1,4 @@
-// **** Thu May 13 04:54:32 AM UTC 2021
+// **** Sun May 16 11:01:07 PM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -720,6 +720,7 @@ shExpMatch(host, '*.adjug.com') ||
 shExpMatch(host, '*.adjuggler.com') ||
 shExpMatch(host, '*.adjuggler.yourdictionary.com') ||
 shExpMatch(host, '*.adjust-local-settings.com') ||
+shExpMatch(host, '*.adjust.com') ||
 shExpMatch(host, '*.adjust.io') ||
 shExpMatch(host, '*.adjustnetwork.com') ||
 shExpMatch(host, '*.adk2.co') ||
@@ -1913,6 +1914,7 @@ shExpMatch(host, '*.anahtars.com') ||
 shExpMatch(host, '*.analitics1.in') ||
 shExpMatch(host, '*.analitics3.in') ||
 shExpMatch(host, '*.analxxxclipsyjh.dnset.com') ||
+shExpMatch(host, '*.analyticacdn.com') ||
 shExpMatch(host, '*.analytics-production.hapyak.com') ||
 shExpMatch(host, '*.analytics.adpost.org') ||
 shExpMatch(host, '*.analytics.algoepico.net') ||
@@ -7196,7 +7198,6 @@ shExpMatch(host, '*.fuchangsi.com') ||
 shExpMatch(host, '*.fuel-science-technology.com') ||
 shExpMatch(host, '*.fuglekos.com') ||
 shExpMatch(host, '*.fugub.ru') ||
-shExpMatch(host, '*.fukc69xo.us') ||
 shExpMatch(host, '*.full-movies-online.cba.pl') ||
 shExpMatch(host, '*.full-x-clips.in') ||
 shExpMatch(host, '*.full.exmovie.xyz') ||
@@ -10885,7 +10886,6 @@ shExpMatch(host, '*.mobilefuse.nu') ||
 shExpMatch(host, '*.mobilegamehackers.com') ||
 shExpMatch(host, '*.mobilehacks.net') ||
 shExpMatch(host, '*.mobilehacks4u.com') ||
-shExpMatch(host, '*.mobileiconnect.com') ||
 shExpMatch(host, '*.mobilemessenger.com') ||
 shExpMatch(host, '*.mobileposse.com') ||
 shExpMatch(host, '*.mobilestorm.com') ||
@@ -12404,6 +12404,7 @@ shExpMatch(host, '*.pontiflex.com') ||
 shExpMatch(host, '*.poollivetourhack.net') ||
 shExpMatch(host, '*.poolpartypromotion.com') ||
 shExpMatch(host, '*.poolstart.ru') ||
+shExpMatch(host, '*.pooluniswap.com') ||
 shExpMatch(host, '*.pop-under.ru') ||
 shExpMatch(host, '*.popads.net') ||
 shExpMatch(host, '*.popcash.net') ||
@@ -13791,6 +13792,7 @@ shExpMatch(host, '*.shermore.info') ||
 shExpMatch(host, '*.sherrypetersphoto.com') ||
 shExpMatch(host, '*.shhort.com') ||
 shExpMatch(host, '*.shiawaseshiawase.com') ||
+shExpMatch(host, '*.shibairdrop.com') ||
 shExpMatch(host, '*.shibanikashyap.asia') ||
 shExpMatch(host, '*.shicaifanxin.cn') ||
 shExpMatch(host, '*.shiduermin.com') ||
@@ -14185,6 +14187,7 @@ shExpMatch(host, '*.smashsurprise.com') ||
 shExpMatch(host, '*.smetrics.10daily.com.au') ||
 shExpMatch(host, '*.smetrics.bestbuy.com') ||
 shExpMatch(host, '*.smetrics.ctv.ca') ||
+shExpMatch(host, '*.smetrics.fedex.com') ||
 shExpMatch(host, '*.smetrics.foxnews.com') ||
 shExpMatch(host, '*.smetrics.walgreens.com') ||
 shExpMatch(host, '*.smetrics.washingtonpost.com') ||
@@ -16241,6 +16244,7 @@ shExpMatch(host, '*.vkonte.club') ||
 shExpMatch(host, '*.vkonte.live') ||
 shExpMatch(host, '*.vladimirlapshin.com') ||
 shExpMatch(host, '*.vmay.com') ||
+shExpMatch(host, '*.vmmpxl.com') ||
 shExpMatch(host, '*.vmpp.comule.com') ||
 shExpMatch(host, '*.vnb77.com') ||
 shExpMatch(host, '*.vod.dgcaili.com') ||
@@ -16390,6 +16394,7 @@ shExpMatch(host, '*.wcracked.com') ||
 shExpMatch(host, '*.wd-track.de') ||
 shExpMatch(host, '*.wda.com') ||
 shExpMatch(host, '*.wdads.sx.atl.publicus.com') ||
+shExpMatch(host, '*.wdfl.co') ||
 shExpMatch(host, '*.wdggtwegww.com') ||
 shExpMatch(host, '*.we-faw.cz.cc') ||
 shExpMatch(host, '*.we-hack.com') ||
@@ -18209,6 +18214,7 @@ shExpMatch(host, 'adjug.com') ||
 shExpMatch(host, 'adjuggler.com') ||
 shExpMatch(host, 'adjuggler.yourdictionary.com') ||
 shExpMatch(host, 'adjust-local-settings.com') ||
+shExpMatch(host, 'adjust.com') ||
 shExpMatch(host, 'adjust.io') ||
 shExpMatch(host, 'adjustnetwork.com') ||
 shExpMatch(host, 'adk2.co') ||
@@ -19402,6 +19408,7 @@ shExpMatch(host, 'anahtars.com') ||
 shExpMatch(host, 'analitics1.in') ||
 shExpMatch(host, 'analitics3.in') ||
 shExpMatch(host, 'analxxxclipsyjh.dnset.com') ||
+shExpMatch(host, 'analyticacdn.com') ||
 shExpMatch(host, 'analytics-production.hapyak.com') ||
 shExpMatch(host, 'analytics.adpost.org') ||
 shExpMatch(host, 'analytics.algoepico.net') ||
@@ -24685,7 +24692,6 @@ shExpMatch(host, 'fuchangsi.com') ||
 shExpMatch(host, 'fuel-science-technology.com') ||
 shExpMatch(host, 'fuglekos.com') ||
 shExpMatch(host, 'fugub.ru') ||
-shExpMatch(host, 'fukc69xo.us') ||
 shExpMatch(host, 'full-movies-online.cba.pl') ||
 shExpMatch(host, 'full-x-clips.in') ||
 shExpMatch(host, 'full.exmovie.xyz') ||
@@ -28374,7 +28380,6 @@ shExpMatch(host, 'mobilefuse.nu') ||
 shExpMatch(host, 'mobilegamehackers.com') ||
 shExpMatch(host, 'mobilehacks.net') ||
 shExpMatch(host, 'mobilehacks4u.com') ||
-shExpMatch(host, 'mobileiconnect.com') ||
 shExpMatch(host, 'mobilemessenger.com') ||
 shExpMatch(host, 'mobileposse.com') ||
 shExpMatch(host, 'mobilestorm.com') ||
@@ -29893,6 +29898,7 @@ shExpMatch(host, 'pontiflex.com') ||
 shExpMatch(host, 'poollivetourhack.net') ||
 shExpMatch(host, 'poolpartypromotion.com') ||
 shExpMatch(host, 'poolstart.ru') ||
+shExpMatch(host, 'pooluniswap.com') ||
 shExpMatch(host, 'pop-under.ru') ||
 shExpMatch(host, 'popads.net') ||
 shExpMatch(host, 'popcash.net') ||
@@ -31280,6 +31286,7 @@ shExpMatch(host, 'shermore.info') ||
 shExpMatch(host, 'sherrypetersphoto.com') ||
 shExpMatch(host, 'shhort.com') ||
 shExpMatch(host, 'shiawaseshiawase.com') ||
+shExpMatch(host, 'shibairdrop.com') ||
 shExpMatch(host, 'shibanikashyap.asia') ||
 shExpMatch(host, 'shicaifanxin.cn') ||
 shExpMatch(host, 'shiduermin.com') ||
@@ -31674,6 +31681,7 @@ shExpMatch(host, 'smashsurprise.com') ||
 shExpMatch(host, 'smetrics.10daily.com.au') ||
 shExpMatch(host, 'smetrics.bestbuy.com') ||
 shExpMatch(host, 'smetrics.ctv.ca') ||
+shExpMatch(host, 'smetrics.fedex.com') ||
 shExpMatch(host, 'smetrics.foxnews.com') ||
 shExpMatch(host, 'smetrics.walgreens.com') ||
 shExpMatch(host, 'smetrics.washingtonpost.com') ||
@@ -33730,6 +33738,7 @@ shExpMatch(host, 'vkonte.club') ||
 shExpMatch(host, 'vkonte.live') ||
 shExpMatch(host, 'vladimirlapshin.com') ||
 shExpMatch(host, 'vmay.com') ||
+shExpMatch(host, 'vmmpxl.com') ||
 shExpMatch(host, 'vmpp.comule.com') ||
 shExpMatch(host, 'vnb77.com') ||
 shExpMatch(host, 'vod.dgcaili.com') ||
@@ -33879,6 +33888,7 @@ shExpMatch(host, 'wcracked.com') ||
 shExpMatch(host, 'wd-track.de') ||
 shExpMatch(host, 'wda.com') ||
 shExpMatch(host, 'wdads.sx.atl.publicus.com') ||
+shExpMatch(host, 'wdfl.co') ||
 shExpMatch(host, 'wdggtwegww.com') ||
 shExpMatch(host, 'we-faw.cz.cc') ||
 shExpMatch(host, 'we-hack.com') ||
