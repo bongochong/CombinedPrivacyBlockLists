@@ -1,4 +1,4 @@
-# Thu May 13 04:52:08 AM UTC 2021
+# Sun May 16 10:56:56 PM UTC 2021
 # Spam404 Hosts - Generated weekly by bongochong
 0.0.0.0 001www.com
 0.0.0.0 0daygameparadise.com
@@ -5988,6 +5988,7 @@
 0.0.0.0 polquxa.ru
 0.0.0.0 poollivetourhack.net
 0.0.0.0 poolpartypromotion.com
+0.0.0.0 pooluniswap.com
 0.0.0.0 popcornvod.co
 0.0.0.0 poptropica-cheats-free.com
 0.0.0.0 poptropica.newzgames.com
@@ -6575,6 +6576,7 @@
 0.0.0.0 shelleylalonde.com
 0.0.0.0 shellez.com
 0.0.0.0 shhort.com
+0.0.0.0 shibairdrop.com
 0.0.0.0 shifty-hack.com
 0.0.0.0 shockcheats.com
 0.0.0.0 shocking-news.info
