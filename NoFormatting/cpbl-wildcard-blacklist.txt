@@ -4,7 +4,7 @@
 # This work is licensed under the CPAL-1.0
 # See: https://shorl.com/vebrubefrubiti
 #
-# ~- Mon May 17 01:30:10 AM UTC 2021 -~
+# ~- Mon May 17 03:33:59 AM UTC 2021 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -824,7 +824,7 @@
 *.22fhfh.com
 *.22hyhy.com
 *.22kkkk.com
-*.22pixx.xyz
+*.22pixx.xyz/l/
 *.22pornz.site
 *.22ssh.com
 *.230x.net
@@ -9684,6 +9684,7 @@
 *.aka-root.com
 *.aka-uae-dl.uliza.jp
 *.aka.accortech.com
+*.aka.ms-ads.co
 *.akaads-espn.starwave.com
 *.akabo.ru
 *.akad.tc
