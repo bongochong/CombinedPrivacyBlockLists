@@ -1,4 +1,4 @@
-# Sun May 16 10:56:53 PM UTC 2021
+# Mon May 17 01:13:48 AM UTC 2021
 # AdGuard DNS Hosts - Generated weekly by bongochong
 0.0.0.0 00-gov.cn
 0.0.0.0 0024aaaa.com
@@ -20842,6 +20842,7 @@
 0.0.0.0 mkazanc.com
 0.0.0.0 mkhoj.com
 0.0.0.0 mkjsqrpmxqdf.com
+0.0.0.0 mkjunc.cn
 0.0.0.0 mkkliq.com
 0.0.0.0 mkomrzsizvjdg.com
 0.0.0.0 mkt3261.com
