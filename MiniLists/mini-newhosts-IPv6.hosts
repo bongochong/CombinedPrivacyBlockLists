@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 # This work is licensed under the CPAL-1.0
 # See: https://shorl.com/vebrubefrubiti
 #
-# ~- Mon May 17 01:20:59 AM UTC 2021 -~
+# ~- Mon May 17 03:27:09 AM UTC 2021 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -842,7 +842,6 @@ ff02::2 ip6-allrouters
 :: 22fhfh.com
 :: 22hyhy.com
 :: 22kkkk.com
-:: 22pixx.xyz
 :: 22ssh.com
 :: 23205523023daea6.com
 :: 2330.site
@@ -10296,6 +10295,7 @@ ff02::2 ip6-allrouters
 :: aka-root.com
 :: aka-uae-dl.uliza.jp
 :: aka.accortech.com
+:: aka.ms-ads.co
 :: aka.spotxcdn.com
 :: akaads-espn.starwave.com
 :: akabench.cedexis.com
