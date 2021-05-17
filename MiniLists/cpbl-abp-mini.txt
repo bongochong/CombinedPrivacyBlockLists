@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mini CPBL Filters for ABP & uBO
-! Updated: Mon May 17 01:24:45 AM UTC 2021
+! Updated: Mon May 17 03:30:29 AM UTC 2021
 ! Expires: 7 Days
 ! License: https://git.io/JTTLW
 ! Homepage: https://git.io/JTTLB
@@ -663,7 +663,6 @@
 ||22fhfh.com^
 ||22hyhy.com^
 ||22kkkk.com^
-||22pixx.xyz^
 ||22ssh.com^
 ||23205523023daea6.com^
 ||2330.site^
@@ -8461,6 +8460,7 @@
 ||aka-root.com^
 ||aka-uae-dl.uliza.jp^
 ||aka.accortech.com^
+||aka.ms-ads.co^
 ||akaads-espn.starwave.com^
 ||akabo.ru^
 ||akadns-ms.net^
@@ -58292,6 +58292,7 @@ washingtonpost.com##.z-eyei-bvs
 website2.me##[id^="ws-bottom-banner-"]
 website2.me##[id^="ws-side-banner-"]
 ||20minutes.fr/*ak-ads-adblock.js
+||22pixx.xyz/l/
 ||beop.io^$third-party
 ||bscscan.com/images/gen/*1140x90.png$image
 ||cdn.jsdelivr.net/npm/workbox-cdn*$script,domain=theblockcrypto.com
