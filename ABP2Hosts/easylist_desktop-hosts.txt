@@ -1,4 +1,4 @@
-# Mon May 17 01:16:57 AM UTC 2021
+# Mon May 17 03:20:09 AM UTC 2021
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0-24bpautomentes.hu
 0.0.0.0 00-gov.cn
@@ -415,7 +415,6 @@
 0.0.0.0 2227q.com
 0.0.0.0 222im.com
 0.0.0.0 225c34aba07.com
-0.0.0.0 22pixx.xyz
 0.0.0.0 23205523023daea6.com
 0.0.0.0 2334ea708ab6d79.com
 0.0.0.0 233fb5b59351.com

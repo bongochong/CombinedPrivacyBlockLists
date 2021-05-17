@@ -5309,6 +5309,7 @@
 0.0.0.0 aka-cdn.adtechus.com
 0.0.0.0 aka-cnd-ns.adtechus.com
 0.0.0.0 aka-uae-dl.uliza.jp
+0.0.0.0 aka.ms-ads.co
 0.0.0.0 akaads-espn.starwave.com
 0.0.0.0 akadns-ms.net
 0.0.0.0 akaflieg-sb.de
