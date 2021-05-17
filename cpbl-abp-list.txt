@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Sun May 16 11:07:22 PM UTC 2021
+! Updated: Mon May 17 01:24:45 AM UTC 2021
 ! Expires: 7 Days
 ! License: https://git.io/JTTLW
 ! Homepage: https://git.io/JTTLB
@@ -715,7 +715,6 @@
 ||1zone1.free.fr^
 ||2.chmato.me^
 ||2.haoxue360.com^
-||2.indexsinas.me^
 ||2.speedknow.co^
 ||20-pn-installer.com^
 ||2000tours.com^
@@ -1300,7 +1299,6 @@
 ||3henterprise.com^
 ||3jmcwio.com^
 ||3kbktygzr5.ru^
-||3kbspace.com^
 ||3kingclub.com^
 ||3kvm.pw^
 ||3l4r8d61yz.com^
@@ -9451,7 +9449,6 @@
 ||ahddsply.com^
 ||aheadday.com^
 ||aheadmachine.com^
-||aheartawakenedlife.com^
 ||ahedsply.com^
 ||ahelessenge.club^
 ||ahfdsply.com^
@@ -10190,7 +10187,6 @@
 ||alythoriticalt.club^
 ||alzexa.com^
 ||alzwa133.xyz^
-||am-concepts.ca^
 ||am-display.com^
 ||am-investor.ru^
 ||am-schedule.ru^
@@ -12744,7 +12740,6 @@
 ||autopilothq.com^
 ||autoremerciez.xyz^
 ||autoritet.by^
-||autoteam.me^
 ||autoteaser.ru^
 ||autotizer.ru^
 ||autoua.com^
@@ -13406,7 +13401,6 @@
 ||balladolis.cz.cc^
 ||balloonbit.com^
 ||balloontexture.com^
-||ballsarancini.com^
 ||ballymoregroup.actonservice.com^
 ||balmoralmkt.com^
 ||bals.gq^
@@ -14979,7 +14973,6 @@
 ||birdmarker.com^
 ||birdmedia.com^
 ||birkin30.com^
-||birminghamlink.org^
 ||biroads.com^
 ||birsighof.ch^
 ||birta.stats.is^
@@ -15112,7 +15105,6 @@
 ||bj-bytsk.com^
 ||bj1110.online^
 ||bj7kpvd.gandjaltilogoki.com^
-||bjacklynmedicals.com^
 ||bjcathay.com^
 ||bjcgbc.cn^
 ||bjdata.ads.oppomobile.com^
@@ -16061,7 +16053,6 @@
 ||bringmesports.com^
 ||brinkstretching.com^
 ||brisbane-office-furniture.com.au^
-||britefil.com^
 ||britepool.com^
 ||briticatederfd.site^
 ||briticsvocabin.club^
@@ -17321,7 +17312,6 @@
 ||cb3fzwkkt6yxt.xyz^
 ||cb8717377086c72d.com^
 ||cba-fed-igh.com^
-||cba.org.in^
 ||cbbgdep.biz^
 ||cbbp1.com^
 ||cbbvi.com^
@@ -17442,6 +17432,7 @@
 ||cdlinli.com^
 ||cdlkzb.com^
 ||cdn-01.anonfiles.com^
+||cdn-10049480.file.myqcloud.com^
 ||cdn-13.anonfiles.com^
 ||cdn-41111111217-ms-telemetry.net^
 ||cdn-4111111217-ms-telemetry.net^
@@ -18601,7 +18592,6 @@
 ||circumstantialobtrusive.com^
 ||circusbreadth.com^
 ||ciridola.com^
-||cisco-ccna-ccnp-ccie.com^
 ||cisco-eagle.actonservice.com^
 ||ciscotred.cz.cc^
 ||cision.com^
@@ -19433,6 +19423,7 @@
 ||cms.lv^
 ||cms.springboard.gorillanation.com^
 ||cmsbetconstruct.com^
+||cmshospital.in^
 ||cmsjs.eastmoney.com^
 ||cmsmodnews.com^
 ||cmsp.com.ar^
@@ -19668,7 +19659,6 @@
 ||codigoamigo.com.br^
 ||codigobarras.net^
 ||codon.vn^
-||codsambal.com^
 ||coe5n.ru^
 ||coedmediagroup.com^
 ||coefficy.com^
@@ -23081,6 +23071,7 @@
 ||davarello.com^
 ||davedbux.ir^
 ||davespack.top^
+||davethompson.me.uk^
 ||davidharvill.org^
 ||davidich.life^
 ||davidmcguinness.info^
@@ -23501,7 +23492,6 @@
 ||demkc32bq01ah.cloudfront.net^
 ||demo.erpx.com.mx^
 ||demo.g-mart.in^
-||demo.glassforcars.com.au^
 ||demo.vertexinfo.in^
 ||demo6.hiites.com^
 ||demoney.club^
@@ -23722,7 +23712,6 @@
 ||dexterousshould.biz^
 ||dextersolutions.actonservice.com^
 ||deyidesign.com^
-||dezcom.com^
 ||df-srv.de^
 ||df.mmo001.info^
 ||df.mob.com^
@@ -24304,7 +24293,6 @@
 ||dl-microsoft.com^
 ||dl-rms.com^
 ||dl-stage.zola.com^
-||dl.1003b.56a.com^
 ||dl.198424.com^
 ||dl.52zy.com^
 ||dl.benefits.express-scripts.com^
@@ -25006,7 +24994,6 @@
 ||downloadsfreesoftwares.com^
 ||downloadshort.com^
 ||downloadshout.com^
-||downloadsoftfree.info^
 ||downloadsoundcloud.net^
 ||downloadspan.com^
 ||downloadtg4.website^
@@ -26318,7 +26305,6 @@
 ||egamiplatform.tv^
 ||egaxies.cn^
 ||egfqtvewksktz.com^
-||eggnchicken.com^
 ||eggplant.cloud^
 ||egihurinak.ru^
 ||eginnisseco.top^
@@ -27625,7 +27611,6 @@
 ||eu.groupondata.com^
 ||eu.market-place.su^
 ||eu.track.digitaladsystems.com^
-||eu14.tmd.cloud^
 ||euadoroisso.com.br^
 ||euadsapi.manhuaren.com^
 ||euadw.com^
@@ -29029,7 +29014,6 @@
 ||feljack.com^
 ||fem-staffservice.ssl-lolipop.jp^
 ||female-orgazm.com^
-||femalequran.com^
 ||femalewrestlingnow.com^
 ||femeedia.com^
 ||femininefurrow.com^
@@ -29221,7 +29205,6 @@
 ||file-speedy.com^
 ||file-subiz.com^
 ||file.discountmonumentcenter.com^
-||file.elecfans.com^
 ||file.mm.co.kr^
 ||file.oculus-tech.com^
 ||file3size.com^
@@ -30107,7 +30090,6 @@
 ||forza.console2pc.info^
 ||forzahackers.com^
 ||fosass.net^
-||fosflash.com^
 ||fosterheiressdug.com^
 ||fosterpeacesadly.com^
 ||fosterstrawberry.com^
@@ -31017,7 +30999,6 @@
 ||fuel451.com^
 ||fuelbuck.com^
 ||fueldeck.com^
-||fuelgraphics.com^
 ||fuelx.com^
 ||fueox.us^
 ||fuer.pro^
@@ -32804,7 +32785,6 @@
 ||glouposek.ru^
 ||gloverzz.net^
 ||glowdot.com^
-||glowinmedia.co.ke^
 ||glowpok.rawr.gold^
 ||glows.ru^
 ||gloyah.net^
@@ -33926,7 +33906,6 @@
 ||guansenff.cn^
 ||guarana.pw^
 ||guaranteelamp.com^
-||guarartloja.com.br^
 ||guard.mob.com^
 ||guarda4k.online^
 ||guardcathedral.com^
@@ -36194,7 +36173,6 @@
 ||htmuhftnu.com^
 ||htopensationclie.info^
 ||htoter.ru^
-||htownbars.com^
 ||htpanel.com^
 ||htreatory.info^
 ||httbuy.com^
@@ -36618,7 +36596,6 @@
 ||ia.iinfo.cz^
 ||ia22.com^
 ||iabmap.evidon.com^
-||iabmixx2020.rayadigital.online^
 ||iabusprivacy.pmc.com^
 ||iad-01.braze.com^
 ||iad-03.braze.com^
@@ -36649,7 +36626,6 @@
 ||iamahackeur.servehttp.com^
 ||iamediaserve.com^
 ||iamej24d.brianlovin.com^
-||iamihaveican.com^
 ||iammvucrpj.com^
 ||ian.xyz^
 ||ian029dkl3osl930sian.club^
@@ -37489,7 +37465,6 @@
 ||imrk.net^
 ||imrtrack.com^
 ||imrworldwide.com^
-||ims.huile-indonesia.co.id^
 ||imsa.com.au^
 ||imserv001.adtech.fr^
 ||imserv001.adtech.us^
@@ -37642,7 +37617,6 @@
 ||indofreeads.com^
 ||indoleads.com^
 ||indonesia-holiday.com^
-||indrasbikaner.com^
 ||indta.co.id^
 ||industrybrains.com^
 ||ineedhits.com^
@@ -38745,7 +38719,6 @@
 ||islfwt.glamira.co.za^
 ||ism2trk.com^
 ||ismatlab.com^
-||ismf.com.ng^
 ||ismlks.com^
 ||ismpnb.pureda.co.kr^
 ||ismtampsshad.icu^
@@ -40222,7 +40195,6 @@
 ||kaiu-marketing.com^
 ||kaixinjiehun.com^
 ||kaiyiluye.com^
-||kaizenjanitorial.com^
 ||kaizennj.com^
 ||kaizenplatform.net^
 ||kaizentraffic.com^
@@ -40458,13 +40430,11 @@
 ||ketaoke.com^
 ||ketapang.biz^
 ||ketchapp.org^
-||ketiotiles.com^
 ||ketoanhaiphong.vn^
 ||ketofitnessexpert.com^
 ||ketoo.com^
 ||keuhne-negal.com^
 ||kevfer.com^
-||kevs-showbiz.com^
 ||kevuci.ru^
 ||kevyank.ru^
 ||kewithrittit.ru^
@@ -40583,7 +40553,6 @@
 ||kibermansuladu.tk^
 ||kibertuz.site^
 ||kibzer.com^
-||kibzvision.com^
 ||kick.media^
 ||kickasshacks.net^
 ||kickfire.com^
@@ -41341,7 +41310,6 @@
 ||laborates.com^
 ||laboratory-security.ru^
 ||labsclub.com^
-||lacasadelosalebrijes.com^
 ||lacasadialicedesenzano.it^
 ||lacasonadelcartero.cl^
 ||lacembre.com^
@@ -43881,7 +43849,6 @@
 ||m.delltechnologies.com^
 ||m.dubcm.com^
 ||m.ercos.cn^
-||m.estudiomoros.com.ar^
 ||m.fmluna.com^
 ||m.gongzhilian.com.cn^
 ||m.gtask.cn^
@@ -44027,7 +43994,6 @@
 ||madmen.alastonsuomi.com^
 ||madnet.ru^
 ||madnik.beget.tech^
-||madowot.com^
 ||madplypie.club^
 ||madratesforall.com^
 ||mads.amazon.com^
@@ -44386,7 +44352,6 @@
 ||marinsm.com^
 ||mario-sunjic.com^
 ||mariobrown.net^
-||mariovital.pt^
 ||marisappear.pro^
 ||mariyadarg.fun^
 ||mark.isbank.com.tr^
@@ -44993,7 +44958,6 @@
 ||masdpanalytics.azureedge.net^
 ||masee.info^
 ||mashionalkov.info^
-||mashtal.xyz^
 ||mashtourgaunt.com^
 ||masjlr.com^
 ||maskbaby.com.cn^
@@ -45443,7 +45407,6 @@
 ||medcourthe.fun^
 ||medcovern.club^
 ||medcureorganics.com^
-||medgyan.com^
 ||medhyg.actonservice.com^
 ||medi-8.net^
 ||media-0.vpptechnologies.com^
@@ -45580,7 +45543,6 @@
 ||medianaft.com^
 ||medianaft.ru^
 ||medianetworks.ru^
-||medianews.ge^
 ||mediaoaktree.com^
 ||mediaonenetwork.net^
 ||mediaonpro.com^
@@ -47316,6 +47278,7 @@
 ||mkazanc.com^
 ||mkhoj.com^
 ||mkjsqrpmxqdf.com^
+||mkjunc.cn^
 ||mkkliq.com^
 ||mklik.gazeta.pl^
 ||mkmree.dmm.co.jp^
@@ -48432,7 +48395,6 @@
 ||mumgee.co.za^
 ||mumlionslew.com^
 ||mummyanonymous.com^
-||mummydaddy.in^
 ||mummypepdye.com^
 ||mumukafes.net^
 ||mundanepollution.com^
@@ -48489,7 +48451,6 @@
 ||mutrik.com^
 ||muttonvalet.com^
 ||muttr.ru^
-||mutual-consumers.com^
 ||muvflix.com^
 ||muvimtim.com^
 ||muwmedia.com^
@@ -51260,7 +51221,6 @@
 ||okkkk.com^
 ||okm918.com^
 ||oknarai.ru^
-||oknoplastik.sk^
 ||okokw.com^
 ||okoshechka.net^
 ||okovci.ru^
@@ -57311,7 +57271,6 @@
 ||rarseene.com^
 ||rarshare.com^
 ||ras.infynetz.com^
-||rasadbar.ir^
 ||rasahack.com^
 ||rasakltd.biz^
 ||rasclassignn.info^
@@ -57519,7 +57478,6 @@
 ||readvesti.ru^
 ||ready.nerdery.com^
 ||ready4win.com^
-||readymmade.com^
 ||readymoon.com^
 ||readyrobux.com^
 ||readysnails.com^
@@ -58217,7 +58175,6 @@
 ||res.public.fr^
 ||res.rbl.ms^
 ||res.uf1.cn^
-||res.yeshen.com^
 ||res3.feedsportal.com^
 ||resadvantco.info^
 ||resalag.com^
@@ -60487,7 +60444,6 @@
 ||schalke04rss.de^
 ||schaudt.eu^
 ||schedhomoso.pro^
-||scheff.com^
 ||schemas.microsoft.akadns.net^
 ||schemea.prinit.net^
 ||schemouth.com^
@@ -62097,7 +62053,6 @@
 ||shpultiki.ru^
 ||shqbsdjatunl.com^
 ||shqmetrics.sony.com^
-||shredderlink.com^
 ||shrek.6.cn^
 ||shrekis.life^
 ||shriekdestitute.com^
@@ -62200,7 +62155,6 @@
 ||significantlywatertragedy.com^
 ||significbystal.club^
 ||signifyd.com^
-||signifysystem.com^
 ||signsandwondersonline.com^
 ||signstu.top^
 ||signup-way.com^
@@ -62668,7 +62622,6 @@
 ||skyrisecities.com^
 ||skyscan.com^
 ||skyscrpr.com^
-||skytradingfzc.com^
 ||skytvonline.tv^
 ||skyvideo1.ru^
 ||skywinners.com.cn^
@@ -64764,6 +64717,7 @@
 ||solar.olympe.in^
 ||solar.sharpmarketing.eu^
 ||solarmosa.com^
+||solarplanetsa.co.za^
 ||solarray.club^
 ||soldegratuit.com^
 ||solderplumboverreact.com^
@@ -68902,7 +68856,6 @@
 ||technicalfault.tech^
 ||technicallylunaticgarbage.com^
 ||techniche.org.in^
-||techno-wear.com^
 ||technoartha.com^
 ||technocloudxpert.com^
 ||technology-revealed.com^
@@ -68915,7 +68868,6 @@
 ||techonetium.com^
 ||techpacific-international.com^
 ||techradarcom.skimlinks.com^
-||techserve4u.com^
 ||techsidea.website^
 ||techsolutions.com.tw^
 ||techspotcom.skimlinks.com^
@@ -69175,7 +69127,6 @@
 ||test.pagez.kr^
 ||test.protocsconnectes.eu^
 ||test.typoten.com^
-||test1.asistencia247.com^
 ||test1.milenial.id^
 ||test1productions.com^
 ||test2.basis-web.com^
@@ -72544,7 +72495,6 @@
 ||trucoslibre.com^
 ||trucosparafacebook.com^
 ||tructedpunis.fun^
-||trudelfavreau.com^
 ||true-hacks.com^
 ||true25.com^
 ||true2file.com^
@@ -74818,7 +74768,6 @@
 ||video-invest.net^
 ||video-link.ru^
 ||video-loader.com^
-||video-nadzor.me^
 ||video-people.com^
 ||video-play.ru^
 ||video-pomp.com^
@@ -74922,7 +74871,6 @@
 ||vidyceky.com^
 ||vidyp.com^
 ||viebitgreasy.email^
-||vienen.gblix.srv.br^
 ||viensvoircesite.com^
 ||vietalle.com^
 ||vietbet.eu^
@@ -75361,7 +75309,6 @@
 ||volthamfondue.com^
 ||voltskegscurate.com^
 ||volumegently.com^
-||volupia.pt^
 ||voluum.com^
 ||voluumtlkrnarketing.com^
 ||voluumtracker.com^
@@ -76851,7 +76798,6 @@
 ||wildmikky.com^
 ||wildnativebulbs.co.uk^
 ||wildnights.co.uk^
-||wildnorthernmedia.com^
 ||wildotds1.click^
 ||wildtowedcad.work^
 ||wildtrust.mediadevstaging.com^
@@ -76933,7 +76879,6 @@
 ||winmediaplayer.com^
 ||winmonero.club^
 ||winneradsmedia.com^
-||winnercircle.it^
 ||winnpxx.info^
 ||winnpxxx.ru^
 ||winpay.cn^
@@ -80462,7 +80407,6 @@
 ||zenwq.com^
 ||zenzuu.com^
 ||zeotap.com^
-||zephyrstextile.com^
 ||zepozipo.com^
 ||zeqad.com^
 ||zeqqvubxtrh.com^
@@ -80498,7 +80442,6 @@
 ||zeus.developershed.com^
 ||zeus.slader.com^
 ||zeusclicks.com^
-||zeuscreationsmfg.com^
 ||zeustechnology.com^
 ||zeuuwb.com^
 ||zewkj.com^
