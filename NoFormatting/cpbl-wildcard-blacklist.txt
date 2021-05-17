@@ -4,7 +4,7 @@
 # This work is licensed under the CPAL-1.0
 # See: https://shorl.com/vebrubefrubiti
 #
-# ~- Mon May 17 03:43:54 AM UTC 2021 -~
+# ~- Mon May 17 03:46:43 AM UTC 2021 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -786,7 +786,6 @@
 *.20d625b48e.se
 *.20dollars2surf.com
 *.20gbfree.club
-*.20minutes.fr/*ak-ads-adblock.js
 *.20pascals.nl
 *.20tracks.com
 *.21.cizhibaogao.org
@@ -824,7 +823,6 @@
 *.22fhfh.com
 *.22hyhy.com
 *.22kkkk.com
-*.22pixx.xyz/l/*
 *.22pornz.site
 *.22ssh.com
 *.230x.net
