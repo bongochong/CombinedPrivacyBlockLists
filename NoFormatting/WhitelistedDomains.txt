@@ -3,6 +3,7 @@
 #I will not add just any domain to this list
 0.client-channel.google.com
 2.android.pool.ntp.org
+22pixx.xyz
 2mdn.net
 420chan.org
 4chan.org

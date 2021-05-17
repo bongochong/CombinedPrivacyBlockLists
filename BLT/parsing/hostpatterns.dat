@@ -40,6 +40,7 @@ localhost$
 ^fe80::
 ^0.0.0.0 0.client-channel.google.com$
 ^0.0.0.0 2.android.pool.ntp.org$
+^0.0.0.0 22pixx.xyz$
 ^0.0.0.0 2mdn.net$
 ^0.0.0.0 420chan.org$
 ^0.0.0.0 4chan.org$
