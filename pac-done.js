@@ -1,4 +1,4 @@
-// **** Mon May 17 03:26:46 AM UTC 2021
+// **** Tue May 18 12:59:13 AM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -9990,6 +9990,7 @@ shExpMatch(host, '*.letsweb.info') ||
 shExpMatch(host, '*.lettucelimit.com') ||
 shExpMatch(host, '*.leucosib.ru') ||
 shExpMatch(host, '*.levelrate.de') ||
+shExpMatch(host, '*.lever-analytics.com') ||
 shExpMatch(host, '*.lexec.ru') ||
 shExpMatch(host, '*.lexu.goggendorf.at') ||
 shExpMatch(host, '*.lezepi.ru') ||
@@ -27484,6 +27485,7 @@ shExpMatch(host, 'letsweb.info') ||
 shExpMatch(host, 'lettucelimit.com') ||
 shExpMatch(host, 'leucosib.ru') ||
 shExpMatch(host, 'levelrate.de') ||
+shExpMatch(host, 'lever-analytics.com') ||
 shExpMatch(host, 'lexec.ru') ||
 shExpMatch(host, 'lexu.goggendorf.at') ||
 shExpMatch(host, 'lezepi.ru') ||
