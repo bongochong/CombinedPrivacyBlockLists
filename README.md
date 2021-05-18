@@ -5,7 +5,7 @@ These lists block malicious and harmfully deceptive content, like advertising, t
 
 Updates to the lists usually occur on a weekly basis, but often more frequently. If there is a wave of rapid updates in a single day, this usually means that there are significant improvements under way. Please consider [donating to the project](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/DONATE.md) if you find it useful. It should also be noted that my lists are not *just* relevant to those living in English-speaking countries, as I make efforts to block a good amount of malicious "international" content as well. Additionally, I would like to point out that I manually go over all updates with a diff utility, before making final commits (as I rely on this data myself).  
 
-**Descriptions (*mind the footnotes*)**
+**Descriptions (*mind the [footnotes](#footnotes)*)**
 
 - [**newhosts-final.hosts**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts): Is a comprehensive hosts file which blocks known ad, exploit, malware, and tracking servers. It is pulled from MVPS<sup>01</sup>, PGL Yoyo<sup>02</sup>, Malware Domain List<sup>03</sup>, URL Haus<sup>04</sup> and EasyList<sup>05</sup>, along with a variety of supplementary sources for increased protection against telemetry, additions for mobile platforms, and emerging threat prevention.<sup>06</sup> It is then merged, sorted and deduped. This list is compatible with all operating systems that make use of a hosts file (obviously this includes Windows, OS X, GNU/Linux and more). It works great with mobile VPN ad-blocking solutions too. Notably enhanced privacy and security awaits you. _There is also an [IPv6 version](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final-IPv6.hosts), and a [version for both IPv4 and IPv6](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final-Dual.hosts)._
 
@@ -40,7 +40,7 @@ In addition, see the [**Windows Versions of these Tools**](https://github.com/bo
 
 <p align="center"><img src="https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/CPBL-Clacks.gif" alt="GNU Terry Pratchett | Carpentry Get Truth | A.M.K."></p>
 
----
+# <a name="footnotes"></a>---
 
 <sup>01. [MVPS Hosts](http://winhelp2002.mvps.org/). </sup> <br>
 <sup>02. [PGL Yoyo Hosts](http://pgl.yoyo.org/adservers/). </sup> <br>
