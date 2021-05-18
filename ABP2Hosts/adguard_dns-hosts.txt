@@ -1,4 +1,4 @@
-# Mon May 17 03:20:16 AM UTC 2021
+# Tue May 18 12:53:21 AM UTC 2021
 # AdGuard DNS Hosts - Generated weekly by bongochong
 0.0.0.0 00-gov.cn
 0.0.0.0 0024aaaa.com
@@ -13,6 +13,7 @@
 0.0.0.0 01dbf3a452b6.com
 0.0.0.0 01fen.com
 0.0.0.0 01n2e3pac2.com
+0.0.0.0 01tn.cn
 0.0.0.0 022aifang.com
 0.0.0.0 023hysj.com
 0.0.0.0 025suyu.com
@@ -909,6 +910,7 @@
 0.0.0.0 5fst22.cn
 0.0.0.0 5glyqw.com
 0.0.0.0 5gsb4ospxp.monster
+0.0.0.0 5i8xkqjmqubv.top
 0.0.0.0 5iclx7wa4q.com
 0.0.0.0 5imoney.com
 0.0.0.0 5j73de.cn
@@ -2032,6 +2034,7 @@
 0.0.0.0 ad.terra.com
 0.0.0.0 ad.terra.com.mx
 0.0.0.0 ad.topwar.ru
+0.0.0.0 ad.utop.ir
 0.0.0.0 ad.valuecalling.com
 0.0.0.0 ad.velomania.ru
 0.0.0.0 ad.vidver.to
@@ -3639,6 +3642,7 @@
 0.0.0.0 affiliatesensor.com
 0.0.0.0 affiliateserver.hangikredi.com
 0.0.0.0 affiliatesmedia.sbobet.com
+0.0.0.0 affiliatesrebels.com
 0.0.0.0 affiliatewindow.com
 0.0.0.0 affiliation-france.com
 0.0.0.0 affiliation.fotovista.com
@@ -4331,6 +4335,7 @@
 0.0.0.0 analytics.erepublic.com
 0.0.0.0 analytics.explus.vn
 0.0.0.0 analytics.facebook.com
+0.0.0.0 analytics.faceitanalytics.com
 0.0.0.0 analytics.fairfax.com.au
 0.0.0.0 analytics.favcy.com
 0.0.0.0 analytics.faw.sky.com
@@ -6665,6 +6670,7 @@
 0.0.0.0 bmbaike.cn
 0.0.0.0 bmcdn1.com
 0.0.0.0 bmcm.pw
+0.0.0.0 bmfads.com
 0.0.0.0 bmfeed.ru
 0.0.0.0 bmgan.com
 0.0.0.0 bmgo.life
@@ -6757,6 +6763,7 @@
 0.0.0.0 bolili.info
 0.0.0.0 bolimen.top
 0.0.0.0 bolizirs.com
+0.0.0.0 bollroaches.com
 0.0.0.0 bolrookr.com
 0.0.0.0 bolshoykush.ru
 0.0.0.0 bombeers.ru
@@ -7248,6 +7255,7 @@
 0.0.0.0 bxmfuxxiqmw.com
 0.0.0.0 bxzjytu2elwokof.ru
 0.0.0.0 bycelebian.com
+0.0.0.0 bycixeba.com
 0.0.0.0 bycxsh.com
 0.0.0.0 bydonline.com
 0.0.0.0 byebye.ml
@@ -10514,6 +10522,7 @@
 0.0.0.0 defpush.com
 0.0.0.0 defutohy.pro
 0.0.0.0 defyraspypuke.com
+0.0.0.0 degryrubi.com
 0.0.0.0 dehtxweiq.com
 0.0.0.0 dehua.ixinfan.com
 0.0.0.0 dehuaguanyin.com
@@ -11114,6 +11123,7 @@
 0.0.0.0 doclix.com
 0.0.0.0 docodoco.jp
 0.0.0.0 docols.net
+0.0.0.0 docomo-analytics.com
 0.0.0.0 docqacvwhgbxv.com
 0.0.0.0 doctorsh.ru
 0.0.0.0 dodgekeelpops.com
@@ -11644,6 +11654,7 @@
 0.0.0.0 eagleapi.io
 0.0.0.0 eailczoszdrz.com
 0.0.0.0 eaintrolled.info
+0.0.0.0 ealcrrm.cn
 0.0.0.0 ealeo.com
 0.0.0.0 eanalyzer.de
 0.0.0.0 eap.big5.enorth.com.cn
@@ -12432,6 +12443,7 @@
 0.0.0.0 ethicalads.io
 0.0.0.0 ethikuma.link
 0.0.0.0 ethnarc.de
+0.0.0.0 ethnictyrosky.com
 0.0.0.0 ethnio.com
 0.0.0.0 ethtrader.de
 0.0.0.0 eti-code.com
@@ -13128,6 +13140,7 @@
 0.0.0.0 ferritors.club
 0.0.0.0 ferrpictak.com
 0.0.0.0 fertilizeranaemiaupcoming.com
+0.0.0.0 fertilizermessyshortcut.com
 0.0.0.0 fessmegilscha.info
 0.0.0.0 fessoovy.com
 0.0.0.0 festivaleradicate.com
@@ -13840,6 +13853,7 @@
 0.0.0.0 fw.zhuaji.org
 0.0.0.0 fwbntw.com
 0.0.0.0 fwccw.com
+0.0.0.0 fwnetrb.cn
 0.0.0.0 fwnowvgk.com
 0.0.0.0 fwpixel.com
 0.0.0.0 fwrrcnkzn5ik.com
@@ -16234,6 +16248,7 @@
 0.0.0.0 hyrankhit.meldingcloud.com
 0.0.0.0 hysjm.cn
 0.0.0.0 hysntzdseidl.com
+0.0.0.0 hystericalcloth.com
 0.0.0.0 hystericalhelp.com
 0.0.0.0 hystq.com
 0.0.0.0 hytcsh.cn
@@ -17336,6 +17351,7 @@
 0.0.0.0 jadeitite.com
 0.0.0.0 jadizayo.com
 0.0.0.0 jads.co
+0.0.0.0 jafosachi.pro
 0.0.0.0 jaftouja.net
 0.0.0.0 jagoiklan.com
 0.0.0.0 jagopromo.com
@@ -18433,6 +18449,7 @@
 0.0.0.0 ktbhboeaqw.com
 0.0.0.0 ktdlsb.com
 0.0.0.0 ktionz.com
+0.0.0.0 ktkjmp.com
 0.0.0.0 ktrackdata.com
 0.0.0.0 ktunions.com
 0.0.0.0 ktxtr.com
@@ -20023,6 +20040,7 @@
 0.0.0.0 maploco.com
 0.0.0.0 mapmyuser.com
 0.0.0.0 marapcana.online
+0.0.0.0 marateathe.cam
 0.0.0.0 maraukog.info
 0.0.0.0 marbil24.co.za
 0.0.0.0 marchedcredulity.com
@@ -20122,6 +20140,7 @@
 0.0.0.0 materiel.baizhan.net
 0.0.0.0 mateti.net
 0.0.0.0 mathads.com
+0.0.0.0 mathafuda.pro
 0.0.0.0 matheranalytics.com
 0.0.0.0 mathtag.com
 0.0.0.0 mation.xyz
@@ -20768,6 +20787,7 @@
 0.0.0.0 minkatu.com
 0.0.0.0 minologyhesia.site
 0.0.0.0 minorexportshopping.com
+0.0.0.0 minoritish.online
 0.0.0.0 minormeeting.com
 0.0.0.0 minr.pw
 0.0.0.0 minsistereron.site
@@ -21591,6 +21611,7 @@
 0.0.0.0 myzk1.com
 0.0.0.0 mz28ismn.com
 0.0.0.0 mzbb8872.cn
+0.0.0.0 mzcs65562.cn
 0.0.0.0 mzirmall.com
 0.0.0.0 mzol7lbm.com
 0.0.0.0 mzvwhksbwnj.com
@@ -26885,6 +26906,7 @@
 0.0.0.0 rocli.ru
 0.0.0.0 rodeopolice.com
 0.0.0.0 roduster.com
+0.0.0.0 roewnand.biz
 0.0.0.0 roeye.com
 0.0.0.0 rofessiveco.top
 0.0.0.0 rofhathe.com
@@ -29140,6 +29162,7 @@
 0.0.0.0 spxl.socy.es
 0.0.0.0 spxnet.com
 0.0.0.0 spycounter.net
+0.0.0.0 spyglass.octanime.net
 0.0.0.0 spyglass.reklamko.pro
 0.0.0.0 spylees.com
 0.0.0.0 spylog.com
@@ -29658,6 +29681,7 @@
 0.0.0.0 stattrack.0catch.com
 0.0.0.0 stattrax.com
 0.0.0.0 statuesquebrush.com
+0.0.0.0 statuewas.com
 0.0.0.0 statun.com
 0.0.0.0 statuncore.com
 0.0.0.0 statutecompatibility.com
@@ -30540,6 +30564,7 @@
 0.0.0.0 tdain.com
 0.0.0.0 tdayi.com
 0.0.0.0 tdblazing.com
+0.0.0.0 tdbwgrm.cn
 0.0.0.0 tdeilxkjxgdedb.com
 0.0.0.0 tdmd.us
 0.0.0.0 tdntrack.com
@@ -35429,6 +35454,7 @@
 0.0.0.0 yamaidei.cn
 0.0.0.0 yamanoha.com
 0.0.0.0 yampopa.ru
+0.0.0.0 yamspunkdew.com
 0.0.0.0 yanabmw.ru
 0.0.0.0 yanbenji.cn
 0.0.0.0 yandepit.com
@@ -36457,5 +36483,6 @@
 0.0.0.0 zzwflxs.com
 0.0.0.0 zzwpsm.cn
 0.0.0.0 zzxhx.com
+0.0.0.0 zzxjlr.com
 0.0.0.0 zzyonghao.com
 0.0.0.0 zzznews.ru

@@ -1,4 +1,4 @@
-# Mon May 17 03:20:09 AM UTC 2021
+# Tue May 18 12:53:14 AM UTC 2021
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0-24bpautomentes.hu
 0.0.0.0 00-gov.cn
@@ -14,6 +14,7 @@
 0.0.0.0 012eqatk8v8e.xyz
 0.0.0.0 01dbf3a452b6.com
 0.0.0.0 01fen.com
+0.0.0.0 01tn.cn
 0.0.0.0 022aifang.com
 0.0.0.0 025suyu.com
 0.0.0.0 0265331.com
@@ -896,6 +897,7 @@
 0.0.0.0 5fst22.cn
 0.0.0.0 5glyqw.com
 0.0.0.0 5gsb4ospxp.monster
+0.0.0.0 5i8xkqjmqubv.top
 0.0.0.0 5ijo.01net.com
 0.0.0.0 5ikmih8avqhcbk.com
 0.0.0.0 5imoney.com
@@ -3429,6 +3431,7 @@
 0.0.0.0 affiliates.vpn.ht
 0.0.0.0 affiliatesensor.com
 0.0.0.0 affiliatesmedia.sbobet.com
+0.0.0.0 affiliatesrebels.com
 0.0.0.0 affiliatewindow.com
 0.0.0.0 affiliation-france.com
 0.0.0.0 affiliation.fotovista.com
@@ -4043,6 +4046,7 @@
 0.0.0.0 analytics.cynapse.com
 0.0.0.0 analytics.data.lloydsbankinggroup.com
 0.0.0.0 analytics.datahc.com
+0.0.0.0 analytics.designspiration.com
 0.0.0.0 analytics.dev.htmedia.in
 0.0.0.0 analytics.dev.springboardvideo.com
 0.0.0.0 analytics.developer.riotgames.com
@@ -6723,6 +6727,7 @@
 0.0.0.0 bxjpl.cn
 0.0.0.0 bxmfuxxiqmw.com
 0.0.0.0 by.bollore-logistics.com
+0.0.0.0 bycixeba.com
 0.0.0.0 bydonline.com
 0.0.0.0 byebye.ml
 0.0.0.0 byfgrwrpqjdkj.com
@@ -6793,6 +6798,7 @@
 0.0.0.0 c3metrics.medifast1.com
 0.0.0.0 c3t-system-err.club
 0.0.0.0 c3tag.com
+0.0.0.0 c43a3cd8f99413891.com
 0.0.0.0 c4cm.actonservice.com
 0.0.0.0 c4dv.copinesdevoyage.com
 0.0.0.0 c4tracking01.com
@@ -11162,6 +11168,7 @@
 0.0.0.0 eagleislandmaine.com
 0.0.0.0 eailczoszdrz.com
 0.0.0.0 eaintrolled.info
+0.0.0.0 ealcrrm.cn
 0.0.0.0 ealeo.com
 0.0.0.0 eanalyzer.de
 0.0.0.0 eap.big5.enorth.com.cn
@@ -13479,6 +13486,7 @@
 0.0.0.0 fw.zhuaji.org
 0.0.0.0 fwbntw.com
 0.0.0.0 fwccw.com
+0.0.0.0 fwnetrb.cn
 0.0.0.0 fwnowvgk.com
 0.0.0.0 fwpixel.com
 0.0.0.0 fwrrcnkzn5ik.com
@@ -17054,6 +17062,7 @@
 0.0.0.0 jadeec.in
 0.0.0.0 jadeitite.com
 0.0.0.0 jads.co
+0.0.0.0 jafosachi.pro
 0.0.0.0 jaftouja.net
 0.0.0.0 jaidennegros.pro
 0.0.0.0 jambwe.newstracker.ru
@@ -18123,6 +18132,7 @@
 0.0.0.0 kt5850pjz0.com
 0.0.0.0 ktbhboeaqw.com
 0.0.0.0 ktdlsb.com
+0.0.0.0 ktkjmp.com
 0.0.0.0 ktozabanittotkirkorov.ru
 0.0.0.0 ktracker.kumparan.com
 0.0.0.0 ktunions.com
@@ -18390,6 +18400,7 @@
 0.0.0.0 lauriegrowingdrops.com
 0.0.0.0 lautarosanmiguel.com
 0.0.0.0 lauwhada.com
+0.0.0.0 lavageethion.com
 0.0.0.0 lavando2scas1hh1.com
 0.0.0.0 lawforall.edu.lk
 0.0.0.0 lawiersenadrey.webcam
@@ -19717,6 +19728,7 @@
 0.0.0.0 mar.vip.com
 0.0.0.0 mar47236524926.ru
 0.0.0.0 marapcana.online
+0.0.0.0 marateathe.cam
 0.0.0.0 marbil24.co.za
 0.0.0.0 marcapinyo.ru
 0.0.0.0 marchedcredulity.com
@@ -20283,6 +20295,7 @@
 0.0.0.0 materiel.baizhan.net
 0.0.0.0 mateti.net
 0.0.0.0 mathads.com
+0.0.0.0 mathafuda.pro
 0.0.0.0 matheranalytics.com
 0.0.0.0 mathtag.com
 0.0.0.0 mation.xyz
@@ -22314,6 +22327,7 @@
 0.0.0.0 myzwqwe12.com
 0.0.0.0 mz28ismn.com
 0.0.0.0 mzbb8872.cn
+0.0.0.0 mzcs65562.cn
 0.0.0.0 mzirmall.com
 0.0.0.0 mzjruy.yocoyoco.com
 0.0.0.0 mzol7lbm.com
@@ -30877,6 +30891,7 @@
 0.0.0.0 stattds.club
 0.0.0.0 stattooz.com
 0.0.0.0 stattrax.com
+0.0.0.0 statuewas.com
 0.0.0.0 statun.com
 0.0.0.0 statuncore.com
 0.0.0.0 statusquobrand.com
@@ -31802,6 +31817,7 @@
 0.0.0.0 tdain.com
 0.0.0.0 tdayi.com
 0.0.0.0 tdbnom.madeleine.de
+0.0.0.0 tdbwgrm.cn
 0.0.0.0 tdeilxkjxgdedb.com
 0.0.0.0 tdejob.work
 0.0.0.0 tdep.bunzlonline.nl
@@ -32169,6 +32185,7 @@
 0.0.0.0 thikraik.net
 0.0.0.0 thimoaph.net
 0.0.0.0 thindsoo.cn
+0.0.0.0 thingrealtape.com
 0.0.0.0 thingswontend.com
 0.0.0.0 think.phdinc.com
 0.0.0.0 thinktot.com
@@ -36686,6 +36703,7 @@
 0.0.0.0 yamahahb.com
 0.0.0.0 yamaidei.cn
 0.0.0.0 yamanoha.com
+0.0.0.0 yamspunkdew.com
 0.0.0.0 yanbenji.cn
 0.0.0.0 yandepit.com
 0.0.0.0 yanderthundr.fun
