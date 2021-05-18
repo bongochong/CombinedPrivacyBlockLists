@@ -40,8 +40,8 @@ In addition, see the [**Windows Versions of these Tools**](https://github.com/bo
 
 <p align="center"><img src="https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/CPBL-Clacks.gif" alt="GNU Terry Pratchett | Carpentry Get Truth | A.M.K."></p>
 
-# <a name="footnotes"></a>---
-
+# <a name="footnotes"></a>
+---
 <sup>01. [MVPS Hosts](http://winhelp2002.mvps.org/). </sup> <br>
 <sup>02. [PGL Yoyo Hosts](http://pgl.yoyo.org/adservers/). </sup> <br>
 <sup>03. [Updated Malware Domains Immortal List](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/MD-ID-Fork.txt). </sup> <br>
