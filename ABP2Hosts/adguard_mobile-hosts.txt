@@ -1,4 +1,4 @@
-# Tue May 18 12:56:48 AM UTC 2021
+# Thu May 20 01:38:49 AM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -2569,7 +2569,6 @@
 0.0.0.0 cdn-ketchapp.akamaized.net
 0.0.0.0 cdn-lb.vungle.akadns.net
 0.0.0.0 cdn-lb.vungle.com
-0.0.0.0 cdn-loyalty.yotpo.com
 0.0.0.0 cdn-otf-cas.adperfect.com
 0.0.0.0 cdn-otf-cas.prfct.cc
 0.0.0.0 cdn-pci.optimizely.com
@@ -2589,7 +2588,6 @@
 0.0.0.0 cdn-usent.kampyle.com
 0.0.0.0 cdn-v3.conductrics.com
 0.0.0.0 cdn-webview-pge.unityads.unity3d.com
-0.0.0.0 cdn-widgetsrepository.yotpo.com
 0.0.0.0 cdn.3lift.com
 0.0.0.0 cdn.88-f.net
 0.0.0.0 cdn.accengage.com
@@ -8378,6 +8376,7 @@
 0.0.0.0 telemetry.sdk.inmobi.cn
 0.0.0.0 telemetry.sdk.inmobi.com
 0.0.0.0 telemetry.swiftkey.com
+0.0.0.0 telemetry.voxeet.com
 0.0.0.0 telemetryverification.net
 0.0.0.0 teleport.soom.la
 0.0.0.0 tend.io
@@ -8492,6 +8491,7 @@
 0.0.0.0 tr.snapchat.com
 0.0.0.0 tr2.smarterhq.io
 0.0.0.0 trace.qq.com
+0.0.0.0 traces.sr.roku.com
 0.0.0.0 tracing-collector.strava.com
 0.0.0.0 track-east.mobileadtrading.com
 0.0.0.0 track.accesstrade.vn
