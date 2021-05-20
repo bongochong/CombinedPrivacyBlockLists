@@ -1,4 +1,4 @@
-// **** Tue May 18 12:59:13 AM UTC 2021
+// **** Thu May 20 01:43:01 AM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -2784,6 +2784,7 @@ shExpMatch(host, '*.bigtopstats.cn') ||
 shExpMatch(host, '*.bigtopstudios.cn') ||
 shExpMatch(host, '*.bigtruckstopseek.cn') ||
 shExpMatch(host, '*.bilainkos.ru') ||
+shExpMatch(host, '*.bilbaopisos.es') ||
 shExpMatch(host, '*.bilbotrade.com') ||
 shExpMatch(host, '*.bilderfarbwelt.de') ||
 shExpMatch(host, '*.bilkul.swarmscape.com') ||
@@ -5204,6 +5205,7 @@ shExpMatch(host, '*.download.cdn.jzip.com') ||
 shExpMatch(host, '*.download.cm') ||
 shExpMatch(host, '*.download.forfreeminecraft.com') ||
 shExpMatch(host, '*.download.grandcloud.cn') ||
+shExpMatch(host, '*.download.ttrili.com') ||
 shExpMatch(host, '*.download10-25.ru') ||
 shExpMatch(host, '*.download131bucket.com') ||
 shExpMatch(host, '*.download14.fifa4free.com') ||
@@ -9228,6 +9230,7 @@ shExpMatch(host, '*.intelliads.com') ||
 shExpMatch(host, '*.intelliduct.com') ||
 shExpMatch(host, '*.intelligenceadx.com') ||
 shExpMatch(host, '*.intellitxt.com') ||
+shExpMatch(host, '*.intentsify.io') ||
 shExpMatch(host, '*.interactive-assets.s3.amazonaws.com') ||
 shExpMatch(host, '*.interactive.forthnet.gr') ||
 shExpMatch(host, '*.interactivearea.ru') ||
@@ -13147,6 +13150,7 @@ shExpMatch(host, '*.reque83ntlyin.rr.nu') ||
 shExpMatch(host, '*.requestfordownloads.com') ||
 shExpMatch(host, '*.requesttooldownload296.space') ||
 shExpMatch(host, '*.requiresmens.net') ||
+shExpMatch(host, '*.resalag.com') ||
 shExpMatch(host, '*.rescator.la') ||
 shExpMatch(host, '*.rescator.me') ||
 shExpMatch(host, '*.research.de.com') ||
@@ -13466,6 +13470,7 @@ shExpMatch(host, '*.salesio.net') ||
 shExpMatch(host, '*.salime.ru') ||
 shExpMatch(host, '*.salixnebac.club') ||
 shExpMatch(host, '*.salon-krasoty-moskva.ru') ||
+shExpMatch(host, '*.salon77.co.uk') ||
 shExpMatch(host, '*.sam-sdelai.blogspot.com') ||
 shExpMatch(host, '*.samaxguides.net') ||
 shExpMatch(host, '*.samhacker.com') ||
@@ -14080,6 +14085,7 @@ shExpMatch(host, '*.slimxxxtubecgl.ddns.name') ||
 shExpMatch(host, '*.slimxxxtubectk.dnset.com') ||
 shExpMatch(host, '*.slimxxxtubecty.ddns.name') ||
 shExpMatch(host, '*.slimxxxtubeczp.ddns.name') ||
+shExpMatch(host, '*.slimxxxtubedgv.dnset.com') ||
 shExpMatch(host, '*.slimxxxtubedjm.ddns.name') ||
 shExpMatch(host, '*.slimxxxtubedlb.ddns.name') ||
 shExpMatch(host, '*.slimxxxtubedvj.dnset.com') ||
@@ -14096,6 +14102,7 @@ shExpMatch(host, '*.slimxxxtubehdn.dnset.com') ||
 shExpMatch(host, '*.slimxxxtubehli.dnset.com') ||
 shExpMatch(host, '*.slimxxxtubeidv.ddns.name') ||
 shExpMatch(host, '*.slimxxxtubeijc.dnset.com') ||
+shExpMatch(host, '*.slimxxxtubeiqb.dnset.com') ||
 shExpMatch(host, '*.slimxxxtubejlp.ddns.name') ||
 shExpMatch(host, '*.slimxxxtubejpe.ddns.name') ||
 shExpMatch(host, '*.slimxxxtubejvh.ddns.name') ||
@@ -14124,8 +14131,10 @@ shExpMatch(host, '*.slimxxxtubeoxy.ddns.name') ||
 shExpMatch(host, '*.slimxxxtubeppj.dnset.com') ||
 shExpMatch(host, '*.slimxxxtubeqfo.ddns.name') ||
 shExpMatch(host, '*.slimxxxtubeqsh.ddns.name') ||
+shExpMatch(host, '*.slimxxxtubeqwr.dnset.com') ||
 shExpMatch(host, '*.slimxxxtuberau.ddns.name') ||
 shExpMatch(host, '*.slimxxxtuberea.ddns.name') ||
+shExpMatch(host, '*.slimxxxtuberep.dnset.com') ||
 shExpMatch(host, '*.slimxxxtuberfe.dnset.com') ||
 shExpMatch(host, '*.slimxxxtuberjj.ddns.name') ||
 shExpMatch(host, '*.slimxxxtuberme.dnset.com') ||
@@ -14136,6 +14145,7 @@ shExpMatch(host, '*.slimxxxtubetmf.ddns.name') ||
 shExpMatch(host, '*.slimxxxtubetmg.dnset.com') ||
 shExpMatch(host, '*.slimxxxtubetns.ddns.name') ||
 shExpMatch(host, '*.slimxxxtubetts.dnset.com') ||
+shExpMatch(host, '*.slimxxxtubeubp.dnset.com') ||
 shExpMatch(host, '*.slimxxxtubeujh.ddns.name') ||
 shExpMatch(host, '*.slimxxxtubeull.dnset.com') ||
 shExpMatch(host, '*.slimxxxtubeuvd.dnset.com') ||
@@ -14149,6 +14159,7 @@ shExpMatch(host, '*.slimxxxtubewmt.dnset.com') ||
 shExpMatch(host, '*.slimxxxtubexei.ddns.name') ||
 shExpMatch(host, '*.slimxxxtubexvq.ddns.name') ||
 shExpMatch(host, '*.slimxxxtubexwb.dnset.com') ||
+shExpMatch(host, '*.slimxxxtubexxq.dnset.com') ||
 shExpMatch(host, '*.slimxxxtubeyge.ddns.name') ||
 shExpMatch(host, '*.slimxxxtubeyhz.ddns.name') ||
 shExpMatch(host, '*.slimxxxtubeyza.ddns.name') ||
@@ -15672,11 +15683,13 @@ shExpMatch(host, '*.ttmusic.co.kr') ||
 shExpMatch(host, '*.tubbing.net') ||
 shExpMatch(host, '*.tube-id.org') ||
 shExpMatch(host, '*.tube-xnxx.com') ||
+shExpMatch(host, '*.tube8vidsbbr.dnset.com') ||
 shExpMatch(host, '*.tube8vidsbhy.dnset.com') ||
 shExpMatch(host, '*.tube8vidsbzx.dnset.com') ||
 shExpMatch(host, '*.tube8vidscjk.ddns.name') ||
 shExpMatch(host, '*.tube8vidscqs.ddns.name') ||
 shExpMatch(host, '*.tube8vidscut.ddns.name') ||
+shExpMatch(host, '*.tube8vidsdob.dnset.com') ||
 shExpMatch(host, '*.tube8vidsdst.ddns.name') ||
 shExpMatch(host, '*.tube8vidsfgd.ddns.name') ||
 shExpMatch(host, '*.tube8vidshhr.ddns.name') ||
@@ -15684,9 +15697,11 @@ shExpMatch(host, '*.tube8vidshkk.ddns.name') ||
 shExpMatch(host, '*.tube8vidshrw.dnset.com') ||
 shExpMatch(host, '*.tube8vidsiet.ddns.name') ||
 shExpMatch(host, '*.tube8vidsiww.ddns.name') ||
+shExpMatch(host, '*.tube8vidsjac.dnset.com') ||
 shExpMatch(host, '*.tube8vidsjan.ddns.name') ||
 shExpMatch(host, '*.tube8vidsjhn.ddns.name') ||
 shExpMatch(host, '*.tube8vidsjtq.ddns.name') ||
+shExpMatch(host, '*.tube8vidslmf.dnset.com') ||
 shExpMatch(host, '*.tube8vidslqk.ddns.name') ||
 shExpMatch(host, '*.tube8vidslrz.ddns.name') ||
 shExpMatch(host, '*.tube8vidsnlq.dnset.com') ||
@@ -15695,6 +15710,7 @@ shExpMatch(host, '*.tube8vidsnvd.ddns.name') ||
 shExpMatch(host, '*.tube8vidsnyp.dnset.com') ||
 shExpMatch(host, '*.tube8vidsolh.ddns.name') ||
 shExpMatch(host, '*.tube8vidsotz.dnset.com') ||
+shExpMatch(host, '*.tube8vidsowd.dnset.com') ||
 shExpMatch(host, '*.tube8vidspeq.ddns.name') ||
 shExpMatch(host, '*.tube8vidsqof.ddns.name') ||
 shExpMatch(host, '*.tube8vidsrau.dnset.com') ||
@@ -15706,18 +15722,22 @@ shExpMatch(host, '*.tube8vidssyg.dnset.com') ||
 shExpMatch(host, '*.tube8vidstrh.dnset.com') ||
 shExpMatch(host, '*.tube8vidstyp.ddns.name') ||
 shExpMatch(host, '*.tube8vidsuty.dnset.com') ||
+shExpMatch(host, '*.tube8vidsvaj.dnset.com') ||
 shExpMatch(host, '*.tube8vidsvcs.ddns.name') ||
 shExpMatch(host, '*.tube8vidsvmr.ddns.name') ||
 shExpMatch(host, '*.tube8vidsvrx.ddns.name') ||
 shExpMatch(host, '*.tube8vidsvtp.dnset.com') ||
+shExpMatch(host, '*.tube8vidswsy.dnset.com') ||
 shExpMatch(host, '*.tube8vidswtb.ddns.name') ||
 shExpMatch(host, '*.tube8vidswys.ddns.name') ||
 shExpMatch(host, '*.tube8vidsxlo.ddns.name') ||
 shExpMatch(host, '*.tube8vidsxmx.dnset.com') ||
 shExpMatch(host, '*.tube8vidsxpg.ddns.name') ||
+shExpMatch(host, '*.tube8vidsxpp.dnset.com') ||
 shExpMatch(host, '*.tube8vidsxwu.ddns.name') ||
 shExpMatch(host, '*.tube8vidsycs.dnset.com') ||
 shExpMatch(host, '*.tube8vidsyip.ddns.name') ||
+shExpMatch(host, '*.tube8vidsymz.dnset.com') ||
 shExpMatch(host, '*.tube8vidszmi.ddns.name') ||
 shExpMatch(host, '*.tube8vidsznj.ddns.name') ||
 shExpMatch(host, '*.tube8vidsznx.ddns.name') ||
@@ -16770,6 +16790,7 @@ shExpMatch(host, '*.www.assculturaleincontri.it') ||
 shExpMatch(host, '*.www.banner-link.com.br') ||
 shExpMatch(host, '*.www.barbiemobi.cn') ||
 shExpMatch(host, '*.www.bcservice.it') ||
+shExpMatch(host, '*.www.bilbaopisos.es') ||
 shExpMatch(host, '*.www.bxgjiage.com') ||
 shExpMatch(host, '*.www.casamama.nl') ||
 shExpMatch(host, '*.www.catgallery.com') ||
@@ -16832,6 +16853,7 @@ shExpMatch(host, '*.www.kasdjjaks83adsasd.com') ||
 shExpMatch(host, '*.www.kcta.or.kr') ||
 shExpMatch(host, '*.www.kjbbc.net') ||
 shExpMatch(host, '*.www.kurulumtr.com') ||
+shExpMatch(host, '*.www.landisbaptist.com') ||
 shExpMatch(host, '*.www.lccl.org.uk') ||
 shExpMatch(host, '*.www.lifelabs.vn') ||
 shExpMatch(host, '*.www.litra.com.mk') ||
@@ -20279,6 +20301,7 @@ shExpMatch(host, 'bigtopstats.cn') ||
 shExpMatch(host, 'bigtopstudios.cn') ||
 shExpMatch(host, 'bigtruckstopseek.cn') ||
 shExpMatch(host, 'bilainkos.ru') ||
+shExpMatch(host, 'bilbaopisos.es') ||
 shExpMatch(host, 'bilbotrade.com') ||
 shExpMatch(host, 'bilderfarbwelt.de') ||
 shExpMatch(host, 'bilkul.swarmscape.com') ||
@@ -22699,6 +22722,7 @@ shExpMatch(host, 'download.cdn.jzip.com') ||
 shExpMatch(host, 'download.cm') ||
 shExpMatch(host, 'download.forfreeminecraft.com') ||
 shExpMatch(host, 'download.grandcloud.cn') ||
+shExpMatch(host, 'download.ttrili.com') ||
 shExpMatch(host, 'download10-25.ru') ||
 shExpMatch(host, 'download131bucket.com') ||
 shExpMatch(host, 'download14.fifa4free.com') ||
@@ -26723,6 +26747,7 @@ shExpMatch(host, 'intelliads.com') ||
 shExpMatch(host, 'intelliduct.com') ||
 shExpMatch(host, 'intelligenceadx.com') ||
 shExpMatch(host, 'intellitxt.com') ||
+shExpMatch(host, 'intentsify.io') ||
 shExpMatch(host, 'interactive-assets.s3.amazonaws.com') ||
 shExpMatch(host, 'interactive.forthnet.gr') ||
 shExpMatch(host, 'interactivearea.ru') ||
@@ -30642,6 +30667,7 @@ shExpMatch(host, 'reque83ntlyin.rr.nu') ||
 shExpMatch(host, 'requestfordownloads.com') ||
 shExpMatch(host, 'requesttooldownload296.space') ||
 shExpMatch(host, 'requiresmens.net') ||
+shExpMatch(host, 'resalag.com') ||
 shExpMatch(host, 'rescator.la') ||
 shExpMatch(host, 'rescator.me') ||
 shExpMatch(host, 'research.de.com') ||
@@ -30961,6 +30987,7 @@ shExpMatch(host, 'salesio.net') ||
 shExpMatch(host, 'salime.ru') ||
 shExpMatch(host, 'salixnebac.club') ||
 shExpMatch(host, 'salon-krasoty-moskva.ru') ||
+shExpMatch(host, 'salon77.co.uk') ||
 shExpMatch(host, 'sam-sdelai.blogspot.com') ||
 shExpMatch(host, 'samaxguides.net') ||
 shExpMatch(host, 'samhacker.com') ||
@@ -31575,6 +31602,7 @@ shExpMatch(host, 'slimxxxtubecgl.ddns.name') ||
 shExpMatch(host, 'slimxxxtubectk.dnset.com') ||
 shExpMatch(host, 'slimxxxtubecty.ddns.name') ||
 shExpMatch(host, 'slimxxxtubeczp.ddns.name') ||
+shExpMatch(host, 'slimxxxtubedgv.dnset.com') ||
 shExpMatch(host, 'slimxxxtubedjm.ddns.name') ||
 shExpMatch(host, 'slimxxxtubedlb.ddns.name') ||
 shExpMatch(host, 'slimxxxtubedvj.dnset.com') ||
@@ -31591,6 +31619,7 @@ shExpMatch(host, 'slimxxxtubehdn.dnset.com') ||
 shExpMatch(host, 'slimxxxtubehli.dnset.com') ||
 shExpMatch(host, 'slimxxxtubeidv.ddns.name') ||
 shExpMatch(host, 'slimxxxtubeijc.dnset.com') ||
+shExpMatch(host, 'slimxxxtubeiqb.dnset.com') ||
 shExpMatch(host, 'slimxxxtubejlp.ddns.name') ||
 shExpMatch(host, 'slimxxxtubejpe.ddns.name') ||
 shExpMatch(host, 'slimxxxtubejvh.ddns.name') ||
@@ -31619,8 +31648,10 @@ shExpMatch(host, 'slimxxxtubeoxy.ddns.name') ||
 shExpMatch(host, 'slimxxxtubeppj.dnset.com') ||
 shExpMatch(host, 'slimxxxtubeqfo.ddns.name') ||
 shExpMatch(host, 'slimxxxtubeqsh.ddns.name') ||
+shExpMatch(host, 'slimxxxtubeqwr.dnset.com') ||
 shExpMatch(host, 'slimxxxtuberau.ddns.name') ||
 shExpMatch(host, 'slimxxxtuberea.ddns.name') ||
+shExpMatch(host, 'slimxxxtuberep.dnset.com') ||
 shExpMatch(host, 'slimxxxtuberfe.dnset.com') ||
 shExpMatch(host, 'slimxxxtuberjj.ddns.name') ||
 shExpMatch(host, 'slimxxxtuberme.dnset.com') ||
@@ -31631,6 +31662,7 @@ shExpMatch(host, 'slimxxxtubetmf.ddns.name') ||
 shExpMatch(host, 'slimxxxtubetmg.dnset.com') ||
 shExpMatch(host, 'slimxxxtubetns.ddns.name') ||
 shExpMatch(host, 'slimxxxtubetts.dnset.com') ||
+shExpMatch(host, 'slimxxxtubeubp.dnset.com') ||
 shExpMatch(host, 'slimxxxtubeujh.ddns.name') ||
 shExpMatch(host, 'slimxxxtubeull.dnset.com') ||
 shExpMatch(host, 'slimxxxtubeuvd.dnset.com') ||
@@ -31644,6 +31676,7 @@ shExpMatch(host, 'slimxxxtubewmt.dnset.com') ||
 shExpMatch(host, 'slimxxxtubexei.ddns.name') ||
 shExpMatch(host, 'slimxxxtubexvq.ddns.name') ||
 shExpMatch(host, 'slimxxxtubexwb.dnset.com') ||
+shExpMatch(host, 'slimxxxtubexxq.dnset.com') ||
 shExpMatch(host, 'slimxxxtubeyge.ddns.name') ||
 shExpMatch(host, 'slimxxxtubeyhz.ddns.name') ||
 shExpMatch(host, 'slimxxxtubeyza.ddns.name') ||
@@ -33167,11 +33200,13 @@ shExpMatch(host, 'ttmusic.co.kr') ||
 shExpMatch(host, 'tubbing.net') ||
 shExpMatch(host, 'tube-id.org') ||
 shExpMatch(host, 'tube-xnxx.com') ||
+shExpMatch(host, 'tube8vidsbbr.dnset.com') ||
 shExpMatch(host, 'tube8vidsbhy.dnset.com') ||
 shExpMatch(host, 'tube8vidsbzx.dnset.com') ||
 shExpMatch(host, 'tube8vidscjk.ddns.name') ||
 shExpMatch(host, 'tube8vidscqs.ddns.name') ||
 shExpMatch(host, 'tube8vidscut.ddns.name') ||
+shExpMatch(host, 'tube8vidsdob.dnset.com') ||
 shExpMatch(host, 'tube8vidsdst.ddns.name') ||
 shExpMatch(host, 'tube8vidsfgd.ddns.name') ||
 shExpMatch(host, 'tube8vidshhr.ddns.name') ||
@@ -33179,9 +33214,11 @@ shExpMatch(host, 'tube8vidshkk.ddns.name') ||
 shExpMatch(host, 'tube8vidshrw.dnset.com') ||
 shExpMatch(host, 'tube8vidsiet.ddns.name') ||
 shExpMatch(host, 'tube8vidsiww.ddns.name') ||
+shExpMatch(host, 'tube8vidsjac.dnset.com') ||
 shExpMatch(host, 'tube8vidsjan.ddns.name') ||
 shExpMatch(host, 'tube8vidsjhn.ddns.name') ||
 shExpMatch(host, 'tube8vidsjtq.ddns.name') ||
+shExpMatch(host, 'tube8vidslmf.dnset.com') ||
 shExpMatch(host, 'tube8vidslqk.ddns.name') ||
 shExpMatch(host, 'tube8vidslrz.ddns.name') ||
 shExpMatch(host, 'tube8vidsnlq.dnset.com') ||
@@ -33190,6 +33227,7 @@ shExpMatch(host, 'tube8vidsnvd.ddns.name') ||
 shExpMatch(host, 'tube8vidsnyp.dnset.com') ||
 shExpMatch(host, 'tube8vidsolh.ddns.name') ||
 shExpMatch(host, 'tube8vidsotz.dnset.com') ||
+shExpMatch(host, 'tube8vidsowd.dnset.com') ||
 shExpMatch(host, 'tube8vidspeq.ddns.name') ||
 shExpMatch(host, 'tube8vidsqof.ddns.name') ||
 shExpMatch(host, 'tube8vidsrau.dnset.com') ||
@@ -33201,18 +33239,22 @@ shExpMatch(host, 'tube8vidssyg.dnset.com') ||
 shExpMatch(host, 'tube8vidstrh.dnset.com') ||
 shExpMatch(host, 'tube8vidstyp.ddns.name') ||
 shExpMatch(host, 'tube8vidsuty.dnset.com') ||
+shExpMatch(host, 'tube8vidsvaj.dnset.com') ||
 shExpMatch(host, 'tube8vidsvcs.ddns.name') ||
 shExpMatch(host, 'tube8vidsvmr.ddns.name') ||
 shExpMatch(host, 'tube8vidsvrx.ddns.name') ||
 shExpMatch(host, 'tube8vidsvtp.dnset.com') ||
+shExpMatch(host, 'tube8vidswsy.dnset.com') ||
 shExpMatch(host, 'tube8vidswtb.ddns.name') ||
 shExpMatch(host, 'tube8vidswys.ddns.name') ||
 shExpMatch(host, 'tube8vidsxlo.ddns.name') ||
 shExpMatch(host, 'tube8vidsxmx.dnset.com') ||
 shExpMatch(host, 'tube8vidsxpg.ddns.name') ||
+shExpMatch(host, 'tube8vidsxpp.dnset.com') ||
 shExpMatch(host, 'tube8vidsxwu.ddns.name') ||
 shExpMatch(host, 'tube8vidsycs.dnset.com') ||
 shExpMatch(host, 'tube8vidsyip.ddns.name') ||
+shExpMatch(host, 'tube8vidsymz.dnset.com') ||
 shExpMatch(host, 'tube8vidszmi.ddns.name') ||
 shExpMatch(host, 'tube8vidsznj.ddns.name') ||
 shExpMatch(host, 'tube8vidsznx.ddns.name') ||
@@ -34265,6 +34307,7 @@ shExpMatch(host, 'www.assculturaleincontri.it') ||
 shExpMatch(host, 'www.banner-link.com.br') ||
 shExpMatch(host, 'www.barbiemobi.cn') ||
 shExpMatch(host, 'www.bcservice.it') ||
+shExpMatch(host, 'www.bilbaopisos.es') ||
 shExpMatch(host, 'www.bxgjiage.com') ||
 shExpMatch(host, 'www.casamama.nl') ||
 shExpMatch(host, 'www.catgallery.com') ||
@@ -34327,6 +34370,7 @@ shExpMatch(host, 'www.kasdjjaks83adsasd.com') ||
 shExpMatch(host, 'www.kcta.or.kr') ||
 shExpMatch(host, 'www.kjbbc.net') ||
 shExpMatch(host, 'www.kurulumtr.com') ||
+shExpMatch(host, 'www.landisbaptist.com') ||
 shExpMatch(host, 'www.lccl.org.uk') ||
 shExpMatch(host, 'www.lifelabs.vn') ||
 shExpMatch(host, 'www.litra.com.mk') ||
