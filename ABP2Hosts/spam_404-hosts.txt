@@ -1,4 +1,4 @@
-# Thu May 20 01:39:30 AM UTC 2021
+# Mon May 24 01:27:54 AM UTC 2021
 # Spam404 Hosts - Generated weekly by bongochong
 0.0.0.0 001www.com
 0.0.0.0 0daygameparadise.com
@@ -1213,6 +1213,7 @@
 0.0.0.0 cpafornoob.com
 0.0.0.0 cpalead.com
 0.0.0.0 cpaoi.com
+0.0.0.0 cpbild.co
 0.0.0.0 cpbldi.com
 0.0.0.0 cpro.su
 0.0.0.0 crack4u.com
@@ -2018,6 +2019,7 @@
 0.0.0.0 dvdrecorders4free.com
 0.0.0.0 dvrlists.com
 0.0.0.0 dwnld24.com
+0.0.0.0 dwnlds.co
 0.0.0.0 dynip.org
 0.0.0.0 dynserv.org
 0.0.0.0 dz-cheat.com
@@ -2376,6 +2378,7 @@
 0.0.0.0 fastalts.com
 0.0.0.0 fastbitcoingenerator.com
 0.0.0.0 fastdone.info
+0.0.0.0 fasterfiles.net
 0.0.0.0 fastfilesload.com
 0.0.0.0 fastfilez.net
 0.0.0.0 fastleakedmedia.com
@@ -6775,6 +6778,7 @@
 0.0.0.0 smashingsports.co
 0.0.0.0 smikta.info
 0.0.0.0 smitegemsgiveaway.com
+0.0.0.0 smrturl.co
 0.0.0.0 sms-applecare.com
 0.0.0.0 smushgame.com
 0.0.0.0 snackygame.com
