@@ -1,4 +1,4 @@
-// **** Mon May 24 01:32:43 AM UTC 2021
+// **** Wed May 26 01:33:23 AM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -6494,6 +6494,7 @@ shExpMatch(host, '*.fiona-s.net') ||
 shExpMatch(host, '*.firal.net') ||
 shExpMatch(host, '*.fire-alts.com') ||
 shExpMatch(host, '*.fire-hacks.com') ||
+shExpMatch(host, '*.fire36.com') ||
 shExpMatch(host, '*.firecash.org') ||
 shExpMatch(host, '*.firecpa.com') ||
 shExpMatch(host, '*.firecracks.com') ||
@@ -6634,6 +6635,7 @@ shExpMatch(host, '*.forumny.ru') ||
 shExpMatch(host, '*.forumusaaa.ru') ||
 shExpMatch(host, '*.forumz.info') ||
 shExpMatch(host, '*.forvetbet65.com') ||
+shExpMatch(host, '*.foryou1k.com') ||
 shExpMatch(host, '*.forza.console2pc.info') ||
 shExpMatch(host, '*.forzacarpass.sharezips.info') ||
 shExpMatch(host, '*.forzagame.sharezips.info') ||
@@ -7172,6 +7174,7 @@ shExpMatch(host, '*.freezvps.com') ||
 shExpMatch(host, '*.freezyngacardcodes.com') ||
 shExpMatch(host, '*.freshcracks.com') ||
 shExpMatch(host, '*.freshgamehacks.com') ||
+shExpMatch(host, '*.freshworks.com') ||
 shExpMatch(host, '*.fridaycard.com') ||
 shExpMatch(host, '*.fridero.ru') ||
 shExpMatch(host, '*.frideymi.ru') ||
@@ -10280,6 +10283,7 @@ shExpMatch(host, '*.luckygamec.com') ||
 shExpMatch(host, '*.luckygamehack.in') ||
 shExpMatch(host, '*.luckyhack.com') ||
 shExpMatch(host, '*.luckyhalo.info') ||
+shExpMatch(host, '*.luckyorange.com') ||
 shExpMatch(host, '*.luckypotty.com') ||
 shExpMatch(host, '*.luckypure.info') ||
 shExpMatch(host, '*.luckyshine.info') ||
@@ -10496,6 +10500,7 @@ shExpMatch(host, '*.mayatek.info') ||
 shExpMatch(host, '*.mayukefile.com') ||
 shExpMatch(host, '*.mazaso.ru') ||
 shExpMatch(host, '*.mazda.georgewkohn.com') ||
+shExpMatch(host, '*.mb-1k.org') ||
 shExpMatch(host, '*.mbcv.co.il') ||
 shExpMatch(host, '*.mbn.com.ua') ||
 shExpMatch(host, '*.mbs.megaroticlive.com') ||
@@ -24020,6 +24025,7 @@ shExpMatch(host, 'fiona-s.net') ||
 shExpMatch(host, 'firal.net') ||
 shExpMatch(host, 'fire-alts.com') ||
 shExpMatch(host, 'fire-hacks.com') ||
+shExpMatch(host, 'fire36.com') ||
 shExpMatch(host, 'firecash.org') ||
 shExpMatch(host, 'firecpa.com') ||
 shExpMatch(host, 'firecracks.com') ||
@@ -24160,6 +24166,7 @@ shExpMatch(host, 'forumny.ru') ||
 shExpMatch(host, 'forumusaaa.ru') ||
 shExpMatch(host, 'forumz.info') ||
 shExpMatch(host, 'forvetbet65.com') ||
+shExpMatch(host, 'foryou1k.com') ||
 shExpMatch(host, 'forza.console2pc.info') ||
 shExpMatch(host, 'forzacarpass.sharezips.info') ||
 shExpMatch(host, 'forzagame.sharezips.info') ||
@@ -24698,6 +24705,7 @@ shExpMatch(host, 'freezvps.com') ||
 shExpMatch(host, 'freezyngacardcodes.com') ||
 shExpMatch(host, 'freshcracks.com') ||
 shExpMatch(host, 'freshgamehacks.com') ||
+shExpMatch(host, 'freshworks.com') ||
 shExpMatch(host, 'fridaycard.com') ||
 shExpMatch(host, 'fridero.ru') ||
 shExpMatch(host, 'frideymi.ru') ||
@@ -27806,6 +27814,7 @@ shExpMatch(host, 'luckygamec.com') ||
 shExpMatch(host, 'luckygamehack.in') ||
 shExpMatch(host, 'luckyhack.com') ||
 shExpMatch(host, 'luckyhalo.info') ||
+shExpMatch(host, 'luckyorange.com') ||
 shExpMatch(host, 'luckypotty.com') ||
 shExpMatch(host, 'luckypure.info') ||
 shExpMatch(host, 'luckyshine.info') ||
@@ -28022,6 +28031,7 @@ shExpMatch(host, 'mayatek.info') ||
 shExpMatch(host, 'mayukefile.com') ||
 shExpMatch(host, 'mazaso.ru') ||
 shExpMatch(host, 'mazda.georgewkohn.com') ||
+shExpMatch(host, 'mb-1k.org') ||
 shExpMatch(host, 'mbcv.co.il') ||
 shExpMatch(host, 'mbn.com.ua') ||
 shExpMatch(host, 'mbs.megaroticlive.com') ||
