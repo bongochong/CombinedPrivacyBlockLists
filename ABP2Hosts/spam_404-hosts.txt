@@ -1,4 +1,4 @@
-# Mon May 24 01:27:54 AM UTC 2021
+# Wed May 26 01:27:38 AM UTC 2021
 # Spam404 Hosts - Generated weekly by bongochong
 0.0.0.0 001www.com
 0.0.0.0 0daygameparadise.com
@@ -2681,6 +2681,7 @@
 0.0.0.0 firal.net
 0.0.0.0 fire-alts.com
 0.0.0.0 fire-hacks.com
+0.0.0.0 fire36.com
 0.0.0.0 firecash.org
 0.0.0.0 firecpa.com
 0.0.0.0 firecracks.com
@@ -2761,6 +2762,7 @@
 0.0.0.0 fortuscase.com
 0.0.0.0 forumatomowe.net
 0.0.0.0 forumz.info
+0.0.0.0 foryou1k.com
 0.0.0.0 forza.console2pc.info
 0.0.0.0 forzacarpass.sharezips.info
 0.0.0.0 forzagame.sharezips.info
@@ -5110,6 +5112,7 @@
 0.0.0.0 maxmydl.com
 0.0.0.0 mayukefile.com
 0.0.0.0 mazaso.ru
+0.0.0.0 mb-1k.org
 0.0.0.0 mc.cardcodes.net
 0.0.0.0 mcalts.store
 0.0.0.0 mcdgifts.com
