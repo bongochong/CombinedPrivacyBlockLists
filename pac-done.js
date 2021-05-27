@@ -1,4 +1,4 @@
-// **** Wed May 26 01:33:23 AM UTC 2021
+// **** Thu May 27 10:41:18 PM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -8639,7 +8639,6 @@ shExpMatch(host, '*.heias.com') ||
 shExpMatch(host, '*.hejaza.cn') ||
 shExpMatch(host, '*.helesouurusa.cjb.com') ||
 shExpMatch(host, '*.hell-trade.com') ||
-shExpMatch(host, '*.hellboost.com') ||
 shExpMatch(host, '*.hellboost.fun') ||
 shExpMatch(host, '*.hellcase.io') ||
 shExpMatch(host, '*.hellcase.money') ||
@@ -13055,6 +13054,7 @@ shExpMatch(host, '*.recette.confiture.free.fr') ||
 shExpMatch(host, '*.recharge-mobile-gratuit.fr') ||
 shExpMatch(host, '*.reclamus.com') ||
 shExpMatch(host, '*.recoco.it') ||
+shExpMatch(host, '*.reconditerake.com') ||
 shExpMatch(host, '*.record.affiliates.karjalakasino.com') ||
 shExpMatch(host, '*.record.bonniergaming.com') ||
 shExpMatch(host, '*.record.mrwin.com') ||
@@ -26170,7 +26170,6 @@ shExpMatch(host, 'heias.com') ||
 shExpMatch(host, 'hejaza.cn') ||
 shExpMatch(host, 'helesouurusa.cjb.com') ||
 shExpMatch(host, 'hell-trade.com') ||
-shExpMatch(host, 'hellboost.com') ||
 shExpMatch(host, 'hellboost.fun') ||
 shExpMatch(host, 'hellcase.io') ||
 shExpMatch(host, 'hellcase.money') ||
@@ -30586,6 +30585,7 @@ shExpMatch(host, 'recette.confiture.free.fr') ||
 shExpMatch(host, 'recharge-mobile-gratuit.fr') ||
 shExpMatch(host, 'reclamus.com') ||
 shExpMatch(host, 'recoco.it') ||
+shExpMatch(host, 'reconditerake.com') ||
 shExpMatch(host, 'record.affiliates.karjalakasino.com') ||
 shExpMatch(host, 'record.bonniergaming.com') ||
 shExpMatch(host, 'record.mrwin.com') ||
