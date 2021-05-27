@@ -1,4 +1,4 @@
-# Wed May 26 01:31:33 AM UTC 2021
+# Thu May 27 10:36:27 PM UTC 2021
 # Spam404 Hosts - Generated weekly by bongochong
 0.0.0.0 001www.com
 0.0.0.0 0daygameparadise.com
@@ -4326,7 +4326,6 @@
 0.0.0.0 heaven4cheats.eu
 0.0.0.0 hecuq.ru
 0.0.0.0 hell-trade.com
-0.0.0.0 hellboost.com
 0.0.0.0 hellboost.fun
 0.0.0.0 hellcase.io
 0.0.0.0 hellcase.money

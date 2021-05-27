@@ -1,4 +1,4 @@
-# Wed May 26 01:30:58 AM UTC 2021
+# Thu May 27 10:35:45 PM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -3863,7 +3863,6 @@
 0.0.0.0 ent.mobileanjian.com
 0.0.0.0 entercom-d.openx.net
 0.0.0.0 enthusiast-gaming-d.openx.net
-0.0.0.0 entitlements.jwplayer.com
 0.0.0.0 entravision-d.openx.net
 0.0.0.0 entree.igetget.com
 0.0.0.0 entry.baidu.com
@@ -4410,8 +4409,6 @@
 0.0.0.0 googleads4.g.doubleclick.net
 0.0.0.0 googleadservices.com
 0.0.0.0 googlecm.hit.gemius.pl
-0.0.0.0 googletagmanager.com
-0.0.0.0 googletagservices.com
 0.0.0.0 gop1.co
 0.0.0.0 gota.tpbid.com
 0.0.0.0 goto-target-com.customtraffic.impactradius.com
@@ -9393,7 +9390,6 @@
 0.0.0.0 ww3050.smartadserver.com
 0.0.0.0 ww3232.smartadserver.com
 0.0.0.0 www-google-analytics.l.google.com
-0.0.0.0 www-googletagmanager.l.google.com
 0.0.0.0 www.5rocks.io
 0.0.0.0 www.adbert.com.tw
 0.0.0.0 www.auditude.com
@@ -9402,8 +9398,6 @@
 0.0.0.0 www.geoplugin.net
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.googleadservices.com
-0.0.0.0 www.googletagmanager.com
-0.0.0.0 www.googletagservices.com
 0.0.0.0 www.iadsdk.apple.com
 0.0.0.0 www.leanplum.com
 0.0.0.0 www.localytics.com
