@@ -1,4 +1,4 @@
-# Thu May 27 10:36:24 PM UTC 2021
+# Fri May 28 10:21:55 PM UTC 2021
 # AdGuard DNS Hosts - Generated weekly by bongochong
 0.0.0.0 00-gov.cn
 0.0.0.0 0024aaaa.com
@@ -1146,6 +1146,7 @@
 0.0.0.0 7rtv.com
 0.0.0.0 7s08gpbp39.com
 0.0.0.0 7search.com
+0.0.0.0 7times.top
 0.0.0.0 7tpfnjn03b32.com
 0.0.0.0 7vxlfstt.top
 0.0.0.0 7wen.cn
@@ -3771,6 +3772,7 @@
 0.0.0.0 ahidsply.com
 0.0.0.0 ahjdsply.com
 0.0.0.0 ahjdwb31.xyz
+0.0.0.0 ahjinhuayi.com
 0.0.0.0 ahjzys.com
 0.0.0.0 ahlxxx.com
 0.0.0.0 ahnioppshfwq.com
@@ -3892,6 +3894,7 @@
 0.0.0.0 ajkelra.com
 0.0.0.0 ajkzd9h.com
 0.0.0.0 ajpxs.xyz
+0.0.0.0 ajwssds.com
 0.0.0.0 ajx130.online
 0.0.0.0 ak.imgaft.com
 0.0.0.0 ak0429.com
@@ -5875,6 +5878,7 @@
 0.0.0.0 bbom2b434493.com
 0.0.0.0 bbtrack.net
 0.0.0.0 bbtrf.info
+0.0.0.0 bbttkk.com
 0.0.0.0 bbtys.net
 0.0.0.0 bbuni.com
 0.0.0.0 bbvc2.com
@@ -7114,6 +7118,7 @@
 0.0.0.0 budurl.com
 0.0.0.0 budvawshes.ru
 0.0.0.0 bueykqyv.com
+0.0.0.0 bufamy.com
 0.0.0.0 bufupacamo.com
 0.0.0.0 bugaga.tut.by
 0.0.0.0 bugcreator.cn
@@ -7308,6 +7313,7 @@
 0.0.0.0 c.8l8l.com
 0.0.0.0 c.bigmir.net
 0.0.0.0 c.caijing123.com
+0.0.0.0 c.cloudwp.io
 0.0.0.0 c.cpa5.ru
 0.0.0.0 c.cpa6.ru
 0.0.0.0 c.cpl2.ru
@@ -7750,6 +7756,7 @@
 0.0.0.0 cdn.notsy.io
 0.0.0.0 cdn.offcloud.com
 0.0.0.0 cdn.pljs.ru
+0.0.0.0 cdn.relaido.jp
 0.0.0.0 cdn.resonate.com
 0.0.0.0 cdn.smartclick.io
 0.0.0.0 cdn.sportlabs.online
@@ -8801,6 +8808,7 @@
 0.0.0.0 comacheerlesslump.com
 0.0.0.0 comalonger.com
 0.0.0.0 comandosfilmes.org
+0.0.0.0 comasoiling.casa
 0.0.0.0 combatmootcrucial.com
 0.0.0.0 combatprofanitycandidate.com
 0.0.0.0 combclover.com
@@ -12934,6 +12942,7 @@
 0.0.0.0 fagaxesea.com
 0.0.0.0 faggrim.com
 0.0.0.0 faglollstwo.com
+0.0.0.0 fagywalu.pro
 0.0.0.0 fahimpace.pro
 0.0.0.0 faibl.org
 0.0.0.0 faidoud.com
@@ -15250,6 +15259,7 @@
 0.0.0.0 gyzjvioumudlx.com
 0.0.0.0 gz-bz.cn
 0.0.0.0 gz06x5tqlj.com
+0.0.0.0 gzduoqicai.cn
 0.0.0.0 gzhying1.cn
 0.0.0.0 gzktpf.com
 0.0.0.0 gzleilin.com
@@ -15870,6 +15880,7 @@
 0.0.0.0 hjiss.com
 0.0.0.0 hjjevg.com
 0.0.0.0 hjjnpx.com
+0.0.0.0 hjsled.com
 0.0.0.0 hjues.com
 0.0.0.0 hjyll.top
 0.0.0.0 hk50606.cn
@@ -16983,6 +16994,7 @@
 0.0.0.0 inskinmedia.com
 0.0.0.0 insnative.com
 0.0.0.0 insolencecountriesblunder.com
+0.0.0.0 insolencemanipulative.com
 0.0.0.0 insolencewalter.com
 0.0.0.0 insolencewhoeverinsult.com
 0.0.0.0 insomn.pro
@@ -18053,6 +18065,7 @@
 0.0.0.0 k5evib.ru
 0.0.0.0 k5p8f2.cn
 0.0.0.0 k77hof1z7k.com
+0.0.0.0 k8dl08.cc
 0.0.0.0 k8vina17.com
 0.0.0.0 k8vn03.com
 0.0.0.0 k9dzax.cn
@@ -19131,6 +19144,7 @@
 0.0.0.0 limonads.net
 0.0.0.0 limoncash.com
 0.0.0.0 limone.iltrovatore.it
+0.0.0.0 linana.top
 0.0.0.0 lindanmiaoxiang.cn
 0.0.0.0 lindenlaugh.pro
 0.0.0.0 lindon-pool.win
@@ -23519,6 +23533,7 @@
 0.0.0.0 ox1.vietstock.vn
 0.0.0.0 ox11.com
 0.0.0.0 oxado.com
+0.0.0.0 oxharmonysample.com
 0.0.0.0 oxidy.com
 0.0.0.0 oxlerco.info
 0.0.0.0 oxn.gerkon.eu
@@ -24906,6 +24921,7 @@
 0.0.0.0 praganytu.club
 0.0.0.0 praght.tech
 0.0.0.0 pragment.club
+0.0.0.0 praiserevision.com
 0.0.0.0 prankmechanics.com
 0.0.0.0 praterswhally.com
 0.0.0.0 prayuserparka.com
@@ -25774,6 +25790,7 @@
 0.0.0.0 qiditrade.com
 0.0.0.0 qienews.cn
 0.0.0.0 qifake.com
+0.0.0.0 qiguoguo.net
 0.0.0.0 qiheptnm80.com
 0.0.0.0 qiji1.jdwx.info
 0.0.0.0 qiklsv.com
@@ -28500,6 +28517,7 @@
 0.0.0.0 sionsrathet.info
 0.0.0.0 siphic5.top
 0.0.0.0 siplyresox.com
+0.0.0.0 sippansy.com
 0.0.0.0 siradsalot.com
 0.0.0.0 sireundermineoperative.com
 0.0.0.0 sisewepod.com
@@ -29345,6 +29363,7 @@
 0.0.0.0 squidanalytics.com
 0.0.0.0 squirrelhands.com
 0.0.0.0 squirrels.getsquirrel.co
+0.0.0.0 sqyueda.com
 0.0.0.0 sra.moresophy.net
 0.0.0.0 sravniali.ru
 0.0.0.0 srcip.com
@@ -30313,6 +30332,7 @@
 0.0.0.0 sxmgd1aqrr.com
 0.0.0.0 sxmutan.com
 0.0.0.0 sxmyyx.com
+0.0.0.0 sxrgd.com
 0.0.0.0 sxtut.org
 0.0.0.0 sxtyhl.top
 0.0.0.0 sxxfmc.com
@@ -30382,6 +30402,7 @@
 0.0.0.0 syznate.ru
 0.0.0.0 syzzhd.cn
 0.0.0.0 szahidalkath.fun
+0.0.0.0 szblcad.com
 0.0.0.0 szdzbx.com
 0.0.0.0 szene-traffic.com
 0.0.0.0 szfaq.com
@@ -30404,6 +30425,7 @@
 0.0.0.0 szsmtk.com
 0.0.0.0 sztbjs.com
 0.0.0.0 szwjzl.cn
+0.0.0.0 szwyyl.com
 0.0.0.0 szwzjk.cn
 0.0.0.0 szxhybj.com
 0.0.0.0 szyuke.cn
@@ -31462,6 +31484,7 @@
 0.0.0.0 tontent.povwideo.me
 0.0.0.0 tontent.powv1deo.cc
 0.0.0.0 tontwiredat.info
+0.0.0.0 tooasthmaloose.com
 0.0.0.0 toodlepork.com
 0.0.0.0 tool-site.com
 0.0.0.0 toolcount.ru
@@ -31604,6 +31627,7 @@
 0.0.0.0 tortoiselavender.com
 0.0.0.0 toruk.tanx.com
 0.0.0.0 torvind.com
+0.0.0.0 toshi.top
 0.0.0.0 tostega.ru
 0.0.0.0 tostickad.com
 0.0.0.0 totachrl.com
@@ -34073,6 +34097,7 @@
 0.0.0.0 vupyjyyu.xyz
 0.0.0.0 vuryua.ru
 0.0.0.0 vutudm.com
+0.0.0.0 vuukle.com
 0.0.0.0 vuuwd.com
 0.0.0.0 vuwcudzzyxn.com
 0.0.0.0 vuwgt.com
@@ -34847,6 +34872,7 @@
 0.0.0.0 wndlkj.com
 0.0.0.0 wneia.iaskhot.com
 0.0.0.0 wnfjzjmc.com
+0.0.0.0 wnlyjhb.com
 0.0.0.0 wnp.com
 0.0.0.0 wnpbdan.bid
 0.0.0.0 wnprot.com
@@ -35700,6 +35726,7 @@
 0.0.0.0 ybytexer.xyz
 0.0.0.0 yc-ads.s3.amazonaws.com
 0.0.0.0 yceml.net
+0.0.0.0 ycgy8888.com
 0.0.0.0 ychml.com
 0.0.0.0 yclxrj.top
 0.0.0.0 ycorsementh.top

@@ -5919,6 +5919,7 @@
 0.0.0.0 angeldonationblog.com
 0.0.0.0 angelinfo.com
 0.0.0.0 angelinna.free.fr
+0.0.0.0 angelsdance.com.au
 0.0.0.0 angiba.112.2o7.net
 0.0.0.0 angieslist.tt.omtrdc.net
 0.0.0.0 angmar.112.2o7.net
@@ -7531,7 +7532,6 @@
 0.0.0.0 cbs.112.2o7.net
 0.0.0.0 cbscom.112.2o7.net
 0.0.0.0 cbsdigitalmedia.112.2o7.net
-0.0.0.0 cbsinteractive.hb.omtrdc.net
 0.0.0.0 cbsnfl.112.2o7.net
 0.0.0.0 cbspgatour.112.2o7.net
 0.0.0.0 cbsspln.112.2o7.net
@@ -9354,6 +9354,7 @@
 0.0.0.0 downloads2020.com
 0.0.0.0 downloadtg4.website
 0.0.0.0 dp.g.doubleclick.net
+0.0.0.0 dp4gxyj2fpic2.cloudfront.net
 0.0.0.0 dpyfo.mobi
 0.0.0.0 dq95d35.com
 0.0.0.0 dqs001.adtech.de
@@ -12350,6 +12351,7 @@
 0.0.0.0 justreggitifyouknowit.ru
 0.0.0.0 justwebads.com
 0.0.0.0 jyhfuqoh.info
+0.0.0.0 jyk85mxc.z1001.net
 0.0.0.0 jzwjq.ads.tremorhub.com
 0.0.0.0 k-t.icu
 0.0.0.0 k.admob.com
@@ -13884,7 +13886,6 @@
 0.0.0.0 minr.pw
 0.0.0.0 mintj.com
 0.0.0.0 mintsbox.website
-0.0.0.0 minustorm.com
 0.0.0.0 minyanville.adblade.com
 0.0.0.0 mir.7jp.cn
 0.0.0.0 miranda.bounced.de
@@ -16335,6 +16336,7 @@
 0.0.0.0 rodrigoeberienos.com
 0.0.0.0 rogatech.cf
 0.0.0.0 rogojaob.info
+0.0.0.0 rogzhe05.top
 0.0.0.0 rohingyaedu.com
 0.0.0.0 roimedia.advertserve.com
 0.0.0.0 rokushiki.nefficient.jp
@@ -17911,7 +17913,6 @@
 0.0.0.0 stc.adtima.vn
 0.0.0.0 stcinet.com
 0.0.0.0 stcnet.ddns.net
-0.0.0.0 stdynbnbtwodebateqmp.duckdns.org
 0.0.0.0 stdyunitedkesokostri.dns.navy
 0.0.0.0 steadfastsound.com
 0.0.0.0 steadfastsystem.com
@@ -18455,6 +18456,7 @@
 0.0.0.0 thepiratebay3.com
 0.0.0.0 thersprens.com
 0.0.0.0 thesawmeinrew.net
+0.0.0.0 thesilkradiance.com
 0.0.0.0 thesmartmoneyinstitute.com
 0.0.0.0 thesoftwareenterprise.com
 0.0.0.0 thestar.122.2o7.net
@@ -18615,6 +18617,7 @@
 0.0.0.0 tourscentralasian.com
 0.0.0.0 tower.adexpedia.com
 0.0.0.0 toweringrun.com
+0.0.0.0 towingnow.ca
 0.0.0.0 towme.services
 0.0.0.0 townhousefilms.com
 0.0.0.0 toyotamotorcorporation.122.2o7.net
@@ -23083,7 +23086,6 @@
 0.0.0.0 zbtqpkimkjcr.com
 0.0.0.0 zbwp6ghm.com
 0.0.0.0 zc.adswizz.com
-0.0.0.0 zcm.cupastore.ro
 0.0.0.0 zcoup.com
 0.0.0.0 zctrack.com
 0.0.0.0 zdads.e-media.com
