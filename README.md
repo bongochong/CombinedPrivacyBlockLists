@@ -38,7 +38,7 @@ These tools are modified versions of the ones I run on my GNU/Linux box. I've te
 
 In addition, see the [**Windows Versions of these Tools**](https://github.com/bongochong/CWP-Utilities): Fully functional Windows versions of all the utilities listed above - compatible with both 32 and 64-bit versions of Windows - can be found in my [Combined Windows Privacy Utilities](https://github.com/bongochong/CWP-Utilities) repository. They are friendlier versions of my GNU/Linux tools, bundled with the necessary dependencies, provided with an easy-to-use and coherent interface.  
 
-<p align="center"><img src="https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/CPBL-Clacks.gif" alt="GNU Terry Pratchett | Carpentry Get Truth | A.M.K."></p>
+<p align="center"><img src="https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/Misc/CPBL-Clacks.gif" alt="GNU Terry Pratchett | Carpentry Get Truth | A.M.K."></p>
 
 # <a name="footnotes"></a>
 
