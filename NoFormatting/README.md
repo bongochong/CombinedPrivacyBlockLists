@@ -1,8 +1,6 @@
 # Additional Supplementary and Miscellaneous Content
 Within this directory are the following items:  
 
-- Four versions of [Chef Koch's](https://github.com/CHEF-KOCH) infamous [NSA block list](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/NoFormatting/NSABlockLists), which are **not included in any of my other lists** and are simply housed here for posterity.  
-
 - Backups of the Immortal Malware Domain List in [hosts](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/MD-Immortal_Domains-Backup-HOSTS.txt) and [plain domain](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/MD-Immortal_Domains-Backup.txt) formats, along with my actively maintained forks thereof ([1](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/MD-ID-Fork.txt), [2](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/MD-ID-H-Fork.txt)). Included in my main hosts files.  
 
 - A [list of supplementary domains to block](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/AdditionalSupplementaryHosts.txt), which is compiled from my own observations, and a semi-frequently shifting list of sources largely focused on threat intelligence (currently a rotating selection of smaller, regularly updated lists from: [1](https://github.com/mitchellkrogza/), [2](https://github.com/davidonzo/Threat-Intel/), [3](https://github.com/stamparm/maltrail/), [4](https://github.com/DRSDavidSoft/additional-hosts/), [5](https://github.com/tiuxo/hosts/), [6](https://v.firebog.net/hosts/), [7](https://github.com/Ultimate-Hosts-Blacklist/2o7.net), along with a variety of malicious domains culled from less common uBlock Origin and AdBlock Plus filter lists, and a very specific set of matching domains culled from the hosts file curated by [SomeoneWhoCares](https://someonewhocares.org/)). Included in my main hosts files.  
@@ -21,6 +19,8 @@ Within this directory are the following items:
 
 - The [version of my main CIDR-format block list with `deny from` prepended to each line](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/combined-denied.cidr) is also available in this subdirectory.  
 
-- Finally, an ABP / uBO filter list which is [mostly the cosmetic filters](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/cpbl-abp-cosmetic-only.txt) from my main ABP / uBO lists.
+- An ABP / uBO filter list which is [mostly the cosmetic filters](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/cpbl-abp-cosmetic-only.txt) from my main ABP / uBO lists.
+
+- Four versions of [Chef Koch's](https://github.com/CHEF-KOCH) infamous [NSA block list](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/NoFormatting/Misc/NSABlockLists), which are **not included in any of my other lists** and are simply housed here for posterity.
 
 File names in here are basically self-explanatory, and I'm well aware at this point, that this directory should be named *AdditionalContent* or something of the sort, but it is what it is.
