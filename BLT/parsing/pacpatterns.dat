@@ -109,6 +109,8 @@
 ^c.msn.com$
 ^c.paypal.com$
 ^campaign-archive.com$
+^cbsi.com.ssl.sc.omtrdc.net$
+^cbsinteractive.hb.omtrdc.net$
 ^cdn-customers.nanorep.com$
 ^cdn-gl.imrworldwide.com$
 ^cdn-mobile.api.pluto.tv$
@@ -436,6 +438,7 @@
 ^s0.2mdn.net$
 ^s3-eu-west-1.amazonaws.com$
 ^s6.exct.net$
+^saa.cbsi.com$
 ^safelinking.net$
 ^samsungcloudsolution.com$
 ^sc-static.net$
@@ -513,6 +516,7 @@
 ^tn.com.ar$
 ^todo-ta-g7g.amazon.com$
 ^tomshardware.com$
+^tv.rlcdn.com$
 ^tvaddons.ag$
 ^tvpassport.com$
 ^twimg.com$
