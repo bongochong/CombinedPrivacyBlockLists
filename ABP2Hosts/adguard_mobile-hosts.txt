@@ -1,4 +1,4 @@
-# Fri May 28 10:21:15 PM UTC 2021
+# Sat May 29 04:04:58 AM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -8742,6 +8742,7 @@
 0.0.0.0 turn.com
 0.0.0.0 turn.com.akadns.net
 0.0.0.0 tutoads.tv
+0.0.0.0 tv.rlcdn.com
 0.0.0.0 tveta.naver.net
 0.0.0.0 tvx.adgrx.com
 0.0.0.0 tvx.adgrx.com.tech.akadns.net

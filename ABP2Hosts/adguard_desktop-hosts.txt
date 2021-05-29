@@ -1,4 +1,4 @@
-# Fri May 28 10:21:30 PM UTC 2021
+# Sat May 29 04:05:16 AM UTC 2021
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 00-gov.cn
 0.0.0.0 0024aaaa.com
@@ -697,6 +697,7 @@
 0.0.0.0 3d0da2373af57.com
 0.0.0.0 3d1a1e7f6db3.com
 0.0.0.0 3d643f542787c62a7.com
+0.0.0.0 3de3a133cf5.com
 0.0.0.0 3djd3.xyz
 0.0.0.0 3dlivestats.com
 0.0.0.0 3dqiang.com
@@ -1419,6 +1420,7 @@
 0.0.0.0 99tianxin.com
 0.0.0.0 9a24a1b3dcd5f4.com
 0.0.0.0 9a6wb.cn
+0.0.0.0 9aaeea3094d8.com
 0.0.0.0 9ad16721d9d5c56.com
 0.0.0.0 9ads.mobi
 0.0.0.0 9ads.net
@@ -5129,6 +5131,7 @@
 0.0.0.0 arbadgika.ru
 0.0.0.0 arbawijlgq.com
 0.0.0.0 arbingfifted.club
+0.0.0.0 arbitrarydefectrightfully.com
 0.0.0.0 arbourrenewal.com
 0.0.0.0 arcadebannerexchange.org
 0.0.0.0 arcadebanners.com
@@ -11149,6 +11152,7 @@
 0.0.0.0 dauntlessomelette.com
 0.0.0.0 dauphinelles.xyz
 0.0.0.0 daurifek.net
+0.0.0.0 daurmonb.com
 0.0.0.0 davarello.com
 0.0.0.0 daxishi.com
 0.0.0.0 dayadopen.site
@@ -13527,6 +13531,7 @@
 0.0.0.0 engineseeker.com
 0.0.0.0 engingalon.top
 0.0.0.0 englingedrxa.club
+0.0.0.0 englishheadlight.com
 0.0.0.0 engppdoqrtivjd.com
 0.0.0.0 engrievinebef.fun
 0.0.0.0 enhance.com
@@ -13675,6 +13680,7 @@
 0.0.0.0 erkchpofubojfm.com
 0.0.0.0 erkesi.cn
 0.0.0.0 erkhxw.com
+0.0.0.0 ermitteedi.biz
 0.0.0.0 ernettesew.club
 0.0.0.0 erniphiq.com
 0.0.0.0 ernmentin.top
@@ -15618,6 +15624,7 @@
 0.0.0.0 gcwubi.happypancake.fi
 0.0.0.0 gcxjczooe.com
 0.0.0.0 gdbly.com
+0.0.0.0 gdcjzyfjwvyqvq.com
 0.0.0.0 gdcuixkjhnmot.com
 0.0.0.0 gddrio.com
 0.0.0.0 gdeslon.ru
@@ -19768,6 +19775,7 @@
 0.0.0.0 jonjo.ga
 0.0.0.0 jonzos.cashconverters.es
 0.0.0.0 joobuste.com
+0.0.0.0 joodoush.com
 0.0.0.0 joophesh.com
 0.0.0.0 joorejou.net
 0.0.0.0 jopd.ru
@@ -26346,6 +26354,7 @@
 0.0.0.0 nunscawamok.icu
 0.0.0.0 nuonuo1.icu
 0.0.0.0 nuoqingck.cn
+0.0.0.0 nupcn.com
 0.0.0.0 nupoot.com
 0.0.0.0 nuqwe.com
 0.0.0.0 nurno.com
@@ -26696,6 +26705,7 @@
 0.0.0.0 oicretarifiedy.top
 0.0.0.0 oicssiq.com
 0.0.0.0 oidah.com
+0.0.0.0 oidaio.com
 0.0.0.0 oihudydlsvxsi.com
 0.0.0.0 oijkse.com
 0.0.0.0 oikqfwv.cn
@@ -40461,6 +40471,7 @@
 0.0.0.0 videorot.com
 0.0.0.0 videortb.ru
 0.0.0.0 videos.oms.eu
+0.0.0.0 videosflop.com
 0.0.0.0 videosmor.com
 0.0.0.0 videostat.com
 0.0.0.0 videostat.meta.ua
@@ -42541,6 +42552,7 @@
 0.0.0.0 xref.io
 0.0.0.0 xrgrymutlq.com
 0.0.0.0 xrhobrrgwhtlu.com
+0.0.0.0 xroynaxvqvouy.com
 0.0.0.0 xrqrpdxqpm.com
 0.0.0.0 xrxybn.kotofey-shop.ru
 0.0.0.0 xs.houyi.baofeng.net
