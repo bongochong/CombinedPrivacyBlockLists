@@ -1,4 +1,4 @@
-// **** Sat Jun  5 06:11:11 AM UTC 2021
+// **** Sat Jun  5 06:26:28 AM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -1920,6 +1920,7 @@ shExpMatch(host, '*.analytics-production.hapyak.com') ||
 shExpMatch(host, '*.analytics.adpost.org') ||
 shExpMatch(host, '*.analytics.algoepico.net') ||
 shExpMatch(host, '*.analytics.bitrix.info') ||
+shExpMatch(host, '*.analytics.brave.com') ||
 shExpMatch(host, '*.analytics.cloudron.io') ||
 shExpMatch(host, '*.analytics.cohesionapps.com') ||
 shExpMatch(host, '*.analytics.dnsfilter.com') ||
@@ -4919,6 +4920,8 @@ shExpMatch(host, '*.devconn.co') ||
 shExpMatch(host, '*.deviantartt.ga') ||
 shExpMatch(host, '*.deviantartt.ml') ||
 shExpMatch(host, '*.device-shell-breach-alert.us') ||
+shExpMatch(host, '*.device9.com') ||
+shExpMatch(host, '*.device9.net') ||
 shExpMatch(host, '*.devteamjailbreak.com') ||
 shExpMatch(host, '*.dewisri.pw') ||
 shExpMatch(host, '*.dexterousshould.biz') ||
@@ -14905,6 +14908,8 @@ shExpMatch(host, '*.sznaucer-figa.nd.e-wro.pl') ||
 shExpMatch(host, '*.sznm.com.cn') ||
 shExpMatch(host, '*.t-safe.nl') ||
 shExpMatch(host, '*.t.bawafx.com') ||
+shExpMatch(host, '*.t.device9.com') ||
+shExpMatch(host, '*.t.device9.net') ||
 shExpMatch(host, '*.t.eloqua.com') ||
 shExpMatch(host, '*.t.en25.com') ||
 shExpMatch(host, '*.t.firstpromoter.com') ||
@@ -14918,6 +14923,8 @@ shExpMatch(host, '*.tabex.sopharma.bg') ||
 shExpMatch(host, '*.tabfirmware.com') ||
 shExpMatch(host, '*.taboola.com') ||
 shExpMatch(host, '*.tacoda.net') ||
+shExpMatch(host, '*.tag.device9.com') ||
+shExpMatch(host, '*.tag.device9.net') ||
 shExpMatch(host, '*.tag.links-analytics.com') ||
 shExpMatch(host, '*.tagan.adlightning.com') ||
 shExpMatch(host, '*.tagcommander.com') ||
@@ -16812,6 +16819,8 @@ shExpMatch(host, '*.www.coloritpak.by') ||
 shExpMatch(host, '*.www.consumeralternatives.org') ||
 shExpMatch(host, '*.www.cortesidesign.com') ||
 shExpMatch(host, '*.www.del-marine.com') ||
+shExpMatch(host, '*.www.device9.com') ||
+shExpMatch(host, '*.www.device9.net') ||
 shExpMatch(host, '*.www.dezuiderwaard.nl') ||
 shExpMatch(host, '*.www.dnps.com') ||
 shExpMatch(host, '*.www.doctor-alex.com') ||
@@ -19443,6 +19452,7 @@ shExpMatch(host, 'analytics-production.hapyak.com') ||
 shExpMatch(host, 'analytics.adpost.org') ||
 shExpMatch(host, 'analytics.algoepico.net') ||
 shExpMatch(host, 'analytics.bitrix.info') ||
+shExpMatch(host, 'analytics.brave.com') ||
 shExpMatch(host, 'analytics.cloudron.io') ||
 shExpMatch(host, 'analytics.cohesionapps.com') ||
 shExpMatch(host, 'analytics.dnsfilter.com') ||
@@ -22442,6 +22452,8 @@ shExpMatch(host, 'devconn.co') ||
 shExpMatch(host, 'deviantartt.ga') ||
 shExpMatch(host, 'deviantartt.ml') ||
 shExpMatch(host, 'device-shell-breach-alert.us') ||
+shExpMatch(host, 'device9.com') ||
+shExpMatch(host, 'device9.net') ||
 shExpMatch(host, 'devteamjailbreak.com') ||
 shExpMatch(host, 'dewisri.pw') ||
 shExpMatch(host, 'dexterousshould.biz') ||
@@ -32428,6 +32440,8 @@ shExpMatch(host, 'sznaucer-figa.nd.e-wro.pl') ||
 shExpMatch(host, 'sznm.com.cn') ||
 shExpMatch(host, 't-safe.nl') ||
 shExpMatch(host, 't.bawafx.com') ||
+shExpMatch(host, 't.device9.com') ||
+shExpMatch(host, 't.device9.net') ||
 shExpMatch(host, 't.eloqua.com') ||
 shExpMatch(host, 't.en25.com') ||
 shExpMatch(host, 't.firstpromoter.com') ||
@@ -32441,6 +32455,8 @@ shExpMatch(host, 'tabex.sopharma.bg') ||
 shExpMatch(host, 'tabfirmware.com') ||
 shExpMatch(host, 'taboola.com') ||
 shExpMatch(host, 'tacoda.net') ||
+shExpMatch(host, 'tag.device9.com') ||
+shExpMatch(host, 'tag.device9.net') ||
 shExpMatch(host, 'tag.links-analytics.com') ||
 shExpMatch(host, 'tagan.adlightning.com') ||
 shExpMatch(host, 'tagcommander.com') ||
@@ -34335,6 +34351,8 @@ shExpMatch(host, 'www.coloritpak.by') ||
 shExpMatch(host, 'www.consumeralternatives.org') ||
 shExpMatch(host, 'www.cortesidesign.com') ||
 shExpMatch(host, 'www.del-marine.com') ||
+shExpMatch(host, 'www.device9.com') ||
+shExpMatch(host, 'www.device9.net') ||
 shExpMatch(host, 'www.dezuiderwaard.nl') ||
 shExpMatch(host, 'www.dnps.com') ||
 shExpMatch(host, 'www.doctor-alex.com') ||
