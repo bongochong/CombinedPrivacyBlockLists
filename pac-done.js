@@ -1,4 +1,4 @@
-// **** Sat Jun  5 06:26:28 AM UTC 2021
+// **** Tue Jun  8 07:59:53 PM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -323,6 +323,7 @@ shExpMatch(host, '*.a.0day.kiev.ua') ||
 shExpMatch(host, '*.a.aproductmsg.com') ||
 shExpMatch(host, '*.a.collective-media.net') ||
 shExpMatch(host, '*.a.consumer.net') ||
+shExpMatch(host, '*.a.klaviyo.com') ||
 shExpMatch(host, '*.a.mktw.net') ||
 shExpMatch(host, '*.a.muloqot.uz') ||
 shExpMatch(host, '*.a.pub.network') ||
@@ -9749,7 +9750,6 @@ shExpMatch(host, '*.kkokkoyaa.com') ||
 shExpMatch(host, '*.kkxv.in') ||
 shExpMatch(host, '*.klaratsetkin.info') ||
 shExpMatch(host, '*.klaustrade.com') ||
-shExpMatch(host, '*.klaviyo.com') ||
 shExpMatch(host, '*.klclick.com') ||
 shExpMatch(host, '*.klclick1.com') ||
 shExpMatch(host, '*.kliks.nl') ||
@@ -12885,6 +12885,7 @@ shExpMatch(host, '*.quick-exchange.com') ||
 shExpMatch(host, '*.quickdl.net') ||
 shExpMatch(host, '*.quickfiled.com') ||
 shExpMatch(host, '*.quickfilmz.com') ||
+shExpMatch(host, '*.quickkoala.io') ||
 shExpMatch(host, '*.quickmessage.io') ||
 shExpMatch(host, '*.quickmessage.us') ||
 shExpMatch(host, '*.quicksandear.com') ||
@@ -15055,6 +15056,7 @@ shExpMatch(host, '*.telechargergta5gratuit.gamerlh.com') ||
 shExpMatch(host, '*.telechargergta5pcgratuit.com') ||
 shExpMatch(host, '*.telechargerjeuxpsvitagratuit.com') ||
 shExpMatch(host, '*.telechargersgta5.com') ||
+shExpMatch(host, '*.telemetrics.klaviyo.com') ||
 shExpMatch(host, '*.telemetry.dropbox.com') ||
 shExpMatch(host, '*.telemetry.v.dropbox.com') ||
 shExpMatch(host, '*.teliad.de') ||
@@ -17855,6 +17857,7 @@ shExpMatch(host, 'a.0day.kiev.ua') ||
 shExpMatch(host, 'a.aproductmsg.com') ||
 shExpMatch(host, 'a.collective-media.net') ||
 shExpMatch(host, 'a.consumer.net') ||
+shExpMatch(host, 'a.klaviyo.com') ||
 shExpMatch(host, 'a.mktw.net') ||
 shExpMatch(host, 'a.muloqot.uz') ||
 shExpMatch(host, 'a.pub.network') ||
@@ -27281,7 +27284,6 @@ shExpMatch(host, 'kkokkoyaa.com') ||
 shExpMatch(host, 'kkxv.in') ||
 shExpMatch(host, 'klaratsetkin.info') ||
 shExpMatch(host, 'klaustrade.com') ||
-shExpMatch(host, 'klaviyo.com') ||
 shExpMatch(host, 'klclick.com') ||
 shExpMatch(host, 'klclick1.com') ||
 shExpMatch(host, 'kliks.nl') ||
@@ -30417,6 +30419,7 @@ shExpMatch(host, 'quick-exchange.com') ||
 shExpMatch(host, 'quickdl.net') ||
 shExpMatch(host, 'quickfiled.com') ||
 shExpMatch(host, 'quickfilmz.com') ||
+shExpMatch(host, 'quickkoala.io') ||
 shExpMatch(host, 'quickmessage.io') ||
 shExpMatch(host, 'quickmessage.us') ||
 shExpMatch(host, 'quicksandear.com') ||
@@ -32587,6 +32590,7 @@ shExpMatch(host, 'telechargergta5gratuit.gamerlh.com') ||
 shExpMatch(host, 'telechargergta5pcgratuit.com') ||
 shExpMatch(host, 'telechargerjeuxpsvitagratuit.com') ||
 shExpMatch(host, 'telechargersgta5.com') ||
+shExpMatch(host, 'telemetrics.klaviyo.com') ||
 shExpMatch(host, 'telemetry.dropbox.com') ||
 shExpMatch(host, 'telemetry.v.dropbox.com') ||
 shExpMatch(host, 'teliad.de') ||
