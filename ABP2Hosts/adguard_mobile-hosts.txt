@@ -1,4 +1,4 @@
-# Sat May 29 04:04:58 AM UTC 2021
+# Tue Jun  8 07:53:18 PM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -15,11 +15,16 @@
 0.0.0.0 14dc69dd.api.splkmobile.com
 0.0.0.0 159126.engine.mobileapptracking.com
 0.0.0.0 167126.engine.mobileapptracking.com
+0.0.0.0 167154.engine.mobileapptracking.com
 0.0.0.0 1681.engine.mobileapptracking.com
 0.0.0.0 16948.engine.mobileapptracking.com
+0.0.0.0 17058.engine.mobileapptracking.com
 0.0.0.0 175038.engine.mobileapptracking.com
+0.0.0.0 176232.engine.mobileapptracking.com
 0.0.0.0 1782.engine.mobileapptracking.com
+0.0.0.0 178852.engine.mobileapptracking.com
 0.0.0.0 17908.engine.mobileapptracking.com
+0.0.0.0 180642.engine.mobileapptracking.com
 0.0.0.0 183704.engine.mobileapptracking.com
 0.0.0.0 183804.engine.mobileapptracking.com
 0.0.0.0 185492.engine.mobileapptracking.com
@@ -27,15 +32,21 @@
 0.0.0.0 186232.engine.mobileapptracking.com
 0.0.0.0 189358.engine.mobileapptracking.com
 0.0.0.0 189850.engine.mobileapptracking.com
+0.0.0.0 189904.engine.mobileapptracking.com
 0.0.0.0 189983.engine.mobileapptracking.com
 0.0.0.0 190107.engine.mobileapptracking.com
 0.0.0.0 190829.engine.mobileapptracking.com
+0.0.0.0 192569.engine.mobileapptracking.com
+0.0.0.0 192834.engine.mobileapptracking.com
 0.0.0.0 194192.engine.mobileapptracking.com
 0.0.0.0 194792.engine.mobileapptracking.com
+0.0.0.0 194985.engine.mobileapptracking.com
 0.0.0.0 1956.api.swrve.com
 0.0.0.0 1956.content.swrve.com
 0.0.0.0 195724.engine.mobileapptracking.com
+0.0.0.0 19588.engine.mobileapptracking.com
 0.0.0.0 198935.engine.mobileapptracking.com
+0.0.0.0 199107.engine.mobileapptracking.com
 0.0.0.0 199109.engine.mobileapptracking.com
 0.0.0.0 1mp.mobi
 0.0.0.0 1rx.io
@@ -159,6 +170,7 @@
 0.0.0.0 5-8-2-ios.userflows.ingest.crittercism.com
 0.0.0.0 5-9-0-ios.userflows.ingest.crittercism.com
 0.0.0.0 5-9-5-ios.userflows.ingest.crittercism.com
+0.0.0.0 5094.engine.mobileapptracking.com
 0.0.0.0 51ginkgo.com
 0.0.0.0 53.localytics.com
 0.0.0.0 53ac365e91086e608ae1345e075105e3.ulink.adjust.com
@@ -170,7 +182,6 @@
 0.0.0.0 6384.eu-api.swrve.com
 0.0.0.0 6384.eu-content.swrve.com
 0.0.0.0 658473abd74bd979afcfe472c595ce93.ulink.adjust.com
-0.0.0.0 65c6.playfabapi.com
 0.0.0.0 6674.eu-api.swrve.com
 0.0.0.0 6674.eu-content.swrve.com
 0.0.0.0 6696.eu-api.swrve.com
@@ -189,11 +200,11 @@
 0.0.0.0 8272590.fls.doubleclick.net
 0.0.0.0 854.api.swrve.com
 0.0.0.0 854.content.swrve.com
+0.0.0.0 8604.engine.mobileapptracking.com
 0.0.0.0 8696.engine.mobileapptracking.com
 0.0.0.0 87a6b28bc7823e67a5bb2a0a6728c702afcae78d.cws.conviva.com
 0.0.0.0 883.engine.mobileapptracking.com
 0.0.0.0 8live.com
-0.0.0.0 92ab.playfabapi.com
 0.0.0.0 943.engine.mobileapptracking.com
 0.0.0.0 94vs.adj.st
 0.0.0.0 959cad30.api.splkmobile.com
@@ -204,6 +215,7 @@
 0.0.0.0 a-ssl.ligatus.com
 0.0.0.0 a-usa.applovin.com
 0.0.0.0 a-v2.presage.io
+0.0.0.0 a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com
 0.0.0.0 a.76674bdad304297eda3d325f449f6f49.com
 0.0.0.0 a.ad.gt
 0.0.0.0 a.adnium.com
@@ -1404,6 +1416,7 @@
 0.0.0.0 api-a.op-mobile.opera.com
 0.0.0.0 api-analytics-bootstrap.metaps.com
 0.0.0.0 api-analytics.metaps.com
+0.0.0.0 api-analytics.prod.birdapp.com
 0.0.0.0 api-compatible.mixpanel.com
 0.0.0.0 api-ext.mediav.com
 0.0.0.0 api-gateway.us-west-2.elasticbeanstalk.com
@@ -2091,9 +2104,7 @@
 0.0.0.0 b2c-msm.marketo.com
 0.0.0.0 b2c.com
 0.0.0.0 b3.mookie1.com
-0.0.0.0 b343.playfabapi.com
 0.0.0.0 b3bb7de118d3a2fed1dd1ee77ed5a2bac10fe77b.cws.conviva.com
-0.0.0.0 b77ad.playfabapi.com
 0.0.0.0 babel.innertrends.com
 0.0.0.0 backstage.taboola.com
 0.0.0.0 baidustatic.com
@@ -2452,7 +2463,6 @@
 0.0.0.0 ca-lapresse-main.collector.snplow.net
 0.0.0.0 ca.iadsdk.apple.com
 0.0.0.0 ca4-bid.adsrvr.org
-0.0.0.0 ca87.playfabapi.com
 0.0.0.0 cache-06.pushwoosh.com
 0.0.0.0 cache-07.pushwoosh.com
 0.0.0.0 cache-ha.pushwoosh.com
@@ -2940,10 +2950,8 @@
 0.0.0.0 cloud-us.analytics-egain.com
 0.0.0.0 cloud-video.unrulymedia.com
 0.0.0.0 cloud.appcelerator.com
-0.0.0.0 cloud.gsdk.proximabeta.com
 0.0.0.0 cloud.ogury.io
 0.0.0.0 cloud.xdrig.com
-0.0.0.0 cloud2.gsdk.proximabeta.com
 0.0.0.0 cloudads-a.akamaihd.net
 0.0.0.0 cloudapi.imrworldwide.com
 0.0.0.0 cloudmobi.net
@@ -4435,7 +4443,6 @@
 0.0.0.0 grtb-de.lfstmedia.com
 0.0.0.0 grtb-nj.lfstmedia.com
 0.0.0.0 grtb-sc.lfstmedia.com
-0.0.0.0 gsdk.proximabeta.com
 0.0.0.0 gslbeacon.lijit.com
 0.0.0.0 gsmtop.net
 0.0.0.0 gsp1.baidu.com
@@ -5346,6 +5353,8 @@
 0.0.0.0 log.api.zaloapp.com
 0.0.0.0 log.apk.v-mate.mobi
 0.0.0.0 log.appchina.com
+0.0.0.0 log.avlyun.com
+0.0.0.0 log.avlyun.sec.intl.miui.com
 0.0.0.0 log.byteoversea.com.edgekey.net
 0.0.0.0 log.droid4x.cn
 0.0.0.0 log.fc.yahoo.com
@@ -5518,7 +5527,6 @@
 0.0.0.0 marketplace-android-b154.hyprmx.com
 0.0.0.0 marketplace-android-b185.hyprmx.com
 0.0.0.0 marketplace-android-b234.hyprmx.com
-0.0.0.0 markmonitor.com
 0.0.0.0 marmalade.adthrive.com
 0.0.0.0 masdk.3g.qq.com
 0.0.0.0 masdpanalytics.azureedge.net
@@ -5823,6 +5831,7 @@
 0.0.0.0 mopub-imp.aarki.net
 0.0.0.0 mopub-server.thinknearhub.com
 0.0.0.0 mopub-win-us-east.bksn.se
+0.0.0.0 mopub.com
 0.0.0.0 mopubrtb23.lfstmedia.com
 0.0.0.0 morgdm.ru
 0.0.0.0 morgdog.springserve.com
@@ -5836,6 +5845,7 @@
 0.0.0.0 mparticle.slack.com
 0.0.0.0 mparticle.uc.cn
 0.0.0.0 mpg.taboola.com
+0.0.0.0 mpianalytics.com
 0.0.0.0 mpnrs.com
 0.0.0.0 mprezchc.com
 0.0.0.0 mproxy.banner.linksynergy.com
@@ -6495,7 +6505,6 @@
 0.0.0.0 player.stats.live-video.net
 0.0.0.0 playhaven.com
 0.0.0.0 playtest-api.topaz-analytics.com
-0.0.0.0 playtomic.com
 0.0.0.0 playwire-d.openx.net
 0.0.0.0 plbslog.umeng.com
 0.0.0.0 ploy.batmobi.net
@@ -6561,6 +6570,7 @@
 0.0.0.0 pr-gmtdmp.mookie1.com
 0.0.0.0 pr-v1.presage.io
 0.0.0.0 pr.analytics.console.aws.a2z.com
+0.0.0.0 pr.comet.yahoo.com
 0.0.0.0 prapi.cision.com
 0.0.0.0 pratidin.pushengage.com
 0.0.0.0 prd.ads.aws.fwmrm.net
@@ -7543,7 +7553,6 @@
 0.0.0.0 setupad-d.openx.net
 0.0.0.0 sexpennyauctions.com
 0.0.0.0 sf.bizible.com
-0.0.0.0 sf3-ttcdn-tos.pstatp.com
 0.0.0.0 sfg-d.openx.net
 0.0.0.0 sfo1.ipromote.com
 0.0.0.0 sfo2.ipromote.com
@@ -7803,7 +7812,6 @@
 0.0.0.0 sparkle.locationlabs.com
 0.0.0.0 sparkusdiscoverdcm781744349491.s.moatpixel.com
 0.0.0.0 specialdeals.g5e.com
-0.0.0.0 speed.na.gsdk.proximabeta.com
 0.0.0.0 speee-ad.akamaized.net
 0.0.0.0 spell.itim.vn
 0.0.0.0 spica.iad-03.braze.com
@@ -8367,7 +8375,9 @@
 0.0.0.0 tapi.optimizely.com
 0.0.0.0 tapit.com
 0.0.0.0 tapjoy-com-lb-vpc-332546193.us-east-1.elb.amazonaws.com
+0.0.0.0 tapjoy.com
 0.0.0.0 tapjoy.go2cloud.org
+0.0.0.0 tapjoy.net
 0.0.0.0 tapjoyads.com
 0.0.0.0 tapone.jp
 0.0.0.0 tapps.analytics.s3.amazonaws.com
@@ -8669,6 +8679,7 @@
 0.0.0.0 tracy.tutoads.tv
 0.0.0.0 tradeadexchange.com
 0.0.0.0 tradedesk-match.dotomi.com
+0.0.0.0 tradplusad.com
 0.0.0.0 traff10wap.com
 0.0.0.0 traffective-d.openx.net
 0.0.0.0 traffic-director-alias.krxd.net
