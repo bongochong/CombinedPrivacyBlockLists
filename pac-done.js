@@ -1,4 +1,4 @@
-// **** Tue Jun  8 07:59:53 PM UTC 2021
+// **** Thu Jun 10 06:32:24 PM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -3838,6 +3838,7 @@ shExpMatch(host, '*.clickyab.com') ||
 shExpMatch(host, '*.clickz.com') ||
 shExpMatch(host, '*.clickzxc.com') ||
 shExpMatch(host, '*.clicmanager.fr') ||
+shExpMatch(host, '*.clientgear.com') ||
 shExpMatch(host, '*.clientmetrics-pa.googleapis.com') ||
 shExpMatch(host, '*.clients.tbo.com') ||
 shExpMatch(host, '*.clikerz.net') ||
@@ -12305,6 +12306,7 @@ shExpMatch(host, '*.planyoursport.fr') ||
 shExpMatch(host, '*.plastischechirurgie.net') ||
 shExpMatch(host, '*.platamones.nl') ||
 shExpMatch(host, '*.platformhub.wtf') ||
+shExpMatch(host, '*.plausibleio.workers.dev') ||
 shExpMatch(host, '*.play-beta.com') ||
 shExpMatch(host, '*.play-services.com') ||
 shExpMatch(host, '*.play-voice.com') ||
@@ -21372,6 +21374,7 @@ shExpMatch(host, 'clickyab.com') ||
 shExpMatch(host, 'clickz.com') ||
 shExpMatch(host, 'clickzxc.com') ||
 shExpMatch(host, 'clicmanager.fr') ||
+shExpMatch(host, 'clientgear.com') ||
 shExpMatch(host, 'clientmetrics-pa.googleapis.com') ||
 shExpMatch(host, 'clients.tbo.com') ||
 shExpMatch(host, 'clikerz.net') ||
@@ -29839,6 +29842,7 @@ shExpMatch(host, 'planyoursport.fr') ||
 shExpMatch(host, 'plastischechirurgie.net') ||
 shExpMatch(host, 'platamones.nl') ||
 shExpMatch(host, 'platformhub.wtf') ||
+shExpMatch(host, 'plausibleio.workers.dev') ||
 shExpMatch(host, 'play-beta.com') ||
 shExpMatch(host, 'play-services.com') ||
 shExpMatch(host, 'play-voice.com') ||
