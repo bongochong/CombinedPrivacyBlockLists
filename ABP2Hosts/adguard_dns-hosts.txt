@@ -1,4 +1,4 @@
-# Thu Jun 10 06:28:31 PM UTC 2021
+# Sat Jun 12 08:44:04 PM UTC 2021
 # AdGuard DNS Hosts - Generated weekly by bongochong
 0.0.0.0 00-gov.cn
 0.0.0.0 0024aaaa.com
@@ -64,6 +64,7 @@
 0.0.0.0 0798ls.com
 0.0.0.0 07aa0353cc.com
 0.0.0.0 07fe665dd33f.com
+0.0.0.0 080120.com
 0.0.0.0 080644.com
 0.0.0.0 0816bvh.ru
 0.0.0.0 0817zfbj.xyz
@@ -126,6 +127,7 @@
 0.0.0.0 1.201980.com
 0.0.0.0 1.32xp.com
 0.0.0.0 1.5000yan.com
+0.0.0.0 1.51dongshi.com
 0.0.0.0 1.51sxue.cn
 0.0.0.0 1.66law.cn
 0.0.0.0 1.800400.net
@@ -199,6 +201,7 @@
 0.0.0.0 10root25.website
 0.0.0.0 11.96131.com.cn
 0.0.0.0 11.golang8.com
+0.0.0.0 11.yiqig.cn
 0.0.0.0 11.yiqig.com
 0.0.0.0 1100ad.com
 0.0.0.0 1100i.com
@@ -3816,6 +3819,7 @@
 0.0.0.0 ahjinhuayi.com
 0.0.0.0 ahjzys.com
 0.0.0.0 ahlxxx.com
+0.0.0.0 ahmibai.cn
 0.0.0.0 ahnioppshfwq.com
 0.0.0.0 ahoff.ru
 0.0.0.0 ahoigzbodtcd.com
@@ -5880,6 +5884,7 @@
 0.0.0.0 bargaret.club
 0.0.0.0 barilliance.net
 0.0.0.0 barium.cheezdev.com
+0.0.0.0 barlo.xyz
 0.0.0.0 baronmathematics.com
 0.0.0.0 baronsoffers.com
 0.0.0.0 barpe.ru
@@ -7956,6 +7961,7 @@
 0.0.0.0 centralnervous.net
 0.0.0.0 centraltag.com
 0.0.0.0 centwrite.com
+0.0.0.0 ceo8000.net
 0.0.0.0 cepailru.com
 0.0.0.0 cepegas.com
 0.0.0.0 cepereh.ru
@@ -9581,6 +9587,7 @@
 0.0.0.0 crocopop.com
 0.0.0.0 croea.com
 0.0.0.0 croissed.info
+0.0.0.0 cromo.name
 0.0.0.0 crossboardmobile.com
 0.0.0.0 crossingstatedsideway.com
 0.0.0.0 crosspixel.net
@@ -10057,6 +10064,7 @@
 0.0.0.0 d2e30rravz97d4.cloudfront.net
 0.0.0.0 d2edfzx4ay42og.cloudfront.net
 0.0.0.0 d2fbkzyicji7c4.cloudfront.net
+0.0.0.0 d2fbvay81k4ji3.cloudfront.net
 0.0.0.0 d2fhjyz3dwdx87.cloudfront.net
 0.0.0.0 d2focgxak1cn74.cloudfront.net
 0.0.0.0 d2g9nmtuil60cb.cloudfront.net
@@ -12561,6 +12569,7 @@
 0.0.0.0 ertmained.club
 0.0.0.0 ertongjiaju360.com
 0.0.0.0 eru5tdmbuwxm.com
+0.0.0.0 erucrippled.com
 0.0.0.0 ervicoren.online
 0.0.0.0 erxalim.xyz
 0.0.0.0 es54i9g7p7xh.com
@@ -13213,6 +13222,7 @@
 0.0.0.0 fatchilli.media
 0.0.0.0 fatcoil.com
 0.0.0.0 fate-xy.com
+0.0.0.0 fatebbc.pro
 0.0.0.0 fathomdns.com
 0.0.0.0 fathomseo.com
 0.0.0.0 fathuntsgall.com
@@ -13225,6 +13235,7 @@
 0.0.0.0 favillafarine.com
 0.0.0.0 favourmiles.com
 0.0.0.0 fawenys.xyz
+0.0.0.0 fawhositho.com
 0.0.0.0 fawhuksy.com
 0.0.0.0 faxityofficu.fun
 0.0.0.0 faxqaaawyb.com
@@ -13658,6 +13669,7 @@
 0.0.0.0 fmates.ru
 0.0.0.0 fmax.xyz
 0.0.0.0 fmebili.info
+0.0.0.0 fmketang.cn
 0.0.0.0 fmkfzc.com
 0.0.0.0 fmnetwork.nl
 0.0.0.0 fmnfopknmuusgw.com
@@ -14708,6 +14720,7 @@
 0.0.0.0 giraffepiano.com
 0.0.0.0 girl-ceases.info
 0.0.0.0 girlend.com
+0.0.0.0 girli.top
 0.0.0.0 girlstalks.ru
 0.0.0.0 girlzgirlzgirlz4u.com
 0.0.0.0 giroud.top
@@ -16464,6 +16477,7 @@
 0.0.0.0 hunterdelivery.com
 0.0.0.0 huntmad.com
 0.0.0.0 huodiyun.cn
+0.0.0.0 huojutt.com
 0.0.0.0 huonvd.cn
 0.0.0.0 huosuniao.com
 0.0.0.0 huovernment.club
@@ -17962,7 +17976,6 @@
 0.0.0.0 jobduedamson.work
 0.0.0.0 joblessdrum.com
 0.0.0.0 jobsyndicate.com
-0.0.0.0 jobtarget.com
 0.0.0.0 jockeryfgtu.club
 0.0.0.0 jodellbrought.pro
 0.0.0.0 jodellvideos.pro
@@ -20323,6 +20336,7 @@
 0.0.0.0 mailwithcash.com
 0.0.0.0 maimaias.cn
 0.0.0.0 maimeehu.com
+0.0.0.0 main-ti-hub.com
 0.0.0.0 main.jiukang.org
 0.0.0.0 mainadd.com
 0.0.0.0 mainadv.com
@@ -24632,6 +24646,7 @@
 0.0.0.0 pings.vidpulse.com
 0.0.0.0 pingseli.com
 0.0.0.0 pingyuanshenghuo.cn
+0.0.0.0 pinifafi.com
 0.0.0.0 pinkintim.com
 0.0.0.0 pinkmore.cn
 0.0.0.0 pinkpig2le8tt09.com
@@ -26793,6 +26808,7 @@
 0.0.0.0 redvase.bravenet.com
 0.0.0.0 redventures.io
 0.0.0.0 redvxjlmaehy.com
+0.0.0.0 reechokelvin.casa
 0.0.0.0 reedbusiness.net
 0.0.0.0 reedge.com
 0.0.0.0 reelcentric.com
@@ -27940,6 +27956,7 @@
 0.0.0.0 sam.msn.com
 0.0.0.0 sam.setimedia.com
 0.0.0.0 samage-bility.icu
+0.0.0.0 samanthyean.com
 0.0.0.0 sambaads.com
 0.0.0.0 same.chinadaily.com.cn
 0.0.0.0 same.eastmoney.com
@@ -28773,6 +28790,7 @@
 0.0.0.0 shunguts.com
 0.0.0.0 shunlidl.online
 0.0.0.0 shunlige.com
+0.0.0.0 shunshiwlkj.com
 0.0.0.0 shunxinyuancaiwu.cn
 0.0.0.0 shusacem.net
 0.0.0.0 shutseashore.com
@@ -30866,6 +30884,7 @@
 0.0.0.0 t.sharethis.com
 0.0.0.0 t.sieu-viet.com
 0.0.0.0 t.signalayer.com
+0.0.0.0 t.simply-hentai.com
 0.0.0.0 t.singular.net
 0.0.0.0 t.smile.eu
 0.0.0.0 t.spot.im
@@ -32211,6 +32230,7 @@
 0.0.0.0 track.ning.com
 0.0.0.0 track.notsy.io
 0.0.0.0 track.noz.de
+0.0.0.0 track.nzz.ch
 0.0.0.0 track.oasis.magictavern.com
 0.0.0.0 track.omgpl.com
 0.0.0.0 track.pingstart.com
@@ -32544,6 +32564,7 @@
 0.0.0.0 tracklab.club
 0.0.0.0 trackmethod.com
 0.0.0.0 trackmstr.com
+0.0.0.0 trackmundo.com
 0.0.0.0 trackmytarget.com
 0.0.0.0 trackmyusers.com
 0.0.0.0 trackmyweb.net
@@ -34613,6 +34634,7 @@
 0.0.0.0 wa.web.de
 0.0.0.0 wa4y.com
 0.0.0.0 waavnpkn.com
+0.0.0.0 wabekice.com
 0.0.0.0 wachipho.net
 0.0.0.0 waddlegrammind.com
 0.0.0.0 wadsotch.com
@@ -34641,6 +34663,7 @@
 0.0.0.0 waitinghypotheticallysoot.com
 0.0.0.0 waitmetrodeuce.casa
 0.0.0.0 waitor.info
+0.0.0.0 waiyuyou.com
 0.0.0.0 wakapita.com
 0.0.0.0 wakefulcook.com
 0.0.0.0 walasearch.com
