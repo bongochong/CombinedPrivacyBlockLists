@@ -1,4 +1,4 @@
-// **** Sat Jun 12 08:48:16 PM UTC 2021
+// **** Tue Jun 15 09:38:02 PM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -367,6 +367,7 @@ shExpMatch(host, '*.abc-neways.com') ||
 shExpMatch(host, '*.abcdespanol.com') ||
 shExpMatch(host, '*.abcmlm.com') ||
 shExpMatch(host, '*.abionet.com') ||
+shExpMatch(host, '*.ablink.comms.trainline.com') ||
 shExpMatch(host, '*.abo-arish.net') ||
 shExpMatch(host, '*.aboardlevel.com') ||
 shExpMatch(host, '*.abonnement-xboxlive.fr') ||
@@ -17903,6 +17904,7 @@ shExpMatch(host, 'abc-neways.com') ||
 shExpMatch(host, 'abcdespanol.com') ||
 shExpMatch(host, 'abcmlm.com') ||
 shExpMatch(host, 'abionet.com') ||
+shExpMatch(host, 'ablink.comms.trainline.com') ||
 shExpMatch(host, 'abo-arish.net') ||
 shExpMatch(host, 'aboardlevel.com') ||
 shExpMatch(host, 'abonnement-xboxlive.fr') ||
