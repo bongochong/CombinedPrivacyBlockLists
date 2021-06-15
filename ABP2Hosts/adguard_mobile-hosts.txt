@@ -1,4 +1,4 @@
-# Sat Jun 12 08:43:24 PM UTC 2021
+# Tue Jun 15 09:34:36 PM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -4629,7 +4629,6 @@
 0.0.0.0 i.gridsumdissector.com
 0.0.0.0 i.idio.co
 0.0.0.0 i.ipromote.com
-0.0.0.0 i.isnssdk.com
 0.0.0.0 i.l.inmobicdn.cn
 0.0.0.0 i.l.inmobicdn.net
 0.0.0.0 i.loopme.me
@@ -5355,7 +5354,6 @@
 0.0.0.0 log.appchina.com
 0.0.0.0 log.avlyun.com
 0.0.0.0 log.avlyun.sec.intl.miui.com
-0.0.0.0 log.byteoversea.com.edgekey.net
 0.0.0.0 log.droid4x.cn
 0.0.0.0 log.fc.yahoo.com
 0.0.0.0 log.fotoable.com
@@ -5751,7 +5749,6 @@
 0.0.0.0 mobile-crash.newrelic.com
 0.0.0.0 mobile-de-d.openx.net
 0.0.0.0 mobile-global.baidu.com
-0.0.0.0 mobile-http-intake.logs.datadoghq.com
 0.0.0.0 mobile-sdk-resources.jumio.com
 0.0.0.0 mobile-service.segment.com
 0.0.0.0 mobile-static.adsafeprotected.com
@@ -6710,7 +6707,6 @@
 0.0.0.0 pub2srv.com
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 pubgalaxy-d.openx.net
-0.0.0.0 public-trace-http-intake.logs.datadoghq.com
 0.0.0.0 public-webservice.apdc1n.adpushup.com
 0.0.0.0 public-webservice.apdc3n.adpushup.com
 0.0.0.0 public-webservice.geo.adpushup.com
@@ -7093,7 +7089,6 @@
 0.0.0.0 rum-collector-2.pingdom.net
 0.0.0.0 rum-collector.pingdom.net
 0.0.0.0 rum-collector.wpm.neustar.biz
-0.0.0.0 rum-http-intake.logs.datadoghq.com
 0.0.0.0 rum.logsss.com
 0.0.0.0 rum.optimizely.com
 0.0.0.0 rumcdn.geoedge.be
