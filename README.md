@@ -47,7 +47,7 @@ In addition, see the [**Windows Versions of these Tools**](https://github.com/bo
 <sup>03. [Updated Malware Domains Immortal List](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/MD-ID-Fork.txt). </sup> <br>
 <sup>04. [URL Haus Active Domains](https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts-online.txt). </sup> <br>
 <sup>05. [EasyList Hosts](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/ABP2Hosts/easylist_desktop-hosts.txt). </sup> <br>
-<sup>06. [Additional](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/README.md) | [Supplementary](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/ABP2Hosts) | [Sources](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/WindowsTelemetryBlockSupplements). </sup> <br>
+<sup>06. [Additional](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/ABP2Hosts) | [Supplementary](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/NoFormatting) | [Sources](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/WindowsTelemetryBlockSupplements). </sup> <br>
 <sup>07. [AdGuard Filters](https://kb.adguard.com/en/general/adguard-ad-filters#filters). </sup> <br>
 <sup>08. [EasyList Filters](https://easylist.to/). </sup> <br>
 <sup>09. [Proxy Auto-Configuration Files](https://developer.mozilla.org/en-US/docs/Web/HTTP/Proxy_servers_and_tunneling/Proxy_Auto-Configuration_PAC_file). </sup> <br>
