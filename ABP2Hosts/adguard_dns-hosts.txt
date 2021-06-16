@@ -1,4 +1,4 @@
-# Tue Jun 15 09:35:18 PM UTC 2021
+# Wed Jun 16 12:29:27 AM UTC 2021
 # AdGuard DNS Hosts - Generated weekly by bongochong
 0.0.0.0 00-gov.cn
 0.0.0.0 0024aaaa.com
@@ -20197,6 +20197,7 @@
 0.0.0.0 m2track.co
 0.0.0.0 m30w.net
 0.0.0.0 m32.media
+0.0.0.0 m365log.com
 0.0.0.0 m3bnqqqw.com
 0.0.0.0 m3haw43xxuiai.win
 0.0.0.0 m3hywq3xaias4u.download
@@ -34277,6 +34278,7 @@
 0.0.0.0 visitorjs.com
 0.0.0.0 visitorpath.com
 0.0.0.0 visitorprofiler.com
+0.0.0.0 visitorqueue.com
 0.0.0.0 visitortracklog.com
 0.0.0.0 visitorville.com
 0.0.0.0 visitping.rossel.be

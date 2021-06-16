@@ -1,4 +1,4 @@
-# Tue Jun 15 09:34:53 PM UTC 2021
+# Wed Jun 16 12:29:03 AM UTC 2021
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 00-gov.cn
 0.0.0.0 0024aaaa.com

@@ -1,4 +1,4 @@
-# Tue Jun 15 09:35:10 PM UTC 2021
+# Wed Jun 16 12:29:20 AM UTC 2021
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0-24bpautomentes.hu
 0.0.0.0 00-gov.cn
@@ -19919,6 +19919,7 @@
 0.0.0.0 m2track.co
 0.0.0.0 m30w.net
 0.0.0.0 m32.media
+0.0.0.0 m365log.com
 0.0.0.0 m3bnqqqw.com
 0.0.0.0 m4clicks.com
 0.0.0.0 m5prod.net
@@ -35563,6 +35564,7 @@
 0.0.0.0 visitorjs.com
 0.0.0.0 visitorpath.com
 0.0.0.0 visitorprofiler.com
+0.0.0.0 visitorqueue.com
 0.0.0.0 visitors.sourcingmap.com
 0.0.0.0 visitors.winecountrygiftbaskets.com
 0.0.0.0 visitortracklog.com
