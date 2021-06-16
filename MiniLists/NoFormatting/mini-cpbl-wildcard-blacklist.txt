@@ -4,7 +4,7 @@
 # This work is licensed under the CPAL-1.0
 # See: https://shorl.com/vebrubefrubiti
 #
-# ~- Tue Jun 15 09:49:32 PM UTC 2021 -~
+# ~- Wed Jun 16 12:44:21 AM UTC 2021 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -8222,6 +8222,7 @@
 *.aftv-serving.bid
 *.afy11.net
 *.afzcqqdhkn.com
+*.ag-grupfinanza.com
 *.ag1.zuszw.com
 *.agacelebir.com
 *.againstanctu.info
@@ -9844,7 +9845,6 @@
 *.api.appwifi.com
 *.api.areametrics.com
 *.api.arity.com
-*.api.ateam-ad.jp
 *.api.attentivemobile.com
 *.api.beaconsinspace.com
 *.api.bee7.com
@@ -10633,6 +10633,7 @@
 *.atconnect.npo.nl
 *.atcproje.com
 *.atdmt.com
+*.ateam-ad.jp
 *.atech.ne.jp
 *.ateddiscr.top
 *.atedra.com
@@ -10896,7 +10897,6 @@
 *.avads.co.uk
 *.avalanchers.com
 *.avalhukof.com
-*.avanartworks.com
 *.avance-activo-en-cuotas-cl.cf
 *.avance-aprobado-cl.cf
 *.avance-aprobado-cl.gq
@@ -12447,7 +12447,6 @@
 *.bikesopden.com
 *.bikesseafoodchewing.com
 *.bikton43.ru
-*.bil.co.tz
 *.bilation.com
 *.bilbob.com
 *.bilderfest.ru
@@ -13297,6 +13296,7 @@
 *.brotherhoodminims.com
 *.brothersjoy.nl
 *.broughlystra.club
+*.browser-http-intake.logs.datadoghq.com
 *.browser-http-intake.logs.datadoghq.eu
 *.browser-lite.ru
 *.browser-lite2018.ru
@@ -14243,7 +14243,6 @@
 *.cdlinli.com
 *.cdlkzb.com
 *.cdn-01.anonfiles.com
-*.cdn-10049480.file.myqcloud.com
 *.cdn-13.anonfiles.com
 *.cdn-41111111217-ms-telemetry.net
 *.cdn-4111111217-ms-telemetry.net
@@ -16108,6 +16107,7 @@
 *.communications.taylorcorp.com
 *.communisave.co.za
 *.communits.club
+*.community-dofus.com
 *.community.allhiphop.com
 *.community.hackersclub.net
 *.community.reimclub.com
@@ -17247,6 +17247,7 @@
 *.csnd.xyz
 *.csnserver.com
 *.csobik.xyz
+*.csodamalom.hu
 *.csp-collector.appspot.com
 *.csp-oz66pp.ru
 *.csp-qcw5yi.ru
@@ -17310,7 +17311,6 @@
 *.ctr1p.com
 *.ctrack.optin-global.net
 *.ctrack07.optin-global.net
-*.ctracknxt.in
 *.ctrck.com
 *.ctrhfd.top
 *.ctrhub.com
@@ -19631,6 +19631,7 @@
 *.downcleardown.xyz
 *.downkzvideo1.xyz
 *.downkzvideo2.xyz
+*.download-serv-133568.xyz
 *.download-serv-314432.xyz
 *.download-updates-comp.com
 *.download.caihong.com
@@ -19719,7 +19720,6 @@
 *.dragzebra.com
 *.drako2sha8de09.com
 *.dranidepod.org
-*.draniruddhaghosh.co.in
 *.drapuf.megabad.com
 *.drasticdifferentfoetus.com
 *.dratuti.info
@@ -22248,7 +22248,6 @@
 *.familydentist.site
 *.familyholiday.ml
 *.familyhomefinance.com.au
-*.familyshouse.org
 *.famir.com
 *.famobi-01.firebaseio.com
 *.famoosonutt.com
@@ -22409,7 +22408,6 @@
 *.fc.vodafone.de
 *.fc.webmasterpro.de
 *.fc.yahoo.com
-*.fc216035b8c159983a85a7c1e-15280.sites.k-hosting.co.uk
 *.fc2b9b7ce3165.com
 *.fc8dbfdc5da519f576628f619306a357f31bd006.cws.conviva.com
 *.fcardq.didongthongminh.vn
@@ -25883,7 +25881,6 @@
 *.heathrowestudios.com
 *.heatmap.it
 *.heatmap.services
-*.heatmatrix.co.uk
 *.heatmobi.offerstrack.net
 *.heavenwil.top
 *.heavymaq.cl
@@ -26101,6 +26098,7 @@
 *.highfalutinroom.com
 *.highlandfamily.org
 *.highlandroadcoc.com
+*.highlandslasvegas.atakdev.com
 *.highlianimo.club
 *.highlightextrahydrogen.com
 *.highlightingalive.in
@@ -26888,6 +26886,7 @@
 *.huntmad.com
 *.huodiyun.cn
 *.huojutt.com
+*.huonganhgroup.vn
 *.huonvd.cn
 *.huosuniao.com
 *.huovernment.club
@@ -28689,6 +28688,7 @@
 *.iredirect.net
 *.iredirr.com
 *.ireklama.cz
+*.iremart.es
 *.irements.club
 *.irgreen.ml
 *.irjo.ga
@@ -28774,7 +28774,6 @@
 *.it7645-blockchain-news.club
 *.italamp.tk
 *.italianadirectory.com
-*.itblackbelt.co.uk
 *.itblisseyer.com
 *.itc-co.cf
 *.itc-demo.softgig.co.ke
@@ -29453,6 +29452,7 @@
 *.js.blozoo.info
 *.js.blueblade.co.jp
 *.js.ccmeng.com
+*.js.chin-adnetwork.com
 *.js.coinisrsdelivery.com
 *.js.colo2.jp
 *.js.convertale.com
@@ -29790,7 +29790,6 @@
 *.kaiu-marketing.com
 *.kaixinjiehun.com
 *.kaiyiluye.com
-*.kaizenjanitorial.com
 *.kaizennj.com
 *.kaizenplatform.net
 *.kaizentraffic.com
@@ -30340,6 +30339,7 @@
 *.kpi.admicro.vn
 *.kpi.stats.vng.com.vn
 *.kpirog.com
+*.kplmrdentalcare.com
 *.kpns.ijinshan.com
 *.kpr2exp21.com
 *.kpshx.douguo.com
@@ -30742,6 +30742,7 @@
 *.largosoft.co.kr
 *.larkashivy.work
 *.larmcritishpo.club
+*.larn9kany.ru
 *.larrenpicture.pro
 *.larrenworld.pro
 *.lasagneandands.com
@@ -32011,7 +32012,6 @@
 *.logs.cln.unionstatistics.com
 *.logs.comics.com
 *.logs.dashlane.com
-*.logs.datadoghq.com
 *.logs.eresmas.com
 *.logs.gaaana.com
 *.logs.gaana.com
@@ -32334,6 +32334,7 @@
 *.luxdecor.co.il
 *.luxins.net
 *.luxlnk.com
+*.luxominas.com.br
 *.luxomodels.com
 *.luxoshopde.com
 *.luxtraffic.ru
@@ -32493,6 +32494,7 @@
 *.m2track.co
 *.m30w.net
 *.m32.media
+*.m365log.com
 *.m3bnqqqw.com
 *.m3ss4g3rtesla.com
 *.m4clicks.com
@@ -36535,6 +36537,7 @@
 *.ncydissalc.club
 *.nd01erxppvee.top
 *.nd05esxpnrfe.pro
+*.nda-info.com
 *.ndardsferv.club
 *.ndardsgreatm.fun
 *.nddmcconmqsy.ru
@@ -43748,6 +43751,7 @@
 *.rules3.aatkit.com
 *.rulething.ru
 *.rulezzwarez.ru
+*.rum-http-intake.logs.datadoghq.com
 *.rum-http-intake.logs.datadoghq.eu
 *.rum.azion.com
 *.rum.azioncdn.net
@@ -45708,7 +45712,6 @@
 *.shribharatvatika.com
 *.shrimpsqueezed.com
 *.shrinkearn.com
-*.shrishinfra.com
 *.shroughtened.com
 *.shrtswkj.com
 *.shrugartisticelder.com
@@ -54488,6 +54491,7 @@
 *.visitorjs.com
 *.visitorpath.com
 *.visitorprofiler.com
+*.visitorqueue.com
 *.visitors.lexus-europe.com
 *.visitors.sourcingmap.com
 *.visitors.winecountrygiftbaskets.com
