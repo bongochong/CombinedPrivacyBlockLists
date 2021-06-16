@@ -982,6 +982,7 @@
 0.0.0.0 down.3lsoft.com
 0.0.0.0 down.cngr.cn
 0.0.0.0 down.downholic.com
+0.0.0.0 down.feiyang163.com
 0.0.0.0 down.mykings.pw
 0.0.0.0 down.nowdream.kr
 0.0.0.0 down.qq38.org
@@ -992,7 +993,9 @@
 0.0.0.0 down.yxdfc.com
 0.0.0.0 down1.cnzz.cc
 0.0.0.0 down1.upanfile.com
+0.0.0.0 down2.feiyang163.com
 0.0.0.0 down2.upantool.com
+0.0.0.0 down3.feiyang163.com
 0.0.0.0 down4.cr173.com
 0.0.0.0 downflvplayer.com
 0.0.0.0 download-123.cn
@@ -1469,6 +1472,7 @@
 0.0.0.0 grepol.pl
 0.0.0.0 grizzli-counter.com
 0.0.0.0 grk6mgehel1hfehn.ru
+0.0.0.0 grosirkecantikan.com
 0.0.0.0 groundplan.info
 0.0.0.0 gsdg2g32.co.cc
 0.0.0.0 gsiworld.neostrada.pl
@@ -2887,7 +2891,6 @@
 0.0.0.0 slimxxxtubebgp.ddns.name
 0.0.0.0 slimxxxtubebnd.ddns.name
 0.0.0.0 slimxxxtubecgl.ddns.name
-0.0.0.0 slimxxxtubectk.dnset.com
 0.0.0.0 slimxxxtubecty.ddns.name
 0.0.0.0 slimxxxtubeczp.ddns.name
 0.0.0.0 slimxxxtubedgv.dnset.com
@@ -2897,7 +2900,6 @@
 0.0.0.0 slimxxxtubedxc.ddns.name
 0.0.0.0 slimxxxtubedya.ddns.name
 0.0.0.0 slimxxxtubeejs.ddns.name
-0.0.0.0 slimxxxtubeemz.dnset.com
 0.0.0.0 slimxxxtubefdr.ddns.name
 0.0.0.0 slimxxxtubefel.ddns.name
 0.0.0.0 slimxxxtubeftb.dnset.com
@@ -2906,7 +2908,6 @@
 0.0.0.0 slimxxxtubehdn.dnset.com
 0.0.0.0 slimxxxtubehli.dnset.com
 0.0.0.0 slimxxxtubeidv.ddns.name
-0.0.0.0 slimxxxtubeijc.dnset.com
 0.0.0.0 slimxxxtubeiqb.dnset.com
 0.0.0.0 slimxxxtubejlp.ddns.name
 0.0.0.0 slimxxxtubejpe.ddns.name
@@ -2927,8 +2928,6 @@
 0.0.0.0 slimxxxtubeneu.ddns.name
 0.0.0.0 slimxxxtubengt.dnset.com
 0.0.0.0 slimxxxtubenqp.ddns.name
-0.0.0.0 slimxxxtubentf.dnset.com
-0.0.0.0 slimxxxtubeocr.dnset.com
 0.0.0.0 slimxxxtubeonf.dnset.com
 0.0.0.0 slimxxxtubeopy.ddns.name
 0.0.0.0 slimxxxtubeoxo.ddns.name
@@ -2939,17 +2938,13 @@
 0.0.0.0 slimxxxtubeqwr.dnset.com
 0.0.0.0 slimxxxtuberau.ddns.name
 0.0.0.0 slimxxxtuberea.ddns.name
-0.0.0.0 slimxxxtuberep.dnset.com
 0.0.0.0 slimxxxtuberfe.dnset.com
 0.0.0.0 slimxxxtuberjj.ddns.name
 0.0.0.0 slimxxxtuberme.dnset.com
-0.0.0.0 slimxxxtubesrs.dnset.com
 0.0.0.0 slimxxxtubesrw.ddns.name
 0.0.0.0 slimxxxtubesun.ddns.name
 0.0.0.0 slimxxxtubetmf.ddns.name
-0.0.0.0 slimxxxtubetmg.dnset.com
 0.0.0.0 slimxxxtubetns.ddns.name
-0.0.0.0 slimxxxtubetts.dnset.com
 0.0.0.0 slimxxxtubeubp.dnset.com
 0.0.0.0 slimxxxtubeujh.ddns.name
 0.0.0.0 slimxxxtubeull.dnset.com
@@ -3295,19 +3290,16 @@
 0.0.0.0 tube8vidspeq.ddns.name
 0.0.0.0 tube8vidsqof.ddns.name
 0.0.0.0 tube8vidsrau.dnset.com
-0.0.0.0 tube8vidsrdr.dnset.com
 0.0.0.0 tube8vidsrhl.ddns.name
 0.0.0.0 tube8vidssan.dnset.com
 0.0.0.0 tube8vidssjw.ddns.name
 0.0.0.0 tube8vidssyg.dnset.com
 0.0.0.0 tube8vidstrh.dnset.com
 0.0.0.0 tube8vidstyp.ddns.name
-0.0.0.0 tube8vidsuty.dnset.com
 0.0.0.0 tube8vidsvaj.dnset.com
 0.0.0.0 tube8vidsvcs.ddns.name
 0.0.0.0 tube8vidsvmr.ddns.name
 0.0.0.0 tube8vidsvrx.ddns.name
-0.0.0.0 tube8vidsvtp.dnset.com
 0.0.0.0 tube8vidswsy.dnset.com
 0.0.0.0 tube8vidswtb.ddns.name
 0.0.0.0 tube8vidswys.ddns.name
@@ -3316,9 +3308,8 @@
 0.0.0.0 tube8vidsxpg.ddns.name
 0.0.0.0 tube8vidsxpp.dnset.com
 0.0.0.0 tube8vidsxwu.ddns.name
-0.0.0.0 tube8vidsycs.dnset.com
 0.0.0.0 tube8vidsyip.ddns.name
-0.0.0.0 tube8vidsymz.dnset.com
+0.0.0.0 tube8vidsyyf.dnset.com
 0.0.0.0 tube8vidszmi.ddns.name
 0.0.0.0 tube8vidsznj.ddns.name
 0.0.0.0 tube8vidsznx.ddns.name
