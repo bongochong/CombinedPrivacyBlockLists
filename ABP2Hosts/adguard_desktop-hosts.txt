@@ -1,4 +1,4 @@
-# Wed Jun 16 12:29:03 AM UTC 2021
+# Thu Jun 17 05:33:35 AM UTC 2021
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 00-gov.cn
 0.0.0.0 0024aaaa.com
@@ -870,6 +870,7 @@
 0.0.0.0 51xumei.com
 0.0.0.0 51yes.com
 0.0.0.0 51yhzp.com
+0.0.0.0 51zdwy.cn
 0.0.0.0 5207470.com
 0.0.0.0 520meirenyu.com
 0.0.0.0 525cm.com
@@ -4070,6 +4071,7 @@
 0.0.0.0 aifu-pay.com
 0.0.0.0 aighthatev.club
 0.0.0.0 aigneloa.com
+0.0.0.0 aigzk.com
 0.0.0.0 aiiirwciki.com
 0.0.0.0 aijiamao.top
 0.0.0.0 aijiboft.com
@@ -6520,6 +6522,7 @@
 0.0.0.0 becominggland.com
 0.0.0.0 becomspectua.club
 0.0.0.0 bedaccustom.com
+0.0.0.0 bedbwgjjpxiuox.com
 0.0.0.0 bedebadum.net
 0.0.0.0 bedfundsevents.com
 0.0.0.0 bedorm.com
@@ -7013,6 +7016,7 @@
 0.0.0.0 bjygfd.com
 0.0.0.0 bjytdqwx.com
 0.0.0.0 bjzcbx.com
+0.0.0.0 bjzshy.cn
 0.0.0.0 bjzsyx.cn
 0.0.0.0 bjzywuxian.com
 0.0.0.0 bk.goodline.info
@@ -8387,6 +8391,7 @@
 0.0.0.0 cdn.tubecorp.com
 0.0.0.0 cdn.upthinking.cn
 0.0.0.0 cdn.usefathom.com
+0.0.0.0 cdn.vlyby.com
 0.0.0.0 cdn.wadawada-stop-report-us.com
 0.0.0.0 cdn.welcome.pussysaga.com
 0.0.0.0 cdn.wuyou.ca
@@ -11112,6 +11117,7 @@
 0.0.0.0 daiwofei2019.top
 0.0.0.0 daizhangguanjia.com.cn
 0.0.0.0 dajean.com
+0.0.0.0 dakang-energy.com
 0.0.0.0 dakawm.cc
 0.0.0.0 dake.net.cn
 0.0.0.0 daklatasvir.su
@@ -14032,6 +14038,7 @@
 0.0.0.0 etzhporcxprf.com
 0.0.0.0 etzxnqfew.com
 0.0.0.0 eu-survey.com
+0.0.0.0 eu.groupondata.com
 0.0.0.0 eu.market-place.su
 0.0.0.0 euadw.com
 0.0.0.0 eudcqm.uihdlx.xyz
@@ -14782,6 +14789,7 @@
 0.0.0.0 ffwap.com
 0.0.0.0 ffxccc.lemurrr.ru
 0.0.0.0 ffyyfy.top
+0.0.0.0 fg-z.com
 0.0.0.0 fgangstsur.club
 0.0.0.0 fgbgtt.cian.ru
 0.0.0.0 fgddl9szdof7.com
@@ -21403,6 +21411,7 @@
 0.0.0.0 lfdydk.com
 0.0.0.0 lfendascra.club
 0.0.0.0 lfg5jnbi.com
+0.0.0.0 lflable.com
 0.0.0.0 lflili.com
 0.0.0.0 lflucky.com
 0.0.0.0 lfov.net
@@ -22108,6 +22117,7 @@
 0.0.0.0 lrpoland.wolterskluwer.com
 0.0.0.0 lrrjgo.comfortlab.co.kr
 0.0.0.0 lrtjvd.wordans.com
+0.0.0.0 lrwgc.com
 0.0.0.0 ls.srvcs.tumblr.com
 0.0.0.0 lsaeb.com
 0.0.0.0 lsailington.club
@@ -25232,6 +25242,7 @@
 0.0.0.0 mrqbjc.dermadoctor.com.br
 0.0.0.0 mrskincash.com
 0.0.0.0 mrvio.com
+0.0.0.0 mrzhifu.net
 0.0.0.0 mrzikj.com
 0.0.0.0 ms.awqsaged.cn
 0.0.0.0 ms.cmcm.com
@@ -30298,6 +30309,7 @@
 0.0.0.0 quant.jp
 0.0.0.0 quanta-wave.com
 0.0.0.0 quanta.la
+0.0.0.0 quantao8.top
 0.0.0.0 quantcount.com
 0.0.0.0 quantomcoding.com
 0.0.0.0 quantum-advertising.com
@@ -31494,6 +31506,7 @@
 0.0.0.0 rongnews.com
 0.0.0.0 ronoutom.net
 0.0.0.0 rontar.com
+0.0.0.0 rontent.powvibeo.cc
 0.0.0.0 roofrelation.com
 0.0.0.0 roojouma.com
 0.0.0.0 rook.moodgym.de
@@ -33206,6 +33219,7 @@
 0.0.0.0 shentupk85.com
 0.0.0.0 shentuwang1.com
 0.0.0.0 shenyunkeji.com
+0.0.0.0 shenzhengov.work
 0.0.0.0 shepeekr.net
 0.0.0.0 sherlockseries.ru
 0.0.0.0 shermore.info
@@ -33509,6 +33523,7 @@
 0.0.0.0 sitetracker.com
 0.0.0.0 sitetraq.nl
 0.0.0.0 sitirkbit.com
+0.0.0.0 sitiveadditio.biz
 0.0.0.0 sitorew.com
 0.0.0.0 sittiad.com
 0.0.0.0 sivedeciseim.club
@@ -34789,6 +34804,7 @@
 0.0.0.0 sminewsnet.ru
 0.0.0.0 smintmouse.com
 0.0.0.0 smitionsory.co
+0.0.0.0 smjdkmvhar.com
 0.0.0.0 smjhzmln.com
 0.0.0.0 smjydg.cartersoshkosh.ca
 0.0.0.0 smljmp.com
@@ -35499,6 +35515,7 @@
 0.0.0.0 srirockers.fun
 0.0.0.0 srkfhl.cn
 0.0.0.0 srkft.com
+0.0.0.0 srmdata.com
 0.0.0.0 srnzdl.morhipo.com
 0.0.0.0 srodicham.com
 0.0.0.0 sroiwcncfhi.com
@@ -39488,6 +39505,7 @@
 0.0.0.0 ttoyourteam.biz
 0.0.0.0 ttqeackrnjnfd.com
 0.0.0.0 ttrace.ru
+0.0.0.0 ttshort.xyz
 0.0.0.0 ttspikbeglki.com
 0.0.0.0 tttxx.cn
 0.0.0.0 ttudsdf.pro
@@ -41745,6 +41763,7 @@
 0.0.0.0 whautsel.net
 0.0.0.0 whaxanso.net
 0.0.0.0 whazugho.com
+0.0.0.0 whbhsoft.cn
 0.0.0.0 whdzxabhqsdnlc.com
 0.0.0.0 wheelches.info
 0.0.0.0 wheelwheel.space
@@ -42727,6 +42746,7 @@
 0.0.0.0 xmdwlpwvzt.com
 0.0.0.0 xmemory.ru
 0.0.0.0 xml.revrtb.com
+0.0.0.0 xml.trafficmoose.com
 0.0.0.0 xmlads.bid
 0.0.0.0 xmlgrab.com
 0.0.0.0 xmliw.com
@@ -44135,6 +44155,7 @@
 0.0.0.0 zwmunz.com
 0.0.0.0 zwnxzckwihg.com
 0.0.0.0 zwqpqrtpjt.com
+0.0.0.0 zwtvcdnb.com
 0.0.0.0 zwychain.cn
 0.0.0.0 zwyymwy.com
 0.0.0.0 zxa4kxw2nvox.com

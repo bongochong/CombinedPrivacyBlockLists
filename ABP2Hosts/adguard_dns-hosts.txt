@@ -1,4 +1,4 @@
-# Wed Jun 16 12:29:27 AM UTC 2021
+# Thu Jun 17 05:33:59 AM UTC 2021
 # AdGuard DNS Hosts - Generated weekly by bongochong
 0.0.0.0 00-gov.cn
 0.0.0.0 0024aaaa.com
@@ -262,6 +262,7 @@
 0.0.0.0 16482f75cb.com
 0.0.0.0 16577716.com
 0.0.0.0 165a7c15380874ef3.com
+0.0.0.0 1675450967.rsc.cdn77.org
 0.0.0.0 1680go.com
 0.0.0.0 1686607364.rsc.cdn77.org
 0.0.0.0 168logger.com
@@ -828,6 +829,7 @@
 0.0.0.0 51wxyx.cn
 0.0.0.0 51xumei.com
 0.0.0.0 51yes.com
+0.0.0.0 51zdwy.cn
 0.0.0.0 5207470.com
 0.0.0.0 520meirenyu.com
 0.0.0.0 520xiaojin.com
@@ -3859,6 +3861,7 @@
 0.0.0.0 aifu-pay.com
 0.0.0.0 aighthatev.club
 0.0.0.0 aigneloa.com
+0.0.0.0 aigzk.com
 0.0.0.0 aiiirwciki.com
 0.0.0.0 aijiamao.top
 0.0.0.0 aijiboft.com
@@ -6144,6 +6147,7 @@
 0.0.0.0 becominggland.com
 0.0.0.0 becomspectua.club
 0.0.0.0 bedaccustom.com
+0.0.0.0 bedbwgjjpxiuox.com
 0.0.0.0 bedebadum.net
 0.0.0.0 bedfundsevents.com
 0.0.0.0 bedorm.com
@@ -6631,6 +6635,7 @@
 0.0.0.0 bjygfd.com
 0.0.0.0 bjytdqwx.com
 0.0.0.0 bjzcbx.com
+0.0.0.0 bjzshy.cn
 0.0.0.0 bjzsyx.cn
 0.0.0.0 bjzywuxian.com
 0.0.0.0 bk.goodline.info
@@ -7855,6 +7860,7 @@
 0.0.0.0 cdn.trafficexchangelist.com
 0.0.0.0 cdn.upthinking.cn
 0.0.0.0 cdn.usefathom.com
+0.0.0.0 cdn.vlyby.com
 0.0.0.0 cdn.wadawada-stop-report-us.com
 0.0.0.0 cdn.welcome.pussysaga.com
 0.0.0.0 cdn.wuyou.ca
@@ -12682,6 +12688,7 @@
 0.0.0.0 etzxnqfew.com
 0.0.0.0 eu-ad.sam4m.com
 0.0.0.0 eu-survey.com
+0.0.0.0 eu.groupondata.com
 0.0.0.0 eu.market-place.su
 0.0.0.0 euadsapi.manhuaren.com
 0.0.0.0 euadw.com
@@ -19978,6 +19985,7 @@
 0.0.0.0 lr96.top
 0.0.0.0 lraa.xiaoniutui.com
 0.0.0.0 lrcs.info
+0.0.0.0 lrwgc.com
 0.0.0.0 ls.srvcs.tumblr.com
 0.0.0.0 lsaeb.com
 0.0.0.0 lsailington.club
@@ -21694,6 +21702,7 @@
 0.0.0.0 mrksys.com
 0.0.0.0 mrnpwuere.com
 0.0.0.0 mrvio.com
+0.0.0.0 mrzhifu.net
 0.0.0.0 mrzikj.com
 0.0.0.0 ms.applvn.com
 0.0.0.0 ms.cmcm.com
@@ -23443,7 +23452,6 @@
 0.0.0.0 online.koko-ko.com
 0.0.0.0 online.mik123.com
 0.0.0.0 onlineapi.youappi.com
-0.0.0.0 onlinepbx.ru
 0.0.0.0 onlinesupaads.com
 0.0.0.0 onlinewebfind.com
 0.0.0.0 onlinewebstat.com
@@ -25059,6 +25067,7 @@
 0.0.0.0 popunderzone.com
 0.0.0.0 popup-rotation.de
 0.0.0.0 popup-traffic.com
+0.0.0.0 popup.sapoapps.vn
 0.0.0.0 popupaval.com
 0.0.0.0 popupdomination.com
 0.0.0.0 popupmaker.com
@@ -27423,6 +27432,7 @@
 0.0.0.0 rongnews.com
 0.0.0.0 ronoutom.net
 0.0.0.0 rontar.com
+0.0.0.0 rontent.powvibeo.cc
 0.0.0.0 roofrelation.com
 0.0.0.0 roojouma.com
 0.0.0.0 rookads.com
@@ -28624,6 +28634,7 @@
 0.0.0.0 shentupk85.com
 0.0.0.0 shentuwang1.com
 0.0.0.0 shenyunkeji.com
+0.0.0.0 shenzhengov.work
 0.0.0.0 shepeekr.net
 0.0.0.0 sherlockseries.ru
 0.0.0.0 shermore.info
@@ -28909,6 +28920,7 @@
 0.0.0.0 sitetracker.com
 0.0.0.0 sitetraq.nl
 0.0.0.0 sitirkbit.com
+0.0.0.0 sitiveadditio.biz
 0.0.0.0 sitizy.network
 0.0.0.0 sitorew.com
 0.0.0.0 sitti.co.id
@@ -29128,6 +29140,7 @@
 0.0.0.0 sminewsnet.ru
 0.0.0.0 smintmouse.com
 0.0.0.0 smitionsory.co
+0.0.0.0 smjdkmvhar.com
 0.0.0.0 smjhzmln.com
 0.0.0.0 smljmp.com
 0.0.0.0 smoggysnakes.com
@@ -33625,6 +33638,7 @@
 0.0.0.0 usejj.wangkl.com
 0.0.0.0 usekahuna.com
 0.0.0.0 uselayer.com
+0.0.0.0 usemarketings.com
 0.0.0.0 usemax.de
 0.0.0.0 usemaxserver.de
 0.0.0.0 usemyreferral.link
@@ -35027,6 +35041,7 @@
 0.0.0.0 whautsel.net
 0.0.0.0 whaxanso.net
 0.0.0.0 whazugho.com
+0.0.0.0 whbhsoft.cn
 0.0.0.0 whdzxabhqsdnlc.com
 0.0.0.0 wheelches.info
 0.0.0.0 wheelwheel.space
@@ -37088,6 +37103,7 @@
 0.0.0.0 zwmunz.com
 0.0.0.0 zwnxzckwihg.com
 0.0.0.0 zwqpqrtpjt.com
+0.0.0.0 zwtvcdnb.com
 0.0.0.0 zwychain.cn
 0.0.0.0 zwyymwy.com
 0.0.0.0 zxa4kxw2nvox.com
