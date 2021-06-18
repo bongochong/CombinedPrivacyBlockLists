@@ -1,4 +1,4 @@
-// **** Thu Jun 17 05:38:06 AM UTC 2021
+// **** Fri Jun 18 05:23:04 PM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -1082,7 +1082,6 @@ shExpMatch(host, '*.ads.kinxxx.com') ||
 shExpMatch(host, '*.ads.kompass.com') ||
 shExpMatch(host, '*.ads.krawall.de') ||
 shExpMatch(host, '*.ads.lapalingo.com') ||
-shExpMatch(host, '*.ads.larryaffiliates.com') ||
 shExpMatch(host, '*.ads.leovegas.com') ||
 shExpMatch(host, '*.ads.lesbianpersonals.com') ||
 shExpMatch(host, '*.ads.liberte.pl') ||
@@ -5633,6 +5632,7 @@ shExpMatch(host, '*.elongives.biz') ||
 shExpMatch(host, '*.eloyed.com') ||
 shExpMatch(host, '*.elskins.com') ||
 shExpMatch(host, '*.elthamely.com') ||
+shExpMatch(host, '*.em1.yoursantander.co.uk') ||
 shExpMatch(host, '*.email-hack.com') ||
 shExpMatch(host, '*.emarketer.com') ||
 shExpMatch(host, '*.embedor.com') ||
@@ -5675,6 +5675,7 @@ shExpMatch(host, '*.endurableshop.com') ||
 shExpMatch(host, '*.energeticladybug.com') ||
 shExpMatch(host, '*.energy-loot.com') ||
 shExpMatch(host, '*.engage.dnsfilter.com') ||
+shExpMatch(host, '*.engage.webshrinker.com') ||
 shExpMatch(host, '*.engagebdr.com') ||
 shExpMatch(host, '*.engine.awaps.net') ||
 shExpMatch(host, '*.engine.espace.netavenir.com') ||
@@ -6127,7 +6128,6 @@ shExpMatch(host, '*.fastdone.info') ||
 shExpMatch(host, '*.fasterfiles.net') ||
 shExpMatch(host, '*.fastfilesload.com') ||
 shExpMatch(host, '*.fastfilez.net') ||
-shExpMatch(host, '*.fastgetsoftware.com') ||
 shExpMatch(host, '*.fastleakedmedia.com') ||
 shExpMatch(host, '*.fastly-insights.com') ||
 shExpMatch(host, '*.fastmediasearcher.com') ||
@@ -9667,7 +9667,6 @@ shExpMatch(host, '*.karinot.ru') ||
 shExpMatch(host, '*.karlast.com') ||
 shExpMatch(host, '*.karmaskids.com') ||
 shExpMatch(host, '*.karmic-koala.info') ||
-shExpMatch(host, '*.karonty.com') ||
 shExpMatch(host, '*.karoo.blogsky.com') ||
 shExpMatch(host, '*.kassabravo.com') ||
 shExpMatch(host, '*.kasyapiserve.com') ||
@@ -11670,6 +11669,7 @@ shExpMatch(host, '*.ocick.frost-electric-supply.com') ||
 shExpMatch(host, '*.oclasrv.com') ||
 shExpMatch(host, '*.ocpersian.com') ||
 shExpMatch(host, '*.octavian.su') ||
+shExpMatch(host, '*.odbierz-bony.ovp.pl') ||
 shExpMatch(host, '*.odile-marco.com') ||
 shExpMatch(host, '*.odmarco.com') ||
 shExpMatch(host, '*.odngnjsjkv.epac.to') ||
@@ -18610,7 +18610,6 @@ shExpMatch(host, 'ads.kinxxx.com') ||
 shExpMatch(host, 'ads.kompass.com') ||
 shExpMatch(host, 'ads.krawall.de') ||
 shExpMatch(host, 'ads.lapalingo.com') ||
-shExpMatch(host, 'ads.larryaffiliates.com') ||
 shExpMatch(host, 'ads.leovegas.com') ||
 shExpMatch(host, 'ads.lesbianpersonals.com') ||
 shExpMatch(host, 'ads.liberte.pl') ||
@@ -23161,6 +23160,7 @@ shExpMatch(host, 'elongives.biz') ||
 shExpMatch(host, 'eloyed.com') ||
 shExpMatch(host, 'elskins.com') ||
 shExpMatch(host, 'elthamely.com') ||
+shExpMatch(host, 'em1.yoursantander.co.uk') ||
 shExpMatch(host, 'email-hack.com') ||
 shExpMatch(host, 'emarketer.com') ||
 shExpMatch(host, 'embedor.com') ||
@@ -23203,6 +23203,7 @@ shExpMatch(host, 'endurableshop.com') ||
 shExpMatch(host, 'energeticladybug.com') ||
 shExpMatch(host, 'energy-loot.com') ||
 shExpMatch(host, 'engage.dnsfilter.com') ||
+shExpMatch(host, 'engage.webshrinker.com') ||
 shExpMatch(host, 'engagebdr.com') ||
 shExpMatch(host, 'engine.awaps.net') ||
 shExpMatch(host, 'engine.espace.netavenir.com') ||
@@ -23655,7 +23656,6 @@ shExpMatch(host, 'fastdone.info') ||
 shExpMatch(host, 'fasterfiles.net') ||
 shExpMatch(host, 'fastfilesload.com') ||
 shExpMatch(host, 'fastfilez.net') ||
-shExpMatch(host, 'fastgetsoftware.com') ||
 shExpMatch(host, 'fastleakedmedia.com') ||
 shExpMatch(host, 'fastly-insights.com') ||
 shExpMatch(host, 'fastmediasearcher.com') ||
@@ -27195,7 +27195,6 @@ shExpMatch(host, 'karinot.ru') ||
 shExpMatch(host, 'karlast.com') ||
 shExpMatch(host, 'karmaskids.com') ||
 shExpMatch(host, 'karmic-koala.info') ||
-shExpMatch(host, 'karonty.com') ||
 shExpMatch(host, 'karoo.blogsky.com') ||
 shExpMatch(host, 'kassabravo.com') ||
 shExpMatch(host, 'kasyapiserve.com') ||
@@ -29198,6 +29197,7 @@ shExpMatch(host, 'ocick.frost-electric-supply.com') ||
 shExpMatch(host, 'oclasrv.com') ||
 shExpMatch(host, 'ocpersian.com') ||
 shExpMatch(host, 'octavian.su') ||
+shExpMatch(host, 'odbierz-bony.ovp.pl') ||
 shExpMatch(host, 'odile-marco.com') ||
 shExpMatch(host, 'odmarco.com') ||
 shExpMatch(host, 'odngnjsjkv.epac.to') ||
