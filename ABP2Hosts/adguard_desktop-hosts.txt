@@ -1,4 +1,4 @@
-# Thu Jun 17 05:33:35 AM UTC 2021
+# Fri Jun 18 05:19:13 PM UTC 2021
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 00-gov.cn
 0.0.0.0 0024aaaa.com
@@ -215,6 +215,7 @@
 0.0.0.0 1100i.com
 0.0.0.0 110160.com
 0.0.0.0 110380d053f716c4.com
+0.0.0.0 11111fs.com
 0.0.0.0 1133.cc
 0.0.0.0 114-track.net.daraz.com
 0.0.0.0 114com.cc
@@ -281,6 +282,7 @@
 0.0.0.0 16577716.com
 0.0.0.0 165a7c15380874ef3.com
 0.0.0.0 166sh.com
+0.0.0.0 1675450967.rsc.cdn77.org
 0.0.0.0 168.it168.com
 0.0.0.0 1680go.com
 0.0.0.0 1686607364.rsc.cdn77.org
@@ -4160,6 +4162,7 @@
 0.0.0.0 ajwssds.com
 0.0.0.0 ajx130.online
 0.0.0.0 ak.imgaft.com
+0.0.0.0 ak.impact-ad.jp
 0.0.0.0 ak0429.com
 0.0.0.0 ak0gsh40.com
 0.0.0.0 ak1.imgaft.com
@@ -7384,6 +7387,7 @@
 0.0.0.0 braincf.com
 0.0.0.0 brainian.club
 0.0.0.0 brainient.com
+0.0.0.0 brainlyads.com
 0.0.0.0 braintb.com
 0.0.0.0 brakesoutright.com
 0.0.0.0 brameriez.xyz
@@ -12123,6 +12127,7 @@
 0.0.0.0 dkyp75kj7ldlr.cloudfront.net
 0.0.0.0 dkypsidljq.com
 0.0.0.0 dl-rms.com
+0.0.0.0 dl.crazyporn.xxx
 0.0.0.0 dl5ft52dtazxd.cloudfront.net
 0.0.0.0 dl6pkf7e.ru
 0.0.0.0 dlads.cn
@@ -13266,6 +13271,7 @@
 0.0.0.0 egamiplatform.tv
 0.0.0.0 egbqvs.vila.com
 0.0.0.0 egfqtvewksktz.com
+0.0.0.0 eggyey.com
 0.0.0.0 eginnisseco.top
 0.0.0.0 egjq.com.cn
 0.0.0.0 eglates.pro
@@ -13274,6 +13280,7 @@
 0.0.0.0 egolina.com
 0.0.0.0 egooad.com
 0.0.0.0 egozne.cn
+0.0.0.0 egreephu.com
 0.0.0.0 egrettyjokilin.info
 0.0.0.0 egroacho.com
 0.0.0.0 egxjmlqmiamm.com
@@ -17033,6 +17040,7 @@
 0.0.0.0 gznsyh.com
 0.0.0.0 gznwn.com
 0.0.0.0 gzoegouveqgxv.com
+0.0.0.0 gzppit.com
 0.0.0.0 gzqswl.cn
 0.0.0.0 gzqudou.com
 0.0.0.0 gzrljx.cn
@@ -18166,6 +18174,7 @@
 0.0.0.0 hz-sllace.com
 0.0.0.0 hz.shouyoutv.com
 0.0.0.0 hz3137.com
+0.0.0.0 hzdwjc.com
 0.0.0.0 hzeetn.natalie.mu
 0.0.0.0 hzfcx.top
 0.0.0.0 hzhfhkj.cn
@@ -18448,6 +18457,7 @@
 0.0.0.0 ijquery11.com
 0.0.0.0 ijrah.top
 0.0.0.0 ijsprocode.com
+0.0.0.0 ijvvsearfavi.mobi
 0.0.0.0 ijwtkojhc.com
 0.0.0.0 ikdxfh.jollyroom.se
 0.0.0.0 ikiif.com
@@ -19798,6 +19808,7 @@
 0.0.0.0 jianmei123.com
 0.0.0.0 jianpian.vip
 0.0.0.0 jianxinshanghai.com
+0.0.0.0 jianyouling.com
 0.0.0.0 jianyousj.com
 0.0.0.0 jiaoben.eastday.com
 0.0.0.0 jiaoben.ganji.cn
@@ -20083,6 +20094,7 @@
 0.0.0.0 js.xiao7cdn.com
 0.0.0.0 js.xz6d.com
 0.0.0.0 js.yanyue.cn
+0.0.0.0 js1.haoge500.com
 0.0.0.0 js862.anreson.net
 0.0.0.0 js88895.net
 0.0.0.0 jsb.qianzhan.com
@@ -22471,6 +22483,7 @@
 0.0.0.0 mailwithcash.com
 0.0.0.0 maimaias.cn
 0.0.0.0 maimeehu.com
+0.0.0.0 main-ti-cod.com
 0.0.0.0 main-ti-hub.com
 0.0.0.0 main.jiukang.org
 0.0.0.0 mainadd.com
@@ -23320,6 +23333,7 @@
 0.0.0.0 mbxt.net
 0.0.0.0 mbzl-pro.xyz
 0.0.0.0 mc-nudes.com
+0.0.0.0 mc-ya.ru
 0.0.0.0 mc.admetrica.ru
 0.0.0.0 mc.bruker.com
 0.0.0.0 mc.mmkkhhnn.cn
@@ -27046,6 +27060,7 @@
 0.0.0.0 oligan.info
 0.0.0.0 olimpbanners.info
 0.0.0.0 olineman.pro
+0.0.0.0 olivedinflats.space
 0.0.0.0 olivka.biz
 0.0.0.0 olizyr.com
 0.0.0.0 olkrzytv.com
@@ -27266,6 +27281,7 @@
 0.0.0.0 ondayswr.club
 0.0.0.0 one-arts.com
 0.0.0.0 one-klick.ru
+0.0.0.0 one.impact-ad.jp
 0.0.0.0 one.lg.ua
 0.0.0.0 onecomcomcomcom.com
 0.0.0.0 onedmp.com
@@ -30373,6 +30389,7 @@
 0.0.0.0 qutreinr.pw
 0.0.0.0 quxiandu.com
 0.0.0.0 quxiangkeji.cn
+0.0.0.0 quzhizhongye.top
 0.0.0.0 qvi0.ru
 0.0.0.0 qvlcdw.ho-br.com
 0.0.0.0 qvpublish.com
@@ -32678,6 +32695,7 @@
 0.0.0.0 sdome.underarmour.co.jp
 0.0.0.0 sdqoi2d.com
 0.0.0.0 sdsttt.com
+0.0.0.0 sdurhnd.com
 0.0.0.0 sdv-m.ru
 0.0.0.0 sdweldrobot.cn
 0.0.0.0 sdxctr.com
@@ -34963,6 +34981,7 @@
 0.0.0.0 socketboredomdigital.com
 0.0.0.0 socketviking.net
 0.0.0.0 sockjs-goguardian.pusher.com
+0.0.0.0 socksorient.com
 0.0.0.0 sodamash.com
 0.0.0.0 sodhef.com
 0.0.0.0 sodoit.com
@@ -39293,6 +39312,7 @@
 0.0.0.0 trendemon.com
 0.0.0.0 trendgodforsaken.com
 0.0.0.0 trenews.ru
+0.0.0.0 trenhdg.com
 0.0.0.0 trenpyle.com
 0.0.0.0 tres8.info
 0.0.0.0 tretionsp.top
@@ -39541,6 +39561,7 @@
 0.0.0.0 tufosex.com.br
 0.0.0.0 tugngs.tui.com
 0.0.0.0 tuia.cn
+0.0.0.0 tuifish.com
 0.0.0.0 tuigang1999.com
 0.0.0.0 tuituiyoo999.com
 0.0.0.0 tujestimater.pro
@@ -40221,6 +40242,7 @@
 0.0.0.0 usedexample.com
 0.0.0.0 usejj.wangkl.com
 0.0.0.0 uselnk.com
+0.0.0.0 usemarketings.com
 0.0.0.0 usemax.de
 0.0.0.0 usemyreferral.link
 0.0.0.0 usenet-nl.top
@@ -40650,6 +40672,7 @@
 0.0.0.0 vgellr.esprit.de
 0.0.0.0 vggxxhton.com
 0.0.0.0 vghd.com
+0.0.0.0 vgimer.cn
 0.0.0.0 vgjackpot5.com
 0.0.0.0 vgkknrbzwfau.com
 0.0.0.0 vgo.vegaoo.co.uk
@@ -41139,6 +41162,7 @@
 0.0.0.0 vtrtl.de
 0.0.0.0 vttics.world.co.jp
 0.0.0.0 vuahb.com
+0.0.0.0 vubihasdtbadiq.com
 0.0.0.0 vucovorise.com
 0.0.0.0 vujhqcemrpqj.com
 0.0.0.0 vukhhjzd.com
@@ -43034,6 +43058,7 @@
 0.0.0.0 xzipy.com
 0.0.0.0 xzixbirtfo.com
 0.0.0.0 xzlnews.info
+0.0.0.0 xzpyjd.com
 0.0.0.0 xztms.com
 0.0.0.0 xzvhgu.iledebeaute.ru
 0.0.0.0 xzwcng.vans.com.au
@@ -43511,6 +43536,7 @@
 0.0.0.0 yqw88.com
 0.0.0.0 yr9n47004g.com
 0.0.0.0 yrdrtzmsmt.com
+0.0.0.0 yrehdfer.com
 0.0.0.0 yrpcux.dfs.co.uk
 0.0.0.0 yrpicm.lotteimall.com
 0.0.0.0 yrqwyn.cn
@@ -43965,6 +43991,7 @@
 0.0.0.0 zjo0tjqpm1.com
 0.0.0.0 zjqymhsk.com
 0.0.0.0 zjrbwb.markenschuhe.de
+0.0.0.0 zjxkdq.cn
 0.0.0.0 zk.91post.com
 0.0.0.0 zkake.exashare.com
 0.0.0.0 zkba9.cn

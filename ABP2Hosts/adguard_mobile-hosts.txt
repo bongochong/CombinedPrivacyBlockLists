@@ -1,4 +1,4 @@
-# Thu Jun 17 05:33:18 AM UTC 2021
+# Fri Jun 18 05:18:57 PM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -2698,7 +2698,6 @@
 0.0.0.0 cdn.inskinad.com
 0.0.0.0 cdn.inspectlet.com
 0.0.0.0 cdn.intergi.com
-0.0.0.0 cdn.iubenda.com
 0.0.0.0 cdn.izooto.com
 0.0.0.0 cdn.jampp.com
 0.0.0.0 cdn.jivox.com
@@ -4547,7 +4546,6 @@
 0.0.0.0 himediads.com
 0.0.0.0 hiram.iad-03.braze.com
 0.0.0.0 hit.stat24.com
-0.0.0.0 hits-i.iubenda.com
 0.0.0.0 hive-d.openx.net
 0.0.0.0 hk-gmtdmp.mookie1.com
 0.0.0.0 hk-match.taboola.com
@@ -7765,7 +7763,6 @@
 0.0.0.0 snapabug.appspot.com
 0.0.0.0 snapads.com
 0.0.0.0 snapmobile.asia
-0.0.0.0 snappytvpoc-vh.akamaihd.net
 0.0.0.0 snapsort-d.openx.net
 0.0.0.0 snigel-d.openx.net
 0.0.0.0 snippet.minute.ly

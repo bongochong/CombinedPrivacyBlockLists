@@ -1,4 +1,4 @@
-# Thu Jun 17 05:33:59 AM UTC 2021
+# Fri Jun 18 05:19:49 PM UTC 2021
 # AdGuard DNS Hosts - Generated weekly by bongochong
 0.0.0.0 00-gov.cn
 0.0.0.0 0024aaaa.com
@@ -205,6 +205,7 @@
 0.0.0.0 1100ad.com
 0.0.0.0 1100i.com
 0.0.0.0 110380d053f716c4.com
+0.0.0.0 11111fs.com
 0.0.0.0 1126bet.com
 0.0.0.0 114com.cc
 0.0.0.0 1177ea804fbd7d1430c4.date
@@ -5327,6 +5328,7 @@
 0.0.0.0 audiosech.club
 0.0.0.0 audit.303br.net
 0.0.0.0 audit.median.hu
+0.0.0.0 audit.shaa.it
 0.0.0.0 audit8.com
 0.0.0.0 auditioneasterhelm.com
 0.0.0.0 audriasite.pro
@@ -6996,6 +6998,7 @@
 0.0.0.0 brainian.club
 0.0.0.0 brainient.com
 0.0.0.0 brainlesseither.com
+0.0.0.0 brainlyads.com
 0.0.0.0 braintb.com
 0.0.0.0 brakesoutright.com
 0.0.0.0 brameriez.xyz
@@ -10390,6 +10393,7 @@
 0.0.0.0 daiwofei2019.top
 0.0.0.0 daizhangguanjia.com.cn
 0.0.0.0 dajean.com
+0.0.0.0 dakang-energy.com
 0.0.0.0 dakawm.cc
 0.0.0.0 dake.net.cn
 0.0.0.0 daklatasvir.su
@@ -12129,6 +12133,7 @@
 0.0.0.0 egamiplatform.tv
 0.0.0.0 egfqtvewksktz.com
 0.0.0.0 eggplant.cloud
+0.0.0.0 eggyey.com
 0.0.0.0 eginnisseco.top
 0.0.0.0 egjq.com.cn
 0.0.0.0 eglates.pro
@@ -12137,6 +12142,7 @@
 0.0.0.0 egolina.com
 0.0.0.0 egooad.com
 0.0.0.0 egozne.cn
+0.0.0.0 egreephu.com
 0.0.0.0 egrettyjokilin.info
 0.0.0.0 egroacho.com
 0.0.0.0 egxjmlqmiamm.com
@@ -13407,6 +13413,7 @@
 0.0.0.0 ffupiiv.cn
 0.0.0.0 ffwap.com
 0.0.0.0 ffyyfy.top
+0.0.0.0 fg-z.com
 0.0.0.0 fgangstsur.club
 0.0.0.0 fgcash.com.br
 0.0.0.0 fgddl9szdof7.com
@@ -14754,6 +14761,7 @@
 0.0.0.0 glaixich.net
 0.0.0.0 glaksads.net
 0.0.0.0 glamurka.net
+0.0.0.0 glancecdn.net
 0.0.0.0 glanceguide.com
 0.0.0.0 glandtest.com
 0.0.0.0 glareart.com
@@ -15468,6 +15476,7 @@
 0.0.0.0 gznsyh.com
 0.0.0.0 gznwn.com
 0.0.0.0 gzoegouveqgxv.com
+0.0.0.0 gzppit.com
 0.0.0.0 gzqswl.cn
 0.0.0.0 gzqudou.com
 0.0.0.0 gzrljx.cn
@@ -16545,6 +16554,7 @@
 0.0.0.0 hyzhongchuang.com
 0.0.0.0 hz-sllace.com
 0.0.0.0 hz.shouyoutv.com
+0.0.0.0 hzdwjc.com
 0.0.0.0 hzfcx.top
 0.0.0.0 hzhfhkj.cn
 0.0.0.0 hzhongjianfund.com
@@ -16791,6 +16801,7 @@
 0.0.0.0 ijquery11.com
 0.0.0.0 ijrah.top
 0.0.0.0 ijsprocode.com
+0.0.0.0 ijvvsearfavi.mobi
 0.0.0.0 ijwtkojhc.com
 0.0.0.0 ikiif.com
 0.0.0.0 ikinbugen.com
@@ -17814,6 +17825,7 @@
 0.0.0.0 jiankongbao.com
 0.0.0.0 jianmei123.com
 0.0.0.0 jianxinshanghai.com
+0.0.0.0 jianyouling.com
 0.0.0.0 jianyousj.com
 0.0.0.0 jiaoben.eastday.com
 0.0.0.0 jiaoben.ganji.cn
@@ -18075,6 +18087,7 @@
 0.0.0.0 js.union123.me
 0.0.0.0 js.xiao7cdn.com
 0.0.0.0 js.yanyue.cn
+0.0.0.0 js1.haoge500.com
 0.0.0.0 js862.anreson.net
 0.0.0.0 js88895.net
 0.0.0.0 jsb.qianzhan.com
@@ -19260,6 +19273,7 @@
 0.0.0.0 lfdydk.com
 0.0.0.0 lfendascra.club
 0.0.0.0 lfg5jnbi.com
+0.0.0.0 lflable.com
 0.0.0.0 lflili.com
 0.0.0.0 lflucky.com
 0.0.0.0 lfov.net
@@ -20315,6 +20329,7 @@
 0.0.0.0 mailwithcash.com
 0.0.0.0 maimaias.cn
 0.0.0.0 maimeehu.com
+0.0.0.0 main-ti-cod.com
 0.0.0.0 main-ti-hub.com
 0.0.0.0 main.jiukang.org
 0.0.0.0 mainadd.com
@@ -20586,6 +20601,7 @@
 0.0.0.0 mbww.com
 0.0.0.0 mbxt.net
 0.0.0.0 mbzl-pro.xyz
+0.0.0.0 mc-ya.ru
 0.0.0.0 mc.admetrica.ru
 0.0.0.0 mc.mmkkhhnn.cn
 0.0.0.0 mc.tvzhe.com
@@ -26276,6 +26292,7 @@
 0.0.0.0 quant.jp
 0.0.0.0 quanta-wave.com
 0.0.0.0 quanta.la
+0.0.0.0 quantao8.top
 0.0.0.0 quantcount.com
 0.0.0.0 quantum-advertising.com
 0.0.0.0 quantumads.com
@@ -26337,6 +26354,7 @@
 0.0.0.0 qutreinr.pw
 0.0.0.0 quxiandu.com
 0.0.0.0 quxiangkeji.cn
+0.0.0.0 quzhizhongye.top
 0.0.0.0 qvi0.ru
 0.0.0.0 qvpublish.com
 0.0.0.0 qwddcwmwqiqwd18.cn
@@ -28188,6 +28206,7 @@
 0.0.0.0 sdqoi2d.com
 0.0.0.0 sdrive.skoda-auto.com
 0.0.0.0 sdsttt.com
+0.0.0.0 sdurhnd.com
 0.0.0.0 sdv-m.ru
 0.0.0.0 sdweldrobot.cn
 0.0.0.0 sdxctr.com
@@ -29269,6 +29288,7 @@
 0.0.0.0 socketboredomdigital.com
 0.0.0.0 socketviking.net
 0.0.0.0 sockjs-goguardian.pusher.com
+0.0.0.0 socksorient.com
 0.0.0.0 socsi.in
 0.0.0.0 socvip.com
 0.0.0.0 socvip9.club
@@ -32787,6 +32807,7 @@
 0.0.0.0 trendlope.com
 0.0.0.0 trends.newsmaxwidget.com
 0.0.0.0 trenews.ru
+0.0.0.0 trenhdg.com
 0.0.0.0 trenpyle.com
 0.0.0.0 tres8.info
 0.0.0.0 tretionsp.top
@@ -32984,6 +33005,7 @@
 0.0.0.0 ttoyourteam.biz
 0.0.0.0 ttqeackrnjnfd.com
 0.0.0.0 ttrace.ru
+0.0.0.0 ttshort.xyz
 0.0.0.0 ttspikbeglki.com
 0.0.0.0 ttudsdf.pro
 0.0.0.0 ttyvdilxsuorg.com
@@ -33006,6 +33028,7 @@
 0.0.0.0 tubereplay.com
 0.0.0.0 tubogomifo.com
 0.0.0.0 tudotecnologia.site
+0.0.0.0 tuifish.com
 0.0.0.0 tuigang1999.com
 0.0.0.0 tuiiu.com
 0.0.0.0 tuinfra.com
@@ -33299,7 +33322,6 @@
 0.0.0.0 uieoogjarimcey.com
 0.0.0.0 uigruwtql.com
 0.0.0.0 uilsplentialde.top
-0.0.0.0 uim.tifbs.net
 0.0.0.0 uimrnhpei.com
 0.0.0.0 uimserv.net
 0.0.0.0 uincalcularlyt.club
@@ -34049,6 +34071,7 @@
 0.0.0.0 vg4u8rvq65t6.com
 0.0.0.0 vg74gi6mea.com
 0.0.0.0 vggxxhton.com
+0.0.0.0 vgimer.cn
 0.0.0.0 vgjackpot5.com
 0.0.0.0 vgkknrbzwfau.com
 0.0.0.0 vgo.vegaoo.de
@@ -34518,6 +34541,7 @@
 0.0.0.0 vuabai9.com
 0.0.0.0 vuaclub1008.club
 0.0.0.0 vuahb.com
+0.0.0.0 vubihasdtbadiq.com
 0.0.0.0 vucovorise.com
 0.0.0.0 vujhqcemrpqj.com
 0.0.0.0 vukhhjzd.com
@@ -35632,6 +35656,7 @@
 0.0.0.0 x40u1vj75ks9.com
 0.0.0.0 x4300tiz.com
 0.0.0.0 x4x4x.org
+0.0.0.0 x5.jougennotuki.com
 0.0.0.0 x6k2vb7652xd.com
 0.0.0.0 x6z6.com
 0.0.0.0 x7xirtzmot.com
@@ -36086,6 +36111,7 @@
 0.0.0.0 xzidjitondzt.com
 0.0.0.0 xzipy.com
 0.0.0.0 xzixbirtfo.com
+0.0.0.0 xzpyjd.com
 0.0.0.0 xztms.com
 0.0.0.0 xzwdo.top
 0.0.0.0 xzyituo.com
@@ -36506,6 +36532,7 @@
 0.0.0.0 yqw88.com
 0.0.0.0 yr9n47004g.com
 0.0.0.0 yrdrtzmsmt.com
+0.0.0.0 yrehdfer.com
 0.0.0.0 yrqwyn.cn
 0.0.0.0 yrrsckr.cn
 0.0.0.0 yrsfs.com
@@ -36712,6 +36739,7 @@
 0.0.0.0 zarabotki.ru
 0.0.0.0 zarget.com
 0.0.0.0 zargutivisor.info
+0.0.0.0 zariumhb.com
 0.0.0.0 zarlomgog.com
 0.0.0.0 zarpop.com
 0.0.0.0 zashtorkino.ru
@@ -36929,6 +36957,7 @@
 0.0.0.0 zjlfqf.com
 0.0.0.0 zjo0tjqpm1.com
 0.0.0.0 zjqymhsk.com
+0.0.0.0 zjxkdq.cn
 0.0.0.0 zk.91post.com
 0.0.0.0 zkba9.cn
 0.0.0.0 zkdkvnzsdxge.info
