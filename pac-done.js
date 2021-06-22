@@ -1,4 +1,4 @@
-// **** Fri Jun 18 05:23:04 PM UTC 2021
+// **** Tue Jun 22 07:21:52 AM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -4696,6 +4696,7 @@ shExpMatch(host, '*.customers.kameleoon.com') ||
 shExpMatch(host, '*.customsboysint.com') ||
 shExpMatch(host, '*.cutaiamortgagegroup.cn') ||
 shExpMatch(host, '*.cutbackrecords.com') ||
+shExpMatch(host, '*.cutechin.com') ||
 shExpMatch(host, '*.cutecushion.com') ||
 shExpMatch(host, '*.cuteturkey.com') ||
 shExpMatch(host, '*.cutheatergroup.cn') ||
@@ -22224,6 +22225,7 @@ shExpMatch(host, 'customers.kameleoon.com') ||
 shExpMatch(host, 'customsboysint.com') ||
 shExpMatch(host, 'cutaiamortgagegroup.cn') ||
 shExpMatch(host, 'cutbackrecords.com') ||
+shExpMatch(host, 'cutechin.com') ||
 shExpMatch(host, 'cutecushion.com') ||
 shExpMatch(host, 'cuteturkey.com') ||
 shExpMatch(host, 'cutheatergroup.cn') ||
