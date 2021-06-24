@@ -1,4 +1,4 @@
-# Thu Jun 24 06:01:05 AM UTC 2021
+# Thu Jun 24 07:00:03 PM UTC 2021
 # Piperun IPLoggerFilter Hosts - Generated weekly by bongochong
 0.0.0.0 00689.net
 0.0.0.0 02ip.ru

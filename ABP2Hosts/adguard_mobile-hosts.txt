@@ -1,4 +1,4 @@
-# Thu Jun 24 06:00:26 AM UTC 2021
+# Thu Jun 24 06:59:15 PM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -1302,6 +1302,7 @@
 0.0.0.0 androidads21.adcolony.com
 0.0.0.0 androidads23.adcolony.com
 0.0.0.0 androidsdk.ads.mp.mydas.mobi
+0.0.0.0 androidtvwatsonfe-pa.googleapis.com
 0.0.0.0 andromeda.iad-01.braze.com
 0.0.0.0 andromeda.iad.appboy.com
 0.0.0.0 ani.adspruce.com

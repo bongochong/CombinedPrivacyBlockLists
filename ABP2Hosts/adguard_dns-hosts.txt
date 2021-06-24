@@ -1,4 +1,4 @@
-# Thu Jun 24 06:00:58 AM UTC 2021
+# Thu Jun 24 06:59:56 PM UTC 2021
 # AdGuard DNS Hosts - Generated weekly by bongochong
 0.0.0.0 00-gov.cn
 0.0.0.0 0024aaaa.com
@@ -23752,6 +23752,7 @@
 0.0.0.0 ostensiblegrave.com
 0.0.0.0 osurembra.top
 0.0.0.0 osxau.de
+0.0.0.0 ot.jizy.cn
 0.0.0.0 otaijing.com
 0.0.0.0 otcdn2.auditude.com
 0.0.0.0 otclick-adv.ru
@@ -32156,6 +32157,7 @@
 0.0.0.0 toukeedo.com
 0.0.0.0 touphipt.com
 0.0.0.0 toutiao.social
+0.0.0.0 toutiao.xn--fiqs8s
 0.0.0.0 toutiles.com
 0.0.0.0 tovery.net
 0.0.0.0 towardstic.club
@@ -36546,6 +36548,7 @@
 0.0.0.0 yottacash.com
 0.0.0.0 yottos.com
 0.0.0.0 you-cant-win.com
+0.0.0.0 you6ka.cn
 0.0.0.0 youbora.com
 0.0.0.0 youborafds01.com
 0.0.0.0 youboranqs01.com

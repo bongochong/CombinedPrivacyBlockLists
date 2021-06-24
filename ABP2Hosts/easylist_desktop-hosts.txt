@@ -1,4 +1,4 @@
-# Thu Jun 24 06:00:51 AM UTC 2021
+# Thu Jun 24 06:59:49 PM UTC 2021
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0-24bpautomentes.hu
 0.0.0.0 00-gov.cn
@@ -791,6 +791,7 @@
 0.0.0.0 517pn6he9p5r.com
 0.0.0.0 519397.com
 0.0.0.0 51ads.com
+0.0.0.0 51check.com.cn
 0.0.0.0 51dengshan.cn
 0.0.0.0 51df7z.cn
 0.0.0.0 51dianji.cn
@@ -16027,6 +16028,7 @@
 0.0.0.0 huangyeqing.cn
 0.0.0.0 huapuzs.com
 0.0.0.0 huataisangao.cn
+0.0.0.0 huayancn.cn
 0.0.0.0 huayange.com
 0.0.0.0 huayangli.cn
 0.0.0.0 huayi65.com
@@ -18008,6 +18010,7 @@
 0.0.0.0 jxjzny.com
 0.0.0.0 jxlqgs.com
 0.0.0.0 jxmzyg.com
+0.0.0.0 jxpxzxf.cn
 0.0.0.0 jxrhjcb.biz
 0.0.0.0 jxsgxzx.com
 0.0.0.0 jxswwvvejwzdd.com
@@ -26863,6 +26866,7 @@
 0.0.0.0 quanta.la
 0.0.0.0 quantao8.top
 0.0.0.0 quantcount.com
+0.0.0.0 quantserve.com
 0.0.0.0 quantum-advertising.com
 0.0.0.0 quantumads.com
 0.0.0.0 quantummetric.com
@@ -32430,6 +32434,7 @@
 0.0.0.0 tcactivity.net
 0.0.0.0 tcadops.ca
 0.0.0.0 tcadserver.rain-digital.ca
+0.0.0.0 tcbdd.cn
 0.0.0.0 tcdata.fnac.com
 0.0.0.0 tcdnwha.com
 0.0.0.0 tce.alicdn.com
@@ -37325,6 +37330,7 @@
 0.0.0.0 xuanmin.wang
 0.0.0.0 xuanmingyc.com
 0.0.0.0 xubob.com
+0.0.0.0 xuchangmuying.com
 0.0.0.0 xuchuang.com
 0.0.0.0 xue.zbyw.cn
 0.0.0.0 xuehelei.com
@@ -37359,6 +37365,7 @@
 0.0.0.0 xwhtnxakjqrtf.com
 0.0.0.0 xwpoxv.birdies.com
 0.0.0.0 xww360.com
+0.0.0.0 xxaalsn.cn
 0.0.0.0 xxccdshj.com
 0.0.0.0 xxe2.com
 0.0.0.0 xxhrd.com
