@@ -1,4 +1,4 @@
-// **** Tue Jun 22 07:21:52 AM UTC 2021
+// **** Thu Jun 24 06:07:52 AM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -3785,6 +3785,7 @@ shExpMatch(host, '*.cliccaoggi.it') ||
 shExpMatch(host, '*.cliccaraffinato.it') ||
 shExpMatch(host, '*.click.a-ads.com') ||
 shExpMatch(host, '*.click.absoluteagency.com') ||
+shExpMatch(host, '*.click.airmalta-mail.com') ||
 shExpMatch(host, '*.click.cartsguru.io') ||
 shExpMatch(host, '*.click.fool.com') ||
 shExpMatch(host, '*.click.kmindex.ru') ||
@@ -7547,6 +7548,7 @@ shExpMatch(host, '*.gassystem.co.kr') ||
 shExpMatch(host, '*.gaswljdh.qpoe.com') ||
 shExpMatch(host, '*.gator.com') ||
 shExpMatch(host, '*.gatotkaca.pw') ||
+shExpMatch(host, '*.gaug.es') ||
 shExpMatch(host, '*.gavih.org') ||
 shExpMatch(host, '*.gayadnetwork.com') ||
 shExpMatch(host, '*.gaymormon.com') ||
@@ -21314,6 +21316,7 @@ shExpMatch(host, 'cliccaoggi.it') ||
 shExpMatch(host, 'cliccaraffinato.it') ||
 shExpMatch(host, 'click.a-ads.com') ||
 shExpMatch(host, 'click.absoluteagency.com') ||
+shExpMatch(host, 'click.airmalta-mail.com') ||
 shExpMatch(host, 'click.cartsguru.io') ||
 shExpMatch(host, 'click.fool.com') ||
 shExpMatch(host, 'click.kmindex.ru') ||
@@ -25076,6 +25079,7 @@ shExpMatch(host, 'gassystem.co.kr') ||
 shExpMatch(host, 'gaswljdh.qpoe.com') ||
 shExpMatch(host, 'gator.com') ||
 shExpMatch(host, 'gatotkaca.pw') ||
+shExpMatch(host, 'gaug.es') ||
 shExpMatch(host, 'gavih.org') ||
 shExpMatch(host, 'gayadnetwork.com') ||
 shExpMatch(host, 'gaymormon.com') ||
