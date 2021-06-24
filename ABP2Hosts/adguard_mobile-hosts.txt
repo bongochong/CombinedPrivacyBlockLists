@@ -1,4 +1,4 @@
-# Tue Jun 22 07:18:57 AM UTC 2021
+# Thu Jun 24 05:56:28 AM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -210,6 +210,7 @@
 0.0.0.0 a.bitmango.com
 0.0.0.0 a.c.appier.net
 0.0.0.0 a.dpmsrv.com
+0.0.0.0 a.et.nytimes.com
 0.0.0.0 a.fiksu.com
 0.0.0.0 a.idio.co
 0.0.0.0 a.ligatus.com
@@ -3265,7 +3266,6 @@
 0.0.0.0 datacloud-us-east-1.tealiumiq.com
 0.0.0.0 datacloud.tealiumiq.com
 0.0.0.0 datacollect9.abtasty.com
-0.0.0.0 datacollector-drru.dt.hicloud.com
 0.0.0.0 datam16.adlooxtracking.com
 0.0.0.0 datas01.adlooxtracking.com
 0.0.0.0 datas04.adlooxtracking.com
@@ -3430,6 +3430,7 @@
 0.0.0.0 dpstack.com
 0.0.0.0 dptr.areyouahuman.com
 0.0.0.0 dr.socdm.com
+0.0.0.0 drfdisvc.walmart.com
 0.0.0.0 ds-aksb-a.akamaihd.net
 0.0.0.0 ds-api-public.addthis.com.edgekey.net
 0.0.0.0 ds-m.addthisedge.com.edgekey.net
@@ -4202,6 +4203,7 @@
 0.0.0.0 h-d3tracking.rbc.online-metrix.net
 0.0.0.0 h-ebay.online-metrix.net
 0.0.0.0 h-fidelity.online-metrix.net
+0.0.0.0 h-sdk.online-metrix.net
 0.0.0.0 h-signifyd.online-metrix.net
 0.0.0.0 h-tdcanada.online-metrix.net
 0.0.0.0 h.mobcells.com
@@ -4250,6 +4252,7 @@
 0.0.0.0 healthline-d.openx.net
 0.0.0.0 hearst.amp.permutive.com
 0.0.0.0 hearst.blueconic.net
+0.0.0.0 hearst.gscontxt.net
 0.0.0.0 heartsuaedcmdisplay455258716808.s.moatpixel.com
 0.0.0.0 heatmap-quota.abtasty.com
 0.0.0.0 heatmobi.offerstrack.net
@@ -7784,6 +7787,7 @@
 0.0.0.0 t.gammaplatform.com
 0.0.0.0 t.global.yyapi.net
 0.0.0.0 t.iaudienc.com
+0.0.0.0 t.indeed.com
 0.0.0.0 t.ktxtr.com
 0.0.0.0 t.leady.com
 0.0.0.0 t.lkqd.net
@@ -8889,6 +8893,7 @@
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.leanplum.com
+0.0.0.0 www.lightboxcdn.com
 0.0.0.0 www.localytics.com
 0.0.0.0 www.npttech.com
 0.0.0.0 www.sc.pages03.net
