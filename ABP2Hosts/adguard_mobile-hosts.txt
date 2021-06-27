@@ -1,4 +1,4 @@
-# Thu Jun 24 07:01:39 PM UTC 2021
+# Sun Jun 27 06:40:36 PM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -4230,7 +4230,6 @@
 0.0.0.0 hasmobi.net
 0.0.0.0 hassaleh.iad-03.braze.com
 0.0.0.0 hawk.pcgamer.com
-0.0.0.0 hb-minify-juc1ugur1qwqqqo4.stackpathdns.com
 0.0.0.0 hb.ad.cpe.dotomi.com
 0.0.0.0 hb.adscale.de
 0.0.0.0 hb.aralego.com
@@ -7970,6 +7969,7 @@
 0.0.0.0 telemetry.voxeet.com
 0.0.0.0 telemetryverification.net
 0.0.0.0 teleport.soom.la
+0.0.0.0 tenant-content.apm.appfolio-analytics.com
 0.0.0.0 tend.io
 0.0.0.0 ter-adserver-origin-ap.prod.adtechjp.com
 0.0.0.0 teracreative.com
