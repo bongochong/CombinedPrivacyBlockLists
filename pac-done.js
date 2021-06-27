@@ -1,4 +1,4 @@
-// **** Sun Jun 27 06:48:08 PM UTC 2021
+// **** Sun Jun 27 06:51:55 PM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
