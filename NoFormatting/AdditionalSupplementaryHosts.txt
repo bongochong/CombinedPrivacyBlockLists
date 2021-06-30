@@ -859,6 +859,7 @@
 0.0.0.0 accuradio.deliveryengine.adswizz.com
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 acenar.com
+0.0.0.0 ach-edi.xyz
 0.0.0.0 acheterviagrafr24.com
 0.0.0.0 achpanel.top
 0.0.0.0 achterin.nl
@@ -1759,7 +1760,6 @@
 0.0.0.0 adcv.jp
 0.0.0.0 adcycle.com
 0.0.0.0 add.newmedia.cz
-0.0.0.0 adda.net.in
 0.0.0.0 addapptr.com
 0.0.0.0 addash.co
 0.0.0.0 addealing.com
@@ -2675,6 +2675,7 @@
 0.0.0.0 ads.ecircles.com
 0.0.0.0 ads.economist.com
 0.0.0.0 ads.ecosalon.com
+0.0.0.0 ads.edadeal.ru
 0.0.0.0 ads.edbindex.dk
 0.0.0.0 ads.edipresse.pl
 0.0.0.0 ads.edirectme.com
@@ -5265,7 +5266,6 @@
 0.0.0.0 alarash.com
 0.0.0.0 alarg53.ddns.net
 0.0.0.0 alarkamaravaas.pw
-0.0.0.0 alarmemusicalescolar.hiveweb.com.br
 0.0.0.0 alarmobninsk.ru
 0.0.0.0 alaziz.in
 0.0.0.0 albamargroup.com
@@ -7116,6 +7116,7 @@
 0.0.0.0 btf-analytics.s3.amazonaws.com
 0.0.0.0 bticoin.su
 0.0.0.0 btigspresalessandt.112.2o7.net
+0.0.0.0 btloader.com
 0.0.0.0 btnativenav.com
 0.0.0.0 btoaspa.xyz
 0.0.0.0 btstatic.com
@@ -7179,7 +7180,6 @@
 0.0.0.0 buzztrends.club
 0.0.0.0 bvjhsdvbfjsd.pw
 0.0.0.0 bvlgarijapan.com
-0.0.0.0 bwindiheritageadventures.com
 0.0.0.0 byd.580.bydj2019.com
 0.0.0.0 bypass-adn.ad-stir.com
 0.0.0.0 bypass-bid.ad-stir.com
@@ -7833,7 +7833,6 @@
 0.0.0.0 cl78048.tmweb.ru
 0.0.0.0 clamspit.com
 0.0.0.0 clan.setare-bash.com
-0.0.0.0 clariann.info
 0.0.0.0 claspedtwelve.com
 0.0.0.0 classicvacations.112.2o7.net
 0.0.0.0 classmatescom.112.2o7.net
@@ -9012,7 +9011,6 @@
 0.0.0.0 dl-microsoft.com
 0.0.0.0 dl.browsermine.com
 0.0.0.0 dl.logging.admicro.vn
-0.0.0.0 dlb-d.sdp.biz
 0.0.0.0 dlero.net
 0.0.0.0 dlfact.club
 0.0.0.0 dllth.com
@@ -9213,7 +9211,6 @@
 0.0.0.0 dubriah.com
 0.0.0.0 ducklife.ddns.net
 0.0.0.0 dueuekekdd833234.publicvm.com
-0.0.0.0 dugiry01.top
 0.0.0.0 duleal.com
 0.0.0.0 duluthtrading.tt.omtrdc.net
 0.0.0.0 dummy.112.2o7.net
@@ -9390,6 +9387,7 @@
 0.0.0.0 educationmanagementl.tt.omtrdc.net
 0.0.0.0 educationmanagementllc.112.2o7.net
 0.0.0.0 ee-in-f95.1.e100.net
+0.0.0.0 eer-trading.com
 0.0.0.0 eewujoopai.co.vu
 0.0.0.0 efashionsolutions.122.2o7.net
 0.0.0.0 effe-erre.es
@@ -11114,6 +11112,7 @@
 0.0.0.0 hg17.hitbox.com
 0.0.0.0 hg2.hitbox.com
 0.0.0.0 hg6a.hitbox.com
+0.0.0.0 hgastation.com
 0.0.0.0 hhb123.tk
 0.0.0.0 hhtool.ddns.net
 0.0.0.0 hhytew.pw
@@ -11688,7 +11687,6 @@
 0.0.0.0 individualkipitera.site
 0.0.0.0 individualkipitera24.site
 0.0.0.0 indta.co.id
-0.0.0.0 industriasyuli.com
 0.0.0.0 inessa-sweet.ru
 0.0.0.0 infestexe.com
 0.0.0.0 infikuje.freevnn.com
@@ -11922,6 +11920,7 @@
 0.0.0.0 it-salesmktg.com
 0.0.0.0 it.adserver.yahoo.com
 0.0.0.0 it.advertising.yahoo.com
+0.0.0.0 itacsa.com.co
 0.0.0.0 itag.ads.linkedin.com
 0.0.0.0 italamp.tk
 0.0.0.0 itc-co.cf
@@ -11989,7 +11988,6 @@
 0.0.0.0 japan.inmobi.com
 0.0.0.0 japan1-05.xyz
 0.0.0.0 japan1-06.xyz
-0.0.0.0 jardinimperial.cl
 0.0.0.0 jasonetworks.com
 0.0.0.0 jaster24h.biz
 0.0.0.0 jave.xyz
@@ -12202,7 +12200,6 @@
 0.0.0.0 judax.live
 0.0.0.0 judicialance.com
 0.0.0.0 juicyads.com
-0.0.0.0 jukaiop.pw
 0.0.0.0 jukesbrxd.xyz
 0.0.0.0 jump.adnxs.com
 0.0.0.0 jumpinghouse.org
@@ -12703,7 +12700,6 @@
 0.0.0.0 loading-delivery2.com
 0.0.0.0 loadmill.com
 0.0.0.0 loaduber-theprogressivefile.best
-0.0.0.0 loan-advisor.info
 0.0.0.0 local-analytics.uberinternal.com
 0.0.0.0 local-update.com
 0.0.0.0 localsexfinderxxx4.com
@@ -13034,6 +13030,7 @@
 0.0.0.0 loopme.me
 0.0.0.0 lopiax.us
 0.0.0.0 lopsidedspoon.com
+0.0.0.0 lopuio01.top
 0.0.0.0 lordpopup.com
 0.0.0.0 losital.ru
 0.0.0.0 lotusabloom.com
@@ -13185,6 +13182,7 @@
 0.0.0.0 mainwhile.com
 0.0.0.0 maios12.dyndns.dk
 0.0.0.0 maist.jp
+0.0.0.0 maizefucanism.hopto.org
 0.0.0.0 majia.pw
 0.0.0.0 make-upvalleyusastoread.pl
 0.0.0.0 makemoneyeasy.live
@@ -14300,7 +14298,6 @@
 0.0.0.0 nginx-auction-prd-gcp.adsx.unityads.unity3d.com
 0.0.0.0 nhatbao.chatpacific.com
 0.0.0.0 nhl.112.2o7.net
-0.0.0.0 ni2748194-1.web16.nitrado.hosting
 0.0.0.0 nicelister.net
 0.0.0.0 nicepricingsaleregistration.com
 0.0.0.0 nicholaspring.xyz
@@ -14331,6 +14328,7 @@
 0.0.0.0 nimiqtest.ml
 0.0.0.0 ninaning.com
 0.0.0.0 nine-a.p.adnxs.com
+0.0.0.0 ninja-chainsaw.nsmatrix3.com
 0.0.0.0 nintedrer.com
 0.0.0.0 nitb.pk-gov.org
 0.0.0.0 nitrixserver.com
@@ -14806,7 +14804,6 @@
 0.0.0.0 ottacknet.112.2o7.net
 0.0.0.0 ottdailytidingscom.112.2o7.net
 0.0.0.0 our20203.duckdns.org
-0.0.0.0 ourfirm.com
 0.0.0.0 ourmazdcompany.net
 0.0.0.0 ournewsafte.biz
 0.0.0.0 out.popads.net
@@ -15298,7 +15295,6 @@
 0.0.0.0 ponk.pro
 0.0.0.0 ponka.biz
 0.0.0.0 ponysolution.tk
-0.0.0.0 poo-logix.com
 0.0.0.0 pooiukjadnqwdjnqasdne.com
 0.0.0.0 pool-mediafin.adhese.com
 0.0.0.0 pool-pebblemedia.adhese.com
@@ -15548,6 +15544,7 @@
 0.0.0.0 promo-001.lon.spotify.com
 0.0.0.0 promo.adult-torrent.com
 0.0.0.0 promo.spotify.com
+0.0.0.0 promotecksa.com
 0.0.0.0 promoted.soundcloud.com
 0.0.0.0 promotionalads.yahoo.co.jp
 0.0.0.0 pronetadvertising.com
@@ -17183,6 +17180,7 @@
 0.0.0.0 sleepcartoon.com
 0.0.0.0 sleeveblouse.com
 0.0.0.0 slickdeals.sc.omtrdc.net
+0.0.0.0 slimtrewer.casacam.net
 0.0.0.0 slimyscarf.com
 0.0.0.0 slipperysack.com
 0.0.0.0 slog.trackingio.com
@@ -17323,6 +17321,7 @@
 0.0.0.0 sorna.at
 0.0.0.0 sortsummer.com
 0.0.0.0 sorwatheltd.rw
+0.0.0.0 sottb.com
 0.0.0.0 souffity.com
 0.0.0.0 southblood.net
 0.0.0.0 southcoasttodaycom.112.2o7.net
@@ -17863,7 +17862,6 @@
 0.0.0.0 superservicee.com
 0.0.0.0 supersonicads-a.akamaihd.net
 0.0.0.0 supersonicads.com
-0.0.0.0 superstationcity.com
 0.0.0.0 supervisegoldfish.com
 0.0.0.0 supply.advangelists.com
 0.0.0.0 supplysummer.com
@@ -19597,6 +19595,7 @@
 0.0.0.0 user.trackpush.com
 0.0.0.0 userauth-appleid.ddns.net
 0.0.0.0 userdive.com
+0.0.0.0 usergtarca.com
 0.0.0.0 usersync.adpone.com
 0.0.0.0 usevideo.adsrvr.org
 0.0.0.0 ush.adspecs.yahoo.com
@@ -21214,6 +21213,7 @@
 0.0.0.0 www.adoperator.com
 0.0.0.0 www.adopexchange.com
 0.0.0.0 www.adoptim.com
+0.0.0.0 www.adorableanimaladventures.co.uk
 0.0.0.0 www.adorigin.com
 0.0.0.0 www.adorika.com
 0.0.0.0 www.adorika.net
@@ -21625,6 +21625,7 @@
 0.0.0.0 www.advaliant.com
 0.0.0.0 www.advanced-web-analytics.com
 0.0.0.0 www.advancedmaccleaner.com
+0.0.0.0 www.advancedreefaquarium.com
 0.0.0.0 www.advancelocal-adapter-image-uploads.s3.amazonaws.com
 0.0.0.0 www.advancets.org
 0.0.0.0 www.advangelists.com
@@ -22345,7 +22346,6 @@
 0.0.0.0 www.linksourcetrack.com
 0.0.0.0 www.live1powerlife.com
 0.0.0.0 www.lldiettracker.com
-0.0.0.0 www.loan-advisor.info
 0.0.0.0 www.logicalmodelvisible.com
 0.0.0.0 www.logly.co.jp
 0.0.0.0 www.logo-net.co.uk
@@ -22424,7 +22424,6 @@
 0.0.0.0 www.pipenv.org
 0.0.0.0 www.pivata.net
 0.0.0.0 www.pointclicktrack.com
-0.0.0.0 www.poo-logix.com
 0.0.0.0 www.porovname.cz
 0.0.0.0 www.postnewsads.com
 0.0.0.0 www.ppc-direct.com
