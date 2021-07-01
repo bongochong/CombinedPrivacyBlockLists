@@ -1,4 +1,4 @@
-# Wed Jun 30 03:19:34 AM UTC 2021
+# Thu Jul  1 11:24:38 PM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -2519,7 +2519,6 @@
 0.0.0.0 cdn.caprofitx.com
 0.0.0.0 cdn.clickfuse.com
 0.0.0.0 cdn.clinch.co
-0.0.0.0 cdn.cloud.altbalaji.com
 0.0.0.0 cdn.cmp.advertising.com
 0.0.0.0 cdn.comedia.coccoc.com
 0.0.0.0 cdn.concert.io
@@ -3642,6 +3641,7 @@
 0.0.0.0 ero-advertising.com
 0.0.0.0 err.izooto.com
 0.0.0.0 errlog.umeng.com
+0.0.0.0 errlogos.umeng.com
 0.0.0.0 error-collector.ted.com
 0.0.0.0 errors.client.optimizely.com
 0.0.0.0 ers.baidu.com
@@ -6042,6 +6042,7 @@
 0.0.0.0 pingfore.qq.com
 0.0.0.0 pingjs.qq.com
 0.0.0.0 pingma.qq.com
+0.0.0.0 pingtas.qq.com
 0.0.0.0 pingtcss.qq.com
 0.0.0.0 pinterest.adsymptotic.com
 0.0.0.0 pippio.com
