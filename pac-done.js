@@ -1,4 +1,4 @@
-// **** Wed Jun 30 03:22:48 AM UTC 2021
+// **** Thu Jul  1 11:34:12 PM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -1154,6 +1154,7 @@ shExpMatch(host, '*.ads.outpersonals.com') ||
 shExpMatch(host, '*.ads.oxyshop.cz') ||
 shExpMatch(host, '*.ads.p161.net') ||
 shExpMatch(host, '*.ads.passion.com') ||
+shExpMatch(host, '*.ads.paymonex.net') ||
 shExpMatch(host, '*.ads.pennet.com') ||
 shExpMatch(host, '*.ads.penny-arcade.com') ||
 shExpMatch(host, '*.ads.pexi.nl') ||
@@ -5678,6 +5679,7 @@ shExpMatch(host, '*.energeticladybug.com') ||
 shExpMatch(host, '*.energy-loot.com') ||
 shExpMatch(host, '*.engage.dnsfilter.com') ||
 shExpMatch(host, '*.engage.webshrinker.com') ||
+shExpMatch(host, '*.engage.windows.com') ||
 shExpMatch(host, '*.engagebdr.com') ||
 shExpMatch(host, '*.engine.awaps.net') ||
 shExpMatch(host, '*.engine.espace.netavenir.com') ||
@@ -13762,6 +13764,7 @@ shExpMatch(host, '*.sgs.us.com') ||
 shExpMatch(host, '*.sh-yuan.com') ||
 shExpMatch(host, '*.shadowfiend.info') ||
 shExpMatch(host, '*.shadyscamband.pw') ||
+shExpMatch(host, '*.shakegoldfish.com') ||
 shExpMatch(host, '*.shakesea.com') ||
 shExpMatch(host, '*.shakesuggestion.com') ||
 shExpMatch(host, '*.shakytaste.com') ||
@@ -18682,6 +18685,7 @@ shExpMatch(host, 'ads.outpersonals.com') ||
 shExpMatch(host, 'ads.oxyshop.cz') ||
 shExpMatch(host, 'ads.p161.net') ||
 shExpMatch(host, 'ads.passion.com') ||
+shExpMatch(host, 'ads.paymonex.net') ||
 shExpMatch(host, 'ads.pennet.com') ||
 shExpMatch(host, 'ads.penny-arcade.com') ||
 shExpMatch(host, 'ads.pexi.nl') ||
@@ -23206,6 +23210,7 @@ shExpMatch(host, 'energeticladybug.com') ||
 shExpMatch(host, 'energy-loot.com') ||
 shExpMatch(host, 'engage.dnsfilter.com') ||
 shExpMatch(host, 'engage.webshrinker.com') ||
+shExpMatch(host, 'engage.windows.com') ||
 shExpMatch(host, 'engagebdr.com') ||
 shExpMatch(host, 'engine.awaps.net') ||
 shExpMatch(host, 'engine.espace.netavenir.com') ||
@@ -31290,6 +31295,7 @@ shExpMatch(host, 'sgs.us.com') ||
 shExpMatch(host, 'sh-yuan.com') ||
 shExpMatch(host, 'shadowfiend.info') ||
 shExpMatch(host, 'shadyscamband.pw') ||
+shExpMatch(host, 'shakegoldfish.com') ||
 shExpMatch(host, 'shakesea.com') ||
 shExpMatch(host, 'shakesuggestion.com') ||
 shExpMatch(host, 'shakytaste.com') ||
