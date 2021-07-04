@@ -1,4 +1,4 @@
-# Thu Jul  1 11:24:38 PM UTC 2021
+# Sun Jul  4 07:44:36 PM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -298,7 +298,6 @@
 0.0.0.0 a8571253058.cdn.optimizely.com
 0.0.0.0 a94828c6a08d914296a1d178d1de5102.ulink.adjust.com
 0.0.0.0 a989617545.cdn.optimizely.com
-0.0.0.0 aa.online-metrix.net
 0.0.0.0 aamt.today.com
 0.0.0.0 aan.amazon-adsystem.com
 0.0.0.0 aan.amazon.co.jp
@@ -483,6 +482,7 @@
 0.0.0.0 adcanopus.offerstrack.net
 0.0.0.0 adcash.com
 0.0.0.0 adcdn.goo.ne.jp
+0.0.0.0 adcel.co
 0.0.0.0 adcel.vrvm.com
 0.0.0.0 adcfg.intowow.com
 0.0.0.0 adcolony.com
@@ -3167,7 +3167,6 @@
 0.0.0.0 cxense.com.edgekey.net
 0.0.0.0 cz-gmtdmp.mookie1.com
 0.0.0.0 d-sjc2.turn.com
-0.0.0.0 d.aa.online-metrix.net
 0.0.0.0 d.adroll.mgr.consensu.org
 0.0.0.0 d.adsplay.net
 0.0.0.0 d.adx.io
@@ -3506,7 +3505,6 @@
 0.0.0.0 e-prod-alb-e-us-east-1.adzerk.net
 0.0.0.0 e-ssl.apsalar.com
 0.0.0.0 e-vcdn.anthill.vn
-0.0.0.0 e.aa.online-metrix.net
 0.0.0.0 e.adhaven.com
 0.0.0.0 e.apsalar.com
 0.0.0.0 e.baidu.com
@@ -3666,7 +3664,6 @@
 0.0.0.0 ets-eu-west-1.track.smaato.net
 0.0.0.0 ets-us-east-1.track.smaato.net
 0.0.0.0 etsy.bttn.io
-0.0.0.0 eu-aa.online-metrix.net
 0.0.0.0 eu-ad.sam4m.com
 0.0.0.0 eu-analytics.sam4m.com
 0.0.0.0 eu-api.swrve.com
@@ -4202,21 +4199,13 @@
 0.0.0.0 gwx.adlibr.com
 0.0.0.0 gxb.mmstat.com
 0.0.0.0 gynax.com
-0.0.0.0 h-d3tracking.rbc.online-metrix.net
-0.0.0.0 h-ebay.online-metrix.net
-0.0.0.0 h-fidelity.online-metrix.net
-0.0.0.0 h-sdk.online-metrix.net
-0.0.0.0 h-signifyd.online-metrix.net
-0.0.0.0 h-tdcanada.online-metrix.net
 0.0.0.0 h.mobcells.com
-0.0.0.0 h.online-metrix.net
 0.0.0.0 h.parrable.com
 0.0.0.0 h12-media.com
 0.0.0.0 h250p-y3urn.ads.tremorhub.com
 0.0.0.0 h30-deploy.hiconversion.com
 0.0.0.0 h5.isnssdk.com
 0.0.0.0 h5.wannaplay.cn
-0.0.0.0 h6.online-metrix.net
 0.0.0.0 ha-api.pushwoosh.com
 0.0.0.0 ha.pushwoosh.com
 0.0.0.0 haaretz.pushwoosh.com
@@ -5748,6 +5737,7 @@
 0.0.0.0 offer.fyber.com
 0.0.0.0 offers.cdn.natpal.com
 0.0.0.0 offers.propellerads.com
+0.0.0.0 offerwall-adnative.com
 0.0.0.0 ofloc.map.baidu.com
 0.0.0.0 ofw-client-cdn.fyber.com
 0.0.0.0 olb.pns.kt.com
@@ -6473,7 +6463,6 @@
 0.0.0.0 rayjump.com
 0.0.0.0 rb.adnxs.com
 0.0.0.0 rbc.medialand.ru
-0.0.0.0 rbc.online-metrix.net
 0.0.0.0 rbnt.org
 0.0.0.0 rc-ext-geo.rlcdn.com
 0.0.0.0 rc.dxsvr.com
@@ -7686,7 +7675,6 @@
 0.0.0.0 sundaysky-partners.tremorhub.com
 0.0.0.0 sundaysky-sync-us.teads.tv
 0.0.0.0 superad2.com.sg
-0.0.0.0 superapp.msn.com
 0.0.0.0 supersonicads-a.akamaihd.net
 0.0.0.0 supersonicads.com
 0.0.0.0 survey.g.doubleclick.net
