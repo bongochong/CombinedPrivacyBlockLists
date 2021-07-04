@@ -1,4 +1,4 @@
-// **** Thu Jul  1 11:34:12 PM UTC 2021
+// **** Sun Jul  4 07:49:36 PM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -6485,7 +6485,6 @@ shExpMatch(host, '*.findbigsoftpack.cn') ||
 shExpMatch(host, '*.findbigurls.cn') ||
 shExpMatch(host, '*.findcheat.com') ||
 shExpMatch(host, '*.findcommerce.com') ||
-shExpMatch(host, '*.findepended.com') ||
 shExpMatch(host, '*.findfreefbcredits.com') ||
 shExpMatch(host, '*.findgmailpasswords.com') ||
 shExpMatch(host, '*.findhelp24.com') ||
@@ -11834,7 +11833,6 @@ shExpMatch(host, '*.openfreefile.com') ||
 shExpMatch(host, '*.opengamehack.com') ||
 shExpMatch(host, '*.openmarket.com') ||
 shExpMatch(host, '*.opentag-stats.qubit.com') ||
-shExpMatch(host, '*.openx.actvtech.com') ||
 shExpMatch(host, '*.openx.angelsgroup.org.uk') ||
 shExpMatch(host, '*.openx.blindferret.com') ||
 shExpMatch(host, '*.openx.cairo360.com') ||
@@ -13458,7 +13456,6 @@ shExpMatch(host, '*.s-telecharger.com') ||
 shExpMatch(host, '*.s.adroll.com') ||
 shExpMatch(host, '*.s1-adfly.com') ||
 shExpMatch(host, '*.s20dh7e9dh.com') ||
-shExpMatch(host, '*.s24hc8xzag.com') ||
 shExpMatch(host, '*.s268400504.onlinehome.us') ||
 shExpMatch(host, '*.s2d6.com') ||
 shExpMatch(host, '*.s4gvhd35.ru') ||
@@ -16142,7 +16139,6 @@ shExpMatch(host, '*.venturead.com') ||
 shExpMatch(host, '*.venturellas.com') ||
 shExpMatch(host, '*.venuschicago.com') ||
 shExpMatch(host, '*.venuspo.icu') ||
-shExpMatch(host, '*.verblife-3.co') ||
 shExpMatch(host, '*.verblife-4.co') ||
 shExpMatch(host, '*.verblife-5.co') ||
 shExpMatch(host, '*.verdaedevelopment.com') ||
@@ -16279,7 +16275,6 @@ shExpMatch(host, '*.vkonte.club') ||
 shExpMatch(host, '*.vkonte.live') ||
 shExpMatch(host, '*.vladimirlapshin.com') ||
 shExpMatch(host, '*.vmay.com') ||
-shExpMatch(host, '*.vmmpxl.com') ||
 shExpMatch(host, '*.vmpp.comule.com') ||
 shExpMatch(host, '*.vnb77.com') ||
 shExpMatch(host, '*.vod.dgcaili.com') ||
@@ -24016,7 +24011,6 @@ shExpMatch(host, 'findbigsoftpack.cn') ||
 shExpMatch(host, 'findbigurls.cn') ||
 shExpMatch(host, 'findcheat.com') ||
 shExpMatch(host, 'findcommerce.com') ||
-shExpMatch(host, 'findepended.com') ||
 shExpMatch(host, 'findfreefbcredits.com') ||
 shExpMatch(host, 'findgmailpasswords.com') ||
 shExpMatch(host, 'findhelp24.com') ||
@@ -29365,7 +29359,6 @@ shExpMatch(host, 'openfreefile.com') ||
 shExpMatch(host, 'opengamehack.com') ||
 shExpMatch(host, 'openmarket.com') ||
 shExpMatch(host, 'opentag-stats.qubit.com') ||
-shExpMatch(host, 'openx.actvtech.com') ||
 shExpMatch(host, 'openx.angelsgroup.org.uk') ||
 shExpMatch(host, 'openx.blindferret.com') ||
 shExpMatch(host, 'openx.cairo360.com') ||
@@ -30989,7 +30982,6 @@ shExpMatch(host, 's-telecharger.com') ||
 shExpMatch(host, 's.adroll.com') ||
 shExpMatch(host, 's1-adfly.com') ||
 shExpMatch(host, 's20dh7e9dh.com') ||
-shExpMatch(host, 's24hc8xzag.com') ||
 shExpMatch(host, 's268400504.onlinehome.us') ||
 shExpMatch(host, 's2d6.com') ||
 shExpMatch(host, 's4gvhd35.ru') ||
@@ -33673,7 +33665,6 @@ shExpMatch(host, 'venturead.com') ||
 shExpMatch(host, 'venturellas.com') ||
 shExpMatch(host, 'venuschicago.com') ||
 shExpMatch(host, 'venuspo.icu') ||
-shExpMatch(host, 'verblife-3.co') ||
 shExpMatch(host, 'verblife-4.co') ||
 shExpMatch(host, 'verblife-5.co') ||
 shExpMatch(host, 'verdaedevelopment.com') ||
@@ -33810,7 +33801,6 @@ shExpMatch(host, 'vkonte.club') ||
 shExpMatch(host, 'vkonte.live') ||
 shExpMatch(host, 'vladimirlapshin.com') ||
 shExpMatch(host, 'vmay.com') ||
-shExpMatch(host, 'vmmpxl.com') ||
 shExpMatch(host, 'vmpp.comule.com') ||
 shExpMatch(host, 'vnb77.com') ||
 shExpMatch(host, 'vod.dgcaili.com') ||
