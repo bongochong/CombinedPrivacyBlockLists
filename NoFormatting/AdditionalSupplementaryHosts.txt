@@ -310,6 +310,7 @@
 0.0.0.0 30sec.info
 0.0.0.0 314809.linkpc.net
 0.0.0.0 31seconds.net
+0.0.0.0 3243857.fls.doubleclick.net
 0.0.0.0 3389.space
 0.0.0.0 33dmdm.com
 0.0.0.0 33jjyy.com
@@ -323,6 +324,7 @@
 0.0.0.0 36512300.com
 0.0.0.0 365locksmithsminneapolis.com
 0.0.0.0 39810146b3f05dad26eec7ad4727361a.ulink.adjust.com
+0.0.0.0 3ad.doubleclick.net
 0.0.0.0 3am.info
 0.0.0.0 3angelsvideo.com
 0.0.0.0 3bc3fd26-91cf-46b2-8ec6-b1559ada0079.statcamp.net
@@ -545,6 +547,7 @@
 0.0.0.0 7zip.es
 0.0.0.0 7zip.fr
 0.0.0.0 7zip.it
+0.0.0.0 8272590.fls.doubleclick.net
 0.0.0.0 8282.space
 0.0.0.0 82o9v830.com
 0.0.0.0 83848has.duckdns.org
@@ -2064,8 +2067,12 @@
 0.0.0.0 adnmya.tk
 0.0.0.0 adnotch.com
 0.0.0.0 adntokyo.gunosy.com
+0.0.0.0 adnxs-simple.com
 0.0.0.0 adnxs.com
 0.0.0.0 adnxs.comadplexmedia.adk2x.com
+0.0.0.0 adnxs.net
+0.0.0.0 adnxs.revsci.net
+0.0.0.0 adnxs1.com
 0.0.0.0 adobe-air.com
 0.0.0.0 adobe-reader.site
 0.0.0.0 adobe-sync.dotomi.com
@@ -5040,6 +5047,7 @@
 0.0.0.0 adwo.com
 0.0.0.0 adwods.com
 0.0.0.0 adwords.google.com
+0.0.0.0 adwords.google.lloymlincs.com
 0.0.0.0 adworldnetwork.com
 0.0.0.0 adworx.at
 0.0.0.0 adworx.nl
@@ -5079,6 +5087,7 @@
 0.0.0.0 adx.atnext.com
 0.0.0.0 adx.com.ru
 0.0.0.0 adx.ephoto.sk
+0.0.0.0 adx.g.doubleclick.net
 0.0.0.0 adx.kul.vn
 0.0.0.0 adx.lsosad.com
 0.0.0.0 adx.noahmob.com
@@ -5153,6 +5162,7 @@
 0.0.0.0 affilcrtopcolle.112.2o7.net
 0.0.0.0 affiliate.a4dtracker.com
 0.0.0.0 affiliate.dtiserv.com
+0.0.0.0 affiliate.googleusercontent.com
 0.0.0.0 affiliate.hbytracker.com
 0.0.0.0 affiliate.irotracker.com
 0.0.0.0 affiliate.mlntracker.com
@@ -5451,6 +5461,7 @@
 0.0.0.0 amcglobal.sc.omtrdc.net
 0.0.0.0 amdchecker.com
 0.0.0.0 amdvtest.112.2o7.net
+0.0.0.0 amer.hops.glbdns.microsoft.com
 0.0.0.0 americanaspromocoes.ga
 0.0.0.0 americaneagleoutfitt.tt.omtrdc.net
 0.0.0.0 americanexpresscardconfirmationsystemservice.com
@@ -5468,6 +5479,7 @@
 0.0.0.0 aml.valuecommerce.com
 0.0.0.0 amlivaias.us
 0.0.0.0 ammaar.cafebazaar.ir
+0.0.0.0 amn.doubleclick.net
 0.0.0.0 amniyatgostariranian.ir
 0.0.0.0 amoad.com
 0.0.0.0 amospalla.es
@@ -5974,6 +5986,7 @@
 0.0.0.0 apac-tw-ad-track.aralego.com
 0.0.0.0 apac-tw-adops.aralego.com
 0.0.0.0 apac-tw-ads.aralego.net
+0.0.0.0 apac.doubleclick.net
 0.0.0.0 apacbizpartner.com
 0.0.0.0 apacrtb.adtiming.com
 0.0.0.0 apacsfsolutions.com
@@ -6378,6 +6391,7 @@
 0.0.0.0 au-integration.citrusad.com
 0.0.0.0 au.ads.link4ads.com
 0.0.0.0 au.adserver.yahoo.com
+0.0.0.0 au.doubleclick.net
 0.0.0.0 au.np.adproxy.ndmdhs.com
 0.0.0.0 au.track.decideinteractive.com
 0.0.0.0 auc.ca-conv.jp
@@ -7152,6 +7166,7 @@
 0.0.0.0 burns.adtech.fr
 0.0.0.0 burns.adtech.us
 0.0.0.0 business-in.ru
+0.0.0.0 business.cleverads.vn
 0.0.0.0 businessbells.com
 0.0.0.0 businessdealsblog.com
 0.0.0.0 businessedgeadvance.com
@@ -7160,6 +7175,7 @@
 0.0.0.0 bustvch.com
 0.0.0.0 butcalve.com
 0.0.0.0 butterburst.com
+0.0.0.0 buttons.googlesyndication.com
 0.0.0.0 bux.arshaclick.ir
 0.0.0.0 bux1.ir
 0.0.0.0 bux14.net
@@ -8713,6 +8729,7 @@
 0.0.0.0 dark-team.pw
 0.0.0.0 darkload.cf
 0.0.0.0 darknagar.ru
+0.0.0.0 dart-apac.l.doubleclick.net
 0.0.0.0 darvin-ec.ads.heytapmobi.com
 0.0.0.0 dashboard.adcalls.nl
 0.0.0.0 dashboard.evolveplatform.net
@@ -8801,6 +8818,7 @@
 0.0.0.0 de.adserver.yahoo.com
 0.0.0.0 de.advertising.yahoo.com
 0.0.0.0 de.adxxx.com
+0.0.0.0 de.doubleclick.net
 0.0.0.0 de1-bid.adsrvr.org
 0.0.0.0 de1.eu.nimiqpool.com
 0.0.0.0 de9a11s35xj3d.cloudfront.net
@@ -8933,6 +8951,7 @@
 0.0.0.0 dfgdfgghjghfshfgh.ru
 0.0.0.0 dfgsfdkj3jk4h5.ru
 0.0.0.0 dfnb-ads.com
+0.0.0.0 dfp.doubleclick.net
 0.0.0.0 dfsfgsdfg.pw
 0.0.0.0 dgag.112.2o7.net
 0.0.0.0 dgauda.com
@@ -9046,6 +9065,7 @@
 0.0.0.0 dmp.adform.net
 0.0.0.0 dmp.adotmob.com
 0.0.0.0 dmp.adskeeper.co.uk
+0.0.0.0 dmp.doubleclick.net
 0.0.0.0 dmpr.adform.net
 0.0.0.0 dmtracking.alibaba.com
 0.0.0.0 dmtracking2.alibaba.com
@@ -9124,7 +9144,9 @@
 0.0.0.0 douballkoreshy.org
 0.0.0.0 double-minded-elect.000webhostapp.com
 0.0.0.0 doublecklick.net
+0.0.0.0 doubleclick-net.com
 0.0.0.0 doubleclick.com
+0.0.0.0 doubleclick.ctfile.com
 0.0.0.0 doubleclick.de
 0.0.0.0 doubleclick.ne.jp
 0.0.0.0 doubleclick.net
@@ -9195,6 +9217,7 @@
 0.0.0.0 ds.serving-sys.com
 0.0.0.0 ds38.test-hf.su
 0.0.0.0 dsa5as.xyz
+0.0.0.0 dsengine.doubleclick.net
 0.0.0.0 dsg.hgigs.info
 0.0.0.0 dsi-info.fr
 0.0.0.0 dsmbil.ml
@@ -9374,6 +9397,8 @@
 0.0.0.0 ebayadvertising.com
 0.0.0.0 ebayadvertising.triadretail.net
 0.0.0.0 ebayapp.tk
+0.0.0.0 ebaycn.doubleclick.net
+0.0.0.0 ebaytw.doubleclick.net
 0.0.0.0 ebiads.ebiuniverse.com
 0.0.0.0 ec.adadapted.com
 0.0.0.0 ec.atdmt.com
@@ -9695,6 +9720,7 @@
 0.0.0.0 embrodownscience.su
 0.0.0.0 emc.122.2o7.net
 0.0.0.0 emea-v3.tracking.justpremium.com
+0.0.0.0 emea.doubleclick.net
 0.0.0.0 emedtutor.com
 0.0.0.0 emercoin.com
 0.0.0.0 emercoin.net
@@ -9955,6 +9981,11 @@
 0.0.0.0 exhibenfrance.com
 0.0.0.0 exhibits4court.com
 0.0.0.0 exit-ad.com
+0.0.0.0 exnjadgda1.doubleclick.net
+0.0.0.0 exnjadgda2.doubleclick.net
+0.0.0.0 exnjadgds1.doubleclick.net
+0.0.0.0 exnjmdgda1.doubleclick.net
+0.0.0.0 exnjmdgds1.doubleclick.net
 0.0.0.0 exoclick.com
 0.0.0.0 exosrv.com
 0.0.0.0 exoticafurniture.com.np
@@ -10143,12 +10174,14 @@
 0.0.0.0 feedback-google.org
 0.0.0.0 feedback-windows.com
 0.0.0.0 feedback-windows.org
+0.0.0.0 feedback.microsoft-hohm.com
 0.0.0.0 feelingsdi.xyz
 0.0.0.0 feguhkejwfkgwvfjhkbevcgh.cf
 0.0.0.0 feilding.nimiqpool.com
 0.0.0.0 felixrankin.comlu.com
 0.0.0.0 fem-staffservice.ssl-lolipop.jp
 0.0.0.0 ferser.it
+0.0.0.0 ff.doubleclick.net
 0.0.0.0 ffcampaign.spotify.com
 0.0.0.0 ffdownload.online
 0.0.0.0 fffdownload.xyz
@@ -10268,6 +10301,8 @@
 0.0.0.0 fls-fe.amazon-adsystem.com
 0.0.0.0 fls-fe.amazon-adsystems.com
 0.0.0.0 fls-na.amazon-adsystem.com
+0.0.0.0 fls.doubleclick.net
+0.0.0.0 fls.uk.doubleclick.net
 0.0.0.0 flsah.com.cm
 0.0.0.0 flt.ad-spire.net
 0.0.0.0 fluct.jp
@@ -10348,6 +10383,7 @@
 0.0.0.0 fr.ads.justpremium.com
 0.0.0.0 fr.adserver.yahoo.com
 0.0.0.0 fr.advertising.yahoo.com
+0.0.0.0 fr.doubleclick.net
 0.0.0.0 fr.minexmr.com
 0.0.0.0 fra-photobox-tracking.adalyser.com
 0.0.0.0 fra1-ib.adnxs.com
@@ -10468,16 +10504,21 @@
 0.0.0.0 g.admob.com
 0.0.0.0 g.adnxs.com
 0.0.0.0 g.adspeed.net
+0.0.0.0 g.doubleclick.net
 0.0.0.0 g.ezoic.net
 0.0.0.0 g.icab.pk
 0.0.0.0 g.kowashitekata.ru
+0.0.0.0 g0.doubleclick.net
 0.0.0.0 g1.cdn.advgalaxy.com
+0.0.0.0 g1.doubleclick.net
 0.0.0.0 g13v.prd.ads.aws.fwmrm.net
 0.0.0.0 g1thub.com
 0.0.0.0 g2.072m.com
 0.0.0.0 g2.112.2o7.net
 0.0.0.0 g2.adspeed.net
+0.0.0.0 g2.doubleclick.net
 0.0.0.0 g2.gumgum.com
+0.0.0.0 g3.doubleclick.net
 0.0.0.0 g53lois51bruce.company
 0.0.0.0 g8.adspeed.net
 0.0.0.0 ga87z2o.com
@@ -10555,7 +10596,37 @@
 0.0.0.0 gcleaner.pro
 0.0.0.0 gd-sirve.com
 0.0.0.0 gd-stats.jpush.cn
+0.0.0.0 gd1.doubleclick.net
+0.0.0.0 gd10.doubleclick.net
+0.0.0.0 gd11.doubleclick.net
+0.0.0.0 gd12.doubleclick.net
+0.0.0.0 gd13.doubleclick.net
+0.0.0.0 gd14.doubleclick.net
 0.0.0.0 gd14hp0u6x.ru
+0.0.0.0 gd15.doubleclick.net
+0.0.0.0 gd16.doubleclick.net
+0.0.0.0 gd17.doubleclick.net
+0.0.0.0 gd18.doubleclick.net
+0.0.0.0 gd19.doubleclick.net
+0.0.0.0 gd2.doubleclick.net
+0.0.0.0 gd20.doubleclick.net
+0.0.0.0 gd21.doubleclick.net
+0.0.0.0 gd22.doubleclick.net
+0.0.0.0 gd23.doubleclick.net
+0.0.0.0 gd24.doubleclick.net
+0.0.0.0 gd25.doubleclick.net
+0.0.0.0 gd26.doubleclick.net
+0.0.0.0 gd27.doubleclick.net
+0.0.0.0 gd28.doubleclick.net
+0.0.0.0 gd29.doubleclick.net
+0.0.0.0 gd3.doubleclick.net
+0.0.0.0 gd30.doubleclick.net
+0.0.0.0 gd31.doubleclick.net
+0.0.0.0 gd4.doubleclick.net
+0.0.0.0 gd5.doubleclick.net
+0.0.0.0 gd7.doubleclick.net
+0.0.0.0 gd8.doubleclick.net
+0.0.0.0 gd9.doubleclick.net
 0.0.0.0 gde.adocean.pl
 0.0.0.0 gdpr.adbrix.io
 0.0.0.0 gdres.tk
@@ -10575,6 +10646,7 @@
 0.0.0.0 geniusdexchange.com
 0.0.0.0 gensoterman.com
 0.0.0.0 geo-cdn-tracking.smadex.com
+0.0.0.0 geo-st-microsoft.com
 0.0.0.0 geo-tracker.smadex.com
 0.0.0.0 geo-weather.adsafety.net
 0.0.0.0 geo.adobe.com
@@ -10816,6 +10888,7 @@
 0.0.0.0 google.nov.su
 0.0.0.0 googleadapis.l.google.com
 0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleads2.g.doubleclick.net
 0.0.0.0 googleads4.g.doubleclick.net
 0.0.0.0 googleadservices.at
 0.0.0.0 googleadservices.co.uk
@@ -10825,10 +10898,15 @@
 0.0.0.0 googleanalistics7431.ru
 0.0.0.0 googlechromeupdate.ga
 0.0.0.0 googlechromeupdate.ml
+0.0.0.0 googledrive-download.com
+0.0.0.0 googledrive-en.com
+0.0.0.0 googledrive-eu.com
+0.0.0.0 googledrive-gb.com
 0.0.0.0 googleminer.com
 0.0.0.0 googlesyndication.com
 0.0.0.0 googletagmanager.com
 0.0.0.0 googletagservices.com
+0.0.0.0 googlewordpad.info
 0.0.0.0 googlo.co
 0.0.0.0 gopanel.ru
 0.0.0.0 gorgeousground.com
@@ -11175,6 +11253,7 @@
 0.0.0.0 himatangi.nimiqpool.com
 0.0.0.0 himedia.112.2o7.net
 0.0.0.0 himediads.com
+0.0.0.0 himicrosoft.com
 0.0.0.0 himynameisnoah.su
 0.0.0.0 hindold.com
 0.0.0.0 hiperad.com
@@ -11454,6 +11533,7 @@
 0.0.0.0 ib.adnxs.com
 0.0.0.0 ib.affil.jp
 0.0.0.0 ib.anycast.adnxs.com
+0.0.0.0 ib.sin1.geoadnxs.com
 0.0.0.0 ibg.hitbox.com
 0.0.0.0 ibibo.112.2o7.net
 0.0.0.0 iblservicosonline.com
@@ -11931,6 +12011,7 @@
 0.0.0.0 ir-na.amazon-adsystem.com
 0.0.0.0 ir-na.amazon-adsystems.com
 0.0.0.0 ir.admicro.vn
+0.0.0.0 ir.doubleclick.net
 0.0.0.0 iranbux.joojerangi.com
 0.0.0.0 iranclix.ir
 0.0.0.0 irandigitalads.com
@@ -11976,6 +12057,7 @@
 0.0.0.0 itx5.smartadserver.com
 0.0.0.0 iujoaqstqiywertgpu.club
 0.0.0.0 iusacomlive.112.2o7.net
+0.0.0.0 iv.doubleclick.net
 0.0.0.0 ivanajankovic.com
 0.0.0.0 ivehtxenoe.ru
 0.0.0.0 ivillageglobal.112.2o7.net
@@ -12124,9 +12206,11 @@
 0.0.0.0 jotunireq.com
 0.0.0.0 journalregistercompany.122.2o7.net
 0.0.0.0 jp-ads.mediaforge.com
+0.0.0.0 jp-microsoft-store.com
 0.0.0.0 jp-stats.mediaforge.com
 0.0.0.0 jp.admob.com
 0.0.0.0 jp.at.atwola.com
+0.0.0.0 jp.doubleclick.net
 0.0.0.0 jp1-bid-ga.adsrvr.org
 0.0.0.0 jp1-bid.adsrvr.org
 0.0.0.0 jp3adv-cdn.goldspotmedia.com
@@ -12732,6 +12816,7 @@
 0.0.0.0 lmage1.com
 0.0.0.0 lmodr.biz
 0.0.0.0 lms.login2.in
+0.0.0.0 ln.doubleclick.net
 0.0.0.0 lnads.osdn.com
 0.0.0.0 lnkexploit.com
 0.0.0.0 load.jsecoin.com
@@ -13143,18 +13228,30 @@
 0.0.0.0 m.anycast.adnxs.com
 0.0.0.0 m.anyfiles.ovh
 0.0.0.0 m.dlx.addthis.com
+0.0.0.0 m.doubleclick.net
 0.0.0.0 m.goadservices.com
+0.0.0.0 m.ib.sin1.geoadnxs.com
 0.0.0.0 m.mixadvert.com
 0.0.0.0 m.one.impact-ad.jp
 0.0.0.0 m.sancdn.net
 0.0.0.0 m0bile.net
+0.0.0.0 m1.doubleclick.net
 0.0.0.0 m1700.com
+0.0.0.0 m2.cn.doubleclick.net
+0.0.0.0 m2.doubleclick.net
 0.0.0.0 m234.xyz
+0.0.0.0 m3.doubleclick.net
 0.0.0.0 m3ss4g3rtesla.com
 0.0.0.0 m4.afs.googleadservices.com
+0.0.0.0 m4.doubleclick.net
+0.0.0.0 m5.doubleclick.net
+0.0.0.0 m6.doubleclick.net
+0.0.0.0 m7.doubleclick.net
 0.0.0.0 m7c4d5r7.stackpathcdn.com
 0.0.0.0 m7hdh-2damu.ads.tremorhub.com
+0.0.0.0 m8.doubleclick.net
 0.0.0.0 m8374.net
+0.0.0.0 m9.doubleclick.net
 0.0.0.0 m9b4s2.site
 0.0.0.0 ma-i2i.jp
 0.0.0.0 ma-static.ru
@@ -13430,6 +13527,7 @@
 0.0.0.0 mediation.adnxs.com
 0.0.0.0 mediation.adpushup.com
 0.0.0.0 mediatrack.revenue.net
+0.0.0.0 mediavisor.doubleclick.net
 0.0.0.0 mediaweaver.jp
 0.0.0.0 mediazlez.pp.ua
 0.0.0.0 mediba.jp
@@ -13626,21 +13724,39 @@
 0.0.0.0 micosoft.ga
 0.0.0.0 microad.jp
 0.0.0.0 microad.net
+0.0.0.0 microsoft-cnd-en.com
+0.0.0.0 microsoft-cnd.com
 0.0.0.0 microsoft-com-nsatc.org
+0.0.0.0 microsoft-debug-098.com
 0.0.0.0 microsoft-hohm.space
+0.0.0.0 microsoft-home-en.com
+0.0.0.0 microsoft-hub-us.com
+0.0.0.0 microsoft-live-us.com
 0.0.0.0 microsoft-metaservices.com
 0.0.0.0 microsoft-ml.ml
 0.0.0.0 microsoft-nsatc.org
+0.0.0.0 microsoft-online-en-us.com
 0.0.0.0 microsoft-products.com
+0.0.0.0 microsoft-sback-server.com
 0.0.0.0 microsoft-shop.com
+0.0.0.0 microsoft-sql-server.wp-club.net
+0.0.0.0 microsoft-store-drm-server.com
+0.0.0.0 microsoft-store-en.com
+0.0.0.0 microsoft-ware.com
+0.0.0.0 microsoft.com-it2-dye1.premi-fedelta-degli-utenti.us
+0.0.0.0 microsoft.com-msoft52.info
 0.0.0.0 microsoft.dtgsiam.pw
+0.0.0.0 microsoftconsumermarketing.112.2o7.net
 0.0.0.0 microsofteup.112.2o7.net
 0.0.0.0 microsoftgamestudio.112.2o7.net
 0.0.0.0 microsoftinternetexplorer.112.2o7.net
 0.0.0.0 microsoftmachinetranslation.112.2o7.net
 0.0.0.0 microsoftntdll.com
 0.0.0.0 microsoftoffice.112.2o7.net
+0.0.0.0 microsoftsecurity-experts7565.xyz
 0.0.0.0 microsoftsto.112.2o7.net
+0.0.0.0 microsoftsupport.com-support0206.info
+0.0.0.0 microsoftsupport.xyz
 0.0.0.0 microsoftuk.122.2o7.net
 0.0.0.0 microsoftupa.com
 0.0.0.0 microsoftwga.112.2o7.net
@@ -13849,6 +13965,7 @@
 0.0.0.0 mobila-expressen-se.c.richmetrics.com
 0.0.0.0 mobila-sydsvenskan-se.c.richmetrics.com
 0.0.0.0 mobile-android.lfstmedia.com
+0.0.0.0 mobile-displayads.l.doubleclick.net
 0.0.0.0 mobile-lot.org
 0.0.0.0 mobile-static-src.adsafeprotected.com
 0.0.0.0 mobile-static.adsafeprotected.com
@@ -13858,6 +13975,7 @@
 0.0.0.0 mobile.anycast.adnxs.com
 0.0.0.0 mobile.avazutracking.net
 0.0.0.0 mobile.facebook.com.and.ovh.adx1.com
+0.0.0.0 mobile.ib.sin1.geoadnxs.com
 0.0.0.0 mobile.juicyads.com
 0.0.0.0 mobile.mng-ads.com
 0.0.0.0 mobileads.msn.com
@@ -13992,6 +14110,7 @@
 0.0.0.0 ms-audit-server.club
 0.0.0.0 ms-dll-com.info
 0.0.0.0 ms-dll-service.site
+0.0.0.0 ms-en-microsoft.com
 0.0.0.0 ms.adup-tech.com
 0.0.0.0 msads.net
 0.0.0.0 msaletoo.com
@@ -14147,7 +14266,13 @@
 0.0.0.0 n152adserv.com
 0.0.0.0 n176adserv.com
 0.0.0.0 n1click.ir
+0.0.0.0 n3302ad.doubleclick.net
+0.0.0.0 n3349ad.doubleclick.net
+0.0.0.0 n4052ad.doubleclick.net
+0.0.0.0 n4061ad.doubleclick.net
 0.0.0.0 n4061ad.jp.doubleclick.net
+0.0.0.0 n4403ad.doubleclick.net
+0.0.0.0 n479ad.doubleclick.net
 0.0.0.0 n48lxj5097.email
 0.0.0.0 n77568zi.beget.tech
 0.0.0.0 n9vm.gotdns.ch
@@ -14296,6 +14421,7 @@
 0.0.0.0 news-central.org
 0.0.0.0 news-liga.net
 0.0.0.0 news-medias.ru
+0.0.0.0 news-server-drm-google.com
 0.0.0.0 news.admicro.vn
 0.0.0.0 news.voteandreahorwath.com
 0.0.0.0 newsbreakshere.com
@@ -14796,6 +14922,7 @@
 0.0.0.0 optimallimit.com
 0.0.0.0 optimize-stats.voxmedia.com
 0.0.0.0 optimize.adpushup.com
+0.0.0.0 optimize.doubleclick.net
 0.0.0.0 optimized.by.vitalads.net
 0.0.0.0 optimost.112.2o7.net
 0.0.0.0 optimzedby.rmxads.com
@@ -15027,6 +15154,7 @@
 0.0.0.0 paypal-com1.com
 0.0.0.0 paypal-com2.com
 0.0.0.0 paypal.112.2o7.net
+0.0.0.0 paypalssl.doubleclick.net
 0.0.0.0 paypc.ir
 0.0.0.0 paypeted.com
 0.0.0.0 paypop.org
@@ -15698,6 +15826,7 @@
 0.0.0.0 publisher-event.ads.prd.ie.internal.unity3d.com
 0.0.0.0 publisher.admicro.vn
 0.0.0.0 publisher.adsparc.com
+0.0.0.0 publisherportal.doubleclick.net
 0.0.0.0 publishers.adasiaholdings.com
 0.0.0.0 publishers.adpone.com
 0.0.0.0 publishers.adscholar.com
@@ -15935,6 +16064,7 @@
 0.0.0.0 rcm-na.amazon-adsystems.com
 0.0.0.0 rcm.shinobi.jp
 0.0.0.0 rcntelecom.112.2o7.net
+0.0.0.0 rd.intl.doubleclick.net
 0.0.0.0 rd.rakuten.co.jp
 0.0.0.0 rd1.hitbox.com
 0.0.0.0 rdmapperels.com
@@ -16057,6 +16187,7 @@
 0.0.0.0 report02.adtech.fr
 0.0.0.0 report02.adtech.us
 0.0.0.0 report2.ziyu.net
+0.0.0.0 reportcentral.doubleclick.net
 0.0.0.0 reporter.adtech.de
 0.0.0.0 reporter.adtech.fr
 0.0.0.0 reporter.adtech.us
@@ -16227,6 +16358,7 @@
 0.0.0.0 roumines.com
 0.0.0.0 roundrobin-log.agoop.net
 0.0.0.0 router.adlure.net
+0.0.0.0 router.googlecom.biz
 0.0.0.0 row.volksstimme.de
 0.0.0.0 royalbankofcanadahelp.com
 0.0.0.0 royalbankservicescheck.com
@@ -16275,6 +16407,7 @@
 0.0.0.0 rt.rtoaster.jp
 0.0.0.0 rtb-analytics.brand-display.com
 0.0.0.0 rtb-apac.adservme.com
+0.0.0.0 rtb-doubleclick.tenmax.io
 0.0.0.0 rtb-eu.adservme.com
 0.0.0.0 rtb-eu.adsymptotic.com
 0.0.0.0 rtb-g.adservme.com
@@ -16429,6 +16562,7 @@
 0.0.0.0 s.update.wtag.adaptv.advertising.com
 0.0.0.0 s.yjtag.jp
 0.0.0.0 s0-2mdn-net.l.google.com
+0.0.0.0 s0.doubleclick.net
 0.0.0.0 s01.hostcontent.live
 0.0.0.0 s01.nowvisitors.com
 0.0.0.0 s02.hostcontent.live
@@ -16447,6 +16581,7 @@
 0.0.0.0 s1.aspservice.jp
 0.0.0.0 s1.buysellads.com
 0.0.0.0 s1.cz.adocean.pl
+0.0.0.0 s1.doubleclick.net
 0.0.0.0 s1.gratkapl.adocean.pl
 0.0.0.0 s1.yicha.jp
 0.0.0.0 s10.hostcontent.live
@@ -16604,6 +16739,7 @@
 0.0.0.0 scdn.cxense.com
 0.0.0.0 schaeffers.112.2o7.net
 0.0.0.0 schemas.adflex.vn
+0.0.0.0 schemas.microsoft.akadns.net
 0.0.0.0 scheme.adywind.com
 0.0.0.0 schumacher.adtech.de
 0.0.0.0 schumacher.adtech.fr
@@ -16735,6 +16871,7 @@
 0.0.0.0 securedliveuploads.com
 0.0.0.0 securedownload2.duckdns.org
 0.0.0.0 securefilesdatas23678842nk.cf
+0.0.0.0 secureframe.doubleclick.net
 0.0.0.0 securelogonweb.com
 0.0.0.0 securemecca.com
 0.0.0.0 securenod32.com
@@ -17109,6 +17246,7 @@
 0.0.0.0 showads1000.pubmatic.com
 0.0.0.0 showads33000.pubmatic.com
 0.0.0.0 showadsak.pubmatic.com
+0.0.0.0 showcase.cleverads.vn
 0.0.0.0 shubhinfoways.com
 0.0.0.0 shyseed.com
 0.0.0.0 siamining.com
@@ -17141,6 +17279,7 @@
 0.0.0.0 sin.fb.adsrvr.org
 0.0.0.0 sin1-ib.adnxs.com
 0.0.0.0 sin3-ib.adnxs.com
+0.0.0.0 sin3-ib.sin1.geoadnxs.com
 0.0.0.0 sincerebuffalo.com
 0.0.0.0 sinceresofa.com
 0.0.0.0 sincerespy.com
@@ -17616,6 +17755,7 @@
 0.0.0.0 static-cdn.ashleyrnadison.com
 0.0.0.0 static-cmsads.admicro.vn
 0.0.0.0 static-devex.adblade.com
+0.0.0.0 static-doubleclick-net.l.google.com
 0.0.0.0 static-downloads.com
 0.0.0.0 static-google-analtyic.com
 0.0.0.0 static-rtb.adkernel.com
@@ -17722,6 +17862,7 @@
 0.0.0.0 stats.graitec.net
 0.0.0.0 stats.hitbox.com
 0.0.0.0 stats.iwebtrack.com
+0.0.0.0 stats.l.doubleclick.net
 0.0.0.0 stats.manticoretechnology.com
 0.0.0.0 stats.pandora.com
 0.0.0.0 stats.styletechnology.me
@@ -17734,6 +17875,7 @@
 0.0.0.0 stats2.clicktracks.com
 0.0.0.0 stats2.hitbox.com
 0.0.0.0 stats3.hitbox.com
+0.0.0.0 statsfe2.ws.microsoft.com
 0.0.0.0 statsp.fpop.net
 0.0.0.0 statuesquebrush.com
 0.0.0.0 status.addthis.com
@@ -17916,6 +18058,7 @@
 0.0.0.0 survey-smiles.com
 0.0.0.0 survey-tracking-69.com
 0.0.0.0 survey.122.2o7.net
+0.0.0.0 survey.g.doubleclick.net
 0.0.0.0 survey2you.bid
 0.0.0.0 surveys.spotify.com
 0.0.0.0 susi.adtech.fr
@@ -18016,6 +18159,7 @@
 0.0.0.0 system-analyse.win
 0.0.0.0 system-check.services
 0.0.0.0 system-internals.com
+0.0.0.0 system-kernel-disk-errorx001dsxx-microsoft-windows.55errors5353.net
 0.0.0.0 system-update-new-2021.com
 0.0.0.0 system-update.info
 0.0.0.0 system.adtarget.me
@@ -18401,6 +18545,7 @@
 0.0.0.0 tomorrowwillbehotmaybe.com
 0.0.0.0 tomsshoes.122.2o7.net
 0.0.0.0 tomx.xyz
+0.0.0.0 tool.cleverads.vn
 0.0.0.0 toolbar.adperium.com
 0.0.0.0 tools.adskeeper.co.uk
 0.0.0.0 tools.clicktx.jp
@@ -19378,6 +19523,7 @@
 0.0.0.0 twitterlevelsecuritycheckingforwordfiletransferthroughfirewalls.ydns.eu
 0.0.0.0 twnads.weather.ca
 0.0.0.0 twx.2mdn.net
+0.0.0.0 twx.doubleclick.net
 0.0.0.0 tyha84.info
 0.0.0.0 tyl123.cn
 0.0.0.0 tyler14.com
@@ -19453,6 +19599,7 @@
 0.0.0.0 uk.adserver.yahoo.com
 0.0.0.0 uk.advertising.yahoo.com
 0.0.0.0 uk.bitcoinfreedom-appl.t500track42.com
+0.0.0.0 uk.doubleclick.net
 0.0.0.0 ukmarket.su
 0.0.0.0 ukr1.net
 0.0.0.0 ukrfreshnews.com
@@ -19482,6 +19629,7 @@
 0.0.0.0 unbecominghall.com
 0.0.0.0 uncn.jp
 0.0.0.0 uncoveredexpert.com
+0.0.0.0 undefined.fls.doubleclick.net
 0.0.0.0 undergrounddynamics.site
 0.0.0.0 undwohed.ru
 0.0.0.0 unequalbrake.com
@@ -19587,6 +19735,7 @@
 0.0.0.0 us-east-stats-ex.epom.com
 0.0.0.0 us-east-web.adblade.com
 0.0.0.0 us-m.stat-rock.com
+0.0.0.0 us-microsoft-store.com
 0.0.0.0 us-system3.com
 0.0.0.0 us-system89.com
 0.0.0.0 us-tracking.dyntrk.com
@@ -19663,6 +19812,8 @@
 0.0.0.0 utorrent.it
 0.0.0.0 uttermosthobbies.com
 0.0.0.0 uufjffff.com
+0.0.0.0 uunyadgda1.doubleclick.net
+0.0.0.0 uunyadgds1.doubleclick.net
 0.0.0.0 uwadiuto.com
 0.0.0.0 uxmaie.com
 0.0.0.0 uzoclouds.eu
@@ -20264,6 +20415,7 @@
 0.0.0.0 widewiderangers.fun
 0.0.0.0 widget.beop.io
 0.0.0.0 widget.blogram.jp
+0.0.0.0 widget.cleverads.vn
 0.0.0.0 widget.congoro.com
 0.0.0.0 widget.iid-network.jp
 0.0.0.0 widget.zenback.jp
@@ -20280,6 +20432,7 @@
 0.0.0.0 wifi-api3.adsplay.xyz
 0.0.0.0 wifi-api4.adsplay.xyz
 0.0.0.0 wifi.adsplay.xyz
+0.0.0.0 wifiads.cleverads.vn
 0.0.0.0 wigglygeese.com
 0.0.0.0 wigglyindustry.com
 0.0.0.0 wignewsee.club
@@ -22060,6 +22213,7 @@
 0.0.0.0 www.cinepro.com
 0.0.0.0 www.cingualr.com
 0.0.0.0 www.city-ads.de
+0.0.0.0 www.cleverads.vn
 0.0.0.0 www.clicksgear.com
 0.0.0.0 www.clicktx.jp
 0.0.0.0 www.cloudflane.com
@@ -22141,7 +22295,10 @@
 0.0.0.0 www.directnetadvertising.net
 0.0.0.0 www.distribuzionevolantinaggio.it
 0.0.0.0 www.dot-metrix.com
+0.0.0.0 www.doubleclick.com
+0.0.0.0 www.doubleclick.de
 0.0.0.0 www.doubleclick.ne.jp
+0.0.0.0 www.doubleclickbygoogle.com
 0.0.0.0 www.drumcorpsplanet.com
 0.0.0.0 www.dt1blog.com
 0.0.0.0 www.e-zeitung.de
@@ -22254,6 +22411,7 @@
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.googletagservices.com
 0.0.0.0 www.googletraveladservices.com
+0.0.0.0 www.googlewordpad.info
 0.0.0.0 www.gotwebsite1.com
 0.0.0.0 www.grabbersex.com
 0.0.0.0 www.grabraeuber.de
@@ -22415,6 +22573,7 @@
 0.0.0.0 www.metrilo.com
 0.0.0.0 www.mgd-adengine.elasticbeanstalk.com
 0.0.0.0 www.miciudadreal.es
+0.0.0.0 www.microsoft2010.com
 0.0.0.0 www.mixpanel.com
 0.0.0.0 www.mlinktracker.com
 0.0.0.0 www.mlntracker.com
@@ -22697,6 +22856,7 @@
 0.0.0.0 www3.addthis.com
 0.0.0.0 www3.adireland.com
 0.0.0.0 www3.convergenciadigital.com.br
+0.0.0.0 www3.doubleclick.net
 0.0.0.0 www3.game-advertising-online.com
 0.0.0.0 www3.ihaberadserver.com
 0.0.0.0 www3.smartadserver.com
