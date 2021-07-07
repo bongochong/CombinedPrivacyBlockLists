@@ -679,6 +679,7 @@
 0.0.0.0 a.one.impact-ad.jp
 0.0.0.0 a.overlay.top
 0.0.0.0 a.realsrv.com
+0.0.0.0 a.scorecardresearch.com
 0.0.0.0 a.shopserve.jp
 0.0.0.0 a.stat.xiaomi.com
 0.0.0.0 a.t.webtracker.jp
@@ -717,6 +718,7 @@
 0.0.0.0 a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com
 0.0.0.0 a4.adsplay.xyz
 0.0.0.0 a460.cell.phone.ringtone.samsung.sms13.de
+0.0.0.0 a50.g2.akamai.net
 0.0.0.0 a50625ja.beget.tech
 0.0.0.0 a5e652663674a11e997c60ac8a4ec150-1684524385.eu-central-1.elb.amazonaws.com
 0.0.0.0 a796faee-7163-4757-a34f-e5b48cada4cb.statcamp.net
@@ -778,6 +780,7 @@
 0.0.0.0 abc-ads.com
 0.0.0.0 abc.logly.co.jp
 0.0.0.0 abc.pema.cl
+0.0.0.0 abcd.mdc.akamaized.net
 0.0.0.0 abcdserver.com
 0.0.0.0 abclauncher.com
 0.0.0.0 abcotv.hb.omtrdc.net
@@ -1653,6 +1656,7 @@
 0.0.0.0 ad4.candy-network.com
 0.0.0.0 ad4.com.cn
 0.0.0.0 ad4.i2i.jp
+0.0.0.0 ad4game-a.akamaihd.net
 0.0.0.0 ad4game.com
 0.0.0.0 ad4mat-3cab.kxcdn.com
 0.0.0.0 ad4push.com
@@ -3254,7 +3258,6 @@
 0.0.0.0 ads.realtechnetwork.net
 0.0.0.0 ads.reason.com
 0.0.0.0 ads.recoletos.es
-0.0.0.0 ads.reddit.com
 0.0.0.0 ads.rediff.com
 0.0.0.0 ads.redlightcenter.com
 0.0.0.0 ads.redorbit.com
@@ -5169,6 +5172,7 @@
 0.0.0.0 afrimarinecharter.com
 0.0.0.0 aftabclix.com
 0.0.0.0 afte.mopo.jp
+0.0.0.0 ag1.hitbox.com
 0.0.0.0 agamgreetingscom.112.2o7.net
 0.0.0.0 agbmcom.112.2o7.net
 0.0.0.0 agegreetings.112.2o7.net
@@ -5184,6 +5188,10 @@
 0.0.0.0 agwebshots.112.2o7.net
 0.0.0.0 agyahooag.112.2o7.net
 0.0.0.0 ahasex.de
+0.0.0.0 ahbn1.hitbox.com
+0.0.0.0 ahbn2.hitbox.com
+0.0.0.0 ahbn3.hitbox.com
+0.0.0.0 ahbn4.hitbox.com
 0.0.0.0 aheadday.com
 0.0.0.0 ahgsuy3829.top
 0.0.0.0 ahlehup.club
@@ -5191,6 +5199,9 @@
 0.0.0.0 ahzahg6ohb.com
 0.0.0.0 ai-personalization-prod-static.demandbase.com
 0.0.0.0 ai.hitbox.com
+0.0.0.0 aibg.hitbox.com
+0.0.0.0 aibl.hitbox.com
+0.0.0.0 aics.hitbox.com
 0.0.0.0 aid-ad.jp
 0.0.0.0 aid.send.microad.jp
 0.0.0.0 aidps.atdmt.com
@@ -5206,6 +5217,7 @@
 0.0.0.0 aisioy.xyz
 0.0.0.0 aisohcaehi.co.vu
 0.0.0.0 aitlsbh.com
+0.0.0.0 aiui.hitbox.com
 0.0.0.0 aja-recommend.com
 0.0.0.0 ajansyenimedya.com
 0.0.0.0 ajinomoto.d1.sc.omtrdc.net
@@ -5224,7 +5236,11 @@
 0.0.0.0 akadns-ms.net
 0.0.0.0 akaflieg-sb.de
 0.0.0.0 akama.com
+0.0.0.0 akamai-pubmatic.mathtag.com
 0.0.0.0 akamai.invitemedia.com
+0.0.0.0 akamai.mathtag.com
+0.0.0.0 akamai.smartadserver.com
+0.0.0.0 akamai.vungle-cdn.vungle.com
 0.0.0.0 akariyer.com
 0.0.0.0 akcr.free.fr
 0.0.0.0 akhbarrecords.com
@@ -6062,6 +6078,7 @@
 0.0.0.0 api.ranking.rakuten.co.jp
 0.0.0.0 api.redshell.io
 0.0.0.0 api.repro.io
+0.0.0.0 api.scorecardresearch.com
 0.0.0.0 api.smartnews-ads.com
 0.0.0.0 api.south.kontagent.net
 0.0.0.0 api.sponsorpay.com
@@ -6726,6 +6743,8 @@
 0.0.0.0 be.ads.justpremium.com
 0.0.0.0 bea4.cnn.com
 0.0.0.0 beachfront.adhaven.com
+0.0.0.0 beacon.scorecardresearch.com
+0.0.0.0 beacon.scorecardresearch.com.edgekey.net
 0.0.0.0 beacon.statful.com
 0.0.0.0 bead-ad.com
 0.0.0.0 beahero4u.com
@@ -6838,6 +6857,8 @@
 0.0.0.0 biggames.club
 0.0.0.0 bighyip-monitor.com
 0.0.0.0 bigip.stream
+0.0.0.0 bigip1.hitbox.com
+0.0.0.0 bigip2.hitbox.com
 0.0.0.0 bigmir.email
 0.0.0.0 bigmobileads.com
 0.0.0.0 bigosext69.com
@@ -6930,6 +6951,7 @@
 0.0.0.0 blogvertising.pl
 0.0.0.0 blooping.ovh.net
 0.0.0.0 blotburn.com
+0.0.0.0 blowfish.hitbox.com
 0.0.0.0 blu.mobileads.msn.com
 0.0.0.0 blueadvertise.com
 0.0.0.0 bluecornerblog.xyz
@@ -7204,6 +7226,7 @@
 0.0.0.0 c.medialytics.com
 0.0.0.0 c.mttwtrack.com
 0.0.0.0 c.richmetrics.com
+0.0.0.0 c.scorecardresearch.com
 0.0.0.0 c.statcounter.com
 0.0.0.0 c.tracking.goodgamestudios.com
 0.0.0.0 c.vserv.mobi
@@ -7401,6 +7424,7 @@
 0.0.0.0 cd-dvd-brennen.de
 0.0.0.0 cd.adition.com
 0.0.0.0 cd.ladsp.com
+0.0.0.0 cdb.hitbox.com
 0.0.0.0 cdc.112.2o7.net
 0.0.0.0 cdchealth.org
 0.0.0.0 cdfolkme.cf
@@ -7414,11 +7438,13 @@
 0.0.0.0 cdn-ads.adpushup.com
 0.0.0.0 cdn-ads.thesaigontimes.vn
 0.0.0.0 cdn-adspot.tfgco.com
+0.0.0.0 cdn-akamai.mookie1.com
 0.0.0.0 cdn-alpha.logrocket.com
 0.0.0.0 cdn-analytics.pl
 0.0.0.0 cdn-api.admost.com
 0.0.0.0 cdn-assets.adspruce.com
 0.0.0.0 cdn-code.host
+0.0.0.0 cdn-creatives-akamai-prd.unityads.unity3d.com
 0.0.0.0 cdn-de.adctrl.com
 0.0.0.0 cdn-downloads.com
 0.0.0.0 cdn-f.adsmoloco.com
@@ -7427,6 +7453,7 @@
 0.0.0.0 cdn-hk.adctrl.com
 0.0.0.0 cdn-html.adsfactor.net
 0.0.0.0 cdn-jquery.host
+0.0.0.0 cdn-ketchapp.akamaized.net
 0.0.0.0 cdn-line.kz
 0.0.0.0 cdn-magiclinks.trackonomics.net
 0.0.0.0 cdn-onenote.net
@@ -7435,6 +7462,8 @@
 0.0.0.0 cdn-staging.logrocket.com
 0.0.0.0 cdn-staging.logrocket.io
 0.0.0.0 cdn-static.adctrl.com
+0.0.0.0 cdn-store-icons-akamai-prd.unityads.unity3d.com
+0.0.0.0 cdn-store-icons-akamai-prd.unityads.unity3d.com.edgekey.net
 0.0.0.0 cdn-stv.adgrx.com
 0.0.0.0 cdn-vast.adspruce.com
 0.0.0.0 cdn-video.adspruce.com
@@ -7653,6 +7682,7 @@
 0.0.0.0 cfr.us.v2.we-stats.com
 0.0.0.0 cg.yourcube.ir
 0.0.0.0 cgi.dubkill.com
+0.0.0.0 cgi.hitbox.com
 0.0.0.0 cgi.i-mobile.co.jp
 0.0.0.0 cgm.adbureau.ne
 0.0.0.0 cgm.adbureau.net
@@ -7962,6 +7992,7 @@
 0.0.0.0 cloud-us.analytics-egain.com
 0.0.0.0 cloud.falconoasisdubai.com
 0.0.0.0 cloud.xenoris.fr
+0.0.0.0 cloudads-a.akamaihd.net
 0.0.0.0 cloudadservers.com
 0.0.0.0 cloudcdn.gdn
 0.0.0.0 cloudcontentsmak.com
@@ -8337,6 +8368,7 @@
 0.0.0.0 counterimg1.adultrevenueservice.com
 0.0.0.0 counters.auctiva.com
 0.0.0.0 couponchief.122.2o7.net
+0.0.0.0 couponcp-a.akamaihd.net
 0.0.0.0 coursebro.pw
 0.0.0.0 cousintins.net84.net
 0.0.0.0 covid19crypto.com
@@ -8361,6 +8393,7 @@
 0.0.0.0 cpanel.adnetworktech.com
 0.0.0.0 cpd.admicro.vn
 0.0.0.0 cpd.adsplay.xyz
+0.0.0.0 cperformmedia-a.akamaihd.net
 0.0.0.0 cpi.adflex.vn
 0.0.0.0 cpm-ad.com
 0.0.0.0 cpm.admob.com
@@ -8608,6 +8641,7 @@
 0.0.0.0 d.image-ad.jp
 0.0.0.0 d.otaserve.net
 0.0.0.0 d.pixiv.org
+0.0.0.0 d.scorecardresearch.com
 0.0.0.0 d.socdm.com
 0.0.0.0 d.sspcash.adxcore.com
 0.0.0.0 d0wnl0ads.online
@@ -8872,9 +8906,12 @@
 0.0.0.0 dev.adthrive.com
 0.0.0.0 dev.appboy.com
 0.0.0.0 dev.cryptobara.com
+0.0.0.0 dev.hitbox.com
 0.0.0.0 dev.stat-rock.com
 0.0.0.0 dev01.ad4game.com
 0.0.0.0 dev101.hitbox.com
+0.0.0.0 dev102.hitbox.com
+0.0.0.0 dev103.hitbox.com
 0.0.0.0 devart.adbureau.net
 0.0.0.0 devaryan.com
 0.0.0.0 devel.adswizz.com
@@ -9105,6 +9142,7 @@
 0.0.0.0 download-updates-comp.com
 0.0.0.0 download.008ex.com
 0.0.0.0 download.hitbox.com
+0.0.0.0 downloadandsave-a.akamaihd.net
 0.0.0.0 downloadelectrum.com
 0.0.0.0 downloadelectrum.org
 0.0.0.0 downloadjimm.ru
@@ -9209,6 +9247,7 @@
 0.0.0.0 dxzvkr.top
 0.0.0.0 dy.admerize.be
 0.0.0.0 dyessar.buzz
+0.0.0.0 dyn-beacon.akamaized.net
 0.0.0.0 dyn-downloads.com
 0.0.0.0 dynacom.system-ns.org
 0.0.0.0 dynadserver.adotmob.com
@@ -9393,6 +9432,7 @@
 0.0.0.0 ehg-aha.hitbox.com
 0.0.0.0 ehg-amerix.hitbox.com
 0.0.0.0 ehg-apcc.hitbox.com
+0.0.0.0 ehg-associatenewmedia.hitbox.com
 0.0.0.0 ehg-ati.hitbox.com
 0.0.0.0 ehg-attenza.hitbox.com
 0.0.0.0 ehg-autodesk.hitbox.com
@@ -9413,6 +9453,7 @@
 0.0.0.0 ehg-closetmaid.hitbox.com
 0.0.0.0 ehg-commjun.hitbox.com
 0.0.0.0 ehg-communityconnect.hitbox.com
+0.0.0.0 ehg-communityconnet.hitbox.com
 0.0.0.0 ehg-comscore.hitbox.com
 0.0.0.0 ehg-corusentertainment.hitbox.com
 0.0.0.0 ehg-coverityinc.hitbox.com
@@ -9433,6 +9474,7 @@
 0.0.0.0 ehg-gamedaily.hitbox.com
 0.0.0.0 ehg-gamespot.hitbox.com
 0.0.0.0 ehg-gatehousemedia.hitbox.com
+0.0.0.0 ehg-gatehoussmedia.hitbox.com
 0.0.0.0 ehg-glam.hitbox.com
 0.0.0.0 ehg-groceryworks.hitbox.com
 0.0.0.0 ehg-groupernetworks.hitbox.com
@@ -9463,11 +9505,14 @@
 0.0.0.0 ehg-moma.hitbox.com.112.2o7.net
 0.0.0.0 ehg-mtv.hitbox.com
 0.0.0.0 ehg-mybc.hitbox.com
+0.0.0.0 ehg-newarkinone.hitbox.com.hitbox.com
 0.0.0.0 ehg-newegg.hitbox.com
 0.0.0.0 ehg-newscientist.hitbox.com
+0.0.0.0 ehg-newsinternational.hitbox.com
 0.0.0.0 ehg-nokiafin.hitbox.com
 0.0.0.0 ehg-novell.hitbox.com
 0.0.0.0 ehg-nvidia.hitbox.com
+0.0.0.0 ehg-oreilley.hitbox.com
 0.0.0.0 ehg-oreilly.hitbox.com
 0.0.0.0 ehg-pacifictheatres.hitbox.com
 0.0.0.0 ehg-pennwell.hitbox.com
@@ -9475,6 +9520,7 @@
 0.0.0.0 ehg-philipsvheusen.hitbox.com
 0.0.0.0 ehg-pizzahut.hitbox.com
 0.0.0.0 ehg-playboy.hitbox.com
+0.0.0.0 ehg-presentigsolutions.hitbox.com
 0.0.0.0 ehg-qualcomm.hitbox.com
 0.0.0.0 ehg-quantumcorp.hitbox.com
 0.0.0.0 ehg-randomhouse.hitbox.com
@@ -9495,6 +9541,7 @@
 0.0.0.0 ehg-sonymusic.hitbox.com
 0.0.0.0 ehg-sonyny.hitbox.com
 0.0.0.0 ehg-space.hitbox.com
+0.0.0.0 ehg-sportsline.hitbox.com
 0.0.0.0 ehg-streamload.hitbox.com
 0.0.0.0 ehg-superpages.hitbox.com
 0.0.0.0 ehg-techtarget.hitbox.com
@@ -9514,12 +9561,16 @@
 0.0.0.0 ehg-vonage.hitbox.com
 0.0.0.0 ehg-wachovia.hitbox.com
 0.0.0.0 ehg-wacomtechnology.hitbox.com
+0.0.0.0 ehg-warner-brothers.hitbox.com
+0.0.0.0 ehg-wizardsofthecoast.hitbox.com.hitbox.com
 0.0.0.0 ehg-womanswallstreet.hitbox.com
 0.0.0.0 ehg-wss.hitbox.com
 0.0.0.0 ehg-xxolympicwintergames.hitbox.com
 0.0.0.0 ehg-yellowpages.hitbox.com
 0.0.0.0 ehg-youtube.hitbox.com
+0.0.0.0 ehg.commjun.hitbox.com
 0.0.0.0 ehg.hitbox.com
+0.0.0.0 ehg.mindshare.hitbox.com
 0.0.0.0 ehsanmaali.ddns.net
 0.0.0.0 eiectrum.net
 0.0.0.0 eip-ntt.audio-ak.spotify.com.akahost.net
@@ -9657,6 +9708,7 @@
 0.0.0.0 encoding.ovh
 0.0.0.0 encourageidea.com
 0.0.0.0 encouragingwilderness.com
+0.0.0.0 end.scorecardresearch.com
 0.0.0.0 enderkitty.net
 0.0.0.0 endingthefed.com
 0.0.0.0 endpoint.adxxx.com
@@ -10341,6 +10393,7 @@
 0.0.0.0 freeprivacytools.ru
 0.0.0.0 freerapid.fr
 0.0.0.0 freeuploader.ml
+0.0.0.0 freewheel-mtgx-tv.akamaized.net
 0.0.0.0 frefou.ru
 0.0.0.0 frekishalm.com
 0.0.0.0 frenddizoni.org
@@ -10585,6 +10638,7 @@
 0.0.0.0 ghrelokamkaj.com
 0.0.0.0 ghtc.mobi
 0.0.0.0 giaiphapbds.admicro.vn
+0.0.0.0 giantsavings-a.akamaihd.net
 0.0.0.0 giddycoat.com
 0.0.0.0 gidnik.com
 0.0.0.0 gifastcompanycom.112.2o7.net
@@ -11007,6 +11061,9 @@
 0.0.0.0 hchrmain.112.2o7.net
 0.0.0.0 hd-xxxclassic.club
 0.0.0.0 hd.admicro.vn
+0.0.0.0 hdapp1003-a.akamaihd.net
+0.0.0.0 hdapp1008-a.akamaihd.net
+0.0.0.0 hdsrc-a.akamaihd.net
 0.0.0.0 heads-ak-spotify-com.akamaized.net
 0.0.0.0 heads-ak.spotify.com
 0.0.0.0 heads-ak.spotify.com.edgesuite.net
@@ -11073,6 +11130,7 @@
 0.0.0.0 hertz.122.2o7.net
 0.0.0.0 hexacam.com
 0.0.0.0 hexagon-analytics.com
+0.0.0.0 heytapimg.com.akamaized.net
 0.0.0.0 hfc195b.com
 0.0.0.0 hfexpres.net
 0.0.0.0 hfik.mobi
@@ -11087,7 +11145,14 @@
 0.0.0.0 hg16.hitbox.com
 0.0.0.0 hg17.hitbox.com
 0.0.0.0 hg2.hitbox.com
+0.0.0.0 hg3.hitbox.com
+0.0.0.0 hg4.hitbox.com
+0.0.0.0 hg5.hitbox.com
+0.0.0.0 hg6.hitbox.com
 0.0.0.0 hg6a.hitbox.com
+0.0.0.0 hg7.hitbox.com
+0.0.0.0 hg8.hitbox.com
+0.0.0.0 hg9.hitbox.com
 0.0.0.0 hgastation.com
 0.0.0.0 hhb123.tk
 0.0.0.0 hhtool.ddns.net
@@ -11130,6 +11195,8 @@
 0.0.0.0 hitbox.com
 0.0.0.0 hitboxbenchmarker.com
 0.0.0.0 hitboxcentral.com
+0.0.0.0 hitboxenterprise.com
+0.0.0.0 hitboxwireless.com
 0.0.0.0 hitcpm.com
 0.0.0.0 hitgraph.jp
 0.0.0.0 hitlerloco.xtrweb.com
@@ -12005,6 +12072,7 @@
 0.0.0.0 jiktnv.122.2o7.net
 0.0.0.0 jilliancamwell.com
 0.0.0.0 jinjin-tv.net
+0.0.0.0 jioads.akamaized.net
 0.0.0.0 jisec.xyz
 0.0.0.0 jita.rtk.io
 0.0.0.0 jiwire.112.2o7.net
@@ -12504,6 +12572,7 @@
 0.0.0.0 lb-adsdis.mng-ads.com
 0.0.0.0 lb-adserver.ig.com.br
 0.0.0.0 lb-adsmob.mng-ads.com
+0.0.0.0 lb.hitbox.com
 0.0.0.0 lbjs.adledge.com
 0.0.0.0 lcs.livedoor.net
 0.0.0.0 lcs.loginfra.com
@@ -12559,6 +12628,7 @@
 0.0.0.0 leon-l-atkinson.club
 0.0.0.0 leopolda.lon2.spotify.com
 0.0.0.0 leorex-super.ru
+0.0.0.0 lesbian-erotica.hitbox.com
 0.0.0.0 letask.me
 0.0.0.0 letsdoitquick.site
 0.0.0.0 lettucelimit.com
@@ -12998,6 +13068,7 @@
 0.0.0.0 looker.adthrive.com
 0.0.0.0 lookper.eu
 0.0.0.0 lookup.hitbox.com
+0.0.0.0 lookup2.hitbox.com
 0.0.0.0 loopme.me
 0.0.0.0 lopiax.us
 0.0.0.0 loplfu03.top
@@ -13589,6 +13660,7 @@
 0.0.0.0 midala.112.2o7.net
 0.0.0.0 midar.112.2o7.net
 0.0.0.0 midcru.112.2o7.net
+0.0.0.0 middycdn-a.akamaihd.net
 0.0.0.0 midgnighcrypt.com
 0.0.0.0 midsen.112.2o7.net
 0.0.0.0 mighbest.host
@@ -14080,6 +14152,7 @@
 0.0.0.0 n77568zi.beget.tech
 0.0.0.0 n9vm.gotdns.ch
 0.0.0.0 na.ads.yahoo.com
+0.0.0.0 na.hitbox.com
 0.0.0.0 na61-na62-st3.wagbridge.advertisement.tanx.com
 0.0.0.0 na61-na62.wagbridge.advertisement.tanx.com
 0.0.0.0 naaleazas.net
@@ -14097,6 +14170,7 @@
 0.0.0.0 nanowopsite.club
 0.0.0.0 napalmstories.su
 0.0.0.0 napitrend.blogspot.hu
+0.0.0.0 narwhal.hitbox.com
 0.0.0.0 nascardigitalsap.d2.sc.omtrdc.net
 0.0.0.0 nasdaq.122.2o7.net
 0.0.0.0 natchotuy.com
@@ -14185,6 +14259,7 @@
 0.0.0.0 netdreamersad.durasite.net
 0.0.0.0 netgear.122.2o7.net
 0.0.0.0 netlux.in
+0.0.0.0 netrefer-a.akamaihd.net
 0.0.0.0 netshelter.adtrix.com
 0.0.0.0 netspiderads2.indiatimes.com
 0.0.0.0 nettubex.top
@@ -14345,7 +14420,9 @@
 0.0.0.0 noabuseshere.top
 0.0.0.0 noblock.pro
 0.0.0.0 nobuomo.it
+0.0.0.0 noc-request.hitbox.com
 0.0.0.0 noc.hitbox.com
+0.0.0.0 nocboard.hitbox.com
 0.0.0.0 nod-update.org
 0.0.0.0 noda-8879.cf
 0.0.0.0 node.alpha.nimiqpool.com
@@ -14397,6 +14474,7 @@
 0.0.0.0 nrads.1host.co.il
 0.0.0.0 nrelievedbrand.com
 0.0.0.0 ns-plugin.site
+0.0.0.0 ns-vip1.hitbox.com
 0.0.0.0 ns-vip2.hitbox.com
 0.0.0.0 ns-vip3.hitbox.com
 0.0.0.0 ns0-ukrpack.net
@@ -15552,6 +15630,7 @@
 0.0.0.0 protect-ad.com
 0.0.0.0 protect.advancedcleaner.com
 0.0.0.0 protected-clicker.com
+0.0.0.0 protectsurf-a.akamaihd.net
 0.0.0.0 protecttimeknew.live
 0.0.0.0 protest-01262505.ga
 0.0.0.0 protest22.ru
@@ -15644,6 +15723,7 @@
 0.0.0.0 punyu01.shard.jp
 0.0.0.0 pupucuvymup.eu
 0.0.0.0 purchasesuggestion.com
+0.0.0.0 pure.hitbox.com
 0.0.0.0 pus.inter.cloudns.cc
 0.0.0.0 puserving.com
 0.0.0.0 push-ad.com
@@ -15675,6 +15755,7 @@
 0.0.0.0 px2ii-ufb66.ads.tremorhub.com
 0.0.0.0 px4.ads.linkedin.com
 0.0.0.0 pxi.hognoob.se
+0.0.0.0 pxlgnpgecom-a.akamaihd.net
 0.0.0.0 pxrt.adsfactor.net
 0.0.0.0 pxx.hognoob.se
 0.0.0.0 pytopm.pw
@@ -15796,6 +15877,7 @@
 0.0.0.0 raidrush.info
 0.0.0.0 railwayrainstorm.com
 0.0.0.0 rainbirds.ac.ug
+0.0.0.0 rainbowclub.hitbox.com
 0.0.0.0 rainbowmedia.122.2o7.net
 0.0.0.0 rainbowtrade.net
 0.0.0.0 rainit.xyz
@@ -16290,6 +16372,7 @@
 0.0.0.0 ruthlessrobin.com
 0.0.0.0 ruz2.ru
 0.0.0.0 rv.adcpx.v1.de.eusem.adaos-ads.net
+0.0.0.0 rvzr-a.akamaihd.net
 0.0.0.0 rws.a8.net
 0.0.0.0 rx-stats3.unrulymedia.com
 0.0.0.0 rx.unmineable.com
@@ -16411,6 +16494,7 @@
 0.0.0.0 s8t.teads.tv
 0.0.0.0 s9.addthis.com
 0.0.0.0 sa.aol.com.122.2o7.net
+0.0.0.0 sa.scorecardresearch.com
 0.0.0.0 sabavision.com
 0.0.0.0 saber.srvcs.tumblr.com
 0.0.0.0 sablesmile.com
@@ -17028,6 +17112,7 @@
 0.0.0.0 shubhinfoways.com
 0.0.0.0 shyseed.com
 0.0.0.0 siamining.com
+0.0.0.0 sic-akamai.33across.com
 0.0.0.0 sicksmash.com
 0.0.0.0 sicurezzaonline.info
 0.0.0.0 sideshow.directtrack.com
@@ -17314,6 +17399,7 @@
 0.0.0.0 special-update.online
 0.0.0.0 specialdeals.g5e.com
 0.0.0.0 specialtyaltruistic.com
+0.0.0.0 specialtyclub.hitbox.com
 0.0.0.0 spectacularsnail.com
 0.0.0.0 spectrun2008.no-ip.org
 0.0.0.0 speead.jp
@@ -17477,6 +17563,8 @@
 0.0.0.0 stage101.hitbox.com
 0.0.0.0 stage102.hitbox.com
 0.0.0.0 stage103.hitbox.com
+0.0.0.0 stage104.hitbox.com
+0.0.0.0 stage105.hitbox.com
 0.0.0.0 staging-ads.adtarget.me
 0.0.0.0 staging-ads.blogherads.com
 0.0.0.0 staging-i.logrocket.com
@@ -17855,6 +17943,14 @@
 0.0.0.0 swimslope.com
 0.0.0.0 swissprocesstointernail.mangospot.net
 0.0.0.0 switch-app.net
+0.0.0.0 switch.hitbox.com
+0.0.0.0 switch1.hitbox.com
+0.0.0.0 switch10.hitbox.com
+0.0.0.0 switch11.hitbox.com
+0.0.0.0 switch5.hitbox.com
+0.0.0.0 switch6.hitbox.com
+0.0.0.0 switch8.hitbox.com
+0.0.0.0 switch9.hitbox.com
 0.0.0.0 switchboard.mixpanel.com
 0.0.0.0 swordgoose.com
 0.0.0.0 sworkitads.herokuapp.com
@@ -19339,6 +19435,7 @@
 0.0.0.0 uelbdc74fn.s.ad6media.fr
 0.0.0.0 ufayubja.me
 0.0.0.0 ufzua-051ht.ads.tremorhub.com
+0.0.0.0 ugcbrainient-a.akamaihd.net
 0.0.0.0 ugmfvqsu.ru
 0.0.0.0 ugo.eu-adcenter.net
 0.0.0.0 ugrym.pw
@@ -19883,6 +19980,8 @@
 0.0.0.0 vv338.com
 0.0.0.0 vvage.com
 0.0.0.0 vwr1.hitbox.com
+0.0.0.0 vwr2.hitbox.com
+0.0.0.0 vwr3.hitbox.com
 0.0.0.0 vwxqv.xyz
 0.0.0.0 vz-cdn2.adtng.com
 0.0.0.0 w.ad.style
@@ -19953,6 +20052,8 @@
 0.0.0.0 w17.hitbox.com
 0.0.0.0 w170.hitbox.com
 0.0.0.0 w175.hitbox.com
+0.0.0.0 w177.hitbox.com
+0.0.0.0 w179.hitbox.com
 0.0.0.0 w18.hitbox.com
 0.0.0.0 w19.hitbox.com
 0.0.0.0 w2.hitbox.com
@@ -19971,6 +20072,8 @@
 0.0.0.0 w31.hitbox.com
 0.0.0.0 w32.hitbox.com
 0.0.0.0 w33.hitbox.com
+0.0.0.0 w34.hitbox.com
+0.0.0.0 w35.hitbox.com
 0.0.0.0 w36.hitbox.com
 0.0.0.0 w3i.com
 0.0.0.0 w4.hitbox.com
@@ -20316,6 +20419,8 @@
 0.0.0.0 wsback-videotracking.presage.io
 0.0.0.0 wsdyanaekppyinitalymedicalconsultant3.duckdns.org
 0.0.0.0 wsp.marketgid.com
+0.0.0.0 wss-gw-1.hitbox.com
+0.0.0.0 wss-gw-3.hitbox.com
 0.0.0.0 wss.analyticacdn.com
 0.0.0.0 wss.nablabee.com
 0.0.0.0 wss.rand.com.ru
@@ -21715,6 +21820,7 @@
 0.0.0.0 www.adxoo.com
 0.0.0.0 www.adxpansion.com
 0.0.0.0 www.adxpartner.com
+0.0.0.0 www.adxplay.com
 0.0.0.0 www.adxpose.com
 0.0.0.0 www.adxpower.com
 0.0.0.0 www.adxpremium.com
@@ -22046,6 +22152,7 @@
 0.0.0.0 www.ebayadvertising.com
 0.0.0.0 www.ecofinads.com
 0.0.0.0 www.eduardorodrigues.adv.br
+0.0.0.0 www.ehg-rr.hitbox.com
 0.0.0.0 www.emailadvantagegroup.com
 0.0.0.0 www.eremogaudio.it
 0.0.0.0 www.ero-advertising.com
@@ -22170,6 +22277,7 @@
 0.0.0.0 www.hightrafficads.com
 0.0.0.0 www.hitbox.com
 0.0.0.0 www.hitboxcentral.com
+0.0.0.0 www.hitboxwireless.com
 0.0.0.0 www.hmuana.com
 0.0.0.0 www.host-host-ads.com
 0.0.0.0 www.hostcontent.live
@@ -22739,6 +22847,7 @@
 0.0.0.0 y.cdn.adblade.com
 0.0.0.0 y.one.impact-ad.jp
 0.0.0.0 y101ad34452096.xyz
+0.0.0.0 y2k.hitbox.com
 0.0.0.0 yadakbloghesaplar.link
 0.0.0.0 yads.c.yimg.jp
 0.0.0.0 yads.yahoo.co.jp

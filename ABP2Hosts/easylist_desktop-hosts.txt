@@ -1,4 +1,4 @@
-# Wed Jul  7 08:47:56 AM UTC 2021
+# Wed Jul  7 10:42:07 PM UTC 2021
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0-24bpautomentes.hu
 0.0.0.0 00-gov.cn
@@ -4448,6 +4448,7 @@
 0.0.0.0 anz7.allianz-voyage.fr
 0.0.0.0 ao-freegeoip.herokuapp.com
 0.0.0.0 aobyp1una641o8.com
+0.0.0.0 aocular.com
 0.0.0.0 aodepuo.cn
 0.0.0.0 aoidf3.com
 0.0.0.0 aom.smartbrief.com
@@ -8588,6 +8589,7 @@
 0.0.0.0 contentdigital.info
 0.0.0.0 contentinsights.com
 0.0.0.0 contentjs.com
+0.0.0.0 contentr.net
 0.0.0.0 contents-tracking.beop.io
 0.0.0.0 contentsfeed.com
 0.0.0.0 contentspread.net
@@ -9280,6 +9282,7 @@
 0.0.0.0 cxjju.cn
 0.0.0.0 cxmob.net
 0.0.0.0 cxmolk.com
+0.0.0.0 cxmygp.xyz
 0.0.0.0 cxrfns.gu-global.com
 0.0.0.0 cxt.deutsche-bank.de
 0.0.0.0 cxt.ms
@@ -11525,6 +11528,7 @@
 0.0.0.0 econda-monitor.de
 0.0.0.0 econday.top
 0.0.0.0 econdus.com
+0.0.0.0 economyobserver.com
 0.0.0.0 econverge.top
 0.0.0.0 ecpmrocks.com
 0.0.0.0 ecpms.net
@@ -12583,6 +12587,7 @@
 0.0.0.0 exitjunction.com
 0.0.0.0 exitmonitor.com
 0.0.0.0 exjozegvbaresw.com
+0.0.0.0 exlpor.com
 0.0.0.0 exmarketplace.com
 0.0.0.0 exobafrgdf.com
 0.0.0.0 exoclick.com
@@ -13293,6 +13298,7 @@
 0.0.0.0 flurry.com
 0.0.0.0 flushafterwardinteger.com
 0.0.0.0 flushmviolent.org
+0.0.0.0 flux16.com
 0.0.0.0 fluxads.com
 0.0.0.0 fluxioncytasic.com
 0.0.0.0 flvs7ql3l6.com
@@ -13594,6 +13600,7 @@
 0.0.0.0 freshplum.com
 0.0.0.0 freshtds.club
 0.0.0.0 fresnel-events.vimeocdn.com
+0.0.0.0 frevi.net
 0.0.0.0 freychang.fun
 0.0.0.0 frhbrkjgerikm2f8mjek09.com
 0.0.0.0 friandsuddy.com
@@ -14082,6 +14089,7 @@
 0.0.0.0 generablel.fun
 0.0.0.0 generablep.top
 0.0.0.0 generaldeviales.com
+0.0.0.0 generalebad.xyz
 0.0.0.0 generalizationentertain.com
 0.0.0.0 generaltracking.de
 0.0.0.0 generatedough.com
@@ -15674,6 +15682,7 @@
 0.0.0.0 hjhbhddren.com
 0.0.0.0 hjiss.com
 0.0.0.0 hjjnpx.com
+0.0.0.0 hjklf.com
 0.0.0.0 hjsled.com
 0.0.0.0 hjues.com
 0.0.0.0 hjyll.top
@@ -16350,6 +16359,7 @@
 0.0.0.0 ignitioninstaller.com
 0.0.0.0 ignitiontigercamera.com
 0.0.0.0 ignoranttools.com
+0.0.0.0 ignup.com
 0.0.0.0 igo5.cc
 0.0.0.0 igrid.org
 0.0.0.0 igrok.rocks
@@ -17231,6 +17241,7 @@
 0.0.0.0 is.base.de
 0.0.0.0 is686.com
 0.0.0.0 isaac.mikhailmotoringschool.com
+0.0.0.0 isawaalphol.casa
 0.0.0.0 iseuaa.olx.pl
 0.0.0.0 isgow.com
 0.0.0.0 isgprivacy.cbsi.com
@@ -17271,6 +17282,7 @@
 0.0.0.0 itc-demo.softgig.co.ke
 0.0.0.0 itcfnfi.com
 0.0.0.0 itchenjian.com
+0.0.0.0 itchess.cn
 0.0.0.0 itchimpish.com
 0.0.0.0 itchingadore.com
 0.0.0.0 itchingcrystalfemales.com
@@ -18032,6 +18044,7 @@
 0.0.0.0 k4bg1u10omks.com
 0.0.0.0 k4fu.verif.com
 0.0.0.0 k5p8f2.cn
+0.0.0.0 k5zoom.com
 0.0.0.0 k77hof1z7k.com
 0.0.0.0 k99.cc
 0.0.0.0 k9dzax.cn
@@ -19615,6 +19628,7 @@
 0.0.0.0 loopfuse.net
 0.0.0.0 loopme.me
 0.0.0.0 loopoohy.com
+0.0.0.0 loopr.co
 0.0.0.0 looprapid.com
 0.0.0.0 loopredsglen.com
 0.0.0.0 lootynews.com
@@ -19771,6 +19785,7 @@
 0.0.0.0 luna.r.lafamo.com
 0.0.0.0 lunametrics.wpengine.netdna-cdn.com
 0.0.0.0 lunaticcrushedtogether.com
+0.0.0.0 lunio.net
 0.0.0.0 luolikong.net
 0.0.0.0 luoyuanedu.cn
 0.0.0.0 lupoot.com
@@ -24287,6 +24302,7 @@
 0.0.0.0 ophan.theguardian.com
 0.0.0.0 ophoahik.net
 0.0.0.0 opingexamplyt.info
+0.0.0.0 oplo.org
 0.0.0.0 oplwseln.com
 0.0.0.0 opn-news.ru
 0.0.0.0 opoapibs.net
@@ -24310,6 +24326,7 @@
 0.0.0.0 opt-n.net
 0.0.0.0 optad360.io
 0.0.0.0 opteama.com
+0.0.0.0 opter.co
 0.0.0.0 optiads.org
 0.0.0.0 opticaoptigral.cl
 0.0.0.0 optify.net
@@ -24352,6 +24369,7 @@
 0.0.0.0 orbengine.com
 0.0.0.0 orbidder.otto.de
 0.0.0.0 orbit.lun.ua
+0.0.0.0 orbitfour47.com
 0.0.0.0 orcapia.com
 0.0.0.0 orchidscape.net
 0.0.0.0 orcjagpox.com
@@ -27316,6 +27334,7 @@
 0.0.0.0 reinvigorate.net
 0.0.0.0 reiqwxxd.com
 0.0.0.0 reiseeget.com
+0.0.0.0 reitb.com
 0.0.0.0 reitingas.lt
 0.0.0.0 reitingi.lv
 0.0.0.0 rejcinews.pro
@@ -28860,6 +28879,7 @@
 0.0.0.0 selectad.com
 0.0.0.0 selectivesummer.com
 0.0.0.0 selectmedia.asia
+0.0.0.0 selectr.net
 0.0.0.0 selectserialcage.com
 0.0.0.0 selfbiological.com
 0.0.0.0 selfcampaign.com
@@ -30483,6 +30503,7 @@
 0.0.0.0 spontaneousguarded.com
 0.0.0.0 spontaneousshady.com
 0.0.0.0 spoonslaxoil.com
+0.0.0.0 sporedfryhum.com
 0.0.0.0 sport.hudaem.ru
 0.0.0.0 sport205.club
 0.0.0.0 sportivki2v1cvetocher1fh.com
@@ -32611,6 +32632,7 @@
 0.0.0.0 tfatalonepres.top
 0.0.0.0 tfg8.com
 0.0.0.0 tfiph.com
+0.0.0.0 tfla.xyz
 0.0.0.0 tfncnhd8p95c.com
 0.0.0.0 tfosrv.com
 0.0.0.0 tfpayjwjphuk.com
@@ -32735,6 +32757,7 @@
 0.0.0.0 thirstytwig.com
 0.0.0.0 this-is-living.cn
 0.0.0.0 this-my-blog.ru
+0.0.0.0 thiscdn.com
 0.0.0.0 thisclick.network
 0.0.0.0 thishare.com
 0.0.0.0 thisisacoolthing.com
@@ -33203,6 +33226,7 @@
 0.0.0.0 toshi.top
 0.0.0.0 tostickad.com
 0.0.0.0 total-media.net
+0.0.0.0 totallifeguru.com
 0.0.0.0 totalprofitplan.com
 0.0.0.0 totemcash.com
 0.0.0.0 totentacruelor.com
@@ -35416,6 +35440,7 @@
 0.0.0.0 viewar.org
 0.0.0.0 viewclc.com
 0.0.0.0 views.cancan.ro
+0.0.0.0 viewscout.com
 0.0.0.0 viglir.ru
 0.0.0.0 vignerez.net
 0.0.0.0 vigoroussolidjitter.com
@@ -36688,6 +36713,7 @@
 0.0.0.0 wuckaity.com
 0.0.0.0 wudang05.com
 0.0.0.0 wudejia.com
+0.0.0.0 wudr.net
 0.0.0.0 wuhufengze.com.cn
 0.0.0.0 wuliao.chzsport.cn
 0.0.0.0 wuliao.epro.sogou.com
@@ -37326,6 +37352,7 @@
 0.0.0.0 yapparenalu.info
 0.0.0.0 yapspecialrequest.ru
 0.0.0.0 yapusheji.com
+0.0.0.0 yardr.net
 0.0.0.0 yarportal.ru
 0.0.0.0 yashi.com
 0.0.0.0 yasmwesikz.com
@@ -37558,8 +37585,10 @@
 0.0.0.0 ynzby.cn
 0.0.0.0 ynzhby.com
 0.0.0.0 yoast.yourpageserver.com
+0.0.0.0 yobr.net
 0.0.0.0 yoc-adserver.com
 0.0.0.0 yoc.younited-credit.com
+0.0.0.0 yodr.net
 0.0.0.0 yofdifferents.biz
 0.0.0.0 yogascaldhighjack.com
 0.0.0.0 yohioo.com
@@ -37569,6 +37598,7 @@
 0.0.0.0 yongkang6.com
 0.0.0.0 yongshengtongda.com
 0.0.0.0 yongv.com
+0.0.0.0 yonhelioliskor.com
 0.0.0.0 yoobest.cn
 0.0.0.0 yoochoose.net
 0.0.0.0 yoomanies.com
@@ -38030,6 +38060,7 @@
 0.0.0.0 zhy333.com
 0.0.0.0 zhywyl.cn
 0.0.0.0 zi8ivy4b0c7l.com
+0.0.0.0 ziccardia.com
 0.0.0.0 zidedge.com
 0.0.0.0 ziffdavis.com
 0.0.0.0 zifjgjddpy.com
