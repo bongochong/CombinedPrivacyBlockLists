@@ -1,4 +1,4 @@
-// **** Sun Jul  4 07:49:36 PM UTC 2021
+// **** Wed Jul  7 08:54:40 AM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -1049,6 +1049,7 @@ shExpMatch(host, '*.ads.hideyourarms.com') ||
 shExpMatch(host, '*.ads.hollywood.com') ||
 shExpMatch(host, '*.ads.horsehero.com') ||
 shExpMatch(host, '*.ads.horyzon-media.com') ||
+shExpMatch(host, '*.ads.hsoub.com') ||
 shExpMatch(host, '*.ads.iafrica.com') ||
 shExpMatch(host, '*.ads.ibest.com.br') ||
 shExpMatch(host, '*.ads.ibryte.com') ||
@@ -1319,6 +1320,7 @@ shExpMatch(host, '*.ads2.clearchannel.com') ||
 shExpMatch(host, '*.ads2.contentabc.com') ||
 shExpMatch(host, '*.ads2.femmefab.nl') ||
 shExpMatch(host, '*.ads2.gamecity.net') ||
+shExpMatch(host, '*.ads2.hsoub.com') ||
 shExpMatch(host, '*.ads2.jubii.dk') ||
 shExpMatch(host, '*.ads2.net-communities.co.uk') ||
 shExpMatch(host, '*.ads2.oneplace.com') ||
@@ -1404,6 +1406,7 @@ shExpMatch(host, '*.adserver.freecity.de') ||
 shExpMatch(host, '*.adserver.freenet.de') ||
 shExpMatch(host, '*.adserver.friendfinder.com') ||
 shExpMatch(host, '*.adserver.generationiron.com') ||
+shExpMatch(host, '*.adserver.gilligan.tech') ||
 shExpMatch(host, '*.adserver.hardsextube.com') ||
 shExpMatch(host, '*.adserver.hardwareanalysis.com') ||
 shExpMatch(host, '*.adserver.html.it') ||
@@ -1438,10 +1441,12 @@ shExpMatch(host, '*.adserver.sanomawsoy.fi') ||
 shExpMatch(host, '*.adserver.sciflicks.com') ||
 shExpMatch(host, '*.adserver.scr.sk') ||
 shExpMatch(host, '*.adserver.sharewareonline.com') ||
+shExpMatch(host, '*.adserver.smgfiles.com') ||
 shExpMatch(host, '*.adserver.spankaway.com') ||
 shExpMatch(host, '*.adserver.startnow.com') ||
 shExpMatch(host, '*.adserver.theonering.net') ||
 shExpMatch(host, '*.adserver.trojaner-info.de') ||
+shExpMatch(host, '*.adserver.tupolska.com') ||
 shExpMatch(host, '*.adserver.twitpic.com') ||
 shExpMatch(host, '*.adserver.viagogo.com') ||
 shExpMatch(host, '*.adserver.virginmedia.com') ||
@@ -18575,6 +18580,7 @@ shExpMatch(host, 'ads.hideyourarms.com') ||
 shExpMatch(host, 'ads.hollywood.com') ||
 shExpMatch(host, 'ads.horsehero.com') ||
 shExpMatch(host, 'ads.horyzon-media.com') ||
+shExpMatch(host, 'ads.hsoub.com') ||
 shExpMatch(host, 'ads.iafrica.com') ||
 shExpMatch(host, 'ads.ibest.com.br') ||
 shExpMatch(host, 'ads.ibryte.com') ||
@@ -18845,6 +18851,7 @@ shExpMatch(host, 'ads2.clearchannel.com') ||
 shExpMatch(host, 'ads2.contentabc.com') ||
 shExpMatch(host, 'ads2.femmefab.nl') ||
 shExpMatch(host, 'ads2.gamecity.net') ||
+shExpMatch(host, 'ads2.hsoub.com') ||
 shExpMatch(host, 'ads2.jubii.dk') ||
 shExpMatch(host, 'ads2.net-communities.co.uk') ||
 shExpMatch(host, 'ads2.oneplace.com') ||
@@ -18930,6 +18937,7 @@ shExpMatch(host, 'adserver.freecity.de') ||
 shExpMatch(host, 'adserver.freenet.de') ||
 shExpMatch(host, 'adserver.friendfinder.com') ||
 shExpMatch(host, 'adserver.generationiron.com') ||
+shExpMatch(host, 'adserver.gilligan.tech') ||
 shExpMatch(host, 'adserver.hardsextube.com') ||
 shExpMatch(host, 'adserver.hardwareanalysis.com') ||
 shExpMatch(host, 'adserver.html.it') ||
@@ -18964,10 +18972,12 @@ shExpMatch(host, 'adserver.sanomawsoy.fi') ||
 shExpMatch(host, 'adserver.sciflicks.com') ||
 shExpMatch(host, 'adserver.scr.sk') ||
 shExpMatch(host, 'adserver.sharewareonline.com') ||
+shExpMatch(host, 'adserver.smgfiles.com') ||
 shExpMatch(host, 'adserver.spankaway.com') ||
 shExpMatch(host, 'adserver.startnow.com') ||
 shExpMatch(host, 'adserver.theonering.net') ||
 shExpMatch(host, 'adserver.trojaner-info.de') ||
+shExpMatch(host, 'adserver.tupolska.com') ||
 shExpMatch(host, 'adserver.twitpic.com') ||
 shExpMatch(host, 'adserver.viagogo.com') ||
 shExpMatch(host, 'adserver.virginmedia.com') ||
