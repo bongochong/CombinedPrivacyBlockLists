@@ -1,4 +1,4 @@
-# Thu Jul  8 10:02:58 PM UTC 2021
+# Thu Jul  8 10:07:42 PM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
