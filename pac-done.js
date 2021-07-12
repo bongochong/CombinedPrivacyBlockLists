@@ -1,4 +1,4 @@
-// **** Thu Jul  8 10:51:01 PM UTC 2021
+// **** Sun Jul 11 11:58:55 PM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -6490,6 +6490,7 @@ shExpMatch(host, '*.findbigsoftpack.cn') ||
 shExpMatch(host, '*.findbigurls.cn') ||
 shExpMatch(host, '*.findcheat.com') ||
 shExpMatch(host, '*.findcommerce.com') ||
+shExpMatch(host, '*.findepended.com') ||
 shExpMatch(host, '*.findfreefbcredits.com') ||
 shExpMatch(host, '*.findgmailpasswords.com') ||
 shExpMatch(host, '*.findhelp24.com') ||
@@ -11303,7 +11304,6 @@ shExpMatch(host, '*.nationalrealtyonline.com') ||
 shExpMatch(host, '*.nationwidepeople.com') ||
 shExpMatch(host, '*.nativeroll.tv') ||
 shExpMatch(host, '*.natural.buckeyeenergyforum.com') ||
-shExpMatch(host, '*.naturalbid.com') ||
 shExpMatch(host, '*.naturallyearthfriendly.com') ||
 shExpMatch(host, '*.navegg.com') ||
 shExpMatch(host, '*.naviblue-team.com') ||
@@ -11838,6 +11838,7 @@ shExpMatch(host, '*.openfreefile.com') ||
 shExpMatch(host, '*.opengamehack.com') ||
 shExpMatch(host, '*.openmarket.com') ||
 shExpMatch(host, '*.opentag-stats.qubit.com') ||
+shExpMatch(host, '*.openx.actvtech.com') ||
 shExpMatch(host, '*.openx.angelsgroup.org.uk') ||
 shExpMatch(host, '*.openx.blindferret.com') ||
 shExpMatch(host, '*.openx.cairo360.com') ||
@@ -16280,6 +16281,7 @@ shExpMatch(host, '*.vkonte.club') ||
 shExpMatch(host, '*.vkonte.live') ||
 shExpMatch(host, '*.vladimirlapshin.com') ||
 shExpMatch(host, '*.vmay.com') ||
+shExpMatch(host, '*.vmmpxl.com') ||
 shExpMatch(host, '*.vmpp.comule.com') ||
 shExpMatch(host, '*.vnb77.com') ||
 shExpMatch(host, '*.vod.dgcaili.com') ||
@@ -24021,6 +24023,7 @@ shExpMatch(host, 'findbigsoftpack.cn') ||
 shExpMatch(host, 'findbigurls.cn') ||
 shExpMatch(host, 'findcheat.com') ||
 shExpMatch(host, 'findcommerce.com') ||
+shExpMatch(host, 'findepended.com') ||
 shExpMatch(host, 'findfreefbcredits.com') ||
 shExpMatch(host, 'findgmailpasswords.com') ||
 shExpMatch(host, 'findhelp24.com') ||
@@ -28834,7 +28837,6 @@ shExpMatch(host, 'nationalrealtyonline.com') ||
 shExpMatch(host, 'nationwidepeople.com') ||
 shExpMatch(host, 'nativeroll.tv') ||
 shExpMatch(host, 'natural.buckeyeenergyforum.com') ||
-shExpMatch(host, 'naturalbid.com') ||
 shExpMatch(host, 'naturallyearthfriendly.com') ||
 shExpMatch(host, 'navegg.com') ||
 shExpMatch(host, 'naviblue-team.com') ||
@@ -29369,6 +29371,7 @@ shExpMatch(host, 'openfreefile.com') ||
 shExpMatch(host, 'opengamehack.com') ||
 shExpMatch(host, 'openmarket.com') ||
 shExpMatch(host, 'opentag-stats.qubit.com') ||
+shExpMatch(host, 'openx.actvtech.com') ||
 shExpMatch(host, 'openx.angelsgroup.org.uk') ||
 shExpMatch(host, 'openx.blindferret.com') ||
 shExpMatch(host, 'openx.cairo360.com') ||
@@ -33811,6 +33814,7 @@ shExpMatch(host, 'vkonte.club') ||
 shExpMatch(host, 'vkonte.live') ||
 shExpMatch(host, 'vladimirlapshin.com') ||
 shExpMatch(host, 'vmay.com') ||
+shExpMatch(host, 'vmmpxl.com') ||
 shExpMatch(host, 'vmpp.comule.com') ||
 shExpMatch(host, 'vnb77.com') ||
 shExpMatch(host, 'vod.dgcaili.com') ||
