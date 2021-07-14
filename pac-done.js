@@ -1,4 +1,4 @@
-// **** Mon Jul 12 12:05:53 AM UTC 2021
+// **** Wed Jul 14 05:34:53 AM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -4234,6 +4234,7 @@ shExpMatch(host, '*.crakmedia.com') ||
 shExpMatch(host, '*.craktraffic.com') ||
 shExpMatch(host, '*.crashlytics.com') ||
 shExpMatch(host, '*.crashlyticsreports-pa.googleapis.com') ||
+shExpMatch(host, '*.cratecamera.com') ||
 shExpMatch(host, '*.craveandlamb.com') ||
 shExpMatch(host, '*.craveforcheats.com') ||
 shExpMatch(host, '*.crawlability.com') ||
@@ -21767,6 +21768,7 @@ shExpMatch(host, 'crakmedia.com') ||
 shExpMatch(host, 'craktraffic.com') ||
 shExpMatch(host, 'crashlytics.com') ||
 shExpMatch(host, 'crashlyticsreports-pa.googleapis.com') ||
+shExpMatch(host, 'cratecamera.com') ||
 shExpMatch(host, 'craveandlamb.com') ||
 shExpMatch(host, 'craveforcheats.com') ||
 shExpMatch(host, 'crawlability.com') ||
