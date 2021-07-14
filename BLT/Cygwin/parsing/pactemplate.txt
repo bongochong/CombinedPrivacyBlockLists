@@ -1,0 +1,11 @@
+function FindProxyForURL(url, host) {
+   if (
+
+shExpMatch(host, 'adserver.*')
+       ) {
+       return "PROXY 127.0.0.1";
+       }
+   else {
+       return "DIRECT";
+       }
+   }
