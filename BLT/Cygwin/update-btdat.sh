@@ -6,8 +6,8 @@
 	if [[ "$response" =~ ^([yY][eE][sS]|[yY])$ ]]
 	then
 echo "Cleaning up & Fetching DAT lists..."
-mkdir -p ~/BLTestWin/btdat
-cd ~/BLTestWin/btdat
+mkdir -p ~/BLT/btdat
+cd ~/BLT/btdat
 rm -f level1BTdat.7z bt_level1.dat bpeersBTdat.7z bt_bpeers.dat combined-final-win.dat
 wget -nv -O level1BTdat.7z "http://list.iblocklist.com/?list=ydxerpxkpcfqjaybcssw&fileformat=dat&archiveformat=7z"
 wget -nv -O bpeersBTdat.7z "http://list.iblocklist.com/?list=cwworuawihqvocglcoss&fileformat=dat&archiveformat=7z"
@@ -27,9 +27,9 @@ perl -i -pe 'chomp if eof' combined-final-win.dat
 echo "Appended proper file extension to blocklists. Combined, sorted, and de-duped. Your BitTorrent blocklist has been updated."
 rm -f level1BTdat.7z bt_level1.dat bpeersBTdat.7z bt_bpeers.dat
 echo "~---_---_---~"
-ls -lh ~/BLTestWin/btdat
+ls -lh ~/BLT/btdat
 echo "~---_---_---~"
-datCount=$(cat ~/BLTestWin/btdat/combined-final-win.dat | wc -l)
+datCount=$(cat ~/BLT/btdat/combined-final-win.dat | wc -l)
 echo "Your current P2P block list contains $datCount unique entries..."
 echo "~---_---_---~"
 exit

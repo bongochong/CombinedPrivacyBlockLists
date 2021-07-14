@@ -51,10 +51,10 @@ sed -i "s/BLT/$file_dir/g" update-hosts.sh
 sed -i "s/BLT/$file_dir/g" update-pac.sh
 echo -n "What is the letter of your Windows System Drive (if you don't know, then just type C and hit enter)?: "
 read sys_drive
-sed -i "s/C: $sys_drive:/g" update-hosts.sh
-sed -i "s/C: $sys_drive:/g" update-hosts-six.sh
-sed -i "s/C: $sys_drive:/g" update-hosts-dual.sh
-echo "Inserted host name into hosts file templates."
+sed -i "s/C\:/$sys_drive\://g" update-hosts.sh
+sed -i "s/C\:/$sys_drive\://g" update-hosts-six.sh
+sed -i "s/C\:/$sys_drive\://g" update-hosts-dual.sh
+echo "Inserted drive name into hosts file scripts."
 echo "..."
 read -r -p "Finally, would you like these tools to be automatically aliased in your bash configuration file, for easy launching? [y/N] " response
 if [[ "$response" =~ ^([yY][eE][sS]|[yY])$ ]]

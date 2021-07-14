@@ -6,8 +6,8 @@
 	if [[ "$response" =~ ^([yY][eE][sS]|[yY])$ ]]
 	then
 echo "Cleaning up & Fetching hosts lists..."
-mkdir -p ~/BLTestWin/hosts
-cd ~/BLTestWin/hosts
+mkdir -p ~/BLT/hosts
+cd ~/BLT/hosts
 rm -f hosts.* *.final *.hosts newhosts.txt
 sleep 1
 wget -nv -O hosts.1 "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext"
@@ -39,7 +39,7 @@ echo "Downloaded hosts list 13"
 echo "Parsing data..."
 cat hosts.* > hosts-cat.final
 sort hosts-cat.final | uniq | sed "s/#.*$//" | sed "/[[:space:]]*#/d" | sed "/[[:blank:]]*#/d" | sed "s/\t/ /g" | sed "s/^127.0.0.1/0.0.0.0/g" | sed "s/^::1/0.0.0.0/g" | sed "s/^::/0.0.0.0/g" | sed "s/[[:space:]]*$//" | sed "s/[[:blank:]]*$//" | sed "s/[[:space:]]\+/ /g" | sed "/^0.0.0.0 /! s/^/0.0.0.0 /" | sed "s/\(.*\)/\L\1/" > hosts-pre.final
-pcregrep -v -f ~/BLTestWin/parsing/hostpatterns.dat hosts-pre.final > uniq-hosts.final
+pcregrep -v -f ~/BLT/parsing/hostpatterns.dat hosts-pre.final > uniq-hosts.final
 #Routine to check for and convert Unicode IDNs to Punycode
 if [[ $(grep -P -n "[^\x00-\x7F]" uniq-hosts.final) ]]; then
     echo "Non-ASCII strings found in domains. Converting to Punycode..."
@@ -53,12 +53,12 @@ fi
 #End of Unicode IDN to Punycode conversion routine
 sed -i -e '/\^\document/d' -e '/\^/d' -e '/\*/d' -e '/\?/d' -e '/\//d' -e '/@/d' -e '/!/d' -e '/|/d' -e '/:/d' -e '/~/d' -e '/,/d' -e '/=/d' -e "/\[/d" -e "/\]/d" -e '/\//d' uniq-hosts.final
 sort -f uniq-hosts.final | uniq -i > final-uniq.hosts
-pcregrep -f ~/BLTestWin/parsing/tld-filter.dat final-uniq.hosts > hosts.final
+pcregrep -f ~/BLT/parsing/tld-filter.dat final-uniq.hosts > hosts.final
 sed "s/^0.0.0.0/::/g" hosts.final > hostsIPv6.final
 perl -i -pe 'chomp if eof' hosts.final
 perl -i -pe 'chomp if eof' hostsIPv6.final
 echo "Successfully merged hosts lists!"
-sed '38r hostsIPv6.final' < ~/BLTestWin/parsing/newhosts-template-dual.txt > newhosts-template-both.txt
+sed '38r hostsIPv6.final' < ~/BLT/parsing/newhosts-template-dual.txt > newhosts-template-both.txt
 sed '35r hosts.final' < newhosts-template-both.txt > newhosts.txt
 sed -i "23s|DAYBONGODATEREPLACE|$(date -u)|" newhosts.txt
 perl -i -pe 'chomp if eof' newhosts.txt
@@ -69,7 +69,7 @@ sleep 1
 rm -f hosts.* *.final *.hosts newhosts-template-both.txt
 echo "Your hosts file has been updated!"
 echo "~---_---_---~"
-ls -lh ~/BLTestWin/hosts
+ls -lh ~/BLT/hosts
 echo "~---_---_---~"
 hostCount=$(grep -w "#" -c -v C:/Windows/System32/Drivers/etc/HOSTS)
 echo "Your current hosts file contains $hostCount unique entries..."

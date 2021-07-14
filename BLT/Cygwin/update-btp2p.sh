@@ -6,8 +6,8 @@
 	if [[ "$response" =~ ^([yY][eE][sS]|[yY])$ ]]
 	then
 echo "Cleaning up & Fetching P2P lists..."
-mkdir -p ~/BLTestWin/btp2p
-cd ~/BLTestWin/btp2p
+mkdir -p ~/BLT/btp2p
+cd ~/BLT/btp2p
 rm -f level1BT.7z bt_level1.p2p bpeersBT.7z bt_bpeers.p2p combined-final.p2p
 wget -nv -O level1BT.7z "http://list.iblocklist.com/?list=ydxerpxkpcfqjaybcssw&fileformat=p2p&archiveformat=7z"
 wget -nv -O bpeersBT.7z "http://list.iblocklist.com/?list=cwworuawihqvocglcoss&fileformat=p2p&archiveformat=7z"
@@ -27,9 +27,9 @@ perl -i -pe 'chomp if eof' combined-final.p2p
 echo "Appended proper file extension to blocklists. Combined, sorted, and de-duped. Your BitTorrent blocklist has been updated."
 rm -f level1BT.7z bt_level1.p2p bpeersBT.7z bt_bpeers.p2p
 echo "~---_---_---~"
-ls -lh ~/BLTestWin/btp2p
+ls -lh ~/BLT/btp2p
 echo "~---_---_---~"
-p2pCount=$(cat ~/BLTestWin/btp2p/combined-final.p2p | wc -l)
+p2pCount=$(cat ~/BLT/btp2p/combined-final.p2p | wc -l)
 echo "Your current P2P block list contains $p2pCount unique entries..."
 echo "~---_---_---~"
 exit
