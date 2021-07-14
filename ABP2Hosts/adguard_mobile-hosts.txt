@@ -1,4 +1,4 @@
-# Sun Jul 11 11:55:16 PM UTC 2021
+# $(date -u +%0D~%0T)
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -1260,6 +1260,7 @@
 0.0.0.0 analytics.reyrey.net
 0.0.0.0 analytics.robinhood.com
 0.0.0.0 analytics.rogersmedia.com
+0.0.0.0 analytics.rover.io
 0.0.0.0 analytics.salmonads.com
 0.0.0.0 analytics.scalemonk.com
 0.0.0.0 analytics.seattleclouds.com
@@ -2226,6 +2227,8 @@
 0.0.0.0 bob.dmpxs.com
 0.0.0.0 boldwin-d.openx.net
 0.0.0.0 bond.iad-03.braze.com
+0.0.0.0 books-analytics-events.apple.com
+0.0.0.0 books-analytics-events.news.apple-dns.net
 0.0.0.0 boost.mobileposse.com
 0.0.0.0 boostads.net
 0.0.0.0 bootstrap.upsight-api.com
@@ -3705,6 +3708,7 @@
 0.0.0.0 event.spotxchange.com
 0.0.0.0 eventlog.outbrain.com
 0.0.0.0 events-api.otherlevels.com
+0.0.0.0 events-collector-api.viacom.tech
 0.0.0.0 events-collector.spot.im
 0.0.0.0 events-us-east-1.ipredictive.com
 0.0.0.0 events-us-west-2.ipredictive.com
@@ -3718,6 +3722,7 @@
 0.0.0.0 events.browsiprod.com
 0.0.0.0 events.cid.samba.tv
 0.0.0.0 events.claspws.tv
+0.0.0.0 events.data.microsoft.com
 0.0.0.0 events.engager.ecbsn.com
 0.0.0.0 events.engageya.com
 0.0.0.0 events.foreseeresults.com
@@ -3733,6 +3738,7 @@
 0.0.0.0 events.streamrail.net
 0.0.0.0 events.tabmo.io
 0.0.0.0 events.tapjoy.com
+0.0.0.0 events.textme-app.com
 0.0.0.0 events.tremorhub.com
 0.0.0.0 events.uber.com
 0.0.0.0 events.xg4ken.com
@@ -5010,6 +5016,7 @@
 0.0.0.0 localytics.com
 0.0.0.0 locator1.corevm.com
 0.0.0.0 locatorpp.corevm.com
+0.0.0.0 log-api.aillis.net
 0.0.0.0 log-collector.svctr.zynga.com
 0.0.0.0 log-collectors-73517960.us-east-1.elb.amazonaws.com
 0.0.0.0 log-config.samsungacr.com
@@ -5058,6 +5065,7 @@
 0.0.0.0 log.sina.cn
 0.0.0.0 log.smaato.net
 0.0.0.0 log.snapdeal.com
+0.0.0.0 log.snow.me
 0.0.0.0 log.tapatalk.com
 0.0.0.0 log.tbs.qq.com
 0.0.0.0 log.trackingio.com
@@ -6041,6 +6049,7 @@
 0.0.0.0 pingtas.qq.com
 0.0.0.0 pingtcss.qq.com
 0.0.0.0 pinterest.adsymptotic.com
+0.0.0.0 pipe.aria.microsoft.com
 0.0.0.0 pippio.com
 0.0.0.0 piq.cr-nielsen.com
 0.0.0.0 pittpostgazette-d.openx.net
@@ -7070,6 +7079,7 @@
 0.0.0.0 sejs.moatads.com
 0.0.0.0 sekindo.com
 0.0.0.0 select-d.openx.net
+0.0.0.0 self.events.data.microsoft.com
 0.0.0.0 send.microadinc.com
 0.0.0.0 sender.clevernt.com
 0.0.0.0 sense360eng.com.herokudns.com
@@ -7652,6 +7662,7 @@
 0.0.0.0 stm-cdn.cn.miaozhen.com
 0.0.0.0 stm-collect.cn.miaozhen.com
 0.0.0.0 stnetsdk.vivo.com.cn
+0.0.0.0 stocks-analytics-events.news.apple-dns.net
 0.0.0.0 storage.cloud.kargo.com
 0.0.0.0 storeconfig.mistat.intl.xiaomi.com
 0.0.0.0 stra.hasmobi.net

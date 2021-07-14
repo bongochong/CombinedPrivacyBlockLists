@@ -1851,6 +1851,7 @@
 0.0.0.0 adc03.media-rep.com
 0.0.0.0 adc2.adcentriconline.com
 0.0.0.0 adc3-assets.adcolony.com
+0.0.0.0 adc3-launch-staging.adcolony.com
 0.0.0.0 adc3-launch.adcolony.com
 0.0.0.0 adcamp.ru
 0.0.0.0 adcash.com
@@ -2060,6 +2061,7 @@
 0.0.0.0 adm-assets.vrvm.com
 0.0.0.0 adm-cdn.vrtzads.com
 0.0.0.0 adm-td.adnow.com
+0.0.0.0 adm.admixer.com
 0.0.0.0 adm.dynamicyield.com
 0.0.0.0 adm.fwmrm.net
 0.0.0.0 adm.shinobi.jp
@@ -2607,6 +2609,7 @@
 0.0.0.0 ads.associatedcontent.com
 0.0.0.0 ads.astalavista.us
 0.0.0.0 ads.atlantamotorspeedway.com
+0.0.0.0 ads.atomex.net
 0.0.0.0 ads.auctionads.com
 0.0.0.0 ads.auctioncity.co.nz
 0.0.0.0 ads.auctions.yahoo.com
@@ -6356,7 +6359,6 @@
 0.0.0.0 androidads20staging.adcolony.com
 0.0.0.0 androidads21.adcolony.com
 0.0.0.0 androidads23.adcolony.com
-0.0.0.0 androidads30.adcolony.com
 0.0.0.0 androidsdk.ads.mp.mydas.mobi
 0.0.0.0 anduongjsc.com
 0.0.0.0 andydill.com
@@ -6539,6 +6541,7 @@
 0.0.0.0 api-analytics.metaps.com
 0.0.0.0 api-dns1-e.xyz
 0.0.0.0 api-eu.adsymptotic.com
+0.0.0.0 api-hw.adxplay.com
 0.0.0.0 api-iqzone.advangelists.com
 0.0.0.0 api-log-analytics.cloud.toast.com
 0.0.0.0 api-log.immomo.com
@@ -6728,7 +6731,6 @@
 0.0.0.0 appnext.hs.llnwd.net
 0.0.0.0 appodeal.com
 0.0.0.0 appollo-plus.com
-0.0.0.0 apponline957.ir
 0.0.0.0 appromoters.tracking.adnovation.com.herokudns.com
 0.0.0.0 apps.admob.com
 0.0.0.0 apps.epom.com
@@ -6879,6 +6881,7 @@
 0.0.0.0 aspm.jp
 0.0.0.0 aspsensewiretransfergoogle.duckdns.org
 0.0.0.0 asset.adserver.vrizead.com
+0.0.0.0 asset.adxplay.com
 0.0.0.0 assets-demo.publicgood.com
 0.0.0.0 assets-staging.publicgood.com
 0.0.0.0 assets.adspruce.com
@@ -7177,7 +7180,6 @@
 0.0.0.0 backofficellc.com
 0.0.0.0 backority.ir
 0.0.0.0 backpaininstantrelief.com
-0.0.0.0 backproxyzz.ug
 0.0.0.0 backstage.taboola.com
 0.0.0.0 backtory.tapsell.ir
 0.0.0.0 backuperwebcam.weebly.com
@@ -7416,6 +7418,7 @@
 0.0.0.0 beta.easyhitcounters.com
 0.0.0.0 beta.kaprila.com
 0.0.0.0 beta.nimiqpool.com
+0.0.0.0 betaalverzoek.ir
 0.0.0.0 betbux.ir
 0.0.0.0 betrad.com.edgekey.net
 0.0.0.0 betrayedgeoffrey.com
@@ -8175,6 +8178,7 @@
 0.0.0.0 cdn.adk2.com
 0.0.0.0 cdn.adless.io
 0.0.0.0 cdn.adligature.com
+0.0.0.0 cdn.adm.admixer.com
 0.0.0.0 cdn.admarvel.com
 0.0.0.0 cdn.admixer.net
 0.0.0.0 cdn.adnwif.smt.docomo.ne.jp
@@ -8230,6 +8234,7 @@
 0.0.0.0 cdn.bapi.adsafeprotected.com
 0.0.0.0 cdn.bigcommerce.com
 0.0.0.0 cdn.bigmining.com
+0.0.0.0 cdn.bncloudfl.com
 0.0.0.0 cdn.caprofitx.com
 0.0.0.0 cdn.carbonads.com
 0.0.0.0 cdn.celtra.com
@@ -8237,7 +8242,6 @@
 0.0.0.0 cdn.cmp.advertising.com
 0.0.0.0 cdn.connectad.io
 0.0.0.0 cdn.creative.medialytics.com
-0.0.0.0 cdn.cryptservice.xyz
 0.0.0.0 cdn.de.adctrl.com
 0.0.0.0 cdn.districtm.io
 0.0.0.0 cdn.download.sweetpacks.com
@@ -8668,10 +8672,6 @@
 0.0.0.0 clientmetrics-pa.apis.com
 0.0.0.0 clientmetrics-pa.googleapis.com
 0.0.0.0 clientmetrics.kik.com
-0.0.0.0 clients-alpha.adcolony.com
-0.0.0.0 clients-api.adcolony.com
-0.0.0.0 clients-redux.adcolony.com
-0.0.0.0 clients-staging.adcolony.com
 0.0.0.0 clients.adcolony.com
 0.0.0.0 clients.adspruce.com
 0.0.0.0 clientui-adserver.ibillboard.com
@@ -8779,6 +8779,7 @@
 0.0.0.0 cna.rtb.adsrvr.org
 0.0.0.0 cnamel.com
 0.0.0.0 cnc.chase-zelle.com
+0.0.0.0 cnc.mycloudforensics.com
 0.0.0.0 cnetasiapacific.122.2o7.net
 0.0.0.0 cnetaustralia.122.2o7.net
 0.0.0.0 cneteurope.122.2o7.net
@@ -8919,7 +8920,6 @@
 0.0.0.0 complextoad.com
 0.0.0.0 complicatedgeneratelens.com
 0.0.0.0 comporationssoulll.com
-0.0.0.0 composer.adcolony.com
 0.0.0.0 compositefarming.com
 0.0.0.0 comprafacil.com.br
 0.0.0.0 compucelunlock.net
@@ -9670,7 +9670,6 @@
 0.0.0.0 de-mi-nis-ner2.info
 0.0.0.0 de-ner-mi-nis4.info
 0.0.0.0 de-nis-ner-mi-5.info
-0.0.0.0 de.adcolony.com
 0.0.0.0 de.ads.adviva.net
 0.0.0.0 de.ads.justpremium.com
 0.0.0.0 de.adserver.yahoo.com
@@ -9769,6 +9768,7 @@
 0.0.0.0 desiredirt.com
 0.0.0.0 desk.mspaceads.com
 0.0.0.0 desktop.spotify.com
+0.0.0.0 desttakmultimarcas.com.br
 0.0.0.0 detailedglue.com
 0.0.0.0 detailedgovernment.com
 0.0.0.0 detect.rayjump.com
@@ -9778,7 +9778,6 @@
 0.0.0.0 dev-ad-track.aralego.com
 0.0.0.0 dev-adx.aralego.com
 0.0.0.0 dev-track.adthrive.com
-0.0.0.0 dev.adcolony.com
 0.0.0.0 dev.adctrl.com
 0.0.0.0 dev.adflex.vn
 0.0.0.0 dev.adforum.com
@@ -9875,7 +9874,6 @@
 0.0.0.0 directitsolutions.com
 0.0.0.0 directleads.com
 0.0.0.0 directlink.jp
-0.0.0.0 director.adcolony.com
 0.0.0.0 directrev.com
 0.0.0.0 directtv.tt.omtrdc.net
 0.0.0.0 directxex.com
@@ -11656,7 +11654,6 @@
 0.0.0.0 gifttory.com
 0.0.0.0 gigamon.sc.omtrdc.net
 0.0.0.0 gigamon.tt.omtrdc.net
-0.0.0.0 gigantedastintas.com.br
 0.0.0.0 gigaonclick.com
 0.0.0.0 gihf2.com
 0.0.0.0 gimoguvi.ru
@@ -11986,6 +11983,7 @@
 0.0.0.0 gxbjugb.xyz
 0.0.0.0 gxbrowser.net
 0.0.0.0 gxxservice.com
+0.0.0.0 gzjkbid.adview.com
 0.0.0.0 h-adachi.org
 0.0.0.0 h-adashx.ut.taobao.com
 0.0.0.0 h-adashx4ae.ut.taobao.com
@@ -12247,6 +12245,7 @@
 0.0.0.0 hk-vid-events.taboola.com
 0.0.0.0 hk-wf.taboola.com
 0.0.0.0 hk.adserver.yahoo.com
+0.0.0.0 hkbid.adview.com
 0.0.0.0 hlde1.online
 0.0.0.0 hlebb.pw
 0.0.0.0 hlggregoriazl.xyz
@@ -12685,6 +12684,7 @@
 0.0.0.0 img.adskeeper.co.uk
 0.0.0.0 img.adtiming.com
 0.0.0.0 img.adverticum.net
+0.0.0.0 img.adview.com
 0.0.0.0 img.ak.impact-ad.jp
 0.0.0.0 img.applovin.com
 0.0.0.0 img.aread.site
@@ -12961,7 +12961,6 @@
 0.0.0.0 iodatadevice.d2.sc.omtrdc.net
 0.0.0.0 iogous.com
 0.0.0.0 iopaos.dyndns.dk
-0.0.0.0 iosads20.adcolony.com
 0.0.0.0 iosads22.adcolony.com
 0.0.0.0 iosads24.adcolony.com
 0.0.0.0 iotapi.adups.com
@@ -12982,6 +12981,7 @@
 0.0.0.0 ipdata.adtech.de
 0.0.0.0 ipdata.adtech.fr
 0.0.0.0 ipdata.adtech.us
+0.0.0.0 ipds.adm.admixer.com
 0.0.0.0 ipds.adrta.com
 0.0.0.0 ipds.gateway.adrta.com
 0.0.0.0 iphm.info
@@ -13000,6 +13000,7 @@
 0.0.0.0 ipv6-google.net
 0.0.0.0 ipv6-google.org
 0.0.0.0 ipv6-microsoft.org
+0.0.0.0 ipv6.adm.admixer.com
 0.0.0.0 ipv6.adrta.com
 0.0.0.0 iq001.adtech.de
 0.0.0.0 iq001.adtech.fr
@@ -13052,6 +13053,7 @@
 0.0.0.0 itmedia.122.2o7.net
 0.0.0.0 itoman.doorblog.jp
 0.0.0.0 itrackerpro.com
+0.0.0.0 itrendstore.ro
 0.0.0.0 itsmeyourfriendhi.ga
 0.0.0.0 itsmydomain.xyz
 0.0.0.0 ittnads.advantagegroup.ie
@@ -13330,6 +13332,7 @@
 0.0.0.0 juatubatransparente.org
 0.0.0.0 judax.live
 0.0.0.0 judicialance.com
+0.0.0.0 juhu-ad.com
 0.0.0.0 juicyads.com
 0.0.0.0 jukesbrxd.xyz
 0.0.0.0 jumpinghouse.org
@@ -13508,7 +13511,6 @@
 0.0.0.0 kotoran.com
 0.0.0.0 koukoku.red
 0.0.0.0 koutafa.ddns.net
-0.0.0.0 kowashitekata.ru
 0.0.0.0 kozbot.xyz
 0.0.0.0 kozol.info
 0.0.0.0 kpatelbyes.com
@@ -13760,6 +13762,7 @@
 0.0.0.0 lifeclick.ir
 0.0.0.0 lifeofbeer.ru
 0.0.0.0 lifestyledrinks.hu
+0.0.0.0 lifestyledrinks.pl
 0.0.0.0 lifesuporte.site
 0.0.0.0 liftocean.us
 0.0.0.0 lightclick.ir
@@ -13830,7 +13833,6 @@
 0.0.0.0 lizardslaugh.com
 0.0.0.0 lizen-pierre.be
 0.0.0.0 lizoblyudnichat.ru
-0.0.0.0 lizzzqua.ac.ug
 0.0.0.0 lka177m3agc.37xia484cnd499x.ga
 0.0.0.0 lkasdjfklhngn.pw
 0.0.0.0 lkdff.com
@@ -14267,7 +14269,6 @@
 0.0.0.0 loopme.me
 0.0.0.0 lopiax.us
 0.0.0.0 lopsidedspoon.com
-0.0.0.0 lopxep10.top
 0.0.0.0 lordpopup.com
 0.0.0.0 losital.ru
 0.0.0.0 lotusabloom.com
@@ -16256,6 +16257,7 @@
 0.0.0.0 oteam.io
 0.0.0.0 other.xxxcounter.com
 0.0.0.0 otidhe04.top
+0.0.0.0 otivzt10.top
 0.0.0.0 otpercpiheno.blogspot.com
 0.0.0.0 ots.optimize.webtrends.com
 0.0.0.0 ottacknet.112.2o7.net
@@ -16600,7 +16602,6 @@
 0.0.0.0 picture-uploads.com
 0.0.0.0 pictureviewerpro.hopto.org
 0.0.0.0 picura.it
-0.0.0.0 pie.adcolony.com
 0.0.0.0 pietexture.com
 0.0.0.0 pigspie.com
 0.0.0.0 pikantojuice.com
@@ -16626,6 +16627,7 @@
 0.0.0.0 piscanecmatematika.xyz
 0.0.0.0 pittsburghpostgazette.112.2o7.net
 0.0.0.0 pix-fix.net
+0.0.0.0 pix.adm.admixer.com
 0.0.0.0 pix.adrta.com
 0.0.0.0 pix.adxpremium.services
 0.0.0.0 pix521.adtech.de
@@ -16932,6 +16934,7 @@
 0.0.0.0 pranking9.ziyu.net
 0.0.0.0 prazd-pack.ru
 0.0.0.0 prdwebcollector.ruetracking.com
+0.0.0.0 pre-adui.tg.meitu.com
 0.0.0.0 pre.ads.justpremium.com
 0.0.0.0 pre23sence.club
 0.0.0.0 preaf-ad.jp
@@ -17529,6 +17532,7 @@
 0.0.0.0 report.adsplay.net
 0.0.0.0 report.adsplay.xyz
 0.0.0.0 report.adview.cn
+0.0.0.0 report.adview.com
 0.0.0.0 report.broadcastpc.tv
 0.0.0.0 report.statistics.aatkit.com
 0.0.0.0 report02.adtech.de
@@ -17564,6 +17568,7 @@
 0.0.0.0 res-ad-kr.kajicam.com
 0.0.0.0 res-ad.kajicam.com
 0.0.0.0 res-push.ad.jiguang.cn
+0.0.0.0 res.adxplay.com
 0.0.0.0 res.ateam-ad.jp
 0.0.0.0 reseller.hitbox.com
 0.0.0.0 reselling-corp.com
@@ -18261,7 +18266,6 @@
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 secureserverftp.xyz
 0.0.0.0 securetopdevelopment.kz
-0.0.0.0 securev4vcapi.adcolony.com
 0.0.0.0 securitydefender.xyz
 0.0.0.0 sediliny.info
 0.0.0.0 seed-1.nimiq-network.com
@@ -19180,6 +19184,7 @@
 0.0.0.0 static-doubleclick-net.l.google.com
 0.0.0.0 static-downloads.com
 0.0.0.0 static-google-analtyic.com
+0.0.0.0 static-res.adxplay.com
 0.0.0.0 static-rtb.adkernel.com
 0.0.0.0 static-src.adxxx.com
 0.0.0.0 static-system.adtarget.me
@@ -20558,6 +20563,7 @@
 0.0.0.0 tracker.clicktrade.com
 0.0.0.0 tracker.consumerpackage.net
 0.0.0.0 tracker.coopt.com
+0.0.0.0 tracker.cpmdata.net
 0.0.0.0 tracker.creativecdn.com
 0.0.0.0 tracker.databrain.com
 0.0.0.0 tracker.datatrics.com
@@ -20767,6 +20773,7 @@
 0.0.0.0 tracking.mailtracker.in
 0.0.0.0 tracking.marketviaemail.net
 0.0.0.0 tracking.medpagetoday.com
+0.0.0.0 tracking.mellowads.com
 0.0.0.0 tracking.meta.vn
 0.0.0.0 tracking.metalyzer.com
 0.0.0.0 tracking.miui.com
@@ -22990,6 +22997,7 @@
 0.0.0.0 www.adminshop.com
 0.0.0.0 www.admission.net
 0.0.0.0 www.admixer.co.kr
+0.0.0.0 www.admixer.com
 0.0.0.0 www.admixer.net
 0.0.0.0 www.admixxer.com
 0.0.0.0 www.admized.com
@@ -23593,6 +23601,7 @@
 0.0.0.0 www.advicethrew.com
 0.0.0.0 www.advideum.com
 0.0.0.0 www.adview.cn
+0.0.0.0 www.adview.com
 0.0.0.0 www.adview.pl
 0.0.0.0 www.advinapps.com
 0.0.0.0 www.advinci.club
@@ -24259,6 +24268,7 @@
 0.0.0.0 www.internet-ps.com
 0.0.0.0 www.is-tracking-pixel-api-prod.appspot.com
 0.0.0.0 www.itrackerpro.com
+0.0.0.0 www.itrendstore.ro
 0.0.0.0 www.iwantmyfreecash.com
 0.0.0.0 www.jellycounter.com
 0.0.0.0 www.jqassets.download
@@ -24280,6 +24290,7 @@
 0.0.0.0 www.jshosting.stream
 0.0.0.0 www.jshosting.trade
 0.0.0.0 www.jshosting.win
+0.0.0.0 www.juhu-ad.com
 0.0.0.0 www.juicyads.com
 0.0.0.0 www.kartlab.it
 0.0.0.0 www.laanchoa.it
