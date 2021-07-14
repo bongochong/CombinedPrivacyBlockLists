@@ -13,7 +13,7 @@
 # http://pgl.yoyo.org/adservers/serverlist.php             #
 # http://www.malwaredomainlist.com/hostslist/hosts.txt     #
 # http://hosts-file.net/... and more!                      #
-# Using a tool (HostsUpdater) which can be found here:     #
+# Using a tool (CPBL-BLT) which can be found here:         #
 # https://github.com/bongochong/CombinedPrivacyBlockLists/ #
 # Notes: The Operating System does not read the "#" symbol #
 # You can create your own notes, after the # symbol        #
