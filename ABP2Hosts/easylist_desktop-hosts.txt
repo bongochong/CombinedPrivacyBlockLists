@@ -1,4 +1,4 @@
-# Wed Jul 14 05:21:38 AM UTC 2021
+# Wed Jul 14 05:31:18 AM UTC 2021
 # EasyList Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 0-24bpautomentes.hu
 0.0.0.0 00-gov.cn
@@ -20346,6 +20346,7 @@
 0.0.0.0 lvt1980.cn
 0.0.0.0 lvyabgbohlv.com
 0.0.0.0 lvylv.cn
+0.0.0.0 lw.musictarget.com
 0.0.0.0 lwadm.com
 0.0.0.0 lwhitectionphy.club
 0.0.0.0 lwlscy.com
