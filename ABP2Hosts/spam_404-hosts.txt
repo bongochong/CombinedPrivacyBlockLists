@@ -1,4 +1,4 @@
-# $(date -u +%0D~%0T)
+# Wed Jul 14 05:21:47 AM UTC 2021
 # Spam404 Hosts - Generated weekly by bongochong
 0.0.0.0 001www.com
 0.0.0.0 0daygameparadise.com

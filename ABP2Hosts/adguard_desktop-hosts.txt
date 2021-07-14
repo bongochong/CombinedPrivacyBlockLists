@@ -1,4 +1,4 @@
-# $(date -u +%0D~%0T)
+# Wed Jul 14 05:21:21 AM UTC 2021
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 00-gov.cn
 0.0.0.0 0024aaaa.com

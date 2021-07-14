@@ -1,4 +1,4 @@
-# $(date -u +%0D~%0T)
+# Wed Jul 14 05:21:58 AM UTC 2021
 # Disconnect Consolidated Hosts - Generated weekly by bongochong
 0.0.0.0 101com.com
 0.0.0.0 101order.com
