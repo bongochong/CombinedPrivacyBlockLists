@@ -13,14 +13,14 @@ ff02::2 ip6-allrouters
 # http://pgl.yoyo.org/adservers/serverlist.php             #
 # http://www.malwaredomainlist.com/hostslist/hosts.txt     #
 # http://hosts-file.net/... and more!                      #
-# Using a tool (HostsUpdater) which can be found here:     #
+# Using a tool (CPBL-BLT) which can be found here:         #
 # https://github.com/bongochong/CombinedPrivacyBlockLists/ #
 # Notes: The Operating System does not read the "#" symbol #
 # You can create your own notes, after the # symbol        #
 # This *must* be the first line: 127.0.0.1    localhost    #
 #                                                          #
 #**********************************************************#
-# ------------- DAYBONGODATEREPLACE ---------- #
+# ------------------- DAYBONGODATEREPLACE ------------------ #
 #**********************************************************#
 #                                                          #
 # Disclaimer: cow pigs won dogs on six for personal use    #

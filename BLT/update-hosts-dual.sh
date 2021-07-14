@@ -60,7 +60,7 @@ perl -i -pe 'chomp if eof' hostsIPv6.final
 echo "Successfully merged hosts lists!"
 sed '38r hostsIPv6.final' < ~/BLT/parsing/newhosts-template-dual.txt > newhosts-template-both.txt
 sed '35r hosts.final' < newhosts-template-both.txt > newhosts.txt
-sed -i "23s|DAYBONGODATEREPLACE|$(date -u)|" newhosts.txt
+sed -i "23s|DAYBONGODATEREPLACE|$(date -u +%0D~%0T)|" newhosts.txt
 perl -i -pe 'chomp if eof' newhosts.txt
 echo "Successfully cleaned up and formatted hosts file! Prompting for password to make backup of and overwrite /etc/hosts..."
 sudo cp /etc/hosts hostsbackup.txt
