@@ -1,4 +1,4 @@
-# Wed Jul 14 05:30:47 AM UTC 2021
+# Wed Jul 14 08:38:45 PM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -298,6 +298,7 @@
 0.0.0.0 a8571253058.cdn.optimizely.com
 0.0.0.0 a94828c6a08d914296a1d178d1de5102.ulink.adjust.com
 0.0.0.0 a989617545.cdn.optimizely.com
+0.0.0.0 aag.yahooapis.jp
 0.0.0.0 aamt.today.com
 0.0.0.0 aan.amazon-adsystem.com
 0.0.0.0 aan.amazon.co.jp
@@ -2251,6 +2252,7 @@
 0.0.0.0 brokerbabe.com
 0.0.0.0 bronrt.stsdk.vivo.com.cn
 0.0.0.0 brort.stsdk.vivo.com.cn
+0.0.0.0 browser.events.data.microsoft.com
 0.0.0.0 browsercollector.oneapm.com
 0.0.0.0 brpnrt.stsdk.vivo.com.cn
 0.0.0.0 brprt.stsdk.vivo.com.cn
