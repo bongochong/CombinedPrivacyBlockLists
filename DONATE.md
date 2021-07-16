@@ -1,5 +1,5 @@
 **Please Consider Donating**  
-Times are tough, and any donations go toward helping this guy stay working.
+All donations go toward my continued work on this project and several others.
 <br>
 Along with donating through Brave Rewards, you can also use the following cryptocurrencies:  
 <br>
@@ -16,6 +16,11 @@ NP2BFYMFHJD4Y4U3HTFCTT3ZOAU2WAOEJ5V24RO56W3NGHFJXZ7MO4LAFY
 
 **Cardano** (*ADA*):  
 addr1qxl9mhqw2dnghm3a52mzp8qtmkmzt3dc28mnsdc2e40rwja7thwqu5mx30hrmg4kyzwqhhdkyhzms50h8qms4n27xa9st7p9u5
+
+---
+
+**Dogecoin** (*DOGE*):  
+DJPwinXkgipqaai517Mu6UYAJw6SXxpdje
 
 ---
 
