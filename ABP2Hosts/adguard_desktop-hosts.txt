@@ -1,4 +1,4 @@
-# Wed Jul 14 08:56:28 PM UTC 2021
+# Fri Jul 16 02:44:45 AM UTC 2021
 # AdGuard Desktop Hosts - Generated weekly by bongochong
 0.0.0.0 00-gov.cn
 0.0.0.0 0024aaaa.com
@@ -3658,6 +3658,7 @@
 0.0.0.0 advanced-web-analytics.com
 0.0.0.0 advancedreefaquarium.com
 0.0.0.0 advancenative.com
+0.0.0.0 advancepak.com
 0.0.0.0 advancets.org
 0.0.0.0 advangelists.com
 0.0.0.0 advanseads.com
@@ -4819,6 +4820,7 @@
 0.0.0.0 analytics.thingx.tv
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 analytics.tio.ch
+0.0.0.0 analytics.tmonews.com
 0.0.0.0 analytics.tnt-tv.pl
 0.0.0.0 analytics.tntdrama.com
 0.0.0.0 analytics.tout.com
@@ -5285,6 +5287,7 @@
 0.0.0.0 apyoth.com
 0.0.0.0 apytrc.com
 0.0.0.0 aq.prices25.com
+0.0.0.0 aqc.gucheng.com
 0.0.0.0 aqcmri.xyz
 0.0.0.0 aqdawf.ccm.net
 0.0.0.0 aqgyju.cn
@@ -6054,6 +6057,7 @@
 0.0.0.0 b07b29ceb5c.com
 0.0.0.0 b07f916388fc6e06847.com
 0.0.0.0 b0d3ea12ec1b93f7af9.com
+0.0.0.0 b0e8.com
 0.0.0.0 b0f1d2.com
 0.0.0.0 b0omr3wn6u4b.com
 0.0.0.0 b1.51scw.net
@@ -6472,6 +6476,7 @@
 0.0.0.0 bc.law.com
 0.0.0.0 bc.nhk.jp
 0.0.0.0 bc05.ru
+0.0.0.0 bc0a.com
 0.0.0.0 bcanl.bca-autoveiling.nl
 0.0.0.0 bcash4you.com
 0.0.0.0 bcc-ltd.actonservice.com
@@ -7231,6 +7236,7 @@
 0.0.0.0 blogrankers.com
 0.0.0.0 blogranking.net
 0.0.0.0 blogreaderproject.com
+0.0.0.0 blogroll.click
 0.0.0.0 blogroll.livedoor.net
 0.0.0.0 blogscounter.com
 0.0.0.0 blogsontop.com
@@ -8822,6 +8828,7 @@
 0.0.0.0 checkmy.cam
 0.0.0.0 checkmygeo.com
 0.0.0.0 checkoutfree.com
+0.0.0.0 checkreliableupdatinglatest.info
 0.0.0.0 checkstat.nl
 0.0.0.0 checkyofeed.com
 0.0.0.0 checkyourgeo.info
@@ -9555,6 +9562,7 @@
 0.0.0.0 code668.com
 0.0.0.0 codeadnetwork.com
 0.0.0.0 codedexchange.com
+0.0.0.0 codedpigzed.cam
 0.0.0.0 codeenter.ru
 0.0.0.0 codefund.app
 0.0.0.0 codefund.io
@@ -10354,6 +10362,7 @@
 0.0.0.0 cqbaitong.cn
 0.0.0.0 cqcounter.com
 0.0.0.0 cqdjhj.cn
+0.0.0.0 cqdzjc.com
 0.0.0.0 cqerbihou.com
 0.0.0.0 cqfangduan.com
 0.0.0.0 cqftonline.com
@@ -10674,6 +10683,7 @@
 0.0.0.0 customer.io
 0.0.0.0 customer.summer.net.daraz.com
 0.0.0.0 customerconversio.com
+0.0.0.0 customerevents.netflix.com
 0.0.0.0 customerlib-ht-2.net.daraz.com
 0.0.0.0 cutechin.com
 0.0.0.0 cutecushion.com
@@ -11640,6 +11650,7 @@
 0.0.0.0 ddmax20.xyz
 0.0.0.0 ddomb.com
 0.0.0.0 ddomm.com
+0.0.0.0 ddot.xyz
 0.0.0.0 ddskyuu.com
 0.0.0.0 ddvbjehruuj5y.cloudfront.net
 0.0.0.0 ddvfoj5yrl2oi.cloudfront.net
@@ -13533,6 +13544,7 @@
 0.0.0.0 egrettyjokilin.info
 0.0.0.0 egroacho.com
 0.0.0.0 egxlbyokjk.com
+0.0.0.0 ehfgifjjhdaejjajacj.ru
 0.0.0.0 ehnjtmqchrub.com
 0.0.0.0 ehntqzv1apeizca.ru
 0.0.0.0 eht.endress.com
@@ -13735,8 +13747,10 @@
 0.0.0.0 elr.sfr.fr
 0.0.0.0 els298548211.medtronic.com
 0.0.0.0 elsetormentshower.com
+0.0.0.0 elsiehoney.com
 0.0.0.0 elsupposit.club
 0.0.0.0 elvidro.ru
+0.0.0.0 elvirahedwig.com
 0.0.0.0 elvx.top
 0.0.0.0 elwraek.xyz
 0.0.0.0 elyconsisterj.club
@@ -20085,6 +20099,7 @@
 0.0.0.0 jeeshapi.net
 0.0.0.0 jeetyetmedia.com
 0.0.0.0 jeffersonhealth.hrm.healthgrades.com
+0.0.0.0 jehobsee.com
 0.0.0.0 jehudf.com
 0.0.0.0 jeinvegpool.com
 0.0.0.0 jeisl.com
@@ -23905,6 +23920,7 @@
 0.0.0.0 meds.avycaz.com
 0.0.0.0 meds.viibryd.com
 0.0.0.0 medshowtiz.ru
+0.0.0.0 medtargetsystem.com
 0.0.0.0 medtiz.com
 0.0.0.0 medusasailor.com
 0.0.0.0 medyagundem.com
@@ -26451,6 +26467,7 @@
 0.0.0.0 niklesrov.com
 0.0.0.0 nil.naver.com
 0.0.0.0 niledestratherg.club
+0.0.0.0 nilreels.com
 0.0.0.0 niltibse.net
 0.0.0.0 niltutch.com
 0.0.0.0 nimdinb.com
@@ -26559,6 +26576,7 @@
 0.0.0.0 nmqdnykj.com
 0.0.0.0 nmrlx.cn
 0.0.0.0 nmtouzi.com
+0.0.0.0 nmtracking.netflix.com
 0.0.0.0 nmwalbwu.com
 0.0.0.0 nmywwgnnkmud.com
 0.0.0.0 nnavigation.info
@@ -27616,6 +27634,7 @@
 0.0.0.0 oodsotso.com
 0.0.0.0 oogala.com
 0.0.0.0 oogneenu.net
+0.0.0.0 oohingjap.com
 0.0.0.0 ooiqvr.bayer.jp
 0.0.0.0 ookedapp.club
 0.0.0.0 ookmakescole.club
@@ -29623,6 +29642,7 @@
 0.0.0.0 presatisfy.com
 0.0.0.0 presbanise.pw
 0.0.0.0 presentationsportsman.com
+0.0.0.0 presentationtracking.netflix.com
 0.0.0.0 presentlyarch.com
 0.0.0.0 presentsh.club
 0.0.0.0 presetrabbits.com
@@ -32052,6 +32072,7 @@
 0.0.0.0 rufadses.net
 0.0.0.0 rufflycouncil.com
 0.0.0.0 rugirls.online
+0.0.0.0 ruibokeji.cn
 0.0.0.0 ruifeng99.com
 0.0.0.0 ruigezx.com
 0.0.0.0 ruigra.com
@@ -33791,6 +33812,7 @@
 0.0.0.0 simplyhired.com
 0.0.0.0 simplyjmp.com
 0.0.0.0 simplymeasured.com
+0.0.0.0 simpunok.com
 0.0.0.0 simrubwan.com
 0.0.0.0 simvinvo.com
 0.0.0.0 sin114.com
@@ -38616,6 +38638,7 @@
 0.0.0.0 tontwiredat.info
 0.0.0.0 tooasthmaloose.com
 0.0.0.0 toodlepork.com
+0.0.0.0 tookawie.com
 0.0.0.0 tool-site.com
 0.0.0.0 tool.acces-vod.com
 0.0.0.0 toolcount.ru
@@ -39821,6 +39844,7 @@
 0.0.0.0 trofvido.com
 0.0.0.0 trombocrack.com
 0.0.0.0 trompaillames.xyz
+0.0.0.0 troncomelets.com
 0.0.0.0 tronglyre.club
 0.0.0.0 tropicalos.com
 0.0.0.0 trothko.com
@@ -41360,6 +41384,7 @@
 0.0.0.0 vnacdnryl.com
 0.0.0.0 vnbugnmwq.com
 0.0.0.0 vnf4.belleetbio.com
+0.0.0.0 vngmbyij.cn
 0.0.0.0 vniwis.pro
 0.0.0.0 vnkevmoytft.com
 0.0.0.0 vnl1.voyage-prive.nl
@@ -41497,6 +41522,7 @@
 0.0.0.0 vstaner.com
 0.0.0.0 vstats.co
 0.0.0.0 vstats.digitaltrends.com
+0.0.0.0 vstzen.com
 0.0.0.0 vsu2jbpvgx3m.com
 0.0.0.0 vsvihsib.com
 0.0.0.0 vsyaiejmfooba.com
@@ -41800,6 +41826,7 @@
 0.0.0.0 wbdsj.top
 0.0.0.0 wbiev.com
 0.0.0.0 wbkval.ecco.com
+0.0.0.0 wbmvohkn.cn
 0.0.0.0 wbpal.com
 0.0.0.0 wbsadsdel.com
 0.0.0.0 wbsadsdel2.com
