@@ -20,9 +20,7 @@ Donezo. Now you have all the utilities. You can also use this one liner to updat
 
 **Dependencies**:  
 The following packages are required to utilize all my block list utilities:  
-`wget` `pcre` `perl` `libidn2` `libidn2_0` `p7zip`
-  
-In addition, `curl` is suggested, to make use of the optional server upload feature in the PAC generator script.  
+`wget` `curl` `pcre` `perl` `libidn2` `libidn2_0` `p7zip`
   
 It should also be noted that most of these tools make heavy use of GNU `sed`.
   
