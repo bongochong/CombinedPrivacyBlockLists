@@ -1,7 +1,7 @@
 The [update-btp2p.sh script](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/Cygwin/update-btp2p.sh) is meant to automate the process of creating and updating an IP block list for your BitTorrent client (if you use one that prefers P2P lists, like Transmission and qBitTorrent), on GNU/Linux and other Unix-like Operating Systems (like OS X).
 
 **Checklist for use**:
-1. Make sure that you have [`p7zip`](http://p7zip.sourceforge.net/), [`perl`](https://www.perl.com/about/), and [`wget`](https://www.gnu.org/software/wget/) installed on your system.
+1. Make sure that you have the dependencies mentioned on the main readme installed.
 2. Open a terminal in or `cd` into your `BLT` directory.
 3. Launch the script (`./update-btp2p.sh` should do).
 4. Watch the output of the script.

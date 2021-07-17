@@ -1,7 +1,7 @@
 The [update-hosts.sh](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/update-hosts.sh), [update-hosts-dual.sh](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/update-hosts-dual.sh), and [update-hosts-six.sh](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/update-hosts-six.sh) scripts are meant to automate the process of creating and updating your computer's hosts file on GNU/Linux and other Unix-like Operating Systems (like OS X).
 
 **Checklist for use**:
-1. Make sure that you have [`pcre (or pcregrep)`](https://www.pcre.org/), [`perl`](https://www.perl.com/about/), and [`wget`](https://www.gnu.org/software/wget/) installed on your system, along with [`idn2 (or idn)`](https://linux.die.net/man/1/idn).
+1. Make sure that you have the dependencies mentioned on the main readme installed.
 2. Open a terminal in or `cd` into your `BLT` directory.
 3. Launch the script (`./update-hosts.sh` should do).
 4. Watch the output of the script.
