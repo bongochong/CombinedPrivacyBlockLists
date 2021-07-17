@@ -16,26 +16,26 @@ mkdir -p ~/"$file_dir"/parsing
 mkdir -p ~/"$file_dir"/readmes
 echo "Downloading documentation and scripts..."
 cd ~/"$file_dir"
-wget -nv "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/README.md" -O README.md
-wget -nv "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/update-btdat.sh" -O update-btdat.sh
-wget -nv "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/update-btp2p.sh" -O update-btp2p.sh
-wget -nv "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/update-hosts-dual.sh" -O update-hosts-dual.sh
-wget -nv "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/update-hosts.sh" -O update-hosts.sh
-wget -nv "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/update-hosts-six.sh" -O update-hosts-six.sh
-wget -nv "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/update-pac.sh" -O update-pac.sh
+curl -s "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/README.md" -o README.md
+curl -s "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/update-btdat.sh" -o update-btdat.sh
+curl -s "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/update-btp2p.sh" -o update-btp2p.sh
+curl -s "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/update-hosts-dual.sh" -o update-hosts-dual.sh
+curl -s "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/update-hosts.sh" -o update-hosts.sh
+curl -s "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/update-hosts-six.sh" -o update-hosts-six.sh
+curl -s "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/update-pac.sh" -o update-pac.sh
 cd ~/"$file_dir"/parsing
-wget -nv "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/parsing/hostpatterns.dat" -O hostpatterns.dat
-wget -nv "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/parsing/pacpatterns.dat" -O pacpatterns.dat
-wget -nv "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/parsing/tld-filter.dat" -O tld-filter.dat
-wget -nv "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/parsing/newhosts-template-dual.txt" -O newhosts-template-dual.txt
-wget -nv "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/parsing/newhosts-template.txt" -O newhosts-template.txt
-wget -nv "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/parsing/newhosts-template-six.txt" -O newhosts-template-six.txt
-wget -nv "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/parsing/pactemplate.txt" -O pactemplate.txt
+curl -s "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/parsing/hostpatterns.dat" -o hostpatterns.dat
+curl -s "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/parsing/pacpatterns.dat" -o pacpatterns.dat
+curl -s "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/parsing/tld-filter.dat" -o tld-filter.dat
+curl -s "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/parsing/newhosts-template-dual.txt" -o newhosts-template-dual.txt
+curl -s "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/parsing/newhosts-template.txt" -o newhosts-template.txt
+curl -s "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/parsing/newhosts-template-six.txt" -o newhosts-template-six.txt
+curl -s "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/parsing/pactemplate.txt" -o pactemplate.txt
 cd ~/"$file_dir"/readmes
-wget -nv "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/readmes/README-btdat.md" -O README-btdat.md
-wget -nv "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/readmes/README-btp2p.md" -O README-btp2p.md
-wget -nv "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/readmes/README-hosts.md" -O README-hosts.md
-wget -nv "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/readmes/README-pac.md" -O README-pac.md
+curl -s "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/readmes/README-btdat.md" -o README-btdat.md
+curl -s "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/readmes/README-btp2p.md" -o README-btp2p.md
+curl -s "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/readmes/README-hosts.md" -o README-hosts.md
+curl -s "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/readmes/README-pac.md" -o README-pac.md
 echo "..."
 echo "Ensuring that scripts are made executable..."
 echo "..."
