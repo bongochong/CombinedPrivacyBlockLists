@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Fri Jul 16 02:56:34 AM UTC 2021
+! Updated: Sat Jul 17 03:43:28 AM UTC 2021
 ! Expires: 7 Days
 ! License: https://git.io/JTTLW
 ! Homepage: https://git.io/JTTLB
@@ -83307,7 +83307,10 @@ exodus.com[class*="x__subscribe-popup"]
 exodus.com##.x__content
 exodus.com##.x-newsletter-popup
 exodus.com##.x-newsletter-popup__right
+exodus.com##.x__subscribe-popup--done-animating.x__subscribe-popup
 exodus.com##div.x-newsletter-popup__right-content:nth-of-type(2)
+ghacks.net##.stackCommerceItemWrap
+ghacks.net###stackcommerce_widget-4 > .pb--6.mb--10.border--bottom--gray.heading--tiny
 glassdoor.com##.actionBarMt0.modal_main
 glassdoor.com##.background-overlay
 glassdoor.com##.gdGrid.hardsellOverlay
@@ -83494,7 +83497,9 @@ uol.com.br##body:style(overflow: visible !important;)
 @@||amazon-adsystem.com^$domain=weather.com
 @@||api.segment.io^$xhr,domain=reuters.com
 @@||cdn.segment.com^$script,domain=reuters.com
+@@||exodus.com/support/js/subscribe-popup.js$script,domain=support.exodus.com
 @@||geolocation.onetrust.com^$domain=secure.soundcloud.com
+@@||helpscout.net$script,domain=exodus.com
 @@||ingest.sentry.io/api/$xmlhttprequest,domain=tesco.com
 @@||ingest.sentry.io/api/$xmlhttprequest,domain=tesco.hu
 @@||pwt.soundcloud.com^$domain=secure.soundcloud.com
