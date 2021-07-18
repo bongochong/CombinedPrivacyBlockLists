@@ -1,4 +1,4 @@
-// **** Fri Jul 16 02:48:18 AM UTC 2021
+// **** Sun Jul 18 10:47:39 PM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -16146,6 +16146,7 @@ shExpMatch(host, '*.venturead.com') ||
 shExpMatch(host, '*.venturellas.com') ||
 shExpMatch(host, '*.venuschicago.com') ||
 shExpMatch(host, '*.venuspo.icu') ||
+shExpMatch(host, '*.verblife-3.co') ||
 shExpMatch(host, '*.verblife-4.co') ||
 shExpMatch(host, '*.verblife-5.co') ||
 shExpMatch(host, '*.verdaedevelopment.com') ||
@@ -33680,6 +33681,7 @@ shExpMatch(host, 'venturead.com') ||
 shExpMatch(host, 'venturellas.com') ||
 shExpMatch(host, 'venuschicago.com') ||
 shExpMatch(host, 'venuspo.icu') ||
+shExpMatch(host, 'verblife-3.co') ||
 shExpMatch(host, 'verblife-4.co') ||
 shExpMatch(host, 'verblife-5.co') ||
 shExpMatch(host, 'verdaedevelopment.com') ||
