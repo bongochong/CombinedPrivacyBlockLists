@@ -1577,7 +1577,6 @@ deny from 64.159.93.205/32
 deny from 64.177.234.168/32
 deny from 64.185.226.100/31
 deny from 64.185.237.17/32
-deny from 64.186.56.73/32
 deny from 64.187.43.14/32
 deny from 64.187.43.31/32
 deny from 64.187.43.36/32
@@ -3023,7 +3022,6 @@ deny from 74.54.82.222/32
 deny from 74.54.82.224/32
 deny from 74.54.86.200/32
 deny from 74.54.152.18/32
-deny from 74.54.152.75/32
 deny from 74.54.156.143/32
 deny from 74.54.162.54/32
 deny from 74.54.183.210/32
@@ -3038,7 +3036,6 @@ deny from 74.55.127.194/32
 deny from 74.55.171.36/31
 deny from 74.55.201.106/32
 deny from 74.63.51.103/32
-deny from 74.63.68.230/32
 deny from 74.63.153.32/31
 deny from 74.63.153.58/31
 deny from 74.63.153.98/31
@@ -3247,7 +3244,6 @@ deny from 75.125.115.194/32
 deny from 75.125.118.171/32
 deny from 75.125.118.172/32
 deny from 75.125.118.184/32
-deny from 75.125.118.191/32
 deny from 75.125.118.223/32
 deny from 75.125.118.232/31
 deny from 75.125.131.242/32
@@ -3691,7 +3687,6 @@ deny from 82.98.86.161/32
 deny from 82.98.86.167/32
 deny from 82.98.86.169/32
 deny from 82.98.86.170/31
-deny from 82.98.86.172/32
 deny from 82.98.86.174/31
 deny from 82.98.86.176/32
 deny from 82.98.86.179/32
@@ -6861,10 +6856,9 @@ deny from 208.73.51.100/31
 deny from 208.73.210.48/32
 deny from 208.73.210.50/32
 deny from 208.73.210.76/32
-deny from 208.73.210.84/31
+deny from 208.73.210.84/32
 deny from 208.73.210.102/32
 deny from 208.73.210.128/32
-deny from 208.73.210.147/32
 deny from 208.73.210.155/32
 deny from 208.73.210.162/32
 deny from 208.73.210.171/32
@@ -7266,7 +7260,6 @@ deny from 209.114.36.39/32
 deny from 209.120.187.164/32
 deny from 209.120.187.245/32
 deny from 209.123.16.9/32
-deny from 209.123.16.29/32
 deny from 209.123.16.48/32
 deny from 209.126.131.118/32
 deny from 209.126.137.252/32
@@ -8353,7 +8346,6 @@ deny from 216.240.158.3/32
 deny from 216.240.187.143/32
 deny from 216.240.187.144/32
 deny from 216.240.187.148/32
-deny from 216.240.187.151/32
 deny from 216.240.187.153/32
 deny from 216.240.187.158/32
 deny from 216.240.187.175/32
