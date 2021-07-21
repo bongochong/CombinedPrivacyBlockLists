@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Sun Jul 18 10:59:50 PM UTC 2021
+! Updated: Wed Jul 21 12:09:22 AM UTC 2021
 ! Expires: 7 Days
 ! License: https://git.io/JTTLW
 ! Homepage: https://git.io/JTTLB
@@ -83192,6 +83192,12 @@ alltrainerspc.com##a[href*="hskwq.com"]
 apptracker.indeed.com##.apptracker-CovidBanner
 apptracker.indeed.com##.atw-IsHelpfulSurvey
 apptracker.indeed.com##.atw-IsHelpfulSurvey-initialState
+babylonbee.com###newsletterModal
+babylonbee.com##.modal-body
+babylonbee.com##.modal-content
+babylonbee.com##.modal fade pr-0
+babylonbee.com##.modal-header
+babylonbee.com##.modal-dialog-centered.modal-dialog
 blockgeeks.com##.banner-top
 blockgeeks.com###banner-zone-right
 blockgeeks.com##.horizontal-ad-banner
@@ -83228,6 +83234,7 @@ eightvape.com##.mobile-half.tablet-2.desktop-2.product-list-item-3 > .warning-la
 eightvape.com##.mobile-half.tablet-2.desktop-2.product-list-item-4 > .warning-label-1
 eightvape.com##.mobile-half.tablet-2.desktop-2.product-list-item-5 > .warning-label-1
 eightvape.com##.mobile-half.tablet-2.desktop-2.product-list-item-6 > .warning-label-1
+etherscan.io###overlayMain
 etymonline.com##.extensionHint
 etymonline.com##.wordDetail__extensionBanner--2Qrhv
 exodus.com[class*="x__subscribe-popup"]
@@ -83416,6 +83423,7 @@ website2.me##[id^="ws-side-banner-"]
 ##amp-ad
 ##div[id^="div-gpt-ad"]
 ! Exceptions for Un-Breaking Certain Sites
+babylonbee.com##body,html:style(overflow: auto !important)
 glassdoor.com##body,html:style(overflow: auto !important)
 indeed.com##body,html:style(overflow: auto !important)
 stpetecatalyst.com##body,html:style(overflow: auto !important)
