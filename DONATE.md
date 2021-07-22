@@ -29,13 +29,13 @@ addr1qxl9mhqw2dnghm3a52mzp8qtmkmzt3dc28mnsdc2e40rwja7thwqu5mx30hrmg4kyzwqhhdkyhz
 
 ---
 
-**BitCoin** (*BTC*):  
-bc1qk6gz7pwf2p57u5u88uc9298x4fhzmaecff5zgg
+**Ethereum** (*ETH* and any ERC-20 tokens):  
+0x3A8fE00E78E1a823C7C691d1AE029Bd8eC8Bc207
 
 ---
 
-**Ethereum** (*ETH*):  
-0x3A8fE00E78E1a823C7C691d1AE029Bd8eC8Bc207
+**BitCoin** (*BTC*):  
+bc1qk6gz7pwf2p57u5u88uc9298x4fhzmaecff5zgg
 
 ---
 
@@ -64,6 +64,11 @@ GDNNSJH2PGIPIOZHJE2BS2TMECQXWDZ5AWTLFIJL7TNN4S7QF3A45N4D
 
 ---
 
+**Ethereum Classic** (*ETC*):  
+0x073C7D3F64aF978591Cf8fc315375ac9D88f9F80
+
+---
+
 **The Graph** (*GRT*):  
 0x3A8fE00E78E1a823C7C691d1AE029Bd8eC8Bc207
 
@@ -74,12 +79,7 @@ GDNNSJH2PGIPIOZHJE2BS2TMECQXWDZ5AWTLFIJL7TNN4S7QF3A45N4D
 
 ---
 
-**Ethereum Classic** (*ETC*):  
-0x073C7D3F64aF978591Cf8fc315375ac9D88f9F80
-
----
-
 **Orchid** (*OXT*):  
-0x9D8D7E192580f22E2B5AE70847e8fFB7F85b1A68
+0x3A8fE00E78E1a823C7C691d1AE029Bd8eC8Bc207
 
 ---
