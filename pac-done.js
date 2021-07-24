@@ -1,4 +1,4 @@
-// **** Thu Jul 22 05:46:39 AM UTC 2021
+// **** Sat Jul 24 09:33:10 PM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -9678,6 +9678,7 @@ shExpMatch(host, '*.karinot.ru') ||
 shExpMatch(host, '*.karlast.com') ||
 shExpMatch(host, '*.karmaskids.com') ||
 shExpMatch(host, '*.karmic-koala.info') ||
+shExpMatch(host, '*.karonty.com') ||
 shExpMatch(host, '*.karoo.blogsky.com') ||
 shExpMatch(host, '*.kassabravo.com') ||
 shExpMatch(host, '*.kasyapiserve.com') ||
@@ -14253,7 +14254,6 @@ shExpMatch(host, '*.snapcheat.net') ||
 shExpMatch(host, '*.snapexploit.com') ||
 shExpMatch(host, '*.snapgiant.com') ||
 shExpMatch(host, '*.snaphack.net') ||
-shExpMatch(host, '*.sneakystamp.com') ||
 shExpMatch(host, '*.sniffb.com') ||
 shExpMatch(host, '*.snipe.blue') ||
 shExpMatch(host, '*.sniperdz.com') ||
@@ -17525,7 +17525,6 @@ shExpMatch(host, '*.zupiv.ru') ||
 shExpMatch(host, '*.zurev.ru') ||
 shExpMatch(host, '*.zuzzuna.eu') ||
 shExpMatch(host, '*.zw52.ru') ||
-shExpMatch(host, '*.zy16eoat1w.com') ||
 shExpMatch(host, '*.zynga-poker-hack.net') ||
 shExpMatch(host, '*.zynga-poker-hacks.com') ||
 shExpMatch(host, '*.zyngapoker.hackfree.us') ||
@@ -27213,6 +27212,7 @@ shExpMatch(host, 'karinot.ru') ||
 shExpMatch(host, 'karlast.com') ||
 shExpMatch(host, 'karmaskids.com') ||
 shExpMatch(host, 'karmic-koala.info') ||
+shExpMatch(host, 'karonty.com') ||
 shExpMatch(host, 'karoo.blogsky.com') ||
 shExpMatch(host, 'kassabravo.com') ||
 shExpMatch(host, 'kasyapiserve.com') ||
@@ -31788,7 +31788,6 @@ shExpMatch(host, 'snapcheat.net') ||
 shExpMatch(host, 'snapexploit.com') ||
 shExpMatch(host, 'snapgiant.com') ||
 shExpMatch(host, 'snaphack.net') ||
-shExpMatch(host, 'sneakystamp.com') ||
 shExpMatch(host, 'sniffb.com') ||
 shExpMatch(host, 'snipe.blue') ||
 shExpMatch(host, 'sniperdz.com') ||
@@ -35060,7 +35059,6 @@ shExpMatch(host, 'zupiv.ru') ||
 shExpMatch(host, 'zurev.ru') ||
 shExpMatch(host, 'zuzzuna.eu') ||
 shExpMatch(host, 'zw52.ru') ||
-shExpMatch(host, 'zy16eoat1w.com') ||
 shExpMatch(host, 'zynga-poker-hack.net') ||
 shExpMatch(host, 'zynga-poker-hacks.com') ||
 shExpMatch(host, 'zyngapoker.hackfree.us') ||
