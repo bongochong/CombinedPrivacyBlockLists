@@ -1,4 +1,4 @@
-// **** Sat Jul 24 09:33:10 PM UTC 2021
+// **** Tue Jul 27 10:42:55 PM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -1766,7 +1766,6 @@ shExpMatch(host, '*.aldenvids.com') ||
 shExpMatch(host, '*.aldockminerals.com') ||
 shExpMatch(host, '*.alegroup.info') ||
 shExpMatch(host, '*.alenty.com') ||
-shExpMatch(host, '*.alert.com.mt') ||
 shExpMatch(host, '*.alertafterthought.com') ||
 shExpMatch(host, '*.alerte03.com') ||
 shExpMatch(host, '*.alex-hacks.com') ||
@@ -1931,6 +1930,7 @@ shExpMatch(host, '*.analytics.brave.com') ||
 shExpMatch(host, '*.analytics.cloudron.io') ||
 shExpMatch(host, '*.analytics.cohesionapps.com') ||
 shExpMatch(host, '*.analytics.dnsfilter.com') ||
+shExpMatch(host, '*.analytics.emarketer.com') ||
 shExpMatch(host, '*.analytics.ext.go-tellm.com') ||
 shExpMatch(host, '*.analytics.fkz.re') ||
 shExpMatch(host, '*.analytics.google.com') ||
@@ -19300,7 +19300,6 @@ shExpMatch(host, 'aldenvids.com') ||
 shExpMatch(host, 'aldockminerals.com') ||
 shExpMatch(host, 'alegroup.info') ||
 shExpMatch(host, 'alenty.com') ||
-shExpMatch(host, 'alert.com.mt') ||
 shExpMatch(host, 'alertafterthought.com') ||
 shExpMatch(host, 'alerte03.com') ||
 shExpMatch(host, 'alex-hacks.com') ||
@@ -19465,6 +19464,7 @@ shExpMatch(host, 'analytics.brave.com') ||
 shExpMatch(host, 'analytics.cloudron.io') ||
 shExpMatch(host, 'analytics.cohesionapps.com') ||
 shExpMatch(host, 'analytics.dnsfilter.com') ||
+shExpMatch(host, 'analytics.emarketer.com') ||
 shExpMatch(host, 'analytics.ext.go-tellm.com') ||
 shExpMatch(host, 'analytics.fkz.re') ||
 shExpMatch(host, 'analytics.google.com') ||
