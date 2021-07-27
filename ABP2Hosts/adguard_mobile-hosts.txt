@@ -1,4 +1,4 @@
-# Sat Jul 24 09:26:58 PM UTC 2021
+# Tue Jul 27 10:32:44 PM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -3371,6 +3371,8 @@
 0.0.0.0 digitru.st
 0.0.0.0 dil.hansel.io
 0.0.0.0 diply-d.openx.net
+0.0.0.0 direct-collect.dy-api.com
+0.0.0.0 direct-collect.dy-api.eu
 0.0.0.0 direct-events-collector.spot.im
 0.0.0.0 direct.ad.cpe.dotomi.com
 0.0.0.0 direct.adsrvr.org
@@ -5463,6 +5465,7 @@
 0.0.0.0 mobisla.com
 0.0.0.0 mobivity.com
 0.0.0.0 moblink.mob.com
+0.0.0.0 mobnatives.com
 0.0.0.0 mobnerve.offerstrack.net
 0.0.0.0 moboland.net
 0.0.0.0 mobon.com
@@ -8177,6 +8180,7 @@
 0.0.0.0 tracking.admarketplace.net
 0.0.0.0 tracking.admarketplace.net.edgekey.net
 0.0.0.0 tracking.adsx.unityads.unity3d.com
+0.0.0.0 tracking.aldi-international.com
 0.0.0.0 tracking.applift.com
 0.0.0.0 tracking.apptrackerlink.com
 0.0.0.0 tracking.autoads.asia
