@@ -1,4 +1,4 @@
-// **** Tue Jul 27 10:42:55 PM UTC 2021
+// **** Sat Jul 31 10:25:55 PM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -3867,6 +3867,7 @@ shExpMatch(host, '*.clomgiriwil.com') ||
 shExpMatch(host, '*.cloud-photo.net') ||
 shExpMatch(host, '*.cloud-skins.fun') ||
 shExpMatch(host, '*.cloudcoins.biz') ||
+shExpMatch(host, '*.cloudflareinsights.com') ||
 shExpMatch(host, '*.cloudfsx.com') ||
 shExpMatch(host, '*.cloudspit.com') ||
 shExpMatch(host, '*.clrstm.com') ||
@@ -9852,8 +9853,6 @@ shExpMatch(host, '*.la21jeju.or.kr') ||
 shExpMatch(host, '*.labono.ru') ||
 shExpMatch(host, '*.laboratory-security.ru') ||
 shExpMatch(host, '*.ladenas938.com') ||
-shExpMatch(host, '*.ladsreds.com') ||
-shExpMatch(host, '*.ladsup.com') ||
 shExpMatch(host, '*.ladyz.alyx.isthebe.st') ||
 shExpMatch(host, '*.laed.ru') ||
 shExpMatch(host, '*.laenergiadeltrigo.com') ||
@@ -11964,7 +11963,6 @@ shExpMatch(host, '*.packethosting.net') ||
 shExpMatch(host, '*.pacman.gkgar.com') ||
 shExpMatch(host, '*.pacyhacks.com') ||
 shExpMatch(host, '*.padsbrown.com') ||
-shExpMatch(host, '*.padssup.com') ||
 shExpMatch(host, '*.pagead.l.google.com') ||
 shExpMatch(host, '*.pagecookie.org') ||
 shExpMatch(host, '*.pagefair.com') ||
@@ -14371,6 +14369,7 @@ shExpMatch(host, '*.spammer.ro') ||
 shExpMatch(host, '*.spannersalesman.com') ||
 shExpMatch(host, '*.sparesiphones.ru') ||
 shExpMatch(host, '*.sparkcodes.com') ||
+shExpMatch(host, '*.sparklingshelf.com') ||
 shExpMatch(host, '*.sparkspk.com') ||
 shExpMatch(host, '*.sparkstudios.com') ||
 shExpMatch(host, '*.spatsz.com') ||
@@ -15263,6 +15262,7 @@ shExpMatch(host, '*.ticfiles.com') ||
 shExpMatch(host, '*.ticketaunt.com') ||
 shExpMatch(host, '*.ticklesign.com') ||
 shExpMatch(host, '*.ticksel.com') ||
+shExpMatch(host, '*.tics.techdirt.com') ||
 shExpMatch(host, '*.tidaltv.com') ||
 shExpMatch(host, '*.tidint.pro') ||
 shExpMatch(host, '*.tien-menuisier.fr') ||
@@ -15458,7 +15458,6 @@ shExpMatch(host, '*.track.mailerlite.com') ||
 shExpMatch(host, '*.track.themaccleanup.info') ||
 shExpMatch(host, '*.track.tkbo.com') ||
 shExpMatch(host, '*.track.ultravpn.com') ||
-shExpMatch(host, '*.track.undressingpics.work') ||
 shExpMatch(host, '*.track.unear.net') ||
 shExpMatch(host, '*.track.vcdc.com') ||
 shExpMatch(host, '*.track.viewdeos.com') ||
@@ -15492,7 +15491,6 @@ shExpMatch(host, '*.tracking.ibxlink.com') ||
 shExpMatch(host, '*.tracking.internetstores.de') ||
 shExpMatch(host, '*.tracking.intl.miui.com') ||
 shExpMatch(host, '*.tracking.jiffyworld.com') ||
-shExpMatch(host, '*.tracking.lenddom.com') ||
 shExpMatch(host, '*.tracking.markethero.io') ||
 shExpMatch(host, '*.tracking.miui.com') ||
 shExpMatch(host, '*.tracking.olx-st.com') ||
@@ -21401,6 +21399,7 @@ shExpMatch(host, 'clomgiriwil.com') ||
 shExpMatch(host, 'cloud-photo.net') ||
 shExpMatch(host, 'cloud-skins.fun') ||
 shExpMatch(host, 'cloudcoins.biz') ||
+shExpMatch(host, 'cloudflareinsights.com') ||
 shExpMatch(host, 'cloudfsx.com') ||
 shExpMatch(host, 'cloudspit.com') ||
 shExpMatch(host, 'clrstm.com') ||
@@ -27386,8 +27385,6 @@ shExpMatch(host, 'la21jeju.or.kr') ||
 shExpMatch(host, 'labono.ru') ||
 shExpMatch(host, 'laboratory-security.ru') ||
 shExpMatch(host, 'ladenas938.com') ||
-shExpMatch(host, 'ladsreds.com') ||
-shExpMatch(host, 'ladsup.com') ||
 shExpMatch(host, 'ladyz.alyx.isthebe.st') ||
 shExpMatch(host, 'laed.ru') ||
 shExpMatch(host, 'laenergiadeltrigo.com') ||
@@ -29498,7 +29495,6 @@ shExpMatch(host, 'packethosting.net') ||
 shExpMatch(host, 'pacman.gkgar.com') ||
 shExpMatch(host, 'pacyhacks.com') ||
 shExpMatch(host, 'padsbrown.com') ||
-shExpMatch(host, 'padssup.com') ||
 shExpMatch(host, 'pagead.l.google.com') ||
 shExpMatch(host, 'pagecookie.org') ||
 shExpMatch(host, 'pagefair.com') ||
@@ -31905,6 +31901,7 @@ shExpMatch(host, 'spammer.ro') ||
 shExpMatch(host, 'spannersalesman.com') ||
 shExpMatch(host, 'sparesiphones.ru') ||
 shExpMatch(host, 'sparkcodes.com') ||
+shExpMatch(host, 'sparklingshelf.com') ||
 shExpMatch(host, 'sparkspk.com') ||
 shExpMatch(host, 'sparkstudios.com') ||
 shExpMatch(host, 'spatsz.com') ||
@@ -32797,6 +32794,7 @@ shExpMatch(host, 'ticfiles.com') ||
 shExpMatch(host, 'ticketaunt.com') ||
 shExpMatch(host, 'ticklesign.com') ||
 shExpMatch(host, 'ticksel.com') ||
+shExpMatch(host, 'tics.techdirt.com') ||
 shExpMatch(host, 'tidaltv.com') ||
 shExpMatch(host, 'tidint.pro') ||
 shExpMatch(host, 'tien-menuisier.fr') ||
@@ -32992,7 +32990,6 @@ shExpMatch(host, 'track.mailerlite.com') ||
 shExpMatch(host, 'track.themaccleanup.info') ||
 shExpMatch(host, 'track.tkbo.com') ||
 shExpMatch(host, 'track.ultravpn.com') ||
-shExpMatch(host, 'track.undressingpics.work') ||
 shExpMatch(host, 'track.unear.net') ||
 shExpMatch(host, 'track.vcdc.com') ||
 shExpMatch(host, 'track.viewdeos.com') ||
@@ -33026,7 +33023,6 @@ shExpMatch(host, 'tracking.ibxlink.com') ||
 shExpMatch(host, 'tracking.internetstores.de') ||
 shExpMatch(host, 'tracking.intl.miui.com') ||
 shExpMatch(host, 'tracking.jiffyworld.com') ||
-shExpMatch(host, 'tracking.lenddom.com') ||
 shExpMatch(host, 'tracking.markethero.io') ||
 shExpMatch(host, 'tracking.miui.com') ||
 shExpMatch(host, 'tracking.olx-st.com') ||
