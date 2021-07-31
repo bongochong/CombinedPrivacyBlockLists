@@ -1,4 +1,4 @@
-# Tue Jul 27 10:32:44 PM UTC 2021
+# Sat Jul 31 10:22:31 PM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -2929,6 +2929,7 @@
 0.0.0.0 collector.snplow.net
 0.0.0.0 collector.stats.socialquantum.ru
 0.0.0.0 collector.tealeaf.ibmcloud.com
+0.0.0.0 collector.vhx.tv
 0.0.0.0 collector.xhamster.com
 0.0.0.0 collector1.afreecatv.com
 0.0.0.0 colossusssp.com
@@ -3063,7 +3064,6 @@
 0.0.0.0 count.ly
 0.0.0.0 count.personyze.com
 0.0.0.0 count.taobao.com
-0.0.0.0 counter.hdvb.info
 0.0.0.0 counter.kingsoft.com
 0.0.0.0 counter.snackly.co
 0.0.0.0 cox.deliveryengine.adswizz.com
@@ -4037,6 +4037,7 @@
 0.0.0.0 gdpr.rw.yieldmo.com
 0.0.0.0 gds.mmstat.com
 0.0.0.0 gdsns1.mmstat.com
+0.0.0.0 gecko-sg.byteoversea.com
 0.0.0.0 geede.info
 0.0.0.0 gem.gbc.criteo.com
 0.0.0.0 gemini.yahoo.com
@@ -5028,6 +5029,7 @@
 0.0.0.0 log-ingestion-eu.samsungacr.com
 0.0.0.0 log-ingestion.samsungacr.com
 0.0.0.0 log-tb.isnssdk.com
+0.0.0.0 log-tb.sgsnssdk.com
 0.0.0.0 log.ad.xiaomi.com
 0.0.0.0 log.adaptv.advertising.com
 0.0.0.0 log.adplex.co.kr
@@ -5040,6 +5042,7 @@
 0.0.0.0 log.appchina.com
 0.0.0.0 log.avlyun.com
 0.0.0.0 log.avlyun.sec.intl.miui.com
+0.0.0.0 log.byteoversea.com
 0.0.0.0 log.droid4x.cn
 0.0.0.0 log.fotoable.com
 0.0.0.0 log.gds.mmstat.com
@@ -7614,6 +7617,7 @@
 0.0.0.0 statistics.videofarm.daum.net
 0.0.0.0 stats-5-split-vohnu.s.innovid.com.akadns.net
 0.0.0.0 stats-a.maxthon.com
+0.0.0.0 stats-proto.pandora.com
 0.0.0.0 stats.abbi.io
 0.0.0.0 stats.addtoany.com
 0.0.0.0 stats.appsflyer.com
@@ -7885,6 +7889,7 @@
 0.0.0.0 tagr-gcp-odr-use1.mookie1.com
 0.0.0.0 tagr-gcp-xs2-use1.mookie1.com
 0.0.0.0 tags-cdn.deployads.com
+0.0.0.0 tags-eu.tiqcdn.com
 0.0.0.0 tags-prod.vrvm.com
 0.0.0.0 tags.acmeaom.com
 0.0.0.0 tags.adsafety.net
@@ -8334,6 +8339,7 @@
 0.0.0.0 ufs.adkmob.com
 0.0.0.0 ufz.doesxyz.com
 0.0.0.0 ufzua-051ht.ads.tremorhub.com
+0.0.0.0 ug-sg.byteoversea.com
 0.0.0.0 ui.clevernt.com
 0.0.0.0 uimserv.net
 0.0.0.0 ujm.hansel.io
@@ -8941,6 +8947,7 @@
 0.0.0.0 xiuxiu.mobile.meitudata.com
 0.0.0.0 xjnwqdospderqtk.ru
 0.0.0.0 xlmc.sec.miui.com
+0.0.0.0 xlog.byteoversea.com
 0.0.0.0 xml.adx1.com
 0.0.0.0 xml.ezmob.com
 0.0.0.0 xml.revrtb.com
