@@ -13,14 +13,11 @@ wget -nv -O level1BT.7z "http://list.iblocklist.com/?list=ydxerpxkpcfqjaybcssw&f
 wget -nv -O bpeersBT.7z "http://list.iblocklist.com/?list=cwworuawihqvocglcoss&fileformat=p2p&archiveformat=7z"
 echo "Downloaded blocklists."
 7z e level1BT.7z
-sleep 1
 7z e bpeersBT.7z
-sleep 1
 echo "Extracted blocklists from archives."
 find . -name 'ydxerpxkpcfqjaybcssw.txt' -exec mv {} bt_level1.p2p \;
 find . -name 'cwworuawihqvocglcoss.txt' -exec mv {} bt_bpeers.p2p \;
 cat *.p2p | sed "s/amp;//g" | sed "s/\&//g" | tr -d "\200-\377" | sort -f | uniq -i > combined-final.p2p
-sleep 1
 perl -pi -e '$_ = "" if ( $. == 1 );' combined-final.p2p
 sed -i -e "/^#/d" -e "/^[[:space:]]*$/d" combined-final.p2p
 perl -i -pe 'chomp if eof' combined-final.p2p

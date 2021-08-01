@@ -9,7 +9,6 @@ echo "Cleaning up & Fetching PAC lists..."
 mkdir -p ~/BLT/pac
 cd ~/BLT/pac
 rm -f pac-* *.pac
-sleep 1
 echo "Changed working directory and cleaned up old data. Now downloading new lists."
 wget -nv -O 1.pac "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/MD-ID-Fork.txt"
 wget -nv -O 2.pac "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt"
@@ -32,7 +31,6 @@ perl -i -pe 'chomp if eof' pac-done.js
 echo "Properly merged and formatted block lists into new PAC file."
 # curl -T pac-done.js ftp://SERVER-AND-DIRECTORY-HERE --user USERNAME-HERE:PASSWORD-HERE
 # echo "Successfully uploaded PAC to remote servers. We're done!"
-sleep 1
 rm -f *.pac *.txt
 echo "~---_---_---~"
 ls -lh ~/BLT/pac

@@ -9,7 +9,6 @@ echo "Cleaning up & Fetching hosts lists..."
 mkdir -p ~/BLT/hosts
 cd ~/BLT/hosts
 rm -f hosts.* *.final *.hosts newhosts.txt
-sleep 1
 wget -nv -O hosts.1 "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext"
 echo "Downloaded hosts list 1"
 wget -nv -O hosts.2 "https://winhelp2002.mvps.org/hosts.txt"
@@ -58,7 +57,6 @@ perl -i -pe 'chomp if eof' newhosts.txt
 echo "Successfully cleaned up and formatted hosts file! Prompting for password to make backup of and overwrite C:/Windows/System32/Drivers/etc/HOSTS..."
 cp C:/Windows/System32/Drivers/etc/HOSTS hostsbackup.txt
 cygstart --action=runas cp newhosts.txt C:/Windows/System32/Drivers/etc/HOSTS
-sleep 1
 rm -f hosts.* *.final *.hosts
 echo "Your hosts file has been updated!"
 echo "~---_---_---~"
