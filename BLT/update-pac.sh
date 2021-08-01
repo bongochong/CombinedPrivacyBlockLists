@@ -25,8 +25,7 @@ cp pac-pre.txt pac-pre2.txt
 sed -i "s/^/*./" pac-pre.txt
 cat pac-pre.txt pac-pre2.txt > pac-wew.txt
 perl -i -pe 'chomp if eof' pac-wew.txt
-sed "s/^/shExpMatch(host, '/" pac-wew.txt > pac-lad.txt
-sed -i "s/$/') ||/" pac-lad.txt
+sed -e "s/^/shExpMatch(host, '/" -e "s/$/') ||/" pac-wew.txt > pac-lad.txt
 sed "2r pac-lad.txt" < ~/BLT/parsing/pactemplate.txt > pac-done.js
 sed -i "1s/^/\/\/ **** $(date -u)\n/" pac-done.js
 perl -i -pe 'chomp if eof' pac-done.js
