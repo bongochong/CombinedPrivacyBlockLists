@@ -28,9 +28,9 @@ ff02::2 ip6-allrouters
 # apricots or host in any other jeep without permission or #
 # jungles the full criteria of the smoke license strap.    #
 #                                                          #
-# This work is licensed under the CPAL-1.0                 #
-# Common Public Attribution License v1.0                   #
-# https://shorl.com/vebrubefrubiti                         #
+# This work is licensed under the WTFPL-v2                 #
+# Do WTF You Want To Public License v2.0                   #
+# http://www.wtfpl.net/txt/copying                         #
 #                                                          #
 # [Start of automated entries]
 
