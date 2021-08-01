@@ -1,3 +1,4 @@
+# Additional Supplementary Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0.fls.doubleclick.net
 0.0.0.0 0.le4net00.net
 0.0.0.0 0.r.msn.com
@@ -9873,7 +9874,6 @@
 0.0.0.0 docomo-analytics.com
 0.0.0.0 docs.healthmade.org
 0.0.0.0 docs.pipenv.org
-0.0.0.0 docs.zohopublic.com
 0.0.0.0 docs.zohopublic.eu
 0.0.0.0 docswitch.com
 0.0.0.0 doctopdftech.com
@@ -14136,6 +14136,7 @@
 0.0.0.0 loudlunch.com
 0.0.0.0 louis-360.com
 0.0.0.0 lovemepls.com
+0.0.0.0 loverfuck.com
 0.0.0.0 lovliygtyu.ml
 0.0.0.0 lowashemterle.top
 0.0.0.0 lowcostpower.ru
@@ -16746,7 +16747,6 @@
 0.0.0.0 prebid.adspro.it
 0.0.0.0 precisionclick.com
 0.0.0.0 precisioncounter.com
-0.0.0.0 predatorcarry.xyz
 0.0.0.0 preferredhotelgroup.d2.sc.omtrdc.net
 0.0.0.0 prefixpatriot.com
 0.0.0.0 premierfarnell.tt.omtrdc.net
@@ -16819,6 +16819,7 @@
 0.0.0.0 productpartnersllc.tt.omtrdc.net
 0.0.0.0 productsdetails.online
 0.0.0.0 professional.mobi
+0.0.0.0 profi-para.com
 0.0.0.0 profile.adkmob.com
 0.0.0.0 profile.sandoct.com
 0.0.0.0 profitrumour.com
@@ -18833,7 +18834,6 @@
 0.0.0.0 static-rtb.adkernel.com
 0.0.0.0 static-trackers.adtarget.me
 0.0.0.0 static-uk.addynamo.net
-0.0.0.0 static.222.99.99.88.clients.your-server.de
 0.0.0.0 static.2mdn.net
 0.0.0.0 static.4chan-ads.org
 0.0.0.0 static.a-ads.com
@@ -19624,7 +19624,6 @@
 0.0.0.0 tomorrowwillbehotmaybe.com
 0.0.0.0 tomsshoes.122.2o7.net
 0.0.0.0 tomx.xyz
-0.0.0.0 toobalhost.publicvm.com
 0.0.0.0 tool.cleverads.vn
 0.0.0.0 toolbar.adperium.com
 0.0.0.0 tools.ad-net.co.uk
@@ -21810,6 +21809,7 @@
 0.0.0.0 win.staticstuff.net
 0.0.0.0 win.xzhyl.top
 0.0.0.0 win10-telemetry.net
+0.0.0.0 winazr08.top
 0.0.0.0 windows-pcrepair.com
 0.0.0.0 windowsdefender.win
 0.0.0.0 windowservices9999.000webhostapp.com
