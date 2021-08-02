@@ -9,3 +9,5 @@ Just like my main lists, there are *no-formatting* versions in the [NoFormatting
 These lists will obviously not block as much content as the main lists, but they will still block *a whole lot*, thus significantly improving your experience on the world wide web.
   
 Basically, if you're using a serious toaster, these lists are for you!
+
+It should be noted that all content in this specific directory (`MiniLists`) falls under a separate license ([the WTFPL](http://www.wtfpl.net/txt/copying/)).
