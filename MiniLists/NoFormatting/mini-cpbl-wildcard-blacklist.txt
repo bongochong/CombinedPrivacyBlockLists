@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 08/02/21~00:00:02 -~
+# ~- 08/02/21~04:19:06 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -940,7 +940,6 @@
 *.360640.com
 *.360ads.com
 *.360doo.com
-*.360down7.miiyun.cn
 *.360i.com
 *.360in.com
 *.360installer.com
@@ -3214,7 +3213,6 @@
 *.act-news.com
 *.act-on.ioactive.com
 *.act-on.up.edu.pe
-*.act.acotedemoi.com
 *.act.boxerproperty.com
 *.act.colorlines.com
 *.act.convergencetraining.com
@@ -8377,6 +8375,7 @@
 *.aftabclix.com
 *.aftdt.cn
 *.afte.mopo.jp
+*.after-school.org
 *.afterdownload.com
 *.afterdownloads.com
 *.afterview.ru
@@ -10455,7 +10454,6 @@
 *.aralego.net
 *.aran9midi.com
 *.arank.com
-*.aravindanavada.com
 *.arbingfifted.club
 *.arbistars.com
 *.arbitrarydefectrightfully.com
@@ -10775,7 +10773,6 @@
 *.astaninki2.com
 *.astat.nikkei.com
 *.astatech-cn.com
-*.astdg.top
 *.aster18cdn.nl
 *.asteriresearch.com
 *.asterixenergy.in
@@ -11260,6 +11257,8 @@
 *.aypbpr.tokopedia.com
 *.ayswrotesre.club
 *.ayun.ltd
+*.az361816.vo.msecnd.net
+*.az512334.vo.msecnd.net
 *.az693360.vo.msecnd.net
 *.az708531.vo.msecnd.net
 *.azadify.com
@@ -12220,7 +12219,6 @@
 *.beatyourmeatwhileweeat.com
 *.beaubitternessapplication.com
 *.beaumont.actonservice.com
-*.beautiful-gatherings.com
 *.beauzo.brilliantearth.com
 *.beaverads.com
 *.beavertron.com
@@ -12679,7 +12677,6 @@
 *.bioanalyticalmarketing.eurofins-info.com
 *.bioblog24.ru
 *.biohailijie.cn
-*.biokeraline.com.br
 *.bionicclick.com
 *.biopaten.no
 *.biosda.com
@@ -12916,6 +12913,7 @@
 *.blog.grnstore.com
 *.blog.livedooor.info
 *.blog.lonolife.com
+*.blog.oyinblogs.com
 *.blog.takbelit.com
 *.blog.with2.net
 *.blog104.com
@@ -13048,6 +13046,7 @@
 *.bmmetrix.com
 *.bmnbzt.pool-systems.de
 *.bmnr.pw
+*.bmpool.org
 *.bmrg.reflected.net
 *.bms.zeptolab.com
 *.bmst.pw
@@ -13944,7 +13943,6 @@
 *.c.wort-suche.com
 *.c.x.oanda.com
 *.c.xbox.com
-*.c0011.boursorama.com
 *.c0012.brsimg.com
 *.c00162-dl.urbanairship.com
 *.c02o3mpych.com
@@ -14788,6 +14786,7 @@
 *.ceehimur.uk
 *.ceepq.com
 *.ceeskophishingcampaignapt1337.com
+*.ceethoglobal.com.ng
 *.ceg.g5e.com
 *.cehappear.fun
 *.cehbg.com
@@ -14889,7 +14888,6 @@
 *.cfbwql.organifishop.com
 *.cfcdist.gdn
 *.cfcloudcdn.com
-*.cfcn.allocine.net
 *.cfdanet.com
 *.cferw.com
 *.cfeucdn.com
@@ -18308,6 +18306,7 @@
 *.dacocorp.actonservice.com
 *.dacoloment.pro
 *.dacounter.com
+*.dacui.online
 *.dadawm.cc
 *.daddywu.cn
 *.dadedaxue.com
@@ -19118,7 +19117,6 @@
 *.dexpredict.com
 *.dextersolutions.actonservice.com
 *.deyidesign.com
-*.dezcom.com
 *.df-srv.de
 *.df.mob.com
 *.df09rp0cm6rp6.cloudfront.net
@@ -19654,16 +19652,13 @@
 *.dm.66qw.net
 *.dm.aizhan.com
 *.dm.cnbanbao.com
-*.dm.commentcamarche.net
 *.dm.gucheng.com
 *.dm.huochepiao.com
 *.dm.hxzdhn.com
 *.dm.isnssdk.com
 *.dm.jb51.net
-*.dm.journaldunet.com
 *.dm.jsyst.cn
 *.dm.lianzhixiu.com
-*.dm.linternaute.com
 *.dm.pw0.cn
 *.dm.riji.cn
 *.dm.sanwen.net
@@ -19985,7 +19980,6 @@
 *.download.doumaibiji.cn
 *.download.pdf00.cn
 *.download.realtimegaming.com
-*.download.rising.com.cn
 *.download.skycn.com
 *.download.ytdownloader.com
 *.download2.marketengines.com
@@ -22100,7 +22094,6 @@
 *.events.demoup.com
 *.events.engager.ecbsn.com
 *.events.gogoair.com
-*.events.guesttoguest.com
 *.events.il.fi
 *.events.influencemobile.com
 *.events.ingatlan.com
@@ -24074,7 +24067,6 @@
 *.g.hsw.cn
 *.g.icab.pk
 *.g.ign.com
-*.g.itespresso.fr
 *.g.jwpsrv.com
 *.g.koowo.com
 *.g.lznews.cn
@@ -26221,6 +26213,7 @@
 *.hcdnpe.iareduceri.ro
 *.hcenc.com
 *.hcg82f2b.com
+*.hchfug.org
 *.hchik.com
 *.hcjpbc.okmagazine.com
 *.hcjpbc.radaronline.com
@@ -27202,6 +27195,7 @@
 *.hsbkr.com
 *.hscta.net
 *.hsdn.org
+*.hsecaravans.co.uk
 *.hseda.com
 *.hsh-dayz.com
 *.hsh51nvkrv.com
@@ -28681,7 +28675,6 @@
 *.innovid.com
 *.innvitor.com
 *.inoculatebroadlyduke.com
-*.inodesthetotaldesigners.com
 *.inoglink.com
 *.inone517.com
 *.inpage-push.com
@@ -28761,6 +28754,7 @@
 *.installer.zutrack.com
 *.installer892.site
 *.installerleading.com
+*.installlcube.ru
 *.installnow.xyz
 *.installpack.net
 *.installsbarefootedringer.com
@@ -29849,7 +29843,6 @@
 *.jplymell.com
 *.jpnnybacj.ug
 *.jppbyrkkgpgo.com
-*.jppolid-track.trackprod.integration.jppol.dk
 *.jpqgxy.com
 *.jptobh.network.com.tr
 *.jpwoodfordco.com
@@ -30234,7 +30227,6 @@
 *.kaiu-marketing.com
 *.kaixinjiehun.com
 *.kaiyiluye.com
-*.kaizenjanitorial.com
 *.kaizennj.com
 *.kaizenplatform.net
 *.kaizentraffic.com
@@ -30318,7 +30310,6 @@
 *.kazban.su
 *.kazino-vulkan-play.com
 *.kbirdsind.top
-*.kbn.korben.info
 *.kbngab.com
 *.kbnihnmrghgy.com
 *.kbqebfcubeiaa.com
@@ -30561,7 +30552,6 @@
 *.kissstarringplight.com
 *.kistured.com
 *.kistutch.net
-*.kitamen.my
 *.kitbit.net
 *.kitchen.juicer.cc
 *.kitchenfurniture.cc
@@ -30810,7 +30800,6 @@
 *.krdmqluvudizq.com
 *.kreatemore.com
 *.kremlin-malwrhunterteam.info
-*.krisbadminton.com
 *.krishnapowers.com
 *.krison.xyz
 *.krkursist.com
@@ -30896,7 +30885,6 @@
 *.kurlipush.com
 *.kursatarak.com
 *.kurtillon.com
-*.kurumsal.avantajbulvari.com
 *.kushyma.com
 *.kustaucu.com
 *.kutjilsi.com
@@ -32497,7 +32485,6 @@
 *.logrocket.com
 *.logrocket.io
 *.logs-api.shoprunner.com
-*.logs-qos.tf1.fr
 *.logs.51cto.com
 *.logs.81plug.com
 *.logs.amap.com
@@ -36744,6 +36731,7 @@
 *.mslinks-downloads.com
 *.msmetrics.ws.sonos.com
 *.msnads-wm9.fplive.net
+*.msnbot-65-55-108-23.search.msn.com
 *.msnsolution.nicaze.net
 *.msnunion.com
 *.msparktrk.com
@@ -37844,7 +37832,6 @@
 *.nil.naver.com
 *.nilay.com.br
 *.niledestratherg.club
-*.nilinkeji.com
 *.nilreels.com
 *.niltibse.net
 *.niltutch.com
@@ -37915,7 +37902,6 @@
 *.njq.net
 *.njs.manhuahome.com
 *.njsbzc.cn
-*.njtiledesigncenter.com
 *.njwxh.com
 *.njxczy.com
 *.njxnsb.paodeacucar.com
@@ -38832,6 +38818,7 @@
 *.okhfyyfgw.com
 *.okkkk.com
 *.okm918.com
+*.oknoplastik.sk
 *.okokw.com
 *.okovci.ru
 *.okt.to
@@ -39793,7 +39780,6 @@
 *.p.ivoberger.com
 *.p.junshi881.com
 *.p.junshifuxin.com
-*.p.kolplay.com
 *.p.milliyet.com.tr
 *.p.nag.ru
 *.p.pagesjaunes.fr
@@ -42193,6 +42179,7 @@
 *.psewhaur.net
 *.psh.one
 *.pshtr.xyz
+*.psicheaurora.it
 *.psikologi.undhirabali.ac.id
 *.psisalte.com
 *.psitchie.com
@@ -42575,7 +42562,6 @@
 *.pvx.xcar.com.cn
 *.pw.gigazine.net
 *.pw.lpsxssm.com
-*.pwa.telephoneannuaire.fr
 *.pwfb7w87ov.ru
 *.pwikalsel.org
 *.pwjmzqx.cn
@@ -45019,7 +45005,6 @@
 *.sa.sina.cn
 *.sa.sky.it
 *.sa.tactics.com
-*.sa.tf1.fr
 *.sa.unionstatistics.com
 *.saa.247sports.com
 *.saa.cbs.com
@@ -46514,6 +46499,7 @@
 *.servicio-de-avance-cl.gq
 *.servicio-web-activacion-avance-cl.cf
 *.servicio-web-activacion-avance-cl.gq
+*.serviciovirtual.com.ar
 *.servidormensseger.hotbox.ru
 *.servidorprueba.forensict.repl.co
 *.serving-ad.tv24.vn
@@ -46625,7 +46611,6 @@
 *.sgg.southcn.com
 *.sggl1527.top
 *.sggl6527.top
-*.sgmnt.ticketswap.com
 *.sgphctileh-a.akamaihd.net
 *.sgs001.adtech.fr
 *.sgs001.adtech.us
@@ -48389,6 +48374,7 @@
 *.softspace.mobi
 *.softstreams.com
 *.softtechenterprise.com
+*.softusa.info
 *.software.seek.intel.com
 *.softwarepastel.com
 *.softwares2015.com
@@ -48894,6 +48880,7 @@
 *.spn.ee
 *.spnut.com
 *.spo7h3ktdvy5.com
+*.spolaect.info
 *.spolecznosci.net
 *.spongecell.com
 *.sponsorads.de
@@ -49018,7 +49005,6 @@
 *.sr2.liveperson.net
 *.sr57mj1bcvng4yqf2y41cep8d5.com
 *.srbijacafe.org
-*.src1.minibai.com
 *.srcip.com
 *.srcips.com
 *.srcsmrtgs.com
@@ -49551,7 +49537,6 @@
 *.stat.valica.it
 *.stat.vulkanvegas.com
 *.stat.web-regie.com
-*.stat.webevolutis.com
 *.stat.webmedia.pl
 *.stat.wolterskluwer.com
 *.stat.wolterskluwer.es
@@ -49836,7 +49821,6 @@
 *.stats.gioneemobile.net
 *.stats.glassmountains.co.uk
 *.stats.grafana.org
-*.stats.grafikart.fr
 *.stats.graitec.net
 *.stats.gruporeforma.com
 *.stats.gslc.utah.edu
@@ -50097,7 +50081,6 @@
 *.stats.zmags.com
 *.stats.zotabox.com
 *.stats1.tune.pk
-*.stats1x1.kapaza.be
 *.stats2.allure.com
 *.stats2.architecturaldigest.com
 *.stats2.arstechnica.com
@@ -50442,6 +50425,7 @@
 *.submarinebarbecueemigrant.com
 *.submarineundergonedebark.com
 *.submissing.com
+*.submissions.tentcityrecords.net
 *.submit.zapr.in
 *.submitexpress.co.uk
 *.submitnet.net
@@ -51408,10 +51392,10 @@
 *.tc-log.mattel163.com
 *.tc.18moe.net
 *.tc.airfrance.com
-*.tc.hometogo.net
 *.tc.mybb.ru
 *.tc.snpsresidential.com
 *.tc.zionsbank.com
+*.tc2.hometogo.net
 *.tc600.com
 *.tcactivity.net
 *.tcadops.ca
@@ -51568,7 +51552,6 @@
 *.tec-tec-boom.com
 *.tech.admicro.vn
 *.tech.jiukang.org
-*.tech332.synology.me
 *.tech4215978.ru
 *.tech5877413.ru
 *.tech9638514.ru
@@ -51767,7 +51750,6 @@
 *.tesdwpsdxcgsoj.com
 *.tesfatheleshs.club
 *.tesfw.com
-*.tesla.oscaro.com
 *.teslaamg.obs.cn-east-3.myhuaweicloud.com
 *.tesorak.ru
 *.test-eml.postmates.com
@@ -53069,7 +53051,6 @@
 *.track-victoriadates.com
 *.track-web.net
 *.track-west.mobileadtrading.com
-*.track.24heures.ch
 *.track.52zxzh.com
 *.track.941tracking.com
 *.track.99acres.com
@@ -53505,7 +53486,6 @@
 *.trackedlink.net
 *.trackedweb.net
 *.tracker-api.my.com
-*.tracker-id.cdiscount.com
 *.tracker-loadbalancer-1440587428.eu-central-1.elb.amazonaws.com
 *.tracker-pm2.spilleren.com
 *.tracker-sp-elb-1474841806.us-east-1.elb.amazonaws.com
@@ -53536,7 +53516,6 @@
 *.tracker.cdn-moneysmart.com
 *.tracker.cdn-us-doubleverify.com
 *.tracker.cdnbye.com
-*.tracker.cds-tracking.com
 *.tracker.cl1.fidelizador.com
 *.tracker.comunidadmarriott.com
 *.tracker.consumerpackage.net
@@ -53794,7 +53773,6 @@
 *.tracking.gpm-rtv.ru
 *.tracking.granular.ag
 *.tracking.gruppo.mps.it
-*.tracking.ha.rueducommerce.fr
 *.tracking.hannoversche.de
 *.tracking.hardoxwearparts.com
 *.tracking.healthitanalytics.com
@@ -56831,7 +56809,6 @@
 *.wbads.vo.llnwd.net
 *.wbapp.mobile.sina.cn
 *.wbbanner.mrn-news.de
-*.wbdds.allocine.fr
 *.wbdds.com
 *.wbdsj.top
 *.wbdx.fr
@@ -57505,7 +57482,6 @@
 *.winneradsmedia.com
 *.winnpxx.info
 *.winnpxxx.ru
-*.winolb06.top
 *.winorm07.top
 *.winpbn.com
 *.winqoz02.top
@@ -57859,6 +57835,7 @@
 *.wt.lovfot.ru
 *.wt.netze-bw.de
 *.wt.o.nytimes.com
+*.wt.oscaro.com
 *.wt.sexsearch.com
 *.wt.sexsearchcom.com
 *.wt.vhb.de
@@ -60285,6 +60262,7 @@
 *.zhihei.com
 *.zhihu-web-analytics.zhihu.com
 *.zhihu.xmcimg.com
+*.zhimeihui.fun
 *.zhimengweike.com
 *.zhinengap.com
 *.zhinengcd.cn
