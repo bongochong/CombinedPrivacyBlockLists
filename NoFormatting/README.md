@@ -23,4 +23,4 @@ Within this directory are the following items:
 
 - Four versions of [Chef Koch's](https://github.com/CHEF-KOCH) infamous [NSA block list](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/NoFormatting/Misc/NSABlockLists), which are **not included in any of my other lists** and are simply housed here for posterity.
 
-File names in here are basically self-explanatory, and I'm well aware at this point, that this directory should be named *AdditionalContent* or something of the sort, but it is what it is.
+File names in here are basically self-explanatory, and I'm well aware at this point, that this directory should be named *AdditionalContent* or something of the sort, but it is what it is. It should be noted that all content in this specific directory (`NoFormatting`) falls under a separate license ([the WTFPL](http://www.wtfpl.net/txt/copying/)).
