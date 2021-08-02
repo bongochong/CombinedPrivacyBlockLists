@@ -1,8 +1,7 @@
 #Anti-Telemetry Hosts for Windows from TYZBIT, CrazyMax and SpyBot Anti-Beacon
 #IPv6 Version
 #Included in default hosts file
-#Last update 4/30/2021
-
+#Last update 8/01/2021
 :: a.ads1.msn.com
 :: a.ads2.msads.net
 :: a.ads2.msn.com
@@ -22,6 +21,8 @@
 :: api.cortana.ai
 :: apps.skype.com
 :: asimov-win.settings.data.microsoft.com.akadns.net
+:: az361816.vo.msecnd.net
+:: az512334.vo.msecnd.net
 :: azwancan.trafficmanager.net
 :: b.ads1.msn.com
 :: b.ads2.msads.net
@@ -146,6 +147,7 @@
 :: cds21309.lon.llnw.net
 :: cds21313.lon.llnw.net
 :: cds21321.lon.llnw.net
+:: cds26.ams9.msecn.net
 :: cds299.lcy.llnw.net
 :: cds30027.stn.llnw.net
 :: cds308.lcy.llnw.net
@@ -217,6 +219,7 @@
 :: eu.vortex-win.data.microsoft.com
 :: eu.vortex.data.microsoft.com
 :: events.data.microsoft.com
+:: feedback.microsoft-hohm.com
 :: feedback.search.microsoft.com
 :: feedback.windows.com
 :: flex.msn.com
@@ -336,6 +339,7 @@
 :: mobile.pipe.aria.microsoft.com
 :: modern.watson.data.microsoft.com.akadns.net
 :: msedge.net
+:: msnbot-65-55-108-23.search.msn.com
 :: msntest.serving-sys.com
 :: nexus.officeapps.live.com
 :: nexusrules.officeapps.live.com
@@ -373,6 +377,7 @@
 :: ssw.live.com
 :: statsfe1.ws.microsoft.com
 :: statsfe2.update.microsoft.com.akadns.net
+:: statsfe2.ws.microsoft.com
 :: survey.watson.microsoft.com
 :: tele.trafficmanager.net
 :: telecommand.telemetry.microsoft.com
