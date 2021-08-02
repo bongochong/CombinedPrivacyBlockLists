@@ -212,6 +212,7 @@
 0.0.0.0 1ejaculationinterne.com
 0.0.0.0 1faf.pw
 0.0.0.0 1forced.com
+0.0.0.0 1freeprivacytoolsforyou.xyz
 0.0.0.0 1gq.ru
 0.0.0.0 1hos.cf
 0.0.0.0 1hwy.com
@@ -7628,6 +7629,7 @@
 0.0.0.0 bmcm.ml
 0.0.0.0 bmcm.pw
 0.0.0.0 bmnr.pw
+0.0.0.0 bmpool.org
 0.0.0.0 bmst.pw
 0.0.0.0 bmwmoter.122.2o7.net
 0.0.0.0 bn.dxlive.com
@@ -12712,6 +12714,7 @@
 0.0.0.0 installer.betterinstaller.com
 0.0.0.0 installer.zutrack.com
 0.0.0.0 installer892.site
+0.0.0.0 installlcube.ru
 0.0.0.0 installnow.xyz
 0.0.0.0 installsilver.com
 0.0.0.0 instant-payments.ru
@@ -14901,6 +14904,7 @@
 0.0.0.0 mindenegyben-blog.net
 0.0.0.0 mindenegybenblog.hu
 0.0.0.0 mindenegybenblog.net
+0.0.0.0 mine.bmpool.org
 0.0.0.0 mine.c3pool.com
 0.0.0.0 mine.fortipower.com
 0.0.0.0 mine.moneropool.com
@@ -18553,6 +18557,7 @@
 0.0.0.0 softonic.112.2o7.net
 0.0.0.0 softstreams.com
 0.0.0.0 softtechenterprise.com
+0.0.0.0 softusa.info
 0.0.0.0 sokmil-ad.com
 0.0.0.0 sokrates.adtech.de
 0.0.0.0 sokrates.adtech.fr
@@ -18668,6 +18673,7 @@
 0.0.0.0 spnet2-1.i-mobile.co.jp
 0.0.0.0 spnet33.i-mobile.co.jp
 0.0.0.0 spnet5.i-mobile.co.jp
+0.0.0.0 spolaect.info
 0.0.0.0 spontaneousance.com
 0.0.0.0 spookyslope.com
 0.0.0.0 spoolopedia.com

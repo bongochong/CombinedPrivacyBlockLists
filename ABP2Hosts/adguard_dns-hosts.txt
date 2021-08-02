@@ -1,4 +1,4 @@
-# Sun Aug  1 11:32:24 PM UTC 2021
+# Mon Aug  2 04:03:03 AM UTC 2021
 # AdGuard DNS Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 00-gov.cn
 0.0.0.0 0024aaaa.com
@@ -6836,6 +6836,7 @@
 0.0.0.0 bobi-bobi.info
 0.0.0.0 bobi-mobi.info
 0.0.0.0 bobrilla.com
+0.0.0.0 bochugho.net
 0.0.0.0 bodapet.com
 0.0.0.0 bodaybo.net
 0.0.0.0 bodelen.com
@@ -17335,6 +17336,7 @@
 0.0.0.0 innovid.com
 0.0.0.0 innvitor.com
 0.0.0.0 inoculatebroadlyduke.com
+0.0.0.0 inoculatemention.com
 0.0.0.0 inone517.com
 0.0.0.0 inoprosport.su
 0.0.0.0 inpage-push.com

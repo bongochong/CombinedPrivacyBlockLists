@@ -1,4 +1,4 @@
-# Sun Aug  1 11:32:02 PM UTC 2021
+# Mon Aug  2 04:02:40 AM UTC 2021
 # AdGuard Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 00-gov.cn
 0.0.0.0 0024aaaa.com
@@ -44403,6 +44403,7 @@
 0.0.0.0 zhide-edu.cn
 0.0.0.0 zhihei.com
 0.0.0.0 zhihu.xmcimg.com
+0.0.0.0 zhimeihui.fun
 0.0.0.0 zhimengweike.com
 0.0.0.0 zhinengap.com
 0.0.0.0 zhinengcd.cn
