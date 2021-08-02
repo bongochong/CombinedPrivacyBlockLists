@@ -2,6 +2,7 @@
 #IPv4 Version
 #Included in default hosts file
 #Last update 8/01/2021
+
 0.0.0.0 a.ads1.msn.com
 0.0.0.0 a.ads2.msads.net
 0.0.0.0 a.ads2.msn.com
