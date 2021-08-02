@@ -44,3 +44,5 @@ It should also be noted that most of these tools make heavy use of GNU `sed`.
 - If you deviate from either of the checklists then you are being dumb. This does not apply if you know what you are doing.
 
 - The Windows versions of these scripts (combined into a unified interface) can be found here: https://github.com/bongochong/CWP-Utilities
+
+- Please note that all content in this specific directory (`BLT`) falls under the main license terms of this repository ([CPAL-1.0](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/LICENSE.md)).
