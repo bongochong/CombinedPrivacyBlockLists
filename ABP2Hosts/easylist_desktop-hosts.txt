@@ -1,4 +1,4 @@
-# Tue Aug  3 10:25:21 PM UTC 2021
+# Tue Aug  3 10:50:37 PM UTC 2021
 # EasyList Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0-24bpautomentes.hu
 0.0.0.0 00-gov.cn
@@ -28366,7 +28366,6 @@
 0.0.0.0 sotuktraffic.com
 0.0.0.0 soueki.com
 0.0.0.0 soulplp.com
-0.0.0.0 soundcloud.com
 0.0.0.0 soundingexpulsioninspector.com
 0.0.0.0 soundshrillarduous.com
 0.0.0.0 sour1bare.com
