@@ -1,4 +1,4 @@
-// **** Mon Aug  2 04:05:52 AM UTC 2021
+// **** Tue Aug  3 01:16:35 AM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -710,6 +710,7 @@ shExpMatch(host, '*.adimg1.chosun.com') ||
 shExpMatch(host, '*.adimgs.sapo.pt') ||
 shExpMatch(host, '*.adimpact.com') ||
 shExpMatch(host, '*.adinch.com') ||
+shExpMatch(host, '*.adingo.jp') ||
 shExpMatch(host, '*.adinjector.net') ||
 shExpMatch(host, '*.adinterax.com') ||
 shExpMatch(host, '*.adisfy.com') ||
@@ -12169,7 +12170,6 @@ shExpMatch(host, '*.phizzle.com') ||
 shExpMatch(host, '*.phluant.com') ||
 shExpMatch(host, '*.phoenix-adrunner.mycomputer.com') ||
 shExpMatch(host, '*.phone-hack.com') ||
-shExpMatch(host, '*.phonearena.com') ||
 shExpMatch(host, '*.phonecheats.org') ||
 shExpMatch(host, '*.phones4wow.com') ||
 shExpMatch(host, '*.photo.video.gay.free.fr') ||
@@ -14913,6 +14913,7 @@ shExpMatch(host, '*.szinhaz.hu') ||
 shExpMatch(host, '*.sznaucer-figa.nd.e-wro.pl') ||
 shExpMatch(host, '*.sznm.com.cn') ||
 shExpMatch(host, '*.t-safe.nl') ||
+shExpMatch(host, '*.t.appsflyer.com') ||
 shExpMatch(host, '*.t.bawafx.com') ||
 shExpMatch(host, '*.t.device9.com') ||
 shExpMatch(host, '*.t.device9.net') ||
@@ -17270,6 +17271,7 @@ shExpMatch(host, '*.yieldlab.net') ||
 shExpMatch(host, '*.yieldmanager.com') ||
 shExpMatch(host, '*.yieldmanager.net') ||
 shExpMatch(host, '*.yieldmo.com') ||
+shExpMatch(host, '*.yieldoptimizer.com') ||
 shExpMatch(host, '*.yieldtraffic.com') ||
 shExpMatch(host, '*.yinhe555.net') ||
 shExpMatch(host, '*.yinkuya.ru') ||
@@ -18242,6 +18244,7 @@ shExpMatch(host, 'adimg1.chosun.com') ||
 shExpMatch(host, 'adimgs.sapo.pt') ||
 shExpMatch(host, 'adimpact.com') ||
 shExpMatch(host, 'adinch.com') ||
+shExpMatch(host, 'adingo.jp') ||
 shExpMatch(host, 'adinjector.net') ||
 shExpMatch(host, 'adinterax.com') ||
 shExpMatch(host, 'adisfy.com') ||
@@ -29701,7 +29704,6 @@ shExpMatch(host, 'phizzle.com') ||
 shExpMatch(host, 'phluant.com') ||
 shExpMatch(host, 'phoenix-adrunner.mycomputer.com') ||
 shExpMatch(host, 'phone-hack.com') ||
-shExpMatch(host, 'phonearena.com') ||
 shExpMatch(host, 'phonecheats.org') ||
 shExpMatch(host, 'phones4wow.com') ||
 shExpMatch(host, 'photo.video.gay.free.fr') ||
@@ -32445,6 +32447,7 @@ shExpMatch(host, 'szinhaz.hu') ||
 shExpMatch(host, 'sznaucer-figa.nd.e-wro.pl') ||
 shExpMatch(host, 'sznm.com.cn') ||
 shExpMatch(host, 't-safe.nl') ||
+shExpMatch(host, 't.appsflyer.com') ||
 shExpMatch(host, 't.bawafx.com') ||
 shExpMatch(host, 't.device9.com') ||
 shExpMatch(host, 't.device9.net') ||
@@ -34802,6 +34805,7 @@ shExpMatch(host, 'yieldlab.net') ||
 shExpMatch(host, 'yieldmanager.com') ||
 shExpMatch(host, 'yieldmanager.net') ||
 shExpMatch(host, 'yieldmo.com') ||
+shExpMatch(host, 'yieldoptimizer.com') ||
 shExpMatch(host, 'yieldtraffic.com') ||
 shExpMatch(host, 'yinhe555.net') ||
 shExpMatch(host, 'yinkuya.ru') ||
