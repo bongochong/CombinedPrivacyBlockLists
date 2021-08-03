@@ -459,6 +459,7 @@ smetrics.cnn.com
 socialize.eu1.gigya.com
 socket.bittrex.com
 someonewhocares.org
+soundcloud.com
 spankbang.com
 spclient.spotify.com
 spclient.wg.spotify.com

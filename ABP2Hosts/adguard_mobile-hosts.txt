@@ -1,4 +1,4 @@
-# Tue Aug  3 01:13:07 AM UTC 2021
+# Tue Aug  3 10:10:44 PM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -410,7 +410,6 @@
 0.0.0.0 ad.g.daum.net
 0.0.0.0 ad.hot-mob.com
 0.0.0.0 ad.i2idata.com
-0.0.0.0 ad.jetx.info
 0.0.0.0 ad.jiguang.cn
 0.0.0.0 ad.jorte.com
 0.0.0.0 ad.leadbolt.net
@@ -457,7 +456,6 @@
 0.0.0.0 ad4.com.cn
 0.0.0.0 ad4push.com
 0.0.0.0 ad6media.fr
-0.0.0.0 ad999.biz
 0.0.0.0 adacus-cdn.placelocal.com
 0.0.0.0 adadvisor.net
 0.0.0.0 adapi.inlcorp.com
@@ -895,7 +893,6 @@
 0.0.0.0 adslot.uc.cn
 0.0.0.0 adsmira.offerstrack.net
 0.0.0.0 adsmo.ru
-0.0.0.0 adsmobila.com
 0.0.0.0 adsmogo.mobi
 0.0.0.0 adsmogo.net
 0.0.0.0 adsmogo.org
@@ -1010,8 +1007,6 @@
 0.0.0.0 adywind.com
 0.0.0.0 adz.mobi
 0.0.0.0 adzerk.net
-0.0.0.0 adzfun.info
-0.0.0.0 adzfun.me
 0.0.0.0 adzmedia.com
 0.0.0.0 adzmobi.com
 0.0.0.0 adztec.com
@@ -2273,7 +2268,6 @@
 0.0.0.0 bridgetrack.com
 0.0.0.0 brightcom-d.openx.net
 0.0.0.0 brightroll-partners.tremorhub.com
-0.0.0.0 brokerbabe.com
 0.0.0.0 bronrt.stsdk.vivo.com.cn
 0.0.0.0 brort.stsdk.vivo.com.cn
 0.0.0.0 browser.events.data.microsoft.com
@@ -2733,7 +2727,6 @@
 0.0.0.0 cedexis-radar.net
 0.0.0.0 cedexis.com
 0.0.0.0 ceg.g5e.com
-0.0.0.0 cell.zhybzp.cn
 0.0.0.0 celltick.com
 0.0.0.0 celtra.com
 0.0.0.0 centralads.simpli.fi
@@ -2903,7 +2896,6 @@
 0.0.0.0 cnn.bounceexchange.com
 0.0.0.0 cnt.fout.jp
 0.0.0.0 cnt.my
-0.0.0.0 cntcash.ru
 0.0.0.0 cntj.zj.dcys.ijinshan.com
 0.0.0.0 cnv.event.prod.bidr.io
 0.0.0.0 cnvrsns.clickmeter.com
@@ -4179,7 +4171,6 @@
 0.0.0.0 go.mobtrks.com
 0.0.0.0 go.oclasrv.com
 0.0.0.0 go.pub2srv.com
-0.0.0.0 go.pushnative.com
 0.0.0.0 go.redirectingat.com
 0.0.0.0 go.shareaholic.com
 0.0.0.0 go.skimresources.com
@@ -4278,7 +4269,6 @@
 0.0.0.0 hal9000.redintelligence.net
 0.0.0.0 halc.iadvize.com
 0.0.0.0 halo.ad.gt
-0.0.0.0 haorun.pw
 0.0.0.0 hashtaglabs-d.openx.net
 0.0.0.0 hasmobi.net
 0.0.0.0 hassaleh.iad-03.braze.com
@@ -4343,7 +4333,6 @@
 0.0.0.0 horizon.sailthru.com
 0.0.0.0 hormebets.info
 0.0.0.0 hornet-d.openx.net
-0.0.0.0 hostgrater.com
 0.0.0.0 hosting-source.bm23.com
 0.0.0.0 hot-mob.com
 0.0.0.0 hotapi-va.isnssdk.com
@@ -4877,7 +4866,6 @@
 0.0.0.0 jscdn.appier.net
 0.0.0.0 jscount.com
 0.0.0.0 jslog.krxd.net
-0.0.0.0 jssdk.rayjump.com
 0.0.0.0 jssdkcdn.mparticle.com
 0.0.0.0 jssdkcdns.mparticle.com
 0.0.0.0 jssdks.mparticle.com
@@ -4901,7 +4889,6 @@
 0.0.0.0 kejet.net
 0.0.0.0 kerio-push-gateway-prod.elasticbeanstalk.com
 0.0.0.0 ketchapp.org
-0.0.0.0 keydot.net
 0.0.0.0 keymaker.go.sonobi.com
 0.0.0.0 keyserver.ijinshan.com
 0.0.0.0 keyword.ad.daum.net
@@ -5008,7 +4995,6 @@
 0.0.0.0 leadboltads.net
 0.0.0.0 leadboltapps.net
 0.0.0.0 leads.su
-0.0.0.0 leadzu.com
 0.0.0.0 leanmobi.fusetracking.com
 0.0.0.0 leanplum.com
 0.0.0.0 lee.blueconic.net
@@ -5211,7 +5197,6 @@
 0.0.0.0 m2m-api.inmarket.com
 0.0.0.0 m2m1.inner-active.mobi
 0.0.0.0 m7hdh-2damu.ads.tremorhub.com
-0.0.0.0 ma-code.ru
 0.0.0.0 ma.logsss.com
 0.0.0.0 ma.tune.com
 0.0.0.0 ma1169-r.analytics.edgekey.net
@@ -5464,7 +5449,6 @@
 0.0.0.0 moatads.com.edgekey.net
 0.0.0.0 moatpixel1.edgekey.net
 0.0.0.0 mob.adzmobi.com
-0.0.0.0 mob.huimee.net
 0.0.0.0 moba8.net
 0.0.0.0 mobad.ijinshan.com
 0.0.0.0 mobads-logs.baidu.com
@@ -5478,7 +5462,6 @@
 0.0.0.0 mobicow.com
 0.0.0.0 mobidea.com
 0.0.0.0 mobile-campaigns.avast.com
-0.0.0.0 mobile-click.biz
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 mobile-de-d.openx.net
 0.0.0.0 mobile-global.baidu.com
@@ -5526,7 +5509,6 @@
 0.0.0.0 mobnatives.com
 0.0.0.0 mobnerve.offerstrack.net
 0.0.0.0 moboland.net
-0.0.0.0 mobon.com
 0.0.0.0 mobotoolpush.moboapps.io
 0.0.0.0 mobpartner.mobi
 0.0.0.0 mobpowertech.com
@@ -5535,7 +5517,6 @@
 0.0.0.0 mobula.ssl2.duapps.com
 0.0.0.0 mobvista.com
 0.0.0.0 mobytrks.com
-0.0.0.0 mobzver.ru
 0.0.0.0 mocean.mobi
 0.0.0.0 moengagewebsdk.imgix.net
 0.0.0.0 mofox.com
@@ -5733,7 +5714,6 @@
 0.0.0.0 nineto5mac-d.openx.net
 0.0.0.0 ninja.onap.io
 0.0.0.0 njinmobirtb.lfstmedia.com
-0.0.0.0 njs.manhuahome.com
 0.0.0.0 nkis.nikkei.com
 0.0.0.0 nkredir.com
 0.0.0.0 nl.eu.criteo.com
@@ -5942,7 +5922,6 @@
 0.0.0.0 ovp.iris.tv
 0.0.0.0 ow-gateway.supersonicads.com
 0.0.0.0 ow.pubmatic.com
-0.0.0.0 owap.su
 0.0.0.0 owb101.goo.ne.jp
 0.0.0.0 owneriq.net.edgekey.net
 0.0.0.0 ox-d.slader.servedbyopenx.com
@@ -5994,10 +5973,8 @@
 0.0.0.0 pagead-googlehosted.l.google.com
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 pagead46.l.doubleclick.net
 0.0.0.0 pagefair.net
 0.0.0.0 paimgcdn.baidu.com
-0.0.0.0 painsko.com
 0.0.0.0 pandg.tapad.com
 0.0.0.0 pandoramedia-mkt-prod1-t.campaign.adobe.com
 0.0.0.0 panel.gwallet.com
@@ -6019,7 +5996,6 @@
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 partner.knorex.com
 0.0.0.0 partner.shareaholic.com
-0.0.0.0 partnerad.l.doubleclick.net
 0.0.0.0 partnerads.ysm.yahoo.com
 0.0.0.0 partnerearning.com
 0.0.0.0 partners-hotwire-com.impactradius.com
@@ -6198,7 +6174,6 @@
 0.0.0.0 pks.a.mobimagic.com
 0.0.0.0 pl-gmtdmp.mookie1.com
 0.0.0.0 pl-v2.presage.io
-0.0.0.0 pl.263gmail.org
 0.0.0.0 pl.vidazoo.com
 0.0.0.0 placebubble.gimbal.com
 0.0.0.0 placements.tapjoy.com
@@ -6224,7 +6199,6 @@
 0.0.0.0 playwire-d.openx.net
 0.0.0.0 plbslog.umeng.com
 0.0.0.0 ploy.batmobi.net
-0.0.0.0 plugin.mediavoice.com
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 plugins.blueconic.net
 0.0.0.0 pm-gateway.supersonicads.com
@@ -6267,7 +6241,6 @@
 0.0.0.0 postitial.com
 0.0.0.0 postmedia-d.openx.net
 0.0.0.0 postrelease.com
-0.0.0.0 postut.cn
 0.0.0.0 powerad.ai
 0.0.0.0 powerlinks.com
 0.0.0.0 powr-counter.herokuapp.com
@@ -6464,7 +6437,6 @@
 0.0.0.0 pushwoosh.g5e.com
 0.0.0.0 pv.mediav.com
 0.0.0.0 pw.analytics.console.aws.a2z.com
-0.0.0.0 pw.lpsxssm.com
 0.0.0.0 px-eu.adhigh.net
 0.0.0.0 px.adhigh.net
 0.0.0.0 px.britepool.com
@@ -6917,7 +6889,6 @@
 0.0.0.0 sandbox.duapps.com
 0.0.0.0 sandbox.tinypass.com
 0.0.0.0 sargas.iad-03.braze.com
-0.0.0.0 sas816.ujikdd041o.cn
 0.0.0.0 sascdn.com
 0.0.0.0 sax.sina.cn
 0.0.0.0 saymedia-d.openx.net
@@ -7276,7 +7247,6 @@
 0.0.0.0 show.3.mediav.com
 0.0.0.0 show.f.mediav.com
 0.0.0.0 show.g.mediav.com
-0.0.0.0 show.niqiu99.org
 0.0.0.0 show.re.taobao.com
 0.0.0.0 showads-sg.pubmatic.com
 0.0.0.0 showads-sgc.pubmatic.com
@@ -7386,7 +7356,6 @@
 0.0.0.0 skypicker-api.infinario.com
 0.0.0.0 slader.servedbyopenx.com
 0.0.0.0 slapi-bts.logsss.com
-0.0.0.0 slb.gedawang.com
 0.0.0.0 slc.stats.paypal.com
 0.0.0.0 slckg-4znyf.ads.tremorhub.com
 0.0.0.0 slckg-kqe2e.ads.tremorhub.com
@@ -8015,7 +7984,6 @@
 0.0.0.0 tap.rubiconproject.com
 0.0.0.0 tapad.com
 0.0.0.0 tapas.net
-0.0.0.0 tapcreatives.net
 0.0.0.0 tapdaq-adverts.global.ssl.fastly.net
 0.0.0.0 tapestry.tapad.com
 0.0.0.0 tapi.optimizely.com
@@ -8029,7 +7997,6 @@
 0.0.0.0 tappx.com
 0.0.0.0 tapsell.ir
 0.0.0.0 tapsense.com
-0.0.0.0 tapstat.ru
 0.0.0.0 taptica.com
 0.0.0.0 target2sell.com
 0.0.0.0 targetdfp320149284940.s.moatpixel.com
@@ -8097,7 +8064,6 @@
 0.0.0.0 thedrive-d.openx.net
 0.0.0.0 thehill-d.openx.net
 0.0.0.0 theoremreach.com
-0.0.0.0 theship.club
 0.0.0.0 thetradedeskinnovidmaster582779829774.s.moatpixel.com
 0.0.0.0 thetradedeskv275874568748.s.moatpixel.com
 0.0.0.0 thetrafficstat.net
@@ -8151,7 +8117,6 @@
 0.0.0.0 toecircle.com
 0.0.0.0 token.rubiconproject.com
 0.0.0.0 tonefuse.com
-0.0.0.0 tongqing2015.com
 0.0.0.0 tools.3g.qq.com
 0.0.0.0 top-fwz1.mail.ru
 0.0.0.0 topapps-func.pinsightmedia.com
@@ -8367,7 +8332,6 @@
 0.0.0.0 trustarc.mgr.consensu.org
 0.0.0.0 ts-tracker-env-2.us-east-1.elasticbeanstalk.com
 0.0.0.0 ts-tracker-env.us-east-1.elasticbeanstalk.com
-0.0.0.0 ts166.net
 0.0.0.0 tsrid.cxense.com
 0.0.0.0 tt.onthe.io
 0.0.0.0 ttplugins.ttpsdk.info
@@ -8643,7 +8607,6 @@
 0.0.0.0 vafw.adsafeprotected.com
 0.0.0.0 validate.appsflyer.com
 0.0.0.0 validator.lomadee.com
-0.0.0.0 valshara.com
 0.0.0.0 vamaker.com
 0.0.0.0 vanguard.demdex.net
 0.0.0.0 vap.lijit.com
@@ -8754,7 +8717,6 @@
 0.0.0.0 videoplus.vo.llnwd.net
 0.0.0.0 vidoomy-d.openx.net
 0.0.0.0 vidora.com
-0.0.0.0 vidout.net
 0.0.0.0 vidstat.taboola.com
 0.0.0.0 vidstatb.taboola.com
 0.0.0.0 vidutils.taboola.com
@@ -9077,7 +9039,6 @@
 0.0.0.0 yellowhammerflashint188671193078.s.moatpixel.com
 0.0.0.0 yemonisoni.com
 0.0.0.0 yes1.feng.com
-0.0.0.0 yhdichan.com
 0.0.0.0 yicha.jp
 0.0.0.0 yield-manager.browsiprod.com
 0.0.0.0 yieldbird-d.openx.net
@@ -9110,7 +9071,6 @@
 0.0.0.0 ysdk.qq.com
 0.0.0.0 yt.mmstat.com
 0.0.0.0 yt1.mmstat.com
-0.0.0.0 yuhuads.com
 0.0.0.0 yun.tuitiger.com
 0.0.0.0 z-eu.amazon-adsystem.com
 0.0.0.0 z-na.amazon-adsystem.com

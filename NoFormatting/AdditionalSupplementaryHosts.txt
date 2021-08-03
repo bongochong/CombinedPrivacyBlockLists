@@ -3797,6 +3797,7 @@
 0.0.0.0 ads.tnt.tv
 0.0.0.0 ads.top-banners.com
 0.0.0.0 ads.top500.org
+0.0.0.0 ads.topsex.cc
 0.0.0.0 ads.topwam.com
 0.0.0.0 ads.toronto.com
 0.0.0.0 ads.torrpedo.net
@@ -8557,7 +8558,6 @@
 0.0.0.0 cl320.v4.adaction.se
 0.0.0.0 clamspit.com
 0.0.0.0 clan.setare-bash.com
-0.0.0.0 clanlegion.ddns.net
 0.0.0.0 claspedtwelve.com
 0.0.0.0 classicvacations.112.2o7.net
 0.0.0.0 classmatescom.112.2o7.net
@@ -10813,6 +10813,7 @@
 0.0.0.0 f.admicro.vn
 0.0.0.0 f.admob.com
 0.0.0.0 f.aduwant.com
+0.0.0.0 f.hiterima.ru
 0.0.0.0 f0174408.xsph.ru
 0.0.0.0 f0429164.xsph.ru
 0.0.0.0 f0439583.xsph.ru
@@ -11254,7 +11255,6 @@
 0.0.0.0 fsafakfskane.net
 0.0.0.0 fsitel.com
 0.0.0.0 fso29.ru
-0.0.0.0 fsstoragecloudservice.com
 0.0.0.0 fswaeste.co.uk
 0.0.0.0 ft2025.top
 0.0.0.0 ftpupload.net
@@ -12300,7 +12300,6 @@
 0.0.0.0 i.w.inmobi.com
 0.0.0.0 i03kf0g2bd9papdx.com
 0.0.0.0 i16-tb.isnssdk.com.edgekey.net
-0.0.0.0 i16-tb.sgsnssdk.com.edgekey.net
 0.0.0.0 i2ad.jp
 0.0.0.0 i2i.com
 0.0.0.0 i2i.jp
@@ -12355,6 +12354,7 @@
 0.0.0.0 ibg.hitbox.com
 0.0.0.0 ibibo.112.2o7.net
 0.0.0.0 iblservicosonline.com
+0.0.0.0 ibotool.com
 0.0.0.0 ibsmoney.ru
 0.0.0.0 icbegypt.com
 0.0.0.0 ice.112.2o7.net
@@ -13534,6 +13534,7 @@
 0.0.0.0 leaplunchroom.com
 0.0.0.0 learning.admicro.vn
 0.0.0.0 leatherbond.top
+0.0.0.0 leavemylinkpls.mooo.com
 0.0.0.0 lebanonbt.info
 0.0.0.0 lecturehearball.com
 0.0.0.0 ledhenone.com
@@ -13633,7 +13634,6 @@
 0.0.0.0 live-en-us.ml
 0.0.0.0 live-log.immomo.com
 0.0.0.0 live.chartboost.com
-0.0.0.0 live.goatgame.live
 0.0.0.0 live.rads.msn.com
 0.0.0.0 live1powerlife.com
 0.0.0.0 livead.jp
@@ -13728,6 +13728,7 @@
 0.0.0.0 log.cmbchina.com
 0.0.0.0 log.cnt.re
 0.0.0.0 log.codemarketing.cloud
+0.0.0.0 log.cpex.cz
 0.0.0.0 log.d.eclick.vn
 0.0.0.0 log.daidoanket.vn
 0.0.0.0 log.dantocmiennui.vn
@@ -15519,6 +15520,7 @@
 0.0.0.0 newcontest.xyz
 0.0.0.0 newfield-us.info
 0.0.0.0 newfind.cloudns.cl
+0.0.0.0 newhosteeeee.ydns.eu
 0.0.0.0 newjobs.d1.sc.omtrdc.net
 0.0.0.0 newknowledge.cn
 0.0.0.0 newlanding.boomrang-app.ir
@@ -21071,7 +21073,6 @@
 0.0.0.0 updateld.xyz
 0.0.0.0 updateplayer.to
 0.0.0.0 updateservice.work
-0.0.0.0 updatesupers.ru
 0.0.0.0 updatewin32.xyz
 0.0.0.0 upgrade.scdn.co
 0.0.0.0 upgrade.scdn.com
@@ -21721,7 +21722,6 @@
 0.0.0.0 webxmr.com
 0.0.0.0 webxpo.us
 0.0.0.0 weclick.ir
-0.0.0.0 weddingstory.gr
 0.0.0.0 wedgeac.com
 0.0.0.0 wedgeenclosed.com
 0.0.0.0 weefy.me
