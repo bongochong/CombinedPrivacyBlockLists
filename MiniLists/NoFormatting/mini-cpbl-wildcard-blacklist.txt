@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 08/03/21~22:46:48 -~
+# ~- 08/03/21~23:08:34 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -21499,9 +21499,11 @@
 *.eventcapture03.com
 *.eventcapture06.com
 *.eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com
+*.eventgateway.soundcloud.com
 *.eventifiederik.pro
 *.eventlog.inspsearchapi.com
 *.eventlog.jackpot.de
+*.eventlogger.soundcloud.com
 *.eventmarketing.com.sg
 *.eventos.lp.deloittecomunicacao.com.br
 *.eventricity.biz
@@ -40487,6 +40489,7 @@
 *.promote.pair.com
 *.promoted.com
 *.promoted.sndcdn.com
+*.promoted.soundcloud.com
 *.promotion-campaigns.com
 *.promotion.partnercash.com
 *.promotion.polarisoffice.com
@@ -46796,7 +46799,6 @@
 *.souffity.com
 *.soulplp.com
 *.soundcloud-pax.pandora.com
-*.soundcloud.com
 *.soundingexpulsioninspector.com
 *.soundshrillarduous.com
 *.sour1bare.com
@@ -49764,6 +49766,7 @@
 *.telemetry.nvidia.com
 *.telemetry.reembed.com
 *.telemetry.remoteapp.windowsazure.com
+*.telemetry.soundcloud.com
 *.telemetry.swiftkey.com
 *.telemetry.tableausoftware.com
 *.telemetry.tradingview.com
