@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 08/03/21~23:08:34 -~
+# ~- 08/03/21~23:36:55 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -1433,6 +1433,7 @@
 *.66-trk-srv.com
 *.6604.org
 *.662bd114b7c9.onceedge.ru
+*.6657f1d5a25b6.com
 *.666.myddns.me
 *.6660003.com
 *.6666lm.com
@@ -1563,6 +1564,7 @@
 *.76e.org
 *.76xs.com
 *.7701534.emails.tntdrama.com
+*.77167c0d349.com
 *.77417.cn
 *.77437ee0a17f19c6085.com
 *.775e11b6033.com
@@ -1600,6 +1602,7 @@
 *.79ucic4ss8.com
 *.79zgycmr.com
 *.7a096v.cn
+*.7a43baddecf2.com
 *.7a6421ee67fdb0f660.com
 *.7a8fe1c29493.com
 *.7b6l2j.cn
@@ -7899,6 +7902,7 @@
 *.adviralmedia.com
 *.advise.co
 *.advise.gallup.com
+*.advisedlyphilosophical.com
 *.advisor.raa.com
 *.advisorded.club
 *.advisorded.com
@@ -12457,6 +12461,7 @@
 *.billypub.com
 *.bilsyndication.com
 *.bimagric.com
+*.bimathyphy.com
 *.bimlocal.com
 *.bin-layer.de
 *.bin-layer.ru
@@ -13044,6 +13049,7 @@
 *.bopvetgel.com
 *.boqufs.2nn.jp
 *.borderlands3.com
+*.boreasinflash.com
 *.boredborder.com
 *.boredcrown.com
 *.boringcoat.com
@@ -16161,6 +16167,7 @@
 *.confrontationproximity.com
 *.congestit.com
 *.congoro.com
+*.congressaffrayghosts.com
 *.conimicutlighthouse.viessmann-us.com
 *.conjeller-chikemon.com
 *.conloap.linkin.tw
@@ -17410,6 +17417,7 @@
 *.cybmas.com
 *.cyboke.cn
 *.cyclingshorts.uk.com
+*.cycytea.cn
 *.cydia.saurik.com.cdngc.net
 *.cydissalcucu.club
 *.cygnus.com
@@ -21908,6 +21916,7 @@
 *.f6bd46bbc8a.com
 *.f70123.com
 *.f71bxwn500lj.com
+*.f789bdc43e.com
 *.f7ds.liberation.fr
 *.f8205a529477e1.com
 *.f8260adbf8558d6.com
@@ -23703,6 +23712,7 @@
 *.gcdn.kz
 *.gcdnsl.com
 *.gceleritasads.com
+*.gchgao.com
 *.gcirm.clarionledger.com
 *.gcirm.honoluluadvertiser.gcion.com
 *.gcirm.montgomeryadvertiser.com
@@ -25795,6 +25805,7 @@
 *.hinfectlyb.biz
 *.hingefestivitysmelt.com
 *.hingenerall.club
+*.hinisanex.biz
 *.hinksdeba.top
 *.hinkslovel.top
 *.hionedaugsbu.info
@@ -28816,6 +28827,7 @@
 *.jonquilpapered.com
 *.joobuste.com
 *.joodoush.com
+*.joopaish.com
 *.joophesh.com
 *.joorejou.net
 *.joredi.com
@@ -29317,6 +29329,7 @@
 *.kazaa.com
 *.kazban.su
 *.kazino-vulkan-play.com
+*.kazucivi.com
 *.kbirdsind.top
 *.kbngab.com
 *.kbnihnmrghgy.com
@@ -29898,6 +29911,7 @@
 *.kwsjy9.oui.sncf
 *.kwvbhj.jcpenney.com
 *.kwwvxn.uniqlo.com
+*.kxbvazfrioxs.com
 *.kxji.com
 *.kxmvoppmbtzdi.com
 *.kxqoiypoasab.com
@@ -37237,6 +37251,7 @@
 *.obj9.cn
 *.objectservers.com
 *.objetivosaludable.com
+*.obkcnezxxuw.com
 *.obliteratebedblue.com
 *.oblivionwatcherrebellious.com
 *.oblivki-news.ru
@@ -38642,6 +38657,7 @@
 *.parsruingmeld.com
 *.partage-facile.com
 *.partclick.ir
+*.parthanonstatue.com
 *.particizedese.club
 *.particlesmanuscript.com
 *.particularmadam.com
@@ -53712,6 +53728,7 @@
 *.vanhook.re.xsph.ru
 *.vanillaicebook.com
 *.vanillaincidentfeed.com
+*.vanillapulp.com
 *.vanlai.com
 *.vanssueshyer.casa
 *.vapedia.com
@@ -54091,6 +54108,7 @@
 *.vinregle.com
 *.vinushka.xsrv.jp
 *.vinuxhome.com
+*.violateerringenglish.com
 *.violentthinner.com
 *.violinstop.com
 *.vip-163.cc
@@ -54743,6 +54761,7 @@
 *.wc.yahoodns.net
 *.wcc.admicro.vn
 *.wcdkff.rueducommerce.fr
+*.wcdny.com
 *.wcmcs.net
 *.wcnmd.top
 *.wco.crownpeak.com
@@ -55146,6 +55165,7 @@
 *.where.com
 *.whereapps.com
 *.whereascredentialsurmise.com
+*.whereasplaid.com
 *.wheredidmarkmakehismoney.com
 *.wheredoyoucomefrom.ovh
 *.wheresharrison.com
@@ -57224,6 +57244,7 @@
 *.xwdsp.com
 *.xwfluid5.com
 *.xwhtnxakjqrtf.com
+*.xwintop.top
 *.xww360.com
 *.xxaalsn.cn
 *.xxccdshj.com

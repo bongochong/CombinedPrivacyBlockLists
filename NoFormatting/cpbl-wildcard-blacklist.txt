@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 08/03/21~23:08:33 -~
+# ~- 08/03/21~23:36:53 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -1839,6 +1839,7 @@
 *.6604.org
 *.662bd114b7c9.onceedge.ru
 *.6631f33cf2a1032b.com
+*.6657f1d5a25b6.com
 *.666.myddns.me
 *.6660003.com
 *.6666lm.com
@@ -1993,6 +1994,7 @@
 *.76e.org
 *.76xs.com
 *.7701534.emails.tntdrama.com
+*.77167c0d349.com
 *.772268.com
 *.77276.com
 *.77417.cn
@@ -2043,6 +2045,7 @@
 *.79ucic4ss8.com
 *.79zgycmr.com
 *.7a096v.cn
+*.7a43baddecf2.com
 *.7a6421ee67fdb0f660.com
 *.7a8fe1c29493.com
 *.7alati.com
@@ -9059,6 +9062,7 @@
 *.adviralmedia.com
 *.advise.co
 *.advise.gallup.com
+*.advisedlyphilosophical.com
 *.advisor.raa.com
 *.advisorded.club
 *.advisorded.com
@@ -15215,6 +15219,7 @@
 *.billypub.com
 *.bilsyndication.com
 *.bimagric.com
+*.bimathyphy.com
 *.bimeiranonline.com
 *.bimil.ru
 *.bimlocal.com
@@ -16126,6 +16131,7 @@
 *.borderbrush.com
 *.borderlands3.com
 *.bordobank.net
+*.boreasinflash.com
 *.boredborder.com
 *.boredcrown.com
 *.boringbell.com
@@ -20628,6 +20634,7 @@
 *.congestit.com
 *.congoro.com
 *.congrab.com
+*.congressaffrayghosts.com
 *.conimicutlighthouse.viessmann-us.com
 *.conjeller-chikemon.com
 *.conloap.linkin.tw
@@ -22690,6 +22697,7 @@
 *.cybugim4bdzqhwl.ru
 *.cyclingshorts.uk.com
 *.cycsfe.com
+*.cycytea.cn
 *.cydia.saurik.com.cdngc.net
 *.cydissalcucu.club
 *.cydownsand.pro
@@ -29132,6 +29140,7 @@
 *.f6dy9wgfbf.ru
 *.f70123.com
 *.f71bxwn500lj.com
+*.f789bdc43e.com
 *.f7ds.liberation.fr
 *.f7p.ru
 *.f7y.at
@@ -32722,6 +32731,7 @@
 *.gcdn.kz
 *.gcdnsl.com
 *.gceleritasads.com
+*.gchgao.com
 *.gcirm.clarionledger.com
 *.gcirm.honoluluadvertiser.gcion.com
 *.gcirm.montgomeryadvertiser.com
@@ -36382,6 +36392,7 @@
 *.hinfectlyb.biz
 *.hingefestivitysmelt.com
 *.hingenerall.club
+*.hinisanex.biz
 *.hinksdeba.top
 *.hinkslovel.top
 *.hinsib.com
@@ -40853,6 +40864,7 @@
 *.joodoush.com
 *.joojin.com
 *.joomlato.com
+*.joopaish.com
 *.joophesh.com
 *.joorejou.net
 *.jopd.ru
@@ -41527,6 +41539,7 @@
 *.kazban.su
 *.kazino-vulkan-play.com
 *.kazmedia.su
+*.kazucivi.com
 *.kbirdsind.top
 *.kbllskkwvp.pw
 *.kbmanager.co.uk
@@ -42464,6 +42477,7 @@
 *.kwvbhj.jcpenney.com
 *.kwvfdo.idefix.com
 *.kwwvxn.uniqlo.com
+*.kxbvazfrioxs.com
 *.kxji.com
 *.kxmvoppmbtzdi.com
 *.kxmye.event1.io
@@ -52713,6 +52727,7 @@
 *.objectservers.com
 *.objetivosaludable.com
 *.obkatra.ru
+*.obkcnezxxuw.com
 *.obkom.net.ua
 *.obladv.ru
 *.obldomain.ru
@@ -54749,6 +54764,7 @@
 *.partage-facile.com
 *.partage-mail.fr
 *.partclick.ir
+*.parthanonstatue.com
 *.parthetwo.ru
 *.particizedese.club
 *.particlesmanuscript.com
@@ -76851,6 +76867,7 @@
 *.vanhook.re.xsph.ru
 *.vanillaicebook.com
 *.vanillaincidentfeed.com
+*.vanillapulp.com
 *.vanlai.com
 *.vanqrf.pcrichard.com
 *.vanssueshyer.casa
@@ -77459,6 +77476,7 @@
 *.vinushka.xsrv.jp
 *.vinuxhome.com
 *.viokan.xvhod.ru
+*.violateerringenglish.com
 *.violentthinner.com
 *.violinstop.com
 *.viomars.com
@@ -78513,6 +78531,7 @@
 *.wc.yahoodns.net
 *.wc0x83ghk.homepage.t-online.de
 *.wcdkff.rueducommerce.fr
+*.wcdny.com
 *.wcfbc.net
 *.wcgthe.com
 *.wcitianka.com
@@ -79134,6 +79153,7 @@
 *.where.com
 *.whereapps.com
 *.whereascredentialsurmise.com
+*.whereasplaid.com
 *.wheredidmarkmakehismoney.com
 *.wheredoyoucomefrom.ovh
 *.whereisdudescars.com
@@ -81749,6 +81769,7 @@
 *.xwfluid5.com
 *.xwgjhf.nahdionline.com
 *.xwhtnxakjqrtf.com
+*.xwintop.top
 *.xww360.com
 *.xxaalsn.cn
 *.xxccdshj.com
