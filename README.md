@@ -21,7 +21,7 @@ Updates to the lists usually occur on a weekly basis, but often more frequently.
 
 - [**optimized-win.hosts**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/optimized-win.hosts): Is a hosts file specifically tailored for Windows users, wherein the list is arranged to have seven hosts per line, thus saving space, and preventing the lag that some users experience when they have a large hosts file on that platform. It is culled from the same sources as my main hosts file. While the main hosts file I distribute is meant for all platforms, some Windows users experience a delay when attempting to connect to sites after starting up with a large hosts file in place. This optimized list will resolve that issue for said users. For those who wish to experiment with IPv6 additions, the [IPv4+IPv6 version is here](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/optimized-win-Dual.hosts).  
 
-***Please feel free to subscribe to or use these lists as is. I use them on all of my personal devices. The aforementioned lists also fall under a separate license, the [WTFPL](http://www.wtfpl.net/txt/copying/).***
+***Please feel free to subscribe to or use these lists as is. I use them on all of my personal devices.*** The aforementioned lists also fall under a separate license, the [WTFPL](http://www.wtfpl.net/txt/copying/).
 
 **Finally**, the user-friendly versions of the scripts and utilities that I use to generate these lists, can be set up in one shot [by following the instructions here](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/README.md).  
 
@@ -36,7 +36,7 @@ They include the following:
 
 These tools are modified versions of the ones I run on my GNU/Linux box. I test them regularly. Some of them have dependencies, so make sure you inspect their respective readme files, and that your system has the relevant programs if you plan on using my tools. The GNU/Linux scripts should work on OS X, so long as dependencies are met. There are [editions for Cygwin](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/BLT/Cygwin) as well. All of my tools clean up after themselves, and leave no extraneous or intermediary files behind.  
 
-In addition, see the [**Windows Versions of these Tools**](https://github.com/bongochong/CWP-Utilities): Fully functional Windows versions of all the utilities listed above - compatible with both 32 and 64-bit versions of Windows - can be found in my [Combined Windows Privacy Utilities](https://github.com/bongochong/CWP-Utilities) repository. They are friendlier versions of my GNU/Linux tools, bundled with the necessary dependencies, provided with an easy-to-use and coherent interface.  
+In addition, see the [**Windows Versions of these Tools**](https://github.com/bongochong/CWP-Utilities): Fully functional Windows versions of the utilities listed above - compatible with both 32 and 64-bit versions of Windows - can be found in my [Combined Windows Privacy Utilities](https://github.com/bongochong/CWP-Utilities) repository. They are friendlier versions of my GNU/Linux tools, bundled with the necessary dependencies, provided with an easy-to-use and coherent interface.  
 
 <p align="center"><img src="https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/Misc/CPBL-Clacks.gif" alt="GNU Terry Pratchett | Carpentry Get Truth | A.M.K."></p>
 
