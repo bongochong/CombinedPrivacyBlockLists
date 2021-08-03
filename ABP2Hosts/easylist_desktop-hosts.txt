@@ -1,4 +1,4 @@
-# Tue Aug  3 10:50:37 PM UTC 2021
+# Tue Aug  3 11:22:52 PM UTC 2021
 # EasyList Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0-24bpautomentes.hu
 0.0.0.0 00-gov.cn
@@ -892,6 +892,7 @@
 0.0.0.0 65xps.com
 0.0.0.0 66-trk-srv.com
 0.0.0.0 6604.org
+0.0.0.0 6657f1d5a25b6.com
 0.0.0.0 6666lm.com
 0.0.0.0 6669667.com
 0.0.0.0 668559.com
@@ -981,6 +982,7 @@
 0.0.0.0 76e.org
 0.0.0.0 76xs.com
 0.0.0.0 7701534.emails.tntdrama.com
+0.0.0.0 77167c0d349.com
 0.0.0.0 77417.cn
 0.0.0.0 77437ee0a17f19c6085.com
 0.0.0.0 775e11b6033.com
@@ -1006,6 +1008,7 @@
 0.0.0.0 79ucic4ss8.com
 0.0.0.0 79zgycmr.com
 0.0.0.0 7a096v.cn
+0.0.0.0 7a43baddecf2.com
 0.0.0.0 7a6421ee67fdb0f660.com
 0.0.0.0 7a8fe1c29493.com
 0.0.0.0 7b6l2j.cn
@@ -3153,6 +3156,7 @@
 0.0.0.0 adviralmedia.com
 0.0.0.0 advise.co
 0.0.0.0 advise.gallup.com
+0.0.0.0 advisedlyphilosophical.com
 0.0.0.0 advisor.raa.com
 0.0.0.0 advisorded.club
 0.0.0.0 advisorded.com
@@ -5585,6 +5589,7 @@
 0.0.0.0 billionpops.com
 0.0.0.0 billypub.com
 0.0.0.0 bilsyndication.com
+0.0.0.0 bimathyphy.com
 0.0.0.0 bimlocal.com
 0.0.0.0 bin-layer.de
 0.0.0.0 bin-layer.ru
@@ -5937,6 +5942,7 @@
 0.0.0.0 bopohsage.com
 0.0.0.0 bopvetgel.com
 0.0.0.0 boqufs.2nn.jp
+0.0.0.0 boreasinflash.com
 0.0.0.0 boredcrown.com
 0.0.0.0 bororango.com
 0.0.0.0 borotango.com
@@ -7716,6 +7722,7 @@
 0.0.0.0 confoundcoinghosts.com
 0.0.0.0 confrontationproximity.com
 0.0.0.0 congestit.com
+0.0.0.0 congressaffrayghosts.com
 0.0.0.0 conimicutlighthouse.viessmann-us.com
 0.0.0.0 conjeller-chikemon.com
 0.0.0.0 connect.abm.netapp.com
@@ -8425,6 +8432,7 @@
 0.0.0.0 cybertronads.com
 0.0.0.0 cybmas.com
 0.0.0.0 cyboke.cn
+0.0.0.0 cycytea.cn
 0.0.0.0 cydissalcucu.club
 0.0.0.0 cygnus.com
 0.0.0.0 cyhtr.com
@@ -11579,6 +11587,7 @@
 0.0.0.0 f6bd46bbc8a.com
 0.0.0.0 f70123.com
 0.0.0.0 f71bxwn500lj.com
+0.0.0.0 f789bdc43e.com
 0.0.0.0 f7ds.liberation.fr
 0.0.0.0 f8205a529477e1.com
 0.0.0.0 f8260adbf8558d6.com
@@ -12742,6 +12751,7 @@
 0.0.0.0 gccode.gongchang.com
 0.0.0.0 gcdnsl.com
 0.0.0.0 gceleritasads.com
+0.0.0.0 gchgao.com
 0.0.0.0 gcjehafhajjhcdicaeb.ru
 0.0.0.0 gclick.cn
 0.0.0.0 gcomrarlta.com
@@ -14155,6 +14165,7 @@
 0.0.0.0 hinfectlyb.biz
 0.0.0.0 hingefestivitysmelt.com
 0.0.0.0 hingenerall.club
+0.0.0.0 hinisanex.biz
 0.0.0.0 hinksdeba.top
 0.0.0.0 hinkslovel.top
 0.0.0.0 hionedaugsbu.info
@@ -16008,6 +16019,7 @@
 0.0.0.0 jonquilpapered.com
 0.0.0.0 joobuste.com
 0.0.0.0 joodoush.com
+0.0.0.0 joopaish.com
 0.0.0.0 joophesh.com
 0.0.0.0 joorejou.net
 0.0.0.0 joredi.com
@@ -16361,6 +16373,7 @@
 0.0.0.0 kavanga.ru
 0.0.0.0 kayakm.com
 0.0.0.0 kazban.su
+0.0.0.0 kazucivi.com
 0.0.0.0 kbirdsind.top
 0.0.0.0 kbngab.com
 0.0.0.0 kbnihnmrghgy.com
@@ -16748,6 +16761,7 @@
 0.0.0.0 kwsjy9.oui.sncf
 0.0.0.0 kwvbhj.jcpenney.com
 0.0.0.0 kwwvxn.uniqlo.com
+0.0.0.0 kxbvazfrioxs.com
 0.0.0.0 kxji.com
 0.0.0.0 kxmvoppmbtzdi.com
 0.0.0.0 kxqoiypoasab.com
@@ -21847,6 +21861,7 @@
 0.0.0.0 obj9.cn
 0.0.0.0 objectservers.com
 0.0.0.0 objetivosaludable.com
+0.0.0.0 obkcnezxxuw.com
 0.0.0.0 obliteratebedblue.com
 0.0.0.0 oblivionwatcherrebellious.com
 0.0.0.0 oblivki-news.ru
@@ -22784,6 +22799,7 @@
 0.0.0.0 parkurl.com
 0.0.0.0 parsec.media
 0.0.0.0 parsruingmeld.com
+0.0.0.0 parthanonstatue.com
 0.0.0.0 particizedese.club
 0.0.0.0 particlesmanuscript.com
 0.0.0.0 particularmadam.com
@@ -32786,6 +32802,7 @@
 0.0.0.0 vanenow.com
 0.0.0.0 vaneplusnod.com
 0.0.0.0 vanillaincidentfeed.com
+0.0.0.0 vanillapulp.com
 0.0.0.0 vanssueshyer.casa
 0.0.0.0 vapedia.com
 0.0.0.0 vapourgrievously.com
@@ -33055,6 +33072,7 @@
 0.0.0.0 vinov24.com
 0.0.0.0 vinregle.com
 0.0.0.0 vinuxhome.com
+0.0.0.0 violateerringenglish.com
 0.0.0.0 violentthinner.com
 0.0.0.0 violinstop.com
 0.0.0.0 vip-vip-vup.com
@@ -33522,6 +33540,7 @@
 0.0.0.0 wbultedpie.club
 0.0.0.0 wc.yahoodns.net
 0.0.0.0 wcdkff.rueducommerce.fr
+0.0.0.0 wcdny.com
 0.0.0.0 wcmcs.net
 0.0.0.0 wcnmd.top
 0.0.0.0 wco.crownpeak.com
@@ -33756,6 +33775,7 @@
 0.0.0.0 wherabygry.com
 0.0.0.0 where.com
 0.0.0.0 whereascredentialsurmise.com
+0.0.0.0 whereasplaid.com
 0.0.0.0 wheshaud.net
 0.0.0.0 whfpbc.99.com.cn
 0.0.0.0 whhxnz.com
@@ -34613,6 +34633,7 @@
 0.0.0.0 xw1001.com
 0.0.0.0 xwdsp.com
 0.0.0.0 xwhtnxakjqrtf.com
+0.0.0.0 xwintop.top
 0.0.0.0 xww360.com
 0.0.0.0 xxaalsn.cn
 0.0.0.0 xxccdshj.com
