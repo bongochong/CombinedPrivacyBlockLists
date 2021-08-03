@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Tue Aug  3 10:39:51 PM UTC 2021
+! Updated: Tue Aug  3 11:02:31 PM UTC 2021
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -28535,11 +28535,13 @@
 ||eventcapture06.com^
 ||eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com^
 ||eventcsgo.pro^
+||eventgateway.soundcloud.com^
 ||eventifiederik.pro^
 ||eventlittrecet.ru^
 ||eventlog.inspsearch.com^
 ||eventlog.inspsearchapi.com^
 ||eventlog.jackpot.de^
+||eventlogger.soundcloud.com^
 ||eventmarketing.com.sg^
 ||eventos.lp.deloittecomunicacao.com.br^
 ||eventricity.biz^
@@ -57561,6 +57563,7 @@
 ||promote.pair.com^
 ||promoted.com^
 ||promoted.sndcdn.com^
+||promoted.soundcloud.com^
 ||promotion-campaigns.com^
 ||promotion.partnercash.com^
 ||promotion.polarisoffice.com^
@@ -67114,7 +67117,6 @@
 ||soulplp.com^
 ||soundcast.me^
 ||soundcloud-pax.pandora.com^
-||soundcloud.com^
 ||soundclouddownloader.info^
 ||soundeem.com^
 ||soundingexpulsioninspector.com^
@@ -71302,6 +71304,7 @@
 ||telemetry.nvidia.com^
 ||telemetry.reembed.com^
 ||telemetry.remoteapp.windowsazure.com^
+||telemetry.soundcloud.com^
 ||telemetry.swe.quicinc.com^
 ||telemetry.swiftkey.com^
 ||telemetry.tableausoftware.com^
