@@ -468,6 +468,7 @@
 0.0.0.0 5241.it
 0.0.0.0 529collegesaving.com
 0.0.0.0 52eva.top
+0.0.0.0 52nv.hiterima.ru
 0.0.0.0 5362399.fls.doubleclick.net
 0.0.0.0 53ac365e91086e608ae1345e075105e3.ulink.adjust.com
 0.0.0.0 543874163.ddns.net
@@ -6301,6 +6302,7 @@
 0.0.0.0 analytics.rayjump.com
 0.0.0.0 analytics.readcube.com.herokudns.com
 0.0.0.0 analytics.rechtslupe.org
+0.0.0.0 analytics.redbubble.com
 0.0.0.0 analytics.rever.vn
 0.0.0.0 analytics.reyrey.net
 0.0.0.0 analytics.rogersmedia.com
@@ -7409,6 +7411,7 @@
 0.0.0.0 becanium.com
 0.0.0.0 becommodal.com
 0.0.0.0 bector-blotance.xyz
+0.0.0.0 bedcity-lake.top
 0.0.0.0 bedsbreath.com
 0.0.0.0 beginnis.info
 0.0.0.0 beladoces.online
@@ -8150,6 +8153,7 @@
 0.0.0.0 cdn-jquery.host
 0.0.0.0 cdn-ketchapp.akamaized.net
 0.0.0.0 cdn-line.kz
+0.0.0.0 cdn-magiclinks.trackonomics.net
 0.0.0.0 cdn-onenote.net
 0.0.0.0 cdn-otf-cas.adperfect.com
 0.0.0.0 cdn-prod-defaulting-gamedev-ads.gismart.xyz
@@ -8225,6 +8229,7 @@
 0.0.0.0 cdn.atdmt.com
 0.0.0.0 cdn.avazutracking.net
 0.0.0.0 cdn.ayads.co
+0.0.0.0 cdn.bb.zugame.com
 0.0.0.0 cdn.bigcommerce.com
 0.0.0.0 cdn.bigmining.com
 0.0.0.0 cdn.bncloudfl.com
@@ -8685,6 +8690,7 @@
 0.0.0.0 cloudcdn.gdn
 0.0.0.0 cloudcontentsmak.com
 0.0.0.0 cloudfront.adflex.vn
+0.0.0.0 cloudfront.loggly.com
 0.0.0.0 cloudir.cf
 0.0.0.0 cloudirs.cf
 0.0.0.0 cloudmobi.net
@@ -9503,7 +9509,6 @@
 0.0.0.0 daemonclicks.com
 0.0.0.0 dafabet.advertserve.com
 0.0.0.0 dafadeewewwzzzz.website
-0.0.0.0 dahgarq.top
 0.0.0.0 daidaowu.com
 0.0.0.0 dailyheraldpaddockpublication.112.2o7.net
 0.0.0.0 daimlerag.122.2o7.net
@@ -10986,6 +10991,7 @@
 0.0.0.0 ffrirbesoin.icu
 0.0.0.0 ffxitrack.com
 0.0.0.0 fhm.degearwom.de
+0.0.0.0 fi-analytics.mgsn.it
 0.0.0.0 fibare.com
 0.0.0.0 fictiongroin.com
 0.0.0.0 fid.hognoob.se
@@ -11825,8 +11831,6 @@
 0.0.0.0 gum.dlbooks.to
 0.0.0.0 gum.xbooks.to
 0.0.0.0 gunmak-com.tk
-0.0.0.0 gurtuq11.top
-0.0.0.0 guruzo10.top
 0.0.0.0 gusabid.adview.com
 0.0.0.0 gusion.space
 0.0.0.0 gustaver.ddns.net
@@ -12723,6 +12727,7 @@
 0.0.0.0 instrumentsponge.com
 0.0.0.0 insurance-statistics.com
 0.0.0.0 intactoffers.club
+0.0.0.0 intake-analytics.wikimedia.org
 0.0.0.0 intake-logging.wikimedia.org
 0.0.0.0 intecwi.org
 0.0.0.0 integral.hacking101.net
@@ -13336,6 +13341,7 @@
 0.0.0.0 krasnojarski.com
 0.0.0.0 krb.devphp.org.ua
 0.0.0.0 kremlin-malwrhunterteam.info
+0.0.0.0 kronecoin.org
 0.0.0.0 kroqzu.com
 0.0.0.0 krosnovunderground.se
 0.0.0.0 krostaur.com
@@ -16810,7 +16816,6 @@
 0.0.0.0 prod-m-node-3111.ssp.advertising.com
 0.0.0.0 prod.adjoe.zone
 0.0.0.0 prod.adtechjp.com
-0.0.0.0 prod.entry.video-ads.a2z.com
 0.0.0.0 prod.fraud.adjoe.zone
 0.0.0.0 prod.html5-ads.vk-apps.com
 0.0.0.0 product.adingo.jp.eimg.jp
@@ -17595,6 +17600,7 @@
 0.0.0.0 rumcdn.geoedge.be
 0.0.0.0 run-syndicate.com
 0.0.0.0 run.admost.com
+0.0.0.0 run.adrizer.com
 0.0.0.0 runningwayforsun.net
 0.0.0.0 ruscacademy.in
 0.0.0.0 russianbase.ru
@@ -17928,6 +17934,7 @@
 0.0.0.0 search.spotxchange.com
 0.0.0.0 searchadv.com
 0.0.0.0 searchdimension.com
+0.0.0.0 searching-place.com
 0.0.0.0 searchteria.co.jp
 0.0.0.0 sears.112.2o7.net
 0.0.0.0 searscom.112.2o7.net
@@ -18072,6 +18079,7 @@
 0.0.0.0 seed.emercoin.com
 0.0.0.0 seed.emercoin.net
 0.0.0.0 seed.emergate.net
+0.0.0.0 seed.kronecoin.org
 0.0.0.0 seed.nimiqpool.com
 0.0.0.0 seed1.sushipool.com
 0.0.0.0 seedapp-creative.s3.amazonaws.com
@@ -18111,6 +18119,7 @@
 0.0.0.0 semimonster.net
 0.0.0.0 send.microad.jp
 0.0.0.0 sendy.adpia.vn
+0.0.0.0 sendyou123.com
 0.0.0.0 sense-eng.ml
 0.0.0.0 senshukai.122.2o7.net
 0.0.0.0 sensible-ads.com
@@ -19226,7 +19235,6 @@
 0.0.0.0 systracking.admicro.vn
 0.0.0.0 szn.services
 0.0.0.0 szupertanacsok.blog.hu
-0.0.0.0 szwbjs.com
 0.0.0.0 t-ads.adap.tv
 0.0.0.0 t-analytics.com
 0.0.0.0 t.82comb.net
@@ -19645,6 +19653,7 @@
 0.0.0.0 top-kopi.net
 0.0.0.0 top.addfreestats.com
 0.0.0.0 top.sineadholly.com
+0.0.0.0 top2-personal-loans-credits.com
 0.0.0.0 topcashvibes.com
 0.0.0.0 toperdona.com
 0.0.0.0 tophacks.pro
@@ -20396,6 +20405,7 @@
 0.0.0.0 tracking.batanga.net
 0.0.0.0 tracking.battleon.com
 0.0.0.0 tracking.bdi-services.de
+0.0.0.0 tracking.bloomberg.com
 0.0.0.0 tracking.bonnier.news
 0.0.0.0 tracking.bp01.net
 0.0.0.0 tracking.brandmentions.com
@@ -20490,6 +20500,7 @@
 0.0.0.0 tracking.legacyoffers.com
 0.0.0.0 tracking.lengow.com
 0.0.0.0 tracking.lenzmx.com
+0.0.0.0 tracking.lg.com
 0.0.0.0 tracking.lifescript.com
 0.0.0.0 tracking.linda.de
 0.0.0.0 tracking.listhub.net
@@ -21326,6 +21337,7 @@
 0.0.0.0 video-adblocker.com
 0.0.0.0 video-ads-apex.rubiconproject.com
 0.0.0.0 video-ads-module.ad-tech.nbcuni.com
+0.0.0.0 video-ads.a2z.com
 0.0.0.0 video-ads.rubiconproject.com
 0.0.0.0 video-ads.rubiconproject.com-v1.edgekey.net
 0.0.0.0 video-adserver.ibillboard.com
@@ -23924,6 +23936,7 @@
 0.0.0.0 www.cyber-ad01.cc
 0.0.0.0 www.d-stats.com
 0.0.0.0 www.da-ads.com
+0.0.0.0 www.dacui.online
 0.0.0.0 www.daemonclicks.com
 0.0.0.0 www.damafinimmobiliare.it
 0.0.0.0 www.data-analyst.biz
@@ -24780,6 +24793,7 @@
 0.0.0.0 xcn1.yiluzhuanqian.com
 0.0.0.0 xcnnuxfd.lmyiwaakn.com
 0.0.0.0 xdzzt.cn
+0.0.0.0 xey.kowashitekata.ru
 0.0.0.0 xeyaz.biz
 0.0.0.0 xfxf.ddns.net
 0.0.0.0 xgames.su

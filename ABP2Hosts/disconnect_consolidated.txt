@@ -1,4 +1,4 @@
-# Mon Aug  2 04:03:15 AM UTC 2021
+# Tue Aug  3 01:13:57 AM UTC 2021
 # Disconnect Consolidated Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -2109,7 +2109,6 @@
 0.0.0.0 phizzle.com
 0.0.0.0 phluant.com
 0.0.0.0 phoenix-adrunner.mycomputer.com
-0.0.0.0 phonearena.com
 0.0.0.0 phpadsnew.new.natuurpark.nl
 0.0.0.0 phpmyvisites.net
 0.0.0.0 phunware.com
