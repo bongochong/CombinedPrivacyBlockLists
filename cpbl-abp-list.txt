@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Wed Aug  4 02:31:17 AM UTC 2021
+! Updated: Wed Aug  4 11:18:14 PM UTC 2021
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -83738,6 +83738,7 @@ babylonbee.com##.modal-dialog-centered.modal-dialog
 blockgeeks.com##.banner-top
 blockgeeks.com###banner-zone-right
 blockgeeks.com##.horizontal-ad-banner
+breitbart.com###bsocial
 breitbart.com###content_0_fixedshare_0_divSocialMedia
 bscscan.com##.px-1.rounded.shadow.font-size-1.bg-white.showcase-banner-text-left.showcase-banner-text
 bscscan.com##.text-dark.position-relative.d-lg-inline-block.d-none > .px-1.rounded.shadow.font-size-1.bg-white.showcase-banner-text
@@ -83905,6 +83906,7 @@ thepiratebay.se##DIV[style="position: relative; height: 350px; width: 100%; marg
 thrillist.com##[class*="RecommendedVideostyles"]
 tokeneo.com##.cookies-popup-cover
 tokeneo.com##.show-cookies-popup.cookies-popup-wrapper
+tokeneo.com##.kryptowalutyBar.informationFwHeaderBar
 tokeneo.com##.kryptowalutyInformationModal
 tokeneo.com##.informationModalBody
 twitter.com##.r-12vffkv > .r-urgr8i
