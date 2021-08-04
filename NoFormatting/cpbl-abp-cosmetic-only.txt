@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Mostly Cosmetic CPBL Filters for ABP & uBO
-! Updated: Wed Jul 21 12:09:22 AM UTC 2021
+! Updated: Wed Aug  4 02:21:08 AM UTC 2021
 ! Expires: 7 Days
-! License: https://git.io/JTTLW
+! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
 ! Issues: https://git.io/JTTL0
 0bin.net##.pull-right.about
@@ -34,6 +34,10 @@ blockgeeks.com##.horizontal-ad-banner
 breitbart.com###content_0_fixedshare_0_divSocialMedia
 bscscan.com##.px-1.rounded.shadow.font-size-1.bg-white.showcase-banner-text-left.showcase-banner-text
 bscscan.com##.text-dark.position-relative.d-lg-inline-block.d-none > .px-1.rounded.shadow.font-size-1.bg-white.showcase-banner-text
+c-span.org###cspan-ad-still-wiv-four-1
+c-span.org###cspan-ad-still-wiv-four-2
+cbsnews.com##.icon__overlay--unmute.icon__overlay
+cbsnews.com##.lazyloaded.smart-banner-download.sticky.lazypreload
 cnet.com##.entered.dock.inviewElement
 cnn.com###dazbnm
 cnn.com###sskxzejroaldqjo
@@ -43,6 +47,9 @@ cnn.com##.saxocwzwwx
 coinbase.com##[class*="RecurringBuysBanner"]
 coinbase.com##[class*="SettingsUpsellBanner"]
 coinbase.com##[class*="InstantAchBanner"]
+coingecko.com##.pb-2.pt-2.container
+coingecko.com##.tw-flex.rounded-0.card.d-sm-none.d-block
+coingecko.com##.tw-items-center.tw-justify-center.tw-flex.tw-p-0.top-header
 coinpedia.org##.footerstickyimg
 coinpedia.org##.footer-popup-ad
 connectwww.com##DIV#an-Modal.reveal-modal
@@ -112,6 +119,7 @@ my.indeed.com##.icl-Alert--info.icl-Alert
 my.indeed.com##.icl-Callout--caretStart.icl-Callout
 my.indeed.com##div.saved-item-inner.preview-editor-section:nth-of-type(5) > div:nth-of-type(2)
 news.cnet.com###globalSocialPromo
+newsmax.com##.show.shown.android
 old.reddit.com###redesign-beta-optin-btn
 openpirate.org###\30 4da7223_1556855429
 openpirate.org###vpnvpn
@@ -119,6 +127,12 @@ pcworld.com###toaster
 phantasytour.com##.col3
 publish0x.com###registerPopup > .modal-dialog-centered.modal-lg.modal-dialog > .modal-content
 publish0x.com##.show.fade.modal
+rebelnews.com###module_form
+rebelnews.com##.analytics-banner
+rebelnews.com##.margintopmore.form-wrap
+rebelnews.com##.remodal-is-opened.remodal-overlay
+rebelnews.com##.remodal-is-opened.remodal-wrapper
+rebelnews.com##.share-page
 reddit.com###ad_2
 reddit.com##+js(abort-current-inline-script, adSlots)
 reddit.com##+js(abort-current-inline-script, addScript)
@@ -153,6 +167,7 @@ slant.co##._View.AIHome-TopGradient.AIHome-Gradient.LustreAIPromoteFooter._Lustr
 slant.co##._View.LustreAIBanner._LustreAIBannerView
 slant.co##._View.LustrePromoteModal.Modal._LustreAIPromoteModalView
 slant.co##._soft-close-link.Modal-Cover
+slashdot.org##.close-ad
 slashdot.org###slashdot_deals
 smoktech.com###warning-message
 sparkylinux.org##DIV#ad0569e
@@ -167,6 +182,11 @@ tastyvapor.us###lbFooter
 tastyvapor.us###lbHeader
 tastyvapor.us###mask
 tastyvapor.us##.footer_bottom
+theblaze.com###sFooter_0_0_2_0_0_4
+theblaze.com##.ad-tag
+theblaze.com##.ad-top-padding
+theblaze.com##.backfill-taboola-home-slot-featured.sponsored.mb-2
+theblaze.com##.gdpr-cookie-wrapper
 theblockcrypto.com##.modal
 theblockcrypto.com##.modal-
 theblockcrypto.com##.modal-bg
@@ -193,6 +213,7 @@ vapordna.com##.top_header_banner > p
 washingtonpost.com##.z-eyei-bvs
 website2.me##[id^="ws-bottom-banner-"]
 website2.me##[id^="ws-side-banner-"]
+zerohedge.com##.Banner_banner__2PJ1Y
 ||20minutes.fr/*ak-ads-adblock.js
 ||22pixx.xyz/l/*
 ||beop.io^$third-party
