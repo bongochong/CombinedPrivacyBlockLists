@@ -1,4 +1,4 @@
-# Tue Aug  3 11:22:52 PM UTC 2021
+# Wed Aug  4 12:31:03 AM UTC 2021
 # EasyList Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0-24bpautomentes.hu
 0.0.0.0 00-gov.cn
@@ -438,6 +438,7 @@
 0.0.0.0 27vckaccbto7p761.pro
 0.0.0.0 280dp.com
 0.0.0.0 283.laobanfa.com
+0.0.0.0 2886996.com
 0.0.0.0 2894c9d5b32.com
 0.0.0.0 2898.com
 0.0.0.0 28acglz.com
@@ -1239,6 +1240,7 @@
 0.0.0.0 9ads.net
 0.0.0.0 9ae7c9ffe8509b0.com
 0.0.0.0 9bb6fa4987e.com
+0.0.0.0 9c1k.cn
 0.0.0.0 9c40a04e9732e6a6.com
 0.0.0.0 9c690ac2bcb.com
 0.0.0.0 9cd76b4462bb.com
@@ -13358,6 +13360,7 @@
 0.0.0.0 gotoaws.zaful.com
 0.0.0.0 gotoexp.dresslily.com
 0.0.0.0 gotohouse1.club
+0.0.0.0 gotoip.com.cn
 0.0.0.0 gotonav.com
 0.0.0.0 gotooback.com
 0.0.0.0 gotoredr.com
@@ -15327,6 +15330,7 @@
 0.0.0.0 innovid.com
 0.0.0.0 innvitor.com
 0.0.0.0 inoculatebroadlyduke.com
+0.0.0.0 inoculatemention.com
 0.0.0.0 inodesthetotaldesigners.com
 0.0.0.0 inone517.com
 0.0.0.0 inpage-push.com
@@ -20158,6 +20162,7 @@
 0.0.0.0 mgsue.cn
 0.0.0.0 mgt7.madeindesign.it
 0.0.0.0 mgtv-bbqn.oss-cn-beijing.aliyuncs.com
+0.0.0.0 mgtw.xyz
 0.0.0.0 mgvrst.mi-shop.com
 0.0.0.0 mgwcn.com
 0.0.0.0 mgzs.cdn.bcebos.com
@@ -24090,6 +24095,7 @@
 0.0.0.0 psoaksoo.com
 0.0.0.0 psoanouy.net
 0.0.0.0 psoomeeg.com
+0.0.0.0 psootchu.net
 0.0.0.0 psoptopi.com
 0.0.0.0 psougrie.com
 0.0.0.0 psoumtou.net
@@ -25827,7 +25833,6 @@
 0.0.0.0 s.fission.codes
 0.0.0.0 s.glimesh.tv
 0.0.0.0 s.hdsupplysolutions.com
-0.0.0.0 s.hoplon.pandora.com
 0.0.0.0 s.infogram.com
 0.0.0.0 s.justblinds.com
 0.0.0.0 s.lenovo.com
@@ -32270,6 +32275,7 @@
 0.0.0.0 tyyjzs.cn
 0.0.0.0 tz-dsp.com
 0.0.0.0 tzh019.cn
+0.0.0.0 tzhqg.cn
 0.0.0.0 tzlchxdwreirbv.com
 0.0.0.0 tzovkp.aboutyou.at
 0.0.0.0 tzwk.ru

@@ -1,4 +1,4 @@
-# Tue Aug  3 11:22:59 PM UTC 2021
+# Wed Aug  4 12:31:11 AM UTC 2021
 # AdGuard DNS Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 00-gov.cn
 0.0.0.0 0001.best
@@ -961,6 +961,7 @@
 0.0.0.0 65vk1fba34.com
 0.0.0.0 65xps.com
 0.0.0.0 6631f33cf2a1032b.com
+0.0.0.0 6657f1d5a25b6.com
 0.0.0.0 6666lm.com
 0.0.0.0 6669667.com
 0.0.0.0 66993.top
@@ -1057,6 +1058,7 @@
 0.0.0.0 76aede7d9af.com
 0.0.0.0 76e.org
 0.0.0.0 76xs.com
+0.0.0.0 77167c0d349.com
 0.0.0.0 77417.cn
 0.0.0.0 77437ee0a17f19c6085.com
 0.0.0.0 775e11b6033.com
@@ -1086,6 +1088,7 @@
 0.0.0.0 79ucic4ss8.com
 0.0.0.0 79zgycmr.com
 0.0.0.0 7a096v.cn
+0.0.0.0 7a43baddecf2.com
 0.0.0.0 7a6421ee67fdb0f660.com
 0.0.0.0 7a8fe1c29493.com
 0.0.0.0 7b6l2j.cn
@@ -3418,6 +3421,7 @@
 0.0.0.0 advinci.uno
 0.0.0.0 adviralmedia.com
 0.0.0.0 advise.co
+0.0.0.0 advisedlyphilosophical.com
 0.0.0.0 advisorded.club
 0.0.0.0 advisorded.com
 0.0.0.0 advit.it
@@ -6531,6 +6535,7 @@
 0.0.0.0 billowybead.com
 0.0.0.0 billypub.com
 0.0.0.0 bilsyndication.com
+0.0.0.0 bimathyphy.com
 0.0.0.0 bimlocal.com
 0.0.0.0 bimsld.com
 0.0.0.0 bin-layer.de
@@ -6948,6 +6953,7 @@
 0.0.0.0 bopohsage.com
 0.0.0.0 bopvetgel.com
 0.0.0.0 borderbrush.com
+0.0.0.0 boreasinflash.com
 0.0.0.0 boredborder.com
 0.0.0.0 boredcrown.com
 0.0.0.0 boringbell.com
@@ -9093,6 +9099,7 @@
 0.0.0.0 confrontationproximity.com
 0.0.0.0 congestit.com
 0.0.0.0 congrab.com
+0.0.0.0 congressaffrayghosts.com
 0.0.0.0 conjeller-chikemon.com
 0.0.0.0 connectad.io
 0.0.0.0 connectif.cloud
@@ -9878,6 +9885,7 @@
 0.0.0.0 cyboke.cn
 0.0.0.0 cybugim4bdzqhwl.ru
 0.0.0.0 cycsfe.com
+0.0.0.0 cycytea.cn
 0.0.0.0 cydissalcucu.club
 0.0.0.0 cydownsand.pro
 0.0.0.0 cygnus.com
@@ -13172,6 +13180,7 @@
 0.0.0.0 f6dy9wgfbf.ru
 0.0.0.0 f70123.com
 0.0.0.0 f71bxwn500lj.com
+0.0.0.0 f789bdc43e.com
 0.0.0.0 f7ds.liberation.fr
 0.0.0.0 f8205a529477e1.com
 0.0.0.0 f8260adbf8558d6.com
@@ -14520,6 +14529,7 @@
 0.0.0.0 gcaog.com
 0.0.0.0 gccode.gongchang.com
 0.0.0.0 gcdnsl.com
+0.0.0.0 gchgao.com
 0.0.0.0 gcjehafhajjhcdicaeb.ru
 0.0.0.0 gcm.ksmobile.com
 0.0.0.0 gcm.ksmobile.net
@@ -16176,6 +16186,7 @@
 0.0.0.0 hinfectlyb.biz
 0.0.0.0 hingefestivitysmelt.com
 0.0.0.0 hingenerall.club
+0.0.0.0 hinisanex.biz
 0.0.0.0 hinksdeba.top
 0.0.0.0 hinkslovel.top
 0.0.0.0 hioeb.com
@@ -18223,6 +18234,7 @@
 0.0.0.0 jonquilpapered.com
 0.0.0.0 joobuste.com
 0.0.0.0 joodoush.com
+0.0.0.0 joopaish.com
 0.0.0.0 joophesh.com
 0.0.0.0 joorejou.net
 0.0.0.0 jopd.ru
@@ -18598,6 +18610,7 @@
 0.0.0.0 kaxsdc.com
 0.0.0.0 kayakm.com
 0.0.0.0 kazmedia.su
+0.0.0.0 kazucivi.com
 0.0.0.0 kbirdsind.top
 0.0.0.0 kbllskkwvp.pw
 0.0.0.0 kbngab.com
@@ -19075,6 +19088,7 @@
 0.0.0.0 kwqptcvwaalgur.com
 0.0.0.0 kwtrdd.com
 0.0.0.0 kwunqjqntrnf.bid
+0.0.0.0 kxbvazfrioxs.com
 0.0.0.0 kxmvoppmbtzdi.com
 0.0.0.0 kxqoiypoasab.com
 0.0.0.0 kxqvnfcg.xyz
@@ -23400,6 +23414,7 @@
 0.0.0.0 obj9.cn
 0.0.0.0 objectservers.com
 0.0.0.0 obkatra.ru
+0.0.0.0 obkcnezxxuw.com
 0.0.0.0 obladv.ru
 0.0.0.0 obldomain.ru
 0.0.0.0 obliteratebedblue.com
@@ -24422,6 +24437,7 @@
 0.0.0.0 parserwords.info
 0.0.0.0 parsimoniouspolice.com
 0.0.0.0 parsruingmeld.com
+0.0.0.0 parthanonstatue.com
 0.0.0.0 parthetwo.ru
 0.0.0.0 particizedese.club
 0.0.0.0 particlesmanuscript.com
@@ -34410,6 +34426,7 @@
 0.0.0.0 vaneplusnod.com
 0.0.0.0 vanfireworks.com
 0.0.0.0 vanillaincidentfeed.com
+0.0.0.0 vanillapulp.com
 0.0.0.0 vanssueshyer.casa
 0.0.0.0 vantage-media.net
 0.0.0.0 vapedia.com
@@ -34769,6 +34786,7 @@
 0.0.0.0 vinub.com
 0.0.0.0 vinuxhome.com
 0.0.0.0 viokan.xvhod.ru
+0.0.0.0 violateerringenglish.com
 0.0.0.0 violentthinner.com
 0.0.0.0 vionertelssat.pro
 0.0.0.0 vioturallis.com
@@ -35326,6 +35344,7 @@
 0.0.0.0 wbtrk.net
 0.0.0.0 wbultedpie.club
 0.0.0.0 wbusiness.fr
+0.0.0.0 wcdny.com
 0.0.0.0 wcfbc.net
 0.0.0.0 wcgthe.com
 0.0.0.0 wcmcs.net
@@ -35631,6 +35650,7 @@
 0.0.0.0 wherabygry.com
 0.0.0.0 where.com
 0.0.0.0 whereascredentialsurmise.com
+0.0.0.0 whereasplaid.com
 0.0.0.0 wheredoyoucomefrom.ovh
 0.0.0.0 wheretogo.bid
 0.0.0.0 wheshaud.net
@@ -36623,6 +36643,7 @@
 0.0.0.0 xwdsp.com
 0.0.0.0 xwell.ru
 0.0.0.0 xwhtnxakjqrtf.com
+0.0.0.0 xwintop.top
 0.0.0.0 xww360.com
 0.0.0.0 xxaalsn.cn
 0.0.0.0 xxccdshj.com
