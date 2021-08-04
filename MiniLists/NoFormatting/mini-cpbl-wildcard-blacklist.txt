@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 08/03/21~23:36:55 -~
+# ~- 08/04/21~00:41:32 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -10650,8 +10650,6 @@
 *.assets.micpn.com
 *.assets.minutemediacdn.com
 *.assets.purch.com
-*.assets.rbl.ms
-*.assets.rebelmouse.io
 *.assets.soom.la
 *.assets.spotify.com
 *.assets.yieldify-production.com
@@ -43223,7 +43221,6 @@
 *.s.glimesh.tv
 *.s.hdsupplysolutions.com
 *.s.hitplus.ir
-*.s.hoplon.pandora.com
 *.s.idio.co
 *.s.infogram.com
 *.s.jpush.cn
