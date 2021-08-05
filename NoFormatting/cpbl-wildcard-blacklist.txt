@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 08/05/21~22:53:05 -~
+# ~- 08/05/21~23:25:28 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -18000,7 +18000,6 @@
 *.cdn.sagame66.com
 *.cdn.sdkconfig.site
 *.cdn.sexygame66.com
-*.cdn.shortpixel.ai
 *.cdn.smartclick.io
 *.cdn.socialannex.com
 *.cdn.socialbakers.com

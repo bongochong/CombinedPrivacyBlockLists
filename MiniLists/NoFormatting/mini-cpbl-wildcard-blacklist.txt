@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 08/05/21~22:53:07 -~
+# ~- 08/05/21~23:25:30 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -14362,7 +14362,6 @@
 *.cdn.scarabresearch.com
 *.cdn.sdkconfig.site
 *.cdn.segmentify.com
-*.cdn.shortpixel.ai
 *.cdn.siftscience.com
 *.cdn.socialannex.com
 *.cdn.socialbakers.com
