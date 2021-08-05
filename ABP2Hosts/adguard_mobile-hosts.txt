@@ -1,4 +1,4 @@
-# Wed Aug  4 12:30:35 AM UTC 2021
+# Thu Aug  5 10:31:27 PM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -436,6 +436,7 @@
 0.0.0.0 ad.smaad.jp
 0.0.0.0 ad.smaato.net
 0.0.0.0 ad.snappea.com
+0.0.0.0 ad.tencentmusic.com
 0.0.0.0 ad.turn.com
 0.0.0.0 ad.turn.com.akadns.net
 0.0.0.0 ad.vidver.to
@@ -911,6 +912,7 @@
 0.0.0.0 adsrvmedia.net
 0.0.0.0 adsrvr.io
 0.0.0.0 adsrvr.org
+0.0.0.0 adstats.tencentmusic.com
 0.0.0.0 adstax-match-proxy.adrtx.net
 0.0.0.0 adstax-match.adrtx.net
 0.0.0.0 adstune.com
@@ -3427,6 +3429,7 @@
 0.0.0.0 distractify-d.openx.net
 0.0.0.0 districtm-match.dotomi.com
 0.0.0.0 distroscale-d.openx.net
+0.0.0.0 dit.whatsapp.net
 0.0.0.0 dj1.baidu.com
 0.0.0.0 dk-gmtdmp.mookie1.com
 0.0.0.0 dl.cm.ksmobile.com
@@ -5529,6 +5532,7 @@
 0.0.0.0 monitor-tools.cn.miaozhen.com
 0.0.0.0 monitor.adcaffe.com
 0.0.0.0 monitor.clickcease.com
+0.0.0.0 monitor.music.qq.com
 0.0.0.0 monitor.uu.qq.com
 0.0.0.0 monitoring-sdk.experimentation.intuit.com
 0.0.0.0 monitorsdk.appsflyer.com
@@ -5591,6 +5595,7 @@
 0.0.0.0 mtburn.com
 0.0.0.0 mtburn.jp
 0.0.0.0 mtlog.droid4x.cn
+0.0.0.0 mtrace.qq.com
 0.0.0.0 mtrcss.com
 0.0.0.0 mtrx.go.sonobi.com
 0.0.0.0 mug.criteo.com
@@ -7400,6 +7405,7 @@
 0.0.0.0 snapads.com
 0.0.0.0 snapmobile.asia
 0.0.0.0 snapsort-d.openx.net
+0.0.0.0 sngmta.qq.com
 0.0.0.0 snigel-d.openx.net
 0.0.0.0 snippet.minute.ly
 0.0.0.0 snippet.omm.crownpeak.com
@@ -7567,6 +7573,7 @@
 0.0.0.0 stat.meitudata.com
 0.0.0.0 stat.optad360.mgr.consensu.org
 0.0.0.0 stat.v.baidu.com
+0.0.0.0 stat.y.qq.com
 0.0.0.0 stat8.flashtalking.com
 0.0.0.0 statgw.devtodev.com
 0.0.0.0 static-ads.zaloapp.com
