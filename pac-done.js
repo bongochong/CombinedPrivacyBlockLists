@@ -1,4 +1,4 @@
-// **** Wed Aug  4 12:34:48 AM UTC 2021
+// **** Thu Aug  5 10:36:25 PM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -2005,6 +2005,7 @@ shExpMatch(host, '*.anm.intelli-direct.com') ||
 shExpMatch(host, '*.annidha.net') ||
 shExpMatch(host, '*.annonser.dagbladet.no') ||
 shExpMatch(host, '*.annoyedairport.com') ||
+shExpMatch(host, '*.annoyingacoustics.com') ||
 shExpMatch(host, '*.annuairemedicaloran.com') ||
 shExpMatch(host, '*.anonfiles.download') ||
 shExpMatch(host, '*.anonymous-hacks.com') ||
@@ -4057,6 +4058,7 @@ shExpMatch(host, '*.connectad.io') ||
 shExpMatch(host, '*.connectingcloud.bid') ||
 shExpMatch(host, '*.connextra.com') ||
 shExpMatch(host, '*.consciouschairs.com') ||
+shExpMatch(host, '*.consciouscheese.com') ||
 shExpMatch(host, '*.consensad.com') ||
 shExpMatch(host, '*.consensu.org') ||
 shExpMatch(host, '*.conservative.ru') ||
@@ -14429,6 +14431,7 @@ shExpMatch(host, '*.spotifyferfree.com') ||
 shExpMatch(host, '*.spotifypremiumaccounts.info') ||
 shExpMatch(host, '*.spotifypremiumcodes.com') ||
 shExpMatch(host, '*.spotifypremiums.net') ||
+shExpMatch(host, '*.spotlessstamp.com') ||
 shExpMatch(host, '*.spotmydl.com') ||
 shExpMatch(host, '*.spotscenered.info') ||
 shExpMatch(host, '*.spottyfly.com') ||
@@ -19539,6 +19542,7 @@ shExpMatch(host, 'anm.intelli-direct.com') ||
 shExpMatch(host, 'annidha.net') ||
 shExpMatch(host, 'annonser.dagbladet.no') ||
 shExpMatch(host, 'annoyedairport.com') ||
+shExpMatch(host, 'annoyingacoustics.com') ||
 shExpMatch(host, 'annuairemedicaloran.com') ||
 shExpMatch(host, 'anonfiles.download') ||
 shExpMatch(host, 'anonymous-hacks.com') ||
@@ -21591,6 +21595,7 @@ shExpMatch(host, 'connectad.io') ||
 shExpMatch(host, 'connectingcloud.bid') ||
 shExpMatch(host, 'connextra.com') ||
 shExpMatch(host, 'consciouschairs.com') ||
+shExpMatch(host, 'consciouscheese.com') ||
 shExpMatch(host, 'consensad.com') ||
 shExpMatch(host, 'consensu.org') ||
 shExpMatch(host, 'conservative.ru') ||
@@ -31963,6 +31968,7 @@ shExpMatch(host, 'spotifyferfree.com') ||
 shExpMatch(host, 'spotifypremiumaccounts.info') ||
 shExpMatch(host, 'spotifypremiumcodes.com') ||
 shExpMatch(host, 'spotifypremiums.net') ||
+shExpMatch(host, 'spotlessstamp.com') ||
 shExpMatch(host, 'spotmydl.com') ||
 shExpMatch(host, 'spotscenered.info') ||
 shExpMatch(host, 'spottyfly.com') ||
