@@ -1,4 +1,4 @@
-# Thu Aug  5 10:31:27 PM UTC 2021
+# Thu Aug  5 11:13:02 PM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -2643,7 +2643,6 @@
 0.0.0.0 cdn.run-syndicate.com
 0.0.0.0 cdn.sdkconfig.site
 0.0.0.0 cdn.segmentify.com
-0.0.0.0 cdn.shortpixel.ai
 0.0.0.0 cdn.siftscience.com
 0.0.0.0 cdn.simpleanalytics.io
 0.0.0.0 cdn.simpli.fi
