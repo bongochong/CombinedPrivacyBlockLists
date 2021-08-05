@@ -17723,7 +17723,6 @@ cdn.scarabresearch.com
 cdn.sdkconfig.site
 cdn.segmentify.com
 cdn.serving.ad.org.vn
-cdn.shortpixel.ai
 cdn.siftscience.com
 cdn.simpleanalytics.io
 cdn.simpli.fi
