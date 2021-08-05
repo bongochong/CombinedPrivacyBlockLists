@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mostly Cosmetic CPBL Filters for ABP & uBO
-! Updated: Thu Aug  5 08:20:29 PM UTC 2021
+! Updated: Thu Aug  5 08:45:31 PM UTC 2021
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -14,6 +14,7 @@
 4channel.org##body > .mobile.adg-rects
 8kun.top##.thread_ads
 8kun.top##.disclaimer-8kun
+accuradio.com###playerSkipLoading
 affinia.com###things-to-do > .on.overlay-container
 affinia.com##footer > .wrapper > .on.special-message.most-of-screen.full-overlay
 affinia.com##.privacy-policy__container
@@ -126,6 +127,14 @@ my.indeed.com##.icl-Callout--caretStart.icl-Callout
 my.indeed.com##div.saved-item-inner.preview-editor-section:nth-of-type(5) > div:nth-of-type(2)
 news.cnet.com###globalSocialPromo
 newsmax.com##.show.shown.android
+nytimes.com###credential_picker_container
+nytimes.com##+js(set, navigator.storage.estimate, undefined)
+nytimes.com##+js(set, webkitRequestFileSystem, noopFunc)
+nytimes.com##.gdpr
+nytimes.com##.magnoliaDock
+nytimes.com##div[data-test-id="RecommendedNewsletter"]
+nytimes.com##div[data-testid="expanded-dock"]
+nytimes.com##div[data-testid="inline-message"]
 old.reddit.com###redesign-beta-optin-btn
 openpirate.org###\30 4da7223_1556855429
 openpirate.org###vpnvpn
@@ -223,6 +232,8 @@ website2.me##[id^="ws-side-banner-"]
 zerohedge.com##.Banner_banner__2PJ1Y
 ||20minutes.fr/*ak-ads-adblock.js
 ||22pixx.xyz/l/*
+||accuradio.com/static/js/ltjs.js
+||accuradio.com/sweeper/
 ||beop.io^$third-party
 ||bscscan.com/images/gen/*1140x90.png$image
 ||cdn.jsdelivr.net/npm/workbox-cdn*$script,domain=theblockcrypto.com
@@ -248,6 +259,8 @@ zerohedge.com##.Banner_banner__2PJ1Y
 ||graph.facebook.com^$domain=~facebook.com|~fbcdn.com|~apps.facebook.com|~instagram.com|~linkedin.com,app=~com.facebook.katana|~com.instagram.android|~com.facebook.orca|~com.mobile.legends|~com.minigames.sweetcrossing|~com.moonton.mobilehero|~com.supercell.clashofclans|~com.playrix.fishdomdd.gplay|~com.tencent.ig|~com.ngame.allstar.eu|~com.garena.game.kgid|~com.netease.g78na.gb|~com.stackwares.android.storysaver.facebook
 ||graph.instagram.com^$domain=~facebook.com|~fbcdn.com|~apps.facebook.com|~instagram.com|~linkedin.com,app=~com.facebook.katana|~com.instagram.android
 ||indiadivine.org/wp-content/plugins/layered-popups/js/ads.js$script,domain=indiadivine.org
+||nytimes.com^$removeparam=impression_id
+||nytimes.com^*/metered_assets/
 ||onelink.me^$third-party
 ||reddit.com/account/register/?mobile_ui=on&compact_mode=on&experiment_mweb_sso_login_link=enabled&experiment_mweb_google_onetap=onetap_auto$subdocument
 ||redditmedia.com/gtm/jail?
@@ -281,6 +294,7 @@ zerohedge.com##.Banner_banner__2PJ1Y
 ##amp-ad
 ##div[id^="div-gpt-ad"]
 ! Exceptions for Un-Breaking Certain Sites
+accuradio.com###playerSkipButton:style(display:inline!important)
 babylonbee.com##body,html:style(overflow: auto !important)
 glassdoor.com##body,html:style(overflow: auto !important)
 indeed.com##body,html:style(overflow: auto !important)
