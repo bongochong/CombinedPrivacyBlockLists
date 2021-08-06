@@ -18,6 +18,9 @@ Paste the following in your terminal and hit enter:
 `wget -nv -O ~/cpbl-installer.sh "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/cpbl-installer.sh" && chmod +x ~/cpbl-installer.sh && ~/cpbl-installer.sh && rm ~/cpbl-installer.sh`  
 Donezo. Now you have all the utilities. You can also use this one liner to update the scripts with the latest versions from this repository, whenever you wish.
 
+You may also use curl to do this, if you prefer:
+`curl -s -q https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/cpbl-installer.sh | bash`
+
 **Dependencies**:  
 The following packages are required to utilize all my block list utilities:  
 `wget` `curl` `pcre` (or `pcregrep`) `perl` `idn2` `p7zip` (and `p7zip-plugins` or `p7zip-full` on some systems)
