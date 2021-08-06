@@ -13,9 +13,7 @@ Updates to the lists usually occur on a weekly basis, but often more frequently.
 
 + [**pac-done.js**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/pac-done.js): Is a Proxy AutoConfig file<sup>*09*</sup> meant to block advertising, tracking, malware servers and such. This file is generated from a slimmed down list of the same reputable sources which [my main hosts file](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts) uses.
 
-- [**combined-final-win.dat**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/combined-final-win.dat): Is a DAT-format IP block list suitable for use in torrent clients like Halite for Windows.<sup>*10*</sup> The list is merged from BlueTack Level 1 and Bad Peers, then deduped and sorted.<sup>*11*</sup> This will come in especially handy on public trackers.
-
-* [**combined-final.p2p**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/combined-final.p2p): Is a P2P-format IP block list suitable for use in torrent clients like qBitTorrent<sup>*12*</sup> and Transmission<sup>*13*</sup> under any OS. The list is merged from BlueTack Level 1 and Bad Peers, then deduped and sorted. This will also come in especially handy on public trackers.
+- [**combined-final-win.dat**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/combined-final-win.dat) and [**combined-final.p2p**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/combined-final.p2p): Are IP block lists suitable for use in torrent clients like Halite for Windows<sup>*10*</sup>, or qBitTorrent<sup>*11*</sup> and Transmission<sup>*12*</sup> under any OS. The lists are merged from BlueTack Level 1 and Bad Peers, then deduped and sorted.<sup>*13*</sup> These will come in especially handy on public trackers.
 
 + [**combined-final.cidr**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/combined-final.cidr): Is a CIDR-format IP block list suitable for use with the IPSet utility, Linux-based routers, older P2P clients and so on. Basically, it works with anything which accepts CIDR lists. It is compiled from the ad-blocking IP list provided by PGL Yoyo<sup>*14*</sup>, a collection of smaller lists from BlockList.de<sup>*15*</sup>, the FeodoTracker abuse list<sup>*16*</sup>, high confidence Emerging Threats lists<sup>*17*</sup>, along with DShield's Top Twenty<sup>*18*</sup>, and SpamHaus Drop + eDrop.<sup>*19*</sup> It is likewise deduped + sorted (with overlapping ranges resolved). This list is also available with `deny from` prepended to each line, [**here**](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/combined-denied.cidr).
 
@@ -52,9 +50,9 @@ In addition, see the [**Windows Versions of these Tools**](https://github.com/bo
 <sup>08. [EasyList Filters](https://easylist.to/). </sup> <br>
 <sup>09. [Proxy Auto-Configuration Files](https://developer.mozilla.org/en-US/docs/Web/HTTP/Proxy_servers_and_tunneling/Proxy_Auto-Configuration_PAC_file). </sup> <br>
 <sup>10. [Halite](https://www.fosshub.com/Halite.html). </sup> <br>
-<sup>11. [BlueTack on I-BlockList](https://www.iblocklist.com/lists). </sup> <br>
-<sup>12. [qBitTorrent](https://www.qbittorrent.org/). </sup> <br>
-<sup>13. [Transmission](https://transmissionbt.com/). </sup> <br>
+<sup>11. [qBitTorrent](https://www.qbittorrent.org/). </sup> <br>
+<sup>12. [Transmission](https://transmissionbt.com/). </sup> <br>
+<sup>13. [BlueTack on I-BlockList](https://www.iblocklist.com/lists). </sup> <br>
 <sup>14. [PGL Yoyo PeerBlock](https://pgl.yoyo.org/adservers/iplist.php?ipformat=peerblock&showintro=0&mimetype=plaintext). </sup> <br>
 <sup>15. [BlockList.de Lists](https://www.blocklist.de). </sup> <br>
 <sup>16. [FeodoTracker Abuse](https://feodotracker.abuse.ch). </sup> <br>
