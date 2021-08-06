@@ -1,4 +1,4 @@
-# Thu Aug  5 11:53:49 PM UTC 2021
+# Thu Aug  5 11:59:14 PM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -2389,6 +2389,7 @@
 0.0.0.0 cafemedia-d.openx.net
 0.0.0.0 campaign.ad-brix.com
 0.0.0.0 campaign.adobe.com
+0.0.0.0 campaigns.apps-connects.com
 0.0.0.0 capi.connatix.com
 0.0.0.0 carambo.la
 0.0.0.0 carambola-d.openx.net
@@ -2830,6 +2831,7 @@
 0.0.0.0 clk.solocpm.com
 0.0.0.0 clk.taptica.com
 0.0.0.0 clkdeals.com
+0.0.0.0 clkfeed.com
 0.0.0.0 clktrk.display.io
 0.0.0.0 cloud-emea.analytics-egain.com
 0.0.0.0 cloud-us.analytics-egain.com
@@ -4329,6 +4331,7 @@
 0.0.0.0 homify.com.mx
 0.0.0.0 hook.integromat.com
 0.0.0.0 horizon.sailthru.com
+0.0.0.0 hormebets.info
 0.0.0.0 hornet-d.openx.net
 0.0.0.0 hosting-source.bm23.com
 0.0.0.0 hot-mob.com
@@ -4668,6 +4671,7 @@
 0.0.0.0 inapps.moengage.com
 0.0.0.0 inbox.exacttarget.com
 0.0.0.0 inc2.igexin.com
+0.0.0.0 inclk.com
 0.0.0.0 incoming-data-sense360.s3.amazonaws.com
 0.0.0.0 incoming.bm23.com
 0.0.0.0 index-winners-ap-southeast-1-rtb.adroll.com
@@ -6512,6 +6516,7 @@
 0.0.0.0 r2.visualwebsiteoptimizer.com
 0.0.0.0 r3.visualwebsiteoptimizer.com
 0.0.0.0 r53.unrulymedia.com
+0.0.0.0 r7mediar.com
 0.0.0.0 r8qs.adj.st
 0.0.0.0 radar.cedexis.com
 0.0.0.0 radioactive.deliveryengine.adswizz.com
@@ -7188,6 +7193,7 @@
 0.0.0.0 setting.rayjump.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 setupad-d.openx.net
+0.0.0.0 sexpennyauctions.com
 0.0.0.0 sf.bizible.com
 0.0.0.0 sfg-d.openx.net
 0.0.0.0 sfo1.ipromote.com
