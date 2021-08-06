@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mostly Cosmetic CPBL Filters for ABP & uBO
-! Updated: Fri Aug  6 09:05:43 PM UTC 2021
+! Updated: Fri Aug  6 10:57:08 PM UTC 2021
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -29,6 +29,7 @@ babylonbee.com##.modal-content
 babylonbee.com##.modal fade pr-0
 babylonbee.com##.modal-header
 babylonbee.com##.modal-dialog-centered.modal-dialog
+babylonbee.com##.show.fade.modal-backdrop
 blockgeeks.com##.banner-top
 blockgeeks.com###banner-zone-right
 blockgeeks.com##.horizontal-ad-banner
