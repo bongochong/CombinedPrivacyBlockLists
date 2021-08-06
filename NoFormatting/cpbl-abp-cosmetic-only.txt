@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mostly Cosmetic CPBL Filters for ABP & uBO
-! Updated: Fri Aug  6 08:41:38 PM UTC 2021
+! Updated: Fri Aug  6 09:05:43 PM UTC 2021
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -291,13 +291,43 @@ zerohedge.com##.Banner_banner__2PJ1Y
 ##.ad_box
 ##.ad_unit
 ##.adwrap
-##.amp-unresolved
 ##.banner-300x600
 ##.banner-728x90
-##.i-amphtml-unresolved
 ##.persistent-ad
-##amp-ad
 ##div[id^="div-gpt-ad"]
+! Google AMP Trash
+###amp-smart-banner-download
+###amp-social-share
+###amp-user-cookie
+###amp-user-notification-cookies
+###amp-user-notification-privacy
+##.amp-facebook
+##.amp-o-share-tools
+##.amp-o-social-bar
+##.amp-social-bar
+##.amp-unresolved
+##.i-amphtml-unresolved
+##.pmc-outbrain-amp-widget
+##amp-ad
+##amp-consent
+##amp-user-notification
+##amp-web-push-widget
+-amp-error-reporting.
+/ads_and_amp/*
+/amp-access/cta?
+/amp-access/ping?
+/amp-ad-
+/amp-consent-
+/amp-social-
+/amp-user-notification-
+/amp-web-push-
+amp.reddit.com##.AppSelectorModal__body
+amp.reddit.com##.UpsellModal
+amp.reddit.com##.upsell_banner
+life.ru##.amp-footer--wrapper > .amp-left-block ~ li
+reuters.com##amp-ad-custom
+telegraph.co.uk##.tmg-amp-follow-platforms
+thinkprogress.org##.amp-wp-article-promo
 ! Exceptions for Un-Breaking Certain Sites
 accuradio.com###playerSkipButton:style(display:inline!important)
 babylonbee.com##body,html:style(overflow: auto !important)
