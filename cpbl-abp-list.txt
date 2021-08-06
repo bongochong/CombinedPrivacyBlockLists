@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Thu Aug  5 11:11:10 PM UTC 2021
+! Updated: Fri Aug  6 12:16:18 AM UTC 2021
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -17337,6 +17337,7 @@
 ||campaign.hach.com.cn^
 ||campaign.item-china.cn^
 ||campaign.nmobs.com^
+||campaign.onetrust.com^
 ||campaign.ruukki.com^
 ||campaigncog.com^
 ||campaignresources.motorolasolutions.com^
@@ -31049,6 +31050,7 @@
 ||fpc.gartner.com^
 ||fpc.inxinternational.com^
 ||fpc.laerdal.com^
+||fpc.onetrust.com^
 ||fpc.pelican.com^
 ||fpc.questoraclecommunity.org^
 ||fpc.sage.com^
@@ -33013,6 +33015,7 @@
 ||geolocation-db.com^
 ||geolocation-sys.com^
 ||geolocation.forbes.com^
+||geolocation.onetrust.com^
 ||geolocation.outreach.com^
 ||geolocation.performgroup.com^
 ||geolocation.stroeerdp.de^
@@ -38970,6 +38973,7 @@
 ||info.normecfoodcare.com^
 ||info.o2business.de^
 ||info.onemedical.com^
+||info.onetrust.com^
 ||info.onetrustpro.com^
 ||info.onpage.org^
 ||info.order2cash.com^
@@ -53540,7 +53544,6 @@
 ||onetouch4.com^
 ||onetouch6.com^
 ||onetricks.com^
-||onetrust.com^
 ||oneund.com^
 ||oneund.ru^
 ||onewastansepa.pro^
@@ -57325,7 +57328,9 @@
 ||privacyheelvest.com^
 ||privacyme.co.kr^
 ||privacypolicy.trgr.be^
+||privacyportal-de.onetrust.com^
 ||privacyportal.fatergroup.com^
+||privacyportal.onetrust.com^
 ||privacysearching.com^
 ||privacysecurityprotection.com^
 ||privacytools.xyz^
@@ -78118,7 +78123,6 @@
 ||vvqizy.witt-weiden.de^
 ||vvsskmodinationalschool.com^
 ||vvv.ieduw.com^
-||vvvvid.it^
 ||vvyhhrjigq.com^
 ||vw.onlinia.net^
 ||vw.xxxmshel.org^
@@ -79673,7 +79677,6 @@
 ||wnpbdan.bid^
 ||wnprot.com^
 ||wnsoth.cn^
-||wo-cloud.com^
 ||wo19.top^
 ||wo1990.com^
 ||wo685.com^
