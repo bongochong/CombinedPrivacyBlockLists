@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 08/05/21~23:25:28 -~
+# ~- 08/06/21~00:22:45 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -17353,6 +17353,7 @@
 *.campaign.hach.com.cn
 *.campaign.item-china.cn
 *.campaign.nmobs.com
+*.campaign.onetrust.com
 *.campaign.ruukki.com
 *.campaigncog.com
 *.campaignresources.motorolasolutions.com
@@ -31065,6 +31066,7 @@
 *.fpc.gartner.com
 *.fpc.inxinternational.com
 *.fpc.laerdal.com
+*.fpc.onetrust.com
 *.fpc.pelican.com
 *.fpc.questoraclecommunity.org
 *.fpc.sage.com
@@ -33029,6 +33031,7 @@
 *.geolocation-db.com
 *.geolocation-sys.com
 *.geolocation.forbes.com
+*.geolocation.onetrust.com
 *.geolocation.outreach.com
 *.geolocation.performgroup.com
 *.geolocation.stroeerdp.de
@@ -38988,6 +38991,7 @@
 *.info.normecfoodcare.com
 *.info.o2business.de
 *.info.onemedical.com
+*.info.onetrust.com
 *.info.onetrustpro.com
 *.info.onpage.org
 *.info.order2cash.com
@@ -53558,7 +53562,6 @@
 *.onetouch4.com
 *.onetouch6.com
 *.onetricks.com
-*.onetrust.com
 *.oneund.com
 *.oneund.ru
 *.onewastansepa.pro
@@ -57343,7 +57346,9 @@
 *.privacyheelvest.com
 *.privacyme.co.kr
 *.privacypolicy.trgr.be
+*.privacyportal-de.onetrust.com
 *.privacyportal.fatergroup.com
+*.privacyportal.onetrust.com
 *.privacysearching.com
 *.privacysecurityprotection.com
 *.privacytools.xyz
@@ -78136,7 +78141,6 @@
 *.vvqizy.witt-weiden.de
 *.vvsskmodinationalschool.com
 *.vvv.ieduw.com
-*.vvvvid.it
 *.vvyhhrjigq.com
 *.vw.onlinia.net
 *.vw.xxxmshel.org
@@ -79691,7 +79695,6 @@
 *.wnpbdan.bid
 *.wnprot.com
 *.wnsoth.cn
-*.wo-cloud.com
 *.wo19.top
 *.wo1990.com
 *.wo685.com
