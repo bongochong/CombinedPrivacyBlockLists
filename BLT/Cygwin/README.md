@@ -42,3 +42,5 @@ It should also be noted that most of these tools make heavy use of GNU `sed`.
 - There are [additional README files](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/BLT/Cygwin/readmes) for each utility, should you wish to inspect them.
 
 - If you deviate from either of the checklists then you are being dumb. This does not apply if you know what you are doing.
+
+- Please note that all content in this specific directory (`BLT/Cygwin`) falls under the main license terms of this repository ([CPAL-1.0](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/LICENSE.md)).
