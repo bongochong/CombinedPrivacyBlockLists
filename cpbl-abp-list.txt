@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Fri Aug  6 08:35:24 PM UTC 2021
+! Updated: Fri Aug  6 08:41:38 PM UTC 2021
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -83845,6 +83845,8 @@ coinpedia.org##.footer-popup-ad
 connectwww.com##DIV#an-Modal.reveal-modal
 connectwww.com##DIV.reveal-modal-bg
 cryptoslate.com##[href*="https://bit.ly"]
+cryptoslate.com##.edge-cta
+cryptoslate.com###join
 cryptoslate.com###sticky-footer-global
 cryptoslate.com##.clearfix.ad-top.placement.cryptocom.cpa-signup
 cuevana2.io##+js(aopr, decodeURI)
