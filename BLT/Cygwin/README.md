@@ -15,7 +15,7 @@ The data within is meant to automate the generation and updating of the followin
 
 **One-line installation**:  
 Paste the following in your terminal and hit enter:  
-`bash -c "$(curl -s -q -L https://git.io/JRsXI)"`  
+`bash -c "$(curl -sqL https://git.io/JRsXI)"`  
 
 Or, if you prefer wget:  
 `wget -nv -O ~/cpbl-installer.sh "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/Cygwin/cpbl-installer.sh" && chmod +x ~/cpbl-installer.sh && ~/cpbl-installer.sh && rm ~/cpbl-installer.sh`  
