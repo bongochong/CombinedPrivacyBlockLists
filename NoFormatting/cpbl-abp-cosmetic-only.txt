@@ -135,7 +135,6 @@ m.imgur.com##.Post-contentContainer > div.Post-metaContainer
 m.imgur.com##.PostContainer-postGetApp
 m.imgur.com##.get-app-block
 m.imgur.com#$#.AppBanner-container { height: 50px!important; }
-m.imgur.com#$#body { overflow-y: visible!important; }
 m.imgur.com#$#div[class^="SeeImgurOIA-"] { display: none!important; }
 mintscan.io##[class^="Ad__adCarousel-wrapper-"]
 mondoweiss.net##li.mondo-ads-widget.widget
@@ -364,6 +363,7 @@ accuradio.com###playerSkipButton:style(display:inline!important)
 babylonbee.com##body,html:style(overflow: auto !important)
 glassdoor.com##body,html:style(overflow: auto !important)
 indeed.com##body,html:style(overflow: auto !important)
+m.imgur.com#$#body { overflow-y: visible!important; }
 rebelnews.com##body,html:style(overflow: auto !important)
 reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
 stpetecatalyst.com##body,html:style(overflow: auto !important)
