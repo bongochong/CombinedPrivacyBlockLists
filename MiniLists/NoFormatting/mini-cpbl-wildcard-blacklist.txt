@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 08/09/21~16:29:39 -~
+# ~- 08/09/21~18:54:07 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -30970,6 +30970,7 @@
 *.lingchallersh.top
 *.lingeriebarren.com
 *.linghangshouji.com
+*.lingqinga.cn
 *.linicom.co.il
 *.linicom.co.uk
 *.linjiajia.cn
