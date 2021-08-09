@@ -1,4 +1,4 @@
-# Thu Aug  5 11:59:14 PM UTC 2021
+# Mon Aug  9 04:01:28 PM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -3451,6 +3451,7 @@
 0.0.0.0 dmv-org-d.openx.net
 0.0.0.0 dmx.districtm.io
 0.0.0.0 dnm.scloud.lfengmobile.com
+0.0.0.0 dns-clientinfo.cbsivideo.com
 0.0.0.0 do-not-tracker.org
 0.0.0.0 dojo.phluant.com
 0.0.0.0 domob.cn
@@ -3778,6 +3779,7 @@
 0.0.0.0 events.tapjoy.com
 0.0.0.0 events.textme-app.com
 0.0.0.0 events.tremorhub.com
+0.0.0.0 events.tvtime.com
 0.0.0.0 events.uber.com
 0.0.0.0 events.xg4ken.com
 0.0.0.0 events.zaloapp.com
@@ -4074,6 +4076,7 @@
 0.0.0.0 gdsns1.mmstat.com
 0.0.0.0 gecko-sg.byteoversea.com
 0.0.0.0 geede.info
+0.0.0.0 geico.com.ssl.sc.omtrdc.net
 0.0.0.0 gem.gbc.criteo.com
 0.0.0.0 gemini.yahoo.com
 0.0.0.0 gemius.pl
@@ -6463,6 +6466,7 @@
 0.0.0.0 q017o-d42by.ads.tremorhub.com
 0.0.0.0 q017o-jh7o1.ads.tremorhub.com
 0.0.0.0 q4mn.adj.st
+0.0.0.0 qa-events-schema.viacom.tech
 0.0.0.0 qa-gmtdmp.mookie1.com
 0.0.0.0 qa.yieldmo.com
 0.0.0.0 qaamgo-d.openx.net
@@ -6877,6 +6881,7 @@
 0.0.0.0 sac.ayads.co
 0.0.0.0 sact.atdmt.com
 0.0.0.0 sadc1.outbrain.org
+0.0.0.0 sadobeanalytics.geico.com
 0.0.0.0 sagan.iad-03.braze.com
 0.0.0.0 salemwebnetworks-d.openx.net
 0.0.0.0 sales.idio.co
@@ -7389,6 +7394,7 @@
 0.0.0.0 smetrics.chrysler.com
 0.0.0.0 smetrics.cox.com
 0.0.0.0 smetrics.dickssportinggoods.com
+0.0.0.0 smetrics.discover.com
 0.0.0.0 smetrics.foxnews.com
 0.0.0.0 smetrics.southwest.com
 0.0.0.0 smetrics.walgreens.com
