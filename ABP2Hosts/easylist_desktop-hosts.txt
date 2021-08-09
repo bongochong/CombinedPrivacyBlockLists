@@ -1,4 +1,4 @@
-# Mon Aug  9 04:02:04 PM UTC 2021
+# Mon Aug  9 06:41:56 PM UTC 2021
 # EasyList Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0-24bpautomentes.hu
 0.0.0.0 00-gov.cn
@@ -17476,6 +17476,7 @@
 0.0.0.0 lingchallersh.top
 0.0.0.0 lingeriebarren.com
 0.0.0.0 linghangshouji.com
+0.0.0.0 lingqinga.cn
 0.0.0.0 linicom.co.il
 0.0.0.0 linicom.co.uk
 0.0.0.0 linjiajia.cn

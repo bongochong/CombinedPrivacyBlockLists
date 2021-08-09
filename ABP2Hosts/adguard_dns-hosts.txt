@@ -1,4 +1,4 @@
-# Mon Aug  9 04:02:11 PM UTC 2021
+# Mon Aug  9 06:42:04 PM UTC 2021
 # AdGuard DNS Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 00-gov.cn
 0.0.0.0 0001.best
@@ -4788,6 +4788,7 @@
 0.0.0.0 api.crittercism.com
 0.0.0.0 api.dataunlocker.com
 0.0.0.0 api.exc.mob.com
+0.0.0.0 api.flat-ads.com
 0.0.0.0 api.fusepowered.com
 0.0.0.0 api.gameofwhales.com
 0.0.0.0 api.gimbal.com
@@ -7457,7 +7458,6 @@
 0.0.0.0 byspot.com
 0.0.0.0 bystfied.pro
 0.0.0.0 bytde.com
-0.0.0.0 bytegoofy.com
 0.0.0.0 bytemgdd.com
 0.0.0.0 byvngx98ssphwzkrrtsjhnbyz5zss81dxygxvlqd05.com
 0.0.0.0 byvuleci.pro
@@ -11459,6 +11459,7 @@
 0.0.0.0 dnn506yrbagrg.cloudfront.net
 0.0.0.0 dnovaku.ru
 0.0.0.0 dnoyrz.com
+0.0.0.0 dns-clientinfo.cbsivideo.com
 0.0.0.0 dnsdelegation.io
 0.0.0.0 dnskuu.com
 0.0.0.0 dnsseed.bitcoin.dashjr.org
@@ -17664,6 +17665,7 @@
 0.0.0.0 ip2c.landscape.co.jp
 0.0.0.0 ip2map.com
 0.0.0.0 ip2phrase.com
+0.0.0.0 ipada.cafe.naver.com
 0.0.0.0 ipaddresslabs.com
 0.0.0.0 ipapi.co
 0.0.0.0 ipapi.tmbi.com
@@ -17864,6 +17866,7 @@
 0.0.0.0 ivoxua.socratos.net
 0.0.0.0 ivpraz.com
 0.0.0.0 ivr.com.tr
+0.0.0.0 ivruc.cn
 0.0.0.0 ivsdajtjh.com
 0.0.0.0 ivstracker.net
 0.0.0.0 ivtcdnhshx.com
@@ -18242,6 +18245,7 @@
 0.0.0.0 jndfrqz.com
 0.0.0.0 jnffgawh.com
 0.0.0.0 jnjcxx.com
+0.0.0.0 jnkqds.cn
 0.0.0.0 jnmqym4.cn
 0.0.0.0 jnsdkjzs.com
 0.0.0.0 jnxkfldio.com
@@ -19709,6 +19713,7 @@
 0.0.0.0 lingeriebarren.com
 0.0.0.0 linghangshouji.com
 0.0.0.0 lingospot.com
+0.0.0.0 lingqinga.cn
 0.0.0.0 linicom.co.il
 0.0.0.0 linicom.co.uk
 0.0.0.0 linjiajia.cn
@@ -26503,6 +26508,7 @@
 0.0.0.0 q64a9ris0j.com
 0.0.0.0 q6idnawboy7g.com
 0.0.0.0 q8eqh.top
+0.0.0.0 qa-events-schema.viacom.tech
 0.0.0.0 qa7mp9j.cn
 0.0.0.0 qaadv.com
 0.0.0.0 qadabra.com
