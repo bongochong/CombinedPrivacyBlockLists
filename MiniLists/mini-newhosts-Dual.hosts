@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 08/09/21~16:12:08 -~
+# ~- 08/09/21~18:47:08 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -37960,6 +37960,7 @@ ff02::2 ip6-allrouters
 0.0.0.0 lingchallersh.top
 0.0.0.0 lingeriebarren.com
 0.0.0.0 linghangshouji.com
+0.0.0.0 lingqinga.cn
 0.0.0.0 linicom.co.il
 0.0.0.0 linicom.co.uk
 0.0.0.0 linjiajia.cn
@@ -112383,6 +112384,7 @@ ff02::2 ip6-allrouters
 :: lingchallersh.top
 :: lingeriebarren.com
 :: linghangshouji.com
+:: lingqinga.cn
 :: linicom.co.il
 :: linicom.co.uk
 :: linjiajia.cn
