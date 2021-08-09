@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 08/09/21~18:54:07 -~
+# ~- 08/09/21~23:23:22 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -3122,8 +3122,6 @@
 *.accpais.com
 *.accscdn.m.taobao.com
 *.acctspayable.com
-*.accuradio.com/static/js/ltjs.js
-*.accuradio.com/sweeper/
 *.accuride.actonservice.com
 *.accutrain.actonservice.com
 *.accuzip.actonservice.com
