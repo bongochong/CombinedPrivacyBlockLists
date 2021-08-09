@@ -1,4 +1,4 @@
-// **** Fri Aug  6 12:10:36 AM UTC 2021
+// **** Mon Aug  9 04:06:29 PM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -10491,7 +10491,6 @@ shExpMatch(host, '*.matomo.activate.cz') ||
 shExpMatch(host, '*.matomo.gals24.ru') ||
 shExpMatch(host, '*.matomo.hdweb.ru') ||
 shExpMatch(host, '*.matomo.kmkb.ru') ||
-shExpMatch(host, '*.matomo.oka-zakaz.ru') ||
 shExpMatch(host, '*.matomo.zwetok.ru') ||
 shExpMatch(host, '*.matomy.com') ||
 shExpMatch(host, '*.matrics.ro') ||
@@ -15459,6 +15458,7 @@ shExpMatch(host, '*.track.game18click.com') ||
 shExpMatch(host, '*.track.gawker.com') ||
 shExpMatch(host, '*.track.hexcan.com') ||
 shExpMatch(host, '*.track.mailerlite.com') ||
+shExpMatch(host, '*.track.software-codes.com') ||
 shExpMatch(host, '*.track.themaccleanup.info') ||
 shExpMatch(host, '*.track.tkbo.com') ||
 shExpMatch(host, '*.track.ultravpn.com') ||
@@ -28028,7 +28028,6 @@ shExpMatch(host, 'matomo.activate.cz') ||
 shExpMatch(host, 'matomo.gals24.ru') ||
 shExpMatch(host, 'matomo.hdweb.ru') ||
 shExpMatch(host, 'matomo.kmkb.ru') ||
-shExpMatch(host, 'matomo.oka-zakaz.ru') ||
 shExpMatch(host, 'matomo.zwetok.ru') ||
 shExpMatch(host, 'matomy.com') ||
 shExpMatch(host, 'matrics.ro') ||
@@ -32996,6 +32995,7 @@ shExpMatch(host, 'track.game18click.com') ||
 shExpMatch(host, 'track.gawker.com') ||
 shExpMatch(host, 'track.hexcan.com') ||
 shExpMatch(host, 'track.mailerlite.com') ||
+shExpMatch(host, 'track.software-codes.com') ||
 shExpMatch(host, 'track.themaccleanup.info') ||
 shExpMatch(host, 'track.tkbo.com') ||
 shExpMatch(host, 'track.ultravpn.com') ||
