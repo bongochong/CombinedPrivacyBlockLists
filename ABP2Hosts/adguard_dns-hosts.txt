@@ -1,4 +1,4 @@
-# Mon Aug  9 06:42:04 PM UTC 2021
+# Tue Aug 10 06:06:16 AM UTC 2021
 # AdGuard DNS Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 00-gov.cn
 0.0.0.0 0001.best
@@ -1527,6 +1527,7 @@
 0.0.0.0 a24help.ru
 0.0.0.0 a258c3523a5c4a47bda.com
 0.0.0.0 a26d31d5d6986cbe.com
+0.0.0.0 a289f5f0f2c.com
 0.0.0.0 a2c653c4d145fa5f96a.com
 0.0.0.0 a2dfp.net
 0.0.0.0 a2gw.com
@@ -6922,6 +6923,7 @@
 0.0.0.0 bondfondif.com
 0.0.0.0 bondinra.com
 0.0.0.0 boneregret.com
+0.0.0.0 bonertraffic.info
 0.0.0.0 bonertraffic12.info
 0.0.0.0 bonertraffic12.pro
 0.0.0.0 bonertraffic13.info
@@ -10360,6 +10362,7 @@
 0.0.0.0 d3nvrqlo8rj1kw.cloudfront.net
 0.0.0.0 d3oep4gb91kpuv.cloudfront.net
 0.0.0.0 d3ojzyhbolvoi5.cloudfront.net
+0.0.0.0 d3ou4areduq72f.cloudfront.net
 0.0.0.0 d3p2b5qewrnsyv.cloudfront.net
 0.0.0.0 d3pe8wzpurrzss.cloudfront.net
 0.0.0.0 d3phbp7p78bdk9.cloudfront.net
@@ -11819,6 +11822,7 @@
 0.0.0.0 dunedisadvantagetentative.com
 0.0.0.0 dunellengez.info
 0.0.0.0 dungeonavenge.com
+0.0.0.0 dunhilltraveldeals.com
 0.0.0.0 dunta.ru
 0.0.0.0 dunyavid.net
 0.0.0.0 duobaoqj.com
@@ -11975,6 +11979,7 @@
 0.0.0.0 e350570881272e.com
 0.0.0.0 e376ef28103177cc.com
 0.0.0.0 e4b65f2ef47fb0.com
+0.0.0.0 e4f024c087.com
 0.0.0.0 e521d17fa185a2.com
 0.0.0.0 e553bcf717698d33.com
 0.0.0.0 e5d944a25e468d.com
@@ -12482,6 +12487,7 @@
 0.0.0.0 emotionalballotneedlework.com
 0.0.0.0 emotionpiousconformity.com
 0.0.0.0 empiremoney.com
+0.0.0.0 employdearestspatter.com
 0.0.0.0 empowerclemencyjoggle.com
 0.0.0.0 emptyescort.com
 0.0.0.0 emptyspaceads.com
@@ -12586,6 +12592,7 @@
 0.0.0.0 entertainingeyes.com
 0.0.0.0 entertaininglarge.com
 0.0.0.0 enthusiasmturnipflare.com
+0.0.0.0 enthusiastgaming.net
 0.0.0.0 enthusiasticdad.com
 0.0.0.0 enticelabs.com
 0.0.0.0 entimee.com
@@ -15739,6 +15746,7 @@
 0.0.0.0 h5tjj3loy2.com
 0.0.0.0 h6295.com
 0.0.0.0 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
+0.0.0.0 h728.cn
 0.0.0.0 h78xb.pw
 0.0.0.0 h7fy4ur0in94g016.in.net
 0.0.0.0 h83zvgrg29.com
@@ -18097,6 +18105,7 @@
 0.0.0.0 jhrwekjrowegm.com
 0.0.0.0 jhtcdj.com
 0.0.0.0 jhwj88.com
+0.0.0.0 jhwt.shop
 0.0.0.0 ji.ihualun.com
 0.0.0.0 jia-huan.cn
 0.0.0.0 jiachangwuliu.cn
@@ -18325,6 +18334,7 @@
 0.0.0.0 jpkwk.top
 0.0.0.0 jppbyrkkgpgo.com
 0.0.0.0 jpqgxy.com
+0.0.0.0 jpush.cn
 0.0.0.0 jqdnvg.com
 0.0.0.0 jqk2me2mzf.ru
 0.0.0.0 jqk72ugyl2pz.com
@@ -18744,6 +18754,7 @@
 0.0.0.0 ketchapp.org
 0.0.0.0 ketoo.com
 0.0.0.0 ketquaxosotoancau.org
+0.0.0.0 kevabila.com
 0.0.0.0 kewithrittit.ru
 0.0.0.0 kewuruve.xyz
 0.0.0.0 keyade.com
@@ -18940,6 +18951,7 @@
 0.0.0.0 klohovfra.com
 0.0.0.0 klonedaset.org
 0.0.0.0 klorn.cn
+0.0.0.0 klqyxeidr.com
 0.0.0.0 klsadm.com
 0.0.0.0 klsdee.com
 0.0.0.0 klsdmr.com
@@ -19583,6 +19595,7 @@
 0.0.0.0 lexity.com
 0.0.0.0 lexozfldkklgvc.com
 0.0.0.0 lexph.com
+0.0.0.0 leyxue.cn
 0.0.0.0 lezengxin.com
 0.0.0.0 leztc.com
 0.0.0.0 lfd-media.ru
@@ -20433,6 +20446,7 @@
 0.0.0.0 luyongkang.top
 0.0.0.0 luyouxi.cn
 0.0.0.0 luzynka.ru
+0.0.0.0 lv-xin.cn
 0.0.0.0 lv.myapks.com
 0.0.0.0 lvecygampj.com
 0.0.0.0 lvgvax82bp.com
@@ -22095,6 +22109,7 @@
 0.0.0.0 mrvio.com
 0.0.0.0 mrzhifu.net
 0.0.0.0 mrzikj.com
+0.0.0.0 ms-trackingapi.phenompeople.com
 0.0.0.0 ms.applvn.com
 0.0.0.0 ms.awqsaged.cn
 0.0.0.0 ms.cmcm.com
@@ -23763,6 +23778,7 @@
 0.0.0.0 omnitagjs.com
 0.0.0.0 omniture.eaeurope.eu
 0.0.0.0 omoaxaus.net
+0.0.0.0 omoonsih.net
 0.0.0.0 omotorax.ru
 0.0.0.0 omoukkkj.stream
 0.0.0.0 ompanythats.biz
@@ -24811,6 +24827,7 @@
 0.0.0.0 periodsalter.com
 0.0.0.0 perion.com
 0.0.0.0 peripherd.club
+0.0.0.0 perk0mean.com
 0.0.0.0 perkcanada.com
 0.0.0.0 perljs.com
 0.0.0.0 permanentnearly.com
@@ -27325,6 +27342,7 @@
 0.0.0.0 refersion.com
 0.0.0.0 refinedads.com
 0.0.0.0 reflatepsoai.casa
+0.0.0.0 reflectedenhanced.com
 0.0.0.0 reflectionsforeground.com
 0.0.0.0 reflectivereward.com
 0.0.0.0 reflethenfortoft.info
@@ -27834,6 +27852,7 @@
 0.0.0.0 rixaka.com
 0.0.0.0 rizzonelli.it
 0.0.0.0 rj2ro1x3j4ht.com
+0.0.0.0 rjhbcghmln.com
 0.0.0.0 rjjtf.biz
 0.0.0.0 rjltpektsuqsu.com
 0.0.0.0 rjtpos.cn
@@ -28079,6 +28098,7 @@
 0.0.0.0 rta.dailymail.co.uk
 0.0.0.0 rta2.metro.co.uk
 0.0.0.0 rtaliseintru.club
+0.0.0.0 rtantventu.biz
 0.0.0.0 rtapi.abbi.io
 0.0.0.0 rtb-media.me
 0.0.0.0 rtb-media.ru
@@ -29182,6 +29202,7 @@
 0.0.0.0 sherlockseries.ru
 0.0.0.0 shermore.info
 0.0.0.0 shesubscriptions.com
+0.0.0.0 shexawhy.net
 0.0.0.0 shffcy.cn
 0.0.0.0 shibagongfang.com
 0.0.0.0 shidaikejivip.cn
@@ -29214,6 +29235,7 @@
 0.0.0.0 shirleyyean.com
 0.0.0.0 shishishiguixinfangfuzhuangshanghan.cn
 0.0.0.0 shitao.xyz
+0.0.0.0 shitcustody.com
 0.0.0.0 shitiphu.com
 0.0.0.0 shiverconventwilful.com
 0.0.0.0 shixiaofei864.cn
@@ -29618,6 +29640,7 @@
 0.0.0.0 smallbeginner.com
 0.0.0.0 smallentpation.pro
 0.0.0.0 smallmovieapp.com
+0.0.0.0 smalltiberbridge.com
 0.0.0.0 smallvideoapp.com
 0.0.0.0 smart-bdash.com
 0.0.0.0 smart-counter.net
@@ -32889,6 +32912,7 @@
 0.0.0.0 track.tenjin.io
 0.0.0.0 track.thebase.in
 0.0.0.0 track.thesaurus.com
+0.0.0.0 track.tomwx.net
 0.0.0.0 track.tooplay.com
 0.0.0.0 track.tproger.ru
 0.0.0.0 track.uc.cn
@@ -35909,6 +35933,7 @@
 0.0.0.0 windowmentaria.com
 0.0.0.0 windows-remora-system.com
 0.0.0.0 windowsxi.com
+0.0.0.0 windscreenimplacable.com
 0.0.0.0 windscreenregimepros.com
 0.0.0.0 windzq.com
 0.0.0.0 winfreeprize.online
@@ -37482,6 +37507,7 @@
 0.0.0.0 zdorovmagazine.ru
 0.0.0.0 zdovrb.cn
 0.0.0.0 zdrawnews.ru
+0.0.0.0 zdryg.com
 0.0.0.0 zdsfnagupwkztl.com
 0.0.0.0 zdtag.com
 0.0.0.0 zeads.com
@@ -37853,6 +37879,7 @@
 0.0.0.0 zwmunz.com
 0.0.0.0 zwnxzckwihg.com
 0.0.0.0 zwqpqrtpjt.com
+0.0.0.0 zwrj999.cn
 0.0.0.0 zwtvcdnb.com
 0.0.0.0 zwwl.shop
 0.0.0.0 zwychain.cn

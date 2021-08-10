@@ -1,4 +1,4 @@
-# Mon Aug  9 06:41:40 PM UTC 2021
+# Tue Aug 10 06:05:53 AM UTC 2021
 # AdGuard Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 00-gov.cn
 0.0.0.0 0024aaaa.com
@@ -102,7 +102,6 @@
 0.0.0.0 0x01n2ptpuz3.com
 0.0.0.0 0xxd.com
 0.0.0.0 1-m.xyz
-0.0.0.0 1-vr.xyz
 0.0.0.0 1.01fy.cn
 0.0.0.0 1.07swz.com
 0.0.0.0 1.1010pic.com
@@ -290,7 +289,6 @@
 0.0.0.0 1ccbt.com
 0.0.0.0 1ced38bdc42b883.com
 0.0.0.0 1ctc.sfr.fr
-0.0.0.0 1d19627916.com
 0.0.0.0 1d1a.com
 0.0.0.0 1e310acae6aee.com
 0.0.0.0 1ea1sley.com
@@ -609,7 +607,6 @@
 0.0.0.0 4c7og3qcob.com
 0.0.0.0 4c935d6a244f.com
 0.0.0.0 4cr447ewncl4.com
-0.0.0.0 4d3eac9bc12.com
 0.0.0.0 4dcdc.com
 0.0.0.0 4dex.io
 0.0.0.0 4dsbanner.net
@@ -1468,6 +1465,7 @@
 0.0.0.0 a28891.actonservice.com
 0.0.0.0 a28914.actonservice.com
 0.0.0.0 a28962.actonservice.com
+0.0.0.0 a289f5f0f2c.com
 0.0.0.0 a29045.actonservice.com
 0.0.0.0 a29071.actonservice.com
 0.0.0.0 a29088.actonservice.com
@@ -5080,6 +5078,7 @@
 0.0.0.0 bolrookr.com
 0.0.0.0 bondfondif.com
 0.0.0.0 bondinra.com
+0.0.0.0 bonertraffic.info
 0.0.0.0 bonertraffic12.info
 0.0.0.0 bonertraffic12.pro
 0.0.0.0 bonertraffic13.info
@@ -7169,7 +7168,6 @@
 0.0.0.0 cpalabtracking.com
 0.0.0.0 cpamatik.com
 0.0.0.0 cpanuk.com
-0.0.0.0 cpasmrttds.info
 0.0.0.0 cpaway.com
 0.0.0.0 cpays.com
 0.0.0.0 cpcc.xyz
@@ -7938,6 +7936,7 @@
 0.0.0.0 d3nvrqlo8rj1kw.cloudfront.net
 0.0.0.0 d3oep4gb91kpuv.cloudfront.net
 0.0.0.0 d3ojzyhbolvoi5.cloudfront.net
+0.0.0.0 d3ou4areduq72f.cloudfront.net
 0.0.0.0 d3p2b5qewrnsyv.cloudfront.net
 0.0.0.0 d3pe8wzpurrzss.cloudfront.net
 0.0.0.0 d3phbp7p78bdk9.cloudfront.net
@@ -8131,7 +8130,6 @@
 0.0.0.0 dartoverboardcoupon.com
 0.0.0.0 dartsirhose.icu
 0.0.0.0 darwarvid.com
-0.0.0.0 dasfdasfasdf.no-ip.info
 0.0.0.0 dasfelynsaterr.webcam
 0.0.0.0 dasfelynsaterr.win
 0.0.0.0 dash.tmearn.com
@@ -8402,7 +8400,6 @@
 0.0.0.0 deliver.ifeng.com
 0.0.0.0 deliver.oztam.com.au
 0.0.0.0 deliver.ptgncdn.com
-0.0.0.0 delivery-dev.thebloggernetwork.com
 0.0.0.0 delivery.playallvideos.com
 0.0.0.0 delivery.porn.com
 0.0.0.0 delivery.senvangvn.com
@@ -8823,7 +8820,6 @@
 0.0.0.0 disparitypuppetfestivity.com
 0.0.0.0 dispatcher.upmc.uc.cn
 0.0.0.0 displacepepperyadvertisement.com
-0.0.0.0 display.digitalriver.com
 0.0.0.0 displaycontentnetwork.com
 0.0.0.0 displaycontentprofit.com
 0.0.0.0 displayformatcontent.com
@@ -9442,6 +9438,7 @@
 0.0.0.0 e350570881272e.com
 0.0.0.0 e376ef28103177cc.com
 0.0.0.0 e4b65f2ef47fb0.com
+0.0.0.0 e4f024c087.com
 0.0.0.0 e521d17fa185a2.com
 0.0.0.0 e553bcf717698d33.com
 0.0.0.0 e5d944a25e468d.com
@@ -10042,6 +10039,7 @@
 0.0.0.0 emotionpiousconformity.com
 0.0.0.0 emotir.pcone.com.tw
 0.0.0.0 empiremoney.com
+0.0.0.0 employdearestspatter.com
 0.0.0.0 empowerclemencyjoggle.com
 0.0.0.0 empresa.ricoh.es
 0.0.0.0 emptyspaceads.com
@@ -10169,6 +10167,7 @@
 0.0.0.0 engagesrvr.filefactory.com
 0.0.0.0 engima-www.partner.net.daraz.com
 0.0.0.0 engine-pmbk.ligastavok.ru
+0.0.0.0 engine.eroge.com
 0.0.0.0 engine.laweekly.com
 0.0.0.0 engine.mobileapptracking.com
 0.0.0.0 enginedriverflexible.com
@@ -10207,6 +10206,7 @@
 0.0.0.0 entertainedshook.com
 0.0.0.0 entertaininglarge.com
 0.0.0.0 enthusiasmturnipflare.com
+0.0.0.0 enthusiastgaming.net
 0.0.0.0 entimee.com
 0.0.0.0 entiregraterfurs.com
 0.0.0.0 entpressent.top
@@ -10326,6 +10326,7 @@
 0.0.0.0 esampletedr.space
 0.0.0.0 esauwoan.com
 0.0.0.0 escalatenetwork.com
+0.0.0.0 escape.insites.eu
 0.0.0.0 eschsupply.actonservice.com
 0.0.0.0 escorterosion.com
 0.0.0.0 escowledge.club
@@ -10395,6 +10396,8 @@
 0.0.0.0 etrack.ext.arubanetworks.com
 0.0.0.0 etrack.ext.hpe.com
 0.0.0.0 etracking.pro
+0.0.0.0 etrader.kalahari.com
+0.0.0.0 etrader.kalahari.net
 0.0.0.0 etrecantformation.com
 0.0.0.0 ettyjokilint.club
 0.0.0.0 etude.epidemiologie-pop-ge.ch
@@ -10439,7 +10442,6 @@
 0.0.0.0 eutehj.com
 0.0.0.0 euw-patner.net.daraz.com
 0.0.0.0 euwe-marketing.net.daraz.com
-0.0.0.0 euwidget.imshopping.com
 0.0.0.0 euwmarketing.net.daraz.com
 0.0.0.0 euym8eel.club
 0.0.0.0 euz.net
@@ -11123,7 +11125,6 @@
 0.0.0.0 fll007.com
 0.0.0.0 flmcju.cn
 0.0.0.0 flmuqa.com
-0.0.0.0 flodonas.com
 0.0.0.0 flomigo.com
 0.0.0.0 flongshartail.com
 0.0.0.0 floordisclosewhereas.com
@@ -14541,6 +14542,7 @@
 0.0.0.0 jhpwrn.laredoute.ch
 0.0.0.0 jhtcdj.com
 0.0.0.0 jhwj88.com
+0.0.0.0 jhwt.shop
 0.0.0.0 jia-huan.cn
 0.0.0.0 jiachangwuliu.cn
 0.0.0.0 jiahewine.cn
@@ -15091,6 +15093,7 @@
 0.0.0.0 kesmdg.com
 0.0.0.0 ketadeep.com
 0.0.0.0 ketaoke.com
+0.0.0.0 kevabila.com
 0.0.0.0 kewuruve.xyz
 0.0.0.0 keyade.alltricks.fr
 0.0.0.0 keyade.com
@@ -15207,6 +15210,7 @@
 0.0.0.0 klohovfra.com
 0.0.0.0 klonedaset.org
 0.0.0.0 klorn.cn
+0.0.0.0 klqyxeidr.com
 0.0.0.0 klsadm.com
 0.0.0.0 klsdmr.com
 0.0.0.0 km1.muhoujiemi.com
@@ -19871,6 +19875,7 @@
 0.0.0.0 omns.crackle.com
 0.0.0.0 omns.murdoch.edu.au
 0.0.0.0 omoaxaus.net
+0.0.0.0 omoonsih.net
 0.0.0.0 oms.570news.com
 0.0.0.0 oms.660citynews.com
 0.0.0.0 oms.680news.com
@@ -20073,7 +20078,6 @@
 0.0.0.0 orchidscape.net
 0.0.0.0 orcjagpox.com
 0.0.0.0 ordealgraveyard.com
-0.0.0.0 oredebpig.com
 0.0.0.0 oreflushvehemence.com
 0.0.0.0 oregonstate.actonservice.com
 0.0.0.0 origer.info
@@ -22376,6 +22380,7 @@
 0.0.0.0 referer.pixplug.in
 0.0.0.0 referrer.disqus.com
 0.0.0.0 reflatepsoai.casa
+0.0.0.0 reflectedenhanced.com
 0.0.0.0 reflectionsforeground.com
 0.0.0.0 refnippod.com
 0.0.0.0 reformexpectbeyond.com
@@ -22692,6 +22697,7 @@
 0.0.0.0 riverpush.com
 0.0.0.0 riwhedipsa.pro
 0.0.0.0 rj2ro1x3j4ht.com
+0.0.0.0 rjhbcghmln.com
 0.0.0.0 rjltpektsuqsu.com
 0.0.0.0 rjtpos.cn
 0.0.0.0 rkcqlsiu9fr6.top
@@ -22845,6 +22851,7 @@
 0.0.0.0 rta.dailymail.co.uk
 0.0.0.0 rta2.metro.co.uk
 0.0.0.0 rtaliseintru.club
+0.0.0.0 rtantventu.biz
 0.0.0.0 rtax.criteo.com
 0.0.0.0 rtb.softcube.com
 0.0.0.0 rtbanalytics.com
@@ -23972,6 +23979,7 @@
 0.0.0.0 shenzhengov.work
 0.0.0.0 shepeekr.net
 0.0.0.0 shermore.info
+0.0.0.0 shexawhy.net
 0.0.0.0 shffcy.cn
 0.0.0.0 shibagongfang.com
 0.0.0.0 shidaikejivip.cn
@@ -23994,6 +24002,7 @@
 0.0.0.0 shirleyyean.com
 0.0.0.0 shishishiguixinfangfuzhuangshanghan.cn
 0.0.0.0 shitao.xyz
+0.0.0.0 shitcustody.com
 0.0.0.0 shitiphu.com
 0.0.0.0 shiverconventwilful.com
 0.0.0.0 shixiaofei864.cn
@@ -24270,6 +24279,7 @@
 0.0.0.0 smac-ad.com
 0.0.0.0 smallentpation.pro
 0.0.0.0 smallmovieapp.com
+0.0.0.0 smalltiberbridge.com
 0.0.0.0 smallvideoapp.com
 0.0.0.0 smart-start.com.cn
 0.0.0.0 smart.styria-digital.com
@@ -30745,6 +30755,7 @@
 0.0.0.0 windowmentaria.com
 0.0.0.0 windows-remora-system.com
 0.0.0.0 windowsxi.com
+0.0.0.0 windscreenimplacable.com
 0.0.0.0 windscreenregimepros.com
 0.0.0.0 windychinese.com
 0.0.0.0 windzq.com
@@ -32384,6 +32395,7 @@
 0.0.0.0 zwkssb.com
 0.0.0.0 zwmunz.com
 0.0.0.0 zwnxzckwihg.com
+0.0.0.0 zwrj999.cn
 0.0.0.0 zwtvcdnb.com
 0.0.0.0 zwwl.shop
 0.0.0.0 zwychain.cn
