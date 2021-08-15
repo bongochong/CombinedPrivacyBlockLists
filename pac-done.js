@@ -1,4 +1,4 @@
-// **** Tue Aug 10 06:21:08 AM UTC 2021
+// **** Sun Aug 15 08:58:14 PM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -826,6 +826,7 @@ shExpMatch(host, '*.adprimemedia.com') ||
 shExpMatch(host, '*.adprofile.net') ||
 shExpMatch(host, '*.adprofits.ru') ||
 shExpMatch(host, '*.adprojekt.pl') ||
+shExpMatch(host, '*.adpushup.com') ||
 shExpMatch(host, '*.adq.nextag.com') ||
 shExpMatch(host, '*.adrazzi.com') ||
 shExpMatch(host, '*.adreactor.com') ||
@@ -11307,6 +11308,7 @@ shExpMatch(host, '*.nationalrealtyonline.com') ||
 shExpMatch(host, '*.nationwidepeople.com') ||
 shExpMatch(host, '*.nativeroll.tv') ||
 shExpMatch(host, '*.natural.buckeyeenergyforum.com') ||
+shExpMatch(host, '*.naturalbid.com') ||
 shExpMatch(host, '*.naturallyearthfriendly.com') ||
 shExpMatch(host, '*.navegg.com') ||
 shExpMatch(host, '*.naviblue-team.com') ||
@@ -13561,6 +13563,7 @@ shExpMatch(host, '*.sciencefuture.tk') ||
 shExpMatch(host, '*.scientiamobile.com') ||
 shExpMatch(host, '*.scifimovies4u.com') ||
 shExpMatch(host, '*.scintillatingscissors.com') ||
+shExpMatch(host, '*.scintillatingsilver.com') ||
 shExpMatch(host, '*.scintillatingspace.com') ||
 shExpMatch(host, '*.scl-hacks.com') ||
 shExpMatch(host, '*.sclutian.com') ||
@@ -16285,7 +16288,6 @@ shExpMatch(host, '*.vkonte.club') ||
 shExpMatch(host, '*.vkonte.live') ||
 shExpMatch(host, '*.vladimirlapshin.com') ||
 shExpMatch(host, '*.vmay.com') ||
-shExpMatch(host, '*.vmmpxl.com') ||
 shExpMatch(host, '*.vmpp.comule.com') ||
 shExpMatch(host, '*.vnb77.com') ||
 shExpMatch(host, '*.vod.dgcaili.com') ||
@@ -18363,6 +18365,7 @@ shExpMatch(host, 'adprimemedia.com') ||
 shExpMatch(host, 'adprofile.net') ||
 shExpMatch(host, 'adprofits.ru') ||
 shExpMatch(host, 'adprojekt.pl') ||
+shExpMatch(host, 'adpushup.com') ||
 shExpMatch(host, 'adq.nextag.com') ||
 shExpMatch(host, 'adrazzi.com') ||
 shExpMatch(host, 'adreactor.com') ||
@@ -28844,6 +28847,7 @@ shExpMatch(host, 'nationalrealtyonline.com') ||
 shExpMatch(host, 'nationwidepeople.com') ||
 shExpMatch(host, 'nativeroll.tv') ||
 shExpMatch(host, 'natural.buckeyeenergyforum.com') ||
+shExpMatch(host, 'naturalbid.com') ||
 shExpMatch(host, 'naturallyearthfriendly.com') ||
 shExpMatch(host, 'navegg.com') ||
 shExpMatch(host, 'naviblue-team.com') ||
@@ -31098,6 +31102,7 @@ shExpMatch(host, 'sciencefuture.tk') ||
 shExpMatch(host, 'scientiamobile.com') ||
 shExpMatch(host, 'scifimovies4u.com') ||
 shExpMatch(host, 'scintillatingscissors.com') ||
+shExpMatch(host, 'scintillatingsilver.com') ||
 shExpMatch(host, 'scintillatingspace.com') ||
 shExpMatch(host, 'scl-hacks.com') ||
 shExpMatch(host, 'sclutian.com') ||
@@ -33822,7 +33827,6 @@ shExpMatch(host, 'vkonte.club') ||
 shExpMatch(host, 'vkonte.live') ||
 shExpMatch(host, 'vladimirlapshin.com') ||
 shExpMatch(host, 'vmay.com') ||
-shExpMatch(host, 'vmmpxl.com') ||
 shExpMatch(host, 'vmpp.comule.com') ||
 shExpMatch(host, 'vnb77.com') ||
 shExpMatch(host, 'vod.dgcaili.com') ||
