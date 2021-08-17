@@ -1,4 +1,4 @@
-# Tue Aug 10 06:05:38 AM UTC 2021
+# Tue Aug 17 06:55:38 PM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -696,6 +696,7 @@
 0.0.0.0 ads.edadeal.ru
 0.0.0.0 ads.eu.criteo.com
 0.0.0.0 ads.everesttech.net
+0.0.0.0 ads.feelingtouch.com
 0.0.0.0 ads.fingersoft.net
 0.0.0.0 ads.flurry.com
 0.0.0.0 ads.fotoable.com
@@ -4359,7 +4360,6 @@
 0.0.0.0 httpkafka.unityads.unity3d.com
 0.0.0.0 httpool.com
 0.0.0.0 httpring.qq.com
-0.0.0.0 huangye.miui.com
 0.0.0.0 hub.securedtouch.com
 0.0.0.0 hulu.hb.omtrdc.net
 0.0.0.0 hunantv-ipdx.cn.miaozhen.com
@@ -5126,7 +5126,6 @@
 0.0.0.0 log4x.nixcdn.com
 0.0.0.0 logcollector.viewster.com
 0.0.0.0 logconfig.polarisoffice.com
-0.0.0.0 logfiles.zoom.us
 0.0.0.0 logger.adthor.com
 0.0.0.0 logger.adthrive.com
 0.0.0.0 logger.cloudmobi.net
@@ -5551,6 +5550,7 @@
 0.0.0.0 motleyfool-d.openx.net
 0.0.0.0 motu-hk.ssl2.duapps.com
 0.0.0.0 mozbar.moz.com
+0.0.0.0 mp.huangye.miui.com
 0.0.0.0 mp.teads.tv
 0.0.0.0 mp5-wl.mobileposse.com
 0.0.0.0 mparticle.map.fastly.net
@@ -5829,6 +5829,7 @@
 0.0.0.0 onetag.io.edgekey.net
 0.0.0.0 onetrust.mgr.consensu.org
 0.0.0.0 ongkidcasarv.com
+0.0.0.0 online-metrix.imars.cloud
 0.0.0.0 online-metrix.net
 0.0.0.0 online-prod.zenmxapps.com
 0.0.0.0 online.mobify.net
@@ -7414,6 +7415,7 @@
 0.0.0.0 snigel-d.openx.net
 0.0.0.0 snippet.minute.ly
 0.0.0.0 snippet.omm.crownpeak.com
+0.0.0.0 snowplow-collector.apartmentlist.io
 0.0.0.0 snowplow.ownlocal.com
 0.0.0.0 snowplowcollector.talkspace.com
 0.0.0.0 snrtp-cdn.marketo.com
