@@ -1,4 +1,4 @@
-// **** Fri Aug 20 04:05:03 AM UTC 2021
+// **** Fri Aug 20 06:35:56 PM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -2617,6 +2617,7 @@ shExpMatch(host, '*.beldiplomcom.75.com1.ru') ||
 shExpMatch(host, '*.belstat.com') ||
 shExpMatch(host, '*.belstat.nl') ||
 shExpMatch(host, '*.bendelsa.com') ||
+shExpMatch(host, '*.benfly.net') ||
 shExpMatch(host, '*.bengchivv.cn') ||
 shExpMatch(host, '*.bengchizz.cn') ||
 shExpMatch(host, '*.benget.com') ||
@@ -12853,7 +12854,6 @@ shExpMatch(host, '*.q5x.ru') ||
 shExpMatch(host, '*.qabbanihost.com') ||
 shExpMatch(host, '*.qakot.ru') ||
 shExpMatch(host, '*.qaziler.az') ||
-shExpMatch(host, '*.qcontentdelivery.info') ||
 shExpMatch(host, '*.qctop.com') ||
 shExpMatch(host, '*.qdmeilinkai.cn') ||
 shExpMatch(host, '*.qdtaihua.com') ||
@@ -15500,6 +15500,7 @@ shExpMatch(host, '*.tracking.ibxlink.com') ||
 shExpMatch(host, '*.tracking.internetstores.de') ||
 shExpMatch(host, '*.tracking.intl.miui.com') ||
 shExpMatch(host, '*.tracking.jiffyworld.com') ||
+shExpMatch(host, '*.tracking.lenddom.com') ||
 shExpMatch(host, '*.tracking.markethero.io') ||
 shExpMatch(host, '*.tracking.miui.com') ||
 shExpMatch(host, '*.tracking.olx-st.com') ||
@@ -20159,6 +20160,7 @@ shExpMatch(host, 'beldiplomcom.75.com1.ru') ||
 shExpMatch(host, 'belstat.com') ||
 shExpMatch(host, 'belstat.nl') ||
 shExpMatch(host, 'bendelsa.com') ||
+shExpMatch(host, 'benfly.net') ||
 shExpMatch(host, 'bengchivv.cn') ||
 shExpMatch(host, 'bengchizz.cn') ||
 shExpMatch(host, 'benget.com') ||
@@ -30395,7 +30397,6 @@ shExpMatch(host, 'q5x.ru') ||
 shExpMatch(host, 'qabbanihost.com') ||
 shExpMatch(host, 'qakot.ru') ||
 shExpMatch(host, 'qaziler.az') ||
-shExpMatch(host, 'qcontentdelivery.info') ||
 shExpMatch(host, 'qctop.com') ||
 shExpMatch(host, 'qdmeilinkai.cn') ||
 shExpMatch(host, 'qdtaihua.com') ||
@@ -33042,6 +33043,7 @@ shExpMatch(host, 'tracking.ibxlink.com') ||
 shExpMatch(host, 'tracking.internetstores.de') ||
 shExpMatch(host, 'tracking.intl.miui.com') ||
 shExpMatch(host, 'tracking.jiffyworld.com') ||
+shExpMatch(host, 'tracking.lenddom.com') ||
 shExpMatch(host, 'tracking.markethero.io') ||
 shExpMatch(host, 'tracking.miui.com') ||
 shExpMatch(host, 'tracking.olx-st.com') ||
