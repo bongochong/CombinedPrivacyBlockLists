@@ -9988,6 +9988,7 @@
 0.0.0.0 dolphindispute.com
 0.0.0.0 domekan.ru
 0.0.0.0 domen2domen.xyz
+0.0.0.0 domenckiberaktivworldtpz.tk
 0.0.0.0 dominica2.com
 0.0.0.0 dominionenterprises.112.2o7.net
 0.0.0.0 dominoad.com
