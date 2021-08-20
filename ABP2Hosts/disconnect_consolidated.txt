@@ -1,4 +1,4 @@
-# Fri Aug 20 03:25:26 AM UTC 2021
+# Fri Aug 20 04:00:05 AM UTC 2021
 # Disconnect Consolidated Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 101com.com
 0.0.0.0 101order.com

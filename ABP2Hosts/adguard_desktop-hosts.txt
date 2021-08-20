@@ -1,4 +1,4 @@
-# Fri Aug 20 03:24:54 AM UTC 2021
+# Fri Aug 20 03:59:29 AM UTC 2021
 # AdGuard Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 00-gov.cn
 0.0.0.0 0024aaaa.com
@@ -71,6 +71,7 @@
 0.0.0.0 0928vld.xyz
 0.0.0.0 0937jyg.com
 0.0.0.0 0956228a2df97a.com
+0.0.0.0 0ab35f617aaa.com
 0.0.0.0 0azx1.com
 0.0.0.0 0b19222804.com
 0.0.0.0 0b2qv7.cn
@@ -818,6 +819,7 @@
 0.0.0.0 67frzna9e9.com
 0.0.0.0 68665565.com
 0.0.0.0 68710266.com
+0.0.0.0 687588673a.com
 0.0.0.0 688de7b3822de.com
 0.0.0.0 68d0d5e26bb0ae.com
 0.0.0.0 693836.com
@@ -1015,6 +1017,7 @@
 0.0.0.0 8c9cc6d2b0e13.com
 0.0.0.0 8cc5ff581a88.bitsngo.net
 0.0.0.0 8cce6d834ab4e80c7.com
+0.0.0.0 8d61ca09804.com
 0.0.0.0 8d6lbsvg3qkl.com
 0.0.0.0 8dfaa2dc76855.com
 0.0.0.0 8ezc.sfr.fr
@@ -1102,6 +1105,7 @@
 0.0.0.0 9c1k.cn
 0.0.0.0 9c40a04e9732e6a6.com
 0.0.0.0 9c690ac2bcb.com
+0.0.0.0 9c921e15c8d17.com
 0.0.0.0 9cd76b4462bb.com
 0.0.0.0 9content.com
 0.0.0.0 9d6k.cn
@@ -2030,6 +2034,7 @@
 0.0.0.0 acloudvideos.com
 0.0.0.0 acmsg.online
 0.0.0.0 acodes.b2b.cn
+0.0.0.0 acofrnsr44es3954b.com
 0.0.0.0 acptkgp.com
 0.0.0.0 acq-hk.americanexpress.com
 0.0.0.0 acquirethem.com
@@ -4550,6 +4555,7 @@
 0.0.0.0 banstat.nadavi.net
 0.0.0.0 banstockseldest.com
 0.0.0.0 bantgoau.com
+0.0.0.0 bantrmind.com
 0.0.0.0 banusatoday.com
 0.0.0.0 banusdona.top
 0.0.0.0 baolanke.top
@@ -6778,6 +6784,7 @@
 0.0.0.0 cogleapad.com
 0.0.0.0 cogsdigital.com
 0.0.0.0 cogxmr.travelplanet.pl
+0.0.0.0 coherepeasant.com
 0.0.0.0 coin-have.com
 0.0.0.0 coin-service.com
 0.0.0.0 coinad.com
@@ -7189,6 +7196,7 @@
 0.0.0.0 coolcpms.com
 0.0.0.0 coolfenxi.com
 0.0.0.0 coollcloud.com
+0.0.0.0 coolnessvinegar.com
 0.0.0.0 coolstreamsearch.com
 0.0.0.0 cooltool.cc
 0.0.0.0 coomosha.com
@@ -10953,6 +10961,7 @@
 0.0.0.0 f853150605ccb.com
 0.0.0.0 f87b88d3649456.com
 0.0.0.0 f8phvntohv.tpetry.me
+0.0.0.0 f95nkry2nf8o.com
 0.0.0.0 faachen.cn
 0.0.0.0 fabriefly.mobi
 0.0.0.0 fabrkrup.com
@@ -11209,6 +11218,7 @@
 0.0.0.0 ff01s.cn
 0.0.0.0 ff5bd8d9f8df.com
 0.0.0.0 ffa9.cn
+0.0.0.0 fferencebr.space
 0.0.0.0 ffg34fg.877zw.com
 0.0.0.0 ffhre.com
 0.0.0.0 ffhwzaenzoue.com
@@ -11669,6 +11679,7 @@
 0.0.0.0 frustratingtabletaltered.com
 0.0.0.0 frustrationstudy.com
 0.0.0.0 fryawlauk.com
+0.0.0.0 fryhecticcolonize.com
 0.0.0.0 fryirktan.com
 0.0.0.0 fsegfy.lepoint.fr
 0.0.0.0 fshet.com
@@ -15983,6 +15994,7 @@
 0.0.0.0 leftoverdense.com
 0.0.0.0 leftoverdoorbell.com
 0.0.0.0 legacy.dns1.freshegg.net.daraz.com
+0.0.0.0 legalevaluate.com
 0.0.0.0 legalledgtjuj.club
 0.0.0.0 legcatastrophetransmitted.com
 0.0.0.0 legedlunchar.top
@@ -16206,6 +16218,7 @@
 0.0.0.0 lishuanghao.com
 0.0.0.0 lislepostsax.com
 0.0.0.0 lismcanalys.fun
+0.0.0.0 lisponightingale.com
 0.0.0.0 listas1.net.daraz.com
 0.0.0.0 listc.cn
 0.0.0.0 listenother.com
@@ -16315,6 +16328,7 @@
 0.0.0.0 loadus.exelator.com
 0.0.0.0 loamauji.com
 0.0.0.0 loaphour.com
+0.0.0.0 lobby-x.eu
 0.0.0.0 lobmuc.cn
 0.0.0.0 loboclick.com
 0.0.0.0 lobster.justunderwear.com
@@ -20417,6 +20431,7 @@
 0.0.0.0 oroinc.actonservice.com
 0.0.0.0 orozrpyxdigvwe.com
 0.0.0.0 orrecede.top
+0.0.0.0 ortoenhanc.biz
 0.0.0.0 ortymarvin.top
 0.0.0.0 os.fandango.com
 0.0.0.0 os.shutterfly.com
@@ -21675,6 +21690,7 @@
 0.0.0.0 precisetackle.com
 0.0.0.0 precisionclick.com
 0.0.0.0 precursoruphill.com
+0.0.0.0 predicamentsorting.com
 0.0.0.0 predictableenliven.com
 0.0.0.0 predictad.com
 0.0.0.0 predictiondexchange.com
@@ -23108,6 +23124,7 @@
 0.0.0.0 rooton.in
 0.0.0.0 rootstood.club
 0.0.0.0 ropupevi.pro
+0.0.0.0 ropx.xyz
 0.0.0.0 roredi.com
 0.0.0.0 rorserdy.com
 0.0.0.0 rosafun.com
@@ -23601,6 +23618,7 @@
 0.0.0.0 saleonce.top
 0.0.0.0 sales.disneylandparis.com
 0.0.0.0 saliencege.top
+0.0.0.0 salinasbhut.com
 0.0.0.0 sallyfundamental.com
 0.0.0.0 sallyminority.com
 0.0.0.0 salmon.literallife.church
@@ -29362,7 +29380,6 @@
 0.0.0.0 trafstats.ru
 0.0.0.0 trafyield.com
 0.0.0.0 traglencium.com
-0.0.0.0 trailers.to
 0.0.0.0 trainedgranddad.com
 0.0.0.0 trainspersuasiveknitting.com
 0.0.0.0 traistecbole.com
@@ -32532,6 +32549,7 @@
 0.0.0.0 ziccardia.com
 0.0.0.0 zichunping.cn
 0.0.0.0 zidedge.com
+0.0.0.0 zidoudsa.net
 0.0.0.0 zifjgjddpy.com
 0.0.0.0 ziig.com.cn
 0.0.0.0 zijaipse.com
@@ -32674,6 +32692,7 @@
 0.0.0.0 ztvx8.com
 0.0.0.0 ztxbd.com
 0.0.0.0 ztyumn.ifeng.com
+0.0.0.0 zubivu.com
 0.0.0.0 zuchaptigra.com
 0.0.0.0 zudrurta.com
 0.0.0.0 zug.sbb.ch
