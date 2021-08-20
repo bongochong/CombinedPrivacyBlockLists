@@ -1,4 +1,4 @@
-// **** Tue Aug 17 06:59:44 PM UTC 2021
+// **** Fri Aug 20 03:27:04 AM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -3997,6 +3997,8 @@ shExpMatch(host, '*.cointraffic.io') ||
 shExpMatch(host, '*.coinxback.com') ||
 shExpMatch(host, '*.coldenvy.info') ||
 shExpMatch(host, '*.coleccionperezsimon.com') ||
+shExpMatch(host, '*.collector-dev.cdp-dev.cnn.com') ||
+shExpMatch(host, '*.collector.cdp.cnn.com') ||
 shExpMatch(host, '*.cologne-mohair-dyers.com') ||
 shExpMatch(host, '*.colonize.com') ||
 shExpMatch(host, '*.com-77news-sdcno300.icu') ||
@@ -17470,6 +17472,7 @@ shExpMatch(host, '*.zimeks.com.mk') ||
 shExpMatch(host, '*.zimunap.ru') ||
 shExpMatch(host, '*.zintext.com') ||
 shExpMatch(host, '*.ziomale.net63.net') ||
+shExpMatch(host, '*.zion-telemetry.api.cnn.io') ||
 shExpMatch(host, '*.ziploaded.com') ||
 shExpMatch(host, '*.zipmulti.com') ||
 shExpMatch(host, '*.zippydownloads.com') ||
@@ -21536,6 +21539,8 @@ shExpMatch(host, 'cointraffic.io') ||
 shExpMatch(host, 'coinxback.com') ||
 shExpMatch(host, 'coldenvy.info') ||
 shExpMatch(host, 'coleccionperezsimon.com') ||
+shExpMatch(host, 'collector-dev.cdp-dev.cnn.com') ||
+shExpMatch(host, 'collector.cdp.cnn.com') ||
 shExpMatch(host, 'cologne-mohair-dyers.com') ||
 shExpMatch(host, 'colonize.com') ||
 shExpMatch(host, 'com-77news-sdcno300.icu') ||
@@ -35009,6 +35014,7 @@ shExpMatch(host, 'zimeks.com.mk') ||
 shExpMatch(host, 'zimunap.ru') ||
 shExpMatch(host, 'zintext.com') ||
 shExpMatch(host, 'ziomale.net63.net') ||
+shExpMatch(host, 'zion-telemetry.api.cnn.io') ||
 shExpMatch(host, 'ziploaded.com') ||
 shExpMatch(host, 'zipmulti.com') ||
 shExpMatch(host, 'zippydownloads.com') ||
