@@ -6013,7 +6013,6 @@
 0.0.0.0 analdude.com
 0.0.0.0 anale-seks.nl
 0.0.0.0 anale-sex.nl
-0.0.0.0 analist.club
 0.0.0.0 analog.cell.phone.service.sms13.de
 0.0.0.0 analog.sms13.de
 0.0.0.0 analpics.net
@@ -6617,6 +6616,7 @@
 0.0.0.0 api.inwemo.com
 0.0.0.0 api.jsecoin.com
 0.0.0.0 api.jwhss.com
+0.0.0.0 api.logentries.com
 0.0.0.0 api.logrocket.com
 0.0.0.0 api.mb-click.jp
 0.0.0.0 api.metrics.heroku.com
@@ -8658,6 +8658,7 @@
 0.0.0.0 click.tapsell.ir
 0.0.0.0 click.w3i.com
 0.0.0.0 click1.mainadv.com
+0.0.0.0 click2click.xyz
 0.0.0.0 clickadu.com
 0.0.0.0 clickaval.com
 0.0.0.0 clickbar.ir
@@ -9637,6 +9638,7 @@
 0.0.0.0 data.eroadvertising.com
 0.0.0.0 data.flurry.com
 0.0.0.0 data.green-iraq.com
+0.0.0.0 data.logentries.com
 0.0.0.0 data.mobclix.com
 0.0.0.0 data.webads.co.nz
 0.0.0.0 data02.adlooxtracking.com
@@ -9662,6 +9664,7 @@
 0.0.0.0 datfuture.com
 0.0.0.0 dating.hdxvideos.ru
 0.0.0.0 datingadvertising.com
+0.0.0.0 datingapp.live
 0.0.0.0 datingdeserving.com
 0.0.0.0 datingforllives.info
 0.0.0.0 datingittlive.info
@@ -10084,6 +10087,7 @@
 0.0.0.0 dqs001.adtech.us
 0.0.0.0 dra.amazon-adsystem.com
 0.0.0.0 drabsize.com
+0.0.0.0 dracenic-gravinyl.icu
 0.0.0.0 draconiancurve.com
 0.0.0.0 dragontechs.com
 0.0.0.0 dragzebra.com
@@ -11173,9 +11177,7 @@
 0.0.0.0 fim.122.2o7.net
 0.0.0.0 fin-plcukltd.com
 0.0.0.0 fin.adbureau.net
-0.0.0.0 fin1.logging.nextsmarty.com
 0.0.0.0 fin18.org
-0.0.0.0 fin2.logging.nextsmarty.com
 0.0.0.0 fina.online
 0.0.0.0 finabisope.xyz
 0.0.0.0 finalizeforce.com
@@ -11817,6 +11819,7 @@
 0.0.0.0 go2.adversal.com
 0.0.0.0 go2.logrocket.com
 0.0.0.0 go2.mercy.ga
+0.0.0.0 goads.pro
 0.0.0.0 goadservices.com
 0.0.0.0 goaffmy.com
 0.0.0.0 goawos.com
@@ -12532,6 +12535,7 @@
 0.0.0.0 iaheyftbsn.review
 0.0.0.0 iaieqqo.review
 0.0.0.0 iamahackeur.servehttp.com
+0.0.0.0 iamnaughty.com
 0.0.0.0 ias.hitbox.com
 0.0.0.0 ias2.hitbox.com
 0.0.0.0 iauany.com
@@ -13113,6 +13117,7 @@
 0.0.0.0 iwantmyfreecash.com
 0.0.0.0 iwanttodeliver.com
 0.0.0.0 iwanttoearn.money
+0.0.0.0 iwantu.com
 0.0.0.0 iwithu.ru
 0.0.0.0 iykepc.com
 0.0.0.0 izarc.fr
@@ -13315,6 +13320,7 @@
 0.0.0.0 js.isboost.co.jp
 0.0.0.0 js.juicyads.com
 0.0.0.0 js.kau.li
+0.0.0.0 js.logentries.com
 0.0.0.0 js.medi-8.net
 0.0.0.0 js.mediad2.jp
 0.0.0.0 js.mediams.mb.softbank.jp
@@ -13574,6 +13580,7 @@
 0.0.0.0 ksmxnerqs.com
 0.0.0.0 kt4.kliptracker.com
 0.0.0.0 ktai.pw
+0.0.0.0 ktfckd.com
 0.0.0.0 ktis.club
 0.0.0.0 ktrackdata.com
 0.0.0.0 kuaizip.com
@@ -14223,7 +14230,6 @@
 0.0.0.0 logs.loggly.com
 0.0.0.0 logs.logrocket.com
 0.0.0.0 logs.mediaforge.com
-0.0.0.0 logs.nextsmarty.com
 0.0.0.0 logs.roku.com
 0.0.0.0 logs.sexy-parade.com
 0.0.0.0 logs.spilgames.com
@@ -15518,6 +15524,7 @@
 0.0.0.0 myharlemshake.info
 0.0.0.0 myhitbox.com
 0.0.0.0 myhostiger.ug
+0.0.0.0 myhotdates.com
 0.0.0.0 myjs.me
 0.0.0.0 mylocalhookup1.com
 0.0.0.0 mylogfrog.com
@@ -15642,7 +15649,6 @@
 0.0.0.0 nbnb33.com
 0.0.0.0 nbvnfuyjft567uygvhgfc.pw
 0.0.0.0 nct1.logging.nextsmarty.com
-0.0.0.0 nct2.logging.nextsmarty.com
 0.0.0.0 nctracking.com
 0.0.0.0 nddmcconmqsy.ru
 0.0.0.0 ndtst.com
@@ -16156,6 +16162,7 @@
 0.0.0.0 omvisidtest1.112.2o7.net
 0.0.0.0 onbraker.com
 0.0.0.0 onclickads.net
+0.0.0.0 onclickalgo.com
 0.0.0.0 onclickbright.com
 0.0.0.0 onclickmega.com
 0.0.0.0 onclickprediction.com
@@ -16179,6 +16186,7 @@
 0.0.0.0 onedrivemail.tk
 0.0.0.0 onedrivenoreply.com
 0.0.0.0 oneminuteplayfestival.org
+0.0.0.0 onenightfriend.com
 0.0.0.0 oneppdatemicro.com
 0.0.0.0 onespot-tracking.herokuapp.com
 0.0.0.0 onestarclick.ir
@@ -16209,6 +16217,7 @@
 0.0.0.0 onmailadmin.ml
 0.0.0.0 onmailadmin.tk
 0.0.0.0 onocollect.247realmedia.com
+0.0.0.0 onpo-static.moudjib.com
 0.0.0.0 onsite-tag-logs.apps.nielsen.com
 0.0.0.0 onwamay.in
 0.0.0.0 onyxalliance.org
@@ -17638,6 +17647,7 @@
 0.0.0.0 rest.content.ad
 0.0.0.0 restoredchurchofgod.112.2o7.net
 0.0.0.0 resultplus.jp
+0.0.0.0 retargetcore.com
 0.0.0.0 retg.adnetwork.vn
 0.0.0.0 reticulumlyn.com
 0.0.0.0 retro-cinema.ru
@@ -19193,7 +19203,6 @@
 0.0.0.0 staging-ads.blogherads.com
 0.0.0.0 staging-i.logrocket.com
 0.0.0.0 staging-i.logrocket.io
-0.0.0.0 staging.adaptnext.com
 0.0.0.0 staging.adpopcorn.com
 0.0.0.0 staging.adswizz.com
 0.0.0.0 staging.api.adtimaserver.vn
@@ -22011,6 +22020,7 @@
 0.0.0.0 webfile.adview.com
 0.0.0.0 webgozar.com
 0.0.0.0 webgozar.ir
+0.0.0.0 webhook.logentries.com
 0.0.0.0 webhosting-ads.home.pl
 0.0.0.0 webid.ad.daum.net
 0.0.0.0 webload101.hitbox.com
@@ -22678,6 +22688,7 @@
 0.0.0.0 www.ad4screen.com
 0.0.0.0 www.ad6media.fr
 0.0.0.0 www.ad9377.com
+0.0.0.0 www.ada-saja.com
 0.0.0.0 www.adacado.com
 0.0.0.0 www.adacgov.cn
 0.0.0.0 www.adaction.de
@@ -22689,6 +22700,7 @@
 0.0.0.0 www.adalliance.io
 0.0.0.0 www.adalyser.com
 0.0.0.0 www.adamoads.com
+0.0.0.0 www.adamorinmusic.com
 0.0.0.0 www.adamsfilms.com
 0.0.0.0 www.adaog.com
 0.0.0.0 www.adaos-ads.net
@@ -22774,6 +22786,7 @@
 0.0.0.0 www.additcinggames.com
 0.0.0.0 www.addme.com
 0.0.0.0 www.address9.com
+0.0.0.0 www.addressitaly.it
 0.0.0.0 www.addstock.co.uk
 0.0.0.0 www.addthis.com
 0.0.0.0 www.addthiscdn.com
@@ -22871,6 +22884,7 @@
 0.0.0.0 www.adisfy.com
 0.0.0.0 www.adisimd.ro
 0.0.0.0 www.adisnet.com
+0.0.0.0 www.adithimedia.com
 0.0.0.0 www.aditic.net
 0.0.0.0 www.adition.com
 0.0.0.0 www.adition.de
@@ -22948,6 +22962,7 @@
 0.0.0.0 www.adminer.com
 0.0.0.0 www.adming.net
 0.0.0.0 www.adminshop.com
+0.0.0.0 www.admissioncrackers.com
 0.0.0.0 www.admixer.co.kr
 0.0.0.0 www.admixer.com
 0.0.0.0 www.admixer.net
@@ -23330,6 +23345,7 @@
 0.0.0.0 www.advancets.org
 0.0.0.0 www.advangelists.com
 0.0.0.0 www.advanpromo.com
+0.0.0.0 www.advansesystemoptimizer.club
 0.0.0.0 www.advariant.com
 0.0.0.0 www.advbanners.global.ssl.fastly.net
 0.0.0.0 www.advconversion.com
@@ -23540,7 +23556,6 @@
 0.0.0.0 www.analdude.com
 0.0.0.0 www.anale-seks.nl
 0.0.0.0 www.anale-sex.nl
-0.0.0.0 www.analist.club
 0.0.0.0 www.analpics.net
 0.0.0.0 www.analysis.fi
 0.0.0.0 www.analysys.cn
@@ -24075,6 +24090,7 @@
 0.0.0.0 www.oinadserve.com
 0.0.0.0 www.omaze.com
 0.0.0.0 www.onclickads.net
+0.0.0.0 www.onclickalgo.com
 0.0.0.0 www.onclickbright.com
 0.0.0.0 www.onclickmega.com
 0.0.0.0 www.onclickprediction.com
