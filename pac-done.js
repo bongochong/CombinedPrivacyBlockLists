@@ -1,4 +1,4 @@
-// **** Sat Aug 21 09:49:55 PM UTC 2021
+// **** Mon Aug 23 10:22:46 PM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -2043,6 +2043,7 @@ shExpMatch(host, '*.apex-ad.com') ||
 shExpMatch(host, '*.api.addthis.com') ||
 shExpMatch(host, '*.api.intensifier.de') ||
 shExpMatch(host, '*.api.kameleoon.com') ||
+shExpMatch(host, '*.api.rudderlabs.com') ||
 shExpMatch(host, '*.apie-soft.com') ||
 shExpMatch(host, '*.apkandroidhack.com') ||
 shExpMatch(host, '*.apkcake.com') ||
@@ -4776,6 +4777,7 @@ shExpMatch(host, '*.dailyxboxlivecodes.com') ||
 shExpMatch(host, '*.dakic-ia-300.com') ||
 shExpMatch(host, '*.dakrox.com') ||
 shExpMatch(host, '*.daliachuqimaysa.ru') ||
+shExpMatch(host, '*.damageddistance.com') ||
 shExpMatch(host, '*.dambut.biz') ||
 shExpMatch(host, '*.damdoor.com') ||
 shExpMatch(host, '*.damisystem.com') ||
@@ -4785,6 +4787,7 @@ shExpMatch(host, '*.dancemistake.com') ||
 shExpMatch(host, '*.dangerfieldconsulting.com') ||
 shExpMatch(host, '*.dank.host') ||
 shExpMatch(host, '*.dapper.net') ||
+shExpMatch(host, '*.dapperfloor.com') ||
 shExpMatch(host, '*.dapxonuq.ru') ||
 shExpMatch(host, '*.daralasnan.com') ||
 shExpMatch(host, '*.dark-area.net') ||
@@ -13513,6 +13516,7 @@ shExpMatch(host, '*.san-fernando.es') ||
 shExpMatch(host, '*.sana-ir.com') ||
 shExpMatch(host, '*.sanctumware.net') ||
 shExpMatch(host, '*.sandra.sanchitatiwari.com') ||
+shExpMatch(host, '*.sanity-dataplane.rudderstack.com') ||
 shExpMatch(host, '*.santa-case.fun') ||
 shExpMatch(host, '*.santacruzsuspension.com') ||
 shExpMatch(host, '*.sanya.moneyhome.biz') ||
@@ -14804,6 +14808,7 @@ shExpMatch(host, '*.suitablyhierarchies.ru') ||
 shExpMatch(host, '*.sujet-du-bac.com') ||
 shExpMatch(host, '*.sukaq.ru') ||
 shExpMatch(host, '*.sulkybutter.com') ||
+shExpMatch(host, '*.sulkycook.com') ||
 shExpMatch(host, '*.suloki.ru') ||
 shExpMatch(host, '*.sumjecyg.ru') ||
 shExpMatch(host, '*.summerhamster.com') ||
@@ -19586,6 +19591,7 @@ shExpMatch(host, 'apex-ad.com') ||
 shExpMatch(host, 'api.addthis.com') ||
 shExpMatch(host, 'api.intensifier.de') ||
 shExpMatch(host, 'api.kameleoon.com') ||
+shExpMatch(host, 'api.rudderlabs.com') ||
 shExpMatch(host, 'apie-soft.com') ||
 shExpMatch(host, 'apkandroidhack.com') ||
 shExpMatch(host, 'apkcake.com') ||
@@ -22319,6 +22325,7 @@ shExpMatch(host, 'dailyxboxlivecodes.com') ||
 shExpMatch(host, 'dakic-ia-300.com') ||
 shExpMatch(host, 'dakrox.com') ||
 shExpMatch(host, 'daliachuqimaysa.ru') ||
+shExpMatch(host, 'damageddistance.com') ||
 shExpMatch(host, 'dambut.biz') ||
 shExpMatch(host, 'damdoor.com') ||
 shExpMatch(host, 'damisystem.com') ||
@@ -22328,6 +22335,7 @@ shExpMatch(host, 'dancemistake.com') ||
 shExpMatch(host, 'dangerfieldconsulting.com') ||
 shExpMatch(host, 'dank.host') ||
 shExpMatch(host, 'dapper.net') ||
+shExpMatch(host, 'dapperfloor.com') ||
 shExpMatch(host, 'dapxonuq.ru') ||
 shExpMatch(host, 'daralasnan.com') ||
 shExpMatch(host, 'dark-area.net') ||
@@ -31056,6 +31064,7 @@ shExpMatch(host, 'san-fernando.es') ||
 shExpMatch(host, 'sana-ir.com') ||
 shExpMatch(host, 'sanctumware.net') ||
 shExpMatch(host, 'sandra.sanchitatiwari.com') ||
+shExpMatch(host, 'sanity-dataplane.rudderstack.com') ||
 shExpMatch(host, 'santa-case.fun') ||
 shExpMatch(host, 'santacruzsuspension.com') ||
 shExpMatch(host, 'sanya.moneyhome.biz') ||
@@ -32347,6 +32356,7 @@ shExpMatch(host, 'suitablyhierarchies.ru') ||
 shExpMatch(host, 'sujet-du-bac.com') ||
 shExpMatch(host, 'sukaq.ru') ||
 shExpMatch(host, 'sulkybutter.com') ||
+shExpMatch(host, 'sulkycook.com') ||
 shExpMatch(host, 'suloki.ru') ||
 shExpMatch(host, 'sumjecyg.ru') ||
 shExpMatch(host, 'summerhamster.com') ||
