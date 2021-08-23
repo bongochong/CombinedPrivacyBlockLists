@@ -52,6 +52,7 @@ localhost$
 ^0.0.0.0 activation.adobedtm.com$
 ^0.0.0.0 adaway.org$
 ^0.0.0.0 adblockplus.org$
+^0.0.0.0 adguard.com$
 ^0.0.0.0 adj.st$
 ^0.0.0.0 adtidy.org$
 ^0.0.0.0 ae01.alicdn.com$
@@ -119,6 +120,7 @@ localhost$
 ^0.0.0.0 bittrex.com$
 ^0.0.0.0 bleacherreport.com$
 ^0.0.0.0 blocklists.settings.services.mozilla.com$
+^0.0.0.0 blokada.org$
 ^0.0.0.0 bluebillywig.com$
 ^0.0.0.0 boards.420chan.org$
 ^0.0.0.0 boards.4chan.org$
@@ -451,6 +453,7 @@ localhost$
 ^0.0.0.0 reach-api.urbanairship.com$
 ^0.0.0.0 redirector.googlevideo.com$
 ^0.0.0.0 res.cloudinary.com$
+^0.0.0.0 rethinkdns.com$
 ^0.0.0.0 richmedia.channeladvisor.com$
 ^0.0.0.0 rolo.nocdnrlly.xyz$
 ^0.0.0.0 rpxnow.com$
