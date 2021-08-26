@@ -1,4 +1,4 @@
-# Mon Aug 23 10:15:21 PM UTC 2021
+# Thu Aug 26 12:09:40 AM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -177,7 +177,6 @@
 0.0.0.0 7336.engine.mobileapptracking.com
 0.0.0.0 758.api.swrve.com
 0.0.0.0 758.content.swrve.com
-0.0.0.0 79423.analytics.edgekey.net
 0.0.0.0 7ba3f64df98de730df38846b54ecfbdf7f61f80f.cws.conviva.com
 0.0.0.0 7wmw.adj.st
 0.0.0.0 8008.engine.mobileapptracking.com
@@ -1538,7 +1537,6 @@
 0.0.0.0 api.prooffactor.com
 0.0.0.0 api.proofpositivemedia.com
 0.0.0.0 api.pubnative.net
-0.0.0.0 api.punchh.com
 0.0.0.0 api.push.world
 0.0.0.0 api.pushspring.com
 0.0.0.0 api.pushwoosh.com
@@ -1618,7 +1616,6 @@
 0.0.0.0 api8.agilone.com
 0.0.0.0 apicosdk.onemt.co
 0.0.0.0 apicssdk.onemt.co
-0.0.0.0 apidq.punchh.com
 0.0.0.0 apinas.nct.vn
 0.0.0.0 apis.adbro.me
 0.0.0.0 apis.appnxt.net
@@ -3384,7 +3381,6 @@
 0.0.0.0 dl.conviva.com
 0.0.0.0 dl.fotoable.com
 0.0.0.0 dl.ijinshan.com
-0.0.0.0 dl.punchh.com
 0.0.0.0 dl.sj.ijinshan.com
 0.0.0.0 dlog.hiido.com
 0.0.0.0 dlt-beacon.dynatrace-managed.com
@@ -4715,7 +4711,7 @@
 0.0.0.0 is-gateway.supersonicads.com
 0.0.0.0 is-tracking-pixel-api-prod.appspot.com
 0.0.0.0 isgame.ds.duapps.com
-0.0.0.0 isl.punchh.com
+0.0.0.0 isnssdk.com
 0.0.0.0 it-gmtdmp.mookie1.com
 0.0.0.0 it-v2.presage.io
 0.0.0.0 iteratehq.com
@@ -5400,7 +5396,6 @@
 0.0.0.0 mobileads.msn.com
 0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
 0.0.0.0 mobileanalytics.useinsider.com
-0.0.0.0 mobileandroidapi.punchh.com
 0.0.0.0 mobileapi.motus.com
 0.0.0.0 mobileapi.usebutton.com
 0.0.0.0 mobileapptracking.com
@@ -5408,7 +5403,6 @@
 0.0.0.0 mobilecore.com
 0.0.0.0 mobiledl.adboe.com
 0.0.0.0 mobilefuse.com
-0.0.0.0 mobileiosapi.punchh.com
 0.0.0.0 mobilelog.upqzfile.com
 0.0.0.0 mobileposse-d.openx.net
 0.0.0.0 mobileposse.com

@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mostly Cosmetic CPBL Filters for ABP & uBO
-! Updated: Wed Aug 18 11:51:58 PM UTC 2021
+! Updated: Thu Aug 26 12:04:45 AM UTC 2021
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -57,6 +57,9 @@ coinpedia.org##.footer-popup-ad
 coinpedia.org##.footerstickyimg
 connectwww.com##DIV#an-Modal.reveal-modal
 connectwww.com##DIV.reveal-modal-bg
+cryptorank.io##[class*="BannerContainer"]
+cryptorank.io##[class*="BannerWrap"]
+cryptorank.io##[class*="color-filled__Container"]
 cryptoslate.com###join
 cryptoslate.com###sticky-footer-global
 cryptoslate.com##.clearfix.ad-top.placement.cryptocom.cpa-signup
@@ -69,6 +72,7 @@ cuevana3.*##+js(aopw, popUpUrl)
 cuevana3.video##DIV[style="padding: 5px 15px !important;"]
 cuevana3.video##iframe[style*="z-index: 2147483647"]
 decrypt.co##.egrgSy
+dextools.io##app-banner
 docs.google.com##.docs-dialog.modal-dialog
 docs.google.com##.modal-dialog-bg
 eightvape.com##.header-warning
@@ -100,6 +104,7 @@ glassdoor.com##.background-overlay
 glassdoor.com##.gdGrid.hardsellOverlay
 glassdoor.com##.hardsellContainer.flex-column.align-items-center.justify-content-center.d-flex
 glassdoor.com##.pt-xxl.pb-m-std.pb-72.hardsell
+golang.org##.Header-banner
 haaretz.com##.footer-ruler
 hackintosh.zone###document_modal
 hackintosh.zone###some_ad_block_key_inner
@@ -206,6 +211,7 @@ reddit.com##a[class="TopButton"][href*=".app.link/"]
 reddit.com##a[href*=".app.link/"]:not(.PostHeader__post-link)
 reddit.com##a[href*="alb.reddit.com"]
 reddit.com##a[href*="reddit.app.link"]
+sass-lang.com##.sl-c-alert--info.sl-c-alert
 slant.co##.LustrePromoteModal-Content.Modal-Content
 slant.co##._View.AIHome-TopGradient.AIHome-Gradient.LustreAIPromoteFooter._LustreAIPromoteFooterView
 slant.co##._View.LustreAIBanner._LustreAIBannerView
@@ -283,6 +289,7 @@ zerohedge.com##.Banner_banner__2PJ1Y
 ||click.oneplus.cn^$third-party
 ||click.oneplus.com^$third-party
 ||click.redditmail.com^$third-party
+||dextools.io/app/assets/img/banners/*$image
 ||embed.theblockcrypto.com/dist/*/js/chunk*.js$domain=theblockcrypto.com
 ||exodus.com/*/subscribe-popup*
 ||graph.facebook.com^$domain=~facebook.com|~fbcdn.com|~apps.facebook.com|~instagram.com|~linkedin.com,app=~com.facebook.katana|~com.instagram.android|~com.facebook.orca|~com.mobile.legends|~com.minigames.sweetcrossing|~com.moonton.mobilehero|~com.supercell.clashofclans|~com.playrix.fishdomdd.gplay|~com.tencent.ig|~com.ngame.allstar.eu|~com.garena.game.kgid|~com.netease.g78na.gb|~com.stackwares.android.storysaver.facebook
