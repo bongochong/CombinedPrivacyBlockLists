@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mostly Cosmetic CPBL Filters for ABP & uBO
-! Updated: Thu Aug 26 12:04:45 AM UTC 2021
+! Updated: Fri Aug 27 12:38:33 AM UTC 2021
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -92,6 +92,8 @@ exodus.com##.x__content
 exodus.com##.x__subscribe-popup--done-animating.x__subscribe-popup
 exodus.com##div.x-newsletter-popup__right-content:nth-of-type(2)
 exodus.com[class*="x__subscribe-popup"]
+fxstreet.com##div[id*="brokersfooter"]
+fxstreet.com##div[id*="brokersspreads"]
 fxstreet.com##.fxs_alertText
 fxstreet.com##.fxs_copy_disclaimer
 fxstreet.com##.fxs_header_sponsor
@@ -142,8 +144,11 @@ m.imgur.com##.get-app-block
 m.imgur.com#$#.AppBanner-container { height: 50px!important; }
 m.imgur.com#$#div[class^="SeeImgurOIA-"] { display: none!important; }
 mintscan.io##[class^="Ad__adCarousel-wrapper-"]
-mondoweiss.net##li.mondo-ads-widget.widget
-mondoweiss.net##section.mondo-ads-widget.widget
+mondoweiss.net##[class*="hustle-info"]
+mondoweiss.net##[class*="hustle-layout"]
+mondoweiss.net##[class*="hustle-optin"]
+mondoweiss.net##[class*="hustle-popup"]
+mondoweiss.net##[class*="mondo-ads"]
 my.indeed.com##.MicroContentCard > .icl-Card--hasBorder.icl-Card
 my.indeed.com##.floating-tooltip.tooltip-type--SPELLING.resume-tooltip > div
 my.indeed.com##.icl-Alert--info.icl-Alert
@@ -295,6 +300,7 @@ zerohedge.com##.Banner_banner__2PJ1Y
 ||graph.facebook.com^$domain=~facebook.com|~fbcdn.com|~apps.facebook.com|~instagram.com|~linkedin.com,app=~com.facebook.katana|~com.instagram.android|~com.facebook.orca|~com.mobile.legends|~com.minigames.sweetcrossing|~com.moonton.mobilehero|~com.supercell.clashofclans|~com.playrix.fishdomdd.gplay|~com.tencent.ig|~com.ngame.allstar.eu|~com.garena.game.kgid|~com.netease.g78na.gb|~com.stackwares.android.storysaver.facebook
 ||graph.instagram.com^$domain=~facebook.com|~fbcdn.com|~apps.facebook.com|~instagram.com|~linkedin.com,app=~com.facebook.katana|~com.instagram.android
 ||indiadivine.org/wp-content/plugins/layered-popups/js/ads.js$script,domain=indiadivine.org
+||mondoweiss.net/wp-content/plugins/wordpress-popup/assets/hustle-ui/js/*
 ||nytimes.com^$removeparam=impression_id
 ||nytimes.com^*/metered_assets/
 ||onelink.me^$third-party
@@ -371,6 +377,7 @@ babylonbee.com##body,html:style(overflow: auto !important)
 glassdoor.com##body,html:style(overflow: auto !important)
 indeed.com##body,html:style(overflow: auto !important)
 m.imgur.com#$#body { overflow-y: visible!important; }
+mondoweiss.net##body,html:style(overflow: auto !important)
 rebelnews.com##body,html:style(overflow: auto !important)
 reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
 stpetecatalyst.com##body,html:style(overflow: auto !important)
