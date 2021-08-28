@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Sat Aug 28 04:26:42 AM UTC 2021
+! Updated: Sat Aug 28 08:00:06 AM UTC 2021
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -85363,6 +85363,7 @@ cuevana3.*##+js(aopw, popUpUrl)
 cuevana3.video##DIV[style="padding: 5px 15px !important;"]
 cuevana3.video##iframe[style*="z-index: 2147483647"]
 decrypt.co##.egrgSy
+decrypt.co##[class*="adbutler"]
 dextools.io##app-banner
 docs.google.com##.docs-dialog.modal-dialog
 docs.google.com##.modal-dialog-bg
