@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mini CPBL Filters for ABP & uBO
-! Updated: Fri Aug 27 12:38:33 AM UTC 2021
+! Updated: Sat Aug 28 01:18:48 AM UTC 2021
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -59817,6 +59817,7 @@ openpirate.org###\30 4da7223_1556855429
 openpirate.org###vpnvpn
 pcworld.com###toaster
 phantasytour.com##.col3
+profellow.com###newsletter-popup-wrap
 publish0x.com###registerPopup > .modal-dialog-centered.modal-lg.modal-dialog > .modal-content
 publish0x.com##.show.fade.modal
 rebelnews.com###module_form
@@ -59903,6 +59904,7 @@ tokeneo.com##.informationModalBody
 tokeneo.com##.kryptowalutyBar.informationFwHeaderBar
 tokeneo.com##.kryptowalutyInformationModal
 tokeneo.com##.show-cookies-popup.cookies-popup-wrapper
+tradingview.com##[class*="branding-banner"]
 twitter.com##.r-12vffkv > .r-urgr8i
 ubuntuce.com###column > center
 unixmen.com##DIV#an-Modal
@@ -60025,6 +60027,7 @@ glassdoor.com##body,html:style(overflow: auto !important)
 indeed.com##body,html:style(overflow: auto !important)
 m.imgur.com#$#body { overflow-y: visible!important; }
 mondoweiss.net##body,html:style(overflow: auto !important)
+profellow.com##body,html:style(overflow: auto !important)
 rebelnews.com##body,html:style(overflow: auto !important)
 reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
 stpetecatalyst.com##body,html:style(overflow: auto !important)
