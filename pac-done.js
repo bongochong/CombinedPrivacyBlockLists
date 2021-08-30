@@ -1,4 +1,4 @@
-// **** Thu Aug 26 12:15:03 AM UTC 2021
+// **** Mon Aug 30 07:18:47 AM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -2474,7 +2474,6 @@ shExpMatch(host, '*.banners.ebay.com') ||
 shExpMatch(host, '*.banners.freett.com') ||
 shExpMatch(host, '*.banners.friendfinder.com') ||
 shExpMatch(host, '*.banners.getiton.com') ||
-shExpMatch(host, '*.banners.golfasian.com') ||
 shExpMatch(host, '*.banners.iq.pl') ||
 shExpMatch(host, '*.banners.isoftmarketing.com') ||
 shExpMatch(host, '*.banners.lifeserv.com') ||
@@ -10236,7 +10235,6 @@ shExpMatch(host, '*.look.djfiln.com') ||
 shExpMatch(host, '*.look.ichlnk.com') ||
 shExpMatch(host, '*.look.opskln.com') ||
 shExpMatch(host, '*.look.udncoeln.com') ||
-shExpMatch(host, '*.look.ufinkln.com') ||
 shExpMatch(host, '*.looks-picture.com') ||
 shExpMatch(host, '*.loomarnia.com') ||
 shExpMatch(host, '*.loomplay.com') ||
@@ -12658,7 +12656,6 @@ shExpMatch(host, '*.propellerclick.com') ||
 shExpMatch(host, '*.proper.io') ||
 shExpMatch(host, '*.propertyadvancement.com') ||
 shExpMatch(host, '*.proppera.co.cc') ||
-shExpMatch(host, '*.props.id') ||
 shExpMatch(host, '*.propsncodegenerator.com') ||
 shExpMatch(host, '*.proranktracker.com') ||
 shExpMatch(host, '*.prorodeosportmed.com') ||
@@ -17539,6 +17536,7 @@ shExpMatch(host, '*.zupiv.ru') ||
 shExpMatch(host, '*.zurev.ru') ||
 shExpMatch(host, '*.zuzzuna.eu') ||
 shExpMatch(host, '*.zw52.ru') ||
+shExpMatch(host, '*.zy16eoat1w.com') ||
 shExpMatch(host, '*.zynga-poker-hack.net') ||
 shExpMatch(host, '*.zynga-poker-hacks.com') ||
 shExpMatch(host, '*.zyngapoker.hackfree.us') ||
@@ -20022,7 +20020,6 @@ shExpMatch(host, 'banners.ebay.com') ||
 shExpMatch(host, 'banners.freett.com') ||
 shExpMatch(host, 'banners.friendfinder.com') ||
 shExpMatch(host, 'banners.getiton.com') ||
-shExpMatch(host, 'banners.golfasian.com') ||
 shExpMatch(host, 'banners.iq.pl') ||
 shExpMatch(host, 'banners.isoftmarketing.com') ||
 shExpMatch(host, 'banners.lifeserv.com') ||
@@ -27784,7 +27781,6 @@ shExpMatch(host, 'look.djfiln.com') ||
 shExpMatch(host, 'look.ichlnk.com') ||
 shExpMatch(host, 'look.opskln.com') ||
 shExpMatch(host, 'look.udncoeln.com') ||
-shExpMatch(host, 'look.ufinkln.com') ||
 shExpMatch(host, 'looks-picture.com') ||
 shExpMatch(host, 'loomarnia.com') ||
 shExpMatch(host, 'loomplay.com') ||
@@ -30206,7 +30202,6 @@ shExpMatch(host, 'propellerclick.com') ||
 shExpMatch(host, 'proper.io') ||
 shExpMatch(host, 'propertyadvancement.com') ||
 shExpMatch(host, 'proppera.co.cc') ||
-shExpMatch(host, 'props.id') ||
 shExpMatch(host, 'propsncodegenerator.com') ||
 shExpMatch(host, 'proranktracker.com') ||
 shExpMatch(host, 'prorodeosportmed.com') ||
@@ -35087,6 +35082,7 @@ shExpMatch(host, 'zupiv.ru') ||
 shExpMatch(host, 'zurev.ru') ||
 shExpMatch(host, 'zuzzuna.eu') ||
 shExpMatch(host, 'zw52.ru') ||
+shExpMatch(host, 'zy16eoat1w.com') ||
 shExpMatch(host, 'zynga-poker-hack.net') ||
 shExpMatch(host, 'zynga-poker-hacks.com') ||
 shExpMatch(host, 'zyngapoker.hackfree.us') ||
