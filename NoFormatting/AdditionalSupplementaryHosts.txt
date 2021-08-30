@@ -230,6 +230,7 @@
 0.0.0.0 1q2w3.website
 0.0.0.0 1qingdao.com
 0.0.0.0 1re.info
+0.0.0.0 1redirb.com
 0.0.0.0 1sexe1.free.fr
 0.0.0.0 1stat.ru
 0.0.0.0 1studio.net
@@ -4459,6 +4460,7 @@
 0.0.0.0 adsbr.info
 0.0.0.0 adsbridge.com
 0.0.0.0 adsbtc.org
+0.0.0.0 adsbtrk.com
 0.0.0.0 adsby.bidtheatre.com
 0.0.0.0 adsby.de
 0.0.0.0 adsby.klikki.com
@@ -6146,6 +6148,7 @@
 0.0.0.0 amanihackz.com
 0.0.0.0 amaprop.net
 0.0.0.0 amarfa.ir
+0.0.0.0 amata-syb.com
 0.0.0.0 amateur-mature-sex.adaltabaza.net
 0.0.0.0 amateur.xxxcounter.com
 0.0.0.0 amateurs-cam.0my.net
@@ -7763,6 +7766,8 @@
 0.0.0.0 bdg-analytics.appspot.com
 0.0.0.0 bdv.bidvertiser.com
 0.0.0.0 bdwiki.ru
+0.0.0.0 be-104.xyz
+0.0.0.0 be-105.xyz
 0.0.0.0 be.ads.justpremium.com
 0.0.0.0 be.adserver.yahoo.com
 0.0.0.0 bea4.cnn.com
@@ -9315,6 +9320,7 @@
 0.0.0.0 coinrail.io
 0.0.0.0 coipip.com
 0.0.0.0 col.mobileads.msn.com
+0.0.0.0 coleryujgdq345678hfdh.xyz
 0.0.0.0 collect.adhacker.online
 0.0.0.0 collect.adsorb.com
 0.0.0.0 collectiveads.net
@@ -9430,6 +9436,7 @@
 0.0.0.0 consulta-activacion-de-avance-cl.gq
 0.0.0.0 consultant-online.ru
 0.0.0.0 consumerinfo.tt.omtrdc.net
+0.0.0.0 consumerproductsusa.com
 0.0.0.0 consumerreports.tt.omtrdc.net
 0.0.0.0 consumertrack.adspeed.net
 0.0.0.0 contactos-gay.com
@@ -10376,6 +10383,7 @@
 0.0.0.0 display.ad.g.daum.net
 0.0.0.0 display.adkernel.com
 0.0.0.0 display.admicro.vn
+0.0.0.0 displayoptoffers.com
 0.0.0.0 disqusads.com
 0.0.0.0 dist.ad-stir.com
 0.0.0.0 dist.adp.ad-stir.com
@@ -10512,6 +10520,7 @@
 0.0.0.0 downkzvideo2.xyz
 0.0.0.0 download-app.net
 0.0.0.0 download-serv-314432.xyz
+0.0.0.0 download-sistem.ru
 0.0.0.0 download-updates-comp.com
 0.0.0.0 download.008ex.com
 0.0.0.0 download.hitbox.com
@@ -10550,6 +10559,7 @@
 0.0.0.0 driv-analytics.com
 0.0.0.0 drive.admicro.vn
 0.0.0.0 driverequest.com
+0.0.0.0 driverfix.com
 0.0.0.0 drivingdirt.com
 0.0.0.0 drkness.net
 0.0.0.0 drm-google-analtyic.com
@@ -10837,7 +10847,6 @@
 0.0.0.0 ehg-accuweather.hitbox.com
 0.0.0.0 ehg-acdsystems.hitbox.com
 0.0.0.0 ehg-adeptscience.hitbox.com
-0.0.0.0 ehg-advertisementbv.hitbox.com
 0.0.0.0 ehg-affinitynet.hitbox.com
 0.0.0.0 ehg-aha.hitbox.com
 0.0.0.0 ehg-amerix.hitbox.com
@@ -11549,6 +11558,7 @@
 0.0.0.0 fateh-news.my-firewall.org
 0.0.0.0 fateh.aba.ae
 0.0.0.0 fatmazpharmc.com
+0.0.0.0 fattykettleinexpedient.com
 0.0.0.0 faultycanvas.com
 0.0.0.0 faultyfowl.com
 0.0.0.0 favbaby.com
@@ -11654,6 +11664,7 @@
 0.0.0.0 find-me-now.com
 0.0.0.0 findlovernow.com
 0.0.0.0 findmedia.biz
+0.0.0.0 findmydating.com
 0.0.0.0 findouttheway.gq
 0.0.0.0 findrew.gq
 0.0.0.0 findthebestoffer.com
@@ -12104,6 +12115,7 @@
 0.0.0.0 geroipanel.site
 0.0.0.0 geshopimg.logsss.com
 0.0.0.0 get-ads.ru
+0.0.0.0 get-cracked.com
 0.0.0.0 get-downloads.com
 0.0.0.0 get-instant-prize.life
 0.0.0.0 get-updates-ms.com
@@ -12139,6 +12151,7 @@
 0.0.0.0 gg.adocean.pl
 0.0.0.0 gg.net.co
 0.0.0.0 gg.usdipc.com
+0.0.0.0 gghacks.com
 0.0.0.0 gglcash4u.info
 0.0.0.0 ggpht.ml
 0.0.0.0 ggtraff.ru
@@ -12636,6 +12649,7 @@
 0.0.0.0 hearstmagazines.112.2o7.net
 0.0.0.0 hearstugo.112.2o7.net
 0.0.0.0 heartbeats.omtrdc.net
+0.0.0.0 heartmedia.biz
 0.0.0.0 heathrowestudios.com
 0.0.0.0 heavycom.122.2o7.net
 0.0.0.0 heavyplayground.com
@@ -13594,6 +13608,7 @@
 0.0.0.0 itmedia.122.2o7.net
 0.0.0.0 itoman.doorblog.jp
 0.0.0.0 itrackerpro.com
+0.0.0.0 itrendstore.ro
 0.0.0.0 itsmeyourfriendhi.ga
 0.0.0.0 itsmydomain.xyz
 0.0.0.0 ittnads.advantagegroup.ie
@@ -14776,6 +14791,7 @@
 0.0.0.0 logmatic.io
 0.0.0.0 lognormal.net
 0.0.0.0 logo-net.co.uk
+0.0.0.0 logo-tree.com
 0.0.0.0 logo.onlinewebstat.com
 0.0.0.0 logoeps.com
 0.0.0.0 logonext.tv.kuyun.com
@@ -15403,6 +15419,7 @@
 0.0.0.0 mediad.co.jp
 0.0.0.0 mediad2.jp
 0.0.0.0 mediadvertising.ro
+0.0.0.0 mediafiire.com
 0.0.0.0 mediaforge.com
 0.0.0.0 mediaid.click
 0.0.0.0 medialeaks.icu
@@ -16012,6 +16029,7 @@
 0.0.0.0 ms-dll-com.info
 0.0.0.0 ms-dll-service.site
 0.0.0.0 ms-en-microsoft.com
+0.0.0.0 ms-logistics.us
 0.0.0.0 ms-trackingapi.phenompeople.com
 0.0.0.0 ms.adup-tech.com
 0.0.0.0 ms.applovin.com.edgekey.net
@@ -16633,6 +16651,7 @@
 0.0.0.0 nzme-ads.co.nz
 0.0.0.0 nzooyn.com
 0.0.0.0 nzz.d3.sc.omtrdc.net
+0.0.0.0 o-uccino.top
 0.0.0.0 o.addthis.com
 0.0.0.0 o.adgear.com
 0.0.0.0 o.adgrx.com
@@ -16833,6 +16852,7 @@
 0.0.0.0 onlinemail.kz
 0.0.0.0 onlineplus.click
 0.0.0.0 onlinepluss.com
+0.0.0.0 onlinepromotionsusa.com
 0.0.0.0 onlinesnotes.top
 0.0.0.0 only-humans.xyz
 0.0.0.0 onmailadmin.cf
@@ -17743,6 +17763,7 @@
 0.0.0.0 promoted.soundcloud.com
 0.0.0.0 promotion.partnercash.com
 0.0.0.0 promotionalads.yahoo.co.jp
+0.0.0.0 promotionsonlineusa.com
 0.0.0.0 pronetadvertising.com
 0.0.0.0 prooffers2021.website
 0.0.0.0 proofly.win
@@ -17807,6 +17828,7 @@
 0.0.0.0 prozipper.s3.eu-central-1.amazonaws.com
 0.0.0.0 prp.adtima.vn
 0.0.0.0 prscripts.com
+0.0.0.0 prueba2.adivertirse.com.mx
 0.0.0.0 przelewy24.ml
 0.0.0.0 przelewy24.tk
 0.0.0.0 ps-jp.amazon-adsystem.com
@@ -17962,6 +17984,7 @@
 0.0.0.0 quacksquirrel.com
 0.0.0.0 quaintcan.com
 0.0.0.0 qualitycontrols.mx
+0.0.0.0 qualityhealth.com
 0.0.0.0 quant.jp
 0.0.0.0 quantcast.com
 0.0.0.0 quantserve.com
@@ -18311,6 +18334,7 @@
 0.0.0.0 revive.unizo.be
 0.0.0.0 revsci.net
 0.0.0.0 rewardrey.net
+0.0.0.0 rewardsgiantusa.com
 0.0.0.0 rezabook.rozblog.com
 0.0.0.0 rgalldmn.duckdns.org
 0.0.0.0 rhads.sv.publicus.com
@@ -18371,6 +18395,7 @@
 0.0.0.0 ro4.biz
 0.0.0.0 robertogowin.com
 0.0.0.0 robertsguide.com
+0.0.0.0 robin201.xyz
 0.0.0.0 robustbelieve.com
 0.0.0.0 rock.reauthenticator.com
 0.0.0.0 rock2.authcaptcha.com
@@ -20262,6 +20287,7 @@
 0.0.0.0 swanbleck.com
 0.0.0.0 swappit.tapad.com
 0.0.0.0 swcs.jp
+0.0.0.0 sweepstakesalerts.com
 0.0.0.0 sweethome11.tk
 0.0.0.0 swiftmining.win
 0.0.0.0 swimslope.com
@@ -21578,6 +21604,7 @@
 0.0.0.0 tracking.adxadserv.com
 0.0.0.0 tracking.adxoo.com
 0.0.0.0 tracking.aegpresents.com
+0.0.0.0 tracking.affiliateclub.cz
 0.0.0.0 tracking.aimediagroup.com
 0.0.0.0 tracking.aita.gov.vn
 0.0.0.0 tracking.aldi-international.com
@@ -21885,7 +21912,6 @@
 0.0.0.0 tracklead.net
 0.0.0.0 tracklog.58.com
 0.0.0.0 trackmail3345.com
-0.0.0.0 trackmedia101.com
 0.0.0.0 trackmethod.com
 0.0.0.0 trackmstr.com
 0.0.0.0 trackmundo.com
@@ -23078,6 +23104,7 @@
 0.0.0.0 widgets.amung.us
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 widgets.takhfifan.com
+0.0.0.0 widjet.analnoe.tv
 0.0.0.0 wifi-api.adsplay.xyz
 0.0.0.0 wifi-api1.adsplay.xyz
 0.0.0.0 wifi-api2.adsplay.xyz
@@ -23687,13 +23714,13 @@
 0.0.0.0 www.adagency1.com
 0.0.0.0 www.adagiobanner.s3.amazonaws.com
 0.0.0.0 www.adagionet.com
+0.0.0.0 www.adaletterazisi.com
 0.0.0.0 www.adalizer.com
 0.0.0.0 www.adalliance.io
 0.0.0.0 www.adalso.com
 0.0.0.0 www.adalyser.com
 0.0.0.0 www.adamatic.co
 0.0.0.0 www.adamoads.com
-0.0.0.0 www.adamorinmusic.com
 0.0.0.0 www.adamsfilms.com
 0.0.0.0 www.adaog.com
 0.0.0.0 www.adaos-ads.net
@@ -23708,6 +23735,7 @@
 0.0.0.0 www.adbanner.gr
 0.0.0.0 www.adbard.net
 0.0.0.0 www.adbart.ru
+0.0.0.0 www.adbaza.com
 0.0.0.0 www.adbean.ru
 0.0.0.0 www.adbers.com
 0.0.0.0 www.adbert.com.tw
@@ -23940,7 +23968,6 @@
 0.0.0.0 www.adgrowmedia.com
 0.0.0.0 www.adgrx.com
 0.0.0.0 www.adgtracker.com
-0.0.0.0 www.adgustum.pl
 0.0.0.0 www.adhacker.online
 0.0.0.0 www.adhall.com
 0.0.0.0 www.adhands.ru
@@ -24001,6 +24028,7 @@
 0.0.0.0 www.adireland.com
 0.0.0.0 www.adireto.com
 0.0.0.0 www.adisfy.com
+0.0.0.0 www.adisimd.ro
 0.0.0.0 www.adisn.com
 0.0.0.0 www.adisnet.com
 0.0.0.0 www.adit-media.com
@@ -24404,6 +24432,7 @@
 0.0.0.0 www.adsbookie.com
 0.0.0.0 www.adsbr.info
 0.0.0.0 www.adsbridge.com
+0.0.0.0 www.adsbtrk.com
 0.0.0.0 www.adsby.de
 0.0.0.0 www.adsbynimbus.com
 0.0.0.0 www.adscads.de
@@ -25592,6 +25621,7 @@
 0.0.0.0 www.internet-ps.com
 0.0.0.0 www.is-tracking-pixel-api-prod.appspot.com
 0.0.0.0 www.itrackerpro.com
+0.0.0.0 www.itrendstore.ro
 0.0.0.0 www.iwantmyfreecash.com
 0.0.0.0 www.jellycounter.com
 0.0.0.0 www.jqassets.download
@@ -25648,6 +25678,7 @@
 0.0.0.0 www.logmatic.io
 0.0.0.0 www.lognormal.net
 0.0.0.0 www.logo-net.co.uk
+0.0.0.0 www.logo-tree.com
 0.0.0.0 www.logoeps.com
 0.0.0.0 www.logotypfabriken.se
 0.0.0.0 www.logrocket.io
@@ -25696,6 +25727,7 @@
 0.0.0.0 www.motionlink.jp
 0.0.0.0 www.motorpresse-statistik.de
 0.0.0.0 www.movable-ink-2183.com
+0.0.0.0 www.ms-logistics.us
 0.0.0.0 www.mutuza.win
 0.0.0.0 www.my-adv.ru
 0.0.0.0 www.my-stats.com
@@ -25973,7 +26005,6 @@
 0.0.0.0 www.trackkas.com
 0.0.0.0 www.tracklab.club
 0.0.0.0 www.tracklead.net
-0.0.0.0 www.trackmedia101.com
 0.0.0.0 www.trackmethod.com
 0.0.0.0 www.trackmstr.com
 0.0.0.0 www.trackmundo.com
