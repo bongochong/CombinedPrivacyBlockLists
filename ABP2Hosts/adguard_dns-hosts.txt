@@ -1,4 +1,4 @@
-# Mon Aug 30 07:15:28 AM UTC 2021
+# Tue Aug 31 02:49:33 AM UTC 2021
 # AdGuard DNS Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 00-gov.cn
 0.0.0.0 0001.best
@@ -2244,7 +2244,6 @@
 0.0.0.0 adconfigproxy.azurewebsites.net
 0.0.0.0 adconity.com
 0.0.0.0 adconjure.com
-0.0.0.0 adconnect.vn
 0.0.0.0 adconscious.com
 0.0.0.0 adcr.naver.com
 0.0.0.0 adcrax.com
@@ -5962,6 +5961,7 @@
 0.0.0.0 baomeidiaosu.cn
 0.0.0.0 baoren.tech
 0.0.0.0 baoxian28.cn
+0.0.0.0 baozp.top
 0.0.0.0 bapalolo.com
 0.0.0.0 bapaquac.com
 0.0.0.0 bapsel.com
@@ -6450,6 +6450,7 @@
 0.0.0.0 bet.championat.com
 0.0.0.0 bet3000partners.com
 0.0.0.0 bet365affiliates.com
+0.0.0.0 beta-news.org
 0.0.0.0 beta.mediafort.ru
 0.0.0.0 betaffs.com
 0.0.0.0 betahit.click
@@ -11842,6 +11843,7 @@
 0.0.0.0 dpsq2uzakdgqz.cloudfront.net
 0.0.0.0 dpstack.com
 0.0.0.0 dpypzvjarj.com
+0.0.0.0 dq06u9lt5akr2.cloudfront.net
 0.0.0.0 dq3yxnlzwhcys.cloudfront.net
 0.0.0.0 dq95d35.com
 0.0.0.0 dqbwqzkajkuif.com
@@ -13017,6 +13019,7 @@
 0.0.0.0 eth-pocket.com
 0.0.0.0 eth-pocket.de
 0.0.0.0 eth-pocket.eu
+0.0.0.0 ethadepic.club
 0.0.0.0 ethemuseu.biz
 0.0.0.0 etheopportu.biz
 0.0.0.0 ethereum-cashcard.com
@@ -15360,12 +15363,14 @@
 0.0.0.0 go.mobiprotg.com
 0.0.0.0 go.mobstitial.com
 0.0.0.0 go.mobstitialtag.com
+0.0.0.0 go.tmrjmp.com
 0.0.0.0 go.toutapp.com
 0.0.0.0 go.ukrleads.com
 0.0.0.0 go.verymuchad.com
 0.0.0.0 go.vnecdn.com
 0.0.0.0 go.vrvm.com
 0.0.0.0 go.xl.ua
+0.0.0.0 go.xxxjmp.com
 0.0.0.0 go.zdos.ru
 0.0.0.0 go1news.biz
 0.0.0.0 go2.global
@@ -15971,6 +15976,7 @@
 0.0.0.0 gz-bz.cn
 0.0.0.0 gz06x5tqlj.com
 0.0.0.0 gzduoqicai.cn
+0.0.0.0 gzfzcj.cn
 0.0.0.0 gzhying1.cn
 0.0.0.0 gzktpf.com
 0.0.0.0 gzleilin.com
@@ -17678,6 +17684,7 @@
 0.0.0.0 infoguardru.info
 0.0.0.0 infolinks.com
 0.0.0.0 infomir.pw
+0.0.0.0 infomix.best
 0.0.0.0 infopicked.com
 0.0.0.0 infopro-insight.com
 0.0.0.0 infoprodata.com
@@ -18346,6 +18353,7 @@
 0.0.0.0 jdlhg.com
 0.0.0.0 jdoqocy.com
 0.0.0.0 jdwxshfw.cn
+0.0.0.0 jdyz3.cn
 0.0.0.0 jdzbcdnd.com
 0.0.0.0 jdzlxtc.com
 0.0.0.0 jealousabstainhut.com
@@ -20890,6 +20898,7 @@
 0.0.0.0 lynr.com
 0.0.0.0 lypn.com
 0.0.0.0 lypn.net
+0.0.0.0 lyricalcomfortfatherinlaw.com
 0.0.0.0 lyricslocusvaried.com
 0.0.0.0 lyryjpjof.biz
 0.0.0.0 lytics.io
@@ -23199,6 +23208,7 @@
 0.0.0.0 newnovads.com
 0.0.0.0 newoctads.com
 0.0.0.0 newrrb.bid
+0.0.0.0 news-back.org
 0.0.0.0 news-code.com
 0.0.0.0 news-easy.org
 0.0.0.0 news-good.net
@@ -24929,6 +24939,7 @@
 0.0.0.0 papaneecorche.com
 0.0.0.0 papatyrodum.com
 0.0.0.0 papawdadoton.com
+0.0.0.0 papayads.net
 0.0.0.0 paperclipservice.com
 0.0.0.0 paperg.com
 0.0.0.0 papersion.club
@@ -26679,6 +26690,7 @@
 0.0.0.0 ptrk-wn.com
 0.0.0.0 ptsc.shoplocal.com
 0.0.0.0 ptuarytannual.club
+0.0.0.0 ptunogrywhy.pro
 0.0.0.0 ptusuhucho.com
 0.0.0.0 ptuxinewhi.pro
 0.0.0.0 ptv1f5dh4s35df4h5fg.xyz
@@ -27890,6 +27902,7 @@
 0.0.0.0 rek.mobi
 0.0.0.0 rek.serial24.com
 0.0.0.0 rek.www.wp.pl
+0.0.0.0 rek.yemlee.com
 0.0.0.0 rekagrorb.bid
 0.0.0.0 rekhatov.ru
 0.0.0.0 rekl.brawlstars-app.ru
@@ -29335,6 +29348,7 @@
 0.0.0.0 sedorobma.ru
 0.0.0.0 sedotracker.com
 0.0.0.0 sedotracker.de
+0.0.0.0 sedresum.club
 0.0.0.0 sedretonhar.ru
 0.0.0.0 seducehandbookspecific.com
 0.0.0.0 seductionprofits.com
@@ -30378,6 +30392,7 @@
 0.0.0.0 socsi.in
 0.0.0.0 socvip.com
 0.0.0.0 socvip9.club
+0.0.0.0 sodallay.com
 0.0.0.0 sodamash.com
 0.0.0.0 sodhef.com
 0.0.0.0 sodo14.com
@@ -30970,6 +30985,7 @@
 0.0.0.0 stagepopkek.com
 0.0.0.0 stagingjobshq.com
 0.0.0.0 staglance.club
+0.0.0.0 staigroa.com
 0.0.0.0 staimpor.net
 0.0.0.0 stainspun.com
 0.0.0.0 staitchu.com
@@ -31112,6 +31128,7 @@
 0.0.0.0 static-sb.com
 0.0.0.0 static-ssp.yidianzixun.com
 0.0.0.0 static.accesstrade.vn
+0.0.0.0 static.adconnect.vn
 0.0.0.0 static.adtidy.net
 0.0.0.0 static.aio.media
 0.0.0.0 static.analytics-site.com
@@ -31580,6 +31597,7 @@
 0.0.0.0 su.addthis.com
 0.0.0.0 suangtianw.com
 0.0.0.0 sub.powerapple.com
+0.0.0.0 sub.superxxxfree.com
 0.0.0.0 sub.xxx-porn-tube.com
 0.0.0.0 sub2tech.com
 0.0.0.0 subconsciousill.com
@@ -32398,6 +32416,7 @@
 0.0.0.0 techlab-cdn.com
 0.0.0.0 technical-service.net
 0.0.0.0 technicallylunaticgarbage.com
+0.0.0.0 techniciansyllabuspersistent.com
 0.0.0.0 technoratimedia.com
 0.0.0.0 techoykd.com
 0.0.0.0 tecnikalsense.com
@@ -34177,6 +34196,7 @@
 0.0.0.0 tscarbornonnae.info
 0.0.0.0 tscounter.com
 0.0.0.0 tsdlp.com
+0.0.0.0 tsds.tech
 0.0.0.0 tsfrenceabu.club
 0.0.0.0 tsgyg.cn
 0.0.0.0 tsinadol.ru
@@ -34356,6 +34376,7 @@
 0.0.0.0 txcmjo.com
 0.0.0.0 txdwc.cn
 0.0.0.0 txn5n0.cn
+0.0.0.0 txpodqjhabos.com
 0.0.0.0 txt.eu
 0.0.0.0 txt2017.com
 0.0.0.0 txt2019.cc
@@ -35736,6 +35757,7 @@
 0.0.0.0 vpn.baolq666.com
 0.0.0.0 vpn5protectplus.com
 0.0.0.0 vpnlist.to
+0.0.0.0 vpnmfqas.cn
 0.0.0.0 vppst.iltrovatore.it
 0.0.0.0 vprza.com
 0.0.0.0 vpsite.ru
@@ -37043,6 +37065,7 @@
 0.0.0.0 xawab.com
 0.0.0.0 xawsnngjljanxof.su
 0.0.0.0 xaxaxa.ovh
+0.0.0.0 xaxivaho.com
 0.0.0.0 xaxo.xyz
 0.0.0.0 xaxoro.com
 0.0.0.0 xayah.date
@@ -37174,6 +37197,7 @@
 0.0.0.0 xingshenfang.cn
 0.0.0.0 xingsky.cn
 0.0.0.0 xingzhu.top
+0.0.0.0 xinhaogong.xyz
 0.0.0.0 xinheshengmce.com
 0.0.0.0 xiniuz.com
 0.0.0.0 xinjscn.oss-cn-hangzhou.aliyuncs.com
@@ -38007,6 +38031,7 @@
 0.0.0.0 yunsoka.com
 0.0.0.0 yupfiles.net
 0.0.0.0 yuppyads.com
+0.0.0.0 yuqnibpyn.com
 0.0.0.0 yuriaftereleven.com
 0.0.0.0 yuriassignmentmall.com
 0.0.0.0 yushengyuancaishui.com
@@ -38064,6 +38089,7 @@
 0.0.0.0 yyltlwtic.com
 0.0.0.0 yymmsd.cn
 0.0.0.0 yyp17.com
+0.0.0.0 yypd.top
 0.0.0.0 yyshow.top
 0.0.0.0 yyuin.com
 0.0.0.0 yyy6999.com
@@ -38281,6 +38307,7 @@
 0.0.0.0 zhengyejixie.com
 0.0.0.0 zhengyuanguojimc.com
 0.0.0.0 zhengzhoupengbo.com
+0.0.0.0 zhenxingkuangchanpin.com
 0.0.0.0 zherimo.ru
 0.0.0.0 zhhoeyksp.com
 0.0.0.0 zhiboiot.cn

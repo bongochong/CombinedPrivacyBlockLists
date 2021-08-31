@@ -3756,6 +3756,7 @@
 0.0.0.0 ads.rude.com
 0.0.0.0 ads.runcpa.com
 0.0.0.0 ads.ruralpress.com
+0.0.0.0 ads.rvadnet.com
 0.0.0.0 ads.rzb.ir
 0.0.0.0 ads.sabah.com.tr
 0.0.0.0 ads.sacbee.com
@@ -4628,6 +4629,7 @@
 0.0.0.0 adserver-clarium-446793891.us-east-1.elb.amazonaws.com
 0.0.0.0 adserver-e7.com
 0.0.0.0 adserver-east.adtechus.com
+0.0.0.0 adserver-east.extend.tv
 0.0.0.0 adserver-espnet.sportszone.net
 0.0.0.0 adserver-eu.adtech.advertising.com
 0.0.0.0 adserver-images.adikteev.com
@@ -5653,7 +5655,6 @@
 0.0.0.0 advertisingbox.com
 0.0.0.0 advertisingcom.122.2o7.net
 0.0.0.0 advertisingiq.com
-0.0.0.0 advertisingsex.com
 0.0.0.0 advertjunction.com
 0.0.0.0 advertlane.com
 0.0.0.0 advertlets.com
@@ -6328,6 +6329,7 @@
 0.0.0.0 analytics-track.machbird.com
 0.0.0.0 analytics-tracker.thescore.com
 0.0.0.0 analytics-udg.netdna-ssl.com
+0.0.0.0 analytics-usf.hotyon.com
 0.0.0.0 analytics-v3.yinzcam.net
 0.0.0.0 analytics-wildtangent-yfdbl8gzl.stackpathdns.com
 0.0.0.0 analytics.163.com
@@ -6598,6 +6600,7 @@
 0.0.0.0 analytics.schoolwires.com
 0.0.0.0 analytics.seattleclouds.com
 0.0.0.0 analytics.seekxr.com
+0.0.0.0 analytics.seg.ritual.com
 0.0.0.0 analytics.sejda.com
 0.0.0.0 analytics.services.kirra.nl
 0.0.0.0 analytics.servogram.io
@@ -7418,6 +7421,7 @@
 0.0.0.0 aus-smv-tracking.adalyser.com
 0.0.0.0 aus.adspeed.net
 0.0.0.0 aussiescanners.com
+0.0.0.0 austin.logs.roku.com
 0.0.0.0 australianewzealandb.tt.omtrdc.net
 0.0.0.0 austria1.adverserve.net
 0.0.0.0 authedmine.com
@@ -7834,6 +7838,7 @@
 0.0.0.0 bestzip.space
 0.0.0.0 bet-club.ru
 0.0.0.0 bet.122.2o7.net
+0.0.0.0 beta-news.org
 0.0.0.0 beta.easy-hit-counter.com
 0.0.0.0 beta.easy-hit-counters.com
 0.0.0.0 beta.easyhitcounters.com
@@ -10248,6 +10253,7 @@
 0.0.0.0 desiredirt.com
 0.0.0.0 desk.mspaceads.com
 0.0.0.0 desktop.spotify.com
+0.0.0.0 detailed-ad-logger-load-balancer-561104410.us-east-1.elb.amazonaws.com
 0.0.0.0 detailedglue.com
 0.0.0.0 detailedgovernment.com
 0.0.0.0 detect.rayjump.com
@@ -11964,6 +11970,7 @@
 0.0.0.0 g3.doubleclick.net
 0.0.0.0 g53lois51bruce.company
 0.0.0.0 g8.adspeed.net
+0.0.0.0 ga-ads.com
 0.0.0.0 ga-analytics.com
 0.0.0.0 ga87z2o.com
 0.0.0.0 gabriellalovecats.com
@@ -12219,6 +12226,7 @@
 0.0.0.0 global.adserver.yahoo.com
 0.0.0.0 global.appnext.com
 0.0.0.0 global.msmtrakk06d.com
+0.0.0.0 global.telemetry.insights.video.a2z.com
 0.0.0.0 global.ymtrack.com
 0.0.0.0 global.ymtracking.com
 0.0.0.0 globalapi.ad.xiaomi.com
@@ -13256,7 +13264,6 @@
 0.0.0.0 img4.cdn.adjuggler.com
 0.0.0.0 img5-ak.cpcdn.com
 0.0.0.0 imgdisp.infocart.jp
-0.0.0.0 imgfeedget.com
 0.0.0.0 imgg-cdn.adskeeper.co.uk
 0.0.0.0 imgg.adskeeper.co.uk
 0.0.0.0 imgs.adverticum.net
@@ -13608,7 +13615,6 @@
 0.0.0.0 itmedia.122.2o7.net
 0.0.0.0 itoman.doorblog.jp
 0.0.0.0 itrackerpro.com
-0.0.0.0 itrendstore.ro
 0.0.0.0 itsmeyourfriendhi.ga
 0.0.0.0 itsmydomain.xyz
 0.0.0.0 ittnads.advantagegroup.ie
@@ -14517,6 +14523,7 @@
 0.0.0.0 log.hitsteps.com
 0.0.0.0 log.hm.baidu.com
 0.0.0.0 log.idnes.cz
+0.0.0.0 log.ifood.tv
 0.0.0.0 log.infonet.vn
 0.0.0.0 log.intellimize.co
 0.0.0.0 log.interest.mix.sina.com.cn
@@ -14791,7 +14798,6 @@
 0.0.0.0 logmatic.io
 0.0.0.0 lognormal.net
 0.0.0.0 logo-net.co.uk
-0.0.0.0 logo-tree.com
 0.0.0.0 logo.onlinewebstat.com
 0.0.0.0 logoeps.com
 0.0.0.0 logonext.tv.kuyun.com
@@ -16029,7 +16035,6 @@
 0.0.0.0 ms-dll-com.info
 0.0.0.0 ms-dll-service.site
 0.0.0.0 ms-en-microsoft.com
-0.0.0.0 ms-logistics.us
 0.0.0.0 ms-trackingapi.phenompeople.com
 0.0.0.0 ms.adup-tech.com
 0.0.0.0 ms.applovin.com.edgekey.net
@@ -16364,6 +16369,7 @@
 0.0.0.0 newmarchess.com
 0.0.0.0 newmine.ru
 0.0.0.0 newmysticvision.com
+0.0.0.0 news-back.org
 0.0.0.0 news-central.org
 0.0.0.0 news-liga.net
 0.0.0.0 news-medias.ru
@@ -17018,6 +17024,7 @@
 0.0.0.0 p.adnxs.com
 0.0.0.0 p.adpdx.com
 0.0.0.0 p.adrta.com
+0.0.0.0 p.ads.roku.com
 0.0.0.0 p.adsymptotic.com
 0.0.0.0 p.amoad.com
 0.0.0.0 p.asks.jp
@@ -18877,6 +18884,7 @@
 0.0.0.0 scratchsofa.com
 0.0.0.0 screechingfurniture.com
 0.0.0.0 screw-malwrhunterteam.com
+0.0.0.0 scribe.logs.roku.com
 0.0.0.0 scribus.fr
 0.0.0.0 scribus.it
 0.0.0.0 scrippsdiy.112.2o7.net
@@ -20913,6 +20921,7 @@
 0.0.0.0 track.99acres.com
 0.0.0.0 track.accesstrade.vn
 0.0.0.0 track.acclaimnetwork.com
+0.0.0.0 track.activemetering.com
 0.0.0.0 track.ad.nl
 0.0.0.0 track.ad.xiaomi.com
 0.0.0.0 track.adbooth.net
@@ -21385,6 +21394,7 @@
 0.0.0.0 trackadvertising.net
 0.0.0.0 trackaffpix.com
 0.0.0.0 trackalyzer.com
+0.0.0.0 trackapi.net
 0.0.0.0 trackbacksecure.com
 0.0.0.0 trackboxx.info
 0.0.0.0 trackbyfast.com
@@ -22358,6 +22368,7 @@
 0.0.0.0 us-east-1.dc.ads.linkedin.com
 0.0.0.0 us-east-1.prod.pr.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.prod.pw.analytics.console.aws.a2z.com
+0.0.0.0 us-east-1.telemetry.insights.video.a2z.com
 0.0.0.0 us-east-2.prod.pr.analytics.console.aws.a2z.com
 0.0.0.0 us-east-ad-track.aralego.com
 0.0.0.0 us-east-ads.aralego.com
@@ -23714,7 +23725,6 @@
 0.0.0.0 www.adagency1.com
 0.0.0.0 www.adagiobanner.s3.amazonaws.com
 0.0.0.0 www.adagionet.com
-0.0.0.0 www.adaletterazisi.com
 0.0.0.0 www.adalizer.com
 0.0.0.0 www.adalliance.io
 0.0.0.0 www.adalso.com
@@ -23735,7 +23745,6 @@
 0.0.0.0 www.adbanner.gr
 0.0.0.0 www.adbard.net
 0.0.0.0 www.adbart.ru
-0.0.0.0 www.adbaza.com
 0.0.0.0 www.adbean.ru
 0.0.0.0 www.adbers.com
 0.0.0.0 www.adbert.com.tw
@@ -23866,7 +23875,6 @@
 0.0.0.0 www.address9.com
 0.0.0.0 www.addresseetransportationsyndrome.com
 0.0.0.0 www.addressen.club
-0.0.0.0 www.addression.club
 0.0.0.0 www.addroid.com
 0.0.0.0 www.addroplet.com
 0.0.0.0 www.addstock.co.uk
@@ -23909,7 +23917,6 @@
 0.0.0.0 www.adexpose.com
 0.0.0.0 www.adexprt.com
 0.0.0.0 www.adexprt.me
-0.0.0.0 www.adexprts.com
 0.0.0.0 www.adf01.net
 0.0.0.0 www.adfac.net
 0.0.0.0 www.adfactor.nl
@@ -24028,11 +24035,9 @@
 0.0.0.0 www.adireland.com
 0.0.0.0 www.adireto.com
 0.0.0.0 www.adisfy.com
-0.0.0.0 www.adisimd.ro
 0.0.0.0 www.adisn.com
 0.0.0.0 www.adisnet.com
 0.0.0.0 www.adit-media.com
-0.0.0.0 www.adithimedia.com
 0.0.0.0 www.aditic.net
 0.0.0.0 www.adition.com
 0.0.0.0 www.adition.de
@@ -24729,7 +24734,6 @@
 0.0.0.0 www.adtriplex.com
 0.0.0.0 www.adtrix.com
 0.0.0.0 www.adtrue.com
-0.0.0.0 www.adtrue24.com
 0.0.0.0 www.adtruism.com
 0.0.0.0 www.adtube.ir
 0.0.0.0 www.adturtle.biz
@@ -24745,9 +24749,6 @@
 0.0.0.0 www.adultadvertising.net
 0.0.0.0 www.adultadworld.com
 0.0.0.0 www.adultbanners.co.uk
-0.0.0.0 www.adultcamchatfree.com
-0.0.0.0 www.adultcamfree.com
-0.0.0.0 www.adultcamliveweb.com
 0.0.0.0 www.adultcash.com
 0.0.0.0 www.adultcommercial.net
 0.0.0.0 www.adultdatelink.com
@@ -24758,7 +24759,6 @@
 0.0.0.0 www.adultlinksco.com
 0.0.0.0 www.adultmoda.com
 0.0.0.0 www.adultmoneymakers.com
-0.0.0.0 www.adultmoviegroup.com
 0.0.0.0 www.adultsonly.pro
 0.0.0.0 www.adultsuns.net
 0.0.0.0 www.adultterritory.net
@@ -24845,7 +24845,6 @@
 0.0.0.0 www.advertisingbay.com
 0.0.0.0 www.advertisingbox.com
 0.0.0.0 www.advertisingiq.com
-0.0.0.0 www.advertisingsex.com
 0.0.0.0 www.advertjunction.com
 0.0.0.0 www.advertlane.com
 0.0.0.0 www.advertlets.com
@@ -25483,6 +25482,7 @@
 0.0.0.0 www.fxcounters.com
 0.0.0.0 www.g-af.com
 0.0.0.0 www.g-statistic.com
+0.0.0.0 www.ga-ads.com
 0.0.0.0 www.ga-analytics.com
 0.0.0.0 www.game-advertising-online.com
 0.0.0.0 www.gamefeat.net
@@ -25605,7 +25605,6 @@
 0.0.0.0 www.imageprostyle-communication.fr
 0.0.0.0 www.images.taboola.com
 0.0.0.0 www.imcounting.com
-0.0.0.0 www.imgfeedget.com
 0.0.0.0 www.indiads.com
 0.0.0.0 www.infinite-ads.com
 0.0.0.0 www.infinity-tracking.net
@@ -25621,7 +25620,6 @@
 0.0.0.0 www.internet-ps.com
 0.0.0.0 www.is-tracking-pixel-api-prod.appspot.com
 0.0.0.0 www.itrackerpro.com
-0.0.0.0 www.itrendstore.ro
 0.0.0.0 www.iwantmyfreecash.com
 0.0.0.0 www.jellycounter.com
 0.0.0.0 www.jqassets.download
@@ -25678,7 +25676,6 @@
 0.0.0.0 www.logmatic.io
 0.0.0.0 www.lognormal.net
 0.0.0.0 www.logo-net.co.uk
-0.0.0.0 www.logo-tree.com
 0.0.0.0 www.logoeps.com
 0.0.0.0 www.logotypfabriken.se
 0.0.0.0 www.logrocket.io
@@ -25727,7 +25724,6 @@
 0.0.0.0 www.motionlink.jp
 0.0.0.0 www.motorpresse-statistik.de
 0.0.0.0 www.movable-ink-2183.com
-0.0.0.0 www.ms-logistics.us
 0.0.0.0 www.mutuza.win
 0.0.0.0 www.my-adv.ru
 0.0.0.0 www.my-stats.com
@@ -25976,6 +25972,7 @@
 0.0.0.0 www.trackadvertising.net
 0.0.0.0 www.trackaffpix.com
 0.0.0.0 www.trackalyzer.com
+0.0.0.0 www.trackapi.net
 0.0.0.0 www.trackbacksecure.com
 0.0.0.0 www.trackboxx.info
 0.0.0.0 www.trackcapitalvane.com
