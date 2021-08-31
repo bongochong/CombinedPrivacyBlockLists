@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Mon Aug 30 07:28:53 AM UTC 2021
+! Updated: Tue Aug 31 12:39:04 AM UTC 2021
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -85363,16 +85363,15 @@ breitbart.com###bsocial
 breitbart.com###content_0_fixedshare_0_divSocialMedia
 bscscan.com##.px-1.rounded.shadow.font-size-1.bg-white.showcase-banner-text-left.showcase-banner-text
 bscscan.com##.text-dark.position-relative.d-lg-inline-block.d-none > .px-1.rounded.shadow.font-size-1.bg-white.showcase-banner-text
+bustle.com##.gHl
+bustle.com##.koK.KAa
 c-span.org###cspan-ad-still-wiv-four-1
 c-span.org###cspan-ad-still-wiv-four-2
 cbsnews.com##.icon__overlay--unmute.icon__overlay
 cbsnews.com##.lazyloaded.smart-banner-download.sticky.lazypreload
 cnet.com##.entered.dock.inviewElement
-cnn.com###dazbnm
-cnn.com###sskxzejroaldqjo
-cnn.com##.csnufnmschc
-cnn.com##.jfisjoibqwpgzn
-cnn.com##.saxocwzwwx
+cnn.com##.user-msg
+cnn.com##.zn-story-bottom
 coinbase.com##[class*="InstantAchBanner"]
 coinbase.com##[class*="RecurringBuysBanner"]
 coinbase.com##[class*="SettingsUpsellBanner"]
@@ -85606,6 +85605,7 @@ zerohedge.com##.Banner_banner__2PJ1Y
 ||accuradio.com/sweeper/
 ||beop.io^$third-party
 ||bscscan.com/images/gen/*1140x90.png$image
+||cdn.cnn.com/ads/
 ||cdn.jsdelivr.net/npm/workbox-cdn*$script,domain=theblockcrypto.com
 ||click.bible.com^$third-party
 ||click.drizly.com^$third-party
