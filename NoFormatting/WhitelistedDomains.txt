@@ -288,6 +288,7 @@ gs.apple.com
 gstatic.com
 gstaticadssl.l.google.com
 guidetopetersburg.com
+healthgrades.com
 hello.myfonts.net
 here.com
 hostsfile.org
@@ -569,6 +570,7 @@ www.gameanalytics.com
 www.github.com
 www.godaddy.com
 www.gravatar.com
+www.healthgrades.com
 www.howtogeek.com
 www.html5zombo.com
 www.jdownloader.org

@@ -325,6 +325,7 @@ localhost$
 ^0.0.0.0 gstatic.com$
 ^0.0.0.0 gstaticadssl.l.google.com$
 ^0.0.0.0 guidetopetersburg.com$
+^0.0.0.0 healthgrades.com$
 ^0.0.0.0 hello.myfonts.net$
 ^0.0.0.0 here.com$
 ^0.0.0.0 hostsfile.org$
@@ -606,6 +607,7 @@ localhost$
 ^0.0.0.0 www.github.com$
 ^0.0.0.0 www.godaddy.com$
 ^0.0.0.0 www.gravatar.com$
+^0.0.0.0 www.healthgrades.com$
 ^0.0.0.0 www.howtogeek.com$
 ^0.0.0.0 www.html5zombo.com$
 ^0.0.0.0 www.jdownloader.org$
