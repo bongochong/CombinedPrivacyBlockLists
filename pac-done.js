@@ -1,4 +1,4 @@
-// **** Tue Aug 31 02:59:31 AM UTC 2021
+// **** Thu Sep  2 11:57:03 PM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -3110,6 +3110,7 @@ shExpMatch(host, '*.british-banners.com') ||
 shExpMatch(host, '*.broadboundary.com') ||
 shExpMatch(host, '*.broadcastbed.com') ||
 shExpMatch(host, '*.broaddoor.com') ||
+shExpMatch(host, '*.broadstreetads.com') ||
 shExpMatch(host, '*.broadtech.co') ||
 shExpMatch(host, '*.brokdrop.com') ||
 shExpMatch(host, '*.brokeneagledlc.goblogz.net') ||
@@ -11551,6 +11552,7 @@ shExpMatch(host, '*.nonamefiles-2sd.site') ||
 shExpMatch(host, '*.nonamefiles-4sd.site') ||
 shExpMatch(host, '*.nonamjin.com') ||
 shExpMatch(host, '*.nondescriptcrowd.com') ||
+shExpMatch(host, '*.nondescriptnote.com') ||
 shExpMatch(host, '*.nondescriptsmile.com') ||
 shExpMatch(host, '*.nondescriptstocking.com') ||
 shExpMatch(host, '*.nonepersonal.com') ||
@@ -12002,6 +12004,7 @@ shExpMatch(host, '*.pandawamovie.com') ||
 shExpMatch(host, '*.pandorabracelets.win') ||
 shExpMatch(host, '*.panel.teamspeak.bz') ||
 shExpMatch(host, '*.panickycurtain.com') ||
+shExpMatch(host, '*.panickypancake.com') ||
 shExpMatch(host, '*.papahughes.com.au') ||
 shExpMatch(host, '*.papapear.fb-hacks.com') ||
 shExpMatch(host, '*.papapearsagacheats.com') ||
@@ -12377,6 +12380,7 @@ shExpMatch(host, '*.plotonk.com') ||
 shExpMatch(host, '*.plotrabbit.com') ||
 shExpMatch(host, '*.plsderk.ddns.me.uk') ||
 shExpMatch(host, '*.pltechnews.biz') ||
+shExpMatch(host, '*.pluckypocket.com') ||
 shExpMatch(host, '*.plugrush.com') ||
 shExpMatch(host, '*.plumcafebistro.com') ||
 shExpMatch(host, '*.plumfinders.com') ||
@@ -13579,6 +13583,7 @@ shExpMatch(host, '*.scotttim.com') ||
 shExpMatch(host, '*.scr3en.com') ||
 shExpMatch(host, '*.scratch2cash.com') ||
 shExpMatch(host, '*.screechingfurniture.com') ||
+shExpMatch(host, '*.screechingstove.com') ||
 shExpMatch(host, '*.screen1shot.net') ||
 shExpMatch(host, '*.screencapture.site') ||
 shExpMatch(host, '*.screenclub.ru') ||
@@ -13871,6 +13876,7 @@ shExpMatch(host, '*.showkurve.de') ||
 shExpMatch(host, '*.showmeflix.com') ||
 shExpMatch(host, '*.showmovie.xyz') ||
 shExpMatch(host, '*.shrekis.life') ||
+shExpMatch(host, '*.shrillspoon.com') ||
 shExpMatch(host, '*.shrinkonce.com') ||
 shExpMatch(host, '*.sht7.com') ||
 shExpMatch(host, '*.sht87.com') ||
@@ -14231,6 +14237,7 @@ shExpMatch(host, '*.smikta.info') ||
 shExpMatch(host, '*.smilingwaves.com') ||
 shExpMatch(host, '*.smitegemsgiveaway.com') ||
 shExpMatch(host, '*.smn.klm.net.pl') ||
+shExpMatch(host, '*.smoggysnakes.com') ||
 shExpMatch(host, '*.smokehouseeats.com') ||
 shExpMatch(host, '*.smokejuse.su') ||
 shExpMatch(host, '*.smolny.https443.org') ||
@@ -15303,6 +15310,7 @@ shExpMatch(host, '*.tinyfileshost.com') ||
 shExpMatch(host, '*.tinypic.info') ||
 shExpMatch(host, '*.tinyurl4.info') ||
 shExpMatch(host, '*.tipobet00938.com') ||
+shExpMatch(host, '*.tiresomethunder.com') ||
 shExpMatch(host, '*.titancash.org') ||
 shExpMatch(host, '*.titanfall-beta.com') ||
 shExpMatch(host, '*.titanfall-download.net') ||
@@ -20656,6 +20664,7 @@ shExpMatch(host, 'british-banners.com') ||
 shExpMatch(host, 'broadboundary.com') ||
 shExpMatch(host, 'broadcastbed.com') ||
 shExpMatch(host, 'broaddoor.com') ||
+shExpMatch(host, 'broadstreetads.com') ||
 shExpMatch(host, 'broadtech.co') ||
 shExpMatch(host, 'brokdrop.com') ||
 shExpMatch(host, 'brokeneagledlc.goblogz.net') ||
@@ -29097,6 +29106,7 @@ shExpMatch(host, 'nonamefiles-2sd.site') ||
 shExpMatch(host, 'nonamefiles-4sd.site') ||
 shExpMatch(host, 'nonamjin.com') ||
 shExpMatch(host, 'nondescriptcrowd.com') ||
+shExpMatch(host, 'nondescriptnote.com') ||
 shExpMatch(host, 'nondescriptsmile.com') ||
 shExpMatch(host, 'nondescriptstocking.com') ||
 shExpMatch(host, 'nonepersonal.com') ||
@@ -29548,6 +29558,7 @@ shExpMatch(host, 'pandawamovie.com') ||
 shExpMatch(host, 'pandorabracelets.win') ||
 shExpMatch(host, 'panel.teamspeak.bz') ||
 shExpMatch(host, 'panickycurtain.com') ||
+shExpMatch(host, 'panickypancake.com') ||
 shExpMatch(host, 'papahughes.com.au') ||
 shExpMatch(host, 'papapear.fb-hacks.com') ||
 shExpMatch(host, 'papapearsagacheats.com') ||
@@ -29923,6 +29934,7 @@ shExpMatch(host, 'plotonk.com') ||
 shExpMatch(host, 'plotrabbit.com') ||
 shExpMatch(host, 'plsderk.ddns.me.uk') ||
 shExpMatch(host, 'pltechnews.biz') ||
+shExpMatch(host, 'pluckypocket.com') ||
 shExpMatch(host, 'plugrush.com') ||
 shExpMatch(host, 'plumcafebistro.com') ||
 shExpMatch(host, 'plumfinders.com') ||
@@ -31125,6 +31137,7 @@ shExpMatch(host, 'scotttim.com') ||
 shExpMatch(host, 'scr3en.com') ||
 shExpMatch(host, 'scratch2cash.com') ||
 shExpMatch(host, 'screechingfurniture.com') ||
+shExpMatch(host, 'screechingstove.com') ||
 shExpMatch(host, 'screen1shot.net') ||
 shExpMatch(host, 'screencapture.site') ||
 shExpMatch(host, 'screenclub.ru') ||
@@ -31417,6 +31430,7 @@ shExpMatch(host, 'showkurve.de') ||
 shExpMatch(host, 'showmeflix.com') ||
 shExpMatch(host, 'showmovie.xyz') ||
 shExpMatch(host, 'shrekis.life') ||
+shExpMatch(host, 'shrillspoon.com') ||
 shExpMatch(host, 'shrinkonce.com') ||
 shExpMatch(host, 'sht7.com') ||
 shExpMatch(host, 'sht87.com') ||
@@ -31777,6 +31791,7 @@ shExpMatch(host, 'smikta.info') ||
 shExpMatch(host, 'smilingwaves.com') ||
 shExpMatch(host, 'smitegemsgiveaway.com') ||
 shExpMatch(host, 'smn.klm.net.pl') ||
+shExpMatch(host, 'smoggysnakes.com') ||
 shExpMatch(host, 'smokehouseeats.com') ||
 shExpMatch(host, 'smokejuse.su') ||
 shExpMatch(host, 'smolny.https443.org') ||
@@ -32849,6 +32864,7 @@ shExpMatch(host, 'tinyfileshost.com') ||
 shExpMatch(host, 'tinypic.info') ||
 shExpMatch(host, 'tinyurl4.info') ||
 shExpMatch(host, 'tipobet00938.com') ||
+shExpMatch(host, 'tiresomethunder.com') ||
 shExpMatch(host, 'titancash.org') ||
 shExpMatch(host, 'titanfall-beta.com') ||
 shExpMatch(host, 'titanfall-download.net') ||
