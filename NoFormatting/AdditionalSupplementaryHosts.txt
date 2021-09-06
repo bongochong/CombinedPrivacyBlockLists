@@ -1246,7 +1246,6 @@
 0.0.0.0 ad.bitbay.net
 0.0.0.0 ad.bitmedia.io
 0.0.0.0 ad.bizo.com
-0.0.0.0 ad.blackystars.com
 0.0.0.0 ad.bnmla.com
 0.0.0.0 ad.bobi.tw
 0.0.0.0 ad.bondage.com
@@ -3198,7 +3197,6 @@
 0.0.0.0 ads.iwon.com
 0.0.0.0 ads.jacksonville.com
 0.0.0.0 ads.jeneauempire.com
-0.0.0.0 ads.jerk2it.com
 0.0.0.0 ads.jetpackdigital.com
 0.0.0.0 ads.jetphotos.net
 0.0.0.0 ads.jewcy.com
@@ -3277,7 +3275,6 @@
 0.0.0.0 ads.live365.com
 0.0.0.0 ads.livenation.com
 0.0.0.0 ads.livepromotools.com
-0.0.0.0 ads.livestation.com
 0.0.0.0 ads.livetv314.me
 0.0.0.0 ads.livetvcdn.net
 0.0.0.0 ads.ljworld.com
@@ -3382,7 +3379,6 @@
 0.0.0.0 ads.msn.com
 0.0.0.0 ads.mt.valueclick.net
 0.0.0.0 ads.mtv.uol.com.br
-0.0.0.0 ads.mucunki.com
 0.0.0.0 ads.mulan.cloud
 0.0.0.0 ads.multimania.lycos.fr
 0.0.0.0 ads.museum.or.jp
@@ -3569,7 +3565,6 @@
 0.0.0.0 ads.portlandmercury.com
 0.0.0.0 ads.postimees.ee
 0.0.0.0 ads.powweb.com
-0.0.0.0 ads.premiumaccounts.com
 0.0.0.0 ads.premiumnetwork.com
 0.0.0.0 ads.premiumnetwork.net
 0.0.0.0 ads.press24.mk
@@ -3955,7 +3950,6 @@
 0.0.0.0 ads.warcry.com
 0.0.0.0 ads.warrelics.eu
 0.0.0.0 ads.watchmygf.net
-0.0.0.0 ads.waterbondage.com
 0.0.0.0 ads.watershed-publishing.com
 0.0.0.0 ads.watson.ch
 0.0.0.0 ads.wave.si
@@ -3998,7 +3992,6 @@
 0.0.0.0 ads.wikia.nocookie.net
 0.0.0.0 ads.wineenthusiast.com
 0.0.0.0 ads.winsite.com
-0.0.0.0 ads.wiredpussy.com
 0.0.0.0 ads.wnd.com
 0.0.0.0 ads.worddictionary.co.uk
 0.0.0.0 ads.worldstarhiphop.com
@@ -5306,7 +5299,6 @@
 0.0.0.0 adtruth.com
 0.0.0.0 adtube.ir
 0.0.0.0 adturtle.biz
-0.0.0.0 adult-banner-ads.com
 0.0.0.0 adult.foxcounter.com
 0.0.0.0 adult.likevideo.jp
 0.0.0.0 adultadvertising.com
@@ -6527,7 +6519,6 @@
 0.0.0.0 analytics20.kochava.com
 0.0.0.0 analyticsapi.bsbportal.com
 0.0.0.0 analyticschecker.com
-0.0.0.0 analyticsengine.s3.amazonaws.com
 0.0.0.0 analyticsip.net
 0.0.0.0 analyticsnew.overwolf.com
 0.0.0.0 analyticson.com
@@ -12735,7 +12726,6 @@
 0.0.0.0 images.ads.fairfax.com.au
 0.0.0.0 images.ads.supplyframe.com
 0.0.0.0 images.ads.whaleads.com
-0.0.0.0 images.adster.com
 0.0.0.0 images.adsyndication.msn.com
 0.0.0.0 images.blogads.com
 0.0.0.0 images.dailydiscounts.com
@@ -18064,7 +18054,6 @@
 0.0.0.0 s2s.adpushup.com
 0.0.0.0 s2s.yieldlove-ad-serving.net
 0.0.0.0 s3-analytics-events.easybrain.com
-0.0.0.0 s3-tracking.synthasite.net.s3.amazonaws.com
 0.0.0.0 s3.adbers.com
 0.0.0.0 s3.addthis.com
 0.0.0.0 s3.adpia.vn
@@ -23869,15 +23858,12 @@
 0.0.0.0 www.adtwirl.com
 0.0.0.0 www.aduic.com
 0.0.0.0 www.adulatoryraisegetaway.com
-0.0.0.0 www.adult-banner-ads.com
 0.0.0.0 www.adult-top-list.com
 0.0.0.0 www.adultadbroker.com
-0.0.0.0 www.adultads.biz
 0.0.0.0 www.adultadspy.com
 0.0.0.0 www.adultadvertising.com
 0.0.0.0 www.adultadvertising.net
 0.0.0.0 www.adultadworld.com
-0.0.0.0 www.adultbanners.co.uk
 0.0.0.0 www.adultcash.com
 0.0.0.0 www.adultcommercial.net
 0.0.0.0 www.adultdatelink.com
@@ -23891,7 +23877,6 @@
 0.0.0.0 www.adultsonly.pro
 0.0.0.0 www.adultsuns.net
 0.0.0.0 www.adultterritory.net
-0.0.0.0 www.adulttrafficads.com
 0.0.0.0 www.adunity.com
 0.0.0.0 www.adup-tech.com
 0.0.0.0 www.adurr.com
@@ -24250,7 +24235,6 @@
 0.0.0.0 www.analytics-api-samples.googlecode.com
 0.0.0.0 www.analytics.blue
 0.0.0.0 www.analyticschecker.com
-0.0.0.0 www.analyticsengine.s3.amazonaws.com
 0.0.0.0 www.analyticsip.net
 0.0.0.0 www.analyticson.com
 0.0.0.0 www.analyticsq.com
