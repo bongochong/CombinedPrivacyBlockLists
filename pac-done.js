@@ -1,4 +1,4 @@
-// **** Mon Sep  6 06:49:30 PM UTC 2021
+// **** Thu Sep  9 11:43:47 PM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -810,6 +810,7 @@ shExpMatch(host, '*.adobephotoshopcs6crack.com') ||
 shExpMatch(host, '*.adocean.pl') ||
 shExpMatch(host, '*.adonspot.com') ||
 shExpMatch(host, '*.adoperator.com') ||
+shExpMatch(host, '*.adoptum.net') ||
 shExpMatch(host, '*.adoric-om.com') ||
 shExpMatch(host, '*.adorigin.com') ||
 shExpMatch(host, '*.adotmob.com') ||
@@ -18370,6 +18371,7 @@ shExpMatch(host, 'adobephotoshopcs6crack.com') ||
 shExpMatch(host, 'adocean.pl') ||
 shExpMatch(host, 'adonspot.com') ||
 shExpMatch(host, 'adoperator.com') ||
+shExpMatch(host, 'adoptum.net') ||
 shExpMatch(host, 'adoric-om.com') ||
 shExpMatch(host, 'adorigin.com') ||
 shExpMatch(host, 'adotmob.com') ||
