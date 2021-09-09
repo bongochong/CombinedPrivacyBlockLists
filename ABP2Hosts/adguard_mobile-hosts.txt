@@ -1,4 +1,4 @@
-# Mon Sep  6 06:44:23 PM UTC 2021
+# Thu Sep  9 11:34:53 PM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -1920,7 +1920,6 @@
 0.0.0.0 audible.tt.omtrdc.net
 0.0.0.0 audience-164723144.us-east-1.elb.amazonaws.com
 0.0.0.0 audience.zeustechnology.com
-0.0.0.0 audioboom.com
 0.0.0.0 audit-tcfv2.quantcast.mgr.consensu.org
 0.0.0.0 auditude.com
 0.0.0.0 augur.io
@@ -3569,6 +3568,7 @@
 0.0.0.0 entercom-d.openx.net
 0.0.0.0 enthusiast-gaming-d.openx.net
 0.0.0.0 entitlements.jwplayer.com
+0.0.0.0 entitlements.kochava.com
 0.0.0.0 entravision-d.openx.net
 0.0.0.0 entree.igetget.com
 0.0.0.0 ep.xone.com
@@ -4411,6 +4411,7 @@
 0.0.0.0 ichnaea-web.netflix.com
 0.0.0.0 iclick.cm.admaster.com.cn
 0.0.0.0 iclickyou.com
+0.0.0.0 icm.kochava.com
 0.0.0.0 id-gmtdmp.mookie1.com
 0.0.0.0 id-ssl.effectivemeasure.net
 0.0.0.0 id.analytics.glance.inmobi.com
@@ -7204,6 +7205,7 @@
 0.0.0.0 smaato.com
 0.0.0.0 smaato.net
 0.0.0.0 smaclick.com
+0.0.0.0 smart.link
 0.0.0.0 smart.mobvista.com
 0.0.0.0 smartadserver.com
 0.0.0.0 smartclip.net
@@ -7928,6 +7930,7 @@
 0.0.0.0 tns.simba.taobao.com
 0.0.0.0 toecircle.com
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 token.api.kochava.com
 0.0.0.0 token.rubiconproject.com
 0.0.0.0 tonefuse.com
 0.0.0.0 tools.3g.qq.com
@@ -8427,6 +8430,7 @@
 0.0.0.0 vads.net.vn
 0.0.0.0 vaes.amazon-adsystem.com
 0.0.0.0 vafw.adsafeprotected.com
+0.0.0.0 vaicore.xyz
 0.0.0.0 validate.appsflyer.com
 0.0.0.0 validate.onecount.net
 0.0.0.0 validator.lomadee.com

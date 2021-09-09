@@ -9,18 +9,13 @@ Along with donating through Brave Rewards, you can also use the following crypto
 
 ---
 
+**Ethereum** (*ETH* and **all other** ERC-20 tokens):  
+0x3A8fE00E78E1a823C7C691d1AE029Bd8eC8Bc207
+
+---
+
 **Algorand** (*ALGO*):  
 NP2BFYMFHJD4Y4U3HTFCTT3ZOAU2WAOEJ5V24RO56W3NGHFJXZ7MO4LAFY
-
----
-
-**Tezos** (*XTZ*):  
-tz1QamL5nAt82RYMJceGs8E5Hadn1BLpCPa8
-
----
-
-**Dogecoin** (*DOGE*):  
-DJPwinXkgipqaai517Mu6UYAJw6SXxpdje
 
 ---
 
@@ -29,8 +24,8 @@ addr1qxl9mhqw2dnghm3a52mzp8qtmkmzt3dc28mnsdc2e40rwja7thwqu5mx30hrmg4kyzwqhhdkyhz
 
 ---
 
-**Ethereum** (*ETH* and any ERC-20 tokens):  
-0x3A8fE00E78E1a823C7C691d1AE029Bd8eC8Bc207
+**Tezos** (*XTZ*):  
+tz1QamL5nAt82RYMJceGs8E5Hadn1BLpCPa8
 
 ---
 
@@ -64,22 +59,12 @@ GDNNSJH2PGIPIOZHJE2BS2TMECQXWDZ5AWTLFIJL7TNN4S7QF3A45N4D
 
 ---
 
+**Dogecoin** (*DOGE*):  
+DJPwinXkgipqaai517Mu6UYAJw6SXxpdje
+
+---
+
 **Ethereum Classic** (*ETC*):  
 0x073C7D3F64aF978591Cf8fc315375ac9D88f9F80
-
----
-
-**The Graph** (*GRT*):  
-0x3A8fE00E78E1a823C7C691d1AE029Bd8eC8Bc207
-
----
-
-**Dai** (*DAI*):  
-0x3A8fE00E78E1a823C7C691d1AE029Bd8eC8Bc207
-
----
-
-**Orchid** (*OXT*):  
-0x3A8fE00E78E1a823C7C691d1AE029Bd8eC8Bc207
 
 ---
