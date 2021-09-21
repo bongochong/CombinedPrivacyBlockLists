@@ -1,4 +1,4 @@
-// **** Mon Sep 20 06:00:10 AM UTC 2021
+// **** Tue Sep 21 10:28:55 PM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -16098,6 +16098,7 @@ shExpMatch(host, '*.usupload.com') ||
 shExpMatch(host, '*.uszyce.webd.pl') ||
 shExpMatch(host, '*.utad.site') ||
 shExpMatch(host, '*.utarget.co.uk') ||
+shExpMatch(host, '*.utenod.com') ||
 shExpMatch(host, '*.utils.mediageneral.net') ||
 shExpMatch(host, '*.utl-1.com') ||
 shExpMatch(host, '*.uttermosthobbies.com') ||
@@ -17326,6 +17327,7 @@ shExpMatch(host, '*.yoc-performance.com') ||
 shExpMatch(host, '*.yoc.mobi') ||
 shExpMatch(host, '*.yoggrt.com') ||
 shExpMatch(host, '*.yogode.ru') ||
+shExpMatch(host, '*.yogyn.com') ||
 shExpMatch(host, '*.yolayneefu.top') ||
 shExpMatch(host, '*.yondental.co.kr') ||
 shExpMatch(host, '*.yootube.com') ||
@@ -33669,6 +33671,7 @@ shExpMatch(host, 'usupload.com') ||
 shExpMatch(host, 'uszyce.webd.pl') ||
 shExpMatch(host, 'utad.site') ||
 shExpMatch(host, 'utarget.co.uk') ||
+shExpMatch(host, 'utenod.com') ||
 shExpMatch(host, 'utils.mediageneral.net') ||
 shExpMatch(host, 'utl-1.com') ||
 shExpMatch(host, 'uttermosthobbies.com') ||
@@ -34897,6 +34900,7 @@ shExpMatch(host, 'yoc-performance.com') ||
 shExpMatch(host, 'yoc.mobi') ||
 shExpMatch(host, 'yoggrt.com') ||
 shExpMatch(host, 'yogode.ru') ||
+shExpMatch(host, 'yogyn.com') ||
 shExpMatch(host, 'yolayneefu.top') ||
 shExpMatch(host, 'yondental.co.kr') ||
 shExpMatch(host, 'yootube.com') ||
