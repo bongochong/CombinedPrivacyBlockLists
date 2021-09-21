@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mostly Cosmetic CPBL Filters for ABP & uBO
-! Updated: Tue Aug 31 12:39:04 AM UTC 2021
+! Updated: Tue Sep 21 10:36:23 PM UTC 2021
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -400,6 +400,10 @@ uol.com.br##body:style(overflow: visible !important;)
 @@||segment.com/v1/projects/$xmlhttprequest,domain=reuters.com
 @@||sndcdn.com^$domain=secure.soundcloud.com
 @@||tags.crwdcntrl.net^$domain=weather.com
+@@||thepiratebay.org/*.php$document,1p,csp
+@@||thepiratebay.org/static/main.js$script,1p
+@@||torrindex.net^$script,domain=thepiratebay.org
+@@||torrindex.net^$image,domain=thepiratebay.org
 @@||tru.am/scripts/custom/reuters.js$script,domain=reuters.com
 @@||usasync01.admantx.com/admantx/service$xhr,domain=reuters.com
 @@||z.moatads.com^$script,domain=reuters.com
