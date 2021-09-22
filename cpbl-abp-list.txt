@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Tue Sep 21 10:36:20 PM UTC 2021
+! Updated: Tue Sep 21 11:36:20 PM UTC 2021
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -85766,6 +85766,7 @@ indiadivine.org###ulp-RyvojwyPSZ6Q7NUR-overlay
 instagram.com##.DCpAF
 instagram.com##.qD5Mv._4EzTm.eGOV_.IwRSH.Igw0E
 juicedb.com##.nicotine-warning
+khou.com##[class*="header__tooltip"]
 linuxandubuntu.com##.hustle-optin--focus-optin.hustle-optin
 linuxandubuntu.com##.hustle-optin-mask.hustle-popup-mask
 linuxandubuntu.com##.hustle-show.module_id_1.hustle_module_id_1.hustle-palette--default.hustle-popup.hustle-ui
@@ -85939,6 +85940,7 @@ zerohedge.com##.Banner_banner__2PJ1Y
 ||graph.facebook.com^$domain=~facebook.com|~fbcdn.com|~apps.facebook.com|~instagram.com|~linkedin.com,app=~com.facebook.katana|~com.instagram.android|~com.facebook.orca|~com.mobile.legends|~com.minigames.sweetcrossing|~com.moonton.mobilehero|~com.supercell.clashofclans|~com.playrix.fishdomdd.gplay|~com.tencent.ig|~com.ngame.allstar.eu|~com.garena.game.kgid|~com.netease.g78na.gb|~com.stackwares.android.storysaver.facebook
 ||graph.instagram.com^$domain=~facebook.com|~fbcdn.com|~apps.facebook.com|~instagram.com|~linkedin.com,app=~com.facebook.katana|~com.instagram.android
 ||indiadivine.org/wp-content/plugins/layered-popups/js/ads.js$script,domain=indiadivine.org
+||khou.com/assets/shared-images/icons/close.svg$image
 ||mondoweiss.net/wp-content/plugins/wordpress-popup/assets/hustle-ui/js/*
 ||nytimes.com^$removeparam=impression_id
 ||nytimes.com^*/metered_assets/
