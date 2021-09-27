@@ -1,4 +1,4 @@
-# Thu Sep 23 10:57:41 PM UTC 2021
+# Mon Sep 27 03:13:52 AM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -4947,6 +4947,7 @@
 0.0.0.0 log-ingestion.samsungacr.com
 0.0.0.0 log-tb.isnssdk.com
 0.0.0.0 log-tb.sgsnssdk.com
+0.0.0.0 log-upload-os.mihoyo.com
 0.0.0.0 log.ad.xiaomi.com
 0.0.0.0 log.adaptv.advertising.com
 0.0.0.0 log.adplex.co.kr
