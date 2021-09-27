@@ -1,4 +1,4 @@
-// **** Thu Sep 23 11:02:07 PM UTC 2021
+// **** Mon Sep 27 03:22:38 AM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -3482,7 +3482,6 @@ shExpMatch(host, '*.chameleon.ad') ||
 shExpMatch(host, '*.chango.com') ||
 shExpMatch(host, '*.channelintelligence.com') ||
 shExpMatch(host, '*.chaoshackss.com') ||
-shExpMatch(host, '*.chardwardse.club') ||
 shExpMatch(host, '*.chart.dk') ||
 shExpMatch(host, '*.chartbeat.com') ||
 shExpMatch(host, '*.chartbeat.net') ||
@@ -4747,6 +4746,7 @@ shExpMatch(host, '*.cybertiny.com') ||
 shExpMatch(host, '*.cyclingshorts.uk.com') ||
 shExpMatch(host, '*.cyousoft.com') ||
 shExpMatch(host, '*.cypher-lab.com') ||
+shExpMatch(host, '*.cyrasi.com') ||
 shExpMatch(host, '*.cytmsys.com') ||
 shExpMatch(host, '*.czbaoyu.com') ||
 shExpMatch(host, '*.czgtgj.com') ||
@@ -4911,6 +4911,7 @@ shExpMatch(host, '*.demo.vertexinfo.in') ||
 shExpMatch(host, '*.demongenerator.com') ||
 shExpMatch(host, '*.demonstreet.net') ||
 shExpMatch(host, '*.demovie.xyz') ||
+shExpMatch(host, '*.denety.com') ||
 shExpMatch(host, '*.denisen.com.cn') ||
 shExpMatch(host, '*.denmark.filminstan.pw') ||
 shExpMatch(host, '*.densepromissory.info') ||
@@ -9124,6 +9125,7 @@ shExpMatch(host, '*.imaginarydiamond.com') ||
 shExpMatch(host, '*.imarketservices.com') ||
 shExpMatch(host, '*.imatmobile.com') ||
 shExpMatch(host, '*.imdbwatch.com') ||
+shExpMatch(host, '*.imembe.com') ||
 shExpMatch(host, '*.imessageonandroid.com') ||
 shExpMatch(host, '*.imessageonpc.com') ||
 shExpMatch(host, '*.img-saving.com') ||
@@ -12087,6 +12089,7 @@ shExpMatch(host, '*.pattayabazaar.com') ||
 shExpMatch(host, '*.paul.cescon.ca') ||
 shExpMatch(host, '*.pausebas.xyz') ||
 shExpMatch(host, '*.pave.elisecries.com') ||
+shExpMatch(host, '*.paxtro.com') ||
 shExpMatch(host, '*.pay-ads.com') ||
 shExpMatch(host, '*.paycounter.com') ||
 shExpMatch(host, '*.payday2.sharezips.info') ||
@@ -13190,7 +13193,6 @@ shExpMatch(host, '*.reloadedhacks.org') ||
 shExpMatch(host, '*.reltime-2014.ru') ||
 shExpMatch(host, '*.reltime2012.ru') ||
 shExpMatch(host, '*.reltimes-2010.ru') ||
-shExpMatch(host, '*.remistrainew.club') ||
 shExpMatch(host, '*.remodelinginportland.net') ||
 shExpMatch(host, '*.remotead.cnet.com') ||
 shExpMatch(host, '*.removesimlock-iphone.com') ||
@@ -14222,6 +14224,7 @@ shExpMatch(host, '*.slomcomnty.com') ||
 shExpMatch(host, '*.slopeaota.com') ||
 shExpMatch(host, '*.slotomania.newzgames.com') ||
 shExpMatch(host, '*.slsh.us') ||
+shExpMatch(host, '*.sluxur.com') ||
 shExpMatch(host, '*.slvrlake-denim.com') ||
 shExpMatch(host, '*.sma-norge.no') ||
 shExpMatch(host, '*.sma.punto.net') ||
@@ -14895,6 +14898,7 @@ shExpMatch(host, '*.suptullog.com') ||
 shExpMatch(host, '*.surefile.org') ||
 shExpMatch(host, '*.surfmusik-adserver.de') ||
 shExpMatch(host, '*.suri-nicole.com') ||
+shExpMatch(host, '*.suried.com') ||
 shExpMatch(host, '*.surup.ru') ||
 shExpMatch(host, '*.surveybypass.com') ||
 shExpMatch(host, '*.surveybypass.net') ||
@@ -21073,7 +21077,6 @@ shExpMatch(host, 'chameleon.ad') ||
 shExpMatch(host, 'chango.com') ||
 shExpMatch(host, 'channelintelligence.com') ||
 shExpMatch(host, 'chaoshackss.com') ||
-shExpMatch(host, 'chardwardse.club') ||
 shExpMatch(host, 'chart.dk') ||
 shExpMatch(host, 'chartbeat.com') ||
 shExpMatch(host, 'chartbeat.net') ||
@@ -22338,6 +22341,7 @@ shExpMatch(host, 'cybertiny.com') ||
 shExpMatch(host, 'cyclingshorts.uk.com') ||
 shExpMatch(host, 'cyousoft.com') ||
 shExpMatch(host, 'cypher-lab.com') ||
+shExpMatch(host, 'cyrasi.com') ||
 shExpMatch(host, 'cytmsys.com') ||
 shExpMatch(host, 'czbaoyu.com') ||
 shExpMatch(host, 'czgtgj.com') ||
@@ -22502,6 +22506,7 @@ shExpMatch(host, 'demo.vertexinfo.in') ||
 shExpMatch(host, 'demongenerator.com') ||
 shExpMatch(host, 'demonstreet.net') ||
 shExpMatch(host, 'demovie.xyz') ||
+shExpMatch(host, 'denety.com') ||
 shExpMatch(host, 'denisen.com.cn') ||
 shExpMatch(host, 'denmark.filminstan.pw') ||
 shExpMatch(host, 'densepromissory.info') ||
@@ -26715,6 +26720,7 @@ shExpMatch(host, 'imaginarydiamond.com') ||
 shExpMatch(host, 'imarketservices.com') ||
 shExpMatch(host, 'imatmobile.com') ||
 shExpMatch(host, 'imdbwatch.com') ||
+shExpMatch(host, 'imembe.com') ||
 shExpMatch(host, 'imessageonandroid.com') ||
 shExpMatch(host, 'imessageonpc.com') ||
 shExpMatch(host, 'img-saving.com') ||
@@ -29678,6 +29684,7 @@ shExpMatch(host, 'pattayabazaar.com') ||
 shExpMatch(host, 'paul.cescon.ca') ||
 shExpMatch(host, 'pausebas.xyz') ||
 shExpMatch(host, 'pave.elisecries.com') ||
+shExpMatch(host, 'paxtro.com') ||
 shExpMatch(host, 'pay-ads.com') ||
 shExpMatch(host, 'paycounter.com') ||
 shExpMatch(host, 'payday2.sharezips.info') ||
@@ -30781,7 +30788,6 @@ shExpMatch(host, 'reloadedhacks.org') ||
 shExpMatch(host, 'reltime-2014.ru') ||
 shExpMatch(host, 'reltime2012.ru') ||
 shExpMatch(host, 'reltimes-2010.ru') ||
-shExpMatch(host, 'remistrainew.club') ||
 shExpMatch(host, 'remodelinginportland.net') ||
 shExpMatch(host, 'remotead.cnet.com') ||
 shExpMatch(host, 'removesimlock-iphone.com') ||
@@ -31813,6 +31819,7 @@ shExpMatch(host, 'slomcomnty.com') ||
 shExpMatch(host, 'slopeaota.com') ||
 shExpMatch(host, 'slotomania.newzgames.com') ||
 shExpMatch(host, 'slsh.us') ||
+shExpMatch(host, 'sluxur.com') ||
 shExpMatch(host, 'slvrlake-denim.com') ||
 shExpMatch(host, 'sma-norge.no') ||
 shExpMatch(host, 'sma.punto.net') ||
@@ -32486,6 +32493,7 @@ shExpMatch(host, 'suptullog.com') ||
 shExpMatch(host, 'surefile.org') ||
 shExpMatch(host, 'surfmusik-adserver.de') ||
 shExpMatch(host, 'suri-nicole.com') ||
+shExpMatch(host, 'suried.com') ||
 shExpMatch(host, 'surup.ru') ||
 shExpMatch(host, 'surveybypass.com') ||
 shExpMatch(host, 'surveybypass.net') ||
