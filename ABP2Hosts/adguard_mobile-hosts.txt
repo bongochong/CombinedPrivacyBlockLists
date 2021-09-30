@@ -1,4 +1,4 @@
-# Mon Sep 27 03:13:52 AM UTC 2021
+# Thu Sep 30 05:52:43 PM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -4909,6 +4909,7 @@
 0.0.0.0 lightning.cnn.com
 0.0.0.0 lightstep-collector.api.ua.com
 0.0.0.0 lijit2waycm.netmng.com
+0.0.0.0 line1-log.biligame.net
 0.0.0.0 linewebtoon-d.openx.net
 0.0.0.0 link.krxd.net
 0.0.0.0 link.swrve.com
@@ -7938,6 +7939,7 @@
 0.0.0.0 tools.3g.qq.com
 0.0.0.0 top-fwz1.mail.ru
 0.0.0.0 topapps-func.pinsightmedia.com
+0.0.0.0 torimochi.line-apps.com
 0.0.0.0 townhallmedia-d.openx.net
 0.0.0.0 townsquaremedia-d.openx.net
 0.0.0.0 tp-emea.exactag.com
