@@ -1,7 +1,6 @@
 #This is a fork of the "immortal" malware domains list, originally archived on 12/17/2020
 #Seemingly active domains only version, sorted - Under continual improvement
 000007.ru
-0001.2waky.com
 024xuyisheng.com
 0452jhw.com
 0632qyw.com
@@ -3396,7 +3395,6 @@ urinoor.com
 usb-turn-table.co.uk
 usbbqparts.com
 usepetrol2earn.com
-user.fileserver.co.kr
 username-search.com
 users.atw.hu
 users.telenet.be
