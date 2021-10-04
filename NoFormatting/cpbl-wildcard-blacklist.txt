@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 10/04/21~20:46:02 -~
+# ~- 10/04/21~09:48:10 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -26,7 +26,6 @@
 *.00-gov.cn
 *.000.gaysexe.free.fr
 *.000007.ru
-*.0001.2waky.com
 *.0001.best
 *.000free.us
 *.000tristanprod.free.fr
