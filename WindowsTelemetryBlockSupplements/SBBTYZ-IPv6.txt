@@ -1,7 +1,7 @@
 #Anti-Telemetry Hosts for Windows from TYZBIT, CrazyMax and SpyBot Anti-Beacon
 #IPv6 Version
 #Included in default hosts file
-#Last update 8/01/2021
+#Last update 10/04/2021
 
 :: a.ads1.msn.com
 :: a.ads2.msads.net
@@ -389,6 +389,7 @@
 :: telemetry.urs.microsoft.com
 :: teredo.ipv6.microsoft.com
 :: test.activity.windows.com
+:: umwatson.events.data.microsoft.com
 :: umwatsonc.events.data.microsoft.com
 :: us-v10.events.data.microsoft.com
 :: us-v20.events.data.microsoft.com
