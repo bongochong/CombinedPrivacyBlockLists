@@ -1,4 +1,4 @@
-// **** Thu Sep 30 06:08:15 PM UTC 2021
+// **** Mon Oct  4 08:23:23 PM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -1549,6 +1549,7 @@ shExpMatch(host, '*.adtology.com') ||
 shExpMatch(host, '*.adtoma.com') ||
 shExpMatch(host, '*.adtrace.org') ||
 shExpMatch(host, '*.adtracker101.com') ||
+shExpMatch(host, '*.adtraction.com') ||
 shExpMatch(host, '*.adtrade.net') ||
 shExpMatch(host, '*.adtrading.de') ||
 shExpMatch(host, '*.adtrak.net') ||
@@ -5512,6 +5513,7 @@ shExpMatch(host, '*.e58z.cn') ||
 shExpMatch(host, '*.eaae-france.org') ||
 shExpMatch(host, '*.eacvb.com') ||
 shExpMatch(host, '*.eadexchange.com') ||
+shExpMatch(host, '*.eaesie.com') ||
 shExpMatch(host, '*.eafifa19.club') ||
 shExpMatch(host, '*.eafifa19.live') ||
 shExpMatch(host, '*.eagamevoice.com') ||
@@ -6631,6 +6633,7 @@ shExpMatch(host, '*.fnyoga.biz') ||
 shExpMatch(host, '*.focusfile.com') ||
 shExpMatch(host, '*.foduzi.ru') ||
 shExpMatch(host, '*.fohfynly.ru') ||
+shExpMatch(host, '*.folawn.com') ||
 shExpMatch(host, '*.folderaddict.com') ||
 shExpMatch(host, '*.folderdocs.com') ||
 shExpMatch(host, '*.foldertube.com') ||
@@ -10258,6 +10261,7 @@ shExpMatch(host, '*.look.djfiln.com') ||
 shExpMatch(host, '*.look.ichlnk.com') ||
 shExpMatch(host, '*.look.opskln.com') ||
 shExpMatch(host, '*.look.udncoeln.com') ||
+shExpMatch(host, '*.look.ufinkln.com') ||
 shExpMatch(host, '*.looks-picture.com') ||
 shExpMatch(host, '*.loomarnia.com') ||
 shExpMatch(host, '*.loomplay.com') ||
@@ -19155,6 +19159,7 @@ shExpMatch(host, 'adtology.com') ||
 shExpMatch(host, 'adtoma.com') ||
 shExpMatch(host, 'adtrace.org') ||
 shExpMatch(host, 'adtracker101.com') ||
+shExpMatch(host, 'adtraction.com') ||
 shExpMatch(host, 'adtrade.net') ||
 shExpMatch(host, 'adtrading.de') ||
 shExpMatch(host, 'adtrak.net') ||
@@ -23118,6 +23123,7 @@ shExpMatch(host, 'e58z.cn') ||
 shExpMatch(host, 'eaae-france.org') ||
 shExpMatch(host, 'eacvb.com') ||
 shExpMatch(host, 'eadexchange.com') ||
+shExpMatch(host, 'eaesie.com') ||
 shExpMatch(host, 'eafifa19.club') ||
 shExpMatch(host, 'eafifa19.live') ||
 shExpMatch(host, 'eagamevoice.com') ||
@@ -24237,6 +24243,7 @@ shExpMatch(host, 'fnyoga.biz') ||
 shExpMatch(host, 'focusfile.com') ||
 shExpMatch(host, 'foduzi.ru') ||
 shExpMatch(host, 'fohfynly.ru') ||
+shExpMatch(host, 'folawn.com') ||
 shExpMatch(host, 'folderaddict.com') ||
 shExpMatch(host, 'folderdocs.com') ||
 shExpMatch(host, 'foldertube.com') ||
@@ -27864,6 +27871,7 @@ shExpMatch(host, 'look.djfiln.com') ||
 shExpMatch(host, 'look.ichlnk.com') ||
 shExpMatch(host, 'look.opskln.com') ||
 shExpMatch(host, 'look.udncoeln.com') ||
+shExpMatch(host, 'look.ufinkln.com') ||
 shExpMatch(host, 'looks-picture.com') ||
 shExpMatch(host, 'loomarnia.com') ||
 shExpMatch(host, 'loomplay.com') ||
