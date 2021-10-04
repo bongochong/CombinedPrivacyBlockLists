@@ -1,8 +1,7 @@
-// **** Mon Oct  4 08:23:23 PM UTC 2021
+// **** Mon Oct  4 09:38:33 PM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
-shExpMatch(host, '*.0001.2waky.com') ||
 shExpMatch(host, '*.001www.com') ||
 shExpMatch(host, '*.00689.net') ||
 shExpMatch(host, '*.024xuyisheng.com') ||
@@ -16118,7 +16117,6 @@ shExpMatch(host, '*.usehack.com') ||
 shExpMatch(host, '*.usehacks.com') ||
 shExpMatch(host, '*.usepetrol2earn.com') ||
 shExpMatch(host, '*.user-shield-check.com') ||
-shExpMatch(host, '*.user.fileserver.co.kr') ||
 shExpMatch(host, '*.usergrid.com') ||
 shExpMatch(host, '*.username-search.com') ||
 shExpMatch(host, '*.userreplay.com') ||
@@ -17612,7 +17610,6 @@ shExpMatch(host, '*.zzpxw.cn') ||
 shExpMatch(host, '*.zzskmmdu.cz.cc') ||
 shExpMatch(host, '*.zzssfc.tk') ||
 shExpMatch(host, '000007.ru') ||
-shExpMatch(host, '0001.2waky.com') ||
 shExpMatch(host, '001www.com') ||
 shExpMatch(host, '00689.net') ||
 shExpMatch(host, '024xuyisheng.com') ||
@@ -33728,7 +33725,6 @@ shExpMatch(host, 'usehack.com') ||
 shExpMatch(host, 'usehacks.com') ||
 shExpMatch(host, 'usepetrol2earn.com') ||
 shExpMatch(host, 'user-shield-check.com') ||
-shExpMatch(host, 'user.fileserver.co.kr') ||
 shExpMatch(host, 'usergrid.com') ||
 shExpMatch(host, 'username-search.com') ||
 shExpMatch(host, 'userreplay.com') ||

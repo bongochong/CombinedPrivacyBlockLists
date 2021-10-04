@@ -18,7 +18,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 10/04/21~20:22:57 -~
+# ~- 10/04/21~21:38:14 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -41,7 +41,6 @@
 0.0.0.0 00-gov.cn
 0.0.0.0 000.gaysexe.free.fr
 0.0.0.0 000007.ru
-0.0.0.0 0001.2waky.com
 0.0.0.0 0001.best
 0.0.0.0 000free.us
 0.0.0.0 000tristanprod.free.fr
@@ -89684,6 +89683,7 @@
 0.0.0.0 ums.adtechus.com
 0.0.0.0 umtrack.com
 0.0.0.0 umtzwr.adidas.co.kr
+0.0.0.0 umwatson.events.data.microsoft.com
 0.0.0.0 umwatsonc.events.data.microsoft.com
 0.0.0.0 umwiba.com
 0.0.0.0 umyetor.ru
@@ -90387,7 +90387,6 @@
 0.0.0.0 user-shield-check.com
 0.0.0.0 user-stats.rbl.ms
 0.0.0.0 user-sync.adhese.com
-0.0.0.0 user.fileserver.co.kr
 0.0.0.0 user.headlines.pw
 0.0.0.0 user.lucidmedia.com
 0.0.0.0 user.pariurix.com

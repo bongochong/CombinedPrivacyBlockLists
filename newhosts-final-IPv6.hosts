@@ -18,7 +18,7 @@ ff02::2 ip6-allrouters
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 10/04/21~20:22:59 -~
+# ~- 10/04/21~21:38:16 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -41,7 +41,6 @@ ff02::2 ip6-allrouters
 :: 00-gov.cn
 :: 000.gaysexe.free.fr
 :: 000007.ru
-:: 0001.2waky.com
 :: 0001.best
 :: 000free.us
 :: 000tristanprod.free.fr
@@ -89684,6 +89683,7 @@ ff02::2 ip6-allrouters
 :: ums.adtechus.com
 :: umtrack.com
 :: umtzwr.adidas.co.kr
+:: umwatson.events.data.microsoft.com
 :: umwatsonc.events.data.microsoft.com
 :: umwiba.com
 :: umyetor.ru
@@ -90387,7 +90387,6 @@ ff02::2 ip6-allrouters
 :: user-shield-check.com
 :: user-stats.rbl.ms
 :: user-sync.adhese.com
-:: user.fileserver.co.kr
 :: user.headlines.pw
 :: user.lucidmedia.com
 :: user.pariurix.com
