@@ -22483,7 +22483,6 @@
 0.0.0.0 www.11-15.net
 0.0.0.0 www.12.com
 0.0.0.0 www.121phonesex.co.uk
-0.0.0.0 www.123-tracker.com
 0.0.0.0 www.123any.com
 0.0.0.0 www.123cha.com
 0.0.0.0 www.123count.com
@@ -22588,7 +22587,6 @@
 0.0.0.0 www.4beast.com
 0.0.0.0 www.4biogas.de
 0.0.0.0 www.4bqs.com
-0.0.0.0 www.4chan-ads.org
 0.0.0.0 www.4cock.com
 0.0.0.0 www.4ever.cc
 0.0.0.0 www.4girlss.com

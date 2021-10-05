@@ -1,4 +1,4 @@
-# Tue Oct  5 09:43:37 PM UTC 2021
+# Tue Oct  5 10:09:32 PM UTC 2021
 # EasyList Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 00-gov.cn
 0.0.0.0 0024aaaa.com
@@ -2233,6 +2233,7 @@
 0.0.0.0 absalomgunne.com
 0.0.0.0 abserv123.com
 0.0.0.0 absinfo.eagle.org
+0.0.0.0 absolutionbravery.com
 0.0.0.0 absorbinginject.com
 0.0.0.0 abstinencecalculation.com
 0.0.0.0 abstractedauthority.com
@@ -9417,6 +9418,7 @@
 0.0.0.0 dhb8psqhvz9a.com
 0.0.0.0 dhboldoduti.com
 0.0.0.0 dhdgkj.com
+0.0.0.0 dhilyjdw.com
 0.0.0.0 dhipc.cn
 0.0.0.0 dhkwxpzgvqgr.com
 0.0.0.0 dhlamp.addmore.co.kr
@@ -9593,6 +9595,7 @@
 0.0.0.0 disarrayanticipatedversion.com
 0.0.0.0 disavowmigration.com
 0.0.0.0 disavowtwelve.com
+0.0.0.0 disbandcrumena.com
 0.0.0.0 disbeliefpersecutionnumbers.com
 0.0.0.0 disconnectedabsolutionjudged.com
 0.0.0.0 discoreafr.fun
@@ -10129,6 +10132,7 @@
 0.0.0.0 du4rq1xqh3i1k.cloudfront.net
 0.0.0.0 du9zgx.cn
 0.0.0.0 duagzscxqwejvk.com
+0.0.0.0 dualaaldime.cam
 0.0.0.0 dualizefriskin.com
 0.0.0.0 dualmarket.info
 0.0.0.0 duamilsyr.com
@@ -10936,6 +10940,7 @@
 0.0.0.0 emotificc.top
 0.0.0.0 emotionalballotneedlework.com
 0.0.0.0 emotionpiousconformity.com
+0.0.0.0 empirelayer.club
 0.0.0.0 empiremoney.com
 0.0.0.0 employdearestspatter.com
 0.0.0.0 empowerclemencyjoggle.com
@@ -12193,6 +12198,7 @@
 0.0.0.0 folderbunch.com
 0.0.0.0 foldupbriningjeanne.com
 0.0.0.0 folksattunewig.com
+0.0.0.0 followan.xyz
 0.0.0.0 followfact.com
 0.0.0.0 foloatoo.com
 0.0.0.0 fondledcarnose.casa
@@ -13151,6 +13157,7 @@
 0.0.0.0 gloriasouvenirtill.com
 0.0.0.0 glotchat.click
 0.0.0.0 gloumsee.net
+0.0.0.0 gloviphewhe.com
 0.0.0.0 glowdot.com
 0.0.0.0 glows.ru
 0.0.0.0 glpen08.com
@@ -17395,6 +17402,7 @@
 0.0.0.0 lflable.com
 0.0.0.0 lflili.com
 0.0.0.0 lflucky.com
+0.0.0.0 lfmfrsvguf.com
 0.0.0.0 lfmhcb.sefamerve.com
 0.0.0.0 lfsenmei.com
 0.0.0.0 lfstmedia.com
@@ -17817,6 +17825,7 @@
 0.0.0.0 ljjyqv.gametrade.jp
 0.0.0.0 ljlxy.cn
 0.0.0.0 ljmei.com
+0.0.0.0 ljrshdrbbmwae.xyz
 0.0.0.0 ljryik.bewithyou.jp
 0.0.0.0 ljteas.com
 0.0.0.0 lkcgvcdmc.com
@@ -22360,6 +22369,7 @@
 0.0.0.0 orisapple.top
 0.0.0.0 orkonavariet.biz
 0.0.0.0 ornament-i.com
+0.0.0.0 orninedin.club
 0.0.0.0 oroinc.actonservice.com
 0.0.0.0 oronoziparraguirre.com
 0.0.0.0 orozrpyxdigvwe.com
@@ -22807,6 +22817,7 @@
 0.0.0.0 pattentinevec.site
 0.0.0.0 paula-secundinus.com
 0.0.0.0 paulmercier.biz
+0.0.0.0 paurif.com
 0.0.0.0 pautina.mobi
 0.0.0.0 pauzajoo.net
 0.0.0.0 pavementinhumanabstain.com
@@ -23565,6 +23576,7 @@
 0.0.0.0 polluxnetwork.com
 0.0.0.0 polmontventures.com
 0.0.0.0 polobook.club
+0.0.0.0 poltarimus.com
 0.0.0.0 polyad.net
 0.0.0.0 polydarth.com
 0.0.0.0 pompeyperspire.com
@@ -24220,6 +24232,7 @@
 0.0.0.0 pulseonclick.com
 0.0.0.0 pumdfferpkin5hs454r43eeds.com
 0.0.0.0 pumpbead.com
+0.0.0.0 pumpkinneighbourpoet.com
 0.0.0.0 pumpmanamenage.casa
 0.0.0.0 pumtaimp.com
 0.0.0.0 punctualbuzzerleaflet.com
@@ -25444,6 +25457,7 @@
 0.0.0.0 roay.cn
 0.0.0.0 robberets.site
 0.0.0.0 robertsinclair.net
+0.0.0.0 robiaa.com
 0.0.0.0 robimobi.com
 0.0.0.0 robocat.me
 0.0.0.0 robotadserver.com
@@ -31381,6 +31395,7 @@
 0.0.0.0 toutiao.xn--fiqs8s
 0.0.0.0 toutiles.com
 0.0.0.0 tovarzona.ru
+0.0.0.0 towardadvised.com
 0.0.0.0 towboiledscallop.com
 0.0.0.0 towers-shield.com
 0.0.0.0 townsdatabasekidding.com
@@ -32959,6 +32974,7 @@
 0.0.0.0 utteredhandicappedsomebody.com
 0.0.0.0 utteroccupied.com
 0.0.0.0 utubeconverter.com
+0.0.0.0 utxdtismojqk.xyz
 0.0.0.0 uu1.3gu.com
 0.0.0.0 uu7ey6.cn
 0.0.0.0 uuaajohul.com
@@ -33532,6 +33548,7 @@
 0.0.0.0 vst4mid.com
 0.0.0.0 vst5mid.com
 0.0.0.0 vst6mid.com
+0.0.0.0 vst7mid.com
 0.0.0.0 vstaner.com
 0.0.0.0 vsteepo.com
 0.0.0.0 vstet.com
