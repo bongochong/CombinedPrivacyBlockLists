@@ -1,4 +1,4 @@
-// **** Tue Oct  5 10:12:50 PM UTC 2021
+// **** Wed Oct  6 08:56:36 PM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -2059,7 +2059,6 @@ shExpMatch(host, '*.apkusa.com') ||
 shExpMatch(host, '*.apollo-us.com') ||
 shExpMatch(host, '*.apolloniadentalllc.com') ||
 shExpMatch(host, '*.apolloprogram.io') ||
-shExpMatch(host, '*.app-ab33.marketo.com') ||
 shExpMatch(host, '*.app-analytics.snapchat.com') ||
 shExpMatch(host, '*.app-cheats.net') ||
 shExpMatch(host, '*.app-hack.com') ||
@@ -19667,7 +19666,6 @@ shExpMatch(host, 'apkusa.com') ||
 shExpMatch(host, 'apollo-us.com') ||
 shExpMatch(host, 'apolloniadentalllc.com') ||
 shExpMatch(host, 'apolloprogram.io') ||
-shExpMatch(host, 'app-ab33.marketo.com') ||
 shExpMatch(host, 'app-analytics.snapchat.com') ||
 shExpMatch(host, 'app-cheats.net') ||
 shExpMatch(host, 'app-hack.com') ||
