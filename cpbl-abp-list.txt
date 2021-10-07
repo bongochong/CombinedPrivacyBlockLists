@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Thu Oct  7 08:40:52 PM UTC 2021
+! Updated: Thu Oct  7 10:13:29 PM UTC 2021
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -15594,7 +15594,6 @@
 ||bgjiihhebcbjhfdaiba.ru^
 ||bgkecb.com^
 ||bgmtracker.com^
-||bgpaio75egqvqigekt5bqfppzgth72r22f7vhm6xolzqd6ohroxs7pqd.onion^
 ||bgpng.me^
 ||bgrndi.com^
 ||bgtgag.com^
@@ -42540,7 +42539,6 @@
 ||jqueryserve.org^
 ||jqueryserver.com^
 ||jqyde7msbro2.com^
-||jr2jjfxgklthlxh63cz3ajdvh7cj6boz3c3fbhriklk7yip4ce4vzsyd.onion^
 ||jraasj.kobo.com^
 ||jragrau.in^
 ||jrcompanyhack.com^
@@ -61537,7 +61535,6 @@
 ||rcforme.biz^
 ||rcgi.video.qq.com^
 ||rcheli.fh.net.nz^
-||rcjndzwubq5zbay5xoqk4dnc23gr4ifseqqsmbw5soogye6yysc7nkyd.onion^
 ||rcm-images.amazon.com^
 ||rcm-jp.amazon.co.jp^
 ||rcm.amazon.com^
@@ -78957,7 +78954,6 @@
 ||uomo-shopping.com^
 ||uopmcdnpad.com^
 ||uoredi.com^
-||uovyniuak3w4d3yzs4z4hfgx2qa6l2u6cx4wqsje4pmnmygc6vfddwqd.onion^
 ||uoyrsd.com^
 ||up-cookiemon.wavecdn.net^
 ||up-date.to^
@@ -79351,7 +79347,6 @@
 ||utarget.ru^
 ||utazwa.com^
 ||utctime.tiltingpoint.io^
-||utehaltd.tk^
 ||utenod.com^
 ||utexas.actonservice.com^
 ||utherverse.com^
@@ -79430,7 +79425,6 @@
 ||uvzrtq.livingspaces.com^
 ||uw88vnd.com^
 ||uw88vnd1.com^
-||uwadiuto.com^
 ||uwams.info^
 ||uwdtibwk.com^
 ||uwhevh.canvasfreaks.com^
@@ -79440,7 +79434,6 @@
 ||uwuyn.us^
 ||uwy4.aegon.es^
 ||uxkurx.sportsmansguide.com^
-||uxmaie.com^
 ||uxowypikexhz.com^
 ||uxqt.co.cc^
 ||uxrjdh.com^
@@ -79468,10 +79461,7 @@
 ||uzmdfi.com^
 ||uznai-pravdu-ru.1gb.ru^
 ||uznbehyrn.com^
-||uzoclouds.eu^
-||uzocoms.eu^
 ||uzohacks.com^
-||uzojesse.top^
 ||uzotarak.com^
 ||uzozagug.xyz^
 ||uzpmrbek.com^
@@ -79590,17 +79580,14 @@
 ||vaipsona.com^
 ||vaipsouw.com^
 ||vaivaishemeshinda.ml^
-||vajityu.club^
 ||vak345.com^
 ||vakafaro.com^
 ||vakantiefoto.mobi^
 ||vakataro.com^
 ||vaksanaindia.net^
 ||valartina.hu^
-||valchenco.ru^
 ||valdez.pw^
 ||valencaagora.com.br^
-||valerana44.ru^
 ||valerie.forbes.com^
 ||valerie.lon2.spotify.com^
 ||validacion-aumento-cupo.cf^
@@ -79685,7 +79672,6 @@
 ||vashoaft.net^
 ||vashoot.com^
 ||vasinvestment.tk^
-||vaslbntr.ru^
 ||vassterboost.com^
 ||vasstycom.com^
 ||vast.alloha.tv^
@@ -79709,7 +79695,6 @@
 ||vavagov.ru^
 ||vawhigufi.com^
 ||vax-now.com^
-||vaxeiayas.mobi^
 ||vaxeta.ru^
 ||vazhikaatti.com^
 ||vazulp.graniph.com^
@@ -79739,7 +79724,6 @@
 ||vbucksbooster.pro^
 ||vbucksepic.com^
 ||vbucksmillionaire.com^
-||vbux.ir^
 ||vbzbb-naagz.ru^
 ||vc-business.com^
 ||vc370.com^
@@ -79747,7 +79731,6 @@
 ||vcardsdkservice.vivo.com.cn^
 ||vcdc.com^
 ||vcdnc.com^
-||vcfs6ip5h6.bid^
 ||vcgyhvgkcknlx.bid^
 ||vch.voyage-prive.ch^
 ||vchim.com^
@@ -79774,7 +79757,6 @@
 ||vdos-s.com^
 ||vdrebz.kathmandu.com.au^
 ||vdrn.redplum.com^
-||vds2018.space^
 ||vdwlf.net^
 ||vdzpnx.gnc.com.mx^
 ||ve.kj-cy.cn^
@@ -79789,7 +79771,6 @@
 ||vederefilm.net^
 ||vedety.ru^
 ||veduy.com^
-||vedyshiy-na-svadby.ru^
 ||vedznh.cumhuriyet.com.tr^
 ||veesboost.com^
 ||veevu.tourstogo.us^
@@ -79800,7 +79781,6 @@
 ||vehemenceclung.com^
 ||veille-referencement.com^
 ||veinteractive.com^
-||veisturbharbo.com^
 ||vektro.asia^
 ||velaro.com^
 ||velcome-club.com^
@@ -79836,7 +79816,6 @@
 ||vente2000.com^
 ||ventergy.com^
 ||ventilatorvisitedgrain.com^
-||ventillos.ug^
 ||ventite.com^
 ||ventivmedia.com^
 ||ventrequmus.com^
@@ -79846,7 +79825,6 @@
 ||venuschicago.com^
 ||venusgloria.com^
 ||venuspo.icu^
-||venzatechi.online^
 ||veosfi.woonexpress.nl^
 ||veoxa.com^
 ||vepxl1.net^
@@ -79910,7 +79888,6 @@
 ||verotezzz.com^
 ||veroui.com^
 ||verred.net^
-||verresof.com^
 ||versahq.com^
 ||verseballs.com^
 ||versetime.com^
@@ -80042,7 +80019,6 @@
 ||vid-io.springserve.net^
 ||vid.me^
 ||vidalak.com^
-||vidardeep4.icu^
 ||vidasys.ru^
 ||vidaugust.ru^
 ||vidcdn.info^
@@ -80197,7 +80173,6 @@
 ||view4cash.de^
 ||viewablemedia.net^
 ||viewar.org^
-||viewbot4lyfe.info^
 ||viewclc.com^
 ||viewerstats.docstoc.com.s3.amazonaws.com^
 ||viewfile.org^
@@ -80255,7 +80230,6 @@
 ||vimuw.ru^
 ||vimvio.ru^
 ||vinaads.vn^
-||vinaprio.com^
 ||vincakrdzalosimasmoxvdes.ga^
 ||vindicosuite.com^
 ||vindictushack.us^
@@ -80288,9 +80262,7 @@
 ||vip-traffic.com^
 ||vip-vip-vup.com^
 ||vip-websc.org^
-||vip-xost.ru^
 ||vip.adpiano.com^
-||vip.cfcnet.top^
 ||vip.gophersport.com^
 ||vip.ludu319.com^
 ||vip.min1319.com^
@@ -80351,7 +80323,6 @@
 ||virgul.com^
 ||viridis.lon2.spotify.com^
 ||virnews.club^
-||virontonic.com^
 ||virool.com^
 ||virpropcnow.xyz^
 ||virsalor.xyz^
@@ -80390,8 +80361,6 @@
 ||visilabs.com^
 ||visilabs.net^
 ||visiohelp.ru^
-||vision2030.cf^
-||vision2030.tk^
 ||visioncriticalpanels.com^
 ||visionfiles.com^
 ||visionsage.com^
@@ -80465,7 +80434,6 @@
 ||vitha.csheaven.com^
 ||vitos.freezfiles.ru^
 ||vitr.alawar.ru^
-||vitrexa.com^
 ||vitrine.sup.com^
 ||viu.actonservice.com^
 ||viva-vanna.ru^
@@ -80504,7 +80472,6 @@
 ||vjmqdx.nozhikov.ru^
 ||vjptye.cn^
 ||vjro.biacap.com^
-||vjvcnbhscv.ru^
 ||vk-traf.ru^
 ||vk77lnizckm6.com^
 ||vkafirac.com^
@@ -80539,8 +80506,6 @@
 ||vltwox7zl7h1wv.com^
 ||vm.timeinabottle.pw^
 ||vm5apis.com^
-||vman22.com^
-||vman23.com^
 ||vmay.com^
 ||vmblock.net^
 ||vmctzaxkc.com^
@@ -80594,7 +80559,6 @@
 ||vocational-age.000webhostapp.com^
 ||vocationethelsky.com^
 ||vocfhq.ilgiardinodeilibri.it^
-||vocupotusyz.eu^
 ||vod.dgcaili.com^
 ||vodafone-direkt.de^
 ||vodkahack.com^
@@ -80647,7 +80611,6 @@
 ||vomoko.ru^
 ||vongomedia.ru^
 ||vongquaymienphi.net^
-||vonty.best^
 ||voob.ru^
 ||voocl.com^
 ||voodoo-ads.io^
@@ -80659,7 +80622,6 @@
 ||voordeel.ad.nl^
 ||vooshagy.net^
 ||vop-tracking-vpc-1741893498.us-east-1.elb.amazonaws.com^
-||vopycyfutoc.eu^
 ||voqboard.ru^
 ||voqonea.ru^
 ||vor.cc^
@@ -80668,7 +80630,6 @@
 ||voredi.com^
 ||vorgazme.date^
 ||vorinteon.ru^
-||vorkutasport.ru^
 ||vornz.com^
 ||voronezh-pet.ru^
 ||voronezh136.ru^
@@ -80762,10 +80723,7 @@
 ||vqr3jeu1qi41.com^
 ||vqvm656stem.com^
 ||vra4.com^
-||vradujnom.ru^
 ||vrdu.zarkada.ru^
-||vreau-relatie.eu^
-||vregbqeg.com^
 ||vrewpywootyu.com^
 ||vrhorus.com^
 ||vriwjpzvh.com^
@@ -80782,7 +80740,6 @@
 ||vry9.destinia.com^
 ||vrzgn.com^
 ||vrzmfy.fool.com^
-||vs-clab.ru^
 ||vs.asianave.com^
 ||vs.blackplanet.com^
 ||vs.tucows.com^
@@ -80890,7 +80847,6 @@
 ||vural-electronic.com^
 ||vurobyde.xyz^
 ||vurud.ru^
-||vuryua.ru^
 ||vutatik.ru^
 ||vutera.ru^
 ||vuthanhluan.com^
@@ -80924,7 +80880,6 @@
 ||vwonwkaqvq-a.global.ssl.fastly.net^
 ||vwrgru.happymail.co.jp^
 ||vwuyuahqf.com^
-||vwxqv.xyz^
 ||vx88.com^
 ||vx88e.com^
 ||vxcjoz.nextadvisor.com^
@@ -85031,6 +84986,7 @@
 ||yabeme.ru^
 ||yabo168.cc^
 ||yaboshadi.com^
+||yabuka.com^
 ||yaccidedap.top^
 ||yachtpreceding.com^
 ||yad.pandafilms.best^
