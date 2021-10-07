@@ -1,4 +1,4 @@
-# Wed Oct  6 08:46:27 PM UTC 2021
+# Thu Oct  7 06:17:54 PM UTC 2021
 # AdGuard Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 00-gov.cn
 0.0.0.0 0024aaaa.com
@@ -837,6 +837,7 @@
 0.0.0.0 6789.run
 0.0.0.0 67frzna9e9.com
 0.0.0.0 68665565.com
+0.0.0.0 686go.cc
 0.0.0.0 68710266.com
 0.0.0.0 688de7b3822de.com
 0.0.0.0 68d0d5e26bb0ae.com
@@ -4785,7 +4786,6 @@
 0.0.0.0 ayswrotesre.club
 0.0.0.0 ayun.ltd
 0.0.0.0 ayyubidgconv.casa
-0.0.0.0 az416426.vo.msecnd.net
 0.0.0.0 azads.com
 0.0.0.0 aze0.dmp.leclerc
 0.0.0.0 azeriondigital.com
@@ -6646,6 +6646,7 @@
 0.0.0.0 cawsspjzhtgz.com
 0.0.0.0 cb.baidu.com
 0.0.0.0 cb.ksmobile.com
+0.0.0.0 cb2d4d0a03.ce3fbb6bac.com
 0.0.0.0 cb8717377086c72d.com
 0.0.0.0 cba-fed-igh.com
 0.0.0.0 cbcca.hb.omtrdc.net
@@ -6687,6 +6688,7 @@
 0.0.0.0 ccbjournal.actonservice.com
 0.0.0.0 ccc1063d848b.com
 0.0.0.0 cccccd.com
+0.0.0.0 cccfw.vip
 0.0.0.0 ccd8450321.com
 0.0.0.0 ccdgav.com
 0.0.0.0 ccdnqxu.com
@@ -12139,6 +12141,7 @@
 0.0.0.0 fenggejiaju.com
 0.0.0.0 fengmishop.cn
 0.0.0.0 fengousm.com
+0.0.0.0 fengspw.xyz
 0.0.0.0 fenhao14.com
 0.0.0.0 fenixm.com
 0.0.0.0 fenrunwayradiant.com
@@ -16727,7 +16730,6 @@
 0.0.0.0 kindlyfeebleremembered.com
 0.0.0.0 kindnessmarshalping.com
 0.0.0.0 kindredplc.com
-0.0.0.0 kinesis.us-east-1.amazonaws.com
 0.0.0.0 kingads.mobi
 0.0.0.0 kingalkylbe.fun
 0.0.0.0 kingithinref.club
@@ -16776,6 +16778,7 @@
 0.0.0.0 kjgen.com
 0.0.0.0 kjhfy.com
 0.0.0.0 kjiztu.reebok.ru
+0.0.0.0 kjjzx.cn
 0.0.0.0 kjkhgtwft.com
 0.0.0.0 kjkwrmwdyhi.com
 0.0.0.0 kju369.cn
@@ -20470,6 +20473,7 @@
 0.0.0.0 moritava.com
 0.0.0.0 mormont.gamer-network.net
 0.0.0.0 morningsophisticatedcenter.com
+0.0.0.0 moronsquacco.com
 0.0.0.0 morphonebrities.info
 0.0.0.0 mortalunacceptable.com
 0.0.0.0 mortantameron.club

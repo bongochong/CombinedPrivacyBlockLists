@@ -6874,6 +6874,7 @@
 0.0.0.0 apiadapter.ad5track.com
 0.0.0.0 apiconfig.adwo.com
 0.0.0.0 apiinformationsec.com
+0.0.0.0 apilond.com
 0.0.0.0 apis.adbro.me
 0.0.0.0 apk.adflex.vn
 0.0.0.0 apkauto.xyz
@@ -8571,7 +8572,6 @@
 0.0.0.0 cf04.kanade-ad.net
 0.0.0.0 cfcdist.gdn
 0.0.0.0 cfg.adsmogo.com
-0.0.0.0 cfmkrs.com
 0.0.0.0 cfr.112.2o7.net
 0.0.0.0 cg.yourcube.ir
 0.0.0.0 cgi.dubkill.com
@@ -8670,7 +8670,6 @@
 0.0.0.0 chithra629.site
 0.0.0.0 chokun.ru
 0.0.0.0 chonametrix.bounceme.net
-0.0.0.0 chouchouweb.publicvm.com
 0.0.0.0 chrandinc.com
 0.0.0.0 chris-gcp.logrocket.io
 0.0.0.0 christianbroadcastne.tt.omtrdc.net
@@ -9592,6 +9591,7 @@
 0.0.0.0 ctvtsgtv.112.2o7.net
 0.0.0.0 ctx.adsafety.net
 0.0.0.0 cu44307.tmweb.ru
+0.0.0.0 cu85891.tmweb.ru
 0.0.0.0 cubchannel.com
 0.0.0.0 cuezo.tk
 0.0.0.0 culturedcrayon.com
@@ -11429,6 +11429,7 @@
 0.0.0.0 foxidol.112.2o7.net
 0.0.0.0 foxinteractivemedia.122.2o7.net
 0.0.0.0 foxload.com
+0.0.0.0 foxmods.xyz
 0.0.0.0 foxnews.tt.omtrdc.net
 0.0.0.0 foxnewsmeta.biz
 0.0.0.0 foxofewuteq.eu
@@ -14591,7 +14592,6 @@
 0.0.0.0 maikiki.com
 0.0.0.0 mail-ads.google.com
 0.0.0.0 mail-bounce.com
-0.0.0.0 mail-cdn-126.com
 0.0.0.0 mail-tools.info
 0.0.0.0 mailadvert19.world
 0.0.0.0 mailadvert917dx.world
@@ -15777,6 +15777,7 @@
 0.0.0.0 nerohut.com
 0.0.0.0 neroolive.org
 0.0.0.0 nervoussummer.com
+0.0.0.0 nestlex.tk
 0.0.0.0 nestp11.com
 0.0.0.0 net-ad-vantage.com
 0.0.0.0 netads.hotwired.com
@@ -16516,6 +16517,7 @@
 0.0.0.0 panellogs.ml
 0.0.0.0 panelsave.com
 0.0.0.0 pangolinminer.com
+0.0.0.0 panic-struck-sand.000webhostapp.com
 0.0.0.0 panoramicbutter.com
 0.0.0.0 papoto.com
 0.0.0.0 parade.122.2o7.net
@@ -17005,6 +17007,7 @@
 0.0.0.0 posterminalworld.la
 0.0.0.0 postgazettecollect.247realmedia.com
 0.0.0.0 postmedia.sc.omtrdc.net
+0.0.0.0 postsupport.net
 0.0.0.0 potamitis.gr
 0.0.0.0 potedly.co
 0.0.0.0 potoflogz.tk
@@ -17086,6 +17089,7 @@
 0.0.0.0 preview.ad.daum.net
 0.0.0.0 previousplayground.com
 0.0.0.0 previouspotato.com
+0.0.0.0 prg.amikon.cz
 0.0.0.0 prg.smartadserver.com
 0.0.0.0 pridesource.advertserve.com
 0.0.0.0 primead.jp
@@ -17102,7 +17106,6 @@
 0.0.0.0 prism.pandora.tv
 0.0.0.0 priv112.com
 0.0.0.0 privacmytools.site
-0.0.0.0 privacy-toolz-for-you-502.top
 0.0.0.0 privacy-toolz-for-you-503.top
 0.0.0.0 privacy.yieldlove-ad-serving.net
 0.0.0.0 privacytools.xyz
@@ -17467,6 +17470,7 @@
 0.0.0.0 ranking.infocart.jp
 0.0.0.0 ranking.kuruten.jp
 0.0.0.0 ranklet.come.cc
+0.0.0.0 rapidantivirus.com
 0.0.0.0 rapidkittens.com
 0.0.0.0 rapport.lcto.lu
 0.0.0.0 rar740.xyz
@@ -18343,6 +18347,7 @@
 0.0.0.0 securepay.cm
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 secureserverftp.xyz
+0.0.0.0 securesystemguide.com
 0.0.0.0 securetopdevelopment.kz
 0.0.0.0 securitydefender.xyz
 0.0.0.0 sediliny.info
@@ -18592,6 +18597,7 @@
 0.0.0.0 services1.adtech.de
 0.0.0.0 services1.adtech.fr
 0.0.0.0 services1.adtech.us
+0.0.0.0 servicesdrtviceshjgugjgufjfiffjfufjffjfjfjfjfjfjfjjdhgd.azurewebsites.net
 0.0.0.0 servicess.online
 0.0.0.0 servicio-de-avance-cl.cf
 0.0.0.0 servicio-de-avance-cl.gq
@@ -19069,9 +19075,6 @@
 0.0.0.0 spyinfo.ir
 0.0.0.0 sqm.df.telemetry.microsoft.com
 0.0.0.0 sqm.telemetry.microsoft.com
-0.0.0.0 squadlegion.crabdance.com
-0.0.0.0 squadlegion.ddns.net
-0.0.0.0 squadlegion.kozow.com
 0.0.0.0 squashfriction.com
 0.0.0.0 squeakzinc.com
 0.0.0.0 squirrelhands.com
@@ -19362,6 +19365,7 @@
 0.0.0.0 statsp.fpop.net
 0.0.0.0 statuesquebrush.com
 0.0.0.0 status.addthis.com
+0.0.0.0 statusupdate.one
 0.0.0.0 stay-notified.live
 0.0.0.0 stc.adtima.vn
 0.0.0.0 stcinet.com
@@ -19416,7 +19420,6 @@
 0.0.0.0 storageplay.net
 0.0.0.0 store-downloads.com
 0.0.0.0 store.nvprivateoffice.com
-0.0.0.0 store2.gofile.io
 0.0.0.0 storecor.net
 0.0.0.0 storemkg.com.pl
 0.0.0.0 storemkg.net.pl
@@ -19857,7 +19860,6 @@
 0.0.0.0 tempttalk.com
 0.0.0.0 tenant-content.apm.appfolio-analytics.com
 0.0.0.0 tendertest.com
-0.0.0.0 tenita.xyz
 0.0.0.0 tenmax-static.cacafly.net
 0.0.0.0 tennysondonehue.com
 0.0.0.0 teracycle.net
@@ -21147,6 +21149,7 @@
 0.0.0.0 tracklab.club
 0.0.0.0 tracklead.net
 0.0.0.0 tracklog.58.com
+0.0.0.0 tracklyfast.com
 0.0.0.0 trackmail3345.com
 0.0.0.0 trackmethod.com
 0.0.0.0 trackmstr.com
@@ -21448,6 +21451,7 @@
 0.0.0.0 uk.cqcounter.com
 0.0.0.0 uk.doubleclick.net
 0.0.0.0 uk4.hit.stat24.com
+0.0.0.0 ukcertcouncil.co.uk
 0.0.0.0 ukmarket.su
 0.0.0.0 ukr1.net
 0.0.0.0 ukrfreshnews.com
@@ -21701,7 +21705,6 @@
 0.0.0.0 v3-ads-st-vcdn.anthill.vn
 0.0.0.0 v3.stat.ku6.com
 0.0.0.0 v7.stats.load.com
-0.0.0.0 v749300.hosted-by-vdsina.ru
 0.0.0.0 v7event.stats.avast.com
 0.0.0.0 v8.analytics.pinsightmedia.com
 0.0.0.0 v99ay4wuo.ru
@@ -24424,7 +24427,6 @@
 0.0.0.0 www.ga-analytics.com
 0.0.0.0 www.game-advertising-online.com
 0.0.0.0 www.gamefeat.net
-0.0.0.0 www.generaltracking.de
 0.0.0.0 www.geniusonclick.com
 0.0.0.0 www.getmyads24.com
 0.0.0.0 www.gigaonclick.com
@@ -24447,7 +24449,6 @@
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.googletagservices.com
-0.0.0.0 www.googletraveladservices.com
 0.0.0.0 www.gotwebsite1.com
 0.0.0.0 www.grabraeuber.de
 0.0.0.0 www.gracecore.com
@@ -24580,7 +24581,6 @@
 0.0.0.0 www.lucretius-ada.com
 0.0.0.0 www.ma-static.ru
 0.0.0.0 www.mad-adz.com
-0.0.0.0 www.madvertise.com
 0.0.0.0 www.magento-analytics.com
 0.0.0.0 www.maincert.com
 0.0.0.0 www.manga-news.com
@@ -25247,6 +25247,7 @@
 0.0.0.0 yt-adp.nosdn.127.net
 0.0.0.0 yt-adp.ws.126.net
 0.0.0.0 yt.moatads.com
+0.0.0.0 ytbgamer.space
 0.0.0.0 yts.moatads.com
 0.0.0.0 ytvpaid.adxoo.com
 0.0.0.0 yual.top
@@ -25332,8 +25333,6 @@
 0.0.0.0 zerstoren.pro
 0.0.0.0 zerx-virus.biz
 0.0.0.0 zesis.info
-0.0.0.0 zetlegion.crabdance.com
-0.0.0.0 zetlegion.kozow.com
 0.0.0.0 zeus.ad.xiaomi.com
 0.0.0.0 zgnuo.com
 0.0.0.0 zhaobin.byc.580.bydj2019.com

@@ -1,4 +1,4 @@
-# Wed Oct  6 08:46:11 PM UTC 2021
+# Thu Oct  7 06:17:38 PM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -46,7 +46,6 @@
 0.0.0.0 20766699p.rfihub.com
 0.0.0.0 22006.engine.mobileapptracking.com
 0.0.0.0 2240.content.swrve.com
-0.0.0.0 23.77.251.5 image.mail.onedrive.com
 0.0.0.0 2359.api.swrve.com
 0.0.0.0 2359.content.swrve.com
 0.0.0.0 2405.api.swrve.com
