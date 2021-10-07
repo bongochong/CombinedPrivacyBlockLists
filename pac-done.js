@@ -1,4 +1,4 @@
-// **** Thu Oct  7 06:29:15 PM UTC 2021
+// **** Thu Oct  7 07:29:00 PM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -17301,7 +17301,6 @@ shExpMatch(host, '*.ya-googl.ws') ||
 shExpMatch(host, '*.ya-toptal-tvoyu-dushu.com') ||
 shExpMatch(host, '*.yab-adimages.s3.amazonaws.com') ||
 shExpMatch(host, '*.yabeme.ru') ||
-shExpMatch(host, '*.yabuka.com') ||
 shExpMatch(host, '*.yadr0.com') ||
 shExpMatch(host, '*.yadro.ru') ||
 shExpMatch(host, '*.yahacker.viphacks.net') ||
@@ -34908,7 +34907,6 @@ shExpMatch(host, 'ya-googl.ws') ||
 shExpMatch(host, 'ya-toptal-tvoyu-dushu.com') ||
 shExpMatch(host, 'yab-adimages.s3.amazonaws.com') ||
 shExpMatch(host, 'yabeme.ru') ||
-shExpMatch(host, 'yabuka.com') ||
 shExpMatch(host, 'yadr0.com') ||
 shExpMatch(host, 'yadro.ru') ||
 shExpMatch(host, 'yahacker.viphacks.net') ||
