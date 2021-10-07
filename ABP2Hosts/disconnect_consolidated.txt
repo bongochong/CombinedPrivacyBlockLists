@@ -1,4 +1,4 @@
-# Thu Oct  7 07:25:08 PM UTC 2021
+# Thu Oct  7 09:54:59 PM UTC 2021
 # Disconnect Consolidated Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -2702,6 +2702,7 @@
 0.0.0.0 xy7elite.com
 0.0.0.0 y.ibsys.com
 0.0.0.0 yab-adimages.s3.amazonaws.com
+0.0.0.0 yabuka.com
 0.0.0.0 yadro.ru
 0.0.0.0 ybrantdigital.com
 0.0.0.0 ydworld.com
