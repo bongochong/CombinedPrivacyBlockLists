@@ -1,4 +1,4 @@
-// **** Thu Oct  7 10:02:01 PM UTC 2021
+// **** Mon Oct 11 05:47:15 AM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -15,6 +15,7 @@ shExpMatch(host, '*.0fees.net') ||
 shExpMatch(host, '*.0hacks.com') ||
 shExpMatch(host, '*.0koryu0.easter.ne.jp') ||
 shExpMatch(host, '*.0pencase.com') ||
+shExpMatch(host, '*.1-1ads.com') ||
 shExpMatch(host, '*.1-verygoods.ru') ||
 shExpMatch(host, '*.1.pandawamovie.com') ||
 shExpMatch(host, '*.100-escorts.com') ||
@@ -1105,7 +1106,6 @@ shExpMatch(host, '*.ads.mediasmart.es') ||
 shExpMatch(host, '*.ads.mediaturf.net') ||
 shExpMatch(host, '*.ads.medienhaus.de') ||
 shExpMatch(host, '*.ads.meetcelebs.com') ||
-shExpMatch(host, '*.ads.metaplug.com') ||
 shExpMatch(host, '*.ads.mgnetwork.com') ||
 shExpMatch(host, '*.ads.miarroba.com') ||
 shExpMatch(host, '*.ads.mic.com') ||
@@ -3672,7 +3672,6 @@ shExpMatch(host, '*.cipayroll.com') ||
 shExpMatch(host, '*.cipta.net') ||
 shExpMatch(host, '*.cisay.cinemamovie.biz') ||
 shExpMatch(host, '*.ciscotred.cz.cc') ||
-shExpMatch(host, '*.cision.com') ||
 shExpMatch(host, '*.citagiva.ru') ||
 shExpMatch(host, '*.citiesoftomorrow.dlcodes.com') ||
 shExpMatch(host, '*.citrusad.net') ||
@@ -3806,6 +3805,7 @@ shExpMatch(host, '*.click.absoluteagency.com') ||
 shExpMatch(host, '*.click.airmalta-mail.com') ||
 shExpMatch(host, '*.click.bkdpt.com') ||
 shExpMatch(host, '*.click.cartsguru.io') ||
+shExpMatch(host, '*.click.cision.com') ||
 shExpMatch(host, '*.click.fool.com') ||
 shExpMatch(host, '*.click.kmindex.ru') ||
 shExpMatch(host, '*.click.lovltrzwzqeux.info') ||
@@ -4728,6 +4728,7 @@ shExpMatch(host, '*.cutecushion.com') ||
 shExpMatch(host, '*.cuteturkey.com') ||
 shExpMatch(host, '*.cutheatergroup.cn') ||
 shExpMatch(host, '*.cutin.ru') ||
+shExpMatch(host, '*.cutt.ly') ||
 shExpMatch(host, '*.cuwuk.ru') ||
 shExpMatch(host, '*.cweb.ws') ||
 shExpMatch(host, '*.cxense.com') ||
@@ -10414,6 +10415,7 @@ shExpMatch(host, '*.mah0ney.com') ||
 shExpMatch(host, '*.mahicardings.com') ||
 shExpMatch(host, '*.mahindrainsurance.com') ||
 shExpMatch(host, '*.mahiwal18.top') ||
+shExpMatch(host, '*.maifile.cn') ||
 shExpMatch(host, '*.maifrchsd.com') ||
 shExpMatch(host, '*.maikglockner.tk') ||
 shExpMatch(host, '*.mail-ads.google.com') ||
@@ -13781,7 +13783,6 @@ shExpMatch(host, '*.servicelaptop.eu') ||
 shExpMatch(host, '*.services.hearstmags.com') ||
 shExpMatch(host, '*.serving-sys.com') ||
 shExpMatch(host, '*.serving-tracking.com') ||
-shExpMatch(host, '*.servingmillions.com') ||
 shExpMatch(host, '*.sesaonpass.sharezips.info') ||
 shExpMatch(host, '*.sessioncam.com') ||
 shExpMatch(host, '*.sessionm.com') ||
@@ -17622,6 +17623,7 @@ shExpMatch(host, '0fees.net') ||
 shExpMatch(host, '0hacks.com') ||
 shExpMatch(host, '0koryu0.easter.ne.jp') ||
 shExpMatch(host, '0pencase.com') ||
+shExpMatch(host, '1-1ads.com') ||
 shExpMatch(host, '1-verygoods.ru') ||
 shExpMatch(host, '1.pandawamovie.com') ||
 shExpMatch(host, '100-escorts.com') ||
@@ -18712,7 +18714,6 @@ shExpMatch(host, 'ads.mediasmart.es') ||
 shExpMatch(host, 'ads.mediaturf.net') ||
 shExpMatch(host, 'ads.medienhaus.de') ||
 shExpMatch(host, 'ads.meetcelebs.com') ||
-shExpMatch(host, 'ads.metaplug.com') ||
 shExpMatch(host, 'ads.mgnetwork.com') ||
 shExpMatch(host, 'ads.miarroba.com') ||
 shExpMatch(host, 'ads.mic.com') ||
@@ -21279,7 +21280,6 @@ shExpMatch(host, 'cipayroll.com') ||
 shExpMatch(host, 'cipta.net') ||
 shExpMatch(host, 'cisay.cinemamovie.biz') ||
 shExpMatch(host, 'ciscotred.cz.cc') ||
-shExpMatch(host, 'cision.com') ||
 shExpMatch(host, 'citagiva.ru') ||
 shExpMatch(host, 'citiesoftomorrow.dlcodes.com') ||
 shExpMatch(host, 'citrusad.net') ||
@@ -21413,6 +21413,7 @@ shExpMatch(host, 'click.absoluteagency.com') ||
 shExpMatch(host, 'click.airmalta-mail.com') ||
 shExpMatch(host, 'click.bkdpt.com') ||
 shExpMatch(host, 'click.cartsguru.io') ||
+shExpMatch(host, 'click.cision.com') ||
 shExpMatch(host, 'click.fool.com') ||
 shExpMatch(host, 'click.kmindex.ru') ||
 shExpMatch(host, 'click.lovltrzwzqeux.info') ||
@@ -22335,6 +22336,7 @@ shExpMatch(host, 'cutecushion.com') ||
 shExpMatch(host, 'cuteturkey.com') ||
 shExpMatch(host, 'cutheatergroup.cn') ||
 shExpMatch(host, 'cutin.ru') ||
+shExpMatch(host, 'cutt.ly') ||
 shExpMatch(host, 'cuwuk.ru') ||
 shExpMatch(host, 'cweb.ws') ||
 shExpMatch(host, 'cxense.com') ||
@@ -28021,6 +28023,7 @@ shExpMatch(host, 'mah0ney.com') ||
 shExpMatch(host, 'mahicardings.com') ||
 shExpMatch(host, 'mahindrainsurance.com') ||
 shExpMatch(host, 'mahiwal18.top') ||
+shExpMatch(host, 'maifile.cn') ||
 shExpMatch(host, 'maifrchsd.com') ||
 shExpMatch(host, 'maikglockner.tk') ||
 shExpMatch(host, 'mail-ads.google.com') ||
@@ -31388,7 +31391,6 @@ shExpMatch(host, 'servicelaptop.eu') ||
 shExpMatch(host, 'services.hearstmags.com') ||
 shExpMatch(host, 'serving-sys.com') ||
 shExpMatch(host, 'serving-tracking.com') ||
-shExpMatch(host, 'servingmillions.com') ||
 shExpMatch(host, 'sesaonpass.sharezips.info') ||
 shExpMatch(host, 'sessioncam.com') ||
 shExpMatch(host, 'sessionm.com') ||
