@@ -34,6 +34,13 @@
 ^adblockplus.org$
 ^adguard.com$
 ^adj.st$
+^ads-admin.brave.com$
+^ads-admin.brave.software$
+^ads-admin.bravesoftware.com$
+^ads-serve.bravesoftware.com$
+^ads.brave.com$
+^ads.brave.software$
+^ads.bravesoftware.com$
 ^adtidy.org$
 ^ae01.alicdn.com$
 ^ajax.cloudflare.com$
@@ -425,6 +432,7 @@
 ^proxy.novafusion.ea.com$
 ^public.vilynx.com$
 ^publish0x.com$
+^publishers.basicattentiontoken.org$
 ^purch.com$
 ^pushbullet.com$
 ^rackcdn.com$
@@ -455,6 +463,7 @@
 ^sdk.privacy-center.org$
 ^sdup.update.360safe.com$
 ^sdx.xfinity.com$
+^search.brave.com$
 ^search.twitter.com$
 ^seccdn-gl.imrworldwide.com$
 ^secure-us.imrworldwide.com$
@@ -510,6 +519,7 @@
 ^t0.ssl.ak.dynamic.tiles.virtualearth.net$
 ^t0.ssl.ak.tiles.virtualearth.net$
 ^tags.tiqcdn.com$
+^talk.brave.com$
 ^td.demdex.net$
 ^telegraaf.nl$
 ^tenforums.com$
