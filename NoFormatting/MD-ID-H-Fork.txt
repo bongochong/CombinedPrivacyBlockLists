@@ -1358,7 +1358,6 @@
 0.0.0.0 gdpst.net
 0.0.0.0 gdzjco.com
 0.0.0.0 gdzotvetru.com
-0.0.0.0 ge.tt
 0.0.0.0 gearedunder.com
 0.0.0.0 gegwikaf.ru
 0.0.0.0 gen-ever.com
@@ -3397,7 +3396,6 @@
 0.0.0.0 usepetrol2earn.com
 0.0.0.0 username-search.com
 0.0.0.0 users.atw.hu
-0.0.0.0 users.telenet.be
 0.0.0.0 users173.lolipop.jp
 0.0.0.0 ustocn.com.cn
 0.0.0.0 uszyce.webd.pl
