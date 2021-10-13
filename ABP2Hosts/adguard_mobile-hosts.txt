@@ -1,4 +1,4 @@
-# Mon Oct 11 05:43:11 AM UTC 2021
+# Wed Oct 13 08:47:00 PM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -3085,6 +3085,7 @@
 0.0.0.0 cs.nex8.net
 0.0.0.0 cs.vdopia.com
 0.0.0.0 cs.yieldoptimizer.com
+0.0.0.0 cs02-pps-drcn.dbankcdn.com
 0.0.0.0 csm.as.criteo.net
 0.0.0.0 csm.da.us.criteo.net
 0.0.0.0 csm.da1.vip.prod.criteo.net
