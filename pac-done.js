@@ -1,4 +1,4 @@
-// **** Mon Oct 11 05:47:15 AM UTC 2021
+// **** Wed Oct 13 09:04:18 PM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -12921,6 +12921,7 @@ shExpMatch(host, '*.qq12300.com') ||
 shExpMatch(host, '*.qqperfect.com') ||
 shExpMatch(host, '*.qqskinsx.fun') ||
 shExpMatch(host, '*.qrg1c.us') ||
+shExpMatch(host, '*.qrlsx.com') ||
 shExpMatch(host, '*.qskin.pro') ||
 shExpMatch(host, '*.qsrmjfkfithk.findhere.org') ||
 shExpMatch(host, '*.quacksquirrel.com') ||
@@ -13594,6 +13595,7 @@ shExpMatch(host, '*.scan-5398.win') ||
 shExpMatch(host, '*.scans365.com') ||
 shExpMatch(host, '*.scanscout.com') ||
 shExpMatch(host, '*.scarcesign.com') ||
+shExpMatch(host, '*.scarfsmash.com') ||
 shExpMatch(host, '*.scarletphoenix.org') ||
 shExpMatch(host, '*.scars-acne.com') ||
 shExpMatch(host, '*.scatteredheat.com') ||
@@ -30529,6 +30531,7 @@ shExpMatch(host, 'qq12300.com') ||
 shExpMatch(host, 'qqperfect.com') ||
 shExpMatch(host, 'qqskinsx.fun') ||
 shExpMatch(host, 'qrg1c.us') ||
+shExpMatch(host, 'qrlsx.com') ||
 shExpMatch(host, 'qskin.pro') ||
 shExpMatch(host, 'qsrmjfkfithk.findhere.org') ||
 shExpMatch(host, 'quacksquirrel.com') ||
@@ -31202,6 +31205,7 @@ shExpMatch(host, 'scan-5398.win') ||
 shExpMatch(host, 'scans365.com') ||
 shExpMatch(host, 'scanscout.com') ||
 shExpMatch(host, 'scarcesign.com') ||
+shExpMatch(host, 'scarfsmash.com') ||
 shExpMatch(host, 'scarletphoenix.org') ||
 shExpMatch(host, 'scars-acne.com') ||
 shExpMatch(host, 'scatteredheat.com') ||
