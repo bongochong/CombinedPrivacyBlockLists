@@ -1,4 +1,4 @@
-# Thu Oct 14 09:04:43 PM UTC 2021
+# Thu Oct 14 09:12:52 PM UTC 2021
 # AdGuard DNS Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 00-gov.cn
 0.0.0.0 0001.best
@@ -8854,6 +8854,7 @@
 0.0.0.0 ckqby.com
 0.0.0.0 ckrf1.com
 0.0.0.0 ckseeknew.com
+0.0.0.0 ckwlurries.com
 0.0.0.0 cl-ad.x-flow.app
 0.0.0.0 cl-xny.cn
 0.0.0.0 cl.canva.com
@@ -26939,6 +26940,7 @@
 0.0.0.0 pop.dojo.cc
 0.0.0.0 pop.mrstiff.com
 0.0.0.0 pop.verplusonline.com
+0.0.0.0 pop.wioau.com
 0.0.0.0 pop5sjhspear.com
 0.0.0.0 popadon.com
 0.0.0.0 popads.media
@@ -30303,6 +30305,7 @@
 0.0.0.0 sculifinanthools.site
 0.0.0.0 sculptorshopfiend.com
 0.0.0.0 scupio.com
+0.0.0.0 scupio.net
 0.0.0.0 scvxgm.cn
 0.0.0.0 scw.systems
 0.0.0.0 scw0.com
@@ -32049,6 +32052,7 @@
 0.0.0.0 squirrelhands.com
 0.0.0.0 squirrelhissedintake.com
 0.0.0.0 squirrels.getsquirrel.co
+0.0.0.0 squozelewing.com
 0.0.0.0 sqyueda.com
 0.0.0.0 sra.moresophy.net
 0.0.0.0 sravniali.ru
