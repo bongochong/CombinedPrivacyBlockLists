@@ -1,4 +1,4 @@
-# Wed Oct 13 08:57:29 PM UTC 2021
+# Thu Oct 14 12:14:38 AM UTC 2021
 # AdGuard DNS Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 00-gov.cn
 0.0.0.0 0001.best
@@ -3826,7 +3826,6 @@
 0.0.0.0 affistats.com
 0.0.0.0 affiz.net
 0.0.0.0 afflat3a1.com
-0.0.0.0 afflow.18-plus.net
 0.0.0.0 affluencepaymentlandscape.com
 0.0.0.0 affplanet.com
 0.0.0.0 affpros.net
@@ -14940,7 +14939,6 @@
 0.0.0.0 frugalrushcap.com
 0.0.0.0 fruitablock.net
 0.0.0.0 fruitflan.com
-0.0.0.0 fruitice.realnetwrk.com
 0.0.0.0 fruitkings.com
 0.0.0.0 frustratingtabletaltered.com
 0.0.0.0 fruzrotula.com
@@ -17438,7 +17436,6 @@
 0.0.0.0 hospitality-optimizer.com
 0.0.0.0 hospitecor.top
 0.0.0.0 hospitecrew.club
-0.0.0.0 host.d-ns.ga
 0.0.0.0 host.pornolenta.cc
 0.0.0.0 host4media.com
 0.0.0.0 hostave.net
@@ -20552,7 +20549,6 @@
 0.0.0.0 lcmqyl.cn
 0.0.0.0 lcrmm.top
 0.0.0.0 lcrtltft.com
-0.0.0.0 lcs.livedoor.net
 0.0.0.0 lcs.loginfra.com
 0.0.0.0 lcs.modoo.at
 0.0.0.0 lcs.naver.com
@@ -26905,7 +26901,6 @@
 0.0.0.0 pompeyperspire.com
 0.0.0.0 pomposityretainerparish.com
 0.0.0.0 pomtiy.com
-0.0.0.0 pon.ewtuyytdf45.com
 0.0.0.0 ponchowafesargb.com
 0.0.0.0 ponderaura.com
 0.0.0.0 pondokiklan.com
@@ -36383,6 +36378,7 @@
 0.0.0.0 vadspremium.com
 0.0.0.0 vaebard.com
 0.0.0.0 vaedan.top
+0.0.0.0 vafbmmsda.com
 0.0.0.0 vagwyn.pw
 0.0.0.0 vahufapave.com
 0.0.0.0 vai1hqegr2ou.ru
@@ -36473,13 +36469,16 @@
 0.0.0.0 vc370.com
 0.0.0.0 vcdc.com
 0.0.0.0 vcdnc.com
+0.0.0.0 vcfs6ip5h6.bid
 0.0.0.0 vcgyhvgkcknlx.bid
 0.0.0.0 vch.voyage-prive.ch
 0.0.0.0 vchim.com
 0.0.0.0 vclick.vn
 0.0.0.0 vclicks.net
 0.0.0.0 vcmedia.com
+0.0.0.0 vcmrlwcafliaa.com
 0.0.0.0 vcommission.com
+0.0.0.0 vcpcvmfnocsfay.com
 0.0.0.0 vcslotoplay.com
 0.0.0.0 vdajk.com
 0.0.0.0 vdazz.net
@@ -36494,6 +36493,7 @@
 0.0.0.0 vdrn.redplum.com
 0.0.0.0 vdwlf.net
 0.0.0.0 ve.kj-cy.cn
+0.0.0.0 ve001nz.com
 0.0.0.0 veanumb.biz
 0.0.0.0 vebadu.com
 0.0.0.0 vecturequotes.com
@@ -36539,6 +36539,7 @@
 0.0.0.0 venturead.com
 0.0.0.0 venuegirtjive.com
 0.0.0.0 venusgloria.com
+0.0.0.0 veopvpgxcrt.com
 0.0.0.0 veoxa.com
 0.0.0.0 vepxl1.net
 0.0.0.0 ver-pelis.net
@@ -36595,19 +36596,24 @@
 0.0.0.0 vevatom.com
 0.0.0.0 vezetmne.ru
 0.0.0.0 vfbvcshnc.com
+0.0.0.0 vffvtxcykog.com
 0.0.0.0 vfghc.com
 0.0.0.0 vfl81ea28aztw7y3.pro
+0.0.0.0 vfmfjoknzndbee.com
 0.0.0.0 vfo.voyage-prive.co.uk
 0.0.0.0 vftbnl.com
 0.0.0.0 vfunls.com
 0.0.0.0 vfvdsati.com
 0.0.0.0 vg4u8rvq65t6.com
+0.0.0.0 vggxxhton.com
 0.0.0.0 vgimer.cn
 0.0.0.0 vgjackpot5.com
+0.0.0.0 vgkknrbzwfau.com
 0.0.0.0 vgo.vegaoo.de
 0.0.0.0 vgw35hwr4w6x.com
 0.0.0.0 vhajaja.pro
 0.0.0.0 vhiaxerjzbqi.com
+0.0.0.0 vhlduhrldc.com
 0.0.0.0 vhldwuv6om.com
 0.0.0.0 vhmnetwork.com
 0.0.0.0 vhpxa.top
@@ -36913,6 +36919,8 @@
 0.0.0.0 vizury.com
 0.0.0.0 vizzit.se
 0.0.0.0 vjcbm.com
+0.0.0.0 vjkjjhbi.com
+0.0.0.0 vjnpoelbrhd.com
 0.0.0.0 vjptye.cn
 0.0.0.0 vk77lnizckm6.com
 0.0.0.0 vkafirac.com
@@ -36920,6 +36928,7 @@
 0.0.0.0 vkcdnservice.appspot.com
 0.0.0.0 vkcdnservice.com
 0.0.0.0 vkekyx.com
+0.0.0.0 vkjmljhcdn.com
 0.0.0.0 vkkpv.com
 0.0.0.0 vklike.com
 0.0.0.0 vkmessage01.net
@@ -36928,6 +36937,8 @@
 0.0.0.0 vliplatform.com
 0.0.0.0 vlitag.com
 0.0.0.0 vlott88.com
+0.0.0.0 vloudsze.com
+0.0.0.0 vloxaloyfmdqxti.ru
 0.0.0.0 vlrzhoueyoxw.com
 0.0.0.0 vltwox7zl7h1wv.com
 0.0.0.0 vm.timeinabottle.pw
@@ -36953,11 +36964,13 @@
 0.0.0.0 vn88.club
 0.0.0.0 vn88.com
 0.0.0.0 vnacdnryl.com
+0.0.0.0 vnbugnmwq.com
 0.0.0.0 vnd247.vn
 0.0.0.0 vndbet88.com
 0.0.0.0 vngame66.com
 0.0.0.0 vngmbyij.cn
 0.0.0.0 vniwis.pro
+0.0.0.0 vnkevmoytft.com
 0.0.0.0 vnloto.com
 0.0.0.0 vnloto.vip
 0.0.0.0 vnnayngaytin.vn
@@ -36969,6 +36982,8 @@
 0.0.0.0 voaroawo.net
 0.0.0.0 voastauz.net
 0.0.0.0 voawhooh.net
+0.0.0.0 vobqmjimemjf.com
+0.0.0.0 vobquhydgvyqf.com
 0.0.0.0 vocationethelsky.com
 0.0.0.0 vodafone-direkt.de
 0.0.0.0 vodnet.info
@@ -37025,6 +37040,7 @@
 0.0.0.0 vouhecem.net
 0.0.0.0 voukouvy.net
 0.0.0.0 vounaipu.net
+0.0.0.0 voupkdprug.com
 0.0.0.0 vovhiwr.com
 0.0.0.0 vovikshelomov.ru
 0.0.0.0 vowcertainly.com
@@ -37032,8 +37048,10 @@
 0.0.0.0 vownixsofa.cam
 0.0.0.0 voxfind.com
 0.0.0.0 voyagecondom.com
+0.0.0.0 voylbgutpjcmcm.com
 0.0.0.0 vozer.voffka.com
 0.0.0.0 vp1.zkshfbdg.info
+0.0.0.0 vpagzcjp.com
 0.0.0.0 vpath.net
 0.0.0.0 vpbbc.cn
 0.0.0.0 vpbyl.com
@@ -37050,6 +37068,7 @@
 0.0.0.0 vprza.com
 0.0.0.0 vpsite.ru
 0.0.0.0 vptbn.com
+0.0.0.0 vpvsy.com
 0.0.0.0 vq7736.com
 0.0.0.0 vqd51a5.biz.ua
 0.0.0.0 vqfqo.us
@@ -37070,9 +37089,11 @@
 0.0.0.0 vsekiski.org
 0.0.0.0 vserv.mobi
 0.0.0.0 vsesumki.com
+0.0.0.0 vsetfdtwhp.com
 0.0.0.0 vsheying.top
 0.0.0.0 vsjxqhfkccx.xyz
 0.0.0.0 vskoedps.com
+0.0.0.0 vsmokhklbw.com
 0.0.0.0 vst1ev.com
 0.0.0.0 vst1mid.com
 0.0.0.0 vst2mid.com
@@ -37100,6 +37121,7 @@
 0.0.0.0 vsu2jbpvgx3m.com
 0.0.0.0 vsvihsib.com
 0.0.0.0 vswcdns.com
+0.0.0.0 vsyaiejmfooba.com
 0.0.0.0 vt4dlx.ru
 0.0.0.0 vt863.cn
 0.0.0.0 vtdoska.ru
@@ -37107,6 +37129,7 @@
 0.0.0.0 vtfwgfo.cn
 0.0.0.0 vth05dse.com
 0.0.0.0 vtizr.com
+0.0.0.0 vtlahjkbd.com
 0.0.0.0 vtochku.net
 0.0.0.0 vtqifk86868.cn
 0.0.0.0 vtrack.vht.com.vn
@@ -37124,6 +37147,7 @@
 0.0.0.0 vudoutch.com
 0.0.0.0 vuidbsgnhfdaa.com
 0.0.0.0 vukhhjzd.com
+0.0.0.0 vukhnosiexl.com
 0.0.0.0 vuksoude.net
 0.0.0.0 vulcan-bit.com
 0.0.0.0 vulevision.info
@@ -37135,22 +37159,27 @@
 0.0.0.0 vupulse.com
 0.0.0.0 vupyjyyu.xyz
 0.0.0.0 vurobyde.xyz
+0.0.0.0 vuryua.ru
 0.0.0.0 vutudm.com
 0.0.0.0 vuuwd.com
 0.0.0.0 vuwgt.com
 0.0.0.0 vv.tmska.com
 0.0.0.0 vv1.pyhfxdm.cn
 0.0.0.0 vv8h9vyjgnst.com
+0.0.0.0 vvavhrepu.com
 0.0.0.0 vvbox.cz
+0.0.0.0 vvcharuaxlsazx.com
 0.0.0.0 vvhatsappsohbetim.site
 0.0.0.0 vvmblock.ru
 0.0.0.0 vvnna.com
 0.0.0.0 vvv.ieduw.com
+0.0.0.0 vvyhhrjigq.com
 0.0.0.0 vw.onlinia.net
 0.0.0.0 vw.xxxmshel.org
 0.0.0.0 vw220.com
 0.0.0.0 vwb4p.cn
 0.0.0.0 vwcsl.com
+0.0.0.0 vwgilkky.com
 0.0.0.0 vwin010.com
 0.0.0.0 vwinnow.com
 0.0.0.0 vwinthethao.com
@@ -37158,6 +37187,7 @@
 0.0.0.0 vwuyuahqf.com
 0.0.0.0 vx88.com
 0.0.0.0 vx88e.com
+0.0.0.0 vxhmytfndmqko.com
 0.0.0.0 vxqpomwum.pw
 0.0.0.0 vxrpmslex.com
 0.0.0.0 vxsnk.com
@@ -37166,14 +37196,18 @@
 0.0.0.0 vyborexperta.ru
 0.0.0.0 vyg.mobi
 0.0.0.0 vyhezucha.pro
+0.0.0.0 vyphytovu.pro
 0.0.0.0 vystakugry.pro
 0.0.0.0 vyule.com
 0.0.0.0 vyykulowdu.com
 0.0.0.0 vz681.com
 0.0.0.0 vz79.com
+0.0.0.0 vznntmjdb.com
 0.0.0.0 vzrufh.com
 0.0.0.0 vztfc.com
+0.0.0.0 vztvgqbbvbjv.com
 0.0.0.0 vzyat-kredit.info
+0.0.0.0 vzyuphrmanfbks.com
 0.0.0.0 vzzylo.com
 0.0.0.0 w-m-w.net
 0.0.0.0 w.anmeihe.cn
@@ -37422,7 +37456,6 @@
 0.0.0.0 web-stat.net
 0.0.0.0 web-visor.com
 0.0.0.0 web.900.la
-0.0.0.0 web.dle-news.pw
 0.0.0.0 web.vortex.data.microsoft.com
 0.0.0.0 web0513.com
 0.0.0.0 web1.51.la

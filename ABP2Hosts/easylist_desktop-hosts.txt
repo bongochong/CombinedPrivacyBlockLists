@@ -1,4 +1,4 @@
-# Wed Oct 13 08:57:18 PM UTC 2021
+# Thu Oct 14 12:14:25 AM UTC 2021
 # EasyList Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 00-gov.cn
 0.0.0.0 0024aaaa.com
@@ -735,6 +735,7 @@
 0.0.0.0 517m.cn
 0.0.0.0 519397.com
 0.0.0.0 51ads.com
+0.0.0.0 51boxian.cc
 0.0.0.0 51check.com.cn
 0.0.0.0 51dengshan.cn
 0.0.0.0 51df7z.cn
@@ -5407,7 +5408,6 @@
 0.0.0.0 berningbegi.club
 0.0.0.0 berryborrowing.com
 0.0.0.0 berryfico.com
-0.0.0.0 berserkpl.net.pl
 0.0.0.0 bertekoa.net
 0.0.0.0 berthgenerousheap.com
 0.0.0.0 berush.com
@@ -17344,7 +17344,6 @@
 0.0.0.0 lcrmm.top
 0.0.0.0 lcrtltft.com
 0.0.0.0 lcs.comico.jp
-0.0.0.0 lcs.livedoor.net
 0.0.0.0 lcs.naver.com
 0.0.0.0 lcscompanies.lcsnet.com
 0.0.0.0 lctcw.top
@@ -17927,6 +17926,7 @@
 0.0.0.0 lkdvvxvtsq6o.com
 0.0.0.0 lkiqkq.mumzworld.com
 0.0.0.0 lkle.top
+0.0.0.0 lknad215.top
 0.0.0.0 lknbffkv.com
 0.0.0.0 lknqfn.furla.com
 0.0.0.0 lkqd.net
@@ -26324,6 +26324,7 @@
 0.0.0.0 scarcelysorrow.com
 0.0.0.0 scarecrowdelight.com
 0.0.0.0 scarewalrusregulate.com
+0.0.0.0 scarfsmash.com
 0.0.0.0 scarletcashwi5.com
 0.0.0.0 scarofnght.com
 0.0.0.0 scatteredoutillicit.com
@@ -27216,6 +27217,7 @@
 0.0.0.0 sjeffrontagr.top
 0.0.0.0 sjgnskf.com
 0.0.0.0 sjhxy.cn
+0.0.0.0 sjjz8.cn
 0.0.0.0 sjljz.cn
 0.0.0.0 sjmltjmgw.com
 0.0.0.0 sjmwkj.cn
@@ -33197,6 +33199,7 @@
 0.0.0.0 vacwrite.com
 0.0.0.0 vaebard.com
 0.0.0.0 vaedan.top
+0.0.0.0 vafbmmsda.com
 0.0.0.0 vagaspet.com
 0.0.0.0 vaileeps.com
 0.0.0.0 vainews.cn
@@ -33281,7 +33284,9 @@
 0.0.0.0 vchim.com
 0.0.0.0 vclicks.net
 0.0.0.0 vcmedia.com
+0.0.0.0 vcmrlwcafliaa.com
 0.0.0.0 vcommission.com
+0.0.0.0 vcpcvmfnocsfay.com
 0.0.0.0 vdajk.com
 0.0.0.0 vdazz.net
 0.0.0.0 vddf0.club
@@ -33294,6 +33299,7 @@
 0.0.0.0 vdzpnx.gnc.com.mx
 0.0.0.0 ve.kj-cy.cn
 0.0.0.0 ve0.popmonster.ru
+0.0.0.0 ve001nz.com
 0.0.0.0 veanumb.biz
 0.0.0.0 vebadu.com
 0.0.0.0 vectarts.com
@@ -33330,6 +33336,7 @@
 0.0.0.0 ventrequmus.com
 0.0.0.0 venturead.com
 0.0.0.0 venuegirtjive.com
+0.0.0.0 veopvpgxcrt.com
 0.0.0.0 veqvek.cp24.com
 0.0.0.0 verblife-5.co
 0.0.0.0 veremund-hon.com
@@ -33357,14 +33364,18 @@
 0.0.0.0 vezetmne.ru
 0.0.0.0 vf5c.com
 0.0.0.0 vfbvcshnc.com
+0.0.0.0 vffvtxcykog.com
 0.0.0.0 vfghc.com
 0.0.0.0 vfl81ea28aztw7y3.pro
+0.0.0.0 vfmfjoknzndbee.com
 0.0.0.0 vfo.voyage-prive.co.uk
 0.0.0.0 vfocus.net
 0.0.0.0 vfspriority.com
 0.0.0.0 vfspriority.pw
 0.0.0.0 vfvdsati.com
+0.0.0.0 vggxxhton.com
 0.0.0.0 vgimer.cn
+0.0.0.0 vgkknrbzwfau.com
 0.0.0.0 vgo.vegaoo.de
 0.0.0.0 vgo.vegaoo.es
 0.0.0.0 vgo.vegaoo.it
@@ -33373,6 +33384,7 @@
 0.0.0.0 vgo.vegaooparty.com
 0.0.0.0 vgo.vegaoopro.com
 0.0.0.0 vgw35hwr4w6x.com
+0.0.0.0 vhlduhrldc.com
 0.0.0.0 vhmjci.edreams.co.uk
 0.0.0.0 vhpxa.top
 0.0.0.0 vi-serve.com
@@ -33547,12 +33559,15 @@
 0.0.0.0 vjdtou.francois-nature.fr
 0.0.0.0 vjie.com
 0.0.0.0 vjjgpt.diamond.jp
+0.0.0.0 vjkjjhbi.com
+0.0.0.0 vjnpoelbrhd.com
 0.0.0.0 vjptye.cn
 0.0.0.0 vk-traf.ru
 0.0.0.0 vk77lnizckm6.com
 0.0.0.0 vkaofq64zz.com
 0.0.0.0 vkbvny.ddanzi.com
 0.0.0.0 vkdgzr.ennergiia.com
+0.0.0.0 vkjmljhcdn.com
 0.0.0.0 vkmoll.ru
 0.0.0.0 vkmonster.com
 0.0.0.0 vknrfwwxhxaxupqp.pro
@@ -33562,6 +33577,7 @@
 0.0.0.0 vlion.cn
 0.0.0.0 vlitag.com
 0.0.0.0 vllclq.ninewest.com.tr
+0.0.0.0 vloudsze.com
 0.0.0.0 vlrzhoueyoxw.com
 0.0.0.0 vltwox7zl7h1wv.com
 0.0.0.0 vmblock.net
@@ -33575,8 +33591,10 @@
 0.0.0.0 vmuid.com
 0.0.0.0 vn6e8w2w92.com
 0.0.0.0 vnacdnryl.com
+0.0.0.0 vnbugnmwq.com
 0.0.0.0 vnf4.belleetbio.com
 0.0.0.0 vngmbyij.cn
+0.0.0.0 vnkevmoytft.com
 0.0.0.0 vnl1.voyage-prive.nl
 0.0.0.0 vnnv777.cn
 0.0.0.0 vnrherdsxr.com
@@ -33587,6 +33605,8 @@
 0.0.0.0 voaroawo.net
 0.0.0.0 voastauz.net
 0.0.0.0 voawhooh.net
+0.0.0.0 vobqmjimemjf.com
+0.0.0.0 vobquhydgvyqf.com
 0.0.0.0 vocationethelsky.com
 0.0.0.0 voevtwfpd.xyz
 0.0.0.0 vogo-vogo.ru
@@ -33623,6 +33643,7 @@
 0.0.0.0 vouhecem.net
 0.0.0.0 voukouvy.net
 0.0.0.0 vounaipu.net
+0.0.0.0 voupkdprug.com
 0.0.0.0 vovhiwr.com
 0.0.0.0 vowcertainly.com
 0.0.0.0 vowifeba.xyz
@@ -33630,6 +33651,8 @@
 0.0.0.0 voxfind.com
 0.0.0.0 voxtjm.about-you.ee
 0.0.0.0 voyagecondom.com
+0.0.0.0 voylbgutpjcmcm.com
+0.0.0.0 vpagzcjp.com
 0.0.0.0 vpbbc.cn
 0.0.0.0 vpbyl.com
 0.0.0.0 vpdjlprqnt.com
@@ -33664,10 +33687,12 @@
 0.0.0.0 vse-dly-vas.ru
 0.0.0.0 vse-novosti.top
 0.0.0.0 vse-pro-zdorovye.ru
+0.0.0.0 vsetfdtwhp.com
 0.0.0.0 vsfius.aranzulla.it
 0.0.0.0 vsheying.top
 0.0.0.0 vsjxqhfkccx.xyz
 0.0.0.0 vskoedps.com
+0.0.0.0 vsmokhklbw.com
 0.0.0.0 vsnoon.com
 0.0.0.0 vsqyaz.sweetwater.com
 0.0.0.0 vst1ev.com
@@ -33695,6 +33720,7 @@
 0.0.0.0 vsu2jbpvgx3m.com
 0.0.0.0 vsvihsib.com
 0.0.0.0 vswcdns.com
+0.0.0.0 vsyaiejmfooba.com
 0.0.0.0 vszk.eu
 0.0.0.0 vt863.cn
 0.0.0.0 vtf2f.banque-casino.fr
@@ -33702,6 +33728,7 @@
 0.0.0.0 vtfwgfo.cn
 0.0.0.0 vth05dse.com
 0.0.0.0 vtizr.com
+0.0.0.0 vtlahjkbd.com
 0.0.0.0 vtochku.net
 0.0.0.0 vtomate.biz
 0.0.0.0 vtqifk86868.cn
@@ -33711,6 +33738,7 @@
 0.0.0.0 vubihasdtbadiq.com
 0.0.0.0 vudoutch.com
 0.0.0.0 vukhhjzd.com
+0.0.0.0 vukhnosiexl.com
 0.0.0.0 vuksoude.net
 0.0.0.0 vulkanvegas-de.katchpurcity.com
 0.0.0.0 vulkanvegas.go-sell.com.co
@@ -33722,14 +33750,19 @@
 0.0.0.0 vuuwd.com
 0.0.0.0 vv1.pyhfxdm.cn
 0.0.0.0 vvaaol.enuygun.com
+0.0.0.0 vvavhrepu.com
+0.0.0.0 vvcharuaxlsazx.com
 0.0.0.0 vvmblock.ru
 0.0.0.0 vvnna.com
 0.0.0.0 vvv.ieduw.com
+0.0.0.0 vvyhhrjigq.com
 0.0.0.0 vwb4p.cn
 0.0.0.0 vwegpo.adamas.ru
+0.0.0.0 vwgilkky.com
 0.0.0.0 vwonwkaqvq-a.global.ssl.fastly.net
 0.0.0.0 vwuyuahqf.com
 0.0.0.0 vxcjoz.nextadvisor.com
+0.0.0.0 vxhmytfndmqko.com
 0.0.0.0 vxrpmslex.com
 0.0.0.0 vxsnk.com
 0.0.0.0 vxygol.prisjakt.nu
@@ -33740,6 +33773,7 @@
 0.0.0.0 vybbem.womanhit.ru
 0.0.0.0 vyebov.entrenet.jp
 0.0.0.0 vyhezucha.pro
+0.0.0.0 vyphytovu.pro
 0.0.0.0 vyplzy.job-medley.com
 0.0.0.0 vyqidg.koreus.com
 0.0.0.0 vystakugry.pro
@@ -33747,9 +33781,12 @@
 0.0.0.0 vyyikx.sixt.ch
 0.0.0.0 vzeyba.shopee.co.id
 0.0.0.0 vzhjnw.officedepot.com
+0.0.0.0 vznntmjdb.com
 0.0.0.0 vzrhxp.mavi.com
+0.0.0.0 vztvgqbbvbjv.com
 0.0.0.0 vzuxpl.cmgroup-ziko.com
 0.0.0.0 vzvswc.savagex.co.uk
+0.0.0.0 vzyuphrmanfbks.com
 0.0.0.0 vzzylo.com
 0.0.0.0 w-llke.ru
 0.0.0.0 w-lobo.com
@@ -36409,6 +36446,7 @@
 0.0.0.0 zuirengou.shop
 0.0.0.0 zukxd6fkxqn.com
 0.0.0.0 zum7cc.oui.sncf
+0.0.0.0 zunchengmaoyi.cn
 0.0.0.0 zunhuioa.cn
 0.0.0.0 zunsoach.com
 0.0.0.0 zuopp.com
