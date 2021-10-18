@@ -1,4 +1,4 @@
-// **** Thu Oct 14 09:15:24 PM UTC 2021
+// **** Mon Oct 18 06:26:12 AM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -4298,7 +4298,6 @@ shExpMatch(host, '*.critical-boot.com') ||
 shExpMatch(host, '*.critictruck.com') ||
 shExpMatch(host, '*.crittercism.com') ||
 shExpMatch(host, '*.crms.org.sg') ||
-shExpMatch(host, '*.croissed.info') ||
 shExpMatch(host, '*.crossleather.com') ||
 shExpMatch(host, '*.crow-dc.ru') ||
 shExpMatch(host, '*.crowdgravity.com') ||
@@ -10107,6 +10106,7 @@ shExpMatch(host, '*.lightningcast.net') ||
 shExpMatch(host, '*.lightscreenshot.eu') ||
 shExpMatch(host, '*.lightsingshots.com') ||
 shExpMatch(host, '*.lightspeedcash.com') ||
+shExpMatch(host, '*.lightstep.medium.systems') ||
 shExpMatch(host, '*.ligrfc.ncl.co.kr') ||
 shExpMatch(host, '*.lijit.com') ||
 shExpMatch(host, '*.likefreehack.com') ||
@@ -10319,7 +10319,6 @@ shExpMatch(host, '*.ltcdrop.com') ||
 shExpMatch(host, '*.lubov.co.il') ||
 shExpMatch(host, '*.luchtenbergdecor.com.br') ||
 shExpMatch(host, '*.lucidmedia.com') ||
-shExpMatch(host, '*.lucklayed.info') ||
 shExpMatch(host, '*.lucky-cases.org') ||
 shExpMatch(host, '*.lucky-loot.com') ||
 shExpMatch(host, '*.luckyblank.info') ||
@@ -15559,6 +15558,7 @@ shExpMatch(host, '*.tracking.intl.miui.com') ||
 shExpMatch(host, '*.tracking.jiffyworld.com') ||
 shExpMatch(host, '*.tracking.markethero.io') ||
 shExpMatch(host, '*.tracking.miui.com') ||
+shExpMatch(host, '*.tracking.netalerts.io') ||
 shExpMatch(host, '*.tracking.olx-st.com') ||
 shExpMatch(host, '*.tracking.orixa-media.com') ||
 shExpMatch(host, '*.tracking.publicidees.com') ||
@@ -21908,7 +21908,6 @@ shExpMatch(host, 'critical-boot.com') ||
 shExpMatch(host, 'critictruck.com') ||
 shExpMatch(host, 'crittercism.com') ||
 shExpMatch(host, 'crms.org.sg') ||
-shExpMatch(host, 'croissed.info') ||
 shExpMatch(host, 'crossleather.com') ||
 shExpMatch(host, 'crow-dc.ru') ||
 shExpMatch(host, 'crowdgravity.com') ||
@@ -27717,6 +27716,7 @@ shExpMatch(host, 'lightningcast.net') ||
 shExpMatch(host, 'lightscreenshot.eu') ||
 shExpMatch(host, 'lightsingshots.com') ||
 shExpMatch(host, 'lightspeedcash.com') ||
+shExpMatch(host, 'lightstep.medium.systems') ||
 shExpMatch(host, 'ligrfc.ncl.co.kr') ||
 shExpMatch(host, 'lijit.com') ||
 shExpMatch(host, 'likefreehack.com') ||
@@ -27929,7 +27929,6 @@ shExpMatch(host, 'ltcdrop.com') ||
 shExpMatch(host, 'lubov.co.il') ||
 shExpMatch(host, 'luchtenbergdecor.com.br') ||
 shExpMatch(host, 'lucidmedia.com') ||
-shExpMatch(host, 'lucklayed.info') ||
 shExpMatch(host, 'lucky-cases.org') ||
 shExpMatch(host, 'lucky-loot.com') ||
 shExpMatch(host, 'luckyblank.info') ||
@@ -33169,6 +33168,7 @@ shExpMatch(host, 'tracking.intl.miui.com') ||
 shExpMatch(host, 'tracking.jiffyworld.com') ||
 shExpMatch(host, 'tracking.markethero.io') ||
 shExpMatch(host, 'tracking.miui.com') ||
+shExpMatch(host, 'tracking.netalerts.io') ||
 shExpMatch(host, 'tracking.olx-st.com') ||
 shExpMatch(host, 'tracking.orixa-media.com') ||
 shExpMatch(host, 'tracking.publicidees.com') ||
