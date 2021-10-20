@@ -1,4 +1,4 @@
-// **** Mon Oct 18 06:26:12 AM UTC 2021
+// **** Wed Oct 20 03:34:28 AM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -3614,6 +3614,7 @@ shExpMatch(host, '*.chelpo94landsa.rr.nu') ||
 shExpMatch(host, '*.chemico.biz') ||
 shExpMatch(host, '*.chengupei.com') ||
 shExpMatch(host, '*.cheriefm.fr') ||
+shExpMatch(host, '*.cherriescare.com') ||
 shExpMatch(host, '*.chestionar.ro') ||
 shExpMatch(host, '*.chewcoat.com') ||
 shExpMatch(host, '*.chiangmaihotels.co') ||
@@ -10897,6 +10898,7 @@ shExpMatch(host, '*.ml314.com') ||
 shExpMatch(host, '*.mlbmusiccity.com') ||
 shExpMatch(host, '*.mldtdbsoko.myfw.us') ||
 shExpMatch(host, '*.mlm.de') ||
+shExpMatch(host, '*.mlsend.com') ||
 shExpMatch(host, '*.mltrk.io') ||
 shExpMatch(host, '*.mmaglobal.com') ||
 shExpMatch(host, '*.mmedia.com') ||
@@ -13704,7 +13706,6 @@ shExpMatch(host, '*.seeq.com.invalid') ||
 shExpMatch(host, '*.sef7at.com') ||
 shExpMatch(host, '*.sega-rom.com') ||
 shExpMatch(host, '*.segling.org') ||
-shExpMatch(host, '*.segmetrics.io') ||
 shExpMatch(host, '*.sehabinden.com') ||
 shExpMatch(host, '*.seiinmovimento.it') ||
 shExpMatch(host, '*.seikopacking.cn') ||
@@ -15519,6 +15520,7 @@ shExpMatch(host, '*.track.game18click.com') ||
 shExpMatch(host, '*.track.gawker.com') ||
 shExpMatch(host, '*.track.hexcan.com') ||
 shExpMatch(host, '*.track.mailerlite.com') ||
+shExpMatch(host, '*.track.segmetrics.io') ||
 shExpMatch(host, '*.track.software-codes.com') ||
 shExpMatch(host, '*.track.themaccleanup.info') ||
 shExpMatch(host, '*.track.tkbo.com') ||
@@ -21224,6 +21226,7 @@ shExpMatch(host, 'chelpo94landsa.rr.nu') ||
 shExpMatch(host, 'chemico.biz') ||
 shExpMatch(host, 'chengupei.com') ||
 shExpMatch(host, 'cheriefm.fr') ||
+shExpMatch(host, 'cherriescare.com') ||
 shExpMatch(host, 'chestionar.ro') ||
 shExpMatch(host, 'chewcoat.com') ||
 shExpMatch(host, 'chiangmaihotels.co') ||
@@ -28507,6 +28510,7 @@ shExpMatch(host, 'ml314.com') ||
 shExpMatch(host, 'mlbmusiccity.com') ||
 shExpMatch(host, 'mldtdbsoko.myfw.us') ||
 shExpMatch(host, 'mlm.de') ||
+shExpMatch(host, 'mlsend.com') ||
 shExpMatch(host, 'mltrk.io') ||
 shExpMatch(host, 'mmaglobal.com') ||
 shExpMatch(host, 'mmedia.com') ||
@@ -31314,7 +31318,6 @@ shExpMatch(host, 'seeq.com.invalid') ||
 shExpMatch(host, 'sef7at.com') ||
 shExpMatch(host, 'sega-rom.com') ||
 shExpMatch(host, 'segling.org') ||
-shExpMatch(host, 'segmetrics.io') ||
 shExpMatch(host, 'sehabinden.com') ||
 shExpMatch(host, 'seiinmovimento.it') ||
 shExpMatch(host, 'seikopacking.cn') ||
@@ -33129,6 +33132,7 @@ shExpMatch(host, 'track.game18click.com') ||
 shExpMatch(host, 'track.gawker.com') ||
 shExpMatch(host, 'track.hexcan.com') ||
 shExpMatch(host, 'track.mailerlite.com') ||
+shExpMatch(host, 'track.segmetrics.io') ||
 shExpMatch(host, 'track.software-codes.com') ||
 shExpMatch(host, 'track.themaccleanup.info') ||
 shExpMatch(host, 'track.tkbo.com') ||
