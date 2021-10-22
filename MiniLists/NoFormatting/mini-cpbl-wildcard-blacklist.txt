@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 10/22/21~02:29:56 -~
+# ~- 10/22/21~02:34:27 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -20,8 +20,6 @@
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #
 # [Start of Wildcard Blacklist]
-@@*.edge-enterprise.activity.windows.com
-@@*.edge.activity.windows.com
 *.0.le4net00.net
 *.0.weathdata.nu
 *.00-gov.cn
