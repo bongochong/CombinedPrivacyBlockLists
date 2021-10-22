@@ -1,4 +1,4 @@
-# Thu Oct 21 11:49:35 PM UTC 2021
+# Fri Oct 22 12:34:12 AM UTC 2021
 # AdGuard DNS Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 00-gov.cn
 0.0.0.0 0001.best
@@ -34922,6 +34922,7 @@
 0.0.0.0 track.nzz.ch
 0.0.0.0 track.oasis.magictavern.com
 0.0.0.0 track.omgpl.com
+0.0.0.0 track.peavoidud.com
 0.0.0.0 track.pingstart.com
 0.0.0.0 track.pnicnik.live
 0.0.0.0 track.pnj.com.vn

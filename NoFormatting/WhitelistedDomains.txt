@@ -235,6 +235,8 @@ easylist.to
 ebay.com
 ebayimg.com
 ecn.dev.virtualearth.net
+edge-enterprise.activity.windows.com
+edge.activity.windows.com
 edge.api.brightcove.com
 eightforums.com
 embed.ly

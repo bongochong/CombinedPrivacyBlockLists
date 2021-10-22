@@ -5,6 +5,8 @@ c.msn.com
 choice.microsoft.com
 dev.virtualearth.net
 ecn.dev.virtualearth.net
+edge-enterprise.activity.windows.com
+edge.activity.windows.com
 g.msn.com
 msftncsi.com
 onecollector.cloudapp.aria.akadns.net

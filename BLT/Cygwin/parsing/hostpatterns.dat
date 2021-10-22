@@ -272,6 +272,8 @@ localhost$
 ^0.0.0.0 ebay.com$
 ^0.0.0.0 ebayimg.com$
 ^0.0.0.0 ecn.dev.virtualearth.net$
+^0.0.0.0 edge-enterprise.activity.windows.com$
+^0.0.0.0 edge.activity.windows.com$
 ^0.0.0.0 edge.api.brightcove.com$
 ^0.0.0.0 eightforums.com$
 ^0.0.0.0 embed.ly$
