@@ -1,4 +1,4 @@
-// **** Fri Oct 22 12:42:27 AM UTC 2021
+// **** Sun Oct 24 05:46:29 PM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -1400,7 +1400,6 @@ shExpMatch(host, '*.adserver.diariodosertao.com.br') ||
 shExpMatch(host, '*.adserver.digitoday.com') ||
 shExpMatch(host, '*.adserver.dotcommedia.de') ||
 shExpMatch(host, '*.adserver.echdk.pl') ||
-shExpMatch(host, '*.adserver.ekokatu.com') ||
 shExpMatch(host, '*.adserver.finditquick.com') ||
 shExpMatch(host, '*.adserver.flossiemediagroup.com') ||
 shExpMatch(host, '*.adserver.freecity.de') ||
@@ -1946,7 +1945,6 @@ shExpMatch(host, '*.analytics.live.com') ||
 shExpMatch(host, '*.analytics.mailmunch.co') ||
 shExpMatch(host, '*.analytics.mobile.yandex.net') ||
 shExpMatch(host, '*.analytics.myfinance.com') ||
-shExpMatch(host, '*.analytics.mytvzion.pro') ||
 shExpMatch(host, '*.analytics.ostr.io') ||
 shExpMatch(host, '*.analytics.phando.com') ||
 shExpMatch(host, '*.analytics.picsart.com') ||
@@ -19012,7 +19010,6 @@ shExpMatch(host, 'adserver.diariodosertao.com.br') ||
 shExpMatch(host, 'adserver.digitoday.com') ||
 shExpMatch(host, 'adserver.dotcommedia.de') ||
 shExpMatch(host, 'adserver.echdk.pl') ||
-shExpMatch(host, 'adserver.ekokatu.com') ||
 shExpMatch(host, 'adserver.finditquick.com') ||
 shExpMatch(host, 'adserver.flossiemediagroup.com') ||
 shExpMatch(host, 'adserver.freecity.de') ||
@@ -19558,7 +19555,6 @@ shExpMatch(host, 'analytics.live.com') ||
 shExpMatch(host, 'analytics.mailmunch.co') ||
 shExpMatch(host, 'analytics.mobile.yandex.net') ||
 shExpMatch(host, 'analytics.myfinance.com') ||
-shExpMatch(host, 'analytics.mytvzion.pro') ||
 shExpMatch(host, 'analytics.ostr.io') ||
 shExpMatch(host, 'analytics.phando.com') ||
 shExpMatch(host, 'analytics.picsart.com') ||
