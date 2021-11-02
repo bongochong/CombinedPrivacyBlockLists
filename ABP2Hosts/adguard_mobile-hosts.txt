@@ -1,4 +1,4 @@
-# Sun Oct 24 05:42:53 PM UTC 2021
+# Mon Nov  1 11:49:08 PM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -395,6 +395,7 @@
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.doublemax.net
 0.0.0.0 ad.duapps.com
+0.0.0.0 ad.endpo.in
 0.0.0.0 ad.flipboard.com
 0.0.0.0 ad.fout.jp
 0.0.0.0 ad.g.daum.net
@@ -580,6 +581,7 @@
 0.0.0.0 adopkorea-d.openx.net
 0.0.0.0 adotsolution.com
 0.0.0.0 adotube.com
+0.0.0.0 adpies.com
 0.0.0.0 adplatform.vrtcal.com
 0.0.0.0 adplex.co.kr
 0.0.0.0 adpone-d.openx.net
@@ -1047,6 +1049,7 @@
 0.0.0.0 aktrack.pubmatic.edgekey.net
 0.0.0.0 alexametrics.com
 0.0.0.0 alexandria.marfeelcdn.com
+0.0.0.0 ali-stats.jpush.cn
 0.0.0.0 alkutbay.starbolt.io
 0.0.0.0 alldcs.outbrain.com
 0.0.0.0 alldcs.outbrain.org
@@ -3294,6 +3297,7 @@
 0.0.0.0 df.mic.mob.com
 0.0.0.0 df.mob.com
 0.0.0.0 dfe.mic.mob.com
+0.0.0.0 dflow.log.hunantv.com
 0.0.0.0 dfp-gateway.s-onetag.com
 0.0.0.0 dfp.bouncex.net
 0.0.0.0 dhg-logging.us-east-1.elasticbeanstalk.com
@@ -3595,7 +3599,6 @@
 0.0.0.0 errors.imrworldwide.com
 0.0.0.0 es-gmtdmp.mookie1.com
 0.0.0.0 es.ads.justpremium.com
-0.0.0.0 esd.icloseli.com
 0.0.0.0 esi.amp.permutive.com
 0.0.0.0 espn.hb.omtrdc.net
 0.0.0.0 et-code.ru
@@ -3714,6 +3717,7 @@
 0.0.0.0 exchange.wildlifestudios.com
 0.0.0.0 exe.bid
 0.0.0.0 execution-use.ci360.sas.com
+0.0.0.0 exelbid.com
 0.0.0.0 exp.360in.com
 0.0.0.0 exp.glispa.com
 0.0.0.0 experience.tinypass.com
@@ -4208,6 +4212,7 @@
 0.0.0.0 hexagon-analytics.com
 0.0.0.0 heyzap.com
 0.0.0.0 hghit.com
+0.0.0.0 hibiki-track.logica.bz
 0.0.0.0 highway2.soom.la
 0.0.0.0 himediads.com
 0.0.0.0 hiram.iad-03.braze.com
@@ -4901,7 +4906,6 @@
 0.0.0.0 libs.coremetrics.com
 0.0.0.0 libs.lavanetwork.net
 0.0.0.0 libs.outbrain.com
-0.0.0.0 licensebuttons.net
 0.0.0.0 licensing.blinkreceipt.com
 0.0.0.0 liehu.ijinshan.com
 0.0.0.0 liftdna.com
@@ -4977,6 +4981,7 @@
 0.0.0.0 log.kuwo.cn
 0.0.0.0 log.leadboxer.com
 0.0.0.0 log.lemonpi.io
+0.0.0.0 log.mgtv.com
 0.0.0.0 log.mmstat.com
 0.0.0.0 log.mobpowertech.com
 0.0.0.0 log.ncaudienceexchange.com
@@ -5338,6 +5343,7 @@
 0.0.0.0 mobclix.com
 0.0.0.0 mobfloral.offerstrack.net
 0.0.0.0 mobfox.com
+0.0.0.0 mobi.yanosik.pl
 0.0.0.0 mobiads.ru
 0.0.0.0 mobicow.com
 0.0.0.0 mobidea.com
@@ -5457,9 +5463,12 @@
 0.0.0.0 msdk-files.webengage.com
 0.0.0.0 msdk.qq.com
 0.0.0.0 msdk.rqmob.com
+0.0.0.0 msg-intl.qy.net
 0.0.0.0 msg.cocamobile.com
 0.0.0.0 msg.dotomi.com
 0.0.0.0 msg.ettoday.net
+0.0.0.0 msg.simeji.baidu.jp
+0.0.0.0 msg.simeji.me
 0.0.0.0 msg.umengcloud.com
 0.0.0.0 msn.directadvert.ru
 0.0.0.0 msntest.serving-sys.com
@@ -7346,6 +7355,7 @@
 0.0.0.0 ssl.quantserve.com
 0.0.0.0 ssl.zoomanalytics.co
 0.0.0.0 sslwidget.criteo.com
+0.0.0.0 ssp-ad.momento.dev
 0.0.0.0 ssp-api.mobadvent.com
 0.0.0.0 ssp-csync.smartadserver.com
 0.0.0.0 ssp-events.chartboost.com
