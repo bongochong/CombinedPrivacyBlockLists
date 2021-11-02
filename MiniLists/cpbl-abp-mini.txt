@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mini CPBL Filters for ABP & uBO
-! Updated: Tue Nov  2 12:11:19 AM UTC 2021
+! Updated: Tue Nov  2 07:45:01 PM UTC 2021
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -61034,6 +61034,7 @@ cnn.com##.zn-story-bottom
 coinbase.com##[class*="InstantAchBanner"]
 coinbase.com##[class*="RecurringBuysBanner"]
 coinbase.com##[class*="SettingsUpsellBanner"]
+coinbase.com##[class*="UpsellCard"]
 coingecko.com##.pb-2.pt-2.container
 coingecko.com##.tw-flex.rounded-0.card.d-sm-none.d-block
 coingecko.com##.tw-items-center.tw-justify-center.tw-flex.tw-p-0.top-header
