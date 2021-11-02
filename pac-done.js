@@ -1,4 +1,4 @@
-// **** Sun Oct 24 05:46:29 PM UTC 2021
+// **** Tue Nov  2 12:03:50 AM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -1075,7 +1075,6 @@ shExpMatch(host, '*.ads.joaffs.com') ||
 shExpMatch(host, '*.ads.jobsite.co.uk') ||
 shExpMatch(host, '*.ads.jpost.com') ||
 shExpMatch(host, '*.ads.jubii.dk') ||
-shExpMatch(host, '*.ads.junctionbox.com') ||
 shExpMatch(host, '*.ads.justhungry.com') ||
 shExpMatch(host, '*.ads.kabooaffiliates.com') ||
 shExpMatch(host, '*.ads.kaktuz.net') ||
@@ -4807,7 +4806,6 @@ shExpMatch(host, '*.darknesscsgo.com') ||
 shExpMatch(host, '*.darkwebmafias.ws') ||
 shExpMatch(host, '*.darxk.com') ||
 shExpMatch(host, '*.dash.prankvine.com') ||
-shExpMatch(host, '*.dashbida.com') ||
 shExpMatch(host, '*.dashingdirt.com') ||
 shExpMatch(host, '*.dashingsweater.com') ||
 shExpMatch(host, '*.data.namesakeoscilloscopemarquis.com') ||
@@ -6553,6 +6551,8 @@ shExpMatch(host, '*.fireskin.website') ||
 shExpMatch(host, '*.fireskins.net') ||
 shExpMatch(host, '*.firest0rm.net') ||
 shExpMatch(host, '*.fireupload.org') ||
+shExpMatch(host, '*.fireworkadservices.com') ||
+shExpMatch(host, '*.fireworkanalytics.com') ||
 shExpMatch(host, '*.firoznadiadwala.com') ||
 shExpMatch(host, '*.first-pictures.net') ||
 shExpMatch(host, '*.first-scr.net') ||
@@ -7317,6 +7317,7 @@ shExpMatch(host, '*.fuzzyweather.com') ||
 shExpMatch(host, '*.fv2.razergiveaway.com') ||
 shExpMatch(host, '*.fv2cheats.com') ||
 shExpMatch(host, '*.fwbjgras.cz.cc') ||
+shExpMatch(host, '*.fwcdn2.com') ||
 shExpMatch(host, '*.fwmrm.net') ||
 shExpMatch(host, '*.fxclix.com') ||
 shExpMatch(host, '*.fxinvestigate.com') ||
@@ -14543,6 +14544,7 @@ shExpMatch(host, '*.staemcommunitry.com') ||
 shExpMatch(host, '*.stairgames.com') ||
 shExpMatch(host, '*.stakingscrew.com') ||
 shExpMatch(host, '*.stakingslope.com') ||
+shExpMatch(host, '*.stakingsmile.com') ||
 shExpMatch(host, '*.stalesummer.com') ||
 shExpMatch(host, '*.standingnest.com') ||
 shExpMatch(host, '*.star-advertising.com') ||
@@ -18685,7 +18687,6 @@ shExpMatch(host, 'ads.joaffs.com') ||
 shExpMatch(host, 'ads.jobsite.co.uk') ||
 shExpMatch(host, 'ads.jpost.com') ||
 shExpMatch(host, 'ads.jubii.dk') ||
-shExpMatch(host, 'ads.junctionbox.com') ||
 shExpMatch(host, 'ads.justhungry.com') ||
 shExpMatch(host, 'ads.kabooaffiliates.com') ||
 shExpMatch(host, 'ads.kaktuz.net') ||
@@ -22417,7 +22418,6 @@ shExpMatch(host, 'darknesscsgo.com') ||
 shExpMatch(host, 'darkwebmafias.ws') ||
 shExpMatch(host, 'darxk.com') ||
 shExpMatch(host, 'dash.prankvine.com') ||
-shExpMatch(host, 'dashbida.com') ||
 shExpMatch(host, 'dashingdirt.com') ||
 shExpMatch(host, 'dashingsweater.com') ||
 shExpMatch(host, 'data.namesakeoscilloscopemarquis.com') ||
@@ -24163,6 +24163,8 @@ shExpMatch(host, 'fireskin.website') ||
 shExpMatch(host, 'fireskins.net') ||
 shExpMatch(host, 'firest0rm.net') ||
 shExpMatch(host, 'fireupload.org') ||
+shExpMatch(host, 'fireworkadservices.com') ||
+shExpMatch(host, 'fireworkanalytics.com') ||
 shExpMatch(host, 'firoznadiadwala.com') ||
 shExpMatch(host, 'first-pictures.net') ||
 shExpMatch(host, 'first-scr.net') ||
@@ -24927,6 +24929,7 @@ shExpMatch(host, 'fuzzyweather.com') ||
 shExpMatch(host, 'fv2.razergiveaway.com') ||
 shExpMatch(host, 'fv2cheats.com') ||
 shExpMatch(host, 'fwbjgras.cz.cc') ||
+shExpMatch(host, 'fwcdn2.com') ||
 shExpMatch(host, 'fwmrm.net') ||
 shExpMatch(host, 'fxclix.com') ||
 shExpMatch(host, 'fxinvestigate.com') ||
@@ -32153,6 +32156,7 @@ shExpMatch(host, 'staemcommunitry.com') ||
 shExpMatch(host, 'stairgames.com') ||
 shExpMatch(host, 'stakingscrew.com') ||
 shExpMatch(host, 'stakingslope.com') ||
+shExpMatch(host, 'stakingsmile.com') ||
 shExpMatch(host, 'stalesummer.com') ||
 shExpMatch(host, 'standingnest.com') ||
 shExpMatch(host, 'star-advertising.com') ||
