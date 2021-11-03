@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mini CPBL Filters for ABP & uBO
-! Updated: Tue Nov  2 10:15:10 PM UTC 2021
+! Updated: Wed Nov  3 04:45:32 AM UTC 2021
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -61123,6 +61123,7 @@ indiadivine.org###ulp-RyvojwyPSZ6Q7NUR
 indiadivine.org###ulp-RyvojwyPSZ6Q7NUR-overlay
 instagram.com##.DCpAF
 instagram.com##.qD5Mv._4EzTm.eGOV_.IwRSH.Igw0E
+joinhoney.com##[class*="cookieConsentBanner"]
 juicedb.com##.nicotine-warning
 khou.com##[class*="header__tooltip"]
 linuxandubuntu.com##.hustle-optin--focus-optin.hustle-optin
