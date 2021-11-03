@@ -1,4 +1,4 @@
-# Mon Nov  1 11:49:08 PM UTC 2021
+# Wed Nov  3 10:46:15 PM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -501,6 +501,7 @@
 0.0.0.0 adfox.yandex.ru
 0.0.0.0 adfurikun.jp
 0.0.0.0 adfuture.cn
+0.0.0.0 adg.kajicam.com
 0.0.0.0 adgear.com
 0.0.0.0 adgen.socdm.com
 0.0.0.0 adgrx.com
@@ -1174,6 +1175,7 @@
 0.0.0.0 analytics.dns-shop.ru
 0.0.0.0 analytics.dspunion.com
 0.0.0.0 analytics.edgekey.net
+0.0.0.0 analytics.enjoymobiserver.com
 0.0.0.0 analytics.ff.avast.com
 0.0.0.0 analytics.foresee.com
 0.0.0.0 analytics.fosrv.com
@@ -1514,6 +1516,7 @@
 0.0.0.0 api.radar.io
 0.0.0.0 api.redshell.io
 0.0.0.0 api.reftagger.com
+0.0.0.0 api.reproio.com
 0.0.0.0 api.rlcdn.com
 0.0.0.0 api.rqmob.com
 0.0.0.0 api.rudderlabs.com
@@ -1981,6 +1984,7 @@
 0.0.0.0 b2c-msm.marketo.com
 0.0.0.0 b2c.com
 0.0.0.0 b3.mookie1.com
+0.0.0.0 b94.yahoo.co.jp
 0.0.0.0 babel.innertrends.com
 0.0.0.0 balanced-clk.taptica.com
 0.0.0.0 balanced-collect.deltadna.net
@@ -2747,7 +2751,6 @@
 0.0.0.0 click.virt.s7.exacttarget.com
 0.0.0.0 clickfuse.com
 0.0.0.0 clicks.mobrand.net
-0.0.0.0 clickserve.dartsearch.net
 0.0.0.0 clicktale.net.edgekey.net
 0.0.0.0 clicktrack.pubmatic.com
 0.0.0.0 clickwallads.s3.amazonaws.com
@@ -3971,6 +3974,7 @@
 0.0.0.0 gcm.netmng.com
 0.0.0.0 gcmast-cdn.goldspotmedia.com
 0.0.0.0 gcp-prod-md.apptimize.com
+0.0.0.0 gd-stats.jpush.cn
 0.0.0.0 gd1.mookie1.com
 0.0.0.0 gd2.mookie1.com
 0.0.0.0 gdeslon.ru
