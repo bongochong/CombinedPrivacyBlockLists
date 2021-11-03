@@ -1,4 +1,4 @@
-# Wed Nov  3 10:46:52 PM UTC 2021
+# Wed Nov  3 10:52:31 PM UTC 2021
 # EasyList Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 00-gov.cn
 0.0.0.0 000123456789.online
