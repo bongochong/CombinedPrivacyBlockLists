@@ -1,4 +1,4 @@
-// **** Tue Nov  2 12:03:50 AM UTC 2021
+// **** Wed Nov  3 10:55:49 PM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -3090,6 +3090,7 @@ shExpMatch(host, '*.bravefrontiercheats.com') ||
 shExpMatch(host, '*.bravenet.com.invalid') ||
 shExpMatch(host, '*.brazzers-hack.com') ||
 shExpMatch(host, '*.brazzersfreeaccount.net') ||
+shExpMatch(host, '*.breadbalance.com') ||
 shExpMatch(host, '*.breakableinsurance.com') ||
 shExpMatch(host, '*.breakgame.org') ||
 shExpMatch(host, '*.breakingleaks.com') ||
@@ -10019,6 +10020,7 @@ shExpMatch(host, '*.ledicodi.com') ||
 shExpMatch(host, '*.leethax.net') ||
 shExpMatch(host, '*.leetskins.com') ||
 shExpMatch(host, '*.lefos.net') ||
+shExpMatch(host, '*.leftliquid.com') ||
 shExpMatch(host, '*.legalbarcode.com') ||
 shExpMatch(host, '*.legalmatters.biz') ||
 shExpMatch(host, '*.legendary-skins.fun') ||
@@ -20702,6 +20704,7 @@ shExpMatch(host, 'bravefrontiercheats.com') ||
 shExpMatch(host, 'bravenet.com.invalid') ||
 shExpMatch(host, 'brazzers-hack.com') ||
 shExpMatch(host, 'brazzersfreeaccount.net') ||
+shExpMatch(host, 'breadbalance.com') ||
 shExpMatch(host, 'breakableinsurance.com') ||
 shExpMatch(host, 'breakgame.org') ||
 shExpMatch(host, 'breakingleaks.com') ||
@@ -27631,6 +27634,7 @@ shExpMatch(host, 'ledicodi.com') ||
 shExpMatch(host, 'leethax.net') ||
 shExpMatch(host, 'leetskins.com') ||
 shExpMatch(host, 'lefos.net') ||
+shExpMatch(host, 'leftliquid.com') ||
 shExpMatch(host, 'legalbarcode.com') ||
 shExpMatch(host, 'legalmatters.biz') ||
 shExpMatch(host, 'legendary-skins.fun') ||
