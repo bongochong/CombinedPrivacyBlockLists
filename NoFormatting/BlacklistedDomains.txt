@@ -11687,6 +11687,7 @@ affiliation-france.com
 affiliation.planethoster.info
 affiliation.software
 affiliationcash.com
+affiliationjs.s3.amazonaws.com
 affiliationpartner.it
 affiliationworld.com
 affiliationzone.com
@@ -106042,6 +106043,7 @@ zyzjpx.cn
 zz.690tx.com
 zz.bdstatic.com
 zz.cqcounter.com
+zz.cqcounter.com1681.engine.mobileapptracking.com
 zz123.com
 zz2017.ru
 zzad.com
