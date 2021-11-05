@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mostly Cosmetic CPBL Filters for ABP & uBO
-! Updated: Wed Nov  3 10:36:04 PM UTC 2021
+! Updated: Fri Nov  5 09:22:36 PM UTC 2021
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -313,6 +313,26 @@ zerohedge.com##.Banner_banner__2PJ1Y
 ||dextools.io/app/assets/img/banners/*$image
 ||embed.theblockcrypto.com/dist/*/js/chunk*.js$domain=theblockcrypto.com
 ||exodus.com/*/subscribe-popup*
+||fls-cn.amazon.cn^$third-party
+||fls-eu.amazon.ae^$third-party
+||fls-eu.amazon.co.uk^$third-party
+||fls-eu.amazon.com^$third-party
+||fls-eu.amazon.de^$third-party
+||fls-eu.amazon.es^$third-party
+||fls-eu.amazon.fr^$third-party
+||fls-eu.amazon.in^$third-party
+||fls-eu.amazon.it^$third-party
+||fls-eu.amazon.nl^$third-party
+||fls-eu.amazon.sa^$third-party
+||fls-eu.amazon.se^$third-party
+||fls-fe.amazon.co.jp^$third-party
+||fls-fe.amazon.com.au^$third-party
+||fls-fe.amazon.com^$third-party
+||fls-fe.amazon.sg^$third-party
+||fls-na.amazon.ca^$third-party
+||fls-na.amazon.com.br^$third-party
+||fls-na.amazon.com.mx^$third-party
+||fls-na.amazon.com^$third-party
 ||graph.facebook.com^$domain=~facebook.com|~fbcdn.com|~apps.facebook.com|~instagram.com|~linkedin.com,app=~com.facebook.katana|~com.instagram.android|~com.facebook.orca|~com.mobile.legends|~com.minigames.sweetcrossing|~com.moonton.mobilehero|~com.supercell.clashofclans|~com.playrix.fishdomdd.gplay|~com.tencent.ig|~com.ngame.allstar.eu|~com.garena.game.kgid|~com.netease.g78na.gb|~com.stackwares.android.storysaver.facebook
 ||graph.instagram.com^$domain=~facebook.com|~fbcdn.com|~apps.facebook.com|~instagram.com|~linkedin.com,app=~com.facebook.katana|~com.instagram.android
 ||indiadivine.org/wp-content/plugins/layered-popups/js/ads.js$script,domain=indiadivine.org
