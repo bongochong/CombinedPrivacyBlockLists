@@ -1,4 +1,4 @@
-# Thu Nov  4 12:04:11 AM UTC 2021
+# Fri Nov  5 08:36:46 PM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -301,8 +301,6 @@
 0.0.0.0 aamt.nbcnews.com
 0.0.0.0 aamt.today.com
 0.0.0.0 aan.amazon-adsystem.com
-0.0.0.0 aan.amazon.co.jp
-0.0.0.0 aan.amazon.co.uk
 0.0.0.0 aan.cdn.speedshiftmedia.com
 0.0.0.0 aan.speedshiftmedia.com
 0.0.0.0 aarki.com
@@ -310,7 +308,6 @@
 0.0.0.0 aax-fe-sin.amazon-adsystem.com
 0.0.0.0 aax-fe.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
-0.0.0.0 aax-us-iad.amazon.com
 0.0.0.0 aax-us.amazon-adsystem.com
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 aaxads.com.edgekey.net
@@ -945,8 +942,6 @@
 0.0.0.0 adverticum.net
 0.0.0.0 advertise.bingads.microsoft.com
 0.0.0.0 advertise.com
-0.0.0.0 advertising.amazon.co.jp
-0.0.0.0 advertising.amazon.co.uk
 0.0.0.0 advertising.com
 0.0.0.0 advertising.yahoo.com
 0.0.0.0 advertnative.com
@@ -3291,8 +3286,6 @@
 0.0.0.0 dev.nodle.io
 0.0.0.0 dev.visualwebsiteoptimizer.com
 0.0.0.0 device-api.urbanairship.com
-0.0.0.0 device-metrics-us-2.amazon.com
-0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 device.4seeresults.com
 0.0.0.0 deviceid.trueleadid.com
 0.0.0.0 devices.carnivalmobile.com
@@ -3801,29 +3794,9 @@
 0.0.0.0 flapi1.rubiconproject.com
 0.0.0.0 flapi2.rubiconproject.com
 0.0.0.0 flashtalking.com.edgekey.net
-0.0.0.0 fls-cn.amazon.cn
 0.0.0.0 fls-eu.amazon-adsystem.com
-0.0.0.0 fls-eu.amazon.ae
-0.0.0.0 fls-eu.amazon.co.uk
-0.0.0.0 fls-eu.amazon.com
-0.0.0.0 fls-eu.amazon.de
-0.0.0.0 fls-eu.amazon.es
-0.0.0.0 fls-eu.amazon.fr
-0.0.0.0 fls-eu.amazon.in
-0.0.0.0 fls-eu.amazon.it
-0.0.0.0 fls-eu.amazon.nl
-0.0.0.0 fls-eu.amazon.sa
-0.0.0.0 fls-eu.amazon.se
 0.0.0.0 fls-fe.amazon-adsystem.com
-0.0.0.0 fls-fe.amazon.co.jp
-0.0.0.0 fls-fe.amazon.com
-0.0.0.0 fls-fe.amazon.com.au
-0.0.0.0 fls-fe.amazon.sg
 0.0.0.0 fls-na.amazon-adsystem.com
-0.0.0.0 fls-na.amazon.ca
-0.0.0.0 fls-na.amazon.com
-0.0.0.0 fls-na.amazon.com.br
-0.0.0.0 fls-na.amazon.com.mx
 0.0.0.0 fls.doubleclick.net
 0.0.0.0 fluentmobile.com
 0.0.0.0 flurry.cachefly.net
@@ -5107,7 +5080,6 @@
 0.0.0.0 madadsmedia.com
 0.0.0.0 madnet.ru
 0.0.0.0 mads.amazon-adsystem.com
-0.0.0.0 mads.amazon.com
 0.0.0.0 mads.bz
 0.0.0.0 mafo.adalliance.io
 0.0.0.0 mag.iad-03.braze.com
