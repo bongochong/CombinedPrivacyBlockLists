@@ -1,4 +1,4 @@
-// **** Thu Nov  4 12:21:51 AM UTC 2021
+// **** Fri Nov  5 08:52:22 PM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -6554,6 +6554,7 @@ shExpMatch(host, '*.firest0rm.net') ||
 shExpMatch(host, '*.fireupload.org') ||
 shExpMatch(host, '*.fireworkadservices.com') ||
 shExpMatch(host, '*.fireworkanalytics.com') ||
+shExpMatch(host, '*.fireworks-advertising.com') ||
 shExpMatch(host, '*.firoznadiadwala.com') ||
 shExpMatch(host, '*.first-pictures.net') ||
 shExpMatch(host, '*.first-scr.net') ||
@@ -7318,6 +7319,7 @@ shExpMatch(host, '*.fuzzyweather.com') ||
 shExpMatch(host, '*.fv2.razergiveaway.com') ||
 shExpMatch(host, '*.fv2cheats.com') ||
 shExpMatch(host, '*.fwbjgras.cz.cc') ||
+shExpMatch(host, '*.fwcdn1.com') ||
 shExpMatch(host, '*.fwcdn2.com') ||
 shExpMatch(host, '*.fwmrm.net') ||
 shExpMatch(host, '*.fxclix.com') ||
@@ -10523,7 +10525,6 @@ shExpMatch(host, '*.mathtag.com') ||
 shExpMatch(host, '*.matomo.activate.cz') ||
 shExpMatch(host, '*.matomo.gals24.ru') ||
 shExpMatch(host, '*.matomo.hdweb.ru') ||
-shExpMatch(host, '*.matomo.kmkb.ru') ||
 shExpMatch(host, '*.matomo.zwetok.ru') ||
 shExpMatch(host, '*.matomy.com') ||
 shExpMatch(host, '*.matrics.ro') ||
@@ -13617,7 +13618,6 @@ shExpMatch(host, '*.scintillatingsilver.com') ||
 shExpMatch(host, '*.scintillatingspace.com') ||
 shExpMatch(host, '*.scl-hacks.com') ||
 shExpMatch(host, '*.sclutian.com') ||
-shExpMatch(host, '*.scoobyads.com') ||
 shExpMatch(host, '*.scopelight.com') ||
 shExpMatch(host, '*.scorecardresearch.com') ||
 shExpMatch(host, '*.scoretopic.es') ||
@@ -24168,6 +24168,7 @@ shExpMatch(host, 'firest0rm.net') ||
 shExpMatch(host, 'fireupload.org') ||
 shExpMatch(host, 'fireworkadservices.com') ||
 shExpMatch(host, 'fireworkanalytics.com') ||
+shExpMatch(host, 'fireworks-advertising.com') ||
 shExpMatch(host, 'firoznadiadwala.com') ||
 shExpMatch(host, 'first-pictures.net') ||
 shExpMatch(host, 'first-scr.net') ||
@@ -24932,6 +24933,7 @@ shExpMatch(host, 'fuzzyweather.com') ||
 shExpMatch(host, 'fv2.razergiveaway.com') ||
 shExpMatch(host, 'fv2cheats.com') ||
 shExpMatch(host, 'fwbjgras.cz.cc') ||
+shExpMatch(host, 'fwcdn1.com') ||
 shExpMatch(host, 'fwcdn2.com') ||
 shExpMatch(host, 'fwmrm.net') ||
 shExpMatch(host, 'fxclix.com') ||
@@ -28137,7 +28139,6 @@ shExpMatch(host, 'mathtag.com') ||
 shExpMatch(host, 'matomo.activate.cz') ||
 shExpMatch(host, 'matomo.gals24.ru') ||
 shExpMatch(host, 'matomo.hdweb.ru') ||
-shExpMatch(host, 'matomo.kmkb.ru') ||
 shExpMatch(host, 'matomo.zwetok.ru') ||
 shExpMatch(host, 'matomy.com') ||
 shExpMatch(host, 'matrics.ro') ||
@@ -31231,7 +31232,6 @@ shExpMatch(host, 'scintillatingsilver.com') ||
 shExpMatch(host, 'scintillatingspace.com') ||
 shExpMatch(host, 'scl-hacks.com') ||
 shExpMatch(host, 'sclutian.com') ||
-shExpMatch(host, 'scoobyads.com') ||
 shExpMatch(host, 'scopelight.com') ||
 shExpMatch(host, 'scorecardresearch.com') ||
 shExpMatch(host, 'scoretopic.es') ||
