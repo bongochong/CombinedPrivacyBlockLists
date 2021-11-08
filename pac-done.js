@@ -1,4 +1,4 @@
-// **** Fri Nov  5 08:52:22 PM UTC 2021
+// **** Mon Nov  8 01:44:22 AM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -4868,6 +4868,7 @@ shExpMatch(host, '*.debonairway.com') ||
 shExpMatch(host, '*.debtbusterloans.com') ||
 shExpMatch(host, '*.debtortrackingsystems.com') ||
 shExpMatch(host, '*.decenterads.com') ||
+shExpMatch(host, '*.decisivebase.com') ||
 shExpMatch(host, '*.decisivedrawer.com') ||
 shExpMatch(host, '*.decisiveducks.com') ||
 shExpMatch(host, '*.decknetwork.net') ||
@@ -22482,6 +22483,7 @@ shExpMatch(host, 'debonairway.com') ||
 shExpMatch(host, 'debtbusterloans.com') ||
 shExpMatch(host, 'debtortrackingsystems.com') ||
 shExpMatch(host, 'decenterads.com') ||
+shExpMatch(host, 'decisivebase.com') ||
 shExpMatch(host, 'decisivedrawer.com') ||
 shExpMatch(host, 'decisiveducks.com') ||
 shExpMatch(host, 'decknetwork.net') ||
