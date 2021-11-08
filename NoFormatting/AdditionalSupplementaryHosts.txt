@@ -774,8 +774,6 @@
 0.0.0.0 aaictlogistics.com
 0.0.0.0 aalbc.advertserve.com
 0.0.0.0 aalures.com
-0.0.0.0 aan.amazon.co.jp
-0.0.0.0 aan.amazon.co.uk
 0.0.0.0 aanqylta.com
 0.0.0.0 aapz.com
 0.0.0.0 aarbur.com

@@ -1,4 +1,4 @@
-# Mon Nov  8 01:29:41 AM UTC 2021
+# Mon Nov  8 01:38:57 AM UTC 2021
 # AdGuard Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 00-gov.cn
 0.0.0.0 000123456789.online
