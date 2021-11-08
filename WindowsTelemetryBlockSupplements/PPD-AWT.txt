@@ -2,6 +2,7 @@
 #Not included by default in other lists, as they can interfere with Windows Update
 
 c.msn.com
+cs.dds.microsoft.com
 choice.microsoft.com
 dev.virtualearth.net
 ecn.dev.virtualearth.net
