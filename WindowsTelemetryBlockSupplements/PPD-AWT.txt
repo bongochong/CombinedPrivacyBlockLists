@@ -14,3 +14,4 @@ onecollector.cloudapp.aria.akadns.net
 s.gateway.messenger.live.com
 s0.2mdn.net
 www.msftncsi.com
+ztd.dds.microsoft.com

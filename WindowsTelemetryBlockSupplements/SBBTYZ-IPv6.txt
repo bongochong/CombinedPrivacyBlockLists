@@ -420,4 +420,3 @@
 :: win1710.ipv6.microsoft.com
 :: win8.ipv6.microsoft.com
 :: www.msedge.net
-:: ztd.dds.microsoft.com

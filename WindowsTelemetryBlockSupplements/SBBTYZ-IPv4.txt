@@ -420,4 +420,3 @@
 0.0.0.0 win1710.ipv6.microsoft.com
 0.0.0.0 win8.ipv6.microsoft.com
 0.0.0.0 www.msedge.net
-0.0.0.0 ztd.dds.microsoft.com
