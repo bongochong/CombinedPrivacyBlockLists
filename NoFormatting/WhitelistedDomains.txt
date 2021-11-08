@@ -187,6 +187,7 @@ cookie-script.com
 cookie.monster.com
 cookieblock.trackersimulate.org
 crbcdn.jsfiddle.net
+cs.dds.microsoft.com
 cse.google.com
 csi.gstatic.com
 ctldl.windowsupdate.com
@@ -627,3 +628,4 @@ ytmnd.com
 yui.yahooapis.com
 zee.cws.conviva.com
 zombo.com
+ztd.dds.microsoft.com

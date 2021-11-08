@@ -224,6 +224,7 @@ localhost$
 ^0.0.0.0 cookie.monster.com$
 ^0.0.0.0 cookieblock.trackersimulate.org$
 ^0.0.0.0 crbcdn.jsfiddle.net$
+^0.0.0.0 cs.dds.microsoft.com$
 ^0.0.0.0 cse.google.com$
 ^0.0.0.0 csi.gstatic.com$
 ^0.0.0.0 ctldl.windowsupdate.com$
@@ -664,3 +665,4 @@ localhost$
 ^0.0.0.0 yui.yahooapis.com$
 ^0.0.0.0 zee.cws.conviva.com$
 ^0.0.0.0 zombo.com$
+^0.0.0.0 ztd.dds.microsoft.com$
