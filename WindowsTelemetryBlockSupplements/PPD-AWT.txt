@@ -1,5 +1,5 @@
 #Potentially Problematic Microsoft Telemetry Domains
-#Not included by default in other lists, as they can interfere with Windows Update
+#Not included in other lists, as they can interfere with important Windows features
 
 c.msn.com
 cs.dds.microsoft.com
