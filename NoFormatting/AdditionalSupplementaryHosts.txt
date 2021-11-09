@@ -728,10 +728,6 @@
 0.0.0.0 a0440066.xsph.ru
 0.0.0.0 a0443179.xsph.ru
 0.0.0.0 a0454147.xsph.ru
-0.0.0.0 a0588091.xsph.ru
-0.0.0.0 a0593170.xsph.ru
-0.0.0.0 a0593905.xsph.ru
-0.0.0.0 a0594839.xsph.ru
 0.0.0.0 a0595400.xsph.ru
 0.0.0.0 a1.adform.net
 0.0.0.0 a1.adsplay.xyz
@@ -774,6 +770,7 @@
 0.0.0.0 aaictlogistics.com
 0.0.0.0 aalbc.advertserve.com
 0.0.0.0 aalures.com
+0.0.0.0 aan.amazon-adsystem.com
 0.0.0.0 aanqylta.com
 0.0.0.0 aapz.com
 0.0.0.0 aarbur.com
@@ -5977,7 +5974,6 @@
 0.0.0.0 analytic.gatewayinterface.com
 0.0.0.0 analytic.press
 0.0.0.0 analytic.spamfighter.com
-0.0.0.0 analyticacdn.com
 0.0.0.0 analyticcdn.globalmailer.com
 0.0.0.0 analytics-api-samples.googlecode.com
 0.0.0.0 analytics-api.liveapp.com
@@ -6293,6 +6289,7 @@
 0.0.0.0 android-stat.acestream.net
 0.0.0.0 android-style.com
 0.0.0.0 android.giveapp.jp
+0.0.0.0 android.no-ip.org
 0.0.0.0 android.public.astrsk.net
 0.0.0.0 androidads20.adcolony.com
 0.0.0.0 androidads21.adcolony.com
@@ -6356,6 +6353,7 @@
 0.0.0.0 antivirus.landerhd.com
 0.0.0.0 antyweb.push-ad.com
 0.0.0.0 anxiousapples.com
+0.0.0.0 any-log.videe.tv
 0.0.0.0 anybest.host
 0.0.0.0 anybest.pw
 0.0.0.0 anybest.site
@@ -6481,6 +6479,7 @@
 0.0.0.0 api-public.addthis.com
 0.0.0.0 api-s2s.taboola.com
 0.0.0.0 api-sc2.adsymptotic.com
+0.0.0.0 api.aalbbh84.info
 0.0.0.0 api.ad-brix.com
 0.0.0.0 api.ad-locus.com
 0.0.0.0 api.ad-stir.com
@@ -6525,16 +6524,19 @@
 0.0.0.0 api.aqua-adserver.com
 0.0.0.0 api.areametrics.com
 0.0.0.0 api.ateam-ad.jp
+0.0.0.0 api.bhzejltg.info
 0.0.0.0 api.browsermine.com
 0.0.0.0 api.content-ad.net
 0.0.0.0 api.content.ad
 0.0.0.0 api.crispadvertising.com
 0.0.0.0 api.curation.ameba.jp
 0.0.0.0 api.dable.io
+0.0.0.0 api.data-monitor.info
 0.0.0.0 api.ero-advertising.com
 0.0.0.0 api.flat-ads.com
 0.0.0.0 api.gameanalytics.com
 0.0.0.0 api.inwemo.com
+0.0.0.0 api.jsecoin.com
 0.0.0.0 api.jwhss.com
 0.0.0.0 api.logpartition.com
 0.0.0.0 api.logrocket.com
@@ -6543,12 +6545,14 @@
 0.0.0.0 api.miner.beeppool.org
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api.mobula.sdk.duapps.com
+0.0.0.0 api.netflare.info
 0.0.0.0 api.newsmaxfeednetwork.com
 0.0.0.0 api.petametrics.com
 0.0.0.0 api.popin.cc
 0.0.0.0 api.primecaster.net
 0.0.0.0 api.privy.com
 0.0.0.0 api.pubnative.net
+0.0.0.0 api.pzoifaum.info
 0.0.0.0 api.ranking.rakuten.co.jp
 0.0.0.0 api.redshell.io
 0.0.0.0 api.repro.io
@@ -6579,6 +6583,7 @@
 0.0.0.0 api16-log-sg.pangle.io
 0.0.0.0 api2.batmobi.net
 0.0.0.0 api2.batmobil.net
+0.0.0.0 api211.thefilter.com
 0.0.0.0 api3.adspruce.com
 0.0.0.0 api4report.adsplay.xyz
 0.0.0.0 api5.batmobi.net
@@ -7984,6 +7989,8 @@
 0.0.0.0 cdc.112.2o7.net
 0.0.0.0 cdchealth.org
 0.0.0.0 cdfolkme.cf
+0.0.0.0 cdn-01.anonfiles.com
+0.0.0.0 cdn-13.anonfiles.com
 0.0.0.0 cdn-41111111217-ms-telemetry.net
 0.0.0.0 cdn-4111111217-ms-telemetry.net
 0.0.0.0 cdn-adn.rayjump.com
@@ -8119,6 +8126,7 @@
 0.0.0.0 cdn.logrocket.com
 0.0.0.0 cdn.logrocket.io
 0.0.0.0 cdn.luckyorange.com
+0.0.0.0 cdn.mdotm.com
 0.0.0.0 cdn.media-a.net
 0.0.0.0 cdn.minescripts.info
 0.0.0.0 cdn.monsido.com
@@ -8142,6 +8150,7 @@
 0.0.0.0 cdn.static.zdbb.net
 0.0.0.0 cdn.staticstuff.net
 0.0.0.0 cdn.stickyadstv.com
+0.0.0.0 cdn.streambeam.io
 0.0.0.0 cdn.taboola.com
 0.0.0.0 cdn.taboolasyndication.com
 0.0.0.0 cdn.teads.tv
@@ -8152,6 +8161,7 @@
 0.0.0.0 cdn.tt.omtrdc.net
 0.0.0.0 cdn.tynt.com
 0.0.0.0 cdn.usabilitytracker.com
+0.0.0.0 cdn.vdopia.com
 0.0.0.0 cdn.vt.open8.com
 0.0.0.0 cdn.wbtrk.net
 0.0.0.0 cdn.x-lift.jp
@@ -8204,6 +8214,7 @@
 0.0.0.0 cdnv.ad-stir.com
 0.0.0.0 cds.adecn.com
 0.0.0.0 cds.taboola.com
+0.0.0.0 cds26.ams9.msecn.net
 0.0.0.0 ceaningthe.com
 0.0.0.0 cecash.com
 0.0.0.0 cedeko.ml
@@ -9293,6 +9304,7 @@
 0.0.0.0 cyberduck.fr
 0.0.0.0 cyberduck.it
 0.0.0.0 cyberfreakz.cf
+0.0.0.0 cyberx2013.no-ip.org
 0.0.0.0 cydia.saurik.com.cdngc.net
 0.0.0.0 cyneheard-fau.com
 0.0.0.0 cynergyper4mers.com
@@ -10557,6 +10569,7 @@
 0.0.0.0 evelynswonderland.com
 0.0.0.0 evengparme.com
 0.0.0.0 event-adserver.adikteev.com
+0.0.0.0 event-log.videe.tv
 0.0.0.0 event-logger.tagboard.com.herokudns.com
 0.0.0.0 event-qa.adbrix.io
 0.0.0.0 event-tracking.com
@@ -11564,8 +11577,10 @@
 0.0.0.0 grandioseguide.com
 0.0.0.0 granportale.com.br
 0.0.0.0 granuphos-tn.com
+0.0.0.0 graph.facebook-hardware.com
 0.0.0.0 graph.facebook.com
 0.0.0.0 graph.instagram.com
+0.0.0.0 graph.oculus.com
 0.0.0.0 graphics.adultfriendfinder.com
 0.0.0.0 graphql.logrocket.com
 0.0.0.0 gratis-sexkontakte.com
@@ -16593,7 +16608,6 @@
 0.0.0.0 qwerty12346.ru
 0.0.0.0 qwertzx.ru
 0.0.0.0 qwestfull.112.2o7.net
-0.0.0.0 qxsgxd.com
 0.0.0.0 qxyl.date
 0.0.0.0 qytufpscigbb.com
 0.0.0.0 r-ad.linkshare.jp
@@ -17641,6 +17655,7 @@
 0.0.0.0 serve.adworldmedia.com
 0.0.0.0 serve.bannertrack.net
 0.0.0.0 serve.popads.net
+0.0.0.0 serve.vdopia.com
 0.0.0.0 servedby.adcombination.com
 0.0.0.0 servedby.advertising.com
 0.0.0.0 servedby.adxserve.com
@@ -18091,6 +18106,7 @@
 0.0.0.0 specialdeals.g5e.com
 0.0.0.0 specialtyaltruistic.com
 0.0.0.0 specialtyclub.hitbox.com
+0.0.0.0 spectrun2008.no-ip.org
 0.0.0.0 speead.jp
 0.0.0.0 speedclicks.ero-advertising.com
 0.0.0.0 speeddtc.com
@@ -18971,7 +18987,6 @@
 0.0.0.0 thebusinessdrift.com
 0.0.0.0 thechannelcompany.d1.sc.omtrdc.net
 0.0.0.0 thecontroversialfiles.net
-0.0.0.0 thecowbook.com
 0.0.0.0 thedailystarcom.112.2o7.net
 0.0.0.0 theevanescense.com
 0.0.0.0 thefilter.com
@@ -21196,7 +21211,6 @@
 0.0.0.0 wsdyanaekppyinitalymedicalconsultant3.duckdns.org
 0.0.0.0 wss-gw-1.hitbox.com
 0.0.0.0 wss-gw-3.hitbox.com
-0.0.0.0 wss.analyticacdn.com
 0.0.0.0 wss.nablabee.com
 0.0.0.0 wss.rand.com.ru
 0.0.0.0 wt-eu02.net

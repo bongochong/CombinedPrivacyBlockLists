@@ -1,4 +1,4 @@
-# Mon Nov  8 01:38:40 AM UTC 2021
+# Mon Nov  8 11:59:15 PM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -445,6 +445,7 @@
 0.0.0.0 adadvisor.net
 0.0.0.0 adapi.inlcorp.com
 0.0.0.0 adapter.kaffnet.com
+0.0.0.0 adash.man.aliyuncs.com
 0.0.0.0 adasia-d.openx.net
 0.0.0.0 adasiaholdings.com
 0.0.0.0 adasiatagmanager.appspot.com
@@ -2216,6 +2217,7 @@
 0.0.0.0 bs-wlb-sg.dvgtm.akadns.net
 0.0.0.0 bs-wlb-uswest.dvgtm.akadns.net
 0.0.0.0 bs.eyeblaster.akadns.net
+0.0.0.0 bs.nakanohito.jp
 0.0.0.0 bs.scorecardresearch.com
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 bs.yandex.ru
@@ -3078,6 +3080,8 @@
 0.0.0.0 crosspromotion-us.avosapps.us
 0.0.0.0 crosspromotion.weplayer.cc
 0.0.0.0 crossrider.com
+0.0.0.0 crs-event.line.me
+0.0.0.0 crs-hometab-event.line.me
 0.0.0.0 crunchmind-d.openx.net
 0.0.0.0 crwdcntrl.net
 0.0.0.0 cs.atdmt.com
@@ -4970,6 +4974,7 @@
 0.0.0.0 log.outbrain.org
 0.0.0.0 log.outbrainimg.com
 0.0.0.0 log.pinterest.com
+0.0.0.0 log.pvpgang.com
 0.0.0.0 log.sdk.zadn.vn
 0.0.0.0 log.sina.cn
 0.0.0.0 log.smaato.net
@@ -7675,6 +7680,7 @@
 0.0.0.0 t.ants.vn
 0.0.0.0 t.appsflyer.com
 0.0.0.0 t.beanstalkdata.com
+0.0.0.0 t.castle.io
 0.0.0.0 t.chartboost.com
 0.0.0.0 t.cr-nielsen.com
 0.0.0.0 t.d.adup-tech.com
@@ -7731,6 +7737,7 @@
 0.0.0.0 tag.gammaplatform.com
 0.0.0.0 tag.getdrip.com
 0.0.0.0 tag.imonomy.com
+0.0.0.0 tag.karte.io
 0.0.0.0 tag.leadplace.fr
 0.0.0.0 tag.marinsm.com
 0.0.0.0 tag.mtrcs.samba.tv
@@ -7967,7 +7974,9 @@
 0.0.0.0 tr.ad-stir.com
 0.0.0.0 tr.alphonso.tv
 0.0.0.0 tr.blismedia.com
+0.0.0.0 tr.gunosy.com
 0.0.0.0 tr.iadsdk.apple.com
+0.0.0.0 tr.line.me
 0.0.0.0 tr.snapchat.com
 0.0.0.0 tr2.smarterhq.io
 0.0.0.0 tr6.snapchat.com

@@ -1,4 +1,4 @@
-# Mon Nov  8 01:39:39 AM UTC 2021
+# Tue Nov  9 12:00:09 AM UTC 2021
 # AdGuard DNS Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 00-gov.cn
 0.0.0.0 0001.best
@@ -1650,6 +1650,7 @@
 0.0.0.0 a8rm1m4msbbh.com
 0.0.0.0 a8ww.net
 0.0.0.0 a907907.com
+0.0.0.0 a9324.cn
 0.0.0.0 a9377j.com
 0.0.0.0 a9d7c19f0282.com
 0.0.0.0 a9nf3hg5c2.com
@@ -2220,6 +2221,7 @@
 0.0.0.0 adaptingtova.biz
 0.0.0.0 adaptiveads.com
 0.0.0.0 adaranth.com
+0.0.0.0 adash.man.aliyuncs.com
 0.0.0.0 adasiaholdings.com
 0.0.0.0 adasist.com
 0.0.0.0 adasta.it
@@ -4320,6 +4322,7 @@
 0.0.0.0 alogationa.co
 0.0.0.0 alogs.umeng.com
 0.0.0.0 alogs.umengcloud.com
+0.0.0.0 alogsus.umeng.com
 0.0.0.0 alogus.umeng.com
 0.0.0.0 aloha-news.net
 0.0.0.0 aloissentence.pro
@@ -4939,6 +4942,7 @@
 0.0.0.0 aodepuo.cn
 0.0.0.0 aoidf3.com
 0.0.0.0 aomde.com
+0.0.0.0 aomngb.com
 0.0.0.0 aonecomd.com
 0.0.0.0 aonpnndg.com
 0.0.0.0 aopxnvrugx.com
@@ -5495,7 +5499,6 @@
 0.0.0.0 atanx.alicdn.com
 0.0.0.0 atarshaboor.com
 0.0.0.0 atas.io
-0.0.0.0 atatus.com
 0.0.0.0 atavas.ru
 0.0.0.0 atax.gamespy.com
 0.0.0.0 atax.gamestats.com
@@ -5772,6 +5775,7 @@
 0.0.0.0 awhoufob.com
 0.0.0.0 awin1.com
 0.0.0.0 awkmzvii39ei4.xyz
+0.0.0.0 awleo.cn
 0.0.0.0 awlnqqackjkixk.com
 0.0.0.0 awltovhc.com
 0.0.0.0 awmengine.net
@@ -5818,6 +5822,7 @@
 0.0.0.0 axlpf.xyz
 0.0.0.0 axoncoho.tk
 0.0.0.0 axonix.com
+0.0.0.0 axp9.com
 0.0.0.0 axpvy.cn
 0.0.0.0 axqpn.cn
 0.0.0.0 axuns.com
@@ -6461,6 +6466,7 @@
 0.0.0.0 beach-trk.com
 0.0.0.0 beachrule.com
 0.0.0.0 beacon-1.newrelic.com
+0.0.0.0 beacon-api.aliyuncs.com
 0.0.0.0 beacon-fullpage-predictor.goguardian.com
 0.0.0.0 beacon.affil.walmart.com
 0.0.0.0 beacon.carfax.com
@@ -6659,6 +6665,7 @@
 0.0.0.0 benthose.com
 0.0.0.0 bento.agoda.com
 0.0.0.0 bentonow.com
+0.0.0.0 benwfw.cn
 0.0.0.0 beonixom.com
 0.0.0.0 beparaspr.com
 0.0.0.0 bephamema.com
@@ -7082,6 +7089,7 @@
 0.0.0.0 bjxfinance.cn
 0.0.0.0 bjxgw.top
 0.0.0.0 bjygfd.com
+0.0.0.0 bjymall.cn
 0.0.0.0 bjytdqwx.com
 0.0.0.0 bjyyxywjm.cn
 0.0.0.0 bjzcbx.com
@@ -7225,6 +7233,7 @@
 0.0.0.0 bluvenie.com
 0.0.0.0 blvdstatus.com
 0.0.0.0 blyxb.27667.club
+0.0.0.0 bm-rx.atatus.com
 0.0.0.0 bm23.com
 0.0.0.0 bm324.com
 0.0.0.0 bm999999.com
@@ -7497,6 +7506,7 @@
 0.0.0.0 bqiovml.com
 0.0.0.0 bqsm.com.cn
 0.0.0.0 bqugumvxc.biz
+0.0.0.0 br-rx.atatus.com
 0.0.0.0 br.phorm.com
 0.0.0.0 br.rk.com
 0.0.0.0 braggingreorganizeunderworld.com
@@ -7878,6 +7888,7 @@
 0.0.0.0 bvahezakk.com
 0.0.0.0 bvcpedy6dyjgkkl.ru
 0.0.0.0 bveyge.com
+0.0.0.0 bviehlvfp.xyz
 0.0.0.0 bvl5bziz9d.ru
 0.0.0.0 bvmcdn.net
 0.0.0.0 bvmtogo.com
@@ -10346,6 +10357,7 @@
 0.0.0.0 criticbrass.com
 0.0.0.0 criticismvillagegun.com
 0.0.0.0 critictruck.com
+0.0.0.0 crjpingate.com
 0.0.0.0 crm-analytics.imweb.ru
 0.0.0.0 crm.agency
 0.0.0.0 crm.bizfly.vn
@@ -10378,6 +10390,8 @@
 0.0.0.0 crpoy.com
 0.0.0.0 crptentry.com
 0.0.0.0 crptgate.com
+0.0.0.0 crs-event.line.me
+0.0.0.0 crs-hometab-event.line.me
 0.0.0.0 crsspxl.com
 0.0.0.0 crta.dailymail.co.uk
 0.0.0.0 crta.metro.co.uk
@@ -12047,7 +12061,6 @@
 0.0.0.0 dispatchunique.com
 0.0.0.0 dispensablestranger.com
 0.0.0.0 displacepepperyadvertisement.com
-0.0.0.0 display.nativemedia.rs
 0.0.0.0 display.studio
 0.0.0.0 displaycontentnetwork.com
 0.0.0.0 displaycontentprofit.com
@@ -12223,6 +12236,7 @@
 0.0.0.0 dm1.zjydt.com
 0.0.0.0 dm7gsepi27zsx.cloudfront.net
 0.0.0.0 dmanalytics1.com
+0.0.0.0 dmc1acwvwny3.cloudfront.net
 0.0.0.0 dmclick.cn
 0.0.0.0 dmd53.com
 0.0.0.0 dmdi.pl
@@ -15317,6 +15331,7 @@
 0.0.0.0 furryhorses.com
 0.0.0.0 fuse-cloud.com
 0.0.0.0 fuse-data.com
+0.0.0.0 fusedeck.net
 0.0.0.0 fuseplatform.net
 0.0.0.0 fusepsywi.com
 0.0.0.0 fusestats.com
@@ -16618,6 +16633,7 @@
 0.0.0.0 grifictuberal.site
 0.0.0.0 grilledjut.com
 0.0.0.0 grilydivy.com
+0.0.0.0 grimechethy.pro
 0.0.0.0 grinzamenis.com
 0.0.0.0 gripdownload.co
 0.0.0.0 grirault.net
@@ -18300,6 +18316,7 @@
 0.0.0.0 idio.co
 0.0.0.0 idiotyet.com
 0.0.0.0 idlinz.com
+0.0.0.0 idmee.cn
 0.0.0.0 idntfy.ru
 0.0.0.0 idoc58.com
 0.0.0.0 idot.cz
@@ -18373,6 +18390,7 @@
 0.0.0.0 iholot.ru
 0.0.0.0 ihowed.info
 0.0.0.0 ihreapotheken.de
+0.0.0.0 ihvdflxjtdsgnqb.xyz
 0.0.0.0 ii1.chajiaotong.com
 0.0.0.0 iia1.pikacn.com
 0.0.0.0 iias.eu
@@ -20343,6 +20361,7 @@
 0.0.0.0 khuokpj.cn
 0.0.0.0 khuoy.com
 0.0.0.0 khvfg.com
+0.0.0.0 ki47.com
 0.0.0.0 ki74.com
 0.0.0.0 kiafailersov.top
 0.0.0.0 kibaneba.ru
@@ -20695,6 +20714,7 @@
 0.0.0.0 kubicserves.icu
 0.0.0.0 kudrafa.ru
 0.0.0.0 kudzuphloemgunk.tech
+0.0.0.0 kuhaswuwaiting.xyz
 0.0.0.0 kuheju.com
 0.0.0.0 kuhni.kuhnisiblings.ru
 0.0.0.0 kuhnisister.ru
@@ -21729,6 +21749,7 @@
 0.0.0.0 log.plinga.de
 0.0.0.0 log.plo.vn
 0.0.0.0 log.prezi.com
+0.0.0.0 log.pvpgang.com
 0.0.0.0 log.quora.com
 0.0.0.0 log.reformal.ru
 0.0.0.0 log.rutube.ru
@@ -23503,6 +23524,7 @@
 0.0.0.0 mnptinibfbv.com
 0.0.0.0 mnrywnesslkmdy.com
 0.0.0.0 mnsd.xyz
+0.0.0.0 mnsuseumco.xyz
 0.0.0.0 mnszpr.cn
 0.0.0.0 mntzr11.net
 0.0.0.0 mntzrlt.net
@@ -23903,6 +23925,7 @@
 0.0.0.0 mrjfsc.cn
 0.0.0.0 mrksys.com
 0.0.0.0 mrnpwuere.com
+0.0.0.0 mrqls.to
 0.0.0.0 mrtbbnr.com
 0.0.0.0 mrvio.com
 0.0.0.0 mrzfjsbjj.com
@@ -24340,6 +24363,7 @@
 0.0.0.0 nativeads.com
 0.0.0.0 nativeadsfeed.com
 0.0.0.0 nativeleads.net
+0.0.0.0 nativemedia.rs
 0.0.0.0 nativendo.com
 0.0.0.0 nativendo.de
 0.0.0.0 nativepu.sh
@@ -26897,6 +26921,7 @@
 0.0.0.0 pffw8mgd.com
 0.0.0.0 pfk9fywba5.com
 0.0.0.0 pflexads.com
+0.0.0.0 pflhnpu.cn
 0.0.0.0 pfrve.xyz
 0.0.0.0 pftfk.com
 0.0.0.0 pfx.sma-clsystem.info
@@ -28646,6 +28671,7 @@
 0.0.0.0 q-counter.com
 0.0.0.0 q-sht-zidjk.co
 0.0.0.0 q-stats.nl
+0.0.0.0 q0mn5t187u.ru
 0.0.0.0 q0yxfvuo32.ru
 0.0.0.0 q0zsp5e3dv.com
 0.0.0.0 q1.yyxwzx.com
@@ -28772,6 +28798,7 @@
 0.0.0.0 qiaoenyl.xyz
 0.0.0.0 qiaohong.ltd
 0.0.0.0 qiaopiguniang.com
+0.0.0.0 qibalmm.com
 0.0.0.0 qichetuoyun.com.cn
 0.0.0.0 qiditrade.com
 0.0.0.0 qienews.cn
@@ -29016,6 +29043,7 @@
 0.0.0.0 quoashei.com
 0.0.0.0 quotedimpressive.com
 0.0.0.0 quotes.com
+0.0.0.0 quqianlai.cn
 0.0.0.0 quqizo.com
 0.0.0.0 qusyjoyo.xyz
 0.0.0.0 qutltjamq.com
@@ -30233,6 +30261,7 @@
 0.0.0.0 rotabanner.kulichki.net
 0.0.0.0 rotabetaffiliates.com
 0.0.0.0 rotabol.com
+0.0.0.0 rotarb.bid
 0.0.0.0 rotate4all.com
 0.0.0.0 rotate5url.com
 0.0.0.0 rotation-context.ru
@@ -31402,6 +31431,7 @@
 0.0.0.0 sfz023.com
 0.0.0.0 sg.freeimg.ru
 0.0.0.0 sg01.rayjump.com
+0.0.0.0 sg01.top
 0.0.0.0 sg2rgnza7k9t.com
 0.0.0.0 sgaga.xyz
 0.0.0.0 sgali-mcs.byteoversea.com
@@ -33613,6 +33643,7 @@
 0.0.0.0 sunior.loftlm.ru
 0.0.0.0 sunios.de
 0.0.0.0 sunlightmetrics.b-cdn.net
+0.0.0.0 sunmartkj.cn
 0.0.0.0 sunmedia.net
 0.0.0.0 sunmedia.tv
 0.0.0.0 sunnybluecoral.com
@@ -34061,6 +34092,7 @@
 0.0.0.0 tag.goadopt.io
 0.0.0.0 tag.goldenbees.fr
 0.0.0.0 tag.hariken.co
+0.0.0.0 tag.karte.io
 0.0.0.0 tag.leadplace.fr
 0.0.0.0 tag.myplay.com
 0.0.0.0 tag.nifty.com
@@ -34272,6 +34304,7 @@
 0.0.0.0 tcals.cn
 0.0.0.0 tcamav.com
 0.0.0.0 tcbdd.cn
+0.0.0.0 tccb71h.cn
 0.0.0.0 tccbanner.com
 0.0.0.0 tcdnwha.com
 0.0.0.0 tce.alicdn.com
@@ -35034,6 +35067,7 @@
 0.0.0.0 tngmn.com
 0.0.0.0 tnkfactory.com
 0.0.0.0 tnl808z.cn
+0.0.0.0 tnnpkperngdhtv.xyz
 0.0.0.0 tns-counter.ru
 0.0.0.0 tns-cs.net
 0.0.0.0 tns-gallup.dk
@@ -35335,10 +35369,12 @@
 0.0.0.0 tr.connatix.com
 0.0.0.0 tr.datanyze.com
 0.0.0.0 tr.datatrics.com
+0.0.0.0 tr.gunosy.com
 0.0.0.0 tr.infopanel.jp
 0.0.0.0 tr.interlake.net
 0.0.0.0 tr.junaroad.com
 0.0.0.0 tr.lfeeder.com
+0.0.0.0 tr.line.me
 0.0.0.0 tr.marsflag.com
 0.0.0.0 tr.n2.hk
 0.0.0.0 tr.namu.wiki
@@ -36465,6 +36501,7 @@
 0.0.0.0 tz284.com
 0.0.0.0 tzh019.cn
 0.0.0.0 tzhqg.cn
+0.0.0.0 tzjovzs.cn
 0.0.0.0 tzlchxdwreirbv.com
 0.0.0.0 tzlit.cn
 0.0.0.0 tzwkiorzdqqa.com
@@ -37119,6 +37156,7 @@
 0.0.0.0 uw88vnd.com
 0.0.0.0 uw88vnd1.com
 0.0.0.0 uwdtibwk.com
+0.0.0.0 uwdvcn.com
 0.0.0.0 uwoaptee.com
 0.0.0.0 uwsxz.com
 0.0.0.0 uwuyn.us
@@ -37127,6 +37165,7 @@
 0.0.0.0 uxszams.cn
 0.0.0.0 uxvtglgbeshxn.bid
 0.0.0.0 uxxfierq.xyz
+0.0.0.0 uyechyymr.com
 0.0.0.0 uyhlpmehm.com
 0.0.0.0 uymjbn.com
 0.0.0.0 uymkdz9s.com
@@ -40526,6 +40565,7 @@
 0.0.0.0 zanox-affiliate.de
 0.0.0.0 zanox.com
 0.0.0.0 zantainet.com
+0.0.0.0 zaomavzcoww.com
 0.0.0.0 zap.buzz
 0.0.0.0 zaparena.com
 0.0.0.0 zapbox.ru
