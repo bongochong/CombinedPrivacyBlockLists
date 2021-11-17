@@ -1,4 +1,4 @@
-# Fri Nov 12 10:09:54 PM UTC 2021
+# Wed Nov 17 09:37:17 PM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -1117,7 +1117,6 @@
 0.0.0.0 analytics.seattleclouds.com
 0.0.0.0 analytics.seekxr.com
 0.0.0.0 analytics.shareaholic.com
-0.0.0.0 analytics.slashdotmedia.com
 0.0.0.0 analytics.snappea.com
 0.0.0.0 analytics.snaptube.app
 0.0.0.0 analytics.snssdk.com
@@ -1301,7 +1300,6 @@
 0.0.0.0 api.huqindustries.co.uk
 0.0.0.0 api.iadvize.com
 0.0.0.0 api.icloseli.com
-0.0.0.0 api.icmobile.singlewire.com
 0.0.0.0 api.idio.co
 0.0.0.0 api.ihuman.com
 0.0.0.0 api.immomo.com
@@ -2823,7 +2821,6 @@
 0.0.0.0 convlatbmp.taboola.com
 0.0.0.0 convnjmp.taboola.com
 0.0.0.0 cookie-cdn.cookiepro.com
-0.0.0.0 cookie-jam.sgn.com
 0.0.0.0 cookie-sync-service-prod.steelhousemedia.com
 0.0.0.0 cookie.brealtime.com
 0.0.0.0 cookie.vrtzads.com
@@ -4291,7 +4288,6 @@
 0.0.0.0 intouch.arcsoft.com
 0.0.0.0 intowow.com
 0.0.0.0 inv-nets-eu.admixer.net
-0.0.0.0 invenio.sgn.com
 0.0.0.0 inventory.vidazoo.com
 0.0.0.0 investingchannel.com
 0.0.0.0 io.innertrends.com
@@ -4576,10 +4572,7 @@
 0.0.0.0 log-api.aillis.net
 0.0.0.0 log-collector.svctr.zynga.com
 0.0.0.0 log-collectors-73517960.us-east-1.elb.amazonaws.com
-0.0.0.0 log-config.samsungacr.com
 0.0.0.0 log-dbff2e04.us.v2.we-stats.com
-0.0.0.0 log-ingestion-eu.samsungacr.com
-0.0.0.0 log-ingestion.samsungacr.com
 0.0.0.0 log-tb.isnssdk.com
 0.0.0.0 log-tb.sgsnssdk.com
 0.0.0.0 log-upload-eur.mihoyo.com
@@ -6232,7 +6225,6 @@
 0.0.0.0 sales.idio.co
 0.0.0.0 sam4m.com
 0.0.0.0 sample-api-v2.crazyegg.com
-0.0.0.0 samsungacr.com
 0.0.0.0 samsungads.com
 0.0.0.0 san-www.adobetag.com.edgekey.net
 0.0.0.0 san.push.io.edgekey.net
@@ -7738,9 +7730,6 @@
 0.0.0.0 us.criteo.net
 0.0.0.0 us.dotomi.weighted.com.akadns.net
 0.0.0.0 us.iad.legacy.dotomi.weighted.com.akadns.net
-0.0.0.0 us.ibs.lgappstv.com
-0.0.0.0 us.lgtvsdp.com
-0.0.0.0 us.rdx2.lgtvsdp.com
 0.0.0.0 us.sjc.dotomi.weighted.com.akadns.net
 0.0.0.0 us.sjc.legacy.dotomi.weighted.com.akadns.net
 0.0.0.0 us.tags.newscgp.com
