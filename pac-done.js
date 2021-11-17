@@ -1,4 +1,4 @@
-// **** Fri Nov 12 10:15:07 PM UTC 2021
+// **** Wed Nov 17 09:43:24 PM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -6610,6 +6610,7 @@ shExpMatch(host, '*.flexbanner.com') ||
 shExpMatch(host, '*.flexdrop.fun') ||
 shExpMatch(host, '*.flexdrops.fun') ||
 shExpMatch(host, '*.flimsycircle.com') ||
+shExpMatch(host, '*.flimsythought.com') ||
 shExpMatch(host, '*.flipsphere.ru') ||
 shExpMatch(host, '*.flix-film.com') ||
 shExpMatch(host, '*.flix-spain.com') ||
@@ -7596,6 +7597,7 @@ shExpMatch(host, '*.gator.com') ||
 shExpMatch(host, '*.gatotkaca.pw') ||
 shExpMatch(host, '*.gaug.es') ||
 shExpMatch(host, '*.gavih.org') ||
+shExpMatch(host, '*.gavvia.com') ||
 shExpMatch(host, '*.gayadnetwork.com') ||
 shExpMatch(host, '*.gaymormon.com') ||
 shExpMatch(host, '*.gazacham.ps') ||
@@ -9461,6 +9463,7 @@ shExpMatch(host, '*.itunesgiftcardcodes.org') ||
 shExpMatch(host, '*.itunesgiftcardgenerators.org') ||
 shExpMatch(host, '*.itunesgiftcardsgenerator.com') ||
 shExpMatch(host, '*.itunesvouchergiveaway.com') ||
+shExpMatch(host, '*.iubzka.online') ||
 shExpMatch(host, '*.iunlockiphone5hq.com') ||
 shExpMatch(host, '*.iupload4you.com') ||
 shExpMatch(host, '*.iuploadfile.com') ||
@@ -16065,6 +16068,7 @@ shExpMatch(host, '*.unveilhacks.com') ||
 shExpMatch(host, '*.unwieldyhealth.com') ||
 shExpMatch(host, '*.unwrittenspot.com') ||
 shExpMatch(host, '*.uomo-shopping.com') ||
+shExpMatch(host, '*.uowbqce.surf') ||
 shExpMatch(host, '*.up-flow.org') ||
 shExpMatch(host, '*.up.mykings.pw') ||
 shExpMatch(host, '*.updat120.clanteam.com') ||
@@ -24235,6 +24239,7 @@ shExpMatch(host, 'flexbanner.com') ||
 shExpMatch(host, 'flexdrop.fun') ||
 shExpMatch(host, 'flexdrops.fun') ||
 shExpMatch(host, 'flimsycircle.com') ||
+shExpMatch(host, 'flimsythought.com') ||
 shExpMatch(host, 'flipsphere.ru') ||
 shExpMatch(host, 'flix-film.com') ||
 shExpMatch(host, 'flix-spain.com') ||
@@ -25221,6 +25226,7 @@ shExpMatch(host, 'gator.com') ||
 shExpMatch(host, 'gatotkaca.pw') ||
 shExpMatch(host, 'gaug.es') ||
 shExpMatch(host, 'gavih.org') ||
+shExpMatch(host, 'gavvia.com') ||
 shExpMatch(host, 'gayadnetwork.com') ||
 shExpMatch(host, 'gaymormon.com') ||
 shExpMatch(host, 'gazacham.ps') ||
@@ -27086,6 +27092,7 @@ shExpMatch(host, 'itunesgiftcardcodes.org') ||
 shExpMatch(host, 'itunesgiftcardgenerators.org') ||
 shExpMatch(host, 'itunesgiftcardsgenerator.com') ||
 shExpMatch(host, 'itunesvouchergiveaway.com') ||
+shExpMatch(host, 'iubzka.online') ||
 shExpMatch(host, 'iunlockiphone5hq.com') ||
 shExpMatch(host, 'iupload4you.com') ||
 shExpMatch(host, 'iuploadfile.com') ||
@@ -33690,6 +33697,7 @@ shExpMatch(host, 'unveilhacks.com') ||
 shExpMatch(host, 'unwieldyhealth.com') ||
 shExpMatch(host, 'unwrittenspot.com') ||
 shExpMatch(host, 'uomo-shopping.com') ||
+shExpMatch(host, 'uowbqce.surf') ||
 shExpMatch(host, 'up-flow.org') ||
 shExpMatch(host, 'up.mykings.pw') ||
 shExpMatch(host, 'updat120.clanteam.com') ||
