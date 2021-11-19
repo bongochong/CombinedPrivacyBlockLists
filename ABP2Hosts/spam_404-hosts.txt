@@ -1,4 +1,4 @@
-# Wed Nov 17 09:38:13 PM UTC 2021
+# Fri Nov 19 09:00:40 PM UTC 2021
 # Spam404 Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 001www.com
 0.0.0.0 0daygameparadise.com
@@ -2486,7 +2486,6 @@
 0.0.0.0 fifa14-hack-coins.info
 0.0.0.0 fifa14-hack-players.biz
 0.0.0.0 fifa14.epickeys.com
-0.0.0.0 fifa14.get4games.com
 0.0.0.0 fifa14.sharezips.info
 0.0.0.0 fifa14.social-cheats.com
 0.0.0.0 fifa14androidhack.com
@@ -2780,7 +2779,6 @@
 0.0.0.0 fr.comohackearelface.com
 0.0.0.0 fr.dilimania.net
 0.0.0.0 fr.freeskypecredit.com
-0.0.0.0 france.get4games.com
 0.0.0.0 france.id100429421-9222533281.e406019.com
 0.0.0.0 france.id108979765-7218227704.w595505.com
 0.0.0.0 france.id130546622-3701190119.w595505.com
@@ -3579,7 +3577,6 @@
 0.0.0.0 get-cracked.com
 0.0.0.0 get-hack.com
 0.0.0.0 get1000followers.com
-0.0.0.0 get4games.com
 0.0.0.0 getallforgames.com
 0.0.0.0 getbetafree.com
 0.0.0.0 getbillsdocumentation.com
@@ -5400,7 +5397,6 @@
 0.0.0.0 msihacks.com
 0.0.0.0 mslivegirl.com
 0.0.0.0 msnhackerpro.com
-0.0.0.0 msp.get4games.com
 0.0.0.0 msp.jailbreakall.net
 0.0.0.0 msp4free.org
 0.0.0.0 mspointgenerator.net
@@ -7272,7 +7268,6 @@
 0.0.0.0 thronerushcheats.net
 0.0.0.0 thronerushhackonline.net
 0.0.0.0 thugskins.top
-0.0.0.0 thunderrun.get4games.com
 0.0.0.0 thunderruncheats.elitegamershub.com
 0.0.0.0 tiburon.viralvideos.es
 0.0.0.0 ticdewi.ru
@@ -7637,7 +7632,6 @@
 0.0.0.0 vid-id.org
 0.0.0.0 vid.jozmovie.xyz
 0.0.0.0 video-id.org
-0.0.0.0 video.get4games.com
 0.0.0.0 videofxtools.com
 0.0.0.0 videojuh.biz
 0.0.0.0 videonews247.net
