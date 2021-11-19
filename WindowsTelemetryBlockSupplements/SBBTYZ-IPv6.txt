@@ -1,7 +1,7 @@
 #Anti-Telemetry Hosts for Windows from TYZBIT, CrazyMax and SpyBot Anti-Beacon
 #IPv6 Version
 #Included in default hosts file
-#Last update 11/07/2021
+#Last update 11/19/2021
 
 :: a.ads1.msn.com
 :: a.ads2.msads.net
@@ -29,17 +29,9 @@
 :: b.ads2.msads.net
 :: b.rad.msn.com
 :: bingads.microsoft.com
-:: bl3301-a.1drv.com
-:: bl3301-c.1drv.com
-:: bl3301-g.1drv.com
 :: bn2-ris-ap-prod-atm.trafficmanager.net
 :: bn2-ris-prod-atm.trafficmanager.net
-:: bn2b-cor001.api.p001.1drv.com
-:: bn2b-cor002.api.p001.1drv.com
-:: bn2b-cor003.api.p001.1drv.com
-:: bn2b-cor004.api.p001.1drv.com
 :: bn2wns1.wns.windows.com
-:: bn3p-cor001.api.p001.1drv.com
 :: bn3sch020010558.wns.windows.com
 :: bn3sch020010560.wns.windows.com
 :: bn3sch020010618.wns.windows.com
@@ -80,9 +72,6 @@
 :: browser.events.data.microsoft.com
 :: browser.pipe.aria.microsoft.com
 :: bs.serving-sys.com
-:: by3301-a.1drv.com
-:: by3301-c.1drv.com
-:: by3301-e.1drv.com
 :: c.atdmt.com
 :: ca.telemetry.microsoft.com
 :: cache.datamart.windows.com
@@ -187,13 +176,6 @@
 :: cds869.lon.llnw.net
 :: ceuswatcab01.blob.core.windows.net
 :: ceuswatcab02.blob.core.windows.net
-:: ch1-cor001.api.p001.1drv.com
-:: ch1-cor002.api.p001.1drv.com
-:: ch3301-c.1drv.com
-:: ch3301-e.1drv.com
-:: ch3301-g.1drv.com
-:: ch3302-c.1drv.com
-:: ch3302-e.1drv.com
 :: choice.microsoft.com.nsatc.net
 :: choice.microsoft.com.nstac.net
 :: compatexchange.cloudapp.net
@@ -304,28 +286,6 @@
 :: hk2sch130022135.wns.windows.com
 :: hk2wns1.wns.windows.com
 :: hk2wns1b.wns.windows.com
-:: i-am3p-cor001.api.p001.1drv.com
-:: i-am3p-cor002.api.p001.1drv.com
-:: i-am3p-cor003.api.p001.1drv.com
-:: i-am3p-cor004.api.p001.1drv.com
-:: i-am3p-cor005.api.p001.1drv.com
-:: i-bl6p-cor001.api.p001.1drv.com
-:: i-bl6p-cor002.api.p001.1drv.com
-:: i-bn3p-cor001.api.p001.1drv.com
-:: i-bn3p-cor090.api.p001.1drv.com
-:: i-by3p-cor001.api.p001.1drv.com
-:: i-by3p-cor002.api.p001.1drv.com
-:: i-ch1-cor001.api.p001.1drv.com
-:: i-ch1-cor002.api.p001.1drv.com
-:: i-db3p-cor001.api.p001.1drv.com
-:: i-db3p-cor002.api.p001.1drv.com
-:: i-db3p-cor003.api.p001.1drv.com
-:: i-db3p-cor004.api.p001.1drv.com
-:: i-db3p-cor005.api.p001.1drv.com
-:: i-sn2-cor001.api.p001.1drv.com
-:: i-sn2-cor002.api.p001.1drv.com
-:: i-sn3p-cor001.api.p001.1drv.com
-:: i-sn3p-cor002.api.p001.1drv.com
 :: i1.services.social.microsoft.com
 :: i1.services.social.microsoft.com.nsatc.net
 :: i1.services.social.microsoft.comv10.vortex-win.data.microsoft.com
@@ -365,9 +325,6 @@
 :: settings.data.glbdns2.microsoft.com
 :: settingsfd-geo.trafficmanager.net
 :: sg2p.wns.windows.com
-:: sn3301-c.1drv.com
-:: sn3301-e.1drv.com
-:: sn3301-g.1drv.com
 :: spynet2.microsoft.com
 :: spynetalt.microsoft.com
 :: spyneteurope.microsoft.akadns.net

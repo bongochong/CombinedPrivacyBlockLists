@@ -1,7 +1,7 @@
 #Anti-Telemetry Hosts for Windows from TYZBIT, CrazyMax and SpyBot Anti-Beacon
 #IPv4 Version
 #Included in default hosts file
-#Last update 11/07/2021
+#Last update 11/19/2021
 
 0.0.0.0 a.ads1.msn.com
 0.0.0.0 a.ads2.msads.net
@@ -29,17 +29,9 @@
 0.0.0.0 b.ads2.msads.net
 0.0.0.0 b.rad.msn.com
 0.0.0.0 bingads.microsoft.com
-0.0.0.0 bl3301-a.1drv.com
-0.0.0.0 bl3301-c.1drv.com
-0.0.0.0 bl3301-g.1drv.com
 0.0.0.0 bn2-ris-ap-prod-atm.trafficmanager.net
 0.0.0.0 bn2-ris-prod-atm.trafficmanager.net
-0.0.0.0 bn2b-cor001.api.p001.1drv.com
-0.0.0.0 bn2b-cor002.api.p001.1drv.com
-0.0.0.0 bn2b-cor003.api.p001.1drv.com
-0.0.0.0 bn2b-cor004.api.p001.1drv.com
 0.0.0.0 bn2wns1.wns.windows.com
-0.0.0.0 bn3p-cor001.api.p001.1drv.com
 0.0.0.0 bn3sch020010558.wns.windows.com
 0.0.0.0 bn3sch020010560.wns.windows.com
 0.0.0.0 bn3sch020010618.wns.windows.com
@@ -80,9 +72,6 @@
 0.0.0.0 browser.events.data.microsoft.com
 0.0.0.0 browser.pipe.aria.microsoft.com
 0.0.0.0 bs.serving-sys.com
-0.0.0.0 by3301-a.1drv.com
-0.0.0.0 by3301-c.1drv.com
-0.0.0.0 by3301-e.1drv.com
 0.0.0.0 c.atdmt.com
 0.0.0.0 ca.telemetry.microsoft.com
 0.0.0.0 cache.datamart.windows.com
@@ -187,13 +176,6 @@
 0.0.0.0 cds869.lon.llnw.net
 0.0.0.0 ceuswatcab01.blob.core.windows.net
 0.0.0.0 ceuswatcab02.blob.core.windows.net
-0.0.0.0 ch1-cor001.api.p001.1drv.com
-0.0.0.0 ch1-cor002.api.p001.1drv.com
-0.0.0.0 ch3301-c.1drv.com
-0.0.0.0 ch3301-e.1drv.com
-0.0.0.0 ch3301-g.1drv.com
-0.0.0.0 ch3302-c.1drv.com
-0.0.0.0 ch3302-e.1drv.com
 0.0.0.0 choice.microsoft.com.nsatc.net
 0.0.0.0 choice.microsoft.com.nstac.net
 0.0.0.0 compatexchange.cloudapp.net
@@ -304,28 +286,6 @@
 0.0.0.0 hk2sch130022135.wns.windows.com
 0.0.0.0 hk2wns1.wns.windows.com
 0.0.0.0 hk2wns1b.wns.windows.com
-0.0.0.0 i-am3p-cor001.api.p001.1drv.com
-0.0.0.0 i-am3p-cor002.api.p001.1drv.com
-0.0.0.0 i-am3p-cor003.api.p001.1drv.com
-0.0.0.0 i-am3p-cor004.api.p001.1drv.com
-0.0.0.0 i-am3p-cor005.api.p001.1drv.com
-0.0.0.0 i-bl6p-cor001.api.p001.1drv.com
-0.0.0.0 i-bl6p-cor002.api.p001.1drv.com
-0.0.0.0 i-bn3p-cor001.api.p001.1drv.com
-0.0.0.0 i-bn3p-cor090.api.p001.1drv.com
-0.0.0.0 i-by3p-cor001.api.p001.1drv.com
-0.0.0.0 i-by3p-cor002.api.p001.1drv.com
-0.0.0.0 i-ch1-cor001.api.p001.1drv.com
-0.0.0.0 i-ch1-cor002.api.p001.1drv.com
-0.0.0.0 i-db3p-cor001.api.p001.1drv.com
-0.0.0.0 i-db3p-cor002.api.p001.1drv.com
-0.0.0.0 i-db3p-cor003.api.p001.1drv.com
-0.0.0.0 i-db3p-cor004.api.p001.1drv.com
-0.0.0.0 i-db3p-cor005.api.p001.1drv.com
-0.0.0.0 i-sn2-cor001.api.p001.1drv.com
-0.0.0.0 i-sn2-cor002.api.p001.1drv.com
-0.0.0.0 i-sn3p-cor001.api.p001.1drv.com
-0.0.0.0 i-sn3p-cor002.api.p001.1drv.com
 0.0.0.0 i1.services.social.microsoft.com
 0.0.0.0 i1.services.social.microsoft.com.nsatc.net
 0.0.0.0 i1.services.social.microsoft.comv10.vortex-win.data.microsoft.com
@@ -365,9 +325,6 @@
 0.0.0.0 settings.data.glbdns2.microsoft.com
 0.0.0.0 settingsfd-geo.trafficmanager.net
 0.0.0.0 sg2p.wns.windows.com
-0.0.0.0 sn3301-c.1drv.com
-0.0.0.0 sn3301-e.1drv.com
-0.0.0.0 sn3301-g.1drv.com
 0.0.0.0 spynet2.microsoft.com
 0.0.0.0 spynetalt.microsoft.com
 0.0.0.0 spyneteurope.microsoft.akadns.net
