@@ -1,4 +1,4 @@
-// **** Wed Nov 17 09:43:24 PM UTC 2021
+// **** Fri Nov 19 09:10:46 PM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -1623,6 +1623,7 @@ shExpMatch(host, '*.adwebone.com') ||
 shExpMatch(host, '*.adwhirl.com') ||
 shExpMatch(host, '*.adwitserver.com') ||
 shExpMatch(host, '*.adwokatlodz.club') ||
+shExpMatch(host, '*.adwordsecommerce.com.br') ||
 shExpMatch(host, '*.adworldnetwork.com') ||
 shExpMatch(host, '*.adworx.at') ||
 shExpMatch(host, '*.adworx.be') ||
@@ -6315,7 +6316,6 @@ shExpMatch(host, '*.fifa13ultimateteamfreecoins.com') ||
 shExpMatch(host, '*.fifa14-hack-coins.info') ||
 shExpMatch(host, '*.fifa14-hack-players.biz') ||
 shExpMatch(host, '*.fifa14.epickeys.com') ||
-shExpMatch(host, '*.fifa14.get4games.com') ||
 shExpMatch(host, '*.fifa14.sharezips.info') ||
 shExpMatch(host, '*.fifa14.social-cheats.com') ||
 shExpMatch(host, '*.fifa14androidhack.com') ||
@@ -6729,7 +6729,6 @@ shExpMatch(host, '*.frame.hosting') ||
 shExpMatch(host, '*.frameip.com') ||
 shExpMatch(host, '*.framtr.com') ||
 shExpMatch(host, '*.france-leasebacks.com') ||
-shExpMatch(host, '*.france.get4games.com') ||
 shExpMatch(host, '*.france.id100429421-9222533281.e406019.com') ||
 shExpMatch(host, '*.france.id108979765-7218227704.w595505.com') ||
 shExpMatch(host, '*.france.id130546622-3701190119.w595505.com') ||
@@ -7684,7 +7683,6 @@ shExpMatch(host, '*.get-hack.com') ||
 shExpMatch(host, '*.get-well-now.info') ||
 shExpMatch(host, '*.get.setheo.com') ||
 shExpMatch(host, '*.get1000followers.com') ||
-shExpMatch(host, '*.get4games.com') ||
 shExpMatch(host, '*.getallforgames.com') ||
 shExpMatch(host, '*.getapplicationmy.info') ||
 shExpMatch(host, '*.getbetafree.com') ||
@@ -8833,6 +8831,7 @@ shExpMatch(host, '*.holadescuentos.com') ||
 shExpMatch(host, '*.holidayvoucher.us') ||
 shExpMatch(host, '*.holishit.in') ||
 shExpMatch(host, '*.hollandbusinessadvertising.nl') ||
+shExpMatch(host, '*.hollowafterthought.com') ||
 shExpMatch(host, '*.hollylsmith.com') ||
 shExpMatch(host, '*.holmesballard.chez.com') ||
 shExpMatch(host, '*.holyw.ddns.me.uk') ||
@@ -10335,6 +10334,7 @@ shExpMatch(host, '*.ltcdrop.com') ||
 shExpMatch(host, '*.lubov.co.il') ||
 shExpMatch(host, '*.luchtenbergdecor.com.br') ||
 shExpMatch(host, '*.lucidmedia.com') ||
+shExpMatch(host, '*.lucklayed.info') ||
 shExpMatch(host, '*.lucky-cases.org') ||
 shExpMatch(host, '*.lucky-loot.com') ||
 shExpMatch(host, '*.luckyblank.info') ||
@@ -11155,7 +11155,6 @@ shExpMatch(host, '*.msgoldcodes.epickeys.com') ||
 shExpMatch(host, '*.msihacks.com') ||
 shExpMatch(host, '*.mslivegirl.com') ||
 shExpMatch(host, '*.msnhackerpro.com') ||
-shExpMatch(host, '*.msp.get4games.com') ||
 shExpMatch(host, '*.msp.jailbreakall.net') ||
 shExpMatch(host, '*.msp4free.org') ||
 shExpMatch(host, '*.mspointgenerator.net') ||
@@ -15330,7 +15329,6 @@ shExpMatch(host, '*.thronerushhackonline.net') ||
 shExpMatch(host, '*.throtle.io') ||
 shExpMatch(host, '*.thruport.com') ||
 shExpMatch(host, '*.thugskins.top') ||
-shExpMatch(host, '*.thunderrun.get4games.com') ||
 shExpMatch(host, '*.thunderruncheats.elitegamershub.com') ||
 shExpMatch(host, '*.ti.domainforlite.com') ||
 shExpMatch(host, '*.tia.timeinc.net') ||
@@ -16282,7 +16280,6 @@ shExpMatch(host, '*.vid.jozmovie.xyz') ||
 shExpMatch(host, '*.vidcpm.com') ||
 shExpMatch(host, '*.video-id.org') ||
 shExpMatch(host, '*.video-stats.video.google.com') ||
-shExpMatch(host, '*.video.get4games.com') ||
 shExpMatch(host, '*.videoadex.com') ||
 shExpMatch(host, '*.videoamp.com') ||
 shExpMatch(host, '*.videoblog.tech') ||
@@ -19252,6 +19249,7 @@ shExpMatch(host, 'adwebone.com') ||
 shExpMatch(host, 'adwhirl.com') ||
 shExpMatch(host, 'adwitserver.com') ||
 shExpMatch(host, 'adwokatlodz.club') ||
+shExpMatch(host, 'adwordsecommerce.com.br') ||
 shExpMatch(host, 'adworldnetwork.com') ||
 shExpMatch(host, 'adworx.at') ||
 shExpMatch(host, 'adworx.be') ||
@@ -23944,7 +23942,6 @@ shExpMatch(host, 'fifa13ultimateteamfreecoins.com') ||
 shExpMatch(host, 'fifa14-hack-coins.info') ||
 shExpMatch(host, 'fifa14-hack-players.biz') ||
 shExpMatch(host, 'fifa14.epickeys.com') ||
-shExpMatch(host, 'fifa14.get4games.com') ||
 shExpMatch(host, 'fifa14.sharezips.info') ||
 shExpMatch(host, 'fifa14.social-cheats.com') ||
 shExpMatch(host, 'fifa14androidhack.com') ||
@@ -24358,7 +24355,6 @@ shExpMatch(host, 'frame.hosting') ||
 shExpMatch(host, 'frameip.com') ||
 shExpMatch(host, 'framtr.com') ||
 shExpMatch(host, 'france-leasebacks.com') ||
-shExpMatch(host, 'france.get4games.com') ||
 shExpMatch(host, 'france.id100429421-9222533281.e406019.com') ||
 shExpMatch(host, 'france.id108979765-7218227704.w595505.com') ||
 shExpMatch(host, 'france.id130546622-3701190119.w595505.com') ||
@@ -25313,7 +25309,6 @@ shExpMatch(host, 'get-hack.com') ||
 shExpMatch(host, 'get-well-now.info') ||
 shExpMatch(host, 'get.setheo.com') ||
 shExpMatch(host, 'get1000followers.com') ||
-shExpMatch(host, 'get4games.com') ||
 shExpMatch(host, 'getallforgames.com') ||
 shExpMatch(host, 'getapplicationmy.info') ||
 shExpMatch(host, 'getbetafree.com') ||
@@ -26462,6 +26457,7 @@ shExpMatch(host, 'holadescuentos.com') ||
 shExpMatch(host, 'holidayvoucher.us') ||
 shExpMatch(host, 'holishit.in') ||
 shExpMatch(host, 'hollandbusinessadvertising.nl') ||
+shExpMatch(host, 'hollowafterthought.com') ||
 shExpMatch(host, 'hollylsmith.com') ||
 shExpMatch(host, 'holmesballard.chez.com') ||
 shExpMatch(host, 'holyw.ddns.me.uk') ||
@@ -27964,6 +27960,7 @@ shExpMatch(host, 'ltcdrop.com') ||
 shExpMatch(host, 'lubov.co.il') ||
 shExpMatch(host, 'luchtenbergdecor.com.br') ||
 shExpMatch(host, 'lucidmedia.com') ||
+shExpMatch(host, 'lucklayed.info') ||
 shExpMatch(host, 'lucky-cases.org') ||
 shExpMatch(host, 'lucky-loot.com') ||
 shExpMatch(host, 'luckyblank.info') ||
@@ -28784,7 +28781,6 @@ shExpMatch(host, 'msgoldcodes.epickeys.com') ||
 shExpMatch(host, 'msihacks.com') ||
 shExpMatch(host, 'mslivegirl.com') ||
 shExpMatch(host, 'msnhackerpro.com') ||
-shExpMatch(host, 'msp.get4games.com') ||
 shExpMatch(host, 'msp.jailbreakall.net') ||
 shExpMatch(host, 'msp4free.org') ||
 shExpMatch(host, 'mspointgenerator.net') ||
@@ -32959,7 +32955,6 @@ shExpMatch(host, 'thronerushhackonline.net') ||
 shExpMatch(host, 'throtle.io') ||
 shExpMatch(host, 'thruport.com') ||
 shExpMatch(host, 'thugskins.top') ||
-shExpMatch(host, 'thunderrun.get4games.com') ||
 shExpMatch(host, 'thunderruncheats.elitegamershub.com') ||
 shExpMatch(host, 'ti.domainforlite.com') ||
 shExpMatch(host, 'tia.timeinc.net') ||
@@ -33911,7 +33906,6 @@ shExpMatch(host, 'vid.jozmovie.xyz') ||
 shExpMatch(host, 'vidcpm.com') ||
 shExpMatch(host, 'video-id.org') ||
 shExpMatch(host, 'video-stats.video.google.com') ||
-shExpMatch(host, 'video.get4games.com') ||
 shExpMatch(host, 'videoadex.com') ||
 shExpMatch(host, 'videoamp.com') ||
 shExpMatch(host, 'videoblog.tech') ||
