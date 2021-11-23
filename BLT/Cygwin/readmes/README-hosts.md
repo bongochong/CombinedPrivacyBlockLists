@@ -12,7 +12,7 @@ The [update-hosts.sh](https://github.com/bongochong/CombinedPrivacyBlockLists/bl
 **Notes**:
 - Hosts file subscriptions can be modified directly in the script(s). All of them are prepended with the `wget` command. You may add and remove whatever sources you wish. The hosts file scripts can process both **hosts files** *and* **plain domain** lists.
 
-- You can whitelist additional domains via appending them to the end of the `hostpatterns.dat` file, which is housed in the `parsing` subdirectory of the utilities. Each whitelisted domain must be preceded by `^0.0.0.0 ` and followed by `$`, just like the preconfigured whitelisted items.
+- You can whitelist additional domains via appending them to the end of the `hostpatterns.dat` file, which is housed in the `parsing` subdirectory of the utilities. Each whitelisted domain must be preceded by `^0\.0\.0\.0\s` and followed by `$`, just like the preconfigured whitelisted items. Please follow standard regex conventions for escaping characters in the whitelist.
 
 - You can blacklist additional domains via appending them to the relavant `newhosts` template files in the aforementioned `parsing` directory. Each additional blacklist entry must be preceded by `0.0.0.0 `  and/or  `::`.
 
