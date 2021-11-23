@@ -11,658 +11,658 @@ localdomain$
 localhost$
 ^Site$
 ^site$
-^Site $
-^site $
+^Site\s$
+^site\s$
 ^#
 ^$
-^0.0.0.0 0.0.0.0$
-^0.0.0.0 $
-^127.0.0.1 $
-^0.0.0.0$
-^127.0.0.1$
-^127.0.0.1		localhost
-^127.0.0.1	localhost
-^127.0.0.1    localhost
-^127.0.0.1   localhost
-^127.0.0.1  localhost
-^127.0.0.1 localhost
-^255.255.255.255
-^::1		localhost
-^::1	localhost
-^::1    localhost
-^::1   localhost
-^::1  localhost
-^::1 localhost
+^0\.0\.0\.0\s0\.0\.0\.0$
+^0\.0\.0\.0\s$
+^127\.0\.0\.1\s$
+^0\.0\.0\.0$
+^127\.0\.0\.1$
+^127\.0\.0\.1\t\tlocalhost
+^127\.0\.0\.1\tlocalhost
+^127\.0\.0\.1\s\s\s\slocalhost
+^127\.0\.0\.1\s\s\slocalhost
+^127\.0\.0\.1\s\slocalhost
+^127\.0\.0\.1\slocalhost
+^255\.255\.255\.255
+^::1\t\tlocalhost
+^::1\tlocalhost
+^::1\s\s\s\slocalhost
+^::1\s\s\slocalhost
+^::1\s\slocalhost
+^::1\slocalhost
 ^broadcasthost
 ^fe00::
 ^ff00::
 ^ff02::
 ^fe80::
-^0.0.0.0 0.client-channel.google.com$
-^0.0.0.0 2.android.pool.ntp.org$
-^0.0.0.0 22pixx.xyz$
-^0.0.0.0 2mdn.net$
-^0.0.0.0 420chan.org$
-^0.0.0.0 4chan.org$
-^0.0.0.0 4channel.org$
-^0.0.0.0 4shared.com$
-^0.0.0.0 aan.amazon.com$
-^0.0.0.0 accounts.eu1.gigya.com$
-^0.0.0.0 activate.adobe.com$
-^0.0.0.0 activation.adobedtm.com$
-^0.0.0.0 adaway.org$
-^0.0.0.0 adblockplus.org$
-^0.0.0.0 adguard.com$
-^0.0.0.0 adj.st$
-^0.0.0.0 ads-admin.brave.com$
-^0.0.0.0 ads-admin.brave.software$
-^0.0.0.0 ads-admin.bravesoftware.com$
-^0.0.0.0 ads-serve.bravesoftware.com$
-^0.0.0.0 ads.brave.com$
-^0.0.0.0 ads.brave.software$
-^0.0.0.0 ads.bravesoftware.com$
-^0.0.0.0 adtidy.org$
-^0.0.0.0 ae01.alicdn.com$
-^0.0.0.0 ajax.cloudflare.com$
-^0.0.0.0 akadns6.net$
-^0.0.0.0 akamaihd.net$
-^0.0.0.0 akamaitechnologies.com$
-^0.0.0.0 akamaized.net$
-^0.0.0.0 albert.apple.com$
-^0.0.0.0 alcpu.com$
-^0.0.0.0 alicdn.com$
-^0.0.0.0 alluremedia.com.au$
-^0.0.0.0 alohasoftware.net$
-^0.0.0.0 amazon.com$
-^0.0.0.0 amazonaws.com$
-^0.0.0.0 amzn.com$
-^0.0.0.0 amzn.to$
-^0.0.0.0 analytics.archive.org$
-^0.0.0.0 ancestry.com$
-^0.0.0.0 android.clients.google.com$
-^0.0.0.0 angularjs.org$
-^0.0.0.0 ap.spotify.com$
-^0.0.0.0 api-global.netflix.com$
-^0.0.0.0 api-staging.backup.signal.org$
-^0.0.0.0 api-staging.directory.signal.org$
-^0.0.0.0 api.amplitude.com$
-^0.0.0.0 api.bluecore.com$
-^0.0.0.0 api.branch.io$
-^0.0.0.0 api.coinbase.com$
-^0.0.0.0 api.cxense.com$
-^0.0.0.0 api.ethermine.org$
-^0.0.0.0 api.ipify.org$
-^0.0.0.0 api.ipstack.com$
-^0.0.0.0 api.parsely.com$
-^0.0.0.0 api.pluto.tv$
-^0.0.0.0 api.rollbar.com$
-^0.0.0.0 api.twitter.com$
-^0.0.0.0 app.adjust.com$
-^0.0.0.0 app.link$
-^0.0.0.0 appboot.netflix.com$
-^0.0.0.0 appboy-images.com$
-^0.0.0.0 appldnld.apple.com$
-^0.0.0.0 apple.com$
-^0.0.0.0 appleid.apple.com$
-^0.0.0.0 appsbackup-pa.clients6.google.com$
-^0.0.0.0 appsbackup-pa.googleapis.com$
-^0.0.0.0 apresolve.spotify.com$
-^0.0.0.0 apt.newrelic.com$
-^0.0.0.0 archive.org$
-^0.0.0.0 ask.com$
-^0.0.0.0 aspnetcdn.com$
-^0.0.0.0 assets.adobedtm.com$
-^0.0.0.0 assets.huluim.com$
-^0.0.0.0 assets.rbl.ms$
-^0.0.0.0 assets.rebelmouse.io$
-^0.0.0.0 assets.ubuntu.com$
-^0.0.0.0 beforeitsnews.com$
-^0.0.0.0 bet365.com$
-^0.0.0.0 beyondsecurity.com$
-^0.0.0.0 bi.medscape.com$
-^0.0.0.0 binance.com$
-^0.0.0.0 bing.net$
-^0.0.0.0 bit.ly$
-^0.0.0.0 bitbucket.org$
-^0.0.0.0 bittrex.com$
-^0.0.0.0 bleacherreport.com$
-^0.0.0.0 blocklists.settings.services.mozilla.com$
-^0.0.0.0 blokada.org$
-^0.0.0.0 bluebillywig.com$
-^0.0.0.0 boards.420chan.org$
-^0.0.0.0 boards.4chan.org$
-^0.0.0.0 boards.4channel.org$
-^0.0.0.0 brightcove.net$
-^0.0.0.0 browser.sentry-cdn.com$
-^0.0.0.0 business.opera.com$
-^0.0.0.0 by.uservoice.com$
-^0.0.0.0 c.evidon.com$
-^0.0.0.0 c.msn.com$
-^0.0.0.0 c.paypal.com$
-^0.0.0.0 campaign-archive.com$
-^0.0.0.0 cbsi.com.ssl.sc.omtrdc.net$
-^0.0.0.0 cbsinteractive.hb.omtrdc.net$
-^0.0.0.0 cdn-customers.nanorep.com$
-^0.0.0.0 cdn-gl.imrworldwide.com$
-^0.0.0.0 cdn-mobile.api.pluto.tv$
-^0.0.0.0 cdn-staging.signal.org$
-^0.0.0.0 cdn.appdynamics.com$
-^0.0.0.0 cdn.bluebillywig.com$
-^0.0.0.0 cdn.cloudflare.net$
-^0.0.0.0 cdn.consentmanager.mgr.consensu.org$
-^0.0.0.0 cdn.cpnscdn.com$
-^0.0.0.0 cdn.cxense.com$
-^0.0.0.0 cdn.discordapp.com$
-^0.0.0.0 cdn.embed.ly$
-^0.0.0.0 cdn.embedly.com$
-^0.0.0.0 cdn.flipboard.com$
-^0.0.0.0 cdn.jsdelivr.net$
-^0.0.0.0 cdn.optimizely.com$
-^0.0.0.0 cdn.ravenjs.com$
-^0.0.0.0 cdn.samsungcloudsolution.com$
-^0.0.0.0 cdn.segment.com$
-^0.0.0.0 cdn.segment.io$
-^0.0.0.0 cdn.shortpixel.ai$
-^0.0.0.0 cdn.sports-streams-online.best$
-^0.0.0.0 cdn.sports-streams-online.club$
-^0.0.0.0 cdn.sports-streams-online.xyz$
-^0.0.0.0 cdn.syndication.twitter.com$
-^0.0.0.0 cdn2-staging.signal.org$
-^0.0.0.0 cdn2.optimizely.com$
-^0.0.0.0 cdn3.optimizely.com$
-^0.0.0.0 cdnjs.cloudflare.com$
-^0.0.0.0 cdns.eu1.gigya.com$
-^0.0.0.0 checkip.justwatch.com$
-^0.0.0.0 choice.microsoft.com$
-^0.0.0.0 chrome.google.com$
-^0.0.0.0 clamav.net$
-^0.0.0.0 click.bible.com$
-^0.0.0.0 click.drizly.com$
-^0.0.0.0 click.e.affirm.com$
-^0.0.0.0 click.e.progressive.com$
-^0.0.0.0 click.e.tdbank.com$
-^0.0.0.0 click.email-stubhub.com$
-^0.0.0.0 click.email.bbc.com$
-^0.0.0.0 click.email.chope.co$
-^0.0.0.0 click.email.sonos.com$
-^0.0.0.0 click.email.soundhound.com$
-^0.0.0.0 click.emails.creditonebank.com$
-^0.0.0.0 click.engage.xbox.com$
-^0.0.0.0 click.instacartemail.com$
-^0.0.0.0 click.official.nike.com$
-^0.0.0.0 click.oneplus.cn$
-^0.0.0.0 click.oneplus.com$
-^0.0.0.0 click.redditmail.com$
-^0.0.0.0 client-event-reporter.twitch.tv$
-^0.0.0.0 client-s.gateway.messenger.live.com$
-^0.0.0.0 clientconfig.passport.net$
-^0.0.0.0 clients1.google.com$
-^0.0.0.0 clients2.google.com$
-^0.0.0.0 clients3.google.com$
-^0.0.0.0 clients4.google.com$
-^0.0.0.0 clients5.google.com$
-^0.0.0.0 clients6.google.com$
-^0.0.0.0 cloudflare.com$
-^0.0.0.0 cmp-cdn.ghostery.com$
-^0.0.0.0 codeproject.com$
-^0.0.0.0 cognito-identity.us-east-1.amazonaws.com$
-^0.0.0.0 coinbase.com$
-^0.0.0.0 coinmarketcap.com$
-^0.0.0.0 collecting-consent.g5e.com$
-^0.0.0.0 collector.lightstep.com$
-^0.0.0.0 community.signalusers.org$
-^0.0.0.0 computertotaal.nl$
-^0.0.0.0 configuration.apple.com$
-^0.0.0.0 connectivitycheck.android.com$
-^0.0.0.0 connectivitycheck.gstatic.com$
-^0.0.0.0 consent-manager-events.ogury.io$
-^0.0.0.0 consent.cookiebot.com$
-^0.0.0.0 consentmanager.mgr.consensu.org$
-^0.0.0.0 content.jwplatform.com$
-^0.0.0.0 conviva.com$
-^0.0.0.0 cookie-script.com$
-^0.0.0.0 cookie.monster.com$
-^0.0.0.0 cookieblock.trackersimulate.org$
-^0.0.0.0 crbcdn.jsfiddle.net$
-^0.0.0.0 cs.dds.microsoft.com$
-^0.0.0.0 cse.google.com$
-^0.0.0.0 csi.gstatic.com$
-^0.0.0.0 ctldl.windowsupdate.com$
-^0.0.0.0 cws.conviva.com$
-^0.0.0.0 cwtv-mrss-akamai.cwtv.com$
-^0.0.0.0 cwtv-prod-elb.digitalsmiths.net$
-^0.0.0.0 d2c8v52ll5s99u.cloudfront.net$
-^0.0.0.0 d2gatte9o95jao.cloudfront.net$
-^0.0.0.0 dailymotion.com$
-^0.0.0.0 dashboard-01.braze.com$
-^0.0.0.0 dashboard-03.braze.com$
-^0.0.0.0 dashboard.plex.tv$
-^0.0.0.0 data.nal.usda.gov$
-^0.0.0.0 db.tt$
-^0.0.0.0 det-ta-g7g.amazon.com$
-^0.0.0.0 dev-multiscreen.samsung.com$
-^0.0.0.0 dev.twitter.com$
-^0.0.0.0 dev.virtualearth.net$
-^0.0.0.0 device-messaging-na.amazon.com$
-^0.0.0.0 directvapplications.hb.omtrdc.net$
-^0.0.0.0 directvnow.com$
-^0.0.0.0 discovery.com$
-^0.0.0.0 dl.dropbox.com$
-^0.0.0.0 dl.dropboxusercontent.com$
-^0.0.0.0 download.sonarr.tv$
-^0.0.0.0 download.winzip.com$
-^0.0.0.0 dpm.demdex.net$
-^0.0.0.0 dropbox.com$
-^0.0.0.0 dropbox.zendesk.com$
-^0.0.0.0 dropboxapi.com$
-^0.0.0.0 dropboxbusiness.com$
-^0.0.0.0 dropboxcaptcha.com$
-^0.0.0.0 dropboxforum.com$
-^0.0.0.0 dropboxforums.com$
-^0.0.0.0 dropboxinsiders.com$
-^0.0.0.0 dropboxmail.com$
-^0.0.0.0 dropboxpartners.com$
-^0.0.0.0 dropboxstatic.com$
-^0.0.0.0 dshield.org$
-^0.0.0.0 duckdns.org$
-^0.0.0.0 duo.nl$
-^0.0.0.0 dw.cbsi.com$
-^0.0.0.0 dwq4do82y8xi7.cloudfront.net$
-^0.0.0.0 ea.com$
-^0.0.0.0 easylist.to$
-^0.0.0.0 ebay.com$
-^0.0.0.0 ebayimg.com$
-^0.0.0.0 ecn.dev.virtualearth.net$
-^0.0.0.0 edge-enterprise.activity.windows.com$
-^0.0.0.0 edge.activity.windows.com$
-^0.0.0.0 edge.api.brightcove.com$
-^0.0.0.0 eightforums.com$
-^0.0.0.0 embed.ly$
-^0.0.0.0 embed.spotify.com$
-^0.0.0.0 embedly.com$
-^0.0.0.0 emptyloop.com$
-^0.0.0.0 entitlement.auth.adobe.com$
-^0.0.0.0 ereg.adobe.com$
-^0.0.0.0 ereg.wip3.adobe.com$
-^0.0.0.0 ethermine.org$
-^0.0.0.0 etl.tindersparks.com$
-^0.0.0.0 eu1.ethermine.org$
-^0.0.0.0 events.gfe.nvidia.com$
-^0.0.0.0 events.mapbox.com$
-^0.0.0.0 evergreen.segment.com$
-^0.0.0.0 extratorrent.cc$
-^0.0.0.0 f1.media.brightcove.com$
-^0.0.0.0 fanboy.co.nz$
-^0.0.0.0 fast.fonts.net$
-^0.0.0.0 fide.com$
-^0.0.0.0 firefox.settings.services.mozilla.com$
-^0.0.0.0 fiverr.com$
-^0.0.0.0 flipboard.com$
-^0.0.0.0 fonts.gstatic.com$
-^0.0.0.0 forbes.com$
-^0.0.0.0 forum.xda-developers.com$
-^0.0.0.0 forums.sonarr.tv$
-^0.0.0.0 foxnews.demdex.net$
-^0.0.0.0 fpdownload.adobe.com$
-^0.0.0.0 fpdownload.macromedia.com$
-^0.0.0.0 ftpcontent.worldnow.com$
-^0.0.0.0 g.live.com$
-^0.0.0.0 g.msn.com$
-^0.0.0.0 g1.nyt.com$
-^0.0.0.0 game.weixin.qq.com$
-^0.0.0.0 gameanalytics.com$
-^0.0.0.0 gcs.sc-cdn.net$
-^0.0.0.0 ge.tt$
-^0.0.0.0 gearbest.com$
-^0.0.0.0 geo.ngtv.io$
-^0.0.0.0 gesangsunterricht-hh.de$
-^0.0.0.0 get.adobe.com$
-^0.0.0.0 get3.adobe.com$
-^0.0.0.0 getdropbox.com$
-^0.0.0.0 gfwsl.geforce.com$
-^0.0.0.0 gigazine.asia$
-^0.0.0.0 giphy.com$
-^0.0.0.0 git.io$
-^0.0.0.0 github.com$
-^0.0.0.0 github.io$
-^0.0.0.0 gitter.im$
-^0.0.0.0 glimmer.hearstapps.com$
-^0.0.0.0 go.cnn.com$
-^0.0.0.0 godaddy.com$
-^0.0.0.0 goo.gl$
-^0.0.0.0 gravatar.com$
-^0.0.0.0 gs.apple.com$
-^0.0.0.0 gstatic.com$
-^0.0.0.0 gstaticadssl.l.google.com$
-^0.0.0.0 guidetopetersburg.com$
-^0.0.0.0 healthgrades.com$
-^0.0.0.0 hello.myfonts.net$
-^0.0.0.0 here.com$
-^0.0.0.0 hostsfile.org$
-^0.0.0.0 html5zombo.com$
-^0.0.0.0 i.imgbox.com$
-^0.0.0.0 i.ytimg.com$
-^0.0.0.0 i1.ytimg.com$
-^0.0.0.0 icloud.com$
-^0.0.0.0 icscards.nl$
-^0.0.0.0 image.ibb.co$
-^0.0.0.0 images.pluto.tv$
-^0.0.0.0 images3.imgbox.com$
-^0.0.0.0 img.purch.com$
-^0.0.0.0 img.transcoder.opera.com$
-^0.0.0.0 imgs.xkcd.com$
-^0.0.0.0 imgtaxi.com$
-^0.0.0.0 imgtown.pw$
-^0.0.0.0 imgview.pw$
-^0.0.0.0 instructorledlearning.dropboxbusiness.com$
-^0.0.0.0 international.bittrex.com$
-^0.0.0.0 ip-api.com$
-^0.0.0.0 ipinfo.io$
-^0.0.0.0 itunes.apple.com$
-^0.0.0.0 itunes.com$
-^0.0.0.0 iubenda.com$
-^0.0.0.0 jdownloader.org$
-^0.0.0.0 jquery.com$
-^0.0.0.0 js-sec.indexww.com$
-^0.0.0.0 js.maxmind.com$
-^0.0.0.0 jsdelivr.net$
-^0.0.0.0 jwpcdn.com$
-^0.0.0.0 jwplatform.com$
-^0.0.0.0 jwplayer.com$
-^0.0.0.0 jwpltx.com$
-^0.0.0.0 lads.myspace.com$
-^0.0.0.0 lastfm-img2.akamaized.net$
-^0.0.0.0 letsencrypt.org$
-^0.0.0.0 licensing.xboxlive.com$
-^0.0.0.0 linkedin-learning.pxf.io$
-^0.0.0.0 live-nhl.stream$
-^0.0.0.0 live.com$
-^0.0.0.0 liveinternet.ru$
-^0.0.0.0 livepassdl.conviva.com$
-^0.0.0.0 lm.licenses.adobe.com$
-^0.0.0.0 localcontent.huffingtonpost.com$
-^0.0.0.0 login.live.com$
-^0.0.0.0 lotustalk.com$
-^0.0.0.0 lp.babbel.com$
-^0.0.0.0 m.hotmail.com$
-^0.0.0.0 m1.daumcdn.net$
-^0.0.0.0 m1.nsimg.net$
-^0.0.0.0 m2.nsimg.net$
-^0.0.0.0 mail.ru$
-^0.0.0.0 malwaredomainlist.com$
-^0.0.0.0 malwaredomains.com$
-^0.0.0.0 managemymove.usps.com$
-^0.0.0.0 medium.com$
-^0.0.0.0 movies.netflix.com$
-^0.0.0.0 msa.akadns6.net$
-^0.0.0.0 multiscreen.samsung.com$
-^0.0.0.0 my.mixtape.moe$
-^0.0.0.0 nab.demdex.net$
-^0.0.0.0 neocities.org$
-^0.0.0.0 neostrada.nl$
-^0.0.0.0 netflix.com$
-^0.0.0.0 news.ebc.net.tw$
-^0.0.0.0 nextdns.io$
-^0.0.0.0 nexus.ensighten.com$
-^0.0.0.0 nitroflare.com$
-^0.0.0.0 nj.com$
-^0.0.0.0 nocdnrlly.xyz$
-^0.0.0.0 notify.xboxlive.com$
-^0.0.0.0 nu.nl$
-^0.0.0.0 ocsp.rootg2.amazontrust.com$
-^0.0.0.0 office.com$
-^0.0.0.0 om.cbsi.com$
-^0.0.0.0 om.symantec.com$
-^0.0.0.0 oms.symantec.com$
-^0.0.0.0 onecollector.cloudapp.aria.akadns.net$
-^0.0.0.0 onedrive.com$
-^0.0.0.0 onedrive.live.com$
-^0.0.0.0 onelink.me$
-^0.0.0.0 ooyala.com$
-^0.0.0.0 opendns.com$
-^0.0.0.0 openphish.com$
-^0.0.0.0 opensubtitles.org$
-^0.0.0.0 optimizely.com$
-^0.0.0.0 oracle.112.2o7.net$
-^0.0.0.0 ota-downloads.nvidia.com$
-^0.0.0.0 oui.cdn.optimizely.com$
-^0.0.0.0 ow.ly$
-^0.0.0.0 p.typekit.net$
-^0.0.0.0 paper.dropbox.com$
-^0.0.0.0 paste.ee$
-^0.0.0.0 pastebin.com$
-^0.0.0.0 pbs.twimg.com$
-^0.0.0.0 pcmweb.nl$
-^0.0.0.0 pgl.yoyo.org$
-^0.0.0.0 phobos.apple.com$
-^0.0.0.0 phonearena.com$
-^0.0.0.0 pic.twitter.com$
-^0.0.0.0 pings.conviva.com$
-^0.0.0.0 pinpoint.us-east-1.amazonaws.com$
-^0.0.0.0 pixel.nymag.com$
-^0.0.0.0 platform.twitter.com$
-^0.0.0.0 play.spotify.com$
-^0.0.0.0 players.brightcove.net$
-^0.0.0.0 players.pluto.tv$
-^0.0.0.0 plex.tv$
-^0.0.0.0 pmd.cdn.turner.com$
-^0.0.0.0 prisacom.112.207.net$
-^0.0.0.0 prisacom.112.2o7.net$
-^0.0.0.0 privacy-center.org$
-^0.0.0.0 pro.fontawesome.com$
-^0.0.0.0 pro.ip-api.com$
-^0.0.0.0 production-cmp.isgprivacy.cbsi.com$
-^0.0.0.0 proxy.novafusion.ea.com$
-^0.0.0.0 public.vilynx.com$
-^0.0.0.0 publish0x.com$
-^0.0.0.0 publishers.basicattentiontoken.org$
-^0.0.0.0 purch.com$
-^0.0.0.0 pushbullet.com$
-^0.0.0.0 rackcdn.com$
-^0.0.0.0 rapidgator.net$
-^0.0.0.0 ratas.sanoma.fi$
-^0.0.0.0 raw.githubusercontent.com$
-^0.0.0.0 reach-api.urbanairship.com$
-^0.0.0.0 redirector.googlevideo.com$
-^0.0.0.0 res.cloudinary.com$
-^0.0.0.0 rethinkdns.com$
-^0.0.0.0 richmedia.channeladvisor.com$
-^0.0.0.0 rolo.nocdnrlly.xyz$
-^0.0.0.0 rpxnow.com$
-^0.0.0.0 s.gateway.messenger.live.com$
-^0.0.0.0 s.marketwatch.com$
-^0.0.0.0 s.swiftypecdn.com$
-^0.0.0.0 s.youtube.com$
-^0.0.0.0 s.zkcdn.net$
-^0.0.0.0 s0.2mdn.net$
-^0.0.0.0 s3-eu-west-1.amazonaws.com$
-^0.0.0.0 s6.exct.net$
-^0.0.0.0 saa.cbsi.com$
-^0.0.0.0 safelinking.net$
-^0.0.0.0 samsungcloudsolution.com$
-^0.0.0.0 sc-static.net$
-^0.0.0.0 sci.intuit.com$
-^0.0.0.0 sdc.usps.com$
-^0.0.0.0 sdk.privacy-center.org$
-^0.0.0.0 sdup.update.360safe.com$
-^0.0.0.0 sdx.xfinity.com$
-^0.0.0.0 search.brave.com$
-^0.0.0.0 search.twitter.com$
-^0.0.0.0 seccdn-gl.imrworldwide.com$
-^0.0.0.0 secure-us.imrworldwide.com$
-^0.0.0.0 secure.eloqua.com$
-^0.0.0.0 secure.netflix.com$
-^0.0.0.0 secure.skypeassets.com$
-^0.0.0.0 secure.surveymonkey.com$
-^0.0.0.0 segment.com$
-^0.0.0.0 segment.io$
-^0.0.0.0 sentry.io$
-^0.0.0.0 serials.ws$
-^0.0.0.0 serverfault.com$
-^0.0.0.0 services.fandom.com$
-^0.0.0.0 sevenforums.com$
-^0.0.0.0 shavar.services.mozilla.com$
-^0.0.0.0 shop.rewe-static.de$
-^0.0.0.0 shorl.com$
-^0.0.0.0 shortpixel.ai$
-^0.0.0.0 signal.art$
-^0.0.0.0 signal.org$
-^0.0.0.0 signalcaptchas.org$
-^0.0.0.0 silo.pluto.tv$
-^0.0.0.0 siloh.pluto.tv$
-^0.0.0.0 smartasset.com$
-^0.0.0.0 smetrics.cnn.com$
-^0.0.0.0 socialize.eu1.gigya.com$
-^0.0.0.0 socket.bittrex.com$
-^0.0.0.0 someonewhocares.org$
-^0.0.0.0 soundcloud.com$
-^0.0.0.0 spankbang.com$
-^0.0.0.0 spclient.spotify.com$
-^0.0.0.0 spclient.wg.spotify.com$
-^0.0.0.0 sports-streams-online.best$
-^0.0.0.0 sports-streams-online.com$
-^0.0.0.0 src.litix.io$
-^0.0.0.0 ssl-images-amazon.com$
-^0.0.0.0 ssl.bblck.me$
-^0.0.0.0 ssl.o.webmd.com$
-^0.0.0.0 ssl.reddit.com$
-^0.0.0.0 static.parsely.com$
-^0.0.0.0 static01.nyt.com$
-^0.0.0.0 steamcommunity.com$
-^0.0.0.0 stitcher.pluto.tv$
-^0.0.0.0 stocks-analytics-events.apple.com$
-^0.0.0.0 storage-staging.signal.org$
-^0.0.0.0 storage.pardot.com$
-^0.0.0.0 suche.t-online.de$
-^0.0.0.0 support.microsoft.com$
-^0.0.0.0 support.signal.org$
-^0.0.0.0 swscan.apple.com$
-^0.0.0.0 syndication.twitter.com$
-^0.0.0.0 sysctl.org$
-^0.0.0.0 t0.ssl.ak.dynamic.tiles.virtualearth.net$
-^0.0.0.0 t0.ssl.ak.tiles.virtualearth.net$
-^0.0.0.0 tags.tiqcdn.com$
-^0.0.0.0 talk.brave.com$
-^0.0.0.0 td.demdex.net$
-^0.0.0.0 telegraaf.nl$
-^0.0.0.0 tenforums.com$
-^0.0.0.0 teslathemes.com$
-^0.0.0.0 textsecure-service-staging.whispersystems.org$
-^0.0.0.0 themoviedb.com$
-^0.0.0.0 thepiratebay.org$
-^0.0.0.0 thetvdb.com$
-^0.0.0.0 time.samsungcloudsolution.com$
-^0.0.0.0 timeinc.net$
-^0.0.0.0 tindersparks.com$
-^0.0.0.0 tinyurl.com$
-^0.0.0.0 tn.com.ar$
-^0.0.0.0 todo-ta-g7g.amazon.com$
-^0.0.0.0 tomshardware.com$
-^0.0.0.0 tvaddons.ag$
-^0.0.0.0 tvpassport.com$
-^0.0.0.0 twimg.com$
-^0.0.0.0 typeface.nyt.com$
-^0.0.0.0 typeform.com$
-^0.0.0.0 typekit.com$
-^0.0.0.0 typekit.net$
-^0.0.0.0 typepad.com$
-^0.0.0.0 typography.com$
-^0.0.0.0 ubiservices.data.ubi.com$
-^0.0.0.0 udemy.com$
-^0.0.0.0 ui.skype.com$
-^0.0.0.0 ulink.adjust.com$
-^0.0.0.0 unagi-na.amazon.com$
-^0.0.0.0 unity3d.com$
-^0.0.0.0 upload.twitter.com$
-^0.0.0.0 urbanairship.com$
-^0.0.0.0 us-east-1.amazonaws.com$
-^0.0.0.0 us.i1.yimg.com$
-^0.0.0.0 usbank-app.quantummetric.com$
-^0.0.0.0 use.fontawesome.com$
-^0.0.0.0 use.typekit.net$
-^0.0.0.0 users.telenet.be$
-^0.0.0.0 userstream.twitter.com$
-^0.0.0.0 usps.com$
-^0.0.0.0 v.w-x.co$
-^0.0.0.0 vanilla.futurecdn.net$
-^0.0.0.0 videos.vidible.tv$
-^0.0.0.0 vidible.tv$
-^0.0.0.0 virtualearth.net$
-^0.0.0.0 vms.bluebillywig.com$
-^0.0.0.0 void.gr$
-^0.0.0.0 w88.espn.com$
-^0.0.0.0 wallet-api.urbanairship.com$
-^0.0.0.0 web.archive.org$
-^0.0.0.0 web.facebook.com$
-^0.0.0.0 webcache.googleusercontent.com$
-^0.0.0.0 webmd.com$
-^0.0.0.0 wellsfargobankna.demdex.net$
-^0.0.0.0 whispersystems.org$
-^0.0.0.0 widget-cdn.rpxnow.com$
-^0.0.0.0 winhelp2002.mvps.org$
-^0.0.0.0 wix.com$
-^0.0.0.0 ws.audioscrobbler.com$
-^0.0.0.0 www.4shared.com$
-^0.0.0.0 www.adblockplus.org$
-^0.0.0.0 www.adtidy.org$
-^0.0.0.0 www.archive.org$
-^0.0.0.0 www.ask.com$
-^0.0.0.0 www.bet365.com$
-^0.0.0.0 www.binance.com$
-^0.0.0.0 www.bit.ly$
-^0.0.0.0 www.bittrex.com$
-^0.0.0.0 www.clamav.net$
-^0.0.0.0 www.cloudflare.com$
-^0.0.0.0 www.coinbase.com$
-^0.0.0.0 www.countryflags.io$
-^0.0.0.0 www.fanboy.co.nz$
-^0.0.0.0 www.fide.com$
-^0.0.0.0 www.gameanalytics.com$
-^0.0.0.0 www.github.com$
-^0.0.0.0 www.godaddy.com$
-^0.0.0.0 www.gravatar.com$
-^0.0.0.0 www.healthgrades.com$
-^0.0.0.0 www.howtogeek.com$
-^0.0.0.0 www.html5zombo.com$
-^0.0.0.0 www.jdownloader.org$
-^0.0.0.0 www.jwplayer.com$
-^0.0.0.0 www.letsencrypt.org$
-^0.0.0.0 www.live-nhl.stream$
-^0.0.0.0 www.liveinternet.ru$
-^0.0.0.0 www.lotustalk.com$
-^0.0.0.0 www.mcssl.com$
-^0.0.0.0 www.msftncsi.com$
-^0.0.0.0 www.neocities.org$
-^0.0.0.0 www.no-ip.com$
-^0.0.0.0 www.nocdnrlly.xyz$
-^0.0.0.0 www.opendns.com$
-^0.0.0.0 www.opensubtitles.org$
-^0.0.0.0 www.ow.ly$
-^0.0.0.0 www.pastebin.com$
-^0.0.0.0 www.privacy-center.org$
-^0.0.0.0 www.serials.ws$
-^0.0.0.0 www.sevenforums.com$
-^0.0.0.0 www.shorl.com$
-^0.0.0.0 www.sports-streams-online.best$
-^0.0.0.0 www.staradvertiser.com$
-^0.0.0.0 www.tenforums.com$
-^0.0.0.0 www.theguardian.com$
-^0.0.0.0 www.travelzoo.com$
-^0.0.0.0 www.tvaddons.ag$
-^0.0.0.0 www.urbanairship.com$
-^0.0.0.0 www.vidible.tv$
-^0.0.0.0 www.void.gr$
-^0.0.0.0 www.xda-developers.com$
-^0.0.0.0 www.youtube-nocookie.com$
-^0.0.0.0 www.zombo.com$
-^0.0.0.0 xda-developers.com$
-^0.0.0.0 yimg.com$
-^0.0.0.0 yimg.jp$
-^0.0.0.0 youtube-nocookie.com$
-^0.0.0.0 yql.yahoo.com$
-^0.0.0.0 ytimg.com$
-^0.0.0.0 ytmnd.com$
-^0.0.0.0 yui.yahooapis.com$
-^0.0.0.0 zee.cws.conviva.com$
-^0.0.0.0 zombo.com$
-^0.0.0.0 ztd.dds.microsoft.com$
+^0\.0\.0\.0\s0\.client-channel\.google\.com$
+^0\.0\.0\.0\s2\.android\.pool\.ntp\.org$
+^0\.0\.0\.0\s22pixx\.xyz$
+^0\.0\.0\.0\s2mdn\.net$
+^0\.0\.0\.0\s420chan\.org$
+^0\.0\.0\.0\s4chan\.org$
+^0\.0\.0\.0\s4channel\.org$
+^0\.0\.0\.0\s4shared\.com$
+^0\.0\.0\.0\saan\.amazon\.com$
+^0\.0\.0\.0\saccounts\.eu1\.gigya\.com$
+^0\.0\.0\.0\sactivate\.adobe\.com$
+^0\.0\.0\.0\sactivation\.adobedtm\.com$
+^0\.0\.0\.0\sadaway\.org$
+^0\.0\.0\.0\sadblockplus\.org$
+^0\.0\.0\.0\sadguard\.com$
+^0\.0\.0\.0\sadj\.st$
+^0\.0\.0\.0\sads-admin\.brave\.com$
+^0\.0\.0\.0\sads-admin\.brave\.software$
+^0\.0\.0\.0\sads-admin\.bravesoftware\.com$
+^0\.0\.0\.0\sads-serve\.bravesoftware\.com$
+^0\.0\.0\.0\sads\.brave\.com$
+^0\.0\.0\.0\sads\.brave\.software$
+^0\.0\.0\.0\sads\.bravesoftware\.com$
+^0\.0\.0\.0\sadtidy\.org$
+^0\.0\.0\.0\sae01\.alicdn\.com$
+^0\.0\.0\.0\sajax\.cloudflare\.com$
+^0\.0\.0\.0\sakadns6\.net$
+^0\.0\.0\.0\sakamaihd\.net$
+^0\.0\.0\.0\sakamaitechnologies\.com$
+^0\.0\.0\.0\sakamaized\.net$
+^0\.0\.0\.0\salbert\.apple\.com$
+^0\.0\.0\.0\salcpu\.com$
+^0\.0\.0\.0\salicdn\.com$
+^0\.0\.0\.0\salluremedia\.com\.au$
+^0\.0\.0\.0\salohasoftware\.net$
+^0\.0\.0\.0\samazon\.com$
+^0\.0\.0\.0\samazonaws\.com$
+^0\.0\.0\.0\samzn\.com$
+^0\.0\.0\.0\samzn\.to$
+^0\.0\.0\.0\sanalytics\.archive\.org$
+^0\.0\.0\.0\sancestry\.com$
+^0\.0\.0\.0\sandroid\.clients\.google\.com$
+^0\.0\.0\.0\sangularjs\.org$
+^0\.0\.0\.0\sap\.spotify\.com$
+^0\.0\.0\.0\sapi-global\.netflix\.com$
+^0\.0\.0\.0\sapi-staging\.backup\.signal\.org$
+^0\.0\.0\.0\sapi-staging\.directory\.signal\.org$
+^0\.0\.0\.0\sapi\.amplitude\.com$
+^0\.0\.0\.0\sapi\.bluecore\.com$
+^0\.0\.0\.0\sapi\.branch\.io$
+^0\.0\.0\.0\sapi\.coinbase\.com$
+^0\.0\.0\.0\sapi\.cxense\.com$
+^0\.0\.0\.0\sapi\.ethermine\.org$
+^0\.0\.0\.0\sapi\.ipify\.org$
+^0\.0\.0\.0\sapi\.ipstack\.com$
+^0\.0\.0\.0\sapi\.parsely\.com$
+^0\.0\.0\.0\sapi\.pluto\.tv$
+^0\.0\.0\.0\sapi\.rollbar\.com$
+^0\.0\.0\.0\sapi\.twitter\.com$
+^0\.0\.0\.0\sapp\.adjust\.com$
+^0\.0\.0\.0\sapp\.link$
+^0\.0\.0\.0\sappboot\.netflix\.com$
+^0\.0\.0\.0\sappboy-images\.com$
+^0\.0\.0\.0\sappldnld\.apple\.com$
+^0\.0\.0\.0\sapple\.com$
+^0\.0\.0\.0\sappleid\.apple\.com$
+^0\.0\.0\.0\sappsbackup-pa\.clients6\.google\.com$
+^0\.0\.0\.0\sappsbackup-pa\.googleapis\.com$
+^0\.0\.0\.0\sapresolve\.spotify\.com$
+^0\.0\.0\.0\sapt\.newrelic\.com$
+^0\.0\.0\.0\sarchive\.org$
+^0\.0\.0\.0\sask\.com$
+^0\.0\.0\.0\saspnetcdn\.com$
+^0\.0\.0\.0\sassets\.adobedtm\.com$
+^0\.0\.0\.0\sassets\.huluim\.com$
+^0\.0\.0\.0\sassets\.rbl\.ms$
+^0\.0\.0\.0\sassets\.rebelmouse\.io$
+^0\.0\.0\.0\sassets\.ubuntu\.com$
+^0\.0\.0\.0\sbeforeitsnews\.com$
+^0\.0\.0\.0\sbet365\.com$
+^0\.0\.0\.0\sbeyondsecurity\.com$
+^0\.0\.0\.0\sbi\.medscape\.com$
+^0\.0\.0\.0\sbinance\.com$
+^0\.0\.0\.0\sbing\.net$
+^0\.0\.0\.0\sbit\.ly$
+^0\.0\.0\.0\sbitbucket\.org$
+^0\.0\.0\.0\sbittrex\.com$
+^0\.0\.0\.0\sbleacherreport\.com$
+^0\.0\.0\.0\sblocklists\.settings\.services\.mozilla\.com$
+^0\.0\.0\.0\sblokada\.org$
+^0\.0\.0\.0\sbluebillywig\.com$
+^0\.0\.0\.0\sboards\.420chan\.org$
+^0\.0\.0\.0\sboards\.4chan\.org$
+^0\.0\.0\.0\sboards\.4channel\.org$
+^0\.0\.0\.0\sbrightcove\.net$
+^0\.0\.0\.0\sbrowser\.sentry-cdn\.com$
+^0\.0\.0\.0\sbusiness\.opera\.com$
+^0\.0\.0\.0\sby\.uservoice\.com$
+^0\.0\.0\.0\sc\.evidon\.com$
+^0\.0\.0\.0\sc\.msn\.com$
+^0\.0\.0\.0\sc\.paypal\.com$
+^0\.0\.0\.0\scampaign-archive\.com$
+^0\.0\.0\.0\scbsi\.com\.ssl\.sc\.omtrdc\.net$
+^0\.0\.0\.0\scbsinteractive\.hb\.omtrdc\.net$
+^0\.0\.0\.0\scdn-customers\.nanorep\.com$
+^0\.0\.0\.0\scdn-gl\.imrworldwide\.com$
+^0\.0\.0\.0\scdn-mobile\.api\.pluto\.tv$
+^0\.0\.0\.0\scdn-staging\.signal\.org$
+^0\.0\.0\.0\scdn\.appdynamics\.com$
+^0\.0\.0\.0\scdn\.bluebillywig\.com$
+^0\.0\.0\.0\scdn\.cloudflare\.net$
+^0\.0\.0\.0\scdn\.consentmanager\.mgr\.consensu\.org$
+^0\.0\.0\.0\scdn\.cpnscdn\.com$
+^0\.0\.0\.0\scdn\.cxense\.com$
+^0\.0\.0\.0\scdn\.discordapp\.com$
+^0\.0\.0\.0\scdn\.embed\.ly$
+^0\.0\.0\.0\scdn\.embedly\.com$
+^0\.0\.0\.0\scdn\.flipboard\.com$
+^0\.0\.0\.0\scdn\.jsdelivr\.net$
+^0\.0\.0\.0\scdn\.optimizely\.com$
+^0\.0\.0\.0\scdn\.ravenjs\.com$
+^0\.0\.0\.0\scdn\.samsungcloudsolution\.com$
+^0\.0\.0\.0\scdn\.segment\.com$
+^0\.0\.0\.0\scdn\.segment\.io$
+^0\.0\.0\.0\scdn\.shortpixel\.ai$
+^0\.0\.0\.0\scdn\.sports-streams-online\.best$
+^0\.0\.0\.0\scdn\.sports-streams-online\.club$
+^0\.0\.0\.0\scdn\.sports-streams-online\.xyz$
+^0\.0\.0\.0\scdn\.syndication\.twitter\.com$
+^0\.0\.0\.0\scdn2-staging\.signal\.org$
+^0\.0\.0\.0\scdn2\.optimizely\.com$
+^0\.0\.0\.0\scdn3\.optimizely\.com$
+^0\.0\.0\.0\scdnjs\.cloudflare\.com$
+^0\.0\.0\.0\scdns\.eu1\.gigya\.com$
+^0\.0\.0\.0\scheckip\.justwatch\.com$
+^0\.0\.0\.0\schoice\.microsoft\.com$
+^0\.0\.0\.0\schrome\.google\.com$
+^0\.0\.0\.0\sclamav\.net$
+^0\.0\.0\.0\sclick\.bible\.com$
+^0\.0\.0\.0\sclick\.drizly\.com$
+^0\.0\.0\.0\sclick\.e\.affirm\.com$
+^0\.0\.0\.0\sclick\.e\.progressive\.com$
+^0\.0\.0\.0\sclick\.e\.tdbank\.com$
+^0\.0\.0\.0\sclick\.email-stubhub\.com$
+^0\.0\.0\.0\sclick\.email\.bbc\.com$
+^0\.0\.0\.0\sclick\.email\.chope\.co$
+^0\.0\.0\.0\sclick\.email\.sonos\.com$
+^0\.0\.0\.0\sclick\.email\.soundhound\.com$
+^0\.0\.0\.0\sclick\.emails\.creditonebank\.com$
+^0\.0\.0\.0\sclick\.engage\.xbox\.com$
+^0\.0\.0\.0\sclick\.instacartemail\.com$
+^0\.0\.0\.0\sclick\.official\.nike\.com$
+^0\.0\.0\.0\sclick\.oneplus\.cn$
+^0\.0\.0\.0\sclick\.oneplus\.com$
+^0\.0\.0\.0\sclick\.redditmail\.com$
+^0\.0\.0\.0\sclient-event-reporter\.twitch\.tv$
+^0\.0\.0\.0\sclient-s\.gateway\.messenger\.live\.com$
+^0\.0\.0\.0\sclientconfig\.passport\.net$
+^0\.0\.0\.0\sclients1\.google\.com$
+^0\.0\.0\.0\sclients2\.google\.com$
+^0\.0\.0\.0\sclients3\.google\.com$
+^0\.0\.0\.0\sclients4\.google\.com$
+^0\.0\.0\.0\sclients5\.google\.com$
+^0\.0\.0\.0\sclients6\.google\.com$
+^0\.0\.0\.0\scloudflare\.com$
+^0\.0\.0\.0\scmp-cdn\.ghostery\.com$
+^0\.0\.0\.0\scodeproject\.com$
+^0\.0\.0\.0\scognito-identity\.us-east-1\.amazonaws\.com$
+^0\.0\.0\.0\scoinbase\.com$
+^0\.0\.0\.0\scoinmarketcap\.com$
+^0\.0\.0\.0\scollecting-consent\.g5e\.com$
+^0\.0\.0\.0\scollector\.lightstep\.com$
+^0\.0\.0\.0\scommunity\.signalusers\.org$
+^0\.0\.0\.0\scomputertotaal\.nl$
+^0\.0\.0\.0\sconfiguration\.apple\.com$
+^0\.0\.0\.0\sconnectivitycheck\.android\.com$
+^0\.0\.0\.0\sconnectivitycheck\.gstatic\.com$
+^0\.0\.0\.0\sconsent-manager-events\.ogury\.io$
+^0\.0\.0\.0\sconsent\.cookiebot\.com$
+^0\.0\.0\.0\sconsentmanager\.mgr\.consensu\.org$
+^0\.0\.0\.0\scontent\.jwplatform\.com$
+^0\.0\.0\.0\sconviva\.com$
+^0\.0\.0\.0\scookie-script\.com$
+^0\.0\.0\.0\scookie\.monster\.com$
+^0\.0\.0\.0\scookieblock\.trackersimulate\.org$
+^0\.0\.0\.0\scrbcdn\.jsfiddle\.net$
+^0\.0\.0\.0\scs\.dds\.microsoft\.com$
+^0\.0\.0\.0\scse\.google\.com$
+^0\.0\.0\.0\scsi\.gstatic\.com$
+^0\.0\.0\.0\sctldl\.windowsupdate\.com$
+^0\.0\.0\.0\scws\.conviva\.com$
+^0\.0\.0\.0\scwtv-mrss-akamai\.cwtv\.com$
+^0\.0\.0\.0\scwtv-prod-elb\.digitalsmiths\.net$
+^0\.0\.0\.0\sd2c8v52ll5s99u\.cloudfront\.net$
+^0\.0\.0\.0\sd2gatte9o95jao\.cloudfront\.net$
+^0\.0\.0\.0\sdailymotion\.com$
+^0\.0\.0\.0\sdashboard-01\.braze\.com$
+^0\.0\.0\.0\sdashboard-03\.braze\.com$
+^0\.0\.0\.0\sdashboard\.plex\.tv$
+^0\.0\.0\.0\sdata\.nal\.usda\.gov$
+^0\.0\.0\.0\sdb\.tt$
+^0\.0\.0\.0\sdet-ta-g7g\.amazon\.com$
+^0\.0\.0\.0\sdev-multiscreen\.samsung\.com$
+^0\.0\.0\.0\sdev\.twitter\.com$
+^0\.0\.0\.0\sdev\.virtualearth\.net$
+^0\.0\.0\.0\sdevice-messaging-na\.amazon\.com$
+^0\.0\.0\.0\sdirectvapplications\.hb\.omtrdc\.net$
+^0\.0\.0\.0\sdirectvnow\.com$
+^0\.0\.0\.0\sdiscovery\.com$
+^0\.0\.0\.0\sdl\.dropbox\.com$
+^0\.0\.0\.0\sdl\.dropboxusercontent\.com$
+^0\.0\.0\.0\sdownload\.sonarr\.tv$
+^0\.0\.0\.0\sdownload\.winzip\.com$
+^0\.0\.0\.0\sdpm\.demdex\.net$
+^0\.0\.0\.0\sdropbox\.com$
+^0\.0\.0\.0\sdropbox\.zendesk\.com$
+^0\.0\.0\.0\sdropboxapi\.com$
+^0\.0\.0\.0\sdropboxbusiness\.com$
+^0\.0\.0\.0\sdropboxcaptcha\.com$
+^0\.0\.0\.0\sdropboxforum\.com$
+^0\.0\.0\.0\sdropboxforums\.com$
+^0\.0\.0\.0\sdropboxinsiders\.com$
+^0\.0\.0\.0\sdropboxmail\.com$
+^0\.0\.0\.0\sdropboxpartners\.com$
+^0\.0\.0\.0\sdropboxstatic\.com$
+^0\.0\.0\.0\sdshield\.org$
+^0\.0\.0\.0\sduckdns\.org$
+^0\.0\.0\.0\sduo\.nl$
+^0\.0\.0\.0\sdw\.cbsi\.com$
+^0\.0\.0\.0\sdwq4do82y8xi7\.cloudfront\.net$
+^0\.0\.0\.0\sea\.com$
+^0\.0\.0\.0\seasylist\.to$
+^0\.0\.0\.0\sebay\.com$
+^0\.0\.0\.0\sebayimg\.com$
+^0\.0\.0\.0\secn\.dev\.virtualearth\.net$
+^0\.0\.0\.0\sedge-enterprise\.activity\.windows\.com$
+^0\.0\.0\.0\sedge\.activity\.windows\.com$
+^0\.0\.0\.0\sedge\.api\.brightcove\.com$
+^0\.0\.0\.0\seightforums\.com$
+^0\.0\.0\.0\sembed\.ly$
+^0\.0\.0\.0\sembed\.spotify\.com$
+^0\.0\.0\.0\sembedly\.com$
+^0\.0\.0\.0\semptyloop\.com$
+^0\.0\.0\.0\sentitlement\.auth\.adobe\.com$
+^0\.0\.0\.0\sereg\.adobe\.com$
+^0\.0\.0\.0\sereg\.wip3\.adobe\.com$
+^0\.0\.0\.0\sethermine\.org$
+^0\.0\.0\.0\setl\.tindersparks\.com$
+^0\.0\.0\.0\seu1\.ethermine\.org$
+^0\.0\.0\.0\sevents\.gfe\.nvidia\.com$
+^0\.0\.0\.0\sevents\.mapbox\.com$
+^0\.0\.0\.0\severgreen\.segment\.com$
+^0\.0\.0\.0\sextratorrent\.cc$
+^0\.0\.0\.0\sf1\.media\.brightcove\.com$
+^0\.0\.0\.0\sfanboy\.co\.nz$
+^0\.0\.0\.0\sfast\.fonts\.net$
+^0\.0\.0\.0\sfide\.com$
+^0\.0\.0\.0\sfirefox\.settings\.services\.mozilla\.com$
+^0\.0\.0\.0\sfiverr\.com$
+^0\.0\.0\.0\sflipboard\.com$
+^0\.0\.0\.0\sfonts\.gstatic\.com$
+^0\.0\.0\.0\sforbes\.com$
+^0\.0\.0\.0\sforum\.xda-developers\.com$
+^0\.0\.0\.0\sforums\.sonarr\.tv$
+^0\.0\.0\.0\sfoxnews\.demdex\.net$
+^0\.0\.0\.0\sfpdownload\.adobe\.com$
+^0\.0\.0\.0\sfpdownload\.macromedia\.com$
+^0\.0\.0\.0\sftpcontent\.worldnow\.com$
+^0\.0\.0\.0\sg\.live\.com$
+^0\.0\.0\.0\sg\.msn\.com$
+^0\.0\.0\.0\sg1\.nyt\.com$
+^0\.0\.0\.0\sgame\.weixin\.qq\.com$
+^0\.0\.0\.0\sgameanalytics\.com$
+^0\.0\.0\.0\sgcs\.sc-cdn\.net$
+^0\.0\.0\.0\sge\.tt$
+^0\.0\.0\.0\sgearbest\.com$
+^0\.0\.0\.0\sgeo\.ngtv\.io$
+^0\.0\.0\.0\sgesangsunterricht-hh\.de$
+^0\.0\.0\.0\sget\.adobe\.com$
+^0\.0\.0\.0\sget3\.adobe\.com$
+^0\.0\.0\.0\sgetdropbox\.com$
+^0\.0\.0\.0\sgfwsl\.geforce\.com$
+^0\.0\.0\.0\sgigazine\.asia$
+^0\.0\.0\.0\sgiphy\.com$
+^0\.0\.0\.0\sgit\.io$
+^0\.0\.0\.0\sgithub\.com$
+^0\.0\.0\.0\sgithub\.io$
+^0\.0\.0\.0\sgitter\.im$
+^0\.0\.0\.0\sglimmer\.hearstapps\.com$
+^0\.0\.0\.0\sgo\.cnn\.com$
+^0\.0\.0\.0\sgodaddy\.com$
+^0\.0\.0\.0\sgoo\.gl$
+^0\.0\.0\.0\sgravatar\.com$
+^0\.0\.0\.0\sgs\.apple\.com$
+^0\.0\.0\.0\sgstatic\.com$
+^0\.0\.0\.0\sgstaticadssl\.l\.google\.com$
+^0\.0\.0\.0\sguidetopetersburg\.com$
+^0\.0\.0\.0\shealthgrades\.com$
+^0\.0\.0\.0\shello\.myfonts\.net$
+^0\.0\.0\.0\shere\.com$
+^0\.0\.0\.0\shostsfile\.org$
+^0\.0\.0\.0\shtml5zombo\.com$
+^0\.0\.0\.0\si\.imgbox\.com$
+^0\.0\.0\.0\si\.ytimg\.com$
+^0\.0\.0\.0\si1\.ytimg\.com$
+^0\.0\.0\.0\sicloud\.com$
+^0\.0\.0\.0\sicscards\.nl$
+^0\.0\.0\.0\simage\.ibb\.co$
+^0\.0\.0\.0\simages\.pluto\.tv$
+^0\.0\.0\.0\simages3\.imgbox\.com$
+^0\.0\.0\.0\simg\.purch\.com$
+^0\.0\.0\.0\simg\.transcoder\.opera\.com$
+^0\.0\.0\.0\simgs\.xkcd\.com$
+^0\.0\.0\.0\simgtaxi\.com$
+^0\.0\.0\.0\simgtown\.pw$
+^0\.0\.0\.0\simgview\.pw$
+^0\.0\.0\.0\sinstructorledlearning\.dropboxbusiness\.com$
+^0\.0\.0\.0\sinternational\.bittrex\.com$
+^0\.0\.0\.0\sip-api\.com$
+^0\.0\.0\.0\sipinfo\.io$
+^0\.0\.0\.0\situnes\.apple\.com$
+^0\.0\.0\.0\situnes\.com$
+^0\.0\.0\.0\siubenda\.com$
+^0\.0\.0\.0\sjdownloader\.org$
+^0\.0\.0\.0\sjquery\.com$
+^0\.0\.0\.0\sjs-sec\.indexww\.com$
+^0\.0\.0\.0\sjs\.maxmind\.com$
+^0\.0\.0\.0\sjsdelivr\.net$
+^0\.0\.0\.0\sjwpcdn\.com$
+^0\.0\.0\.0\sjwplatform\.com$
+^0\.0\.0\.0\sjwplayer\.com$
+^0\.0\.0\.0\sjwpltx\.com$
+^0\.0\.0\.0\slads\.myspace\.com$
+^0\.0\.0\.0\slastfm-img2\.akamaized\.net$
+^0\.0\.0\.0\sletsencrypt\.org$
+^0\.0\.0\.0\slicensing\.xboxlive\.com$
+^0\.0\.0\.0\slinkedin-learning\.pxf\.io$
+^0\.0\.0\.0\slive-nhl\.stream$
+^0\.0\.0\.0\slive\.com$
+^0\.0\.0\.0\sliveinternet\.ru$
+^0\.0\.0\.0\slivepassdl\.conviva\.com$
+^0\.0\.0\.0\slm\.licenses\.adobe\.com$
+^0\.0\.0\.0\slocalcontent\.huffingtonpost\.com$
+^0\.0\.0\.0\slogin\.live\.com$
+^0\.0\.0\.0\slotustalk\.com$
+^0\.0\.0\.0\slp\.babbel\.com$
+^0\.0\.0\.0\sm\.hotmail\.com$
+^0\.0\.0\.0\sm1\.daumcdn\.net$
+^0\.0\.0\.0\sm1\.nsimg\.net$
+^0\.0\.0\.0\sm2\.nsimg\.net$
+^0\.0\.0\.0\smail\.ru$
+^0\.0\.0\.0\smalwaredomainlist\.com$
+^0\.0\.0\.0\smalwaredomains\.com$
+^0\.0\.0\.0\smanagemymove\.usps\.com$
+^0\.0\.0\.0\smedium\.com$
+^0\.0\.0\.0\smovies\.netflix\.com$
+^0\.0\.0\.0\smsa\.akadns6\.net$
+^0\.0\.0\.0\smultiscreen\.samsung\.com$
+^0\.0\.0\.0\smy\.mixtape\.moe$
+^0\.0\.0\.0\snab\.demdex\.net$
+^0\.0\.0\.0\sneocities\.org$
+^0\.0\.0\.0\sneostrada\.nl$
+^0\.0\.0\.0\snetflix\.com$
+^0\.0\.0\.0\snews\.ebc\.net\.tw$
+^0\.0\.0\.0\snextdns\.io$
+^0\.0\.0\.0\snexus\.ensighten\.com$
+^0\.0\.0\.0\snitroflare\.com$
+^0\.0\.0\.0\snj\.com$
+^0\.0\.0\.0\snocdnrlly\.xyz$
+^0\.0\.0\.0\snotify\.xboxlive\.com$
+^0\.0\.0\.0\snu\.nl$
+^0\.0\.0\.0\socsp\.rootg2\.amazontrust\.com$
+^0\.0\.0\.0\soffice\.com$
+^0\.0\.0\.0\som\.cbsi\.com$
+^0\.0\.0\.0\som\.symantec\.com$
+^0\.0\.0\.0\soms\.symantec\.com$
+^0\.0\.0\.0\sonecollector\.cloudapp\.aria\.akadns\.net$
+^0\.0\.0\.0\sonedrive\.com$
+^0\.0\.0\.0\sonedrive\.live\.com$
+^0\.0\.0\.0\sonelink\.me$
+^0\.0\.0\.0\sooyala\.com$
+^0\.0\.0\.0\sopendns\.com$
+^0\.0\.0\.0\sopenphish\.com$
+^0\.0\.0\.0\sopensubtitles\.org$
+^0\.0\.0\.0\soptimizely\.com$
+^0\.0\.0\.0\soracle\.112\.2o7\.net$
+^0\.0\.0\.0\sota-downloads\.nvidia\.com$
+^0\.0\.0\.0\soui\.cdn\.optimizely\.com$
+^0\.0\.0\.0\sow\.ly$
+^0\.0\.0\.0\sp\.typekit\.net$
+^0\.0\.0\.0\spaper\.dropbox\.com$
+^0\.0\.0\.0\spaste\.ee$
+^0\.0\.0\.0\spastebin\.com$
+^0\.0\.0\.0\spbs\.twimg\.com$
+^0\.0\.0\.0\spcmweb\.nl$
+^0\.0\.0\.0\spgl\.yoyo\.org$
+^0\.0\.0\.0\sphobos\.apple\.com$
+^0\.0\.0\.0\sphonearena\.com$
+^0\.0\.0\.0\spic\.twitter\.com$
+^0\.0\.0\.0\spings\.conviva\.com$
+^0\.0\.0\.0\spinpoint\.us-east-1\.amazonaws\.com$
+^0\.0\.0\.0\spixel\.nymag\.com$
+^0\.0\.0\.0\splatform\.twitter\.com$
+^0\.0\.0\.0\splay\.spotify\.com$
+^0\.0\.0\.0\splayers\.brightcove\.net$
+^0\.0\.0\.0\splayers\.pluto\.tv$
+^0\.0\.0\.0\splex\.tv$
+^0\.0\.0\.0\spmd\.cdn\.turner\.com$
+^0\.0\.0\.0\sprisacom\.112\.207\.net$
+^0\.0\.0\.0\sprisacom\.112\.2o7\.net$
+^0\.0\.0\.0\sprivacy-center\.org$
+^0\.0\.0\.0\spro\.fontawesome\.com$
+^0\.0\.0\.0\spro\.ip-api\.com$
+^0\.0\.0\.0\sproduction-cmp\.isgprivacy\.cbsi\.com$
+^0\.0\.0\.0\sproxy\.novafusion\.ea\.com$
+^0\.0\.0\.0\spublic\.vilynx\.com$
+^0\.0\.0\.0\spublish0x\.com$
+^0\.0\.0\.0\spublishers\.basicattentiontoken\.org$
+^0\.0\.0\.0\spurch\.com$
+^0\.0\.0\.0\spushbullet\.com$
+^0\.0\.0\.0\srackcdn\.com$
+^0\.0\.0\.0\srapidgator\.net$
+^0\.0\.0\.0\sratas\.sanoma\.fi$
+^0\.0\.0\.0\sraw\.githubusercontent\.com$
+^0\.0\.0\.0\sreach-api\.urbanairship\.com$
+^0\.0\.0\.0\sredirector\.googlevideo\.com$
+^0\.0\.0\.0\sres\.cloudinary\.com$
+^0\.0\.0\.0\srethinkdns\.com$
+^0\.0\.0\.0\srichmedia\.channeladvisor\.com$
+^0\.0\.0\.0\srolo\.nocdnrlly\.xyz$
+^0\.0\.0\.0\srpxnow\.com$
+^0\.0\.0\.0\ss\.gateway\.messenger\.live\.com$
+^0\.0\.0\.0\ss\.marketwatch\.com$
+^0\.0\.0\.0\ss\.swiftypecdn\.com$
+^0\.0\.0\.0\ss\.youtube\.com$
+^0\.0\.0\.0\ss\.zkcdn\.net$
+^0\.0\.0\.0\ss0\.2mdn\.net$
+^0\.0\.0\.0\ss3-eu-west-1\.amazonaws\.com$
+^0\.0\.0\.0\ss6\.exct\.net$
+^0\.0\.0\.0\ssaa\.cbsi\.com$
+^0\.0\.0\.0\ssafelinking\.net$
+^0\.0\.0\.0\ssamsungcloudsolution\.com$
+^0\.0\.0\.0\ssc-static\.net$
+^0\.0\.0\.0\ssci\.intuit\.com$
+^0\.0\.0\.0\ssdc\.usps\.com$
+^0\.0\.0\.0\ssdk\.privacy-center\.org$
+^0\.0\.0\.0\ssdup\.update\.360safe\.com$
+^0\.0\.0\.0\ssdx\.xfinity\.com$
+^0\.0\.0\.0\ssearch\.brave\.com$
+^0\.0\.0\.0\ssearch\.twitter\.com$
+^0\.0\.0\.0\sseccdn-gl\.imrworldwide\.com$
+^0\.0\.0\.0\ssecure-us\.imrworldwide\.com$
+^0\.0\.0\.0\ssecure\.eloqua\.com$
+^0\.0\.0\.0\ssecure\.netflix\.com$
+^0\.0\.0\.0\ssecure\.skypeassets\.com$
+^0\.0\.0\.0\ssecure\.surveymonkey\.com$
+^0\.0\.0\.0\ssegment\.com$
+^0\.0\.0\.0\ssegment\.io$
+^0\.0\.0\.0\ssentry\.io$
+^0\.0\.0\.0\sserials\.ws$
+^0\.0\.0\.0\sserverfault\.com$
+^0\.0\.0\.0\sservices\.fandom\.com$
+^0\.0\.0\.0\ssevenforums\.com$
+^0\.0\.0\.0\sshavar\.services\.mozilla\.com$
+^0\.0\.0\.0\sshop\.rewe-static\.de$
+^0\.0\.0\.0\sshorl\.com$
+^0\.0\.0\.0\sshortpixel\.ai$
+^0\.0\.0\.0\ssignal\.art$
+^0\.0\.0\.0\ssignal\.org$
+^0\.0\.0\.0\ssignalcaptchas\.org$
+^0\.0\.0\.0\ssilo\.pluto\.tv$
+^0\.0\.0\.0\ssiloh\.pluto\.tv$
+^0\.0\.0\.0\ssmartasset\.com$
+^0\.0\.0\.0\ssmetrics\.cnn\.com$
+^0\.0\.0\.0\ssocialize\.eu1\.gigya\.com$
+^0\.0\.0\.0\ssocket\.bittrex\.com$
+^0\.0\.0\.0\ssomeonewhocares\.org$
+^0\.0\.0\.0\ssoundcloud\.com$
+^0\.0\.0\.0\sspankbang\.com$
+^0\.0\.0\.0\sspclient\.spotify\.com$
+^0\.0\.0\.0\sspclient\.wg\.spotify\.com$
+^0\.0\.0\.0\ssports-streams-online\.best$
+^0\.0\.0\.0\ssports-streams-online\.com$
+^0\.0\.0\.0\ssrc\.litix\.io$
+^0\.0\.0\.0\sssl-images-amazon\.com$
+^0\.0\.0\.0\sssl\.bblck\.me$
+^0\.0\.0\.0\sssl\.o\.webmd\.com$
+^0\.0\.0\.0\sssl\.reddit\.com$
+^0\.0\.0\.0\sstatic\.parsely\.com$
+^0\.0\.0\.0\sstatic01\.nyt\.com$
+^0\.0\.0\.0\ssteamcommunity\.com$
+^0\.0\.0\.0\sstitcher\.pluto\.tv$
+^0\.0\.0\.0\sstocks-analytics-events\.apple\.com$
+^0\.0\.0\.0\sstorage-staging\.signal\.org$
+^0\.0\.0\.0\sstorage\.pardot\.com$
+^0\.0\.0\.0\ssuche\.t-online\.de$
+^0\.0\.0\.0\ssupport\.microsoft\.com$
+^0\.0\.0\.0\ssupport\.signal\.org$
+^0\.0\.0\.0\sswscan\.apple\.com$
+^0\.0\.0\.0\ssyndication\.twitter\.com$
+^0\.0\.0\.0\ssysctl\.org$
+^0\.0\.0\.0\st0\.ssl\.ak\.dynamic\.tiles\.virtualearth\.net$
+^0\.0\.0\.0\st0\.ssl\.ak\.tiles\.virtualearth\.net$
+^0\.0\.0\.0\stags\.tiqcdn\.com$
+^0\.0\.0\.0\stalk\.brave\.com$
+^0\.0\.0\.0\std\.demdex\.net$
+^0\.0\.0\.0\stelegraaf\.nl$
+^0\.0\.0\.0\stenforums\.com$
+^0\.0\.0\.0\steslathemes\.com$
+^0\.0\.0\.0\stextsecure-service-staging\.whispersystems\.org$
+^0\.0\.0\.0\sthemoviedb\.com$
+^0\.0\.0\.0\sthepiratebay\.org$
+^0\.0\.0\.0\sthetvdb\.com$
+^0\.0\.0\.0\stime\.samsungcloudsolution\.com$
+^0\.0\.0\.0\stimeinc\.net$
+^0\.0\.0\.0\stindersparks\.com$
+^0\.0\.0\.0\stinyurl\.com$
+^0\.0\.0\.0\stn\.com\.ar$
+^0\.0\.0\.0\stodo-ta-g7g\.amazon\.com$
+^0\.0\.0\.0\stomshardware\.com$
+^0\.0\.0\.0\stvaddons\.ag$
+^0\.0\.0\.0\stvpassport\.com$
+^0\.0\.0\.0\stwimg\.com$
+^0\.0\.0\.0\stypeface\.nyt\.com$
+^0\.0\.0\.0\stypeform\.com$
+^0\.0\.0\.0\stypekit\.com$
+^0\.0\.0\.0\stypekit\.net$
+^0\.0\.0\.0\stypepad\.com$
+^0\.0\.0\.0\stypography\.com$
+^0\.0\.0\.0\subiservices\.data\.ubi\.com$
+^0\.0\.0\.0\sudemy\.com$
+^0\.0\.0\.0\sui\.skype\.com$
+^0\.0\.0\.0\sulink\.adjust\.com$
+^0\.0\.0\.0\sunagi-na\.amazon\.com$
+^0\.0\.0\.0\sunity3d\.com$
+^0\.0\.0\.0\supload\.twitter\.com$
+^0\.0\.0\.0\surbanairship\.com$
+^0\.0\.0\.0\sus-east-1\.amazonaws\.com$
+^0\.0\.0\.0\sus\.i1\.yimg\.com$
+^0\.0\.0\.0\susbank-app\.quantummetric\.com$
+^0\.0\.0\.0\suse\.fontawesome\.com$
+^0\.0\.0\.0\suse\.typekit\.net$
+^0\.0\.0\.0\susers\.telenet\.be$
+^0\.0\.0\.0\suserstream\.twitter\.com$
+^0\.0\.0\.0\susps\.com$
+^0\.0\.0\.0\sv\.w-x\.co$
+^0\.0\.0\.0\svanilla\.futurecdn\.net$
+^0\.0\.0\.0\svideos\.vidible\.tv$
+^0\.0\.0\.0\svidible\.tv$
+^0\.0\.0\.0\svirtualearth\.net$
+^0\.0\.0\.0\svms\.bluebillywig\.com$
+^0\.0\.0\.0\svoid\.gr$
+^0\.0\.0\.0\sw88\.espn\.com$
+^0\.0\.0\.0\swallet-api\.urbanairship\.com$
+^0\.0\.0\.0\sweb\.archive\.org$
+^0\.0\.0\.0\sweb\.facebook\.com$
+^0\.0\.0\.0\swebcache\.googleusercontent\.com$
+^0\.0\.0\.0\swebmd\.com$
+^0\.0\.0\.0\swellsfargobankna\.demdex\.net$
+^0\.0\.0\.0\swhispersystems\.org$
+^0\.0\.0\.0\swidget-cdn\.rpxnow\.com$
+^0\.0\.0\.0\swinhelp2002\.mvps\.org$
+^0\.0\.0\.0\swix\.com$
+^0\.0\.0\.0\sws\.audioscrobbler\.com$
+^0\.0\.0\.0\swww\.4shared\.com$
+^0\.0\.0\.0\swww\.adblockplus\.org$
+^0\.0\.0\.0\swww\.adtidy\.org$
+^0\.0\.0\.0\swww\.archive\.org$
+^0\.0\.0\.0\swww\.ask\.com$
+^0\.0\.0\.0\swww\.bet365\.com$
+^0\.0\.0\.0\swww\.binance\.com$
+^0\.0\.0\.0\swww\.bit\.ly$
+^0\.0\.0\.0\swww\.bittrex\.com$
+^0\.0\.0\.0\swww\.clamav\.net$
+^0\.0\.0\.0\swww\.cloudflare\.com$
+^0\.0\.0\.0\swww\.coinbase\.com$
+^0\.0\.0\.0\swww\.countryflags\.io$
+^0\.0\.0\.0\swww\.fanboy\.co\.nz$
+^0\.0\.0\.0\swww\.fide\.com$
+^0\.0\.0\.0\swww\.gameanalytics\.com$
+^0\.0\.0\.0\swww\.github\.com$
+^0\.0\.0\.0\swww\.godaddy\.com$
+^0\.0\.0\.0\swww\.gravatar\.com$
+^0\.0\.0\.0\swww\.healthgrades\.com$
+^0\.0\.0\.0\swww\.howtogeek\.com$
+^0\.0\.0\.0\swww\.html5zombo\.com$
+^0\.0\.0\.0\swww\.jdownloader\.org$
+^0\.0\.0\.0\swww\.jwplayer\.com$
+^0\.0\.0\.0\swww\.letsencrypt\.org$
+^0\.0\.0\.0\swww\.live-nhl\.stream$
+^0\.0\.0\.0\swww\.liveinternet\.ru$
+^0\.0\.0\.0\swww\.lotustalk\.com$
+^0\.0\.0\.0\swww\.mcssl\.com$
+^0\.0\.0\.0\swww\.msftncsi\.com$
+^0\.0\.0\.0\swww\.neocities\.org$
+^0\.0\.0\.0\swww\.no-ip\.com$
+^0\.0\.0\.0\swww\.nocdnrlly\.xyz$
+^0\.0\.0\.0\swww\.opendns\.com$
+^0\.0\.0\.0\swww\.opensubtitles\.org$
+^0\.0\.0\.0\swww\.ow\.ly$
+^0\.0\.0\.0\swww\.pastebin\.com$
+^0\.0\.0\.0\swww\.privacy-center\.org$
+^0\.0\.0\.0\swww\.serials\.ws$
+^0\.0\.0\.0\swww\.sevenforums\.com$
+^0\.0\.0\.0\swww\.shorl\.com$
+^0\.0\.0\.0\swww\.sports-streams-online\.best$
+^0\.0\.0\.0\swww\.staradvertiser\.com$
+^0\.0\.0\.0\swww\.tenforums\.com$
+^0\.0\.0\.0\swww\.theguardian\.com$
+^0\.0\.0\.0\swww\.travelzoo\.com$
+^0\.0\.0\.0\swww\.tvaddons\.ag$
+^0\.0\.0\.0\swww\.urbanairship\.com$
+^0\.0\.0\.0\swww\.vidible\.tv$
+^0\.0\.0\.0\swww\.void\.gr$
+^0\.0\.0\.0\swww\.xda-developers\.com$
+^0\.0\.0\.0\swww\.youtube-nocookie\.com$
+^0\.0\.0\.0\swww\.zombo\.com$
+^0\.0\.0\.0\sxda-developers\.com$
+^0\.0\.0\.0\syimg\.com$
+^0\.0\.0\.0\syimg\.jp$
+^0\.0\.0\.0\syoutube-nocookie\.com$
+^0\.0\.0\.0\syql\.yahoo\.com$
+^0\.0\.0\.0\sytimg\.com$
+^0\.0\.0\.0\sytmnd\.com$
+^0\.0\.0\.0\syui\.yahooapis\.com$
+^0\.0\.0\.0\szee\.cws\.conviva\.com$
+^0\.0\.0\.0\szombo\.com$
+^0\.0\.0\.0\sztd\.dds\.microsoft\.com$
