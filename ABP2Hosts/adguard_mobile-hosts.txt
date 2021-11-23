@@ -1,4 +1,4 @@
-# Fri Nov 19 09:06:03 PM UTC 2021
+# Tue Nov 23 04:25:19 AM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -267,6 +267,7 @@
 0.0.0.0 accounts.doubleclick.net
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 ace-tag.advertising.com
+0.0.0.0 ace.naver.com
 0.0.0.0 ach.appodeal.com
 0.0.0.0 acjs.aliyun.com
 0.0.0.0 acme.tango.me
@@ -369,6 +370,7 @@
 0.0.0.0 ad3.apx.appier.net
 0.0.0.0 ad4.com.cn
 0.0.0.0 ad6media.fr
+0.0.0.0 ada-tr.staff-start.com
 0.0.0.0 adacus-cdn.placelocal.com
 0.0.0.0 adadvisor.net
 0.0.0.0 adapi.inlcorp.com
@@ -899,6 +901,8 @@
 0.0.0.0 af4a.adj.st
 0.0.0.0 af89dacd-4aec-4ac1-9d52-2a66ce5e4fb5.edge.permutive.app
 0.0.0.0 af89dacd-4aec-4ac1-9d52-2a66ce5e4fb5.prmutv.co
+0.0.0.0 aff-policy.lbesecapi.com
+0.0.0.0 aff-report.lbesecapi.com
 0.0.0.0 affinity.com
 0.0.0.0 affiz.net
 0.0.0.0 afiles.webengage.com
@@ -1077,6 +1081,7 @@
 0.0.0.0 analytics.lb.mobileapphelper.com
 0.0.0.0 analytics.libertymutual.com.edgekey.net
 0.0.0.0 analytics.liftoff.io
+0.0.0.0 analytics.liveact-vault.com
 0.0.0.0 analytics.locallogic.co
 0.0.0.0 analytics.localytics.com
 0.0.0.0 analytics.logsss.com
@@ -1413,6 +1418,7 @@
 0.0.0.0 api.splkmobile.com
 0.0.0.0 api.sponsorpay.com
 0.0.0.0 api.stathat.com
+0.0.0.0 api.statsig.com
 0.0.0.0 api.survicate.com
 0.0.0.0 api.swrve.com
 0.0.0.0 api.taboola.com
@@ -3102,6 +3108,7 @@
 0.0.0.0 deviceid.trueleadid.com
 0.0.0.0 devices.carnivalmobile.com
 0.0.0.0 devs.data.mob.com
+0.0.0.0 dex50.deteql.net
 0.0.0.0 df.mic.mob.com
 0.0.0.0 df.mob.com
 0.0.0.0 dfe.mic.mob.com
@@ -3500,6 +3507,8 @@
 0.0.0.0 extend.tv
 0.0.0.0 extreme-ip-lookup.com
 0.0.0.0 eyeblaster.akadns.net
+0.0.0.0 f-log-mobile-ios.grammarly.io
+0.0.0.0 f-log-mobile.grammarly.io
 0.0.0.0 f.aduwant.com
 0.0.0.0 f.gm.mob.com
 0.0.0.0 f.mediav.com
@@ -5210,6 +5219,7 @@
 0.0.0.0 nrcapi.ssl2.duapps.com
 0.0.0.0 ns.zdbb.net
 0.0.0.0 nspmotion.com
+0.0.0.0 ntracker-collector.naver.com
 0.0.0.0 ntv.io.edgekey.net
 0.0.0.0 ntvcld-a.akamaihd.net
 0.0.0.0 nu9k.adj.st
@@ -5768,6 +5778,7 @@
 0.0.0.0 ps.innity.com
 0.0.0.0 ps.l.admedo.com
 0.0.0.0 psa.carambo.la
+0.0.0.0 psi.lbesecapi.com
 0.0.0.0 psi.tubemogul.com
 0.0.0.0 pson.logging.admicro.vn
 0.0.0.0 pssvc.iqzone.com
@@ -5967,6 +5978,7 @@
 0.0.0.0 renderer.apester.com
 0.0.0.0 replaycontroller.4seeresults.com
 0.0.0.0 reporo.net
+0.0.0.0 report-ps.meettech.net
 0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 report.clevernt.com
 0.0.0.0 report.personali.com
@@ -6464,7 +6476,6 @@
 0.0.0.0 segments.company-target.com
 0.0.0.0 sejs.moatads.com
 0.0.0.0 sekindo.com
-0.0.0.0 self.events.data.microsoft.com
 0.0.0.0 send.microadinc.com
 0.0.0.0 sender.clevernt.com
 0.0.0.0 sense360eng.com.herokudns.com
@@ -6830,6 +6841,7 @@
 0.0.0.0 stat.optad360.mgr.consensu.org
 0.0.0.0 stat.y.qq.com
 0.0.0.0 stat8.flashtalking.com
+0.0.0.0 statclick.nate.com
 0.0.0.0 statcollector.sidearmsports.com
 0.0.0.0 statgw.devtodev.com
 0.0.0.0 static-cdn.adblade.com
