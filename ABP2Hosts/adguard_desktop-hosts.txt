@@ -1,4 +1,4 @@
-# Mon Nov 29 01:14:15 AM UTC 2021
+# Mon Nov 29 01:36:32 AM UTC 2021
 # AdGuard Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0-132.net.daraz.com
 0.0.0.0 0.oldgyhogola.com
