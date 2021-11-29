@@ -1,4 +1,4 @@
-// **** Tue Nov 23 04:31:27 AM UTC 2021
+// **** Mon Nov 29 01:21:50 AM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -391,7 +391,6 @@ shExpMatch(host, '*.abugyhe.cn') ||
 shExpMatch(host, '*.abz.com') ||
 shExpMatch(host, '*.ac.rnm.ca') ||
 shExpMatch(host, '*.academiajo.com') ||
-shExpMatch(host, '*.acbsearch.com') ||
 shExpMatch(host, '*.accaount-secure-update.com') ||
 shExpMatch(host, '*.acceptable.a-ads.com') ||
 shExpMatch(host, '*.accguitar.com') ||
@@ -2268,7 +2267,6 @@ shExpMatch(host, '*.atticdek.com') ||
 shExpMatch(host, '*.attractiveafternoon.com') ||
 shExpMatch(host, '*.attractivevideos.com') ||
 shExpMatch(host, '*.attribution.report') ||
-shExpMatch(host, '*.attributiontracker.com') ||
 shExpMatch(host, '*.atwola.com') ||
 shExpMatch(host, '*.au.id312666359-9036410720.w595505.com') ||
 shExpMatch(host, '*.auanalytics.net') ||
@@ -12384,6 +12382,7 @@ shExpMatch(host, '*.plardi.com') ||
 shExpMatch(host, '*.plastischechirurgie.net') ||
 shExpMatch(host, '*.platamones.nl') ||
 shExpMatch(host, '*.platformhub.wtf') ||
+shExpMatch(host, '*.plausible.mangadex.org') ||
 shExpMatch(host, '*.plausibleio.workers.dev') ||
 shExpMatch(host, '*.play-beta.com') ||
 shExpMatch(host, '*.play-services.com') ||
@@ -12435,6 +12434,7 @@ shExpMatch(host, '*.ploai.com') ||
 shExpMatch(host, '*.plotonk.com') ||
 shExpMatch(host, '*.plotrabbit.com') ||
 shExpMatch(host, '*.ployea.com') ||
+shExpMatch(host, '*.ploz.mangadex.org') ||
 shExpMatch(host, '*.plsderk.ddns.me.uk') ||
 shExpMatch(host, '*.pltechnews.biz') ||
 shExpMatch(host, '*.pltraffic8.com') ||
@@ -12668,7 +12668,6 @@ shExpMatch(host, '*.procyclingmanager2013.sharezips.info') ||
 shExpMatch(host, '*.prod-review.info') ||
 shExpMatch(host, '*.prodesigners.club') ||
 shExpMatch(host, '*.producecopy.com') ||
-shExpMatch(host, '*.producer.getwisdom.io') ||
 shExpMatch(host, '*.productioncheats.com') ||
 shExpMatch(host, '*.productionguy.com') ||
 shExpMatch(host, '*.productsrev.com') ||
@@ -13961,7 +13960,6 @@ shExpMatch(host, '*.silkysquirrel.com') ||
 shExpMatch(host, '*.sillyscrew.com') ||
 shExpMatch(host, '*.sillyslit.com') ||
 shExpMatch(host, '*.silurian.cn') ||
-shExpMatch(host, '*.silvalliant.info') ||
 shExpMatch(host, '*.silvermob.com') ||
 shExpMatch(host, '*.silverupload.com') ||
 shExpMatch(host, '*.simcity.beta-keygen.com') ||
@@ -18027,7 +18025,6 @@ shExpMatch(host, 'abugyhe.cn') ||
 shExpMatch(host, 'abz.com') ||
 shExpMatch(host, 'ac.rnm.ca') ||
 shExpMatch(host, 'academiajo.com') ||
-shExpMatch(host, 'acbsearch.com') ||
 shExpMatch(host, 'accaount-secure-update.com') ||
 shExpMatch(host, 'acceptable.a-ads.com') ||
 shExpMatch(host, 'accguitar.com') ||
@@ -19904,7 +19901,6 @@ shExpMatch(host, 'atticdek.com') ||
 shExpMatch(host, 'attractiveafternoon.com') ||
 shExpMatch(host, 'attractivevideos.com') ||
 shExpMatch(host, 'attribution.report') ||
-shExpMatch(host, 'attributiontracker.com') ||
 shExpMatch(host, 'atwola.com') ||
 shExpMatch(host, 'au.id312666359-9036410720.w595505.com') ||
 shExpMatch(host, 'auanalytics.net') ||
@@ -30020,6 +30016,7 @@ shExpMatch(host, 'plardi.com') ||
 shExpMatch(host, 'plastischechirurgie.net') ||
 shExpMatch(host, 'platamones.nl') ||
 shExpMatch(host, 'platformhub.wtf') ||
+shExpMatch(host, 'plausible.mangadex.org') ||
 shExpMatch(host, 'plausibleio.workers.dev') ||
 shExpMatch(host, 'play-beta.com') ||
 shExpMatch(host, 'play-services.com') ||
@@ -30071,6 +30068,7 @@ shExpMatch(host, 'ploai.com') ||
 shExpMatch(host, 'plotonk.com') ||
 shExpMatch(host, 'plotrabbit.com') ||
 shExpMatch(host, 'ployea.com') ||
+shExpMatch(host, 'ploz.mangadex.org') ||
 shExpMatch(host, 'plsderk.ddns.me.uk') ||
 shExpMatch(host, 'pltechnews.biz') ||
 shExpMatch(host, 'pltraffic8.com') ||
@@ -30304,7 +30302,6 @@ shExpMatch(host, 'procyclingmanager2013.sharezips.info') ||
 shExpMatch(host, 'prod-review.info') ||
 shExpMatch(host, 'prodesigners.club') ||
 shExpMatch(host, 'producecopy.com') ||
-shExpMatch(host, 'producer.getwisdom.io') ||
 shExpMatch(host, 'productioncheats.com') ||
 shExpMatch(host, 'productionguy.com') ||
 shExpMatch(host, 'productsrev.com') ||
@@ -31597,7 +31594,6 @@ shExpMatch(host, 'silkysquirrel.com') ||
 shExpMatch(host, 'sillyscrew.com') ||
 shExpMatch(host, 'sillyslit.com') ||
 shExpMatch(host, 'silurian.cn') ||
-shExpMatch(host, 'silvalliant.info') ||
 shExpMatch(host, 'silvermob.com') ||
 shExpMatch(host, 'silverupload.com') ||
 shExpMatch(host, 'simcity.beta-keygen.com') ||
