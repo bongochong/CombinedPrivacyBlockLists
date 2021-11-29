@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Mon Nov 29 02:08:38 AM UTC 2021
+! Updated: Mon Nov 29 02:09:38 AM UTC 2021
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -94185,6 +94185,7 @@ slant.co##._View.LustrePromoteModal.Modal._LustreAIPromoteModalView
 slant.co##._soft-close-link.Modal-Cover
 slashdot.org###slashdot_deals
 slashdot.org##.close-ad
+slashdot.org##.deals-wrapper
 smoktech.com###warning-message
 sparkylinux.org##DIV#ad0569e
 sportiquescooters.com###lbOverlay
@@ -94324,6 +94325,7 @@ zerohedge.com##.Banner_banner__2PJ1Y
 ##.banner-300x600
 ##.banner-728x90
 ##.persistent-ad
+##.railad
 ##div[id^="div-gpt-ad"]
 ! Google AMP Trash
 ###amp-smart-banner-download
