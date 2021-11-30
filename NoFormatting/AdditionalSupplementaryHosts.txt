@@ -12620,6 +12620,7 @@
 0.0.0.0 besthack.co
 0.0.0.0 besti.ga
 0.0.0.0 bestjobs.adocean.pl
+0.0.0.0 bestlifeoffer20.com
 0.0.0.0 bestnest.shop
 0.0.0.0 bestoffer2021.info
 0.0.0.0 bestoffer21.info
@@ -20324,6 +20325,7 @@
 0.0.0.0 fra14-cr01-et60-1.adjust.com
 0.0.0.0 fraad.adtech.de
 0.0.0.0 fractionalmedia.com
+0.0.0.0 frafinomoney01.fun
 0.0.0.0 frailoffer.com
 0.0.0.0 fral-ib.adnxs.com
 0.0.0.0 frameupds.info
@@ -27102,6 +27104,7 @@
 0.0.0.0 max.adnxs.com
 0.0.0.0 maxads.ruralpress.com
 0.0.0.0 maxadserver.corusradionetwork.com
+0.0.0.0 maxhacks.pro
 0.0.0.0 maxim.122.2o7.net
 0.0.0.0 maxima.adnxs.com
 0.0.0.0 maximiliaan.adnxs.com
@@ -34588,6 +34591,7 @@
 0.0.0.0 sexcontact-store1.com
 0.0.0.0 sexcounter.com
 0.0.0.0 sexglam.ru
+0.0.0.0 sexpartnercommunity.com
 0.0.0.0 sexplayground.net
 0.0.0.0 sexshops.site
 0.0.0.0 sexual-partner2.com
