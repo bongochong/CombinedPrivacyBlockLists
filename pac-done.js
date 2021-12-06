@@ -1,4 +1,4 @@
-// **** Tue Nov 30 03:52:53 AM UTC 2021
+// **** Mon Dec  6 01:00:15 AM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -572,7 +572,6 @@ shExpMatch(host, '*.ad0.bigmir.net') ||
 shExpMatch(host, '*.ad01.mediacorpsingapore.com') ||
 shExpMatch(host, '*.ad1.emediate.dk') ||
 shExpMatch(host, '*.ad1.emule-project.org') ||
-shExpMatch(host, '*.ad1.eventmanager.co.kr') ||
 shExpMatch(host, '*.ad1.kde.cz') ||
 shExpMatch(host, '*.ad1.pamedia.com.au') ||
 shExpMatch(host, '*.ad100sdhjsd.com') ||
@@ -1408,7 +1407,6 @@ shExpMatch(host, '*.adserver.freecity.de') ||
 shExpMatch(host, '*.adserver.freenet.de') ||
 shExpMatch(host, '*.adserver.friendfinder.com') ||
 shExpMatch(host, '*.adserver.generationiron.com') ||
-shExpMatch(host, '*.adserver.gilligan.tech') ||
 shExpMatch(host, '*.adserver.hardsextube.com') ||
 shExpMatch(host, '*.adserver.hardwareanalysis.com') ||
 shExpMatch(host, '*.adserver.html.it') ||
@@ -5670,7 +5668,9 @@ shExpMatch(host, '*.eloyed.com') ||
 shExpMatch(host, '*.elskins.com') ||
 shExpMatch(host, '*.elthamely.com') ||
 shExpMatch(host, '*.em1.yoursantander.co.uk') ||
+shExpMatch(host, '*.email-clk.adguard.com') ||
 shExpMatch(host, '*.email-hack.com') ||
+shExpMatch(host, '*.email-opn.adguard.com') ||
 shExpMatch(host, '*.emanog.com') ||
 shExpMatch(host, '*.emarketer.com') ||
 shExpMatch(host, '*.embedor.com') ||
@@ -7764,6 +7764,7 @@ shExpMatch(host, '*.gewor.ru') ||
 shExpMatch(host, '*.gexaf.ru') ||
 shExpMatch(host, '*.gezahcyg.ru') ||
 shExpMatch(host, '*.gfacebook.in') ||
+shExpMatch(host, '*.gfcim5.gq') ||
 shExpMatch(host, '*.gfiled.com') ||
 shExpMatch(host, '*.gfnewsfr.pro') ||
 shExpMatch(host, '*.gg-tournament.com') ||
@@ -13323,7 +13324,6 @@ shExpMatch(host, '*.rightstats.com') ||
 shExpMatch(host, '*.rihzortechnology.com') ||
 shExpMatch(host, '*.rijagt.dk') ||
 shExpMatch(host, '*.rikiki.net') ||
-shExpMatch(host, '*.rinconpx.net') ||
 shExpMatch(host, '*.ringsrecord.com') ||
 shExpMatch(host, '*.riorub.ru') ||
 shExpMatch(host, '*.riot-codes.com') ||
@@ -17516,6 +17516,7 @@ shExpMatch(host, '*.zantracker.com') ||
 shExpMatch(host, '*.zarget.com') ||
 shExpMatch(host, '*.zbwp6ghm.com') ||
 shExpMatch(host, '*.zcztois.sellclassics.com') ||
+shExpMatch(host, '*.zdbb.net') ||
 shExpMatch(host, '*.zde-affinity.edgecaching.net') ||
 shExpMatch(host, '*.zdesestvareznezahodi.com') ||
 shExpMatch(host, '*.zdq004.cn') ||
@@ -18206,7 +18207,6 @@ shExpMatch(host, 'ad0.bigmir.net') ||
 shExpMatch(host, 'ad01.mediacorpsingapore.com') ||
 shExpMatch(host, 'ad1.emediate.dk') ||
 shExpMatch(host, 'ad1.emule-project.org') ||
-shExpMatch(host, 'ad1.eventmanager.co.kr') ||
 shExpMatch(host, 'ad1.kde.cz') ||
 shExpMatch(host, 'ad1.pamedia.com.au') ||
 shExpMatch(host, 'ad100sdhjsd.com') ||
@@ -19042,7 +19042,6 @@ shExpMatch(host, 'adserver.freecity.de') ||
 shExpMatch(host, 'adserver.freenet.de') ||
 shExpMatch(host, 'adserver.friendfinder.com') ||
 shExpMatch(host, 'adserver.generationiron.com') ||
-shExpMatch(host, 'adserver.gilligan.tech') ||
 shExpMatch(host, 'adserver.hardsextube.com') ||
 shExpMatch(host, 'adserver.hardwareanalysis.com') ||
 shExpMatch(host, 'adserver.html.it') ||
@@ -23304,7 +23303,9 @@ shExpMatch(host, 'eloyed.com') ||
 shExpMatch(host, 'elskins.com') ||
 shExpMatch(host, 'elthamely.com') ||
 shExpMatch(host, 'em1.yoursantander.co.uk') ||
+shExpMatch(host, 'email-clk.adguard.com') ||
 shExpMatch(host, 'email-hack.com') ||
+shExpMatch(host, 'email-opn.adguard.com') ||
 shExpMatch(host, 'emanog.com') ||
 shExpMatch(host, 'emarketer.com') ||
 shExpMatch(host, 'embedor.com') ||
@@ -25398,6 +25399,7 @@ shExpMatch(host, 'gewor.ru') ||
 shExpMatch(host, 'gexaf.ru') ||
 shExpMatch(host, 'gezahcyg.ru') ||
 shExpMatch(host, 'gfacebook.in') ||
+shExpMatch(host, 'gfcim5.gq') ||
 shExpMatch(host, 'gfiled.com') ||
 shExpMatch(host, 'gfnewsfr.pro') ||
 shExpMatch(host, 'gg-tournament.com') ||
@@ -30957,7 +30959,6 @@ shExpMatch(host, 'rightstats.com') ||
 shExpMatch(host, 'rihzortechnology.com') ||
 shExpMatch(host, 'rijagt.dk') ||
 shExpMatch(host, 'rikiki.net') ||
-shExpMatch(host, 'rinconpx.net') ||
 shExpMatch(host, 'ringsrecord.com') ||
 shExpMatch(host, 'riorub.ru') ||
 shExpMatch(host, 'riot-codes.com') ||
@@ -35150,6 +35151,7 @@ shExpMatch(host, 'zantracker.com') ||
 shExpMatch(host, 'zarget.com') ||
 shExpMatch(host, 'zbwp6ghm.com') ||
 shExpMatch(host, 'zcztois.sellclassics.com') ||
+shExpMatch(host, 'zdbb.net') ||
 shExpMatch(host, 'zde-affinity.edgecaching.net') ||
 shExpMatch(host, 'zdesestvareznezahodi.com') ||
 shExpMatch(host, 'zdq004.cn') ||
