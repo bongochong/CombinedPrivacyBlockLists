@@ -1,4 +1,4 @@
-# Tue Nov 30 03:48:04 AM UTC 2021
+# Mon Dec  6 12:55:02 AM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -504,6 +504,7 @@
 0.0.0.0 adpopcorn.com
 0.0.0.0 adpriv.nikkei.com
 0.0.0.0 adprotected.com
+0.0.0.0 adproxy.tf1.fr
 0.0.0.0 adpublisher.s3.amazonaws.com
 0.0.0.0 adpush.goforandroid.com
 0.0.0.0 adpushsdk.goforandroid.com
@@ -4096,6 +4097,7 @@
 0.0.0.0 ib.anycast.adnxs.com
 0.0.0.0 ib.mookie1.com
 0.0.0.0 ib.sin1.geoadnxs.com
+0.0.0.0 ibd-as-api.iq.com
 0.0.0.0 ibilisk.iad-01.braze.com
 0.0.0.0 ibis.iad-03.braze.com
 0.0.0.0 ichannel.isnssdk.com
@@ -5091,6 +5093,7 @@
 0.0.0.0 msg.simeji.baidu.jp
 0.0.0.0 msg.simeji.me
 0.0.0.0 msg.umengcloud.com
+0.0.0.0 msga.cupid.iqiyi.com
 0.0.0.0 msn.directadvert.ru
 0.0.0.0 msntest.serving-sys.com
 0.0.0.0 mt.voiceads.cn
@@ -5179,8 +5182,10 @@
 0.0.0.0 nbcuvideo.s.moatpixel.com
 0.0.0.0 nbsdk-baichuan.taobao.com
 0.0.0.0 ncaudienceexchange.com
+0.0.0.0 ndct-data.video.iqiyi.com
 0.0.0.0 nearbyad.com
 0.0.0.0 nebula-cdn.kampyle.com
+0.0.0.0 nelo2-col.linecorp.com
 0.0.0.0 nend.net
 0.0.0.0 nep.advangelists.com
 0.0.0.0 neptune.mobileposse.com
@@ -7839,6 +7844,7 @@
 0.0.0.0 utarget.ru
 0.0.0.0 utctime.tiltingpoint.io
 0.0.0.0 utop.umengcloud.com
+0.0.0.0 uts-front.line-apps.com
 0.0.0.0 uts.kingoapp.com
 0.0.0.0 uw.evm1.stackadapt.com
 0.0.0.0 uw.srv.stackadapt.com
