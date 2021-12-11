@@ -1,4 +1,4 @@
-# Sat Dec 11 08:35:30 PM UTC 2021
+# Sat Dec 11 08:52:40 PM UTC 2021
 # AdGuard DNS Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 00-gov.cn
 0.0.0.0 0001.best
