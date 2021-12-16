@@ -1,4 +1,4 @@
-// **** Sat Dec 11 08:56:46 PM UTC 2021
+// **** Thu Dec 16 12:13:54 AM UTC 2021
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -323,7 +323,6 @@ shExpMatch(host, '*.a.0day.kiev.ua') ||
 shExpMatch(host, '*.a.aproductmsg.com') ||
 shExpMatch(host, '*.a.collective-media.net') ||
 shExpMatch(host, '*.a.consumer.net') ||
-shExpMatch(host, '*.a.klaviyo.com') ||
 shExpMatch(host, '*.a.mktw.net') ||
 shExpMatch(host, '*.a.muloqot.uz') ||
 shExpMatch(host, '*.a.pub.network') ||
@@ -674,6 +673,7 @@ shExpMatch(host, '*.adext.inkclub.com') ||
 shExpMatch(host, '*.adf.ly') ||
 shExpMatch(host, '*.adfactor.nl') ||
 shExpMatch(host, '*.adfarm.mediaplex.com') ||
+shExpMatch(host, '*.adfeed.marchex.com') ||
 shExpMatch(host, '*.adflight.com') ||
 shExpMatch(host, '*.adfly-bot.online') ||
 shExpMatch(host, '*.adfoc.us') ||
@@ -3239,6 +3239,7 @@ shExpMatch(host, '*.calculatingtoothbrush.com') ||
 shExpMatch(host, '*.calculatorcamera.com') ||
 shExpMatch(host, '*.calhacks.org') ||
 shExpMatch(host, '*.californians.biz') ||
+shExpMatch(host, '*.call-ad-network-api.marchex.com') ||
 shExpMatch(host, '*.call-the-plumber.men') ||
 shExpMatch(host, '*.call.hackingfree.com') ||
 shExpMatch(host, '*.callfire.com') ||
@@ -3997,7 +3998,6 @@ shExpMatch(host, '*.cogrem.com') ||
 shExpMatch(host, '*.coin-hive.com') ||
 shExpMatch(host, '*.coinbase.gift') ||
 shExpMatch(host, '*.coinbasepro-giveaway.com') ||
-shExpMatch(host, '*.coinhive.com') ||
 shExpMatch(host, '*.coinsbet.us') ||
 shExpMatch(host, '*.coinsforfree.online') ||
 shExpMatch(host, '*.coinsgame.icu') ||
@@ -4717,6 +4717,7 @@ shExpMatch(host, '*.curtaincows.com') ||
 shExpMatch(host, '*.custom-blacklisted-tracking-example.com') ||
 shExpMatch(host, '*.custom.plausible.io') ||
 shExpMatch(host, '*.customad.cnn.com') ||
+shExpMatch(host, '*.customads.co') ||
 shExpMatch(host, '*.customermgmt.net') ||
 shExpMatch(host, '*.customers.kameleoon.com') ||
 shExpMatch(host, '*.customsboysint.com') ||
@@ -12557,6 +12558,7 @@ shExpMatch(host, '*.powerstrike.org') ||
 shExpMatch(host, '*.powggi.ru') ||
 shExpMatch(host, '*.poyed.ru') ||
 shExpMatch(host, '*.ppapgame.com') ||
+shExpMatch(host, '*.ppc.adhere.marchex.com') ||
 shExpMatch(host, '*.ppcheats.com') ||
 shExpMatch(host, '*.ppcsoft.in') ||
 shExpMatch(host, '*.ppcube.com') ||
@@ -12931,6 +12933,7 @@ shExpMatch(host, '*.qiluceo001.cn') ||
 shExpMatch(host, '*.qingdian12999.cn') ||
 shExpMatch(host, '*.qipob.ru') ||
 shExpMatch(host, '*.qixiu88.com') ||
+shExpMatch(host, '*.ql.tc') ||
 shExpMatch(host, '*.qlke.ru') ||
 shExpMatch(host, '*.qmginteractive.com') ||
 shExpMatch(host, '*.qnsr.com') ||
@@ -14608,6 +14611,7 @@ shExpMatch(host, '*.statblog.ru') ||
 shExpMatch(host, '*.statcounter.com') ||
 shExpMatch(host, '*.statdynamic.com') ||
 shExpMatch(host, '*.stathat.com') ||
+shExpMatch(host, '*.static-tracking.klaviyo.com') ||
 shExpMatch(host, '*.static.a-ads.com') ||
 shExpMatch(host, '*.static.fmpub.net') ||
 shExpMatch(host, '*.static.itrack.it') ||
@@ -17952,7 +17956,6 @@ shExpMatch(host, 'a.0day.kiev.ua') ||
 shExpMatch(host, 'a.aproductmsg.com') ||
 shExpMatch(host, 'a.collective-media.net') ||
 shExpMatch(host, 'a.consumer.net') ||
-shExpMatch(host, 'a.klaviyo.com') ||
 shExpMatch(host, 'a.mktw.net') ||
 shExpMatch(host, 'a.muloqot.uz') ||
 shExpMatch(host, 'a.pub.network') ||
@@ -18303,6 +18306,7 @@ shExpMatch(host, 'adext.inkclub.com') ||
 shExpMatch(host, 'adf.ly') ||
 shExpMatch(host, 'adfactor.nl') ||
 shExpMatch(host, 'adfarm.mediaplex.com') ||
+shExpMatch(host, 'adfeed.marchex.com') ||
 shExpMatch(host, 'adflight.com') ||
 shExpMatch(host, 'adfly-bot.online') ||
 shExpMatch(host, 'adfoc.us') ||
@@ -20868,6 +20872,7 @@ shExpMatch(host, 'calculatingtoothbrush.com') ||
 shExpMatch(host, 'calculatorcamera.com') ||
 shExpMatch(host, 'calhacks.org') ||
 shExpMatch(host, 'californians.biz') ||
+shExpMatch(host, 'call-ad-network-api.marchex.com') ||
 shExpMatch(host, 'call-the-plumber.men') ||
 shExpMatch(host, 'call.hackingfree.com') ||
 shExpMatch(host, 'callfire.com') ||
@@ -21626,7 +21631,6 @@ shExpMatch(host, 'cogrem.com') ||
 shExpMatch(host, 'coin-hive.com') ||
 shExpMatch(host, 'coinbase.gift') ||
 shExpMatch(host, 'coinbasepro-giveaway.com') ||
-shExpMatch(host, 'coinhive.com') ||
 shExpMatch(host, 'coinsbet.us') ||
 shExpMatch(host, 'coinsforfree.online') ||
 shExpMatch(host, 'coinsgame.icu') ||
@@ -22346,6 +22350,7 @@ shExpMatch(host, 'curtaincows.com') ||
 shExpMatch(host, 'custom-blacklisted-tracking-example.com') ||
 shExpMatch(host, 'custom.plausible.io') ||
 shExpMatch(host, 'customad.cnn.com') ||
+shExpMatch(host, 'customads.co') ||
 shExpMatch(host, 'customermgmt.net') ||
 shExpMatch(host, 'customers.kameleoon.com') ||
 shExpMatch(host, 'customsboysint.com') ||
@@ -30186,6 +30191,7 @@ shExpMatch(host, 'powerstrike.org') ||
 shExpMatch(host, 'powggi.ru') ||
 shExpMatch(host, 'poyed.ru') ||
 shExpMatch(host, 'ppapgame.com') ||
+shExpMatch(host, 'ppc.adhere.marchex.com') ||
 shExpMatch(host, 'ppcheats.com') ||
 shExpMatch(host, 'ppcsoft.in') ||
 shExpMatch(host, 'ppcube.com') ||
@@ -30560,6 +30566,7 @@ shExpMatch(host, 'qiluceo001.cn') ||
 shExpMatch(host, 'qingdian12999.cn') ||
 shExpMatch(host, 'qipob.ru') ||
 shExpMatch(host, 'qixiu88.com') ||
+shExpMatch(host, 'ql.tc') ||
 shExpMatch(host, 'qlke.ru') ||
 shExpMatch(host, 'qmginteractive.com') ||
 shExpMatch(host, 'qnsr.com') ||
@@ -32237,6 +32244,7 @@ shExpMatch(host, 'statblog.ru') ||
 shExpMatch(host, 'statcounter.com') ||
 shExpMatch(host, 'statdynamic.com') ||
 shExpMatch(host, 'stathat.com') ||
+shExpMatch(host, 'static-tracking.klaviyo.com') ||
 shExpMatch(host, 'static.a-ads.com') ||
 shExpMatch(host, 'static.fmpub.net') ||
 shExpMatch(host, 'static.itrack.it') ||
