@@ -1,4 +1,4 @@
-# Sat Dec 11 08:51:50 PM UTC 2021
+# Thu Dec 16 12:09:59 AM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -792,6 +792,7 @@
 0.0.0.0 adsk-pnxproxy-prd-1753980530.us-east-1.elb.amazonaws.com
 0.0.0.0 adslog.apexinnotech.com
 0.0.0.0 adslot.uc.cn
+0.0.0.0 adsmetadata.startappservice.com
 0.0.0.0 adsmira.offerstrack.net
 0.0.0.0 adsmo.ru
 0.0.0.0 adsmogo.mobi
@@ -1323,6 +1324,7 @@
 0.0.0.0 api.growthbeat.com
 0.0.0.0 api.growthpush.com
 0.0.0.0 api.hdtv.letv.com
+0.0.0.0 api.huq.io
 0.0.0.0 api.huqindustries.co.uk
 0.0.0.0 api.iadvize.com
 0.0.0.0 api.icloseli.com
@@ -1375,6 +1377,8 @@
 0.0.0.0 api.mobula.ds.duapps.com
 0.0.0.0 api.mobula.sdk.duapps.com
 0.0.0.0 api.moengage.com
+0.0.0.0 api.monedata.io
+0.0.0.0 api.monedata.iomericreceiver.cellrebel.com
 0.0.0.0 api.monetate.net
 0.0.0.0 api.muneris.io
 0.0.0.0 api.myendpoint.io
@@ -1448,6 +1452,7 @@
 0.0.0.0 api.taplytics.com
 0.0.0.0 api.tappx.com
 0.0.0.0 api.taps.io
+0.0.0.0 api.tapsell.ir
 0.0.0.0 api.tapstream.com
 0.0.0.0 api.target2sell.com
 0.0.0.0 api.telemetry.watchabc.go.com
@@ -3904,7 +3909,6 @@
 0.0.0.0 googleadservices.com
 0.0.0.0 googlecm.hit.gemius.pl
 0.0.0.0 googlesyndication.com
-0.0.0.0 googletagmanager.com
 0.0.0.0 gop1.co
 0.0.0.0 goshare-fleet-ads.s3.ap-southeast-1.amazonaws.com
 0.0.0.0 gota.tpbid.com
@@ -4063,6 +4067,9 @@
 0.0.0.0 hub.securedtouch.com
 0.0.0.0 hulu.hb.omtrdc.net
 0.0.0.0 huntmad.com
+0.0.0.0 huq-query-loggers-california-3cec807da3e9dc0d.elb.us-west-1.amazonaws.com
+0.0.0.0 huq-query-loggers-europe-west1-32ef7f4bbf54ce27.elb.eu-west-1.amazonaws.com
+0.0.0.0 huq.io
 0.0.0.0 hv.adingo.jp
 0.0.0.0 hw-cdn-ap.trafficjunky.net
 0.0.0.0 hw-cdn.contentabc.com
@@ -4956,6 +4963,7 @@
 0.0.0.0 meter-svc.nytimes.com
 0.0.0.0 metok.sys.miui.com
 0.0.0.0 metric-android-am.road404.com
+0.0.0.0 metricreceiver.cellrebel.com
 0.0.0.0 metrics-cbslocal-com.cdn.ampproject.org
 0.0.0.0 metrics-collector.s-onetag.com
 0.0.0.0 metrics-logger.spot.im
@@ -5058,6 +5066,7 @@
 0.0.0.0 mobile.game-insight.com
 0.0.0.0 mobile.ib.sin1.geoadnxs.com
 0.0.0.0 mobile.launchdarkly.com
+0.0.0.0 mobile.measurelib.com
 0.0.0.0 mobile.mng-ads.com
 0.0.0.0 mobile.yandexadexchange.net
 0.0.0.0 mobile333.com
@@ -5083,6 +5092,7 @@
 0.0.0.0 mobnatives.com
 0.0.0.0 mobnerve.offerstrack.net
 0.0.0.0 moboland.net
+0.0.0.0 mobondhrd.appspot.com
 0.0.0.0 mobotoolpush.moboapps.io
 0.0.0.0 mobpartner.mobi
 0.0.0.0 mobpowertech.com
@@ -5095,7 +5105,6 @@
 0.0.0.0 mofox.com
 0.0.0.0 mojiva.com
 0.0.0.0 mologiq.net
-0.0.0.0 mon-va.byteoversea.com
 0.0.0.0 mon.isnssdk.com
 0.0.0.0 monetengine-d.openx.net
 0.0.0.0 monetize-api.coronalabs.com
@@ -5239,6 +5248,7 @@
 0.0.0.0 nativeapi.supersonicads.com
 0.0.0.0 nativesdks.mparticle.com
 0.0.0.0 nativex.com
+0.0.0.0 nav.telematicsdirect.com
 0.0.0.0 navigation.api.hk.goforandroid.com
 0.0.0.0 nbcu.demdex.net
 0.0.0.0 nbcu.prd.ads.aws.fwmrm.net
@@ -5524,6 +5534,7 @@
 0.0.0.0 paas-push-api.immomo.com
 0.0.0.0 pad-v3.presage.io
 0.0.0.0 padsdel.com
+0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pagefair.net
 0.0.0.0 pandg.tapad.com
@@ -5737,6 +5748,7 @@
 0.0.0.0 ploy.batmobi.net
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 plugins.blueconic.net
+0.0.0.0 plus.tapsell.ir
 0.0.0.0 pm-gateway.supersonicads.com
 0.0.0.0 pm.w55c.net
 0.0.0.0 pmc-com.videoplayerhub.com
@@ -6431,6 +6443,8 @@
 0.0.0.0 sdk-info.gimbal.com
 0.0.0.0 sdk-ios.ad.smaato.net
 0.0.0.0 sdk-log-inter.youdao.com
+0.0.0.0 sdk-monitoring.ogury.co
+0.0.0.0 sdk-monitoring.ogury.io
 0.0.0.0 sdk-orion.appboy.com
 0.0.0.0 sdk-resources.blinkreceipt.com
 0.0.0.0 sdk-services.appsflyer.com
@@ -6954,7 +6968,6 @@
 0.0.0.0 staging-tlx.3lift.com
 0.0.0.0 staging-us-east-tlx.3lift.com
 0.0.0.0 stags.bluekai.com
-0.0.0.0 starling-va.byteoversea.com
 0.0.0.0 startapp.com
 0.0.0.0 startappexchange.com
 0.0.0.0 startappservice.com
@@ -7001,6 +7014,7 @@
 0.0.0.0 static.chartbeat.com
 0.0.0.0 static.cleverpush.com
 0.0.0.0 static.clevertap.com
+0.0.0.0 static.cloud.coveo.com
 0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 static.criteo.com
 0.0.0.0 static.criteo.net
@@ -8016,7 +8030,6 @@
 0.0.0.0 vcardsdkservice.vivo.com.cn
 0.0.0.0 vcdn.adnxs.com
 0.0.0.0 vcdn.media.innity.net
-0.0.0.0 vcs-va.byteoversea.com
 0.0.0.0 vdapp.nend.net
 0.0.0.0 vdna.exelator.com
 0.0.0.0 vdopia.com
@@ -8029,7 +8042,6 @@
 0.0.0.0 vendimob.pl
 0.0.0.0 vendorlist.consensu.org
 0.0.0.0 venetia.iad.appboy.com
-0.0.0.0 verification-va.byteoversea.com
 0.0.0.0 verification.jiguang.cn
 0.0.0.0 verify.mob.com
 0.0.0.0 verizon.adhaven.com
@@ -8314,8 +8326,6 @@
 0.0.0.0 www.geoplugin.net
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.googleadservices.com
-0.0.0.0 www.googletagmanager.com
-0.0.0.0 www.googletagservices.com
 0.0.0.0 www.jdoqocy.com
 0.0.0.0 www.leanplum.com
 0.0.0.0 www.lightboxcdn.com
