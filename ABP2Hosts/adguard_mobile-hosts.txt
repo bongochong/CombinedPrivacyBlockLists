@@ -1,4 +1,4 @@
-# Thu Dec 16 12:09:59 AM UTC 2021
+# Wed Dec 22 12:30:39 AM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -1768,7 +1768,6 @@
 0.0.0.0 assets.connatix.com
 0.0.0.0 assets.customer.io
 0.0.0.0 assets.deployads.com
-0.0.0.0 assets.dwell.com
 0.0.0.0 assets.iterable.com
 0.0.0.0 assets.kampyle.com
 0.0.0.0 assets.kochava.com
@@ -4211,7 +4210,6 @@
 0.0.0.0 images.apester.com
 0.0.0.0 images.aspireclicks.com
 0.0.0.0 images.cardlytics.com
-0.0.0.0 images.dwell.com
 0.0.0.0 images.informatm.com
 0.0.0.0 images.mxpnl.com
 0.0.0.0 images.outbrain.com
@@ -5863,6 +5861,7 @@
 0.0.0.0 prod-m-node-3111.ssp.advertising.com
 0.0.0.0 prod-ms.applovin.com
 0.0.0.0 prod-pdx-beacon-1406086907.us-west-2.elb.amazonaws.com
+0.0.0.0 prod-plague-bacon.miniclippt.com
 0.0.0.0 prod.adjoe.zone
 0.0.0.0 prod.adtechjp.com
 0.0.0.0 prod.bidr.io
