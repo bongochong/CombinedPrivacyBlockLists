@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mini CPBL Filters for ABP & uBO
-! Updated: Wed Dec 22 12:48:43 AM UTC 2021
+! Updated: Sat Dec 25 12:51:45 AM UTC 2021
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -62603,6 +62603,7 @@ exodus.com##.x__content
 exodus.com##.x__subscribe-popup--done-animating.x__subscribe-popup
 exodus.com##div.x-newsletter-popup__right-content:nth-of-type(2)
 exodus.com[class*="x__subscribe-popup"]
+fandom.com##[class*="article-featured-video"]
 fxstreet.com##div[id*="brokersfooter"]
 fxstreet.com##div[id*="brokersspreads"]
 fxstreet.com##.fxs_alertText
