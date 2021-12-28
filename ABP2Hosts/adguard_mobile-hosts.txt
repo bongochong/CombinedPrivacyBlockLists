@@ -1,4 +1,4 @@
-# Wed Dec 22 12:30:39 AM UTC 2021
+# Tue Dec 28 01:55:57 AM UTC 2021
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -287,6 +287,7 @@
 0.0.0.0 ad-creative.projectcarmen.com
 0.0.0.0 ad-creatives-public.commondatastorage.googleapis.com
 0.0.0.0 ad-delivery.net
+0.0.0.0 ad-display.wikawika.xyz
 0.0.0.0 ad-emea.doubleclick.net
 0.0.0.0 ad-ettoday.cdn.hinet.net
 0.0.0.0 ad-exchange.toast.com
@@ -1483,6 +1484,7 @@
 0.0.0.0 api.wootric.com.herokudns.com
 0.0.0.0 api.yieldlove-ad-serving.net
 0.0.0.0 api.zcoup.com
+0.0.0.0 api16-access-gcp.pangle.io
 0.0.0.0 api16-access-sg.pangle.io
 0.0.0.0 api2.amplitude.com
 0.0.0.0 api2.appsflyer.com
@@ -3505,6 +3507,7 @@
 0.0.0.0 events.aerserv.com
 0.0.0.0 events.apester.com
 0.0.0.0 events.api.boomtrain.com
+0.0.0.0 events.api.red.wemesh.ca
 0.0.0.0 events.api.vungle.com
 0.0.0.0 events.appsflyer.com
 0.0.0.0 events.attentivemobile.com
@@ -5634,6 +5637,7 @@
 0.0.0.0 phunware.com
 0.0.0.0 pi.ispot.tv
 0.0.0.0 pi.pardot.com
+0.0.0.0 piano_log.kingsoft.jp
 0.0.0.0 piccdn.igetget.com
 0.0.0.0 pie.wirelessregistry.com
 0.0.0.0 ping-meta-prd.jwpltx.com
