@@ -1,4 +1,4 @@
-# Tue Dec 28 01:55:57 AM UTC 2021
+# Tue Jan  4 03:16:34 AM UTC 2022
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -1182,6 +1182,7 @@
 0.0.0.0 androidads21.adcolony.com
 0.0.0.0 androidads23.adcolony.com
 0.0.0.0 androidads4-3.adcolony.com
+0.0.0.0 androidads4-5.adcolony.com
 0.0.0.0 androidsdk.ads.mp.mydas.mobi
 0.0.0.0 andromeda.iad-01.braze.com
 0.0.0.0 andromeda.iad.appboy.com
@@ -1423,7 +1424,6 @@
 0.0.0.0 api.redshell.io
 0.0.0.0 api.reftagger.com
 0.0.0.0 api.reproio.com
-0.0.0.0 api.revenuecat.com
 0.0.0.0 api.rlcdn.com
 0.0.0.0 api.rqmob.com
 0.0.0.0 api.rudderlabs.com
@@ -3926,7 +3926,6 @@
 0.0.0.0 grace.shareaholic.com
 0.0.0.0 graph.bluecava.com
 0.0.0.0 graph.gcloud.bluecava.com
-0.0.0.0 graphql.contentful.com
 0.0.0.0 greystripe.com
 0.0.0.0 grid.bidswitch.net
 0.0.0.0 groupmapacvideo325555417505.s.moatpixel.com
