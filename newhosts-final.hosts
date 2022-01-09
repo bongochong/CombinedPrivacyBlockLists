@@ -18,7 +18,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 01/09/22~21:05:48 -~
+# ~- 01/09/22~21:16:13 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #   _________________________________
@@ -14816,7 +14816,6 @@
 0.0.0.0 apac.car10.net.daraz.com
 0.0.0.0 apac.doubleclick.net
 0.0.0.0 apac.info.mouser.com
-0.0.0.0 apac1.notify.windows.com.akadns.net
 0.0.0.0 apacbizpartner.com
 0.0.0.0 apaccs-utils-rtr.net.daraz.com
 0.0.0.0 apaccsr31.net.daraz.com
@@ -97287,6 +97286,7 @@
 0.0.0.0 ukrnment.one
 0.0.0.0 ukrotsel.ru
 0.0.0.0 ukrsvit.ukrmir.info
+0.0.0.0 uks.b.prd.ags.trafficmanager.net
 0.0.0.0 ukslphcgs.com
 0.0.0.0 ukspravedlivost.ru
 0.0.0.0 uktvltd.hb.omtrdc.net
