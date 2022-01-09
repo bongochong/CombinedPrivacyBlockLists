@@ -1,4 +1,4 @@
-// **** Tue Jan  4 03:21:18 AM UTC 2022
+// **** Sun Jan  9 09:06:33 PM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -15,6 +15,7 @@ shExpMatch(host, '*.0fees.net') ||
 shExpMatch(host, '*.0hacks.com') ||
 shExpMatch(host, '*.0koryu0.easter.ne.jp') ||
 shExpMatch(host, '*.0pencase.com') ||
+shExpMatch(host, '*.1-1ads.com') ||
 shExpMatch(host, '*.1-verygoods.ru') ||
 shExpMatch(host, '*.1.pandawamovie.com') ||
 shExpMatch(host, '*.100-escorts.com') ||
@@ -1401,6 +1402,7 @@ shExpMatch(host, '*.adserver.freecity.de') ||
 shExpMatch(host, '*.adserver.freenet.de') ||
 shExpMatch(host, '*.adserver.friendfinder.com') ||
 shExpMatch(host, '*.adserver.generationiron.com') ||
+shExpMatch(host, '*.adserver.gilligan.tech') ||
 shExpMatch(host, '*.adserver.hardsextube.com') ||
 shExpMatch(host, '*.adserver.hardwareanalysis.com') ||
 shExpMatch(host, '*.adserver.html.it') ||
@@ -12293,7 +12295,6 @@ shExpMatch(host, '*.pimproll.com') ||
 shExpMatch(host, '*.pinay.leak-video.org') ||
 shExpMatch(host, '*.pincheat.com') ||
 shExpMatch(host, '*.pinevalleycourt.co.uk') ||
-shExpMatch(host, '*.ping.hashnode.com') ||
 shExpMatch(host, '*.ping.ublock.org') ||
 shExpMatch(host, '*.pingpong-shop.info') ||
 shExpMatch(host, '*.pinkpillar.ru') ||
@@ -12444,7 +12445,6 @@ shExpMatch(host, '*.ploai.com') ||
 shExpMatch(host, '*.plotonk.com') ||
 shExpMatch(host, '*.plotrabbit.com') ||
 shExpMatch(host, '*.ployea.com') ||
-shExpMatch(host, '*.ploz.mangadex.org') ||
 shExpMatch(host, '*.plsderk.ddns.me.uk') ||
 shExpMatch(host, '*.pltechnews.biz') ||
 shExpMatch(host, '*.pltraffic8.com') ||
@@ -14425,6 +14425,7 @@ shExpMatch(host, '*.sonodrugs.eu') ||
 shExpMatch(host, '*.sony69.cinemamovie.biz') ||
 shExpMatch(host, '*.sonyps3jailbreak.com') ||
 shExpMatch(host, '*.soo.gd') ||
+shExpMatch(host, '*.sordidsmile.com') ||
 shExpMatch(host, '*.sortable.com') ||
 shExpMatch(host, '*.sorteo-capraboacasa.com') ||
 shExpMatch(host, '*.sortrashion.com') ||
@@ -15591,6 +15592,7 @@ shExpMatch(host, '*.tracking.5-47737-bi.co.uk') ||
 shExpMatch(host, '*.tracking.crunchiemedia.com') ||
 shExpMatch(host, '*.tracking.emilyclarkconsulting.com') ||
 shExpMatch(host, '*.tracking.epicgames.com') ||
+shExpMatch(host, '*.tracking.exipure.com') ||
 shExpMatch(host, '*.tracking.gajmp.com') ||
 shExpMatch(host, '*.tracking.hyros.com') ||
 shExpMatch(host, '*.tracking.ibxlink.com') ||
@@ -15684,6 +15686,7 @@ shExpMatch(host, '*.traffiq.com') ||
 shExpMatch(host, '*.traffok.cn') ||
 shExpMatch(host, '*.trafgen.org') ||
 shExpMatch(host, '*.trafic.ro') ||
+shExpMatch(host, '*.traildelsfars.com') ||
 shExpMatch(host, '*.trailemploy.com') ||
 shExpMatch(host, '*.trainercrackkey.com') ||
 shExpMatch(host, '*.trainerfree.com') ||
@@ -17663,6 +17666,7 @@ shExpMatch(host, '0fees.net') ||
 shExpMatch(host, '0hacks.com') ||
 shExpMatch(host, '0koryu0.easter.ne.jp') ||
 shExpMatch(host, '0pencase.com') ||
+shExpMatch(host, '1-1ads.com') ||
 shExpMatch(host, '1-verygoods.ru') ||
 shExpMatch(host, '1.pandawamovie.com') ||
 shExpMatch(host, '100-escorts.com') ||
@@ -19049,6 +19053,7 @@ shExpMatch(host, 'adserver.freecity.de') ||
 shExpMatch(host, 'adserver.freenet.de') ||
 shExpMatch(host, 'adserver.friendfinder.com') ||
 shExpMatch(host, 'adserver.generationiron.com') ||
+shExpMatch(host, 'adserver.gilligan.tech') ||
 shExpMatch(host, 'adserver.hardsextube.com') ||
 shExpMatch(host, 'adserver.hardwareanalysis.com') ||
 shExpMatch(host, 'adserver.html.it') ||
@@ -29941,7 +29946,6 @@ shExpMatch(host, 'pimproll.com') ||
 shExpMatch(host, 'pinay.leak-video.org') ||
 shExpMatch(host, 'pincheat.com') ||
 shExpMatch(host, 'pinevalleycourt.co.uk') ||
-shExpMatch(host, 'ping.hashnode.com') ||
 shExpMatch(host, 'ping.ublock.org') ||
 shExpMatch(host, 'pingpong-shop.info') ||
 shExpMatch(host, 'pinkpillar.ru') ||
@@ -30092,7 +30096,6 @@ shExpMatch(host, 'ploai.com') ||
 shExpMatch(host, 'plotonk.com') ||
 shExpMatch(host, 'plotrabbit.com') ||
 shExpMatch(host, 'ployea.com') ||
-shExpMatch(host, 'ploz.mangadex.org') ||
 shExpMatch(host, 'plsderk.ddns.me.uk') ||
 shExpMatch(host, 'pltechnews.biz') ||
 shExpMatch(host, 'pltraffic8.com') ||
@@ -32073,6 +32076,7 @@ shExpMatch(host, 'sonodrugs.eu') ||
 shExpMatch(host, 'sony69.cinemamovie.biz') ||
 shExpMatch(host, 'sonyps3jailbreak.com') ||
 shExpMatch(host, 'soo.gd') ||
+shExpMatch(host, 'sordidsmile.com') ||
 shExpMatch(host, 'sortable.com') ||
 shExpMatch(host, 'sorteo-capraboacasa.com') ||
 shExpMatch(host, 'sortrashion.com') ||
@@ -33239,6 +33243,7 @@ shExpMatch(host, 'tracking.5-47737-bi.co.uk') ||
 shExpMatch(host, 'tracking.crunchiemedia.com') ||
 shExpMatch(host, 'tracking.emilyclarkconsulting.com') ||
 shExpMatch(host, 'tracking.epicgames.com') ||
+shExpMatch(host, 'tracking.exipure.com') ||
 shExpMatch(host, 'tracking.gajmp.com') ||
 shExpMatch(host, 'tracking.hyros.com') ||
 shExpMatch(host, 'tracking.ibxlink.com') ||
@@ -33332,6 +33337,7 @@ shExpMatch(host, 'traffiq.com') ||
 shExpMatch(host, 'traffok.cn') ||
 shExpMatch(host, 'trafgen.org') ||
 shExpMatch(host, 'trafic.ro') ||
+shExpMatch(host, 'traildelsfars.com') ||
 shExpMatch(host, 'trailemploy.com') ||
 shExpMatch(host, 'trainercrackkey.com') ||
 shExpMatch(host, 'trainerfree.com') ||
