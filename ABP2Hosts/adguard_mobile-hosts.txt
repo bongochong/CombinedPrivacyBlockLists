@@ -1,4 +1,4 @@
-# Tue Jan  4 03:16:34 AM UTC 2022
+# Sun Jan  9 08:12:21 PM UTC 2022
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -3024,7 +3024,6 @@
 0.0.0.0 d.applvn.com
 0.0.0.0 d.appsdt.com
 0.0.0.0 d.eu.criteo.com
-0.0.0.0 d.ifengimg.com
 0.0.0.0 d.impactradius-event.com
 0.0.0.0 d.la1-c2-iad.salesforceliveagent.com
 0.0.0.0 d.mob.com
@@ -5789,7 +5788,6 @@
 0.0.0.0 postimp-ofw.fyber.com
 0.0.0.0 postitial.com
 0.0.0.0 postrelease.com
-0.0.0.0 postsign.docusign.com
 0.0.0.0 powerad.ai
 0.0.0.0 powerlinks.com
 0.0.0.0 powr-counter.herokuapp.com
@@ -7016,7 +7014,6 @@
 0.0.0.0 static.chartbeat.com
 0.0.0.0 static.cleverpush.com
 0.0.0.0 static.clevertap.com
-0.0.0.0 static.cloud.coveo.com
 0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 static.criteo.com
 0.0.0.0 static.criteo.net
@@ -7425,7 +7422,6 @@
 0.0.0.0 telemetries.jeeng.com
 0.0.0.0 telemetry.api.playstation.com
 0.0.0.0 telemetry.api.swiftkey.com
-0.0.0.0 telemetry.docusign.net
 0.0.0.0 telemetry.malwarebytes.com
 0.0.0.0 telemetry.sdk.inmobi.cn
 0.0.0.0 telemetry.sdk.inmobi.com
