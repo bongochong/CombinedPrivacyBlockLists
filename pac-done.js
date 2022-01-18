@@ -1,4 +1,4 @@
-// **** Sun Jan  9 09:16:52 PM UTC 2022
+// **** Tue Jan 18 09:13:28 PM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -611,7 +611,6 @@ shExpMatch(host, '*.adboost.net') ||
 shExpMatch(host, '*.adbooth.net') ||
 shExpMatch(host, '*.adbot.com') ||
 shExpMatch(host, '*.adbrite.com') ||
-shExpMatch(host, '*.adbrn.com') ||
 shExpMatch(host, '*.adbroker.de') ||
 shExpMatch(host, '*.adbunker.com') ||
 shExpMatch(host, '*.adbutler.com') ||
@@ -11710,7 +11709,6 @@ shExpMatch(host, '*.nyoflak.com') ||
 shExpMatch(host, '*.nyskiffintabout.com') ||
 shExpMatch(host, '*.nytndbssyrtkjuykiryu7.rr.nu') ||
 shExpMatch(host, '*.nzaza.com') ||
-shExpMatch(host, '*.o0bc.com') ||
 shExpMatch(host, '*.o20j8uo62vc2wmf.lazega.ru') ||
 shExpMatch(host, '*.o239315.com') ||
 shExpMatch(host, '*.o333o.com') ||
@@ -18262,7 +18260,6 @@ shExpMatch(host, 'adboost.net') ||
 shExpMatch(host, 'adbooth.net') ||
 shExpMatch(host, 'adbot.com') ||
 shExpMatch(host, 'adbrite.com') ||
-shExpMatch(host, 'adbrn.com') ||
 shExpMatch(host, 'adbroker.de') ||
 shExpMatch(host, 'adbunker.com') ||
 shExpMatch(host, 'adbutler.com') ||
@@ -29361,7 +29358,6 @@ shExpMatch(host, 'nyoflak.com') ||
 shExpMatch(host, 'nyskiffintabout.com') ||
 shExpMatch(host, 'nytndbssyrtkjuykiryu7.rr.nu') ||
 shExpMatch(host, 'nzaza.com') ||
-shExpMatch(host, 'o0bc.com') ||
 shExpMatch(host, 'o20j8uo62vc2wmf.lazega.ru') ||
 shExpMatch(host, 'o239315.com') ||
 shExpMatch(host, 'o333o.com') ||
