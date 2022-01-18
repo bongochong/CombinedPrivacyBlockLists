@@ -1,4 +1,4 @@
-# Sun Jan  9 08:12:21 PM UTC 2022
+# Tue Jan 18 09:06:13 PM UTC 2022
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 10148.engine.mobileapptracking.com
@@ -1329,7 +1329,6 @@
 0.0.0.0 api.huq.io
 0.0.0.0 api.huqindustries.co.uk
 0.0.0.0 api.iadvize.com
-0.0.0.0 api.icloseli.com
 0.0.0.0 api.idio.co
 0.0.0.0 api.ihuman.com
 0.0.0.0 api.immomo.com
@@ -2730,6 +2729,7 @@
 0.0.0.0 collect-eu-central-1.tealiumiq.com
 0.0.0.0 collect-eu-west-1.tealiumiq.com
 0.0.0.0 collect.adsorb.com
+0.0.0.0 collect.babybus.com
 0.0.0.0 collect.igodigital.com
 0.0.0.0 collect.iperceptions.com
 0.0.0.0 collect.media.jio.com
@@ -3184,6 +3184,7 @@
 0.0.0.0 did.ijinshan.com
 0.0.0.0 diff.smartadserver.com
 0.0.0.0 diff3.smartadserver.com
+0.0.0.0 dig.bdurl.net
 0.0.0.0 digianalytics.airtel.in
 0.0.0.0 digicertwc.rubiconproject.com.edgekey.net
 0.0.0.0 digitalfirstmedia.blueconic.net
@@ -4023,6 +4024,7 @@
 0.0.0.0 highway2.soom.la
 0.0.0.0 himediads.com
 0.0.0.0 hiram.iad-03.braze.com
+0.0.0.0 hit.gemius.pl
 0.0.0.0 hit.stat24.com
 0.0.0.0 hk-gmtdmp.mookie1.com
 0.0.0.0 hk-match.taboola.com
@@ -4691,10 +4693,14 @@
 0.0.0.0 log.agoop.net
 0.0.0.0 log.api.zaloapp.com
 0.0.0.0 log.apk.v-mate.mobi
+0.0.0.0 log.apkomega.com
+0.0.0.0 log.appbundledownload.com
 0.0.0.0 log.avlyun.com
 0.0.0.0 log.avlyun.sec.intl.miui.com
 0.0.0.0 log.byteoversea.com
+0.0.0.0 log.down61.com
 0.0.0.0 log.droid4x.cn
+0.0.0.0 log.easy39.com
 0.0.0.0 log.fotoable.com
 0.0.0.0 log.gds.mmstat.com
 0.0.0.0 log.go.com
@@ -4708,6 +4714,7 @@
 0.0.0.0 log.kuwo.cn
 0.0.0.0 log.leadboxer.com
 0.0.0.0 log.lemonpi.io
+0.0.0.0 log.make50.com
 0.0.0.0 log.mgtv.com
 0.0.0.0 log.mmstat.com
 0.0.0.0 log.mobpowertech.com
@@ -4732,6 +4739,7 @@
 0.0.0.0 log.umsns.com
 0.0.0.0 log.umtrack.com
 0.0.0.0 log.wtlogin.qq.com
+0.0.0.0 log.yougameover.com
 0.0.0.0 log1.golfrival.net
 0.0.0.0 log4x.nixcdn.com
 0.0.0.0 logcollector.viewster.com
@@ -5840,7 +5848,6 @@
 0.0.0.0 privacy.commander1.com
 0.0.0.0 privacy.us.criteo.com
 0.0.0.0 privacyportal-de.onetrust.com
-0.0.0.0 privacyportal.onetrust.com
 0.0.0.0 privatestats.whatsapp.net
 0.0.0.0 privy.com
 0.0.0.0 pro.marinsm.com
@@ -6100,7 +6107,6 @@
 0.0.0.0 rek.mobi
 0.0.0.0 reklamz.com
 0.0.0.0 relap.io
-0.0.0.0 relaycn.icloseli.com
 0.0.0.0 remain.appcpi.net
 0.0.0.0 remain.chartboosts.com
 0.0.0.0 remarketingpixel.com
@@ -7624,6 +7630,7 @@
 0.0.0.0 tracker.samplicio.us
 0.0.0.0 tracker.winudf.com
 0.0.0.0 trackers.voodoo-analytics.io
+0.0.0.0 trackersdk.bdash-cloud.com
 0.0.0.0 trackersimulator.org
 0.0.0.0 trackifyx.redretarget.com
 0.0.0.0 trackimpression.com
@@ -7733,6 +7740,7 @@
 0.0.0.0 truex.com
 0.0.0.0 truoptik.com
 0.0.0.0 trustarc.mgr.consensu.org
+0.0.0.0 trusted-collector-bk.tmocce.com
 0.0.0.0 ts-tracker-env-2.us-east-1.elasticbeanstalk.com
 0.0.0.0 ts-tracker-env.us-east-1.elasticbeanstalk.com
 0.0.0.0 tsrid.cxense.com
