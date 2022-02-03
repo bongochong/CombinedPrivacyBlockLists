@@ -1,4 +1,4 @@
-// **** Wed Jan 26 08:07:06 PM UTC 2022
+// **** Thu Feb  3 09:14:40 PM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -15755,6 +15755,7 @@ shExpMatch(host, '*.trk42.net') ||
 shExpMatch(host, '*.trkingrp.com') ||
 shExpMatch(host, '*.trkn.us') ||
 shExpMatch(host, '*.trknths.com') ||
+shExpMatch(host, '*.trkoptimizer.com') ||
 shExpMatch(host, '*.trmit.com') ||
 shExpMatch(host, '*.tro-pas.ru') ||
 shExpMatch(host, '*.tropas.ru') ||
@@ -33401,6 +33402,7 @@ shExpMatch(host, 'trk42.net') ||
 shExpMatch(host, 'trkingrp.com') ||
 shExpMatch(host, 'trkn.us') ||
 shExpMatch(host, 'trknths.com') ||
+shExpMatch(host, 'trkoptimizer.com') ||
 shExpMatch(host, 'trmit.com') ||
 shExpMatch(host, 'tro-pas.ru') ||
 shExpMatch(host, 'tropas.ru') ||
