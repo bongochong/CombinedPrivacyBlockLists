@@ -1,4 +1,4 @@
-# Wed Jan 26 08:03:39 PM UTC 2022
+# Thu Feb  3 09:07:41 PM UTC 2022
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -1066,6 +1066,7 @@
 0.0.0.0 analytics.snappea.com
 0.0.0.0 analytics.snaptube.app
 0.0.0.0 analytics.strava.com
+0.0.0.0 analytics.studiodesignapp.com
 0.0.0.0 analytics.tactilews.com
 0.0.0.0 analytics.tdameritrade.com
 0.0.0.0 analytics.tiktok.com
@@ -1207,7 +1208,6 @@
 0.0.0.0 api.company-target.com
 0.0.0.0 api.connecto.io
 0.0.0.0 api.content.ad
-0.0.0.0 api.coralogix.com
 0.0.0.0 api.crispadvertising.com
 0.0.0.0 api.crittercism.com
 0.0.0.0 api.decibelinsight.net
@@ -1358,7 +1358,6 @@
 0.0.0.0 api.userleap.com
 0.0.0.0 api.verify.mob.com
 0.0.0.0 api.verticalscope.com
-0.0.0.0 api.vhx.tv
 0.0.0.0 api.viafoura.co
 0.0.0.0 api.videometrics.ted.com
 0.0.0.0 api.vidora.com
@@ -1585,6 +1584,7 @@
 0.0.0.0 appserver-ap.com
 0.0.0.0 appserver-cp.com
 0.0.0.0 appservice5.omniture.com
+0.0.0.0 appsflyer-report.honkaiimpact3.com
 0.0.0.0 appsflyer.com
 0.0.0.0 appsflyer.com.akamaized.net
 0.0.0.0 appshelf.ttpsdk.info
@@ -2453,7 +2453,6 @@
 0.0.0.0 click.admedia.com
 0.0.0.0 click.adpia.vn
 0.0.0.0 click.advertnative.com
-0.0.0.0 click.aep-email.com
 0.0.0.0 click.gowadogo.com
 0.0.0.0 click.howdoesin.net
 0.0.0.0 click.liftoff.io
@@ -3000,7 +2999,6 @@
 0.0.0.0 dis.us.criteo.com
 0.0.0.0 discoveryplus.popin.cc
 0.0.0.0 disney.demdex.net
-0.0.0.0 disney.my.sentry.io
 0.0.0.0 dispatcher.360in.com
 0.0.0.0 dispatcher.adxcore.com
 0.0.0.0 dispatcher.mng-ads.com
@@ -4070,7 +4068,6 @@
 0.0.0.0 ingameads.gameloft.com
 0.0.0.0 ingamesads.gameloft.com
 0.0.0.0 ingest.m2appmonitor.com
-0.0.0.0 ingest.sentry.io
 0.0.0.0 ingest.vungle.akadns.net
 0.0.0.0 ingest.vungle.com
 0.0.0.0 inimage.carambo.la
@@ -4737,6 +4734,7 @@
 0.0.0.0 mimicromax.com
 0.0.0.0 min.admicro.vn
 0.0.0.0 minimob.com
+0.0.0.0 misc.api.snaptube.app
 0.0.0.0 miva.com
 0.0.0.0 mixadvert.com
 0.0.0.0 mixmarket.biz
@@ -5058,17 +5056,7 @@
 0.0.0.0 nym1-ib.adnxs-simple.com
 0.0.0.0 nym1-ib.adnxs.com
 0.0.0.0 o.cmp.advertising.com
-0.0.0.0 o107031.ingest.sentry.io
-0.0.0.0 o129937.ingest.sentry.io
 0.0.0.0 o2o.api.xiaomi.com
-0.0.0.0 o325556.ingest.sentry.io
-0.0.0.0 o334541.ingest.sentry.io
-0.0.0.0 o400018.ingest.sentry.io
-0.0.0.0 o472445.ingest.sentry.io
-0.0.0.0 o491168.ingest.sentry.io
-0.0.0.0 o502263.ingest.sentry.io
-0.0.0.0 o534899.ingest.sentry.io
-0.0.0.0 o77029.ingest.sentry.io
 0.0.0.0 oas-c18.adnxs.com
 0.0.0.0 oauth.datorama.com
 0.0.0.0 obo.moatads.com
@@ -6870,7 +6858,6 @@
 0.0.0.0 t.mobrand.net
 0.0.0.0 t.mookie1.com
 0.0.0.0 t.myvisualiq.net
-0.0.0.0 t.paypal.com
 0.0.0.0 t.sharethis.com
 0.0.0.0 t.singular.net
 0.0.0.0 t.skimresources.com
