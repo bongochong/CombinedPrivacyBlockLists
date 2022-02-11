@@ -1,4 +1,4 @@
-// **** Thu Feb  3 09:40:33 PM UTC 2022
+// **** Fri Feb 11 10:10:28 PM UTC 2022
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, '*.000007.ru') ||
@@ -1070,7 +1070,6 @@ shExpMatch(host, '*.ads.itv.com') ||
 shExpMatch(host, '*.ads.iwon.com') ||
 shExpMatch(host, '*.ads.jewishfriendfinder.com') ||
 shExpMatch(host, '*.ads.jiwire.com') ||
-shExpMatch(host, '*.ads.joaffs.com') ||
 shExpMatch(host, '*.ads.jobsite.co.uk') ||
 shExpMatch(host, '*.ads.jpost.com') ||
 shExpMatch(host, '*.ads.jubii.dk') ||
@@ -2204,6 +2203,7 @@ shExpMatch(host, '*.asfirey.net') ||
 shExpMatch(host, '*.asgard.sharezips.info') ||
 shExpMatch(host, '*.asgarddlc.sharezips.net') ||
 shExpMatch(host, '*.asham.tourstogo.us') ||
+shExpMatch(host, '*.asia999.website') ||
 shExpMatch(host, '*.asianrbtrade.net') ||
 shExpMatch(host, '*.asiantop.co.cc') ||
 shExpMatch(host, '*.asilteknik.net') ||
@@ -7680,6 +7680,7 @@ shExpMatch(host, '*.german-linkindex.de') ||
 shExpMatch(host, '*.german.filminstan.pw') ||
 shExpMatch(host, '*.germanyenergy.online') ||
 shExpMatch(host, '*.gestreifthelle.site') ||
+shExpMatch(host, '*.get-best-prizes.life') ||
 shExpMatch(host, '*.get-bills.com') ||
 shExpMatch(host, '*.get-bitcoin.website') ||
 shExpMatch(host, '*.get-cracked.com') ||
@@ -15542,7 +15543,6 @@ shExpMatch(host, '*.towmidar.ru') ||
 shExpMatch(host, '*.toxicskins.com') ||
 shExpMatch(host, '*.tpnads.com') ||
 shExpMatch(host, '*.track-your-fedex-package.org') ||
-shExpMatch(host, '*.track.addevent.com') ||
 shExpMatch(host, '*.track.adform.net') ||
 shExpMatch(host, '*.track.anchorfree.com') ||
 shExpMatch(host, '*.track.contently.com') ||
@@ -18717,7 +18717,6 @@ shExpMatch(host, 'ads.itv.com') ||
 shExpMatch(host, 'ads.iwon.com') ||
 shExpMatch(host, 'ads.jewishfriendfinder.com') ||
 shExpMatch(host, 'ads.jiwire.com') ||
-shExpMatch(host, 'ads.joaffs.com') ||
 shExpMatch(host, 'ads.jobsite.co.uk') ||
 shExpMatch(host, 'ads.jpost.com') ||
 shExpMatch(host, 'ads.jubii.dk') ||
@@ -19851,6 +19850,7 @@ shExpMatch(host, 'asfirey.net') ||
 shExpMatch(host, 'asgard.sharezips.info') ||
 shExpMatch(host, 'asgarddlc.sharezips.net') ||
 shExpMatch(host, 'asham.tourstogo.us') ||
+shExpMatch(host, 'asia999.website') ||
 shExpMatch(host, 'asianrbtrade.net') ||
 shExpMatch(host, 'asiantop.co.cc') ||
 shExpMatch(host, 'asilteknik.net') ||
@@ -25327,6 +25327,7 @@ shExpMatch(host, 'german-linkindex.de') ||
 shExpMatch(host, 'german.filminstan.pw') ||
 shExpMatch(host, 'germanyenergy.online') ||
 shExpMatch(host, 'gestreifthelle.site') ||
+shExpMatch(host, 'get-best-prizes.life') ||
 shExpMatch(host, 'get-bills.com') ||
 shExpMatch(host, 'get-bitcoin.website') ||
 shExpMatch(host, 'get-cracked.com') ||
@@ -33189,7 +33190,6 @@ shExpMatch(host, 'towmidar.ru') ||
 shExpMatch(host, 'toxicskins.com') ||
 shExpMatch(host, 'tpnads.com') ||
 shExpMatch(host, 'track-your-fedex-package.org') ||
-shExpMatch(host, 'track.addevent.com') ||
 shExpMatch(host, 'track.adform.net') ||
 shExpMatch(host, 'track.anchorfree.com') ||
 shExpMatch(host, 'track.contently.com') ||
