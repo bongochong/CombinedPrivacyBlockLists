@@ -1,4 +1,4 @@
-# Tue Jul  4 05:25:15 AM UTC 2023
+# Tue Jul  4 05:37:13 AM UTC 2023
 # EasyList Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0-000.store
 0.0.0.0 001adafg.xyz
@@ -22719,6 +22719,7 @@
 0.0.0.0 hfk128dfs-dsfbheuoys.xyz
 0.0.0.0 hfk7j.top
 0.0.0.0 hflssy.com
+0.0.0.0 hfqdipw.cn
 0.0.0.0 hfudugo.com
 0.0.0.0 hfuostp.com
 0.0.0.0 hg-bn.com
