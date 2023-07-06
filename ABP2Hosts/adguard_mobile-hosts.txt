@@ -1,4 +1,4 @@
-# Tue Jul  4 05:36:26 AM UTC 2023
+# Thu Jul  6 09:26:39 PM UTC 2023
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -375,6 +375,7 @@
 0.0.0.0 actuallysheep.com
 0.0.0.0 actuallysnake.com
 0.0.0.0 ad-analytics-bootstrap.metaps.com
+0.0.0.0 ad-api-log.colopl.jp
 0.0.0.0 ad-api.ehawk.com
 0.0.0.0 ad-brix.com
 0.0.0.0 ad-cdn.technoratimedia.com
@@ -2528,6 +2529,7 @@
 0.0.0.0 cfg.flurry.com
 0.0.0.0 cfimage.moengage.com
 0.0.0.0 cfr.us.v2.we-stats.com
+0.0.0.0 cgicol.amap.com
 0.0.0.0 cguke-9h64o.ads.tremorhub.com
 0.0.0.0 ch-gmtdmp.mookie1.com
 0.0.0.0 ch-match.taboola.com
@@ -2613,7 +2615,6 @@
 0.0.0.0 clk.taptica.com
 0.0.0.0 clkdeals.com
 0.0.0.0 clkfeed.com
-0.0.0.0 clktrk.display.io
 0.0.0.0 clog.mirrativ.com
 0.0.0.0 cloisteredhydrant.com
 0.0.0.0 closedcows.com
@@ -3309,6 +3310,7 @@
 0.0.0.0 dts.innovid.com
 0.0.0.0 dts.innovid.com.akadns.net
 0.0.0.0 dts.startappservice.com
+0.0.0.0 dualstack-cgicol.amap.com
 0.0.0.0 dualstack-logs.amap.com
 0.0.0.0 duapps.com
 0.0.0.0 duiba.com.cn
@@ -3443,7 +3445,6 @@
 0.0.0.0 entree.igetget.com
 0.0.0.0 enviousshape.com
 0.0.0.0 enviousthread.com
-0.0.0.0 ep.xone.com
 0.0.0.0 epiv.cardlytics.com
 0.0.0.0 epom.com
 0.0.0.0 equuleus.iad.appboy.com
@@ -5070,7 +5071,6 @@
 0.0.0.0 metrics-logger.spot.im
 0.0.0.0 metrics.adflake.com
 0.0.0.0 metrics.aetn.com
-0.0.0.0 metrics.bestbuy.com
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.claspws.tv
 0.0.0.0 metrics.client-eng.a2z.com
@@ -5080,7 +5080,7 @@
 0.0.0.0 metrics.happycolor.app
 0.0.0.0 metrics.icloud.com
 0.0.0.0 metrics.kmsmep.com
-0.0.0.0 metrics.macys.net
+0.0.0.0 metrics.macys.com
 0.0.0.0 metrics.plaid.com
 0.0.0.0 metrics.roblox.com
 0.0.0.0 metrics.sdkbox.com
@@ -6733,7 +6733,6 @@
 0.0.0.0 setting.rayjump.com
 0.0.0.0 sexpennyauctions.com
 0.0.0.0 sf.bizible.com
-0.0.0.0 sf16-scmcdn-sg.ibytedtos.com
 0.0.0.0 sfo1.ipromote.com
 0.0.0.0 sfo2.ipromote.com
 0.0.0.0 sfo3.ipromote.com
