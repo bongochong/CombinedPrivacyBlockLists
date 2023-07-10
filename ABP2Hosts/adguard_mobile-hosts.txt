@@ -1,4 +1,4 @@
-# Thu Jul  6 09:26:39 PM UTC 2023
+# Mon Jul 10 07:38:50 PM UTC 2023
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -7703,6 +7703,7 @@
 0.0.0.0 timetwig.com
 0.0.0.0 tinytendency.com
 0.0.0.0 tiresomethunder.com
+0.0.0.0 tivan.naver.com
 0.0.0.0 tizerclik.com
 0.0.0.0 tj.ijinshan.com
 0.0.0.0 tk0x1.com
@@ -8265,6 +8266,7 @@
 0.0.0.0 verseballs.com
 0.0.0.0 vervemobile.com
 0.0.0.0 vet-us-east-1.track.smaato.net
+0.0.0.0 veta.naver.com
 0.0.0.0 vg-aws-us-east-1a-hb.rayjump.com
 0.0.0.0 vg-aws-us-east-1b-hb.rayjump.com
 0.0.0.0 vg-new-hb.rayjump.com
