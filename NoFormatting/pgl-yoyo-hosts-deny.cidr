@@ -6268,7 +6268,6 @@ deny from 208.66.66.114/32
 deny from 208.66.97.56/32
 deny from 208.66.99.155/32
 deny from 208.66.204.153/32
-deny from 208.67.66.24/32
 deny from 208.67.70.3/32
 deny from 208.67.70.27/32
 deny from 208.67.183.100/32
