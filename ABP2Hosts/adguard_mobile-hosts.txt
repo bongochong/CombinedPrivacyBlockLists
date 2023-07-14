@@ -1,4 +1,4 @@
-# Mon Jul 10 07:38:50 PM UTC 2023
+# Fri Jul 14 07:05:52 PM UTC 2023
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -5317,6 +5317,7 @@
 0.0.0.0 nativesdks.mparticle.com
 0.0.0.0 nativex.com
 0.0.0.0 nav.telematicsdirect.com
+0.0.0.0 naverpa-phinf.pstatic.net
 0.0.0.0 navigation.api.hk.goforandroid.com
 0.0.0.0 nbcstreaming.sc.omtrdc.net
 0.0.0.0 nbcu.demdex.net
@@ -5712,7 +5713,6 @@
 0.0.0.0 pingtcss.qq.com
 0.0.0.0 pinpointpotato.com
 0.0.0.0 pinterest.adsymptotic.com
-0.0.0.0 pipe.aria.microsoft.com
 0.0.0.0 pippio.com
 0.0.0.0 piquantpigs.com
 0.0.0.0 piquantprice.com
