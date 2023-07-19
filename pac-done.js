@@ -1,4 +1,4 @@
-// **** Wed Jul 19 09:17:16 PM UTC 2023
+// **** Wed Jul 19 09:35:16 PM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.0.le4net00.net") ||
@@ -731,7 +731,6 @@ shExpMatch(host, "*.aanqylta.com") ||
 shExpMatch(host, "*.aaqrvt.thefryecompany.com") ||
 shExpMatch(host, "*.aardvark.tracking.ovh") ||
 shExpMatch(host, "*.aarki.com") ||
-shExpMatch(host, "*.aarp.org") ||
 shExpMatch(host, "*.aarpgli.newyorklife.com") ||
 shExpMatch(host, "*.aarth.com") ||
 shExpMatch(host, "*.aasraatrust.org") ||
@@ -23269,6 +23268,7 @@ shExpMatch(host, "*.metrics-dra.dt.hicloud.com") ||
 shExpMatch(host, "*.metrics-logger.spot.im") ||
 shExpMatch(host, "*.metrics.a-mo.net") ||
 shExpMatch(host, "*.metrics.aa.com") ||
+shExpMatch(host, "*.metrics.aarp.org") ||
 shExpMatch(host, "*.metrics.accuweather.com") ||
 shExpMatch(host, "*.metrics.acehardware.com") ||
 shExpMatch(host, "*.metrics.adacreisen.de") ||
@@ -30476,6 +30476,7 @@ shExpMatch(host, "*.smetrics.10daily.com.au") ||
 shExpMatch(host, "*.smetrics.3m.com") ||
 shExpMatch(host, "*.smetrics.aa.com") ||
 shExpMatch(host, "*.smetrics.aaas.org") ||
+shExpMatch(host, "*.smetrics.aarp.org") ||
 shExpMatch(host, "*.smetrics.abanca.com") ||
 shExpMatch(host, "*.smetrics.abbvie.com") ||
 shExpMatch(host, "*.smetrics.abercrombie.com") ||
@@ -38188,7 +38189,6 @@ shExpMatch(host, "aanqylta.com") ||
 shExpMatch(host, "aaqrvt.thefryecompany.com") ||
 shExpMatch(host, "aardvark.tracking.ovh") ||
 shExpMatch(host, "aarki.com") ||
-shExpMatch(host, "aarp.org") ||
 shExpMatch(host, "aarpgli.newyorklife.com") ||
 shExpMatch(host, "aarth.com") ||
 shExpMatch(host, "aasraatrust.org") ||
@@ -60726,6 +60726,7 @@ shExpMatch(host, "metrics-dra.dt.hicloud.com") ||
 shExpMatch(host, "metrics-logger.spot.im") ||
 shExpMatch(host, "metrics.a-mo.net") ||
 shExpMatch(host, "metrics.aa.com") ||
+shExpMatch(host, "metrics.aarp.org") ||
 shExpMatch(host, "metrics.accuweather.com") ||
 shExpMatch(host, "metrics.acehardware.com") ||
 shExpMatch(host, "metrics.adacreisen.de") ||
@@ -67933,6 +67934,7 @@ shExpMatch(host, "smetrics.10daily.com.au") ||
 shExpMatch(host, "smetrics.3m.com") ||
 shExpMatch(host, "smetrics.aa.com") ||
 shExpMatch(host, "smetrics.aaas.org") ||
+shExpMatch(host, "smetrics.aarp.org") ||
 shExpMatch(host, "smetrics.abanca.com") ||
 shExpMatch(host, "smetrics.abbvie.com") ||
 shExpMatch(host, "smetrics.abercrombie.com") ||

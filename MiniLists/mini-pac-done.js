@@ -1,4 +1,4 @@
-// **** Wed Jul 19 09:19:40 PM UTC 2023
+// **** Wed Jul 19 09:36:29 PM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.0.le4net00.net") ||
@@ -620,7 +620,6 @@ shExpMatch(host, "*.aanalytics.adelaide.edu.au") ||
 shExpMatch(host, "*.aanqylta.com") ||
 shExpMatch(host, "*.aaqrvt.thefryecompany.com") ||
 shExpMatch(host, "*.aardvark.tracking.ovh") ||
-shExpMatch(host, "*.aarp.org") ||
 shExpMatch(host, "*.aarpgli.newyorklife.com") ||
 shExpMatch(host, "*.aarth.com") ||
 shExpMatch(host, "*.aasraatrust.org") ||
@@ -26591,6 +26590,7 @@ shExpMatch(host, "*.smetrics.10daily.com.au") ||
 shExpMatch(host, "*.smetrics.3m.com") ||
 shExpMatch(host, "*.smetrics.aa.com") ||
 shExpMatch(host, "*.smetrics.aaas.org") ||
+shExpMatch(host, "*.smetrics.aarp.org") ||
 shExpMatch(host, "*.smetrics.abanca.com") ||
 shExpMatch(host, "*.smetrics.abbvie.com") ||
 shExpMatch(host, "*.smetrics.abercrombie.com") ||
@@ -33199,7 +33199,6 @@ shExpMatch(host, "aanalytics.adelaide.edu.au") ||
 shExpMatch(host, "aanqylta.com") ||
 shExpMatch(host, "aaqrvt.thefryecompany.com") ||
 shExpMatch(host, "aardvark.tracking.ovh") ||
-shExpMatch(host, "aarp.org") ||
 shExpMatch(host, "aarpgli.newyorklife.com") ||
 shExpMatch(host, "aarth.com") ||
 shExpMatch(host, "aasraatrust.org") ||
@@ -59170,6 +59169,7 @@ shExpMatch(host, "smetrics.10daily.com.au") ||
 shExpMatch(host, "smetrics.3m.com") ||
 shExpMatch(host, "smetrics.aa.com") ||
 shExpMatch(host, "smetrics.aaas.org") ||
+shExpMatch(host, "smetrics.aarp.org") ||
 shExpMatch(host, "smetrics.abanca.com") ||
 shExpMatch(host, "smetrics.abbvie.com") ||
 shExpMatch(host, "smetrics.abercrombie.com") ||
