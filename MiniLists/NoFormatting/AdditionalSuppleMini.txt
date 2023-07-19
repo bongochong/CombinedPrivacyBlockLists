@@ -5728,6 +5728,8 @@
 0.0.0.0 adtrue24.com
 0.0.0.0 adtruism.com
 0.0.0.0 adtruth.com
+0.0.0.0 adtube.ir
+0.0.0.0 adtube.media
 0.0.0.0 adtuition.com
 0.0.0.0 adtuitive.com
 0.0.0.0 adulariagk.com
