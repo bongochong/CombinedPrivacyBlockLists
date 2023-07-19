@@ -1,4 +1,4 @@
-// **** Wed Jul 19 09:36:29 PM UTC 2023
+// **** Wed Jul 19 09:56:41 PM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.0.le4net00.net") ||
@@ -4995,7 +4995,6 @@ shExpMatch(host, "*.agrotvafrica.com") ||
 shExpMatch(host, "*.aguabias.com") ||
 shExpMatch(host, "*.aguiws.com") ||
 shExpMatch(host, "*.ah-ha.com") ||
-shExpMatch(host, "*.aha.org") ||
 shExpMatch(host, "*.ahalogy.com") ||
 shExpMatch(host, "*.ahaprimestore.com") ||
 shExpMatch(host, "*.aheadday.com") ||
@@ -37574,7 +37573,6 @@ shExpMatch(host, "agrotvafrica.com") ||
 shExpMatch(host, "aguabias.com") ||
 shExpMatch(host, "aguiws.com") ||
 shExpMatch(host, "ah-ha.com") ||
-shExpMatch(host, "aha.org") ||
 shExpMatch(host, "ahalogy.com") ||
 shExpMatch(host, "ahaprimestore.com") ||
 shExpMatch(host, "aheadday.com") ||
