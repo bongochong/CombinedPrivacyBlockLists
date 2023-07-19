@@ -19,8 +19,10 @@
 0.0.0.0 1492tapasbar.com
 0.0.0.0 1566xueshe.com
 0.0.0.0 15jiaju.com
+0.0.0.0 1717.1000uc.com
 0.0.0.0 18cum.com
 0.0.0.0 18xn.com
+0.0.0.0 1ecosolution.it
 0.0.0.0 1stoppos.com
 0.0.0.0 1tvv.com
 0.0.0.0 2003xx.com
@@ -37,6 +39,9 @@
 0.0.0.0 318x.com
 0.0.0.0 32tsdgseg.co.cc
 0.0.0.0 3322.org
+0.0.0.0 33rdderryscouts.com
+0.0.0.0 360.lcy2zzx.pw
+0.0.0.0 360down7.miiyun.cn
 0.0.0.0 365tc.com
 0.0.0.0 384756783900.cn
 0.0.0.0 38zu.cn
@@ -83,6 +88,7 @@
 0.0.0.0 5178424.com
 0.0.0.0 518869.com
 0.0.0.0 51she.info
+0.0.0.0 529f38d0-3744-4286-b484-be860d475d25.usrfiles.com
 0.0.0.0 52flz.com
 0.0.0.0 52guangda.com
 0.0.0.0 52z.com
@@ -92,6 +98,7 @@
 0.0.0.0 60gp.ovh.net
 0.0.0.0 68cadzx.com
 0.0.0.0 6b8a953b2bf7788063d5-6e453f33ecbb90f11a62a5c376375af3.r71.cf5.rackcdn.com
+0.0.0.0 73cceb63-7ecd-45e2-9eab-f8d98aab177f.usrfiles.com
 0.0.0.0 74203s040.edusite.ru
 0.0.0.0 772268.com
 0.0.0.0 77276.com
@@ -99,6 +106,7 @@
 0.0.0.0 78111.com
 0.0.0.0 7alati.com
 0.0.0.0 7k7k.com
+0.0.0.0 8.365tv.ma
 0.0.0.0 800cdn.com
 0.0.0.0 805678.com
 0.0.0.0 81266966.com
@@ -108,6 +116,7 @@
 0.0.0.0 89757.net
 0.0.0.0 8b1b.com
 0.0.0.0 8lungu.com
+0.0.0.0 9-8.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0 97b1c56132dfcdd90f93-0c5c8388c0a5897e648f883e2c86dc72.r54.cf5.rackcdn.com
 0.0.0.0 97sky.cn
 0.0.0.0 9991.com
