@@ -515,6 +515,7 @@
 0.0.0.0 6nbmytr.pw
 0.0.0.0 6pal.consobaby.com
 0.0.0.0 6ped2nd3yp.com
+0.0.0.0 6q5c53c6sg4z9vkkpqnc.com
 0.0.0.0 6srvfcm.com
 0.0.0.0 6swu.cpa-france.org
 0.0.0.0 6t09fag307ep.click
@@ -1760,6 +1761,7 @@
 0.0.0.0 ad.lkqd.net
 0.0.0.0 ad.lomadee.com
 0.0.0.0 ad.lupa.cz
+0.0.0.0 ad.luxnet.ua
 0.0.0.0 ad.lyricswire.com
 0.0.0.0 ad.m5prod.net
 0.0.0.0 ad.mail.ru
@@ -5594,6 +5596,7 @@
 0.0.0.0 adswakeup.com
 0.0.0.0 adswam.com
 0.0.0.0 adsweb.vn
+0.0.0.0 adswin.net
 0.0.0.0 adswitcher.com
 0.0.0.0 adswizz.com
 0.0.0.0 adswrapme.click
@@ -6326,6 +6329,7 @@
 0.0.0.0 aff-a.advertica-cdn.com
 0.0.0.0 aff-advertiser.i-mobile.co.jp
 0.0.0.0 aff.adflex.vn
+0.0.0.0 aff.adswin.net
 0.0.0.0 aff.celebritytrip.club
 0.0.0.0 aff.i-mobile.co.jp
 0.0.0.0 aff.jskyservices.com
@@ -10961,6 +10965,7 @@
 0.0.0.0 catchmetalk.blog
 0.0.0.0 catchmetalk.com
 0.0.0.0 categorywrench.com
+0.0.0.0 catforsale.store
 0.0.0.0 cathotsale.xyz
 0.0.0.0 cathyhouse.net
 0.0.0.0 cati.mcad.com
@@ -15890,6 +15895,7 @@
 0.0.0.0 emmetthub.com
 0.0.0.0 emmettretail.online
 0.0.0.0 emosach.com
+0.0.0.0 emoti-on.com
 0.0.0.0 emp.wt-eu02.net
 0.0.0.0 emp01.wt-eu02.net
 0.0.0.0 empa.flixbus.de
@@ -16109,7 +16115,6 @@
 0.0.0.0 escada01.webtrekk.net
 0.0.0.0 escas-lk.com
 0.0.0.0 escolagarbi.com
-0.0.0.0 escostumes.xyz
 0.0.0.0 escuelademanejopremium.com
 0.0.0.0 esd-secure.taboola.com.edgekey.net
 0.0.0.0 esdk.data.adobedc.net
@@ -18488,6 +18493,7 @@
 0.0.0.0 globalitbuilder.com
 0.0.0.0 globalmanysoft.com
 0.0.0.0 globalpaymentportal.co
+0.0.0.0 globalsoftware.site
 0.0.0.0 globaltakeoff.net
 0.0.0.0 globaltrack.com
 0.0.0.0 globaltrak.net
@@ -22119,6 +22125,7 @@
 0.0.0.0 jingzhimucrystals.com
 0.0.0.0 jinjin-tv.net
 0.0.0.0 jinkads.de
+0.0.0.0 jinsei-undesu.com
 0.0.0.0 jinsei-uranai2023.com
 0.0.0.0 jinshanduba.org.cn
 0.0.0.0 jinuja5zgm.com
@@ -29440,6 +29447,7 @@
 0.0.0.0 offensepayinter.ml
 0.0.0.0 offensepayinter.tk
 0.0.0.0 offer.rewardme.in
+0.0.0.0 offercat.store
 0.0.0.0 offercat.website
 0.0.0.0 offerforge.com
 0.0.0.0 offergardensupplies.store
@@ -35124,6 +35132,7 @@
 0.0.0.0 sfr20.eulerian.net
 0.0.0.0 sfsrch.com
 0.0.0.0 sftp.actonservice.com
+0.0.0.0 sftqg7t9cyzjaw0b.com
 0.0.0.0 sfw.adsafeprotected.com
 0.0.0.0 sg-match.taboola.com
 0.0.0.0 sg-sync.taboola.com
@@ -36098,6 +36107,7 @@
 0.0.0.0 softtechenterprise.com
 0.0.0.0 softusa.info
 0.0.0.0 softwareresilience-eu.nccgroup.com
+0.0.0.0 softwarextra.com
 0.0.0.0 soggysponge.com
 0.0.0.0 soha.jp
 0.0.0.0 sok8.net
@@ -36355,6 +36365,7 @@
 0.0.0.0 spirilp3000.com
 0.0.0.0 spiritual-gt.com
 0.0.0.0 spiritual-gt1.com
+0.0.0.0 spiritual-jp.com
 0.0.0.0 spiritual-leading.com
 0.0.0.0 spirituallounge-3000.com
 0.0.0.0 spiritualoutdooradventures.org
@@ -36567,7 +36578,6 @@
 0.0.0.0 staboiobo.tk
 0.0.0.0 stack-sonar.com
 0.0.0.0 stackadapt.com
-0.0.0.0 stacyadamsshop.store
 0.0.0.0 stacybaby.shop
 0.0.0.0 stadiumviewevents.com
 0.0.0.0 stadtamt.net
@@ -38323,6 +38333,7 @@
 0.0.0.0 theplushies.shop
 0.0.0.0 thepotspans.com
 0.0.0.0 theproactiveleadership.com
+0.0.0.0 thepromiseexpress.com
 0.0.0.0 thepshoes.com
 0.0.0.0 therapistla.com
 0.0.0.0 therichkids.com
@@ -38721,6 +38732,7 @@
 0.0.0.0 toyotamotorcorporation.122.2o7.net
 0.0.0.0 toyourweb.club
 0.0.0.0 toysboats.com
+0.0.0.0 toysofficial.store
 0.0.0.0 tp.ads.yahoo.com
 0.0.0.0 tp2.beap.gemini.yahoo.com
 0.0.0.0 tpads.ovguide.com
@@ -40284,6 +40296,7 @@
 0.0.0.0 universalprimelogistics.com
 0.0.0.0 universityofchicagograduateschool.122.2o7.net
 0.0.0.0 unixhat.com
+0.0.0.0 unki-josho.com
 0.0.0.0 unknowntray.com
 0.0.0.0 unkohoble.com
 0.0.0.0 unlaca.info

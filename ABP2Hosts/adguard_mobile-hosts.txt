@@ -1,4 +1,4 @@
-# Wed Jul 19 09:27:19 PM UTC 2023
+# Fri Jul 21 05:35:19 PM UTC 2023
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -1016,6 +1016,7 @@
 0.0.0.0 am-vid-events.taboola.com
 0.0.0.0 am-wf.taboola.com
 0.0.0.0 am.adlooxtracking.com
+0.0.0.0 am.yahoo.co.jp
 0.0.0.0 am15.net
 0.0.0.0 am5.vip.prod.criteo.com
 0.0.0.0 am5.vip.prod.criteo.net
@@ -1857,6 +1858,7 @@
 0.0.0.0 b2c.com
 0.0.0.0 b3.mookie1.com
 0.0.0.0 b94.yahoo.co.jp
+0.0.0.0 b99.yahoo.co.jp
 0.0.0.0 babel.innertrends.com
 0.0.0.0 bagbeam.com
 0.0.0.0 balanced-clk.taptica.com
@@ -3755,7 +3757,6 @@
 0.0.0.0 frightenedpotato.com
 0.0.0.0 frogtray.com
 0.0.0.0 front-logs.voodoo-ads.io
-0.0.0.0 frontman.tmobiapi.com
 0.0.0.0 fronttoad.com
 0.0.0.0 frtn.socdm.com
 0.0.0.0 fujiladder.com
@@ -4840,6 +4841,7 @@
 0.0.0.0 logs.ironsrc.mobi
 0.0.0.0 logs.psm.wmcdp.io
 0.0.0.0 logs.supersonic.com
+0.0.0.0 logs13.xiti.com
 0.0.0.0 logs1407.xiti.com
 0.0.0.0 logserver.insight.ucweb.com
 0.0.0.0 logservice.hicloud.com
@@ -5937,7 +5939,6 @@
 0.0.0.0 prod-m-node-3111.ssp.advertising.com
 0.0.0.0 prod-ms.applovin.com
 0.0.0.0 prod-pdx-beacon-1406086907.us-west-2.elb.amazonaws.com
-0.0.0.0 prod-plague-bacon.miniclippt.com
 0.0.0.0 prod.adjoe.zone
 0.0.0.0 prod.adtechjp.com
 0.0.0.0 prod.bidr.io
