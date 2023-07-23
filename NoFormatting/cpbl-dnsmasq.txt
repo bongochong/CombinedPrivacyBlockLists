@@ -5,7 +5,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 07/21/23~18:08:00 -~
+# ~- 07/23/23~03:52:59 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -133914,7 +133914,6 @@ address=/tvl8.supdecreation.com/#
 address=/tvmacs.com/#
 address=/tvmovies.us/#
 address=/tvmtracker.com/#
-address=/tvnews.or.kr/#
 address=/tvngrq6yat.com/#
 address=/tvnotice.kg.garena.vn/#
 address=/tvnotivi.ru/#
