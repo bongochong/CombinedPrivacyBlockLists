@@ -2123,7 +2123,6 @@
 0.0.0.0 turkish-hospitality.com
 0.0.0.0 turnkey-solutions.net
 0.0.0.0 tutorialjungle.com
-0.0.0.0 tvnews.or.kr
 0.0.0.0 tvoyatajna.msk.ru
 0.0.0.0 twenbrmndfui.myredirect.us
 0.0.0.0 two-of-us.at
@@ -2510,7 +2509,6 @@
 0.0.0.0 www.tpt.edu.in
 0.0.0.0 www.tragicbeyond.com
 0.0.0.0 www.truegritanimation.com
-0.0.0.0 www.tvnews.or.kr
 0.0.0.0 www.two-of-us.at
 0.0.0.0 www.unicaitaly.it
 0.0.0.0 www.uriyuri.com
