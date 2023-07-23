@@ -1,5 +1,5 @@
 # Title: Online Malicious Hosts Blocklist
-# Updated: 2023-07-21T12:08:25Z
+# Updated: 2023-07-23T00:08:25Z
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/malware-filter/urlhaus-filter
 # License: https://gitlab.com/malware-filter/urlhaus-filter#license
@@ -46,7 +46,6 @@
 0.0.0.0 atomm.com.br
 0.0.0.0 azmeasurement.com
 0.0.0.0 beachwood.ug
-0.0.0.0 bearcatpumps.com.cn
 0.0.0.0 bearware.org
 0.0.0.0 beautifulqueen.com.br
 0.0.0.0 benwellgroup.co.uk
@@ -104,6 +103,7 @@
 0.0.0.0 d1.udashi.com
 0.0.0.0 d7.fajridemo.com
 0.0.0.0 dacsandongthapmuoi.vn
+0.0.0.0 dacui.online
 0.0.0.0 danaevara.com
 0.0.0.0 dating.khokhas.co.za
 0.0.0.0 ddlakava.ac.ug
@@ -147,6 +147,7 @@
 0.0.0.0 erkaradyator.com.tr
 0.0.0.0 esquiudigital.com
 0.0.0.0 eurooknamsk.ru
+0.0.0.0 evarlic.com
 0.0.0.0 everlost.anondns.net
 0.0.0.0 exilum.com
 0.0.0.0 expopioneros.com
@@ -202,7 +203,6 @@
 0.0.0.0 hunggiang.vn
 0.0.0.0 hyper-soft.pro
 0.0.0.0 idpminic.org
-0.0.0.0 image-thaihometown.com
 0.0.0.0 imbueautoworx.co.za
 0.0.0.0 img.softmedal.com
 0.0.0.0 imit.ac.in
@@ -225,6 +225,7 @@
 0.0.0.0 jointings.org
 0.0.0.0 jp.imgjeoighw.com
 0.0.0.0 jr-software-web.net
+0.0.0.0 jsl.com.ng
 0.0.0.0 juntadeconfrariesdese.live-website.com
 0.0.0.0 justplay.asia
 0.0.0.0 jyotigroup.co.in
@@ -274,9 +275,11 @@
 0.0.0.0 mkblaboratoire.com
 0.0.0.0 moarkgcc.com
 0.0.0.0 modern-city.by
+0.0.0.0 moninediy.com
 0.0.0.0 monke.re
 0.0.0.0 moodle.corplearning.net
 0.0.0.0 mumgee.co.za
+0.0.0.0 mvdru.com
 0.0.0.0 mysura.it
 0.0.0.0 mytheacademy.com
 0.0.0.0 namthaibinh.net
@@ -297,7 +300,6 @@
 0.0.0.0 oceancityrentalbyowner.com
 0.0.0.0 ogumeta.github.io
 0.0.0.0 olugun.co.za
-0.0.0.0 onerecycleclub.com
 0.0.0.0 onppe.dz
 0.0.0.0 opencart.notebookparcalari.com
 0.0.0.0 opesjk.ug
@@ -307,7 +309,6 @@
 0.0.0.0 orsan.gruporhynous.com
 0.0.0.0 outdoortacklebox.com
 0.0.0.0 ozelmimarsinanmtal.com
-0.0.0.0 p2.d9media.cn
 0.0.0.0 p4936.webmo.fr
 0.0.0.0 pablobrothel.com.ar
 0.0.0.0 padlet-uploads.storage.googleapis.com
@@ -319,7 +320,6 @@
 0.0.0.0 pascasarjana.iainfmpapua.ac.id
 0.0.0.0 paste-bin.xyz
 0.0.0.0 perfumando.com.mx
-0.0.0.0 pgn-dkppsby.com
 0.0.0.0 phod.ru
 0.0.0.0 pink99.com
 0.0.0.0 pixelservice.by
@@ -350,6 +350,7 @@
 0.0.0.0 reifenquick.de
 0.0.0.0 reiwo-service.de
 0.0.0.0 relaxindulge.co.nz
+0.0.0.0 resourceedge.org
 0.0.0.0 retailexpertscloud.com
 0.0.0.0 rewe-coupouns.com
 0.0.0.0 richterhi-tech.com
@@ -396,6 +397,7 @@
 0.0.0.0 static.cz01.cn
 0.0.0.0 stayinoceancitymd.com
 0.0.0.0 storage.replain.cc
+0.0.0.0 suakhoaketsattphcm.com
 0.0.0.0 sui-claim.top
 0.0.0.0 sungeomatics.com
 0.0.0.0 sunglassesninja.com
@@ -435,8 +437,8 @@
 0.0.0.0 unlockingdreamsfinancial.com
 0.0.0.0 us.imgjeoigaa.com
 0.0.0.0 uxsingh.com
+0.0.0.0 uylab.org
 0.0.0.0 vaestsolutions.com
-0.0.0.0 vashovskycorp.com
 0.0.0.0 vfocus.net
 0.0.0.0 vidaviajesperu.com
 0.0.0.0 vietroll.vn
