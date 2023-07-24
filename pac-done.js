@@ -1,4 +1,4 @@
-// **** Sun Jul 23 04:20:04 AM UTC 2023
+// **** Mon Jul 24 08:43:00 PM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.0.le4net00.net") ||
@@ -74981,6 +74981,7 @@ shExpMatch(host, "zytrox.tk") ||
 shExpMatch(host, "zzb.bz") ||
 shExpMatch(host, "zzhengre.com") ||
 shExpMatch(host, "zzssfc.tk") ||
+shExpMatch(host, "a8clk.*") ||
 shExpMatch(host, "aa-metrics.*") ||
 shExpMatch(host, "adbmetrics.*") ||
 shExpMatch(host, "adbsmetrics.*") ||
