@@ -14,6 +14,7 @@
 ^(www\.)?4chan\.org$
 ^(www\.)?4channel\.org$
 ^(www\.)?4shared\.com$
+^(www\.)?aarp\.org$
 ^(www\.)?adaway\.org$
 ^(www\.)?adblockplus\.org$
 ^(www\.)?adguard\.com$
@@ -21,6 +22,7 @@
 ^(www\.)?adobe\.com$
 ^(www\.)?adtidy\.org$
 ^(www\.)?affirm\.com$
+^(www\.)?aha\.org$
 ^(www\.)?akadns6\.net$
 ^(www\.)?akamaihd\.net$
 ^(www\.)?akamaitechnologies\.com$
@@ -183,6 +185,7 @@
 ^(www\.)?itunes\.com$
 ^(www\.)?iubenda\.com$
 ^(www\.)?jdownloader\.org$
+^(www\.)?jewishquarterly\.org$
 ^(www\.)?jquery\.com$
 ^(www\.)?jsdelivr\.net$
 ^(www\.)?jsfiddle\.net$
@@ -257,6 +260,7 @@
 ^(www\.)?pawoo\.net$
 ^(www\.)?paypal\.com$
 ^(www\.)?pcmweb\.nl$
+^(www\.)?phncdn\.com$
 ^(www\.)?phonearena\.com$
 ^(www\.)?plex\.tv$
 ^(www\.)?pluto\.tv$
@@ -617,6 +621,7 @@
 ^lastfm-img2\.akamaized\.net$
 ^licensing\.xboxlive\.com$
 ^liffsdk\.line-scdn\.net$
+^link\.dana\.id$
 ^linkedin-learning\.pxf\.io$
 ^livepassdl\.conviva\.com$
 ^lm\.licenses\.adobe\.com$

@@ -30,6 +30,7 @@ localhost$
 ^0\.0\.0\.0\s(www\.)?4chan\.org$
 ^0\.0\.0\.0\s(www\.)?4channel\.org$
 ^0\.0\.0\.0\s(www\.)?4shared\.com$
+^0\.0\.0\.0\s(www\.)?aarp\.org$
 ^0\.0\.0\.0\s(www\.)?adaway\.org$
 ^0\.0\.0\.0\s(www\.)?adblockplus\.org$
 ^0\.0\.0\.0\s(www\.)?adguard\.com$
@@ -37,6 +38,7 @@ localhost$
 ^0\.0\.0\.0\s(www\.)?adobe\.com$
 ^0\.0\.0\.0\s(www\.)?adtidy\.org$
 ^0\.0\.0\.0\s(www\.)?affirm\.com$
+^0\.0\.0\.0\s(www\.)?aha\.org$
 ^0\.0\.0\.0\s(www\.)?akadns6\.net$
 ^0\.0\.0\.0\s(www\.)?akamaihd\.net$
 ^0\.0\.0\.0\s(www\.)?akamaitechnologies\.com$
@@ -199,6 +201,7 @@ localhost$
 ^0\.0\.0\.0\s(www\.)?itunes\.com$
 ^0\.0\.0\.0\s(www\.)?iubenda\.com$
 ^0\.0\.0\.0\s(www\.)?jdownloader\.org$
+^0\.0\.0\.0\s(www\.)?jewishquarterly\.org$
 ^0\.0\.0\.0\s(www\.)?jquery\.com$
 ^0\.0\.0\.0\s(www\.)?jsdelivr\.net$
 ^0\.0\.0\.0\s(www\.)?jsfiddle\.net$
@@ -633,6 +636,7 @@ localhost$
 ^0\.0\.0\.0\slastfm-img2\.akamaized\.net$
 ^0\.0\.0\.0\slicensing\.xboxlive\.com$
 ^0\.0\.0\.0\sliffsdk\.line-scdn\.net$
+^0\.0\.0\.0\slink\.dana\.id$
 ^0\.0\.0\.0\slinkedin-learning\.pxf\.io$
 ^0\.0\.0\.0\slivepassdl\.conviva\.com$
 ^0\.0\.0\.0\slm\.licenses\.adobe\.com$

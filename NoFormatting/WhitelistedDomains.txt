@@ -12,6 +12,7 @@
 4shared.com
 a.fsdn.com
 aan.amazon.com
+aarp.org
 ablink.notice.hoopladigital.com
 ablink.notice.spriggy.com.au
 accounts.eu1.gigya.com
@@ -33,6 +34,7 @@ ads.bravesoftware.com
 adtidy.org
 ae01.alicdn.com
 affirm.com
+aha.org
 ajax.cloudflare.com
 akadns6.net
 akamaihd.net
@@ -403,6 +405,7 @@ itunes.apple.com
 itunes.com
 iubenda.com
 jdownloader.org
+jewishquarterly.org
 jquery.com
 js-sec.indexww.com
 js.maxmind.com
@@ -421,6 +424,7 @@ letsencrypt.org
 licensing.xboxlive.com
 liffsdk.line-scdn.net
 lightboxcdn.com
+link.dana.id
 linkedin-learning.pxf.io
 live-nhl.stream
 live.com
@@ -521,6 +525,7 @@ paypal.com
 pbs.twimg.com
 pcmweb.nl
 pgl.yoyo.org
+phncdn.com
 phobos.apple.com
 phonearena.com
 pic.twitter.com
