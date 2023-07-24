@@ -1,6 +1,7 @@
 function FindProxyForURL(url, host) {
    if (
 
+shExpMatch(host, "a8clk.*") ||
 shExpMatch(host, "aa-metrics.*") ||
 shExpMatch(host, "adbmetrics.*") ||
 shExpMatch(host, "adbsmetrics.*") ||
