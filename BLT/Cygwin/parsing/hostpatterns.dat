@@ -276,6 +276,7 @@ localhost$
 ^0\.0\.0\.0\s(www\.)?pawoo\.net$
 ^0\.0\.0\.0\s(www\.)?paypal\.com$
 ^0\.0\.0\.0\s(www\.)?pcmweb\.nl$
+^0\.0\.0\.0\s(www\.)?phncdn\.com$
 ^0\.0\.0\.0\s(www\.)?phonearena\.com$
 ^0\.0\.0\.0\s(www\.)?plex\.tv$
 ^0\.0\.0\.0\s(www\.)?pluto\.tv$
