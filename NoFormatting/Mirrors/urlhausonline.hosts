@@ -1,9 +1,10 @@
 # Title: Online Malicious Hosts Blocklist
-# Updated: 2023-07-24T12:08:22Z
+# Updated: 2023-07-28T12:09:18Z
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/malware-filter/urlhaus-filter
 # License: https://gitlab.com/malware-filter/urlhaus-filter#license
 # Source: https://urlhaus.abuse.ch/api/
+0.0.0.0 1008691.com
 0.0.0.0 1717.1000uc.com
 0.0.0.0 1ecosolution.it
 0.0.0.0 33rdderryscouts.com
@@ -28,9 +29,12 @@
 0.0.0.0 alertgeeks.ddnsfree.com
 0.0.0.0 alertsecurities.in
 0.0.0.0 alinac.ca
+0.0.0.0 aljassimaluminium.com
 0.0.0.0 alligatorplataformas.com
 0.0.0.0 altunminyum.github.io
+0.0.0.0 amanext.com
 0.0.0.0 americantv.online
+0.0.0.0 anapa-zarya.ru
 0.0.0.0 aosafrica.co.za
 0.0.0.0 api-ms.cobainaja.id
 0.0.0.0 api.52kkg.com
@@ -38,6 +42,7 @@
 0.0.0.0 api.seeingoholidays.com
 0.0.0.0 apps.saintsoporte.com
 0.0.0.0 aquapools.in
+0.0.0.0 ariso.eu
 0.0.0.0 aristonbentre.com
 0.0.0.0 artrsllc.com
 0.0.0.0 asterglobal.com
@@ -45,7 +50,6 @@
 0.0.0.0 athadnw.com
 0.0.0.0 atomm.com.br
 0.0.0.0 azmeasurement.com
-0.0.0.0 bbc-s.news
 0.0.0.0 beachwood.ug
 0.0.0.0 bearware.org
 0.0.0.0 beautifulqueen.com.br
@@ -53,8 +57,9 @@
 0.0.0.0 bethelmbcarvada.org
 0.0.0.0 bigmikesupplies.co.za
 0.0.0.0 bigs.bikershop.biz
+0.0.0.0 bit-cloud.ru
 0.0.0.0 bloom-artists.com
-0.0.0.0 bmg.edu.vn
+0.0.0.0 bobstayget.top
 0.0.0.0 bocasislandexpress.com
 0.0.0.0 bontiakhotel.net
 0.0.0.0 bookkeepingagents.com
@@ -70,9 +75,9 @@
 0.0.0.0 callusoyasociados.com.ar
 0.0.0.0 camminachetipassa.it
 0.0.0.0 canconsulting.in
+0.0.0.0 cangpeitaoke.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0 cardanofoundatlon.org
 0.0.0.0 casamuseoayerbe.co
-0.0.0.0 cdaonline.com.ar
 0.0.0.0 cdn.doxbin.org
 0.0.0.0 cdn.unduhfile.my.id
 0.0.0.0 cemageng.com.br
@@ -81,11 +86,11 @@
 0.0.0.0 cfs7.blog.daum.net
 0.0.0.0 cfs9.blog.daum.net
 0.0.0.0 cfu.twr.mybluehost.me
+0.0.0.0 chatgenie.co.uk
 0.0.0.0 chawkyfrenn.com
 0.0.0.0 chemsky.tn
 0.0.0.0 chuckozeas.com
 0.0.0.0 cityoftransformation.com
-0.0.0.0 citypharmacylv.com
 0.0.0.0 cleaning.homesecuritypc.com
 0.0.0.0 cnom.sante.gov.ml
 0.0.0.0 coadymarine.com
@@ -102,10 +107,10 @@
 0.0.0.0 d.tocat.co
 0.0.0.0 d1.udashi.com
 0.0.0.0 d7.fajridemo.com
+0.0.0.0 d9e1c3dd-1fee-48c1-9089-09a70580408e.usrfiles.com
 0.0.0.0 dacsandongthapmuoi.vn
 0.0.0.0 dacui.online
 0.0.0.0 danaevara.com
-0.0.0.0 dating.khokhas.co.za
 0.0.0.0 ddlakava.ac.ug
 0.0.0.0 deine-bewerbung.com
 0.0.0.0 demirelmarka.com
@@ -115,8 +120,8 @@
 0.0.0.0 dental.xiaoxiao.media
 0.0.0.0 derekludlow.com
 0.0.0.0 destinymc.co.za
-0.0.0.0 dev-cuvision.aquilastudio.net
 0.0.0.0 devises-dz.com
+0.0.0.0 diclegrup.org
 0.0.0.0 dl.1003b.56a.com
 0.0.0.0 dl.198424.com
 0.0.0.0 dl.9xu.com
@@ -126,7 +131,6 @@
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.udashi.com
 0.0.0.0 download.caihong.com
-0.0.0.0 download.doumaibiji.cn
 0.0.0.0 download.pdf00.cn
 0.0.0.0 download.skycn.com
 0.0.0.0 drhanneserasmus.co.za
@@ -141,11 +145,12 @@
 0.0.0.0 egyfruitcorner.com
 0.0.0.0 electnum.com
 0.0.0.0 elliert.github.io
+0.0.0.0 elturky.net
 0.0.0.0 elvalledetarrazu.com
-0.0.0.0 emaids.co.za
 0.0.0.0 enc-tech.com
 0.0.0.0 erkaradyator.com.tr
 0.0.0.0 esquiudigital.com
+0.0.0.0 et3.ektpnc.com
 0.0.0.0 eurooknamsk.ru
 0.0.0.0 evarlic.com
 0.0.0.0 everlost.anondns.net
@@ -160,6 +165,7 @@
 0.0.0.0 fixstudio.co.kr
 0.0.0.0 flamenewton.com
 0.0.0.0 florent-webdev.com
+0.0.0.0 forevertwon.duckdns.org
 0.0.0.0 fran.ac.ug
 0.0.0.0 fransceysse.ac.ug
 0.0.0.0 free.360totalsecurity.com
@@ -167,7 +173,6 @@
 0.0.0.0 galandskiyher2.com
 0.0.0.0 gapegape.co.za
 0.0.0.0 getupdate.click
-0.0.0.0 giaxe-mitsubishi.vn
 0.0.0.0 globallaborsupply.com
 0.0.0.0 globalmanysoft.com
 0.0.0.0 gmhealthcare.dothome.co.kr
@@ -183,8 +188,8 @@
 0.0.0.0 gsmobile.es
 0.0.0.0 gsslofxh.page.link
 0.0.0.0 gtn.cl
-0.0.0.0 gullygames.com
 0.0.0.0 gumetale.github.io
+0.0.0.0 h170013.srv22.test-hf.su
 0.0.0.0 habbotips.free.fr
 0.0.0.0 haiaideliver.com
 0.0.0.0 haisatatakarya.com
@@ -194,6 +199,7 @@
 0.0.0.0 herchinfitout.com.sg
 0.0.0.0 hergelekitap.com.tr
 0.0.0.0 hitstation.nl
+0.0.0.0 hjsdfyuewghf.com
 0.0.0.0 hkkkk3eedffgggdkkk3333fff.hawklogger.repl.co
 0.0.0.0 hostigram.xyz
 0.0.0.0 houseatthebeachinoc.com
@@ -203,22 +209,19 @@
 0.0.0.0 hrfrance.net
 0.0.0.0 hseda.com
 0.0.0.0 htownbars.com
-0.0.0.0 hugersi.com
 0.0.0.0 hunggiang.vn
 0.0.0.0 hyper-soft.pro
 0.0.0.0 idpminic.org
-0.0.0.0 image-thaihometown.com
 0.0.0.0 imbueautoworx.co.za
-0.0.0.0 img.softmedal.com
 0.0.0.0 imit.ac.in
 0.0.0.0 incotel.com.pk
 0.0.0.0 indolian.com
+0.0.0.0 indonesias.me
 0.0.0.0 ingonherbal.com
 0.0.0.0 institut-corps-a-ligne.fr
 0.0.0.0 intellectproactive.com
-0.0.0.0 invoice001.yolasite.com
-0.0.0.0 invoice4c.yolasite.com
 0.0.0.0 ishahcouture.com
+0.0.0.0 itfolkstechnology.com
 0.0.0.0 izlidemi.github.io
 0.0.0.0 jaccolima.com
 0.0.0.0 jcedu.org
@@ -272,17 +275,15 @@
 0.0.0.0 meonhanong.com
 0.0.0.0 mepstein.com
 0.0.0.0 microsecurityupdate.com
-0.0.0.0 mindfree.co.za
 0.0.0.0 mistitis.ug
 0.0.0.0 mistydeblasiophotography.com
 0.0.0.0 mithransilks.com
 0.0.0.0 mkblaboratoire.com
 0.0.0.0 moarkgcc.com
 0.0.0.0 modern-city.by
-0.0.0.0 moninediy.com
 0.0.0.0 monke.re
 0.0.0.0 moodle.corplearning.net
-0.0.0.0 mumgee.co.za
+0.0.0.0 morientlines.com
 0.0.0.0 mvdru.com
 0.0.0.0 mysura.it
 0.0.0.0 mytheacademy.com
@@ -300,6 +301,7 @@
 0.0.0.0 nrc-soluciones.com.ar
 0.0.0.0 ns1.koleso.tc
 0.0.0.0 nsb.org.uk
+0.0.0.0 ntihk.net
 0.0.0.0 oazahotel.com.mk
 0.0.0.0 oceancityrentalbyowner.com
 0.0.0.0 ogumeta.github.io
@@ -313,6 +315,7 @@
 0.0.0.0 orsan.gruporhynous.com
 0.0.0.0 outdoortacklebox.com
 0.0.0.0 ozelmimarsinanmtal.com
+0.0.0.0 ozvita.club
 0.0.0.0 p2.d9media.cn
 0.0.0.0 p4936.webmo.fr
 0.0.0.0 pablobrothel.com.ar
@@ -324,15 +327,19 @@
 0.0.0.0 partadino.ac.ug
 0.0.0.0 pascasarjana.iainfmpapua.ac.id
 0.0.0.0 paste-bin.xyz
+0.0.0.0 payorderreceipt.info
 0.0.0.0 perfumando.com.mx
+0.0.0.0 phod.ru
 0.0.0.0 pink99.com
 0.0.0.0 pixelservice.by
 0.0.0.0 pn-raha.go.id
 0.0.0.0 pns.org.pk
 0.0.0.0 ponizinny.nl
+0.0.0.0 pooyaprotein.com
 0.0.0.0 posmicrosystems.com
 0.0.0.0 potolki-razumno.ru
 0.0.0.0 ppfatahillah.com
+0.0.0.0 ppz.devel.gns.com.br
 0.0.0.0 prestigehomeautomation.net
 0.0.0.0 pride-shop.co.uk
 0.0.0.0 primaflor-sby.com
@@ -348,16 +355,18 @@
 0.0.0.0 rapture2.romangrey.net
 0.0.0.0 razesoft.mdetecnologia.com
 0.0.0.0 records.dennisign.se
-0.0.0.0 red-service.net
 0.0.0.0 red.mk
 0.0.0.0 redmag-dz.com
+0.0.0.0 redytel.pe
 0.0.0.0 reifenquick.de
+0.0.0.0 reinroot.top
 0.0.0.0 reiwo-service.de
 0.0.0.0 relaxindulge.co.nz
 0.0.0.0 resourceedge.org
 0.0.0.0 retailexpertscloud.com
 0.0.0.0 richterhi-tech.com
 0.0.0.0 richtools.info
+0.0.0.0 risesincesteel.com
 0.0.0.0 rlcjba7wduej3xcstcjo577eqgjsjvcjfsw4i23fqvf2y27ylylhmhad.onion.pet
 0.0.0.0 rollsbeer.com
 0.0.0.0 roofing.galacticleads.com
@@ -373,6 +382,7 @@
 0.0.0.0 sdspush.beget.tech
 0.0.0.0 sealicensing.com
 0.0.0.0 secretmindcontrol.com
+0.0.0.0 senbiaojita.com
 0.0.0.0 senderolunarejo.com
 0.0.0.0 seniorweekoc.net
 0.0.0.0 server.easysalepage.in.th
@@ -386,11 +396,11 @@
 0.0.0.0 slpbridge.com
 0.0.0.0 smartphoodapp.com
 0.0.0.0 smpn41.semarangkota.go.id
+0.0.0.0 smz.sh
 0.0.0.0 sociallysavvyseo.com
 0.0.0.0 sofancy.co.za
 0.0.0.0 soft.110route.com
 0.0.0.0 spaceframe.mobi.space-frame.co.za
-0.0.0.0 speedycabng.com
 0.0.0.0 spices.com.sg
 0.0.0.0 src1.minibai.com
 0.0.0.0 srv-fattureincloud.de
@@ -401,12 +411,11 @@
 0.0.0.0 stayinoceancitymd.com
 0.0.0.0 storage.replain.cc
 0.0.0.0 suakhoaketsattphcm.com
-0.0.0.0 sui-claim.top
+0.0.0.0 subirfact.com
 0.0.0.0 sungeomatics.com
 0.0.0.0 sunglassesninja.com
 0.0.0.0 superstar.tibolts.co.uk
 0.0.0.0 support.clz.kr
-0.0.0.0 sweetyporn.org
 0.0.0.0 t.honker.info
 0.0.0.0 techniguitare.com
 0.0.0.0 techvibeo.com
@@ -415,13 +424,11 @@
 0.0.0.0 tengfeidn.com
 0.0.0.0 test.earborist.com
 0.0.0.0 test.typoten.com
-0.0.0.0 thanhancompany.com
 0.0.0.0 thedoctorsgym.net
 0.0.0.0 thekassia.co.uk
 0.0.0.0 thomasakvo.com
 0.0.0.0 threerosesbeauty.com
 0.0.0.0 tiemvangngoctham.com
-0.0.0.0 timamollo.co.za
 0.0.0.0 toolstechs.com
 0.0.0.0 topsepatu.com
 0.0.0.0 travelwithmanta.co.za
@@ -445,7 +452,6 @@
 0.0.0.0 vidaviajesperu.com
 0.0.0.0 vietroll.vn
 0.0.0.0 vipysknik.by
-0.0.0.0 vkengcivil.com.br
 0.0.0.0 vvitcher.ru
 0.0.0.0 walkindrivetoday.com
 0.0.0.0 weak-sar.com
@@ -470,5 +476,4 @@
 0.0.0.0 zaofisa.net
 0.0.0.0 zf.gouzapay.cn
 0.0.0.0 zhengxinpeixun.oss-cn-qingdao.aliyuncs.com
-0.0.0.0 zsrest.com
 0.0.0.0 zzz.fhauiehgha.com
