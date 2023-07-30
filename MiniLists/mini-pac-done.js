@@ -1,4 +1,4 @@
-// **** Fri Jul 28 11:30:47 PM UTC 2023
+// **** Sun Jul 30 09:58:29 PM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.0.le4net00.net") ||
@@ -7045,6 +7045,7 @@ shExpMatch(host, "*.aw1.accuradio.com") ||
 shExpMatch(host, "*.awakebird.com") ||
 shExpMatch(host, "*.awaken1337.xyz") ||
 shExpMatch(host, "*.awamia.com") ||
+shExpMatch(host, "*.awapps.cfd") ||
 shExpMatch(host, "*.awaps.yandex.ru") ||
 shExpMatch(host, "*.awarealley.com") ||
 shExpMatch(host, "*.awazpeople25.com.pl") ||
@@ -12918,6 +12919,7 @@ shExpMatch(host, "*.evvresponsefund.com") ||
 shExpMatch(host, "*.evyy.net") ||
 shExpMatch(host, "*.ew3.io") ||
 shExpMatch(host, "*.ewalxb.epicsports.com") ||
+shExpMatch(host, "*.ewapps.top") ||
 shExpMatch(host, "*.ewebcounter.com") ||
 shExpMatch(host, "*.ex-fami.net") ||
 shExpMatch(host, "*.exacttargetapis.com") ||
@@ -18348,6 +18350,7 @@ shExpMatch(host, "*.kyo7.supdepub.com") ||
 shExpMatch(host, "*.kyolo.net") ||
 shExpMatch(host, "*.kyubieflix.com") ||
 shExpMatch(host, "*.kzc6.czescwyspykanaryjskie.com") ||
+shExpMatch(host, "*.kzsoftgame.site") ||
 shExpMatch(host, "*.kzv4.wecanimal.it") ||
 shExpMatch(host, "*.l-chat.jp") ||
 shExpMatch(host, "*.l-inky.com") ||
@@ -19506,6 +19509,7 @@ shExpMatch(host, "*.lp4.io") ||
 shExpMatch(host, "*.lp4.onlinecasinoreports.com") ||
 shExpMatch(host, "*.lpdk.net") ||
 shExpMatch(host, "*.lpdoinoibnsndoppigh.com") ||
+shExpMatch(host, "*.lpoms.com") ||
 shExpMatch(host, "*.lpsnmedia.net") ||
 shExpMatch(host, "*.lptag.liveperson.net") ||
 shExpMatch(host, "*.lptl.boks.app") ||
@@ -27054,6 +27058,7 @@ shExpMatch(host, "*.softsols.net") ||
 shExpMatch(host, "*.softstreams.com") ||
 shExpMatch(host, "*.softtechenterprise.com") ||
 shExpMatch(host, "*.softusa.info") ||
+shExpMatch(host, "*.software-extra.org") ||
 shExpMatch(host, "*.softwareresilience-eu.nccgroup.com") ||
 shExpMatch(host, "*.soggysponge.com") ||
 shExpMatch(host, "*.soha.jp") ||
@@ -39679,6 +39684,7 @@ shExpMatch(host, "aw1.accuradio.com") ||
 shExpMatch(host, "awakebird.com") ||
 shExpMatch(host, "awaken1337.xyz") ||
 shExpMatch(host, "awamia.com") ||
+shExpMatch(host, "awapps.cfd") ||
 shExpMatch(host, "awaps.yandex.ru") ||
 shExpMatch(host, "awarealley.com") ||
 shExpMatch(host, "awazpeople25.com.pl") ||
@@ -45552,6 +45558,7 @@ shExpMatch(host, "evvresponsefund.com") ||
 shExpMatch(host, "evyy.net") ||
 shExpMatch(host, "ew3.io") ||
 shExpMatch(host, "ewalxb.epicsports.com") ||
+shExpMatch(host, "ewapps.top") ||
 shExpMatch(host, "ewebcounter.com") ||
 shExpMatch(host, "ex-fami.net") ||
 shExpMatch(host, "exacttargetapis.com") ||
@@ -50982,6 +50989,7 @@ shExpMatch(host, "kyo7.supdepub.com") ||
 shExpMatch(host, "kyolo.net") ||
 shExpMatch(host, "kyubieflix.com") ||
 shExpMatch(host, "kzc6.czescwyspykanaryjskie.com") ||
+shExpMatch(host, "kzsoftgame.site") ||
 shExpMatch(host, "kzv4.wecanimal.it") ||
 shExpMatch(host, "l-chat.jp") ||
 shExpMatch(host, "l-inky.com") ||
@@ -52140,6 +52148,7 @@ shExpMatch(host, "lp4.io") ||
 shExpMatch(host, "lp4.onlinecasinoreports.com") ||
 shExpMatch(host, "lpdk.net") ||
 shExpMatch(host, "lpdoinoibnsndoppigh.com") ||
+shExpMatch(host, "lpoms.com") ||
 shExpMatch(host, "lpsnmedia.net") ||
 shExpMatch(host, "lptag.liveperson.net") ||
 shExpMatch(host, "lptl.boks.app") ||
@@ -59688,6 +59697,7 @@ shExpMatch(host, "softsols.net") ||
 shExpMatch(host, "softstreams.com") ||
 shExpMatch(host, "softtechenterprise.com") ||
 shExpMatch(host, "softusa.info") ||
+shExpMatch(host, "software-extra.org") ||
 shExpMatch(host, "softwareresilience-eu.nccgroup.com") ||
 shExpMatch(host, "soggysponge.com") ||
 shExpMatch(host, "soha.jp") ||
