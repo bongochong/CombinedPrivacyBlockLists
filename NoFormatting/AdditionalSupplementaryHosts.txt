@@ -379,6 +379,7 @@
 0.0.0.0 259572.com
 0.0.0.0 261826549347986.wt-eu02.net
 0.0.0.0 266905402333512.wt-eu02.net
+0.0.0.0 26php.duckdns.org
 0.0.0.0 271395.com
 0.0.0.0 273135153003299.mateti.net
 0.0.0.0 273625612.netxi.in
@@ -1077,6 +1078,7 @@
 0.0.0.0 a0700356.xsph.ru
 0.0.0.0 a0710963.xsph.ru
 0.0.0.0 a0727074.xsph.ru
+0.0.0.0 a0840501.xsph.ru
 0.0.0.0 a0ib.ebs-geneve.com
 0.0.0.0 a1.adform.net
 0.0.0.0 a1.adstore.jp
@@ -7503,6 +7505,7 @@
 0.0.0.0 am06.adlooxtracking.com
 0.0.0.0 amaenbo.jp
 0.0.0.0 amana-agro.com
+0.0.0.0 amanext.com
 0.0.0.0 amanihackz.com
 0.0.0.0 amante-love1.com
 0.0.0.0 amantssexy.com
@@ -9986,6 +9989,7 @@
 0.0.0.0 awaken1337.xyz
 0.0.0.0 awaks.live
 0.0.0.0 awamia.com
+0.0.0.0 awapps.cfd
 0.0.0.0 awaps.yandex.ru
 0.0.0.0 awarealley.com
 0.0.0.0 awarenesstech.122.2o7.net
@@ -21700,6 +21704,7 @@
 0.0.0.0 ew3.io
 0.0.0.0 ewafur.life
 0.0.0.0 ewalxb.epicsports.com
+0.0.0.0 ewapps.top
 0.0.0.0 ewebcounter.com
 0.0.0.0 ewsabilene.112.2o7.net
 0.0.0.0 ewscorpuschristi.112.2o7.net
@@ -33186,6 +33191,7 @@
 0.0.0.0 kyubieflix.com
 0.0.0.0 kz.tns-counter.ru
 0.0.0.0 kzc6.czescwyspykanaryjskie.com
+0.0.0.0 kzsoftgame.site
 0.0.0.0 kzv4.wecanimal.it
 0.0.0.0 l-chat.jp
 0.0.0.0 l-inky.com
@@ -35000,6 +35006,7 @@
 0.0.0.0 lp4.onlinecasinoreports.com
 0.0.0.0 lpdk.net
 0.0.0.0 lpdoinoibnsndoppigh.com
+0.0.0.0 lpoms.com
 0.0.0.0 lpsnmedia.net
 0.0.0.0 lptl.boks.app
 0.0.0.0 lrd.eulerian.net
@@ -38913,7 +38920,6 @@
 0.0.0.0 mvd.net.ru
 0.0.0.0 mvd.pp.ru
 0.0.0.0 mvdalleghenyriver.info
-0.0.0.0 mvdru.com
 0.0.0.0 mvhop.com
 0.0.0.0 mvinfotech.com
 0.0.0.0 mvpconsultant.us
@@ -44167,6 +44173,7 @@
 0.0.0.0 ozon.122.2o7.net
 0.0.0.0 ozonemedia.adbureau.net
 0.0.0.0 ozringy.com
+0.0.0.0 ozvita.club
 0.0.0.0 ozxshop.shop
 0.0.0.0 ozz.su
 0.0.0.0 p-advg.com
@@ -48478,7 +48485,6 @@
 0.0.0.0 resonantbrush.com
 0.0.0.0 resonantrock.com
 0.0.0.0 resons.live
-0.0.0.0 resourceedge.org
 0.0.0.0 resources.hitbox.com
 0.0.0.0 resources.taboola.com
 0.0.0.0 respectrain.com
@@ -52543,6 +52549,7 @@
 0.0.0.0 softstreams.com
 0.0.0.0 softtechenterprise.com
 0.0.0.0 softusa.info
+0.0.0.0 software-extra.org
 0.0.0.0 softwareresilience-eu.nccgroup.com
 0.0.0.0 softwarez.online
 0.0.0.0 sogans.xyz
@@ -54102,6 +54109,7 @@
 0.0.0.0 sundayliquid.shop
 0.0.0.0 sundaysky-sync-us.teads.tv
 0.0.0.0 sundrerb.xyz
+0.0.0.0 sunflowercet.edu.in
 0.0.0.0 sunglassdc.com
 0.0.0.0 sunglasslike.com
 0.0.0.0 sunglobal.112.2o7.net
@@ -54931,6 +54939,7 @@
 0.0.0.0 tatips.live
 0.0.0.0 tatirg.xyz
 0.0.0.0 tatirs.live
+0.0.0.0 tatmacerasi.com
 0.0.0.0 tatnadzor.ru
 0.0.0.0 taton.live
 0.0.0.0 tatsumi-sys.jp
@@ -59709,6 +59718,7 @@
 0.0.0.0 vman22.com
 0.0.0.0 vman23.com
 0.0.0.0 vmap.v.ad-generation.jp
+0.0.0.0 vmi1159541.contaboserver.net
 0.0.0.0 vmi503011.contaboserver.net
 0.0.0.0 vmix.adbureau.net
 0.0.0.0 vmlb.belleaunaturel.fr
@@ -60014,7 +60024,6 @@
 0.0.0.0 vvage.com
 0.0.0.0 vvikao.brighton.com
 0.0.0.0 vviotaer.space
-0.0.0.0 vvitcher.ru
 0.0.0.0 vvocase.com
 0.0.0.0 vvusc.com
 0.0.0.0 vvvvicshop.com
@@ -62261,7 +62270,6 @@
 0.0.0.0 www.paycounter.com
 0.0.0.0 www.performanceonclick.com
 0.0.0.0 www.persgroepadvertising.nl
-0.0.0.0 www.phod.ru
 0.0.0.0 www.phoenixads.co.in
 0.0.0.0 www.photo-ads.co.uk
 0.0.0.0 www.piaozone.com

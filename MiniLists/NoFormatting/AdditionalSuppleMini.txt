@@ -8923,6 +8923,7 @@
 0.0.0.0 awakebird.com
 0.0.0.0 awaken1337.xyz
 0.0.0.0 awamia.com
+0.0.0.0 awapps.cfd
 0.0.0.0 awaps.yandex.ru
 0.0.0.0 awarealley.com
 0.0.0.0 awarenesstech.122.2o7.net
@@ -16598,6 +16599,7 @@
 0.0.0.0 evyy.net
 0.0.0.0 ew3.io
 0.0.0.0 ewalxb.epicsports.com
+0.0.0.0 ewapps.top
 0.0.0.0 ewebcounter.com
 0.0.0.0 ewsabilene.112.2o7.net
 0.0.0.0 ewscorpuschristi.112.2o7.net
@@ -22941,6 +22943,7 @@
 0.0.0.0 kyubieflix.com
 0.0.0.0 kz.tns-counter.ru
 0.0.0.0 kzc6.czescwyspykanaryjskie.com
+0.0.0.0 kzsoftgame.site
 0.0.0.0 kzv4.wecanimal.it
 0.0.0.0 l-chat.jp
 0.0.0.0 l-inky.com
@@ -24225,6 +24228,7 @@
 0.0.0.0 lp4.onlinecasinoreports.com
 0.0.0.0 lpdk.net
 0.0.0.0 lpdoinoibnsndoppigh.com
+0.0.0.0 lpoms.com
 0.0.0.0 lpsnmedia.net
 0.0.0.0 lptl.boks.app
 0.0.0.0 lrd.eulerian.net
@@ -36144,6 +36148,7 @@
 0.0.0.0 softstreams.com
 0.0.0.0 softtechenterprise.com
 0.0.0.0 softusa.info
+0.0.0.0 software-extra.org
 0.0.0.0 softwareresilience-eu.nccgroup.com
 0.0.0.0 soggysponge.com
 0.0.0.0 soha.jp
