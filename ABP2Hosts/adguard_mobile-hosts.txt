@@ -1,4 +1,4 @@
-# Sun Jul 30 09:46:23 PM UTC 2023
+# Sun Aug  6 10:49:18 PM UTC 2023
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -453,6 +453,7 @@
 0.0.0.0 ad.turn.com.akadns.net
 0.0.0.0 ad.vidverto.io
 0.0.0.0 ad.vrvm.com
+0.0.0.0 ad.weibo.com
 0.0.0.0 ad.weplayer.cc
 0.0.0.0 ad.wynk.in
 0.0.0.0 ad11p.adfarm1.adition.com
@@ -842,6 +843,7 @@
 0.0.0.0 adstax-match-proxy.adrtx.net
 0.0.0.0 adstax-match.adrtx.net
 0.0.0.0 adstory.gotrackier.com
+0.0.0.0 adstrategy.biz.weibo.com
 0.0.0.0 adstune.com
 0.0.0.0 adsunflower.com
 0.0.0.0 adsup.togothermany.cn
@@ -3799,6 +3801,7 @@
 0.0.0.0 gag.admulti.com
 0.0.0.0 gameanalisys.appcpi.net
 0.0.0.0 gameanalysis.appcpi.net
+0.0.0.0 gamestats.easybrain.com
 0.0.0.0 gammaplatform.com
 0.0.0.0 gannett.demdex.net
 0.0.0.0 ganon.yahoo.com
@@ -5084,7 +5087,6 @@
 0.0.0.0 metrics.icloud.com
 0.0.0.0 metrics.kmsmep.com
 0.0.0.0 metrics.macys.com
-0.0.0.0 metrics.plaid.com
 0.0.0.0 metrics.roblox.com
 0.0.0.0 metrics.sdkbox.com
 0.0.0.0 metrics.sp0n.io
@@ -7842,7 +7844,6 @@
 0.0.0.0 tracker.nbcuas.com
 0.0.0.0 tracker.neodatagroup.com
 0.0.0.0 tracker.personizely.net
-0.0.0.0 tracker.rqmob.com
 0.0.0.0 tracker.samplicio.us
 0.0.0.0 tracker.winudf.com
 0.0.0.0 trackers.voodoo-analytics.io
@@ -8170,7 +8171,6 @@
 0.0.0.0 utarget.ru
 0.0.0.0 utctime.tiltingpoint.io
 0.0.0.0 utop.umengcloud.com
-0.0.0.0 uts-front.line-apps.com
 0.0.0.0 uttermosthobbies.com
 0.0.0.0 uw.evm1.stackadapt.com
 0.0.0.0 uw.srv.stackadapt.com
