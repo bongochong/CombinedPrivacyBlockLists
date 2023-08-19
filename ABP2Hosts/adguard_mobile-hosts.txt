@@ -1,4 +1,4 @@
-# Fri Aug 11 12:45:25 AM UTC 2023
+# Sat Aug 19 03:48:32 PM UTC 2023
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -420,6 +420,7 @@
 0.0.0.0 ad.apsalar.com
 0.0.0.0 ad.atdmt.com
 0.0.0.0 ad.auditude.com
+0.0.0.0 ad.buzzvil.com
 0.0.0.0 ad.cauly.co.kr
 0.0.0.0 ad.crwdcntrl.net
 0.0.0.0 ad.daum.net
@@ -6765,6 +6766,7 @@
 0.0.0.0 screechingfurniture.com
 0.0.0.0 screechingslip.com
 0.0.0.0 screechingstove.com
+0.0.0.0 screen.buzzvil.com
 0.0.0.0 scribblestring.com
 0.0.0.0 scribe.logs.roku.com
 0.0.0.0 script.4dex.io

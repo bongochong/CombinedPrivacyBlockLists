@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 10 Aug 2023 21:58:27 GMT
-# entries:        3717
+# last updated:   Thu, 17 Aug 2023 13:17:58 GMT
+# entries:        3721
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -569,6 +569,7 @@
 127.0.0.1 ads.paymonex.net
 127.0.0.1 ads.pexi.nl
 127.0.0.1 ads.pfl.ua
+127.0.0.1 ads.phpclasses.org
 127.0.0.1 ads.pinterest.com
 127.0.0.1 ads.planet.nl
 127.0.0.1 ads.pni.com
@@ -1086,6 +1087,7 @@
 127.0.0.1 backbeatmedia.com
 127.0.0.1 balloontexture.com
 127.0.0.1 banik.redigy.cz
+127.0.0.1 banner-exchange-24.de
 127.0.0.1 banner.ambercoastcasino.com
 127.0.0.1 banner.buempliz-online.ch
 127.0.0.1 banner.casino.net
@@ -1180,6 +1182,7 @@
 127.0.0.1 benefits.sovendus.com
 127.0.0.1 benfly.net
 127.0.0.1 berp.com
+127.0.0.1 bespoke.iln8.net
 127.0.0.1 bestboundary.com
 127.0.0.1 bestbuy.7tiv.net
 127.0.0.1 bestsearch.net
@@ -1461,7 +1464,6 @@
 127.0.0.1 complextoad.com
 127.0.0.1 comprabanner.it
 127.0.0.1 concernedcondition.com
-127.0.0.1 concerneddrink.com
 127.0.0.1 conditionchange.com
 127.0.0.1 conductrics.com
 127.0.0.1 connatix.com
@@ -1483,7 +1485,6 @@
 127.0.0.1 conversionruler.com
 127.0.0.1 convertingtraffic.com
 127.0.0.1 convrse.media
-127.0.0.1 cookchalk.com
 127.0.0.1 cookies.cmpnet.com
 127.0.0.1 coordinatedcub.com
 127.0.0.1 cootlogix.com
@@ -1635,6 +1636,7 @@
 127.0.0.1 domainsteam.de
 127.0.0.1 domdex.com
 127.0.0.1 dotmetrics.net
+127.0.0.1 dotomi.com
 127.0.0.1 doubleclick.com
 127.0.0.1 doubleclick.de
 127.0.0.1 doubleclick.net
@@ -1674,7 +1676,6 @@
 127.0.0.1 ecoupons.com
 127.0.0.1 edaa.eu
 127.0.0.1 edgexads.com
-127.0.0.1 effectivemeasure.com
 127.0.0.1 efficaciouscactus.com
 127.0.0.1 eiv.baidu.com
 127.0.0.1 ejyymghi.com
@@ -1709,7 +1710,6 @@
 127.0.0.1 engine.espace.netavenir.com
 127.0.0.1 enginenetwork.com
 127.0.0.1 enormousearth.com
-127.0.0.1 enquisite.com
 127.0.0.1 ensighten.com
 127.0.0.1 entercasino.com
 127.0.0.1 enthusiasticdad.com
@@ -2045,6 +2045,7 @@
 127.0.0.1 imgpromo.easyrencontre.com
 127.0.0.1 immensehoney.com
 127.0.0.1 imonomy.com
+127.0.0.1 imp.i312864.net
 127.0.0.1 importedincrease.com
 127.0.0.1 impossibleexpansion.com
 127.0.0.1 imprese.cz
@@ -2211,6 +2212,8 @@
 127.0.0.1 lijit.com
 127.0.0.1 link-booster.de
 127.0.0.1 link.axios.com
+127.0.0.1 link.sbstck.com
+127.0.0.1 link.theatlantic.com
 127.0.0.1 link.uk.expediamail.com
 127.0.0.1 link4ads.com
 127.0.0.1 linkbuddies.com
@@ -2294,6 +2297,7 @@
 127.0.0.1 marketing.osijek031.com
 127.0.0.1 marketingsolutions.yahoo.com
 127.0.0.1 marketo.com
+127.0.0.1 marlowpillow.sjv.io
 127.0.0.1 marriedbelief.com
 127.0.0.1 mas.sector.sk
 127.0.0.1 massivemark.com
@@ -2606,6 +2610,7 @@
 127.0.0.1 panickycurtain.com
 127.0.0.1 panickypancake.com
 127.0.0.1 panoramicplane.com
+127.0.0.1 parachutehome.sjv.io
 127.0.0.1 paradoxfactor.com
 127.0.0.1 parchedangle.com
 127.0.0.1 parchedsofa.com
@@ -2698,7 +2703,6 @@
 127.0.0.1 postrelease.com
 127.0.0.1 ppc.adhere.marchex.com
 127.0.0.1 pr-star.de
-127.0.0.1 praddpro.de
 127.0.0.1 prchecker.info
 127.0.0.1 prebid.org
 127.0.0.1 predictad.com
@@ -2706,6 +2710,7 @@
 127.0.0.1 presetrabbits.com
 127.0.0.1 previousplayground.com
 127.0.0.1 previouspotato.com
+127.0.0.1 prf.hn
 127.0.0.1 priceypies.com
 127.0.0.1 priefy.com
 127.0.0.1 primetime.net
@@ -3102,7 +3107,6 @@
 127.0.0.1 spezialreporte.de
 127.0.0.1 spidersboats.com
 127.0.0.1 spiffymachine.com
-127.0.0.1 spikyslave.com
 127.0.0.1 spinbox.techtracker.com
 127.0.0.1 spinbox.versiontracker.com
 127.0.0.1 spinnaker-js.com
@@ -3184,6 +3188,7 @@
 127.0.0.1 stickssheep.com
 127.0.0.1 stickyadstv.com
 127.0.0.1 stiffgame.com
+127.0.0.1 stomachscience.com
 127.0.0.1 storesurprise.com
 127.0.0.1 storetail.io
 127.0.0.1 stormyachiever.com
@@ -3253,7 +3258,6 @@
 127.0.0.1 tailsweep.com
 127.0.0.1 tailsweep.se
 127.0.0.1 takethatad.com
-127.0.0.1 takru.com
 127.0.0.1 talentedsteel.com
 127.0.0.1 tamgrt.com
 127.0.0.1 tangerinenet.biz
@@ -3374,6 +3378,7 @@
 127.0.0.1 track.nationalgunrights.org
 127.0.0.1 track.segmetrics.io
 127.0.0.1 track.software-codes.com
+127.0.0.1 track.spe.schoolmessenger.com
 127.0.0.1 track.themaccleanup.info
 127.0.0.1 track.ultravpn.com
 127.0.0.1 track.unear.net
@@ -3386,7 +3391,6 @@
 127.0.0.1 tracker-pm2.spilleren.com
 127.0.0.1 tracker.bannerflow.com
 127.0.0.1 tracker.cdnbye.com
-127.0.0.1 tracker.comunidadmarriott.com
 127.0.0.1 tracker.icerocket.com
 127.0.0.1 tracker.metricswave.com
 127.0.0.1 tracker.mmdlv.it
@@ -3548,6 +3552,7 @@
 127.0.0.1 verblife-5.co
 127.0.0.1 vericlick.com
 127.0.0.1 vertamedia.com
+127.0.0.1 verticalmass.com
 127.0.0.1 vervewireless.com
 127.0.0.1 vibrantmedia.com
 127.0.0.1 vidcpm.com
@@ -3592,7 +3597,6 @@
 127.0.0.1 wdads.sx.atl.publicus.com
 127.0.0.1 wdfl.co
 127.0.0.1 wearbasin.com
-127.0.0.1 web-redirecting.com
 127.0.0.1 web-stat.com
 127.0.0.1 web.informer.com
 127.0.0.1 web2.deja.com
