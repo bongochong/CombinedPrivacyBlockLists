@@ -1,4 +1,4 @@
-// **** Mon Aug 28 11:57:15 PM UTC 2023
+// **** Tue Aug 29 02:33:59 AM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.0.le4net00.net") ||
@@ -3352,7 +3352,6 @@ shExpMatch(host, "*.ads.heraldnet.com") ||
 shExpMatch(host, "*.ads.heroldonline.com") ||
 shExpMatch(host, "*.ads.hexun.com") ||
 shExpMatch(host, "*.ads.heytapmobi.com") ||
-shExpMatch(host, "*.ads.heytapmobile.com") ||
 shExpMatch(host, "*.ads.hideyourarms.com") ||
 shExpMatch(host, "*.ads.highdefdigest.com") ||
 shExpMatch(host, "*.ads.hobyto.com") ||
@@ -6084,6 +6083,7 @@ shExpMatch(host, "*.amybathtub.xyz") ||
 shExpMatch(host, "*.amyhome.live") ||
 shExpMatch(host, "*.amz-pallets.com") ||
 shExpMatch(host, "*.amz-syndication.com") ||
+shExpMatch(host, "*.amzamo.bio") ||
 shExpMatch(host, "*.amzart.shop") ||
 shExpMatch(host, "*.amzgiftboutique.com") ||
 shExpMatch(host, "*.amzhotprintage.com") ||
@@ -13391,7 +13391,6 @@ shExpMatch(host, "*.dr-healing.com") ||
 shExpMatch(host, "*.dr-nils-kaiser.com") ||
 shExpMatch(host, "*.drabsize.com") ||
 shExpMatch(host, "*.draconiancurve.com") ||
-shExpMatch(host, "*.dragate-in-dc.heytapmobile.com") ||
 shExpMatch(host, "*.dragate.dc.oppomobile.com") ||
 shExpMatch(host, "*.dragontechs.com") ||
 shExpMatch(host, "*.dragzebra.com") ||
@@ -18466,6 +18465,7 @@ shExpMatch(host, "*.heyhome.info") ||
 shExpMatch(host, "*.heymistr.com") ||
 shExpMatch(host, "*.heyos.com") ||
 shExpMatch(host, "*.heysuccess.com") ||
+shExpMatch(host, "*.heytapmobile.com") ||
 shExpMatch(host, "*.heywire.com") ||
 shExpMatch(host, "*.heyzap.com") ||
 shExpMatch(host, "*.hf5rbejvpwds.com") ||
@@ -18909,7 +18909,6 @@ shExpMatch(host, "*.htpgkd.xyz") ||
 shExpMatch(host, "*.htre-vcf-d.com") ||
 shExpMatch(host, "*.httbuy.com") ||
 shExpMatch(host, "*.httpads.com") ||
-shExpMatch(host, "*.httpdns-push.heytapmobile.com") ||
 shExpMatch(host, "*.httpool.com") ||
 shExpMatch(host, "*.httpring.qq.com") ||
 shExpMatch(host, "*.httpwwwadserver.com") ||
@@ -25760,7 +25759,6 @@ shExpMatch(host, "*.omdispatch.co.uk") ||
 shExpMatch(host, "*.omecanism2.sslblindado.com") ||
 shExpMatch(host, "*.omegafitgear.com") ||
 shExpMatch(host, "*.omentribok.pro") ||
-shExpMatch(host, "*.omes-sec.heytapmobile.com") ||
 shExpMatch(host, "*.ometrics.netapp.com") ||
 shExpMatch(host, "*.ometrics.warnerbros.com") ||
 shExpMatch(host, "*.omg543.com") ||
@@ -36804,7 +36802,6 @@ shExpMatch(host, "*.wpc.32df9.rhocdn.net") ||
 shExpMatch(host, "*.wpcdn1.herokuapp.com") ||
 shExpMatch(host, "*.wph2.destinia.us") ||
 shExpMatch(host, "*.wpm.neustar.biz") ||
-shExpMatch(host, "*.wpnrtnmrewunrtok.xyz") ||
 shExpMatch(host, "*.wpsconfig4svr.elasticbeanstalk.com") ||
 shExpMatch(host, "*.wpsitebuilder.ru") ||
 shExpMatch(host, "*.wpu.sh") ||
@@ -41094,7 +41091,6 @@ shExpMatch(host, "ads.heraldnet.com") ||
 shExpMatch(host, "ads.heroldonline.com") ||
 shExpMatch(host, "ads.hexun.com") ||
 shExpMatch(host, "ads.heytapmobi.com") ||
-shExpMatch(host, "ads.heytapmobile.com") ||
 shExpMatch(host, "ads.hideyourarms.com") ||
 shExpMatch(host, "ads.highdefdigest.com") ||
 shExpMatch(host, "ads.hobyto.com") ||
@@ -43826,6 +43822,7 @@ shExpMatch(host, "amybathtub.xyz") ||
 shExpMatch(host, "amyhome.live") ||
 shExpMatch(host, "amz-pallets.com") ||
 shExpMatch(host, "amz-syndication.com") ||
+shExpMatch(host, "amzamo.bio") ||
 shExpMatch(host, "amzart.shop") ||
 shExpMatch(host, "amzgiftboutique.com") ||
 shExpMatch(host, "amzhotprintage.com") ||
@@ -51133,7 +51130,6 @@ shExpMatch(host, "dr-healing.com") ||
 shExpMatch(host, "dr-nils-kaiser.com") ||
 shExpMatch(host, "drabsize.com") ||
 shExpMatch(host, "draconiancurve.com") ||
-shExpMatch(host, "dragate-in-dc.heytapmobile.com") ||
 shExpMatch(host, "dragate.dc.oppomobile.com") ||
 shExpMatch(host, "dragontechs.com") ||
 shExpMatch(host, "dragzebra.com") ||
@@ -56208,6 +56204,7 @@ shExpMatch(host, "heyhome.info") ||
 shExpMatch(host, "heymistr.com") ||
 shExpMatch(host, "heyos.com") ||
 shExpMatch(host, "heysuccess.com") ||
+shExpMatch(host, "heytapmobile.com") ||
 shExpMatch(host, "heywire.com") ||
 shExpMatch(host, "heyzap.com") ||
 shExpMatch(host, "hf5rbejvpwds.com") ||
@@ -56651,7 +56648,6 @@ shExpMatch(host, "htpgkd.xyz") ||
 shExpMatch(host, "htre-vcf-d.com") ||
 shExpMatch(host, "httbuy.com") ||
 shExpMatch(host, "httpads.com") ||
-shExpMatch(host, "httpdns-push.heytapmobile.com") ||
 shExpMatch(host, "httpool.com") ||
 shExpMatch(host, "httpring.qq.com") ||
 shExpMatch(host, "httpwwwadserver.com") ||
@@ -63502,7 +63498,6 @@ shExpMatch(host, "omdispatch.co.uk") ||
 shExpMatch(host, "omecanism2.sslblindado.com") ||
 shExpMatch(host, "omegafitgear.com") ||
 shExpMatch(host, "omentribok.pro") ||
-shExpMatch(host, "omes-sec.heytapmobile.com") ||
 shExpMatch(host, "ometrics.netapp.com") ||
 shExpMatch(host, "ometrics.warnerbros.com") ||
 shExpMatch(host, "omg543.com") ||
@@ -74546,7 +74541,6 @@ shExpMatch(host, "wpc.32df9.rhocdn.net") ||
 shExpMatch(host, "wpcdn1.herokuapp.com") ||
 shExpMatch(host, "wph2.destinia.us") ||
 shExpMatch(host, "wpm.neustar.biz") ||
-shExpMatch(host, "wpnrtnmrewunrtok.xyz") ||
 shExpMatch(host, "wpsconfig4svr.elasticbeanstalk.com") ||
 shExpMatch(host, "wpsitebuilder.ru") ||
 shExpMatch(host, "wpu.sh") ||

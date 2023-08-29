@@ -1,4 +1,4 @@
-// **** Tue Aug 29 12:01:03 AM UTC 2023
+// **** Tue Aug 29 02:39:58 AM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.0.le4net00.net") ||
@@ -2977,7 +2977,6 @@ shExpMatch(host, "*.ads.hentaiheart.com") ||
 shExpMatch(host, "*.ads.heraldnet.com") ||
 shExpMatch(host, "*.ads.heroldonline.com") ||
 shExpMatch(host, "*.ads.heytapmobi.com") ||
-shExpMatch(host, "*.ads.heytapmobile.com") ||
 shExpMatch(host, "*.ads.heyzap.com") ||
 shExpMatch(host, "*.ads.hitcents.com") ||
 shExpMatch(host, "*.ads.holid.io") ||
@@ -5400,6 +5399,7 @@ shExpMatch(host, "*.amybathtub.xyz") ||
 shExpMatch(host, "*.amyhome.live") ||
 shExpMatch(host, "*.amz-pallets.com") ||
 shExpMatch(host, "*.amz-syndication.com") ||
+shExpMatch(host, "*.amzamo.bio") ||
 shExpMatch(host, "*.amzart.shop") ||
 shExpMatch(host, "*.amzgiftboutique.com") ||
 shExpMatch(host, "*.amzhotprintage.com") ||
@@ -16274,6 +16274,7 @@ shExpMatch(host, "*.hexusads.fluent.ltd.uk") ||
 shExpMatch(host, "*.heyhome.info") ||
 shExpMatch(host, "*.heyos.com") ||
 shExpMatch(host, "*.heysuccess.com") ||
+shExpMatch(host, "*.heytapmobile.com") ||
 shExpMatch(host, "*.hf5rbejvpwds.com") ||
 shExpMatch(host, "*.hfc195b.com") ||
 shExpMatch(host, "*.hfexpres.net") ||
@@ -31952,7 +31953,6 @@ shExpMatch(host, "*.wpc.32df9.rhocdn.net") ||
 shExpMatch(host, "*.wpcdn1.herokuapp.com") ||
 shExpMatch(host, "*.wph2.destinia.us") ||
 shExpMatch(host, "*.wpm.neustar.biz") ||
-shExpMatch(host, "*.wpnrtnmrewunrtok.xyz") ||
 shExpMatch(host, "*.wpsconfig4svr.elasticbeanstalk.com") ||
 shExpMatch(host, "*.wpsitebuilder.ru") ||
 shExpMatch(host, "*.wpu.sh") ||
@@ -35691,7 +35691,6 @@ shExpMatch(host, "ads.hentaiheart.com") ||
 shExpMatch(host, "ads.heraldnet.com") ||
 shExpMatch(host, "ads.heroldonline.com") ||
 shExpMatch(host, "ads.heytapmobi.com") ||
-shExpMatch(host, "ads.heytapmobile.com") ||
 shExpMatch(host, "ads.heyzap.com") ||
 shExpMatch(host, "ads.hitcents.com") ||
 shExpMatch(host, "ads.holid.io") ||
@@ -38114,6 +38113,7 @@ shExpMatch(host, "amybathtub.xyz") ||
 shExpMatch(host, "amyhome.live") ||
 shExpMatch(host, "amz-pallets.com") ||
 shExpMatch(host, "amz-syndication.com") ||
+shExpMatch(host, "amzamo.bio") ||
 shExpMatch(host, "amzart.shop") ||
 shExpMatch(host, "amzgiftboutique.com") ||
 shExpMatch(host, "amzhotprintage.com") ||
@@ -48988,6 +48988,7 @@ shExpMatch(host, "hexusads.fluent.ltd.uk") ||
 shExpMatch(host, "heyhome.info") ||
 shExpMatch(host, "heyos.com") ||
 shExpMatch(host, "heysuccess.com") ||
+shExpMatch(host, "heytapmobile.com") ||
 shExpMatch(host, "hf5rbejvpwds.com") ||
 shExpMatch(host, "hfc195b.com") ||
 shExpMatch(host, "hfexpres.net") ||
@@ -64666,7 +64667,6 @@ shExpMatch(host, "wpc.32df9.rhocdn.net") ||
 shExpMatch(host, "wpcdn1.herokuapp.com") ||
 shExpMatch(host, "wph2.destinia.us") ||
 shExpMatch(host, "wpm.neustar.biz") ||
-shExpMatch(host, "wpnrtnmrewunrtok.xyz") ||
 shExpMatch(host, "wpsconfig4svr.elasticbeanstalk.com") ||
 shExpMatch(host, "wpsitebuilder.ru") ||
 shExpMatch(host, "wpu.sh") ||
