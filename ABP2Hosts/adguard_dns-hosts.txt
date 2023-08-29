@@ -1,4 +1,4 @@
-# Mon Aug 28 11:34:48 PM UTC 2023
+# Tue Aug 29 01:32:44 AM UTC 2023
 # AdGuard DNS Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
@@ -24920,6 +24920,7 @@
 0.0.0.0 impatientlyastonishing.com
 0.0.0.0 impatienttidy.com
 0.0.0.0 impavidcircean.com
+0.0.0.0 impeccablewriter.com
 0.0.0.0 impededhaeing.com
 0.0.0.0 impendingaggregated.com
 0.0.0.0 impendscouxio.com
@@ -26872,6 +26873,7 @@
 0.0.0.0 jxvyrv.xyz
 0.0.0.0 jy.zhongxues.com
 0.0.0.0 jyarkinhechershedt.xyz
+0.0.0.0 jygiizv.icu
 0.0.0.0 jygotubvpyguak.com
 0.0.0.0 jyigozm.cn
 0.0.0.0 jyjmpatmgk.com
@@ -27776,6 +27778,7 @@
 0.0.0.0 kxm1b0u.com
 0.0.0.0 kxnggkh2nj.com
 0.0.0.0 kxp7.xyz
+0.0.0.0 kxshyo.com
 0.0.0.0 kxuattexg.com
 0.0.0.0 kxwhiogrswx.com
 0.0.0.0 kybelefwrkmtt.xyz
@@ -36767,6 +36770,7 @@
 0.0.0.0 pnesemr.cn
 0.0.0.0 pnez8.rut6m.xyz
 0.0.0.0 pngme.ru
+0.0.0.0 pnhp3x1.com
 0.0.0.0 pnlhnx.xyz
 0.0.0.0 pnpmreuwqv.xyz
 0.0.0.0 pnrblholty.com
@@ -41011,6 +41015,7 @@
 0.0.0.0 rzlp.xyz
 0.0.0.0 rzneekilff.com
 0.0.0.0 rzngisyz.xyz
+0.0.0.0 rznscya.cn
 0.0.0.0 rzqdqw.com
 0.0.0.0 rztrkr.com
 0.0.0.0 rzviy.com
@@ -46401,6 +46406,7 @@
 0.0.0.0 thayed.com
 0.0.0.0 thaz.xyz
 0.0.0.0 thbum.xyz
+0.0.0.0 thcaes.top
 0.0.0.0 thdidx.xyz
 0.0.0.0 the-ozone-project.com
 0.0.0.0 the-people-group.com
@@ -51163,6 +51169,7 @@
 0.0.0.0 vvvljeqasz.com
 0.0.0.0 vvwbjuaerbgmrjm.com
 0.0.0.0 vvwuqxp.icu
+0.0.0.0 vvxhth.xyz
 0.0.0.0 vvyqxxgxlnptc.com
 0.0.0.0 vw.onlinia.net
 0.0.0.0 vw.xxxmshel.org
@@ -54645,6 +54652,7 @@
 0.0.0.0 zprelandings.com
 0.0.0.0 zprk.io
 0.0.0.0 zpsh.shop
+0.0.0.0 zpsovpgyk.xyz
 0.0.0.0 zq.lansedir.com
 0.0.0.0 zq9a.top
 0.0.0.0 zqfbsrldaeawna.com

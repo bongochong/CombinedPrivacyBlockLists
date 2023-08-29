@@ -1,4 +1,4 @@
-# Mon Aug 28 11:34:35 PM UTC 2023
+# Tue Aug 29 01:32:31 AM UTC 2023
 # EasyList Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0-000.store
 0.0.0.0 0008d6ba2e.com
@@ -6292,6 +6292,7 @@
 0.0.0.0 amyrinunshoed.com
 0.0.0.0 amysaghurtful.com
 0.0.0.0 amywhereby.com
+0.0.0.0 amzamo.bio
 0.0.0.0 amzosmcuhci.com
 0.0.0.0 amzpma.com
 0.0.0.0 amzpzylzo.com
@@ -26219,6 +26220,7 @@
 0.0.0.0 impatientlyastonishing.com
 0.0.0.0 impatienttidy.com
 0.0.0.0 impavidcircean.com
+0.0.0.0 impeccablewriter.com
 0.0.0.0 impededhaeing.com
 0.0.0.0 impendingaggregated.com
 0.0.0.0 impendscouxio.com
@@ -29065,6 +29067,7 @@
 0.0.0.0 kxmrwu.ibarakinews.jp
 0.0.0.0 kxnggkh2nj.com
 0.0.0.0 kxp7.xyz
+0.0.0.0 kxshyo.com
 0.0.0.0 kxwhiogrswx.com
 0.0.0.0 kybelefwrkmtt.xyz
 0.0.0.0 kybzkiw.xyz
@@ -58899,7 +58902,6 @@
 0.0.0.0 wpnetwork.eu
 0.0.0.0 wpnjs.com
 0.0.0.0 wpnokuxfmu.xyz
-0.0.0.0 wpnrtnmrewunrtok.xyz
 0.0.0.0 wpnsrv.com
 0.0.0.0 wpoarjokzgi.com
 0.0.0.0 wpooxqs.com

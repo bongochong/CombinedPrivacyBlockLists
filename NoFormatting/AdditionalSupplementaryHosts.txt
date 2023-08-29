@@ -7722,6 +7722,7 @@
 0.0.0.0 amz-ad.a8.net
 0.0.0.0 amz-pallets.com
 0.0.0.0 amz-syndication.com
+0.0.0.0 amzamo.bio
 0.0.0.0 amzart.shop
 0.0.0.0 amzgiftboutique.com
 0.0.0.0 amzhotprintage.com
@@ -29041,6 +29042,7 @@
 0.0.0.0 heyhome.info
 0.0.0.0 heyos.com
 0.0.0.0 heysuccess.com
+0.0.0.0 heytapmobile.com
 0.0.0.0 hezins.xyz
 0.0.0.0 hezirg.xyz
 0.0.0.0 hezirt.xyz
@@ -63131,7 +63133,6 @@
 0.0.0.0 wph2.destinia.us
 0.0.0.0 wpni.112.2o7.net
 0.0.0.0 wpnipostcomjobs.112.2o7.net
-0.0.0.0 wpnrtnmrewunrtok.xyz
 0.0.0.0 wpsitebuilder.ru
 0.0.0.0 wpu.sh
 0.0.0.0 wq-scooter.com
