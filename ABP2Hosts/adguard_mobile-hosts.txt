@@ -1,4 +1,4 @@
-# Tue Aug 29 01:31:46 AM UTC 2023
+# Thu Aug 31 03:45:49 AM UTC 2023
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -615,6 +615,7 @@
 0.0.0.0 adrta.com
 0.0.0.0 ads-816899299.ap-southeast-1.elb.amazonaws.com
 0.0.0.0 ads-api-new-2052271615.ap-northeast-1.elb.amazonaws.com
+0.0.0.0 ads-api.kidsnote.com
 0.0.0.0 ads-api.twitter.com
 0.0.0.0 ads-b-480313385.us-west-1.elb.amazonaws.com
 0.0.0.0 ads-bidder-api.twitter.com

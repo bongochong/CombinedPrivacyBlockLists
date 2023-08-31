@@ -3675,6 +3675,7 @@
 0.0.0.0 ads-akp.spotify.com
 0.0.0.0 ads-ap.adaptv.advertising.com
 0.0.0.0 ads-api.ft.com
+0.0.0.0 ads-api.kidsnote.com
 0.0.0.0 ads-api.playfun.vn
 0.0.0.0 ads-api.tiktok.com
 0.0.0.0 ads-api.twitter.com
@@ -5530,6 +5531,7 @@
 0.0.0.0 adserver.icmedienhaus.de
 0.0.0.0 adserver.ig.com.br
 0.0.0.0 adserver.ign.com
+0.0.0.0 adserver.ilgazzettinovesuviano.com
 0.0.0.0 adserver.imaginemedia.com
 0.0.0.0 adserver.impuls.cz
 0.0.0.0 adserver.infotiger.com
@@ -9644,7 +9646,6 @@
 0.0.0.0 assetmanagement.att.com
 0.0.0.0 assetmanagements.xyz
 0.0.0.0 assets-demo.publicgood.com
-0.0.0.0 assets-global.website-files.com
 0.0.0.0 assets-staging.publicgood.com
 0.0.0.0 assets.ad4m.at
 0.0.0.0 assets.adfenix.com
@@ -10776,6 +10777,7 @@
 0.0.0.0 barsic.live
 0.0.0.0 barsin.live
 0.0.0.0 baruakart.com
+0.0.0.0 barustan.com
 0.0.0.0 baryt.live
 0.0.0.0 bas9oiw88remnisn-1.com
 0.0.0.0 bas9oiw88remnisn-10.com
@@ -11068,6 +11070,7 @@
 0.0.0.0 beefandchips.co.in
 0.0.0.0 beemray.com
 0.0.0.0 beenpaywild.live
+0.0.0.0 beeronas.com
 0.0.0.0 beerramdose.live
 0.0.0.0 beetfeetlife.bit
 0.0.0.0 befan.live
@@ -11291,6 +11294,7 @@
 0.0.0.0 besirt.xyz
 0.0.0.0 besluor.com
 0.0.0.0 besocial.online
+0.0.0.0 besoliza.com
 0.0.0.0 besons.xyz
 0.0.0.0 besor.live
 0.0.0.0 bespin.live
@@ -11994,6 +11998,7 @@
 0.0.0.0 blender3d.fr
 0.0.0.0 blethenmaine.112.2o7.net
 0.0.0.0 bleubirdfr.com
+0.0.0.0 blexad.shop
 0.0.0.0 blinc.ng
 0.0.0.0 bling-beeswax.com
 0.0.0.0 blingblinggoods.myshopify.com
@@ -12480,6 +12485,7 @@
 0.0.0.0 bopent.live
 0.0.0.0 bopert.xyz
 0.0.0.0 bopid.live
+0.0.0.0 bopiland.com
 0.0.0.0 bopin.live
 0.0.0.0 boping.xyz
 0.0.0.0 bopins.xyz
@@ -18156,6 +18162,7 @@
 0.0.0.0 defirs.live
 0.0.0.0 defirs.xyz
 0.0.0.0 defol.club
+0.0.0.0 defolis.com
 0.0.0.0 defons.live
 0.0.0.0 defpush.com
 0.0.0.0 defshop01.webtrekk.net
@@ -20198,6 +20205,7 @@
 0.0.0.0 dulimg.live
 0.0.0.0 dulirg.live
 0.0.0.0 duluthpacksale.com
+0.0.0.0 dumbabd.online
 0.0.0.0 dumel.live
 0.0.0.0 dumers.live
 0.0.0.0 dumimg.live
@@ -24559,6 +24567,7 @@
 0.0.0.0 funxgames.site
 0.0.0.0 funzonecamp.com
 0.0.0.0 fuper.xyz
+0.0.0.0 furakelw.com
 0.0.0.0 fure-ai.com
 0.0.0.0 fure-ai.site
 0.0.0.0 fured.live
@@ -27595,6 +27604,7 @@
 0.0.0.0 gomis.live
 0.0.0.0 gomit.live
 0.0.0.0 gommoneusato.it
+0.0.0.0 gomoyad.com
 0.0.0.0 gonans.live
 0.0.0.0 gonans.xyz
 0.0.0.0 gondolagnome.com
@@ -27732,6 +27742,7 @@
 0.0.0.0 gopers.xyz
 0.0.0.0 gopert.xyz
 0.0.0.0 gophish.izoaz.ru
+0.0.0.0 gopilofan.com
 0.0.0.0 gopims.live
 0.0.0.0 gopins.live
 0.0.0.0 gopins.xyz
@@ -35366,6 +35377,7 @@
 0.0.0.0 lobens.xyz
 0.0.0.0 lobent.live
 0.0.0.0 lobilo.live
+0.0.0.0 lobosixt.com
 0.0.0.0 lobyst1.gq
 0.0.0.0 lobyst1.tk
 0.0.0.0 lobyst2.ml
@@ -36680,7 +36692,13 @@
 0.0.0.0 magin.live
 0.0.0.0 magirg.xyz
 0.0.0.0 magirt.xyz
+0.0.0.0 magisk.me
+0.0.0.0 magiskapp.com
+0.0.0.0 magiskcn.com
 0.0.0.0 magiskmanager.com
+0.0.0.0 magiskroot.com
+0.0.0.0 magiskroot.net
+0.0.0.0 magisks.com
 0.0.0.0 magist.live
 0.0.0.0 magit.live
 0.0.0.0 magnetadservices.com
@@ -37701,6 +37719,7 @@
 0.0.0.0 maltipoo883.site
 0.0.0.0 malton.live
 0.0.0.0 maltumargnatula.tk
+0.0.0.0 malubana.com
 0.0.0.0 maluns.xyz
 0.0.0.0 malwarehunterteam.bit
 0.0.0.0 mama-piece.com
@@ -39692,6 +39711,7 @@
 0.0.0.0 moldyicicle.com
 0.0.0.0 molen.live
 0.0.0.0 moler.live
+0.0.0.0 molesanu.com
 0.0.0.0 molest.live
 0.0.0.0 molhuegal.live
 0.0.0.0 molics.live
@@ -48899,6 +48919,7 @@
 0.0.0.0 quantum-advertising.com
 0.0.0.0 quantumgraph.com
 0.0.0.0 quantummetric.com
+0.0.0.0 quantummods.eu
 0.0.0.0 quantumpest.com
 0.0.0.0 quarscope.com
 0.0.0.0 quarterbean.com
@@ -52325,6 +52346,7 @@
 0.0.0.0 sebans.xyz
 0.0.0.0 sebaps.live
 0.0.0.0 sebars.live
+0.0.0.0 sebasong.com
 0.0.0.0 sebats.live
 0.0.0.0 sebbeninternational.ml
 0.0.0.0 sebins.live
@@ -52345,6 +52367,7 @@
 0.0.0.0 second-love-love.jp
 0.0.0.0 secondary-with.com
 0.0.0.0 secprovider.xyz
+0.0.0.0 secretcheatz.site
 0.0.0.0 secretivecub.com
 0.0.0.0 secretmindcontrol.com
 0.0.0.0 secretspiders.com
@@ -52682,6 +52705,7 @@
 0.0.0.0 semars.live
 0.0.0.0 semats.live
 0.0.0.0 semillasandree.com
+0.0.0.0 semilupa.com
 0.0.0.0 semimonster.net
 0.0.0.0 semin.live
 0.0.0.0 semins.live
@@ -54445,8 +54469,10 @@
 0.0.0.0 soma-ap-southeast-1.ad.smaato.net
 0.0.0.0 soma-eu-west-1.ad.smaato.net
 0.0.0.0 soma.smaato.net
+0.0.0.0 somalics.com
 0.0.0.0 somans.xyz
 0.0.0.0 somatryui53.com
+0.0.0.0 somawan.com
 0.0.0.0 somberscarecrow.com
 0.0.0.0 sombersea.com
 0.0.0.0 sombersquirrel.com
@@ -57549,6 +57575,7 @@
 0.0.0.0 thelhe.com
 0.0.0.0 thelibraryofcongress.122.2o7.net
 0.0.0.0 thelocalology.com
+0.0.0.0 themagisk.com
 0.0.0.0 themarketiq.com
 0.0.0.0 themecounter.com
 0.0.0.0 themexdeco.net
@@ -58238,6 +58265,7 @@
 0.0.0.0 tokuyama-kaiun.com
 0.0.0.0 tokyo-get-business.jp
 0.0.0.0 tokyo.criteo.com
+0.0.0.0 tokyobag.shop
 0.0.0.0 tokyofunkowildvaley.ru
 0.0.0.0 tokyu-dept.site
 0.0.0.0 tolaks.xyz
@@ -59918,6 +59946,7 @@
 0.0.0.0 tulas.live
 0.0.0.0 tulils.xyz
 0.0.0.0 tulins.xyz
+0.0.0.0 tulip-tulip.net
 0.0.0.0 tulip18.com
 0.0.0.0 tulipsameedge.com
 0.0.0.0 tulons.xyz
@@ -60726,6 +60755,7 @@
 0.0.0.0 urbanvillager.xyz
 0.0.0.0 urc.taboolasyndication.com
 0.0.0.0 urchin-app-4coxx.ondigitalocean.app
+0.0.0.0 urchin-app-h4qjf.ondigitalocean.app
 0.0.0.0 urchin-app-h9zjk.ondigitalocean.app
 0.0.0.0 uretid.life
 0.0.0.0 urj6.iberojet.es
@@ -61178,6 +61208,7 @@
 0.0.0.0 vectaury.io
 0.0.0.0 vectoranalytics.ru
 0.0.0.0 vectrabank.112.2o7.net
+0.0.0.0 vedopixt.com
 0.0.0.0 vedraf.com
 0.0.0.0 vedus.live
 0.0.0.0 vedyg.online
@@ -61502,6 +61533,7 @@
 0.0.0.0 view.adsmanager.ga
 0.0.0.0 view4cash.de
 0.0.0.0 viewbot4lyfe.info
+0.0.0.0 viewmerit.info
 0.0.0.0 viewmypdf.com
 0.0.0.0 viewrandomweb.online
 0.0.0.0 viewstracker.com
@@ -61996,6 +62028,7 @@
 0.0.0.0 vu05.eulerian.net
 0.0.0.0 vu505cluster.com
 0.0.0.0 vuittonu.com
+0.0.0.0 vulidoc.com
 0.0.0.0 vulzul.com
 0.0.0.0 vungle.com
 0.0.0.0 vunol.online
@@ -64720,6 +64753,7 @@
 0.0.0.0 xeneticbiocareers.com
 0.0.0.0 xeniapet.shop
 0.0.0.0 xeonusapp.com
+0.0.0.0 xepilondi.com
 0.0.0.0 xertive.com
 0.0.0.0 xeyaz.biz
 0.0.0.0 xfiley.me
@@ -65095,6 +65129,7 @@
 0.0.0.0 xooseishoh.co.vu
 0.0.0.0 xormarketing.org
 0.0.0.0 xorufolx.com
+0.0.0.0 xoty55.cfd
 0.0.0.0 xovilumium.space
 0.0.0.0 xovq5nemr.com
 0.0.0.0 xozidazatibotiko.ddns.net
@@ -65813,6 +65848,7 @@
 0.0.0.0 zellali.com
 0.0.0.0 zellesupport.info
 0.0.0.0 zemanta.com
+0.0.0.0 zemolist.com
 0.0.0.0 zenadservices.net
 0.0.0.0 zenback.jp
 0.0.0.0 zenbitsolution.com

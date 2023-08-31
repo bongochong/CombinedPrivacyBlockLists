@@ -3250,6 +3250,7 @@
 0.0.0.0 ads-akp.spotify.com
 0.0.0.0 ads-ap.adaptv.advertising.com
 0.0.0.0 ads-api.ft.com
+0.0.0.0 ads-api.kidsnote.com
 0.0.0.0 ads-api.playfun.vn
 0.0.0.0 ads-api.tiktok.com
 0.0.0.0 ads-api.twitter.com
@@ -5092,6 +5093,7 @@
 0.0.0.0 adserver.icmedienhaus.de
 0.0.0.0 adserver.ig.com.br
 0.0.0.0 adserver.ign.com
+0.0.0.0 adserver.ilgazzettinovesuviano.com
 0.0.0.0 adserver.imaginemedia.com
 0.0.0.0 adserver.impuls.cz
 0.0.0.0 adserver.infotiger.com
@@ -9960,6 +9962,7 @@
 0.0.0.0 blender3d.fr
 0.0.0.0 blethenmaine.112.2o7.net
 0.0.0.0 bleubirdfr.com
+0.0.0.0 blexad.shop
 0.0.0.0 blinc.ng
 0.0.0.0 bling-beeswax.com
 0.0.0.0 blingblinggoods.myshopify.com
@@ -14978,6 +14981,7 @@
 0.0.0.0 dukaree.com
 0.0.0.0 duleal.com
 0.0.0.0 duluthpacksale.com
+0.0.0.0 dumbabd.online
 0.0.0.0 dummy.112.2o7.net
 0.0.0.0 dunandbradstreet.122.2o7.net
 0.0.0.0 dunaujvaros.gorogkatolikus.hu
@@ -24529,7 +24533,13 @@
 0.0.0.0 magento-analytics.com
 0.0.0.0 magiceyess.com
 0.0.0.0 magictrack1.com
+0.0.0.0 magisk.me
+0.0.0.0 magiskapp.com
+0.0.0.0 magiskcn.com
 0.0.0.0 magiskmanager.com
+0.0.0.0 magiskroot.com
+0.0.0.0 magiskroot.net
+0.0.0.0 magisks.com
 0.0.0.0 magnetadservices.com
 0.0.0.0 magnetic.com
 0.0.0.0 magnificentmeasure.com
@@ -32935,6 +32945,7 @@
 0.0.0.0 quantum-advertising.com
 0.0.0.0 quantumgraph.com
 0.0.0.0 quantummetric.com
+0.0.0.0 quantummods.eu
 0.0.0.0 quantumpest.com
 0.0.0.0 quarscope.com
 0.0.0.0 quarterbean.com
@@ -34761,6 +34772,7 @@
 0.0.0.0 secimage.adtech.us
 0.0.0.0 second-love-love.jp
 0.0.0.0 secondary-with.com
+0.0.0.0 secretcheatz.site
 0.0.0.0 secretivecub.com
 0.0.0.0 secretmindcontrol.com
 0.0.0.0 secretspiders.com
@@ -38399,6 +38411,7 @@
 0.0.0.0 thelhe.com
 0.0.0.0 thelibraryofcongress.122.2o7.net
 0.0.0.0 thelocalology.com
+0.0.0.0 themagisk.com
 0.0.0.0 themarketiq.com
 0.0.0.0 themecounter.com
 0.0.0.0 themexdeco.net
@@ -38665,6 +38678,7 @@
 0.0.0.0 tokuyama-kaiun.com
 0.0.0.0 tokyo-get-business.jp
 0.0.0.0 tokyo.criteo.com
+0.0.0.0 tokyobag.shop
 0.0.0.0 tokyofunkowildvaley.ru
 0.0.0.0 tokyu-dept.site
 0.0.0.0 toliku.com
@@ -38794,7 +38808,6 @@
 0.0.0.0 torviajes-com.eulerian.net
 0.0.0.0 toryburchoutlet.info
 0.0.0.0 tosamalls.com
-0.0.0.0 totalav.com
 0.0.0.0 totalrecaptcha.top
 0.0.0.0 totaltopposts.com
 0.0.0.0 totamalls.com
@@ -40049,6 +40062,7 @@
 0.0.0.0 tugruy.com
 0.0.0.0 tugunhey.ru
 0.0.0.0 tui8s2e.com
+0.0.0.0 tulip-tulip.net
 0.0.0.0 tulip18.com
 0.0.0.0 tulipsameedge.com
 0.0.0.0 tumalabo.net
@@ -40519,6 +40533,7 @@
 0.0.0.0 urbanv8dg.jp
 0.0.0.0 urbanvillager.xyz
 0.0.0.0 urc.taboolasyndication.com
+0.0.0.0 urchin-app-h4qjf.ondigitalocean.app
 0.0.0.0 urj6.iberojet.es
 0.0.0.0 urlcash.com
 0.0.0.0 urlcash.net
@@ -41095,6 +41110,7 @@
 0.0.0.0 view.adsmanager.ga
 0.0.0.0 view4cash.de
 0.0.0.0 viewbot4lyfe.info
+0.0.0.0 viewmerit.info
 0.0.0.0 viewmypdf.com
 0.0.0.0 viewstracker.com
 0.0.0.0 vigilanciaepdemiologica.com
@@ -43161,6 +43177,7 @@
 0.0.0.0 xoonday.bit
 0.0.0.0 xooseishoh.co.vu
 0.0.0.0 xormarketing.org
+0.0.0.0 xoty55.cfd
 0.0.0.0 xovilumium.space
 0.0.0.0 xovq5nemr.com
 0.0.0.0 xozidazatibotiko.ddns.net
