@@ -84,6 +84,7 @@ archive.org
 ask.com
 aspnetcdn.com
 assets.adobedtm.com
+assets-global.website-files.com
 assets.huluim.com
 assets.minutemediacdn.com
 assets.rbl.ms
@@ -407,6 +408,7 @@ iubenda.com
 jdownloader.org
 jewishquarterly.org
 jquery.com
+js-agent.newrelic.com
 js-sec.indexww.com
 js.maxmind.com
 jsdelivr.net

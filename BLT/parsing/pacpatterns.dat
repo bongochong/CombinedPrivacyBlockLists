@@ -594,6 +594,7 @@
 ^get\.adobe\.com$
 ^gfwsl\.geforce\.com$
 ^glimmer\.hearstapps\.com$
+^assets-global\.website-files\.com$
 ^go\.cnn\.com$
 ^gs\.apple\.com$
 ^gstaticadssl\.l\.google\.com$
@@ -614,6 +615,7 @@
 ^instructorledlearning\.dropboxbusiness\.com$
 ^international\.bittrex\.com$
 ^itunes\.apple\.com$
+^js-agent\.newrelic\.com$
 ^js-sec\.indexww\.com$
 ^js\.maxmind\.com$
 ^la1-c1-ord\.ord\.r\.salesforceliveagent\.com$

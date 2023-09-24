@@ -610,6 +610,7 @@ localhost$
 ^0\.0\.0\.0\sget\.adobe\.com$
 ^0\.0\.0\.0\sgfwsl\.geforce\.com$
 ^0\.0\.0\.0\sglimmer\.hearstapps\.com$
+^0\.0\.0\.0\sassets-global\.website-files\.com$
 ^0\.0\.0\.0\sgo\.cnn\.com$
 ^0\.0\.0\.0\sgs\.apple\.com$
 ^0\.0\.0\.0\sgstaticadssl\.l\.google\.com$
@@ -630,6 +631,7 @@ localhost$
 ^0\.0\.0\.0\sinstructorledlearning\.dropboxbusiness\.com$
 ^0\.0\.0\.0\sinternational\.bittrex\.com$
 ^0\.0\.0\.0\situnes\.apple\.com$
+^0\.0\.0\.0\sjs-agent\.newrelic\.com$
 ^0\.0\.0\.0\sjs-sec\.indexww\.com$
 ^0\.0\.0\.0\sjs\.maxmind\.com$
 ^0\.0\.0\.0\sla1-c1-ord\.ord\.r\.salesforceliveagent\.com$
