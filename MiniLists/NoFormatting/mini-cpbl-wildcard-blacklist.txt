@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 09/24/23~19:59:13 -~
+# ~- 09/24/23~21:23:26 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -34015,6 +34015,7 @@
 *.eu-v20.events.data.microsoft.com
 *.eu.cfcdist.loan
 *.eu.ironmountain.com
+*.eu01.nr-data.net
 *.euadsapi.manhuaren.com
 *.euadw.com
 *.euahvyde.xyz
@@ -38566,7 +38567,6 @@
 *.geoloc.yospace.com
 *.geolocation-sys.com
 *.geolocation.forbes.com
-*.geolocation.onetrust.com
 *.geolocation.outreach.com
 *.geolocation.performgroup.com
 *.geolsoul.life
@@ -61821,7 +61821,6 @@
 *.nqtxg.xyz
 *.nqyuel589fq5.esgrounding.com
 *.nqyz.tw
-*.nr-data.net
 *.nr7.us
 *.nra.locktonaffinity.net
 *.nracigaop.com
@@ -81291,6 +81290,7 @@
 *.stagepopkek.com
 *.staggeredravehospitality.com
 *.staging-go.getsquire.com
+*.staging-insights-collector-origin.nr-data.net
 *.staging-link.docyt.com
 *.staging-links.thriveglobal.com
 *.staging-refer.rooam.co
@@ -90003,6 +90003,10 @@
 *.trehtnoas.com
 *.trekblue.com
 *.trekdata.com
+*.trekkeeee.fun
+*.trekkeeee.space
+*.trekkww.fun
+*.trekkww.space
 *.trekluck.ru
 *.trekmedia.net
 *.trekstereo.com
