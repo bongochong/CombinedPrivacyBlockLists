@@ -1,4 +1,4 @@
-# Sun Sep 10 06:52:53 PM UTC 2023
+# Sun Sep 24 07:29:37 PM UTC 2023
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -547,6 +547,7 @@
 0.0.0.0 adkernel.com
 0.0.0.0 adkmob.com
 0.0.0.0 adktracking-1671721947.eu-west-3.elb.amazonaws.com
+0.0.0.0 adkwai.com
 0.0.0.0 adlanding.admarketplace.net.akadns.net
 0.0.0.0 adlc-exchange.toast.com
 0.0.0.0 adleads.com
@@ -999,6 +1000,7 @@
 0.0.0.0 alexa-mobile-analytics-configuration-prod.s3.amazonaws.com
 0.0.0.0 alexametrics.com
 0.0.0.0 alexandria.marfeelcdn.com
+0.0.0.0 ali-ad.a.yximgs.com
 0.0.0.0 ali-stats.jpush.cn
 0.0.0.0 aliasanvil.com
 0.0.0.0 alikeaddition.com
@@ -3964,6 +3966,7 @@
 0.0.0.0 gd1.mookie1.com
 0.0.0.0 gd2.mookie1.com
 0.0.0.0 gdeslon.ru
+0.0.0.0 gdfp.gifshow.com
 0.0.0.0 gdl.i9dhjx.ru
 0.0.0.0 gdn.bigfishgames.com
 0.0.0.0 gdn.socdm.com
@@ -4308,6 +4311,7 @@
 0.0.0.0 hw-cdn2.adtng.com
 0.0.0.0 hw-cdn2.contentabc.com
 0.0.0.0 hw-cdn2.trafficjunky.net
+0.0.0.0 hw-ot-ad.a.yximgs.com
 0.0.0.0 hwstats.unity3d.com
 0.0.0.0 hybird.rayjump.com
 0.0.0.0 hybrid.ai
@@ -4700,7 +4704,6 @@
 0.0.0.0 jp.cinarra.com
 0.0.0.0 jp1-bid-ga.adsrvr.org
 0.0.0.0 jp1-bid.adsrvr.org
-0.0.0.0 js-agent.newrelic.com
 0.0.0.0 js-cdn.dynatrace.com
 0.0.0.0 js.ad-stir.com
 0.0.0.0 js.adscale.de
@@ -4771,6 +4774,7 @@
 0.0.0.0 krutilka.net
 0.0.0.0 krux2waycm.netmng.com
 0.0.0.0 krxd.net
+0.0.0.0 kskwai.com
 0.0.0.0 kvinit-prod.api.kochava.com
 0.0.0.0 kyson.ad.daum.net
 0.0.0.0 kz.tns-counter.ru
@@ -5112,6 +5116,7 @@
 0.0.0.0 marketgid.com
 0.0.0.0 marketing-ssl.upsight-api.com
 0.0.0.0 marketing.criteo.com
+0.0.0.0 marketing.mangacopy.com
 0.0.0.0 marketingassets.staples.com.edgekey.net
 0.0.0.0 marketingsolutions.yahoo.com
 0.0.0.0 marketingweek.imgix.net
@@ -5765,6 +5770,7 @@
 0.0.0.0 p.teads.tv
 0.0.0.0 p.tvpixel.com
 0.0.0.0 p.webengage.com
+0.0.0.0 p1-lm.adukwai.com
 0.0.0.0 p1.parsely.com
 0.0.0.0 p102-clb.allstarcluster.com
 0.0.0.0 p1cluster.cxense.com
@@ -8286,6 +8292,8 @@
 0.0.0.0 tw.api.vpon.com
 0.0.0.0 tw.c.appier.net
 0.0.0.0 twotreymedia10001697.o18.click
+0.0.0.0 tx-ad.a.yximgs.com
+0.0.0.0 tx-kmpaudio.pull.yximgs.com
 0.0.0.0 txn.ingest.crittercism.com
 0.0.0.0 typicalairplane.com
 0.0.0.0 typicalteeth.com

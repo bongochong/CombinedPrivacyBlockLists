@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 05 Sep 2023 09:15:50 GMT
-# entries:        3723
+# last updated:   Fri, 22 Sep 2023 19:16:51 GMT
+# entries:        3719
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -817,7 +817,6 @@
 127.0.0.1 adsrv2.swidnica24.pl
 127.0.0.1 adsrvr.org
 127.0.0.1 adstacks.in
-127.0.0.1 adstage.io
 127.0.0.1 adstanding.com
 127.0.0.1 adstat.4u.pl
 127.0.0.1 adstest.weather.com
@@ -1106,7 +1105,6 @@
 127.0.0.1 banner.nixnet.cz
 127.0.0.1 banner.noblepoker.com
 127.0.0.1 banner.northsky.com
-127.0.0.1 banner.orb.net
 127.0.0.1 banner.penguin.cz
 127.0.0.1 banner.rbc.ru
 127.0.0.1 banner.reinstil.de
@@ -1333,7 +1331,6 @@
 127.0.0.1 cetrk.com
 127.0.0.1 cgicounter.puretec.de
 127.0.0.1 chairscrack.com
-127.0.0.1 chameleon.ad
 127.0.0.1 channelintelligence.com
 127.0.0.1 chargecracker.com
 127.0.0.1 chart.dk
@@ -2164,7 +2161,6 @@
 127.0.0.1 larati.net
 127.0.0.1 largebrass.com
 127.0.0.1 laughablecopper.com
-127.0.0.1 laughcloth.com
 127.0.0.1 launchbit.com
 127.0.0.1 layer-ad.de
 127.0.0.1 layer-ads.de
@@ -2229,6 +2225,7 @@
 127.0.0.1 linkswaper.com
 127.0.0.1 linksynergy.com
 127.0.0.1 linktarget.com
+127.0.0.1 linkvertise.com
 127.0.0.1 liquidad.narrowcastmedia.com
 127.0.0.1 litix.io
 127.0.0.1 liveadexchanger.com
@@ -2350,7 +2347,6 @@
 127.0.0.1 megapu.sh
 127.0.0.1 megastats.com
 127.0.0.1 megawerbung.de
-127.0.0.1 mellowads.com
 127.0.0.1 meltmilk.com
 127.0.0.1 memorizeneck.com
 127.0.0.1 memorycobweb.com
@@ -3357,7 +3353,6 @@
 127.0.0.1 toplist.pornhost.com
 127.0.0.1 toplista.mw.hu
 127.0.0.1 toplistcity.com
-127.0.0.1 toprebates.com
 127.0.0.1 topsir.com
 127.0.0.1 topsite.lv
 127.0.0.1 topsites.com.br
@@ -3379,6 +3374,7 @@
 127.0.0.1 track.mailerlite.com
 127.0.0.1 track.miro.com
 127.0.0.1 track.nationalgunrights.org
+127.0.0.1 track.privacyatclearbit.com
 127.0.0.1 track.segmetrics.io
 127.0.0.1 track.software-codes.com
 127.0.0.1 track.spe.schoolmessenger.com
@@ -3435,7 +3431,6 @@
 127.0.0.1 tracking22.com
 127.0.0.1 trackingsoft.com
 127.0.0.1 trackmysales.com
-127.0.0.1 trackuhub.com
 127.0.0.1 tradeadexchange.com
 127.0.0.1 tradedoubler.com
 127.0.0.1 traffic-exchange.com
@@ -3653,6 +3648,7 @@
 127.0.0.1 wisepops.com
 127.0.0.1 witch-counter.de
 127.0.0.1 wizaly.com
+127.0.0.1 wl.spotify.com
 127.0.0.1 wlmarketing.com
 127.0.0.1 womanear.com
 127.0.0.1 wonderlandads.com
