@@ -1,4 +1,4 @@
-# Sun Sep 24 07:29:58 PM UTC 2023
+# Sun Sep 24 08:58:58 PM UTC 2023
 # AdGuard Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0--skitch--0.tt.omtrdc.net
 0.0.0.0 0-000.store

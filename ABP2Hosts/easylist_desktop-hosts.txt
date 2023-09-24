@@ -1,4 +1,4 @@
-# Sun Sep 24 07:30:20 PM UTC 2023
+# Sun Sep 24 08:59:20 PM UTC 2023
 # EasyList Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0-000.store
 0.0.0.0 0008d6ba2e.com

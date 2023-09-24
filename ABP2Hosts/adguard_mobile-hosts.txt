@@ -1,4 +1,4 @@
-# Sun Sep 24 07:29:37 PM UTC 2023
+# Sun Sep 24 08:58:36 PM UTC 2023
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -1897,7 +1897,6 @@
 0.0.0.0 balloonbit.com
 0.0.0.0 balloontexture.com
 0.0.0.0 bam.eu01.nr-data.net
-0.0.0.0 bam.nr-data.net
 0.0.0.0 bamtech.sc.omtrdc.net
 0.0.0.0 bamtech.tt.omtrdc.net
 0.0.0.0 bandborder.com
@@ -4001,7 +4000,6 @@
 0.0.0.0 geoip.ifunny.co
 0.0.0.0 geoloc.yospace.com
 0.0.0.0 geolocation.forbes.com
-0.0.0.0 geolocation.onetrust.com
 0.0.0.0 geoplugin.net
 0.0.0.0 geoworker.ayads.co
 0.0.0.0 get.civicscience.com
