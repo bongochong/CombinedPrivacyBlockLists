@@ -454,6 +454,7 @@ localhost$
 ^0\.0\.0\.0\sassets\.rbl\.ms$
 ^0\.0\.0\.0\sassets\.rebelmouse\.io$
 ^0\.0\.0\.0\sassets\.ubuntu\.com$
+^0\.0\.0\.0\sbam\.nr-data\.net$
 ^0\.0\.0\.0\sbi\.medscape\.com$
 ^0\.0\.0\.0\sblocklists\.settings\.services\.mozilla\.com$
 ^0\.0\.0\.0\sboards\.420chan\.org$
@@ -606,6 +607,7 @@ localhost$
 ^0\.0\.0\.0\sgcs\.sc-cdn\.net$
 ^0\.0\.0\.0\sgeo\.ngtv\.io$
 ^0\.0\.0\.0\sgeolocation\.garmin\.com$
+^0\.0\.0\.0\sgeolocation\.onetrust\.com$
 ^0\.0\.0\.0\sget3\.adobe\.com$
 ^0\.0\.0\.0\sget\.adobe\.com$
 ^0\.0\.0\.0\sgfwsl\.geforce\.com$

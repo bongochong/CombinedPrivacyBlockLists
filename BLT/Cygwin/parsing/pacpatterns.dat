@@ -438,6 +438,7 @@
 ^assets\.rbl\.ms$
 ^assets\.rebelmouse\.io$
 ^assets\.ubuntu\.com$
+^bam\.nr-data\.net$
 ^bi\.medscape\.com$
 ^blocklists\.settings\.services\.mozilla\.com$
 ^boards\.420chan\.org$
@@ -590,6 +591,7 @@
 ^gcs\.sc-cdn\.net$
 ^geo\.ngtv\.io$
 ^geolocation\.garmin\.com$
+^geolocation\.onetrust\.com$
 ^get3\.adobe\.com$
 ^get\.adobe\.com$
 ^gfwsl\.geforce\.com$

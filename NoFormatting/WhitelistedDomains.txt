@@ -92,6 +92,7 @@ assets.rebelmouse.io
 assets.ubuntu.com
 audioscrobbler.com
 babbel.com
+bam.nr-data.net
 basicattentiontoken.org
 bbc.com
 beforeitsnews.com
@@ -337,6 +338,7 @@ geo.ngtv.io
 geoip-db.com
 geolocation-db.com
 geolocation.garmin.com
+geolocation.onetrust.com
 gesangsunterricht-hh.de
 get.adobe.com
 get3.adobe.com

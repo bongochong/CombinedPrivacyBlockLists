@@ -571,7 +571,6 @@ uol.com.br##body:style(overflow: visible !important;)
 @@||cdn.segment.com^$script,domain=reuters.com
 @@||dailymotion.com/history/log/user/*$image,~third-party
 @@||exodus.com/support/js/subscribe-popup.js$script,domain=support.exodus.com
-@@||geolocation.onetrust.com^$domain=secure.soundcloud.com
 @@||helpscout.net^$domain=exodus.com
 @@||ingest.sentry.io/api/$xmlhttprequest,domain=tesco.com|tesco.hu
 @@||pwt.soundcloud.com^$domain=secure.soundcloud.com
