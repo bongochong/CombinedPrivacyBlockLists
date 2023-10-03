@@ -1,4 +1,4 @@
-// **** Tue Oct  3 06:43:48 PM UTC 2023
+// **** Tue Oct  3 07:33:31 PM UTC 2023
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.0.le4net00.net") ||
@@ -8783,7 +8783,6 @@ shExpMatch(host, "*.clickmate.io") ||
 shExpMatch(host, "*.clickmenia.com") ||
 shExpMatch(host, "*.clickmeniaads.com") ||
 shExpMatch(host, "*.clickmi.net") ||
-shExpMatch(host, "*.clicknplay.to") ||
 shExpMatch(host, "*.clickonometrics.pl") ||
 shExpMatch(host, "*.clickopon.com") ||
 shExpMatch(host, "*.clickpoint.it") ||
@@ -37496,7 +37495,6 @@ shExpMatch(host, "clickmate.io") ||
 shExpMatch(host, "clickmenia.com") ||
 shExpMatch(host, "clickmeniaads.com") ||
 shExpMatch(host, "clickmi.net") ||
-shExpMatch(host, "clicknplay.to") ||
 shExpMatch(host, "clickonometrics.pl") ||
 shExpMatch(host, "clickopon.com") ||
 shExpMatch(host, "clickpoint.it") ||
