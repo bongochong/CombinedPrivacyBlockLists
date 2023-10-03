@@ -1,4 +1,4 @@
-# Mon Oct  2 11:33:39 PM UTC 2023
+# Tue Oct  3 06:36:20 PM UTC 2023
 # EasyList Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0-000.store
 0.0.0.0 0008d6ba2e.com
@@ -320,6 +320,7 @@
 0.0.0.0 13p76nnir.de
 0.0.0.0 1409674995.rsc.cdn77.org
 0.0.0.0 1431327521.rsc.cdn77.org
+0.0.0.0 1436653548.rsc.cdn77.org
 0.0.0.0 1437953666.rsc.cdn77.org
 0.0.0.0 148dfe140d0f3d5e.com
 0.0.0.0 1493c7cc8b.com
@@ -395,6 +396,7 @@
 0.0.0.0 1909a8.satofull.jp
 0.0.0.0 1917697853.rsc.cdn77.org
 0.0.0.0 19273817.com
+0.0.0.0 1942213827.rsc.cdn77.org
 0.0.0.0 1944696125.rsc.cdn77.org
 0.0.0.0 194ac5b0e3.com
 0.0.0.0 194b7af8c3.com
@@ -799,6 +801,7 @@
 0.0.0.0 345f780221.com
 0.0.0.0 349c3c0859.com
 0.0.0.0 34e224a3bf.com
+0.0.0.0 34jdbsfvdsfvsjdhfvbwdfs.z13.web.core.windows.net
 0.0.0.0 34pavouhj7.com
 0.0.0.0 3565433061881492849.academyofconsciousleadership.com
 0.0.0.0 35722e75b1.com
@@ -1295,6 +1298,7 @@
 0.0.0.0 6db7837ac4.com
 0.0.0.0 6dd4a8313e.com
 0.0.0.0 6e3ee87ff2.com
+0.0.0.0 6f752f73ce.com
 0.0.0.0 6fe24753fb.com
 0.0.0.0 6fxtpu64lxyt.com
 0.0.0.0 6glece4homah8dweracea.com
@@ -8679,6 +8683,7 @@
 0.0.0.0 baj.fanwenzhan.com
 0.0.0.0 bajalato.info
 0.0.0.0 bajracashboy.com
+0.0.0.0 bakatvackzat.com
 0.0.0.0 bakerbrandy.com
 0.0.0.0 bakeronerousfollowing.com
 0.0.0.0 bakongojotted.com
@@ -12939,6 +12944,7 @@
 0.0.0.0 cmp.deondernemer.nl
 0.0.0.0 cmp.dreamlab.pl
 0.0.0.0 cmp.finn.no
+0.0.0.0 cmp.gemius.com
 0.0.0.0 cmp.graziadaily.co.uk
 0.0.0.0 cmp.histoire-et-civilisations.com
 0.0.0.0 cmp.huffingtonpost.fr
@@ -15904,6 +15910,7 @@
 0.0.0.0 datajsext.com
 0.0.0.0 datakitschelm.com
 0.0.0.0 datanoticias.prisasd.com
+0.0.0.0 dataofpages.com
 0.0.0.0 dataprovider.biz
 0.0.0.0 datas.connectingthreads.com
 0.0.0.0 datas.knitpicks.com
@@ -20804,6 +20811,7 @@
 0.0.0.0 fb99ef9239.com
 0.0.0.0 fbbvjxh3fcjqiyk.ru
 0.0.0.0 fbcdn2.com
+0.0.0.0 fbebmgbiou.com
 0.0.0.0 fbfd396918c60838.com
 0.0.0.0 fbffdfproxwqi.com
 0.0.0.0 fbgdc.com
@@ -31093,6 +31101,7 @@
 0.0.0.0 lionporcelain.com
 0.0.0.0 lippedabyssal.com
 0.0.0.0 lipsate.com
+0.0.0.0 liq27qbf.monster
 0.0.0.0 liqenoftcgfqw.com
 0.0.0.0 liqftt.sbs
 0.0.0.0 liquidapprovaltar.com
@@ -31758,6 +31767,7 @@
 0.0.0.0 lsqzxexvphk.com
 0.0.0.0 lstay.com
 0.0.0.0 lsv5.belambra.fr
+0.0.0.0 lsvblpynuezkbf.com
 0.0.0.0 ltaqqgvitq.com
 0.0.0.0 ltassrv.com
 0.0.0.0 ltassrv.com.s3.amazonaws.com
@@ -34325,6 +34335,7 @@
 0.0.0.0 mindamender.com
 0.0.0.0 mindedcarious.com
 0.0.0.0 minderalasselfemployed.com
+0.0.0.0 mindless-fruit.pro
 0.0.0.0 mindless-series.pro
 0.0.0.0 mindlessmark.com
 0.0.0.0 mindtonwore.live
@@ -42723,6 +42734,7 @@
 0.0.0.0 recruiting.dukekunshan.edu.cn
 0.0.0.0 recruitresidebitterness.com
 0.0.0.0 recs.shareaholic.com
+0.0.0.0 rectangular-hook.pro
 0.0.0.0 rectanthenwirit.com
 0.0.0.0 rectificationnervous.com
 0.0.0.0 rectresultofthepla.info
@@ -45819,6 +45831,7 @@
 0.0.0.0 serenecascade.com
 0.0.0.0 seret.live
 0.0.0.0 serev.net
+0.0.0.0 serfdivia.com
 0.0.0.0 sergeantunhealthy.com
 0.0.0.0 sergh34ds.com
 0.0.0.0 serialwarning.com
@@ -61092,6 +61105,7 @@
 0.0.0.0 xkdijkdiefu.com
 0.0.0.0 xkdlqq.com
 0.0.0.0 xkdxygywfm.com
+0.0.0.0 xkfigjh.cn
 0.0.0.0 xkfogxtamlnn.com
 0.0.0.0 xkhall.xyz
 0.0.0.0 xkjnvehk.com

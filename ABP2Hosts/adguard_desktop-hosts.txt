@@ -1,4 +1,4 @@
-# Mon Oct  2 11:33:17 PM UTC 2023
+# Tue Oct  3 06:35:59 PM UTC 2023
 # AdGuard Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0--skitch--0.tt.omtrdc.net
 0.0.0.0 0-000.store
@@ -673,6 +673,7 @@
 0.0.0.0 1409674995.rsc.cdn77.org
 0.0.0.0 1430.ms.tt.omtrdc.net
 0.0.0.0 1431327521.rsc.cdn77.org
+0.0.0.0 1436653548.rsc.cdn77.org
 0.0.0.0 1437953666.rsc.cdn77.org
 0.0.0.0 143pluralsight.hb.tt.omtrdc.net
 0.0.0.0 144-2-0-168.fwd.tt.omtrdc.net
@@ -1016,6 +1017,7 @@
 0.0.0.0 192-em.tt.omtrdc.net
 0.0.0.0 19273817.com
 0.0.0.0 1932467g17.secure0149.tt.omtrdc.net
+0.0.0.0 1942213827.rsc.cdn77.org
 0.0.0.0 1944696125.rsc.cdn77.org
 0.0.0.0 194ac5b0e3.com
 0.0.0.0 194b7af8c3.com
@@ -3793,6 +3795,7 @@
 0.0.0.0 6db7837ac4.com
 0.0.0.0 6dd4a8313e.com
 0.0.0.0 6e3ee87ff2.com
+0.0.0.0 6f752f73ce.com
 0.0.0.0 6fdropbox-2-0.tt.omtrdc.net
 0.0.0.0 6fdropbox13.tt.omtrdc.net
 0.0.0.0 6fe24753fb.com
@@ -17094,6 +17097,7 @@
 0.0.0.0 bajajfinservdirectlimited.hb.tt.omtrdc.net
 0.0.0.0 bajalato.info
 0.0.0.0 bajracashboy.com
+0.0.0.0 bakatvackzat.com
 0.0.0.0 bakerbrandy.com
 0.0.0.0 bakercommunications.actonservice.com
 0.0.0.0 bakeronerousfollowing.com
@@ -18106,6 +18110,7 @@
 0.0.0.0 bestdisplayformats.com
 0.0.0.0 bestdrive.tt.omtrdc.net
 0.0.0.0 beste1.icu
+0.0.0.0 beste3.icu
 0.0.0.0 besteasyclick.com
 0.0.0.0 bestexp1.com
 0.0.0.0 bestgames-2022.com
@@ -34636,6 +34641,7 @@
 0.0.0.0 fbbclk.fastbrainbooster.live
 0.0.0.0 fbcdn2.com
 0.0.0.0 fbdo1-2.tt.omtrdc.net
+0.0.0.0 fbebmgbiou.com
 0.0.0.0 fbfd396918c60838.com
 0.0.0.0 fbffdfproxwqi.com
 0.0.0.0 fbgdc.com
@@ -40410,6 +40416,7 @@
 0.0.0.0 hoydenlooms.website
 0.0.0.0 hoymotornewmedia.hb.tt.omtrdc.net
 0.0.0.0 hozoaxan.com
+0.0.0.0 hpaakmsumarzy.com
 0.0.0.0 hpbrqr.daihatsu.co.jp
 0.0.0.0 hpcfdhvwjwlt.com
 0.0.0.0 hpcwwd.com
@@ -40874,6 +40881,7 @@
 0.0.0.0 hyz86.com
 0.0.0.0 hz.ruptureboogum.com
 0.0.0.0 hz.shouyoutv.com
+0.0.0.0 hz9x6ka2t5gka7wa6c0wp0shmkaw7xj5x8vaydg0aqp6gjat5x.com
 0.0.0.0 hzeetn.natalie.mu
 0.0.0.0 hzhabei.cn
 0.0.0.0 hzhyhm.com
@@ -44611,6 +44619,7 @@
 0.0.0.0 jodhpurrarish.digital
 0.0.0.0 joereisp.xyz
 0.0.0.0 joeschmo1of3.tt.omtrdc.net
+0.0.0.0 jofknbpe.xyz
 0.0.0.0 jogdied.com
 0.0.0.0 jogtestdrive.jeep.com
 0.0.0.0 johamp.com
@@ -48303,6 +48312,7 @@
 0.0.0.0 lsqzxexvphk.com
 0.0.0.0 lst3sc.tt.omtrdc.net
 0.0.0.0 lsv5.belambra.fr
+0.0.0.0 lsvblpynuezkbf.com
 0.0.0.0 lsym9ypfvnppa9uw.sparta.www.members.tt.omtrdc.net
 0.0.0.0 lszgs.tt.omtrdc.net
 0.0.0.0 ltam2.secureforms.mcafee.com
@@ -53125,6 +53135,7 @@
 0.0.0.0 mindamender.com
 0.0.0.0 mindedcarious.com
 0.0.0.0 minderalasselfemployed.com
+0.0.0.0 mindless-fruit.pro
 0.0.0.0 mindless-series.pro
 0.0.0.0 mindlessslogan.com
 0.0.0.0 mindson7.tt.omtrdc.net
@@ -55094,6 +55105,7 @@
 0.0.0.0 neejisee.xyz
 0.0.0.0 neeladou.net
 0.0.0.0 neetoutoo.com
+0.0.0.0 neeujqf.cn
 0.0.0.0 neewhoum.net
 0.0.0.0 neexzbibw.com
 0.0.0.0 neezausu.net
@@ -62054,6 +62066,7 @@
 0.0.0.0 pspperfc.tt.omtrdc.net
 0.0.0.0 pspsso.tt.omtrdc.net
 0.0.0.0 psqsjg.coach.com
+0.0.0.0 psroyx.icu
 0.0.0.0 pssy.xyz
 0.0.0.0 pstat.akathists.com
 0.0.0.0 pstat.goodremotejobs.com
@@ -63776,6 +63789,7 @@
 0.0.0.0 recruitstaffing.tt.omtrdc.net
 0.0.0.0 recruitsuumo.tt.omtrdc.net
 0.0.0.0 recs.atgsvcs.com
+0.0.0.0 rectangular-hook.pro
 0.0.0.0 rectanthenwirit.com
 0.0.0.0 rectificationnervous.com
 0.0.0.0 rectrack.optimum-performance.de
@@ -65148,6 +65162,7 @@
 0.0.0.0 rowsrm.atasunoptik.com.tr
 0.0.0.0 rowthsti.com
 0.0.0.0 roxby.org
+0.0.0.0 roxewwq.cn
 0.0.0.0 roxot-panel.com
 0.0.0.0 roxyaffiliates.com
 0.0.0.0 royalautomobileclubo.tt.omtrdc.net
@@ -67891,6 +67906,7 @@
 0.0.0.0 serconmp.com
 0.0.0.0 serdaive.com
 0.0.0.0 sereanstanza.com
+0.0.0.0 serfdivia.com
 0.0.0.0 sergeantunhealthy.com
 0.0.0.0 serialwarning.com
 0.0.0.0 serie-vostfr.com
@@ -84063,6 +84079,7 @@
 0.0.0.0 ulogs.umengcloud.com
 0.0.0.0 ulojlvmejkaem.xyz
 0.0.0.0 ulourgaz.net
+0.0.0.0 ulrvkee.xyz
 0.0.0.0 ulrzovfukgkljw.com
 0.0.0.0 ulsynmlt.fun
 0.0.0.0 ultimate-ad-eraser.com
@@ -86143,6 +86160,7 @@
 0.0.0.0 vtrodqjicfys.com
 0.0.0.0 vts690-02.tt.omtrdc.net
 0.0.0.0 vttics.world.co.jp
+0.0.0.0 vttqld.xyz
 0.0.0.0 vttyjakvvdce.com
 0.0.0.0 vtveyowwjvz.com
 0.0.0.0 vtvlc.tt.omtrdc.net
@@ -89517,6 +89535,7 @@
 0.0.0.0 xkdijkdiefu.com
 0.0.0.0 xkdlqq.com
 0.0.0.0 xkdxygywfm.com
+0.0.0.0 xkfigjh.cn
 0.0.0.0 xkfogxtamlnn.com
 0.0.0.0 xkhall.xyz
 0.0.0.0 xkidkt.edenbrothers.com
