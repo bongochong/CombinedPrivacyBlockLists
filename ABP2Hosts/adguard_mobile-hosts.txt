@@ -1,4 +1,4 @@
-# Thu Oct 12 02:34:40 AM UTC 2023
+# Sun Oct 22 10:05:25 PM UTC 2023
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -705,6 +705,7 @@
 0.0.0.0 ads.msn.com
 0.0.0.0 ads.nexage.com
 0.0.0.0 ads.nicovideo.jp
+0.0.0.0 ads.oppomobile.com
 0.0.0.0 ads.pdbarea.com
 0.0.0.0 ads.perfectaudience.com
 0.0.0.0 ads.phonepe.com
@@ -2984,6 +2985,7 @@
 0.0.0.0 coverapparatus.com
 0.0.0.0 cowscrayon.com
 0.0.0.0 cox.deliveryengine.adswizz.com
+0.0.0.0 cozyhillside.com
 0.0.0.0 cp.oupeng.com
 0.0.0.0 cp.pushwoosh.com
 0.0.0.0 cpa.adcolony.com
@@ -3019,6 +3021,7 @@
 0.0.0.0 creditcreature.com
 0.0.0.0 cricket.mobileposse.com
 0.0.0.0 crid.bfmio.com
+0.0.0.0 crimsonmeadow.com
 0.0.0.0 crispadvertising.com
 0.0.0.0 criteo-partners.tremorhub.com
 0.0.0.0 criteo-sync.teads.tv
@@ -3037,6 +3040,7 @@
 0.0.0.0 crs-event.line.me
 0.0.0.0 crs-hometab-event.line.me
 0.0.0.0 crwdcntrl.net
+0.0.0.0 crystalboulevard.com
 0.0.0.0 cs.admanmedia.com
 0.0.0.0 cs.emxdgt.com
 0.0.0.0 cs.lkqd.net
@@ -3247,6 +3251,7 @@
 0.0.0.0 defectivesun.com
 0.0.0.0 defiantrice.com
 0.0.0.0 delegatediscussion.com
+0.0.0.0 delicatecascade.com
 0.0.0.0 delicateducks.com
 0.0.0.0 delightfulhour.com
 0.0.0.0 delivery-cdn-cf.adswizz.com
@@ -3655,6 +3660,7 @@
 0.0.0.0 event.spotxchange.com
 0.0.0.0 event.togothermany.com
 0.0.0.0 eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com
+0.0.0.0 eventexistence.com
 0.0.0.0 eventgw.twilio.com
 0.0.0.0 eventlog.outbrain.com
 0.0.0.0 events-api.otherlevels.com
@@ -4764,6 +4770,7 @@
 0.0.0.0 jssdkcdn.mparticle.com
 0.0.0.0 jssdkcdns.mparticle.com
 0.0.0.0 jssdks.mparticle.com
+0.0.0.0 jubilantcanyon.com
 0.0.0.0 juiceadv.com
 0.0.0.0 justad.mobi
 0.0.0.0 justicejudo.com
@@ -6272,6 +6279,7 @@
 0.0.0.0 pub2srv.com
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 pubgenius.io
+0.0.0.0 pubimgs.com
 0.0.0.0 public-webservice.apdc1n.adpushup.com
 0.0.0.0 public-webservice.apdc3n.adpushup.com
 0.0.0.0 public-webservice.geo.adpushup.com
@@ -6790,6 +6798,7 @@
 0.0.0.0 scaredsidewalk.com
 0.0.0.0 scaredsnake.com
 0.0.0.0 scaredsnakes.com
+0.0.0.0 scaredsong.com
 0.0.0.0 scaredstory.com
 0.0.0.0 scaredswing.com
 0.0.0.0 scarf.ensighten.com
@@ -7292,6 +7301,7 @@
 0.0.0.0 sociomantic.com
 0.0.0.0 sofia.trustx.org
 0.0.0.0 soggysponge.com
+0.0.0.0 solarislabyrinth.com
 0.0.0.0 solocpm.com
 0.0.0.0 solutions.invocacdn.com
 0.0.0.0 soma-assets.smaato.net
@@ -7731,6 +7741,7 @@
 0.0.0.0 survey.wootric.com
 0.0.0.0 surveygizmobeacon.s3.amazonaws.com
 0.0.0.0 surveys.insightexpressai.com
+0.0.0.0 suspectmark.com
 0.0.0.0 suspendseed.com
 0.0.0.0 svastx.moatads.com
 0.0.0.0 sw88.abc.com
@@ -8809,7 +8820,9 @@
 0.0.0.0 whirlwealth.com
 0.0.0.0 whiskyqueue.com
 0.0.0.0 whisperingbadge.com
+0.0.0.0 whisperingcascade.com
 0.0.0.0 whisperingcrib.com
+0.0.0.0 whisperingsummit.com
 0.0.0.0 whispermeeting.com
 0.0.0.0 whitelabel.media.net
 0.0.0.0 who.nie.easebar.com

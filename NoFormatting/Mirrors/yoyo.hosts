@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 11 Oct 2023 16:08:49 GMT
-# entries:        3724
+# last updated:   Fri, 20 Oct 2023 22:48:29 GMT
+# entries:        3727
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -17,6 +17,7 @@
 127.0.0.1 101order.com
 127.0.0.1 180hits.de
 127.0.0.1 180searchassistant.com
+127.0.0.1 1link2020.com
 127.0.0.1 1rx.io
 127.0.0.1 207.net
 127.0.0.1 247media.com
@@ -215,6 +216,7 @@
 127.0.0.1 adcenter.net
 127.0.0.1 adclick.com
 127.0.0.1 adclient1.tucows.com
+127.0.0.1 adclixx.net
 127.0.0.1 adcolony.com
 127.0.0.1 adcomplete.com
 127.0.0.1 adconion.com
@@ -315,6 +317,7 @@
 127.0.0.1 adnet.biz
 127.0.0.1 adnet.de
 127.0.0.1 adnet.ru
+127.0.0.1 adnetasia.com
 127.0.0.1 adnetwork.net
 127.0.0.1 adnetworkperformance.com
 127.0.0.1 adnews.maddog2000.de
@@ -539,7 +542,6 @@
 127.0.0.1 ads.mvscoelho.com
 127.0.0.1 ads.myadv.org
 127.0.0.1 ads.nccwebs.com
-127.0.0.1 ads.ndtv1.com
 127.0.0.1 ads.networksolutions.com
 127.0.0.1 ads.newgrounds.com
 127.0.0.1 ads.newmedia.cz
@@ -1181,7 +1183,6 @@
 127.0.0.1 bespoke.iln8.net
 127.0.0.1 bestboundary.com
 127.0.0.1 bestbuy.7tiv.net
-127.0.0.1 bestsearch.net
 127.0.0.1 bewilderedblade.com
 127.0.0.1 bfmio.com
 127.0.0.1 bhcumsc.com
@@ -1198,7 +1199,6 @@
 127.0.0.1 bigclicks.com
 127.0.0.1 bigreal.org
 127.0.0.1 billboard.cz
-127.0.0.1 biosda.com
 127.0.0.1 bitmedianetwork.com
 127.0.0.1 bizible.com
 127.0.0.1 bizographics.com
@@ -1322,6 +1322,7 @@
 127.0.0.1 cdn.scarabresearch.com
 127.0.0.1 cdn.segment.com
 127.0.0.1 cdnondemand.org
+127.0.0.1 ceciliavenus.com
 127.0.0.1 cedato.com
 127.0.0.1 celtra.com
 127.0.0.1 centerpointmedia.com
@@ -1525,6 +1526,7 @@
 127.0.0.1 crazyegg.com
 127.0.0.1 crazypopups.com
 127.0.0.1 creatives.livejasmin.com
+127.0.0.1 crimsonmeadow.com
 127.0.0.1 criteo.com
 127.0.0.1 criteo.net
 127.0.0.1 critictruck.com
@@ -1535,6 +1537,7 @@
 127.0.0.1 crtv.mate1.com
 127.0.0.1 crwdcntrl.net
 127.0.0.1 crypto-loot.org
+127.0.0.1 crystalboulevard.com
 127.0.0.1 cs.co
 127.0.0.1 ctnetwork.hu
 127.0.0.1 culturedcrayon.com
@@ -1569,6 +1572,7 @@
 127.0.0.1 dashingsweater.com
 127.0.0.1 data.namesakeoscilloscopemarquis.com
 127.0.0.1 data8a8altrk.com
+127.0.0.1 daughterstone.com
 127.0.0.1 dbbsrv.com
 127.0.0.1 dc-storm.com
 127.0.0.1 de17a.com
@@ -1767,7 +1771,6 @@
 127.0.0.1 extremetracking.com
 127.0.0.1 eyeblaster.com
 127.0.0.1 eyeota.net
-127.0.0.1 eyereturn.com
 127.0.0.1 eyeviewads.com
 127.0.0.1 eyewonder.com
 127.0.0.1 ezula.com
@@ -2506,6 +2509,8 @@
 127.0.0.1 novem.pl
 127.0.0.1 npttech.com
 127.0.0.1 nr-data.net
+127.0.0.1 nr.mmcdn.com
+127.0.0.1 nr.static.mmcdn.com
 127.0.0.1 ns1p.net
 127.0.0.1 ntv.io
 127.0.0.1 ntvk1.ru
@@ -3190,6 +3195,7 @@
 127.0.0.1 stickssheep.com
 127.0.0.1 stickyadstv.com
 127.0.0.1 stiffgame.com
+127.0.0.1 stimulatingsneeze.com
 127.0.0.1 stomachscience.com
 127.0.0.1 storesurprise.com
 127.0.0.1 storetail.io
@@ -3343,6 +3349,7 @@
 127.0.0.1 toecircle.com
 127.0.0.1 toothbrushnote.com
 127.0.0.1 top-casting-termine.de
+127.0.0.1 top-site-list.com
 127.0.0.1 top.list.ru
 127.0.0.1 top.mail.ru
 127.0.0.1 top100-images.rambler.ru
@@ -3355,7 +3362,6 @@
 127.0.0.1 toplist.pornhost.com
 127.0.0.1 toplista.mw.hu
 127.0.0.1 toplistcity.com
-127.0.0.1 toprebates.com
 127.0.0.1 topsir.com
 127.0.0.1 topsite.lv
 127.0.0.1 topsites.com.br
@@ -3404,8 +3410,6 @@
 127.0.0.1 tracking.39-bb4a9-osm.co.uk
 127.0.0.1 tracking.42-01pr5-osm-secure.co.uk
 127.0.0.1 tracking.5-47737-bi.co.uk
-127.0.0.1 tracking.baypacketaddressepisode.makeup
-127.0.0.1 tracking.concedehousingstrainnotice.hair
 127.0.0.1 tracking.emilyclarkconsulting.com
 127.0.0.1 tracking.epicgames.com
 127.0.0.1 tracking.exipure.com
@@ -3417,23 +3421,21 @@
 127.0.0.1 tracking.jiffyworld.com
 127.0.0.1 tracking.markethero.io
 127.0.0.1 tracking.miui.com
-127.0.0.1 tracking.namerealopendrawflesh.makeup
 127.0.0.1 tracking.netalerts.io
 127.0.0.1 tracking.olx-st.com
 127.0.0.1 tracking.orixa-media.com
 127.0.0.1 tracking.pastapplauddeterseminarproof.makeup
-127.0.0.1 tracking.playerobjectwordingbasinbank.makeup
 127.0.0.1 tracking.shopstyle.com
 127.0.0.1 tracking.theoceanac.online
 127.0.0.1 tracking.thinkabt.com
 127.0.0.1 tracking.utlservice.com
-127.0.0.1 tracking.vagueunlikecowerscreamforbid.hair
 127.0.0.1 tracking.wetter.at
 127.0.0.1 tracking01.walmart.com
 127.0.0.1 tracking101.com
 127.0.0.1 tracking22.com
 127.0.0.1 trackingsoft.com
 127.0.0.1 trackmysales.com
+127.0.0.1 trackuhub.com
 127.0.0.1 tradeadexchange.com
 127.0.0.1 tradedoubler.com
 127.0.0.1 traffic-exchange.com
@@ -3455,6 +3457,7 @@
 127.0.0.1 trafic.ro
 127.0.0.1 traildelsfars.com
 127.0.0.1 traktrafficflow.com
+127.0.0.1 tranquilcanyon.com
 127.0.0.1 tranquilside.com
 127.0.0.1 travis.bosscasinos.com
 127.0.0.1 traytouch.com
