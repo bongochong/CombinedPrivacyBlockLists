@@ -1,4 +1,4 @@
-# Sun Oct 22 10:06:27 PM UTC 2023
+# Mon Oct 23 03:16:03 AM UTC 2023
 # AdGuard DNS Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
@@ -11747,6 +11747,7 @@
 0.0.0.0 cfxkluv.cn
 0.0.0.0 cgbaybqywso.com
 0.0.0.0 cgbmjsasm.xyz
+0.0.0.0 cgbswl.icu
 0.0.0.0 cgeckmydirect.biz
 0.0.0.0 cgicol.amap.com
 0.0.0.0 cgicounter.oneandone.co.uk
@@ -16394,6 +16395,7 @@
 0.0.0.0 dfhajyevxmposa.xyz
 0.0.0.0 dfiqvf0syzl54.cloudfront.net
 0.0.0.0 dfjd.xyz
+0.0.0.0 dfjlgfb4lxka5.cloudfront.net
 0.0.0.0 dfkd.xyz
 0.0.0.0 dflow.log.hunantv.com
 0.0.0.0 dfncojkle.xyz
@@ -16477,6 +16479,7 @@
 0.0.0.0 dianomi.com
 0.0.0.0 dianomioffers.co.uk
 0.0.0.0 diantcummiere.com
+0.0.0.0 diaocaixiaq.cn
 0.0.0.0 diaperhumanpurify.com
 0.0.0.0 diaperrealter.com
 0.0.0.0 diapirsblanker.com
@@ -24552,6 +24555,7 @@
 0.0.0.0 hkjjfpkghxec.xyz
 0.0.0.0 hkkeafj.cn
 0.0.0.0 hkoxlirf.com
+0.0.0.0 hkrytf.xyz
 0.0.0.0 hkscldggm.xyz
 0.0.0.0 hksmstpzsnlj.com
 0.0.0.0 hktracker.hankookilbo.com
@@ -25454,6 +25458,7 @@
 0.0.0.0 ifinaukncecaf.xyz
 0.0.0.0 ifknittedhurtful.com
 0.0.0.0 ifnime.ru
+0.0.0.0 ifntizihsffqi.com
 0.0.0.0 ifpartyingpile.com
 0.0.0.0 ifplumhggkz.com
 0.0.0.0 iframepay.com
@@ -27372,6 +27377,7 @@
 0.0.0.0 jndxsuy.xyz
 0.0.0.0 jnhdmksj.top
 0.0.0.0 jnhgm.com
+0.0.0.0 jnkmhn.com
 0.0.0.0 jnkmwr.xyz
 0.0.0.0 jnmaeun.xyz
 0.0.0.0 jnp0kmm.icu
@@ -34666,6 +34672,7 @@
 0.0.0.0 ntiaxofk.xyz
 0.0.0.0 ntjmnyzwkpb.com
 0.0.0.0 ntlab.org
+0.0.0.0 ntmastsault.info
 0.0.0.0 ntmatchwithy.info
 0.0.0.0 ntmemns.com
 0.0.0.0 ntoftheusysia.info
@@ -34827,6 +34834,7 @@
 0.0.0.0 nyetm2mkch.com
 0.0.0.0 nyfoknamlrqxc.com
 0.0.0.0 nygwcwsvnu.com
+0.0.0.0 nyhgvn.xyz
 0.0.0.0 nyhrgss.com
 0.0.0.0 nyltx.com
 0.0.0.0 nymauteyfa.info
@@ -35491,6 +35499,7 @@
 0.0.0.0 omoonsih.net
 0.0.0.0 omopeemt.net
 0.0.0.0 omotorax.ru
+0.0.0.0 omouswoma.info
 0.0.0.0 omphantumpom.com
 0.0.0.0 ompoppxulki.com
 0.0.0.0 omsawkan.com
@@ -36085,6 +36094,7 @@
 0.0.0.0 otherwiseassurednessloaf.com
 0.0.0.0 otherwiseparticipate.com
 0.0.0.0 otheyrami.xyz
+0.0.0.0 othiijwtgcmjmj.com
 0.0.0.0 othoj.xyz
 0.0.0.0 othonnabusaos.com
 0.0.0.0 otiatryenfeoff.live
@@ -37620,6 +37630,7 @@
 0.0.0.0 picturecorrespond.com
 0.0.0.0 pictures.zooplus.com
 0.0.0.0 pidorg.ru
+0.0.0.0 pidurrmu.xyz
 0.0.0.0 pieproficientcurve.com
 0.0.0.0 pierchestnut.com
 0.0.0.0 pierisrapgae.com
@@ -39519,6 +39530,7 @@
 0.0.0.0 pulserviral.com
 0.0.0.0 pumaskorrea.com.se
 0.0.0.0 pumdfferpkin5hs454r43eeds.com
+0.0.0.0 pumjkngivq.com
 0.0.0.0 pumpaiss.net
 0.0.0.0 pumpbead.com
 0.0.0.0 pumpedpancake.com
@@ -55150,6 +55162,7 @@
 0.0.0.0 xkyphardw.com
 0.0.0.0 xl-trk.com
 0.0.0.0 xlardaxq.com
+0.0.0.0 xlarixmmdvr.xyz
 0.0.0.0 xlcceiswfsntpp.xyz
 0.0.0.0 xlfrhhp.com
 0.0.0.0 xlgqy.com
@@ -56016,6 +56029,7 @@
 0.0.0.0 yu0123456.com
 0.0.0.0 yu987.com
 0.0.0.0 yuanmengbi.com
+0.0.0.0 yuanxiaa.cn
 0.0.0.0 yuanxiab.cn
 0.0.0.0 yuanxiang19.fun
 0.0.0.0 yuebog.xyz
@@ -56521,6 +56535,7 @@
 0.0.0.0 ziyu.net
 0.0.0.0 zizoxozoox.com
 0.0.0.0 zjai.xyz
+0.0.0.0 zjdruhn.xyz
 0.0.0.0 zjgfq.com
 0.0.0.0 zjliloveyou.ixiunv.com
 0.0.0.0 zjmmkjayjjazy.top

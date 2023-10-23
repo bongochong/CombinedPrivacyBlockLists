@@ -1,4 +1,4 @@
-# Sun Oct 22 10:05:52 PM UTC 2023
+# Mon Oct 23 03:15:30 AM UTC 2023
 # AdGuard Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0--skitch--0.tt.omtrdc.net
 0.0.0.0 0-000.store
@@ -21859,6 +21859,7 @@
 0.0.0.0 cg06.tt.omtrdc.net
 0.0.0.0 cgbaybqywso.com
 0.0.0.0 cgbmjsasm.xyz
+0.0.0.0 cgbswl.icu
 0.0.0.0 cgeckmydirect.biz
 0.0.0.0 cgicol.amap.com
 0.0.0.0 cglrsebnjptukjx.xyz
@@ -30158,6 +30159,7 @@
 0.0.0.0 dianomioffers.co.uk
 0.0.0.0 diansano.tt.omtrdc.net
 0.0.0.0 diantcummiere.com
+0.0.0.0 diaocaixiaq.cn
 0.0.0.0 diaperhumanpurify.com
 0.0.0.0 diaperrealter.com
 0.0.0.0 diapirsblanker.com
@@ -40681,6 +40683,7 @@
 0.0.0.0 hkkeafj.cn
 0.0.0.0 hkoxlirf.com
 0.0.0.0 hkpbt01.tt.omtrdc.net
+0.0.0.0 hkrytf.xyz
 0.0.0.0 hkscldggm.xyz
 0.0.0.0 hksmstpzsnlj.com
 0.0.0.0 hktb.tt.omtrdc.net
@@ -45247,6 +45250,7 @@
 0.0.0.0 jndxsuy.xyz
 0.0.0.0 jnhdmksj.top
 0.0.0.0 jnhgm.com
+0.0.0.0 jnkmhn.com
 0.0.0.0 jnkmwr.xyz
 0.0.0.0 jnkqnf.cifraclub.com.br
 0.0.0.0 jnmaeun.xyz
@@ -57176,6 +57180,7 @@
 0.0.0.0 nyfoknamlrqxc.com
 0.0.0.0 nygwcwsvnu.com
 0.0.0.0 nyhed.danskespil.dk
+0.0.0.0 nyhgvn.xyz
 0.0.0.0 nyhrgss.com
 0.0.0.0 nym5c.bonlook.com
 0.0.0.0 nym5c.laura.ca
@@ -61126,6 +61131,7 @@
 0.0.0.0 pictetasset.tt.omtrdc.net
 0.0.0.0 picturecorrespond.com
 0.0.0.0 piddme.buyma.com
+0.0.0.0 pidurrmu.xyz
 0.0.0.0 pieproficientcurve.com
 0.0.0.0 pierchestnut.com
 0.0.0.0 pierisrapgae.com
@@ -92117,6 +92123,7 @@
 0.0.0.0 yu.dlxxjsh.top
 0.0.0.0 yu0123456.com
 0.0.0.0 yuanmengbi.com
+0.0.0.0 yuanxiaa.cn
 0.0.0.0 yuanxiab.cn
 0.0.0.0 yuanxiang19.fun
 0.0.0.0 yuebog.xyz
@@ -92658,6 +92665,7 @@
 0.0.0.0 ziypmdyydl.251foxnews.hb.tt.omtrdc.net
 0.0.0.0 zizoxozoox.com
 0.0.0.0 zjai.xyz
+0.0.0.0 zjdruhn.xyz
 0.0.0.0 zjkvnaervz.aem.hb.tt.omtrdc.net
 0.0.0.0 zjliloveyou.ixiunv.com
 0.0.0.0 zjmmkjayjjazy.top
