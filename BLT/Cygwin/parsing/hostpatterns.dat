@@ -374,6 +374,7 @@ localhost$
 ^0\.0\.0\.0\s(www\.)?uservoice\.com$
 ^0\.0\.0\.0\s(www\.)?usps\.com$
 ^0\.0\.0\.0\s(www\.)?vidible\.tv$
+^0\.0\.0\.0\s(www\.)?vimeo\.com$
 ^0\.0\.0\.0\s(www\.)?virtualearth\.net$
 ^0\.0\.0\.0\s(www\.)?void\.gr$
 ^0\.0\.0\.0\s(www\.)?weather\.com$
