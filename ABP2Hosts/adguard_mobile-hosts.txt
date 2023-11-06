@@ -1,4 +1,4 @@
-# Mon Oct 23 03:15:08 AM UTC 2023
+# Mon Nov  6 01:45:22 AM UTC 2023
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -438,6 +438,7 @@
 0.0.0.0 ad.lionmobi.com
 0.0.0.0 ad.lkqd.net
 0.0.0.0 ad.mail.ru
+0.0.0.0 ad.mediamixer.co.kr
 0.0.0.0 ad.mobiuspace.net
 0.0.0.0 ad.monetate.net
 0.0.0.0 ad.mrtnsvr.com
@@ -522,6 +523,7 @@
 0.0.0.0 adfiles.auditude.com
 0.0.0.0 adflake.com
 0.0.0.0 adforgames.com
+0.0.0.0 adfork.co.kr
 0.0.0.0 adform.com
 0.0.0.0 adform.net
 0.0.0.0 adformdsp.net
@@ -637,6 +639,7 @@
 0.0.0.0 ads-resources.waze.com
 0.0.0.0 ads-router-noneu.truecaller.com
 0.0.0.0 ads-sdk.mattel163.com
+0.0.0.0 ads-sdk.nianticlabs.com
 0.0.0.0 ads-secure.videohub.tv
 0.0.0.0 ads-server.mxplay.com
 0.0.0.0 ads-static.phonepe.com
@@ -2582,6 +2585,7 @@
 0.0.0.0 cds.connatix.com
 0.0.0.0 cds.taboola.com
 0.0.0.0 ce.lijit.com
+0.0.0.0 ceciliavenus.com
 0.0.0.0 cedexis-radar.net
 0.0.0.0 cedexis.com
 0.0.0.0 ceg.g5e.com
@@ -3204,6 +3208,7 @@
 0.0.0.0 dataxu.com
 0.0.0.0 datplus.springserve.com
 0.0.0.0 dau.fyber.com
+0.0.0.0 daughterstone.com
 0.0.0.0 daviik.iad-03.braze.com
 0.0.0.0 daxuetong.zone
 0.0.0.0 dazzlingbook.com
@@ -4256,6 +4261,7 @@
 0.0.0.0 hbsdk-event.log.smaato.net
 0.0.0.0 hbx.media.net
 0.0.0.0 hd.mmstat.com
+0.0.0.0 headydegree.com
 0.0.0.0 headyhook.com
 0.0.0.0 healflowers.com
 0.0.0.0 hearinglizards.com
@@ -7657,6 +7663,7 @@
 0.0.0.0 stickysheet.com
 0.0.0.0 stiffgame.com
 0.0.0.0 stiffstem.com
+0.0.0.0 stimulatingsneeze.com
 0.0.0.0 stinger-ad.bidr.io
 0.0.0.0 stingsquirrel.com
 0.0.0.0 stingycrush.com
@@ -8482,6 +8489,7 @@
 0.0.0.0 us-central.load.exelator.com
 0.0.0.0 us-central1-adaptive-growth.cloudfunctions.net
 0.0.0.0 us-east-1.event.prod.bidr.io
+0.0.0.0 us-east-1.paa-reporting-advertising.amazon
 0.0.0.0 us-east-1.prod.pr.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.stinger-ad.bidr.io
 0.0.0.0 us-east-1.world.rw.yieldmo.com
@@ -8658,6 +8666,7 @@
 0.0.0.0 vi-serve.com
 0.0.0.0 via.batch.com
 0.0.0.0 viacom.sc.omtrdc.net
+0.0.0.0 vibranthaven.com
 0.0.0.0 victoriousrequest.com
 0.0.0.0 vid-io-iad.springserve.com
 0.0.0.0 vid-io-sin.springserve.com

@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 20 Oct 2023 22:48:29 GMT
-# entries:        3727
+# last updated:   Sun, 05 Nov 2023 02:35:40 GMT
+# entries:        3721
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -542,6 +542,7 @@
 127.0.0.1 ads.mvscoelho.com
 127.0.0.1 ads.myadv.org
 127.0.0.1 ads.nccwebs.com
+127.0.0.1 ads.ndtv1.com
 127.0.0.1 ads.networksolutions.com
 127.0.0.1 ads.newgrounds.com
 127.0.0.1 ads.newmedia.cz
@@ -581,7 +582,6 @@
 127.0.0.1 ads.prisacom.com
 127.0.0.1 ads.program3.com
 127.0.0.1 ads.psd2html.com
-127.0.0.1 ads.pushplay.com
 127.0.0.1 ads.quasaraffiliates.com
 127.0.0.1 ads.quoka.de
 127.0.0.1 ads.radialserver.com
@@ -781,7 +781,6 @@
 127.0.0.1 adservice.google.com.mt
 127.0.0.1 adserving.unibet.com
 127.0.0.1 adservingfront.com
-127.0.0.1 adservio.tech
 127.0.0.1 adservrs.com
 127.0.0.1 adservrs.com.edgekey.net
 127.0.0.1 adsfac.eu
@@ -1022,6 +1021,7 @@
 127.0.0.1 app-measurement.com
 127.0.0.1 app.pendo.io
 127.0.0.1 appboycdn.com
+127.0.0.1 appmetrica.yandex.ru
 127.0.0.1 appsflyer.com
 127.0.0.1 aps.hearstnp.com
 127.0.0.1 apsalar.com
@@ -1208,7 +1208,6 @@
 127.0.0.1 blingbucks.com
 127.0.0.1 blis.com
 127.0.0.1 blockadblock.com
-127.0.0.1 blockthrough.com
 127.0.0.1 blogads.com
 127.0.0.1 blogcounter.de
 127.0.0.1 blogherads.com
@@ -1225,7 +1224,6 @@
 127.0.0.1 blushingbread.com
 127.0.0.1 bm.annonce.cz
 127.0.0.1 bn.bfast.com
-127.0.0.1 bnnrrv.qontentum.de
 127.0.0.1 bnrs.ilm.ee
 127.0.0.1 boffoadsapi.com
 127.0.0.1 boilingbeetle.com
@@ -1453,7 +1451,6 @@
 127.0.0.1 collector.cdp.cnn.com
 127.0.0.1 colonize.com
 127.0.0.1 comfortablecheese.com
-127.0.0.1 commindo-media-ressourcen.de
 127.0.0.1 commissionmonster.com
 127.0.0.1 commonswing.com
 127.0.0.1 communications.melitaltd.com
@@ -1545,7 +1542,6 @@
 127.0.0.1 curtaincows.com
 127.0.0.1 curvedsquirrel.com
 127.0.0.1 cushiondrum.com
-127.0.0.1 custom.plausible.io
 127.0.0.1 customad.cnn.com
 127.0.0.1 customads.co
 127.0.0.1 customers.kameleoon.com
@@ -1995,7 +1991,6 @@
 127.0.0.1 honorableland.com
 127.0.0.1 hostedads.realitykings.com
 127.0.0.1 hotjar.com
-127.0.0.1 hotkeys.com
 127.0.0.1 hotlog.ru
 127.0.0.1 hotrank.com.tw
 127.0.0.1 hoverowl.com
@@ -2224,7 +2219,6 @@
 127.0.0.1 links-ranking.de
 127.0.0.1 links.email.crunchbase.com
 127.0.0.1 links.zoopla.co.uk
-127.0.0.1 linkshighway.com
 127.0.0.1 linkstorms.com
 127.0.0.1 linkswaper.com
 127.0.0.1 linksynergy.com
@@ -2471,6 +2465,7 @@
 127.0.0.1 needyneedle.com
 127.0.0.1 neighborlywatch.com
 127.0.0.1 nend.net
+127.0.0.1 neocounter.neoworx-blog-tools.net
 127.0.0.1 nervoussummer.com
 127.0.0.1 net-filter.com
 127.0.0.1 netaffiliation.com
@@ -2514,6 +2509,7 @@
 127.0.0.1 ns1p.net
 127.0.0.1 ntv.io
 127.0.0.1 ntvk1.ru
+127.0.0.1 nullitics.com
 127.0.0.1 nuseek.com
 127.0.0.1 nuttyorganization.com
 127.0.0.1 nzaza.com
@@ -3424,7 +3420,6 @@
 127.0.0.1 tracking.netalerts.io
 127.0.0.1 tracking.olx-st.com
 127.0.0.1 tracking.orixa-media.com
-127.0.0.1 tracking.pastapplauddeterseminarproof.makeup
 127.0.0.1 tracking.shopstyle.com
 127.0.0.1 tracking.theoceanac.online
 127.0.0.1 tracking.thinkabt.com
@@ -3518,7 +3513,6 @@
 127.0.0.1 understoodocean.com
 127.0.0.1 undertone.com
 127.0.0.1 unknowntray.com
-127.0.0.1 unless.com
 127.0.0.1 unrulymedia.com
 127.0.0.1 untd.com
 127.0.0.1 untidyquestion.com
