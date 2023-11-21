@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 05 Nov 2023 02:35:40 GMT
-# entries:        3721
+# last updated:   Mon, 20 Nov 2023 21:06:23 GMT
+# entries:        3718
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -12,7 +12,6 @@
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
 # start date:    Fri, 06 Jun 2003 00:00:00
-127.0.0.1 1-1ads.com
 127.0.0.1 101com.com
 127.0.0.1 101order.com
 127.0.0.1 180hits.de
@@ -22,7 +21,6 @@
 127.0.0.1 207.net
 127.0.0.1 247media.com
 127.0.0.1 24log.com
-127.0.0.1 24log.de
 127.0.0.1 24pm-affiliation.com
 127.0.0.1 2mdn.net
 127.0.0.1 2o7.net
@@ -98,7 +96,6 @@
 127.0.0.1 ad-balancer.net
 127.0.0.1 ad-cupid.com
 127.0.0.1 ad-delivery.net
-127.0.0.1 ad-pay.de
 127.0.0.1 ad-rotator.com
 127.0.0.1 ad-score.com
 127.0.0.1 ad-server.gulasidorna.se
@@ -672,7 +669,6 @@
 127.0.0.1 ads10.speedbit.com
 127.0.0.1 ads180.com
 127.0.0.1 ads2.brazzers.com
-127.0.0.1 ads2.clearchannel.com
 127.0.0.1 ads2.contentabc.com
 127.0.0.1 ads2.femmefab.nl
 127.0.0.1 ads2.gamecity.net
@@ -927,6 +923,7 @@
 127.0.0.1 affiliatetracking.com
 127.0.0.1 affiliatetracking.net
 127.0.0.1 affiliatewindow.com
+127.0.0.1 affiliation-france.com
 127.0.0.1 afftracking.justanswer.com
 127.0.0.1 afraidlanguage.com
 127.0.0.1 agkn.com
@@ -1072,7 +1069,6 @@
 127.0.0.1 avocet.io
 127.0.0.1 awakebird.com
 127.0.0.1 awempire.com
-127.0.0.1 awesomeagreement.com
 127.0.0.1 awin1.com
 127.0.0.1 awstrack.me
 127.0.0.1 awzbijw.com
@@ -1431,7 +1427,6 @@
 127.0.0.1 cloisteredcord.com
 127.0.0.1 cloisteredhydrant.com
 127.0.0.1 closedcows.com
-127.0.0.1 cloudcoins.biz
 127.0.0.1 cloudflareinsights.com
 127.0.0.1 cloudiq.com
 127.0.0.1 clrstm.com
@@ -1569,7 +1564,6 @@
 127.0.0.1 data.namesakeoscilloscopemarquis.com
 127.0.0.1 data8a8altrk.com
 127.0.0.1 daughterstone.com
-127.0.0.1 dbbsrv.com
 127.0.0.1 dc-storm.com
 127.0.0.1 de17a.com
 127.0.0.1 deadpangate.com
@@ -1806,6 +1800,7 @@
 127.0.0.1 fireworkanalytics.com
 127.0.0.1 fireworks-advertising.com
 127.0.0.1 firstlightera.com
+127.0.0.1 firsttexture.com
 127.0.0.1 flairadscpc.com
 127.0.0.1 flakyfeast.com
 127.0.0.1 flashtalking.com
@@ -1850,6 +1845,7 @@
 127.0.0.1 frtyk.com
 127.0.0.1 fullstory.com
 127.0.0.1 functionalcrown.com
+127.0.0.1 functionalfeather.com
 127.0.0.1 funklicks.com
 127.0.0.1 funnelytics.io
 127.0.0.1 furryfork.com
@@ -2046,7 +2042,6 @@
 127.0.0.1 imprese.cz
 127.0.0.1 impressionmedia.cz
 127.0.0.1 impressionmonster.com
-127.0.0.1 impressionz.co.uk
 127.0.0.1 improvedigital.com
 127.0.0.1 impulsehands.com
 127.0.0.1 imrworldwide.com
@@ -2207,6 +2202,7 @@
 127.0.0.1 lijit.com
 127.0.0.1 link-booster.de
 127.0.0.1 link.axios.com
+127.0.0.1 link.email.usmagazine.com
 127.0.0.1 link.sbstck.com
 127.0.0.1 link.theatlantic.com
 127.0.0.1 link.uk.expediamail.com
@@ -2311,6 +2307,7 @@
 127.0.0.1 mcdlks.com
 127.0.0.1 mcs-va.tiktok.com
 127.0.0.1 mcs-va.tiktokv.com
+127.0.0.1 meadowlullaby.com
 127.0.0.1 measlymiddle.com
 127.0.0.1 measure.office.com
 127.0.0.1 measuremap.com
@@ -2485,8 +2482,6 @@
 127.0.0.1 newnet.qsrch.com
 127.0.0.1 newnudecash.com
 127.0.0.1 newopenx.detik.com
-127.0.0.1 newsadsppush.com
-127.0.0.1 newsletter-link.com
 127.0.0.1 newstarads.com
 127.0.0.1 newt1.adultadworld.com
 127.0.0.1 newt1.adultworld.com
@@ -2812,6 +2807,7 @@
 127.0.0.1 radar.cedexis.com
 127.0.0.1 radarurl.com
 127.0.0.1 radiate.com
+127.0.0.1 radiateprose.com
 127.0.0.1 rads.realadmin.pl
 127.0.0.1 railwayrainstorm.com
 127.0.0.1 railwayreason.com
@@ -2988,6 +2984,7 @@
 127.0.0.1 securedopen-bp.com
 127.0.0.1 securely-protectsoft.com
 127.0.0.1 securemetrics.apple.com
+127.0.0.1 securemetrics.apple.com.cn
 127.0.0.1 sedoparking.com
 127.0.0.1 sedotracker.com
 127.0.0.1 segment-cdn.producthunt.com
@@ -3297,6 +3294,7 @@
 127.0.0.1 telaria.com
 127.0.0.1 telemetrics.klaviyo.com
 127.0.0.1 telemetry.dropbox.com
+127.0.0.1 telemetry.goodlifefitness.com
 127.0.0.1 telemetry.malwarebytes.com
 127.0.0.1 telemetry.v.dropbox.com
 127.0.0.1 temelio.com
@@ -3353,7 +3351,6 @@
 127.0.0.1 top123.ro
 127.0.0.1 top20free.com
 127.0.0.1 topforall.com
-127.0.0.1 topgamesites.net
 127.0.0.1 toplist.cz
 127.0.0.1 toplist.pornhost.com
 127.0.0.1 toplista.mw.hu
@@ -3406,7 +3403,6 @@
 127.0.0.1 tracking.39-bb4a9-osm.co.uk
 127.0.0.1 tracking.42-01pr5-osm-secure.co.uk
 127.0.0.1 tracking.5-47737-bi.co.uk
-127.0.0.1 tracking.emilyclarkconsulting.com
 127.0.0.1 tracking.epicgames.com
 127.0.0.1 tracking.exipure.com
 127.0.0.1 tracking.hyros.com
@@ -3481,6 +3477,7 @@
 127.0.0.1 trkpnt.ongage.net
 127.0.0.1 trmit.com
 127.0.0.1 truckstomatoes.com
+127.0.0.1 truculentrate.com
 127.0.0.1 truehits.net
 127.0.0.1 truehits1.gits.net.th
 127.0.0.1 truehits2.gits.net.th
@@ -3686,7 +3683,6 @@
 127.0.0.1 xq1.net
 127.0.0.1 xtendmedia.com
 127.0.0.1 xtracker.logimeter.com
-127.0.0.1 xtremetop100.com
 127.0.0.1 xxxcounter.com
 127.0.0.1 xxxmyself.com
 127.0.0.1 y.ibsys.com
@@ -3704,6 +3700,7 @@
 127.0.0.1 yieldtraffic.com
 127.0.0.1 yldbt.com
 127.0.0.1 ymetrica1.com
+127.0.0.1 yoads.net
 127.0.0.1 yoggrt.com
 127.0.0.1 youradexchange.com
 127.0.0.1 ypu.samsungelectronics.com

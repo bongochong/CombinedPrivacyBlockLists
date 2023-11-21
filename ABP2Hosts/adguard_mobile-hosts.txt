@@ -1,4 +1,4 @@
-# Mon Nov  6 01:45:22 AM UTC 2023
+# Tue Nov 21 12:34:56 AM UTC 2023
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -617,6 +617,7 @@
 0.0.0.0 adreq.vivo.com.cn
 0.0.0.0 adrevenue.appsflyer.com
 0.0.0.0 adroll.com
+0.0.0.0 adrouter-charter-vod.cadenttech.tv
 0.0.0.0 adrta.com
 0.0.0.0 ads-816899299.ap-southeast-1.elb.amazonaws.com
 0.0.0.0 ads-api-new-2052271615.ap-northeast-1.elb.amazonaws.com
@@ -3655,6 +3656,7 @@
 0.0.0.0 evanescentedge.com
 0.0.0.0 evbk.gamooga.com
 0.0.0.0 evening-badlands-6215.herokuapp.com
+0.0.0.0 event-collector.moviesanywhere.com
 0.0.0.0 event-search.jorte.com
 0.0.0.0 event-staging.inner-active.mobi
 0.0.0.0 event.allnews.uodoo.com
@@ -5438,6 +5440,7 @@
 0.0.0.0 momentus.gotrackier.com
 0.0.0.0 mon-va.byteoversea.com
 0.0.0.0 mon-va.tiktokv.com
+0.0.0.0 mon.byteoversea.com
 0.0.0.0 mon.isnssdk.com
 0.0.0.0 mon.tiktokv.com
 0.0.0.0 monetize-api.coronalabs.com
@@ -6230,6 +6233,7 @@
 0.0.0.0 prod.leanplum.com
 0.0.0.0 prod.pr.analytics.console.aws.a2z.com
 0.0.0.0 prod.pw.analytics.console.aws.a2z.com
+0.0.0.0 prod.report.nacustomerexperience.citi.com
 0.0.0.0 prod.sift.co
 0.0.0.0 producecopy.com
 0.0.0.0 producepickle.com
@@ -7966,6 +7970,7 @@
 0.0.0.0 tapsell.ir
 0.0.0.0 tapsense.com
 0.0.0.0 taptica.com
+0.0.0.0 tapulsads.ru
 0.0.0.0 target2sell.com
 0.0.0.0 targeting.influencemobile.com
 0.0.0.0 targeting.unrulymedia.com
@@ -8227,6 +8232,7 @@
 0.0.0.0 tracker.neodatagroup.com
 0.0.0.0 tracker.personizely.net
 0.0.0.0 tracker.samplicio.us
+0.0.0.0 tracker.srta.spectrum.com
 0.0.0.0 tracker.ulivetv.net
 0.0.0.0 tracker.winudf.com
 0.0.0.0 trackernew.ulivetv.net
