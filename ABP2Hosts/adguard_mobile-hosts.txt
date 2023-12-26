@@ -1,4 +1,4 @@
-# Fri Dec  8 06:23:04 PM UTC 2023
+# Tue Dec 26 09:20:28 PM UTC 2023
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -332,6 +332,7 @@
 0.0.0.0 aba.gumgum.com
 0.0.0.0 abackafterthought.com
 0.0.0.0 abackchain.com
+0.0.0.0 abackframe.com
 0.0.0.0 abacksoda.com
 0.0.0.0 abandonedaction.com
 0.0.0.0 abandonment6.saas.seewhy.com
@@ -365,6 +366,7 @@
 0.0.0.0 acceptableauthority.com
 0.0.0.0 accounts.doubleclick.net
 0.0.0.0 accscdn.m.taobao.com
+0.0.0.0 accurateanimal.com
 0.0.0.0 acdn.adnxs-simple.com
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 ace-tag.advertising.com
@@ -581,6 +583,7 @@
 0.0.0.0 admedo.com
 0.0.0.0 admicro1.vcmedia.vn
 0.0.0.0 admin.appnext.com
+0.0.0.0 admiral.pub
 0.0.0.0 admitad.com
 0.0.0.0 admixer.co.kr
 0.0.0.0 admixer.net
@@ -1060,6 +1063,7 @@
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 amazonclix.com
 0.0.0.0 amazoncustomerservice.d2.sc.omtrdc.net
+0.0.0.0 ambiguousafternoon.com
 0.0.0.0 ambiguousalarm.com
 0.0.0.0 ambiguousanger.com
 0.0.0.0 ambiguousdinosaurs.com
@@ -1071,6 +1075,7 @@
 0.0.0.0 amdcopen.m.taobao.com
 0.0.0.0 americanairlines.demdex.net
 0.0.0.0 americanmedia.blueconic.net
+0.0.0.0 amethystzenith.com
 0.0.0.0 amillionads.com
 0.0.0.0 amoad.com
 0.0.0.0 amobee-partners.tremorhub.com
@@ -1232,6 +1237,7 @@
 0.0.0.0 annoyedairport.com
 0.0.0.0 annoyedfifth.com
 0.0.0.0 annoyingacoustics.com
+0.0.0.0 annoyingclover.com
 0.0.0.0 anquan.org
 0.0.0.0 antenna-apse.ayads.co
 0.0.0.0 antenna-us.ayads.co
@@ -1254,7 +1260,6 @@
 0.0.0.0 ap.smardroid.com
 0.0.0.0 ap.tnkfactory.com
 0.0.0.0 apac-sg-ad-track.aralego.com
-0.0.0.0 apathetictheory.com
 0.0.0.0 apc.socdm.com
 0.0.0.0 apdc3n.adpushup.com
 0.0.0.0 apex.go.sonobi.com
@@ -1711,6 +1716,7 @@
 0.0.0.0 aqi.wd.amberweather.com
 0.0.0.0 aqt.adalliance.io
 0.0.0.0 aquaticalarm.com
+0.0.0.0 aquaticanswer.com
 0.0.0.0 aquaticowl.com
 0.0.0.0 ar-gmtdmp.mookie1.com
 0.0.0.0 ar.tns-counter.ru
@@ -1793,6 +1799,7 @@
 0.0.0.0 assistjs.skimresources.com
 0.0.0.0 assoc-amazon.com
 0.0.0.0 astat.bugly.qq.com
+0.0.0.0 astonishingair.com
 0.0.0.0 astonishingfood.com
 0.0.0.0 astrsk.net
 0.0.0.0 aswpsdkus.com
@@ -1814,7 +1821,6 @@
 0.0.0.0 ats.rlcdn.com
 0.0.0.0 atti.com
 0.0.0.0 attr.appsflyer.com
-0.0.0.0 attractionapples.com
 0.0.0.0 attractionbanana.com
 0.0.0.0 attractiveafternoon.com
 0.0.0.0 attractivecap.com
@@ -1845,7 +1851,6 @@
 0.0.0.0 authbe.sec.intl.miui.com
 0.0.0.0 autoads.asia
 0.0.0.0 autocomplete.demandbase.com
-0.0.0.0 automaticairplane.com
 0.0.0.0 automaticflock.com
 0.0.0.0 automaticside.com
 0.0.0.0 automaticturkey.com
@@ -1866,7 +1871,6 @@
 0.0.0.0 awakebird.com
 0.0.0.0 awarealley.com
 0.0.0.0 awesomeagreement.com
-0.0.0.0 awesomeattack.com
 0.0.0.0 aws-api.sail-personalize.com
 0.0.0.0 aws-oreg-cali-virg.ag.innovid.com.akadns.net
 0.0.0.0 aws-oregon-california-virginia.dts.innovid.com.akadns.net
@@ -1916,6 +1920,7 @@
 0.0.0.0 balloonbelieve.com
 0.0.0.0 balloonbit.com
 0.0.0.0 balloontexture.com
+0.0.0.0 ballsbanana.com
 0.0.0.0 bam.eu01.nr-data.net
 0.0.0.0 bamtech.sc.omtrdc.net
 0.0.0.0 bamtech.tt.omtrdc.net
@@ -2010,6 +2015,7 @@
 0.0.0.0 beadbears.com
 0.0.0.0 beamincrease.com
 0.0.0.0 beamvolcano.com
+0.0.0.0 beancontrol.com
 0.0.0.0 beap-bc.yahoo.com
 0.0.0.0 beap.gemini.yahoo.com
 0.0.0.0 beastbeef.com
@@ -2075,7 +2081,6 @@
 0.0.0.0 bisdr.vidazoo.com
 0.0.0.0 bitmedianetwork.com
 0.0.0.0 bitterbear.com
-0.0.0.0 bizarrebaseball.com
 0.0.0.0 bj.imp.voiceads.cn
 0.0.0.0 bjads.bejbej.ca
 0.0.0.0 bjfesdk.douyucdn.cn
@@ -2102,6 +2107,7 @@
 0.0.0.0 bluecava.com
 0.0.0.0 blueconic.net
 0.0.0.0 blueduckredapple.com
+0.0.0.0 blueeyedblow.com
 0.0.0.0 bluekai.com
 0.0.0.0 bluekai.com.edgekey.net
 0.0.0.0 bluelithium.com
@@ -2131,6 +2137,8 @@
 0.0.0.0 boringcoat.com
 0.0.0.0 bouncyfront.com
 0.0.0.0 bouncyproperty.com
+0.0.0.0 boundarybusiness.com
+0.0.0.0 boundlessargument.com
 0.0.0.0 boundlessbrake.com
 0.0.0.0 boundlessveil.com
 0.0.0.0 boxoffice.urbanairship.com
@@ -2138,6 +2146,7 @@
 0.0.0.0 brahe.apptimize.com
 0.0.0.0 brain.foresee.com
 0.0.0.0 brainient.com
+0.0.0.0 brainybasin.com
 0.0.0.0 brainynut.com
 0.0.0.0 branch.io
 0.0.0.0 brand-sdk.kmsmep.com
@@ -2194,6 +2203,7 @@
 0.0.0.0 bumpydevelopment.com
 0.0.0.0 bunchance.com
 0.0.0.0 burgerbrush.com
+0.0.0.0 burlywhistle.com
 0.0.0.0 burnbubble.com
 0.0.0.0 burntwist.com
 0.0.0.0 burstblade.com
@@ -2267,6 +2277,7 @@
 0.0.0.0 ca-lapresse-main.collector.snplow.net
 0.0.0.0 ca.iadsdk.apple.com
 0.0.0.0 ca4-bid.adsrvr.org
+0.0.0.0 cabledemand.com
 0.0.0.0 cache-ha.pushwoosh.com
 0.0.0.0 cache-ssl.celtra.com
 0.0.0.0 cache.addthiscdn.com
@@ -2276,6 +2287,8 @@
 0.0.0.0 cads.scalemonk.com
 0.0.0.0 cafe-latte.myshoplus.com
 0.0.0.0 cafe-log.myshoplus.com
+0.0.0.0 cakesdrum.com
+0.0.0.0 calculatingchannel.com
 0.0.0.0 calculatingcircle.com
 0.0.0.0 calculatingtoothbrush.com
 0.0.0.0 calculatorcamera.com
@@ -2304,6 +2317,7 @@
 0.0.0.0 caringzinc.com
 0.0.0.0 carinus.iad-03.braze.com
 0.0.0.0 carloforward.com
+0.0.0.0 carpentercolor.com
 0.0.0.0 carpentercomparison.com
 0.0.0.0 carpet.pulse.inmobi.com
 0.0.0.0 carriagecan.com
@@ -2634,6 +2648,7 @@
 0.0.0.0 chalkoil.com
 0.0.0.0 challenge.360in.com
 0.0.0.0 chanalytics.merchantadvantage.com
+0.0.0.0 changeablecats.com
 0.0.0.0 chango.com
 0.0.0.0 channel.api.duapp.com
 0.0.0.0 channelcamp.com
@@ -2658,6 +2673,7 @@
 0.0.0.0 chidc2.outbrain.org
 0.0.0.0 childlikecook.com
 0.0.0.0 childlikecrowd.com
+0.0.0.0 childlikeexample.com
 0.0.0.0 childlikeform.com
 0.0.0.0 chingovernment.com
 0.0.0.0 chinsnakes.com
@@ -2684,6 +2700,7 @@
 0.0.0.0 clamcelery.com
 0.0.0.0 clammychicken.com
 0.0.0.0 clammytree.com
+0.0.0.0 clarifyverse.com
 0.0.0.0 clean.adups.com
 0.0.0.0 cleanhaircut.com
 0.0.0.0 clearbit.com
@@ -2844,6 +2861,7 @@
 0.0.0.0 colossalchance.com
 0.0.0.0 colossalclouds.com
 0.0.0.0 colossalcoat.com
+0.0.0.0 colossalcry.com
 0.0.0.0 colossusssp.com
 0.0.0.0 com-fcagroup.netmng.com
 0.0.0.0 com-thebigwillow-prod1.collector.snplow.net
@@ -2851,6 +2869,7 @@
 0.0.0.0 combativecar.com
 0.0.0.0 combativedetail.com
 0.0.0.0 combbit.com
+0.0.0.0 combcattle.com
 0.0.0.0 combclover.com
 0.0.0.0 combine.asnapieu.com
 0.0.0.0 combine.urbanairship.com
@@ -2877,7 +2896,6 @@
 0.0.0.0 conceptualizereading.com
 0.0.0.0 concernedchickens.com
 0.0.0.0 concernedcondition.com
-0.0.0.0 concerneddrink.com
 0.0.0.0 concert.io
 0.0.0.0 concertads-configs.vox-cdn.com
 0.0.0.0 condenast.demdex.net
@@ -2967,7 +2985,6 @@
 0.0.0.0 conversions.appsflyersdk.com
 0.0.0.0 conversions.clickmeter.com
 0.0.0.0 convertexperiments.com.edgekey.net
-0.0.0.0 cookchalk.com
 0.0.0.0 cookie-cdn.cookiepro.com
 0.0.0.0 cookie-sync-service-prod.steelhousemedia.com
 0.0.0.0 cookie.brealtime.com
@@ -2985,6 +3002,7 @@
 0.0.0.0 copycarpenter.com
 0.0.0.0 copyrightaccesscontrols.com
 0.0.0.0 copytitle.com
+0.0.0.0 coralreverie.com
 0.0.0.0 cordcopper.com
 0.0.0.0 core.connatix.com
 0.0.0.0 core.polyad.net
@@ -3099,6 +3117,7 @@
 0.0.0.0 culturedfeather.com
 0.0.0.0 cumbersomecake.com
 0.0.0.0 cumbersomecar.com
+0.0.0.0 cumbersomecarpenter.com
 0.0.0.0 cumbersomecloud.com
 0.0.0.0 curiouschalk.com
 0.0.0.0 curlycannon.com
@@ -3252,8 +3271,8 @@
 0.0.0.0 de.tynt.com
 0.0.0.0 de01.rayjump.com
 0.0.0.0 de1-bid.adsrvr.org
+0.0.0.0 deadpangate.com
 0.0.0.0 deadpanmarble.com
-0.0.0.0 deadpantruck.com
 0.0.0.0 deafeningdock.com
 0.0.0.0 deafeningdowntown.com
 0.0.0.0 dealerdotcomdisplay576919175878.s.moatpixel.com
@@ -3274,7 +3293,6 @@
 0.0.0.0 deeplink.mobileapptracking.com
 0.0.0.0 deerbeginner.com
 0.0.0.0 defectivedress.com
-0.0.0.0 defectivesun.com
 0.0.0.0 defiantrice.com
 0.0.0.0 delegatediscussion.com
 0.0.0.0 delicatecascade.com
@@ -3321,7 +3339,9 @@
 0.0.0.0 device.marketingcloudapis.com
 0.0.0.0 deviceid.trueleadid.com
 0.0.0.0 devices.carnivalmobile.com
+0.0.0.0 devilishdinner.com
 0.0.0.0 devs.data.mob.com
+0.0.0.0 dewdroplagoon.com
 0.0.0.0 dex50.deteql.net
 0.0.0.0 df.mic.mob.com
 0.0.0.0 df.mob.com
@@ -3374,8 +3394,8 @@
 0.0.0.0 displayio.cloud
 0.0.0.0 disqusads.com
 0.0.0.0 distancefinger.com
-0.0.0.0 distinctday.com
 0.0.0.0 distributionneck.com
+0.0.0.0 distributionpocket.com
 0.0.0.0 distributiontomatoes.com
 0.0.0.0 disturbedquiet.com
 0.0.0.0 dit.whatsapp.net
@@ -3436,6 +3456,7 @@
 0.0.0.0 dramaticdirection.com
 0.0.0.0 drawermice.com
 0.0.0.0 drawservant.com
+0.0.0.0 dreamycanyon.com
 0.0.0.0 dressexpansion.com
 0.0.0.0 drfdisvc.walmart.com
 0.0.0.0 dripappliance.com
@@ -3574,9 +3595,12 @@
 0.0.0.0 emarketing.sina.com.cn
 0.0.0.0 embed.secondstreetapp.com
 0.0.0.0 embed.sendtonews.com
+0.0.0.0 embellishedmeadow.com
 0.0.0.0 embermosaic.com
 0.0.0.0 emediate.eu
 0.0.0.0 emediate.se
+0.0.0.0 eminentbubble.com
+0.0.0.0 eminentend.com
 0.0.0.0 emptyescort.com
 0.0.0.0 emqx.anzuinfra.com
 0.0.0.0 emxdgt.com
@@ -3585,13 +3609,16 @@
 0.0.0.0 enchantedskyline.com
 0.0.0.0 enchantedtop.com
 0.0.0.0 enchantingbear.com
+0.0.0.0 enchantingvalley.com
 0.0.0.0 encourageidea.com
 0.0.0.0 encourageshock.com
 0.0.0.0 encouragingleaf.com
+0.0.0.0 encouragingthread.com
 0.0.0.0 encouragingvase.com
 0.0.0.0 encouragingwilderness.com
 0.0.0.0 encyclopediabritannica.blueconic.net
 0.0.0.0 end.scorecardresearch.com
+0.0.0.0 endurablebulb.com
 0.0.0.0 endurablecrayon.com
 0.0.0.0 endurableshop.com
 0.0.0.0 energeticexample.com
@@ -3616,6 +3643,7 @@
 0.0.0.0 engine.sponsorpay.com
 0.0.0.0 engine.spotscenered.info
 0.0.0.0 engine.widespace.com
+0.0.0.0 engineergrape.com
 0.0.0.0 engineertrick.com
 0.0.0.0 enormousearth.com
 0.0.0.0 enormousfoot.com
@@ -3624,6 +3652,7 @@
 0.0.0.0 entertainskin.com
 0.0.0.0 enthusiasticdad.com
 0.0.0.0 enthusiasticring.com
+0.0.0.0 enthusiastictemper.com
 0.0.0.0 entitlements.jwplayer.com
 0.0.0.0 entitlements.kochava.com
 0.0.0.0 entree.igetget.com
@@ -3680,7 +3709,6 @@
 0.0.0.0 eus.rubiconproject.com
 0.0.0.0 eus.rubiconproject.com.edgekey.net
 0.0.0.0 evaluateend.com
-0.0.0.0 evaluatestream.com
 0.0.0.0 evanescentedge.com
 0.0.0.0 evbk.gamooga.com
 0.0.0.0 evening-badlands-6215.herokuapp.com
@@ -3774,6 +3802,7 @@
 0.0.0.0 exe.bid
 0.0.0.0 execution-use.ci360.sas.com
 0.0.0.0 exelbid.com
+0.0.0.0 exhibitsneeze.com
 0.0.0.0 exp.360in.com
 0.0.0.0 expansioneggnog.com
 0.0.0.0 experience.tinypass.com
@@ -3798,7 +3827,9 @@
 0.0.0.0 f.gm.mob.com
 0.0.0.0 f24.adventori.com
 0.0.0.0 fabric.io
+0.0.0.0 fabulousterritory.com
 0.0.0.0 facilitategrandfather.com
+0.0.0.0 fadechildren.com
 0.0.0.0 fadedprofit.com
 0.0.0.0 fadedsnow.com
 0.0.0.0 fadewaves.com
@@ -3830,6 +3861,7 @@
 0.0.0.0 fastlane-adv.rubiconproject.com
 0.0.0.0 fastlane.rubiconproject.com
 0.0.0.0 fatcoil.com
+0.0.0.0 faucetfoot.com
 0.0.0.0 faultycanvas.com
 0.0.0.0 faultyfowl.com
 0.0.0.0 fc.itmedia.co.jp
@@ -3840,15 +3872,18 @@
 0.0.0.0 fdfe4ed62699.cdn4.forter.com
 0.0.0.0 fdz.flashtalking.com
 0.0.0.0 fearfowl.com
+0.0.0.0 fearfulfear.com
 0.0.0.0 fearfulfish.com
 0.0.0.0 fearfulmint.com
 0.0.0.0 fearlessfaucet.com
+0.0.0.0 featherstage.com
 0.0.0.0 featured.perfectionholic.com
 0.0.0.0 feebleshock.com
 0.0.0.0 feedimages.simpli.fi
 0.0.0.0 fenrir-resolver.aprod.scopely.io
 0.0.0.0 fev.fyber.com
 0.0.0.0 fewjuice.com
+0.0.0.0 fewkittens.com
 0.0.0.0 ff.doubleclick.net
 0.0.0.0 ff1c0cc5.api.splkmobile.com
 0.0.0.0 ffconf.ecbsn.com
@@ -3897,6 +3932,7 @@
 0.0.0.0 fluentmobile.com
 0.0.0.0 flurry.cachefly.net
 0.0.0.0 flurry.com
+0.0.0.0 flutteringfireman.com
 0.0.0.0 flygo.ru
 0.0.0.0 fm.duokanbox.com
 0.0.0.0 fm.ipinyou.com
@@ -3908,6 +3944,7 @@
 0.0.0.0 folder.adfuture.cn
 0.0.0.0 folder.adsunflower.com
 0.0.0.0 folder.advmob.cn
+0.0.0.0 followborder.com
 0.0.0.0 fonts.ad.admitad.com
 0.0.0.0 footprintdns.com
 0.0.0.0 forbes.media.net
@@ -3949,13 +3986,16 @@
 0.0.0.0 frailoffer.com
 0.0.0.0 framebanana.com
 0.0.0.0 franticcarpenter.com
+0.0.0.0 franticroof.com
 0.0.0.0 frantictrail.com
 0.0.0.0 fraud.adjoe.zone
 0.0.0.0 fraudmetrix.cn
 0.0.0.0 freesam.kt.com
 0.0.0.0 freewheeleventsbidder-east.extend.tv
 0.0.0.0 freezingbuilding.com
+0.0.0.0 frequentflesh.com
 0.0.0.0 fretfulfurniture.com
+0.0.0.0 friendlycrayon.com
 0.0.0.0 friendlyduck.com
 0.0.0.0 friendlyfold.com
 0.0.0.0 friendwool.com
@@ -3987,6 +4027,7 @@
 0.0.0.0 fuzzyflavor.com
 0.0.0.0 fuzzyweather.com
 0.0.0.0 fvalid.appsflyer.com
+0.0.0.0 fvl1f.pw
 0.0.0.0 fw.adsafeprotected.com
 0.0.0.0 fwmrm.net
 0.0.0.0 fyber.com
@@ -4097,6 +4138,7 @@
 0.0.0.0 ghent-gce-sc.bidswitch.net
 0.0.0.0 ghkbid.adview.com
 0.0.0.0 gi-js.genieessp.com
+0.0.0.0 giantsvessel.com
 0.0.0.0 giddycoat.com
 0.0.0.0 giftedglue.com
 0.0.0.0 giftedthumb.com
@@ -4216,6 +4258,7 @@
 0.0.0.0 grouchypush.com
 0.0.0.0 growlr.adsbynimbus.com
 0.0.0.0 grs.hicloud.com
+0.0.0.0 grumpydime.com
 0.0.0.0 grumpydrawer.com
 0.0.0.0 gslbeacon.lijit.com
 0.0.0.0 gtm04.nexac.com
@@ -4244,6 +4287,7 @@
 0.0.0.0 gumgum.com
 0.0.0.0 gurgle.zdbb.net
 0.0.0.0 gusabid.adview.com
+0.0.0.0 gustygrandmother.com
 0.0.0.0 gv1.xdrig.com
 0.0.0.0 gw.flurry.com
 0.0.0.0 gw.geoedge.be
@@ -4374,7 +4418,6 @@
 0.0.0.0 hosting-source.bm23.com
 0.0.0.0 hot-mob.com
 0.0.0.0 hotapi-va.isnssdk.com
-0.0.0.0 hothydrant.com
 0.0.0.0 houseads-prod.elasticbeanstalk.com
 0.0.0.0 houseads.ttpsdk.info
 0.0.0.0 howdoesin.net
@@ -4858,6 +4901,7 @@
 0.0.0.0 kjos.vo.llnwd.net
 0.0.0.0 klkstrm.kargo.com
 0.0.0.0 klog.hiido.com
+0.0.0.0 knitstamp.com
 0.0.0.0 knorex.com
 0.0.0.0 knotkettle.com
 0.0.0.0 knottysticks.com
@@ -4906,6 +4950,7 @@
 0.0.0.0 lameletters.com
 0.0.0.0 lamplow.com
 0.0.0.0 languagelake.com
+0.0.0.0 largebrass.com
 0.0.0.0 largosoft.co.kr
 0.0.0.0 lasteventf.tubemogul.com
 0.0.0.0 latam.adspecs.yahoo.com
@@ -5122,6 +5167,7 @@
 0.0.0.0 logsink.zedge.net
 0.0.0.0 logupdate.avlyun.sec.miui.com
 0.0.0.0 logx.optimizely.com
+0.0.0.0 lonelyflavor.com
 0.0.0.0 longinglettuce.com
 0.0.0.0 longingtrees.com
 0.0.0.0 lonrtp1-cdn.marketo.com
@@ -5146,6 +5192,7 @@
 0.0.0.0 ludicrousarch.com
 0.0.0.0 lululemonspna.btttag.com
 0.0.0.0 lumberamount.com
+0.0.0.0 lumberrule.com
 0.0.0.0 lumpylumber.com
 0.0.0.0 lunchroomlock.com
 0.0.0.0 lxqcgj.com
@@ -5196,7 +5243,6 @@
 0.0.0.0 mafo.adalliance.io
 0.0.0.0 magic.cmcm.com
 0.0.0.0 magicaljoin.com
-0.0.0.0 magicalmonth.com
 0.0.0.0 magnetairport.com
 0.0.0.0 magnetic.t.domdex.com
 0.0.0.0 magnificentmeasure.com
@@ -5232,6 +5278,7 @@
 0.0.0.0 marketspiders.com
 0.0.0.0 marmalade.adthrive.com
 0.0.0.0 marriedbelief.com
+0.0.0.0 marriedmailbox.com
 0.0.0.0 masdk.3g.qq.com
 0.0.0.0 masdpanalytics.azureedge.net
 0.0.0.0 masky.biddingx.com
@@ -5251,12 +5298,14 @@
 0.0.0.0 match.taboola.com
 0.0.0.0 matchadsrvr.yieldmo.com
 0.0.0.0 matching.ivitrack.com
+0.0.0.0 matchjoke.com
 0.0.0.0 material-ssl.mediav.com
 0.0.0.0 material.mediav.com
 0.0.0.0 materialexample.com
 0.0.0.0 materialisticfan.com
 0.0.0.0 materialisticmark.com
 0.0.0.0 materialisticmoon.com
+0.0.0.0 materialmilk.com
 0.0.0.0 materialmoon.com
 0.0.0.0 materialparcel.com
 0.0.0.0 materialplayground.com
@@ -5337,7 +5386,6 @@
 0.0.0.0 mediaxpedia.gotrackier.com
 0.0.0.0 medio.com
 0.0.0.0 medscapedfp285029738901.s.moatpixel.com
-0.0.0.0 medusasailor.com
 0.0.0.0 meendocash.com
 0.0.0.0 mellowbike.com
 0.0.0.0 mellowmailbox.com
@@ -5345,6 +5393,7 @@
 0.0.0.0 meltmilk.com
 0.0.0.0 memopilot.com
 0.0.0.0 memorizeline.com
+0.0.0.0 memorizematch.com
 0.0.0.0 memorizeneck.com
 0.0.0.0 memorycobweb.com
 0.0.0.0 mena-gmtdmp.mookie1.com
@@ -5414,10 +5463,13 @@
 0.0.0.0 minormeeting.com
 0.0.0.0 mintegral.com
 0.0.0.0 mintegral.net
+0.0.0.0 minusmental.com
+0.0.0.0 minuteburst.com
 0.0.0.0 minuterhythm.com
 0.0.0.0 misc.api.snaptube.app
 0.0.0.0 miscreantmine.com
 0.0.0.0 miscreantmoon.com
+0.0.0.0 mistyhorizon.com
 0.0.0.0 mittencattle.com
 0.0.0.0 mixadvert.com
 0.0.0.0 mixedreading.com
@@ -5565,6 +5617,7 @@
 0.0.0.0 mtrcss.com
 0.0.0.0 mtrx.go.sonobi.com
 0.0.0.0 muddledaftermath.com
+0.0.0.0 muddledmemory.com
 0.0.0.0 mug.criteo.com
 0.0.0.0 mug.da1.vip.prod.criteo.com
 0.0.0.0 multi-cluster.directservices.it
@@ -5613,6 +5666,7 @@
 0.0.0.0 na.hasmobi.net
 0.0.0.0 na.v7.cdn.onthe.io
 0.0.0.0 naiadsystems.com
+0.0.0.0 naivestatement.com
 0.0.0.0 nan.netmng.com
 0.0.0.0 nanigans.com
 0.0.0.0 nappyattack.com
@@ -5640,6 +5694,7 @@
 0.0.0.0 ncaudienceexchange.com
 0.0.0.0 ndct-data.video.iqiyi.com
 0.0.0.0 nearbyad.com
+0.0.0.0 neatshade.com
 0.0.0.0 nebula-cdn.kampyle.com
 0.0.0.0 necessarywax.com
 0.0.0.0 needlessnorth.com
@@ -5729,6 +5784,7 @@
 0.0.0.0 null.iad.appboy.com
 0.0.0.0 nulldiscussion.com
 0.0.0.0 nullnorth.com
+0.0.0.0 numberlessring.com
 0.0.0.0 numbers.md
 0.0.0.0 numerousnest.com
 0.0.0.0 nutritiousbean.com
@@ -5816,7 +5872,6 @@
 0.0.0.0 ophan.theguardian.com
 0.0.0.0 opinionsurprise.com
 0.0.0.0 oppositeoperation.com
-0.0.0.0 oppositeparcel.com
 0.0.0.0 opps.taboola.com
 0.0.0.0 ops-cdn.undertone.com
 0.0.0.0 opt.ximad.com
@@ -5861,7 +5916,6 @@
 0.0.0.0 outcome-cdn.supersonicads.com
 0.0.0.0 outcome-ssp.supersonicads.com
 0.0.0.0 outcome.supersonicads.com
-0.0.0.0 outstandingincome.com
 0.0.0.0 outstandingsnails.com
 0.0.0.0 ovalweek.com
 0.0.0.0 overconfidentfood.com
@@ -5899,6 +5953,7 @@
 0.0.0.0 p1-lm.adukwai.com
 0.0.0.0 p1.parsely.com
 0.0.0.0 p102-clb.allstarcluster.com
+0.0.0.0 p16-ad.byteoversea.com
 0.0.0.0 p1cluster.cxense.com
 0.0.0.0 p287.atemda.com
 0.0.0.0 p4dt2-4nrdw.ads.tremorhub.com
@@ -5916,6 +5971,7 @@
 0.0.0.0 pagefair.net
 0.0.0.0 pages-stats.rbl.ms
 0.0.0.0 pailcrime.com
+0.0.0.0 pailpatch.com
 0.0.0.0 painstakingpickle.com
 0.0.0.0 paintpear.com
 0.0.0.0 paintplantation.com
@@ -5932,6 +5988,7 @@
 0.0.0.0 panickycurtain.com
 0.0.0.0 panickypancake.com
 0.0.0.0 panoramicbutter.com
+0.0.0.0 panoramicplane.com
 0.0.0.0 par.vip.prod.criteo.com
 0.0.0.0 par.vip.prod.criteo.net
 0.0.0.0 paradoxfactor.com
@@ -5942,6 +5999,7 @@
 0.0.0.0 parchedangle.com
 0.0.0.0 parchedsofa.com
 0.0.0.0 pardonpopular.com
+0.0.0.0 parentpicture.com
 0.0.0.0 parrable.com
 0.0.0.0 parsimoniouspolice.com
 0.0.0.0 parsnip.gocarrot.com
@@ -5992,6 +6050,8 @@
 0.0.0.0 pdx-col.eum-appdynamics.com
 0.0.0.0 pe.intentiq.com
 0.0.0.0 pe1.intentiq.com
+0.0.0.0 peacefullimit.com
+0.0.0.0 pedromister.com
 0.0.0.0 pedropanther.com
 0.0.0.0 pegasusplate.com
 0.0.0.0 penspade.com
@@ -6137,6 +6197,7 @@
 0.0.0.0 plantdigestion.com
 0.0.0.0 plantpotato.com
 0.0.0.0 plantrelation.com
+0.0.0.0 platescarecrow.com
 0.0.0.0 platform-api.sharethis.com
 0.0.0.0 platform-cdn.sharethis.com
 0.0.0.0 platform.bidgear.com
@@ -6185,6 +6246,7 @@
 0.0.0.0 pokkt.fuse-ad.com
 0.0.0.0 polarcdn-pentos.com
 0.0.0.0 polarcdn-terrax.com
+0.0.0.0 polarismagnet.com
 0.0.0.0 policy.rayjump.com
 0.0.0.0 politegoldfish.com
 0.0.0.0 politeplanes.com
@@ -6390,9 +6452,11 @@
 0.0.0.0 puffypurpose.com
 0.0.0.0 pulse.inmobi.com
 0.0.0.0 pumpedpancake.com
+0.0.0.0 pumpedpurpose.com
 0.0.0.0 punyplant.com
 0.0.0.0 purch-sync.go.sonobi.com
 0.0.0.0 purchasesuggestion.com
+0.0.0.0 purposepipe.com
 0.0.0.0 push-api.topaz-analytics.com
 0.0.0.0 push.connecto.io
 0.0.0.0 push.io.edgekey.net
@@ -6465,6 +6529,7 @@
 0.0.0.0 quinoa-personal-identify-prod.sense360eng.com
 0.0.0.0 quirkysugar.com
 0.0.0.0 quixoticnebula.com
+0.0.0.0 quizzicalpartner.com
 0.0.0.0 quizzicalzephyr.com
 0.0.0.0 r-ad.ne.jp
 0.0.0.0 r-log.dable.io
@@ -6500,12 +6565,14 @@
 0.0.0.0 rainystretch.com
 0.0.0.0 rainyzinc.com
 0.0.0.0 rambler.pushwoosh.com
+0.0.0.0 rambunctiousflock.com
 0.0.0.0 rambunctiousvoyage.com
 0.0.0.0 rampantwork.com
 0.0.0.0 rangecake.com
 0.0.0.0 rangeplayground.com
 0.0.0.0 rapidkittens.com
 0.0.0.0 raresummer.com
+0.0.0.0 raspyteam.com
 0.0.0.0 rat.fr.eu.criteo.com
 0.0.0.0 rat.nl.eu.criteo.com
 0.0.0.0 ravm.tv
@@ -6526,7 +6593,6 @@
 0.0.0.0 reachms.bfmio.com
 0.0.0.0 readgoldfish.com
 0.0.0.0 readingguilt.com
-0.0.0.0 readingopera.com
 0.0.0.0 readymoon.com
 0.0.0.0 readysnails.com
 0.0.0.0 realclever.com
@@ -6545,6 +6611,7 @@
 0.0.0.0 receptivebranch.com
 0.0.0.0 receptiveink.com
 0.0.0.0 receptivereaction.com
+0.0.0.0 recessrain.com
 0.0.0.0 recommenddoor.com
 0.0.0.0 recommender.scarabresearch.com
 0.0.0.0 recommends.media.net
@@ -6630,6 +6697,7 @@
 0.0.0.0 rewarded-video.fyber.com
 0.0.0.0 rfihub.com
 0.0.0.0 rfp.fout.jp
+0.0.0.0 rhetoricalactivity.com
 0.0.0.0 rhetoricalloss.com
 0.0.0.0 rhetoricaltoes.com
 0.0.0.0 rhetoricalveil.com
@@ -6847,6 +6915,7 @@
 0.0.0.0 sadc1.outbrain.org
 0.0.0.0 sadloaf.com
 0.0.0.0 sadobeanalytics.geico.com
+0.0.0.0 saffronrefuge.com
 0.0.0.0 sagan.iad-03.braze.com
 0.0.0.0 sailsuit.com
 0.0.0.0 sales.idio.co
@@ -6866,6 +6935,7 @@
 0.0.0.0 sandbox.tinypass.com
 0.0.0.0 sargas.iad-03.braze.com
 0.0.0.0 satisfycork.com
+0.0.0.0 satisfyingshirt.com
 0.0.0.0 satisfyingshow.com
 0.0.0.0 satisfyingspark.com
 0.0.0.0 savoryorange.com
@@ -6886,16 +6956,17 @@
 0.0.0.0 sc.pages03.net
 0.0.0.0 sc.smardroid.com
 0.0.0.0 scadxrtb.lfstmedia.com
+0.0.0.0 scarcecard.com
 0.0.0.0 scarcesign.com
 0.0.0.0 scarcesurprise.com
 0.0.0.0 scarecrowslip.com
 0.0.0.0 scarecrowslope.com
 0.0.0.0 scaredcomfort.com
-0.0.0.0 scaredfarm.com
 0.0.0.0 scaredsidewalk.com
 0.0.0.0 scaredsnake.com
 0.0.0.0 scaredsnakes.com
 0.0.0.0 scaredsong.com
+0.0.0.0 scaredstomach.com
 0.0.0.0 scaredstory.com
 0.0.0.0 scaredswing.com
 0.0.0.0 scarefowl.com
@@ -6914,6 +6985,7 @@
 0.0.0.0 scintillatingscissors.com
 0.0.0.0 scintillatingsilver.com
 0.0.0.0 scintillatingspace.com
+0.0.0.0 scissorsstatement.com
 0.0.0.0 scm.publishers.tremorhub.com
 0.0.0.0 scomcluster.cxense.com
 0.0.0.0 scorecardresearch.com
@@ -7051,6 +7123,7 @@
 0.0.0.0 seatsmoke.com
 0.0.0.0 sec-citi.bridgetrack.com
 0.0.0.0 sec.umeng.com
+0.0.0.0 secondhandfall.com
 0.0.0.0 secondstreetapp.com
 0.0.0.0 secretivecub.com
 0.0.0.0 secretivesheep.com
@@ -7207,6 +7280,7 @@
 0.0.0.0 shallowblade.com
 0.0.0.0 shallowsmile.com
 0.0.0.0 shalltry.com
+0.0.0.0 shamerain.com
 0.0.0.0 shapecomb.com
 0.0.0.0 share.mob.com
 0.0.0.0 shareasale.com
@@ -7261,6 +7335,7 @@
 0.0.0.0 simplifi.partners.tremorhub.com
 0.0.0.0 simplisticstem.com
 0.0.0.0 simplycast.com
+0.0.0.0 simulateswing.com
 0.0.0.0 sin01-event.spotxchange.com
 0.0.0.0 sin01-search.spotxchange.com
 0.0.0.0 sin01.event.spotxchange.com
@@ -7272,7 +7347,6 @@
 0.0.0.0 sin3-ib.adnxs.com
 0.0.0.0 sin3-ib.sin1.geoadnxs.com
 0.0.0.0 sincerebuffalo.com
-0.0.0.0 sincereseashore.com
 0.0.0.0 sinceresubstance.com
 0.0.0.0 singroot.com
 0.0.0.0 singular.net
@@ -7331,6 +7405,7 @@
 0.0.0.0 slimopinion.com
 0.0.0.0 slimyscarf.com
 0.0.0.0 slimyseashore.com
+0.0.0.0 slinksuggestion.com
 0.0.0.0 slipperysack.com
 0.0.0.0 slog.trackingio.com
 0.0.0.0 slopesoap.com
@@ -7364,16 +7439,17 @@
 0.0.0.0 smetrics.walgreens.com
 0.0.0.0 smetrics1.experian.com
 0.0.0.0 smilered.com
+0.0.0.0 smilewound.com
 0.0.0.0 smilingcattle.com
 0.0.0.0 smilingshake.com
 0.0.0.0 smilingswim.com
 0.0.0.0 smilingwaves.com
 0.0.0.0 smoggysnakes.com
+0.0.0.0 smoggysongs.com
 0.0.0.0 smoggystation.com
 0.0.0.0 sms.mob.com
 0.0.0.0 smt.admaster.com.cn
 0.0.0.0 smy.iheart.com
-0.0.0.0 snailscart.com
 0.0.0.0 snailsengine.com
 0.0.0.0 snakemineral.com
 0.0.0.0 snakeslang.com
@@ -7384,6 +7460,7 @@
 0.0.0.0 snapabug.appspot.com
 0.0.0.0 snapads.com
 0.0.0.0 snapmobile.asia
+0.0.0.0 sneakwind.com
 0.0.0.0 sneakystew.com
 0.0.0.0 sngmta.qq.com
 0.0.0.0 snippet.minute.ly
@@ -7424,10 +7501,12 @@
 0.0.0.0 sonic-us.supersonicads.com
 0.0.0.0 sonobi.com
 0.0.0.0 sootheside.com
+0.0.0.0 soothingglade.com
 0.0.0.0 sophisticatedstory.com
 0.0.0.0 sophisticatedstove.com
 0.0.0.0 sor-sdk.follow-apps.com
 0.0.0.0 sordidsmile.com
+0.0.0.0 sordidstation.com
 0.0.0.0 soresidewalk.com
 0.0.0.0 soresneeze.com
 0.0.0.0 sorethunder.com
@@ -7451,6 +7530,7 @@
 0.0.0.0 sparklingnumber.com
 0.0.0.0 sparklingshelf.com
 0.0.0.0 sparkusdiscoverdcm781744349491.s.moatpixel.com
+0.0.0.0 speakgrandfather.com
 0.0.0.0 specialdeals.g5e.com
 0.0.0.0 specialscissors.com
 0.0.0.0 specialsnake.com
@@ -7463,10 +7543,8 @@
 0.0.0.0 spendpest.com
 0.0.0.0 spidersboats.com
 0.0.0.0 spiffymachine.com
-0.0.0.0 spikyslave.com
 0.0.0.0 spire.aarki.net
 0.0.0.0 spirebaboon.com
-0.0.0.0 spitefulstop.com
 0.0.0.0 spixel.adsafeprotected.com
 0.0.0.0 spl.zeotap.com
 0.0.0.0 splash-screen.voodoo-ads.io
@@ -7495,6 +7573,7 @@
 0.0.0.0 sprint.asapp.com
 0.0.0.0 sps.springserve.com
 0.0.0.0 sptc.clicktale.net
+0.0.0.0 spuriousair.com
 0.0.0.0 spuriousbase.com
 0.0.0.0 spurioussquirrel.com
 0.0.0.0 spurioussteam.com
@@ -7502,6 +7581,7 @@
 0.0.0.0 spylog.com
 0.0.0.0 spysubstance.com
 0.0.0.0 sq.requestads.com
+0.0.0.0 squalidscrew.com
 0.0.0.0 squashfriction.com
 0.0.0.0 squeakzinc.com
 0.0.0.0 squealingturn.com
@@ -7750,10 +7830,12 @@
 0.0.0.0 steepsister.com
 0.0.0.0 steepsquirrel.com
 0.0.0.0 step-service.crossinstall.io
+0.0.0.0 stepcattle.com
 0.0.0.0 stepplane.com
 0.0.0.0 stereoproxy.com
 0.0.0.0 stereotypedclub.com
 0.0.0.0 stereotypedsugar.com
+0.0.0.0 stewedge.com
 0.0.0.0 stickssheep.com
 0.0.0.0 stickyadstv.com
 0.0.0.0 stickyadstv.com.akadns.net
@@ -7765,9 +7847,11 @@
 0.0.0.0 stingsquirrel.com
 0.0.0.0 stingycrush.com
 0.0.0.0 stingyshoe.com
+0.0.0.0 stingyspoon.com
 0.0.0.0 stm-cdn.cn.miaozhen.com
 0.0.0.0 stm-collect.cn.miaozhen.com
 0.0.0.0 stnetsdk.vivo.com.cn
+0.0.0.0 stockingsleet.com
 0.0.0.0 stockingsneeze.com
 0.0.0.0 stocks-analytics-events.news.apple-dns.net
 0.0.0.0 stomachscience.com
@@ -7787,6 +7871,7 @@
 0.0.0.0 strangesink.com
 0.0.0.0 stream.spongead.com
 0.0.0.0 streamguys.deliveryengine.adswizz.com
+0.0.0.0 streetsort.com
 0.0.0.0 stretchsister.com
 0.0.0.0 stretchsneeze.com
 0.0.0.0 stretchsquirrel.com
@@ -7812,10 +7897,12 @@
 0.0.0.0 sturdysnail.com
 0.0.0.0 stx-assets.sharethrough.com
 0.0.0.0 su.addthis.com
+0.0.0.0 subletyoke.com
 0.0.0.0 subsequentsand.com
 0.0.0.0 subsequentstew.com
 0.0.0.0 subsequentswim.com
 0.0.0.0 substantialcarpenter.com
+0.0.0.0 substantialgrade.com
 0.0.0.0 substantialstraw.com
 0.0.0.0 subway2016.tt.omtrdc.net
 0.0.0.0 succeedscene.com
@@ -7843,6 +7930,7 @@
 0.0.0.0 supersonicads.com
 0.0.0.0 supervisegoldfish.com
 0.0.0.0 supply.inmobicdn.net
+0.0.0.0 supportwaves.com
 0.0.0.0 survata.com
 0.0.0.0 survey.g.doubleclick.net
 0.0.0.0 survey.survicate.com
@@ -7938,6 +8026,7 @@
 0.0.0.0 synchroscript.deliveryengine.adswizz.com
 0.0.0.0 syndication.trafficreps.com
 0.0.0.0 synonymousrule.com
+0.0.0.0 synonymoussticks.com
 0.0.0.0 synthes.vo.llnwd.net
 0.0.0.0 synthesizespoon.com
 0.0.0.0 systemizecoat.com
@@ -8104,6 +8193,7 @@
 0.0.0.0 tealium.hs.llnwd.net
 0.0.0.0 tealiumiq.com
 0.0.0.0 tearfulglass.com
+0.0.0.0 tediousbear.com
 0.0.0.0 tediousticket.com
 0.0.0.0 tedioustooth.com
 0.0.0.0 teenytinycellar.com
@@ -8140,8 +8230,8 @@
 0.0.0.0 terriblethumb.com
 0.0.0.0 terrificgoose.com
 0.0.0.0 terrifictooth.com
+0.0.0.0 testadmiral.com
 0.0.0.0 testedtouch.com
-0.0.0.0 teststocking.com
 0.0.0.0 texturetrick.com
 0.0.0.0 tg.dr.socdm.com
 0.0.0.0 tg1.aniview.com
@@ -8172,6 +8262,7 @@
 0.0.0.0 thoughtlessknot.com
 0.0.0.0 threechurch.com
 0.0.0.0 threetruck.com
+0.0.0.0 thrivecover.com
 0.0.0.0 throattrees.com
 0.0.0.0 thrtle.com
 0.0.0.0 thumbnail.smartnews-ads.com
@@ -8219,7 +8310,6 @@
 0.0.0.0 tnc16-useast1a.isnssdk.com
 0.0.0.0 tnkfactory.com
 0.0.0.0 tns.simba.taobao.com
-0.0.0.0 toadtexture.com
 0.0.0.0 tobapplog.ctobsnssdk.com
 0.0.0.0 toblog.ctobsnssdk.com
 0.0.0.0 toecircle.com
@@ -8406,6 +8496,7 @@
 0.0.0.0 trappush.com
 0.0.0.0 trapteaching.com
 0.0.0.0 traxex.gannettdigital.com
+0.0.0.0 traytouch.com
 0.0.0.0 trc-events.taboola.com
 0.0.0.0 trc.kissmetrics.com
 0.0.0.0 trc.pushnami.com
@@ -8479,6 +8570,8 @@
 0.0.0.0 tw-gmtdmp.mookie1.com
 0.0.0.0 tw.api.vpon.com
 0.0.0.0 tw.c.appier.net
+0.0.0.0 twistloss.com
+0.0.0.0 twistsweater.com
 0.0.0.0 twotreymedia10001697.o18.click
 0.0.0.0 tx-ad.a.yximgs.com
 0.0.0.0 tx-kmpaudio.pull.yximgs.com
@@ -8536,10 +8629,10 @@
 0.0.0.0 ums.adtech.com
 0.0.0.0 umtrack.com
 0.0.0.0 unablehope.com
+0.0.0.0 unaccountablecreator.com
 0.0.0.0 unaccountablepie.com
 0.0.0.0 unadvisedengine.com
 0.0.0.0 unarmedindustry.com
-0.0.0.0 unbecomingbikes.com
 0.0.0.0 unbecominghall.com
 0.0.0.0 unbecominglamp.com
 0.0.0.0 uncoveredcircle.com
@@ -8783,6 +8876,7 @@
 0.0.0.0 via.batch.com
 0.0.0.0 viacom.sc.omtrdc.net
 0.0.0.0 vibranthaven.com
+0.0.0.0 vibrantsundown.com
 0.0.0.0 victoriousrequest.com
 0.0.0.0 vid-io-iad.springserve.com
 0.0.0.0 vid-io-sin.springserve.com
@@ -8850,6 +8944,7 @@
 0.0.0.0 voicevegetable.com
 0.0.0.0 volatileprofit.com
 0.0.0.0 volatilerainstorm.com
+0.0.0.0 volatilevessel.com
 0.0.0.0 voraciousgrip.com
 0.0.0.0 vox.amp.permutive.com
 0.0.0.0 voxcustomdfp152282307853.s.moatpixel.com
@@ -8998,6 +9093,7 @@
 0.0.0.0 wildcommittee.com
 0.0.0.0 wildernesscamera.com
 0.0.0.0 wirecomic.com
+0.0.0.0 wirypaste.com
 0.0.0.0 wish.securedtouch.com
 0.0.0.0 wistfulflight.com
 0.0.0.0 wittypopcorn.com
@@ -9134,6 +9230,7 @@
 0.0.0.0 yemonisoni.com
 0.0.0.0 yicha.jp
 0.0.0.0 yield-manager.browsiprod.com
+0.0.0.0 yieldingwoman.com
 0.0.0.0 yieldkit.com
 0.0.0.0 yieldlab.net.edgekey.net
 0.0.0.0 yieldmo.com
@@ -9170,6 +9267,7 @@
 0.0.0.0 zedo.com
 0.0.0.0 zem.outbrainimg.com
 0.0.0.0 zestycrime.com
+0.0.0.0 zestywire.com
 0.0.0.0 zeus.ad.intl.xiaomi.com
 0.0.0.0 zeus.ad.xiaomi.com
 0.0.0.0 zfehvv.xyz
@@ -9183,6 +9281,7 @@
 0.0.0.0 zippywind.com
 0.0.0.0 zj.dcys.ijinshan.com
 0.0.0.0 zlp6s.pw
+0.0.0.0 zml-apm-prd.dbv4.noncd.db.de
 0.0.0.0 zplayer-trk.zdn.vn
 0.0.0.0 zplayer.trk.zapps.vn
 0.0.0.0 ztevents.zaloapp.com

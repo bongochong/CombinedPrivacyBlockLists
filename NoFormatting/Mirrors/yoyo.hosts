@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 08 Dec 2023 10:16:08 GMT
-# entries:        3776
+# last updated:   Thu, 21 Dec 2023 14:03:25 GMT
+# entries:        3787
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -12,6 +12,7 @@
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
 # start date:    Fri, 06 Jun 2003 00:00:00
+127.0.0.1 1-1ads.com
 127.0.0.1 101com.com
 127.0.0.1 101order.com
 127.0.0.1 180hits.de
@@ -21,6 +22,7 @@
 127.0.0.1 207.net
 127.0.0.1 247media.com
 127.0.0.1 24log.com
+127.0.0.1 24log.de
 127.0.0.1 24pm-affiliation.com
 127.0.0.1 2mdn.net
 127.0.0.1 2o7.net
@@ -98,6 +100,7 @@
 127.0.0.1 ad-balancer.net
 127.0.0.1 ad-cupid.com
 127.0.0.1 ad-delivery.net
+127.0.0.1 ad-pay.de
 127.0.0.1 ad-rotator.com
 127.0.0.1 ad-score.com
 127.0.0.1 ad-server.gulasidorna.se
@@ -942,7 +945,6 @@
 127.0.0.1 aliasanvil.com
 127.0.0.1 alikeaddition.com
 127.0.0.1 alipromo.com
-127.0.0.1 all4spy.com
 127.0.0.1 allosponsor.com
 127.0.0.1 alluringbucket.com
 127.0.0.1 aloofmetal.com
@@ -1379,6 +1381,7 @@
 127.0.0.1 click.justwatch.com
 127.0.0.1 click.kmindex.ru
 127.0.0.1 click.mail.hotels.com
+127.0.0.1 click.mail.salesforce.com
 127.0.0.1 click.mailing.ticketmaster.com
 127.0.0.1 click.mkt.grab.com
 127.0.0.1 click.news.vans.com
@@ -1549,11 +1552,14 @@
 127.0.0.1 customad.cnn.com
 127.0.0.1 customads.co
 127.0.0.1 customers.kameleoon.com
+127.0.0.1 cutcurrent.com
 127.0.0.1 cutechin.com
 127.0.0.1 cutecushion.com
 127.0.0.1 cuteturkey.com
 127.0.0.1 cxense.com
 127.0.0.1 cyberbounty.com
+127.0.0.1 d-collect.jennifersoft.com
+127.0.0.1 d-collector.jennifersoft.com
 127.0.0.1 d.adroll.com
 127.0.0.1 d1f0tbk1v3e25u.cloudfront.net
 127.0.0.1 d2cmedia.ca
@@ -1602,6 +1608,7 @@
 127.0.0.1 detailedgovernment.com
 127.0.0.1 detectdiscovery.com
 127.0.0.1 dev.visualwebsiteoptimizer.com
+127.0.0.1 dewdroplagoon.com
 127.0.0.1 dianomi.com
 127.0.0.1 didtheyreadit.com
 127.0.0.1 digestiondrawer.com
@@ -1853,6 +1860,7 @@
 127.0.0.1 freewheel.com
 127.0.0.1 freewheel.tv
 127.0.0.1 freezingbuilding.com
+127.0.0.1 frequentflesh.com
 127.0.0.1 freshrelevance.com
 127.0.0.1 friendwool.com
 127.0.0.1 frightenedpotato.com
@@ -1889,6 +1897,7 @@
 127.0.0.1 gavvia.com
 127.0.0.1 gearwom.de
 127.0.0.1 gekko.spiceworks.com
+127.0.0.1 generateoffice.com
 127.0.0.1 geo.digitalpoint.com
 127.0.0.1 geobanner.adultfriendfinder.com
 127.0.0.1 georiot.com
@@ -1952,6 +1961,7 @@
 127.0.0.1 handsomehose.com
 127.0.0.1 handyfield.com
 127.0.0.1 handyfireman.com
+127.0.0.1 handyincrease.com
 127.0.0.1 hardtofindmilk.com
 127.0.0.1 harrenmedia.com
 127.0.0.1 harrenmedianetwork.com
@@ -2999,6 +3009,7 @@
 127.0.0.1 scaredswing.com
 127.0.0.1 scarfsmash.com
 127.0.0.1 scatteredheat.com
+127.0.0.1 scatteredquiver.com
 127.0.0.1 scintillatingscissors.com
 127.0.0.1 scintillatingsilver.com
 127.0.0.1 scintillatingspace.com

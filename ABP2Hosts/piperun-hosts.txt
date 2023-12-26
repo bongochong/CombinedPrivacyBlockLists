@@ -1,4 +1,4 @@
-# Fri Dec  8 06:24:15 PM UTC 2023
+# Tue Dec 26 09:21:38 PM UTC 2023
 # Piperun IPLoggerFilter Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 00689.net
 0.0.0.0 02ip.ru
@@ -402,6 +402,7 @@
 0.0.0.0 interventionspecialists.com
 0.0.0.0 investorinthefamilyservices.com
 0.0.0.0 ip-grabber.com
+0.0.0.0 ip-trap.com
 0.0.0.0 ip.jlynx.net
 0.0.0.0 ipc360.org
 0.0.0.0 ipddoser.xyz
@@ -922,6 +923,7 @@
 0.0.0.0 yourskipper.co.uk
 0.0.0.0 youshouldclick.us
 0.0.0.0 youutube.gq
+0.0.0.0 ythingy.com
 0.0.0.0 ytwrf4a.win
 0.0.0.0 yukongoldextremeapp.com
 0.0.0.0 yum.mom
