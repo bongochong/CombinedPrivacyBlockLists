@@ -1,4 +1,4 @@
-# Tue Jan  9 09:14:38 PM UTC 2024
+# Tue Jan  9 09:36:17 PM UTC 2024
 # AdGuard Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0--skitch--0.tt.omtrdc.net
 0.0.0.0 0-2-83.tt.omtrdc.net
