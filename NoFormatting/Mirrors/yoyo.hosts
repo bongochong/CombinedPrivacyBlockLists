@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 05 Jan 2024 09:47:27 GMT
-# entries:        3784
+# last updated:   Mon, 22 Jan 2024 16:36:33 GMT
+# entries:        3782
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -16,7 +16,6 @@
 127.0.0.1 101com.com
 127.0.0.1 101order.com
 127.0.0.1 180hits.de
-127.0.0.1 180searchassistant.com
 127.0.0.1 1link2020.com
 127.0.0.1 1rx.io
 127.0.0.1 207.net
@@ -69,7 +68,6 @@
 127.0.0.1 abacho.net
 127.0.0.1 abackafterthought.com
 127.0.0.1 abackchain.com
-127.0.0.1 abackframe.com
 127.0.0.1 abandonedaction.com
 127.0.0.1 abc-ads.com
 127.0.0.1 ablink.comms.trainline.com
@@ -219,6 +217,7 @@
 127.0.0.1 adclient1.tucows.com
 127.0.0.1 adclixx.net
 127.0.0.1 adcolony.com
+127.0.0.1 adcomplete.com
 127.0.0.1 adconion.com
 127.0.0.1 adcontent.gamespy.com
 127.0.0.1 adcovery.com
@@ -574,7 +573,6 @@
 127.0.0.1 ads.pof.com
 127.0.0.1 ads.powweb.com
 127.0.0.1 ads.ppvmedien.de
-127.0.0.1 ads.primissima.it
 127.0.0.1 ads.printscr.com
 127.0.0.1 ads.prisacom.com
 127.0.0.1 ads.program3.com
@@ -814,7 +812,6 @@
 127.0.0.1 adsrv2.swidnica24.pl
 127.0.0.1 adsrvr.org
 127.0.0.1 adstacks.in
-127.0.0.1 adstanding.com
 127.0.0.1 adstat.4u.pl
 127.0.0.1 adstest.weather.com
 127.0.0.1 adsupply.com
@@ -851,7 +848,6 @@
 127.0.0.1 adv.hwupgrade.it
 127.0.0.1 adv.livedoor.com
 127.0.0.1 adv.mpvc.it
-127.0.0.1 adv.neverbuy.com
 127.0.0.1 adv.nexthardware.com
 127.0.0.1 adv.webmd.com
 127.0.0.1 adv.wp.pl
@@ -1062,7 +1058,6 @@
 127.0.0.1 audit.median.hu
 127.0.0.1 audit.webinform.hu
 127.0.0.1 augur.io
-127.0.0.1 auto-bannertausch.de
 127.0.0.1 automaticflock.com
 127.0.0.1 avalonalbum.com
 127.0.0.1 avazutracking.net
@@ -1197,6 +1192,7 @@
 127.0.0.1 bigreal.org
 127.0.0.1 bikesboard.com
 127.0.0.1 billboard.cz
+127.0.0.1 birthdaybelief.com
 127.0.0.1 bitmedianetwork.com
 127.0.0.1 bizible.com
 127.0.0.1 bizographics.com
@@ -1463,6 +1459,7 @@
 127.0.0.1 completecabbage.com
 127.0.0.1 complextoad.com
 127.0.0.1 comprabanner.it
+127.0.0.1 concernedchange.com
 127.0.0.1 concernedcondition.com
 127.0.0.1 conditionchange.com
 127.0.0.1 conductrics.com
@@ -1579,7 +1576,6 @@
 127.0.0.1 dc-storm.com
 127.0.0.1 de17a.com
 127.0.0.1 deadpangate.com
-127.0.0.1 deadpanmarble.com
 127.0.0.1 dealdotcom.com
 127.0.0.1 debonairway.com
 127.0.0.1 debtbusterloans.com
@@ -1684,7 +1680,6 @@
 127.0.0.1 eiv.baidu.com
 127.0.0.1 ejyymghi.com
 127.0.0.1 elasticchange.com
-127.0.0.1 elasticducks.com
 127.0.0.1 elderlyscissors.com
 127.0.0.1 elderlytown.com
 127.0.0.1 elephantqueue.com
@@ -1951,6 +1946,7 @@
 127.0.0.1 h0.t.hubspotemail.net
 127.0.0.1 h78xb.pw
 127.0.0.1 habitualhumor.com
+127.0.0.1 halcyoncanyon.com
 127.0.0.1 haltingbadge.com
 127.0.0.1 hammerhearing.com
 127.0.0.1 handsomehose.com
@@ -2331,7 +2327,6 @@
 127.0.0.1 mautic.com
 127.0.0.1 max.i12.de
 127.0.0.1 maximiser.net
-127.0.0.1 maximumcash.com
 127.0.0.1 maxonclick.com
 127.0.0.1 mbs.megaroticlive.com
 127.0.0.1 mcdlks.com
@@ -2515,6 +2510,7 @@
 127.0.0.1 newnet.qsrch.com
 127.0.0.1 newnudecash.com
 127.0.0.1 newopenx.detik.com
+127.0.0.1 newsadsppush.com
 127.0.0.1 newsletter-link.com
 127.0.0.1 newstarads.com
 127.0.0.1 newt1.adultadworld.com
@@ -2524,6 +2520,7 @@
 127.0.0.1 ng3.ads.warnerbros.com
 127.0.0.1 nhpfvdlbjg.com
 127.0.0.1 nitroclicks.com
+127.0.0.1 nocturnalloom.com
 127.0.0.1 noiselessplough.com
 127.0.0.1 nondescriptcrowd.com
 127.0.0.1 nondescriptnote.com
@@ -2702,6 +2699,7 @@
 127.0.0.1 pixel.yabidos.com
 127.0.0.1 placed.com
 127.0.0.1 placeframe.com
+127.0.0.1 placidactivity.com
 127.0.0.1 plausibleio.workers.dev
 127.0.0.1 play4traffic.com
 127.0.0.1 playhaven.com
@@ -2731,6 +2729,7 @@
 127.0.0.1 porntrack.com
 127.0.0.1 possessivebucket.com
 127.0.0.1 possibleboats.com
+127.0.0.1 possiblepencil.com
 127.0.0.1 post.spmailtechno.com
 127.0.0.1 postback.iqm.com
 127.0.0.1 postrelease.com
@@ -2830,7 +2829,6 @@
 127.0.0.1 quantummetric.com
 127.0.0.1 quarterbean.com
 127.0.0.1 quarterserver.de
-127.0.0.1 questaffiliates.net
 127.0.0.1 quickkoala.io
 127.0.0.1 quicksandear.com
 127.0.0.1 quietknowledge.com
@@ -2953,7 +2951,6 @@
 127.0.0.1 roar.com
 127.0.0.1 robotreplay.com
 127.0.0.1 rockabox.co
-127.0.0.1 roia.biz
 127.0.0.1 rok.com.com
 127.0.0.1 rollconnection.com
 127.0.0.1 rose.ixbt.com
@@ -2990,6 +2987,7 @@
 127.0.0.1 sadloaf.com
 127.0.0.1 safeanalytics.net
 127.0.0.1 sail-horizon.com
+127.0.0.1 samplesamba.com
 127.0.0.1 samsungacr.com
 127.0.0.1 samsungads.com
 127.0.0.1 sanalytics.disneyplus.com
@@ -3017,6 +3015,7 @@
 127.0.0.1 scratch2cash.com
 127.0.0.1 screechingfurniture.com
 127.0.0.1 screechingslip.com
+127.0.0.1 screechingstocking.com
 127.0.0.1 screechingstove.com
 127.0.0.1 scripte-monster.de
 127.0.0.1 scrubswim.com
@@ -3024,7 +3023,6 @@
 127.0.0.1 seadform.net
 127.0.0.1 searchmarketing.com
 127.0.0.1 searchramp.com
-127.0.0.1 seashoreturn.com
 127.0.0.1 secre.jp
 127.0.0.1 secretivecub.com
 127.0.0.1 secretspiders.com
@@ -3764,7 +3762,6 @@
 127.0.0.1 yieldmo.com
 127.0.0.1 yieldoptimizer.com
 127.0.0.1 yieldtraffic.com
-127.0.0.1 yldbt.com
 127.0.0.1 ymetrica1.com
 127.0.0.1 yoads.net
 127.0.0.1 yoggrt.com
@@ -3784,6 +3781,7 @@
 127.0.0.1 zencudo.co.uk
 127.0.0.1 zenkreka.com
 127.0.0.1 zenzuu.com
+127.0.0.1 zephyrlabyrinth.com
 127.0.0.1 zeus.developershed.com
 127.0.0.1 zeusclicks.com
 127.0.0.1 zion-telemetry.api.cnn.io
