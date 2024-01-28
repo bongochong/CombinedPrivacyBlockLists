@@ -1,4 +1,4 @@
-# Mon Jan 22 07:36:28 PM UTC 2024
+# Sun Jan 28 06:09:21 PM UTC 2024
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -470,6 +470,7 @@
 0.0.0.0 ad.weibo.com
 0.0.0.0 ad.weplayer.cc
 0.0.0.0 ad.wynk.in
+0.0.0.0 ad.youku.com
 0.0.0.0 ad.zijieapi.com
 0.0.0.0 ad11p.adfarm1.adition.com
 0.0.0.0 ad13.adfarm1.adition.com
@@ -939,6 +940,7 @@
 0.0.0.0 adx-dre.op.hicloud.com
 0.0.0.0 adx-exchange.toast.com
 0.0.0.0 adx-in.ads.heytapmobile.com
+0.0.0.0 adx-open-service.youku.com
 0.0.0.0 adx-tk.rayjump.com
 0.0.0.0 adx-west-imp.aarki.net
 0.0.0.0 adx-winners-ap-southeast-1-rtb.adroll.com
@@ -2289,6 +2291,7 @@
 0.0.0.0 cache.addthiscdn.com
 0.0.0.0 cache.celtra.com
 0.0.0.0 cache.send.microadinc.com
+0.0.0.0 cad.youku.com
 0.0.0.0 cade.clmbtech.com
 0.0.0.0 cads.scalemonk.com
 0.0.0.0 cafe-latte.myshoplus.com
@@ -3759,6 +3762,7 @@
 0.0.0.0 events.bouncex.net
 0.0.0.0 events.brightline.tv
 0.0.0.0 events.browsiprod.com
+0.0.0.0 events.character.ai
 0.0.0.0 events.cid.samba.tv
 0.0.0.0 events.claspws.tv
 0.0.0.0 events.engager.ecbsn.com
@@ -5260,6 +5264,7 @@
 0.0.0.0 maddeningpowder.com
 0.0.0.0 madnet.ru
 0.0.0.0 mads.amazon-adsystem.com
+0.0.0.0 mads.amazon.com
 0.0.0.0 mads.bz
 0.0.0.0 mafo.adalliance.io
 0.0.0.0 magic.cmcm.com
@@ -6692,6 +6697,7 @@
 0.0.0.0 reporting.aatkit.com
 0.0.0.0 reporting.tapstream.com
 0.0.0.0 reports.ubimo.com
+0.0.0.0 reportwest-midas.codmwest.com
 0.0.0.0 representativebat.com
 0.0.0.0 representativeray.com
 0.0.0.0 reproio.com
@@ -9288,6 +9294,7 @@
 0.0.0.0 yildun.iad-03.braze.com
 0.0.0.0 yj-a.p.adnxs.com
 0.0.0.0 yj.p.adnxs.com
+0.0.0.0 ykad-data.youku.com
 0.0.0.0 yllix.com
 0.0.0.0 ylog.hiido.com
 0.0.0.0 ymtracking.com

@@ -21,6 +21,7 @@
 0.0.0.0 0909810.com
 0.0.0.0 093093.jp
 0.0.0.0 09h3rhh4zy.kuwxg7esmv.toxq93ljct.aze.link
+0.0.0.0 0aczpd.top
 0.0.0.0 0b8a67f7.ngrok.io
 0.0.0.0 0d847862199.com
 0.0.0.0 0didjsgheje.club
@@ -8469,6 +8470,7 @@
 0.0.0.0 ashgrrwt.click
 0.0.0.0 ashkokatroma.com
 0.0.0.0 ashot.txxx.com
+0.0.0.0 asia-ex-adlog.vivoglobal.com
 0.0.0.0 asia-kunsthandwea1-online.com
 0.0.0.0 asia-south-36774.packetriot.net
 0.0.0.0 asia-southeast1.ads.playground.xyz
@@ -10076,7 +10078,6 @@
 0.0.0.0 brooks.112.2o7.net
 0.0.0.0 brosmailing.com
 0.0.0.0 brothersbucket.com
-0.0.0.0 brothersjoy.nl
 0.0.0.0 browsee.io
 0.0.0.0 browser-http-intake.logs.datadoghq.com
 0.0.0.0 browser-http-intake.logs.datadoghq.eu
@@ -14774,6 +14775,7 @@
 0.0.0.0 efore.info
 0.0.0.0 efzhm85.com
 0.0.0.0 eg-p2.eurogamer.net
+0.0.0.0 eg8ga8.com
 0.0.0.0 egalleryimagesas.pl
 0.0.0.0 egia.actonservice.com
 0.0.0.0 egopastor.biz
@@ -21391,6 +21393,7 @@
 0.0.0.0 kjn2.destinia.com
 0.0.0.0 kkjgg.yufjgg.com
 0.0.0.0 kkrudy.com
+0.0.0.0 kkweb.sjxshx.top
 0.0.0.0 kladara.ml
 0.0.0.0 klanthelpdesk.live
 0.0.0.0 klb.oursupersk.com
@@ -30290,6 +30293,7 @@
 0.0.0.0 privacy-tools-for-you-453.com
 0.0.0.0 privacy.idxmail.us
 0.0.0.0 privacy.yieldlove-ad-serving.net
+0.0.0.0 privacyguides.io
 0.0.0.0 privacyharbor.net
 0.0.0.0 privacyharbors.com
 0.0.0.0 privacytoolsfree.site
@@ -33137,6 +33141,7 @@
 0.0.0.0 sjjscenter.pw
 0.0.0.0 sjme.pk
 0.0.0.0 sjremetrics.java.com
+0.0.0.0 sjxshx.top
 0.0.0.0 sk.eulerian.com
 0.0.0.0 sk.eulerian.eu
 0.0.0.0 sk.eulerian.fr
@@ -34132,6 +34137,7 @@
 0.0.0.0 ssupp2.site
 0.0.0.0 ssw-live.org
 0.0.0.0 ssw.138front.com
+0.0.0.0 ssweb.0aczpd.top
 0.0.0.0 st-analytics.anthill.vn
 0.0.0.0 st-n.ads1-adnow.com
 0.0.0.0 st-n.ads2-adnow.com
@@ -38818,6 +38824,7 @@
 0.0.0.0 werisefarms.com
 0.0.0.0 wernerelectric.actonservice.com
 0.0.0.0 wertuest.xyz
+0.0.0.0 wertyhjuhg.online
 0.0.0.0 wes.df.telemetry.microsoft.com
 0.0.0.0 wescam.info
 0.0.0.0 weserkurier01.webtrekk.net
@@ -38873,6 +38880,7 @@
 0.0.0.0 whitefuulsoft.com
 0.0.0.0 whitelist.eu
 0.0.0.0 whitelisted.org
+0.0.0.0 whjsmdhum5.icu
 0.0.0.0 whoaksoo.com
 0.0.0.0 whoawareness.com
 0.0.0.0 whoil.club
@@ -39140,6 +39148,7 @@
 0.0.0.0 wsback-videotracking.presage.io
 0.0.0.0 wsdyanaekppyinitalymedicalconsultant3.duckdns.org
 0.0.0.0 wshsoft.company
+0.0.0.0 wss.eg8ga8.com
 0.0.0.0 wss.nablabee.com
 0.0.0.0 wss.rand.com.ru
 0.0.0.0 wsws1234.net
