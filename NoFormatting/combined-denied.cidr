@@ -19,8 +19,9 @@ deny from 101.99.95.0/24
 deny from 102.134.73.59/32
 deny from 102.192.0.0/12
 deny from 102.208.0.0/15
-deny from 102.210.0.0/20
+deny from 102.210.0.0/21
 deny from 102.210.54.0/23
+deny from 102.210.8.0/22
 deny from 102.221.75.0/24
 deny from 102.222.106.169/32
 deny from 102.240.0.0/16
