@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 06 Feb 2024 15:59:36 GMT
-# entries:        3785
+# last updated:   Thu, 08 Feb 2024 09:22:05 GMT
+# entries:        3782
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -22,7 +22,6 @@
 127.0.0.1 207.net
 127.0.0.1 247media.com
 127.0.0.1 24log.com
-127.0.0.1 24log.de
 127.0.0.1 24pm-affiliation.com
 127.0.0.1 2mdn.net
 127.0.0.1 2o7.net
@@ -59,7 +58,6 @@
 127.0.0.1 a.xanga.com
 127.0.0.1 a135.wftv.com
 127.0.0.1 a5.overclockers.ua
-127.0.0.1 a8a8altrk.com
 127.0.0.1 aa-metrics.beauty.hotpepper.jp
 127.0.0.1 aa-metrics.recruit-card.jp
 127.0.0.1 aa-metrics.trip-ai.jp
@@ -901,7 +899,6 @@
 127.0.0.1 affili.net
 127.0.0.1 affiliate.1800flowers.com
 127.0.0.1 affiliate.dtiserv.com
-127.0.0.1 affiliate.gamestop.com
 127.0.0.1 affiliate.rusvpn.com
 127.0.0.1 affiliate.travelnow.com
 127.0.0.1 affiliate.treated.com
@@ -2137,6 +2134,8 @@
 127.0.0.1 joetec.net
 127.0.0.1 joyoussurprise.com
 127.0.0.1 js-agent.newrelic.com
+127.0.0.1 js-api.otherlevels.com
+127.0.0.1 js-tags.otherlevels.com
 127.0.0.1 js.iterable.com
 127.0.0.1 js.users.51.la
 127.0.0.1 jsecoin.com
@@ -2520,7 +2519,6 @@
 127.0.0.1 nexac.com
 127.0.0.1 nexage.com
 127.0.0.1 ng3.ads.warnerbros.com
-127.0.0.1 nhpfvdlbjg.com
 127.0.0.1 nitroclicks.com
 127.0.0.1 nocturnalloom.com
 127.0.0.1 noiselessplough.com
@@ -2628,7 +2626,6 @@
 127.0.0.1 oxen.hillcountrytexas.com
 127.0.0.1 p-n.io
 127.0.0.1 p.nag.ru
-127.0.0.1 p2r14.com
 127.0.0.1 paddleangle.com
 127.0.0.1 padsbrown.com
 127.0.0.1 pagead.l.google.com

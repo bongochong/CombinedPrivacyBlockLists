@@ -1,4 +1,4 @@
-# Tue Feb  6 09:25:09 PM UTC 2024
+# Thu Feb 15 06:17:24 PM UTC 2024
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -4771,6 +4771,7 @@
 0.0.0.0 internalcondition.com
 0.0.0.0 internalsink.com
 0.0.0.0 interstitial.fyber.com
+0.0.0.0 interviewidiomantidote.com
 0.0.0.0 intouch.arcsoft.com
 0.0.0.0 intowow.com
 0.0.0.0 inv-nets-eu.admixer.net
@@ -6208,6 +6209,7 @@
 0.0.0.0 placements.tapjoy.com
 0.0.0.0 placidactivity.com
 0.0.0.0 placidperson.com
+0.0.0.0 placingsolemnlyinexpedient.com
 0.0.0.0 plainplayground.com
 0.0.0.0 plainrequest.com
 0.0.0.0 planebasin.com
