@@ -10064,7 +10064,7 @@
 0.0.0.0 cheap-web-hosting-here.blogspot.com
 0.0.0.0 cheap-xanax-here.blogspot.com
 0.0.0.0 cheat-world.site
-0.0.0.0 cheater-pro.com
+0.0.0.0 cheat.aeesan.com
 0.0.0.0 cheaterboss.com
 0.0.0.0 cheats.ink
 0.0.0.0 checkedservices.website
@@ -15088,6 +15088,7 @@
 0.0.0.0 gainautomileage.com
 0.0.0.0 gainoilcash.live
 0.0.0.0 galaxien.com
+0.0.0.0 galaxycheats.site
 0.0.0.0 galeden.cn
 0.0.0.0 galerieslafayette.eulerian.net
 0.0.0.0 galikos.com
@@ -25883,6 +25884,7 @@
 0.0.0.0 petiteactualite.fr
 0.0.0.0 petiteumbrella.com
 0.0.0.0 petparadise.biz
+0.0.0.0 pewhack.com
 0.0.0.0 peyvandha.ir
 0.0.0.0 pf.etr.im
 0.0.0.0 pf.eulerian.com
@@ -25991,6 +25993,7 @@
 0.0.0.0 phillymedia.112.2o7.net
 0.0.0.0 phl5.hallocanarischeeilanden.com
 0.0.0.0 phoenix-adrunner.mycomputer.com
+0.0.0.0 phoenix-software.org
 0.0.0.0 phoenixad.io
 0.0.0.0 phoenixads.co.in
 0.0.0.0 phone-analyzer.com
@@ -30415,6 +30418,7 @@
 0.0.0.0 studiogiamberardino.it
 0.0.0.0 studiopsicologiaroma.com
 0.0.0.0 study.snapads.com
+0.0.0.0 stunning-joking-cotton.com
 0.0.0.0 stunthedge.com
 0.0.0.0 stupendousselection.com
 0.0.0.0 stupendoussleet.com
@@ -31315,7 +31319,6 @@
 0.0.0.0 topforall.com
 0.0.0.0 topg.jp
 0.0.0.0 topgamesites.net
-0.0.0.0 tophacks.pro
 0.0.0.0 topiccraze.com
 0.0.0.0 topichawaii.com
 0.0.0.0 toplist.cz
@@ -34650,6 +34653,7 @@
 0.0.0.0 www.statsy.net
 0.0.0.0 www.stattrax.com
 0.0.0.0 www.store-mix.com
+0.0.0.0 www.stunning-joking-cotton.com
 0.0.0.0 www.styledrops.hu
 0.0.0.0 www.subsitesadserver.co.uk
 0.0.0.0 www.sumapo.org
