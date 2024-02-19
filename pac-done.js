@@ -1,4 +1,4 @@
-// **** Thu Feb 15 06:23:02 PM UTC 2024
+// **** Mon Feb 19 01:28:48 AM UTC 2024
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.00689.net") ||
@@ -8899,7 +8899,7 @@ shExpMatch(host, "*.cheap-xanax-here.blogspot.com") ||
 shExpMatch(host, "*.cheapcinema.club") ||
 shExpMatch(host, "*.cheapdomains.science") ||
 shExpMatch(host, "*.cheat-world.site") ||
-shExpMatch(host, "*.cheater-pro.com") ||
+shExpMatch(host, "*.cheat.aeesan.com") ||
 shExpMatch(host, "*.cheaterboss.com") ||
 shExpMatch(host, "*.cheats.ink") ||
 shExpMatch(host, "*.checkedservices.website") ||
@@ -13201,6 +13201,7 @@ shExpMatch(host, "*.gain-a-dentalimplantssite.fyi") ||
 shExpMatch(host, "*.gainautomileage.com") ||
 shExpMatch(host, "*.gainoilcash.live") ||
 shExpMatch(host, "*.galaxien.com") ||
+shExpMatch(host, "*.galaxycheats.site") ||
 shExpMatch(host, "*.galaxystars.pro") ||
 shExpMatch(host, "*.galeden.cn") ||
 shExpMatch(host, "*.galikos.com") ||
@@ -16474,6 +16475,7 @@ shExpMatch(host, "*.jtracking.lulusoft.com") ||
 shExpMatch(host, "*.jtybleua.jp") ||
 shExpMatch(host, "*.juancarloscubeiro.com") ||
 shExpMatch(host, "*.jubilantcanyon.com") ||
+shExpMatch(host, "*.jubilantglimmer.com") ||
 shExpMatch(host, "*.jubna.com") ||
 shExpMatch(host, "*.juggler.services.disqus.com") ||
 shExpMatch(host, "*.juiceadv.com") ||
@@ -21187,6 +21189,7 @@ shExpMatch(host, "*.petiteumbrella.com") ||
 shExpMatch(host, "*.petparadise.biz") ||
 shExpMatch(host, "*.petrenko.biz") ||
 shExpMatch(host, "*.petsmovies.com") ||
+shExpMatch(host, "*.pewhack.com") ||
 shExpMatch(host, "*.peyvandha.ir") ||
 shExpMatch(host, "*.pf.etr.im") ||
 shExpMatch(host, "*.pf0755.cn") ||
@@ -21265,6 +21268,7 @@ shExpMatch(host, "*.phizzle.com") ||
 shExpMatch(host, "*.phl5.hallocanarischeeilanden.com") ||
 shExpMatch(host, "*.phluant.com") ||
 shExpMatch(host, "*.phoenix-adrunner.mycomputer.com") ||
+shExpMatch(host, "*.phoenix-software.org") ||
 shExpMatch(host, "*.phoenixad.io") ||
 shExpMatch(host, "*.phoenixads.co.in") ||
 shExpMatch(host, "*.phone-analyzer.com") ||
@@ -25542,6 +25546,7 @@ shExpMatch(host, "*.studiogiamberardino.it") ||
 shExpMatch(host, "*.studiolegalecipriano.com") ||
 shExpMatch(host, "*.studiolegalelarosabambaci.it") ||
 shExpMatch(host, "*.studiopsicologiaroma.com") ||
+shExpMatch(host, "*.stunning-joking-cotton.com") ||
 shExpMatch(host, "*.stunthedge.com") ||
 shExpMatch(host, "*.stupendousselection.com") ||
 shExpMatch(host, "*.stupendoussleet.com") ||
@@ -26525,7 +26530,6 @@ shExpMatch(host, "*.topeuro.biz") ||
 shExpMatch(host, "*.topforall.com") ||
 shExpMatch(host, "*.topg.jp") ||
 shExpMatch(host, "*.topgamesites.net") ||
-shExpMatch(host, "*.tophacks.pro") ||
 shExpMatch(host, "*.topiccraze.com") ||
 shExpMatch(host, "*.topichawaii.com") ||
 shExpMatch(host, "*.toplist.cz") ||
@@ -27479,6 +27483,7 @@ shExpMatch(host, "*.tran-engineering.ch") ||
 shExpMatch(host, "*.tranquilamulet.com") ||
 shExpMatch(host, "*.tranquilcanyon.com") ||
 shExpMatch(host, "*.tranquilodobem.site") ||
+shExpMatch(host, "*.tranquilplume.com") ||
 shExpMatch(host, "*.tranquilside.com") ||
 shExpMatch(host, "*.transferfiles.cloud") ||
 shExpMatch(host, "*.translateoatmeal.com") ||
@@ -38481,7 +38486,7 @@ shExpMatch(host, "cheap-xanax-here.blogspot.com") ||
 shExpMatch(host, "cheapcinema.club") ||
 shExpMatch(host, "cheapdomains.science") ||
 shExpMatch(host, "cheat-world.site") ||
-shExpMatch(host, "cheater-pro.com") ||
+shExpMatch(host, "cheat.aeesan.com") ||
 shExpMatch(host, "cheaterboss.com") ||
 shExpMatch(host, "cheats.ink") ||
 shExpMatch(host, "checkedservices.website") ||
@@ -42783,6 +42788,7 @@ shExpMatch(host, "gain-a-dentalimplantssite.fyi") ||
 shExpMatch(host, "gainautomileage.com") ||
 shExpMatch(host, "gainoilcash.live") ||
 shExpMatch(host, "galaxien.com") ||
+shExpMatch(host, "galaxycheats.site") ||
 shExpMatch(host, "galaxystars.pro") ||
 shExpMatch(host, "galeden.cn") ||
 shExpMatch(host, "galikos.com") ||
@@ -46056,6 +46062,7 @@ shExpMatch(host, "jtracking.lulusoft.com") ||
 shExpMatch(host, "jtybleua.jp") ||
 shExpMatch(host, "juancarloscubeiro.com") ||
 shExpMatch(host, "jubilantcanyon.com") ||
+shExpMatch(host, "jubilantglimmer.com") ||
 shExpMatch(host, "jubna.com") ||
 shExpMatch(host, "juggler.services.disqus.com") ||
 shExpMatch(host, "juiceadv.com") ||
@@ -50769,6 +50776,7 @@ shExpMatch(host, "petiteumbrella.com") ||
 shExpMatch(host, "petparadise.biz") ||
 shExpMatch(host, "petrenko.biz") ||
 shExpMatch(host, "petsmovies.com") ||
+shExpMatch(host, "pewhack.com") ||
 shExpMatch(host, "peyvandha.ir") ||
 shExpMatch(host, "pf.etr.im") ||
 shExpMatch(host, "pf0755.cn") ||
@@ -50847,6 +50855,7 @@ shExpMatch(host, "phizzle.com") ||
 shExpMatch(host, "phl5.hallocanarischeeilanden.com") ||
 shExpMatch(host, "phluant.com") ||
 shExpMatch(host, "phoenix-adrunner.mycomputer.com") ||
+shExpMatch(host, "phoenix-software.org") ||
 shExpMatch(host, "phoenixad.io") ||
 shExpMatch(host, "phoenixads.co.in") ||
 shExpMatch(host, "phone-analyzer.com") ||
@@ -55124,6 +55133,7 @@ shExpMatch(host, "studiogiamberardino.it") ||
 shExpMatch(host, "studiolegalecipriano.com") ||
 shExpMatch(host, "studiolegalelarosabambaci.it") ||
 shExpMatch(host, "studiopsicologiaroma.com") ||
+shExpMatch(host, "stunning-joking-cotton.com") ||
 shExpMatch(host, "stunthedge.com") ||
 shExpMatch(host, "stupendousselection.com") ||
 shExpMatch(host, "stupendoussleet.com") ||
@@ -56107,7 +56117,6 @@ shExpMatch(host, "topeuro.biz") ||
 shExpMatch(host, "topforall.com") ||
 shExpMatch(host, "topg.jp") ||
 shExpMatch(host, "topgamesites.net") ||
-shExpMatch(host, "tophacks.pro") ||
 shExpMatch(host, "topiccraze.com") ||
 shExpMatch(host, "topichawaii.com") ||
 shExpMatch(host, "toplist.cz") ||
@@ -57061,6 +57070,7 @@ shExpMatch(host, "tran-engineering.ch") ||
 shExpMatch(host, "tranquilamulet.com") ||
 shExpMatch(host, "tranquilcanyon.com") ||
 shExpMatch(host, "tranquilodobem.site") ||
+shExpMatch(host, "tranquilplume.com") ||
 shExpMatch(host, "tranquilside.com") ||
 shExpMatch(host, "transferfiles.cloud") ||
 shExpMatch(host, "translateoatmeal.com") ||
