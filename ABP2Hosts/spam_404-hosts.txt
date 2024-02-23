@@ -1,4 +1,4 @@
-# Mon Feb 19 01:24:16 AM UTC 2024
+# Fri Feb 23 10:19:24 PM UTC 2024
 # Spam404 Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 001www.com
 0.0.0.0 0daygameparadise.com
@@ -118,7 +118,6 @@
 0.0.0.0 addmefastfreebot.com
 0.0.0.0 addon-teamspeak.com
 0.0.0.0 addpaypal.com
-0.0.0.0 adgatemedia.com
 0.0.0.0 adjust-local-settings.com
 0.0.0.0 adminpanelfaker.space
 0.0.0.0 adminpaneltop.site
@@ -2522,7 +2521,6 @@
 0.0.0.0 file-save.com
 0.0.0.0 file-site.com
 0.0.0.0 file-speedy.com
-0.0.0.0 file.adgatemedia.com
 0.0.0.0 fileace.com
 0.0.0.0 fileak.com
 0.0.0.0 fileam.com

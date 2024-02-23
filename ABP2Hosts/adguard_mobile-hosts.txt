@@ -1,4 +1,4 @@
-# Mon Feb 19 01:23:07 AM UTC 2024
+# Fri Feb 23 10:18:16 PM UTC 2024
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -1194,6 +1194,7 @@
 0.0.0.0 analytics.seekxr.com
 0.0.0.0 analytics.shareaholic.com
 0.0.0.0 analytics.snaptube.app
+0.0.0.0 analytics.starmakerstudios.com
 0.0.0.0 analytics.strava.com
 0.0.0.0 analytics.studiodesignapp.com
 0.0.0.0 analytics.tactilews.com
@@ -4098,6 +4099,7 @@
 0.0.0.0 gdeslon.ru
 0.0.0.0 gdfp.gifshow.com
 0.0.0.0 gdl.i9dhjx.ru
+0.0.0.0 gdl.zmqdez.ru
 0.0.0.0 gdn.bigfishgames.com
 0.0.0.0 gdn.socdm.com
 0.0.0.0 gdpr.rw.yieldmo.com
@@ -4526,6 +4528,7 @@
 0.0.0.0 iad5.ipromote.com
 0.0.0.0 iad6.ipromote.com
 0.0.0.0 iadctest.qwapi.com
+0.0.0.0 iads.unity3d.com
 0.0.0.0 iadsdk.apple.com
 0.0.0.0 iam-agof-app.irquest.com
 0.0.0.0 iam.datasavannah.com
@@ -5776,6 +5779,7 @@
 0.0.0.0 nostalgicknot.com
 0.0.0.0 nostalgicneed.com
 0.0.0.0 notes-analytics-events.apple.com
+0.0.0.0 notes-analytics-events.news.apple-dns.net
 0.0.0.0 nothingmethod.com
 0.0.0.0 nothingunit.com
 0.0.0.0 notification.webengage.com
@@ -5814,6 +5818,7 @@
 0.0.0.0 nym1-ib.adnxs-simple.com
 0.0.0.0 nym1-ib.adnxs.com
 0.0.0.0 nytimes-d.openx.net
+0.0.0.0 o-iab.mediation.unity3d.com
 0.0.0.0 o.cmp.advertising.com
 0.0.0.0 o2o.api.xiaomi.com
 0.0.0.0 o861134.ingest.sentry.io
@@ -8354,6 +8359,7 @@
 0.0.0.0 toblog.tobsnssdk.com
 0.0.0.0 toecircle.com
 0.0.0.0 toedrawer.com
+0.0.0.0 togothermany.com
 0.0.0.0 tok.vaicore.xyz
 0.0.0.0 token.api.kochava.com
 0.0.0.0 token.rubiconproject.com
@@ -8435,6 +8441,7 @@
 0.0.0.0 track.sendo.vn
 0.0.0.0 track.sgdmobile.com
 0.0.0.0 track.smaato.net
+0.0.0.0 track.starmakerstudios.com
 0.0.0.0 track.superad2.com.sg
 0.0.0.0 track.tappx.com
 0.0.0.0 track.tend.io
@@ -9052,6 +9059,7 @@
 0.0.0.0 wearbasin.com
 0.0.0.0 wearywater.com
 0.0.0.0 weather-analytics-events.apple.com
+0.0.0.0 weather-analytics-events.news.apple-dns.net
 0.0.0.0 weatherbug.adsbynimbus.com
 0.0.0.0 web-sdk.control.kochava.com
 0.0.0.0 web-sdk.urbanairship.com
