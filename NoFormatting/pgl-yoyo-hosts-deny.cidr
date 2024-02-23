@@ -2222,7 +2222,6 @@ deny from 69.2.101.13/32
 deny from 69.2.101.36/32
 deny from 69.2.103.13/32
 deny from 69.2.103.57/32
-deny from 69.5.6.164/32
 deny from 69.5.11.164/32
 deny from 69.6.2.68/32
 deny from 69.6.2.98/32
