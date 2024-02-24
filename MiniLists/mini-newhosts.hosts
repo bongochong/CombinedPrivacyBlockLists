@@ -18,7 +18,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 02/23/24~22:32:13 -~
+# ~- 02/24/24~02:20:55 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -115282,6 +115282,7 @@
 0.0.0.0 t.wayfair.co.uk
 0.0.0.0 t.wayfair.com
 0.0.0.0 t.wayfair.de
+0.0.0.0 t.webjavaskript.net
 0.0.0.0 t.whartoncenter.com
 0.0.0.0 t.wiz.meilleurtaux.com
 0.0.0.0 t.wowanalytics.co.uk
@@ -130070,6 +130071,7 @@
 0.0.0.0 webinstats.com
 0.0.0.0 webiq005.webiqonline.com
 0.0.0.0 webiqonline.com
+0.0.0.0 webjavaskript.net
 0.0.0.0 webkatalog.li
 0.0.0.0 webleads-tracker.com
 0.0.0.0 weblenhangiaivn.com
@@ -133921,6 +133923,7 @@
 0.0.0.0 www.webconnect.net
 0.0.0.0 www.webcounter.com
 0.0.0.0 www.webhostingcounter.com
+0.0.0.0 www.webjavaskript.net
 0.0.0.0 www.webkamery-krkonose.cz
 0.0.0.0 www.webmine.cz
 0.0.0.0 www.webmoblink.com

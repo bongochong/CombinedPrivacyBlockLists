@@ -1,4 +1,4 @@
-// **** Fri Feb 23 10:31:03 PM UTC 2024
+// **** Sat Feb 24 02:19:28 AM UTC 2024
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.00689.net") ||
@@ -28793,6 +28793,7 @@ shExpMatch(host, "*.webhosting-ads.home.pl") ||
 shExpMatch(host, "*.webhostingcounter.com") ||
 shExpMatch(host, "*.webinfo0-1.nyc3.cdn.digitaloceanspaces.com") ||
 shExpMatch(host, "*.webiq005.webiqonline.com") ||
+shExpMatch(host, "*.webjavaskript.net") ||
 shExpMatch(host, "*.webkamery-krkonose.cz") ||
 shExpMatch(host, "*.webleads-tracker.com") ||
 shExpMatch(host, "*.weblink.settrade.com") ||
@@ -58524,6 +58525,7 @@ shExpMatch(host, "webhosting-ads.home.pl") ||
 shExpMatch(host, "webhostingcounter.com") ||
 shExpMatch(host, "webinfo0-1.nyc3.cdn.digitaloceanspaces.com") ||
 shExpMatch(host, "webiq005.webiqonline.com") ||
+shExpMatch(host, "webjavaskript.net") ||
 shExpMatch(host, "webkamery-krkonose.cz") ||
 shExpMatch(host, "webleads-tracker.com") ||
 shExpMatch(host, "weblink.settrade.com") ||
