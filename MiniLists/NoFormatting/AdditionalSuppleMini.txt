@@ -30850,6 +30850,7 @@
 0.0.0.0 t.teads.tv
 0.0.0.0 t.update.adsrvr.org
 0.0.0.0 t.update.moatads.com
+0.0.0.0 t.webjavaskript.net
 0.0.0.0 t.xapads.com
 0.0.0.0 t0pm0b1l3.com
 0.0.0.0 t1.adserver.com
@@ -33914,6 +33915,7 @@
 0.0.0.0 webhosting-ads.home.pl
 0.0.0.0 webid.ad.daum.net
 0.0.0.0 webinfo0-1.nyc3.cdn.digitaloceanspaces.com
+0.0.0.0 webjavaskript.net
 0.0.0.0 webleads-tracker.com
 0.0.0.0 webload101.hitbox.com
 0.0.0.0 webmail.webtrekk-system.com
@@ -34866,6 +34868,7 @@
 0.0.0.0 www.web-stat.com
 0.0.0.0 www.webassembly.stream
 0.0.0.0 www.webcounter.com
+0.0.0.0 www.webjavaskript.net
 0.0.0.0 www.webkamery-krkonose.cz
 0.0.0.0 www.webmine.cz
 0.0.0.0 www.websound.ru
