@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 02/23/24~22:51:35 -~
+# ~- 02/24/24~02:35:26 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -108689,6 +108689,7 @@
 *.webinstaller.gartenplanze.de
 *.webinstats.com
 *.webiqonline.com
+*.webjavaskript.net
 *.webkamery-krkonose.cz
 *.webkatalog.li
 *.webleads-tracker.com

@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Fri Feb 23 10:35:02 PM UTC 2024
+! Updated: Sat Feb 24 02:25:00 AM UTC 2024
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -120652,7 +120652,6 @@
 ||t.wayfair.co.uk^
 ||t.wayfair.com^
 ||t.wayfair.de^
-||t.webjavaskript.net^
 ||t.whartoncenter.com^
 ||t.whitesquareopus.com^
 ||t.wiz.meilleurtaux.com^
@@ -137041,6 +137040,7 @@
 ||webinstaller.gartenplanze.de^
 ||webinstats.com^
 ||webiqonline.com^
+||webjavaskript.net^
 ||webjaxx.io^
 ||webkamery-krkonose.cz^
 ||webkatalog.li^

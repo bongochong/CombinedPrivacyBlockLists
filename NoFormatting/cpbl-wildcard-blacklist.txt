@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 02/23/24~22:51:29 -~
+# ~- 02/24/24~02:35:20 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -120669,7 +120669,6 @@
 *.t.wayfair.co.uk
 *.t.wayfair.com
 *.t.wayfair.de
-*.t.webjavaskript.net
 *.t.whartoncenter.com
 *.t.whitesquareopus.com
 *.t.wiz.meilleurtaux.com
@@ -137058,6 +137057,7 @@
 *.webinstaller.gartenplanze.de
 *.webinstats.com
 *.webiqonline.com
+*.webjavaskript.net
 *.webjaxx.io
 *.webkamery-krkonose.cz
 *.webkatalog.li
