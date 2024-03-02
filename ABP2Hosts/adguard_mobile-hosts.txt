@@ -1,4 +1,4 @@
-# Mon Feb 26 07:50:38 PM UTC 2024
+# Sat Mar  2 08:25:25 PM UTC 2024
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -786,6 +786,7 @@
 0.0.0.0 adsapi.manhuaren.com
 0.0.0.0 adsapi.snapchat.com
 0.0.0.0 adsapp.gotrackier.com
+0.0.0.0 adsassets-ipv6.waze.com
 0.0.0.0 adsassets.waze.com
 0.0.0.0 adsbynimbus.com
 0.0.0.0 adscale-emea.adnxs.com
@@ -1130,6 +1131,7 @@
 0.0.0.0 analytics.analytics-egain.com
 0.0.0.0 analytics.anvato.net
 0.0.0.0 analytics.any.do
+0.0.0.0 analytics.app.funnelish.com
 0.0.0.0 analytics.bestbuy.com
 0.0.0.0 analytics.bkav.com
 0.0.0.0 analytics.bluekai.com
@@ -1750,6 +1752,7 @@
 0.0.0.0 as.jivox.com
 0.0.0.0 as.v7.cdn.onthe.io
 0.0.0.0 as00.estara.com
+0.0.0.0 asccdn.com
 0.0.0.0 ascribe.rqmob.com
 0.0.0.0 ase.clmbtech.com
 0.0.0.0 asia-analyzer-appstore.vivoglobal.com
@@ -2107,6 +2110,7 @@
 0.0.0.0 blisspoint.us-west-2.stinger-ad.bidr.io
 0.0.0.0 blizzard.blueoxtech.com
 0.0.0.0 block.scroll.com
+0.0.0.0 blockadsnot.com
 0.0.0.0 blogads.com
 0.0.0.0 bloombergdfpcw4670778881.s.moatpixel.com
 0.0.0.0 blotburn.com
@@ -2599,7 +2603,6 @@
 0.0.0.0 cdn7.rocks
 0.0.0.0 cdna.clicktale.net
 0.0.0.0 cdnappicons.appsflyer.com
-0.0.0.0 cdnativepush.com
 0.0.0.0 cdne.cpmstar.com
 0.0.0.0 cdnimg.izooto.com
 0.0.0.0 cdnp1.yieldoptimizer.com
@@ -3441,6 +3444,7 @@
 0.0.0.0 dmp.truoptik.com
 0.0.0.0 dmpsync.3lift.com
 0.0.0.0 dmx.districtm.io
+0.0.0.0 dnhfi5nn2dt67.cloudfront.net
 0.0.0.0 dns-clientinfo.cbsivideo.com
 0.0.0.0 do-not-tracker.org
 0.0.0.0 dockdigestion.com
@@ -3771,6 +3775,7 @@
 0.0.0.0 events.claspws.tv
 0.0.0.0 events.engager.ecbsn.com
 0.0.0.0 events.foreseeresults.com
+0.0.0.0 events.funnelish.com
 0.0.0.0 events.iap.unity3d.com
 0.0.0.0 events.ifunny.co
 0.0.0.0 events.influencemobile.com
@@ -3934,7 +3939,6 @@
 0.0.0.0 flash.sec.intl.miui.com
 0.0.0.0 flashtalking.com
 0.0.0.0 flashtalking.com.edgekey.net
-0.0.0.0 fleraprt.com
 0.0.0.0 flimsycircle.com
 0.0.0.0 flimsythought.com
 0.0.0.0 floodprincipal.com
@@ -3973,6 +3977,7 @@
 0.0.0.0 forecasttiger.com
 0.0.0.0 foregoingfowl.com
 0.0.0.0 foretellfifth.com
+0.0.0.0 forfeitsubscribe.com
 0.0.0.0 forgetfulflowers.com
 0.0.0.0 forgetfulsnail.com
 0.0.0.0 format.prod.cloud.ogury.io
@@ -4191,7 +4196,6 @@
 0.0.0.0 glisteningsign.com
 0.0.0.0 glitter.services.disqus.com
 0.0.0.0 glitteringbrook.com
-0.0.0.0 gloaphoo.net
 0.0.0.0 global-wildcard.insightexpressai.com.edgekey.net
 0.0.0.0 global.adserver.yahoo.com
 0.0.0.0 global.appnext.com
@@ -4749,6 +4753,7 @@
 0.0.0.0 innovid.com
 0.0.0.0 innovid.com.akadns.net
 0.0.0.0 innovid.com.edgekey.net
+0.0.0.0 inpagepush.com
 0.0.0.0 inputicicle.com
 0.0.0.0 inquisitiveice.com
 0.0.0.0 inquisitiveinvention.com
@@ -5604,7 +5609,6 @@
 0.0.0.0 moorshoes.com
 0.0.0.0 mopub-win-us-east.bksn.se
 0.0.0.0 mopub.com
-0.0.0.0 mordoops.com
 0.0.0.0 morgdm.ru
 0.0.0.0 morgdog.springserve.com
 0.0.0.0 most-popular-info.g5e.com
@@ -5873,6 +5877,9 @@
 0.0.0.0 omniscientfeeling.com
 0.0.0.0 omniscientspark.com
 0.0.0.0 omtrdc.net
+0.0.0.0 onclickalgo.com
+0.0.0.0 onclickgenius.com
+0.0.0.0 onclickperformance.com
 0.0.0.0 oneid.mmstat.com
 0.0.0.0 onelink.appsflyer.com
 0.0.0.0 onepush.query.yahoo.com
@@ -5928,7 +5935,6 @@
 0.0.0.0 optimized-by-1.rubiconproject.com
 0.0.0.0 optimized-by-2.rubiconproject.com
 0.0.0.0 optimized-by.rubiconproject.com
-0.0.0.0 optyruntchan.com
 0.0.0.0 opus.analytics.yahoo.com
 0.0.0.0 opx-winners-eu-west-1-rtb.adroll.com
 0.0.0.0 opx-winners-us-east-1-rtb.adroll.com
@@ -8217,6 +8223,7 @@
 0.0.0.0 tapas.net
 0.0.0.0 tapdaq-adverts.global.ssl.fastly.net
 0.0.0.0 tapestry.tapad.com
+0.0.0.0 tapewherever.com
 0.0.0.0 tapit.com
 0.0.0.0 tapjoy-com-lb-vpc-332546193.us-east-1.elb.amazonaws.com
 0.0.0.0 tapjoy.com
@@ -8228,7 +8235,6 @@
 0.0.0.0 tapsell.ir
 0.0.0.0 tapsense.com
 0.0.0.0 taptica.com
-0.0.0.0 tapulsads.ru
 0.0.0.0 target2sell.com
 0.0.0.0 targeting.influencemobile.com
 0.0.0.0 targeting.unrulymedia.com
@@ -8487,7 +8493,6 @@
 0.0.0.0 tracker.appadhoc.com
 0.0.0.0 tracker.databrain.com
 0.0.0.0 tracker.departapp.com
-0.0.0.0 tracker.dianshige.com
 0.0.0.0 tracker.engageclick.com
 0.0.0.0 tracker.fengkongcloud.com
 0.0.0.0 tracker.fyber.com
@@ -8656,7 +8661,6 @@
 0.0.0.0 txn.ingest.crittercism.com
 0.0.0.0 typicalairplane.com
 0.0.0.0 typicalteeth.com
-0.0.0.0 tzegilo.com
 0.0.0.0 tzwaw.pw
 0.0.0.0 u-ad.info
 0.0.0.0 u.cdnwidget.com
@@ -9013,7 +9017,6 @@
 0.0.0.0 vm5apis.com
 0.0.0.0 vmap.v.ad-generation.jp
 0.0.0.0 vmweb.net
-0.0.0.0 vmxqgmefynoep.xyz
 0.0.0.0 vn-gmtdmp.mookie1.com
 0.0.0.0 vn-platform.bidgear.com
 0.0.0.0 vnet.cn
@@ -9203,6 +9206,7 @@
 0.0.0.0 workoperation.com
 0.0.0.0 world.rw.yieldmo.com
 0.0.0.0 worriednumber.com
+0.0.0.0 worstideatum.com
 0.0.0.0 wowanalytics.co.uk
 0.0.0.0 wpm.neustar.biz
 0.0.0.0 wpp.krxd.net
