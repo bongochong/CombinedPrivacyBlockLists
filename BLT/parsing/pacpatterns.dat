@@ -276,6 +276,7 @@
 ^(www\.)?redditstatic\.com$
 ^(www\.)?rethinkdns\.com$
 ^(www\.)?rpxnow\.com$
+^(www\.)?rs6\.net$
 ^(www\.)?s3blog\.org$
 ^(www\.)?safelinking\.net$
 ^(www\.)?samsung\.com$
@@ -721,6 +722,7 @@
 ^silo\.pluto\.tv$
 ^siloh\.pluto\.tv$
 ^smetrics\.cnn\.com$
+^snssdk1233\.onelink\.me$
 ^socialize\.eu1\.gigya\.com$
 ^socket\.bittrex\.com$
 ^spclient\.spotify\.com$

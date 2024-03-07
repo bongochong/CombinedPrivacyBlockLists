@@ -292,6 +292,7 @@ localhost$
 ^0\.0\.0\.0\s(www\.)?redditstatic\.com$
 ^0\.0\.0\.0\s(www\.)?rethinkdns\.com$
 ^0\.0\.0\.0\s(www\.)?rpxnow\.com$
+^0\.0\.0\.0\s(www\.)?rs6\.net$
 ^0\.0\.0\.0\s(www\.)?s3blog\.org$
 ^0\.0\.0\.0\s(www\.)?safelinking\.net$
 ^0\.0\.0\.0\s(www\.)?samsung\.com$
@@ -737,6 +738,7 @@ localhost$
 ^0\.0\.0\.0\ssilo\.pluto\.tv$
 ^0\.0\.0\.0\ssiloh\.pluto\.tv$
 ^0\.0\.0\.0\ssmetrics\.cnn\.com$
+^0\.0\.0\.0\ssnssdk1233\.onelink\.me$
 ^0\.0\.0\.0\ssocialize\.eu1\.gigya\.com$
 ^0\.0\.0\.0\ssocket\.bittrex\.com$
 ^0\.0\.0\.0\sspclient\.spotify\.com$
