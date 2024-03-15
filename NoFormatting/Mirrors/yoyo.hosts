@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Mon, 26 Feb 2024 09:09:41 GMT
-# entries:        3779
+# entries:        3765
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -17,12 +17,10 @@
 127.0.0.1 101order.com
 127.0.0.1 180hits.de
 127.0.0.1 180searchassistant.com
-127.0.0.1 1link2020.com
 127.0.0.1 1rx.io
 127.0.0.1 207.net
 127.0.0.1 247media.com
 127.0.0.1 24log.com
-127.0.0.1 24pm-affiliation.com
 127.0.0.1 2mdn.net
 127.0.0.1 2o7.net
 127.0.0.1 2znp09oa.com
@@ -67,7 +65,6 @@
 127.0.0.1 abacho.net
 127.0.0.1 abackafterthought.com
 127.0.0.1 abackchain.com
-127.0.0.1 abackframe.com
 127.0.0.1 abandonedaction.com
 127.0.0.1 abc-ads.com
 127.0.0.1 ablink.comms.trainline.com
@@ -726,7 +723,6 @@
 127.0.0.1 adserver.echdk.pl
 127.0.0.1 adserver.friendfinder.com
 127.0.0.1 adserver.generationiron.com
-127.0.0.1 adserver.html.it
 127.0.0.1 adserver.hwupgrade.it
 127.0.0.1 adserver.ilango.de
 127.0.0.1 adserver.industryarena.com
@@ -902,7 +898,6 @@
 127.0.0.1 affiliate.treated.com
 127.0.0.1 affiliatefuture.com
 127.0.0.1 affiliates.allposters.com
-127.0.0.1 affiliates.babylon.com
 127.0.0.1 affiliates.digitalriver.com
 127.0.0.1 affiliates.globat.com
 127.0.0.1 affiliates.rozetka.com.ua
@@ -1074,7 +1069,6 @@
 127.0.0.1 banik.redigy.cz
 127.0.0.1 banner.ambercoastcasino.com
 127.0.0.1 banner.buempliz-online.ch
-127.0.0.1 banner.casino.net
 127.0.0.1 banner.cotedazurpalace.com
 127.0.0.1 banner.coza.com
 127.0.0.1 banner.cz
@@ -1569,7 +1563,6 @@
 127.0.0.1 dc-storm.com
 127.0.0.1 de17a.com
 127.0.0.1 deadpangate.com
-127.0.0.1 deadpanmarble.com
 127.0.0.1 dealdotcom.com
 127.0.0.1 debonairway.com
 127.0.0.1 debtbusterloans.com
@@ -1673,7 +1666,6 @@
 127.0.0.1 eiv.baidu.com
 127.0.0.1 ejyymghi.com
 127.0.0.1 elasticchange.com
-127.0.0.1 elasticducks.com
 127.0.0.1 elderlyscissors.com
 127.0.0.1 elderlytown.com
 127.0.0.1 elephantqueue.com
@@ -1759,7 +1751,6 @@
 127.0.0.1 exosrv.com
 127.0.0.1 experianmarketingservices.digital
 127.0.0.1 explorads.com
-127.0.0.1 expmediadirect1.com
 127.0.0.1 exponea.com
 127.0.0.1 exponential.com
 127.0.0.1 express-submit.de
@@ -1832,7 +1823,6 @@
 127.0.0.1 fqtag.com
 127.0.0.1 frailflock.com
 127.0.0.1 frailoffer.com
-127.0.0.1 free-banners.com
 127.0.0.1 free-counter.co.uk
 127.0.0.1 freebanner.com
 127.0.0.1 freecounterstat.com
@@ -2745,7 +2735,6 @@
 127.0.0.1 primetime.net
 127.0.0.1 privatecash.com
 127.0.0.1 prmtracking.com
-127.0.0.1 pro-advertising.com
 127.0.0.1 pro-market.net
 127.0.0.1 probablepartner.com
 127.0.0.1 processplantation.com
@@ -2865,7 +2854,6 @@
 127.0.0.1 ratings.lycos.com
 127.0.0.1 rayjump.com
 127.0.0.1 rcadserver.com
-127.0.0.1 re-directme.com
 127.0.0.1 reachjunction.com
 127.0.0.1 reactx.com
 127.0.0.1 readgoldfish.com
@@ -3017,7 +3005,6 @@
 127.0.0.1 seadform.net
 127.0.0.1 searchmarketing.com
 127.0.0.1 searchramp.com
-127.0.0.1 seashoreturn.com
 127.0.0.1 secre.jp
 127.0.0.1 secretivecub.com
 127.0.0.1 secretspiders.com
@@ -3172,7 +3159,6 @@
 127.0.0.1 springserve.com
 127.0.0.1 spulse.net
 127.0.0.1 spurioussteam.com
-127.0.0.1 spykemediatrack.com
 127.0.0.1 spylog.com
 127.0.0.1 spywarelabs.com
 127.0.0.1 spywords.com

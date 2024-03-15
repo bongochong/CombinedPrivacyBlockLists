@@ -1,4 +1,4 @@
-# Thu Mar  7 08:40:31 PM UTC 2024
+# Fri Mar 15 08:25:06 PM UTC 2024
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -3202,6 +3202,7 @@
 0.0.0.0 d2o03z2xnyxlz5.cloudfront.net
 0.0.0.0 d3.moatads.com
 0.0.0.0 d32z5ni8t5127x.cloudfront.net
+0.0.0.0 d36zfztxfflmqo.cloudfront.net
 0.0.0.0 d3hdbjtb1686tn.cloudfront.net
 0.0.0.0 d806-us.api.decibelinsight.net
 0.0.0.0 d830x8j3o1b2k.cloudfront.net
@@ -3225,6 +3226,7 @@
 0.0.0.0 dampdock.com
 0.0.0.0 dancemistake.com
 0.0.0.0 dangerouswinter.com
+0.0.0.0 dantbritingd.club
 0.0.0.0 dapperdiscussion.com
 0.0.0.0 dapperfloor.com
 0.0.0.0 daraz-by.accengage.net
@@ -5438,6 +5440,7 @@
 0.0.0.0 medio.com
 0.0.0.0 medscapedfp285029738901.s.moatpixel.com
 0.0.0.0 meendocash.com
+0.0.0.0 meenetiy.com
 0.0.0.0 mellowbike.com
 0.0.0.0 mellowhush.com
 0.0.0.0 mellowmailbox.com
@@ -6796,6 +6799,7 @@
 0.0.0.0 rm-hk.aarki.net
 0.0.0.0 rm.aarki.net
 0.0.0.0 rm.recs.richrelevance.com
+0.0.0.0 rndskittytor.com
 0.0.0.0 ro-gmtdmp.mookie1.com
 0.0.0.0 robustbelieve.com
 0.0.0.0 rodeoconfig.yodo1api.com
