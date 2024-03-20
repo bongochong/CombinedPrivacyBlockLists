@@ -1,4 +1,4 @@
-# Fri Mar 15 08:25:06 PM UTC 2024
+# Wed Mar 20 06:11:58 PM UTC 2024
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -9381,6 +9381,7 @@
 0.0.0.0 zflfoy.xyz
 0.0.0.0 zflylg.buzz
 0.0.0.0 zgsdk.zhugeio.com
+0.0.0.0 zgzxs.weathercn.com
 0.0.0.0 ziffdavis.com
 0.0.0.0 zipperxray.com
 0.0.0.0 zippywind.com

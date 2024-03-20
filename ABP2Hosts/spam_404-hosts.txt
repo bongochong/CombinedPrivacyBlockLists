@@ -1,4 +1,4 @@
-# Fri Mar 15 08:26:13 PM UTC 2024
+# Wed Mar 20 06:13:03 PM UTC 2024
 # Spam404 Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 001www.com
 0.0.0.0 0daygameparadise.com
@@ -5196,6 +5196,7 @@
 0.0.0.0 mikarl.ru
 0.0.0.0 mil-privilegios.es
 0.0.0.0 millionairesweetheart.com
+0.0.0.0 mindspeak.io
 0.0.0.0 mineconcapesz.com
 0.0.0.0 minecraft-premium-gratuit.fr
 0.0.0.0 minecraft-premiums.com
