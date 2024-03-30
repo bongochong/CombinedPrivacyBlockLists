@@ -1,4 +1,4 @@
-# Fri Mar 22 10:06:26 PM UTC 2024
+# Sat Mar 30 01:19:27 AM UTC 2024
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -4933,6 +4933,7 @@
 0.0.0.0 kejet.net
 0.0.0.0 ketchapp.org
 0.0.0.0 keyword.ad.daum.net
+0.0.0.0 kfvjdvjzhddhc.com
 0.0.0.0 kibana.leadboxer.com
 0.0.0.0 kiip.me
 0.0.0.0 king-contenido-prod.secure2.footprint.net
@@ -4955,6 +4956,7 @@
 0.0.0.0 kourier-tpat.eks-prod-1b.vungle.com
 0.0.0.0 kourier-tpat.eks-prod-1c.vungle.com
 0.0.0.0 kpns.ijinshan.com
+0.0.0.0 kr-col-ext.nelo.navercorp.com
 0.0.0.0 krk.kargo.com
 0.0.0.0 krt.asycxtz.cn
 0.0.0.0 krutilka.net
@@ -7845,6 +7847,7 @@
 0.0.0.0 static.tagmanager.toast.com
 0.0.0.0 static.tapfiliate.com
 0.0.0.0 static.target2sell.com
+0.0.0.0 static.timetreeads.com
 0.0.0.0 static.track.omguk.com
 0.0.0.0 static.va1.vip.prod.criteo.net
 0.0.0.0 static.verticalscope.com
