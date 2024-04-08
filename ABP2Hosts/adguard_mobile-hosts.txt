@@ -1,4 +1,4 @@
-# Sat Mar 30 01:19:27 AM UTC 2024
+# Mon Apr  8 07:13:36 PM UTC 2024
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -536,6 +536,7 @@
 0.0.0.0 adfox.ru
 0.0.0.0 adfurikun.jp
 0.0.0.0 adfuture.cn
+0.0.0.0 adfyre.co
 0.0.0.0 adg.kajicam.com
 0.0.0.0 adgear.com
 0.0.0.0 adgen.socdm.com
@@ -7291,6 +7292,7 @@
 0.0.0.0 servebom.com
 0.0.0.0 servedby.flashtalking.com
 0.0.0.0 servedby.o2.co.uk
+0.0.0.0 servedbyadbutler.com
 0.0.0.0 server.bidstack.com
 0.0.0.0 server.connecto.io
 0.0.0.0 server.iad.liveperson.net
