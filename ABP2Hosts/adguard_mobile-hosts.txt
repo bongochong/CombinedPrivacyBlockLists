@@ -1,4 +1,4 @@
-# Sat Apr 13 01:14:01 AM UTC 2024
+# Sun Apr 14 09:01:03 PM UTC 2024
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -1015,6 +1015,7 @@
 0.0.0.0 aktrack.pubmatic.com
 0.0.0.0 aktrack.pubmatic.edgekey.net
 0.0.0.0 alertafterthought.com
+0.0.0.0 alertarithmetic.com
 0.0.0.0 alertfaucet.com
 0.0.0.0 alexa-mobile-analytics-configuration-prod.s3.amazonaws.com
 0.0.0.0 alexametrics.com
@@ -1073,6 +1074,7 @@
 0.0.0.0 ambiguousquilt.com
 0.0.0.0 ambitiousagreement.com
 0.0.0.0 ambitiousanimal.com
+0.0.0.0 ambrosialsummit.com
 0.0.0.0 amdc.m.taobao.com
 0.0.0.0 amdcopen.m.taobao.com
 0.0.0.0 americanairlines.demdex.net
@@ -3641,6 +3643,7 @@
 0.0.0.0 enchantedskyline.com
 0.0.0.0 enchantedtop.com
 0.0.0.0 enchantingbear.com
+0.0.0.0 enchantingenchantment.com
 0.0.0.0 enchantingvalley.com
 0.0.0.0 encourageidea.com
 0.0.0.0 encourageshock.com
@@ -3715,6 +3718,7 @@
 0.0.0.0 et.w.inmobi.com
 0.0.0.0 etahub.com
 0.0.0.0 etargetnet.com
+0.0.0.0 etherealquasar.com
 0.0.0.0 etherealripple.com
 0.0.0.0 etl.xlmc.sandai.net
 0.0.0.0 ets-ap-southeast-1.track.smaato.net
@@ -3951,6 +3955,7 @@
 0.0.0.0 flimsycircle.com
 0.0.0.0 flimsythought.com
 0.0.0.0 floodprincipal.com
+0.0.0.0 flourishingcollaboration.com
 0.0.0.0 flowersornament.com
 0.0.0.0 flowerstreatment.com
 0.0.0.0 flowerycreature.com
@@ -4197,6 +4202,7 @@
 0.0.0.0 gklfs-idnhw.ads.tremorhub.com
 0.0.0.0 gklfs-ktn14.ads.tremorhub.com
 0.0.0.0 gklfs-x8k98.ads.tremorhub.com
+0.0.0.0 gladglen.com
 0.0.0.0 glance-internal.inmobi.com
 0.0.0.0 glance.inmobi.com
 0.0.0.0 gleamingcow.com
@@ -4853,6 +4859,7 @@
 0.0.0.0 ispot.tv
 0.0.0.0 it-gmtdmp.mookie1.com
 0.0.0.0 itdsmr.com
+0.0.0.0 itemslice.com
 0.0.0.0 iteratehq.com
 0.0.0.0 itim.vn
 0.0.0.0 itm.ivitrack.com
@@ -4937,6 +4944,7 @@
 0.0.0.0 kfvjdvjzhddhc.com
 0.0.0.0 kibana.leadboxer.com
 0.0.0.0 kiip.me
+0.0.0.0 kindhush.com
 0.0.0.0 king-contenido-prod.secure2.footprint.net
 0.0.0.0 kinja-com.videoplayerhub.com
 0.0.0.0 kiosked.com
@@ -5304,6 +5312,7 @@
 0.0.0.0 magnum.cdn.speedshiftmedia.com
 0.0.0.0 mailboxmeeting.com
 0.0.0.0 mainadv.com
+0.0.0.0 majesticmountainrange.com
 0.0.0.0 makeshiftmine.com
 0.0.0.0 maliciousmusic.com
 0.0.0.0 manage.com
@@ -5751,6 +5760,8 @@
 0.0.0.0 neatshade.com
 0.0.0.0 nebula-cdn.kampyle.com
 0.0.0.0 nebulacrescent.com
+0.0.0.0 nebulajubilee.com
+0.0.0.0 nebulousamusement.com
 0.0.0.0 nebulousripple.com
 0.0.0.0 necessarywax.com
 0.0.0.0 needlessnorth.com
@@ -5861,6 +5872,7 @@
 0.0.0.0 o.cmp.advertising.com
 0.0.0.0 o2o.api.xiaomi.com
 0.0.0.0 o861134.ingest.sentry.io
+0.0.0.0 oafishchance.com
 0.0.0.0 oafishobservation.com
 0.0.0.0 oauth.datorama.com
 0.0.0.0 ob.leap.app
@@ -6185,6 +6197,7 @@
 0.0.0.0 piquantpigs.com
 0.0.0.0 piquantprice.com
 0.0.0.0 piquantstove.com
+0.0.0.0 piquantvortex.com
 0.0.0.0 pix-us.revjet.com
 0.0.0.0 pix.adrta.com
 0.0.0.0 pix.as.criteo.net
@@ -6817,6 +6830,7 @@
 0.0.0.0 rotaban.ru
 0.0.0.0 rotanev.iad-03.braze.com
 0.0.0.0 rottenray.com
+0.0.0.0 roughharmony.com
 0.0.0.0 roughroll.com
 0.0.0.0 roundrobin-log.agoop.net
 0.0.0.0 route.carambo.la
@@ -7246,6 +7260,7 @@
 0.0.0.0 sedatebun.com
 0.0.0.0 seeder.igetget.com
 0.0.0.0 seedscissors.com
+0.0.0.0 seemlysuggestion.com
 0.0.0.0 seg.ad.gt
 0.0.0.0 seg.mmtro.com
 0.0.0.0 seg.sharethis.com
@@ -7645,6 +7660,7 @@
 0.0.0.0 spookyskate.com
 0.0.0.0 spookysleet.com
 0.0.0.0 spookyslope.com
+0.0.0.0 spookystitch.com
 0.0.0.0 spoonsilk.com
 0.0.0.0 spotlessstamp.com
 0.0.0.0 spotscenered.info
@@ -7660,6 +7676,7 @@
 0.0.0.0 springsnails.com
 0.0.0.0 sprint-srs-appopen.asapp.com
 0.0.0.0 sprint.asapp.com
+0.0.0.0 sprydelta.com
 0.0.0.0 sps.springserve.com
 0.0.0.0 sptc.clicktale.net
 0.0.0.0 spuriousair.com
@@ -8022,6 +8039,7 @@
 0.0.0.0 supersonicads-a.akamaihd.net
 0.0.0.0 supersonicads.com
 0.0.0.0 supervisegoldfish.com
+0.0.0.0 superviseshoes.com
 0.0.0.0 supply.inmobicdn.net
 0.0.0.0 supportwaves.com
 0.0.0.0 survata.com
@@ -8588,6 +8606,7 @@
 0.0.0.0 trafmag.com
 0.0.0.0 traktum.com
 0.0.0.0 tranquilamulet.com
+0.0.0.0 tranquilarchipelago.com
 0.0.0.0 tranquilcanyon.com
 0.0.0.0 tranquilplume.com
 0.0.0.0 tranquilside.com
@@ -9224,6 +9243,7 @@
 0.0.0.0 workoperation.com
 0.0.0.0 world.rw.yieldmo.com
 0.0.0.0 worriednumber.com
+0.0.0.0 worriedwine.com
 0.0.0.0 worstideatum.com
 0.0.0.0 wowanalytics.co.uk
 0.0.0.0 wpm.neustar.biz
