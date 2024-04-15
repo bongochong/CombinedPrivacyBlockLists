@@ -1,4 +1,4 @@
-# Sun Apr 14 09:01:03 PM UTC 2024
+# Mon Apr 15 07:40:13 PM UTC 2024
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -2163,7 +2163,6 @@
 0.0.0.0 brainient.com
 0.0.0.0 brainybasin.com
 0.0.0.0 brainynut.com
-0.0.0.0 branch.io
 0.0.0.0 brand-sdk.kmsmep.com
 0.0.0.0 brands.kmsmep.com
 0.0.0.0 brandybison.com
@@ -2389,7 +2388,6 @@
 0.0.0.0 cdn-adn-https.rayjump.com
 0.0.0.0 cdn-adn-ws.rayjump.com
 0.0.0.0 cdn-adn.rayjump.com
-0.0.0.0 cdn-ads.tmap.co.kr
 0.0.0.0 cdn-aka.ts.mtvnservices.com
 0.0.0.0 cdn-akamai.mookie1.com
 0.0.0.0 cdn-api.admost.com
@@ -4154,7 +4152,6 @@
 0.0.0.0 geo.celtra.com
 0.0.0.0 geo.go2s.co
 0.0.0.0 geo.moatads.com
-0.0.0.0 geo.nbcsports.com
 0.0.0.0 geo.query.yahoo.com
 0.0.0.0 geo.yahoo.com
 0.0.0.0 geoapi123.appspot.com
@@ -4591,7 +4588,6 @@
 0.0.0.0 id1.cn
 0.0.0.0 id5-sync.com
 0.0.0.0 identity.api.wmcdp.io
-0.0.0.0 identity.mparticle.com
 0.0.0.0 idg.amp.permutive.com
 0.0.0.0 idg.blueconic.net
 0.0.0.0 idpix.media6degrees.com
@@ -9076,6 +9072,7 @@
 0.0.0.0 vq1qi.pw
 0.0.0.0 vrizead.com
 0.0.0.0 vrt.outbrain.com
+0.0.0.0 vs-api.voodoo-tech.io
 0.0.0.0 vserv.mobi
 0.0.0.0 vst.c.appier.net
 0.0.0.0 vt.adition.com

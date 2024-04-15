@@ -83,8 +83,8 @@ apt.newrelic.com
 archive.org
 ask.com
 aspnetcdn.com
-assets.adobedtm.com
 assets-global.website-files.com
+assets.adobedtm.com
 assets.huluim.com
 assets.minutemediacdn.com
 assets.rbl.ms
@@ -113,6 +113,7 @@ bluebillywig.com
 boards.420chan.org
 boards.4chan.org
 boards.4channel.org
+branch.io
 brave.com
 brave.software
 bravedns.com
@@ -334,6 +335,7 @@ gcs.sc-cdn.net
 ge.tt
 gearbest.com
 geforce.com
+geo.nbcsports.com
 geo.ngtv.io
 geoip-db.com
 geolocation-db.com
@@ -363,6 +365,7 @@ googleusercontent.com
 googlevideo.com
 gravatar.com
 gs.apple.com
+gs.statcounter.com
 gstatic.com
 gstaticadssl.l.google.com
 guidetopetersburg.com
@@ -386,6 +389,7 @@ i1.ytimg.com
 ibb.co
 icloud.com
 icscards.nl
+identity.mparticle.com
 idol-dvd.com
 image.ibb.co
 images.ctfassets.net
@@ -465,6 +469,7 @@ monster.com
 movies.netflix.com
 mozilla.com
 mp.twitch.tv
+mparticle.com
 mparticle.weather.com
 mradx.net
 msa.akadns6.net
@@ -625,6 +630,7 @@ skypeassets.com
 skyrisecities.com
 smartasset.com
 smetrics.cnn.com
+snssdk1233.onelink.me
 socialize.eu1.gigya.com
 socket.bittrex.com
 someonewhocares.org
@@ -645,8 +651,8 @@ ssl-images-amazon.com
 ssl.o.auspost.com.au
 ssl.o.webmd.com
 ssl.reddit.com
-snssdk1233.onelink.me
 staradvertiser.com
+statcounter.com
 static.parsely.com
 static01.nyt.com
 steamcommunity.com

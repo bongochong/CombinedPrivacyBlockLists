@@ -1,4 +1,4 @@
-# Sun Apr 14 09:02:19 PM UTC 2024
+# Mon Apr 15 07:41:30 PM UTC 2024
 # Disconnect Consolidated Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -2384,7 +2384,6 @@
 0.0.0.0 stat.zenon.net
 0.0.0.0 stat24.com
 0.0.0.0 stat24.meta.ua
-0.0.0.0 statcounter.com
 0.0.0.0 stathat.com
 0.0.0.0 static.fmpub.net
 0.0.0.0 static.itrack.it
