@@ -1,4 +1,4 @@
-# Mon Apr 15 07:41:04 PM UTC 2024
+# Mon Apr 15 07:44:53 PM UTC 2024
 # EasyList Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0.net.easyjet.com
 0.0.0.0 0008d6ba2e.com
