@@ -7188,6 +7188,7 @@
 0.0.0.0 angdr.112.2o7.net
 0.0.0.0 angelchance.com
 0.0.0.0 angeldonationblog.com
+0.0.0.0 angesky.com
 0.0.0.0 angiba.112.2o7.net
 0.0.0.0 angieslist.112.2o7.net
 0.0.0.0 anglo.email
@@ -8030,6 +8031,7 @@
 0.0.0.0 autobytelcorppopup.112.2o7.net
 0.0.0.0 autocarcomprod.112.2o7.net
 0.0.0.0 autodiscover.ad.corp.appnexus.com
+0.0.0.0 autofixx.pages.dev
 0.0.0.0 autohits.dk
 0.0.0.0 autologica.ga
 0.0.0.0 automatad.com
@@ -30256,6 +30258,7 @@
 0.0.0.0 telefloracom.112.2o7.net
 0.0.0.0 telefoniabologna.it
 0.0.0.0 telegraf.detmir-stats.ru
+0.0.0.0 telegramhcn.com
 0.0.0.0 telegramm.site
 0.0.0.0 telekom01.webtrekk.net
 0.0.0.0 telekom02.webtrekk.net
@@ -32388,6 +32391,7 @@
 0.0.0.0 veille-referencement.com
 0.0.0.0 veinteractive.com
 0.0.0.0 velocecdn.com
+0.0.0.0 velyapromo2024.ru
 0.0.0.0 vena.native-ad.net
 0.0.0.0 venc-dev.adsafety.net
 0.0.0.0 veniceairport01.wt-eu02.net

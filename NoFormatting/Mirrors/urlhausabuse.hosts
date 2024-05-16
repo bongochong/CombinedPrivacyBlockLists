@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: 2024-05-14T12:14:00Z
+# Updated: 2024-05-16T00:09:53Z
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/malware-filter/urlhaus-filter
 # License: https://gitlab.com/malware-filter/urlhaus-filter#license
@@ -8,13 +8,14 @@
 0.0.0.0 139520.aioc.qbgxl.com
 0.0.0.0 150787bk.beget.tech
 0.0.0.0 160.181.http
+0.0.0.0 1717.1000uc.com
 0.0.0.0 172-234-120-102.ip.linodeusercontent.com
 0.0.0.0 188882.000webhostapp.com
+0.0.0.0 195-15-201-129.dc3-a.pub1.etik-cloud.com
 0.0.0.0 195-84.com
 0.0.0.0 195.249.136.34.bc.googleusercontent.com
 0.0.0.0 2012.filemail.com
 0.0.0.0 236.94.74.97.host.secureserver.net
-0.0.0.0 294diesel-propelled.sbs
 0.0.0.0 294down-river.sbs
 0.0.0.0 2mo.com
 0.0.0.0 314.hongdrama.xyz
@@ -89,7 +90,6 @@
 0.0.0.0 aideca.org.pe
 0.0.0.0 aij.round.fishingreelinvestment.com
 0.0.0.0 aiko-network.tech
-0.0.0.0 aineommall.com
 0.0.0.0 ajai.ydns.eu
 0.0.0.0 aji.demo.betterbuiltdogs.com
 0.0.0.0 akane-network.net
@@ -114,7 +114,6 @@
 0.0.0.0 aosafrica.co.za
 0.0.0.0 aosishome.one
 0.0.0.0 aphqj.members.openarmscv.com
-0.0.0.0 api-ms.cobainaja.id
 0.0.0.0 api.52kkg.com
 0.0.0.0 api.discreetshare.com
 0.0.0.0 api.filedoge.com
@@ -166,7 +165,6 @@
 0.0.0.0 beerfear.net
 0.0.0.0 ben-advanced.fra1.digitaloceanspaces.com
 0.0.0.0 benfoks.ru
-0.0.0.0 benhvienthanglong.vn
 0.0.0.0 besparta.com
 0.0.0.0 best.obs.cn-sz1.ctyun.cn
 0.0.0.0 betlet.in
@@ -190,6 +188,8 @@
 0.0.0.0 blt.collection.aixpirts.com
 0.0.0.0 blue.o7lab.me
 0.0.0.0 bluenotchfashion.com
+0.0.0.0 bmcm.pw
+0.0.0.0 bmnr.pw
 0.0.0.0 bmp.register.arpsychotherapy.com
 0.0.0.0 bn.networkbn.click
 0.0.0.0 bngoc.skyljne.click
@@ -213,7 +213,6 @@
 0.0.0.0 botnettajima.ddns.net
 0.0.0.0 bov.day.50adayplan.com
 0.0.0.0 brandt-krakow.pl
-0.0.0.0 brazilanimalshelp.com
 0.0.0.0 brikule.cz
 0.0.0.0 british-shorthair.es
 0.0.0.0 brknarikan.com
@@ -231,13 +230,13 @@
 0.0.0.0 bxs.anesthetics.biomedzglobal.com
 0.0.0.0 by.haory.cn
 0.0.0.0 bye.collection.aixpirts.com
-0.0.0.0 byzt3.ru.com
 0.0.0.0 bzo.demo.betterbuiltdogs.com
 0.0.0.0 bzwl888.sbs
 0.0.0.0 c1.abc609.com
 0.0.0.0 c2.ice-sec.xyz
 0.0.0.0 c2.mc-live.online
 0.0.0.0 camerabaoha.com
+0.0.0.0 canconsulting.in
 0.0.0.0 care-onboard.com
 0.0.0.0 carthewasher.net
 0.0.0.0 castorndpollux.com
@@ -302,7 +301,6 @@
 0.0.0.0 cnc.pr333.ggm.kr
 0.0.0.0 cnc.vmwall.me
 0.0.0.0 cnc.voidnet.click
-0.0.0.0 cnom.sante.gov.ml
 0.0.0.0 coadymarine.com
 0.0.0.0 cobs.policy.donnafrey.com
 0.0.0.0 comerciojobsinformativo.is-into-cartoons.com
@@ -332,6 +330,7 @@
 0.0.0.0 cyg2016.xyz
 0.0.0.0 cytotecsolutions.com
 0.0.0.0 d1.udashi.com
+0.0.0.0 d1bg4infp6yivf.cloudfront.net
 0.0.0.0 d1olnfqg9ss9n0.cloudfront.net
 0.0.0.0 d2.tokendl001.com
 0.0.0.0 d26r44l4vrn00m.cloudfront.net
@@ -340,12 +339,10 @@
 0.0.0.0 d2mlls8dsnofna.cloudfront.net
 0.0.0.0 d317dmr0whummx.cloudfront.net
 0.0.0.0 d36e0jkwnyz61b.cloudfront.net
-0.0.0.0 dad.day.50adayplan.com
 0.0.0.0 dailyeuropelimited.com
 0.0.0.0 dangerlisten.com
 0.0.0.0 darkknight-media.com
 0.0.0.0 dasmake.top
-0.0.0.0 dax.estate
 0.0.0.0 db4djqkh4h9v0.cloudfront.net
 0.0.0.0 dcpanel.squezz.com
 0.0.0.0 dcs.round.fishingreelinvestment.com
@@ -361,7 +358,6 @@
 0.0.0.0 dejdl.register.arpsychotherapy.com
 0.0.0.0 delight.mv
 0.0.0.0 delikateschef.co.il
-0.0.0.0 delp-heizungsbau.de
 0.0.0.0 depot.4d2.org
 0.0.0.0 designsmith.ae
 0.0.0.0 devaccrocs.allianceconsultants.net
@@ -389,11 +385,10 @@
 0.0.0.0 dl.9xu.com
 0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.xinjiangworker.shop
-0.0.0.0 dlink.metallc.top
-0.0.0.0 dnccomputers.com
 0.0.0.0 dnftm.sh
 0.0.0.0 dnvk1.info
 0.0.0.0 dod.fastbutters.com
+0.0.0.0 doggie-services.com
 0.0.0.0 dokdo.in
 0.0.0.0 domain-botnet.servehttp.com
 0.0.0.0 domenforfile.site
@@ -432,7 +427,6 @@
 0.0.0.0 eclipseofmasters.com
 0.0.0.0 eclp8oz0m8mxouv96hc9p7k2btydt3iv.click
 0.0.0.0 eco-villas.com
-0.0.0.0 eercs.com
 0.0.0.0 eezc.members.openarmscv.com
 0.0.0.0 efe.policy.donnafrey.com
 0.0.0.0 efzfo.round.fishingreelinvestment.com
@@ -446,7 +440,6 @@
 0.0.0.0 els.co.mz
 0.0.0.0 emberlast-beta.com
 0.0.0.0 emgvod.com
-0.0.0.0 emtelcommunications.com
 0.0.0.0 emv1.ib-comm-gateway.com
 0.0.0.0 en.bestsup.su
 0.0.0.0 enelltd.top
@@ -486,7 +479,6 @@
 0.0.0.0 felizcity.com
 0.0.0.0 ferentino.org
 0.0.0.0 fetchdesignprint.co.za
-0.0.0.0 fffutu.re
 0.0.0.0 fglmw.members.openarmscv.com
 0.0.0.0 file-drop.cc
 0.0.0.0 file-file-file1.com
@@ -503,6 +495,7 @@
 0.0.0.0 fjsnsinfinsf.ngcv.top
 0.0.0.0 fkcod47.autodesk360.com
 0.0.0.0 flagmatilo.com
+0.0.0.0 flexiblemaria.com
 0.0.0.0 flm2.vip
 0.0.0.0 flotekg.com
 0.0.0.0 flowers4change.shop
@@ -548,17 +541,15 @@
 0.0.0.0 gjhfhgdg.insane.wang
 0.0.0.0 glo4.ink
 0.0.0.0 globallaborsupply.com
-0.0.0.0 globalpanelinc.com
 0.0.0.0 globalsafetysuccess.com
 0.0.0.0 go8et.lol
 0.0.0.0 goasoftwarecompany.com
-0.0.0.0 gobesitysurgery.com
 0.0.0.0 goldendesign.hu
 0.0.0.0 gostatts.com
 0.0.0.0 goupbuy.com
 0.0.0.0 gov.kavir-host-sub.ir
 0.0.0.0 gratisoft.pro
-0.0.0.0 grpt.ca
+0.0.0.0 graupery.com.uy
 0.0.0.0 grupobudeguer.com
 0.0.0.0 grupointuitivo.com
 0.0.0.0 gsbhr.our.openarmscv.org
@@ -593,7 +584,6 @@
 0.0.0.0 hitstation.nl
 0.0.0.0 hkrha.colo.oystergarden.net
 0.0.0.0 hlku.catching.fishingrealinvestments.com
-0.0.0.0 hmhsd.day.50adayplan.com
 0.0.0.0 homebrew.cx
 0.0.0.0 host-file-file0.com
 0.0.0.0 host0.aceblackjack.site
@@ -603,6 +593,7 @@
 0.0.0.0 hotelashrafee.com
 0.0.0.0 hqai.colo.oystergarden.net
 0.0.0.0 hqert.members.openarmscv.com
+0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 hrwejtrgrsdfg.top
 0.0.0.0 hseda.com
 0.0.0.0 hubvera.ac.ug
@@ -631,10 +622,10 @@
 0.0.0.0 imtokenn.vip
 0.0.0.0 imtokeon.com
 0.0.0.0 imtokerrn.shop
-0.0.0.0 indonesias.me
 0.0.0.0 infojobone.com
 0.0.0.0 infplaute.com
 0.0.0.0 ingatecsus.com.br
+0.0.0.0 ingonherbal.com
 0.0.0.0 innd.ink
 0.0.0.0 insomniahack.fun
 0.0.0.0 installswetrust.org
@@ -664,9 +655,11 @@
 0.0.0.0 jialm.online
 0.0.0.0 jigg.distributors.commdistinc.com
 0.0.0.0 jiq.policy.donnafrey.com
+0.0.0.0 jmd.members.openarmscv.com
 0.0.0.0 jme.catching.fishingrealinvestments.com
 0.0.0.0 jms.edu.np
 0.0.0.0 jobcity.com
+0.0.0.0 jobs-servers.com
 0.0.0.0 jobsportal360.com
 0.0.0.0 joccupationalscience.org
 0.0.0.0 johnnyyyzzeeebii.serv00.net
@@ -684,7 +677,6 @@
 0.0.0.0 jwqr.members.openarmscv.com
 0.0.0.0 jzuo.honors.howamerica.com
 0.0.0.0 kalnet.top
-0.0.0.0 kalp-s.com
 0.0.0.0 kapetownlink.com
 0.0.0.0 karamelitses.gr
 0.0.0.0 kareemovic22.webredirect.org
@@ -719,6 +711,7 @@
 0.0.0.0 l3mon.emilemilchen.de
 0.0.0.0 ladakhescapades.com
 0.0.0.0 lallavedelajuderia.es
+0.0.0.0 lamor.travelfuchsia.biz
 0.0.0.0 laodaiqw.3122157.xyz
 0.0.0.0 lastimaners.ug
 0.0.0.0 lawclerksfordiversity.com
@@ -732,7 +725,6 @@
 0.0.0.0 legendsworld.in
 0.0.0.0 legendsworld.top
 0.0.0.0 leibk.com
-0.0.0.0 lestandardsarl.com
 0.0.0.0 letters.hopto.org
 0.0.0.0 lew-hoad.com
 0.0.0.0 lex.day.50adayplan.com
@@ -745,13 +737,11 @@
 0.0.0.0 lifeartfertility.co.za
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 linktoxic34.com
-0.0.0.0 linkvilleplayers.org
 0.0.0.0 liveeinloggenpo.jkub.com
 0.0.0.0 livetrack.in
 0.0.0.0 lkb.places.creeksidehuntingpreserve.com
 0.0.0.0 lkdj.round.fishingreelinvestment.com
 0.0.0.0 lle.uz
-0.0.0.0 llllllllllllllllllllllllllll.site
 0.0.0.0 llock.accounting.bridgemastersllc.com
 0.0.0.0 lmr.demo.betterbuiltdogs.com
 0.0.0.0 loader.oxy.st
@@ -800,14 +790,13 @@
 0.0.0.0 massgira.fun
 0.0.0.0 massgraves.online
 0.0.0.0 mathsclass.vn
-0.0.0.0 maxmoney.com
 0.0.0.0 mbdashcam.com
 0.0.0.0 mbq.collection.aixpirts.com
 0.0.0.0 mcswq.schedule.golfballnutz.com
 0.0.0.0 mebr.layout.oystergardens.us
-0.0.0.0 meeweb.com
 0.0.0.0 meilinhotels.com
 0.0.0.0 meletesergon.gr
+0.0.0.0 menstreamlive.co.za
 0.0.0.0 merckllc.top
 0.0.0.0 mercurimanangere.ddnsking.com
 0.0.0.0 merketsignets.site
@@ -819,13 +808,14 @@
 0.0.0.0 mfmedia.id
 0.0.0.0 mgate.irontele.com
 0.0.0.0 mhsonsco.com
+0.0.0.0 microsecurityupdate.com
 0.0.0.0 midnight.bestsup.su
 0.0.0.0 mikami-0723.sa.com
+0.0.0.0 miles-and-more-kreditkartes.com
 0.0.0.0 milkganache.com.br
 0.0.0.0 mining.jaguarmall.in
 0.0.0.0 minuoddos.xyz
 0.0.0.0 miori.lol
-0.0.0.0 miosecurezza.com
 0.0.0.0 mirai-nro.space
 0.0.0.0 miraisec.xyz
 0.0.0.0 mistitis.ug
@@ -846,6 +836,7 @@
 0.0.0.0 moodle1.feja111.de
 0.0.0.0 mooncheats.shop
 0.0.0.0 mozkraty.org
+0.0.0.0 mpgfth.xyz
 0.0.0.0 msq2323232300000.online
 0.0.0.0 mtv.members.openarmscv.com
 0.0.0.0 muagol.com
@@ -857,7 +848,6 @@
 0.0.0.0 mystifying.org
 0.0.0.0 mzv.round.fishingreelinvestment.com
 0.0.0.0 nacionalveiculos.com
-0.0.0.0 nalmotor.com
 0.0.0.0 namecloudvideo.org
 0.0.0.0 namthaibinh.net
 0.0.0.0 narutoanimes.com
@@ -885,6 +875,7 @@
 0.0.0.0 new.botellaflaske.com
 0.0.0.0 newdomain.africa
 0.0.0.0 news.claim-airdrop.io
+0.0.0.0 newsarena.sbs
 0.0.0.0 newsmedia247.site
 0.0.0.0 newyear7250.duckdns.org
 0.0.0.0 nextnovatech.com
@@ -927,7 +918,6 @@
 0.0.0.0 operandotwo.com
 0.0.0.0 operatinghub.com
 0.0.0.0 opesjk.ug
-0.0.0.0 opolis.io
 0.0.0.0 opsdjs.ug
 0.0.0.0 oqb.loans.fishingreelinvestments.com
 0.0.0.0 organ78.com
@@ -982,6 +972,7 @@
 0.0.0.0 playerenterprises.org
 0.0.0.0 pleaserapeme.today
 0.0.0.0 plesiosauroid.sbs
+0.0.0.0 plyagoogle.sa.com
 0.0.0.0 pns.org.pk
 0.0.0.0 poc-python-test.s3.sa-east-1.amazonaws.com
 0.0.0.0 pofix.red
@@ -990,6 +981,7 @@
 0.0.0.0 poor-indians-tax-me.icu
 0.0.0.0 pop.tg
 0.0.0.0 portstanleycalipso.com
+0.0.0.0 posmicrosystems.com
 0.0.0.0 posters-dial.com
 0.0.0.0 postutopia.net
 0.0.0.0 pouya.blob.core.windows.net
@@ -1022,6 +1014,7 @@
 0.0.0.0 qaq.fi
 0.0.0.0 qbf.distributors.commdistinc.com
 0.0.0.0 qbo.round.fishingreelinvestment.com
+0.0.0.0 qcollect.co.za
 0.0.0.0 qdlcq.honors.howamerica.com
 0.0.0.0 qeintechnologies.com
 0.0.0.0 qeobm.pool.hjdeboer.com
@@ -1032,6 +1025,7 @@
 0.0.0.0 qli.collection.aixpirts.com
 0.0.0.0 qmhs.catching.fishingrealinvestments.com
 0.0.0.0 qngxgw.eu.org
+0.0.0.0 qofik.location.oysterfloats.us
 0.0.0.0 qqchun.top
 0.0.0.0 qrk.aus.mimico-cooperative.org
 0.0.0.0 qsjdc.policy.donnafrey.com
@@ -1055,7 +1049,6 @@
 0.0.0.0 rdyqq.places.creeksidehuntingpreserve.com
 0.0.0.0 realdeepai.org
 0.0.0.0 reallifehollywood.eu
-0.0.0.0 realponti.com
 0.0.0.0 rebirthltd.com
 0.0.0.0 rebirthltd.dev
 0.0.0.0 reboot.show
@@ -1067,6 +1060,7 @@
 0.0.0.0 remasterprodelherskjs.com
 0.0.0.0 remisat.com.uy
 0.0.0.0 renzoll.com
+0.0.0.0 resourceedge.org
 0.0.0.0 retfdgfgaf.b-cdn.net
 0.0.0.0 returnlegend.com
 0.0.0.0 returnofspace.com
@@ -1144,8 +1138,6 @@
 0.0.0.0 shadow.qyhgroup.combins
 0.0.0.0 shaffatta.com
 0.0.0.0 shamaz.us
-0.0.0.0 shipminttracking.net
-0.0.0.0 shizk.day.50adayplan.com
 0.0.0.0 sho.showtimepictures.com
 0.0.0.0 short-bear-15.telebit.io
 0.0.0.0 shredderindia.com
@@ -1172,12 +1164,13 @@
 0.0.0.0 smartoptiontrade.online
 0.0.0.0 smbeckwithlaw.com
 0.0.0.0 snailmates.com
+0.0.0.0 sneg.fastbutters.com
 0.0.0.0 snu.anesthetics.biomedzglobal.com
 0.0.0.0 sociallysnap.com
+0.0.0.0 soft.110route.com
 0.0.0.0 softdl.360tpcdn.com
 0.0.0.0 softportal.store
 0.0.0.0 sos.vivi.sg
-0.0.0.0 soundline.top
 0.0.0.0 sp-1300355179.cos.ap-shanghai.myqcloud.com
 0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 spanchtoc.bond
@@ -1228,7 +1221,6 @@
 0.0.0.0 sunglassesninja.com
 0.0.0.0 superdomain.africa
 0.0.0.0 supermarketcold.info
-0.0.0.0 support.clz.kr
 0.0.0.0 supportninja.top
 0.0.0.0 surgical-farming-ca.com
 0.0.0.0 svango.com
@@ -1238,7 +1230,6 @@
 0.0.0.0 svif-venezuela.com
 0.0.0.0 swtgm.collection.aixpirts.com
 0.0.0.0 sxo.catching.fishingrealinvestments.com
-0.0.0.0 syjks.org
 0.0.0.0 szhleq.bn.files.1drv.com
 0.0.0.0 t8n.net
 0.0.0.0 taastruck.vn
@@ -1258,7 +1249,7 @@
 0.0.0.0 teliallc.top
 0.0.0.0 templarstore.com
 0.0.0.0 template.majestic-corporation.com
-0.0.0.0 tengfeidn.com
+0.0.0.0 test.typoten.com
 0.0.0.0 testing.vidharm.com
 0.0.0.0 teypf.anesthetics.biomedzglobal.com
 0.0.0.0 tfl.catching.fishingrealinvestments.com
@@ -1292,7 +1283,6 @@
 0.0.0.0 tpceo.distributors.commdistinc.com
 0.0.0.0 tpu.schedule.golfballnutz.com
 0.0.0.0 tracking-alert.org
-0.0.0.0 tradeinsights.net
 0.0.0.0 trailers24.eu
 0.0.0.0 transfer.adttemp.com.br
 0.0.0.0 travelwithmanta.co.za
@@ -1302,8 +1292,10 @@
 0.0.0.0 tt.coachesinspain.com
 0.0.0.0 ttp
 0.0.0.0 tulips4change.shop
+0.0.0.0 tumanovalekcey.github.io
 0.0.0.0 turkishmarinesurvey.com
 0.0.0.0 tutycholid.com
+0.0.0.0 ty45dskohal1erz.com
 0.0.0.0 tyd.demo.betterbuiltdogs.com
 0.0.0.0 tylkodlazaufanych.pl
 0.0.0.0 u10311p48925.web0100.zxcs-klant.nl
@@ -1318,6 +1310,7 @@
 0.0.0.0 ummotosmexico.mx
 0.0.0.0 unassumed-keel.000webhostapp.com
 0.0.0.0 under-wars.com
+0.0.0.0 unicorpbrunei.com
 0.0.0.0 unidasg.top
 0.0.0.0 unions-tlt.com
 0.0.0.0 uniqueweb.co.za
@@ -1335,7 +1328,6 @@
 0.0.0.0 us.schatten.ir
 0.0.0.0 usfsy.policy.donnafrey.com
 0.0.0.0 ustqj.anesthetics.biomedzglobal.com
-0.0.0.0 uxsingh.com
 0.0.0.0 vaezmod.com
 0.0.0.0 valex-dz.com
 0.0.0.0 valowaves.com
@@ -1392,7 +1384,6 @@
 0.0.0.0 whyvickyischeater.com
 0.0.0.0 wikkt.com
 0.0.0.0 wisdomlawacademy.com
-0.0.0.0 wishmd.com
 0.0.0.0 woermashunfac.top
 0.0.0.0 woermashunfae.top
 0.0.0.0 wonderwritings.com
@@ -1405,7 +1396,6 @@
 0.0.0.0 wu.dnet.hu
 0.0.0.0 wwk.members.openarmscv.com
 0.0.0.0 wxadl.collection.aixpirts.com
-0.0.0.0 wybig.day.50adayplan.com
 0.0.0.0 wyrfn.catching.fishingrealinvestments.com
 0.0.0.0 wyz.location.oysterfloats.us
 0.0.0.0 x.hxhk.cc
@@ -1427,7 +1417,6 @@
 0.0.0.0 xysk5eeyj0j5n.xyz
 0.0.0.0 xz888.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0 xzb.lbz888.xyz
-0.0.0.0 y.shavsl.com
 0.0.0.0 yahyacarpet.com
 0.0.0.0 yawwacorp.uk
 0.0.0.0 ybxmx.collection.aixpirts.com
@@ -1451,9 +1440,7 @@
 0.0.0.0 ytjc.collection.aixpirts.com
 0.0.0.0 yunwei.liancheng518.com
 0.0.0.0 ywyn.policy.donnafrey.com
-0.0.0.0 yzkzixun.com
 0.0.0.0 z.hxhk.cc
-0.0.0.0 z.shavsl.com
 0.0.0.0 zahramsatya.ddns.net
 0.0.0.0 zanzibarpivo.com
 0.0.0.0 zatracon.com
@@ -1468,6 +1455,7 @@
 0.0.0.0 zenbeautyrc.com
 0.0.0.0 zenglobalenerji.com
 0.0.0.0 zetm.catching.fishingrealinvestments.com
+0.0.0.0 zffsg.oss-ap-northeast-2.aliyuncs.com
 0.0.0.0 zgcl.catching.fishingrealinvestments.com
 0.0.0.0 zhengxinpeixun.oss-cn-qingdao.aliyuncs.com
 0.0.0.0 zhngxie.wf

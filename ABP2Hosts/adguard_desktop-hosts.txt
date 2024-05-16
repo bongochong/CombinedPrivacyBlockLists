@@ -1,4 +1,4 @@
-# Tue May 14 05:11:06 PM UTC 2024
+# Thu May 16 03:38:19 AM UTC 2024
 # AdGuard Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0--skitch--0.tt.omtrdc.net
 0.0.0.0 0-2-83.tt.omtrdc.net
@@ -111,6 +111,7 @@
 0.0.0.0 07a1624bd7.com
 0.0.0.0 07c225f3.online
 0.0.0.0 07dishpurchasingcorporation.hb-api.tt.omtrdc.net
+0.0.0.0 07dy.cc
 0.0.0.0 07s.tt.omtrdc.net
 0.0.0.0 07wr439dfait.top
 0.0.0.0 08.hb-api.tt.omtrdc.net
@@ -3711,6 +3712,7 @@
 0.0.0.0 5y9nfpes.52pk.com
 0.0.0.0 5z0d3.cyou
 0.0.0.0 6-aa-mock.hb-fa-stage.tt.omtrdc.net
+0.0.0.0 6-partner.com
 0.0.0.0 6.24bizjournals.hb.tt.omtrdc.net
 0.0.0.0 6.24comcastentertainmentgroup.hb.tt.omtrdc.net
 0.0.0.0 6001628d3d.com
@@ -9522,6 +9524,7 @@
 0.0.0.0 ad-serve.b-cdn.net
 0.0.0.0 ad-server.co.za
 0.0.0.0 ad-serverparc.nl
+0.0.0.0 ad-service.shop
 0.0.0.0 ad-specs.guoshipartners.com
 0.0.0.0 ad-spire.net
 0.0.0.0 ad-srv.net
@@ -11628,6 +11631,7 @@
 0.0.0.0 afxncq.com
 0.0.0.0 afywhecpi.com
 0.0.0.0 ag.axonesjames.com
+0.0.0.0 ag.palmtube.net
 0.0.0.0 ag1.zuszw.com
 0.0.0.0 agabreloomr.com
 0.0.0.0 agacelebir.com
@@ -12723,6 +12727,7 @@
 0.0.0.0 amnoctowlan.club
 0.0.0.0 amnruvbmeoqp.com
 0.0.0.0 amntx1.net
+0.0.0.0 amnwpircuomd.com
 0.0.0.0 amobile-loginproduction-fna-sub-metric-en.hb-api.tt.omtrdc.net
 0.0.0.0 amoddishor.com
 0.0.0.0 amofqosgs.com
@@ -16001,6 +16006,7 @@
 0.0.0.0 awtqbjylk.com
 0.0.0.0 awuapj.landwatch.com
 0.0.0.0 awugxvrmsdalpx.com
+0.0.0.0 awunkse72.shop
 0.0.0.0 awutohkhu.com
 0.0.0.0 awuvcq.xyz
 0.0.0.0 awvqfalackho.com
@@ -16250,6 +16256,7 @@
 0.0.0.0 azqqloborwwba.top
 0.0.0.0 azscgj.penningtons.com
 0.0.0.0 azskk.com
+0.0.0.0 azsqkrc.icu
 0.0.0.0 aztecash.com
 0.0.0.0 azulcw7.com
 0.0.0.0 azullinhasaereas.tt.omtrdc.net
@@ -18868,6 +18875,7 @@
 0.0.0.0 bptracking.com
 0.0.0.0 bptssoahsfoz.com
 0.0.0.0 bpwwsusgb.com
+0.0.0.0 bpxbzps.xyz
 0.0.0.0 bpxcqxonbmn.com
 0.0.0.0 bpyerxzn.xyz
 0.0.0.0 bpztsxx.com
@@ -18887,6 +18895,7 @@
 0.0.0.0 bqkwfioyd.xyz
 0.0.0.0 bqlhwrgxoedsm.com
 0.0.0.0 bqnmxza.cn
+0.0.0.0 bqnxff.xyz
 0.0.0.0 bqoulb.nowo.pt
 0.0.0.0 bqpvduxtfhwsd.com
 0.0.0.0 bqqvmupmcnjnbv.com
@@ -19144,6 +19153,7 @@
 0.0.0.0 bromisescapose.com
 0.0.0.0 bromoilnapalms.com
 0.0.0.0 bromusic.site
+0.0.0.0 bromusic3s.site
 0.0.0.0 bronchichogset.com
 0.0.0.0 broncogainer.top
 0.0.0.0 bronik.trekkeeee.space
@@ -21068,6 +21078,7 @@
 0.0.0.0 cerebosbrands.tt.omtrdc.net
 0.0.0.0 cerebro.edna.yahoo.net
 0.0.0.0 ceremonyavengeheartache.com
+0.0.0.0 cergbtb36.shop
 0.0.0.0 ceridianhcm.tt.omtrdc.net
 0.0.0.0 cerillosuncup.guru
 0.0.0.0 cerionnano.actonservice.com
@@ -29859,6 +29870,7 @@
 0.0.0.0 destinationoralairliner.com
 0.0.0.0 destinedsponsornominate.com
 0.0.0.0 destinyfong.tt.omtrdc.net
+0.0.0.0 destinysfavored.xyz
 0.0.0.0 destinyssa.com
 0.0.0.0 destroyedspear.com
 0.0.0.0 destructionhybrids.com
@@ -33172,6 +33184,7 @@
 0.0.0.0 eggsiswensa.com
 0.0.0.0 eggsreunitedpainful.com
 0.0.0.0 eghrbf.immowelt.at
+0.0.0.0 egidskiw.top
 0.0.0.0 egipsbvlgn.xyz
 0.0.0.0 egjubfeteywvi.com
 0.0.0.0 egldvmz.com
@@ -38499,6 +38512,7 @@
 0.0.0.0 ganjituiguang.ganji.com
 0.0.0.0 gannett.gcion.com
 0.0.0.0 ganodusskunks.top
+0.0.0.0 gaochen12.top
 0.0.0.0 gaokao.asia
 0.0.0.0 gaooawffc.com
 0.0.0.0 gaopinoa.cn
@@ -38702,6 +38716,7 @@
 0.0.0.0 gedozw.autoscout24.cz
 0.0.0.0 geechaid.xyz
 0.0.0.0 geedoovu.net
+0.0.0.0 geegleshoaph.com
 0.0.0.0 geeksundigne.com
 0.0.0.0 geerairu.net
 0.0.0.0 geethaihoa.com
@@ -42112,6 +42127,7 @@
 0.0.0.0 hg.scallsoogloea.com
 0.0.0.0 hgbn.rocks
 0.0.0.0 hgcbvpjswabie.xyz
+0.0.0.0 hgcgnfe.icu
 0.0.0.0 hgcmnews.pro
 0.0.0.0 hgdpllko.com
 0.0.0.0 hgearlpfbm.top
@@ -42244,6 +42260,7 @@
 0.0.0.0 higheurest.com
 0.0.0.0 highjackclients.com
 0.0.0.0 highjournalistbargain.com
+0.0.0.0 highlevelbite.com
 0.0.0.0 highlights-schadenmanager.schwacke.de
 0.0.0.0 highlights-schwackenet.schwacke.de
 0.0.0.0 highlypersevereenrapture.com
@@ -42450,6 +42467,7 @@
 0.0.0.0 hjrwwwlqcovom.com
 0.0.0.0 hjshal.com
 0.0.0.0 hjtedf.xyz
+0.0.0.0 hjuswoulvp.xyz
 0.0.0.0 hjxajf.com
 0.0.0.0 hjyfhi.misterspex.fi
 0.0.0.0 hjyovlwtevwdjy.com
@@ -46791,6 +46809,7 @@
 0.0.0.0 iwantuonly.com
 0.0.0.0 iwantusingle.com
 0.0.0.0 iwatojc.cn
+0.0.0.0 iwaxurhebkn.com
 0.0.0.0 iwdapjojrylh.xyz
 0.0.0.0 iwe.ktvgv.com
 0.0.0.0 iwerioo.top
@@ -47233,6 +47252,7 @@
 0.0.0.0 jeeteo.com
 0.0.0.0 jeethaju.net
 0.0.0.0 jeetyetmedia.com
+0.0.0.0 jeewoo.xctd.me
 0.0.0.0 jefferson.tt.omtrdc.net
 0.0.0.0 jeffersonawards.actonservice.com
 0.0.0.0 jeffersonhealth.hrm.healthgrades.com
@@ -48521,6 +48541,7 @@
 0.0.0.0 kbc.tt.omtrdc.net
 0.0.0.0 kbcmdi.florsheim.com.au
 0.0.0.0 kbevcidiiqwa.com
+0.0.0.0 kbexos.xyz
 0.0.0.0 kbighx.absolventa.de
 0.0.0.0 kbkewkjlqjqzr.top
 0.0.0.0 kbknujjtpnqq.com
@@ -57181,6 +57202,7 @@
 0.0.0.0 milljeanne.com
 0.0.0.0 millsurfaces.com
 0.0.0.0 millustry.top
+0.0.0.0 milteept.xyz
 0.0.0.0 miltlametta.com
 0.0.0.0 miluwo.com
 0.0.0.0 mim-email.mfg.macquarie.com
@@ -57672,7 +57694,10 @@
 0.0.0.0 mobiledevel.com
 0.0.0.0 mobilelog.upqzfile.com
 0.0.0.0 mobilelog.ws.pho.to
+0.0.0.0 mobileoffers-7-j-download.com
 0.0.0.0 mobileoffers-ac-download.com
+0.0.0.0 mobileoffers-dld-download.com
+0.0.0.0 mobileoffers-downloadapp-a.com
 0.0.0.0 mobileoffers-ep-download.com
 0.0.0.0 mobilepreviouswicked.com
 0.0.0.0 mobileraffles.com
@@ -58993,6 +59018,7 @@
 0.0.0.0 naipatouz.com
 0.0.0.0 naipsouz.net
 0.0.0.0 nairapp.com
+0.0.0.0 naisepsaige.com
 0.0.0.0 naiskosungueal.top
 0.0.0.0 naisoops.net
 0.0.0.0 naive-skin.pro
@@ -60671,6 +60697,7 @@
 0.0.0.0 nuvedu.xyz
 0.0.0.0 nuvi.actonservice.com
 0.0.0.0 nuxdwjicbg.com
+0.0.0.0 nuxwlc.cn
 0.0.0.0 nuyhvoshqnbkrg.com
 0.0.0.0 nuyibu.pieper.de
 0.0.0.0 nuyujp.barstoolsports.com
@@ -60858,6 +60885,7 @@
 0.0.0.0 oacfxrqghamyaq.com
 0.0.0.0 oachailo.net
 0.0.0.0 oackoubs.com
+0.0.0.0 oackoulimtoo.com
 0.0.0.0 oadrojoa.net
 0.0.0.0 oadsaurs.net
 0.0.0.0 oadsouzi.net
@@ -63076,6 +63104,7 @@
 0.0.0.0 oysterexhalereview.com
 0.0.0.0 oysterfoxfoe.com
 0.0.0.0 oyugspe.cn
+0.0.0.0 oyuvcqmqjyrqd.com
 0.0.0.0 oyuwkbk.top
 0.0.0.0 oywzrri.com
 0.0.0.0 oyxctgotabvk.com
@@ -66886,6 +66915,7 @@
 0.0.0.0 professionalsly.com
 0.0.0.0 professionalswebcheck.com
 0.0.0.0 professmeeting.com
+0.0.0.0 professorrevealingoctopus.com
 0.0.0.0 professtrespass.com
 0.0.0.0 proffering.xyz
 0.0.0.0 proffiliatesinc.actonservice.com
@@ -67148,6 +67178,7 @@
 0.0.0.0 proyectodos.tt.omtrdc.net
 0.0.0.0 prplad.com
 0.0.0.0 prplads.com
+0.0.0.0 prpmdp.xyz
 0.0.0.0 prpops.com
 0.0.0.0 prqbdfmzjs.com
 0.0.0.0 prre.ru
@@ -67383,6 +67414,7 @@
 0.0.0.0 ptoagnin.xyz
 0.0.0.0 ptoahaistais.com
 0.0.0.0 ptoajait.net
+0.0.0.0 ptoakrok.net
 0.0.0.0 ptoaltie.com
 0.0.0.0 ptoangir.com
 0.0.0.0 ptoapouk.com
@@ -68276,6 +68308,7 @@
 0.0.0.0 qnlranvabaqk.top
 0.0.0.0 qnlranvabrnq.top
 0.0.0.0 qnmtqq.com
+0.0.0.0 qnp16tstw.com
 0.0.0.0 qnqdpy.edreams.net
 0.0.0.0 qnqzbfgg.com
 0.0.0.0 qnrscbotmsj.com
@@ -69123,6 +69156,7 @@
 0.0.0.0 rcyzsh.icu
 0.0.0.0 rczudr.xyz
 0.0.0.0 rczwcs.brack.ch
+0.0.0.0 rd-cdnp.name
 0.0.0.0 rd.autoservicesdomain.com
 0.0.0.0 rd.casino777.lv
 0.0.0.0 rd.doggytreatbox.com
@@ -71262,6 +71296,7 @@
 0.0.0.0 rtax.criteo.com
 0.0.0.0 rtb-1.jizzberry.com
 0.0.0.0 rtb-1.mylust.com
+0.0.0.0 rtb-1.xcafe.com
 0.0.0.0 rtb-3.xgroovy.com
 0.0.0.0 rtb-apac-v4.152media.cloud
 0.0.0.0 rtb-apac-v4.adpluto.com
@@ -80718,6 +80753,7 @@
 0.0.0.0 stack.octwo.org
 0.0.0.0 stackadapt.com
 0.0.0.0 stackattacka.com
+0.0.0.0 stackmultiple.com
 0.0.0.0 stackprotectnational.com
 0.0.0.0 staerlcmplks.xyz
 0.0.0.0 staffdollar.com
@@ -82748,6 +82784,7 @@
 0.0.0.0 sunkwarriors.com
 0.0.0.0 sunlifeassurance.tt.omtrdc.net
 0.0.0.0 sunlightirrationalhearty.com
+0.0.0.0 sunmediaads.com
 0.0.0.0 sunnycategoryopening.com
 0.0.0.0 sunnyscanner.com
 0.0.0.0 sunnyseries.com
@@ -83984,6 +84021,7 @@
 0.0.0.0 ta.acedtousles.com
 0.0.0.0 ta.taxslayer.com
 0.0.0.0 ta.trs.cn
+0.0.0.0 ta20k.xyz
 0.0.0.0 ta3nfsordd.com
 0.0.0.0 taaqhr6axacd2um.com
 0.0.0.0 taaqxpyicjlgv.com
@@ -84924,6 +84962,7 @@
 0.0.0.0 temails.productnotice.thomsonreuters.com
 0.0.0.0 temasekpolytechnic.tt.omtrdc.net
 0.0.0.0 temksrtd.net
+0.0.0.0 temp.twicomi.com
 0.0.0.0 tempatwisatasekitar.tt.omtrdc.net
 0.0.0.0 tempbugs.com
 0.0.0.0 tempeorek.org
@@ -93455,6 +93494,7 @@
 0.0.0.0 vfvcxv.naturhaeuschen.de
 0.0.0.0 vfvdsati.com
 0.0.0.0 vfvvhywsdons.com
+0.0.0.0 vfxrpl.xyz
 0.0.0.0 vfzfrx.xyz
 0.0.0.0 vfzqtgr.com
 0.0.0.0 vfzxaz.bloomingdales.ae
@@ -94647,6 +94687,7 @@
 0.0.0.0 wabhrkynybk.com
 0.0.0.0 wabsgz.studocu.com
 0.0.0.0 wachipho.net
+0.0.0.0 wacisi.xyz
 0.0.0.0 wackeerd.com
 0.0.0.0 wackotracko.com
 0.0.0.0 wacoal.tt.omtrdc.net
@@ -95655,6 +95696,7 @@
 0.0.0.0 wgbwlgzthobp.com
 0.0.0.0 wgchrrammzv.com
 0.0.0.0 wghzbgmjpyig.com
+0.0.0.0 wgidskie.top
 0.0.0.0 wgkggub.com
 0.0.0.0 wgnrrd.culturekings.com
 0.0.0.0 wgpartner.com
@@ -96259,6 +96301,7 @@
 0.0.0.0 wmbbsat.com
 0.0.0.0 wmbd.gamersky.com
 0.0.0.0 wmbldi.compass.it
+0.0.0.0 wmcdpt.com
 0.0.0.0 wmdymnqzhbo.com
 0.0.0.0 wmdzefk.com
 0.0.0.0 wmeng.feihuadns.com
@@ -100111,6 +100154,7 @@
 0.0.0.0 zheevmmvlwg.com
 0.0.0.0 zhej78i1an8w6ceu.com
 0.0.0.0 zhengliyqq.com
+0.0.0.0 zhengzhou12.top
 0.0.0.0 zhfvwkkftg.com
 0.0.0.0 zhhxxnfuxn.com
 0.0.0.0 zhibo128x1.xyz

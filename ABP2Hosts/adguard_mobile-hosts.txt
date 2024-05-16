@@ -1,4 +1,4 @@
-# Tue May 14 05:10:43 PM UTC 2024
+# Thu May 16 03:37:57 AM UTC 2024
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -1297,7 +1297,6 @@
 0.0.0.0 api-sdk.datadome.co
 0.0.0.0 api-telemetry.servers.getgo.com
 0.0.0.0 api-usent.kampyle.com
-0.0.0.0 api-v3.tinypass.com
 0.0.0.0 api.247-inc.net
 0.0.0.0 api.53.localytics.com
 0.0.0.0 api.ad-locus.com
@@ -2240,7 +2239,6 @@
 0.0.0.0 butterburst.com
 0.0.0.0 buttonladybug.com
 0.0.0.0 buttons-config.sharethis.com
-0.0.0.0 buy.tinypass.com
 0.0.0.0 buysellads.com
 0.0.0.0 buzzcity.net
 0.0.0.0 buzzfeed.amp.permutive.com
@@ -2578,7 +2576,6 @@
 0.0.0.0 cdn.targetspot.com
 0.0.0.0 cdn.teads.tv
 0.0.0.0 cdn.teads.tv.edgekey.net
-0.0.0.0 cdn.tinypass.com
 0.0.0.0 cdn.tpdads.com
 0.0.0.0 cdn.tremorhub.com
 0.0.0.0 cdn.tsyndicate.com
@@ -3861,7 +3858,6 @@
 0.0.0.0 exhibitsneeze.com
 0.0.0.0 exp.360in.com
 0.0.0.0 expansioneggnog.com
-0.0.0.0 experience.tinypass.com
 0.0.0.0 experienceeggs.com
 0.0.0.0 experiment.appadhoc.com
 0.0.0.0 exponential.com
@@ -4613,7 +4609,6 @@
 0.0.0.0 id.rlcdn.com
 0.0.0.0 id.sharedid.org
 0.0.0.0 id.sv.rkdms.com
-0.0.0.0 id.tinypass.com
 0.0.0.0 id1.cn
 0.0.0.0 id5-sync.com
 0.0.0.0 identity.api.wmcdp.io
@@ -6813,6 +6808,7 @@
 0.0.0.0 resources.taboola.com
 0.0.0.0 resources.xg4ken.com
 0.0.0.0 respectrain.com
+0.0.0.0 resplendentecho.com
 0.0.0.0 rest.dynamicyield.com
 0.0.0.0 rest.iad-01.braze.com
 0.0.0.0 rest.iad-03.braze.com
