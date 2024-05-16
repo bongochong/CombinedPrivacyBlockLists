@@ -1,4 +1,4 @@
-// **** Tue May 14 05:17:46 PM UTC 2024
+// **** Thu May 16 03:48:40 AM UTC 2024
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.007itshop.com") ||
@@ -5552,6 +5552,7 @@ shExpMatch(host, "*.anekbook.ru") ||
 shExpMatch(host, "*.ang.el-mail.online") ||
 shExpMatch(host, "*.angelchance.com") ||
 shExpMatch(host, "*.angeldonationblog.com") ||
+shExpMatch(host, "*.angesky.com") ||
 shExpMatch(host, "*.anglo.email") ||
 shExpMatch(host, "*.angossa.com") ||
 shExpMatch(host, "*.aniview.com") ||
@@ -5653,7 +5654,6 @@ shExpMatch(host, "*.api-n.outgrow.co") ||
 shExpMatch(host, "*.api-proxy.bee7.com") ||
 shExpMatch(host, "*.api-sdk.datadome.co") ||
 shExpMatch(host, "*.api-telemetry.servers.getgo.com") ||
-shExpMatch(host, "*.api-v3.tinypass.com") ||
 shExpMatch(host, "*.api.247-inc.net") ||
 shExpMatch(host, "*.api.ad-locus.com") ||
 shExpMatch(host, "*.api.adgrowth.jp") ||
@@ -6202,6 +6202,7 @@ shExpMatch(host, "*.auto-bannertausch.de") ||
 shExpMatch(host, "*.auto.giz-store.com") ||
 shExpMatch(host, "*.auto.goengineer.com") ||
 shExpMatch(host, "*.autoads.asia") ||
+shExpMatch(host, "*.autofixx.pages.dev") ||
 shExpMatch(host, "*.autohits.dk") ||
 shExpMatch(host, "*.autologica.ga") ||
 shExpMatch(host, "*.automatad.com") ||
@@ -6996,7 +6997,6 @@ shExpMatch(host, "*.buttsnthighs.com") ||
 shExpMatch(host, "*.buy-adipex.aca.ru") ||
 shExpMatch(host, "*.buy-adipex.hut1.ru") ||
 shExpMatch(host, "*.buy-cheap-phentermine.blogspot.com") ||
-shExpMatch(host, "*.buy.tinypass.com") ||
 shExpMatch(host, "*.buycheapadvertising.com") ||
 shExpMatch(host, "*.buyers-inn.de") ||
 shExpMatch(host, "*.buyma.site") ||
@@ -7370,7 +7370,6 @@ shExpMatch(host, "*.cdn.speedcurve.com") ||
 shExpMatch(host, "*.cdn.split.io") ||
 shExpMatch(host, "*.cdn.spotxcdn.com") ||
 shExpMatch(host, "*.cdn.steepto.com") ||
-shExpMatch(host, "*.cdn.tinypass.com") ||
 shExpMatch(host, "*.cdn.tpdads.com") ||
 shExpMatch(host, "*.cdn.trackjs.netdna-cdn.com") ||
 shExpMatch(host, "*.cdn.uprivaladserver.net") ||
@@ -10213,7 +10212,6 @@ shExpMatch(host, "*.experianmarketingservices.digital") ||
 shExpMatch(host, "*.experience.erblearn.org") ||
 shExpMatch(host, "*.experience.goudengids.be") ||
 shExpMatch(host, "*.experience.rrd.com") ||
-shExpMatch(host, "*.experience.tinypass.com") ||
 shExpMatch(host, "*.experiencedlawsuit.com") ||
 shExpMatch(host, "*.experienceeggs.com") ||
 shExpMatch(host, "*.expert.smalley.com") ||
@@ -12961,7 +12959,6 @@ shExpMatch(host, "*.icyads.com") ||
 shExpMatch(host, "*.id-tiara.com") ||
 shExpMatch(host, "*.id.cxense.com") ||
 shExpMatch(host, "*.id.sv.rkdms.com") ||
-shExpMatch(host, "*.id.tinypass.com") ||
 shExpMatch(host, "*.id001.jp") ||
 shExpMatch(host, "*.id1.cn") ||
 shExpMatch(host, "*.id5-sync.com") ||
@@ -21009,6 +21006,7 @@ shExpMatch(host, "*.tekhacks.net") ||
 shExpMatch(host, "*.telaria.com") ||
 shExpMatch(host, "*.telefoniabologna.it") ||
 shExpMatch(host, "*.telegraf.detmir-stats.ru") ||
+shExpMatch(host, "*.telegramhcn.com") ||
 shExpMatch(host, "*.telegramm.site") ||
 shExpMatch(host, "*.telem.sre.gopuff.com") ||
 shExpMatch(host, "*.telemetric.dk") ||
@@ -22714,6 +22712,7 @@ shExpMatch(host, "*.veille-referencement.com") ||
 shExpMatch(host, "*.veinteractive.com") ||
 shExpMatch(host, "*.velismedia.com") ||
 shExpMatch(host, "*.velocecdn.com") ||
+shExpMatch(host, "*.velyapromo2024.ru") ||
 shExpMatch(host, "*.vendimob.pl") ||
 shExpMatch(host, "*.venetrigni.com") ||
 shExpMatch(host, "*.vengefulgrass.com") ||
@@ -29285,6 +29284,7 @@ shExpMatch(host, "anekbook.ru") ||
 shExpMatch(host, "ang.el-mail.online") ||
 shExpMatch(host, "angelchance.com") ||
 shExpMatch(host, "angeldonationblog.com") ||
+shExpMatch(host, "angesky.com") ||
 shExpMatch(host, "anglo.email") ||
 shExpMatch(host, "angossa.com") ||
 shExpMatch(host, "aniview.com") ||
@@ -29386,7 +29386,6 @@ shExpMatch(host, "api-n.outgrow.co") ||
 shExpMatch(host, "api-proxy.bee7.com") ||
 shExpMatch(host, "api-sdk.datadome.co") ||
 shExpMatch(host, "api-telemetry.servers.getgo.com") ||
-shExpMatch(host, "api-v3.tinypass.com") ||
 shExpMatch(host, "api.247-inc.net") ||
 shExpMatch(host, "api.ad-locus.com") ||
 shExpMatch(host, "api.adgrowth.jp") ||
@@ -29935,6 +29934,7 @@ shExpMatch(host, "auto-bannertausch.de") ||
 shExpMatch(host, "auto.giz-store.com") ||
 shExpMatch(host, "auto.goengineer.com") ||
 shExpMatch(host, "autoads.asia") ||
+shExpMatch(host, "autofixx.pages.dev") ||
 shExpMatch(host, "autohits.dk") ||
 shExpMatch(host, "autologica.ga") ||
 shExpMatch(host, "automatad.com") ||
@@ -30729,7 +30729,6 @@ shExpMatch(host, "buttsnthighs.com") ||
 shExpMatch(host, "buy-adipex.aca.ru") ||
 shExpMatch(host, "buy-adipex.hut1.ru") ||
 shExpMatch(host, "buy-cheap-phentermine.blogspot.com") ||
-shExpMatch(host, "buy.tinypass.com") ||
 shExpMatch(host, "buycheapadvertising.com") ||
 shExpMatch(host, "buyers-inn.de") ||
 shExpMatch(host, "buyma.site") ||
@@ -31103,7 +31102,6 @@ shExpMatch(host, "cdn.speedcurve.com") ||
 shExpMatch(host, "cdn.split.io") ||
 shExpMatch(host, "cdn.spotxcdn.com") ||
 shExpMatch(host, "cdn.steepto.com") ||
-shExpMatch(host, "cdn.tinypass.com") ||
 shExpMatch(host, "cdn.tpdads.com") ||
 shExpMatch(host, "cdn.trackjs.netdna-cdn.com") ||
 shExpMatch(host, "cdn.uprivaladserver.net") ||
@@ -33946,7 +33944,6 @@ shExpMatch(host, "experianmarketingservices.digital") ||
 shExpMatch(host, "experience.erblearn.org") ||
 shExpMatch(host, "experience.goudengids.be") ||
 shExpMatch(host, "experience.rrd.com") ||
-shExpMatch(host, "experience.tinypass.com") ||
 shExpMatch(host, "experiencedlawsuit.com") ||
 shExpMatch(host, "experienceeggs.com") ||
 shExpMatch(host, "expert.smalley.com") ||
@@ -36694,7 +36691,6 @@ shExpMatch(host, "icyads.com") ||
 shExpMatch(host, "id-tiara.com") ||
 shExpMatch(host, "id.cxense.com") ||
 shExpMatch(host, "id.sv.rkdms.com") ||
-shExpMatch(host, "id.tinypass.com") ||
 shExpMatch(host, "id001.jp") ||
 shExpMatch(host, "id1.cn") ||
 shExpMatch(host, "id5-sync.com") ||
@@ -44742,6 +44738,7 @@ shExpMatch(host, "tekhacks.net") ||
 shExpMatch(host, "telaria.com") ||
 shExpMatch(host, "telefoniabologna.it") ||
 shExpMatch(host, "telegraf.detmir-stats.ru") ||
+shExpMatch(host, "telegramhcn.com") ||
 shExpMatch(host, "telegramm.site") ||
 shExpMatch(host, "telem.sre.gopuff.com") ||
 shExpMatch(host, "telemetric.dk") ||
@@ -46447,6 +46444,7 @@ shExpMatch(host, "veille-referencement.com") ||
 shExpMatch(host, "veinteractive.com") ||
 shExpMatch(host, "velismedia.com") ||
 shExpMatch(host, "velocecdn.com") ||
+shExpMatch(host, "velyapromo2024.ru") ||
 shExpMatch(host, "vendimob.pl") ||
 shExpMatch(host, "venetrigni.com") ||
 shExpMatch(host, "vengefulgrass.com") ||
