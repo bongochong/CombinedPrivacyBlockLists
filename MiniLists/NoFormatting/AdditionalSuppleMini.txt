@@ -14248,6 +14248,7 @@
 0.0.0.0 fishingreelinvestments.com
 0.0.0.0 fitnessfirst01.wt-eu02.net
 0.0.0.0 fivecdm.com
+0.0.0.0 fiverera.click
 0.0.0.0 fiwinet.firmenwissen.de
 0.0.0.0 fizopp.duluthtrading.com
 0.0.0.0 fjp4.animalcity.es
@@ -19377,6 +19378,7 @@
 0.0.0.0 luckergoldsurvey.top
 0.0.0.0 lucklayed.info
 0.0.0.0 lucksignpost0804.org
+0.0.0.0 luckvote.top
 0.0.0.0 lucky-star69.com
 0.0.0.0 lucky-star8.com
 0.0.0.0 luckychance.me
@@ -21143,6 +21145,7 @@
 0.0.0.0 microsoft-cnd.com
 0.0.0.0 microsoft-debug-098.com
 0.0.0.0 microsoft-home-en.com
+0.0.0.0 microsoft-login.zapier.app
 0.0.0.0 microsoft-online-en-us.com
 0.0.0.0 microsoft-update-server.bit
 0.0.0.0 microsoft-ware.com
@@ -22179,6 +22182,7 @@
 0.0.0.0 nbc.adbureau.net
 0.0.0.0 nbcsearch.com
 0.0.0.0 nbcuniversal.122.2o7.net
+0.0.0.0 nbhhi.ru
 0.0.0.0 nbjmp.com
 0.0.0.0 nbryb.com
 0.0.0.0 nbsfmradio.com
@@ -29817,6 +29821,7 @@
 0.0.0.0 sumo.com
 0.0.0.0 sumome.com
 0.0.0.0 sumsmsp.info
+0.0.0.0 sumydeko.blogspot.com
 0.0.0.0 sun-cdn.advividnetwork.com
 0.0.0.0 sun.advividnetwork.com
 0.0.0.0 sun.kgi5fgwpp8.com
@@ -33127,6 +33132,7 @@
 0.0.0.0 whartaug.net
 0.0.0.0 whautsis.com
 0.0.0.0 whenu.com
+0.0.0.0 whfdny.org
 0.0.0.0 whiboubs.com
 0.0.0.0 whilockmi.com
 0.0.0.0 whim-w.net
@@ -34449,6 +34455,7 @@
 0.0.0.0 zapadserver1.com
 0.0.0.0 zarad.net
 0.0.0.0 zarpop.com
+0.0.0.0 zaxacava2.pages.dev
 0.0.0.0 zayit.lon2.spotify.com
 0.0.0.0 zb.eulerian.com
 0.0.0.0 zb.eulerian.eu

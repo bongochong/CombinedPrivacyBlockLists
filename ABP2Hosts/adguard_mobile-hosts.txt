@@ -1,4 +1,4 @@
-# Thu May 16 03:37:57 AM UTC 2024
+# Sat May 18 05:06:37 PM UTC 2024
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -1297,6 +1297,7 @@
 0.0.0.0 api-sdk.datadome.co
 0.0.0.0 api-telemetry.servers.getgo.com
 0.0.0.0 api-usent.kampyle.com
+0.0.0.0 api-v3.tinypass.com
 0.0.0.0 api.247-inc.net
 0.0.0.0 api.53.localytics.com
 0.0.0.0 api.ad-locus.com
@@ -2239,6 +2240,7 @@
 0.0.0.0 butterburst.com
 0.0.0.0 buttonladybug.com
 0.0.0.0 buttons-config.sharethis.com
+0.0.0.0 buy.tinypass.com
 0.0.0.0 buysellads.com
 0.0.0.0 buzzcity.net
 0.0.0.0 buzzfeed.amp.permutive.com
@@ -2576,6 +2578,7 @@
 0.0.0.0 cdn.targetspot.com
 0.0.0.0 cdn.teads.tv
 0.0.0.0 cdn.teads.tv.edgekey.net
+0.0.0.0 cdn.tinypass.com
 0.0.0.0 cdn.tpdads.com
 0.0.0.0 cdn.tremorhub.com
 0.0.0.0 cdn.tsyndicate.com
@@ -2681,12 +2684,14 @@
 0.0.0.0 chavoads.com
 0.0.0.0 check.rayjump.com
 0.0.0.0 cheerfulrange.com
+0.0.0.0 cheerycraze.com
 0.0.0.0 chemicalcoach.com
 0.0.0.0 chemicalsnake.com
 0.0.0.0 cherriescare.com
 0.0.0.0 cherriescloud.com
 0.0.0.0 chesscherry.com
 0.0.0.0 chesscolor.com
+0.0.0.0 chesscrowd.com
 0.0.0.0 chewcoat.com
 0.0.0.0 chi.outbrain.com
 0.0.0.0 chickensstation.com
@@ -2966,6 +2971,7 @@
 0.0.0.0 connect-metrics-collector.s-onetag.com
 0.0.0.0 connect.scroll.com
 0.0.0.0 connect.tapjoy.com
+0.0.0.0 connectashelf.com
 0.0.0.0 consciouschairs.com
 0.0.0.0 consciouscheese.com
 0.0.0.0 consciousdirt.com
@@ -3897,6 +3903,7 @@
 0.0.0.0 familiarrod.com
 0.0.0.0 famousquarter.com
 0.0.0.0 fancyactivity.com
+0.0.0.0 fancydune.com
 0.0.0.0 fandangollc.demdex.net
 0.0.0.0 fangfeeling.com
 0.0.0.0 fanserv.us-east-1.stinger-ad.bidr.io
@@ -4909,6 +4916,7 @@
 0.0.0.0 joblessdrum.com
 0.0.0.0 jogger.zdbb.net
 0.0.0.0 johnston.grapeshot.co.uk
+0.0.0.0 jollylens.com
 0.0.0.0 joyfulkeen.com
 0.0.0.0 joyoussurprise.com
 0.0.0.0 jp-g2.gumgum.com
@@ -5076,6 +5084,7 @@
 0.0.0.0 lee.blueconic.net
 0.0.0.0 leftliquid.com
 0.0.0.0 legalleg.com
+0.0.0.0 lemonsandjoy.com
 0.0.0.0 lentainform.com
 0.0.0.0 lepodownload.mediatek.com
 0.0.0.0 lettucecopper.com
@@ -6496,6 +6505,7 @@
 0.0.0.0 production.wootric.com
 0.0.0.0 production.wootric.com.herokudns.com
 0.0.0.0 productivepear.com
+0.0.0.0 productsurfer.com
 0.0.0.0 profile-api-prod-elb.53.localytics.com
 0.0.0.0 profile.adkmob.com
 0.0.0.0 profile.localytics.com
@@ -6638,6 +6648,7 @@
 0.0.0.0 quantcount.com
 0.0.0.0 quantumlagoon.com
 0.0.0.0 quarterbean.com
+0.0.0.0 queenskart.com
 0.0.0.0 query-us-east1.petametrics.com
 0.0.0.0 query.fqtag.com
 0.0.0.0 query.petametrics.com
@@ -6714,6 +6725,7 @@
 0.0.0.0 rdi.us.criteo.com
 0.0.0.0 rdr.ad-score.com
 0.0.0.0 reachms.bfmio.com
+0.0.0.0 reactjspdf.com
 0.0.0.0 readgoldfish.com
 0.0.0.0 readingguilt.com
 0.0.0.0 readymoon.com
@@ -7115,6 +7127,7 @@
 0.0.0.0 scatteredstream.com
 0.0.0.0 scdn.cxense.com
 0.0.0.0 scdown.qq.com
+0.0.0.0 scenicapparel.com
 0.0.0.0 scheme.adywind.com
 0.0.0.0 scheme.mobpowertech.com
 0.0.0.0 schemea.prinit.net
