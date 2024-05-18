@@ -301,6 +301,7 @@ etl.tindersparks.com
 eu1.ethermine.org
 events.gfe.nvidia.com
 events.mapbox.com
+experience.tinypass.com
 f1.media.brightcove.com
 facebook.com
 fanboy.co.nz
@@ -389,6 +390,7 @@ i1.ytimg.com
 ibb.co
 icloud.com
 icscards.nl
+id.tinypass.com
 identity.mparticle.com
 idol-dvd.com
 image.ibb.co
@@ -670,6 +672,7 @@ symantec.com
 syndication.twitter.com
 sysctl.org
 t.co
+t.indeed.com
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
 tags.tiqcdn.com
@@ -692,6 +695,7 @@ tidiochat.com
 time.samsungcloudsolution.com
 timeinc.net
 tindersparks.com
+tinypass.com
 tinyurl.com
 tn.com.ar
 todo-ta-g7g.amazon.com
