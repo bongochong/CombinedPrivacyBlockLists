@@ -78,6 +78,7 @@ localhost$
 ^0\.0\.0\.0\s(www\.)?blizzard\.com$
 ^0\.0\.0\.0\s(www\.)?blokada\.org$
 ^0\.0\.0\.0\s(www\.)?bluebillywig\.com$
+^0\.0\.0\.0\s(www\.)?branch\.io$
 ^0\.0\.0\.0\s(www\.)?brave\.com$
 ^0\.0\.0\.0\s(www\.)?brave\.software$
 ^0\.0\.0\.0\s(www\.)?bravedns\.com$
@@ -236,6 +237,7 @@ localhost$
 ^0\.0\.0\.0\s(www\.)?mladtehnik\.com$
 ^0\.0\.0\.0\s(www\.)?monster\.com$
 ^0\.0\.0\.0\s(www\.)?mozilla\.com$
+^0\.0\.0\.0\s(www\.)?mparticle\.com$
 ^0\.0\.0\.0\s(www\.)?mradx\.net$
 ^0\.0\.0\.0\s(www\.)?msftncsi\.com$
 ^0\.0\.0\.0\s(www\.)?msn\.com$
@@ -328,6 +330,7 @@ localhost$
 ^0\.0\.0\.0\s(www\.)?spotify\.com$
 ^0\.0\.0\.0\s(www\.)?ssl-images-amazon\.com$
 ^0\.0\.0\.0\s(www\.)?staradvertiser\.com$
+^0\.0\.0\.0\s(www\.)?statcounter\.com$
 ^0\.0\.0\.0\s(www\.)?steamcommunity\.com$
 ^0\.0\.0\.0\s(www\.)?steampowered\.com$
 ^0\.0\.0\.0\s(www\.)?symantec\.com$
@@ -450,6 +453,7 @@ localhost$
 ^0\.0\.0\.0\sappsbackup-pa\.googleapis\.com$
 ^0\.0\.0\.0\sapresolve\.spotify\.com$
 ^0\.0\.0\.0\sapt\.newrelic\.com$
+^0\.0\.0\.0\sassets-global\.website-files\.com$
 ^0\.0\.0\.0\sassets\.adobedtm\.com$
 ^0\.0\.0\.0\sassets\.huluim\.com$
 ^0\.0\.0\.0\sassets\.minutemediacdn\.com$
@@ -591,6 +595,7 @@ localhost$
 ^0\.0\.0\.0\seu1\.ethermine\.org$
 ^0\.0\.0\.0\sevents\.gfe\.nvidia\.com$
 ^0\.0\.0\.0\sevents\.mapbox\.com$
+^0\.0\.0\.0\sexperience\.tinypass\.com$
 ^0\.0\.0\.0\sf1\.media\.brightcove\.com$
 ^0\.0\.0\.0\sfast\.fonts\.net$
 ^0\.0\.0\.0\sfirefox\.settings\.services\.mozilla\.com$
@@ -607,6 +612,7 @@ localhost$
 ^0\.0\.0\.0\sgae2-spclient\.spotify\.com$
 ^0\.0\.0\.0\sgame\.weixin\.qq\.com$
 ^0\.0\.0\.0\sgcs\.sc-cdn\.net$
+^0\.0\.0\.0\sgeo\.nbcsports\.com$
 ^0\.0\.0\.0\sgeo\.ngtv\.io$
 ^0\.0\.0\.0\sgeolocation\.garmin\.com$
 ^0\.0\.0\.0\sgeolocation\.onetrust\.com$
@@ -614,15 +620,17 @@ localhost$
 ^0\.0\.0\.0\sget\.adobe\.com$
 ^0\.0\.0\.0\sgfwsl\.geforce\.com$
 ^0\.0\.0\.0\sglimmer\.hearstapps\.com$
-^0\.0\.0\.0\sassets-global\.website-files\.com$
 ^0\.0\.0\.0\sgo\.cnn\.com$
 ^0\.0\.0\.0\sgs\.apple\.com$
+^0\.0\.0\.0\sgs\.statcounter\.com$
 ^0\.0\.0\.0\sgstaticadssl\.l\.google\.com$
 ^0\.0\.0\.0\shello\.myfonts\.net$
 ^0\.0\.0\.0\si1\.ytimg\.com$
 ^0\.0\.0\.0\si\.ibb\.co$
 ^0\.0\.0\.0\si\.imgbox\.com$
 ^0\.0\.0\.0\si\.ytimg\.com$
+^0\.0\.0\.0\sid\.tinypass\.com$
+^0\.0\.0\.0\sidentity\.mparticle\.com$
 ^0\.0\.0\.0\simage\.ibb\.co$
 ^0\.0\.0\.0\simages2\.minutemediacdn\.com$
 ^0\.0\.0\.0\simages3\.imgbox\.com$
@@ -761,12 +769,14 @@ localhost$
 ^0\.0\.0\.0\ssyndication\.twitter\.com$
 ^0\.0\.0\.0\st0\.ssl\.ak\.dynamic\.tiles\.virtualearth\.net$
 ^0\.0\.0\.0\st0\.ssl\.ak\.tiles\.virtualearth\.net$
+^0\.0\.0\.0\st\.indeed\.com$
 ^0\.0\.0\.0\stags\.tiqcdn\.com$
 ^0\.0\.0\.0\stalk\.brave\.com$
 ^0\.0\.0\.0\std\.demdex\.net$
 ^0\.0\.0\.0\stelegraph\.api\.hbo\.com$
 ^0\.0\.0\.0\stextsecure-service-staging\.whispersystems\.org$
 ^0\.0\.0\.0\stime\.samsungcloudsolution\.com$
+^0\.0\.0\.0\stinypass\.com$
 ^0\.0\.0\.0\stn\.com\.ar$
 ^0\.0\.0\.0\stodo-ta-g7g\.amazon\.com$
 ^0\.0\.0\.0\stypeface\.nyt\.com$

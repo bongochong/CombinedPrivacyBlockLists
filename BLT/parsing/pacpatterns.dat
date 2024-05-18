@@ -62,6 +62,7 @@
 ^(www\.)?blizzard\.com$
 ^(www\.)?blokada\.org$
 ^(www\.)?bluebillywig\.com$
+^(www\.)?branch\.io$
 ^(www\.)?brave\.com$
 ^(www\.)?brave\.software$
 ^(www\.)?bravedns\.com$
@@ -220,6 +221,7 @@
 ^(www\.)?mladtehnik\.com$
 ^(www\.)?monster\.com$
 ^(www\.)?mozilla\.com$
+^(www\.)?mparticle\.com$
 ^(www\.)?mradx\.net$
 ^(www\.)?msftncsi\.com$
 ^(www\.)?msn\.com$
@@ -312,6 +314,7 @@
 ^(www\.)?spotify\.com$
 ^(www\.)?ssl-images-amazon\.com$
 ^(www\.)?staradvertiser\.com$
+^(www\.)?statcounter\.com$
 ^(www\.)?steamcommunity\.com$
 ^(www\.)?steampowered\.com$
 ^(www\.)?symantec\.com$
@@ -434,6 +437,7 @@
 ^appsbackup-pa\.googleapis\.com$
 ^apresolve\.spotify\.com$
 ^apt\.newrelic\.com$
+^assets-global\.website-files\.com$
 ^assets\.adobedtm\.com$
 ^assets\.huluim\.com$
 ^assets\.minutemediacdn\.com$
@@ -575,6 +579,7 @@
 ^eu1\.ethermine\.org$
 ^events\.gfe\.nvidia\.com$
 ^events\.mapbox\.com$
+^experience\.tinypass\.com$
 ^f1\.media\.brightcove\.com$
 ^fast\.fonts\.net$
 ^firefox\.settings\.services\.mozilla\.com$
@@ -591,6 +596,7 @@
 ^gae2-spclient\.spotify\.com$
 ^game\.weixin\.qq\.com$
 ^gcs\.sc-cdn\.net$
+^geo\.nbcsports\.com$
 ^geo\.ngtv\.io$
 ^geolocation\.garmin\.com$
 ^geolocation\.onetrust\.com$
@@ -598,15 +604,17 @@
 ^get\.adobe\.com$
 ^gfwsl\.geforce\.com$
 ^glimmer\.hearstapps\.com$
-^assets-global\.website-files\.com$
 ^go\.cnn\.com$
 ^gs\.apple\.com$
+^gs\.statcounter\.com$
 ^gstaticadssl\.l\.google\.com$
 ^hello\.myfonts\.net$
 ^i1\.ytimg\.com$
 ^i\.ibb\.co$
 ^i\.imgbox\.com$
 ^i\.ytimg\.com$
+^id\.tinypass\.com$
+^identity\.mparticle\.com$
 ^image\.ibb\.co$
 ^images2\.minutemediacdn\.com$
 ^images3\.imgbox\.com$
@@ -745,12 +753,14 @@
 ^syndication\.twitter\.com$
 ^t0\.ssl\.ak\.dynamic\.tiles\.virtualearth\.net$
 ^t0\.ssl\.ak\.tiles\.virtualearth\.net$
+^t\.indeed\.com$
 ^tags\.tiqcdn\.com$
 ^talk\.brave\.com$
 ^td\.demdex\.net$
 ^telegraph\.api\.hbo\.com$
 ^textsecure-service-staging\.whispersystems\.org$
 ^time\.samsungcloudsolution\.com$
+^tinypass\.com$
 ^tn\.com\.ar$
 ^todo-ta-g7g\.amazon\.com$
 ^typeface\.nyt\.com$
