@@ -1,4 +1,4 @@
-# Sat May 18 05:06:37 PM UTC 2024
+# Fri May 31 12:37:42 AM UTC 2024
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -936,7 +936,6 @@
 0.0.0.0 advrts.onelouder.com
 0.0.0.0 advshield.goforandroid.com
 0.0.0.0 adwin.startappservice.com
-0.0.0.0 adwods.com
 0.0.0.0 adx-asia-imp.aarki.net
 0.0.0.0 adx-asia.aarki.net
 0.0.0.0 adx-dre.op.hicloud.com
@@ -1219,6 +1218,7 @@
 0.0.0.0 analytics.twitter.com
 0.0.0.0 analytics.vendemore.com
 0.0.0.0 analytics.webads.eu
+0.0.0.0 analytics.wildlifestudios.com
 0.0.0.0 analytics.wildtangent.com
 0.0.0.0 analytics.yahoo.com
 0.0.0.0 analytics.yolacdn.net
@@ -2052,6 +2052,7 @@
 0.0.0.0 beneficialbeef.com
 0.0.0.0 benthose.com
 0.0.0.0 bepolite.eu
+0.0.0.0 bespokesandals.com
 0.0.0.0 bestboundary.com
 0.0.0.0 bestbuy.demdex.net
 0.0.0.0 bet365affiliates.com
@@ -2702,6 +2703,7 @@
 0.0.0.0 childlikeform.com
 0.0.0.0 chingovernment.com
 0.0.0.0 chinsnakes.com
+0.0.0.0 chipperisle.com
 0.0.0.0 chivalrouscord.com
 0.0.0.0 choices.trustarc.com
 0.0.0.0 choices.truste.com
@@ -3663,6 +3665,7 @@
 0.0.0.0 enchantedtop.com
 0.0.0.0 enchantingbear.com
 0.0.0.0 enchantingenchantment.com
+0.0.0.0 enchantingtundra.com
 0.0.0.0 enchantingvalley.com
 0.0.0.0 encourageidea.com
 0.0.0.0 encourageshock.com
@@ -3983,6 +3986,7 @@
 0.0.0.0 flimsythought.com
 0.0.0.0 floodprincipal.com
 0.0.0.0 flourishingcollaboration.com
+0.0.0.0 flourishingpartnership.com
 0.0.0.0 flowersornament.com
 0.0.0.0 flowerstreatment.com
 0.0.0.0 flowerycreature.com
@@ -4400,6 +4404,7 @@
 0.0.0.0 haplesshydrant.com
 0.0.0.0 haplessland.com
 0.0.0.0 happenhistory.com
+0.0.0.0 happysponge.com
 0.0.0.0 harborcaption.com
 0.0.0.0 harborcub.com
 0.0.0.0 hardtofindmilk.com
@@ -4732,6 +4737,7 @@
 0.0.0.0 imprsgmp.taboola.com
 0.0.0.0 impulsehands.com
 0.0.0.0 impulsejewel.com
+0.0.0.0 impulselumber.com
 0.0.0.0 imrworldwide.com
 0.0.0.0 imtwjwoasak.com
 0.0.0.0 imwx.com
@@ -4904,6 +4910,7 @@
 0.0.0.0 jact.atdmt.com
 0.0.0.0 jadedjoke.com
 0.0.0.0 jadeitite.com
+0.0.0.0 jaderooster.com
 0.0.0.0 jadserve.postrelease.com
 0.0.0.0 jadserve.postrelease.com.akadns.net
 0.0.0.0 jailbulb.com
@@ -5956,6 +5963,7 @@
 0.0.0.0 online-metrix.net
 0.0.0.0 online.mobify.net
 0.0.0.0 onlineapi.youappi.com
+0.0.0.0 onlywoofs.com
 0.0.0.0 onrt-stsdk.vivo.com.cn
 0.0.0.0 onrt-stsdk.vivoglobal.com
 0.0.0.0 onrt.stsdk.vivo.com.cn
@@ -5981,6 +5989,7 @@
 0.0.0.0 openrtb.cootlogix.com
 0.0.0.0 opensharecount.com
 0.0.0.0 openstat.net
+0.0.0.0 opentelemetry-collector.shared-services.us-east-1.general.prod.wildlife.io
 0.0.0.0 openx.adhaven.com
 0.0.0.0 openxdisplay970503469688.s.moatpixel.com
 0.0.0.0 openxvideo114183407631.s.moatpixel.com
@@ -6002,6 +6011,7 @@
 0.0.0.0 optimized-by-1.rubiconproject.com
 0.0.0.0 optimized-by-2.rubiconproject.com
 0.0.0.0 optimized-by.rubiconproject.com
+0.0.0.0 opulentsylvan.com
 0.0.0.0 opus.analytics.yahoo.com
 0.0.0.0 opx-winners-eu-west-1-rtb.adroll.com
 0.0.0.0 opx-winners-us-east-1-rtb.adroll.com
@@ -6661,6 +6671,7 @@
 0.0.0.0 quietknowledge.com
 0.0.0.0 quillkick.com
 0.0.0.0 quinoa-personal-identify-prod.sense360eng.com
+0.0.0.0 quirkybliss.com
 0.0.0.0 quirkysugar.com
 0.0.0.0 quixoticnebula.com
 0.0.0.0 quizzicalpartner.com
@@ -7107,6 +7118,7 @@
 0.0.0.0 scarcecard.com
 0.0.0.0 scarceshock.com
 0.0.0.0 scarcesign.com
+0.0.0.0 scarcestructure.com
 0.0.0.0 scarcesurprise.com
 0.0.0.0 scarecrowslip.com
 0.0.0.0 scarecrowslope.com
@@ -7338,6 +7350,7 @@
 0.0.0.0 selfishsnake.com
 0.0.0.0 send.microadinc.com
 0.0.0.0 sender.clevernt.com
+0.0.0.0 sendingspire.com
 0.0.0.0 sensors.binance.cloud
 0.0.0.0 sensors.larkplayerapp.com
 0.0.0.0 sensors.snappea.com
@@ -7689,6 +7702,7 @@
 0.0.0.0 sp.analytics.yahoo.com
 0.0.0.0 sp1cluster.cxense.com
 0.0.0.0 spadelocket.com
+0.0.0.0 sparkgoal.com
 0.0.0.0 sparkle.locationlabs.com
 0.0.0.0 sparklesleet.com
 0.0.0.0 sparklingnumber.com
@@ -7838,6 +7852,7 @@
 0.0.0.0 standingsack.com
 0.0.0.0 standtrouble.com
 0.0.0.0 startappservice.com
+0.0.0.0 startingcars.com
 0.0.0.0 startup-mobile.ap.yandex-net.ru
 0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 startup.mobile.yandex.net
@@ -9047,6 +9062,8 @@
 0.0.0.0 venomousvessel.com
 0.0.0.0 venusgloria.com
 0.0.0.0 verdantanswer.com
+0.0.0.0 verdantlabyrinth.com
+0.0.0.0 verdantsculpture.com
 0.0.0.0 verification.jiguang.cn
 0.0.0.0 verify.mob.com
 0.0.0.0 verifyvegetable.com
@@ -9220,6 +9237,7 @@
 0.0.0.0 webmetrics.mayoclinic.org
 0.0.0.0 websdk.appsflyer.com
 0.0.0.0 websdk.moengage.com
+0.0.0.0 websitesdude.com
 0.0.0.0 webtracker.jp
 0.0.0.0 webview.unityads.unity3d.com
 0.0.0.0 weighted.com.akadns.net
@@ -9471,6 +9489,7 @@
 0.0.0.0 zephyrcatalyst.com
 0.0.0.0 zephyrlabyrinth.com
 0.0.0.0 zestycrime.com
+0.0.0.0 zestyhorizon.com
 0.0.0.0 zestywire.com
 0.0.0.0 zeus.ad.intl.xiaomi.com
 0.0.0.0 zeus.ad.xiaomi.com
