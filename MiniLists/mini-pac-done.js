@@ -1,4 +1,4 @@
-// **** Sat Jun 15 02:08:13 AM UTC 2024
+// **** Sat Jun 15 02:38:13 AM UTC 2024
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.007itshop.com") ||
@@ -161,6 +161,7 @@ shExpMatch(host, "*.4ke5b4ila.codedge.de") ||
 shExpMatch(host, "*.4kx3a.com") ||
 shExpMatch(host, "*.4mads.com") ||
 shExpMatch(host, "*.4miracle4.jp") ||
+shExpMatch(host, "*.4puuqeh41.com") ||
 shExpMatch(host, "*.4seeresults.com") ||
 shExpMatch(host, "*.4x4brasil.com.br") ||
 shExpMatch(host, "*.5050.fm") ||
@@ -24006,6 +24007,7 @@ shExpMatch(host, "4ke5b4ila.codedge.de") ||
 shExpMatch(host, "4kx3a.com") ||
 shExpMatch(host, "4mads.com") ||
 shExpMatch(host, "4miracle4.jp") ||
+shExpMatch(host, "4puuqeh41.com") ||
 shExpMatch(host, "4seeresults.com") ||
 shExpMatch(host, "4x4brasil.com.br") ||
 shExpMatch(host, "5050.fm") ||
