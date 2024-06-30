@@ -1,4 +1,4 @@
-# Sat Jun 15 01:58:03 AM UTC 2024
+# Sun Jun 30 09:12:12 PM UTC 2024
 # Spam404 Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 001www.com
 0.0.0.0 0daygameparadise.com
@@ -6788,7 +6788,6 @@
 0.0.0.0 sniffb.com
 0.0.0.0 sniperdz.com
 0.0.0.0 sniperghostwarrior2.sharezips.info
-0.0.0.0 snipeskins.com
 0.0.0.0 snl-doge.ceo
 0.0.0.0 snlday.top
 0.0.0.0 snlgive.org

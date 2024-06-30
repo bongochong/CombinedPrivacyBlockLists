@@ -1,4 +1,4 @@
-# Sat Jun 15 01:56:51 AM UTC 2024
+# Sun Jun 30 09:10:59 PM UTC 2024
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -1944,6 +1944,7 @@
 0.0.0.0 bam.eu01.nr-data.net
 0.0.0.0 bamtech.sc.omtrdc.net
 0.0.0.0 bamtech.tt.omtrdc.net
+0.0.0.0 bananabarrel.com
 0.0.0.0 bandborder.com
 0.0.0.0 banner.appsflyer.com
 0.0.0.0 banner.congstar.de
@@ -5049,6 +5050,7 @@
 0.0.0.0 largebrass.com
 0.0.0.0 largosoft.co.kr
 0.0.0.0 lasteventf.tubemogul.com
+0.0.0.0 lasttaco.com
 0.0.0.0 latam.adspecs.yahoo.com
 0.0.0.0 latency.agoop.net
 0.0.0.0 later-analytics-reports.s3-accelerate.amazonaws.com
@@ -5669,6 +5671,7 @@
 0.0.0.0 mon.byteoversea.com
 0.0.0.0 mon.isnssdk.com
 0.0.0.0 mon.tiktokv.com
+0.0.0.0 monacobeatles.com
 0.0.0.0 monetize-api.coronalabs.com
 0.0.0.0 monitor-stsdk.vivo.com.cn
 0.0.0.0 monitor.adcaffe.com
@@ -6160,6 +6163,7 @@
 0.0.0.0 pastoralroad.com
 0.0.0.0 pathfinder.analytics.komoot.net
 0.0.0.0 patriot.cs.pp.cn
+0.0.0.0 pawsnug.com
 0.0.0.0 payload.adadapted.com
 0.0.0.0 payment.yodo1api.com
 0.0.0.0 pba.aws.lijit.com
@@ -6571,6 +6575,7 @@
 0.0.0.0 pub1.co
 0.0.0.0 pub2srv.com
 0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 pubfs.com
 0.0.0.0 pubgenius.io
 0.0.0.0 pubimgs.com
 0.0.0.0 public-webservice.apdc1n.adpushup.com
@@ -6995,6 +7000,7 @@
 0.0.0.0 s-img.mgid.com
 0.0.0.0 s-img.steepto.com
 0.0.0.0 s-jsonp.moatads.com
+0.0.0.0 s-odx.oleads.com
 0.0.0.0 s-rtb-pb.send.microad.jp
 0.0.0.0 s-rtb.send.microad.jp
 0.0.0.0 s-rtb.send.microadinc.com
