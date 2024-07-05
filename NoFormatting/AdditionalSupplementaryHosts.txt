@@ -20839,8 +20839,6 @@
 0.0.0.0 i7gd9ultgx.ru
 0.0.0.0 i9w8p.pw
 0.0.0.0 ia.iinfo.cz
-0.0.0.0 ia800400.us.archive.org
-0.0.0.0 ia803405.us.archive.org
 0.0.0.0 iab-imp-gateway.supersonicads.com
 0.0.0.0 iabargentina.com.ar
 0.0.0.0 iacas.adbureau.net

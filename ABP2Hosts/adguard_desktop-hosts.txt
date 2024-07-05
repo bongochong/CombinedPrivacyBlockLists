@@ -1,4 +1,4 @@
-# Fri Jul  5 10:26:10 PM UTC 2024
+# Fri Jul  5 11:47:11 PM UTC 2024
 # AdGuard Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0.101tubeporn.com
 0.0.0.0 0.code.cotsta.ru
@@ -1363,6 +1363,7 @@
 0.0.0.0 4510.5clo0xmbf.com
 0.0.0.0 4513.4puuqeh41.com
 0.0.0.0 452tapgn.de
+0.0.0.0 453130fa9e.com
 0.0.0.0 4557.4puuqeh41.com
 0.0.0.0 4588.5clo0xmbf.com
 0.0.0.0 4595.5clo0xmbf.com
@@ -30151,6 +30152,7 @@
 0.0.0.0 febrah.com
 0.0.0.0 februarybogus.com
 0.0.0.0 februarynip.com
+0.0.0.0 febtzd.xyz
 0.0.0.0 fecerismasker.com
 0.0.0.0 fedapush.net
 0.0.0.0 fedassuagecompare.com
@@ -32853,6 +32855,7 @@
 0.0.0.0 ggvhbnkfc.com
 0.0.0.0 ggw.gusuwang.com
 0.0.0.0 ggw.watertu.com
+0.0.0.0 ggwifobvx.com
 0.0.0.0 ggx0001.com
 0.0.0.0 ggxcoez.com
 0.0.0.0 ggxwb.miguvideo.com
@@ -34652,6 +34655,7 @@
 0.0.0.0 gsuxyg.xyz
 0.0.0.0 gswinnodf.com
 0.0.0.0 gsyegj.shatura.com
+0.0.0.0 gsywcc.xyz
 0.0.0.0 gszetzdm.xyz
 0.0.0.0 gt.duowan.com
 0.0.0.0 gt.yy.com
@@ -39903,6 +39907,7 @@
 0.0.0.0 iptautup.com
 0.0.0.0 iptmgi.akan.co.kr
 0.0.0.0 iptmih.hifi-regler.de
+0.0.0.0 iptuy.cn
 0.0.0.0 ipummv.pharao24.de
 0.0.0.0 ipurseeh.xyz
 0.0.0.0 ipuswrg.cn
@@ -42937,6 +42942,7 @@
 0.0.0.0 kygfocnbvlaa.com
 0.0.0.0 kygftx.xyz
 0.0.0.0 kyikdee.cn
+0.0.0.0 kyislod.top
 0.0.0.0 kyjhuflgtl.xyz
 0.0.0.0 kyjoyk.modoza.com
 0.0.0.0 kyjwtxei.xyz
@@ -43909,6 +43915,7 @@
 0.0.0.0 lihuwvokhonsni.com
 0.0.0.0 liitwrz.icu
 0.0.0.0 liivhntsu.com
+0.0.0.0 lijlrz.xyz
 0.0.0.0 lijybcfgnjh.com
 0.0.0.0 likeads.com
 0.0.0.0 likecontrol.com
@@ -54432,6 +54439,7 @@
 0.0.0.0 oleinironed.top
 0.0.0.0 oleoshaves.top
 0.0.0.0 olep.xyz
+0.0.0.0 olgcpwc.icu
 0.0.0.0 olgknseruf.com
 0.0.0.0 olhqou.realsimple.com
 0.0.0.0 olibes.com

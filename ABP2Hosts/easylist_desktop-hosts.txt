@@ -1,4 +1,4 @@
-# Fri Jul  5 10:26:34 PM UTC 2024
+# Fri Jul  5 11:47:35 PM UTC 2024
 # EasyList Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0.net.easyjet.com
 0.0.0.0 0008d6ba2e.com
@@ -27955,6 +27955,7 @@
 0.0.0.0 events.centex.com
 0.0.0.0 events.chaordicsystems.com
 0.0.0.0 events.cigna.com
+0.0.0.0 events.clips4sale.com
 0.0.0.0 events.coface.com
 0.0.0.0 events.demoup.com
 0.0.0.0 events.devcycle.com
@@ -29031,6 +29032,7 @@
 0.0.0.0 febrah.com
 0.0.0.0 februarybogus.com
 0.0.0.0 februarynip.com
+0.0.0.0 febtzd.xyz
 0.0.0.0 fecebook.com
 0.0.0.0 fecerismasker.com
 0.0.0.0 fedapush.net
@@ -33750,6 +33752,7 @@
 0.0.0.0 gsuxyg.xyz
 0.0.0.0 gswinnodf.com
 0.0.0.0 gsyegj.shatura.com
+0.0.0.0 gsywcc.xyz
 0.0.0.0 gszetzdm.xyz
 0.0.0.0 gt.duowan.com
 0.0.0.0 gt.yy.com
@@ -38667,7 +38670,6 @@
 0.0.0.0 insights.biallo.de
 0.0.0.0 insights.bodogaffiliate.com
 0.0.0.0 insights.cdt.ch
-0.0.0.0 insights.decathlon.net
 0.0.0.0 insights.diamond-consultants.com
 0.0.0.0 insights.golubcapital.com
 0.0.0.0 insights.goodandprosper.com
@@ -38688,6 +38690,7 @@
 0.0.0.0 insights.sitesearch360.com
 0.0.0.0 insights.sport1.de
 0.0.0.0 insights.squintopera.com
+0.0.0.0 insights.v3.decathlon.net
 0.0.0.0 insights.zinio.com
 0.0.0.0 insightseries.redbull.racing
 0.0.0.0 insigit.com
@@ -39109,6 +39112,7 @@
 0.0.0.0 iptautup.com
 0.0.0.0 iptmgi.akan.co.kr
 0.0.0.0 iptmih.hifi-regler.de
+0.0.0.0 iptuy.cn
 0.0.0.0 ipummv.pharao24.de
 0.0.0.0 ipurseeh.xyz
 0.0.0.0 ipuswrg.cn
@@ -42221,6 +42225,7 @@
 0.0.0.0 kygfocnbvlaa.com
 0.0.0.0 kygftx.xyz
 0.0.0.0 kyikdee.cn
+0.0.0.0 kyislod.top
 0.0.0.0 kyjhuflgtl.xyz
 0.0.0.0 kyjoyk.modoza.com
 0.0.0.0 kyjwtxei.xyz
@@ -43261,6 +43266,7 @@
 0.0.0.0 lihuwvokhonsni.com
 0.0.0.0 liitwrz.icu
 0.0.0.0 liivhntsu.com
+0.0.0.0 lijlrz.xyz
 0.0.0.0 lijybcfgnjh.com
 0.0.0.0 like-baloon-leaf.com
 0.0.0.0 like-th.ru
@@ -52154,6 +52160,7 @@
 0.0.0.0 nationsencodecordial.com
 0.0.0.0 nationssalvation.com
 0.0.0.0 nativclick.com
+0.0.0.0 native-ads-events-api.c4s-rd.services
 0.0.0.0 native-adserver.com
 0.0.0.0 native-track.com
 0.0.0.0 nativeadmatch.com
@@ -54478,6 +54485,7 @@
 0.0.0.0 oleinironed.top
 0.0.0.0 oleoshaves.top
 0.0.0.0 olep.xyz
+0.0.0.0 olgcpwc.icu
 0.0.0.0 olgknseruf.com
 0.0.0.0 olhqou.realsimple.com
 0.0.0.0 olibes.com
@@ -71494,6 +71502,7 @@
 0.0.0.0 spread.epoolers.com
 0.0.0.0 spreebogbean.com
 0.0.0.0 spreespoiled.com
+0.0.0.0 sprewcereous.com
 0.0.0.0 spriedfines.com
 0.0.0.0 sprigsrecon.com
 0.0.0.0 spring-sealion.com
@@ -79334,6 +79343,7 @@
 0.0.0.0 track.yfret.com
 0.0.0.0 track.yieldsoftware.com
 0.0.0.0 track.youniversalmedia.com
+0.0.0.0 track.zapimoveis.com.br
 0.0.0.0 track2.cliplister.com
 0.0.0.0 track2.dulingo.com
 0.0.0.0 track2.mycliplister.com
