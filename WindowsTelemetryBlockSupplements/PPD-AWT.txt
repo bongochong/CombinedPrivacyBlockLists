@@ -1,0 +1,19 @@
+#Potentially Problematic Microsoft Telemetry Domains
+#Not included in other lists, as they can interfere with important Windows features
+
+adl.windows.com
+c.msn.com
+cs.dds.microsoft.com
+choice.microsoft.com
+dev.virtualearth.net
+ecn.dev.virtualearth.net
+edge-enterprise.activity.windows.com
+edge.activity.windows.com
+g.msn.com
+msftncsi.com
+onecollector.cloudapp.aria.akadns.net
+s.gateway.messenger.live.com
+s0.2mdn.net
+self.events.data.microsoft.com
+www.msftncsi.com
+ztd.dds.microsoft.com

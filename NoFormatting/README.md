@@ -1,0 +1,38 @@
+# Additional Supplementary and Miscellaneous Content
+Within this directory are the following items:  
+
+- A [document covering recommendations and preferences](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/prefsandrecs.md) related to my lists, filtering software, and some other topics. This will be expanded and modified from time-to-time, though I only intend it to cover a few basic areas.  
+
+- [The whitelist](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/WhitelistedDomains.txt) for any of my block lists which include domains (hosts, PAC, ABP, dnsmasq etc...). I want to be very clear about my whitelisting policy, which is simply that privacy will always be the top priority. I definitely do add entries to the whitelist which should prevent issues for most people on most devices, and I'm certainly not opposed to adding more, but will only do so after careful consideration and research. It is worth pointing out that lists of mine which benefit from tld-compression / fqdn-reduction (e.g. Wildcards, ABP, dnsmasq, and so on) are run through [secondary exclusion patterns](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/parsing/wildcardwhitelist.dat) which ensure that my whitelist is properly applied to them. I also periodically compare relevant lists against the combined output of the top 1000 domains from Alexa and Moz, to minimize potential issues for anyone that uses my lists.  
+
+- Backups of the Immortal Malware Domain List in [hosts](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/Misc/MD-Immortal_Domains-Backup-HOSTS.txt) and [plain domain](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/Misc/MD-Immortal_Domains-Backup.txt) formats, along with my actively maintained fork thereof ([1](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/MD-ID-Fork.txt), [2](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/MD-ID-H-Fork.txt)). My fork of this list is included in all of my *full* lists which contain domains, while my Mini / *Light* lists only receive a selection of entries from it.  
+
+- A [list of supplementary domains to block](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/AdditionalSupplementaryHosts.txt), which is compiled from my own observations, and a semi-frequently shifting list of sources largely focused on threat intelligence (currently a rotating selection of smaller, regularly updated lists from: [3](https://github.com/mitchellkrogza/Badd-Boyz-Hosts/), [4](https://github.com/davidonzo/Threat-Intel/), [5](https://github.com/stamparm/maltrail/), [6](https://github.com/DRSDavidSoft/additional-hosts/), [7](https://github.com/tiuxo/hosts/), [8](https://v.firebog.net/hosts/), [9](https://github.com/Ultimate-Hosts-Blacklist/2o7.net), along with [jarelllama's Scam Block List](https://github.com/jarelllama/Scam-Blocklist), a variety of malicious domains - including nefarious crypto-miners - culled from less common uBlock Origin and AdBlock Plus filter lists, and a very specific set of matching domains culled from the hosts file curated by [SomeoneWhoCares](https://someonewhocares.org/) / Dan Pollock). Included in any of my lists which contain domains.  
+
+- Two very small lists which assist in blocking tracking servers associated with Device9 ([10](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/Misc/Device9domains-IPv4.txt), [11](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/NoFormatting/Misc/Device9domains-IPv6.txt)).  
+
+- The optimized Windows hosts files ([12](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/optimized-win.hosts), [13](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/optimized-win-Dual.hosts)) mentioned on the [main readme](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/README.md) of this repository.  
+
+- The [wildcard version](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/cpbl-wildcard-blacklist.txt) of my main hosts file, complete with the same FQDN-reduction / TLD-optimization and supplementary whitelisting that my ABP/uBO/AG/Bromite and PAC lists benefit from.  
+
+- My full [dnsmasq blacklist](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/cpbl-dnsmasq.txt) (tld-compressed, of course).  
+
+- A plain list of [the domains blocked by my main hosts files](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/BlacklistedDomains.txt).  
+
+- A [tld-compressed variant](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/cpbl-ctld.txt) of the domains blocked by my main hosts file.  
+
+- Stripped down [IPv4](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/hosts.final) and [IPv6-only](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/hostsIPv6.final) hosts files which - aside from formatting - contain the same data as the hosts files mentioned on the main readme of this repository.  
+
+- An ABP / uBO filter list which is [mostly the cosmetic filters](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/cpbl-abp-cosmetic-only.txt) from my main ABP / uBO lists.  
+
+- The PGL Yoyo Ad-Blocking Hosts file, converted to plain [CIDR Format](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/pgl-yoyo-hosts.cidr), and CIDR format [with `deny from` prepended to each line](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/pgl-yoyo-hosts-deny.cidr).  
+
+- The [version of my main CIDR-format block list with `deny from` prepended to each line](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/combined-denied.cidr) is also available in this subdirectory.  
+
+- A [CIDR-format list](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/personal-entries.cidr) of IP addresses which I have observed to be engaged in clearly malicious activity while running IceCast and Shoutcast servers. This gets merged into every update of my aggregated CIDR block lists.  
+
+- A [directory containing mirrors](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/NoFormatting/Mirrors) of a few important block lists / hosts files.  
+
+- Four versions of [Chef Koch's](https://github.com/CHEF-KOCH) infamous [NSA block list](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/NoFormatting/Misc/NSABlockLists), which are **NOT included in any of my lists** and are simply housed here for posterity. I do not recommend using the Chef Koch lists, as they are extremely outdated, and their usefulness is highly questionable (for instance, they block a wide variety of landing sites for local courthouses, state government projects and so on).  
+
+File names in here are basically self-explanatory, and I'm well aware at this point, that this directory should be named *AdditionalContent* or something of the sort, but it is what it is. It should be noted that all content in this specific directory (`NoFormatting`) falls under a separate license ([the WTFPL](http://www.wtfpl.net/txt/copying/)).

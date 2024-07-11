@@ -1,0 +1,2 @@
+#!/usr/bin/perl
+use strict;use warnings;my %v0;while (<>) {s/^\s+//s;s/[.\s]+$//s;s/\./!/g;/[^!]!/ or next;$v0{ lc $_ }=1;}my $v1='!';foreach my $domain (sort { reverse($a) cmp reverse($b) } keys %v0) {next if $domain=~ /\Q$v1\E$/;$v1= $domain =~ /^!/ ? $domain : '!' . $domain;$domain=~ s/!/./g;print $domain, "\n";}

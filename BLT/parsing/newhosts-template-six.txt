@@ -1,0 +1,37 @@
+127.0.0.1	localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1	ip6-localhost ip6-loopback localhost6 localhost6.localdomain6
+# 127.0.1.1	PUT-YOUR-HOSTNAME-HERE-IF-YOU-WISH-THEN-UNCOMMENT-THIS-LINE
+# The following lines are desirable for IPv6 capable hosts on LiGNUx
+#
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+#                                                          #
+# This HOSTS file was merged from the following sources:   #
+# http://winhelp2002.mvps.org/hosts.txt                    #
+# http://pgl.yoyo.org/adservers/serverlist.php             #
+# http://www.malwaredomainlist.com/hostslist/hosts.txt     #
+# http://hosts-file.net/... and more!                      #
+# Using a tool (CPBL-BLT) which can be found here:         #
+# https://github.com/bongochong/CombinedPrivacyBlockLists/ #
+# Notes: The Operating System does not read the "#" symbol #
+# You can create your own notes, after the # symbol        #
+# This *must* be the first line: 127.0.0.1    localhost    #
+#                                                          #
+#**********************************************************#
+# ------------------- DAYBONGODATEREPLACE ------------------ #
+#**********************************************************#
+#                                                          #
+# Disclaimer: There is not much of a need for a disclaimer #
+# and this section is mainly here because it reminds me of #
+# a time when the world wide web was less laden with trash #
+# pumped out by corporations, news outlets and government. #
+#                                                          #
+# This work is licensed under the WTFPL-v2                 #
+# Do WTF You Want To Public License v2.0                   #
+# http://www.wtfpl.net/txt/copying                         #
+#                                                          #
+# [Start of automated entries]
+
+# [End of automated entries]

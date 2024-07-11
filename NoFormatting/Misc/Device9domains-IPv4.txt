@@ -1,0 +1,12 @@
+#Device9 Domains IPv4 Version
+#Included in default hosts file
+#Last update 05/06/2019
+
+0.0.0.0 tag.device9.com
+0.0.0.0 t.device9.com
+0.0.0.0 www.device9.com
+0.0.0.0 tag.device9.net
+0.0.0.0 t.device9.net
+0.0.0.0 www.device9.net
+0.0.0.0 device9.com
+0.0.0.0 device9.net
