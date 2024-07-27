@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 10 Jul 2024 18:09:34 GMT
-# entries:        3550
+# last updated:   Fri, 26 Jul 2024 14:50:13 GMT
+# entries:        3548
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -184,6 +184,7 @@
 127.0.0.1 adadvisor.net
 127.0.0.1 adalliance.io
 127.0.0.1 adanging.blog
+127.0.0.1 adap.tv
 127.0.0.1 adapt.tv
 127.0.0.1 adaranth.com
 127.0.0.1 adbilty.me
@@ -559,7 +560,6 @@
 127.0.0.1 ads.pni.com
 127.0.0.1 ads.pof.com
 127.0.0.1 ads.powweb.com
-127.0.0.1 ads.ppvmedien.de
 127.0.0.1 ads.printscr.com
 127.0.0.1 ads.prisacom.com
 127.0.0.1 ads.program3.com
@@ -580,7 +580,6 @@
 127.0.0.1 ads.shizmoo.com
 127.0.0.1 ads.shopstyle.com
 127.0.0.1 ads.sift.co.uk
-127.0.0.1 ads.simplyhired.com
 127.0.0.1 ads.sjon.info
 127.0.0.1 ads.smartclick.com
 127.0.0.1 ads.socialtheater.com
@@ -771,7 +770,6 @@
 127.0.0.1 adsmartracker.com
 127.0.0.1 adsmetadata.startappservice.com
 127.0.0.1 adsmogo.com
-127.0.0.1 adsnative.com
 127.0.0.1 adsoftware.com
 127.0.0.1 adsolut.in
 127.0.0.1 adspeed.net
@@ -862,7 +860,6 @@
 127.0.0.1 adxpose.com
 127.0.0.1 adyoulike.com
 127.0.0.1 adz.rashflash.com
-127.0.0.1 adz2you.com
 127.0.0.1 adzbazar.com
 127.0.0.1 adzerk.net
 127.0.0.1 adzerk.s3.amazonaws.com
@@ -932,7 +929,6 @@
 127.0.0.1 analytics.inlinemanual.com
 127.0.0.1 analytics.jst.ai
 127.0.0.1 analytics.justuno.com
-127.0.0.1 analytics.live.com
 127.0.0.1 analytics.lucid.app
 127.0.0.1 analytics.mailmunch.co
 127.0.0.1 analytics.mobile.yandex.net
@@ -945,7 +941,6 @@
 127.0.0.1 analytics.pointdrive.linkedin.com
 127.0.0.1 analytics.poolshool.com
 127.0.0.1 analytics.posttv.com
-127.0.0.1 analytics.samdd.me
 127.0.0.1 analytics.santander.co.uk
 127.0.0.1 analytics.shorte.st
 127.0.0.1 analytics.swiggy.com
@@ -1212,6 +1207,7 @@
 127.0.0.1 buzzonclick.com
 127.0.0.1 bwp.download.com
 127.0.0.1 c.bigmir.net
+127.0.0.1 c.corporate-fundraising.co.uk
 127.0.0.1 c1exchange.com
 127.0.0.1 c212.net
 127.0.0.1 cakesdrum.com
@@ -1719,6 +1715,7 @@
 127.0.0.1 flimsycircle.com
 127.0.0.1 flimsythought.com
 127.0.0.1 floodprincipal.com
+127.0.0.1 flourishinginnovation.com
 127.0.0.1 floweryflavor.com
 127.0.0.1 flowgo.com
 127.0.0.1 flurry.com
@@ -1736,7 +1733,6 @@
 127.0.0.1 freecounterstat.com
 127.0.0.1 freelogs.com
 127.0.0.1 freepay.com
-127.0.0.1 freeskreen.com
 127.0.0.1 freestats.com
 127.0.0.1 freestats.tv
 127.0.0.1 freewebcounter.com
@@ -1746,6 +1742,7 @@
 127.0.0.1 frequentflesh.com
 127.0.0.1 freshrelevance.com
 127.0.0.1 frightenedpotato.com
+127.0.0.1 frogator.com
 127.0.0.1 fronttoad.com
 127.0.0.1 frtyj.com
 127.0.0.1 frtyk.com
@@ -1846,6 +1843,7 @@
 127.0.0.1 hdscout.com
 127.0.0.1 heap.com
 127.0.0.1 hearinglizards.com
+127.0.0.1 heimi-lwx.com
 127.0.0.1 hellobar.com
 127.0.0.1 helpcollar.com
 127.0.0.1 hentaicounter.com
@@ -1932,7 +1930,6 @@
 127.0.0.1 image6.pubmatic.com
 127.0.0.1 imagecash.net
 127.0.0.1 images-pw.secureserver.net
-127.0.0.1 imarketservices.com
 127.0.0.1 img.prohardver.hu
 127.0.0.1 imgpromo.easyrencontre.com
 127.0.0.1 immensehoney.com
@@ -2098,6 +2095,7 @@
 127.0.0.1 link-booster.de
 127.0.0.1 link.axios.com
 127.0.0.1 link.email.usmagazine.com
+127.0.0.1 link.go.chase
 127.0.0.1 link.sbstck.com
 127.0.0.1 link.theatlantic.com
 127.0.0.1 link.uk.expediamail.com
@@ -2109,6 +2107,7 @@
 127.0.0.1 linkreferral.com
 127.0.0.1 links-ranking.de
 127.0.0.1 links.email.crunchbase.com
+127.0.0.1 links.prosservice.fr
 127.0.0.1 links.zoopla.co.uk
 127.0.0.1 linkstorms.com
 127.0.0.1 linkswaper.com
@@ -2543,6 +2542,7 @@
 127.0.0.1 placed.com
 127.0.0.1 placeframe.com
 127.0.0.1 placidactivity.com
+127.0.0.1 plausible.avris.it
 127.0.0.1 plausibleio.workers.dev
 127.0.0.1 play4traffic.com
 127.0.0.1 playhaven.com
@@ -2779,7 +2779,6 @@
 127.0.0.1 rle.ru
 127.0.0.1 rmads.msn.com
 127.0.0.1 rmedia.boston.com
-127.0.0.1 rmgserving.com
 127.0.0.1 roar.com
 127.0.0.1 robotreplay.com
 127.0.0.1 rockabox.co
@@ -3243,7 +3242,6 @@
 127.0.0.1 tracker.samplicio.us
 127.0.0.1 tracker.vgame.us
 127.0.0.1 tracking.1-a1502-bi.co.uk
-127.0.0.1 tracking.1-kv015-ap.co.uk
 127.0.0.1 tracking.21-a4652-bi.co.uk
 127.0.0.1 tracking.28-91473-wbm.co.uk
 127.0.0.1 tracking.39-bb4a9-osm.co.uk
@@ -3358,6 +3356,7 @@
 127.0.0.1 unwieldyhealth.com
 127.0.0.1 unwieldyimpulse.com
 127.0.0.1 upu.samsungelectronics.com
+127.0.0.1 url9467.comms-2.zoopla.co.uk
 127.0.0.1 urlcash.net
 127.0.0.1 urldata.net
 127.0.0.1 us.a1.yimg.com
@@ -3449,7 +3448,6 @@
 127.0.0.1 webstat.channel4.com
 127.0.0.1 webstat.com
 127.0.0.1 webstat.net
-127.0.0.1 webtracker.jp
 127.0.0.1 webtrackerplus.com
 127.0.0.1 webtracky.com
 127.0.0.1 webtraffic.se
