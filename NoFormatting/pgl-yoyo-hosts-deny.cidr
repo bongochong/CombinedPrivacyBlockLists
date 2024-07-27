@@ -6649,9 +6649,6 @@ deny from 212.3.243.142/32
 deny from 212.3.247.176/32
 deny from 212.4.174.80/32
 deny from 212.4.174.108/32
-deny from 212.19.46.100/32
-deny from 212.19.46.102/32
-deny from 212.19.46.106/32
 deny from 212.23.57.18/32
 deny from 212.23.57.22/32
 deny from 212.23.166.76/32
