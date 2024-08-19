@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sat, 03 Aug 2024 at 16:24:42 GMT
+# Last updated: Thu, 15 Aug 2024 at 17:10:03 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1600,6 +1600,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 247blinds.fr
 0.0.0.0 2g312kn32qfy-1323053341.cos.ap-bangkok.myqcloud.com
 0.0.0.0 2roueselectrique.fr
+0.0.0.0 2x1gratis.com
 0.0.0.0 3mfrances.fr
 0.0.0.0 59-106-20-39.r-bl100.sakura.ne.jp
 0.0.0.0 6range.fr
@@ -1670,6 +1671,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 allomine.fr
 0.0.0.0 almaria.fr
 0.0.0.0 alocdn.com
+0.0.0.0 alojamientocentroleon.es
 0.0.0.0 alphardgolf.fr
 0.0.0.0 alphlauren.fr
 0.0.0.0 alzy.fr

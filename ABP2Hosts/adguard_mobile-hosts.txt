@@ -1,4 +1,4 @@
-# Sun Aug  4 10:31:21 PM UTC 2024
+# Mon Aug 19 01:33:41 AM UTC 2024
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -8161,6 +8161,7 @@
 0.0.0.0 stats.oilpainting.colorbynumber.veraxen.com
 0.0.0.0 stats.playrix.com
 0.0.0.0 stats.popcap.com
+0.0.0.0 stats.rustore.ru
 0.0.0.0 stats.smartclip.net
 0.0.0.0 stats.studyquicks.com
 0.0.0.0 stats.sxp.smartclip.net
@@ -9316,6 +9317,7 @@
 0.0.0.0 viva.api.xiaoying.co
 0.0.0.0 vivaciousveil.com
 0.0.0.0 vivaki.demdex.net
+0.0.0.0 vk-analytics.ru
 0.0.0.0 vm5apis.com
 0.0.0.0 vmap.v.ad-generation.jp
 0.0.0.0 vmweb.net
