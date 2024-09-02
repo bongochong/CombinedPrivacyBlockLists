@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 15 Aug 2024 at 17:10:03 GMT
+# Last updated: Sun, 01 Sep 2024 at 08:15:07 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2845,6 +2845,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 recevoirlatntn.fr
 0.0.0.0 recover-subscription.com
 0.0.0.0 redeastbay.com
+0.0.0.0 redelivercadpost.com
 0.0.0.0 redf.fr
 0.0.0.0 redline-boutique.fr
 0.0.0.0 redrocks.fr
@@ -2898,6 +2899,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 sciencesetlavenir.fr
 0.0.0.0 scoietegenerale.fr
 0.0.0.0 scotiahelp-loginscotia.com
+0.0.0.0 scotiaonline-verification.com
 0.0.0.0 scottishstuff-online.com	# Canadian bank phishing site
 0.0.0.0 screenaddict.thewhizproducts.com
 0.0.0.0 screencast-o-matic.fr
@@ -7842,7 +7844,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 j6.jmooreassoc.com
 0.0.0.0 j7.jinghuaqitb.com
 0.0.0.0 j7.jmooreassoc.com
-0.0.0.0 jac.yahoosandbox.com
 0.0.0.0 jadserve.postrelease.com
 0.0.0.0 jambocast.com
 0.0.0.0 jav.ee
