@@ -4,7 +4,7 @@
   <img src="https://i.imgur.com/yZ6NnIW.png">
 </p>
 
-Ad & malware-blocking hosts files, IP block lists, PAC filters, ABP / uBO subscriptions and more, all compiled from multiple reputable sources, along with my own research. The generation of these lists is automated via my homemade scripts and utilities, which are available in a [subdirectory of this repository](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/BLT) and regularly updated to reflect backend improvements. Said utilities can be installed with a simple [script](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/cpbl-installer.sh) or [one-liner](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/README.md), for ease of use. Most content in this repo is approved by Richard Stallman himself (theoretically). Use as you see fit, but do continue reading.  
+Ad & malware-blocking hosts files, IP block lists, PAC filters, ABP / uBO / ADG subscriptions and more, all compiled from multiple reputable sources, along with my own research. The generation of these lists is automated via my homemade scripts and utilities, which are available in a [subdirectory of this repository](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/BLT) and regularly updated to reflect backend improvements. Said utilities can be installed with a simple [script](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/cpbl-installer.sh) or [one-liner](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/README.md), for ease of use. Most content in this repo is approved by Richard Stallman himself (theoretically). Use as you see fit, but do continue reading.  
 
 | TLD-Optimized |
 | - |
