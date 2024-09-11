@@ -85,6 +85,7 @@ localhost$
 ^0\.0\.0\.0\s(www\.)?bravesoftware\.com$
 ^0\.0\.0\.0\s(www\.)?brightcove\.net$
 ^0\.0\.0\.0\s(www\.)?campaign-archive\.com$
+^0\.0\.0\.0\s(www\.)?careerpower\.in$
 ^0\.0\.0\.0\s(www\.)?channeladvisor\.com$
 ^0\.0\.0\.0\s(www\.)?chope\.co$
 ^0\.0\.0\.0\s(www\.)?clamav\.net$
