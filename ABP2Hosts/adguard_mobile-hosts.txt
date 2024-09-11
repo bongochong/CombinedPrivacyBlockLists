@@ -1,4 +1,4 @@
-# Mon Sep  2 03:25:12 AM UTC 2024
+# Wed Sep 11 09:30:03 PM UTC 2024
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -378,13 +378,10 @@
 0.0.0.0 ace-tag.advertising.com
 0.0.0.0 ace.naver.com
 0.0.0.0 achieverknee.com
-0.0.0.0 acidicgrip.com
 0.0.0.0 acidicstraw.com
 0.0.0.0 acidpigs.com
 0.0.0.0 acjs.aliyun.com
 0.0.0.0 acme.tango.me
-0.0.0.0 acousticsapparel.com
-0.0.0.0 acquireattention.com
 0.0.0.0 acridangle.com
 0.0.0.0 acridtwist.com
 0.0.0.0 activate.ensighten.com
@@ -526,7 +523,6 @@
 0.0.0.0 addata.mediacategory.com
 0.0.0.0 addelivery-engine-api.voodoo-ads.io
 0.0.0.0 addictedattention.com
-0.0.0.0 additionant.com
 0.0.0.0 addthis.com.edgekey.net
 0.0.0.0 ade.clmbtech.com
 0.0.0.0 ade.googlesyndication.com
@@ -1088,7 +1084,6 @@
 0.0.0.0 ambiguousincome.com
 0.0.0.0 ambiguousquilt.com
 0.0.0.0 ambitiousagreement.com
-0.0.0.0 ambitiousanimal.com
 0.0.0.0 ambrosialsummit.com
 0.0.0.0 amdc.m.taobao.com
 0.0.0.0 amdcopen.m.taobao.com
@@ -1118,7 +1113,6 @@
 0.0.0.0 amung.us
 0.0.0.0 amusedbucket.com
 0.0.0.0 amusementmorning.com
-0.0.0.0 amusinggirls.com
 0.0.0.0 an.batmobi.net
 0.0.0.0 an.facebook.com
 0.0.0.0 analogwonder.com
@@ -2064,13 +2058,11 @@
 0.0.0.0 beeswaxdisplay108801632049.s.moatpixel.com
 0.0.0.0 beetleend.com
 0.0.0.0 beginnerpancake.com
-0.0.0.0 begintrain.com
 0.0.0.0 begun.ru
 0.0.0.0 beha.ksmobile.com
 0.0.0.0 behacdn.ksmobile.net
 0.0.0.0 behance.vo.llnwd.net
 0.0.0.0 belgikanst.iad-03.braze.com
-0.0.0.0 beneficialbeef.com
 0.0.0.0 benthose.com
 0.0.0.0 bepolite.eu
 0.0.0.0 berserkhydrant.com
@@ -2216,7 +2208,6 @@
 0.0.0.0 brianwould.com
 0.0.0.0 bridge.lga1.admarketplace.net
 0.0.0.0 bridge.sfo1.admarketplace.net
-0.0.0.0 briefbears.com
 0.0.0.0 briefstem.com
 0.0.0.0 brightroll-partners.tremorhub.com
 0.0.0.0 brighttoe.com
@@ -2249,7 +2240,6 @@
 0.0.0.0 bttn.io
 0.0.0.0 bttrack.com
 0.0.0.0 bu1.duba.com
-0.0.0.0 bubblebedroom.com
 0.0.0.0 bubblesmedia.ru
 0.0.0.0 bucketbean.com
 0.0.0.0 bugly.qq.com
@@ -2348,14 +2338,12 @@
 0.0.0.0 calculatingtoothbrush.com
 0.0.0.0 calculatorcamera.com
 0.0.0.0 calculatorstatement.com
-0.0.0.0 calendarrate.com
 0.0.0.0 callousbrake.com
 0.0.0.0 calmcactus.com
 0.0.0.0 calmcough.com
 0.0.0.0 calypsocapsule.com
 0.0.0.0 campaign.adobe.com
 0.0.0.0 cannonchange.com
-0.0.0.0 cannonjudo.com
 0.0.0.0 capablecows.com
 0.0.0.0 capablecup.com
 0.0.0.0 capaciousdrewreligion.com
@@ -2369,7 +2357,6 @@
 0.0.0.0 captivatingperformance.com
 0.0.0.0 carambo.la
 0.0.0.0 carefuldolls.com
-0.0.0.0 carelesshat.com
 0.0.0.0 carfax.sc.omtrdc.net
 0.0.0.0 carina.iad.appboy.com
 0.0.0.0 caringcast.com
@@ -3109,7 +3096,6 @@
 0.0.0.0 courageousbaby.com
 0.0.0.0 coverapparatus.com
 0.0.0.0 coverlayer.com
-0.0.0.0 cowscrayon.com
 0.0.0.0 cox.deliveryengine.adswizz.com
 0.0.0.0 cozydusk.com
 0.0.0.0 cozyhillside.com
@@ -3152,7 +3138,6 @@
 0.0.0.0 creatorcherry.com
 0.0.0.0 creatorpassenger.com
 0.0.0.0 creaturecabbage.com
-0.0.0.0 creditcreature.com
 0.0.0.0 cricket.mobileposse.com
 0.0.0.0 crid.bfmio.com
 0.0.0.0 crimsonmeadow.com
@@ -3211,7 +3196,6 @@
 0.0.0.0 cuddlylunchroom.com
 0.0.0.0 cuebiq.com
 0.0.0.0 culturedcamera.com
-0.0.0.0 culturedcrayon.com
 0.0.0.0 culturedfeather.com
 0.0.0.0 cumbersomecake.com
 0.0.0.0 cumbersomecar.com
@@ -3303,7 +3287,6 @@
 0.0.0.0 dalysv.com
 0.0.0.0 damagedadvice.com
 0.0.0.0 damageddistance.com
-0.0.0.0 damagedroll.com
 0.0.0.0 damdoor.com
 0.0.0.0 dampdock.com
 0.0.0.0 dancemistake.com
@@ -3388,7 +3371,6 @@
 0.0.0.0 deapi.afreecatv.com
 0.0.0.0 debojuagug1sf.cloudfront.net
 0.0.0.0 debonairdust.com
-0.0.0.0 debonairseashore.com
 0.0.0.0 debonairtree.com
 0.0.0.0 debonairway.com
 0.0.0.0 debug.aerserv.com
@@ -3578,7 +3560,6 @@
 0.0.0.0 drainpaste.com
 0.0.0.0 dramaticcondition.com
 0.0.0.0 dramaticdirection.com
-0.0.0.0 drawermice.com
 0.0.0.0 drawservant.com
 0.0.0.0 dreamycanyon.com
 0.0.0.0 dressexpansion.com
@@ -3586,7 +3567,6 @@
 0.0.0.0 driftpizza.com
 0.0.0.0 dripappliance.com
 0.0.0.0 driverequest.com
-0.0.0.0 drivingdirt.com
 0.0.0.0 drollwharf.com
 0.0.0.0 drydrum.com
 0.0.0.0 ds-aksb-a.akamaihd.net
@@ -3641,7 +3621,6 @@
 0.0.0.0 dynamic.criteo.com
 0.0.0.0 dynamic.da1.vip.prod.criteo.com
 0.0.0.0 dyntrk.com
-0.0.0.0 dysfunctionalcellar.com
 0.0.0.0 dywolfer.de
 0.0.0.0 dz.mmstat.com
 0.0.0.0 dzpu6za66svjl.cloudfront.net
@@ -3671,7 +3650,6 @@
 0.0.0.0 eagereden.com
 0.0.0.0 eagerflame.com
 0.0.0.0 eagerknight.com
-0.0.0.0 earthquakeend.com
 0.0.0.0 earthquakescarf.com
 0.0.0.0 earthycopy.com
 0.0.0.0 earthyfarm.com
@@ -3795,7 +3773,6 @@
 0.0.0.0 entertainingeyes.com
 0.0.0.0 entertainskin.com
 0.0.0.0 enthusiasticdad.com
-0.0.0.0 enthusiasticring.com
 0.0.0.0 enthusiastictemper.com
 0.0.0.0 entitlements.jwplayer.com
 0.0.0.0 entitlements.kochava.com
@@ -3984,7 +3961,6 @@
 0.0.0.0 fadechildren.com
 0.0.0.0 fadedprofit.com
 0.0.0.0 fadedsnow.com
-0.0.0.0 fadewaves.com
 0.0.0.0 faintflag.com
 0.0.0.0 fairfeeling.com
 0.0.0.0 fairiesbranch.com
@@ -4055,7 +4031,6 @@
 0.0.0.0 ffg-analytics-functionsk3nvxfne4dp4s.azurewebsites.net
 0.0.0.0 fi-analytics.mgsn.it
 0.0.0.0 fidelity-media.com
-0.0.0.0 fifthborder.com
 0.0.0.0 fiksu.com
 0.0.0.0 filter.ezmob.com
 0.0.0.0 filteradkernel.adsimilate.com
@@ -4163,7 +4138,6 @@
 0.0.0.0 frailfruit.com
 0.0.0.0 frailoffer.com
 0.0.0.0 framebanana.com
-0.0.0.0 franticcarpenter.com
 0.0.0.0 franticroof.com
 0.0.0.0 frantictrail.com
 0.0.0.0 fraud.adjoe.zone
@@ -4179,7 +4153,6 @@
 0.0.0.0 friendlyduck.com
 0.0.0.0 friendlyfold.com
 0.0.0.0 friendshipmale.com
-0.0.0.0 friendwool.com
 0.0.0.0 frightenedpotato.com
 0.0.0.0 frogator.com
 0.0.0.0 frogtray.com
@@ -4331,7 +4304,6 @@
 0.0.0.0 giantsvessel.com
 0.0.0.0 giddycoat.com
 0.0.0.0 giftedglue.com
-0.0.0.0 giftedthumb.com
 0.0.0.0 ginf.adfurikun.jp
 0.0.0.0 giraffepiano.com
 0.0.0.0 gitcrumbs.com
@@ -4533,7 +4505,6 @@
 0.0.0.0 handyincrease.com
 0.0.0.0 haplesshydrant.com
 0.0.0.0 haplessland.com
-0.0.0.0 happenhistory.com
 0.0.0.0 happysponge.com
 0.0.0.0 harborcaption.com
 0.0.0.0 harborcub.com
@@ -4545,7 +4516,6 @@
 0.0.0.0 hasmobi.net
 0.0.0.0 hassaleh.iad-03.braze.com
 0.0.0.0 hatefulrequest.com
-0.0.0.0 hauntlist.com
 0.0.0.0 havasedge.com
 0.0.0.0 hb-t5u9.raps.ravm.tv
 0.0.0.0 hb.adscale.de
@@ -4623,9 +4593,7 @@
 0.0.0.0 honorablehydrant.com
 0.0.0.0 honorableland.com
 0.0.0.0 hook.integromat.com
-0.0.0.0 hoplaugh.com
 0.0.0.0 horizon.sailthru.com
-0.0.0.0 hosenews.com
 0.0.0.0 hospitablehall.com
 0.0.0.0 hospitablehat.com
 0.0.0.0 hosting-source.bm23.com
@@ -4857,7 +4825,6 @@
 0.0.0.0 importedpolice.com
 0.0.0.0 importlocate.com
 0.0.0.0 impossibleexpansion.com
-0.0.0.0 impossibleglue.com
 0.0.0.0 impossiblemove.com
 0.0.0.0 impr.taboola.com
 0.0.0.0 imprammp.taboola.com
@@ -4980,7 +4947,6 @@
 0.0.0.0 intentlens.com
 0.0.0.0 interaction.apester.com
 0.0.0.0 interestdust.com
-0.0.0.0 interestingpot.com
 0.0.0.0 interestsmoke.com
 0.0.0.0 intermarkets.net
 0.0.0.0 internalcondition.com
@@ -5060,7 +5026,6 @@
 0.0.0.0 jadserve.postrelease.com
 0.0.0.0 jadserve.postrelease.com.akadns.net
 0.0.0.0 jailbulb.com
-0.0.0.0 jamexistence.com
 0.0.0.0 jampp.com
 0.0.0.0 jelly.mdhv.io
 0.0.0.0 jgl.microad.net
@@ -5117,6 +5082,7 @@
 0.0.0.0 juicebard.com
 0.0.0.0 juiceblocks.com
 0.0.0.0 justad.mobi
+0.0.0.0 justconfig.com
 0.0.0.0 justicejudo.com
 0.0.0.0 justwebcards.com
 0.0.0.0 jzwjq.ads.tremorhub.com
@@ -5146,7 +5112,6 @@
 0.0.0.0 kiosked.com
 0.0.0.0 kitesquirrel.com
 0.0.0.0 kittyaction.com
-0.0.0.0 kjos.vo.llnwd.net
 0.0.0.0 klkstrm.kargo.com
 0.0.0.0 klog.hiido.com
 0.0.0.0 knitstamp.com
@@ -5208,7 +5173,6 @@
 0.0.0.0 latency.agoop.net
 0.0.0.0 later-analytics-reports.s3-accelerate.amazonaws.com
 0.0.0.0 laughablecopper.com
-0.0.0.0 laughablelizards.com
 0.0.0.0 laughcloth.com
 0.0.0.0 laughdrum.com
 0.0.0.0 launcher.us.yeshen.com
@@ -5454,7 +5418,6 @@
 0.0.0.0 ludicrousarch.com
 0.0.0.0 lululemonspna.btttag.com
 0.0.0.0 lumberamount.com
-0.0.0.0 lumberrule.com
 0.0.0.0 luminousboulevard.com
 0.0.0.0 luminouscatalyst.com
 0.0.0.0 luminoussculptor.com
@@ -5991,7 +5954,6 @@
 0.0.0.0 nebulousamusement.com
 0.0.0.0 nebulousquasar.com
 0.0.0.0 nebulousripple.com
-0.0.0.0 necessarywax.com
 0.0.0.0 needlessnorth.com
 0.0.0.0 needyneedle.com
 0.0.0.0 negotiatetime.com
@@ -6207,7 +6169,6 @@
 0.0.0.0 oracleinfinity.io.edgekey.net
 0.0.0.0 orangeoperation.com
 0.0.0.0 orfw.adsafeprotected.com
-0.0.0.0 organizationdogs.com
 0.0.0.0 orientedargument.com
 0.0.0.0 origami.secure.ownlocal.com
 0.0.0.0 origin.optimost.io
@@ -6285,7 +6246,6 @@
 0.0.0.0 paas-push-api-log.immomo.com
 0.0.0.0 paas-push-api.immomo.com
 0.0.0.0 pad-v3.presage.io
-0.0.0.0 paddleangle.com
 0.0.0.0 padsdel.com
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 pagead2.googlesyndication.com
@@ -6376,8 +6336,6 @@
 0.0.0.0 peacefullimit.com
 0.0.0.0 pedromister.com
 0.0.0.0 pedropanther.com
-0.0.0.0 pegasusplate.com
-0.0.0.0 penspade.com
 0.0.0.0 people.api.boomtrain.com
 0.0.0.0 pepsico.demdex.net
 0.0.0.0 perceivequarter.com
@@ -6535,7 +6493,6 @@
 0.0.0.0 platform.bidgear.com
 0.0.0.0 platform.iteratehq.com
 0.0.0.0 platform.ssacdn.com
-0.0.0.0 plausiblecable.com
 0.0.0.0 play.aniview.com
 0.0.0.0 play.rayjump.com
 0.0.0.0 play.springboardplatform.com
@@ -6597,7 +6554,6 @@
 0.0.0.0 pool-pebblemedia.adhese.com
 0.0.0.0 pool.adizio.com
 0.0.0.0 poole-collector-prod.bnsqc3zmvt.us-east-1.elasticbeanstalk.com
-0.0.0.0 popcornfood.com
 0.0.0.0 popplantation.com
 0.0.0.0 popup.taboola.com
 0.0.0.0 possessivebucket.com
@@ -6668,7 +6624,6 @@
 0.0.0.0 priceypies.com
 0.0.0.0 pricklydebt.com
 0.0.0.0 pricklyjourney.com
-0.0.0.0 pricklypies.com
 0.0.0.0 pricklyplastic.com
 0.0.0.0 pricklypollution.com
 0.0.0.0 prinksdammit.com
@@ -6826,7 +6781,6 @@
 0.0.0.0 pushid-noneu.truecaller.com
 0.0.0.0 pushnami.com
 0.0.0.0 pushwoosh.g5e.com
-0.0.0.0 pushypipe.com
 0.0.0.0 puzzlingproperty.com
 0.0.0.0 pw.analytics.console.aws.a2z.com
 0.0.0.0 px.adhigh.net
@@ -6877,7 +6831,6 @@
 0.0.0.0 query.fqtag.com
 0.0.0.0 query.petametrics.com
 0.0.0.0 query1.petametrics.com
-0.0.0.0 questionableobservation.com
 0.0.0.0 questionmarket.com
 0.0.0.0 queuer-prod-elb.53.localytics.com
 0.0.0.0 quickadsmedia.gotrackier.com
@@ -6922,12 +6875,12 @@
 0.0.0.0 rainyhand.com
 0.0.0.0 rainyrule.com
 0.0.0.0 rainystretch.com
-0.0.0.0 rainyzinc.com
 0.0.0.0 rambler.pushwoosh.com
 0.0.0.0 rambunctiousflock.com
 0.0.0.0 rambunctiousvoyage.com
 0.0.0.0 rangecake.com
 0.0.0.0 rangeplayground.com
+0.0.0.0 rangergustav.com
 0.0.0.0 rapidkittens.com
 0.0.0.0 raresummer.com
 0.0.0.0 rat.fr.eu.criteo.com
@@ -7026,8 +6979,6 @@
 0.0.0.0 reporting.tapstream.com
 0.0.0.0 reports.ubimo.com
 0.0.0.0 reportwest-midas.codmwest.com
-0.0.0.0 representativebat.com
-0.0.0.0 representativeray.com
 0.0.0.0 reproio.com
 0.0.0.0 req.startappservice.com
 0.0.0.0 reqde.afreecatv.com
@@ -7290,7 +7241,6 @@
 0.0.0.0 saffronrefuge.com
 0.0.0.0 sagan.iad-03.braze.com
 0.0.0.0 sagargift.com
-0.0.0.0 sailsuit.com
 0.0.0.0 sales.idio.co
 0.0.0.0 saltsacademy.com
 0.0.0.0 sam4m.com
@@ -7375,7 +7325,6 @@
 0.0.0.0 scrapesleep.com
 0.0.0.0 scratchsofa.com
 0.0.0.0 screechingfurniture.com
-0.0.0.0 screechingslip.com
 0.0.0.0 screechingstocking.com
 0.0.0.0 screechingstove.com
 0.0.0.0 screen.buzzvil.com
@@ -7510,7 +7459,6 @@
 0.0.0.0 secondstreetapp.com
 0.0.0.0 secretivecub.com
 0.0.0.0 secretivesheep.com
-0.0.0.0 secretivestick.com
 0.0.0.0 secretspiders.com
 0.0.0.0 secretturtle.com
 0.0.0.0 secure-adnxs.edgekey.net
@@ -7684,7 +7632,6 @@
 0.0.0.0 sharppatch.com
 0.0.0.0 shesubscriptions.com
 0.0.0.0 shinesavage.com
-0.0.0.0 shinestuart.com
 0.0.0.0 shinypond.com
 0.0.0.0 shirtsidewalk.com
 0.0.0.0 shiveringspot.com
@@ -7701,7 +7648,6 @@
 0.0.0.0 show.g.mediav.com
 0.0.0.0 showads.pubmatic.com
 0.0.0.0 showsteel.com
-0.0.0.0 showstranger.com
 0.0.0.0 shredquiz.com
 0.0.0.0 shrillspoon.com
 0.0.0.0 shutseashore.com
@@ -7803,7 +7749,6 @@
 0.0.0.0 slicktext.com
 0.0.0.0 slimopinion.com
 0.0.0.0 slimyscarf.com
-0.0.0.0 slimyseashore.com
 0.0.0.0 slinksuggestion.com
 0.0.0.0 slipperysack.com
 0.0.0.0 slog.trackingio.com
@@ -7814,7 +7759,6 @@
 0.0.0.0 smaato.net
 0.0.0.0 smaclick.com
 0.0.0.0 smadex.com
-0.0.0.0 smallbeginner.com
 0.0.0.0 smallershops.com
 0.0.0.0 smart.link
 0.0.0.0 smart.mobvista.com
@@ -7875,7 +7819,6 @@
 0.0.0.0 snrtp1.marketo.com
 0.0.0.0 so.rlcdn.com
 0.0.0.0 soaprange.com
-0.0.0.0 soapsmoke.com
 0.0.0.0 socdm.com
 0.0.0.0 socialcanvas-cdn.kargo.com
 0.0.0.0 sociaplus.com
@@ -8373,7 +8316,6 @@
 0.0.0.0 swelen.com
 0.0.0.0 swellstocking.com
 0.0.0.0 swelteringsleep.com
-0.0.0.0 swelteringsmile.com
 0.0.0.0 swimfreely.com
 0.0.0.0 swimslope.com
 0.0.0.0 swingslip.com
@@ -8598,7 +8540,6 @@
 0.0.0.0 tastefulsongs.com
 0.0.0.0 tastelesstoes.com
 0.0.0.0 tastelesstrees.com
-0.0.0.0 tastelesstrucks.com
 0.0.0.0 tastesnake.com
 0.0.0.0 taurus.iad.appboy.com
 0.0.0.0 tawdryson.com
@@ -8679,19 +8620,16 @@
 0.0.0.0 thingstaste.com
 0.0.0.0 thinkablefloor.com
 0.0.0.0 thinkablerice.com
-0.0.0.0 thinkabletrick.com
 0.0.0.0 thinkitten.com
 0.0.0.0 thinkitwice.com
 0.0.0.0 thinknear-hosted.thinknearhub.com
 0.0.0.0 thirdrespect.com
-0.0.0.0 thirstylettuce.com
 0.0.0.0 thirstyswing.com
 0.0.0.0 thirstytwig.com
 0.0.0.0 thomastorch.com
 0.0.0.0 thoughtlessknot.com
 0.0.0.0 threechurch.com
 0.0.0.0 threetruck.com
-0.0.0.0 thrivecover.com
 0.0.0.0 throattrees.com
 0.0.0.0 thrtle.com
 0.0.0.0 thumbnail.smartnews-ads.com
@@ -9360,7 +9298,6 @@
 0.0.0.0 vik-analytics-gke.moonactive.net
 0.0.0.0 vik-analytics.moonactive.net
 0.0.0.0 vindicosuite.com
-0.0.0.0 violetreading.com
 0.0.0.0 vip.prod.criteo.com
 0.0.0.0 vip.prod.criteo.net
 0.0.0.0 virgoplato.com
@@ -9458,7 +9395,6 @@
 0.0.0.0 wdig.vo.llnwd.net
 0.0.0.0 wdpro-mkt-prod2-lb.campaign.adobe.com
 0.0.0.0 wearbasin.com
-0.0.0.0 wearywater.com
 0.0.0.0 weather-analytics-events.apple.com
 0.0.0.0 weather-analytics-events.news.apple-dns.net
 0.0.0.0 weatherbug.adsbynimbus.com
