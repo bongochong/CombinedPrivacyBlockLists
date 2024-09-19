@@ -1,4 +1,4 @@
-# Wed Sep 11 09:30:03 PM UTC 2024
+# Thu Sep 19 09:00:08 PM UTC 2024
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -1094,6 +1094,7 @@
 0.0.0.0 amoad.com
 0.0.0.0 amobee-partners.tremorhub.com
 0.0.0.0 amobee.com
+0.0.0.0 amon1.net
 0.0.0.0 amp-error-reporting.appspot.com
 0.0.0.0 amp.admarvel.com
 0.0.0.0 amp.adpushup.com
@@ -3653,6 +3654,7 @@
 0.0.0.0 earthquakescarf.com
 0.0.0.0 earthycopy.com
 0.0.0.0 earthyfarm.com
+0.0.0.0 easierroamaccommodation.com
 0.0.0.0 east.ads.simpli.fi
 0.0.0.0 east.srv.stackadapt.com
 0.0.0.0 eastads.simpli.fi
@@ -4083,6 +4085,7 @@
 0.0.0.0 flurry.com
 0.0.0.0 flutteringfireman.com
 0.0.0.0 flygo.ru
+0.0.0.0 flytechb.com
 0.0.0.0 fm-analytics-api.pocketfm.com
 0.0.0.0 fm.duokanbox.com
 0.0.0.0 fm.ipinyou.com
@@ -4401,7 +4404,6 @@
 0.0.0.0 gotu.tpbid.com
 0.0.0.0 gov.aniview.com
 0.0.0.0 gowadogo.com
-0.0.0.0 goyetteconnelly.bid
 0.0.0.0 gplayer.kmpmedia.net
 0.0.0.0 grabify.link
 0.0.0.0 grace.shareaholic.com
@@ -7899,6 +7901,7 @@
 0.0.0.0 splash-screen.voodoo-ads.io
 0.0.0.0 splash.appsgeyser.com
 0.0.0.0 splicky.com
+0.0.0.0 splintmuses.com
 0.0.0.0 sponsorpay.com
 0.0.0.0 spookyexchange.com
 0.0.0.0 spookyskate.com

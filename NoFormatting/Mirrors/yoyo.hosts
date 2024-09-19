@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 09 Sep 2024 15:04:31 GMT
-# entries:        3543
+# last updated:   Thu, 19 Sep 2024 09:53:32 GMT
+# entries:        3550
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -240,6 +240,7 @@
 127.0.0.1 adhese.be
 127.0.0.1 adhese.com
 127.0.0.1 adhigh.net
+127.0.0.1 adhoc4.net
 127.0.0.1 adhunter.media
 127.0.0.1 adimage.guardian.co.uk
 127.0.0.1 adimages.been.com
@@ -560,6 +561,7 @@
 127.0.0.1 ads.prisacom.com
 127.0.0.1 ads.program3.com
 127.0.0.1 ads.psd2html.com
+127.0.0.1 ads.pubmatic.com
 127.0.0.1 ads.quoka.de
 127.0.0.1 ads.radialserver.com
 127.0.0.1 ads.radio1.lv
@@ -1023,6 +1025,7 @@
 127.0.0.1 axiomaticalley.com
 127.0.0.1 axonix.com
 127.0.0.1 ay.delivery
+127.0.0.1 ayads.co
 127.0.0.1 aztracking.net
 127.0.0.1 b-s.tercept.com
 127.0.0.1 b.videoamp.com
@@ -1216,7 +1219,6 @@
 127.0.0.1 calypsocapsule.com
 127.0.0.1 campaign.bharatmatrimony.com
 127.0.0.1 caniamedia.com
-127.0.0.1 capablecows.com
 127.0.0.1 capriciouscorn.com
 127.0.0.1 captainbicycle.com
 127.0.0.1 carambo.la
@@ -1757,6 +1759,7 @@
 127.0.0.1 fwcdn1.com
 127.0.0.1 fwcdn2.com
 127.0.0.1 fxstyle.net
+127.0.0.1 g2.gumgum.com
 127.0.0.1 ga.clearbit.com
 127.0.0.1 gadsbee.com
 127.0.0.1 galaxien.com
@@ -1960,6 +1963,7 @@
 127.0.0.1 inskinad.com
 127.0.0.1 inspectlet.com
 127.0.0.1 install.365-stream.com
+127.0.0.1 instantmadness.com
 127.0.0.1 insticator.com
 127.0.0.1 intelliads.com
 127.0.0.1 intelligenceadx.com
@@ -2049,6 +2053,7 @@
 127.0.0.1 leadclick.com
 127.0.0.1 leadinfo.net
 127.0.0.1 leadingedgecash.com
+127.0.0.1 leadplace.fr
 127.0.0.1 leadspace.com
 127.0.0.1 leadzupc.com
 127.0.0.1 leaplunchroom.com
@@ -2211,6 +2216,7 @@
 127.0.0.1 mediascale.de
 127.0.0.1 mediaserver.bwinpartypartners.it
 127.0.0.1 mediasmart.io
+127.0.0.1 mediasquare.fr
 127.0.0.1 mediatext.com
 127.0.0.1 mediavine.com
 127.0.0.1 mediavoice.com
@@ -2406,6 +2412,7 @@
 127.0.0.1 offer.sponsorpay.com
 127.0.0.1 offerforge.com
 127.0.0.1 offermatica.com
+127.0.0.1 ogads-pa.googleapis.com
 127.0.0.1 oglasi.posjetnica.com
 127.0.0.1 ogury.com
 127.0.0.1 ojrq.net
@@ -2469,6 +2476,7 @@
 127.0.0.1 oxcash.com
 127.0.0.1 oxen.hillcountrytexas.com
 127.0.0.1 p-n.io
+127.0.0.1 paa-reporting-advertising.amazon
 127.0.0.1 pagead.l.google.com
 127.0.0.1 pagefair.com
 127.0.0.1 pagerank-ranking.de
@@ -2579,7 +2587,6 @@
 127.0.0.1 premium-offers.com
 127.0.0.1 presetrabbits.com
 127.0.0.1 previousplayground.com
-127.0.0.1 previouspotato.com
 127.0.0.1 prf.hn
 127.0.0.1 priceypies.com
 127.0.0.1 pricklydebt.com
@@ -2764,6 +2771,7 @@
 127.0.0.1 reyden-x.com
 127.0.0.1 rhombusads.com
 127.0.0.1 rhythmone.com
+127.0.0.1 richaudience.com
 127.0.0.1 richmails.com
 127.0.0.1 richstring.com
 127.0.0.1 rightstats.com
@@ -2986,6 +2994,7 @@
 127.0.0.1 srvtrck.com
 127.0.0.1 srwww1.com
 127.0.0.1 sshowads.pubmatic.com
+127.0.0.1 sskzlabs.com
 127.0.0.1 st.dynamicyield.com
 127.0.0.1 st.pubmatic.com
 127.0.0.1 stack-sonar.com
@@ -3446,7 +3455,6 @@
 127.0.0.1 webtracky.com
 127.0.0.1 webtraffic.se
 127.0.0.1 webtraxx.de
-127.0.0.1 webtrendslive.com
 127.0.0.1 webxcdn.com
 127.0.0.1 wellmadefrog.com
 127.0.0.1 welved.com
@@ -3552,6 +3560,5 @@
 127.0.0.1 zonewedgeshaft.com
 127.0.0.1 zpu.samsungelectronics.com
 127.0.0.1 zqtk.net
-127.0.0.1 zukxd6fkxqn.com
 127.0.0.1 zy16eoat1w.com
 127.0.0.1 zzhc.vnet.cn
