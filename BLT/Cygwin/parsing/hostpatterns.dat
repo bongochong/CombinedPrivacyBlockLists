@@ -30,6 +30,7 @@ localhost$
 ^0\.0\.0\.0\s(www\.)?4chan\.org$
 ^0\.0\.0\.0\s(www\.)?4channel\.org$
 ^0\.0\.0\.0\s(www\.)?4shared\.com$
+^0\.0\.0\.0\s(www\.)?7k7k\.com$
 ^0\.0\.0\.0\s(www\.)?aarp\.org$
 ^0\.0\.0\.0\s(www\.)?adaway\.org$
 ^0\.0\.0\.0\s(www\.)?adblockplus\.org$
