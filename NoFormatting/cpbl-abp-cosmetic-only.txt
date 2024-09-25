@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mostly Cosmetic CPBL Filters for ABP & uBO
-! Updated: Mon Aug 19 01:30:33 AM UTC 2024
+! Updated: Wed Sep 25 03:48:26 PM UTC 2024
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -25,6 +25,7 @@ affinia.com###things-to-do > .on.overlay-container
 affinia.com##.fade-slide-up.has-fade-slide-up.privacy-policy
 affinia.com##.privacy-policy__container
 affinia.com###privacy-policy-notification
+air-journal.fr###adblock-popup
 alltrainerspc.com##a[href*="hskwq.com"]
 amazon.com##[class*="amazonlive-widget"]
 amazon.com##[class*="dv-web-live-events"]
