@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 19 Sep 2024 09:53:32 GMT
-# entries:        3550
+# last updated:   Wed, 25 Sep 2024 14:12:10 GMT
+# entries:        3546
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -118,7 +118,6 @@
 127.0.0.1 ad.dnoticias.pt
 127.0.0.1 ad.domainfactory.de
 127.0.0.1 ad.exyws.org
-127.0.0.1 ad.foxnetworks.com
 127.0.0.1 ad.grafika.cz
 127.0.0.1 ad.gt
 127.0.0.1 ad.hbv.de
@@ -223,7 +222,6 @@
 127.0.0.1 adengage.com
 127.0.0.1 adetracking.com
 127.0.0.1 adeure.com
-127.0.0.1 adexc.net
 127.0.0.1 adexchangegate.com
 127.0.0.1 adexchangeprediction.com
 127.0.0.1 adexpose.com
@@ -351,7 +349,6 @@
 127.0.0.1 ads-trk.vidible.tv
 127.0.0.1 ads-twitter.com
 127.0.0.1 ads.365.mk
-127.0.0.1 ads.4tube.com
 127.0.0.1 ads.5ci.lt
 127.0.0.1 ads.73dpi.com
 127.0.0.1 ads.a-snag-smartmoney.fyi
@@ -364,6 +361,7 @@
 127.0.0.1 ads.adfox.ru
 127.0.0.1 ads.administrator.de
 127.0.0.1 ads.adred.de
+127.0.0.1 ads.adsbtc.fun
 127.0.0.1 ads.adstream.com.ro
 127.0.0.1 ads.adultfriendfinder.com
 127.0.0.1 ads.advance.net
@@ -382,7 +380,6 @@
 127.0.0.1 ads.aspalliance.com
 127.0.0.1 ads.avazu.net
 127.0.0.1 ads.bb59.ru
-127.0.0.1 ads.belointeractive.com
 127.0.0.1 ads.betfair.com
 127.0.0.1 ads.bigchurch.com
 127.0.0.1 ads.bigfoot.com
@@ -453,7 +450,6 @@
 127.0.0.1 ads.formit.cz
 127.0.0.1 ads.fortunecity.com
 127.0.0.1 ads.fotosidan.se
-127.0.0.1 ads.foxnetworks.com
 127.0.0.1 ads.friendfinder.com
 127.0.0.1 ads.gamecity.net
 127.0.0.1 ads.gamespyid.com
@@ -1322,6 +1318,7 @@
 127.0.0.1 click.twcwigs.com
 127.0.0.1 click2freemoney.com
 127.0.0.1 click360v2-ingest.azurewebsites.net
+127.0.0.1 clickadddilla.com
 127.0.0.1 clickadz.com
 127.0.0.1 clickagents.com
 127.0.0.1 clickbank.com
@@ -1388,7 +1385,6 @@
 127.0.0.1 comparereaction.com
 127.0.0.1 compiledoctor.com
 127.0.0.1 comprabanner.it
-127.0.0.1 concernedchange.com
 127.0.0.1 conditionchange.com
 127.0.0.1 conductrics.com
 127.0.0.1 connatix.com
@@ -1469,7 +1465,6 @@
 127.0.0.1 customad.cnn.com
 127.0.0.1 customads.co
 127.0.0.1 customers.kameleoon.com
-127.0.0.1 cutcurrent.com
 127.0.0.1 cutechin.com
 127.0.0.1 cxense.com
 127.0.0.1 cyberbounty.com
@@ -1525,6 +1520,7 @@
 127.0.0.1 directtrack.com
 127.0.0.1 discountclick.com
 127.0.0.1 discreetfield.com
+127.0.0.1 displayvertising.com
 127.0.0.1 disqusads.com
 127.0.0.1 dist.belnk.com
 127.0.0.1 distillery.wistia.com
@@ -1778,6 +1774,7 @@
 127.0.0.1 getclicky.com
 127.0.0.1 getintent.com
 127.0.0.1 getmyads.com
+127.0.0.1 getxmlisi.com
 127.0.0.1 giddycoat.com
 127.0.0.1 glisteningsign.com
 127.0.0.1 globalismedia.com
@@ -1806,6 +1803,7 @@
 127.0.0.1 googletagservices.com
 127.0.0.1 gostats.com
 127.0.0.1 gothamads.com
+127.0.0.1 gotoyahoo.com
 127.0.0.1 gotraffic.net
 127.0.0.1 gp.dejanews.com
 127.0.0.1 graizoah.com
@@ -2232,6 +2230,7 @@
 127.0.0.1 megawerbung.de
 127.0.0.1 meltmilk.com
 127.0.0.1 memorizeneck.com
+127.0.0.1 merequartz.com
 127.0.0.1 messagenovice.com
 127.0.0.1 metadsp.co.uk
 127.0.0.1 metaffiliation.com
@@ -2662,7 +2661,6 @@
 127.0.0.1 ql.tc
 127.0.0.1 qnsr.com
 127.0.0.1 qrlsx.com
-127.0.0.1 quacksquirrel.com
 127.0.0.1 quaintcan.com
 127.0.0.1 quantcast.com
 127.0.0.1 quantcount.com
@@ -2786,6 +2784,7 @@
 127.0.0.1 roar.com
 127.0.0.1 robotreplay.com
 127.0.0.1 rockabox.co
+127.0.0.1 rockagainst.com
 127.0.0.1 rok.com.com
 127.0.0.1 rollconnection.com
 127.0.0.1 rose.ixbt.com
@@ -2835,7 +2834,6 @@
 127.0.0.1 scaredswing.com
 127.0.0.1 scarfsmash.com
 127.0.0.1 scatteredheat.com
-127.0.0.1 scatteredquiver.com
 127.0.0.1 scintillatingscissors.com
 127.0.0.1 scintillatingsilver.com
 127.0.0.1 scissorsstatement.com
@@ -3045,7 +3043,6 @@
 127.0.0.1 steadfastsystem.com
 127.0.0.1 steelhouse.com
 127.0.0.1 steelhousemedia.com
-127.0.0.1 steepscale.com
 127.0.0.1 stickyadstv.com
 127.0.0.1 stiffgame.com
 127.0.0.1 stimulatingsneeze.com
@@ -3109,7 +3106,6 @@
 127.0.0.1 t.x.co
 127.0.0.1 taboola.com
 127.0.0.1 tag-demo.mention-me.com
-127.0.0.1 tag.links-analytics.com
 127.0.0.1 tag.mention-me.com
 127.0.0.1 tagcommander.com
 127.0.0.1 tagger.opecloud.com

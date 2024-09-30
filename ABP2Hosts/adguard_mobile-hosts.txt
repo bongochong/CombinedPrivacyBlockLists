@@ -1,4 +1,4 @@
-# Thu Sep 19 09:00:08 PM UTC 2024
+# Mon Sep 30 02:14:37 AM UTC 2024
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -907,6 +907,7 @@
 0.0.0.0 adtracker.mkjigsaw.com
 0.0.0.0 adtracker.oilpainting.colorbynumber.veraxen.com
 0.0.0.0 adtrue.com
+0.0.0.0 adui.tg.meitu.com
 0.0.0.0 adultadworld.com
 0.0.0.0 adups.com
 0.0.0.0 adv-ettoday.cdn.hinet.net
@@ -5394,6 +5395,7 @@
 0.0.0.0 logsink.zedge.net
 0.0.0.0 logupdate.avlyun.sec.miui.com
 0.0.0.0 logx.optimizely.com
+0.0.0.0 lonelybulb.com
 0.0.0.0 lonelyflavor.com
 0.0.0.0 longinglettuce.com
 0.0.0.0 longingtrees.com
@@ -5488,6 +5490,7 @@
 0.0.0.0 mainadv.com
 0.0.0.0 majesticmountainrange.com
 0.0.0.0 majesticwaterscape.com
+0.0.0.0 majesticwilderness.com
 0.0.0.0 makeshiftmine.com
 0.0.0.0 maliciousmusic.com
 0.0.0.0 manage.com
@@ -5633,6 +5636,7 @@
 0.0.0.0 medscapedfp285029738901.s.moatpixel.com
 0.0.0.0 meendocash.com
 0.0.0.0 meenetiy.com
+0.0.0.0 meitustat.com
 0.0.0.0 mellowhush.com
 0.0.0.0 mellowmailbox.com
 0.0.0.0 melodiouschorus.com
@@ -7049,6 +7053,7 @@
 0.0.0.0 rndskittytor.com
 0.0.0.0 ro-gmtdmp.mookie1.com
 0.0.0.0 robustbelieve.com
+0.0.0.0 rockagainst.com
 0.0.0.0 rockpebbles.com
 0.0.0.0 rodeoconfig.yodo1api.com
 0.0.0.0 rodeopolice.com
