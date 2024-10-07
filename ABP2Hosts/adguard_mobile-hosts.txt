@@ -1,4 +1,4 @@
-# Mon Sep 30 02:14:37 AM UTC 2024
+# Mon Oct  7 11:06:00 AM UTC 2024
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -468,6 +468,7 @@
 0.0.0.0 ad.smaad.jp
 0.0.0.0 ad.smaato.net
 0.0.0.0 ad.snappea.com
+0.0.0.0 ad.snaptube.app
 0.0.0.0 ad.sxp.smartclip.net
 0.0.0.0 ad.tencentmusic.com
 0.0.0.0 ad.turn.com
@@ -602,6 +603,7 @@
 0.0.0.0 adn-tktracking-virginia-621472495.us-east-1.elb.amazonaws.com
 0.0.0.0 adn.admixer.co.kr
 0.0.0.0 adn.insight.ucweb.com
+0.0.0.0 adnami.io
 0.0.0.0 adnetwork.adasiaholdings.com
 0.0.0.0 adnetwork.admicro.vn
 0.0.0.0 adnetwork.vn
@@ -1288,6 +1290,7 @@
 0.0.0.0 api-2-0.spot.im
 0.0.0.0 api-a.op-mobile.opera.com
 0.0.0.0 api-ad-adapter.wps.com
+0.0.0.0 api-ad-callback.falconnet.app
 0.0.0.0 api-ad-callback.mobiuspace.net
 0.0.0.0 api-analytics-bootstrap.metaps.com
 0.0.0.0 api-analytics.metaps.com
@@ -4875,6 +4878,7 @@
 0.0.0.0 indiesalong.com
 0.0.0.0 indus.iad-01.braze.com
 0.0.0.0 infamousstream.com
+0.0.0.0 infatuated-difference.pro
 0.0.0.0 inferna.iad-03.braze.com
 0.0.0.0 influencers.tapinfluence.com
 0.0.0.0 info.adacado.com
@@ -5526,6 +5530,7 @@
 0.0.0.0 marriedbelief.com
 0.0.0.0 marriedmailbox.com
 0.0.0.0 marriedvalue.com
+0.0.0.0 marrowleaves.com
 0.0.0.0 masdk.3g.qq.com
 0.0.0.0 masdpanalytics.azureedge.net
 0.0.0.0 masky.biddingx.com
@@ -6104,6 +6109,7 @@
 0.0.0.0 omniscientfeeling.com
 0.0.0.0 omniscientspark.com
 0.0.0.0 omtrdc.net
+0.0.0.0 onclckmn.com
 0.0.0.0 onclickalgo.com
 0.0.0.0 onclickgenius.com
 0.0.0.0 onclickperformance.com
@@ -6950,6 +6956,7 @@
 0.0.0.0 reflectivereward.com
 0.0.0.0 reflectivestatement.com
 0.0.0.0 refundradar.com
+0.0.0.0 regexmail.com
 0.0.0.0 regional.ads.tremorhub.com
 0.0.0.0 regionconfig.amplitude.com
 0.0.0.0 register.appsflyer.com
@@ -8613,6 +8620,7 @@
 0.0.0.0 tg.dr.socdm.com
 0.0.0.0 tg1.aniview.com
 0.0.0.0 th-gmtdmp.mookie1.com
+0.0.0.0 theadex.com
 0.0.0.0 thecatmachine.com
 0.0.0.0 theoremreach.com
 0.0.0.0 therapeuticcars.com
@@ -8979,6 +8987,7 @@
 0.0.0.0 uberads.com
 0.0.0.0 uberm.bttn.io
 0.0.0.0 ubimoinappdisplay34181600889.s.moatpixel.com
+0.0.0.0 ubiquitoussea.com
 0.0.0.0 ubiquitousyard.com
 0.0.0.0 uc-ap.yodo1api.com
 0.0.0.0 uc.atwola.com
@@ -9621,6 +9630,7 @@
 0.0.0.0 xmlserving.mobagent.com
 0.0.0.0 xovq5nemr.com
 0.0.0.0 xpig-dev.directservices.it
+0.0.0.0 xplosion.de
 0.0.0.0 xpromo.g5e.com
 0.0.0.0 xtr.carambo.la
 0.0.0.0 yadro.ru
