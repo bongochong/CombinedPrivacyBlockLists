@@ -1,4 +1,4 @@
-# Mon Oct  7 11:06:00 AM UTC 2024
+# Thu Oct 17 09:18:37 AM UTC 2024
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -498,7 +498,7 @@
 0.0.0.0 adashx4ae.ut.taobao.com
 0.0.0.0 adasiaholdings.com
 0.0.0.0 adb2waycm-atl.netmng.com
-0.0.0.0 adballoon.afreecatv.com
+0.0.0.0 adballoon.sooplive.co.kr
 0.0.0.0 adblade.com
 0.0.0.0 adbox.sina.com.cn
 0.0.0.0 adbro.me
@@ -1287,7 +1287,6 @@
 0.0.0.0 apc.socdm.com
 0.0.0.0 apdc3n.adpushup.com
 0.0.0.0 apex.go.sonobi.com
-0.0.0.0 api-2-0.spot.im
 0.0.0.0 api-a.op-mobile.opera.com
 0.0.0.0 api-ad-adapter.wps.com
 0.0.0.0 api-ad-callback.falconnet.app
@@ -2918,7 +2917,7 @@
 0.0.0.0 collector.tealeaf.ibmcloud.com
 0.0.0.0 collector.vhx.tv
 0.0.0.0 collector.xhamster.com
-0.0.0.0 collector1.afreecatv.com
+0.0.0.0 collector1.sooplive.co.kr
 0.0.0.0 collectoru.us.tvsquared.com
 0.0.0.0 colorfulafterthought.com
 0.0.0.0 colossalchance.com
@@ -3373,7 +3372,7 @@
 0.0.0.0 deafeningdock.com
 0.0.0.0 deafeningdowntown.com
 0.0.0.0 dealerdotcomdisplay576919175878.s.moatpixel.com
-0.0.0.0 deapi.afreecatv.com
+0.0.0.0 deapi.sooplive.co.kr
 0.0.0.0 debojuagug1sf.cloudfront.net
 0.0.0.0 debonairdust.com
 0.0.0.0 debonairtree.com
@@ -3541,6 +3540,7 @@
 0.0.0.0 dollardelta.com
 0.0.0.0 dolldetail.com
 0.0.0.0 donkeyleaf.com
+0.0.0.0 donnishsubgrin.com
 0.0.0.0 doorbrazil.com
 0.0.0.0 dopemobi.offerstrack.net
 0.0.0.0 dotomi.com
@@ -4164,6 +4164,7 @@
 0.0.0.0 frogator.com
 0.0.0.0 frogtray.com
 0.0.0.0 front-logs.voodoo-ads.io
+0.0.0.0 frontier100-toutiao-lf.fqnovel.com
 0.0.0.0 fronttoad.com
 0.0.0.0 frtn.socdm.com
 0.0.0.0 frugalfiestas.com
@@ -4465,6 +4466,7 @@
 0.0.0.0 gum.da1.vip.prod.criteo.com
 0.0.0.0 gum.va1.vip.prod.criteo.com
 0.0.0.0 gumgum.com
+0.0.0.0 gurgehumours.com
 0.0.0.0 gurgle.zdbb.net
 0.0.0.0 gusabid.adview.com
 0.0.0.0 gustocooking.com
@@ -4972,6 +4974,7 @@
 0.0.0.0 invocacdn.com
 0.0.0.0 io.innertrends.com
 0.0.0.0 io.narrative.io
+0.0.0.0 ioam.de
 0.0.0.0 ioms.bfmio.com
 0.0.0.0 ios-ads.pulse.weatherbug.net
 0.0.0.0 ios-quinoa-config-prod.sense360eng.com
@@ -4981,6 +4984,7 @@
 0.0.0.0 iosads24.adcolony.com
 0.0.0.0 ioslog.ssl2.duapps.com
 0.0.0.0 iot-eu-logser.realme.com
+0.0.0.0 iot-in-logser.realme.com
 0.0.0.0 iot-logser.realme.com
 0.0.0.0 iotapi.adups.com
 0.0.0.0 iotapool.com
@@ -5285,6 +5289,7 @@
 0.0.0.0 locator1.corevm.com
 0.0.0.0 locatorpp.corevm.com
 0.0.0.0 log-api.pangolin-sdk-toutiao.com
+0.0.0.0 log-boot.tiktokv.com
 0.0.0.0 log-collector.svctr.zynga.com
 0.0.0.0 log-collectors-73517960.us-east-1.elb.amazonaws.com
 0.0.0.0 log-dbff2e04.us.v2.we-stats.com
@@ -5364,7 +5369,6 @@
 0.0.0.0 log1.apkomega.com
 0.0.0.0 log1.golfrival.net
 0.0.0.0 log1.happymod.com
-0.0.0.0 log16-normal-useast5.tiktokv.us
 0.0.0.0 log4x.nixcdn.com
 0.0.0.0 log5.interactive-circle.jp
 0.0.0.0 logagent-wf.centurygame.com
@@ -5591,6 +5595,7 @@
 0.0.0.0 mcizas.com
 0.0.0.0 mcoreads.com
 0.0.0.0 mcount.easebar.com
+0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 mcvsb5ngty4dzxx8jp80yt3q5614.device.marketingcloudapis.com
 0.0.0.0 mcy8q-n2f8ttyv729bcg5v83dsp4.device.marketingcloudapis.com
 0.0.0.0 md-a-c.apptimize.com
@@ -5632,6 +5637,7 @@
 0.0.0.0 mediation-tracking.prd.mz.internal.unity3d.com
 0.0.0.0 mediation.adnxs.com
 0.0.0.0 mediation.fyber.com
+0.0.0.0 mediation.mwmadnetworks.com
 0.0.0.0 mediation.unity3d.com
 0.0.0.0 mediav.com
 0.0.0.0 mediawayss.com
@@ -5817,6 +5823,7 @@
 0.0.0.0 mon.byteoversea.com
 0.0.0.0 mon.isnssdk.com
 0.0.0.0 mon.tiktokv.com
+0.0.0.0 mon.us.tiktokv.com
 0.0.0.0 monacobeatles.com
 0.0.0.0 monetize-api.coronalabs.com
 0.0.0.0 monitor-stsdk.vivo.com.cn
@@ -5979,6 +5986,7 @@
 0.0.0.0 netavenir.com
 0.0.0.0 netmng.com
 0.0.0.0 netperform-is.vodafone.com.tr
+0.0.0.0 netpub.media
 0.0.0.0 netseer.com
 0.0.0.0 netsetgo.gotrackier.com
 0.0.0.0 netshelter.net
@@ -6082,6 +6090,7 @@
 0.0.0.0 oafishobservation.com
 0.0.0.0 oauth.datorama.com
 0.0.0.0 ob.leap.app
+0.0.0.0 objecthero.com
 0.0.0.0 obo.moatads.com
 0.0.0.0 obscenesidewalk.com
 0.0.0.0 observantice.com
@@ -6876,6 +6885,7 @@
 0.0.0.0 r3.visualwebsiteoptimizer.com
 0.0.0.0 r53.unrulymedia.com
 0.0.0.0 r8qs.adj.st
+0.0.0.0 rabbit.meitustat.com
 0.0.0.0 rabbitbreath.com
 0.0.0.0 rabbitrifle.com
 0.0.0.0 radiantcanopy.com
@@ -6894,6 +6904,7 @@
 0.0.0.0 rangeplayground.com
 0.0.0.0 rangergustav.com
 0.0.0.0 rapidkittens.com
+0.0.0.0 rarestcandy.com
 0.0.0.0 raresummer.com
 0.0.0.0 rat.fr.eu.criteo.com
 0.0.0.0 rat.nl.eu.criteo.com
@@ -6994,7 +7005,7 @@
 0.0.0.0 reportwest-midas.codmwest.com
 0.0.0.0 reproio.com
 0.0.0.0 req.startappservice.com
-0.0.0.0 reqde.afreecatv.com
+0.0.0.0 reqde.sooplive.co.kr
 0.0.0.0 res.media.net
 0.0.0.0 res.mmstat.com
 0.0.0.0 res1.applovin.com
@@ -7118,7 +7129,11 @@
 0.0.0.0 rtb2.doubleverify.com
 0.0.0.0 rtbcdn.doubleverify.com
 0.0.0.0 rtblab.net
+0.0.0.0 rtc-logger-va.tiktokv.com
 0.0.0.0 rtd.tubemogul.com
+0.0.0.0 rtlog.isnssdk.com
+0.0.0.0 rtlog.tiktokv.com
+0.0.0.0 rtmark.net
 0.0.0.0 rtp-static.marketo.com
 0.0.0.0 rtr.innovid.com
 0.0.0.0 rtr.innovid.com.akadns.net
@@ -7861,6 +7876,7 @@
 0.0.0.0 songsterritory.com
 0.0.0.0 sonic-us.supersonicads.com
 0.0.0.0 sonobi.com
+0.0.0.0 sonraifishnet.website
 0.0.0.0 sootheside.com
 0.0.0.0 soothingglade.com
 0.0.0.0 sophisticatedstory.com
@@ -8622,6 +8638,7 @@
 0.0.0.0 th-gmtdmp.mookie1.com
 0.0.0.0 theadex.com
 0.0.0.0 thecatmachine.com
+0.0.0.0 themoneytizer.com
 0.0.0.0 theoremreach.com
 0.0.0.0 therapeuticcars.com
 0.0.0.0 thetimmedia.site
@@ -9622,7 +9639,9 @@
 0.0.0.0 xiaomi-mipdx.cn.miaozhen.com
 0.0.0.0 ximad.com
 0.0.0.0 xlivrdr.com
+0.0.0.0 xlog-va.tiktokv.com
 0.0.0.0 xlog.byteoversea.com
+0.0.0.0 xlog.tiktokv.com
 0.0.0.0 xml.adx1.com
 0.0.0.0 xml.ezmob.com
 0.0.0.0 xml.revrtb.com

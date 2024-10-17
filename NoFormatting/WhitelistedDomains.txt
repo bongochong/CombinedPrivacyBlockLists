@@ -58,6 +58,7 @@ android.com
 angularjs.org
 anrdoezrs.net
 ap.spotify.com
+api-2-0.spot.im
 api-global.netflix.com
 api-staging.backup.signal.org
 api-staging.directory.signal.org
