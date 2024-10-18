@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Thu Oct 17 09:28:49 AM UTC 2024
+! Updated: Fri Oct 18 05:43:17 AM UTC 2024
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -151415,6 +151415,7 @@ my.indeed.com##div.saved-item-inner.preview-editor-section:nth-of-type(5) > div:
 myetherwallet.com##.footer-banner.footer-banner-container.full-width.text-center.align-center.justify-center.d-flex.white
 nationalgeographic.com##.Modal.PaywallModal
 nationalgeographic.com##.ModalInner
+nationalgeographic.com##.Slider__InnerContainer
 news.cnet.com###globalSocialPromo
 newsmax.com##.show.shown.android
 nypost.com##.ad__wrapper
@@ -151516,6 +151517,7 @@ sparkylinux.org##DIV#ad0569e
 sportiquescooters.com###lbOverlay
 statelocalgov.net###IPEbgCover
 statelocalgov.net###IPEinvL
+statista.com##.xmoChartBoxPaywall
 stpetecatalyst.com##[class*="remodal-overlay"]
 stpetecatalyst.com##[class*="remodal-wrapper"]
 sztobeco.com###tq_float_container
