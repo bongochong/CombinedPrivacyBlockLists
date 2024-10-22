@@ -1,4 +1,4 @@
-# Thu Oct 17 09:18:37 AM UTC 2024
+# Tue Oct 22 06:05:02 AM UTC 2024
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -133,7 +133,9 @@
 0.0.0.0 a-cast.jp
 0.0.0.0 a-fds.youborafds01.com
 0.0.0.0 a-reporting.nytimes.com
+0.0.0.0 a.07aa269c0e76550c929640c170af557c7371753ba1b580236d7fa0a4.com
 0.0.0.0 a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com
+0.0.0.0 a.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
 0.0.0.0 a.ad.gt
 0.0.0.0 a.adnium.com
 0.0.0.0 a.ads1.msn.com
@@ -3850,6 +3852,7 @@
 0.0.0.0 event.collector.scopely.io
 0.0.0.0 event.havasedge.com
 0.0.0.0 event.inner-active.mobi
+0.0.0.0 event.karrotmarket.com
 0.0.0.0 event.prod.bidr.io
 0.0.0.0 event.spotxchange.com
 0.0.0.0 event.togothermany.com
@@ -3859,6 +3862,7 @@
 0.0.0.0 eventlog.outbrain.com
 0.0.0.0 events-api.otherlevels.com
 0.0.0.0 events-api.soundcloud.com
+0.0.0.0 events-api.towneers.prod.data.krmt.io
 0.0.0.0 events-collector-api.viacom.tech
 0.0.0.0 events-collector.spot.im
 0.0.0.0 events-stream-svc.cordial.com
@@ -9357,6 +9361,7 @@
 0.0.0.0 vn-platform.bidgear.com
 0.0.0.0 vnet.cn
 0.0.0.0 vntsm.com
+0.0.0.0 vod-mplayer.sooplive.co.kr
 0.0.0.0 vodafonetr.sc.omtrdc.net
 0.0.0.0 voicelessvein.com
 0.0.0.0 voicevegetable.com
