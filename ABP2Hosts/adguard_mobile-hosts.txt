@@ -1,4 +1,4 @@
-# Tue Oct 22 06:05:02 AM UTC 2024
+# Mon Oct 28 07:04:49 PM UTC 2024
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -962,6 +962,7 @@
 0.0.0.0 adx.g.doubleclick.net
 0.0.0.0 adx.hasmobi.net
 0.0.0.0 adx.lsosad.com
+0.0.0.0 adx.mossru.com
 0.0.0.0 adx2.adform.net
 0.0.0.0 adxadserv.com
 0.0.0.0 adxcallback.batmobi.net
@@ -2779,6 +2780,7 @@
 0.0.0.0 clickfuse.com
 0.0.0.0 clicktrack.pubmatic.com
 0.0.0.0 client-analytics.braintreegateway.com
+0.0.0.0 client-telemetry.hingeprod.net
 0.0.0.0 client.midosoo.com
 0.0.0.0 client.rave-api.com
 0.0.0.0 clientcdn.pushengage.com
@@ -5046,6 +5048,7 @@
 0.0.0.0 jgl.microad.net
 0.0.0.0 jimny.pro
 0.0.0.0 jioads.akamaized.net
+0.0.0.0 jjpp.lmtjapi.com
 0.0.0.0 joblessdrum.com
 0.0.0.0 jogger.zdbb.net
 0.0.0.0 johnston.grapeshot.co.uk
@@ -5764,6 +5767,7 @@
 0.0.0.0 moatads.com
 0.0.0.0 moatads.com.edgekey.net
 0.0.0.0 moatpixel1.edgekey.net
+0.0.0.0 mob2.healthapplines.com
 0.0.0.0 moba8.net
 0.0.0.0 mobad.ijinshan.com
 0.0.0.0 mobads.baidu.com
@@ -6001,6 +6005,7 @@
 0.0.0.0 newad.ifeng.com
 0.0.0.0 newfeatureview.perfectionholic.com
 0.0.0.0 newre-conversions.clickmeter.com
+0.0.0.0 news-cdn.site
 0.0.0.0 news.iadsdk.apple.com
 0.0.0.0 newscorp.grapeshot.co.uk
 0.0.0.0 newsletterjet.com
