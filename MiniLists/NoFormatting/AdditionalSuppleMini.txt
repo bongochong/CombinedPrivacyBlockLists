@@ -2014,6 +2014,7 @@
 0.0.0.0 adcomplete.com
 0.0.0.0 adcomplete.ru
 0.0.0.0 adconion.com
+0.0.0.0 adconnect.vn
 0.0.0.0 adconsole.lot-tissimo.com
 0.0.0.0 adconsole.sniffies.com
 0.0.0.0 adcontent.gamespy.com
@@ -2378,6 +2379,7 @@
 0.0.0.0 adlink.deh.de
 0.0.0.0 adlink.net
 0.0.0.0 adlinknetwork.vn
+0.0.0.0 adlive.io
 0.0.0.0 adloader.com
 0.0.0.0 adlock.in
 0.0.0.0 adlockscreen.goforandroid.com
@@ -2476,6 +2478,7 @@
 0.0.0.0 admeld.com
 0.0.0.0 admeme.net
 0.0.0.0 admeridianads.com
+0.0.0.0 admeridianopenrtb.com
 0.0.0.0 admerize.be
 0.0.0.0 admeta.com
 0.0.0.0 admetix.com
@@ -2581,6 +2584,7 @@
 0.0.0.0 admost.com
 0.0.0.0 admothreewallent.com
 0.0.0.0 admotion.com.ar
+0.0.0.0 admozartexchange.com
 0.0.0.0 admozartppc.com
 0.0.0.0 admozartxml.com
 0.0.0.0 admp-tc-bauer.adtlgc.com
@@ -2695,6 +2699,7 @@
 0.0.0.0 adobetps.chegg.com
 0.0.0.0 adocean.pl
 0.0.0.0 adokutcontextual.com
+0.0.0.0 adokutrtb.com
 0.0.0.0 adolescenteaster.com
 0.0.0.0 adolescentsuperstitioustidying.com
 0.0.0.0 adollo.com
@@ -2803,6 +2808,7 @@
 0.0.0.0 adpopblocker.com
 0.0.0.0 adpopcorn.com
 0.0.0.0 adport.io
+0.0.0.0 adportonic.com
 0.0.0.0 adpost.org
 0.0.0.0 adpostback.headlines.pw
 0.0.0.0 adpower.de
@@ -2837,6 +2843,7 @@
 0.0.0.0 adquery.io
 0.0.0.0 adquest3d.com
 0.0.0.0 adquota.com
+0.0.0.0 adqva.com
 0.0.0.0 adrazzi.com
 0.0.0.0 adrcdn.com
 0.0.0.0 adrcf.com
@@ -4596,6 +4603,7 @@
 0.0.0.0 adschanka.com
 0.0.0.0 adschill.com
 0.0.0.0 adscholar.com
+0.0.0.0 adscholars.com
 0.0.0.0 adschoom.com
 0.0.0.0 adscience.nl
 0.0.0.0 adscienceltd.com
@@ -5799,6 +5807,7 @@
 0.0.0.0 advertpro.investorvillage.com
 0.0.0.0 advertpro.sitepoint.com
 0.0.0.0 advertpro.ya.com
+0.0.0.0 advertrek.com
 0.0.0.0 advertronic.io
 0.0.0.0 adverts.dcthomson.co.uk
 0.0.0.0 adverts.ecn.co.uk
@@ -16677,6 +16686,7 @@
 0.0.0.0 graphiqsw.com
 0.0.0.0 graphql.logrocket.com
 0.0.0.0 gravity.com
+0.0.0.0 gravityadnetwork.io
 0.0.0.0 gravitygive.com
 0.0.0.0 grayoranges.com
 0.0.0.0 grayreceipt.com
@@ -31767,6 +31777,7 @@
 0.0.0.0 trackhere.pl
 0.0.0.0 trackicollect.ibase.fr
 0.0.0.0 trackid.globoid.globo.com
+0.0.0.0 trackifyy.com
 0.0.0.0 trackimpression.com
 0.0.0.0 tracking-3-9f58.trnox.com
 0.0.0.0 tracking-amp.vnexpress.net
