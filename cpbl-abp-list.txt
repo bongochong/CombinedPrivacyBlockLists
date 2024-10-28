@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Mon Oct 28 07:20:51 PM UTC 2024
+! Updated: Mon Oct 28 08:58:47 PM UTC 2024
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -3270,7 +3270,6 @@
 ||a.acxiom.com^
 ||a.addskills.se^
 ||a.advantageclicks.net^
-||a.advertrek.com^
 ||a.aer.com^
 ||a.alzcombocare.com^
 ||a.amd.com^
@@ -7647,6 +7646,7 @@
 ||adconion.com^
 ||adconity.com^
 ||adconjure.com^
+||adconnect.vn^
 ||adconscious.com^
 ||adconsole.kozoom.com^
 ||adconsole.lot-tissimo.com^
@@ -8358,6 +8358,7 @@
 ||admeme.net^
 ||admequipamentos.online^
 ||admeridianads.com^
+||admeridianopenrtb.com^
 ||admerize.be^
 ||admeta.com^
 ||admetix.com^
@@ -8490,6 +8491,7 @@
 ||admost.com^
 ||admothreewallent.com^
 ||admotion.com.ar^
+||admozartexchange.com^
 ||admozartppc.com^
 ||admozartxml.com^
 ||admp-tc.delfi.ee^
@@ -8700,6 +8702,7 @@
 ||adoffice.11st.co.kr^
 ||adoftheyear.com^
 ||adokutcontextual.com^
+||adokutrtb.com^
 ||adolescenteaster.com^
 ||adolescentsuperstitioustidying.com^
 ||adollo.com^
@@ -8832,6 +8835,7 @@
 ||adpopblocker.com^
 ||adpopcorn.com^
 ||adport.io^
+||adportonic.com^
 ||adpost.org^
 ||adpostback.headlines.pw^
 ||adpower.de^
@@ -10662,6 +10666,7 @@
 ||adschanka.com^
 ||adschill.com^
 ||adscholar.com^
+||adscholars.com^
 ||adschoom.com^
 ||adscience.nl^
 ||adscienceltd.com^
@@ -11996,6 +12001,7 @@
 ||advertpro.investorvillage.com^
 ||advertpro.sitepoint.com^
 ||advertpro.ya.com^
+||advertrek.com^
 ||advertronic.io^
 ||adverts.carltononline.com^
 ||adverts.creativemark.co.uk^
@@ -29682,7 +29688,6 @@
 ||click.aaptiv.com^
 ||click.aarthpro.com^
 ||click.absoluteagency.com^
-||click.advertrek.com^
 ||click.affiliate.ameba.jp^
 ||click.airmalta-mail.com^
 ||click.alejandratv.tv^
@@ -33344,7 +33349,6 @@
 ||cpm.entravision.com^
 ||cpm.felixads.com^
 ||cpm.geoadserver.com^
-||cpm.gravityadnetwork.io^
 ||cpm.gwmexchange.com^
 ||cpm.infinityexplorers.com^
 ||cpm.kremsondigital.com^
@@ -50913,7 +50917,6 @@
 ||filmsgratuit.net^
 ||filmsgratuitsenligne.net^
 ||filmshngjbzix.blogspot.com^
-||filter-eu.adportonic.com^
 ||filter-eu.adzreach.com^
 ||filter-eu.cpmvibes.com^
 ||filter-eu.dollopsdigital.com^
@@ -50925,8 +50928,6 @@
 ||filter-eu.re-media.info^
 ||filter-eu.saroadexchange.com^
 ||filter.a1.0network.com^
-||filter.adportonic.com^
-||filter.adscholars.com^
 ||filter.adxpoint.com^
 ||filter.adzreach.com^
 ||filter.anuerprivatelimited.com^
@@ -59141,6 +59142,7 @@
 ||graveuniversalapologies.com^
 ||gravity.com^
 ||gravity4.com^
+||gravityadnetwork.io^
 ||gravitygive.com^
 ||gravitykick.com^
 ||gravygirls.com^
@@ -104768,7 +104770,6 @@
 ||rtb-1.mylust.com^
 ||rtb-1.xcafe.com^
 ||rtb-3.xgroovy.com^
-||rtb-apac-v4.admozartexchange.com^
 ||rtb-apac-v4.broadadx.com^
 ||rtb-apac-v4.voisetech.com^
 ||rtb-apac.adportmedia.com^
@@ -104782,15 +104783,10 @@
 ||rtb-as-uswest.pulsefintech.net^
 ||rtb-east-wins.crossinstall.com^
 ||rtb-eu-v4.9versemedia.com^
-||rtb-eu-v4.admozartexchange.com^
 ||rtb-eu-v4.cpmme.com^
 ||rtb-eu-v4.saroadexchange.com^
 ||rtb-eu-v4.servvidisplay.com^
-||rtb-eu-v4.trackifyy.com^
 ||rtb-eu-v4.voisetech.com^
-||rtb-eu.admeridianopenrtb.com^
-||rtb-eu.admozartexchange.com^
-||rtb-eu.adokutrtb.com^
 ||rtb-eu.brightmountainads.com^
 ||rtb-eu.cpmme.com^
 ||rtb-eu.crowdegic.com^
@@ -104805,7 +104801,6 @@
 ||rtb-media.me^
 ||rtb-media.ru^
 ||rtb-useast-v4.admnrtb.com^
-||rtb-useast-v4.admozartexchange.com^
 ||rtb-useast-v4.agilitydigitalmedia.com^
 ||rtb-useast-v4.cpmme.com^
 ||rtb-useast-v4.cranberryads.com^
@@ -104820,13 +104815,9 @@
 ||rtb-useast-v4.pronivydigital.com^
 ||rtb-useast-v4.ras-trk.com^
 ||rtb-useast-v4.sahrel-server.com^
-||rtb-useast-v4.trackifyy.com^
 ||rtb-useast-v4.voisetech.com^
 ||rtb-useast.adapace.com^
 ||rtb-useast.adbidglobal.com^
-||rtb-useast.admeridianopenrtb.com^
-||rtb-useast.admozartexchange.com^
-||rtb-useast.adokutrtb.com^
 ||rtb-useast.adportmedia.com^
 ||rtb-useast.arbigo.com^
 ||rtb-useast.convertise.io^
@@ -104856,11 +104847,8 @@
 ||rtb-useast.westcom.tv^
 ||rtb-useast.wxadserve.xyz^
 ||rtb-uswest-ak.solomath.com^
-||rtb-uswest-v4.admozartexchange.com^
 ||rtb-uswest-v4.infinityexplorers.com^
 ||rtb-uswest-v4.voisetech.com^
-||rtb-uswest.admeridianopenrtb.com^
-||rtb-uswest.adokutrtb.com^
 ||rtb-uswest.bat-ads.com^
 ||rtb-uswest.imprexis.biz^
 ||rtb-uswest.keenkale.com^
@@ -104870,7 +104858,6 @@
 ||rtb-uswest.next-traffic.com^
 ||rtb-uswest.pronivydigital.com^
 ||rtb-uswest.wxadserve.xyz^
-||rtb.advertrek.com^
 ||rtb.appbid.com^
 ||rtb.clixportal.com^
 ||rtb.com.ru^
@@ -104882,7 +104869,6 @@
 ||rtb.wedeo.ru^
 ||rtb1bid.com^
 ||rtb2-apac.applabs.live^
-||rtb2-apac.gravityadnetwork.io^
 ||rtb2-apac.onenativeads.com^
 ||rtb2-apac.torchad.com^
 ||rtb2-eu.applabs.live^
@@ -104893,7 +104879,6 @@
 ||rtb2-useast.applabs.live^
 ||rtb2-useast.engagesimply.com^
 ||rtb2-useast.gammae.com^
-||rtb2-useast.gravityadnetwork.io^
 ||rtb2-useast.mediarise.io^
 ||rtb2-useast.t3dsp.com^
 ||rtb2-useast.torchad.com^
@@ -105459,7 +105444,6 @@
 ||s.admathhd.com^
 ||s.adnflow.com^
 ||s.advantageclicks.net^
-||s.advertrek.com^
 ||s.agava.ru^
 ||s.airgoat.com^
 ||s.allbootdisks.com^
@@ -118277,7 +118261,6 @@
 ||static-rtb.pulsefintech.net^
 ||static-rtb2.ak.bonanza.com^
 ||static-rtb2.applabs.live^
-||static-rtb2.gravityadnetwork.io^
 ||static-rtb2.magixengage.com^
 ||static-rtb2.mediarise.io^
 ||static-rtb2.n-data.io^
@@ -118299,9 +118282,7 @@
 ||static.ad.logic-test.viasat.io^
 ||static.ad2click.in^
 ||static.adbutter.net^
-||static.adconnect.vn^
 ||static.additionaldisplay.com^
-||static.adportonic.com^
 ||static.affiliatly.com^
 ||static.affluent.io^
 ||static.aio.media^
@@ -129291,6 +129272,7 @@
 ||tracki112.com^
 ||trackicollect.ibase.fr^
 ||trackid.globoid.globo.com^
+||trackifyy.com^
 ||trackimpression.com^
 ||tracking-1611167402.us-east-1.elb.amazonaws.com^
 ||tracking-3-9f58.trnox.com^
@@ -142144,8 +142126,6 @@
 ||xml-api.online^
 ||xml-clickurl.com^
 ||xml-eu-v4.9versemedia.com^
-||xml-eu-v4.adportonic.com^
-||xml-eu-v4.adscholars.com^
 ||xml-eu-v4.adzreach.com^
 ||xml-eu-v4.audienceye.com^
 ||xml-eu-v4.boardpress-a.online^
@@ -142190,8 +142170,6 @@
 ||xml-eu.startbrws-2.online^
 ||xml-v4.9versemedia.com^
 ||xml-v4.a1.0network.com^
-||xml-v4.adportonic.com^
-||xml-v4.adscholars.com^
 ||xml-v4.adverttise.com^
 ||xml-v4.adxpoint.com^
 ||xml-v4.adzreach.com^
@@ -142245,13 +142223,10 @@
 ||xml-v4.strongkeyword.com^
 ||xml-v4.synthads.com^
 ||xml-v4.thetargetmachine.com^
-||xml-v4.trackifyy.com^
 ||xml-v4.uclpointer.online^
 ||xml-v4.winkleads.com^
 ||xml.a1.0network.com^
-||xml.adportonic.com^
 ||xml.ads9.com^
-||xml.adscholars.com^
 ||xml.adservtday.com^
 ||xml.adverttise.com^
 ||xml.adzreach.com^
@@ -142338,7 +142313,6 @@
 ||xml.themediaad.com^
 ||xml.thetargetmachine.com^
 ||xml.thing02.com^
-||xml.trackifyy.com^
 ||xml.ultrads.net^
 ||xml.uptowntraction.com^
 ||xml.valueklicks.com^

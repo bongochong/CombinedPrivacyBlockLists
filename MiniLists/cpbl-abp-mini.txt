@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mini CPBL Filters for ABP & uBO
-! Updated: Mon Oct 28 07:20:56 PM UTC 2024
+! Updated: Mon Oct 28 08:58:53 PM UTC 2024
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -2032,7 +2032,6 @@
 ||a.91nets.cn^
 ||a.91zhongkao.com^
 ||a.advantageclicks.net^
-||a.advertrek.com^
 ||a.amd.com^
 ||a.amnet.tw^
 ||a.answers.com^
@@ -4075,6 +4074,7 @@
 ||adconion.com^
 ||adconity.com^
 ||adconjure.com^
+||adconnect.vn^
 ||adconscious.com^
 ||adconsole.lot-tissimo.com^
 ||adconsole.sniffies.com^
@@ -4654,6 +4654,7 @@
 ||admeld.com^
 ||admeme.net^
 ||admeridianads.com^
+||admeridianopenrtb.com^
 ||admerize.be^
 ||admeta.com^
 ||admetix.com^
@@ -4765,6 +4766,7 @@
 ||admost.com^
 ||admothreewallent.com^
 ||admotion.com.ar^
+||admozartexchange.com^
 ||admozartppc.com^
 ||admozartxml.com^
 ||admpire.com^
@@ -4876,6 +4878,7 @@
 ||adocean.pl^
 ||adoftheyear.com^
 ||adokutcontextual.com^
+||adokutrtb.com^
 ||adolescenteaster.com^
 ||adolescentsuperstitioustidying.com^
 ||adollo.com^
@@ -5005,6 +5008,7 @@
 ||adpopblocker.com^
 ||adpopcorn.com^
 ||adport.io^
+||adportonic.com^
 ||adpost.org^
 ||adpostback.headlines.pw^
 ||adpower.de^
@@ -6824,6 +6828,7 @@
 ||adschanka.com^
 ||adschill.com^
 ||adscholar.com^
+||adscholars.com^
 ||adschoom.com^
 ||adscience.nl^
 ||adscienceltd.com^
@@ -8086,6 +8091,7 @@
 ||advertpro.investorvillage.com^
 ||advertpro.sitepoint.com^
 ||advertpro.ya.com^
+||advertrek.com^
 ||advertronic.io^
 ||adverts.carltononline.com^
 ||adverts.creativemark.co.uk^
@@ -19221,7 +19227,6 @@
 ||click-url.com^
 ||click.aaptiv.com^
 ||click.absoluteagency.com^
-||click.advertrek.com^
 ||click.affiliate.ameba.jp^
 ||click.airmalta-mail.com^
 ||click.aliexpress.com^
@@ -30670,10 +30675,7 @@
 ||filmizeorts.click^
 ||filmplus.ru^
 ||filmshngjbzix.blogspot.com^
-||filter-eu.adportonic.com^
 ||filter-eu.adzreach.com^
-||filter.adportonic.com^
-||filter.adscholars.com^
 ||filter.adxpoint.com^
 ||filter.adzreach.com^
 ||filterexchangecage.com^
@@ -35444,6 +35446,7 @@
 ||graveuniversalapologies.com^
 ||gravity.com^
 ||gravity4.com^
+||gravityadnetwork.io^
 ||gravitygive.com^
 ||gravitykick.com^
 ||gravyponder.com^
@@ -61943,30 +61946,15 @@
 ||rta2.newzit.com^
 ||rtag.farmers.com^
 ||rtapi.abbi.io^
-||rtb-apac-v4.admozartexchange.com^
 ||rtb-apac.adportmedia.com^
 ||rtb-east-wins.crossinstall.com^
-||rtb-eu-v4.admozartexchange.com^
-||rtb-eu-v4.trackifyy.com^
-||rtb-eu.admeridianopenrtb.com^
-||rtb-eu.admozartexchange.com^
-||rtb-eu.adokutrtb.com^
 ||rtb-media.me^
 ||rtb-media.ru^
 ||rtb-useast-v4.admnrtb.com^
-||rtb-useast-v4.admozartexchange.com^
-||rtb-useast-v4.trackifyy.com^
 ||rtb-useast.adapace.com^
 ||rtb-useast.adbidglobal.com^
-||rtb-useast.admeridianopenrtb.com^
-||rtb-useast.admozartexchange.com^
-||rtb-useast.adokutrtb.com^
 ||rtb-useast.adportmedia.com^
-||rtb-uswest-v4.admozartexchange.com^
-||rtb-uswest.admeridianopenrtb.com^
-||rtb-uswest.adokutrtb.com^
 ||rtb-uswest.bat-ads.com^
-||rtb.advertrek.com^
 ||rtb.appbid.com^
 ||rtb.com.ru^
 ||rtb.metrigo.com^
@@ -62346,7 +62334,6 @@
 ||s.admathhd.com^
 ||s.adnflow.com^
 ||s.advantageclicks.net^
-||s.advertrek.com^
 ||s.agava.ru^
 ||s.autopilotapp.com^
 ||s.baomoi.xdn.vn^
@@ -67918,7 +67905,6 @@
 ||static-rtb.pulsefintech.net^
 ||static-rtb2.ak.bonanza.com^
 ||static-rtb2.applabs.live^
-||static-rtb2.gravityadnetwork.io^
 ||static-rtb2.magixengage.com^
 ||static-rtb2.mediarise.io^
 ||static-rtb2.n-data.io^
@@ -67937,9 +67923,7 @@
 ||static.ad.logic-test.viasat.io^
 ||static.ad2click.in^
 ||static.adbutter.net^
-||static.adconnect.vn^
 ||static.additionaldisplay.com^
-||static.adportonic.com^
 ||static.affiliatly.com^
 ||static.affluent.io^
 ||static.aio.media^
@@ -73328,6 +73312,7 @@
 ||tracki112.com^
 ||trackicollect.ibase.fr^
 ||trackid.globoid.globo.com^
+||trackifyy.com^
 ||trackimpression.com^
 ||tracking-1611167402.us-east-1.elb.amazonaws.com^
 ||tracking-3-9f58.trnox.com^
@@ -81474,23 +81459,15 @@
 ||xmkmryu.icu^
 ||xml-api.online^
 ||xml-clickurl.com^
-||xml-eu-v4.adportonic.com^
-||xml-eu-v4.adscholars.com^
 ||xml-eu-v4.adzreach.com^
-||xml-v4.adportonic.com^
-||xml-v4.adscholars.com^
 ||xml-v4.adverttise.com^
 ||xml-v4.adxpoint.com^
 ||xml-v4.adzreach.com^
-||xml-v4.trackifyy.com^
-||xml.adportonic.com^
 ||xml.ads9.com^
-||xml.adscholars.com^
 ||xml.adservtday.com^
 ||xml.adverttise.com^
 ||xml.adzreach.com^
 ||xml.onwardclick.com^
-||xml.trackifyy.com^
 ||xmladserver.com^
 ||xmladsystem.com^
 ||xmlap.com^
