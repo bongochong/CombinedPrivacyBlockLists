@@ -48,6 +48,7 @@
 ^(www\.)?aspnetcdn\.com$
 ^(www\.)?audioscrobbler\.com$
 ^(www\.)?babbel\.com$
+^(www\.)?banggood\.com$
 ^(www\.)?basicattentiontoken\.org$
 ^(www\.)?bbc\.com$
 ^(www\.)?beforeitsnews\.com$
@@ -180,6 +181,7 @@
 ^(www\.)?icscards\.nl$
 ^(www\.)?idol-dvd\.com$
 ^(www\.)?imgbox\.com$
+^(www\.)?imgshare\.info$
 ^(www\.)?imgtaxi\.com$
 ^(www\.)?imgtown\.pw$
 ^(www\.)?imgview\.pw$
@@ -431,6 +433,7 @@
 ^api\.parsely\.com$
 ^api\.pluto\.tv$
 ^api\.rollbar\.com$
+^api-2-0\.spot\.im$
 ^api\.twitter\.com$
 ^appboot\.netflix\.com$
 ^appldnld\.apple\.com$
@@ -563,6 +566,7 @@
 ^dl\.dropbox\.com$
 ^dl\.dropboxusercontent\.com$
 ^dns\.msftncsi\.com$
+^download\.oxy\.cloud$
 ^download\.sonarr\.tv$
 ^download\.winzip\.com$
 ^dpm\.demdex\.net$

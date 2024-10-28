@@ -95,6 +95,7 @@ assets.ubuntu.com
 audioscrobbler.com
 babbel.com
 bam.nr-data.net
+banggood.com
 basicattentiontoken.org
 bbc.com
 beforeitsnews.com
@@ -260,6 +261,7 @@ dl.dropbox.com
 dl.dropboxusercontent.com
 dns.msftncsi.com
 dnswarden.com
+download.oxy.cloud
 download.sonarr.tv
 download.winzip.com
 dpm.demdex.net
@@ -405,6 +407,7 @@ img.purch.com
 img.transcoder.opera.com
 imgbox.com
 imgs.xkcd.com
+imgshare.info
 imgtaxi.com
 imgtown.pw
 imgview.pw

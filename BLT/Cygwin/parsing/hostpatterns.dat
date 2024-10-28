@@ -64,6 +64,7 @@ localhost$
 ^0\.0\.0\.0\s(www\.)?aspnetcdn\.com$
 ^0\.0\.0\.0\s(www\.)?audioscrobbler\.com$
 ^0\.0\.0\.0\s(www\.)?babbel\.com$
+^0\.0\.0\.0\s(www\.)?banggood\.com$
 ^0\.0\.0\.0\s(www\.)?basicattentiontoken\.org$
 ^0\.0\.0\.0\s(www\.)?bbc\.com$
 ^0\.0\.0\.0\s(www\.)?beforeitsnews\.com$
@@ -196,6 +197,7 @@ localhost$
 ^0\.0\.0\.0\s(www\.)?icscards\.nl$
 ^0\.0\.0\.0\s(www\.)?idol-dvd\.com$
 ^0\.0\.0\.0\s(www\.)?imgbox\.com$
+^0\.0\.0\.0\s(www\.)?imgshare\.info$
 ^0\.0\.0\.0\s(www\.)?imgtaxi\.com$
 ^0\.0\.0\.0\s(www\.)?imgtown\.pw$
 ^0\.0\.0\.0\s(www\.)?imgview\.pw$
@@ -447,6 +449,7 @@ localhost$
 ^0\.0\.0\.0\sapi\.parsely\.com$
 ^0\.0\.0\.0\sapi\.pluto\.tv$
 ^0\.0\.0\.0\sapi\.rollbar\.com$
+^0\.0\.0\.0\sapi-2-0\.spot\.im$
 ^0\.0\.0\.0\sapi\.twitter\.com$
 ^0\.0\.0\.0\sappboot\.netflix\.com$
 ^0\.0\.0\.0\sappldnld\.apple\.com$
@@ -579,6 +582,7 @@ localhost$
 ^0\.0\.0\.0\sdl\.dropbox\.com$
 ^0\.0\.0\.0\sdl\.dropboxusercontent\.com$
 ^0\.0\.0\.0\sdns\.msftncsi\.com$
+^0\.0\.0\.0\sdownload\.oxy\.cloud$
 ^0\.0\.0\.0\sdownload\.sonarr\.tv$
 ^0\.0\.0\.0\sdownload\.winzip\.com$
 ^0\.0\.0\.0\sdpm\.demdex\.net$
