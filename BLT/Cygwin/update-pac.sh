@@ -10,11 +10,11 @@ mkdir -p ~/BLT/pac
 cd ~/BLT/pac
 rm -f pac-* *.pac
 echo "Changed working directory and cleaned up old data. Now downloading new lists."
-wget -nv -O 1.pac "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/MD-ID-Fork.txt"
+wget -nv -O 1.pac "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/NoFormatting/AdditionalSuppleMini.txt"
 wget -nv -O 2.pac "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/disconnect_consolidated.txt"
-wget -nv -O 3.pac "https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt"
-wget -nv -O 4.pac "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=0&mimetype=plaintext"
-wget -nv -O 5.pac "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/piperun-hosts.txt"
+wget -nv -O 3.pac "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/Mirrors/yoyo.domains"
+wget -nv -O 4.pac "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/piperun-hosts.txt"
+wget -nv -O 5.pac "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/Mirrors/mvps.hosts"
 wget -nv -O 6.pac "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/adguard_mobile-hosts.txt"
 echo "Lists Downloaded. Now parsing..."
 sed -i '$a\' *.pac

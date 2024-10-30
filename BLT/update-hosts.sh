@@ -10,8 +10,8 @@ mkdir -p ~/BLT/hosts
 cd ~/BLT/hosts
 rm -f hosts.* *.final *.hosts newhosts.txt
 echo "Changed working directory and cleaned up old data. Now downloading new lists."
-wget -nv -O hosts.1 "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext"
-wget -nv -O hosts.2 "https://winhelp2002.mvps.org/hosts.txt"
+wget -nv -O hosts.1 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/Mirrors/yoyo.hosts"
+wget -nv -O hosts.2 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/Mirrors/mvps.hosts"
 wget -nv -O hosts.3 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/MD-ID-H-Fork.txt"
 wget -nv -O hosts.4 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/adguard_desktop-hosts.txt"
 wget -nv -O hosts.5 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/spam_404-hosts.txt"
@@ -21,7 +21,7 @@ wget -nv -O hosts.8 "https://raw.githubusercontent.com/bongochong/CombinedPrivac
 wget -nv -O hosts.9 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/adguard_dns-hosts.txt"
 wget -nv -O hosts.10 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/piperun-hosts.txt"
 wget -nv -O hosts.11 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/disconnect_consolidated.txt"
-wget -nv -O hosts.12 "https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts-online.txt"
+wget -nv -O hosts.12 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/Mirrors/urlhausonline.hosts"
 wget -nv -O hosts.13 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/AdditionalSupplementaryHosts.txt"
 echo "Lists Downloaded. Parsing data..."
 sed -i '$a\' hosts.*
