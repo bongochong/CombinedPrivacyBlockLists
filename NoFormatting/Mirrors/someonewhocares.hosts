@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sat, 19 Oct 2024 at 18:40:43 GMT
+# Last updated: Mon, 04 Nov 2024 at 01:39:23 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1678,6 +1678,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 amayaresorts.fr
 0.0.0.0 americankitchen.fr
 0.0.0.0 ams1.ib.adnxs.com
+0.0.0.0 ams2.rumourrubicon.com
 0.0.0.0 ancree.fr
 0.0.0.0 android.bigresource.com
 0.0.0.0 androiddev.orkitra.com
@@ -1864,6 +1865,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 canadapost-paymentservice.com
 0.0.0.0 canadapost-postescanada.uwpackege.top
 0.0.0.0 canadapost.helpdag.top
+0.0.0.0 canadapost.postescanadad.xyz
 0.0.0.0 canadapostarticle.com
 0.0.0.0 capitalregionusa.fr
 0.0.0.0 capostdelivery.com
@@ -6246,6 +6248,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 amrytt.adk2x.com
 0.0.0.0 ams1-ib.adnxs.com
 0.0.0.0 ams1-mobile.adnxs.com
+0.0.0.0 ams2.rumourobey.com
 0.0.0.0 amusun.com
 0.0.0.0 an.tacoda.net
 0.0.0.0 an.yandex.ru
@@ -7492,6 +7495,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 getmyads24.com
 0.0.0.0 getmyfreegiftcard.com
 0.0.0.0 getrelator.com
+0.0.0.0 getrunkhomuto.info
 0.0.0.0 getrxhere.co
 0.0.0.0 getspecialgifts.com
 0.0.0.0 getyour5kcredits0.blogspot.com
@@ -9491,7 +9495,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 statsie.com
 0.0.0.0 stephanie.tnctrx.com
 0.0.0.0 stocker.bonnint.net
-0.0.0.0 stoiximan.gr
 0.0.0.0 stompebi.link
 0.0.0.0 storage.softure.com
 0.0.0.0 storage.trafic.ro
@@ -9659,6 +9662,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 tmx.technoratimedia.com
 0.0.0.0 toads.osdn.com
 0.0.0.0 todayresearch.com
+0.0.0.0 toiletpaper.life
 0.0.0.0 tommasobuglioni.com
 0.0.0.0 tommysbookmarks.com
 0.0.0.0 tommysbookmarks.net

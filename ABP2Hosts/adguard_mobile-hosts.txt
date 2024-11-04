@@ -1,4 +1,4 @@
-# Mon Oct 28 07:04:49 PM UTC 2024
+# Mon Nov  4 03:26:54 AM UTC 2024
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -433,14 +433,17 @@
 0.0.0.0 ad.apsalar.com
 0.0.0.0 ad.atdmt.com
 0.0.0.0 ad.auditude.com
+0.0.0.0 ad.bandlab.io
 0.0.0.0 ad.buzzvil.com
 0.0.0.0 ad.cauly.co.kr
 0.0.0.0 ad.crwdcntrl.net
 0.0.0.0 ad.daum.net
+0.0.0.0 ad.deepthought.industries
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.duapps.com
 0.0.0.0 ad.flipboard.com
 0.0.0.0 ad.hot-mob.com
+0.0.0.0 ad.inston.ltd
 0.0.0.0 ad.iwhop.cn
 0.0.0.0 ad.jiguang.cn
 0.0.0.0 ad.jorte.com
@@ -645,7 +648,9 @@
 0.0.0.0 ads-c-1854119718.us-west-1.elb.amazonaws.com
 0.0.0.0 ads-chunks.prod.ihrhls.com
 0.0.0.0 ads-cloud.rovio.com
+0.0.0.0 ads-config-engine-noneu.truecaller.com
 0.0.0.0 ads-d.viber.com
+0.0.0.0 ads-delivery.gunosy.com
 0.0.0.0 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
 0.0.0.0 ads-gdl.imovideo.ru
 0.0.0.0 ads-interfaces.sc-cdn.net
@@ -690,6 +695,7 @@
 0.0.0.0 ads.bulldogcpi.com
 0.0.0.0 ads.celtra.com
 0.0.0.0 ads.cn.miaozhen.com
+0.0.0.0 ads.cocomobi.com
 0.0.0.0 ads.contentabc.com
 0.0.0.0 ads.creative-serving.com
 0.0.0.0 ads.dofunapps.com
@@ -962,7 +968,6 @@
 0.0.0.0 adx.g.doubleclick.net
 0.0.0.0 adx.hasmobi.net
 0.0.0.0 adx.lsosad.com
-0.0.0.0 adx.mossru.com
 0.0.0.0 adx2.adform.net
 0.0.0.0 adxadserv.com
 0.0.0.0 adxcallback.batmobi.net
@@ -1112,6 +1117,7 @@
 0.0.0.0 amplify.outbrain.com
 0.0.0.0 amplifypixel.outbrain.com
 0.0.0.0 amplitude.com
+0.0.0.0 amplitude.life360.com
 0.0.0.0 ampmetrics.techcrunch.com
 0.0.0.0 amprtc.media.net
 0.0.0.0 amptrack-dailymail-co-uk.cdn.ampproject.org
@@ -3392,6 +3398,7 @@
 0.0.0.0 decoroustitle.com
 0.0.0.0 decoycreation.com
 0.0.0.0 deeplink.mobileapptracking.com
+0.0.0.0 deeptack.com
 0.0.0.0 deerbeginner.com
 0.0.0.0 defeatedbadge.com
 0.0.0.0 defectivedress.com
@@ -3543,6 +3550,7 @@
 0.0.0.0 dogsshoes.com
 0.0.0.0 dollardelta.com
 0.0.0.0 dolldetail.com
+0.0.0.0 dollphoin.site
 0.0.0.0 donkeyleaf.com
 0.0.0.0 donnishsubgrin.com
 0.0.0.0 doorbrazil.com
@@ -3848,6 +3856,7 @@
 0.0.0.0 evbk.gamooga.com
 0.0.0.0 evening-badlands-6215.herokuapp.com
 0.0.0.0 event-collector.moviesanywhere.com
+0.0.0.0 event-dot-learning-piano.appspot.com
 0.0.0.0 event-search.jorte.com
 0.0.0.0 event-staging.inner-active.mobi
 0.0.0.0 event.allnews.uodoo.com
@@ -3902,6 +3911,7 @@
 0.0.0.0 events.simpli.fi
 0.0.0.0 events.split.io
 0.0.0.0 events.streamrail.net
+0.0.0.0 events.swiftlycontent.net
 0.0.0.0 events.swishapps.ai
 0.0.0.0 events.tabmo.io
 0.0.0.0 events.textme-app.com
@@ -4907,6 +4917,7 @@
 0.0.0.0 init.startappservice.com
 0.0.0.0 init.supersonicads.com
 0.0.0.0 inkrevenue.gotrackier.com
+0.0.0.0 inmense.site
 0.0.0.0 inmobi.cn
 0.0.0.0 inmobi.com
 0.0.0.0 inmobi.koneomobiledsp.com
@@ -4933,6 +4944,7 @@
 0.0.0.0 insight.ucweb.com
 0.0.0.0 insightexpressai.com
 0.0.0.0 insightexpressai.com.edgekey.net
+0.0.0.0 insights-categorizer-noneu.truecaller.com
 0.0.0.0 insights-collector.newrelic.com
 0.0.0.0 insights.bizrate.com
 0.0.0.0 insights.dice.com
@@ -5324,6 +5336,8 @@
 0.0.0.0 log.avlyun.com
 0.0.0.0 log.avlyun.sec.intl.miui.com
 0.0.0.0 log.bloodsugars.live
+0.0.0.0 log.cleandesigner.live
+0.0.0.0 log.cleanertoolboxonline.live
 0.0.0.0 log.down61.com
 0.0.0.0 log.dramaboxdb.com
 0.0.0.0 log.droid4x.cn
@@ -5495,6 +5509,7 @@
 0.0.0.0 mafo.adalliance.io
 0.0.0.0 magic.cmcm.com
 0.0.0.0 magicaljoin.com
+0.0.0.0 magicminibox.com
 0.0.0.0 magiczenith.com
 0.0.0.0 magnetairport.com
 0.0.0.0 magnetic.t.domdex.com
@@ -5847,6 +5862,7 @@
 0.0.0.0 morefriendly.com
 0.0.0.0 morgdm.ru
 0.0.0.0 morgdog.springserve.com
+0.0.0.0 mossru.com
 0.0.0.0 most-popular-info.g5e.com
 0.0.0.0 motionflowers.com
 0.0.0.0 motionlessbag.com
@@ -7007,7 +7023,6 @@
 0.0.0.0 report-stats.ad.jiguang.cn
 0.0.0.0 report.apkpure.net
 0.0.0.0 report.appmetrica.yandex.net
-0.0.0.0 report.iheartmedia.gbqofs.io
 0.0.0.0 reporting.aatkit.com
 0.0.0.0 reporting.tapstream.com
 0.0.0.0 reports.ubimo.com
@@ -9061,6 +9076,7 @@
 0.0.0.0 understoodocean.com
 0.0.0.0 unequalbrake.com
 0.0.0.0 unequaltrail.com
+0.0.0.0 unicontainers.com
 0.0.0.0 unicume.com
 0.0.0.0 unid.go.com
 0.0.0.0 unified.adsafeprotected.com
