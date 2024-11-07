@@ -3,8 +3,8 @@
 
 adl.windows.com
 c.msn.com
-cs.dds.microsoft.com
 choice.microsoft.com
+cs.dds.microsoft.com
 dev.virtualearth.net
 ecn.dev.virtualearth.net
 edge-enterprise.activity.windows.com
@@ -17,3 +17,6 @@ s0.2mdn.net
 self.events.data.microsoft.com
 www.msftncsi.com
 ztd.dds.microsoft.com
+##Randomly generated subdomains for Azure blobs##
+1oavsblobprodcus350.blob.core.windows.net
+37bvsblobprodcus311.blob.core.windows.net
