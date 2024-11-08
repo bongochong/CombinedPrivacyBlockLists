@@ -1,4 +1,4 @@
-# Mon Nov  4 03:26:54 AM UTC 2024
+# Fri Nov  8 02:23:38 AM UTC 2024
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -640,6 +640,7 @@
 0.0.0.0 adrouter-charter-vod.cadenttech.tv
 0.0.0.0 adrta.com
 0.0.0.0 ads-816899299.ap-southeast-1.elb.amazonaws.com
+0.0.0.0 ads-ap-venues.yinzcam.com
 0.0.0.0 ads-api-new-2052271615.ap-northeast-1.elb.amazonaws.com
 0.0.0.0 ads-api.kidsnote.com
 0.0.0.0 ads-api.twitter.com
@@ -5783,6 +5784,7 @@
 0.0.0.0 moatads.com.edgekey.net
 0.0.0.0 moatpixel1.edgekey.net
 0.0.0.0 mob2.healthapplines.com
+0.0.0.0 mob2.healthtrackergroup.com
 0.0.0.0 moba8.net
 0.0.0.0 mobad.ijinshan.com
 0.0.0.0 mobads.baidu.com

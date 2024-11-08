@@ -21,6 +21,7 @@
 0.0.0.0 0x00000000000.substack.com
 0.0.0.0 1-1ads.com
 0.0.0.0 1-2-money.com
+0.0.0.0 1-bmo-client-login.com
 0.0.0.0 10.afs.googleadservices.com
 0.0.0.0 100008436.collect.igodigital.com
 0.0.0.0 100022618.collect.igodigital.com
@@ -873,6 +874,7 @@
 0.0.0.0 actonservice.com
 0.0.0.0 actonsoftware.com
 0.0.0.0 actontv.122.2o7.net
+0.0.0.0 actoramusement.com
 0.0.0.0 actrk.me
 0.0.0.0 actualdeals.com
 0.0.0.0 actuallysheep.com
@@ -6507,6 +6509,8 @@
 0.0.0.0 amazonclix.com
 0.0.0.0 amazonhrhvh.112.2o7.net
 0.0.0.0 amazonhrhvhuat.112.2o7.net
+0.0.0.0 amazoni2.com
+0.0.0.0 amazonl0.com
 0.0.0.0 amazonl3.com
 0.0.0.0 amazonlogistics.jp
 0.0.0.0 amazonmerchants.122.2o7.net
@@ -6514,6 +6518,7 @@
 0.0.0.0 amazonshopbop.122.2o7.net
 0.0.0.0 amazonway.co
 0.0.0.0 amazonwebstore.122.2o7.net
+0.0.0.0 amazoul.site
 0.0.0.0 amazoul.xyz
 0.0.0.0 ambassadors.diorinsider.com
 0.0.0.0 amberstonebiocareers.com
@@ -8716,6 +8721,7 @@
 0.0.0.0 bebayb.cc
 0.0.0.0 bebi.com
 0.0.0.0 becanium.com
+0.0.0.0 becayg.com
 0.0.0.0 bechtle01.webtrekk.net
 0.0.0.0 bechtlemicrosite01.webtrekk.net
 0.0.0.0 beck01.webtrekk.net
@@ -9378,6 +9384,7 @@
 0.0.0.0 buscaapp.com
 0.0.0.0 bushesbag.com
 0.0.0.0 business-api.tiktok.com
+0.0.0.0 business-manager-report.com
 0.0.0.0 business-manange.com
 0.0.0.0 business.cleverads.vn
 0.0.0.0 business.guinnessworldrecords.com
@@ -10697,6 +10704,7 @@
 0.0.0.0 cloudmobi.net
 0.0.0.0 cloudsonicwave.com
 0.0.0.0 cloudsponcer.com
+0.0.0.0 cloudtrks.com
 0.0.0.0 clq.postaffiliatepro.com
 0.0.0.0 clrstm.com
 0.0.0.0 cls7.theushuaiaexperience.com
@@ -10860,7 +10868,6 @@
 0.0.0.0 coinwallet.biz
 0.0.0.0 col.mobileads.msn.com
 0.0.0.0 coldhardcash.com
-0.0.0.0 collapselauncher.space
 0.0.0.0 collect-ap2.attraqt.io
 0.0.0.0 collect-eu.attraqt.io
 0.0.0.0 collect-metrics.aquro.com
@@ -11072,7 +11079,6 @@
 0.0.0.0 comsss-56.com
 0.0.0.0 conackmar.com
 0.0.0.0 conad.com
-0.0.0.0 conceptualizereading.com
 0.0.0.0 concernedcondition.com
 0.0.0.0 concernrain.com
 0.0.0.0 concert.io
@@ -11708,6 +11714,7 @@
 0.0.0.0 cryptoblog.biz
 0.0.0.0 cryptoland.com
 0.0.0.0 cryptoloot.pro
+0.0.0.0 cryptomusk.io
 0.0.0.0 cryptosc.top
 0.0.0.0 cryptox-ads.io
 0.0.0.0 crystalboulevard.com
@@ -11885,6 +11892,7 @@
 0.0.0.0 d1.adsplay.net
 0.0.0.0 d11enq2rymy0yl.cloudfront.net
 0.0.0.0 d12czbu0tltgqq.cloudfront.net
+0.0.0.0 d12zgccgt6pwjz.cloudfront.net
 0.0.0.0 d135aysof2oufc.cloudfront.net
 0.0.0.0 d13k7prax1yi04.cloudfront.net
 0.0.0.0 d13nu0oomnx5ti.cloudfront.net
@@ -11898,7 +11906,11 @@
 0.0.0.0 d1ezlc9vy4yc7g.cloudfront.net
 0.0.0.0 d1f05vr3sjsuy7.cloudfront.net
 0.0.0.0 d1fc8wv8zag5ca.cloudfront.net
+0.0.0.0 d1ftkft7iiluq6.cloudfront.net
+0.0.0.0 d1i1d9hx0883rq.cloudfront.net
+0.0.0.0 d1ieffz9zqrn09.cloudfront.net
 0.0.0.0 d1miuq6afqay8u.cloudfront.net
+0.0.0.0 d1myn4ixnn41tz.cloudfront.net
 0.0.0.0 d1n00d49gkbray.cloudfront.net
 0.0.0.0 d1nssfq3xl2t6b.cloudfront.net
 0.0.0.0 d1om9znyumzhxf.cloudfront.net
@@ -11962,10 +11974,12 @@
 0.0.0.0 d361oi6ppvq2ym.cloudfront.net
 0.0.0.0 d38fey2d93vryi.cloudfront.net
 0.0.0.0 d38psrni17bvxu.cloudfront.net
+0.0.0.0 d390icj1ta4x0p.cloudfront.net
 0.0.0.0 d3anogn3pbtk4v.cloudfront.net
 0.0.0.0 d3beefy8kd1pr7.cloudfront.net
 0.0.0.0 d3cod80thn7qnd.cloudfront.net
 0.0.0.0 d3cpib6kv2rja7.cloudfront.net
+0.0.0.0 d3ept9mddcbuhi.cloudfront.net
 0.0.0.0 d3eub2e21dc6h0.cloudfront.net
 0.0.0.0 d3f4nuq5dskrej.cloudfront.net
 0.0.0.0 d3g5ovfngjw9bw.cloudfront.net
@@ -11982,11 +11996,13 @@
 0.0.0.0 d3rjndf2qggsna.cloudfront.net
 0.0.0.0 d3rt1990lpmkn.cloudfront.net
 0.0.0.0 d3rt199lpmkn.cloudfront.net
+0.0.0.0 d3srxd2wvksmqd.cloudfront.net
 0.0.0.0 d3v3bqdndm4erx.cloudfront.net
 0.0.0.0 d4.adsplay.net
 0.0.0.0 d5.adsplay.net
 0.0.0.0 d6.adsplay.net
 0.0.0.0 d8yfr7.com
+0.0.0.0 d9cshxmf0qazr.cloudfront.net
 0.0.0.0 da-ads.com
 0.0.0.0 da-cdn.amazon-adsystem.com
 0.0.0.0 da.hornbach.de
@@ -12029,6 +12045,7 @@
 0.0.0.0 daque.cn
 0.0.0.0 darceybusselldirect.com
 0.0.0.0 dardenrestaurants.112.2o7.net
+0.0.0.0 dareka4te.shop
 0.0.0.0 dark-utilities.me
 0.0.0.0 dark-utilities.pw
 0.0.0.0 dark-utilities.xyz
@@ -12654,6 +12671,7 @@
 0.0.0.0 doga.cm
 0.0.0.0 dogehype.com
 0.0.0.0 dogus-ads-cdn.dygdigital.com
+0.0.0.0 dojy0dg181308.cloudfront.net
 0.0.0.0 dokei777.com
 0.0.0.0 dolatiaschan.com
 0.0.0.0 dolcitalia01.wt-eu02.net
@@ -12835,9 +12853,11 @@
 0.0.0.0 dtv5loup63fac.cloudfront.net
 0.0.0.0 dtylhedgelnham.com
 0.0.0.0 du0.jp
+0.0.0.0 du002iv2rxh4h.cloudfront.net
 0.0.0.0 du0pud0sdlmzf.cloudfront.net
 0.0.0.0 dualstack-logs.amap.com
 0.0.0.0 dub.mobileads.msn.com
+0.0.0.0 duh0b8nl8uhfn.cloudfront.net
 0.0.0.0 dulge9.com
 0.0.0.0 dummy.112.2o7.net
 0.0.0.0 dunabear.com
@@ -13101,6 +13121,7 @@
 0.0.0.0 ebase01.wt-eu02.net
 0.0.0.0 ebay-european.com
 0.0.0.0 ebay-shopprogj.com
+0.0.0.0 ebay-supplier.shop
 0.0.0.0 ebay.doubleclick.net
 0.0.0.0 ebay839.cc
 0.0.0.0 ebayadvertising.com
@@ -13162,6 +13183,7 @@
 0.0.0.0 ecdn30.eulerian.net
 0.0.0.0 ecdn31.eulerian.net
 0.0.0.0 ecdn32.eulerian.net
+0.0.0.0 echeloncheats.space
 0.0.0.0 ecircle-ag.com
 0.0.0.0 eclick.vn
 0.0.0.0 eclipse-adblocker.pro
@@ -14156,6 +14178,7 @@
 0.0.0.0 exasol01.webtrekk.net
 0.0.0.0 exceklcmicrosftprotection.pages.dev
 0.0.0.0 exchange-it.com
+0.0.0.0 exchange-mlbb.go-midfer.com
 0.0.0.0 exchange.add-solution.de
 0.0.0.0 exchange.adkernel.com
 0.0.0.0 exchange.adop.cc
@@ -14505,6 +14528,7 @@
 0.0.0.0 ffxcam.fairfax.com.au
 0.0.0.0 ffxitrack.com
 0.0.0.0 fglrgt.ruggable.com
+0.0.0.0 fhkjgkh.top
 0.0.0.0 fhm.degearwom.de
 0.0.0.0 fhpro.in
 0.0.0.0 fidelity-media-ssp.rtb.adx1.com
@@ -14953,6 +14977,7 @@
 0.0.0.0 freesexmatch.com
 0.0.0.0 freeshot.info
 0.0.0.0 freeskreen.com
+0.0.0.0 freesoftwarecreative.com
 0.0.0.0 freestats.com
 0.0.0.0 freestats.tv
 0.0.0.0 freetoadvertise.biz
@@ -18452,6 +18477,7 @@
 0.0.0.0 jurty.ml
 0.0.0.0 just1ce.net
 0.0.0.0 justbigso.com
+0.0.0.0 justdakota.top
 0.0.0.0 justicejudo.com
 0.0.0.0 justpremium.com
 0.0.0.0 justredirect25.com
@@ -19661,7 +19687,6 @@
 0.0.0.0 loka-cdn.akamaized.net
 0.0.0.0 lokasjc.cfd
 0.0.0.0 lokuracristiana.com
-0.0.0.0 lolkekdumped228.github.io
 0.0.0.0 lologhfd.com
 0.0.0.0 lomogd.com
 0.0.0.0 lona.nend.net
@@ -19887,6 +19912,7 @@
 0.0.0.0 maad.maru.jp
 0.0.0.0 macads.net
 0.0.0.0 macbellads.com
+0.0.0.0 macgsapptrck.com
 0.0.0.0 macgyver.webtrekk.com
 0.0.0.0 machi-match.info
 0.0.0.0 machieved.com
@@ -25762,6 +25788,7 @@
 0.0.0.0 personagraph.com
 0.0.0.0 pertholin.com
 0.0.0.0 perueckenstudio-fuerth.de
+0.0.0.0 peruiasm.com
 0.0.0.0 perutzxrqe.ru.com
 0.0.0.0 petakfc.112.2o7.net
 0.0.0.0 petamain.112.2o7.net
@@ -27925,6 +27952,7 @@
 0.0.0.0 sanmarinophoto01.webtrekk.net
 0.0.0.0 sanseemp.com
 0.0.0.0 santacruzsentinelcom.112.2o7.net
+0.0.0.0 santanderstaging.interviewtoolkit.io
 0.0.0.0 sapjp.com
 0.0.0.0 sard1.com
 0.0.0.0 saspreview.com
@@ -28410,6 +28438,7 @@
 0.0.0.0 services.wes.df.telemetry.microsoft.com
 0.0.0.0 services1.adtech.fr
 0.0.0.0 services1.adtech.us
+0.0.0.0 servicewebformoes.weebly.com
 0.0.0.0 serving-ad.tv24.vn
 0.0.0.0 serving-sys.com
 0.0.0.0 serving-system.com
@@ -29113,7 +29142,6 @@
 0.0.0.0 smibs.112.2o7.net
 0.0.0.0 smileycentral.com
 0.0.0.0 smilingcattle.com
-0.0.0.0 smilingshake.com
 0.0.0.0 smilingwaves.com
 0.0.0.0 smism.jp
 0.0.0.0 smmax.jp
@@ -29184,7 +29212,6 @@
 0.0.0.0 sofa01.webtrekk.net
 0.0.0.0 sofia.trustx.org
 0.0.0.0 sofmap.112.2o7.net
-0.0.0.0 soft-pro.site
 0.0.0.0 softbankbb.122.2o7.net
 0.0.0.0 softbanktechnology.112.2o7.net
 0.0.0.0 softclick.com.br
@@ -32710,6 +32737,7 @@
 0.0.0.0 upgrade.scdn.co
 0.0.0.0 upgrade.scdn.com
 0.0.0.0 upgrade.spotify.com
+0.0.0.0 upgradeyourspotify.cc
 0.0.0.0 upi.112.2o7.net
 0.0.0.0 upi.adblade.com
 0.0.0.0 upload.adtech.fr
@@ -33024,7 +33052,6 @@
 0.0.0.0 vertadnet.com
 0.0.0.0 verticalmass.com
 0.0.0.0 vertiselevadores.com.br
-0.0.0.0 veruscheats.site
 0.0.0.0 veruta.com
 0.0.0.0 verve-api.advangelists.com
 0.0.0.0 vervewireless.com
@@ -33496,6 +33523,7 @@
 0.0.0.0 w7.hitbox.com
 0.0.0.0 w8.hitbox.com
 0.0.0.0 w9.hitbox.com
+0.0.0.0 wa-groupbebe.pages.dev
 0.0.0.0 wa-nago-wagona.com
 0.0.0.0 wa-track.com
 0.0.0.0 wa-wdr.wt-eu02.net
@@ -33565,6 +33593,7 @@
 0.0.0.0 wdr9.inseec.com
 0.0.0.0 we-stats.com
 0.0.0.0 we.wecanimal.pt
+0.0.0.0 wearbasin.com
 0.0.0.0 weareknitters.co.uk
 0.0.0.0 weareknitters.com
 0.0.0.0 weareknitters.de
