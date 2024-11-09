@@ -1,4 +1,4 @@
-# Fri Nov  8 02:32:05 AM UTC 2024
+# Sat Nov  9 01:25:04 PM UTC 2024
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -2799,7 +2799,6 @@
 0.0.0.0 clk.solocpm.com
 0.0.0.0 clk.taptica.com
 0.0.0.0 clkdeals.com
-0.0.0.0 clkfeed.com
 0.0.0.0 clog.mirrativ.com
 0.0.0.0 cloisteredcord.com
 0.0.0.0 cloisteredcurve.com
@@ -4884,7 +4883,6 @@
 0.0.0.0 inapps.appsflyersdk.com
 0.0.0.0 inbbredraxing.com
 0.0.0.0 inc2.igexin.com
-0.0.0.0 inclk.com
 0.0.0.0 incomehippo.com
 0.0.0.0 incoming-data-sense360.s3.amazonaws.com
 0.0.0.0 incoming.bm23.com
@@ -7628,7 +7626,6 @@
 0.0.0.0 setting.adzcore.com
 0.0.0.0 setting.rayjump.com
 0.0.0.0 settleshoes.com
-0.0.0.0 sexpennyauctions.com
 0.0.0.0 sf.bizible.com
 0.0.0.0 sf16-telemetry-proxy-oci.tiktokcdn-us.com
 0.0.0.0 sfo1.ipromote.com

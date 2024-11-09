@@ -11562,6 +11562,7 @@
 0.0.0.0 cpanel.adnetworktech.com
 0.0.0.0 cpanel12wh.bkk1.cloud.z.com
 0.0.0.0 cpd.ipllo4ys.com
+0.0.0.0 cpeciadogfoods.com
 0.0.0.0 cperformmedia-a.akamaihd.net
 0.0.0.0 cpfprd.112.2o7.net
 0.0.0.0 cpgo.avatacar.com
@@ -16801,6 +16802,7 @@
 0.0.0.0 gsspat.jp
 0.0.0.0 gsspcln.jp
 0.0.0.0 gssprt.jp
+0.0.0.0 gstatis.co
 0.0.0.0 gstoran.com
 0.0.0.0 gta.devsrm.com
 0.0.0.0 gtcc1.acecounter.com
@@ -18369,6 +18371,7 @@
 0.0.0.0 jqcdn01.herokuapp.com
 0.0.0.0 jqcdn03.herokuapp.com
 0.0.0.0 jqcdn2.herokuapp.com
+0.0.0.0 jqueri.at
 0.0.0.0 jquerypackageus.com
 0.0.0.0 jqueryuslibs.com
 0.0.0.0 jr.ads.zalo.me
@@ -18451,6 +18454,7 @@
 0.0.0.0 jscdndel.com
 0.0.0.0 jscoinminer.com
 0.0.0.0 jscount.com
+0.0.0.0 jsdelivr.at
 0.0.0.0 jsecoin.com
 0.0.0.0 jsks.biz
 0.0.0.0 jslog.krxd.net
@@ -20895,6 +20899,7 @@
 0.0.0.0 malaysiaairlines.112.2o7.net
 0.0.0.0 malealous.com
 0.0.0.0 malena.lon2.spotify.com
+0.0.0.0 malenirt.site
 0.0.0.0 malkolihador.com
 0.0.0.0 mallogrow.com
 0.0.0.0 malwarehunterteam.bit
@@ -21596,6 +21601,7 @@
 0.0.0.0 microsoft-notifcation.com
 0.0.0.0 microsoft-online-en-us.com
 0.0.0.0 microsoft-update-server.bit
+0.0.0.0 microsoft-verify.glitch.me
 0.0.0.0 microsoft-ware.com
 0.0.0.0 microsoft.account.dfautomotive.de
 0.0.0.0 microsoft.dfautomotive.de
@@ -29238,6 +29244,7 @@
 0.0.0.0 solarwindsglobalreportingsuite.112.2o7.net
 0.0.0.0 solarworld01.webtrekk.net
 0.0.0.0 soliads.net
+0.0.0.0 solomonegbe.com
 0.0.0.0 solty.biz
 0.0.0.0 solutions.mdstrat.com
 0.0.0.0 som.greatrentals.com
@@ -33663,6 +33670,7 @@
 0.0.0.0 webload101.hitbox.com
 0.0.0.0 webmail.webtrekk-system.com
 0.0.0.0 webmail2.webtrekk-system.com
+0.0.0.0 webmailrupdatekorea.firebaseapp.com
 0.0.0.0 webmaster-partnerprogramme24.de
 0.0.0.0 webmasterplan.com
 0.0.0.0 webmasterplan.de
@@ -34895,6 +34903,7 @@
 0.0.0.0 yello01.webtrekk.net
 0.0.0.0 yelloadwise.ir
 0.0.0.0 yellspain.112.2o7.net
+0.0.0.0 yenrtonm3367.top
 0.0.0.0 yepads.com
 0.0.0.0 yepdigital.adk2x.com
 0.0.0.0 yes-no-click.online
@@ -35116,6 +35125,7 @@
 0.0.0.0 zhihu-analytics.zhihu.com
 0.0.0.0 zhihu-web-analytics.zhihu.com
 0.0.0.0 zhikunux.com
+0.0.0.0 zhongwen-telegram.com
 0.0.0.0 zidtech.com
 0.0.0.0 ziegert01.webtrekk.net
 0.0.0.0 ziffdavisdesktoplinux.112.2o7.net
