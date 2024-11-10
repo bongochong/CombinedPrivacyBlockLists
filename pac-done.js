@@ -1,4 +1,4 @@
-// **** Sat Nov  9 01:31:50 PM UTC 2024
+// **** Sun Nov 10 04:21:57 AM UTC 2024
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.00689.net") ||
@@ -9604,6 +9604,7 @@ shExpMatch(host, "*.cny.yoyo.org") ||
 shExpMatch(host, "*.cnyc99.com") ||
 shExpMatch(host, "*.co2stats.com") ||
 shExpMatch(host, "*.coachquartz.com") ||
+shExpMatch(host, "*.coalkitchen.com") ||
 shExpMatch(host, "*.coatbig.info") ||
 shExpMatch(host, "*.coatfood.com") ||
 shExpMatch(host, "*.cobalten.com") ||
@@ -13726,6 +13727,7 @@ shExpMatch(host, "*.gghut.com") ||
 shExpMatch(host, "*.gglcash4u.info") ||
 shExpMatch(host, "*.ghaddrug.com") ||
 shExpMatch(host, "*.ghochv3eng.trafficmanager.net") ||
+shExpMatch(host, "*.ghostgenie.com") ||
 shExpMatch(host, "*.gi-client-tracking.goodgamestudios.com") ||
 shExpMatch(host, "*.gi7a.structube.com") ||
 shExpMatch(host, "*.giamcannhatban.com") ||
@@ -21515,6 +21517,7 @@ shExpMatch(host, "*.phoenix-adrunner.mycomputer.com") ||
 shExpMatch(host, "*.phoenixad.io") ||
 shExpMatch(host, "*.phoenixads.co.in") ||
 shExpMatch(host, "*.phone-analyzer.com") ||
+shExpMatch(host, "*.phonicsblitz.com") ||
 shExpMatch(host, "*.phonograph2.voxmedia.com") ||
 shExpMatch(host, "*.phonroid.com") ||
 shExpMatch(host, "*.phooghoo.com") ||
@@ -24222,6 +24225,7 @@ shExpMatch(host, "*.skmssc.icu") ||
 shExpMatch(host, "*.skollett.site") ||
 shExpMatch(host, "*.skroutza.skroutz.gr") ||
 shExpMatch(host, "*.skt-asum.com") ||
+shExpMatch(host, "*.skullmagnets.com") ||
 shExpMatch(host, "*.sky567o.fun") ||
 shExpMatch(host, "*.skyadsmart.com") ||
 shExpMatch(host, "*.skylink.vn") ||
@@ -25109,6 +25113,7 @@ shExpMatch(host, "*.startapp.com") ||
 shExpMatch(host, "*.startappnetwork.com") ||
 shExpMatch(host, "*.startappservice.com") ||
 shExpMatch(host, "*.startdigitaal.nl") ||
+shExpMatch(host, "*.startercost.com") ||
 shExpMatch(host, "*.startingcars.com") ||
 shExpMatch(host, "*.startpageb.com") ||
 shExpMatch(host, "*.startup-mobile.ap.yandex-net.ru") ||
@@ -39548,6 +39553,7 @@ shExpMatch(host, "cny.yoyo.org") ||
 shExpMatch(host, "cnyc99.com") ||
 shExpMatch(host, "co2stats.com") ||
 shExpMatch(host, "coachquartz.com") ||
+shExpMatch(host, "coalkitchen.com") ||
 shExpMatch(host, "coatbig.info") ||
 shExpMatch(host, "coatfood.com") ||
 shExpMatch(host, "cobalten.com") ||
@@ -43670,6 +43676,7 @@ shExpMatch(host, "gghut.com") ||
 shExpMatch(host, "gglcash4u.info") ||
 shExpMatch(host, "ghaddrug.com") ||
 shExpMatch(host, "ghochv3eng.trafficmanager.net") ||
+shExpMatch(host, "ghostgenie.com") ||
 shExpMatch(host, "gi-client-tracking.goodgamestudios.com") ||
 shExpMatch(host, "gi7a.structube.com") ||
 shExpMatch(host, "giamcannhatban.com") ||
@@ -51459,6 +51466,7 @@ shExpMatch(host, "phoenix-adrunner.mycomputer.com") ||
 shExpMatch(host, "phoenixad.io") ||
 shExpMatch(host, "phoenixads.co.in") ||
 shExpMatch(host, "phone-analyzer.com") ||
+shExpMatch(host, "phonicsblitz.com") ||
 shExpMatch(host, "phonograph2.voxmedia.com") ||
 shExpMatch(host, "phonroid.com") ||
 shExpMatch(host, "phooghoo.com") ||
@@ -54166,6 +54174,7 @@ shExpMatch(host, "skmssc.icu") ||
 shExpMatch(host, "skollett.site") ||
 shExpMatch(host, "skroutza.skroutz.gr") ||
 shExpMatch(host, "skt-asum.com") ||
+shExpMatch(host, "skullmagnets.com") ||
 shExpMatch(host, "sky567o.fun") ||
 shExpMatch(host, "skyadsmart.com") ||
 shExpMatch(host, "skylink.vn") ||
@@ -55053,6 +55062,7 @@ shExpMatch(host, "startapp.com") ||
 shExpMatch(host, "startappnetwork.com") ||
 shExpMatch(host, "startappservice.com") ||
 shExpMatch(host, "startdigitaal.nl") ||
+shExpMatch(host, "startercost.com") ||
 shExpMatch(host, "startingcars.com") ||
 shExpMatch(host, "startpageb.com") ||
 shExpMatch(host, "startup-mobile.ap.yandex-net.ru") ||
