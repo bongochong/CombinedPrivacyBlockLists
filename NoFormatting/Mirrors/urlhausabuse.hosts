@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: 2024-11-09T12:09:09Z
+# Updated: 2024-11-10T00:10:23Z
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/malware-filter/urlhaus-filter
 # License: https://gitlab.com/malware-filter/urlhaus-filter#license
@@ -15,6 +15,7 @@
 0.0.0.0 1312services.ru
 0.0.0.0 13194.funian.life
 0.0.0.0 139520.aioc.qbgxl.com
+0.0.0.0 14stirling.dyndns.org
 0.0.0.0 162-19-214-220-10cdn.eyeohost.net
 0.0.0.0 162-19-214-220-11cdn.eyeohost.net
 0.0.0.0 162-19-214-220-12cdn.eyeohost.net
@@ -126,6 +127,7 @@
 0.0.0.0 aarzoomarine.com
 0.0.0.0 aav3.dyndns.tv
 0.0.0.0 abc.sdnt.xyz
+0.0.0.0 abissnet.net
 0.0.0.0 absa.ceprone.com
 0.0.0.0 academistrasbourg.duckdns.org
 0.0.0.0 access-htaccess.com
@@ -260,11 +262,9 @@
 0.0.0.0 az200.net
 0.0.0.0 azczxs.from-nd.com
 0.0.0.0 azure-getrequest.icu
-0.0.0.0 b2b.dev.odse.it
 0.0.0.0 b46.oss-cn-hongkong.aliyuncs.com
 0.0.0.0 babaszepsegverseny.hu
 0.0.0.0 bafybeicnmx2fcaolinpdaiqjo7hgsourg3qzaxf57psdrbqic4qrm4pf3i.ipfs.dweb.link
-0.0.0.0 bafybeicoo7kwhmnl6q7prd65aimf5byzrihrklgviebm2pkyzyepdaigf4.ipfs.dweb.link
 0.0.0.0 bafybeihxqop3q2g3f6dd6ermzqn3xg7jbtz762papo5eye2nermqothtie.ipfs.nftstorage.link
 0.0.0.0 bahrabeauty.com
 0.0.0.0 baidu.honker.inf
@@ -323,6 +323,7 @@
 0.0.0.0 bot.mypowers.top
 0.0.0.0 bot.nianlun-vps.xyz
 0.0.0.0 bot.proxies.codes
+0.0.0.0 bot.proy.lol
 0.0.0.0 bota.lolzone.lol
 0.0.0.0 botnet.abcyxz.lol
 0.0.0.0 botnet.app
@@ -534,6 +535,7 @@
 0.0.0.0 deco-properties.com
 0.0.0.0 dedecms.xueshenit.com
 0.0.0.0 dedify.de
+0.0.0.0 defgyma.com
 0.0.0.0 defrasystem.it
 0.0.0.0 delikral.mywire.org
 0.0.0.0 demo-zilk.ceprone.com
@@ -556,7 +558,6 @@
 0.0.0.0 dev-seharhbjhk.pantheonsite.io
 0.0.0.0 dev-shafin321.pantheonsite.io
 0.0.0.0 dev-skbfc.pantheonsite.io
-0.0.0.0 dev.odse.it
 0.0.0.0 dev.uim.org.in
 0.0.0.0 developer.creativefocusmediainc.com
 0.0.0.0 dewatabalirental.com
@@ -853,6 +854,7 @@
 0.0.0.0 gigav1.b-cdn.net
 0.0.0.0 giorja.com
 0.0.0.0 girlsgifs.com
+0.0.0.0 gitae.strategies.mvpstrat.com
 0.0.0.0 github-scanner.com
 0.0.0.0 github-scanner.shop
 0.0.0.0 gitshare.org
@@ -1005,7 +1007,6 @@
 0.0.0.0 invasion-prisoners-inns-aging.trycloudflare.com
 0.0.0.0 invictaindia.com
 0.0.0.0 invoiceposs.shop
-0.0.0.0 ip193.ip-146-59-161.eu
 0.0.0.0 ip207.ip-91-121-59.eu
 0.0.0.0 ipoil.contest.printondemandmerchandise.com
 0.0.0.0 ipos.mycpanel.rs
@@ -1115,7 +1116,6 @@
 0.0.0.0 lgbt.contest.printondemandmerchandise.com
 0.0.0.0 lgservice.smithup.site
 0.0.0.0 lhc.therapy.emergencepsychservices.com
-0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 lide.omernisar.com
 0.0.0.0 lifesuma.com
 0.0.0.0 limacamposadv.online
@@ -1276,6 +1276,7 @@
 0.0.0.0 n.ddnsgratis.com.br
 0.0.0.0 n3m6x.app.goo.gl
 0.0.0.0 nahcamargo.com.br
+0.0.0.0 namthaibinh.net
 0.0.0.0 nasionaltv.com
 0.0.0.0 navam.pro
 0.0.0.0 navigation-anti-bot-windows.com
@@ -1364,6 +1365,7 @@
 0.0.0.0 opolis.io
 0.0.0.0 oporevittosa.us
 0.0.0.0 orange-loris-425181.hostingersite.com
+0.0.0.0 ordai.quest
 0.0.0.0 ordenata.org
 0.0.0.0 orderhangthai.com
 0.0.0.0 orgin.ajieapi.top
@@ -1392,7 +1394,6 @@
 0.0.0.0 paguesafe.space
 0.0.0.0 pakistanchurchplanting.com
 0.0.0.0 pala.demolistesi.com
-0.0.0.0 palharesinformatica.com.br
 0.0.0.0 panel.mrgarabato.com
 0.0.0.0 panel.v2ryang.ydns.eu
 0.0.0.0 pang-scrooge-carnage.shop
@@ -1562,6 +1563,7 @@
 0.0.0.0 rqjt.contest.printondemandmerchandise.com
 0.0.0.0 rrnkw.range.cccinvolve.org
 0.0.0.0 ru3w2.com
+0.0.0.0 rulj.strategies.mvpstrat.com
 0.0.0.0 russia.infinyx.us
 0.0.0.0 rustmacro.ru
 0.0.0.0 ruterk.com
@@ -1675,7 +1677,6 @@
 0.0.0.0 shippingalerts.online
 0.0.0.0 shka.therapy.emergencepsychservices.com
 0.0.0.0 shop.fixed.zone
-0.0.0.0 shopfiy.org
 0.0.0.0 shopping-nice.com
 0.0.0.0 showmest.site
 0.0.0.0 shqdown.ggzuhao.com
@@ -1707,7 +1708,6 @@
 0.0.0.0 soft.wsyhn.com
 0.0.0.0 soft93.eu.org
 0.0.0.0 softbank126023203236.bbtec.net
-0.0.0.0 softcatalog.ru
 0.0.0.0 softdl.360tpcdn.com
 0.0.0.0 softiq.ro
 0.0.0.0 softonic-pc.ru
@@ -1752,7 +1752,6 @@
 0.0.0.0 ssn.house.zionanakwenze.com
 0.0.0.0 stagingbyvdveen.com
 0.0.0.0 stak.pages.dev
-0.0.0.0 starcountry.net
 0.0.0.0 starforgemirai.duckdns.org
 0.0.0.0 startling-daffodil-420b77.netlify.app
 0.0.0.0 static-100-1-226-154.nwrknj.fios.verizon.net
@@ -1897,7 +1896,6 @@
 0.0.0.0 ttykok.320.io
 0.0.0.0 ttz111.b-cdn.net
 0.0.0.0 turcu-remixerr-api-test.yuno.dev
-0.0.0.0 tuxwe.donors.eucharisticjesus.net
 0.0.0.0 tvezx20vt.top
 0.0.0.0 twomicro.b-cdn.net
 0.0.0.0 tx11.b-cdn.net
@@ -1974,7 +1972,6 @@
 0.0.0.0 vgsfree.b-cdn.net
 0.0.0.0 vgtgq.house.zionanakwenze.com
 0.0.0.0 viewifydocs.com
-0.0.0.0 vigtas.info
 0.0.0.0 vilink.co.ke
 0.0.0.0 villasara974.com
 0.0.0.0 vinsaca.com
@@ -1994,7 +1991,6 @@
 0.0.0.0 vpn911645173.softether.net
 0.0.0.0 vps-5fc33f45.vps.ovh.ca
 0.0.0.0 vptriathloninc.com
-0.0.0.0 vrgj.donors.eucharisticjesus.net
 0.0.0.0 vrh.contest.printondemandmerchandise.com
 0.0.0.0 vryv.free.thebitmeister.com
 0.0.0.0 w1shmarket.top
@@ -2050,6 +2046,7 @@
 0.0.0.0 www2.dawxmlpdfs.com
 0.0.0.0 www999999asgasg-1327129302.cos.ap-chengdu.myqcloud.com
 0.0.0.0 www999999safagqwhg-1327129302.cos.ap-chengdu.myqcloud.com
+0.0.0.0 wynecare.com
 0.0.0.0 xemhang.vn
 0.0.0.0 xemir.pw
 0.0.0.0 xf.mzwh6.ru.com
@@ -2100,6 +2097,7 @@
 0.0.0.0 yyhyhy.simple-url.com
 0.0.0.0 yyk.roadrunnersell.com
 0.0.0.0 yzkzixun.com
+0.0.0.0 z.shavsl.com
 0.0.0.0 z194668-ex70k.ps02.zwhhosting.com
 0.0.0.0 zadaravstvai.shop
 0.0.0.0 zakariya-ayt-amran.github.io

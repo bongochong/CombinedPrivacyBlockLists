@@ -1,4 +1,4 @@
-# Sat Nov  9 01:26:00 PM UTC 2024
+# Sun Nov 10 04:11:21 AM UTC 2024
 # AdGuard DNS Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 0.myikas.com
@@ -7542,6 +7542,7 @@
 0.0.0.0 azartplay.com
 0.0.0.0 azbaclxror.com
 0.0.0.0 azbns.com
+0.0.0.0 azcmcacuc.com
 0.0.0.0 azenco.xyz
 0.0.0.0 azenka.one
 0.0.0.0 azera-s014.com
@@ -7951,6 +7952,7 @@
 0.0.0.0 banthang.me
 0.0.0.0 banvoucher-vn.weeblysite.com
 0.0.0.0 banzaiadv.it
+0.0.0.0 baobabsruesome.com
 0.0.0.0 baohanhdienmayxanhvn.com
 0.0.0.0 baohiemvietinbank.com
 0.0.0.0 baohiemxahoi.vnagov.com
@@ -12658,6 +12660,7 @@
 0.0.0.0 conative.network
 0.0.0.0 concealedcredulous.com
 0.0.0.0 concealmentbrainpower.com
+0.0.0.0 concedederaserskyline.com
 0.0.0.0 conceitedfedapple.com
 0.0.0.0 conceivedtowards.com
 0.0.0.0 concentrationmajesticshoot.com
@@ -12788,6 +12791,7 @@
 0.0.0.0 consistedlovedstimulate.com
 0.0.0.0 consistpromised.com
 0.0.0.0 consmo.net
+0.0.0.0 consolationgratitudeunwise.com
 0.0.0.0 console.uxlens.com
 0.0.0.0 consoupow.com
 0.0.0.0 conspiracyore.com
@@ -20128,6 +20132,7 @@
 0.0.0.0 floatingbile.com
 0.0.0.0 floatingdrake.com
 0.0.0.0 floccischlump.com
+0.0.0.0 flockexecute.com
 0.0.0.0 flockinjim.com
 0.0.0.0 flogpointythirteen.com
 0.0.0.0 floitcarites.com
@@ -21847,6 +21852,7 @@
 0.0.0.0 gkeolwi.icu
 0.0.0.0 gkktjf.top
 0.0.0.0 gklox.cn
+0.0.0.0 gkrtgrcquwttq.xyz
 0.0.0.0 gkrtmc.com
 0.0.0.0 gkswas.xyz
 0.0.0.0 gkutca.xyz
@@ -23034,6 +23040,7 @@
 0.0.0.0 haixomz.xyz
 0.0.0.0 hajoopteg.com
 0.0.0.0 hakeemmuffled.top
+0.0.0.0 hakqkhtlav.com
 0.0.0.0 haksaigho.com
 0.0.0.0 halal.ad
 0.0.0.0 halbertduffed.top
@@ -27004,6 +27011,7 @@
 0.0.0.0 jwerioa.top
 0.0.0.0 jwfesuk.cn
 0.0.0.0 jwhdgt.icu
+0.0.0.0 jwhjqjfl.icu
 0.0.0.0 jwia0.top
 0.0.0.0 jwjzf.online
 0.0.0.0 jwmstats.com
@@ -27222,6 +27230,7 @@
 0.0.0.0 kdsahkln.xyz
 0.0.0.0 kdsf11.com
 0.0.0.0 kdsk32lfa.xyz
+0.0.0.0 kdzgrvn.icu
 0.0.0.0 keajs.com
 0.0.0.0 kebeckirgon.net
 0.0.0.0 kebi1.top
@@ -28346,6 +28355,7 @@
 0.0.0.0 lby2kd27c.com
 0.0.0.0 lc2ads.ru
 0.0.0.0 lcads.ru
+0.0.0.0 lcd.aivote.com
 0.0.0.0 lcefsf.icu
 0.0.0.0 lcfooiqhro.com
 0.0.0.0 lciapi.ninthdecimal.com
@@ -29893,6 +29903,7 @@
 0.0.0.0 lust-goddess.buzz
 0.0.0.0 lustasserted.com
 0.0.0.0 lutachechu.pro
+0.0.0.0 lutoorgourgi.com
 0.0.0.0 lutrbr.xyz
 0.0.0.0 luuming.com
 0.0.0.0 luuvanquang.com
@@ -31277,6 +31288,7 @@
 0.0.0.0 mhhr.cloud
 0.0.0.0 mhjcpn.com
 0.0.0.0 mhkvktz.com
+0.0.0.0 mhndfpbssfcsr.com
 0.0.0.0 mhnzhlase.xyz
 0.0.0.0 mhqjiaxpenfw.com
 0.0.0.0 mhshopee.com
@@ -32123,6 +32135,7 @@
 0.0.0.0 morningglory101.io
 0.0.0.0 moro-douga.link
 0.0.0.0 morroinane.com
+0.0.0.0 morsalurluch.com
 0.0.0.0 mortoncape.com
 0.0.0.0 mortypush.com
 0.0.0.0 moscowautopsyregarding.com
@@ -33149,6 +33162,7 @@
 0.0.0.0 naukegainok.net
 0.0.0.0 naulme.info
 0.0.0.0 naupouch.xyz
+0.0.0.0 naupsakiwhy.com
 0.0.0.0 naupseko.com
 0.0.0.0 nauseacomplimentary.com
 0.0.0.0 nauthait.com
@@ -35146,6 +35160,7 @@
 0.0.0.0 ookroush.com
 0.0.0.0 ooloptou.net
 0.0.0.0 oolsoudsoo.xyz
+0.0.0.0 oolsutsougri.net
 0.0.0.0 ooltakreenu.xyz
 0.0.0.0 oometermerkhet.click
 0.0.0.0 oomphavenger.com
@@ -38528,6 +38543,7 @@
 0.0.0.0 psoostelrupt.net
 0.0.0.0 psootaun.com
 0.0.0.0 psootchu.net
+0.0.0.0 psoroumukr.com
 0.0.0.0 psothoms.com
 0.0.0.0 psotudev.com
 0.0.0.0 psougloo.com
@@ -42191,6 +42207,7 @@
 0.0.0.0 scheduleginnarcotic.com
 0.0.0.0 schedulerationally.com
 0.0.0.0 schizorecooks.shop
+0.0.0.0 schizypdq.com
 0.0.0.0 schjmp.com
 0.0.0.0 scholarkeyboarddoom.com
 0.0.0.0 scholarsgrewsage.com
@@ -43086,6 +43103,7 @@
 0.0.0.0 shepherdalmightyretaliate.com
 0.0.0.0 sherryfaithfulhiring.com
 0.0.0.0 sheschemetraitor.com
+0.0.0.0 shestieh.com
 0.0.0.0 shexawhy.net
 0.0.0.0 shfewojrmxpy.xyz
 0.0.0.0 shfsdvc.com
@@ -47911,6 +47929,7 @@
 0.0.0.0 thoughtlessindeedopposition.com
 0.0.0.0 thouphouwhad.net
 0.0.0.0 thoupsuk.net
+0.0.0.0 thouptoorg.com
 0.0.0.0 thousandinvoluntary.com
 0.0.0.0 thpte.cn
 0.0.0.0 thpthuynhthuckhang.edu.vn
@@ -50331,6 +50350,7 @@
 0.0.0.0 turmoilragcrutch.com
 0.0.0.0 turn.com
 0.0.0.0 turncdn.com
+0.0.0.0 turndynamicforbes.com
 0.0.0.0 turnhub.net
 0.0.0.0 turnipsoft.pubfinity.com
 0.0.0.0 turniptriumphantanalogy.com
@@ -51647,6 +51667,7 @@
 0.0.0.0 valerieavisnba.com
 0.0.0.0 valerieurania.com
 0.0.0.0 valesweetheartconditions.com
+0.0.0.0 valetsangoise.top
 0.0.0.0 valetsword.com
 0.0.0.0 valiantjosie.com
 0.0.0.0 valiantmanioca.com
@@ -52080,6 +52101,7 @@
 0.0.0.0 vemflutuartambem.com
 0.0.0.0 vempeeda.com
 0.0.0.0 vempozah.net
+0.0.0.0 vemtoutcheeg.com
 0.0.0.0 vendexo.com
 0.0.0.0 vendigamus.com
 0.0.0.0 vendimob.pl
@@ -54663,6 +54685,7 @@
 0.0.0.0 wmptcd.com
 0.0.0.0 wmptctl.com
 0.0.0.0 wmpted.com
+0.0.0.0 wmptengate.com
 0.0.0.0 wmpuem.com
 0.0.0.0 wmrok.com
 0.0.0.0 wmrok.net
@@ -54741,6 +54764,7 @@
 0.0.0.0 woodejou.net
 0.0.0.0 woodenguardsheartburn.com
 0.0.0.0 woodhenmils.com
+0.0.0.0 woodieababua.com
 0.0.0.0 woodlandanyone.com
 0.0.0.0 woodlandsmonthlyelated.com
 0.0.0.0 woodlotrubato.com

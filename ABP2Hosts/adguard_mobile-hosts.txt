@@ -1,4 +1,4 @@
-# Sat Nov  9 01:25:04 PM UTC 2024
+# Sun Nov 10 04:10:20 AM UTC 2024
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -2874,6 +2874,7 @@
 0.0.0.0 co.vaicore.site
 0.0.0.0 co.vaicore.xyz
 0.0.0.0 coachquartz.com
+0.0.0.0 coalkitchen.com
 0.0.0.0 coatfood.com
 0.0.0.0 cobaltoverture.com
 0.0.0.0 code.directadvert.ru
@@ -4324,6 +4325,7 @@
 0.0.0.0 ghb2.adtelligent.com
 0.0.0.0 ghent-gce-sc.bidswitch.net
 0.0.0.0 ghkbid.adview.com
+0.0.0.0 ghostgenie.com
 0.0.0.0 gi-js.genieessp.com
 0.0.0.0 giantsvessel.com
 0.0.0.0 giddycoat.com
@@ -6420,6 +6422,7 @@
 0.0.0.0 philipslighting.d3.sc.omtrdc.net
 0.0.0.0 phillateemis.iad-03.braze.com
 0.0.0.0 phluant.com
+0.0.0.0 phonicsblitz.com
 0.0.0.0 phonograph2.voxmedia.com
 0.0.0.0 photographpan.com
 0.0.0.0 phunware.com
@@ -7788,6 +7791,7 @@
 0.0.0.0 skillfulsock.com
 0.0.0.0 skisofa.com
 0.0.0.0 skt-asum.com
+0.0.0.0 skullmagnets.com
 0.0.0.0 skypicker-api.infinario.com
 0.0.0.0 slapi-bts.logsss.com
 0.0.0.0 slaysweater.com
@@ -8078,6 +8082,7 @@
 0.0.0.0 standtrouble.com
 0.0.0.0 starkscale.com
 0.0.0.0 startappservice.com
+0.0.0.0 startercost.com
 0.0.0.0 startingcars.com
 0.0.0.0 startup-mobile.ap.yandex-net.ru
 0.0.0.0 startup.mobile.webvisor.com

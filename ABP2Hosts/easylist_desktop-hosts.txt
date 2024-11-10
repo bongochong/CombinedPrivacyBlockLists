@@ -1,4 +1,4 @@
-# Sat Nov  9 01:25:47 PM UTC 2024
+# Sun Nov 10 04:11:07 AM UTC 2024
 # EasyList Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0.myikas.com
 0.0.0.0 0.net.easyjet.com
@@ -1290,6 +1290,7 @@
 0.0.0.0 8961.jianbihua.com
 0.0.0.0 89dfa3575e.com
 0.0.0.0 89hdn.cn
+0.0.0.0 8ail6.icu
 0.0.0.0 8coins.ru
 0.0.0.0 8d07a.xyz
 0.0.0.0 8d4b.pandasuite.io
@@ -11530,6 +11531,7 @@
 0.0.0.0 azbaclxror.com
 0.0.0.0 azbrtw.anydesk.com
 0.0.0.0 azbzcz.com
+0.0.0.0 azcmcacuc.com
 0.0.0.0 azcoct.bikkembergs.com
 0.0.0.0 azenco.xyz
 0.0.0.0 azenka.one
@@ -11920,6 +11922,7 @@
 0.0.0.0 bantengdisgown.shop
 0.0.0.0 banterteeserving.com
 0.0.0.0 bantex.ru
+0.0.0.0 baobabsruesome.com
 0.0.0.0 bapa215.top
 0.0.0.0 bapages.carte-gr.total.fr
 0.0.0.0 bapdvtk.com
@@ -14513,6 +14516,7 @@
 0.0.0.0 c0012.brsimg.com
 0.0.0.0 c019154d29.com
 0.0.0.0 c0594.com
+0.0.0.0 c05ua.icu
 0.0.0.0 c0ae703671.com
 0.0.0.0 c0i.ckoi.com
 0.0.0.0 c0me-get-s0me.net
@@ -16941,6 +16945,7 @@
 0.0.0.0 conative.network
 0.0.0.0 concealedcredulous.com
 0.0.0.0 concealmentbrainpower.com
+0.0.0.0 concedederaserskyline.com
 0.0.0.0 conceitedfedapple.com
 0.0.0.0 conceivedtowards.com
 0.0.0.0 concentrationmajesticshoot.com
@@ -17224,6 +17229,7 @@
 0.0.0.0 consistedlovedstimulate.com
 0.0.0.0 consistpromised.com
 0.0.0.0 consmo.net
+0.0.0.0 consolationgratitudeunwise.com
 0.0.0.0 console-telemetry.oci.oraclecloud.com
 0.0.0.0 console.uxlens.com
 0.0.0.0 consoupow.com
@@ -26694,6 +26700,7 @@
 0.0.0.0 floatingbile.com
 0.0.0.0 floatingdrake.com
 0.0.0.0 floccischlump.com
+0.0.0.0 flockexecute.com
 0.0.0.0 flockinjim.com
 0.0.0.0 flog.pressplay.cc
 0.0.0.0 flogpointythirteen.com
@@ -28676,6 +28683,7 @@
 0.0.0.0 gkktjf.top
 0.0.0.0 gklox.cn
 0.0.0.0 gkopqp.coccodrillo.eu
+0.0.0.0 gkrtgrcquwttq.xyz
 0.0.0.0 gkrtmc.com
 0.0.0.0 gksqdt.reitmans.com
 0.0.0.0 gkswas.xyz
@@ -30424,6 +30432,7 @@
 0.0.0.0 haixomz.xyz
 0.0.0.0 hajoopteg.com
 0.0.0.0 hakeemmuffled.top
+0.0.0.0 hakqkhtlav.com
 0.0.0.0 haksaigho.com
 0.0.0.0 hal.courrierinternational.com
 0.0.0.0 halbertduffed.top
@@ -36078,6 +36087,7 @@
 0.0.0.0 jwerioa.top
 0.0.0.0 jwfesuk.cn
 0.0.0.0 jwhdgt.icu
+0.0.0.0 jwhjqjfl.icu
 0.0.0.0 jwia0.top
 0.0.0.0 jwjzf.online
 0.0.0.0 jwlvlo.icaniwill.dk
@@ -36374,6 +36384,7 @@
 0.0.0.0 kdqytm.vipre.com
 0.0.0.0 kdsahkln.xyz
 0.0.0.0 kdtbpt.brogsitter.de
+0.0.0.0 kdzgrvn.icu
 0.0.0.0 keajs.com
 0.0.0.0 kebeckirgon.net
 0.0.0.0 kebohjhh.xyz
@@ -37558,6 +37569,7 @@
 0.0.0.0 lbv5.mperf.com
 0.0.0.0 lby2kd27c.com
 0.0.0.0 lcads.ru
+0.0.0.0 lcd.aivote.com
 0.0.0.0 lcdsyj.daily.co.jp
 0.0.0.0 lcefsf.icu
 0.0.0.0 lcefua.timberland.ru
@@ -39956,6 +39968,7 @@
 0.0.0.0 lustasserted.com
 0.0.0.0 lutachechu.pro
 0.0.0.0 lutherinfo2.com
+0.0.0.0 lutoorgourgi.com
 0.0.0.0 lutrbr.xyz
 0.0.0.0 luuce.jp
 0.0.0.0 luumhi.whatonearthcatalog.com
@@ -44566,6 +44579,7 @@
 0.0.0.0 mhkx4.ru
 0.0.0.0 mhmp.bruker.com
 0.0.0.0 mhmzhc.trysnow.com
+0.0.0.0 mhndfpbssfcsr.com
 0.0.0.0 mhnpec.nimaxi-online.com
 0.0.0.0 mhnzhlase.xyz
 0.0.0.0 mholland.net.anwalt.de
@@ -46198,6 +46212,7 @@
 0.0.0.0 naukegainok.net
 0.0.0.0 naulme.info
 0.0.0.0 naupouch.xyz
+0.0.0.0 naupsakiwhy.com
 0.0.0.0 naupseko.com
 0.0.0.0 nauseacomplimentary.com
 0.0.0.0 nauthait.com
@@ -48589,6 +48604,7 @@
 0.0.0.0 oolontya.com
 0.0.0.0 ooloptou.net
 0.0.0.0 oolsoudsoo.xyz
+0.0.0.0 oolsutsougri.net
 0.0.0.0 ooltakreenu.xyz
 0.0.0.0 oometermerkhet.click
 0.0.0.0 oomphavenger.com
@@ -52319,6 +52335,7 @@
 0.0.0.0 psoostelrupt.net
 0.0.0.0 psootaun.com
 0.0.0.0 psootchu.net
+0.0.0.0 psoroumukr.com
 0.0.0.0 psothoms.com
 0.0.0.0 psotudev.com
 0.0.0.0 psougloo.com
@@ -58407,6 +58424,7 @@
 0.0.0.0 sheregesh-io.traveler.today
 0.0.0.0 sherryfaithfulhiring.com
 0.0.0.0 sheschemetraitor.com
+0.0.0.0 shestieh.com
 0.0.0.0 shexawhy.net
 0.0.0.0 shfewojrmxpy.xyz
 0.0.0.0 shfsdvc.com
@@ -68138,6 +68156,7 @@
 0.0.0.0 thoughtlessindeedopposition.com
 0.0.0.0 thouphouwhad.net
 0.0.0.0 thoupsuk.net
+0.0.0.0 thouptoorg.com
 0.0.0.0 thousandinvoluntary.com
 0.0.0.0 thpte.cn
 0.0.0.0 thqgxvs.com
@@ -72234,6 +72253,7 @@
 0.0.0.0 turmoilmeddle.com
 0.0.0.0 turmoilragcrutch.com
 0.0.0.0 turncdn.com
+0.0.0.0 turndynamicforbes.com
 0.0.0.0 turnhub.net
 0.0.0.0 turniptriumphantanalogy.com
 0.0.0.0 turnminimizeinterference.com
@@ -76257,6 +76277,7 @@
 0.0.0.0 wmptcd.com
 0.0.0.0 wmptctl.com
 0.0.0.0 wmpted.com
+0.0.0.0 wmptengate.com
 0.0.0.0 wmpuem.com
 0.0.0.0 wmrak.com
 0.0.0.0 wmudsraxwj.xyz
