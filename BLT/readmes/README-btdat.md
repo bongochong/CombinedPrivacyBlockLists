@@ -1,4 +1,6 @@
-The [update-btdat.sh script](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/update-btdat.sh) is meant to automate the process of creating and updating an IP block list for your BitTorrent client (if you use one that prefers DAT lists), on GNU/Linux and other Unix-like Operating Systems (like OS X).
+The [update-btdat.sh script](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/update-btdat.sh) is meant to automate the process of creating and updating an IP block list for your BitTorrent client (if you use one that prefers DAT lists), from iBlockList sources, on GNU/Linux and other Unix-like Operating Systems (like OS X).  
+
+This script should be considered essentially deprecated (unless iBlockList decides to start actively maintaining their lists again), and it has been replaced by the [update-ipfilt.sh](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/update-ipfilt.sh) tool, which is not only more efficient, but handles a wider variety of input formats, and uses actively maintained sources by default.  
 
 **Checklist for use**:
 1. Make sure that you have the dependencies mentioned on the main readme installed.
