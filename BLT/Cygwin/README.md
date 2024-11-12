@@ -7,11 +7,13 @@ The data within is meant to automate the generation and updating of the followin
 
 - [A hosts file to block undesirable domains](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/Cygwin/update-hosts-six.sh) (with IPv6 entries only)  
 
-- [An IP block list to prevent undesirable traffic](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/Cygwin/update-btdat.sh) (in DAT-format)  
-
-- [An IP block list to prevent undesirable traffic](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/Cygwin/update-btp2p.sh) (in P2P-format)  
-
 - [A PAC (proxy auto-configuration) file, to block undesirable domains](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/Cygwin/update-pac.sh)  
+
+- [An IP address & range block list to mitigate undesirable traffic](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/Cygwin/update-ipfilt.sh) (CIDR, DAT and P2P formats)  
+
+- [An updater for lists from iBlockList [legacy tool]](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/Cygwin/update-btdat.sh) (DAT-format)  
+
+- [An updater for lists from iBlockList [legacy tool]](https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/BLT/Cygwin/update-btp2p.sh) (P2P-format)  
 
 **One-line installation**:  
 Paste the following in your terminal and hit enter:  
@@ -23,7 +25,7 @@ Donezo. Now you have all the utilities. You can also use this one liner to updat
 
 **Dependencies**:  
 The following packages are required to utilize all my block list utilities:  
-`wget` `curl` `pcre` `perl` `libidn2` `libidn2_0` `p7zip`
+`wget` `curl` `pcre` `perl` `aggregate` `sipcalc` `libidn2` `libidn2_0` `p7zip`
   
 It should also be noted that most of these tools make heavy use of GNU `sed`.
   
