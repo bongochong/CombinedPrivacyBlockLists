@@ -54,6 +54,7 @@ sed -i "s/BLT/$file_dir/g" update-btp2p.sh
 sed -i "s/BLT/$file_dir/g" update-hosts-six.sh
 sed -i "s/BLT/$file_dir/g" update-hosts-dual.sh
 sed -i "s/BLT/$file_dir/g" update-hosts.sh
+sed -i "s/BLT/$file_dir/g" update-ipfilt.sh
 sed -i "s/BLT/$file_dir/g" update-pac.sh
 echo -n "What is the letter of your Windows System Drive (if you don't know, then just type C and hit enter)?: "
 read sys_drive

@@ -54,6 +54,7 @@ sed -i "s/BLT/$file_dir/g" update-btp2p.sh
 sed -i "s/BLT/$file_dir/g" update-hosts-six.sh
 sed -i "s/BLT/$file_dir/g" update-hosts-dual.sh
 sed -i "s/BLT/$file_dir/g" update-hosts.sh
+sed -i "s/BLT/$file_dir/g" update-ipfilt.sh
 sed -i "s/BLT/$file_dir/g" update-pac.sh
 echo -n "What is this computer's host name? If you do not know, you can list it by typing 'hostname' into another terminal prompt and hitting enter. This is important for the structure of your hosts file: "
 read host_name
