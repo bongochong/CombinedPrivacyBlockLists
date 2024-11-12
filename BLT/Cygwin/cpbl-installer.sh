@@ -11,6 +11,7 @@ echo "..."
 mkdir -p ~/"$file_dir"/btdat
 mkdir -p ~/"$file_dir"/btp2p
 mkdir -p ~/"$file_dir"/hosts
+mkdir -p ~/"$file_dir"/ipblck
 mkdir -p ~/"$file_dir"/pac
 mkdir -p ~/"$file_dir"/parsing
 mkdir -p ~/"$file_dir"/readmes
@@ -22,6 +23,7 @@ curl -s "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/
 curl -s "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/Cygwin/update-hosts-dual.sh" -o update-hosts-dual.sh
 curl -s "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/Cygwin/update-hosts.sh" -o update-hosts.sh
 curl -s "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/Cygwin/update-hosts-six.sh" -o update-hosts-six.sh
+curl -s "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/Cygwin/update-ipfilt.sh" -o update-ipfilt.sh
 curl -s "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/Cygwin/update-pac.sh" -o update-pac.sh
 cd ~/"$file_dir"/parsing
 curl -s "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/Cygwin/parsing/hostpatterns.dat" -o hostpatterns.dat
@@ -66,6 +68,7 @@ then
 echo -e "\nalias blthosts='~/$file_dir/update-hosts.sh'" >> ~/.bashrc
 echo "alias blthosts6='~/$file_dir/update-hosts-six.sh'" >> ~/.bashrc
 echo "alias blthosts2='~/$file_dir/update-hosts-dual.sh'" >> ~/.bashrc
+echo "alias bltipfilt='~/$file_dir/update-ipfilt.sh'" >> ~/.bashrc
 echo "alias bltpac='~/$file_dir/update-pac.sh'" >> ~/.bashrc
 echo "alias bltdat='~/$file_dir/update-btdat.sh'" >> ~/.bashrc
 echo "alias bltp2p='~/$file_dir/update-btp2p.sh'" >> ~/.bashrc
@@ -74,7 +77,7 @@ echo " reloading bash, typing 'alias' into your console prompt, then hitting ent
 echo "..."
 echo "In addition, if you wish to utilize all the scripts"
 echo "Make sure that you have the following packages installed:"
-echo "perl wget pcre curl p7zip libidn2 libidn2_0 or their equivalents"
+echo "perl wget pcre curl p7zip aggregate sipcalc libidn2 libidn2_0 or their equivalents"
 echo "Enjoy!"
 echo "..."
 exit
@@ -84,7 +87,7 @@ echo "Done! Run whichever script you like via sh or dot-slash."
 echo "..."
 echo "In addition, if you wish to utilize all the scripts"
 echo "Make sure that you have the following packages installed:"
-echo "perl wget pcre curl p7zip libidn2 libidn2_0 or their equivalents"
+echo "perl wget pcre curl p7zip aggregate sipcalc libidn2 libidn2_0 or their equivalents"
 echo "Enjoy!"
 echo "..."
 ls -lh ~/"$file_dir"
