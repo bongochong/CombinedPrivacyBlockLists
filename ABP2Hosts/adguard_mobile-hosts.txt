@@ -1,4 +1,4 @@
-# Sun Nov 10 04:10:20 AM UTC 2024
+# Tue Nov 12 10:58:52 PM UTC 2024
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -1894,6 +1894,7 @@
 0.0.0.0 authbe.sec.intl.miui.com
 0.0.0.0 autoads.asia
 0.0.0.0 autocomplete.demandbase.com
+0.0.0.0 automatad.com
 0.0.0.0 automaticflock.com
 0.0.0.0 automaticside.com
 0.0.0.0 automaticturkey.com
@@ -4586,6 +4587,7 @@
 0.0.0.0 highfalutinhoney.com
 0.0.0.0 highfalutinroom.com
 0.0.0.0 hilariouszinc.com
+0.0.0.0 hilerant.site
 0.0.0.0 hiram.iad-03.braze.com
 0.0.0.0 historicalbeam.com
 0.0.0.0 historicalrequest.com
@@ -5162,6 +5164,7 @@
 0.0.0.0 krutilka.net
 0.0.0.0 krux2waycm.netmng.com
 0.0.0.0 krxd.net
+0.0.0.0 kvaedit.site
 0.0.0.0 kvinit-prod.api.kochava.com
 0.0.0.0 kyson.ad.daum.net
 0.0.0.0 kz.tns-counter.ru
@@ -7166,6 +7169,7 @@
 0.0.0.0 rtr.innovid.com.akadns.net
 0.0.0.0 rts.mobula.sdk.duapps.com
 0.0.0.0 rts.ssl2.duapps.com
+0.0.0.0 ruamupr.com
 0.0.0.0 rub-winners-eu-west-1-rtb.adroll.com
 0.0.0.0 rub-winners-us-east-1-rtb.adroll.com
 0.0.0.0 rub-winners-us-west-2-rtb.adroll.com
