@@ -30,6 +30,7 @@ rm -f ipadump.txt
 echo "All done!"
 exit
 	else
+	rm -f ipadump.txt
 	echo "Okay! Goodbye."
 	fi
 exit
