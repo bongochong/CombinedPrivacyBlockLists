@@ -4698,7 +4698,6 @@ deny from 169.239.48.0/22
 deny from 169.245.0.0/16
 deny from 169.246.0.0/15
 deny from 169.248.0.0/14
-deny from 169.254.0.0/16
 deny from 169.51.46.66/32
 deny from 169.51.46.73/32
 deny from 170.0.235.253/32
