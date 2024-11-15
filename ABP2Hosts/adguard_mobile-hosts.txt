@@ -1,4 +1,4 @@
-# Tue Nov 12 10:58:52 PM UTC 2024
+# Fri Nov 15 06:01:33 PM UTC 2024
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -654,6 +654,7 @@
 0.0.0.0 ads-delivery.gunosy.com
 0.0.0.0 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
 0.0.0.0 ads-gdl.imovideo.ru
+0.0.0.0 ads-image.production-public.tubi.io
 0.0.0.0 ads-interfaces.sc-cdn.net
 0.0.0.0 ads-leaseweb.appsgeyser.com
 0.0.0.0 ads-marketing-vivofs.vivo.com.cn
@@ -674,6 +675,7 @@
 0.0.0.0 ads.adaptv.advertising.com
 0.0.0.0 ads.adelement.com
 0.0.0.0 ads.adfox.ru
+0.0.0.0 ads.adinmotech.com
 0.0.0.0 ads.admarvel.com
 0.0.0.0 ads.adtheorent.com
 0.0.0.0 ads.adthrive.com
@@ -1861,6 +1863,7 @@
 0.0.0.0 atr.adsmovil.com
 0.0.0.0 atracking-auto.appflood.com
 0.0.0.0 ats.rlcdn.com
+0.0.0.0 atsod.launch.liveramp.com
 0.0.0.0 attendchase.com
 0.0.0.0 atti.com
 0.0.0.0 attr.appsflyer.com
@@ -3352,6 +3355,7 @@
 0.0.0.0 datacloud-us-east-1.tealiumiq.com
 0.0.0.0 datacloud.tealiumiq.com
 0.0.0.0 datacollector-dra.dt.dbankcloud.cn
+0.0.0.0 dataflow.biliapi.com
 0.0.0.0 datam16.adlooxtracking.com
 0.0.0.0 datastoried.com
 0.0.0.0 dataxu.com
@@ -4456,6 +4460,7 @@
 0.0.0.0 grouchybrothers.com
 0.0.0.0 grouchypush.com
 0.0.0.0 growlr.adsbynimbus.com
+0.0.0.0 grpc.biliapi.net
 0.0.0.0 grs.hicloud.com
 0.0.0.0 grumpydime.com
 0.0.0.0 grumpydrawer.com
@@ -4641,6 +4646,7 @@
 0.0.0.0 html5.adsrvr.org
 0.0.0.0 html5.gamemonetize.com
 0.0.0.0 httpdns-push.heytapmobile.com
+0.0.0.0 httpdns.bilivideo.com
 0.0.0.0 httpkafka.unityads.unity3d.com
 0.0.0.0 httpool.com
 0.0.0.0 httpring.qq.com
@@ -5860,6 +5866,7 @@
 0.0.0.0 monitor.music.qq.com
 0.0.0.0 monitor.uu.qq.com
 0.0.0.0 monitoring-sdk.experimentation.intuit.com
+0.0.0.0 monsetting.toutiao.com
 0.0.0.0 mookie1.com.edgekey.net
 0.0.0.0 moorshoes.com
 0.0.0.0 mopub-win-us-east.bksn.se
@@ -7408,6 +7415,7 @@
 0.0.0.0 sd.iperceptions.com
 0.0.0.0 sd.sharethis.com
 0.0.0.0 sdk-02.moengage.com
+0.0.0.0 sdk-04.moengage.com
 0.0.0.0 sdk-android.ad.smaato.net
 0.0.0.0 sdk-api-v1.singular.net
 0.0.0.0 sdk-assets.localytics.com
@@ -8604,6 +8612,7 @@
 0.0.0.0 tastelesstoes.com
 0.0.0.0 tastelesstrees.com
 0.0.0.0 tastesnake.com
+0.0.0.0 tatrack.thinkyeah.com
 0.0.0.0 taurus.iad.appboy.com
 0.0.0.0 tawdryson.com
 0.0.0.0 tb.de17a.com
@@ -9189,6 +9198,7 @@
 0.0.0.0 usedirect.adsrvr.org
 0.0.0.0 usekahuna.com
 0.0.0.0 uselesslumber.com
+0.0.0.0 user-signals.production-public.tubi.io
 0.0.0.0 user-stats.rbl.ms
 0.0.0.0 userflows.ingest.crittercism.com
 0.0.0.0 usermatch.krxd.net
@@ -9292,6 +9302,7 @@
 0.0.0.0 vcardsdkservice.vivo.com.cn
 0.0.0.0 vcdn.adnxs.com
 0.0.0.0 vcdn.media.innity.net
+0.0.0.0 vcs.zijieapi.com
 0.0.0.0 vdapp.nend.net
 0.0.0.0 vdna.exelator.com
 0.0.0.0 vdopia.com
