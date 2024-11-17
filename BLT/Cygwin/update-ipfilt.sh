@@ -1,5 +1,5 @@
 #!/bin/bash
-#Block List Tools (http://shorl.com/fovogretopiga)
+#Cygwin Block List Tools (http://shorl.com/fovogretopiga)
 #From the maintainer of Combined Privacy Block Lists (https://github.com/bongochong/CombinedPrivacyBlockLists)
 #License: CPAL-1.0 (https://github.com/bongochong/CombinedPrivacyBlockLists/blob/master/LICENSE.md)
 echo "Concatenating lists of IP addresses..."
