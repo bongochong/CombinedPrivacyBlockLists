@@ -19,6 +19,7 @@ ablink.notice.spriggy.com.au
 accounts.eu1.gigya.com
 activate.adobe.com
 activation.adobedtm.com
+activity.windows.com
 adaway.org
 adblockplus.org
 adguard.com

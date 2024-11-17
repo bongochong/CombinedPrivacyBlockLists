@@ -17,6 +17,8 @@ s0.2mdn.net
 self.events.data.microsoft.com
 www.msftncsi.com
 ztd.dds.microsoft.com
+##Interferes with Microsoft Authenticator##
+activity.windows.com
 ##Randomly generated subdomains for Azure blobs##
 1oavsblobprodcus350.blob.core.windows.net
 37bvsblobprodcus311.blob.core.windows.net

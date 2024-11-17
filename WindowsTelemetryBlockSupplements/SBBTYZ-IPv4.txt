@@ -1,14 +1,13 @@
 #Anti-Telemetry Hosts for Windows from TYZBIT, CrazyMax and SpyBot Anti-Beacon
 #IPv4 Version
 #Included in default hosts file
-#Last update 11/06/2024
+#Last update 11/16/2024
 
 0.0.0.0 a.ads1.msn.com
 0.0.0.0 a.ads2.msads.net
 0.0.0.0 a.ads2.msn.com
 0.0.0.0 a.rad.msn.com
 0.0.0.0 ac3.msn.com
-0.0.0.0 activity.windows.com
 0.0.0.0 adnexus.net
 0.0.0.0 adnxs.com
 0.0.0.0 ads.msn.com
