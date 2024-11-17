@@ -2877,6 +2877,7 @@
 0.0.0.0 ads-api.stuff.co.nz
 0.0.0.0 ads-api.tiktok.com
 0.0.0.0 ads-api.twitter.com
+0.0.0.0 ads-api.videy.co
 0.0.0.0 ads-bi.zenkube.com
 0.0.0.0 ads-bid.l.doubleclick.net
 0.0.0.0 ads-bidder-api.twitter.com
@@ -7663,6 +7664,7 @@
 0.0.0.0 api.relevantonline.eu
 0.0.0.0 api.repro.io
 0.0.0.0 api.sail-track.com
+0.0.0.0 api.scorchads.com
 0.0.0.0 api.scorecardresearch.com
 0.0.0.0 api.sdkengine.pro
 0.0.0.0 api.smartnews-ads.com
@@ -7718,6 +7720,7 @@
 0.0.0.0 aponeo01.webtrekk.net
 0.0.0.0 aporg.112.2o7.net
 0.0.0.0 app-adforce.jp
+0.0.0.0 app-ads-services.com
 0.0.0.0 app-analytics-ru.huami.com
 0.0.0.0 app-analytics-services.com
 0.0.0.0 app-analytics-v2.snapchat.com
@@ -8027,6 +8030,7 @@
 0.0.0.0 assets.micpn.com
 0.0.0.0 assets.pardot.com
 0.0.0.0 assets.publicgood.com
+0.0.0.0 assets.scorchads.com
 0.0.0.0 assets.servedby-buysellads.com
 0.0.0.0 assets.spotify.com
 0.0.0.0 assets.taboola.com
@@ -14897,6 +14901,8 @@
 0.0.0.0 ftp-forpftp1.actonsoftware.com
 0.0.0.0 ftp.actonservice.com
 0.0.0.0 ftp.webtrekk.com
+0.0.0.0 ftuapps.dev
+0.0.0.0 ftuapps.io
 0.0.0.0 ftv-publicite.fr
 0.0.0.0 ftx.onlyfuns.win
 0.0.0.0 fuckbookdating.com
@@ -21156,6 +21162,7 @@
 0.0.0.0 metrica-yandex.com
 0.0.0.0 metrica.yandex.ru
 0.0.0.0 metricfast.com
+0.0.0.0 metricreceiver.cellrebel.com
 0.0.0.0 metrics-api.librato.com
 0.0.0.0 metrics-broker.prod.p.tf1.fr
 0.0.0.0 metrics-cbslocal-com.cdn.ampproject.org
@@ -27835,6 +27842,7 @@
 0.0.0.0 scmetrics.shell.com
 0.0.0.0 scnv.jp
 0.0.0.0 scopelight.com
+0.0.0.0 scorchads.com
 0.0.0.0 scorecardresearch.com
 0.0.0.0 scoreresearch.com
 0.0.0.0 scotiahelp-loginscotia.com
@@ -28171,6 +28179,7 @@
 0.0.0.0 serve.adtrackers.net
 0.0.0.0 serve.bannertrack.net
 0.0.0.0 serve.popads.net
+0.0.0.0 serve.scorchads.com
 0.0.0.0 serve.vdopia.com
 0.0.0.0 servedby-buysellads.com
 0.0.0.0 servedby.adbility-media.com
@@ -31305,6 +31314,7 @@
 0.0.0.0 track.roularta.adhese.com
 0.0.0.0 track.saigon.pro
 0.0.0.0 track.saygames.io
+0.0.0.0 track.scorchads.com
 0.0.0.0 track.seadform.net
 0.0.0.0 track.searchignite.com
 0.0.0.0 track.searchiq.co
@@ -33910,6 +33920,7 @@
 0.0.0.0 www.antennash.com
 0.0.0.0 www.anyclip-media.com
 0.0.0.0 www.api.taboola.com
+0.0.0.0 www.app-ads-services.com
 0.0.0.0 www.appads.in
 0.0.0.0 www.aptracking1.com
 0.0.0.0 www.apxadtracking.net
