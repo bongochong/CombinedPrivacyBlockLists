@@ -5,17 +5,17 @@
 echo "Concatenating lists of IP addresses..."
 mkdir -p ~/BLT/ipblck
 cd ~/BLT/ipblck
-curl -s "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/dshield.netset" | sed '$a\' | sed '/#/d' | sed '/:/d' > ipadump.txt
-curl -s "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/dshield_7d.netset" | sed '$a\' | sed '/#/d' | sed '/:/d' >> ipadump.txt
+curl -s "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/dshield_7d.netset" | sed '$a\' | sed '/#/d' | sed '/:/d' > ipadump.txt
 curl -s "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/dshield_30d.netset" | sed '$a\' | sed '/#/d' | sed '/:/d' >> ipadump.txt
-curl -s "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/spamhaus_drop.netset" | sed '$a\' | sed '/#/d' | sed '/:/d' >> ipadump.txt
-curl -s "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/spamhaus_edrop.netset" | sed '$a\' | sed '/#/d' | sed '/:/d' >> ipadump.txt
+curl -s "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/et_dshield.netset" | sed '$a\' | sed '/#/d' | sed '/:/d' >> ipadump.txt
+curl -s "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/blocklist_de_bruteforce.ipset" | sed '$a\' | sed '/#/d' | sed '/:/d' >> ipadump.txt
 curl -s "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/blocklist_de_ssh.ipset" | sed '$a\' | sed '/#/d' | sed '/:/d' >> ipadump.txt
 curl -s "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bruteforceblocker.ipset" | sed '$a\' | sed '/#/d' | sed '/:/d' >> ipadump.txt
-curl -s "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/blocklist_de_bruteforce.ipset" | sed '$a\' | sed '/#/d' | sed '/:/d' >> ipadump.txt
+curl -s "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/spamhaus_drop.netset" | sed '$a\' | sed '/#/d' | sed '/:/d' >> ipadump.txt
+curl -s "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/spamhaus_edrop.netset" | sed '$a\' | sed '/#/d' | sed '/:/d' >> ipadump.txt
 curl -s "https://pgl.yoyo.org/adservers/iplist.php?ipformat=plain&showintro=0&mimetype=plaintext" | sed '$a\' | sed '/#/d' | sed '/:/d' >> ipadump.txt
 echo "Extracting, formatting, and aggregating valid entries..."
-cat ipadump.txt | grep -Eo '([0-9]{1,3}\.){3}[0-9]{1,3}(/[0-9]|/[0-9][0-9])?' | sed '/\/[0-9]\+$/! s|$|/32|' | sort -u | aggregate -qt > ipablock.cidr
+cat ipadump.txt | grep -Eo '([0-9]{1,3}\.){3}[0-9]{1,3}(/[0-9]|/[0-9][0-9])?' | sed '/\/[0-9]\+$/! s|$|/32|' | sort -V -u | aggregate -qt > ipablock.cidr
 perl -i -pe 'chomp if eof' ipablock.cidr
 echo "Completed generation of CIDR block list!"
 read -r -p "Would you like to create block lists for your file-sharing applications now? [y/N] " response
