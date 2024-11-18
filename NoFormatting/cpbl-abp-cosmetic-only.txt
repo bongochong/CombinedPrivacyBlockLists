@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mostly Cosmetic CPBL Filters for ABP & uBO
-! Updated: Fri Oct 18 05:42:59 AM UTC 2024
+! Updated: Mon Nov 18 07:13:46 AM UTC 2024
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -244,6 +244,9 @@ phantasytour.com##.col3
 profellow.com###newsletter-popup-wrap
 publish0x.com###registerPopup
 publish0x.com##.show.fade.modal
+quillette.com###ghost-portal-root .gh-portal-triggerbtn-iframe
+quillette.com##.is-open.outpost-popup.outpost-cta
+quillette.com##.outpost-cta-inner
 quranexplorer.com###mask
 quranexplorer.com##.clearfix.window
 rebelnews.com###module_form
@@ -379,7 +382,7 @@ zerohedge.com##.Banner_banner__2PJ1Y
 ||accuradio.com/static/js/ltjs.js
 ||accuradio.com/sweeper/
 ||activity.windows.com^$domain=~windows.com
-@@||activity.windows.com^$app=MicrosoftEdge.exe|MicrosoftEdgeCP.exe|MicrosoftEdgeSH.exe|com.microsoft.emmx|com.microsoft.emmx.dev|com.microsoft.emmx.beta|com.microsoft.emmx.canary|com.microsoft.msedge
+@@||activity.windows.com^$app=MicrosoftEdge.exe|MicrosoftEdgeCP.exe|MicrosoftEdgeSH.exe|com.microsoft.emmx|com.microsoft.emmx.dev|com.microsoft.emmx.beta|com.microsoft.emmx.canary|com.microsoft.msedge|com.azure.authenticator
 ||app.getsentry.com^$third-party
 ||aw1.accuradio.com^
 ||axios.com/api/v1/licenses
