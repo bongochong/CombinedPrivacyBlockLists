@@ -1,4 +1,4 @@
-# Sun Nov 17 03:13:11 AM UTC 2024
+# Mon Nov 18 04:52:25 AM UTC 2024
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com

@@ -1,4 +1,4 @@
-# Sun Nov 17 03:14:11 AM UTC 2024
+# Mon Nov 18 04:53:24 AM UTC 2024
 # AdGuard DNS Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 0.myikas.com
@@ -18127,7 +18127,6 @@
 0.0.0.0 eldestcontribution.com
 0.0.0.0 eldoradottfha.dataplane.rudderstack.com
 0.0.0.0 eldos.xyz
-0.0.0.0 ele26126.jscrambler.com
 0.0.0.0 eleavers.com
 0.0.0.0 eleazarfilasse.shop
 0.0.0.0 electionmmdevote.com
@@ -24929,6 +24928,7 @@
 0.0.0.0 ifjslio.top
 0.0.0.0 ifknittedhurtful.com
 0.0.0.0 ifllwfs.com
+0.0.0.0 iflucav.icu
 0.0.0.0 ifmccdn.icu
 0.0.0.0 iforcircles-1.online
 0.0.0.0 iforcircles-2.online
@@ -39975,6 +39975,7 @@
 0.0.0.0 qwaapgxfahce.com
 0.0.0.0 qwe.qrrgv.space
 0.0.0.0 qwe0231141.bj.bcebos.com
+0.0.0.0 qweisiy.top
 0.0.0.0 qwerfdx.com
 0.0.0.0 qwerioy.top
 0.0.0.0 qwertize.com
@@ -43081,10 +43082,7 @@
 0.0.0.0 servboost.tech
 0.0.0.0 serve-rtb.com
 0.0.0.0 serve-servee.com
-0.0.0.0 serve.bussyhunter.com
-0.0.0.0 serve.everydayporn.co
 0.0.0.0 serve.williamhill.com
-0.0.0.0 serve.yourporngod.com
 0.0.0.0 servebbs.net
 0.0.0.0 servebom.com
 0.0.0.0 servecontent.net
@@ -50798,6 +50796,7 @@
 0.0.0.0 twcouponcenter.com
 0.0.0.0 tweakarrangement.com
 0.0.0.0 tweezesmalanga.com
+0.0.0.0 tweisii.top
 0.0.0.0 twelfthcomprehendgrape.com
 0.0.0.0 twelfthdistasteful.com
 0.0.0.0 twelvemissionjury.com
@@ -55416,6 +55415,7 @@
 0.0.0.0 wscewc.xyz
 0.0.0.0 wsdwbfs.cn
 0.0.0.0 wsgayq.xyz
+0.0.0.0 wsgnihbh.icu
 0.0.0.0 wsjlbbqemr23.com
 0.0.0.0 wsmcdn.audioeye.com
 0.0.0.0 wsmobltyhs.com
@@ -57010,6 +57010,7 @@
 0.0.0.0 zfsfkp.com
 0.0.0.0 zfvsnpir-cxx.buzz
 0.0.0.0 zfvtswv.xyz
+0.0.0.0 zfwgn.icu
 0.0.0.0 zfwnbsdawitk.com
 0.0.0.0 zg.mmyuer.com
 0.0.0.0 zgeitmvt.com

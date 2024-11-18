@@ -1,4 +1,4 @@
-# Sun Nov 17 03:13:57 AM UTC 2024
+# Mon Nov 18 04:53:10 AM UTC 2024
 # EasyList Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0.myikas.com
 0.0.0.0 0.net.easyjet.com
@@ -9153,6 +9153,7 @@
 0.0.0.0 ao.jsitel.com
 0.0.0.0 ao.pioncomm.net
 0.0.0.0 ao.tolydigital.net
+0.0.0.0 ao1118kas.top
 0.0.0.0 aoakss.com
 0.0.0.0 aoalmfwinbsstec23.com
 0.0.0.0 aoao11111iis.top
@@ -18149,6 +18150,7 @@
 0.0.0.0 cryo.socialblade.com
 0.0.0.0 cryorganichash.com
 0.0.0.0 cryp-prel.com
+0.0.0.0 crypto-ads.net
 0.0.0.0 crypto.egghead.link
 0.0.0.0 cryptoatom.care
 0.0.0.0 cryptobeneluxbanner.care
@@ -23853,7 +23855,6 @@
 0.0.0.0 elcaminohospital.hrm.healthgrades.com
 0.0.0.0 elconfidencialdigital.actonservice.com
 0.0.0.0 eldestcontribution.com
-0.0.0.0 ele26126.jscrambler.com
 0.0.0.0 eleavers.com
 0.0.0.0 eleazarfilasse.shop
 0.0.0.0 electionmmdevote.com
@@ -25342,6 +25343,7 @@
 0.0.0.0 events.careallies.com
 0.0.0.0 events.centex.com
 0.0.0.0 events.chaordicsystems.com
+0.0.0.0 events.character.ai
 0.0.0.0 events.cigna.com
 0.0.0.0 events.clips4sale.com
 0.0.0.0 events.coface.com
@@ -32408,6 +32410,7 @@
 0.0.0.0 ifkzro.llbean.co.jp
 0.0.0.0 iflirts.com
 0.0.0.0 ifllwfs.com
+0.0.0.0 iflucav.icu
 0.0.0.0 ifmccdn.icu
 0.0.0.0 ifnyop.priceline.com
 0.0.0.0 ifqtfo.rugsusa.com
@@ -44718,6 +44721,7 @@
 0.0.0.0 mhvllvgrefplg.com
 0.0.0.0 mhwbhn.tohapi.fr
 0.0.0.0 mhwpwcj.com
+0.0.0.0 mhwy6.icu
 0.0.0.0 mhz-design.actonservice.com
 0.0.0.0 mhzftye.xyz
 0.0.0.0 mi-de-ner-nis3.info
@@ -52133,6 +52137,7 @@
 0.0.0.0 prodigysomeone.click
 0.0.0.0 proditor.sparda.de
 0.0.0.0 prodmp.ru
+0.0.0.0 prodregistryv2.org
 0.0.0.0 prodresell.com
 0.0.0.0 producebreed.com
 0.0.0.0 producedendorsecamp.com
@@ -55987,6 +55992,7 @@
 0.0.0.0 s.boydgaming.com
 0.0.0.0 s.bramptonguardian.com
 0.0.0.0 s.brin.io
+0.0.0.0 s.bussyhunter.com
 0.0.0.0 s.cadent.bloomberglaw.com
 0.0.0.0 s.caledonenterprise.com
 0.0.0.0 s.cambridgetimes.ca
@@ -56003,6 +56009,7 @@
 0.0.0.0 s.dc-tag.jp
 0.0.0.0 s.durhamregion.com
 0.0.0.0 s.ergotherapieblog.de
+0.0.0.0 s.everydayporn.co
 0.0.0.0 s.fission.codes
 0.0.0.0 s.flamboroughreview.com
 0.0.0.0 s.fraservotes.com
@@ -72526,6 +72533,7 @@
 0.0.0.0 tweakarrangement.com
 0.0.0.0 tweetdeck.net.anwalt.de
 0.0.0.0 tweezesmalanga.com
+0.0.0.0 tweisii.top
 0.0.0.0 tweitter.com
 0.0.0.0 twelfthcomprehendgrape.com
 0.0.0.0 twelfthdistasteful.com
@@ -73858,6 +73866,7 @@
 0.0.0.0 uwavoptig.com
 0.0.0.0 uwaxoyfklhm.com
 0.0.0.0 uwdzbo.tgw.com
+0.0.0.0 uweisit.top
 0.0.0.0 uweriot.top
 0.0.0.0 uwerpyh.cn
 0.0.0.0 uwfcqtdb.xyz
@@ -76849,6 +76858,7 @@
 0.0.0.0 wsfc-t.topya.com
 0.0.0.0 wsfc.topya.com
 0.0.0.0 wsgayq.xyz
+0.0.0.0 wsgnihbh.icu
 0.0.0.0 wshufa.com
 0.0.0.0 wsjlbbqemr23.com
 0.0.0.0 wsmcdn.audioeye.com
@@ -78093,7 +78103,6 @@
 0.0.0.0 xlviiirdr.com
 0.0.0.0 xlviirdr.com
 0.0.0.0 xlvirdr.com
-0.0.0.0 xlvul.ajscdn.com
 0.0.0.0 xlvvy4msxr.coolinastore.com
 0.0.0.0 xlwrdnrw.xyz
 0.0.0.0 xlxehr.xyz
