@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Mon Nov 18 07:13:48 AM UTC 2024
+! Updated: Mon Nov 18 07:32:40 AM UTC 2024
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -144451,6 +144451,7 @@ publish0x.com###registerPopup
 publish0x.com##.show.fade.modal
 quillette.com###ghost-portal-root .gh-portal-triggerbtn-iframe
 quillette.com##.is-open.outpost-popup.outpost-cta
+quillette.com##.outpost-cta-container
 quillette.com##.outpost-cta-inner
 quranexplorer.com###mask
 quranexplorer.com##.clearfix.window
@@ -144767,6 +144768,7 @@ m.imgur.com#$#body { overflow-y: visible!important; }
 mondoweiss.net##body,html:style(overflow: auto !important)
 news.yahoo.com##body,html:style(overflow: auto !important)
 profellow.com##body,html:style(overflow: auto !important)
+quillette.com##body,html:style(overflow: auto !important)
 rebelnews.com##body,html:style(overflow: auto !important)
 reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
 stpetecatalyst.com##body,html:style(overflow: auto !important)
