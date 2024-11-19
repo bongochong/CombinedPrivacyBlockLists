@@ -406,6 +406,7 @@
 ^accounts\.eu1\.gigya\.com$
 ^activate\.adobe\.com$
 ^activation\.adobedtm\.com$
+^activity\.windows\.com$
 ^adl\.windows\.com$
 ^ads-admin\.brave\.com$
 ^ads-admin\.brave\.software$
@@ -678,6 +679,7 @@
 ^p\.typekit\.net$
 ^paper\.dropbox\.com$
 ^pbs\.twimg\.com$
+^pci\.spotify\.com$
 ^pgl\.yoyo\.org$
 ^phobos\.apple\.com$
 ^pic\.twitter\.com$

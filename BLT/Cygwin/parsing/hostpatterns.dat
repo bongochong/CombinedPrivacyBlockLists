@@ -422,6 +422,7 @@ localhost$
 ^0\.0\.0\.0\saccounts\.eu1\.gigya\.com$
 ^0\.0\.0\.0\sactivate\.adobe\.com$
 ^0\.0\.0\.0\sactivation\.adobedtm\.com$
+^0\.0\.0\.0\sactivity\.windows\.com$
 ^0\.0\.0\.0\sadl\.windows\.com$
 ^0\.0\.0\.0\sads-admin\.brave\.com$
 ^0\.0\.0\.0\sads-admin\.brave\.software$
@@ -694,6 +695,7 @@ localhost$
 ^0\.0\.0\.0\sp\.typekit\.net$
 ^0\.0\.0\.0\spaper\.dropbox\.com$
 ^0\.0\.0\.0\spbs\.twimg\.com$
+^0\.0\.0\.0\spci\.spotify\.com$
 ^0\.0\.0\.0\spgl\.yoyo\.org$
 ^0\.0\.0\.0\sphobos\.apple\.com$
 ^0\.0\.0\.0\spic\.twitter\.com$
