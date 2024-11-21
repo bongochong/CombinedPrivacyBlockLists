@@ -1,4 +1,4 @@
-# Mon Nov 18 04:52:25 AM UTC 2024
+# Thu Nov 21 02:56:53 AM UTC 2024
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -2349,6 +2349,7 @@
 0.0.0.0 cad.youku.com
 0.0.0.0 cade.clmbtech.com
 0.0.0.0 cads.scalemonk.com
+0.0.0.0 caerulus.io
 0.0.0.0 cafe-latte.myshoplus.com
 0.0.0.0 cafe-log.myshoplus.com
 0.0.0.0 cakesdrum.com
@@ -5318,7 +5319,6 @@
 0.0.0.0 locator1.corevm.com
 0.0.0.0 locatorpp.corevm.com
 0.0.0.0 log-api.pangolin-sdk-toutiao.com
-0.0.0.0 log-boot.tiktokv.com
 0.0.0.0 log-collector.svctr.zynga.com
 0.0.0.0 log-collectors-73517960.us-east-1.elb.amazonaws.com
 0.0.0.0 log-dbff2e04.us.v2.we-stats.com
@@ -5359,6 +5359,7 @@
 0.0.0.0 log.go.com
 0.0.0.0 log.goodreels.com
 0.0.0.0 log.happyapkdown.com
+0.0.0.0 log.heartratepros.com
 0.0.0.0 log.hitsteps.com
 0.0.0.0 log.ifood.tv
 0.0.0.0 log.intellimize.co
@@ -7082,6 +7083,7 @@
 0.0.0.0 rhythmmoney.com
 0.0.0.0 rhythmrule.com
 0.0.0.0 rich.otherlevels.com
+0.0.0.0 richlifeads.ru
 0.0.0.0 richmedia.pushwoosh.com
 0.0.0.0 richpays.com
 0.0.0.0 richreceipt.com
@@ -8599,6 +8601,7 @@
 0.0.0.0 tapsell.ir
 0.0.0.0 tapsense.com
 0.0.0.0 taptica.com
+0.0.0.0 tapulsads.ru
 0.0.0.0 target2sell.com
 0.0.0.0 targeting.influencemobile.com
 0.0.0.0 targeting.unrulymedia.com
