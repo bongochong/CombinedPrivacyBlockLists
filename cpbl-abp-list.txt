@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Thu Nov 21 03:08:39 AM UTC 2024
+! Updated: Fri Nov 22 03:20:53 AM UTC 2024
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -145062,7 +145062,9 @@ coinbase.com##[class*="UpsellCard"]
 coingecko.com##.pb-2.pt-2.container
 coingecko.com##.tw-flex.rounded-0.card.d-sm-none.d-block
 coingecko.com##.tw-items-center.tw-justify-center.tw-flex.tw-p-0.top-header
+coinpedia.org###check-also-box
 coinpedia.org##.footer-popup-ad
+coinpedia.org###footer-side-sticky
 coinpedia.org##.footerstickyimg
 coinpedia.org###first-advertise
 coinpedia.org##[class*=banner_ad]
@@ -145149,6 +145151,7 @@ glassdoor.com##.actionBarMt0.modal_main
 glassdoor.com##.background-overlay
 golang.org##.Header-banner
 grubhub.com##[class*="ppx-upsell-wrapper"]
+haaretz.com##.ae.bn.bid.bie.bif.big.bih
 haaretz.com##.footer-ruler
 hackintosh.zone###document_modal
 hackintosh.zone###some_ad_block_key_inner
@@ -145195,6 +145198,7 @@ mondoweiss.net##[class*="hustle-layout"]
 mondoweiss.net##[class*="hustle-optin"]
 mondoweiss.net##[class*="hustle-popup"]
 mondoweiss.net##[class*="mondo-ads"]
+moneycontrol.com###mc_headband
 msn.com##[data-t*="sponsored"]
 my.indeed.com##.MicroContentCard > .icl-Card--hasBorder.icl-Card
 my.indeed.com##.floating-tooltip.tooltip-type--SPELLING.resume-tooltip > div
@@ -145314,6 +145318,7 @@ statista.com##.xmoChartBoxPaywall
 stpetecatalyst.com##[class*="remodal-overlay"]
 stpetecatalyst.com##[class*="remodal-wrapper"]
 sztobeco.com###tq_float_container
+substack.com##[class*="popover"]
 tastyvapor.us###lbContent
 tastyvapor.us###lbFooter
 tastyvapor.us###lbHeader
@@ -145343,8 +145348,7 @@ tokeneo.com##.kryptowalutyInformationModal
 tokeneo.com##.show-cookies-popup.cookies-popup-wrapper
 tradingview.com##[class*="branding-banner"]
 tripadvisor.com##.ui_columns.pvTop
-twitter.com##.r-12vffkv > .r-urgr8i
-twitter.com##.r-1upvrn0.r-l5o3uw.css-1dbjc4n
+twosleevers.com###milotree_box
 ubuntuce.com###column > center
 unixmen.com##DIV#an-Modal
 unixmen.com##DIV.reveal-modal-bg
@@ -145492,6 +145496,7 @@ zerohedge.com##.Banner_banner__2PJ1Y
 ##.after_content_banner_advert
 ##.banner-300x600
 ##.banner-728x90
+##.boxzilla-pop-up-video
 ##.fixed_advert_banner
 ##.persistent-ad
 ##.railad
