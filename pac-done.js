@@ -1,4 +1,4 @@
-// **** Thu Nov 21 03:05:09 AM UTC 2024
+// **** Sun Nov 24 06:56:04 AM UTC 2024
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.00689.net") ||
@@ -77,7 +77,6 @@ shExpMatch(host, "*.1ecosolution.it") ||
 shExpMatch(host, "*.1empiredirect.com") ||
 shExpMatch(host, "*.1freecounter.com") ||
 shExpMatch(host, "*.1gbits.com") ||
-shExpMatch(host, "*.1link2020.com") ||
 shExpMatch(host, "*.1litteno.home-walil1.jp") ||
 shExpMatch(host, "*.1mp.mobi") ||
 shExpMatch(host, "*.1phads.com") ||
@@ -405,8 +404,10 @@ shExpMatch(host, "*.a2da7a7023.ada91b7b0f.com") ||
 shExpMatch(host, "*.a2dfp.net") ||
 shExpMatch(host, "*.a2pub.com") ||
 shExpMatch(host, "*.a3.websitealive.com") ||
+shExpMatch(host, "*.a300.adstattrack.com") ||
 shExpMatch(host, "*.a32.g.a.yimg.com") ||
 shExpMatch(host, "*.a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com") ||
+shExpMatch(host, "*.a400.adstattrack.com") ||
 shExpMatch(host, "*.a4b-tracking.com") ||
 shExpMatch(host, "*.a5.overclockers.ua") ||
 shExpMatch(host, "*.a50.g2.akamai.net") ||
@@ -3532,7 +3533,6 @@ shExpMatch(host, "*.ads.queendom.com") ||
 shExpMatch(host, "*.ads.quoka.de") ||
 shExpMatch(host, "*.ads.qweb.es") ||
 shExpMatch(host, "*.ads.racunalniske-novice.com") ||
-shExpMatch(host, "*.ads.radialserver.com") ||
 shExpMatch(host, "*.ads.radio1.lv") ||
 shExpMatch(host, "*.ads.ramsalt.com") ||
 shExpMatch(host, "*.ads.ratemyprofessors.com") ||
@@ -6534,6 +6534,7 @@ shExpMatch(host, "*.aoe.aacdn.jp") ||
 shExpMatch(host, "*.aom.smartbrief.com") ||
 shExpMatch(host, "*.aomarketing.blytheco.com") ||
 shExpMatch(host, "*.aomg5bzv7.com") ||
+shExpMatch(host, "*.aomsitf.com") ||
 shExpMatch(host, "*.aon.smartbrief.com") ||
 shExpMatch(host, "*.aoredi.com") ||
 shExpMatch(host, "*.aosag.net") ||
@@ -7814,6 +7815,7 @@ shExpMatch(host, "*.biddingmax.apse.trk.rixserv.com") ||
 shExpMatch(host, "*.biddingx.com") ||
 shExpMatch(host, "*.bidforclicks.com") ||
 shExpMatch(host, "*.bidgear.com") ||
+shExpMatch(host, "*.bidjora.com") ||
 shExpMatch(host, "*.bidmyads.com") ||
 shExpMatch(host, "*.bidmyadz.com") ||
 shExpMatch(host, "*.bidr.io") ||
@@ -9273,6 +9275,7 @@ shExpMatch(host, "*.click.twcwigs.com") ||
 shExpMatch(host, "*.click.uamtrk.com") ||
 shExpMatch(host, "*.click.udimg.com") ||
 shExpMatch(host, "*.click.union.ucweb.com") ||
+shExpMatch(host, "*.click.v.visionlab.es") ||
 shExpMatch(host, "*.click.wisewire.com") ||
 shExpMatch(host, "*.click.zipcodez.com") ||
 shExpMatch(host, "*.click.zoom.us") ||
@@ -10317,7 +10320,6 @@ shExpMatch(host, "*.create.leadid.com") ||
 shExpMatch(host, "*.creation-times.com") ||
 shExpMatch(host, "*.creative-serving.com") ||
 shExpMatch(host, "*.creative.ak.facebook.com") ||
-shExpMatch(host, "*.creative.bidease.com") ||
 shExpMatch(host, "*.creative.cc-dt.com") ||
 shExpMatch(host, "*.creative.eagllwin.com") ||
 shExpMatch(host, "*.creative.lkqd.net") ||
@@ -10339,6 +10341,7 @@ shExpMatch(host, "*.creatorcherry.com") ||
 shExpMatch(host, "*.creatorpassenger.com") ||
 shExpMatch(host, "*.creaturecabbage.com") ||
 shExpMatch(host, "*.credishe.com") ||
+shExpMatch(host, "*.creditcable.info") ||
 shExpMatch(host, "*.creditcardchase.click") ||
 shExpMatch(host, "*.creditsoffer.blogspot.com") ||
 shExpMatch(host, "*.creeksidehuntingpreserve.com") ||
@@ -16803,6 +16806,7 @@ shExpMatch(host, "*.klh2.celio.es") ||
 shExpMatch(host, "*.klick.vn") ||
 shExpMatch(host, "*.klickthru.com") ||
 shExpMatch(host, "*.kliks.nl") ||
+shExpMatch(host, "*.klingxai.com") ||
 shExpMatch(host, "*.klinikangka.org") ||
 shExpMatch(host, "*.klinikmrc.com") ||
 shExpMatch(host, "*.klipmart.forbes.com") ||
@@ -17215,6 +17219,7 @@ shExpMatch(host, "*.link.wetrackall.com") ||
 shExpMatch(host, "*.link4ads.com") ||
 shExpMatch(host, "*.link4link.com") ||
 shExpMatch(host, "*.linkadd.de") ||
+shExpMatch(host, "*.linkads.xyz") ||
 shExpMatch(host, "*.linkadvdirect.com") ||
 shExpMatch(host, "*.linkage-linkage.com") ||
 shExpMatch(host, "*.linkage.kakaku.com") ||
@@ -25611,6 +25616,7 @@ shExpMatch(host, "*.steamcoast.com") ||
 shExpMatch(host, "*.steamcommunitylog.chez.com") ||
 shExpMatch(host, "*.steamcommunlyt.com") ||
 shExpMatch(host, "*.steamcomuniry.com") ||
+shExpMatch(host, "*.steamcomunutty.com") ||
 shExpMatch(host, "*.steamerrecallsettlement.com") ||
 shExpMatch(host, "*.steamfiller.ru") ||
 shExpMatch(host, "*.steamrip.click") ||
@@ -29851,7 +29857,6 @@ shExpMatch(host, "1ecosolution.it") ||
 shExpMatch(host, "1empiredirect.com") ||
 shExpMatch(host, "1freecounter.com") ||
 shExpMatch(host, "1gbits.com") ||
-shExpMatch(host, "1link2020.com") ||
 shExpMatch(host, "1litteno.home-walil1.jp") ||
 shExpMatch(host, "1mp.mobi") ||
 shExpMatch(host, "1phads.com") ||
@@ -30179,8 +30184,10 @@ shExpMatch(host, "a2da7a7023.ada91b7b0f.com") ||
 shExpMatch(host, "a2dfp.net") ||
 shExpMatch(host, "a2pub.com") ||
 shExpMatch(host, "a3.websitealive.com") ||
+shExpMatch(host, "a300.adstattrack.com") ||
 shExpMatch(host, "a32.g.a.yimg.com") ||
 shExpMatch(host, "a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com") ||
+shExpMatch(host, "a400.adstattrack.com") ||
 shExpMatch(host, "a4b-tracking.com") ||
 shExpMatch(host, "a5.overclockers.ua") ||
 shExpMatch(host, "a50.g2.akamai.net") ||
@@ -33306,7 +33313,6 @@ shExpMatch(host, "ads.queendom.com") ||
 shExpMatch(host, "ads.quoka.de") ||
 shExpMatch(host, "ads.qweb.es") ||
 shExpMatch(host, "ads.racunalniske-novice.com") ||
-shExpMatch(host, "ads.radialserver.com") ||
 shExpMatch(host, "ads.radio1.lv") ||
 shExpMatch(host, "ads.ramsalt.com") ||
 shExpMatch(host, "ads.ratemyprofessors.com") ||
@@ -36308,6 +36314,7 @@ shExpMatch(host, "aoe.aacdn.jp") ||
 shExpMatch(host, "aom.smartbrief.com") ||
 shExpMatch(host, "aomarketing.blytheco.com") ||
 shExpMatch(host, "aomg5bzv7.com") ||
+shExpMatch(host, "aomsitf.com") ||
 shExpMatch(host, "aon.smartbrief.com") ||
 shExpMatch(host, "aoredi.com") ||
 shExpMatch(host, "aosag.net") ||
@@ -37588,6 +37595,7 @@ shExpMatch(host, "biddingmax.apse.trk.rixserv.com") ||
 shExpMatch(host, "biddingx.com") ||
 shExpMatch(host, "bidforclicks.com") ||
 shExpMatch(host, "bidgear.com") ||
+shExpMatch(host, "bidjora.com") ||
 shExpMatch(host, "bidmyads.com") ||
 shExpMatch(host, "bidmyadz.com") ||
 shExpMatch(host, "bidr.io") ||
@@ -39047,6 +39055,7 @@ shExpMatch(host, "click.twcwigs.com") ||
 shExpMatch(host, "click.uamtrk.com") ||
 shExpMatch(host, "click.udimg.com") ||
 shExpMatch(host, "click.union.ucweb.com") ||
+shExpMatch(host, "click.v.visionlab.es") ||
 shExpMatch(host, "click.wisewire.com") ||
 shExpMatch(host, "click.zipcodez.com") ||
 shExpMatch(host, "click.zoom.us") ||
@@ -40091,7 +40100,6 @@ shExpMatch(host, "create.leadid.com") ||
 shExpMatch(host, "creation-times.com") ||
 shExpMatch(host, "creative-serving.com") ||
 shExpMatch(host, "creative.ak.facebook.com") ||
-shExpMatch(host, "creative.bidease.com") ||
 shExpMatch(host, "creative.cc-dt.com") ||
 shExpMatch(host, "creative.eagllwin.com") ||
 shExpMatch(host, "creative.lkqd.net") ||
@@ -40113,6 +40121,7 @@ shExpMatch(host, "creatorcherry.com") ||
 shExpMatch(host, "creatorpassenger.com") ||
 shExpMatch(host, "creaturecabbage.com") ||
 shExpMatch(host, "credishe.com") ||
+shExpMatch(host, "creditcable.info") ||
 shExpMatch(host, "creditcardchase.click") ||
 shExpMatch(host, "creditsoffer.blogspot.com") ||
 shExpMatch(host, "creeksidehuntingpreserve.com") ||
@@ -46577,6 +46586,7 @@ shExpMatch(host, "klh2.celio.es") ||
 shExpMatch(host, "klick.vn") ||
 shExpMatch(host, "klickthru.com") ||
 shExpMatch(host, "kliks.nl") ||
+shExpMatch(host, "klingxai.com") ||
 shExpMatch(host, "klinikangka.org") ||
 shExpMatch(host, "klinikmrc.com") ||
 shExpMatch(host, "klipmart.forbes.com") ||
@@ -46989,6 +46999,7 @@ shExpMatch(host, "link.wetrackall.com") ||
 shExpMatch(host, "link4ads.com") ||
 shExpMatch(host, "link4link.com") ||
 shExpMatch(host, "linkadd.de") ||
+shExpMatch(host, "linkads.xyz") ||
 shExpMatch(host, "linkadvdirect.com") ||
 shExpMatch(host, "linkage-linkage.com") ||
 shExpMatch(host, "linkage.kakaku.com") ||
@@ -55385,6 +55396,7 @@ shExpMatch(host, "steamcoast.com") ||
 shExpMatch(host, "steamcommunitylog.chez.com") ||
 shExpMatch(host, "steamcommunlyt.com") ||
 shExpMatch(host, "steamcomuniry.com") ||
+shExpMatch(host, "steamcomunutty.com") ||
 shExpMatch(host, "steamerrecallsettlement.com") ||
 shExpMatch(host, "steamfiller.ru") ||
 shExpMatch(host, "steamrip.click") ||
