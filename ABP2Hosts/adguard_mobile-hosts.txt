@@ -1,4 +1,4 @@
-# Thu Nov 21 02:56:53 AM UTC 2024
+# Sun Nov 24 06:45:41 AM UTC 2024
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -1283,6 +1283,7 @@
 0.0.0.0 anycast.adnxs.com
 0.0.0.0 anylist.c.appier.net
 0.0.0.0 anythinktech.com
+0.0.0.0 aomsitf.com
 0.0.0.0 aorta.clickagy.com
 0.0.0.0 ap-adcs.rqmob.com
 0.0.0.0 ap-central.load.exelator.com
@@ -2118,6 +2119,7 @@
 0.0.0.0 biddr.brealtime.com
 0.0.0.0 bidfnt-asia.adsmoloco.com
 0.0.0.0 bidgear.com
+0.0.0.0 bidjora.com
 0.0.0.0 bidr.io
 0.0.0.0 bids.concert.io
 0.0.0.0 bidsopt.com
@@ -3145,7 +3147,6 @@
 0.0.0.0 creative-assets.quantcount.com
 0.0.0.0 creative-p.undertone.com
 0.0.0.0 creative-platform.vrvm.com
-0.0.0.0 creative.bidease.com
 0.0.0.0 creative.eagllwin.com
 0.0.0.0 creative.lkqd.net
 0.0.0.0 creative.mathads.com

@@ -561,6 +561,7 @@
 0.0.0.0 a2aprodesntls.112.2o7.net
 0.0.0.0 a2da7a7023.ada91b7b0f.com
 0.0.0.0 a2dfp.net
+0.0.0.0 a300.adstattrack.com
 0.0.0.0 a30331.actonsoftware.com
 0.0.0.0 a30616.actonsoftware.com
 0.0.0.0 a30667.actonservice.com
@@ -601,6 +602,7 @@
 0.0.0.0 a38839.actonsoftware.com
 0.0.0.0 a39176.actonservice.com
 0.0.0.0 a39204.actonsoftware.com
+0.0.0.0 a400.adstattrack.com
 0.0.0.0 a4007.actonsoftware.com
 0.0.0.0 a40428.actonsoftware.com
 0.0.0.0 a40856.actonsoftware.com
@@ -11529,6 +11531,7 @@
 0.0.0.0 credishe.com
 0.0.0.0 credit-card-application.now-cash.com
 0.0.0.0 creditburner.blueadvertise.com
+0.0.0.0 creditcable.info
 0.0.0.0 creditcardchase.click
 0.0.0.0 creditcardscom.112.2o7.net
 0.0.0.0 creditreform01.wt-eu02.net
@@ -18478,6 +18481,7 @@
 0.0.0.0 klick.vn
 0.0.0.0 klickthru.com
 0.0.0.0 kliks.nl
+0.0.0.0 klingxai.com
 0.0.0.0 klinikmrc.com
 0.0.0.0 klink.volceapplog.com
 0.0.0.0 klog.hiido.com
@@ -18834,6 +18838,7 @@
 0.0.0.0 link.wetrackall.com
 0.0.0.0 link4ads.com
 0.0.0.0 link4link.com
+0.0.0.0 linkads.xyz
 0.0.0.0 linkadvdirect.com
 0.0.0.0 linkage-linkage.com
 0.0.0.0 linkage.kakaku.com
@@ -30000,6 +30005,7 @@
 0.0.0.0 steamcommunitylog.chez.com
 0.0.0.0 steamcommunlyt.com
 0.0.0.0 steamcomuniry.com
+0.0.0.0 steamcomunutty.com
 0.0.0.0 steamerrecallsettlement.com
 0.0.0.0 steamfiller.ru
 0.0.0.0 steamrip.click
