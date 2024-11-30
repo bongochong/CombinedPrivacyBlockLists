@@ -3,7 +3,7 @@ The [update-ipfilt.sh script](https://github.com/bongochong/CombinedPrivacyBlock
 **Checklist for use**:
 1. Make sure that you have the dependencies mentioned on the main readme installed.
 2. Open a terminal in or `cd` into your `BLT` directory.
-3. Launch the script (`./update-ipfilt` should do).
+3. Launch the script (`./update-ipfilt.sh` should do).
 4. Watch the output of the script.
 5. Move the resulting block lists (`ipablock.cidr`, `btblock.p2p` and `btblock.dat`) to a directory of your choosing (or leave them in place), and configure your torrent client to utilize it, import it into your firewall's drop zone etc...
 6. Run the script as often as you like to keep these block lists up to date.
