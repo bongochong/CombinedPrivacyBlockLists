@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mostly Cosmetic CPBL Filters for ABP & uBO
-! Updated: Sat Nov 23 09:01:11 AM UTC 2024
+! Updated: Sat Nov 30 01:42:07 AM UTC 2024
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -75,6 +75,7 @@ coinbase.com##[class*="UpsellCard"]
 coingecko.com##.pb-2.pt-2.container
 coingecko.com##.tw-flex.rounded-0.card.d-sm-none.d-block
 coingecko.com##.tw-items-center.tw-justify-center.tw-flex.tw-p-0.top-header
+coinmarketcap.com##[class*="coin-ad-banner"]
 coinpedia.org###check-also-box
 coinpedia.org##.footer-popup-ad
 coinpedia.org###footer-side-sticky
