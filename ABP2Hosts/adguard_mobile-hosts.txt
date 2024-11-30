@@ -1,4 +1,4 @@
-# Sun Nov 24 06:45:41 AM UTC 2024
+# Sat Nov 30 01:18:18 AM UTC 2024
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -1163,6 +1163,7 @@
 0.0.0.0 analytics.anvato.net
 0.0.0.0 analytics.any.do
 0.0.0.0 analytics.app.funnelish.com
+0.0.0.0 analytics.baliusuperapp.xyz
 0.0.0.0 analytics.bestbuy.com
 0.0.0.0 analytics.bkav.com
 0.0.0.0 analytics.bluekai.com
@@ -1182,6 +1183,7 @@
 0.0.0.0 analytics.getshogun.com
 0.0.0.0 analytics.gismart.xyz
 0.0.0.0 analytics.glance.inmobi.com
+0.0.0.0 analytics.hardlightgames.com
 0.0.0.0 analytics.htmedia.in
 0.0.0.0 analytics.jodelapis.com
 0.0.0.0 analytics.jumboprivacy.com
@@ -3900,6 +3902,7 @@
 0.0.0.0 events.bouncex.net
 0.0.0.0 events.brightline.tv
 0.0.0.0 events.browsiprod.com
+0.0.0.0 events.bsky.app
 0.0.0.0 events.character.ai
 0.0.0.0 events.cid.samba.tv
 0.0.0.0 events.claspws.tv
@@ -5331,6 +5334,7 @@
 0.0.0.0 log-upload-os.mihoyo.com
 0.0.0.0 log-upload.mihoyo.com
 0.0.0.0 log-v4-insight.kaizenplatform.net
+0.0.0.0 log-va-us-looki.capcutapi.com
 0.0.0.0 log-va.tiktokv.com
 0.0.0.0 log-verify.mob.com
 0.0.0.0 log.51changdu.com
@@ -5916,6 +5920,7 @@
 0.0.0.0 msg.umengcloud.com
 0.0.0.0 msga.cupid.iqiyi.com
 0.0.0.0 msntest.serving-sys.com
+0.0.0.0 mssdk-va.byteoversea.com
 0.0.0.0 mtag.mman.kr
 0.0.0.0 mtburn.com
 0.0.0.0 mtburn.jp
@@ -6544,6 +6549,7 @@
 0.0.0.0 plainrequest.com
 0.0.0.0 planebasin.com
 0.0.0.0 planesorder.com
+0.0.0.0 plankton-gtm.a.autoscout24.com
 0.0.0.0 planning-analytics.ibmcloud.com
 0.0.0.0 plantdigestion.com
 0.0.0.0 plantpotato.com

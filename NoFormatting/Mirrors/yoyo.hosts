@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 21 Nov 2024 11:03:43 GMT
-# entries:        3530
+# last updated:   Fri, 29 Nov 2024 19:50:12 GMT
+# entries:        3537
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -21,6 +21,7 @@
 127.0.0.1 247media.com
 127.0.0.1 24log.com
 127.0.0.1 24pm-affiliation.com
+127.0.0.1 2linkpath.com
 127.0.0.1 2mdn.net
 127.0.0.1 2o7.net
 127.0.0.1 2znp09oa.com
@@ -30,6 +31,7 @@
 127.0.0.1 360yield.com
 127.0.0.1 3lift.com
 127.0.0.1 3o9s.short.gy
+127.0.0.1 4clicker.pro
 127.0.0.1 4d5.net
 127.0.0.1 4info.com
 127.0.0.1 4jnzhl0d0.com
@@ -65,6 +67,7 @@
 127.0.0.1 abacho.net
 127.0.0.1 abc-ads.com
 127.0.0.1 ablink.comms.trainline.com
+127.0.0.1 ablink.info.wise.com
 127.0.0.1 ablink.news.emails-puregym.com
 127.0.0.1 ablinks.mail.hinge.co
 127.0.0.1 aboardlevel.com
@@ -1116,6 +1119,7 @@
 127.0.0.1 bidclix.com
 127.0.0.1 bidclix.net
 127.0.0.1 bidr.io
+127.0.0.1 bidsopt.com
 127.0.0.1 bidswitch.net
 127.0.0.1 bidtellect.com
 127.0.0.1 bidvertiser.com
@@ -1140,7 +1144,6 @@
 127.0.0.1 blogherads.com
 127.0.0.1 blogtoplist.se
 127.0.0.1 blogtopsites.com
-127.0.0.1 blueadvertise.com
 127.0.0.1 blueconic.com
 127.0.0.1 blueconic.net
 127.0.0.1 bluekai.com
@@ -1480,6 +1483,7 @@
 127.0.0.1 daughterstone.com
 127.0.0.1 dc-storm.com
 127.0.0.1 de17a.com
+127.0.0.1 deal-on.eu
 127.0.0.1 dealdotcom.com
 127.0.0.1 decenterads.com
 127.0.0.1 decisivebase.com
@@ -1507,6 +1511,7 @@
 127.0.0.1 digital-ads.s3.amazonaws.com
 127.0.0.1 digitalmerkat.com
 127.0.0.1 direct-events-collector.spot.im
+127.0.0.1 direct-re2.pl
 127.0.0.1 directaclick.com
 127.0.0.1 directleads.com
 127.0.0.1 directorym.com
@@ -2132,6 +2137,7 @@
 127.0.0.1 look.ufinkln.com
 127.0.0.1 loopme.com
 127.0.0.1 loudlunch.com
+127.0.0.1 lowest-price.eu
 127.0.0.1 lp3tdqle.com
 127.0.0.1 lucidmedia.com
 127.0.0.1 luckyorange.com
@@ -2695,6 +2701,7 @@
 127.0.0.1 rayjump.com
 127.0.0.1 rcadserver.com
 127.0.0.1 re-direct.pl
+127.0.0.1 re-direct1.com
 127.0.0.1 reachjunction.com
 127.0.0.1 reactx.com
 127.0.0.1 readingguilt.com
@@ -2765,6 +2772,7 @@
 127.0.0.1 richmails.com
 127.0.0.1 richstring.com
 127.0.0.1 rightstats.com
+127.0.0.1 riktok.pl
 127.0.0.1 ringplant.com
 127.0.0.1 ringsrecord.com
 127.0.0.1 ritzykey.com
@@ -3255,7 +3263,6 @@
 127.0.0.1 tracking22.com
 127.0.0.1 trackingsoft.com
 127.0.0.1 trackmysales.com
-127.0.0.1 trackuhub.com
 127.0.0.1 tradeadexchange.com
 127.0.0.1 tradedoubler.com
 127.0.0.1 traffic-exchange.com
