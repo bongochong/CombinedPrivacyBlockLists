@@ -38,6 +38,7 @@ cd ~/"$file_dir"/readmes
 curl -s "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/readmes/README-btdat.md" -o README-btdat.md
 curl -s "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/readmes/README-btp2p.md" -o README-btp2p.md
 curl -s "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/readmes/README-hosts.md" -o README-hosts.md
+curl -s "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/readmes/README-ipfilt.md" -o README-ipfilt.md
 curl -s "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/readmes/README-pac.md" -o README-pac.md
 cd ~/"$file_dir"/pac
 curl -s "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/BLT/pac/cmprdmns.pl" -o cmprdmns.pl
