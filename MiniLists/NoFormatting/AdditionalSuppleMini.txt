@@ -1098,6 +1098,7 @@
 0.0.0.0 ad.api.3g.tudou.com
 0.0.0.0 ad.api.3g.youku.com
 0.0.0.0 ad.api.ateam-ad.jp
+0.0.0.0 ad.api.attribuly.com
 0.0.0.0 ad.api.fello.net
 0.0.0.0 ad.api.kaffnet.com
 0.0.0.0 ad.api.yyapi.net
@@ -10145,6 +10146,7 @@
 0.0.0.0 chiefexecutive.actonservice.com
 0.0.0.0 chikayo-dsp.shinobi.jp
 0.0.0.0 childlikeform.com
+0.0.0.0 childrenoftheclouds.com
 0.0.0.0 chiliitalia01.wt-eu02.net
 0.0.0.0 chin-adnetwork.genieesspv.jp
 0.0.0.0 china-cdn.unityads.unity3d.com
@@ -12020,6 +12022,7 @@
 0.0.0.0 datenaughtysingles.click
 0.0.0.0 datesmart.link
 0.0.0.0 datifyny.com
+0.0.0.0 dating-express.com
 0.0.0.0 dating.hdxvideos.ru
 0.0.0.0 dating.service2u.shop
 0.0.0.0 dating365.link
@@ -14606,6 +14609,7 @@
 0.0.0.0 forbes.aaxads.com
 0.0.0.0 forbesinfo.forbes.com
 0.0.0.0 forbesmags.forbes.com
+0.0.0.0 forcesafesearch.google.com
 0.0.0.0 ford.112.2o7.net
 0.0.0.0 fordci1.ez-touch.net
 0.0.0.0 fordci2.ez-touch.net
@@ -17114,6 +17118,7 @@
 0.0.0.0 homepproav.112.2o7.net
 0.0.0.0 homesteadtechnologies.122.2o7.net
 0.0.0.0 homestore.122.2o7.net
+0.0.0.0 homtail.shop
 0.0.0.0 honeybulb.com
 0.0.0.0 honeygoldfish.com
 0.0.0.0 honfurniture.122.2o7.net
@@ -22328,6 +22333,7 @@
 0.0.0.0 my.mobfox.com
 0.0.0.0 my.trackjs.com
 0.0.0.0 my7love.xyz
+0.0.0.0 myactualblog.com
 0.0.0.0 myadcash.com
 0.0.0.0 myadsystem.com
 0.0.0.0 myaffiliateprogram.com
@@ -25585,6 +25591,7 @@
 0.0.0.0 pei-ads.thesmokingjacket.com
 0.0.0.0 pejqoq4cafo3bg9yqqqtk5e6s6.com
 0.0.0.0 pelastorl.com
+0.0.0.0 pelikan-network.ir
 0.0.0.0 pelmorexmedia.122.2o7.net
 0.0.0.0 pennwellcorp.112.2o7.net
 0.0.0.0 pennyweb.com
@@ -31400,6 +31407,7 @@
 0.0.0.0 track.totalav.com
 0.0.0.0 track.tproger.ru
 0.0.0.0 track.trackingtraffo.com
+0.0.0.0 track.trafficdarmcap.com
 0.0.0.0 track.uc.cn
 0.0.0.0 track.ugamezone.com
 0.0.0.0 track.ultimate-guitar.com
@@ -33508,6 +33516,7 @@
 0.0.0.0 weserkurier01.webtrekk.net
 0.0.0.0 wesertok.lol
 0.0.0.0 westernunionglobal.112.2o7.net
+0.0.0.0 westpace-support.freewebhostmost.com
 0.0.0.0 westwickfarrow.122.2o7.net
 0.0.0.0 wetpeachcash.com
 0.0.0.0 wetrack.it
@@ -33542,6 +33551,7 @@
 0.0.0.0 whoisonline.net
 0.0.0.0 wholenicefeed.com
 0.0.0.0 wholesaletraffic.info
+0.0.0.0 wholewowblog.com
 0.0.0.0 whos.amung.us
 0.0.0.0 whoutchi.net
 0.0.0.0 whouzelt.xyz

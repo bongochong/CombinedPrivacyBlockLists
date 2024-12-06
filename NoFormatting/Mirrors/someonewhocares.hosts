@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sun, 01 Dec 2024 at 00:17:58 GMT
+# Last updated: Thu, 05 Dec 2024 at 04:30:55 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1774,6 +1774,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 bergeresdefrance.fr
 0.0.0.0 besacon.fr
 0.0.0.0 bestblackhatforum.fr
+0.0.0.0 bestoftoday.click
 0.0.0.0 bestreview.site
 0.0.0.0 bestwebpillplace.com
 0.0.0.0 bestwesterne.fr
@@ -1998,6 +1999,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 dbios.org
 0.0.0.0 dealerconnection.fr
 0.0.0.0 dealiveroo.fr
+0.0.0.0 declarateenquiebra.cl
 0.0.0.0 decompiler.fr
 0.0.0.0 dejoyaux.fr
 0.0.0.0 delamaisn.fr
