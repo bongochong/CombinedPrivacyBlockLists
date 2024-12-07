@@ -1,4 +1,4 @@
-// **** Fri Dec  6 06:43:51 AM UTC 2024
+// **** Sat Dec  7 09:34:15 AM UTC 2024
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.00689.net") ||
@@ -1698,6 +1698,7 @@ shExpMatch(host, "*.adexchangetracker.com") ||
 shExpMatch(host, "*.adexcite.com") ||
 shExpMatch(host, "*.adexmedias.com") ||
 shExpMatch(host, "*.adexo.ir") ||
+shExpMatch(host, "*.adexofiles.ir") ||
 shExpMatch(host, "*.adexpose.com") ||
 shExpMatch(host, "*.adexprt.com") ||
 shExpMatch(host, "*.adexprts.com") ||
@@ -3634,6 +3635,7 @@ shExpMatch(host, "*.ads.sl.interpals.net") ||
 shExpMatch(host, "*.ads.sladur.com") ||
 shExpMatch(host, "*.ads.slim.com") ||
 shExpMatch(host, "*.ads.smartolution.com") ||
+shExpMatch(host, "*.ads.smrtbid.com") ||
 shExpMatch(host, "*.ads.snapchat.com") ||
 shExpMatch(host, "*.ads.snowball.com") ||
 shExpMatch(host, "*.ads.soapcreative.com") ||
@@ -12745,6 +12747,7 @@ shExpMatch(host, "*.fapello.xyz") ||
 shExpMatch(host, "*.fapp.work") ||
 shExpMatch(host, "*.farakav.com") ||
 shExpMatch(host, "*.farethief.com") ||
+shExpMatch(host, "*.farlad.com") ||
 shExpMatch(host, "*.farmergoldfish.com") ||
 shExpMatch(host, "*.farsbux.ir") ||
 shExpMatch(host, "*.farshake.com") ||
@@ -13089,7 +13092,6 @@ shExpMatch(host, "*.for20-coco.com") ||
 shExpMatch(host, "*.foraxewan.com") ||
 shExpMatch(host, "*.forbesinfo.forbes.com") ||
 shExpMatch(host, "*.forbesmags.forbes.com") ||
-shExpMatch(host, "*.forcesafesearch.google.com") ||
 shExpMatch(host, "*.ford.demdex.net") ||
 shExpMatch(host, "*.fordomws.net") ||
 shExpMatch(host, "*.forecasttiger.com") ||
@@ -15655,7 +15657,6 @@ shExpMatch(host, "*.httpwwwadserver.com") ||
 shExpMatch(host, "*.hturnshal.com") ||
 shExpMatch(host, "*.hub.adlpartner.com") ||
 shExpMatch(host, "*.hub.firestonecompleteautocare.com") ||
-shExpMatch(host, "*.hubadnetwork.com") ||
 shExpMatch(host, "*.hublecame.com") ||
 shExpMatch(host, "*.hubmetrics.samsclub.com") ||
 shExpMatch(host, "*.hubspotlinks.com") ||
@@ -19912,6 +19913,7 @@ shExpMatch(host, "*.myhitbox.com") ||
 shExpMatch(host, "*.myhotdates.com") ||
 shExpMatch(host, "*.myiptest.com") ||
 shExpMatch(host, "*.mylead-tracking.tracknow.info") ||
+shExpMatch(host, "*.mylead.global") ||
 shExpMatch(host, "*.mylifeads.info") ||
 shExpMatch(host, "*.mylink-today.com") ||
 shExpMatch(host, "*.mylittlebigweb.com") ||
@@ -22860,7 +22862,6 @@ shExpMatch(host, "*.revive-adserver.net") ||
 shExpMatch(host, "*.revive-static.worldscreen.com") ||
 shExpMatch(host, "*.revive.agenda.ge") ||
 shExpMatch(host, "*.revive.bdnews24.com") ||
-shExpMatch(host, "*.revive.docmatic.org") ||
 shExpMatch(host, "*.revive.dubcnm.com") ||
 shExpMatch(host, "*.revive.haskovo.net") ||
 shExpMatch(host, "*.revive.netriota.hu") ||
@@ -24872,6 +24873,7 @@ shExpMatch(host, "*.spotx.tv") ||
 shExpMatch(host, "*.spotxcdn.com.edgekey.net") ||
 shExpMatch(host, "*.spotxchange-a.akamaihd.net") ||
 shExpMatch(host, "*.spotxchange.com") ||
+shExpMatch(host, "*.spotyfile.com") ||
 shExpMatch(host, "*.spring-sealion.com") ||
 shExpMatch(host, "*.spring-tns.net") ||
 shExpMatch(host, "*.springaftermath.com") ||
@@ -31557,6 +31559,7 @@ shExpMatch(host, "adexchangetracker.com") ||
 shExpMatch(host, "adexcite.com") ||
 shExpMatch(host, "adexmedias.com") ||
 shExpMatch(host, "adexo.ir") ||
+shExpMatch(host, "adexofiles.ir") ||
 shExpMatch(host, "adexpose.com") ||
 shExpMatch(host, "adexprt.com") ||
 shExpMatch(host, "adexprts.com") ||
@@ -33493,6 +33496,7 @@ shExpMatch(host, "ads.sl.interpals.net") ||
 shExpMatch(host, "ads.sladur.com") ||
 shExpMatch(host, "ads.slim.com") ||
 shExpMatch(host, "ads.smartolution.com") ||
+shExpMatch(host, "ads.smrtbid.com") ||
 shExpMatch(host, "ads.snapchat.com") ||
 shExpMatch(host, "ads.snowball.com") ||
 shExpMatch(host, "ads.soapcreative.com") ||
@@ -42604,6 +42608,7 @@ shExpMatch(host, "fapello.xyz") ||
 shExpMatch(host, "fapp.work") ||
 shExpMatch(host, "farakav.com") ||
 shExpMatch(host, "farethief.com") ||
+shExpMatch(host, "farlad.com") ||
 shExpMatch(host, "farmergoldfish.com") ||
 shExpMatch(host, "farsbux.ir") ||
 shExpMatch(host, "farshake.com") ||
@@ -42948,7 +42953,6 @@ shExpMatch(host, "for20-coco.com") ||
 shExpMatch(host, "foraxewan.com") ||
 shExpMatch(host, "forbesinfo.forbes.com") ||
 shExpMatch(host, "forbesmags.forbes.com") ||
-shExpMatch(host, "forcesafesearch.google.com") ||
 shExpMatch(host, "ford.demdex.net") ||
 shExpMatch(host, "fordomws.net") ||
 shExpMatch(host, "forecasttiger.com") ||
@@ -45514,7 +45518,6 @@ shExpMatch(host, "httpwwwadserver.com") ||
 shExpMatch(host, "hturnshal.com") ||
 shExpMatch(host, "hub.adlpartner.com") ||
 shExpMatch(host, "hub.firestonecompleteautocare.com") ||
-shExpMatch(host, "hubadnetwork.com") ||
 shExpMatch(host, "hublecame.com") ||
 shExpMatch(host, "hubmetrics.samsclub.com") ||
 shExpMatch(host, "hubspotlinks.com") ||
@@ -49771,6 +49774,7 @@ shExpMatch(host, "myhitbox.com") ||
 shExpMatch(host, "myhotdates.com") ||
 shExpMatch(host, "myiptest.com") ||
 shExpMatch(host, "mylead-tracking.tracknow.info") ||
+shExpMatch(host, "mylead.global") ||
 shExpMatch(host, "mylifeads.info") ||
 shExpMatch(host, "mylink-today.com") ||
 shExpMatch(host, "mylittlebigweb.com") ||
@@ -52719,7 +52723,6 @@ shExpMatch(host, "revive-adserver.net") ||
 shExpMatch(host, "revive-static.worldscreen.com") ||
 shExpMatch(host, "revive.agenda.ge") ||
 shExpMatch(host, "revive.bdnews24.com") ||
-shExpMatch(host, "revive.docmatic.org") ||
 shExpMatch(host, "revive.dubcnm.com") ||
 shExpMatch(host, "revive.haskovo.net") ||
 shExpMatch(host, "revive.netriota.hu") ||
@@ -54731,6 +54734,7 @@ shExpMatch(host, "spotx.tv") ||
 shExpMatch(host, "spotxcdn.com.edgekey.net") ||
 shExpMatch(host, "spotxchange-a.akamaihd.net") ||
 shExpMatch(host, "spotxchange.com") ||
+shExpMatch(host, "spotyfile.com") ||
 shExpMatch(host, "spring-sealion.com") ||
 shExpMatch(host, "spring-tns.net") ||
 shExpMatch(host, "springaftermath.com") ||
