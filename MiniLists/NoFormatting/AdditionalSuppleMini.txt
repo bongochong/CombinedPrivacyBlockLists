@@ -2095,6 +2095,7 @@
 0.0.0.0 adexcite.com
 0.0.0.0 adexmedias.com
 0.0.0.0 adexo.ir
+0.0.0.0 adexofiles.ir
 0.0.0.0 adexp.liftoff.io
 0.0.0.0 adexpose.com
 0.0.0.0 adexprt.com
@@ -14275,6 +14276,7 @@
 0.0.0.0 farakav.com
 0.0.0.0 farecastcom.122.2o7.net
 0.0.0.0 farethief.com
+0.0.0.0 farlad.com
 0.0.0.0 farmergoldfish.com
 0.0.0.0 farsbux.ir
 0.0.0.0 farshake.com
@@ -14609,7 +14611,6 @@
 0.0.0.0 forbes.aaxads.com
 0.0.0.0 forbesinfo.forbes.com
 0.0.0.0 forbesmags.forbes.com
-0.0.0.0 forcesafesearch.google.com
 0.0.0.0 ford.112.2o7.net
 0.0.0.0 fordci1.ez-touch.net
 0.0.0.0 fordci2.ez-touch.net
@@ -29229,6 +29230,7 @@
 0.0.0.0 spotx.tv
 0.0.0.0 spotxchange-a.akamaihd.net
 0.0.0.0 spotxchange.com
+0.0.0.0 spotyfile.com
 0.0.0.0 spr.ad-stir.com
 0.0.0.0 spring-sealion.com
 0.0.0.0 spring-tns.net

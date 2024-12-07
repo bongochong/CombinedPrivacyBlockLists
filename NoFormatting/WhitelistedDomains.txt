@@ -323,6 +323,7 @@ fonts.gstatic.com
 fonts.net
 footlocker.com
 forbes.com
+forcesafesearch.google.com
 forum.xda-developers.com
 forums.sonarr.tv
 foxnews.demdex.net
