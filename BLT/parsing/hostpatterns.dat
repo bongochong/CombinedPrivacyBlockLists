@@ -607,6 +607,7 @@ localhost$
 ^0\.0\.0\.0\sfast\.fonts\.net$
 ^0\.0\.0\.0\sfirefox\.settings\.services\.mozilla\.com$
 ^0\.0\.0\.0\sfonts\.gstatic\.com$
+^0\.0\.0\.0\sforcesafesearch\.google\.com$
 ^0\.0\.0\.0\sforum\.xda-developers\.com$
 ^0\.0\.0\.0\sforums\.sonarr\.tv$
 ^0\.0\.0\.0\sfoxnews\.demdex\.net$
