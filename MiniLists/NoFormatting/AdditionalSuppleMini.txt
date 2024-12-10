@@ -20083,12 +20083,9 @@
 0.0.0.0 images.dailydiscounts.com
 0.0.0.0 images.directtrack.com
 0.0.0.0 images.fastclick.net
-0.0.0.0 images.kika.de
-0.0.0.0 images.nytimes.com
 0.0.0.0 images.persgroepadvertising.be
 0.0.0.0 images.proxena-adserver.com
 0.0.0.0 images.taboola.com
-0.0.0.0 images.wanadooregie.com
 0.0.0.0 images.xmax.jp
 0.0.0.0 images1.paycounter.com
 0.0.0.0 images1.taboola.com
@@ -20141,8 +20138,6 @@
 0.0.0.0 img.ll.impact-ad.jp
 0.0.0.0 img.macromill.com
 0.0.0.0 img.mobee2.jp
-0.0.0.0 img.prohardver.hu
-0.0.0.0 img.yemeksepeti.com
 0.0.0.0 img.yomereba.com
 0.0.0.0 img01.webtrekk.net
 0.0.0.0 img04.webtrekk.net
@@ -36900,6 +36895,7 @@
 0.0.0.0 tg.socdm.com
 0.0.0.0 tg1.adservrs.com
 0.0.0.0 tgdfm.adtdp.com
+0.0.0.0 tggame.xyz
 0.0.0.0 tgn.122.2o7.net
 0.0.0.0 tgpcounter.freethumbnailgalleries.com
 0.0.0.0 tgram.ru

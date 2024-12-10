@@ -24802,13 +24802,10 @@
 0.0.0.0 images.dev.common.beat.no
 0.0.0.0 images.directtrack.com
 0.0.0.0 images.fastclick.net
-0.0.0.0 images.kika.de
 0.0.0.0 images.laofamilymerce.com
-0.0.0.0 images.nytimes.com
 0.0.0.0 images.persgroepadvertising.be
 0.0.0.0 images.proxena-adserver.com
 0.0.0.0 images.taboola.com
-0.0.0.0 images.wanadooregie.com
 0.0.0.0 images.xmax.jp
 0.0.0.0 images1.paycounter.com
 0.0.0.0 images1.taboola.com
@@ -24867,8 +24864,6 @@
 0.0.0.0 img.macromill.com
 0.0.0.0 img.martatovaglieri.com
 0.0.0.0 img.mobee2.jp
-0.0.0.0 img.prohardver.hu
-0.0.0.0 img.yemeksepeti.com
 0.0.0.0 img.yomereba.com
 0.0.0.0 img01.webtrekk.net
 0.0.0.0 img04.webtrekk.net
@@ -45333,6 +45328,7 @@
 0.0.0.0 tg8.cllgxx.com
 0.0.0.0 tgatpk.s3.ap-northeast-2.amazonaws.com
 0.0.0.0 tgdfm.adtdp.com
+0.0.0.0 tggame.xyz
 0.0.0.0 tgn.122.2o7.net
 0.0.0.0 tgpcounter.freethumbnailgalleries.com
 0.0.0.0 tgram.ru
@@ -50172,7 +50168,6 @@
 0.0.0.0 www.cigar.pt
 0.0.0.0 www.cigarette-online.com
 0.0.0.0 www.cindyintim.de
-0.0.0.0 www.cinedaily.com
 0.0.0.0 www.cineface.com
 0.0.0.0 www.cinemabio.com
 0.0.0.0 www.cinepro.com
