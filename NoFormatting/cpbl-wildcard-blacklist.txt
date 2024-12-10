@@ -4,7 +4,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 12/10/24~06:42:18 -~
+# ~- 12/10/24~07:28:51 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -8518,31 +8518,13 @@
 *.admin.adnation.com
 *.admin.aishangzhua.com
 *.admin.datingclix.com
-*.admin.dkcjnn.tggame.xyz
-*.admin.dkjssc.tggame.xyz
-*.admin.dkpc28.tggame.xyz
-*.admin.dkpk10.tggame.xyz
 *.admin.duc3k.com
 *.admin.econ.gg
 *.admin.gettopple.com
 *.admin.giaminhmedia.vn
 *.admin.healthinsurancesolutions.org
-*.admin.khaz10.tggame.xyz
-*.admin.khbjl.tggame.xyz
-*.admin.khbt20.tggame.xyz
-*.admin.khcjnn.tggame.xyz
-*.admin.khhbnn.tggame.xyz
-*.admin.khjssc.tggame.xyz
-*.admin.khlhc.tggame.xyz
-*.admin.khpc20.tggame.xyz
-*.admin.khpc28.tggame.xyz
-*.admin.khpc32.tggame.xyz
-*.admin.khpcmp.tggame.xyz
-*.admin.khpcwp.tggame.xyz
-*.admin.khyxx.tggame.xyz
 *.admin.landingtrk.com
 *.admin.net.fidorbank.uk
-*.admin.nfcjnn.tggame.xyz
 *.admin.onlinefact.info
 *.admin.phunusuckhoe.vn
 *.admin.redpathmedia.com
@@ -8555,9 +8537,6 @@
 *.admin.trafficbaron.com
 *.admin.voh.com.vn
 *.admin.vrumeads.com
-*.admin.xwpk10.tggame.xyz
-*.admin.zhbjl.tggame.xyz
-*.admin.zhtz.tggame.xyz
 *.admin3.danarimedia.com
 *.admina.xyz
 *.adminbtc.ru
@@ -16989,10 +16968,6 @@
 *.api.data-monitor.info
 *.api.datingclix.com
 *.api.digitalpiloten.org
-*.api.dkjssc.tggame.xyz
-*.api.dkpc28.tggame.xyz
-*.api.dkpk10.tggame.xyz
-*.api.dkwallet.tggame.xyz
 *.api.doumob.com
 *.api.e-pfg.ca
 *.api.eagllwin.com
@@ -17038,18 +17013,6 @@
 *.api.karpishe.com
 *.api.keen.io
 *.api.kekw.world
-*.api.khaz10.tggame.xyz
-*.api.khbjl.tggame.xyz
-*.api.khbt20.tggame.xyz
-*.api.khcjnn.tggame.xyz
-*.api.khhbnn.tggame.xyz
-*.api.khjssc.tggame.xyz
-*.api.khpc20.tggame.xyz
-*.api.khpc28.tggame.xyz
-*.api.khpc32.tggame.xyz
-*.api.khpcmp.tggame.xyz
-*.api.khpcwp.tggame.xyz
-*.api.khyxx.tggame.xyz
 *.api.lab.amplitude.com
 *.api.lab.eu.amplitude.com
 *.api.lanistaads.com
@@ -17076,7 +17039,6 @@
 *.api.myendpoint.io
 *.api.nas.nct.vn
 *.api.newsfeed.intl.miui.com
-*.api.nfhbnn.tggame.xyz
 *.api.ngamgaixinh.art
 *.api.ning.com
 *.api.nrelate.com
@@ -17145,12 +17107,7 @@
 *.api.wonderpush.com
 *.api.wootric.com.herokudns.com
 *.api.wootric.com
-*.api.xwpk10.tggame.xyz
 *.api.xxxbanjo.com
-*.api.zhbjl.tggame.xyz
-*.api.zhlhc.tggame.xyz
-*.api.zhpc20.tggame.xyz
-*.api.zhtz.tggame.xyz
 *.api.zwizzarmyknife.com
 *.api168168.com
 *.api2.amplitude.com
@@ -64399,30 +64356,7 @@
 *.hoofsduke.com
 *.hoojique.xyz
 *.hoojts.demmelhuber.net
-*.hook.dkcjnn.tggame.xyz
-*.hook.dkjssc.tggame.xyz
-*.hook.dkpc28.tggame.xyz
-*.hook.dkpk10.tggame.xyz
-*.hook.dkwallet.tggame.xyz
 *.hook.integromat.com
-*.hook.khaz10.tggame.xyz
-*.hook.khbt20.tggame.xyz
-*.hook.khcjnn.tggame.xyz
-*.hook.khhx20.tggame.xyz
-*.hook.khjssc.tggame.xyz
-*.hook.khlhc.tggame.xyz
-*.hook.khpc20.tggame.xyz
-*.hook.khpc28.tggame.xyz
-*.hook.khpc32.tggame.xyz
-*.hook.khpcmp.tggame.xyz
-*.hook.khpcwp.tggame.xyz
-*.hook.khyxx.tggame.xyz
-*.hook.nfhbnn.tggame.xyz
-*.hook.xwpk10.tggame.xyz
-*.hook.zhbjl.tggame.xyz
-*.hook.zhlhc.tggame.xyz
-*.hook.zhpc20.tggame.xyz
-*.hook.zhtz.tggame.xyz
 *.hook2up6.top
 *.hook6vein.com
 *.hookawep.net
@@ -66970,7 +66904,6 @@
 *.images.notifications.aigdirect.com
 *.images.novedades.fibercorp.com.ar
 *.images.nwinsurance.pemco.com
-*.images.nytimes.com
 *.images.offers.princesscruises.co.uk
 *.images.on.karnovgroup.com
 *.images.one.leumicard.co.il
@@ -67082,7 +67015,6 @@
 *.images.v3.com
 *.images.verizonconnect.com
 *.images.voyage.apl.com
-*.images.wanadooregie.com
 *.images.warranty.2-10.com
 *.images.web.pirelli.com
 *.images.web.roberthalf.com
@@ -84522,7 +84454,6 @@
 *.merchant-center-analytics.goog
 *.merchant-mail.neosurf.com
 *.merchant.libertycarz.com
-*.merchant.tggame.xyz
 *.merchantadvantage.com
 *.merchenta.com
 *.mercifulsurveysurpass.com
@@ -104715,7 +104646,6 @@
 *.randkuj.xyz
 *.random-affiliate.atimaze.com
 *.random-logic.com
-*.random.tggame.xyz
 *.randomadsrv.com
 *.randomamongst.com
 *.randomassertiveacacia.com
@@ -128479,6 +128409,7 @@
 *.tgg.top-casinos-list.com
 *.tgg.videogamesea.com
 *.tgg.you-win-lucky-games.com
+*.tggame.xyz
 *.tghbn12.com
 *.tgidskii.top
 *.tgirgs.flinders.nl
