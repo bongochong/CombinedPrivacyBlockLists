@@ -1,4 +1,4 @@
-# Sat Dec  7 09:28:50 AM UTC 2024
+# Tue Dec 10 05:18:11 AM UTC 2024
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -7892,7 +7892,6 @@
 0.0.0.0 snippet.omm.crownpeak.com
 0.0.0.0 snoresmile.com
 0.0.0.0 snowmentor.com
-0.0.0.0 snowplow-collector.apartmentlist.io
 0.0.0.0 snowplow.ownlocal.com
 0.0.0.0 snrtp-cdn.marketo.com
 0.0.0.0 snrtp1.marketo.com
