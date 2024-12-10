@@ -18,7 +18,7 @@
 # This work is licensed under the WTFPL-v2
 # See: http://www.wtfpl.net/txt/copying
 #
-# ~- 12/10/24~06:25:39 -~
+# ~- 12/10/24~07:19:04 -~
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #  _________________________________
@@ -49418,9 +49418,7 @@
 0.0.0.0 images.hitwise.co.uk
 0.0.0.0 images.informatm.com
 0.0.0.0 images.intellitxt.com
-0.0.0.0 images.kika.de
 0.0.0.0 images.kolmic.com
-0.0.0.0 images.nytimes.com
 0.0.0.0 images.outbrain.com
 0.0.0.0 images.outbrainimg.com
 0.0.0.0 images.perf-serving.com
@@ -49434,7 +49432,6 @@
 0.0.0.0 images.topguncustomz.com
 0.0.0.0 images.v3.com
 0.0.0.0 images.viglink.com
-0.0.0.0 images.wanadooregie.com
 0.0.0.0 images.webads.co.uk
 0.0.0.0 images.webads.nl
 0.0.0.0 images.xmax.jp
@@ -49572,7 +49569,6 @@
 0.0.0.0 img.tradedoubler.com
 0.0.0.0 img.turn.com
 0.0.0.0 img.yangshengtang123.com
-0.0.0.0 img.yemeksepeti.com
 0.0.0.0 img.yomereba.com
 0.0.0.0 img.zuowen8.com
 0.0.0.0 img.zuowenwang.net
@@ -93044,6 +93040,7 @@
 0.0.0.0 tgdfm.adtdp.com
 0.0.0.0 tgel2ebtx.ru
 0.0.0.0 tget.me
+0.0.0.0 tggame.xyz
 0.0.0.0 tgidskii.top
 0.0.0.0 tgknt.com
 0.0.0.0 tgktlgyqsffx.xyz

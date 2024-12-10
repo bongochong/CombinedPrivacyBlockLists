@@ -1,4 +1,4 @@
-// **** Tue Dec 10 06:26:14 AM UTC 2024
+// **** Tue Dec 10 07:19:30 AM UTC 2024
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.007itshop.com") ||
@@ -15376,10 +15376,7 @@ shExpMatch(host, "*.images.addurance.com") ||
 shExpMatch(host, "*.images.aspireclicks.com") ||
 shExpMatch(host, "*.images.dailydiscounts.com") ||
 shExpMatch(host, "*.images.informatm.com") ||
-shExpMatch(host, "*.images.kika.de") ||
-shExpMatch(host, "*.images.nytimes.com") ||
 shExpMatch(host, "*.images.persgroepadvertising.be") ||
-shExpMatch(host, "*.images.wanadooregie.com") ||
 shExpMatch(host, "*.images1.test.de") ||
 shExpMatch(host, "*.imarketservices.com") ||
 shExpMatch(host, "*.imcounting.com") ||
@@ -15397,7 +15394,6 @@ shExpMatch(host, "*.img.maropost.com") ||
 shExpMatch(host, "*.img.mobee2.jp") ||
 shExpMatch(host, "*.img.prohardver.hu") ||
 shExpMatch(host, "*.img.riskified.com") ||
-shExpMatch(host, "*.img.yemeksepeti.com") ||
 shExpMatch(host, "*.img.yomereba.com") ||
 shExpMatch(host, "*.img2.autoimg.cn") ||
 shExpMatch(host, "*.img5-ak.cpcdn.com") ||
@@ -26910,6 +26906,7 @@ shExpMatch(host, "*.texturetrick.com") ||
 shExpMatch(host, "*.tfag.de") ||
 shExpMatch(host, "*.tfb1.usinestreet.fr") ||
 shExpMatch(host, "*.tfehmsag.xyz") ||
+shExpMatch(host, "*.tggame.xyz") ||
 shExpMatch(host, "*.tgpcounter.freethumbnailgalleries.com") ||
 shExpMatch(host, "*.tgram.ru") ||
 shExpMatch(host, "*.tgs.telefonica.com") ||
@@ -45410,10 +45407,7 @@ shExpMatch(host, "images.addurance.com") ||
 shExpMatch(host, "images.aspireclicks.com") ||
 shExpMatch(host, "images.dailydiscounts.com") ||
 shExpMatch(host, "images.informatm.com") ||
-shExpMatch(host, "images.kika.de") ||
-shExpMatch(host, "images.nytimes.com") ||
 shExpMatch(host, "images.persgroepadvertising.be") ||
-shExpMatch(host, "images.wanadooregie.com") ||
 shExpMatch(host, "images1.test.de") ||
 shExpMatch(host, "imarketservices.com") ||
 shExpMatch(host, "imcounting.com") ||
@@ -45431,7 +45425,6 @@ shExpMatch(host, "img.maropost.com") ||
 shExpMatch(host, "img.mobee2.jp") ||
 shExpMatch(host, "img.prohardver.hu") ||
 shExpMatch(host, "img.riskified.com") ||
-shExpMatch(host, "img.yemeksepeti.com") ||
 shExpMatch(host, "img.yomereba.com") ||
 shExpMatch(host, "img2.autoimg.cn") ||
 shExpMatch(host, "img5-ak.cpcdn.com") ||
@@ -56944,6 +56937,7 @@ shExpMatch(host, "texturetrick.com") ||
 shExpMatch(host, "tfag.de") ||
 shExpMatch(host, "tfb1.usinestreet.fr") ||
 shExpMatch(host, "tfehmsag.xyz") ||
+shExpMatch(host, "tggame.xyz") ||
 shExpMatch(host, "tgpcounter.freethumbnailgalleries.com") ||
 shExpMatch(host, "tgram.ru") ||
 shExpMatch(host, "tgs.telefonica.com") ||

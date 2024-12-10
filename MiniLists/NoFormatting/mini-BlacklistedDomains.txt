@@ -49383,9 +49383,7 @@ images.fastclick.net
 images.hitwise.co.uk
 images.informatm.com
 images.intellitxt.com
-images.kika.de
 images.kolmic.com
-images.nytimes.com
 images.outbrain.com
 images.outbrainimg.com
 images.perf-serving.com
@@ -49399,7 +49397,6 @@ images.taboola.com
 images.topguncustomz.com
 images.v3.com
 images.viglink.com
-images.wanadooregie.com
 images.webads.co.uk
 images.webads.nl
 images.xmax.jp
@@ -49537,7 +49534,6 @@ img.sunmediaads.com
 img.tradedoubler.com
 img.turn.com
 img.yangshengtang123.com
-img.yemeksepeti.com
 img.yomereba.com
 img.zuowen8.com
 img.zuowenwang.net
@@ -93009,6 +93005,7 @@ tgdaudience.com
 tgdfm.adtdp.com
 tgel2ebtx.ru
 tget.me
+tggame.xyz
 tgidskii.top
 tgknt.com
 tgktlgyqsffx.xyz

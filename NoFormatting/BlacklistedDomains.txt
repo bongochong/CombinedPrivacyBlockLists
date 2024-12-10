@@ -90099,7 +90099,6 @@ images.noticias.clarin.com
 images.notifications.aigdirect.com
 images.novedades.fibercorp.com.ar
 images.nwinsurance.pemco.com
-images.nytimes.com
 images.offers.princesscruises.co.uk
 images.on.karnovgroup.com
 images.one.leumicard.co.il
@@ -90224,7 +90223,6 @@ images.v3.com
 images.verizonconnect.com
 images.viglink.com
 images.voyage.apl.com
-images.wanadooregie.com
 images.warranty.2-10.com
 images.web.pirelli.com
 images.web.roberthalf.com
@@ -162782,6 +162780,7 @@ tgg.tapskygames.com
 tgg.top-casinos-list.com
 tgg.videogamesea.com
 tgg.you-win-lucky-games.com
+tggame.xyz
 tgidskii.top
 tgirgs.flinders.nl
 tgknt.com
@@ -183380,7 +183379,6 @@ www.cifor.com
 www.cigar.pt
 www.cigarette-online.com
 www.cindyintim.de
-www.cinedaily.com
 www.cineface.com
 www.cinemabio.com
 www.cinepro.com
