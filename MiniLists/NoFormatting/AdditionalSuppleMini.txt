@@ -10461,6 +10461,7 @@
 0.0.0.0 casinorewards.com
 0.0.0.0 casinotraffic.com
 0.0.0.0 casinotreasure.com
+0.0.0.0 casmp.adperfect.com
 0.0.0.0 casper.p7s1.net
 0.0.0.0 cast-js-j.adtdp.com
 0.0.0.0 casterist.info
@@ -10657,12 +10658,16 @@
 0.0.0.0 cdn.adsrvmedia.net
 0.0.0.0 cdn.adswizz.com
 0.0.0.0 cdn.adsymptotic.com
+0.0.0.0 cdn.adt328.com
 0.0.0.0 cdn.adt356.com
 0.0.0.0 cdn.adt357.net
 0.0.0.0 cdn.adt361.com
 0.0.0.0 cdn.adt511.net
 0.0.0.0 cdn.adt523.net
 0.0.0.0 cdn.adt532.com
+0.0.0.0 cdn.adt545.net
+0.0.0.0 cdn.adt567.net
+0.0.0.0 cdn.adt574.com
 0.0.0.0 cdn.adt598.com
 0.0.0.0 cdn.adtrue.com
 0.0.0.0 cdn.advertiserurl.com
@@ -22289,6 +22294,7 @@
 0.0.0.0 log.cookieyes.com
 0.0.0.0 log.cpex.cz
 0.0.0.0 log.d.eclick.vn
+0.0.0.0 log.daibieunhandan.vn
 0.0.0.0 log.daidoanket.vn
 0.0.0.0 log.dantocmiennui.vn
 0.0.0.0 log.dav.edu.vn
@@ -32067,6 +32073,7 @@
 0.0.0.0 s-img.adskeeper.com
 0.0.0.0 s-jsonp.moatads.com
 0.0.0.0 s-kiseki.jp
+0.0.0.0 s-logperf.vnexpress.net
 0.0.0.0 s-omniture.yell.com
 0.0.0.0 s-onetag.com
 0.0.0.0 s-space.jp
@@ -35950,6 +35957,7 @@
 0.0.0.0 steamtopup.ru
 0.0.0.0 steamxiazai.cn
 0.0.0.0 stedsous.xyz
+0.0.0.0 steeamcommnity.com
 0.0.0.0 steelhouse.com
 0.0.0.0 steelhousemedia.com
 0.0.0.0 steemcommuntiy.com
@@ -37804,6 +37812,7 @@
 0.0.0.0 tracker.novage.com.ua
 0.0.0.0 tracker.oval.id
 0.0.0.0 tracker.pagero.com
+0.0.0.0 tracker.personizely.net
 0.0.0.0 tracker.phunusuckhoe.vn
 0.0.0.0 tracker.phunuvagiadinh.vn
 0.0.0.0 tracker.plerdy.com
@@ -37951,6 +37960,7 @@
 0.0.0.0 tracking.aubemobile.com
 0.0.0.0 tracking.audio.thisisdax.com
 0.0.0.0 tracking.autoads.asia
+0.0.0.0 tracking.aws.judge.me
 0.0.0.0 tracking.b-cdn.net
 0.0.0.0 tracking.bababam.com
 0.0.0.0 tracking.bankofoklahoma.com
@@ -41256,6 +41266,7 @@
 0.0.0.0 xwsbxv.noracora.com
 0.0.0.0 xxa.uji8979erd77.jp
 0.0.0.0 xxjiqg.oysho.com
+0.0.0.0 xxkingkatumiwirutakayy-secondary.z23.web.core.windows.net
 0.0.0.0 xxlargepop.com
 0.0.0.0 xxxcounter.com
 0.0.0.0 xxxlmoebelhaeuserde02.wt-eu02.net
