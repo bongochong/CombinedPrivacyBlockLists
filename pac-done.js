@@ -1,4 +1,4 @@
-// **** Thu Dec 12 05:34:59 PM UTC 2024
+// **** Thu Dec 12 05:43:44 PM UTC 2024
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.00689.net") ||
@@ -35368,35 +35368,6 @@ shExpMatch(host, "*.yurizono.com") ||
 shExpMatch(host, "*.yvdaeg.on-running.com") ||
 shExpMatch(host, "*.yvmads.com") ||
 shExpMatch(host, "*.yw-cd.com") ||
-shExpMatch(host, "*.ywrcqa.11alive.com") ||
-shExpMatch(host, "*.ywrcqa.5newsonline.com") ||
-shExpMatch(host, "*.ywrcqa.abc10.com") ||
-shExpMatch(host, "*.ywrcqa.cbs8.com") ||
-shExpMatch(host, "*.ywrcqa.fox43.com") ||
-shExpMatch(host, "*.ywrcqa.fox61.com") ||
-shExpMatch(host, "*.ywrcqa.kare11.com") ||
-shExpMatch(host, "*.ywrcqa.kens5.com") ||
-shExpMatch(host, "*.ywrcqa.king5.com") ||
-shExpMatch(host, "*.ywrcqa.krem.com") ||
-shExpMatch(host, "*.ywrcqa.ksdk.com") ||
-shExpMatch(host, "*.ywrcqa.ktvb.com") ||
-shExpMatch(host, "*.ywrcqa.kvue.com") ||
-shExpMatch(host, "*.ywrcqa.newscentermaine.com") ||
-shExpMatch(host, "*.ywrcqa.newswest9.com") ||
-shExpMatch(host, "*.ywrcqa.thv11.com") ||
-shExpMatch(host, "*.ywrcqa.wcnc.com") ||
-shExpMatch(host, "*.ywrcqa.weareiowa.com") ||
-shExpMatch(host, "*.ywrcqa.wfaa.com") ||
-shExpMatch(host, "*.ywrcqa.wfmynews2.com") ||
-shExpMatch(host, "*.ywrcqa.whas11.com") ||
-shExpMatch(host, "*.ywrcqa.wkyc.com") ||
-shExpMatch(host, "*.ywrcqa.wnep.com") ||
-shExpMatch(host, "*.ywrcqa.wqad.com") ||
-shExpMatch(host, "*.ywrcqa.wthr.com") ||
-shExpMatch(host, "*.ywrcqa.wtol.com") ||
-shExpMatch(host, "*.ywrcqa.wtsp.com") ||
-shExpMatch(host, "*.ywrcqa.wusa9.com") ||
-shExpMatch(host, "*.ywrcqa.wzzm13.com") ||
 shExpMatch(host, "*.yx-ads6.com") ||
 shExpMatch(host, "*.yy4rhgzd.com") ||
 shExpMatch(host, "*.yy8j.com") ||
@@ -70949,35 +70920,6 @@ shExpMatch(host, "yurizono.com") ||
 shExpMatch(host, "yvdaeg.on-running.com") ||
 shExpMatch(host, "yvmads.com") ||
 shExpMatch(host, "yw-cd.com") ||
-shExpMatch(host, "ywrcqa.11alive.com") ||
-shExpMatch(host, "ywrcqa.5newsonline.com") ||
-shExpMatch(host, "ywrcqa.abc10.com") ||
-shExpMatch(host, "ywrcqa.cbs8.com") ||
-shExpMatch(host, "ywrcqa.fox43.com") ||
-shExpMatch(host, "ywrcqa.fox61.com") ||
-shExpMatch(host, "ywrcqa.kare11.com") ||
-shExpMatch(host, "ywrcqa.kens5.com") ||
-shExpMatch(host, "ywrcqa.king5.com") ||
-shExpMatch(host, "ywrcqa.krem.com") ||
-shExpMatch(host, "ywrcqa.ksdk.com") ||
-shExpMatch(host, "ywrcqa.ktvb.com") ||
-shExpMatch(host, "ywrcqa.kvue.com") ||
-shExpMatch(host, "ywrcqa.newscentermaine.com") ||
-shExpMatch(host, "ywrcqa.newswest9.com") ||
-shExpMatch(host, "ywrcqa.thv11.com") ||
-shExpMatch(host, "ywrcqa.wcnc.com") ||
-shExpMatch(host, "ywrcqa.weareiowa.com") ||
-shExpMatch(host, "ywrcqa.wfaa.com") ||
-shExpMatch(host, "ywrcqa.wfmynews2.com") ||
-shExpMatch(host, "ywrcqa.whas11.com") ||
-shExpMatch(host, "ywrcqa.wkyc.com") ||
-shExpMatch(host, "ywrcqa.wnep.com") ||
-shExpMatch(host, "ywrcqa.wqad.com") ||
-shExpMatch(host, "ywrcqa.wthr.com") ||
-shExpMatch(host, "ywrcqa.wtol.com") ||
-shExpMatch(host, "ywrcqa.wtsp.com") ||
-shExpMatch(host, "ywrcqa.wusa9.com") ||
-shExpMatch(host, "ywrcqa.wzzm13.com") ||
 shExpMatch(host, "yx-ads6.com") ||
 shExpMatch(host, "yy4rhgzd.com") ||
 shExpMatch(host, "yy8j.com") ||
@@ -71183,6 +71125,7 @@ shExpMatch(host, "track.msadcenter.*") ||
 shExpMatch(host, "adimage.*") ||
 shExpMatch(host, "adimages.*") ||
 shExpMatch(host, "adimg.*") ||
+shExpMatch(host, "ywrcqa.*") ||
 shExpMatch(host, "sxjfhh*") ||
 shExpMatch(host, "zalo-ads-*") ||
 shExpMatch(host, "zaloads-*") ||
