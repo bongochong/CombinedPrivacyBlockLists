@@ -363,6 +363,7 @@
 0.0.0.0 757421535252818.wt-eu02.net
 0.0.0.0 777.funnyy.net
 0.0.0.0 778835614863159.mateti.net
+0.0.0.0 77jjxx.com
 0.0.0.0 77tracking.com
 0.0.0.0 792100555808051.wt-eu02.net
 0.0.0.0 79423.analytics.edgekey.net
@@ -9517,6 +9518,7 @@
 0.0.0.0 biberukalap.com
 0.0.0.0 bibian4k.com
 0.0.0.0 bibincom.com
+0.0.0.0 biblio.sviluppo.host
 0.0.0.0 bibugal.network
 0.0.0.0 bid.adpicker.net
 0.0.0.0 bid.adpicmedia.net
@@ -11871,6 +11873,7 @@
 0.0.0.0 communications.ypo.org
 0.0.0.0 community.hill-murray.org
 0.0.0.0 community.weforum.org
+0.0.0.0 communitystudionart.com
 0.0.0.0 commute.srpgo.com
 0.0.0.0 comnewsupdate.info
 0.0.0.0 compactbanner.com
@@ -26196,6 +26199,7 @@
 0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
 0.0.0.0 my-account.criteo.com
 0.0.0.0 my-adv.ru
+0.0.0.0 my-bitbank.cc
 0.0.0.0 my-cleaner.info
 0.0.0.0 my-softbank-jp.com
 0.0.0.0 my-ssl.effectivemeasure.net
@@ -30691,6 +30695,7 @@
 0.0.0.0 ptz2.holaislascanarias.com
 0.0.0.0 pu4.biz
 0.0.0.0 pub-3b4d978c14114185847089b100168c84.r2.dev
+0.0.0.0 pub-549d59daefd74f7583e1766800fe7b07.r2.dev
 0.0.0.0 pub-77106c9273be4f3fbec6b6d6c3c51b7f.r2.dev
 0.0.0.0 pub-algeriatenders.s3.eu-central-1.amazonaws.com
 0.0.0.0 pub-site.manageamerica.com
@@ -32511,6 +32516,7 @@
 0.0.0.0 scatteredheat.com
 0.0.0.0 scatteredstream.com
 0.0.0.0 scdn.cxense.com
+0.0.0.0 scearmcommnymnlty.com
 0.0.0.0 scei.co.jp
 0.0.0.0 scene7goal3.work
 0.0.0.0 scenicdrops.com

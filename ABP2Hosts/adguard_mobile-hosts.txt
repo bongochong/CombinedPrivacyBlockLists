@@ -1,4 +1,4 @@
-# Wed Dec 11 08:11:55 AM UTC 2024
+# Sun Dec 15 06:18:09 AM UTC 2024
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -5386,6 +5386,7 @@
 0.0.0.0 log.outbrain.org
 0.0.0.0 log.outbrainimg.com
 0.0.0.0 log.particlenews.com
+0.0.0.0 log.pdfviewerscannerstore.live
 0.0.0.0 log.pinterest.com
 0.0.0.0 log.pngindir.com
 0.0.0.0 log.pvpgang.com
@@ -5721,6 +5722,7 @@
 0.0.0.0 metricreceiver.cellrebel.com
 0.0.0.0 metrics-cbslocal-com.cdn.ampproject.org
 0.0.0.0 metrics-logger.spot.im
+0.0.0.0 metrics-prod.suno.com
 0.0.0.0 metrics.adflake.com
 0.0.0.0 metrics.aetn.com
 0.0.0.0 metrics.brightcove.com
@@ -5856,10 +5858,13 @@
 0.0.0.0 mobvista.com
 0.0.0.0 modifyeyes.com
 0.0.0.0 modularmental.com
+0.0.0.0 moengage.com
 0.0.0.0 moengagewebsdk.imgix.net
 0.0.0.0 mofox.com
 0.0.0.0 moldyicicle.com
 0.0.0.0 momentus.gotrackier.com
+0.0.0.0 mon-boot.capcutapi.com
+0.0.0.0 mon-va-us-looki.capcutapi.com
 0.0.0.0 mon-va.byteoversea.com
 0.0.0.0 mon-va.tiktokv.com
 0.0.0.0 mon.byteoversea.com
@@ -7426,7 +7431,6 @@
 0.0.0.0 sd.iperceptions.com
 0.0.0.0 sd.sharethis.com
 0.0.0.0 sdk-02.moengage.com
-0.0.0.0 sdk-04.moengage.com
 0.0.0.0 sdk-android.ad.smaato.net
 0.0.0.0 sdk-api-v1.singular.net
 0.0.0.0 sdk-assets.localytics.com
@@ -8241,6 +8245,7 @@
 0.0.0.0 stats.playrix.com
 0.0.0.0 stats.popcap.com
 0.0.0.0 stats.rustore.ru
+0.0.0.0 stats.samsungpass.com
 0.0.0.0 stats.smartclip.net
 0.0.0.0 stats.studyquicks.com
 0.0.0.0 stats.sxp.smartclip.net
