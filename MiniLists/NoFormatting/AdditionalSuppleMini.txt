@@ -5423,7 +5423,6 @@
 0.0.0.0 adserving.favorit-network.com
 0.0.0.0 adserving.speedshiftmedia.com
 0.0.0.0 adserving.unibet.com
-0.0.0.0 adserving.urekamedia.com
 0.0.0.0 adservingfactory.com
 0.0.0.0 adservinginternational.com
 0.0.0.0 adservingml.com
@@ -5647,7 +5646,6 @@
 0.0.0.0 adssafeprotected.com
 0.0.0.0 adssend.net
 0.0.0.0 adsservice-external.v.fwmrm.net
-0.0.0.0 adsservices.urekamedia.com
 0.0.0.0 adssettings.365scores.com
 0.0.0.0 adssl-dc2.adtech.de
 0.0.0.0 adssl01.adtech.fr
@@ -5999,7 +5997,6 @@
 0.0.0.0 adv.thuvienphapluat.vn
 0.0.0.0 adv.topvideo.tj
 0.0.0.0 adv.unionesarda.it
-0.0.0.0 adv.urekamedia.com
 0.0.0.0 adv.virgilio.it
 0.0.0.0 adv.vnnshop.vn
 0.0.0.0 adv.vz.ru
@@ -10753,6 +10750,7 @@
 0.0.0.0 cdn.petametrics.com
 0.0.0.0 cdn.pic.crooz.jp
 0.0.0.0 cdn.popcash.net
+0.0.0.0 cdn.premiumads.net
 0.0.0.0 cdn.proadscdn.com
 0.0.0.0 cdn.purpleads.io
 0.0.0.0 cdn.reporo.net
@@ -12223,6 +12221,7 @@
 0.0.0.0 cosmosjackson.com
 0.0.0.0 costargroup.112.2o7.net
 0.0.0.0 costco-adbutler.com
+0.0.0.0 costco-rewardsaccount1.com
 0.0.0.0 cotads.adscale.de
 0.0.0.0 cotemaison.np6.com
 0.0.0.0 coty.122.2o7.net
@@ -12926,6 +12925,7 @@
 0.0.0.0 d3rt1990lpmkn.cloudfront.net
 0.0.0.0 d3rt199lpmkn.cloudfront.net
 0.0.0.0 d3srxd2wvksmqd.cloudfront.net
+0.0.0.0 d3u598arehftfk.cloudfront.net
 0.0.0.0 d3v3bqdndm4erx.cloudfront.net
 0.0.0.0 d4.adsplay.net
 0.0.0.0 d5.adsplay.net
@@ -19259,6 +19259,7 @@
 0.0.0.0 h3ninin.top
 0.0.0.0 h5t4rsw-htrs.jp
 0.0.0.0 h6.b2bmktg.com
+0.0.0.0 h64.online-metrix.net
 0.0.0.0 h6t4sw-nhytd.jp
 0.0.0.0 h78xb.pw
 0.0.0.0 h8vzwpv.com
@@ -21719,6 +21720,7 @@
 0.0.0.0 kvh5.kavehome.com
 0.0.0.0 kvinit-prod.api.kochava.com
 0.0.0.0 kvk2.ahojkanarskeostrovy.com
+0.0.0.0 kvkmodule.4dq.com
 0.0.0.0 kvv.jxc.mybluehost.me
 0.0.0.0 kwsjy9.oui.sncf
 0.0.0.0 kwwvxn.uniqlo.com
@@ -22468,7 +22470,6 @@
 0.0.0.0 log.umsns.com
 0.0.0.0 log.uniconsent.com
 0.0.0.0 log.union.ucweb.com
-0.0.0.0 log.urekamedia.com
 0.0.0.0 log.uu.163.com
 0.0.0.0 log.vads.net.vn
 0.0.0.0 log.vava.com
@@ -30484,6 +30485,7 @@
 0.0.0.0 premium-offers.space
 0.0.0.0 premium-rx.com
 0.0.0.0 premiumads.com.br
+0.0.0.0 premiumads.net
 0.0.0.0 premiumstats.xyz
 0.0.0.0 premiumtv.122.2o7.net
 0.0.0.0 prepareplanes.com
@@ -31076,6 +31078,7 @@
 0.0.0.0 rai-italia01.wt-eu02.net
 0.0.0.0 railwayrainstorm.com
 0.0.0.0 railwayreason.com
+0.0.0.0 rain890o.fun
 0.0.0.0 rainbow-fortune.biz
 0.0.0.0 rainbow-fortune.com
 0.0.0.0 rainbow-fortune.jp
@@ -33096,7 +33099,6 @@
 0.0.0.0 selfdecode.postaffiliatepro.com
 0.0.0.0 selfishsea.com
 0.0.0.0 selfishsnake.com
-0.0.0.0 sellers.urekamedia.com
 0.0.0.0 sellerstat.site
 0.0.0.0 sellifypro.com
 0.0.0.0 selling-group.com
@@ -35984,9 +35986,11 @@
 0.0.0.0 steadycopper.com
 0.0.0.0 steadypaddling.com
 0.0.0.0 steam.communityart-work.com
+0.0.0.0 steam.iplay.fit
 0.0.0.0 steam.zssjsq.com
 0.0.0.0 steamcoast.com
 0.0.0.0 steamcommunitylog.chez.com
+0.0.0.0 steamcommunityprofile.com
 0.0.0.0 steamcommunlyt.com
 0.0.0.0 steamcomuniry.com
 0.0.0.0 steamcomunutty.com
@@ -36829,6 +36833,7 @@
 0.0.0.0 telegramkp.com
 0.0.0.0 telegramkv.com
 0.0.0.0 telegramm.site
+0.0.0.0 telegramtn.com
 0.0.0.0 telegremapp.me
 0.0.0.0 telekom01.webtrekk.net
 0.0.0.0 telekom02.webtrekk.net
@@ -37611,6 +37616,7 @@
 0.0.0.0 track.popsww.com
 0.0.0.0 track.postkodlotteriet.se
 0.0.0.0 track.pplnk.com
+0.0.0.0 track.premiumads.net
 0.0.0.0 track.price.ru
 0.0.0.0 track.pricespider.com
 0.0.0.0 track.prod.smash.pet
@@ -38269,7 +38275,6 @@
 0.0.0.0 tracking.umbrella.com
 0.0.0.0 tracking.univtec.com
 0.0.0.0 tracking.unrealengine.com
-0.0.0.0 tracking.urekamedia.com
 0.0.0.0 tracking.utlservice.com
 0.0.0.0 tracking.v.tf.360.cn
 0.0.0.0 tracking.validclick.com
@@ -38936,7 +38941,6 @@
 0.0.0.0 updown.me
 0.0.0.0 upeayz.eksisozluk.com
 0.0.0.0 upforit.com
-0.0.0.0 upgrade.scdn.co
 0.0.0.0 upgrade.scdn.com
 0.0.0.0 upgrade.spotify.com
 0.0.0.0 upgradeyourspotify.cc
@@ -40185,6 +40189,7 @@
 0.0.0.0 windowsupdates.bit
 0.0.0.0 winecom.112.2o7.net
 0.0.0.0 wineenthusiastcom.112.2o7.net
+0.0.0.0 winfreebigwindeal.top
 0.0.0.0 winluckychance.com
 0.0.0.0 winmpmain.112.2o7.net
 0.0.0.0 winneradsmedia.com

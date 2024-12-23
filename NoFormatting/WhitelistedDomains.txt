@@ -733,6 +733,7 @@ unagi-na.amazon.com
 unity3d.com
 unmineable.com
 unpkg.com
+upgrade.scdn.co
 upload.twitter.com
 urbanairship.com
 urbantoronto.ca
