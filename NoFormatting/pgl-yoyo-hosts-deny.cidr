@@ -3168,7 +3168,6 @@ deny from 80.239.207.38/32
 deny from 80.244.162.32/32
 deny from 80.245.40.16/32
 deny from 80.245.197.244/31
-deny from 80.248.218.154/32
 deny from 80.249.168.110/32
 deny from 80.249.171.156/32
 deny from 80.250.10.23/32
@@ -3347,7 +3346,6 @@ deny from 83.138.186.56/32
 deny from 83.138.187.17/32
 deny from 83.138.187.18/32
 deny from 83.140.72.24/32
-deny from 83.141.36.24/31
 deny from 83.145.246.174/32
 deny from 83.149.101.2/32
 deny from 83.149.110.10/32
@@ -3380,9 +3378,6 @@ deny from 83.231.185.65/32
 deny from 83.241.238.66/31
 deny from 83.243.20.90/32
 deny from 83.243.20.127/32
-deny from 83.243.41.202/32
-deny from 83.243.41.225/32
-deny from 83.243.41.227/32
 deny from 83.244.139.6/32
 deny from 83.244.139.39/32
 deny from 83.244.164.54/32
@@ -3394,8 +3389,6 @@ deny from 84.19.162.62/32
 deny from 84.19.188.203/32
 deny from 84.20.192.134/32
 deny from 84.20.200.66/32
-deny from 84.21.31.206/32
-deny from 84.21.31.225/32
 deny from 84.22.161.57/32
 deny from 84.34.159.52/31
 deny from 84.39.235.148/32
@@ -3525,7 +3518,6 @@ deny from 87.106.21.147/32
 deny from 87.106.28.57/32
 deny from 87.106.28.211/32
 deny from 87.106.35.190/32
-deny from 87.106.163.226/32
 deny from 87.118.124.39/32
 deny from 87.119.193.166/32
 deny from 87.119.193.171/32
@@ -4795,7 +4787,6 @@ deny from 176.9.12.70/32
 deny from 176.9.38.163/32
 deny from 176.9.45.195/32
 deny from 176.9.46.73/32
-deny from 176.9.83.231/32
 deny from 176.9.195.100/32
 deny from 176.9.224.89/32
 deny from 176.31.89.10/32
@@ -5244,7 +5235,6 @@ deny from 194.126.131.54/32
 deny from 194.126.157.60/32
 deny from 194.126.157.64/32
 deny from 194.135.19.60/32
-deny from 194.146.224.73/32
 deny from 194.149.10.19/32
 deny from 194.149.10.56/31
 deny from 194.149.10.58/32
@@ -5279,9 +5269,6 @@ deny from 195.2.82.69/32
 deny from 195.5.165.34/31
 deny from 195.5.165.37/32
 deny from 195.9.14.160/32
-deny from 195.10.195.150/31
-deny from 195.10.195.152/30
-deny from 195.10.195.227/32
 deny from 195.12.228.34/32
 deny from 195.12.228.36/30
 deny from 195.12.228.40/31
@@ -6194,7 +6181,6 @@ deny from 208.100.48.100/32
 deny from 208.101.52.101/32
 deny from 208.106.213.166/32
 deny from 208.109.78.86/32
-deny from 208.109.107.61/32
 deny from 208.109.138.55/32
 deny from 208.109.181.114/32
 deny from 208.109.181.173/32
@@ -7019,7 +7005,6 @@ deny from 216.40.32.38/31
 deny from 216.40.32.40/32
 deny from 216.40.32.50/32
 deny from 216.40.32.60/32
-deny from 216.40.32.140/32
 deny from 216.40.33.251/32
 deny from 216.40.196.15/32
 deny from 216.40.201.212/32
