@@ -18,6 +18,13 @@ shExpMatch(host, "advrts.*") ||
 shExpMatch(host, "banner.*") ||
 shExpMatch(host, "banners.*") ||
 shExpMatch(host, "track.msadcenter.*") ||
+shExpMatch(host, "adimage.*") ||
+shExpMatch(host, "adimages.*") ||
+shExpMatch(host, "adimg.*") ||
+shExpMatch(host, "ywrcqa.*") ||
+shExpMatch(host, "sxjfhh*") ||
+shExpMatch(host, "zalo-ads-*") ||
+shExpMatch(host, "zaloads-*") ||
 shExpMatch(host, "*.aa-metrics.*") ||
 shExpMatch(host, "*.adbmetrics.*") ||
 shExpMatch(host, "*.adbsmetrics.*") ||
