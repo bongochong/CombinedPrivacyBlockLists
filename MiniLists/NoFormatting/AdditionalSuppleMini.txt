@@ -5875,6 +5875,7 @@
 0.0.0.0 adtrader.com
 0.0.0.0 adtrading.de
 0.0.0.0 adtradr.com
+0.0.0.0 adtrafficquality.google
 0.0.0.0 adtrak.net
 0.0.0.0 adtrgt.com
 0.0.0.0 adtrieval.com
@@ -6369,6 +6370,7 @@
 0.0.0.0 adx.phunuadong.vn
 0.0.0.0 adx.proadscdn.com
 0.0.0.0 adx.theledger.com
+0.0.0.0 adx.trackrsad.com
 0.0.0.0 adx.xemvtv.net
 0.0.0.0 adx.xtv.vn
 0.0.0.0 adx1.com
@@ -11555,6 +11557,7 @@
 0.0.0.0 cms.surfcountor.com
 0.0.0.0 cmsanalytics.admicro.vn
 0.0.0.0 cmstrendslog.timesnow.tv
+0.0.0.0 cmtg1.com
 0.0.0.0 cmtvia.112.2o7.net
 0.0.0.0 cn-steam.com
 0.0.0.0 cn.adserver.yahoo.com
@@ -13411,6 +13414,7 @@
 0.0.0.0 developer.adxcorp.kr
 0.0.0.0 developers.cityads.com
 0.0.0.0 developjapan.122.2o7.net
+0.0.0.0 developseveralwebx.z9.web.core.windows.net
 0.0.0.0 developsincelock.com
 0.0.0.0 devex.adblade.com
 0.0.0.0 devftp4b5a84aaf1c9185e060c702a0ff8cadbrange89-129xroads.b2bmktg.com
@@ -14874,6 +14878,9 @@
 0.0.0.0 eolcdn.com
 0.0.0.0 eomega.actonsoftware.com
 0.0.0.0 eoredi.com
+0.0.0.0 ep1.adtrafficquality.google
+0.0.0.0 ep2.adtrafficquality.google
+0.0.0.0 ep3.adtrafficquality.google
 0.0.0.0 epacash.com
 0.0.0.0 epayu.cc
 0.0.0.0 epebuild.112.2o7.net
@@ -25248,6 +25255,7 @@
 0.0.0.0 microad.co.jp
 0.0.0.0 microad.jp
 0.0.0.0 microad.net
+0.0.0.0 microchromejapan.b-cdn.net
 0.0.0.0 microsoft-cnd.com
 0.0.0.0 microsoft-debug-098.com
 0.0.0.0 microsoft-home-en.com
@@ -29975,6 +29983,7 @@
 0.0.0.0 photobox-uk.eulerian.net
 0.0.0.0 photobucket.adnxs.com
 0.0.0.0 photographpan.com
+0.0.0.0 photonlabs.app
 0.0.0.0 photos.daily-deals.analoganalytics.com
 0.0.0.0 phoulade.xyz
 0.0.0.0 phpads.astalavista.us
@@ -37580,6 +37589,7 @@
 0.0.0.0 track.raisingapps.com
 0.0.0.0 track.recreativ.ru
 0.0.0.0 track.rediff.com
+0.0.0.0 track.rentracksw.com
 0.0.0.0 track.rheinpfalz.de
 0.0.0.0 track.robee.tech
 0.0.0.0 track.roularta.adhese.com
@@ -39736,6 +39746,8 @@
 0.0.0.0 w27.hitbox.com
 0.0.0.0 w28.hitbox.com
 0.0.0.0 w29.hitbox.com
+0.0.0.0 w3-reporting-nel.reddit.com
+0.0.0.0 w3-reporting.reddit.com
 0.0.0.0 w3.hitbox.com
 0.0.0.0 w30.hitbox.com
 0.0.0.0 w31.hitbox.com
