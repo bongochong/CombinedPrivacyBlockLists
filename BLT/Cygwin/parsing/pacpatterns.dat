@@ -399,6 +399,7 @@
 ^(www\.)?zynga\.com$
 ^0\.client-channel\.google\.com$
 ^2\.android\.pool\.ntp\.org$
+^24h\.24hstatic\.com$
 ^a\.fsdn\.com$
 ^aan\.amazon\.com$
 ^ablink\.notice\.hoopladigital\.com$
