@@ -1,4 +1,4 @@
-# Sun Dec 29 07:25:31 AM UTC 2024
+# Thu Jan  2 05:48:12 PM UTC 2025
 # Piperun IPLoggerFilter Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 00689.net
 0.0.0.0 02ip.ru
@@ -344,7 +344,6 @@
 0.0.0.0 hongkongtower-kanglong.com
 0.0.0.0 hotsgolfexport.loan
 0.0.0.0 hpsff.live
-0.0.0.0 hs.vc
 0.0.0.0 hsh-dayz.com
 0.0.0.0 ht1.in
 0.0.0.0 httbuy.com
@@ -352,7 +351,6 @@
 0.0.0.0 i56ad.site
 0.0.0.0 ikwyd.com
 0.0.0.0 imagehost.pics
-0.0.0.0 imageshack.ml
 0.0.0.0 imageshare.best
 0.0.0.0 imagevault.cloud
 0.0.0.0 imghost.pics
@@ -580,7 +578,6 @@
 0.0.0.0 progexer.tk
 0.0.0.0 progresskarate.com
 0.0.0.0 ps3cfw.com
-0.0.0.0 publicwiki.me
 0.0.0.0 publishxpress.com
 0.0.0.0 puertoricanwomen.info
 0.0.0.0 puertoricotours.us
@@ -781,7 +778,6 @@
 0.0.0.0 war1418.com
 0.0.0.0 watches-my.stream
 0.0.0.0 watchgallery.pro
-0.0.0.0 webprofile.me
 0.0.0.0 webtube.land
 0.0.0.0 weightedcu.be
 0.0.0.0 wetouth.bid
