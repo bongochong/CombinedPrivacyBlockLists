@@ -1,4 +1,4 @@
-# Thu Jan  2 05:47:12 PM UTC 2025
+# Thu Jan  9 05:37:30 AM UTC 2025
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -2900,6 +2900,7 @@
 0.0.0.0 collect-ap-southeast-2.tealiumiq.com
 0.0.0.0 collect-eu-central-1.tealiumiq.com
 0.0.0.0 collect-eu-west-1.tealiumiq.com
+0.0.0.0 collect.4gtv.tv
 0.0.0.0 collect.adsorb.com
 0.0.0.0 collect.analytics.unity3d.com
 0.0.0.0 collect.babybus.com
@@ -3610,6 +3611,7 @@
 0.0.0.0 dsg.sc.omtrdc.net
 0.0.0.0 dsp-1.ogury.io
 0.0.0.0 dsp-adcreative.mobshark.net
+0.0.0.0 dsp-api.moloco.com
 0.0.0.0 dsp-creative.demandbase.com
 0.0.0.0 dsp-d.ants.vn
 0.0.0.0 dsp.adkernel.com
@@ -8669,6 +8671,7 @@
 0.0.0.0 telemetries.jeeng.com
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry.canva.com
+0.0.0.0 telemetry.codefusion.technology
 0.0.0.0 telemetry.malwarebytes.com
 0.0.0.0 telemetry.navigatorapp.net
 0.0.0.0 telemetry.sdk.inmobi.cn
@@ -9060,6 +9063,7 @@
 0.0.0.0 ua-myfitnesspal.adsbynimbus.com
 0.0.0.0 ua.supersonicads.com
 0.0.0.0 uaid-linkage.imrworldwide.com
+0.0.0.0 uaid.vtwenty.com
 0.0.0.0 ub-xjp.vvbrd.com
 0.0.0.0 uberads.com
 0.0.0.0 uberm.bttn.io
