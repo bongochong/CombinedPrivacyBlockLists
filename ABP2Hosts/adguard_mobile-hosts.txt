@@ -1,4 +1,4 @@
-# Thu Jan  9 05:37:30 AM UTC 2025
+# Thu Jan 16 05:07:28 AM UTC 2025
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -2801,6 +2801,9 @@
 0.0.0.0 client.midosoo.com
 0.0.0.0 client.rave-api.com
 0.0.0.0 clientcdn.pushengage.com
+0.0.0.0 clientlog3.music.163.com
+0.0.0.0 clientlogdep.music.163.com
+0.0.0.0 clientlogsf.music.163.com
 0.0.0.0 clientmetrics-augmentum.kik.com
 0.0.0.0 clientmetrics.kik.com
 0.0.0.0 clients-api.pushengage.com
@@ -3345,6 +3348,7 @@
 0.0.0.0 data.emb-api.com
 0.0.0.0 data.flurry.com
 0.0.0.0 data.iappmobi.com
+0.0.0.0 data.kuiniuca.com
 0.0.0.0 data.logentries.com
 0.0.0.0 data.mistat.india.xiaomi.com
 0.0.0.0 data.mistat.intl.xiaomi.com
@@ -3532,6 +3536,7 @@
 0.0.0.0 divergentoffer.com
 0.0.0.0 dk-gmtdmp.mookie1.com
 0.0.0.0 dk4ywix.com
+0.0.0.0 dl-adx.op-mobile.opera.com
 0.0.0.0 dl.fotoable.com
 0.0.0.0 dl.ijinshan.com
 0.0.0.0 dl.sj.ijinshan.com
@@ -6038,6 +6043,7 @@
 0.0.0.0 nervoussummer.com
 0.0.0.0 net.rayjump.com
 0.0.0.0 net.salmonads.com
+0.0.0.0 netapm.music.163.com
 0.0.0.0 netavenir.com
 0.0.0.0 netmng.com
 0.0.0.0 netperform-is.vodafone.com.tr
@@ -6117,6 +6123,7 @@
 0.0.0.0 nrc.tapas.net
 0.0.0.0 nrcapi.ssl2.duapps.com
 0.0.0.0 ns.zdbb.net
+0.0.0.0 nstool.netease.com
 0.0.0.0 ntracker-collector.naver.com
 0.0.0.0 ntv.io.edgekey.net
 0.0.0.0 ntvcld-a.akamaihd.net
@@ -8799,6 +8806,7 @@
 0.0.0.0 touristfuel.com
 0.0.0.0 tp-emea.exactag.com
 0.0.0.0 tp-rtb-adserver-eu.eu-west-1.elasticbeanstalk.com
+0.0.0.0 tp2p.kg.qq.com
 0.0.0.0 tpat.api.vungle.com
 0.0.0.0 tpbid.com
 0.0.0.0 tpc.googlesyndication.com
@@ -9047,6 +9055,7 @@
 0.0.0.0 tw.c.appier.net
 0.0.0.0 twistloss.com
 0.0.0.0 twistsweater.com
+0.0.0.0 twns.p2ptun.qq.com
 0.0.0.0 twotreymedia10001697.o18.click
 0.0.0.0 tx-ad.a.yximgs.com
 0.0.0.0 tx-kmpaudio.pull.yximgs.com
@@ -9729,6 +9738,7 @@
 0.0.0.0 yax-winners-us-east-1-rtb.adroll.com
 0.0.0.0 yax-winners-us-west-2-rtb.adroll.com
 0.0.0.0 yc-ads.s3.amazonaws.com
+0.0.0.0 ye.dun.163yun.com
 0.0.0.0 yellow-resultsbidder.com
 0.0.0.0 yellowhammerflashint188671193078.s.moatpixel.com
 0.0.0.0 yemonisoni.com
