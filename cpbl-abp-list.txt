@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Thu Jan 16 05:29:47 AM UTC 2025
+! Updated: Fri Jan 17 07:21:10 PM UTC 2025
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -153881,10 +153881,12 @@ slant.co##._soft-close-link.Modal-Cover
 slashdot.org###announcement
 slashdot.org###main-nav-badge
 slashdot.org###slashdot_deals
+slashdot.org##.ad-blocked-newsletter
 slashdot.org##.close-ad
 slashdot.org##.deals-rail
 slashdot.org##.deals-wrapper
 slashdot.org##.multiple.job.side-bar
+slashdot.org##div[class$="ntv-preview-img-wrapper"]
 slippedisc.com##li.ad.single_post
 smoktech.com###warning-message
 soundcloud.com##[class*="Upsell_side"]
