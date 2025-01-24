@@ -12266,9 +12266,6 @@
 0.0.0.0 click.e.sees.com
 0.0.0.0 click.e.usa.experian.com
 0.0.0.0 click.em.samsclub.com
-0.0.0.0 click.email.jcpenney.com
-0.0.0.0 click.email.microsoftonline.com
-0.0.0.0 click.email.newegg.com
 0.0.0.0 click.emcom.bankofamerica.com
 0.0.0.0 click.execrank.com
 0.0.0.0 click.favordelivery.com
@@ -22562,7 +22559,6 @@
 0.0.0.0 image.bypass.jp
 0.0.0.0 image.click2net.com
 0.0.0.0 image.d-064.com
-0.0.0.0 image.email.microsoftonline.com
 0.0.0.0 image.g-deai.net
 0.0.0.0 image.garss.tv
 0.0.0.0 image.j-a-net.jp
@@ -47298,7 +47294,6 @@
 0.0.0.0 www.clarion-events-group.com
 0.0.0.0 www.claroadsclick.com
 0.0.0.0 www.cleverads.vn
-0.0.0.0 www.click.email.microsoftonline.com
 0.0.0.0 www.clicksgear.com
 0.0.0.0 www.clicktx.jp
 0.0.0.0 www.cloudflane.com
@@ -47418,7 +47413,6 @@
 0.0.0.0 www.hostingcloud.win
 0.0.0.0 www.ikea.122.2o7.net
 0.0.0.0 www.image-rentracks.com
-0.0.0.0 www.image.email.microsoftonline.com
 0.0.0.0 www.images.taboola.com
 0.0.0.0 www.imcounting.com
 0.0.0.0 www.incline9edge.com

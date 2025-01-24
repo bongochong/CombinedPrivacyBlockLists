@@ -1,4 +1,4 @@
-# Fri Jan 24 08:17:08 AM UTC 2025
+# Fri Jan 24 08:41:10 AM UTC 2025
 # EasyList Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0.myikas.com
 0.0.0.0 0.net.easyjet.com

@@ -1,4 +1,4 @@
-# Fri Jan 24 08:17:24 AM UTC 2025
+# Fri Jan 24 08:41:23 AM UTC 2025
 # AdGuard DNS Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 0.myikas.com
