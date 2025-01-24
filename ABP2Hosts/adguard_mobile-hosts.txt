@@ -1,4 +1,4 @@
-# Thu Jan 16 05:07:28 AM UTC 2025
+# Fri Jan 24 08:16:15 AM UTC 2025
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -3279,6 +3279,7 @@
 0.0.0.0 d.appsdt.com
 0.0.0.0 d.eu.criteo.com
 0.0.0.0 d.impactradius-event.com
+0.0.0.0 d.kugou.com
 0.0.0.0 d.la1-c2-iad.salesforceliveagent.com
 0.0.0.0 d.mob.com
 0.0.0.0 d.monetate.net
@@ -4474,7 +4475,6 @@
 0.0.0.0 grouchybrothers.com
 0.0.0.0 grouchypush.com
 0.0.0.0 growlr.adsbynimbus.com
-0.0.0.0 grpc.biliapi.net
 0.0.0.0 grs.hicloud.com
 0.0.0.0 grumpydime.com
 0.0.0.0 grumpydrawer.com
@@ -5284,6 +5284,7 @@
 0.0.0.0 lga-tr.contextweb.com
 0.0.0.0 lgsmartad.com
 0.0.0.0 lhzbdvm.com
+0.0.0.0 liadm.com
 0.0.0.0 lib.vmweb.net
 0.0.0.0 libs.coremetrics.com
 0.0.0.0 libs.lavanetwork.net
@@ -6014,6 +6015,8 @@
 0.0.0.0 nav.telematicsdirect.com
 0.0.0.0 naverpa-phinf.pstatic.net
 0.0.0.0 navigation.api.hk.goforandroid.com
+0.0.0.0 nbcollect.kugou.com
+0.0.0.0 nbcollectretry.kugou.com
 0.0.0.0 nbcstreaming.sc.omtrdc.net
 0.0.0.0 nbcu.demdex.net
 0.0.0.0 nbcudisplay.s.moatpixel.com
@@ -6467,6 +6470,7 @@
 0.0.0.0 pi.pardot.com
 0.0.0.0 piano_log.kingsoft.jp
 0.0.0.0 piccdn.igetget.com
+0.0.0.0 pictreed.com
 0.0.0.0 pie.wirelessregistry.com
 0.0.0.0 piespower.com
 0.0.0.0 pietexture.com
@@ -7646,6 +7650,7 @@
 0.0.0.0 server.iad.liveperson.net
 0.0.0.0 server.idreams.pl
 0.0.0.0 server.seadform.net
+0.0.0.0 serveraddr.service.kugou.com
 0.0.0.0 serverracer.com
 0.0.0.0 serverside4285.tagcommander.com
 0.0.0.0 service-ad-impression-proxy.clusters.pluto.tv
@@ -7984,6 +7989,7 @@
 0.0.0.0 spellmist.com
 0.0.0.0 spellsalsa.com
 0.0.0.0 spendpest.com
+0.0.0.0 spider-tracker.xiaohongshu.com
 0.0.0.0 spidersboats.com
 0.0.0.0 spiffymachine.com
 0.0.0.0 spire.aarki.net
