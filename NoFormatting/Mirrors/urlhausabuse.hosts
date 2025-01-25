@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: 2025-01-24T00:09:41Z
+# Updated: 2025-01-25T00:09:35Z
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/malware-filter/urlhaus-filter
 # License: https://gitlab.com/malware-filter/urlhaus-filter#license
@@ -80,7 +80,6 @@
 0.0.0.0 7zip2024.pro
 0.0.0.0 7zlp112024.top
 0.0.0.0 7zlp2024.shop
-0.0.0.0 83-87-76-41.cable.dynamic.v4.ziggo.nl
 0.0.0.0 85-95-173-28.saransk.ru
 0.0.0.0 888online.asia
 0.0.0.0 889mmm.com
@@ -225,7 +224,6 @@
 0.0.0.0 alondrabowmanjake.com
 0.0.0.0 altraonline.com
 0.0.0.0 alx.studio.lacrenshawcrossing.com
-0.0.0.0 amatriciamo.it
 0.0.0.0 amazon-ny-gifts.com
 0.0.0.0 amazonenviro.com
 0.0.0.0 amelcarte.com
@@ -318,6 +316,7 @@
 0.0.0.0 atendimento-pj.com
 0.0.0.0 athusa.ceo
 0.0.0.0 atilayelektronik.com.tr
+0.0.0.0 atndsrmsrdf094312.world
 0.0.0.0 atsukaa.thrivezest.org
 0.0.0.0 attendesrooms899334.world
 0.0.0.0 aulist.com
@@ -357,7 +356,6 @@
 0.0.0.0 babayaga.ro
 0.0.0.0 badlarrysguitars.com
 0.0.0.0 bafybeicnmx2fcaolinpdaiqjo7hgsourg3qzaxf57psdrbqic4qrm4pf3i.ipfs.dweb.link
-0.0.0.0 bafybeicoo7kwhmnl6q7prd65aimf5byzrihrklgviebm2pkyzyepdaigf4.ipfs.dweb.link
 0.0.0.0 bahelp.top
 0.0.0.0 baixetudopcwindows.github.io
 0.0.0.0 bank-dkb-logan.itsaol.com
@@ -373,6 +371,7 @@
 0.0.0.0 bcshoppy.com
 0.0.0.0 beautymakeup.ca
 0.0.0.0 becreativemind.com
+0.0.0.0 beiletoys.com
 0.0.0.0 benvixa.com
 0.0.0.0 berb.fitnessclub-filmfanatics.com
 0.0.0.0 best.obs.cn-sz1.ctyun.cn
@@ -413,6 +412,7 @@
 0.0.0.0 bookidindinetfikat.world
 0.0.0.0 booking-5721.com
 0.0.0.0 booking.billchchkoutrequst.com
+0.0.0.0 booking.compltheroomchngnotific.com
 0.0.0.0 booking.fashion
 0.0.0.0 bookkeeping.wannanxi.com
 0.0.0.0 boostcreatives-ai.com
@@ -537,7 +537,6 @@
 0.0.0.0 chromeupdates.xyz
 0.0.0.0 chronopost-suivi-fr.co
 0.0.0.0 chudautu.info
-0.0.0.0 chxjx.house.zionanakwenze.com
 0.0.0.0 cia.tf
 0.0.0.0 cihainlst.org
 0.0.0.0 cipherbase.net
@@ -582,6 +581,7 @@
 0.0.0.0 combo.s3.eu-north-1.amazonaws.com
 0.0.0.0 commande-monsuivi.info
 0.0.0.0 commande-suivre.info
+0.0.0.0 compltheroomchngnotific.com
 0.0.0.0 composefull.com
 0.0.0.0 compounded.fghnbv.com
 0.0.0.0 compte-coinbase.com
@@ -672,6 +672,7 @@
 0.0.0.0 dbasopma.my
 0.0.0.0 dbasopma.one
 0.0.0.0 dbasopma.shop
+0.0.0.0 dbasopma.xyz
 0.0.0.0 dbasopmagroup.forum
 0.0.0.0 dccomicrat81.duckdns.org
 0.0.0.0 dctdownload.s3.amazonaws.com
@@ -729,7 +730,6 @@
 0.0.0.0 dkb-suport-dkb.qpoe.com
 0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.aigoingtokill.club
-0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.updatepush.com
 0.0.0.0 dld.jxwan.com
 0.0.0.0 dledlank.bmcort.com
@@ -755,6 +755,7 @@
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.mvip8.ru
 0.0.0.0 down.pcclear.com
+0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 down.ruanmei.com
 0.0.0.0 down10d.zol.com.cn
 0.0.0.0 download-202482522810.online
@@ -767,7 +768,6 @@
 0.0.0.0 download.caihong.com
 0.0.0.0 download.cdn-serveri6731-ns.shop
 0.0.0.0 download.cdn-serveri6881-ns.shop
-0.0.0.0 download.cudo.org
 0.0.0.0 download.document-sharing.com
 0.0.0.0 download.emailorganizer.com
 0.0.0.0 download.haozip.com
@@ -922,7 +922,9 @@
 0.0.0.0 f2pverifynow.com
 0.0.0.0 f3i5-0g49bgn-3h95-1324992141.cos.ap-jakarta.myqcloud.com
 0.0.0.0 f47d5.language.sebtomato.com
+0.0.0.0 f6qt9.r.ag.d.sendibm3.com
 0.0.0.0 facturasgaso.shop
+0.0.0.0 facturashorto.shop
 0.0.0.0 faddhfksslgk.work.gd
 0.0.0.0 fallaeltro.es
 0.0.0.0 fatcriminal.com
@@ -994,9 +996,9 @@
 0.0.0.0 fridayyybabedatinglover.duckdns.org
 0.0.0.0 ftp.alphaglobal.pt
 0.0.0.0 ftp.sanpaolo-home-it.instanthq.com
-0.0.0.0 ftp.timeless-tales.shop
 0.0.0.0 ftp.ywxww.net
 0.0.0.0 ftsengineers.com
+0.0.0.0 fuckedserver.net
 0.0.0.0 fundrescuetech.com
 0.0.0.0 funletters.net
 0.0.0.0 furpolksa.ikwb.com
@@ -1091,7 +1093,6 @@
 0.0.0.0 gourvita1.timmeserver.de
 0.0.0.0 grafital.by
 0.0.0.0 grand-bat-mtdx.team-a6ac382cc0e44c428-eb5e292be6164a0f8bd4220d63e7b0f9.dv0.io
-0.0.0.0 grantthrontonredteammicrosoft.com
 0.0.0.0 great-feistel.193-143-1-70.plesk.page
 0.0.0.0 great-keldysh.193-143-1-211.plesk.page
 0.0.0.0 greenindustry.pl
@@ -1189,6 +1190,7 @@
 0.0.0.0 hpaiw.cases.pcohenlaw.com
 0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 hradvanceportal.com
+0.0.0.0 hseda.com
 0.0.0.0 hthth.is-a-knight.org
 0.0.0.0 http.vseuasthfxzzqxev.xyz
 0.0.0.0 huayusoft.com
@@ -1289,7 +1291,9 @@
 0.0.0.0 jointings.org
 0.0.0.0 jpa.range.cccinvolve.org
 0.0.0.0 jpavuluri.com
+0.0.0.0 jpinvrkp.click
 0.0.0.0 jpinvrkp.my
+0.0.0.0 jpinvrkp.xyz
 0.0.0.0 jqpc.strategies.mvpstrat.com
 0.0.0.0 jrqh-hk.com
 0.0.0.0 js1.search-st1.com
@@ -1500,6 +1504,7 @@
 0.0.0.0 midginvineco.com
 0.0.0.0 mights.net
 0.0.0.0 mijpostontvangen.nl
+0.0.0.0 milta.shop
 0.0.0.0 milukj.nodeloc.com
 0.0.0.0 miner-tolken.com
 0.0.0.0 mingleyou.top
@@ -1519,7 +1524,6 @@
 0.0.0.0 misljen.net
 0.0.0.0 mississippistemacademy.org
 0.0.0.0 mitgpssms.com
-0.0.0.0 mjrw.house.zionanakwenze.com
 0.0.0.0 mjsqurej.com
 0.0.0.0 mkgd.demo.ezra-ai.com
 0.0.0.0 mkotl.strategies.mvpstrat.com
@@ -1677,6 +1681,7 @@
 0.0.0.0 onemicro.b-cdn.net
 0.0.0.0 onge.org
 0.0.0.0 onirstore.com
+0.0.0.0 online0.info
 0.0.0.0 onlinemicrosoft-1318069902.cos.ap-chengdu.myqcloud.com
 0.0.0.0 onlineshoppe.semilinktech.com
 0.0.0.0 onsuitex.com
@@ -1715,6 +1720,7 @@
 0.0.0.0 panelactivo.freewww.info
 0.0.0.0 panelpanle.qpoe.com
 0.0.0.0 panelroy7al-ezcd.pages.dev
+0.0.0.0 paonancs.cn
 0.0.0.0 papaya-valkyrie-70312d.netlify.app
 0.0.0.0 papu3.ddns.net
 0.0.0.0 paradisoprovisor1.hospedagemdesites.ws
@@ -1742,7 +1748,6 @@
 0.0.0.0 perseverclinic.com
 0.0.0.0 petrjanicek.savana-hosting.cz
 0.0.0.0 petshopsg.com
-0.0.0.0 pfwu.house.zionanakwenze.com
 0.0.0.0 phaimtom.com
 0.0.0.0 phanetom.com
 0.0.0.0 phantom.app.phanutom.com
@@ -1785,7 +1790,6 @@
 0.0.0.0 polska-0198-238-14.otzo.com
 0.0.0.0 polska-acc-108441.toh.info
 0.0.0.0 polytechnix.com
-0.0.0.0 pomppie.shop
 0.0.0.0 portalonline-simplespgme.online
 0.0.0.0 portalreceitafazenda.com
 0.0.0.0 portel-e-on-id.ygto.com
@@ -1814,6 +1818,7 @@
 0.0.0.0 propierty-hotelid424497.com
 0.0.0.0 proship.ae
 0.0.0.0 protechasia.com
+0.0.0.0 protek-tech.com
 0.0.0.0 prtmscaup.click
 0.0.0.0 prtmscaup.my
 0.0.0.0 pts.group
@@ -1943,10 +1948,10 @@
 0.0.0.0 raw.intenseapi.com
 0.0.0.0 rayjenthomas.duckdns.org
 0.0.0.0 razer-partners.com
-0.0.0.0 raziritop.org
 0.0.0.0 rb3.ftnt.io
 0.0.0.0 rd.chuitian.cn
 0.0.0.0 rddissisifigifidi.net
+0.0.0.0 re-botcheck.com
 0.0.0.0 re-capcha.cfd
 0.0.0.0 ready-bathroom-carter-membrane.trycloudflare.com
 0.0.0.0 realark.net
@@ -1970,7 +1975,6 @@
 0.0.0.0 reschedule-my-ups-now.com
 0.0.0.0 reschedule345-now-ups-online.com
 0.0.0.0 reservations-09-1318069902.cos.sa-saopaulo.myqcloud.com
-0.0.0.0 resourceedge.org
 0.0.0.0 respaldo2.duckdns.org
 0.0.0.0 resso-security.com
 0.0.0.0 reusable-flex.com
@@ -2156,7 +2160,6 @@
 0.0.0.0 socotab.net
 0.0.0.0 sodiumlaurethsulfatedesyroyer.com
 0.0.0.0 soft.110route.com
-0.0.0.0 soft.wsyhn.com
 0.0.0.0 soft93.eu.org
 0.0.0.0 softbank126023203236.bbtec.net
 0.0.0.0 softconsolutions.com
@@ -2168,6 +2171,7 @@
 0.0.0.0 solcambell.softdatagen.free.hr
 0.0.0.0 solve.bogx.org
 0.0.0.0 solve.fizq.net
+0.0.0.0 solve.gyke.org
 0.0.0.0 solve.haxy.org
 0.0.0.0 solve.hhxe.org
 0.0.0.0 solve.jrqr.org
@@ -2330,6 +2334,7 @@
 0.0.0.0 tgactress.b-cdn.net
 0.0.0.0 tgatpk.s3.ap-northeast-2.amazonaws.com
 0.0.0.0 tgsfr.b-cdn.net
+0.0.0.0 thatsofar.top
 0.0.0.0 thedannymorganband.com
 0.0.0.0 thedotmediagroup.com
 0.0.0.0 thegibson.co.za
@@ -2481,6 +2486,7 @@
 0.0.0.0 us34needay31profit35.544797.xyz
 0.0.0.0 us5.info
 0.0.0.0 us7.info
+0.0.0.0 usa11.info
 0.0.0.0 usa2.info
 0.0.0.0 usa7.info
 0.0.0.0 usjjsjsj.com.ng
@@ -2698,7 +2704,6 @@
 0.0.0.0 zlonline.oss-cn-shenzhen.aliyuncs.com
 0.0.0.0 zmreb.patent.international-med.com
 0.0.0.0 zmscf.events.socalpocis.org
-0.0.0.0 znrq.zifwxq.cn
 0.0.0.0 zoamaster.com
 0.0.0.0 zolatourism.com
 0.0.0.0 zontricks.com
@@ -2710,6 +2715,7 @@
 0.0.0.0 zunigarquitectura.com
 0.0.0.0 zushiapi.online
 0.0.0.0 zvczcz.saves-the-whales.com
+0.0.0.0 zwaregroup.com
 0.0.0.0 zxload1.com
 0.0.0.0 zyf.strategies.mvpstrat.com
 0.0.0.0 zylocraft.pro
