@@ -47305,6 +47305,7 @@
 0.0.0.0 www.ouo.io
 0.0.0.0 www.papy.co.jp
 0.0.0.0 www.parsads.com
+0.0.0.0 www.partner-ads.com
 0.0.0.0 www.paycounter.com
 0.0.0.0 www.peep1alea.com
 0.0.0.0 www.perception-sharp52.com
