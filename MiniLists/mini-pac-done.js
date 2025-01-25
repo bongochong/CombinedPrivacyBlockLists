@@ -1,4 +1,4 @@
-// **** Fri Jan 24 09:03:29 AM UTC 2025
+// **** Sat Jan 25 05:19:43 AM UTC 2025
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.023hysj.com") ||
@@ -394,7 +394,6 @@ shExpMatch(host, "*.adapace.gotrackier.com") ||
 shExpMatch(host, "*.adapex.io") ||
 shExpMatch(host, "*.adapi.inlcorp.com") ||
 shExpMatch(host, "*.adapt.tv") ||
-shExpMatch(host, "*.adaranth.com") ||
 shExpMatch(host, "*.adash.m.taobao.com") ||
 shExpMatch(host, "*.adash.man.aliyuncs.com") ||
 shExpMatch(host, "*.adashx4ae.ut.taobao.com") ||
@@ -1132,7 +1131,6 @@ shExpMatch(host, "*.ads.tripod.lycos.nl") ||
 shExpMatch(host, "*.ads.tripod.spray.se") ||
 shExpMatch(host, "*.ads.tso.dennisnet.co.uk") ||
 shExpMatch(host, "*.ads.twitter.com") ||
-shExpMatch(host, "*.ads.twojatv.info") ||
 shExpMatch(host, "*.ads.uknetguide.co.uk") ||
 shExpMatch(host, "*.ads.ultimate-guitar.com") ||
 shExpMatch(host, "*.ads.uncrate.com") ||
@@ -3025,7 +3023,6 @@ shExpMatch(host, "*.click.news.vans.com") ||
 shExpMatch(host, "*.click.nl.npr.org") ||
 shExpMatch(host, "*.click.nvgaming.nvidia.com") ||
 shExpMatch(host, "*.click.oneplus.cn") ||
-shExpMatch(host, "*.click.twcwigs.com") ||
 shExpMatch(host, "*.click.union.ucweb.com") ||
 shExpMatch(host, "*.click.v.visionlab.es") ||
 shExpMatch(host, "*.click2commission.gotrackier.com") ||
@@ -10149,7 +10146,6 @@ shExpMatch(host, "adapace.gotrackier.com") ||
 shExpMatch(host, "adapex.io") ||
 shExpMatch(host, "adapi.inlcorp.com") ||
 shExpMatch(host, "adapt.tv") ||
-shExpMatch(host, "adaranth.com") ||
 shExpMatch(host, "adash.m.taobao.com") ||
 shExpMatch(host, "adash.man.aliyuncs.com") ||
 shExpMatch(host, "adashx4ae.ut.taobao.com") ||
@@ -10887,7 +10883,6 @@ shExpMatch(host, "ads.tripod.lycos.nl") ||
 shExpMatch(host, "ads.tripod.spray.se") ||
 shExpMatch(host, "ads.tso.dennisnet.co.uk") ||
 shExpMatch(host, "ads.twitter.com") ||
-shExpMatch(host, "ads.twojatv.info") ||
 shExpMatch(host, "ads.uknetguide.co.uk") ||
 shExpMatch(host, "ads.ultimate-guitar.com") ||
 shExpMatch(host, "ads.uncrate.com") ||
@@ -12780,7 +12775,6 @@ shExpMatch(host, "click.news.vans.com") ||
 shExpMatch(host, "click.nl.npr.org") ||
 shExpMatch(host, "click.nvgaming.nvidia.com") ||
 shExpMatch(host, "click.oneplus.cn") ||
-shExpMatch(host, "click.twcwigs.com") ||
 shExpMatch(host, "click.union.ucweb.com") ||
 shExpMatch(host, "click.v.visionlab.es") ||
 shExpMatch(host, "click2commission.gotrackier.com") ||

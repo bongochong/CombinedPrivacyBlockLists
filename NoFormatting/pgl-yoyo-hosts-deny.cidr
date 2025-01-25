@@ -2160,8 +2160,6 @@ deny from 68.142.234.44/30
 deny from 68.142.234.78/32
 deny from 68.142.234.88/32
 deny from 68.167.223.148/32
-deny from 68.168.112.4/32
-deny from 68.168.112.22/32
 deny from 68.169.72.178/32
 deny from 68.169.73.54/32
 deny from 68.169.80.103/32

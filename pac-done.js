@@ -1,4 +1,4 @@
-// **** Fri Jan 24 09:03:21 AM UTC 2025
+// **** Sat Jan 25 05:18:42 AM UTC 2025
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.00689.net") ||
@@ -620,7 +620,6 @@ shExpMatch(host, "*.adapace.gotrackier.com") ||
 shExpMatch(host, "*.adapex.io") ||
 shExpMatch(host, "*.adapi.inlcorp.com") ||
 shExpMatch(host, "*.adapt.tv") ||
-shExpMatch(host, "*.adaranth.com") ||
 shExpMatch(host, "*.adash.m.taobao.com") ||
 shExpMatch(host, "*.adash.man.aliyuncs.com") ||
 shExpMatch(host, "*.adashx4ae.ut.taobao.com") ||
@@ -1637,7 +1636,6 @@ shExpMatch(host, "*.ads.tripod.spray.se") ||
 shExpMatch(host, "*.ads.tso.dennisnet.co.uk") ||
 shExpMatch(host, "*.ads.tunein.com") ||
 shExpMatch(host, "*.ads.twitter.com") ||
-shExpMatch(host, "*.ads.twojatv.info") ||
 shExpMatch(host, "*.ads.uknetguide.co.uk") ||
 shExpMatch(host, "*.ads.ultimate-guitar.com") ||
 shExpMatch(host, "*.ads.uncrate.com") ||
@@ -4270,7 +4268,6 @@ shExpMatch(host, "*.click.oneplus.cn") ||
 shExpMatch(host, "*.click.searchnation.net") ||
 shExpMatch(host, "*.click.top10sites.com") ||
 shExpMatch(host, "*.click.trafikkfondet.no") ||
-shExpMatch(host, "*.click.twcwigs.com") ||
 shExpMatch(host, "*.click.uamtrk.com") ||
 shExpMatch(host, "*.click.udimg.com") ||
 shExpMatch(host, "*.click.union.ucweb.com") ||
@@ -14557,7 +14554,6 @@ shExpMatch(host, "adapace.gotrackier.com") ||
 shExpMatch(host, "adapex.io") ||
 shExpMatch(host, "adapi.inlcorp.com") ||
 shExpMatch(host, "adapt.tv") ||
-shExpMatch(host, "adaranth.com") ||
 shExpMatch(host, "adash.m.taobao.com") ||
 shExpMatch(host, "adash.man.aliyuncs.com") ||
 shExpMatch(host, "adashx4ae.ut.taobao.com") ||
@@ -15574,7 +15570,6 @@ shExpMatch(host, "ads.tripod.spray.se") ||
 shExpMatch(host, "ads.tso.dennisnet.co.uk") ||
 shExpMatch(host, "ads.tunein.com") ||
 shExpMatch(host, "ads.twitter.com") ||
-shExpMatch(host, "ads.twojatv.info") ||
 shExpMatch(host, "ads.uknetguide.co.uk") ||
 shExpMatch(host, "ads.ultimate-guitar.com") ||
 shExpMatch(host, "ads.uncrate.com") ||
@@ -18207,7 +18202,6 @@ shExpMatch(host, "click.oneplus.cn") ||
 shExpMatch(host, "click.searchnation.net") ||
 shExpMatch(host, "click.top10sites.com") ||
 shExpMatch(host, "click.trafikkfondet.no") ||
-shExpMatch(host, "click.twcwigs.com") ||
 shExpMatch(host, "click.uamtrk.com") ||
 shExpMatch(host, "click.udimg.com") ||
 shExpMatch(host, "click.union.ucweb.com") ||
