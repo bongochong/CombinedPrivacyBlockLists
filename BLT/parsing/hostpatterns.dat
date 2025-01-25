@@ -183,6 +183,7 @@ localhost$
 ^0\.0\.0\.0\s(www\.)?hbo\.com$
 ^0\.0\.0\.0\s(www\.)?healthgrades\.com$
 ^0\.0\.0\.0\s(www\.)?here\.com$
+^0\.0\.0\.0\s(www\.)?heytapmobile\.com$
 ^0\.0\.0\.0\s(www\.)?hoopladigital\.com$
 ^0\.0\.0\.0\s(www\.)?hostsfile\.org$
 ^0\.0\.0\.0\s(www\.)?hotels\.com$
