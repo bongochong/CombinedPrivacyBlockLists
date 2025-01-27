@@ -122,6 +122,7 @@
 ^(www\.)?embed\.ly$
 ^(www\.)?embedly\.com$
 ^(www\.)?emptyloop\.com$
+^(www\.)?england365\.gr$
 ^(www\.)?espn\.com$
 ^(www\.)?ethermine\.org$
 ^(www\.)?facebook\.com$
@@ -616,6 +617,7 @@
 ^gfwsl\.geforce\.com$
 ^glimmer\.hearstapps\.com$
 ^go\.cnn\.com$
+^go\.microsoft\.com$
 ^gs\.apple\.com$
 ^gs\.statcounter\.com$
 ^gstaticadssl\.l\.google\.com$
@@ -766,6 +768,7 @@
 ^t0\.ssl\.ak\.dynamic\.tiles\.virtualearth\.net$
 ^t0\.ssl\.ak\.tiles\.virtualearth\.net$
 ^t\.indeed\.com$
+^tags\.news\.com\.au$
 ^tags\.tiqcdn\.com$
 ^talk\.brave\.com$
 ^td\.demdex\.net$

@@ -138,6 +138,7 @@ localhost$
 ^0\.0\.0\.0\s(www\.)?embed\.ly$
 ^0\.0\.0\.0\s(www\.)?embedly\.com$
 ^0\.0\.0\.0\s(www\.)?emptyloop\.com$
+^0\.0\.0\.0\s(www\.)?england365\.gr$
 ^0\.0\.0\.0\s(www\.)?espn\.com$
 ^0\.0\.0\.0\s(www\.)?ethermine\.org$
 ^0\.0\.0\.0\s(www\.)?facebook\.com$
@@ -632,6 +633,7 @@ localhost$
 ^0\.0\.0\.0\sgfwsl\.geforce\.com$
 ^0\.0\.0\.0\sglimmer\.hearstapps\.com$
 ^0\.0\.0\.0\sgo\.cnn\.com$
+^0\.0\.0\.0\sgo\.microsoft\.com$
 ^0\.0\.0\.0\sgs\.apple\.com$
 ^0\.0\.0\.0\sgs\.statcounter\.com$
 ^0\.0\.0\.0\sgstaticadssl\.l\.google\.com$
@@ -782,6 +784,7 @@ localhost$
 ^0\.0\.0\.0\st0\.ssl\.ak\.dynamic\.tiles\.virtualearth\.net$
 ^0\.0\.0\.0\st0\.ssl\.ak\.tiles\.virtualearth\.net$
 ^0\.0\.0\.0\st\.indeed\.com$
+^0\.0\.0\.0\stags\.news\.com\.au$
 ^0\.0\.0\.0\stags\.tiqcdn\.com$
 ^0\.0\.0\.0\stalk\.brave\.com$
 ^0\.0\.0\.0\std\.demdex\.net$

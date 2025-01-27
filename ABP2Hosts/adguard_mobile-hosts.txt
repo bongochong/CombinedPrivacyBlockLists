@@ -1,4 +1,4 @@
-# Sat Jan 25 05:04:12 AM UTC 2025
+# Mon Jan 27 09:56:29 PM UTC 2025
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -398,6 +398,7 @@
 0.0.0.0 ad-brix.com
 0.0.0.0 ad-cdn.technoratimedia.com
 0.0.0.0 ad-channel.wikawika.xyz
+0.0.0.0 ad-cheers.com
 0.0.0.0 ad-creative.projectcarmen.com
 0.0.0.0 ad-creatives-public.commondatastorage.googleapis.com
 0.0.0.0 ad-delivery.net
@@ -411,8 +412,10 @@
 0.0.0.0 ad-log-upload-os.hoyoverse.com
 0.0.0.0 ad-mediation.tuanguwen.com
 0.0.0.0 ad-monitor.kargo.com
+0.0.0.0 ad-nex.com
 0.0.0.0 ad-server-lb-294150285.ap-southeast-1.elb.amazonaws.com
 0.0.0.0 ad-specs.guoshipartners.com
+0.0.0.0 ad-spire.net
 0.0.0.0 ad-splash-tracking.hktvmall.com
 0.0.0.0 ad-splash.hktvmall.com
 0.0.0.0 ad-stir.com
@@ -584,6 +587,7 @@
 0.0.0.0 adlog.vivo.com.cn
 0.0.0.0 adlogs.ad2iction.com
 0.0.0.0 adm.fwmrm.net
+0.0.0.0 adm.shinobi.jp
 0.0.0.0 adm3.autoimg.cn
 0.0.0.0 adman.gr
 0.0.0.0 admarketing.yahoo.net
@@ -3366,6 +3370,7 @@
 0.0.0.0 datacloud-us-east-1.tealiumiq.com
 0.0.0.0 datacloud.tealiumiq.com
 0.0.0.0 datacollector-dra.dt.dbankcloud.cn
+0.0.0.0 datacollector-drru.dt.dbankcloud.ru
 0.0.0.0 dataflow.biliapi.com
 0.0.0.0 datam16.adlooxtracking.com
 0.0.0.0 datastoried.com
@@ -5055,6 +5060,7 @@
 0.0.0.0 irs01.com
 0.0.0.0 is-gateway.supersonicads.com
 0.0.0.0 is-tracking-pixel-api-prod.appspot.com
+0.0.0.0 isboost.co.jp
 0.0.0.0 ispot.tv
 0.0.0.0 it-gmtdmp.mookie1.com
 0.0.0.0 itdsmr.com
@@ -6947,6 +6953,7 @@
 0.0.0.0 r.skimresources.com
 0.0.0.0 r.teads.tv
 0.0.0.0 r.turn.com
+0.0.0.0 r0.mail.ru
 0.0.0.0 r0.mradx.net
 0.0.0.0 r1.visualwebsiteoptimizer.com
 0.0.0.0 r2.visualwebsiteoptimizer.com
@@ -7857,6 +7864,7 @@
 0.0.0.0 sloppyearthquake.com
 0.0.0.0 smaato.com
 0.0.0.0 smaato.net
+0.0.0.0 smac-ad.com
 0.0.0.0 smaclick.com
 0.0.0.0 smadex.com
 0.0.0.0 smallershops.com
@@ -9492,6 +9500,7 @@
 0.0.0.0 wall.adgaterewards.com
 0.0.0.0 wantingwindow.com
 0.0.0.0 wapstart.ru
+0.0.0.0 waqool.com
 0.0.0.0 warmafterthought.com
 0.0.0.0 warmquiver.com
 0.0.0.0 warnwing.com
