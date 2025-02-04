@@ -1,4 +1,4 @@
-# Mon Jan 27 09:56:29 PM UTC 2025
+# Tue Feb  4 05:56:24 AM UTC 2025
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -2610,7 +2610,6 @@
 0.0.0.0 cdn.segmentify.com
 0.0.0.0 cdn.selectablemedia.com
 0.0.0.0 cdn.siftscience.com
-0.0.0.0 cdn.simpleanalytics.io
 0.0.0.0 cdn.simpli.fi
 0.0.0.0 cdn.smartnews-ads.com
 0.0.0.0 cdn.socialannex.com
@@ -5103,6 +5102,7 @@
 0.0.0.0 jp.cinarra.com
 0.0.0.0 jp1-bid-ga.adsrvr.org
 0.0.0.0 jp1-bid.adsrvr.org
+0.0.0.0 jpush.io
 0.0.0.0 js-cdn.dynatrace.com
 0.0.0.0 js.ad-stir.com
 0.0.0.0 js.adscale.de
@@ -6132,7 +6132,6 @@
 0.0.0.0 nrc.tapas.net
 0.0.0.0 nrcapi.ssl2.duapps.com
 0.0.0.0 ns.zdbb.net
-0.0.0.0 nstool.netease.com
 0.0.0.0 ntracker-collector.naver.com
 0.0.0.0 ntv.io.edgekey.net
 0.0.0.0 ntvcld-a.akamaihd.net
