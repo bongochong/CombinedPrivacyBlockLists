@@ -1,4 +1,4 @@
-// **** Mon Jan 27 10:05:52 PM UTC 2025
+// **** Tue Feb  4 06:17:32 AM UTC 2025
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.023hysj.com") ||
@@ -2203,7 +2203,6 @@ shExpMatch(host, "*.athena-ads.wikia.com") ||
 shExpMatch(host, "*.athena.api.kwalee.com") ||
 shExpMatch(host, "*.atlantisjs.brafton.com") ||
 shExpMatch(host, "*.atlassolutions.com") ||
-shExpMatch(host, "*.ato.mx") ||
 shExpMatch(host, "*.atr.adsmovil.com") ||
 shExpMatch(host, "*.atsod.launch.liveramp.com") ||
 shExpMatch(host, "*.attendchase.com") ||
@@ -4743,7 +4742,6 @@ shExpMatch(host, "*.havasedge.com") ||
 shExpMatch(host, "*.hb.afl.rakuten.co.jp") ||
 shExpMatch(host, "*.hbb.afl.rakuten.co.jp") ||
 shExpMatch(host, "*.hbi-ingest.net") ||
-shExpMatch(host, "*.hdscout.com") ||
 shExpMatch(host, "*.headydegree.com") ||
 shExpMatch(host, "*.headyhook.com") ||
 shExpMatch(host, "*.healflowers.com") ||
@@ -5236,6 +5234,7 @@ shExpMatch(host, "*.joyfulkeen.com") ||
 shExpMatch(host, "*.joyfulvibe.com") ||
 shExpMatch(host, "*.joyoussurprise.com") ||
 shExpMatch(host, "*.jp.cinarra.com") ||
+shExpMatch(host, "*.jpush.io") ||
 shExpMatch(host, "*.js-cdn.dynatrace.com") ||
 shExpMatch(host, "*.js.center.io") ||
 shExpMatch(host, "*.js.gleam.io") ||
@@ -6366,7 +6365,6 @@ shExpMatch(host, "*.npttech.com") ||
 shExpMatch(host, "*.nr.mmcdn.com") ||
 shExpMatch(host, "*.nr.static.mmcdn.com") ||
 shExpMatch(host, "*.ns1p.net") ||
-shExpMatch(host, "*.nstool.netease.com") ||
 shExpMatch(host, "*.ntracker-collector.naver.com") ||
 shExpMatch(host, "*.ntv.io") ||
 shExpMatch(host, "*.ntv.io.edgekey.net") ||
@@ -7870,7 +7868,6 @@ shExpMatch(host, "*.siliconslow.com") ||
 shExpMatch(host, "*.silkysquirrel.com") ||
 shExpMatch(host, "*.sillyscrew.com") ||
 shExpMatch(host, "*.silvermob.com") ||
-shExpMatch(host, "*.simpleanalytics.io") ||
 shExpMatch(host, "*.simplesharebuttons.com") ||
 shExpMatch(host, "*.simplesidewalk.com") ||
 shExpMatch(host, "*.simpletexting.com") ||
@@ -7887,7 +7884,6 @@ shExpMatch(host, "*.singroot.com") ||
 shExpMatch(host, "*.singular.net") ||
 shExpMatch(host, "*.sinkbooks.com") ||
 shExpMatch(host, "*.sinoa.com") ||
-shExpMatch(host, "*.sis.jpush.io") ||
 shExpMatch(host, "*.sitebrand.geeks.com") ||
 shExpMatch(host, "*.sitedataprocessing.com") ||
 shExpMatch(host, "*.sitegenesis.production.deckers.coremedia.cloud") ||
@@ -11964,7 +11960,6 @@ shExpMatch(host, "athena-ads.wikia.com") ||
 shExpMatch(host, "athena.api.kwalee.com") ||
 shExpMatch(host, "atlantisjs.brafton.com") ||
 shExpMatch(host, "atlassolutions.com") ||
-shExpMatch(host, "ato.mx") ||
 shExpMatch(host, "atr.adsmovil.com") ||
 shExpMatch(host, "atsod.launch.liveramp.com") ||
 shExpMatch(host, "attendchase.com") ||
@@ -14504,7 +14499,6 @@ shExpMatch(host, "havasedge.com") ||
 shExpMatch(host, "hb.afl.rakuten.co.jp") ||
 shExpMatch(host, "hbb.afl.rakuten.co.jp") ||
 shExpMatch(host, "hbi-ingest.net") ||
-shExpMatch(host, "hdscout.com") ||
 shExpMatch(host, "headydegree.com") ||
 shExpMatch(host, "headyhook.com") ||
 shExpMatch(host, "healflowers.com") ||
@@ -14997,6 +14991,7 @@ shExpMatch(host, "joyfulkeen.com") ||
 shExpMatch(host, "joyfulvibe.com") ||
 shExpMatch(host, "joyoussurprise.com") ||
 shExpMatch(host, "jp.cinarra.com") ||
+shExpMatch(host, "jpush.io") ||
 shExpMatch(host, "js-cdn.dynatrace.com") ||
 shExpMatch(host, "js.center.io") ||
 shExpMatch(host, "js.gleam.io") ||
@@ -16127,7 +16122,6 @@ shExpMatch(host, "npttech.com") ||
 shExpMatch(host, "nr.mmcdn.com") ||
 shExpMatch(host, "nr.static.mmcdn.com") ||
 shExpMatch(host, "ns1p.net") ||
-shExpMatch(host, "nstool.netease.com") ||
 shExpMatch(host, "ntracker-collector.naver.com") ||
 shExpMatch(host, "ntv.io") ||
 shExpMatch(host, "ntv.io.edgekey.net") ||
@@ -17631,7 +17625,6 @@ shExpMatch(host, "siliconslow.com") ||
 shExpMatch(host, "silkysquirrel.com") ||
 shExpMatch(host, "sillyscrew.com") ||
 shExpMatch(host, "silvermob.com") ||
-shExpMatch(host, "simpleanalytics.io") ||
 shExpMatch(host, "simplesharebuttons.com") ||
 shExpMatch(host, "simplesidewalk.com") ||
 shExpMatch(host, "simpletexting.com") ||
@@ -17648,7 +17641,6 @@ shExpMatch(host, "singroot.com") ||
 shExpMatch(host, "singular.net") ||
 shExpMatch(host, "sinkbooks.com") ||
 shExpMatch(host, "sinoa.com") ||
-shExpMatch(host, "sis.jpush.io") ||
 shExpMatch(host, "sitebrand.geeks.com") ||
 shExpMatch(host, "sitedataprocessing.com") ||
 shExpMatch(host, "sitegenesis.production.deckers.coremedia.cloud") ||
