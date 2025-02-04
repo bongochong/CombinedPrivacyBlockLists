@@ -2921,6 +2921,7 @@
 0.0.0.0 adknowledge.com
 0.0.0.0 adkomo.com
 0.0.0.0 adkontekst.pl
+0.0.0.0 adkriv.media
 0.0.0.0 adkrivmedia.com
 0.0.0.0 adksrv.com
 0.0.0.0 adl-hunter.com
@@ -6392,6 +6393,7 @@
 0.0.0.0 advertstar.net
 0.0.0.0 advertstar.ru
 0.0.0.0 advertstream.com
+0.0.0.0 adverttise.com
 0.0.0.0 advertur.ru
 0.0.0.0 advertwizard.com
 0.0.0.0 advertyz.com
@@ -6588,6 +6590,7 @@
 0.0.0.0 adxpansion.com
 0.0.0.0 adxpartner.com
 0.0.0.0 adxplay.com
+0.0.0.0 adxpoint.com
 0.0.0.0 adxpose.com
 0.0.0.0 adxpower.com
 0.0.0.0 adxpremium.services
@@ -6633,6 +6636,7 @@
 0.0.0.0 adzonestatic.com
 0.0.0.0 adzp.cn
 0.0.0.0 adzpower.com
+0.0.0.0 adzreach.com
 0.0.0.0 adzs.com
 0.0.0.0 adzsx.pro
 0.0.0.0 adztar.fusetracking.com
