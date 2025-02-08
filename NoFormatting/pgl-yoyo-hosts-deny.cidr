@@ -2972,7 +2972,6 @@ deny from 78.31.105.131/32
 deny from 78.40.200.209/32
 deny from 78.46.9.18/32
 deny from 78.46.67.131/32
-deny from 78.46.68.213/32
 deny from 78.46.69.205/32
 deny from 78.46.91.10/32
 deny from 78.46.100.179/32
@@ -4952,7 +4951,6 @@ deny from 185.31.19.194/32
 deny from 185.33.52.68/32
 deny from 187.31.192.6/32
 deny from 188.40.29.131/32
-deny from 188.40.52.146/32
 deny from 188.40.68.199/32
 deny from 188.40.81.145/32
 deny from 188.40.102.72/32
