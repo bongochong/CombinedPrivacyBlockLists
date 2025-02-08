@@ -447,6 +447,7 @@ licensing.xboxlive.com
 liffsdk.line-scdn.net
 lightboxcdn.com
 link.dana.id
+link.springer.com
 linkedin-learning.pxf.io
 live-nhl.stream
 live.com

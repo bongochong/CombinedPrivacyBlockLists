@@ -9247,6 +9247,7 @@
 0.0.0.0 auphawhu.net
 0.0.0.0 auptirair.com
 0.0.0.0 auptoudsouftad.net
+0.0.0.0 auraloads.com
 0.0.0.0 aurirdikseewhoo.net
 0.0.0.0 aus-mec-tracking.adalyser.com
 0.0.0.0 aus-smv-tracking.adalyser.com
@@ -24523,6 +24524,7 @@
 0.0.0.0 lackadaisicalkite.com
 0.0.0.0 lacmoudoossaiss.net
 0.0.0.0 laconservancy.actonsoftware.com
+0.0.0.0 lacqplus.tests.step.eco
 0.0.0.0 ladbrokes.hs-edge.net
 0.0.0.0 ladsp.com
 0.0.0.0 ladsp.jp
@@ -24897,7 +24899,6 @@
 0.0.0.0 link.resy.com
 0.0.0.0 link.rubicon.com
 0.0.0.0 link.saba.edu
-0.0.0.0 link.springer.com
 0.0.0.0 link.swa.info
 0.0.0.0 link.sylikes.com
 0.0.0.0 link.thehoth.com
@@ -36933,7 +36934,6 @@
 0.0.0.0 sanalytics.tntdrama.com
 0.0.0.0 sanalytics.tntsports.cl
 0.0.0.0 sanalytics.tntsports.com
-0.0.0.0 sanalytics.toonamiafrica.com
 0.0.0.0 sanalytics.trutv.com
 0.0.0.0 sanalytics.verizon.com
 0.0.0.0 sanalytics.verizonenterprise.com
@@ -37981,6 +37981,7 @@
 0.0.0.0 sh4sure-images.adbureau.net
 0.0.0.0 shabsignul.net
 0.0.0.0 shadeship.com
+0.0.0.0 shadowinject.com
 0.0.0.0 shadsoadaw.net
 0.0.0.0 shaggytank.com
 0.0.0.0 shaickox.com
@@ -44374,6 +44375,7 @@
 0.0.0.0 trkjmp.com
 0.0.0.0 trkpzz.dcinside.com
 0.0.0.0 trmit.com
+0.0.0.0 tronexcheats.space
 0.0.0.0 tropheesdiffusion.com
 0.0.0.0 tropo01.webtrekk.net
 0.0.0.0 troubledtail.com
