@@ -3873,7 +3873,6 @@ deny from 92.123.99.171/32
 deny from 92.123.109.95/32
 deny from 92.123.189.234/32
 deny from 92.123.197.95/32
-deny from 92.240.234.45/32
 deny from 92.241.179.2/32
 deny from 93.90.176.36/32
 deny from 93.91.240.106/32
