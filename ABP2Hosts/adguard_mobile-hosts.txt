@@ -1,4 +1,4 @@
-# Sun Feb 23 08:01:51 AM UTC 2025
+# Tue Feb 25 11:32:58 AM UTC 2025
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -2626,6 +2626,7 @@
 0.0.0.0 cdn.segmentify.com
 0.0.0.0 cdn.selectablemedia.com
 0.0.0.0 cdn.siftscience.com
+0.0.0.0 cdn.simpleanalytics.io
 0.0.0.0 cdn.simpli.fi
 0.0.0.0 cdn.smartnews-ads.com
 0.0.0.0 cdn.socialannex.com
@@ -4332,7 +4333,6 @@
 0.0.0.0 gdn.socdm.com
 0.0.0.0 gdpr.rw.yieldmo.com
 0.0.0.0 gds.mmstat.com
-0.0.0.0 gecko-sg.byteoversea.com
 0.0.0.0 geede.info
 0.0.0.0 geekactive.com
 0.0.0.0 geico.com.ssl.sc.omtrdc.net
@@ -4411,6 +4411,7 @@
 0.0.0.0 glitter.services.disqus.com
 0.0.0.0 glitteringbrook.com
 0.0.0.0 glizauvo.net
+0.0.0.0 global-staticplat.cdn.bcebos.com
 0.0.0.0 global-wildcard.insightexpressai.com.edgekey.net
 0.0.0.0 global.adserver.yahoo.com
 0.0.0.0 global.appnext.com
@@ -6443,6 +6444,7 @@
 0.0.0.0 pathfinder.analytics.komoot.net
 0.0.0.0 patriot.cs.pp.cn
 0.0.0.0 pavoboxapp.com
+0.0.0.0 pavoshare.com
 0.0.0.0 pawsnug.com
 0.0.0.0 payload.adadapted.com
 0.0.0.0 payment.yodo1api.com
