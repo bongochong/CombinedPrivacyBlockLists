@@ -23453,7 +23453,6 @@
 0.0.0.0 login.adqva.com
 0.0.0.0 login.adsailor.com
 0.0.0.0 login.adsimilate.com
-0.0.0.0 login.affial.com
 0.0.0.0 login.artilleryads.com
 0.0.0.0 login.bappaads.com
 0.0.0.0 login.bat-ads.com
@@ -23464,7 +23463,6 @@
 0.0.0.0 login.clicktoring.com
 0.0.0.0 login.creditals-email.space
 0.0.0.0 login.crowdegic.com
-0.0.0.0 login.dognet.sk
 0.0.0.0 login.dtxplatform.net
 0.0.0.0 login.eureekkaa.com
 0.0.0.0 login.exploradsteam.com
@@ -35443,6 +35441,7 @@
 0.0.0.0 smetrics.frontline.co.th
 0.0.0.0 smetrics.frontline.ru
 0.0.0.0 smetrics.frontlinecanegatto.it
+0.0.0.0 smetrics.ftd.com
 0.0.0.0 smetrics.futuro.cl
 0.0.0.0 smetrics.gatesnotes.com
 0.0.0.0 smetrics.gcimetrics.com

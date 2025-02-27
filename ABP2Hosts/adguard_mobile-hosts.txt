@@ -1,4 +1,4 @@
-# Tue Feb 25 11:32:58 AM UTC 2025
+# Thu Feb 27 03:47:40 PM UTC 2025
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -5694,6 +5694,7 @@
 0.0.0.0 mcoreads.com
 0.0.0.0 mcount.easebar.com
 0.0.0.0 mcs-va.tiktokv.com
+0.0.0.0 mcs.tiktokw.us
 0.0.0.0 mcvsb5ngty4dzxx8jp80yt3q5614.device.marketingcloudapis.com
 0.0.0.0 mcy8q-n2f8ttyv729bcg5v83dsp4.device.marketingcloudapis.com
 0.0.0.0 md-a-c.apptimize.com
@@ -6443,7 +6444,6 @@
 0.0.0.0 pastoralroad.com
 0.0.0.0 pathfinder.analytics.komoot.net
 0.0.0.0 patriot.cs.pp.cn
-0.0.0.0 pavoboxapp.com
 0.0.0.0 pavoshare.com
 0.0.0.0 pawsnug.com
 0.0.0.0 payload.adadapted.com
@@ -8768,7 +8768,6 @@
 0.0.0.0 tend.io
 0.0.0.0 tendersugar.com
 0.0.0.0 tendertest.com
-0.0.0.0 teraverseapp.com
 0.0.0.0 terminusdisplay296618589072.s.moatpixel.com
 0.0.0.0 terriblethumb.com
 0.0.0.0 terrificgoose.com
