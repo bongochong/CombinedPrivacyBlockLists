@@ -1,4 +1,4 @@
-// **** Tue Feb 25 11:39:30 AM UTC 2025
+// **** Thu Feb 27 03:54:33 PM UTC 2025
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.023hysj.com") ||
@@ -5498,6 +5498,7 @@ shExpMatch(host, "*.linkrain.com") ||
 shExpMatch(host, "*.linkreferral.com") ||
 shExpMatch(host, "*.links-ranking.de") ||
 shExpMatch(host, "*.links.email.crunchbase.com") ||
+shExpMatch(host, "*.links.housekeep.com") ||
 shExpMatch(host, "*.links.prosservice.fr") ||
 shExpMatch(host, "*.links.zoopla.co.uk") ||
 shExpMatch(host, "*.linkshighway.com") ||
@@ -5833,6 +5834,7 @@ shExpMatch(host, "*.mcoreads.com") ||
 shExpMatch(host, "*.mcount.easebar.com") ||
 shExpMatch(host, "*.mcs-va.tiktok.com") ||
 shExpMatch(host, "*.mcs-va.tiktokv.com") ||
+shExpMatch(host, "*.mcs.tiktokw.us") ||
 shExpMatch(host, "*.mczbf.com") ||
 shExpMatch(host, "*.md-a-c.apptimize.com") ||
 shExpMatch(host, "*.mdotm.com") ||
@@ -6684,7 +6686,6 @@ shExpMatch(host, "*.pastoralcorn.com") ||
 shExpMatch(host, "*.pastoralroad.com") ||
 shExpMatch(host, "*.pathfinder.analytics.komoot.net") ||
 shExpMatch(host, "*.patriot.cs.pp.cn") ||
-shExpMatch(host, "*.pavoboxapp.com") ||
 shExpMatch(host, "*.pavoshare.com") ||
 shExpMatch(host, "*.pawsnug.com") ||
 shExpMatch(host, "*.pay-ads.com") ||
@@ -8739,7 +8740,6 @@ shExpMatch(host, "*.tenant-content.apm.appfolio-analytics.com") ||
 shExpMatch(host, "*.tend.io") ||
 shExpMatch(host, "*.tendersugar.com") ||
 shExpMatch(host, "*.tendertest.com") ||
-shExpMatch(host, "*.teraverseapp.com") ||
 shExpMatch(host, "*.terriblethumb.com") ||
 shExpMatch(host, "*.terrificgoose.com") ||
 shExpMatch(host, "*.terrifictooth.com") ||
@@ -15322,6 +15322,7 @@ shExpMatch(host, "linkrain.com") ||
 shExpMatch(host, "linkreferral.com") ||
 shExpMatch(host, "links-ranking.de") ||
 shExpMatch(host, "links.email.crunchbase.com") ||
+shExpMatch(host, "links.housekeep.com") ||
 shExpMatch(host, "links.prosservice.fr") ||
 shExpMatch(host, "links.zoopla.co.uk") ||
 shExpMatch(host, "linkshighway.com") ||
@@ -15657,6 +15658,7 @@ shExpMatch(host, "mcoreads.com") ||
 shExpMatch(host, "mcount.easebar.com") ||
 shExpMatch(host, "mcs-va.tiktok.com") ||
 shExpMatch(host, "mcs-va.tiktokv.com") ||
+shExpMatch(host, "mcs.tiktokw.us") ||
 shExpMatch(host, "mczbf.com") ||
 shExpMatch(host, "md-a-c.apptimize.com") ||
 shExpMatch(host, "mdotm.com") ||
@@ -16508,7 +16510,6 @@ shExpMatch(host, "pastoralcorn.com") ||
 shExpMatch(host, "pastoralroad.com") ||
 shExpMatch(host, "pathfinder.analytics.komoot.net") ||
 shExpMatch(host, "patriot.cs.pp.cn") ||
-shExpMatch(host, "pavoboxapp.com") ||
 shExpMatch(host, "pavoshare.com") ||
 shExpMatch(host, "pawsnug.com") ||
 shExpMatch(host, "pay-ads.com") ||
@@ -18563,7 +18564,6 @@ shExpMatch(host, "tenant-content.apm.appfolio-analytics.com") ||
 shExpMatch(host, "tend.io") ||
 shExpMatch(host, "tendersugar.com") ||
 shExpMatch(host, "tendertest.com") ||
-shExpMatch(host, "teraverseapp.com") ||
 shExpMatch(host, "terriblethumb.com") ||
 shExpMatch(host, "terrificgoose.com") ||
 shExpMatch(host, "terrifictooth.com") ||
