@@ -25,7 +25,7 @@ Donezo. Now you have all the utilities. You can also use this one liner to updat
 
 **Dependencies**:  
 The following packages are required to utilize all my block list utilities:  
-`wget` `curl` `pcre` (or `pcregrep`) `perl` `idn2` `aggregate` `sipcalc` `p7zip` (and `p7zip-plugins` or `p7zip-full` on some systems)
+`wget` `curl` `pcre` (or `pcre-tools`, or `pcregrep`) `perl` `idn2` `aggregate` `sipcalc` `p7zip` (and `p7zip-plugins` or `p7zip-full` on some systems)
   
 It should also be noted that most of these tools make heavy use of GNU `sed`.
   
