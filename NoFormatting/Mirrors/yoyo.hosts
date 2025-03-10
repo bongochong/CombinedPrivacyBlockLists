@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 27 Feb 2025 02:45:23 GMT
-# entries:        3472
+# last updated:   Thu, 06 Mar 2025 17:47:12 GMT
+# entries:        3468
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -81,7 +81,6 @@
 127.0.0.1 actualdeals.com
 127.0.0.1 actuallysheep.com
 127.0.0.1 actuallysnake.com
-127.0.0.1 actuallything.com
 127.0.0.1 acuityads.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-balancer.at
@@ -180,6 +179,7 @@
 127.0.0.1 adalliance.io
 127.0.0.1 adanging.blog
 127.0.0.1 adap.tv
+127.0.0.1 adapt.tv
 127.0.0.1 adbilty.me
 127.0.0.1 adblade.com
 127.0.0.1 adblade.org
@@ -376,6 +376,7 @@
 127.0.0.1 ads.bigchurch.com
 127.0.0.1 ads.bigfoot.com
 127.0.0.1 ads.bing.com
+127.0.0.1 ads.bittorrent.com
 127.0.0.1 ads.blog.com
 127.0.0.1 ads.bluemountain.com
 127.0.0.1 ads.boerding.com
@@ -713,7 +714,6 @@
 127.0.0.1 adserver.sciflicks.com
 127.0.0.1 adserver.scr.sk
 127.0.0.1 adserver.smgfiles.com
-127.0.0.1 adserver.theonering.net
 127.0.0.1 adserver.trojaner-info.de
 127.0.0.1 adserver.tupolska.com
 127.0.0.1 adserver.twitpic.com
@@ -975,7 +975,6 @@
 127.0.0.1 at-o.net
 127.0.0.1 atdmt.com
 127.0.0.1 athena-ads.wikia.com
-127.0.0.1 ato.mx
 127.0.0.1 attractionbanana.com
 127.0.0.1 attribution.report
 127.0.0.1 atwola.com
@@ -2001,7 +2000,6 @@
 127.0.0.1 layer-ad.de
 127.0.0.1 layer-ads.de
 127.0.0.1 lbn.ru
-127.0.0.1 lead02.com
 127.0.0.1 leadboltads.net
 127.0.0.1 leadclick.com
 127.0.0.1 leadinfo.net
@@ -2044,6 +2042,7 @@
 127.0.0.1 link.email.usmagazine.com
 127.0.0.1 link.go.chase
 127.0.0.1 link.sbstck.com
+127.0.0.1 link.team.hyperoptic.com
 127.0.0.1 link.theatlantic.com
 127.0.0.1 link.uk.expediamail.com
 127.0.0.1 link4ads.com
@@ -2586,9 +2585,7 @@
 127.0.0.1 puffypull.com
 127.0.0.1 puffypurpose.com
 127.0.0.1 pureclarity.net
-127.0.0.1 pushame.com
 127.0.0.1 pushance.com
-127.0.0.1 pushazer.com
 127.0.0.1 pushengage.com
 127.0.0.1 pushno.com
 127.0.0.1 pushtrack.co
@@ -2671,7 +2668,6 @@
 127.0.0.1 reconditerake.com
 127.0.0.1 record.bonniergaming.com
 127.0.0.1 record.mrwin.com
-127.0.0.1 redirecting8.eu
 127.0.0.1 redirectingat.com
 127.0.0.1 redirectvoluum.com
 127.0.0.1 redrection.pro
