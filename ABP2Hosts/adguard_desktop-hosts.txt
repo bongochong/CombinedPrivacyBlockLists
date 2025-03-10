@@ -1,4 +1,4 @@
-# Mon Mar 10 08:38:36 AM UTC 2025
+# Mon Mar 10 08:50:11 AM UTC 2025
 # AdGuard Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0.101tubeporn.com
 0.0.0.0 0.code.cotsta.ru
