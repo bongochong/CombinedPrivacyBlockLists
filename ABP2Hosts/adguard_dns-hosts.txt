@@ -1,4 +1,4 @@
-# Mon Mar 10 08:31:10 AM UTC 2025
+# Mon Mar 10 08:39:24 AM UTC 2025
 # AdGuard DNS Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0.101tubeporn.com
 0.0.0.0 0.code.cotsta.ru
