@@ -1434,6 +1434,7 @@
 0.0.0.0 actonservice.com
 0.0.0.0 actonsoftware.com
 0.0.0.0 actontv.122.2o7.net
+0.0.0.0 actoramusement.com
 0.0.0.0 actrk.me
 0.0.0.0 acttas.com
 0.0.0.0 actualdeals.com
@@ -8544,6 +8545,7 @@
 0.0.0.0 appinfo.adop.cc
 0.0.0.0 appinstall.webtrekk.net
 0.0.0.0 appinstallcheck.com
+0.0.0.0 apple-protect.com
 0.0.0.0 apple.analnoe24.com
 0.0.0.0 applecaglobal.112.2o7.net
 0.0.0.0 applecenter.info.vn
@@ -8652,6 +8654,7 @@
 0.0.0.0 archswimming.com
 0.0.0.0 arciansi.su
 0.0.0.0 arclk.net
+0.0.0.0 arcticamber.com
 0.0.0.0 ard.yahoo.co.jp
 0.0.0.0 are-ter.com
 0.0.0.0 area51-ts.com
@@ -9823,6 +9826,7 @@
 0.0.0.0 bitdrive.112.2o7.net
 0.0.0.0 bitmedianetwork.com
 0.0.0.0 bitonclick.com
+0.0.0.0 bitterbear.com
 0.0.0.0 bittorrent.es
 0.0.0.0 bixb.exchange
 0.0.0.0 bixbcoin.com
@@ -11188,6 +11192,7 @@
 0.0.0.0 checkup08.biz
 0.0.0.0 cheerfulrange.com
 0.0.0.0 chefkoch01.webtrekk.net
+0.0.0.0 chemicalcoach.com
 0.0.0.0 chemiclk.com
 0.0.0.0 cheri-sh.jp
 0.0.0.0 cheri-sh.net
@@ -12075,6 +12080,7 @@
 0.0.0.0 combativedetail.com
 0.0.0.0 combbit.com
 0.0.0.0 combcattle.com
+0.0.0.0 combclover.com
 0.0.0.0 combine.urbanairship.com
 0.0.0.0 comclick.com
 0.0.0.0 comercial.megafin.pt
@@ -12817,6 +12823,7 @@
 0.0.0.0 cratecamera.com
 0.0.0.0 crawlability.com
 0.0.0.0 crawlclocks.com
+0.0.0.0 crayoncompetition.com
 0.0.0.0 crazies.crazyshirts.com
 0.0.0.0 crazyads.fusetracking.com
 0.0.0.0 crazyegg.com
@@ -13408,6 +13415,7 @@
 0.0.0.0 datingmeetnet.com
 0.0.0.0 dattter.shop
 0.0.0.0 datumdellago.com
+0.0.0.0 daughterstone.com
 0.0.0.0 davedbux.ir
 0.0.0.0 davey.actonservice.com
 0.0.0.0 davines.postaffiliatepro.com
@@ -14092,6 +14100,7 @@
 0.0.0.0 donttbeevils.de
 0.0.0.0 doodlerescue.online
 0.0.0.0 door-donation.jp
+0.0.0.0 doorbrazil.com
 0.0.0.0 doorsstormsy.shop
 0.0.0.0 doorway-of-guidance.com
 0.0.0.0 dopeblackfriday.shop
@@ -15943,6 +15952,7 @@
 0.0.0.0 facilitategrandfather.com
 0.0.0.0 factiva.122.2o7.net
 0.0.0.0 factory.redbull.racing
+0.0.0.0 fadechildren.com
 0.0.0.0 fadedprofit.com
 0.0.0.0 fadedsnow.com
 0.0.0.0 fadsims.com
@@ -16088,7 +16098,6 @@
 0.0.0.0 fdn.qwant.com
 0.0.0.0 fdr7.thehoffbrand.com
 0.0.0.0 fdu.relaischateaux.com
-0.0.0.0 fearfulfear.com
 0.0.0.0 fearfulfish.com
 0.0.0.0 fearfulflag.com
 0.0.0.0 fearlessfaucet.com
@@ -16359,6 +16368,7 @@
 0.0.0.0 foretheure.jp
 0.0.0.0 forex-affiliate.net
 0.0.0.0 forex-trading-benefits.blogspot.com
+0.0.0.0 forgetfulflowers.com
 0.0.0.0 forgetfulsnail.com
 0.0.0.0 forimg.net
 0.0.0.0 form.hssv.org
@@ -16660,6 +16670,7 @@
 0.0.0.0 fudezz.kompas.com
 0.0.0.0 fueltypebel.info
 0.0.0.0 fujielectricholdings.112.2o7.net
+0.0.0.0 fujiladder.com
 0.0.0.0 fukugyou2022.net
 0.0.0.0 fukuinnnokotoba.com
 0.0.0.0 fukukomachi-220513.com
@@ -21701,6 +21712,7 @@
 0.0.0.0 interclick.com
 0.0.0.0 intercom-clicks.com
 0.0.0.0 interenginekalendar.b2bmktg.com
+0.0.0.0 interestdust.com
 0.0.0.0 intergi.com
 0.0.0.0 interhyp01.wt-eu02.net
 0.0.0.0 interhyp02.webtrekk.net
@@ -22461,6 +22473,7 @@
 0.0.0.0 knorex.com
 0.0.0.0 knorrbremseglobal01.wt-eu02.net
 0.0.0.0 knorzj.wearfigs.com
+0.0.0.0 knotkettle.com
 0.0.0.0 know.almo.com
 0.0.0.0 know.wolterskluwerlr.com
 0.0.0.0 knowledge.equitymethods.com
@@ -22636,6 +22649,7 @@
 0.0.0.0 landyab.com
 0.0.0.0 lanewsendelire.fr
 0.0.0.0 language.sebtomato.com
+0.0.0.0 languagelake.com
 0.0.0.0 languages-direct.postaffiliatepro.com
 0.0.0.0 lanokiv.net
 0.0.0.0 lantern.fortinet.com
@@ -22811,6 +22825,7 @@
 0.0.0.0 lettucecopper.com
 0.0.0.0 lettucelimit.com
 0.0.0.0 leumia.io
+0.0.0.0 levelbehavior.com
 0.0.0.0 levelrate.de
 0.0.0.0 levelwing.112.2o7.net
 0.0.0.0 leveragemarketing.112.2o7.net
@@ -25390,6 +25405,7 @@
 0.0.0.0 matchxxx.jp
 0.0.0.0 matchzzz.jp
 0.0.0.0 matectord.com
+0.0.0.0 materialisticfan.com
 0.0.0.0 materialmilk.com
 0.0.0.0 materialparcel.com
 0.0.0.0 mateti.net
@@ -27512,6 +27528,7 @@
 0.0.0.0 nedstatpro.net
 0.0.0.0 needadvertising.com
 0.0.0.0 negationanalogous.com
+0.0.0.0 negotiatetime.com
 0.0.0.0 nei.hitbox.com
 0.0.0.0 neighborhoodsluts.com
 0.0.0.0 neighborlywatch.com
@@ -32896,6 +32913,7 @@
 0.0.0.0 rhetoricalloss.com
 0.0.0.0 rhsrthrtjhe.com
 0.0.0.0 rhymezebra.com
+0.0.0.0 rhythmmoney.com
 0.0.0.0 rhythmrule.com
 0.0.0.0 ri11que-za.com
 0.0.0.0 riarialuvluv2023.com
@@ -33691,6 +33709,7 @@
 0.0.0.0 sass2.authcaptcha.com
 0.0.0.0 satgt.grafana.com
 0.0.0.0 satisfycork.com
+0.0.0.0 satisfyingshow.com
 0.0.0.0 sats.manager-magazin.de
 0.0.0.0 sats.spiegel.de
 0.0.0.0 saturn.appads.com
@@ -34805,6 +34824,7 @@
 0.0.0.0 simplesidewalk.com
 0.0.0.0 simpli.fi
 0.0.0.0 simplisticnose.com
+0.0.0.0 simplisticstem.com
 0.0.0.0 simulateswing.com
 0.0.0.0 simya.postaffiliatepro.com
 0.0.0.0 sin.creativecdn.com
@@ -34912,6 +34932,7 @@
 0.0.0.0 slipperysack.com
 0.0.0.0 slobeg.com
 0.0.0.0 slopeaota.com
+0.0.0.0 sloppycalculator.com
 0.0.0.0 sltravelcom.112.2o7.net
 0.0.0.0 slugmefilehos.xyz
 0.0.0.0 slushgreenhealth.com
@@ -36925,6 +36946,7 @@
 0.0.0.0 staleseat.com
 0.0.0.0 stalesummer.com
 0.0.0.0 stampen.adtlgc.com
+0.0.0.0 stampknot.com
 0.0.0.0 stampscom.112.2o7.net
 0.0.0.0 standingnest.com
 0.0.0.0 standingsack.com
@@ -38855,6 +38877,7 @@
 0.0.0.0 think.phdinc.com
 0.0.0.0 think.unbounce.com
 0.0.0.0 think.vyond.com
+0.0.0.0 thinkablefloor.com
 0.0.0.0 thinkablerice.com
 0.0.0.0 thinkgeek.112.2o7.net
 0.0.0.0 thinknyc.eu-adcenter.net
@@ -39026,6 +39049,7 @@
 0.0.0.0 toblog.tobsnssdk.com
 0.0.0.0 todordigital.co.uk
 0.0.0.0 toecircle.com
+0.0.0.0 toedrawer.com
 0.0.0.0 together.com
 0.0.0.0 toilet-tina-cantina.xyz
 0.0.0.0 toilet-tony-pizza.edu
@@ -40818,6 +40842,7 @@
 0.0.0.0 unlimitedteacup.com
 0.0.0.0 unlock-the-bg2.com
 0.0.0.0 unlock.veritone.com
+0.0.0.0 unnaturalcaption.com
 0.0.0.0 unoadsrv.com
 0.0.0.0 unpacedgervas.shop
 0.0.0.0 unpaireddc.com
@@ -41600,6 +41625,7 @@
 0.0.0.0 vulzul.com
 0.0.0.0 vungle.com
 0.0.0.0 vuryua.ru
+0.0.0.0 vvetransfer-lo-web-online.glitch.me
 0.0.0.0 vvikao.brighton.com
 0.0.0.0 vwr1.hitbox.com
 0.0.0.0 vww-facebook.com.vn
