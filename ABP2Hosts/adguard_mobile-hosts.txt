@@ -1,4 +1,4 @@
-# Tue Mar 11 06:47:29 AM UTC 2025
+# Wed Mar 19 08:59:45 AM UTC 2025
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -2911,6 +2911,7 @@
 0.0.0.0 cms.analytics.yahoo.com
 0.0.0.0 cms.quantserve.com
 0.0.0.0 cmshow.gtimg.cn
+0.0.0.0 cnlogs.umengcloud.com
 0.0.0.0 cnn.bounceexchange.com
 0.0.0.0 cnt.fout.jp
 0.0.0.0 cnt.my
@@ -3877,7 +3878,6 @@
 0.0.0.0 err.izooto.com
 0.0.0.0 erraticreaction.com
 0.0.0.0 errlog.umeng.com
-0.0.0.0 errlogos.umeng.com
 0.0.0.0 error-collector.ted.com
 0.0.0.0 errors.imrworldwide.com
 0.0.0.0 es-gmtdmp.mookie1.com
@@ -5528,6 +5528,7 @@
 0.0.0.0 logs13.xiti.com
 0.0.0.0 logs1407.xiti.com
 0.0.0.0 logserver.insight.ucweb.com
+0.0.0.0 logservice.dbankcloud.cn
 0.0.0.0 logservice.hicloud.com
 0.0.0.0 logservice1.dbankcloud.cn
 0.0.0.0 logservice1.hicloud.com
@@ -5958,7 +5959,6 @@
 0.0.0.0 mofox.com
 0.0.0.0 moldyicicle.com
 0.0.0.0 momentus.gotrackier.com
-0.0.0.0 mon-boot.capcutapi.com
 0.0.0.0 mon-va-us-looki.capcutapi.com
 0.0.0.0 mon-va.byteoversea.com
 0.0.0.0 mon-va.tiktokv.com
@@ -6211,6 +6211,7 @@
 0.0.0.0 npgco.blueconic.net
 0.0.0.0 nr-data.net
 0.0.0.0 nr-events.taboola.com
+0.0.0.0 nr.bidderstack.com
 0.0.0.0 nr.taboola.com
 0.0.0.0 nrc.sd.duapps.com
 0.0.0.0 nrc.tapas.net
@@ -8257,6 +8258,7 @@
 0.0.0.0 stat.kika-backend.com
 0.0.0.0 stat.m.360.cn
 0.0.0.0 stat.meitudata.com
+0.0.0.0 stat.nsc-lab.io
 0.0.0.0 stat.pet
 0.0.0.0 stat.weamvideo.com
 0.0.0.0 stat.y.qq.com
@@ -8400,6 +8402,7 @@
 0.0.0.0 statuesquebrush.com
 0.0.0.0 staumersleep.com
 0.0.0.0 stayaction.com
+0.0.0.0 stbid.ru
 0.0.0.0 stc-nas.nixcdn.com
 0.0.0.0 stc.adtima.vn
 0.0.0.0 steadfastseat.com
@@ -8745,7 +8748,6 @@
 0.0.0.0 tapdaq-adverts.global.ssl.fastly.net
 0.0.0.0 tapestry.tapad.com
 0.0.0.0 tapewherever.com
-0.0.0.0 tapi.pureapk.com
 0.0.0.0 tapit.com
 0.0.0.0 tapjoy-com-lb-vpc-332546193.us-east-1.elb.amazonaws.com
 0.0.0.0 tapjoy.com
