@@ -1,4 +1,4 @@
-// **** Wed Mar 19 09:05:50 AM UTC 2025
+// **** Thu Mar 27 04:36:36 AM UTC 2025
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.023hysj.com") ||
@@ -2163,6 +2163,7 @@ shExpMatch(host, "*.as1.advfn.com") ||
 shExpMatch(host, "*.as2.adserverhd.com") ||
 shExpMatch(host, "*.as2.advfn.com") ||
 shExpMatch(host, "*.as5000.com") ||
+shExpMatch(host, "*.asanalytics.booking.com") ||
 shExpMatch(host, "*.asccdn.com") ||
 shExpMatch(host, "*.ase.clmbtech.com") ||
 shExpMatch(host, "*.aserv.motorsgate.com") ||
@@ -3399,6 +3400,7 @@ shExpMatch(host, "*.counter.rambler.ru") ||
 shExpMatch(host, "*.counter.search.bg") ||
 shExpMatch(host, "*.counter.snackly.co") ||
 shExpMatch(host, "*.counter.sparklit.com") ||
+shExpMatch(host, "*.counters.booking.com") ||
 shExpMatch(host, "*.counters.honesty.com") ||
 shExpMatch(host, "*.counting.kmindex.ru") ||
 shExpMatch(host, "*.countly.globaldelight.net") ||
@@ -3472,6 +3474,7 @@ shExpMatch(host, "*.critictruck.com") ||
 shExpMatch(host, "*.crittercism.com") ||
 shExpMatch(host, "*.crookedcreature.com") ||
 shExpMatch(host, "*.cross-promo.mwx.ext.mobilityware.com") ||
+shExpMatch(host, "*.crossadsapi.ecomobileapp.com") ||
 shExpMatch(host, "*.crossboardmobile.com") ||
 shExpMatch(host, "*.crosspromo.voodoo.io") ||
 shExpMatch(host, "*.crosspromotion-us.avosapps.us") ||
@@ -4840,6 +4843,7 @@ shExpMatch(host, "*.highfalutinroom.com") ||
 shExpMatch(host, "*.hightrafficads.com") ||
 shExpMatch(host, "*.hilariouszinc.com") ||
 shExpMatch(host, "*.hilerant.site") ||
+shExpMatch(host, "*.hilton.data.adobedc.net") ||
 shExpMatch(host, "*.histats.com") ||
 shExpMatch(host, "*.historicalbeam.com") ||
 shExpMatch(host, "*.historicalrequest.com") ||
@@ -7878,6 +7882,7 @@ shExpMatch(host, "*.serveraddr.service.kugou.com") ||
 shExpMatch(host, "*.serverracer.com") ||
 shExpMatch(host, "*.servethis.com") ||
 shExpMatch(host, "*.servetraff.com") ||
+shExpMatch(host, "*.service-ad-image-ga.prd.pluto.tv") ||
 shExpMatch(host, "*.service-ad-impression-proxy.clusters.pluto.tv") ||
 shExpMatch(host, "*.service.maxymiser.net") ||
 shExpMatch(host, "*.service1.adten.de") ||
@@ -8993,8 +8998,6 @@ shExpMatch(host, "*.track.effiliation.com") ||
 shExpMatch(host, "*.track.extra.app") ||
 shExpMatch(host, "*.track.flexlinks.com") ||
 shExpMatch(host, "*.track.flexlinkspro.com") ||
-shExpMatch(host, "*.track.freemmo2017.com") ||
-shExpMatch(host, "*.track.game18click.com") ||
 shExpMatch(host, "*.track.gawker.com") ||
 shExpMatch(host, "*.track.hk01.com") ||
 shExpMatch(host, "*.track.knlob.com") ||
@@ -12058,6 +12061,7 @@ shExpMatch(host, "as1.advfn.com") ||
 shExpMatch(host, "as2.adserverhd.com") ||
 shExpMatch(host, "as2.advfn.com") ||
 shExpMatch(host, "as5000.com") ||
+shExpMatch(host, "asanalytics.booking.com") ||
 shExpMatch(host, "asccdn.com") ||
 shExpMatch(host, "ase.clmbtech.com") ||
 shExpMatch(host, "aserv.motorsgate.com") ||
@@ -13294,6 +13298,7 @@ shExpMatch(host, "counter.rambler.ru") ||
 shExpMatch(host, "counter.search.bg") ||
 shExpMatch(host, "counter.snackly.co") ||
 shExpMatch(host, "counter.sparklit.com") ||
+shExpMatch(host, "counters.booking.com") ||
 shExpMatch(host, "counters.honesty.com") ||
 shExpMatch(host, "counting.kmindex.ru") ||
 shExpMatch(host, "countly.globaldelight.net") ||
@@ -13367,6 +13372,7 @@ shExpMatch(host, "critictruck.com") ||
 shExpMatch(host, "crittercism.com") ||
 shExpMatch(host, "crookedcreature.com") ||
 shExpMatch(host, "cross-promo.mwx.ext.mobilityware.com") ||
+shExpMatch(host, "crossadsapi.ecomobileapp.com") ||
 shExpMatch(host, "crossboardmobile.com") ||
 shExpMatch(host, "crosspromo.voodoo.io") ||
 shExpMatch(host, "crosspromotion-us.avosapps.us") ||
@@ -14735,6 +14741,7 @@ shExpMatch(host, "highfalutinroom.com") ||
 shExpMatch(host, "hightrafficads.com") ||
 shExpMatch(host, "hilariouszinc.com") ||
 shExpMatch(host, "hilerant.site") ||
+shExpMatch(host, "hilton.data.adobedc.net") ||
 shExpMatch(host, "histats.com") ||
 shExpMatch(host, "historicalbeam.com") ||
 shExpMatch(host, "historicalrequest.com") ||
@@ -17773,6 +17780,7 @@ shExpMatch(host, "serveraddr.service.kugou.com") ||
 shExpMatch(host, "serverracer.com") ||
 shExpMatch(host, "servethis.com") ||
 shExpMatch(host, "servetraff.com") ||
+shExpMatch(host, "service-ad-image-ga.prd.pluto.tv") ||
 shExpMatch(host, "service-ad-impression-proxy.clusters.pluto.tv") ||
 shExpMatch(host, "service.maxymiser.net") ||
 shExpMatch(host, "service1.adten.de") ||
@@ -18888,8 +18896,6 @@ shExpMatch(host, "track.effiliation.com") ||
 shExpMatch(host, "track.extra.app") ||
 shExpMatch(host, "track.flexlinks.com") ||
 shExpMatch(host, "track.flexlinkspro.com") ||
-shExpMatch(host, "track.freemmo2017.com") ||
-shExpMatch(host, "track.game18click.com") ||
 shExpMatch(host, "track.gawker.com") ||
 shExpMatch(host, "track.hk01.com") ||
 shExpMatch(host, "track.knlob.com") ||
