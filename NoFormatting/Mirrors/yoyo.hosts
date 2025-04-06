@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 12 Mar 2025 00:24:00 GMT
-# entries:        3465
+# last updated:   Wed, 02 Apr 2025 06:04:41 GMT
+# entries:        3455
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -20,7 +20,6 @@
 127.0.0.1 207.net
 127.0.0.1 247media.com
 127.0.0.1 24log.com
-127.0.0.1 24pm-affiliation.com
 127.0.0.1 2linkpath.com
 127.0.0.1 2mdn.net
 127.0.0.1 2o7.net
@@ -290,7 +289,6 @@
 127.0.0.1 admex.com
 127.0.0.1 admidadsp.com
 127.0.0.1 adminder.com
-127.0.0.1 adminshop.com
 127.0.0.1 admix.in
 127.0.0.1 admixer.net
 127.0.0.1 admized.com
@@ -345,7 +343,6 @@
 127.0.0.1 ads.365.mk
 127.0.0.1 ads.5ci.lt
 127.0.0.1 ads.73dpi.com
-127.0.0.1 ads.a-snag-smartmoney.fyi
 127.0.0.1 ads.aavv.com
 127.0.0.1 ads.abovetopsecret.com
 127.0.0.1 ads.aceweb.net
@@ -840,7 +837,6 @@
 127.0.0.1 adzerk.net
 127.0.0.1 adzerk.s3.amazonaws.com
 127.0.0.1 adzestocp.com
-127.0.0.1 adzrevads.com
 127.0.0.1 aerserv.com
 127.0.0.1 af-ad.co.uk
 127.0.0.1 affec.tv
@@ -975,6 +971,7 @@
 127.0.0.1 at-o.net
 127.0.0.1 atdmt.com
 127.0.0.1 athena-ads.wikia.com
+127.0.0.1 ato.mx
 127.0.0.1 attractionbanana.com
 127.0.0.1 attribution.report
 127.0.0.1 atwola.com
@@ -999,7 +996,6 @@
 127.0.0.1 axonix.com
 127.0.0.1 ay.delivery
 127.0.0.1 ayads.co
-127.0.0.1 aztracking.net
 127.0.0.1 b-s.tercept.com
 127.0.0.1 b.videoamp.com
 127.0.0.1 b3.videoamp.com
@@ -1301,7 +1297,6 @@
 127.0.0.1 clickedyclick.com
 127.0.0.1 clickfuse.com
 127.0.0.1 clickhereforcellphones.com
-127.0.0.1 clicklink.jp
 127.0.0.1 clickngo.pro
 127.0.0.1 clickonometrics.pl
 127.0.0.1 clicks.deliveroo.co.uk
@@ -1485,9 +1480,7 @@
 127.0.0.1 direct-events-collector.spot.im
 127.0.0.1 direct-re2.pl
 127.0.0.1 directaclick.com
-127.0.0.1 directleads.com
 127.0.0.1 directorym.com
-127.0.0.1 directtrack.com
 127.0.0.1 discountclick.com
 127.0.0.1 discreetfield.com
 127.0.0.1 displayvertising.com
@@ -1979,7 +1972,6 @@
 127.0.0.1 klclick.com
 127.0.0.1 klclick1.com
 127.0.0.1 kliks.nl
-127.0.0.1 klsdee.com
 127.0.0.1 knitstamp.com
 127.0.0.1 knorex.com
 127.0.0.1 knottyswing.com
@@ -2002,6 +1994,7 @@
 127.0.0.1 layer-ad.de
 127.0.0.1 layer-ads.de
 127.0.0.1 lbn.ru
+127.0.0.1 lead02.com
 127.0.0.1 leadboltads.net
 127.0.0.1 leadclick.com
 127.0.0.1 leadinfo.net
@@ -2041,6 +2034,7 @@
 127.0.0.1 lijit.com
 127.0.0.1 link-booster.de
 127.0.0.1 link.axios.com
+127.0.0.1 link.email.davidlloydclubs.co.uk
 127.0.0.1 link.email.usmagazine.com
 127.0.0.1 link.go.chase
 127.0.0.1 link.sbstck.com
@@ -2304,7 +2298,6 @@
 127.0.0.1 netaffiliation.com
 127.0.0.1 netagent.cz
 127.0.0.1 netclickstats.com
-127.0.0.1 netcommunities.com
 127.0.0.1 netdirect.nl
 127.0.0.1 netech.postaffiliatepro.com
 127.0.0.1 netmera-web.com
@@ -2373,7 +2366,6 @@
 127.0.0.1 onclasrv.com
 127.0.0.1 onclickads.net
 127.0.0.1 oneandonlynetwork.com
-127.0.0.1 onenetworkdirect.com
 127.0.0.1 onestat.com
 127.0.0.1 onestatfree.com
 127.0.0.1 online-metrix.net
@@ -2427,6 +2419,7 @@
 127.0.0.1 oxen.hillcountrytexas.com
 127.0.0.1 p-n.io
 127.0.0.1 paa-reporting-advertising.amazon
+127.0.0.1 page-redirect.eu
 127.0.0.1 pagead.l.google.com
 127.0.0.1 pagefair.com
 127.0.0.1 pagerank-ranking.de
@@ -2677,7 +2670,6 @@
 127.0.0.1 reduxmedia.com
 127.0.0.1 referralware.com
 127.0.0.1 referrer.disqus.com
-127.0.0.1 regnow.com
 127.0.0.1 regularplants.com
 127.0.0.1 reklam.rfsl.se
 127.0.0.1 reklama.mironet.cz
@@ -3163,7 +3155,6 @@
 127.0.0.1 track.segmetrics.io
 127.0.0.1 track.software-codes.com
 127.0.0.1 track.spe.schoolmessenger.com
-127.0.0.1 track.themaccleanup.info
 127.0.0.1 track.ultravpn.com
 127.0.0.1 track.unear.net
 127.0.0.1 track.vcdc.com
@@ -3179,7 +3170,6 @@
 127.0.0.1 tracker.mmdlv.it
 127.0.0.1 tracker.samplicio.us
 127.0.0.1 tracking.42-01pr5-osm-secure.co.uk
-127.0.0.1 tracking.5-47737-bi.co.uk
 127.0.0.1 tracking.epicgames.com
 127.0.0.1 tracking.hyros.com
 127.0.0.1 tracking.ibxlink.com
@@ -3234,6 +3224,7 @@
 127.0.0.1 tribalfusion.com
 127.0.0.1 triplelift.com
 127.0.0.1 triptease.io
+127.0.0.1 trk.4ff.pro
 127.0.0.1 trk.bad-tool-tell-doubt.xyz
 127.0.0.1 trk.bc.shutterfly.com
 127.0.0.1 trk.pinterest.com
@@ -3309,7 +3300,6 @@
 127.0.0.1 velismedia.com
 127.0.0.1 venetrigni.com
 127.0.0.1 vengefulgrass.com
-127.0.0.1 ventivmedia.com
 127.0.0.1 venturead.com
 127.0.0.1 vericlick.com
 127.0.0.1 vertamedia.com

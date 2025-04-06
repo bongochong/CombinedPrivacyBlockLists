@@ -1,4 +1,4 @@
-# Thu Mar 27 04:29:35 AM UTC 2025
+# Sun Apr  6 02:35:52 AM UTC 2025
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -3710,6 +3710,7 @@
 0.0.0.0 dustyrabbits.com
 0.0.0.0 dustywave.com
 0.0.0.0 dvgtm.akadns.net
+0.0.0.0 dynamic-report-api.appsflyersdk.com
 0.0.0.0 dynamic.criteo.com
 0.0.0.0 dynamic.da1.vip.prod.criteo.com
 0.0.0.0 dyntrk.com
@@ -5363,6 +5364,7 @@
 0.0.0.0 lga-bh.contextweb.com
 0.0.0.0 lga-tr.contextweb.com
 0.0.0.0 lgsmartad.com
+0.0.0.0 lgvlbd.icu
 0.0.0.0 lhzbdvm.com
 0.0.0.0 liadm.com
 0.0.0.0 lib.vmweb.net
@@ -5505,6 +5507,7 @@
 0.0.0.0 log5.interactive-circle.jp
 0.0.0.0 logagent-wf.centurygame.com
 0.0.0.0 loganmedia.mobi
+0.0.0.0 logapi-and.zhipin.com
 0.0.0.0 logbak.hicloud.com
 0.0.0.0 logconfig.polarisoffice.com
 0.0.0.0 logend.cookpad.com
@@ -6449,6 +6452,7 @@
 0.0.0.0 pangle-b.io
 0.0.0.0 pangle.io
 0.0.0.0 pangle.io.edgekey.net
+0.0.0.0 pangolin-sdk-toutiao-b.com
 0.0.0.0 pangolin16.isnssdk.com
 0.0.0.0 pangolin16.sgsnssdk.com
 0.0.0.0 panickycurtain.com
@@ -9243,6 +9247,7 @@
 0.0.0.0 uk.ads.justpremium.com
 0.0.0.0 ul.a.mobimagic.com
 0.0.0.0 ulink.adjust.com
+0.0.0.0 ulog-sdk.gifshow.com
 0.0.0.0 ulogs.umeng.com
 0.0.0.0 ulogs.umengcloud.com
 0.0.0.0 ultraadserver.com
