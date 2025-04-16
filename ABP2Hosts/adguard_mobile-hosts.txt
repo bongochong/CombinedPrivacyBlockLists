@@ -1,4 +1,4 @@
-# Sun Apr  6 02:35:52 AM UTC 2025
+# Wed Apr 16 03:50:22 AM UTC 2025
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -1569,6 +1569,8 @@
 0.0.0.0 apis.appnxt.net
 0.0.0.0 apis.com.br
 0.0.0.0 apiservices.krxd.net
+0.0.0.0 apishow.babybus.com
+0.0.0.0 apishowstats.babybus.com
 0.0.0.0 apitm.toolmatrix.plus
 0.0.0.0 apituner.ecbsn.com
 0.0.0.0 apiv2.moengage.com
@@ -1750,6 +1752,7 @@
 0.0.0.0 appodealx.com
 0.0.0.0 appointeeivyspongy.com
 0.0.0.0 apportal.airpush.com
+0.0.0.0 apppromoteapi.babybus.com
 0.0.0.0 apps.ad-x.co.uk
 0.0.0.0 apps.admob.com
 0.0.0.0 apps.crowdtangle.com
@@ -2851,6 +2854,7 @@
 0.0.0.0 clk.taptica.com
 0.0.0.0 clkdeals.com
 0.0.0.0 clog.mirrativ.com
+0.0.0.0 clog.weverse.io
 0.0.0.0 cloisteredcord.com
 0.0.0.0 cloisteredcurve.com
 0.0.0.0 cloisteredhydrant.com
@@ -2962,6 +2966,7 @@
 0.0.0.0 collect3515gvrnr.deltadna.net
 0.0.0.0 collect5081wrdch.deltadna.net
 0.0.0.0 collection.decibelinsight.net
+0.0.0.0 collection.weverse.io
 0.0.0.0 collector-12255.tvsquared.com
 0.0.0.0 collector-6651.tvsquared.com
 0.0.0.0 collector-9306.us.tvsquared.com
@@ -5355,6 +5360,7 @@
 0.0.0.0 lettucecopper.com
 0.0.0.0 lettucelimit.com
 0.0.0.0 levelbehavior.com
+0.0.0.0 lf-static.tiktokpangle-cdn-us.com
 0.0.0.0 lftracker.leadfeeder.com
 0.0.0.0 lg-release-tracking-8080.gcld-line.com
 0.0.0.0 lg.smardroid.com
@@ -5637,6 +5643,7 @@
 0.0.0.0 magnificentmeasure.com
 0.0.0.0 magnificentmist.com
 0.0.0.0 magnum.cdn.speedshiftmedia.com
+0.0.0.0 magsrv.com
 0.0.0.0 mailboxmeeting.com
 0.0.0.0 mainadv.com
 0.0.0.0 majesticmountainrange.com
@@ -5827,6 +5834,7 @@
 0.0.0.0 metrics-cbslocal-com.cdn.ampproject.org
 0.0.0.0 metrics-logger.spot.im
 0.0.0.0 metrics-prod.suno.com
+0.0.0.0 metrics-us.cometchat.io
 0.0.0.0 metrics.adflake.com
 0.0.0.0 metrics.aetn.com
 0.0.0.0 metrics.brightcove.com
@@ -6079,7 +6087,6 @@
 0.0.0.0 n.ads3-adnow.com
 0.0.0.0 n.ads5-adnow.com
 0.0.0.0 n152adserv.com
-0.0.0.0 n4403ad.doubleclick.net
 0.0.0.0 na-ab19.marketo.com
 0.0.0.0 na-ab20.marketo.com
 0.0.0.0 na-ab25.marketo.com
@@ -6092,6 +6099,7 @@
 0.0.0.0 na.v7.cdn.onthe.io
 0.0.0.0 naiadsystems.com
 0.0.0.0 naivestatement.com
+0.0.0.0 nakedanalytics.net
 0.0.0.0 nalraughaksie.net
 0.0.0.0 nan.netmng.com
 0.0.0.0 nanigans.com
@@ -7179,6 +7187,7 @@
 0.0.0.0 repeatsweater.com
 0.0.0.0 replaceroute.com
 0.0.0.0 replaycontroller.4seeresults.com
+0.0.0.0 report-edge.agora.io
 0.0.0.0 report-ps.meettech.net
 0.0.0.0 report-stats.ad.jiguang.cn
 0.0.0.0 report.apkpure.net
@@ -7253,6 +7262,7 @@
 0.0.0.0 rm-hk.aarki.net
 0.0.0.0 rm.aarki.net
 0.0.0.0 rm.recs.richrelevance.com
+0.0.0.0 rmhfrtnd.com
 0.0.0.0 rndskittytor.com
 0.0.0.0 ro-gmtdmp.mookie1.com
 0.0.0.0 robustbelieve.com
@@ -8889,6 +8899,7 @@
 0.0.0.0 tidymitten.com
 0.0.0.0 tie.247-inc.net
 0.0.0.0 tightpowder.com
+0.0.0.0 tiktokpangle.us
 0.0.0.0 tileswan.cmcm.com
 0.0.0.0 timehop.adsbynimbus.com
 0.0.0.0 timeterritory.com
@@ -8900,6 +8911,8 @@
 0.0.0.0 tivan.naver.com
 0.0.0.0 tizerclik.com
 0.0.0.0 tj.ijinshan.com
+0.0.0.0 tjinit-event.babybus.com
+0.0.0.0 tjinit-global-register.babybus.com
 0.0.0.0 tk0x1.com
 0.0.0.0 tkcatrun.aotter.net
 0.0.0.0 tkcatwalk.aotter.net
@@ -9105,6 +9118,7 @@
 0.0.0.0 tracking.xapads.com
 0.0.0.0 tracking.yieldlove-ad-serving.net
 0.0.0.0 tracking.yomedia.vn
+0.0.0.0 trackwilltrk.com
 0.0.0.0 tracy.tutoads.tv
 0.0.0.0 tradeadexchange.com
 0.0.0.0 tradetooth.com
@@ -9429,6 +9443,7 @@
 0.0.0.0 v6analytics.htmedia.in.edgekey.net
 0.0.0.0 v7.cdn.onthe.io
 0.0.0.0 v8.analytics.pinsightmedia.com
+0.0.0.0 v8b9c0x1z2.sai7348.xyz
 0.0.0.0 va-g2.gumgum.com
 0.0.0.0 va-lb.gumgum.com
 0.0.0.0 va.us.criteo.com
@@ -9608,7 +9623,6 @@
 0.0.0.0 vq1qi.pw
 0.0.0.0 vrizead.com
 0.0.0.0 vrt.outbrain.com
-0.0.0.0 vs-api.voodoo-tech.io
 0.0.0.0 vserv.mobi
 0.0.0.0 vst.c.appier.net
 0.0.0.0 vt.adition.com
