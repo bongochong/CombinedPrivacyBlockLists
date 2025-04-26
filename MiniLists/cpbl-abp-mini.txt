@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mini CPBL Filters for ABP & uBO
-! Updated: Sat Apr 26 06:31:37 PM UTC 2025
+! Updated: Sat Apr 26 06:49:47 PM UTC 2025
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -101733,6 +101733,8 @@ dextools.io##.show.fade.modal-backdrop
 dextools.io##app-banner
 dextools.io##app-mobile-app-qr-modal
 dextools.io##ngb-modal-window.show.fade.modal
+discord.com##[class*="upsellContainer"]
+discord.com##[class*="floatingNitroUpsell"]
 divestos.org###bearprompt
 eightvape.com##.header-warning
 eightvape.com##.header-warning2
@@ -101785,6 +101787,7 @@ haaretz.com##.ae.bn.bid.bie.bif.big.bih
 haaretz.com##.footer-ruler
 hackintosh.zone###document_modal
 hackintosh.zone###some_ad_block_key_inner
+hpanel.hostinger.com##.hot-spot
 huffpost.com##[class*=social-buttons]
 huffpost.com##DIV#top_news_inner
 huffpost.com##.js-entry-promo.small.entry-promo
