@@ -1,4 +1,4 @@
-# Sat Apr 26 06:22:11 PM UTC 2025
+# Sat Apr 26 08:23:52 PM UTC 2025
 # AdGuard Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0.101tubeporn.com
 0.0.0.0 0.clicks4me.fwh.is

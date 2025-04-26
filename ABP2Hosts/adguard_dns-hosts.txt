@@ -1,4 +1,4 @@
-# Sat Apr 26 06:22:59 PM UTC 2025
+# Sat Apr 26 08:24:40 PM UTC 2025
 # AdGuard DNS Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0.101tubeporn.com
 0.0.0.0 0.clicks4me.fwh.is
