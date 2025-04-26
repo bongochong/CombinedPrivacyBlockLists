@@ -1,4 +1,4 @@
-# Wed Apr 16 03:50:22 AM UTC 2025
+# Sat Apr 26 06:21:41 PM UTC 2025
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -503,6 +503,7 @@
 0.0.0.0 adash.man.aliyuncs.com
 0.0.0.0 adashx.ut.alibaba.com
 0.0.0.0 adashx4ae.ut.taobao.com
+0.0.0.0 adashx4id.ut.taobao.com
 0.0.0.0 adasiaholdings.com
 0.0.0.0 adb2waycm-atl.netmng.com
 0.0.0.0 adballoon.sooplive.co.kr
@@ -921,6 +922,7 @@
 0.0.0.0 adtimaserver.vn
 0.0.0.0 adtng.com
 0.0.0.0 adtorque.in
+0.0.0.0 adtrack-intl.ucweb.com
 0.0.0.0 adtrack.adleadevent.com
 0.0.0.0 adtrack.appcpi.net
 0.0.0.0 adtrack.king.com
@@ -1255,6 +1257,7 @@
 0.0.0.0 analytics.tout.com
 0.0.0.0 analytics.tresensa.com
 0.0.0.0 analytics.twitter.com
+0.0.0.0 analytics.us.tiktok.com
 0.0.0.0 analytics.vendemore.com
 0.0.0.0 analytics.webads.eu
 0.0.0.0 analytics.wildlifestudios.com
@@ -2293,6 +2296,7 @@
 0.0.0.0 btlr-ecs-us-west-1.sharethrough.com
 0.0.0.0 btlr.sharethrough.com
 0.0.0.0 btrll.com
+0.0.0.0 bts-la.ucweb.com
 0.0.0.0 bts.vpon.com
 0.0.0.0 bttn.io
 0.0.0.0 bttrack.com
@@ -2966,7 +2970,6 @@
 0.0.0.0 collect3515gvrnr.deltadna.net
 0.0.0.0 collect5081wrdch.deltadna.net
 0.0.0.0 collection.decibelinsight.net
-0.0.0.0 collection.weverse.io
 0.0.0.0 collector-12255.tvsquared.com
 0.0.0.0 collector-6651.tvsquared.com
 0.0.0.0 collector-9306.us.tvsquared.com
@@ -4006,6 +4009,7 @@
 0.0.0.0 events2-us-east-1.ipredictive.com
 0.0.0.0 events3.adcolony.com
 0.0.0.0 events3alt.adcolony.com
+0.0.0.0 eventsv2balanced.malpagames.com
 0.0.0.0 everestads.net
 0.0.0.0 everestjs.net.edgekey.net
 0.0.0.0 everestop.io
@@ -5084,6 +5088,7 @@
 0.0.0.0 internalsink.com
 0.0.0.0 interstitial.fyber.com
 0.0.0.0 interviewidiomantidote.com
+0.0.0.0 intlsucus.ucweb.com
 0.0.0.0 intouch.arcsoft.com
 0.0.0.0 intowow.com
 0.0.0.0 inv-nets-eu.admixer.net
@@ -5969,7 +5974,6 @@
 0.0.0.0 mobvista.com
 0.0.0.0 modifyeyes.com
 0.0.0.0 modularmental.com
-0.0.0.0 moengage.com
 0.0.0.0 moengagewebsdk.imgix.net
 0.0.0.0 mofox.com
 0.0.0.0 moldyicicle.com
@@ -6053,6 +6057,7 @@
 0.0.0.0 mug.criteo.com
 0.0.0.0 mug.da1.vip.prod.criteo.com
 0.0.0.0 multi-cluster.directservices.it
+0.0.0.0 mum.alibabachengdun.com
 0.0.0.0 munchkin.marketo.net
 0.0.0.0 mundanenail.com
 0.0.0.0 mundanepollution.com
@@ -6713,6 +6718,7 @@
 0.0.0.0 plotparent.com
 0.0.0.0 plotrabbit.com
 0.0.0.0 ploy.batmobi.net
+0.0.0.0 pls.prd.mz.internal.unity3d.com
 0.0.0.0 pluckypocket.com
 0.0.0.0 pluckyzone.com
 0.0.0.0 plugin.mobopay.baidu.com
@@ -9907,6 +9913,7 @@
 0.0.0.0 xtr.carambo.la
 0.0.0.0 yadro.ru
 0.0.0.0 yads.c.yimg.jp
+0.0.0.0 yamanaisleepry.com
 0.0.0.0 yamstamp.com
 0.0.0.0 yandexadexchange.net
 0.0.0.0 yax-winners-ap-southeast-1-rtb.adroll.com
