@@ -1,4 +1,4 @@
-# Sat Apr 26 08:23:20 PM UTC 2025
+# Sun May  4 05:38:06 AM UTC 2025
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -1884,6 +1884,7 @@
 0.0.0.0 async-px-eu.dynamicyield.com
 0.0.0.0 async-px.dynamicyield.com
 0.0.0.0 async01.admantx.com
+0.0.0.0 at-af.outfit7.com
 0.0.0.0 at.atwola.com
 0.0.0.0 at.umeng.com
 0.0.0.0 at.umtrack.com
@@ -2149,6 +2150,7 @@
 0.0.0.0 bidder-us-west-2.prod.justpremium.com
 0.0.0.0 bidder.criteo.com
 0.0.0.0 bidder.da1.vip.prod.criteo.com
+0.0.0.0 bidder.dsp.outfit7.com
 0.0.0.0 bidder.mdspinc.com
 0.0.0.0 bidder.va1.vip.prod.criteo.com
 0.0.0.0 biddingmax.apse.trk.rixserv.com
@@ -2308,6 +2310,7 @@
 0.0.0.0 build-cdn.liftoff.io
 0.0.0.0 buildingknife.com
 0.0.0.0 bulbbait.com
+0.0.0.0 bullionglidingscuttle.com
 0.0.0.0 bumpydevelopment.com
 0.0.0.0 bunchance.com
 0.0.0.0 burgerbrush.com
@@ -3263,6 +3266,7 @@
 0.0.0.0 csm.us.criteo.net
 0.0.0.0 csm.va.us.criteo.net
 0.0.0.0 csm.va1.vip.prod.criteo.net
+0.0.0.0 csplog.kwai-pro.com
 0.0.0.0 csxmhkahpy9y6cwwr.ay.delivery
 0.0.0.0 csyn-r.cxense.com
 0.0.0.0 csyn.cxense.com
@@ -3944,11 +3948,13 @@
 0.0.0.0 event-dot-learning-piano.appspot.com
 0.0.0.0 event-search.jorte.com
 0.0.0.0 event-staging.inner-active.mobi
+0.0.0.0 event-us.ssp.taxssp.com
 0.0.0.0 event.allnews.uodoo.com
 0.0.0.0 event.collector.scopely.io
 0.0.0.0 event.havasedge.com
 0.0.0.0 event.inner-active.mobi
 0.0.0.0 event.karrotmarket.com
+0.0.0.0 event.meloshort.com
 0.0.0.0 event.prod.bidr.io
 0.0.0.0 event.spotxchange.com
 0.0.0.0 event.togothermany.com
@@ -4318,6 +4324,7 @@
 0.0.0.0 ga-beacon.appspot.com
 0.0.0.0 ga.xdrig.com
 0.0.0.0 gads.pubmatic.com
+0.0.0.0 gadsme.com
 0.0.0.0 gag.admulti.com
 0.0.0.0 gamaibids.com
 0.0.0.0 gameanalysis.appcpi.net
@@ -4643,6 +4650,8 @@
 0.0.0.0 hassaleh.iad-03.braze.com
 0.0.0.0 hatefulrequest.com
 0.0.0.0 havasedge.com
+0.0.0.0 hb-af-us-central1.outfit7.com
+0.0.0.0 hb-failover-stpceyl2ua-uw.a.run.app
 0.0.0.0 hb-t5u9.raps.ravm.tv
 0.0.0.0 hb.adscale.de
 0.0.0.0 hb.aralego.com
@@ -5053,7 +5062,6 @@
 0.0.0.0 insightexpressai.com.edgekey.net
 0.0.0.0 insights-categorizer-noneu.truecaller.com
 0.0.0.0 insights-collector.newrelic.com
-0.0.0.0 insights.alibaba.com
 0.0.0.0 insights.bizrate.com
 0.0.0.0 insights.dice.com
 0.0.0.0 insights.vip.aetnd.com
@@ -5143,6 +5151,7 @@
 0.0.0.0 is-gateway.supersonicads.com
 0.0.0.0 is-tracking-pixel-api-prod.appspot.com
 0.0.0.0 isboost.co.jp
+0.0.0.0 isolatedovercomepasted.com
 0.0.0.0 ispot.tv
 0.0.0.0 it-gmtdmp.mookie1.com
 0.0.0.0 itdsmr.com
@@ -5263,6 +5272,7 @@
 0.0.0.0 knotkettle.com
 0.0.0.0 knottysticks.com
 0.0.0.0 knottyswing.com
+0.0.0.0 koaptouw.com
 0.0.0.0 kochava.com
 0.0.0.0 komoona.com
 0.0.0.0 koneomobiledsp.com
@@ -5430,6 +5440,7 @@
 0.0.0.0 log-collectors-73517960.us-east-1.elb.amazonaws.com
 0.0.0.0 log-dbff2e04.us.v2.we-stats.com
 0.0.0.0 log-music-data.line-apps.com
+0.0.0.0 log-sdk.ksapisrv.com
 0.0.0.0 log-tb.isnssdk.com
 0.0.0.0 log-tb.sgsnssdk.com
 0.0.0.0 log-upload-eur.mihoyo.com
@@ -5545,6 +5556,7 @@
 0.0.0.0 logs.supersonic.com
 0.0.0.0 logs13.xiti.com
 0.0.0.0 logs1407.xiti.com
+0.0.0.0 logsdk.kwai-pro.com
 0.0.0.0 logserver.insight.ucweb.com
 0.0.0.0 logservice.dbankcloud.cn
 0.0.0.0 logservice.hicloud.com
@@ -5724,6 +5736,7 @@
 0.0.0.0 mathid.mathtag.com
 0.0.0.0 mathtag.com
 0.0.0.0 mathtag.com.edgekey.net
+0.0.0.0 maticooads.com
 0.0.0.0 matomy.com
 0.0.0.0 matrix.dailyinnovation.biz
 0.0.0.0 maven.blueconic.net
@@ -5921,6 +5934,7 @@
 0.0.0.0 moatpixel1.edgekey.net
 0.0.0.0 mob2.healthapplines.com
 0.0.0.0 mob2.healthtrackergroup.com
+0.0.0.0 mob2.mymusic2025.com
 0.0.0.0 moba8.net
 0.0.0.0 mobad.ijinshan.com
 0.0.0.0 mobads.baidu.com
@@ -6001,6 +6015,7 @@
 0.0.0.0 morefriendly.com
 0.0.0.0 morgdm.ru
 0.0.0.0 morgdog.springserve.com
+0.0.0.0 mosspf.net
 0.0.0.0 mossru.com
 0.0.0.0 most-popular-info.g5e.com
 0.0.0.0 motionflowers.com
@@ -7582,6 +7597,7 @@
 0.0.0.0 sdk-02.moengage.com
 0.0.0.0 sdk-android.ad.smaato.net
 0.0.0.0 sdk-api-v1.singular.net
+0.0.0.0 sdk-api.kidoz.net
 0.0.0.0 sdk-assets.localytics.com
 0.0.0.0 sdk-b.apptornado.com
 0.0.0.0 sdk-cdn.optimove.net
@@ -9268,8 +9284,16 @@
 0.0.0.0 ul.a.mobimagic.com
 0.0.0.0 ulink.adjust.com
 0.0.0.0 ulog-sdk.gifshow.com
+0.0.0.0 ulog.ksapisrv.com
+0.0.0.0 ulog.kwai-pro.com
+0.0.0.0 ulog.kwaipros.com
+0.0.0.0 ulog1-us.kwai-pro.com
+0.0.0.0 ulog2-us.kwaipros.com
+0.0.0.0 ulogjs.ksapisrv.com
 0.0.0.0 ulogs.umeng.com
 0.0.0.0 ulogs.umengcloud.com
+0.0.0.0 ulogs1.ksapisrv.com
+0.0.0.0 ulogs2.ksapisrv.com
 0.0.0.0 ultraadserver.com
 0.0.0.0 ultraoranges.com
 0.0.0.0 ultravalid.com
@@ -9434,6 +9458,7 @@
 0.0.0.0 v.fwmrm.net
 0.0.0.0 v.gdt.qq.com
 0.0.0.0 v.irs01.com
+0.0.0.0 v.kidoz.net
 0.0.0.0 v.lkqd.net
 0.0.0.0 v.ssacdn.com
 0.0.0.0 v1.addthis.com
@@ -9782,6 +9807,7 @@
 0.0.0.0 wl.aniview.com.edgekey.net
 0.0.0.0 wlb1.cdn.stickyadstv.com.akadns.net
 0.0.0.0 wlb2.cdn.stickyadstv.com.akadns.net
+0.0.0.0 wlog.ksapisrv.com
 0.0.0.0 wlplay.aniview.com
 0.0.0.0 wltrack.aniview.com
 0.0.0.0 wo.gumgum.com
