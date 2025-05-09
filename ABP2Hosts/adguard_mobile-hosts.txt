@@ -1,4 +1,4 @@
-# Sun May  4 05:53:32 AM UTC 2025
+# Fri May  9 05:00:06 AM UTC 2025
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -3559,7 +3559,6 @@
 0.0.0.0 difficultfog.com
 0.0.0.0 dig.bdurl.net
 0.0.0.0 digestiondrawer.com
-0.0.0.0 digianalytics.airtel.in
 0.0.0.0 digicertwc.rubiconproject.com.edgekey.net
 0.0.0.0 digitalfirstmedia.blueconic.net
 0.0.0.0 digitru.st
@@ -7106,6 +7105,7 @@
 0.0.0.0 radiateprose.com
 0.0.0.0 railwayrainstorm.com
 0.0.0.0 railwayreason.com
+0.0.0.0 rainmaker.production-public.tubi.io
 0.0.0.0 raintwig.com
 0.0.0.0 rainydirt.com
 0.0.0.0 rainyhand.com
@@ -8291,6 +8291,7 @@
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 startup.oupeng.com
 0.0.0.0 stas.outbrain.com
+0.0.0.0 stat-analytics.mediavitrina.ru
 0.0.0.0 stat-in.dc.oppomobile.com
 0.0.0.0 stat.appsgeyser.com
 0.0.0.0 stat.duokanbox.com
@@ -8669,6 +8670,7 @@
 0.0.0.0 sysmeasuring.net
 0.0.0.0 system-notify.app
 0.0.0.0 systemizecoat.com
+0.0.0.0 t-odx.op-mobile.opera.com
 0.0.0.0 t.adcell.com
 0.0.0.0 t.adx.opera.com
 0.0.0.0 t.ants.vn

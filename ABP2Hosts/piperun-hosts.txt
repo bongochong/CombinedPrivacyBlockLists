@@ -1,4 +1,4 @@
-# Sun May  4 05:55:13 AM UTC 2025
+# Fri May  9 05:01:26 AM UTC 2025
 # Piperun IPLoggerFilter Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 00689.net
 0.0.0.0 02ip.ru
@@ -336,7 +336,6 @@
 0.0.0.0 heartbeatsconsulting.com
 0.0.0.0 heathlylifestyleguide.com
 0.0.0.0 het-wittehuis.nl
-0.0.0.0 heymistr.com
 0.0.0.0 hitechnationalfloodrelief.com
 0.0.0.0 hittastilen.se
 0.0.0.0 hollylsmith.com
