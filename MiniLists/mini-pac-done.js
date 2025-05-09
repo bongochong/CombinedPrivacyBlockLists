@@ -1,4 +1,4 @@
-// **** Sun May  4 06:00:53 AM UTC 2025
+// **** Fri May  9 05:15:54 AM UTC 2025
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.023hysj.com") ||
@@ -3752,7 +3752,6 @@ shExpMatch(host, "*.differentcoat.com") ||
 shExpMatch(host, "*.difficultfog.com") ||
 shExpMatch(host, "*.dig.bdurl.net") ||
 shExpMatch(host, "*.digestiondrawer.com") ||
-shExpMatch(host, "*.digianalytics.airtel.in") ||
 shExpMatch(host, "*.digital-ads.s3.amazonaws.com") ||
 shExpMatch(host, "*.digitalmerkat.com") ||
 shExpMatch(host, "*.digitru.st") ||
@@ -7296,6 +7295,7 @@ shExpMatch(host, "*.radiumone.com") ||
 shExpMatch(host, "*.rads.realadmin.pl") ||
 shExpMatch(host, "*.railwayrainstorm.com") ||
 shExpMatch(host, "*.railwayreason.com") ||
+shExpMatch(host, "*.rainmaker.production-public.tubi.io") ||
 shExpMatch(host, "*.raintwig.com") ||
 shExpMatch(host, "*.rainydirt.com") ||
 shExpMatch(host, "*.rainyhand.com") ||
@@ -8342,6 +8342,7 @@ shExpMatch(host, "*.startup-mobile.ap.yandex-net.ru") ||
 shExpMatch(host, "*.startup.mobile.webvisor.com") ||
 shExpMatch(host, "*.startup.mobile.yandex.net") ||
 shExpMatch(host, "*.startup.oupeng.com") ||
+shExpMatch(host, "*.stat-analytics.mediavitrina.ru") ||
 shExpMatch(host, "*.stat-in.dc.oppomobile.com") ||
 shExpMatch(host, "*.stat-track.com") ||
 shExpMatch(host, "*.stat.appsgeyser.com") ||
@@ -8656,6 +8657,7 @@ shExpMatch(host, "*.synthesizespoon.com") ||
 shExpMatch(host, "*.sysmeasuring.net") ||
 shExpMatch(host, "*.system-notify.app") ||
 shExpMatch(host, "*.systemizecoat.com") ||
+shExpMatch(host, "*.t-odx.op-mobile.opera.com") ||
 shExpMatch(host, "*.t.adcell.com") ||
 shExpMatch(host, "*.t.adx.opera.com") ||
 shExpMatch(host, "*.t.ants.vn") ||
@@ -13703,7 +13705,6 @@ shExpMatch(host, "differentcoat.com") ||
 shExpMatch(host, "difficultfog.com") ||
 shExpMatch(host, "dig.bdurl.net") ||
 shExpMatch(host, "digestiondrawer.com") ||
-shExpMatch(host, "digianalytics.airtel.in") ||
 shExpMatch(host, "digital-ads.s3.amazonaws.com") ||
 shExpMatch(host, "digitalmerkat.com") ||
 shExpMatch(host, "digitru.st") ||
@@ -17247,6 +17248,7 @@ shExpMatch(host, "radiumone.com") ||
 shExpMatch(host, "rads.realadmin.pl") ||
 shExpMatch(host, "railwayrainstorm.com") ||
 shExpMatch(host, "railwayreason.com") ||
+shExpMatch(host, "rainmaker.production-public.tubi.io") ||
 shExpMatch(host, "raintwig.com") ||
 shExpMatch(host, "rainydirt.com") ||
 shExpMatch(host, "rainyhand.com") ||
@@ -18293,6 +18295,7 @@ shExpMatch(host, "startup-mobile.ap.yandex-net.ru") ||
 shExpMatch(host, "startup.mobile.webvisor.com") ||
 shExpMatch(host, "startup.mobile.yandex.net") ||
 shExpMatch(host, "startup.oupeng.com") ||
+shExpMatch(host, "stat-analytics.mediavitrina.ru") ||
 shExpMatch(host, "stat-in.dc.oppomobile.com") ||
 shExpMatch(host, "stat-track.com") ||
 shExpMatch(host, "stat.appsgeyser.com") ||
@@ -18607,6 +18610,7 @@ shExpMatch(host, "synthesizespoon.com") ||
 shExpMatch(host, "sysmeasuring.net") ||
 shExpMatch(host, "system-notify.app") ||
 shExpMatch(host, "systemizecoat.com") ||
+shExpMatch(host, "t-odx.op-mobile.opera.com") ||
 shExpMatch(host, "t.adcell.com") ||
 shExpMatch(host, "t.adx.opera.com") ||
 shExpMatch(host, "t.ants.vn") ||
