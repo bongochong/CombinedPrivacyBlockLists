@@ -1,4 +1,4 @@
-# Fri May  9 05:00:06 AM UTC 2025
+# Wed May 14 04:59:21 AM UTC 2025
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -1348,6 +1348,7 @@
 0.0.0.0 api.ad.intl.xiaomi.com
 0.0.0.0 api.ad.smaato.net
 0.0.0.0 api.ad.xiaomi.com
+0.0.0.0 api.adaether.com
 0.0.0.0 api.adcalls.nl
 0.0.0.0 api.addthis.com
 0.0.0.0 api.adfalcon.com
@@ -3311,6 +3312,7 @@
 0.0.0.0 cutecushion.com
 0.0.0.0 cutepopcorn.com
 0.0.0.0 cuteturkey.com
+0.0.0.0 cvt-s2.agl005.tech
 0.0.0.0 cvt.mydas.mobi
 0.0.0.0 cw.addthis.com
 0.0.0.0 cws-eu.conviva.com
@@ -7882,6 +7884,7 @@
 0.0.0.0 sharethrough.com
 0.0.0.0 sharkskids.com
 0.0.0.0 sharppatch.com
+0.0.0.0 sheilaqeb.com
 0.0.0.0 shesubscriptions.com
 0.0.0.0 shinesavage.com
 0.0.0.0 shinypond.com
