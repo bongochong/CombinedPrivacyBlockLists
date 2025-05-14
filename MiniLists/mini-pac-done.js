@@ -1,4 +1,4 @@
-// **** Fri May  9 05:15:54 AM UTC 2025
+// **** Wed May 14 06:27:32 AM UTC 2025
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.023hysj.com") ||
@@ -1864,6 +1864,7 @@ shExpMatch(host, "*.api-v3.tinypass.com") ||
 shExpMatch(host, "*.api.247-inc.net") ||
 shExpMatch(host, "*.api.abcsinsights.com") ||
 shExpMatch(host, "*.api.ad-locus.com") ||
+shExpMatch(host, "*.api.adaether.com") ||
 shExpMatch(host, "*.api.adcalls.nl") ||
 shExpMatch(host, "*.api.addthis.com") ||
 shExpMatch(host, "*.api.adrtx.net") ||
@@ -3043,6 +3044,7 @@ shExpMatch(host, "*.click.aliexpress.com") ||
 shExpMatch(host, "*.click.allkeyshop.com") ||
 shExpMatch(host, "*.click.bkdpt.com") ||
 shExpMatch(host, "*.click.cartsguru.io") ||
+shExpMatch(host, "*.click.ccg.nintendo.com") ||
 shExpMatch(host, "*.click.cision.com") ||
 shExpMatch(host, "*.click.classmates.com") ||
 shExpMatch(host, "*.click.comm.rcibank.co.uk") ||
@@ -3552,6 +3554,7 @@ shExpMatch(host, "*.cutechin.com") ||
 shExpMatch(host, "*.cutecushion.com") ||
 shExpMatch(host, "*.cutepopcorn.com") ||
 shExpMatch(host, "*.cuteturkey.com") ||
+shExpMatch(host, "*.cvt-s2.agl005.tech") ||
 shExpMatch(host, "*.cw.addthis.com") ||
 shExpMatch(host, "*.cws-eu.conviva.com") ||
 shExpMatch(host, "*.cws-hulu.conviva.com") ||
@@ -5887,7 +5890,6 @@ shExpMatch(host, "*.matomy.com") ||
 shExpMatch(host, "*.matrix.dailyinnovation.biz") ||
 shExpMatch(host, "*.mautic.com") ||
 shExpMatch(host, "*.max.i12.de") ||
-shExpMatch(host, "*.maximiser.net") ||
 shExpMatch(host, "*.maximumcash.com") ||
 shExpMatch(host, "*.maxonclick.com") ||
 shExpMatch(host, "*.mazu.sec.miui.com") ||
@@ -7970,6 +7972,7 @@ shExpMatch(host, "*.sharepointads.com") ||
 shExpMatch(host, "*.sharethrough.com") ||
 shExpMatch(host, "*.sharkskids.com") ||
 shExpMatch(host, "*.sharppatch.com") ||
+shExpMatch(host, "*.sheilaqeb.com") ||
 shExpMatch(host, "*.sher.index.hu") ||
 shExpMatch(host, "*.shesubscriptions.com") ||
 shExpMatch(host, "*.shinesavage.com") ||
@@ -9261,7 +9264,6 @@ shExpMatch(host, "*.trk.wdacashtrk.com") ||
 shExpMatch(host, "*.trk2.pinterest.com") ||
 shExpMatch(host, "*.trk42.net") ||
 shExpMatch(host, "*.trkn.us") ||
-shExpMatch(host, "*.trknths.com") ||
 shExpMatch(host, "*.trkoptimizer.com") ||
 shExpMatch(host, "*.trkpnt.ongage.net") ||
 shExpMatch(host, "*.trmit.com") ||
@@ -11817,6 +11819,7 @@ shExpMatch(host, "api-v3.tinypass.com") ||
 shExpMatch(host, "api.247-inc.net") ||
 shExpMatch(host, "api.abcsinsights.com") ||
 shExpMatch(host, "api.ad-locus.com") ||
+shExpMatch(host, "api.adaether.com") ||
 shExpMatch(host, "api.adcalls.nl") ||
 shExpMatch(host, "api.addthis.com") ||
 shExpMatch(host, "api.adrtx.net") ||
@@ -12996,6 +12999,7 @@ shExpMatch(host, "click.aliexpress.com") ||
 shExpMatch(host, "click.allkeyshop.com") ||
 shExpMatch(host, "click.bkdpt.com") ||
 shExpMatch(host, "click.cartsguru.io") ||
+shExpMatch(host, "click.ccg.nintendo.com") ||
 shExpMatch(host, "click.cision.com") ||
 shExpMatch(host, "click.classmates.com") ||
 shExpMatch(host, "click.comm.rcibank.co.uk") ||
@@ -13505,6 +13509,7 @@ shExpMatch(host, "cutechin.com") ||
 shExpMatch(host, "cutecushion.com") ||
 shExpMatch(host, "cutepopcorn.com") ||
 shExpMatch(host, "cuteturkey.com") ||
+shExpMatch(host, "cvt-s2.agl005.tech") ||
 shExpMatch(host, "cw.addthis.com") ||
 shExpMatch(host, "cws-eu.conviva.com") ||
 shExpMatch(host, "cws-hulu.conviva.com") ||
@@ -15840,7 +15845,6 @@ shExpMatch(host, "matomy.com") ||
 shExpMatch(host, "matrix.dailyinnovation.biz") ||
 shExpMatch(host, "mautic.com") ||
 shExpMatch(host, "max.i12.de") ||
-shExpMatch(host, "maximiser.net") ||
 shExpMatch(host, "maximumcash.com") ||
 shExpMatch(host, "maxonclick.com") ||
 shExpMatch(host, "mazu.sec.miui.com") ||
@@ -17923,6 +17927,7 @@ shExpMatch(host, "sharepointads.com") ||
 shExpMatch(host, "sharethrough.com") ||
 shExpMatch(host, "sharkskids.com") ||
 shExpMatch(host, "sharppatch.com") ||
+shExpMatch(host, "sheilaqeb.com") ||
 shExpMatch(host, "sher.index.hu") ||
 shExpMatch(host, "shesubscriptions.com") ||
 shExpMatch(host, "shinesavage.com") ||
@@ -19214,7 +19219,6 @@ shExpMatch(host, "trk.wdacashtrk.com") ||
 shExpMatch(host, "trk2.pinterest.com") ||
 shExpMatch(host, "trk42.net") ||
 shExpMatch(host, "trkn.us") ||
-shExpMatch(host, "trknths.com") ||
 shExpMatch(host, "trkoptimizer.com") ||
 shExpMatch(host, "trkpnt.ongage.net") ||
 shExpMatch(host, "trmit.com") ||
