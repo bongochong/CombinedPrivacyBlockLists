@@ -1,4 +1,4 @@
-# Wed May 14 04:59:21 AM UTC 2025
+# Sat May 24 11:57:42 PM UTC 2025
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -1328,6 +1328,7 @@
 0.0.0.0 api-analytics.metaps.com
 0.0.0.0 api-analytics.prod.birdapp.com
 0.0.0.0 api-ext.mediav.com
+0.0.0.0 api-fp-retry-bj.fengkongcloud.com
 0.0.0.0 api-gateway.us-west-2.elasticbeanstalk.com
 0.0.0.0 api-gdpr.voodoo-tech.io
 0.0.0.0 api-h.outgrow.co
@@ -1678,6 +1679,7 @@
 0.0.0.0 app-sjp.marketo.com
 0.0.0.0 app-sjqe.marketo.com
 0.0.0.0 app-sn01.marketo.com
+0.0.0.0 app-tracking.hlogo.de
 0.0.0.0 app.adjust.com
 0.0.0.0 app.adjust.net.in
 0.0.0.0 app.adjust.world
@@ -1735,6 +1737,7 @@
 0.0.0.0 applink.mob.com
 0.0.0.0 appload.ingest.crittercism.com
 0.0.0.0 applog.camera360.com
+0.0.0.0 applog.lc.quark.cn
 0.0.0.0 applog.matrix.easebar.com
 0.0.0.0 applog.uc.cn
 0.0.0.0 applogios.uc.cn
@@ -1901,6 +1904,7 @@
 0.0.0.0 atracking-auto.appflood.com
 0.0.0.0 ats.rlcdn.com
 0.0.0.0 atsod.launch.liveramp.com
+0.0.0.0 attainthreatfluffy.com
 0.0.0.0 attendchase.com
 0.0.0.0 atti.com
 0.0.0.0 attr.appsflyer.com
@@ -4245,6 +4249,7 @@
 0.0.0.0 foxnet.demdex.net
 0.0.0.0 foxnews.hb.omtrdc.net
 0.0.0.0 foxnews.tt.omtrdc.net
+0.0.0.0 fp-it.fengkongcloud.com
 0.0.0.0 fp3.ads.stickyadstv.com.akadns.net
 0.0.0.0 fr-gmtdmp.mookie1.com
 0.0.0.0 fr.eu.criteo.com
@@ -5442,6 +5447,7 @@
 0.0.0.0 log-dbff2e04.us.v2.we-stats.com
 0.0.0.0 log-music-data.line-apps.com
 0.0.0.0 log-sdk.ksapisrv.com
+0.0.0.0 log-sg.capcutapi.com
 0.0.0.0 log-tb.isnssdk.com
 0.0.0.0 log-tb.sgsnssdk.com
 0.0.0.0 log-upload-eur.mihoyo.com
@@ -5490,6 +5496,7 @@
 0.0.0.0 log.kuwo.cn
 0.0.0.0 log.leadboxer.com
 0.0.0.0 log.lemonpi.io
+0.0.0.0 log.m.sm.cn
 0.0.0.0 log.make50.com
 0.0.0.0 log.medietall.no
 0.0.0.0 log.mgtv.com
@@ -5993,6 +6000,7 @@
 0.0.0.0 mofox.com
 0.0.0.0 moldyicicle.com
 0.0.0.0 momentus.gotrackier.com
+0.0.0.0 mon-sg.capcutapi.com
 0.0.0.0 mon-va-us-looki.capcutapi.com
 0.0.0.0 mon-va.byteoversea.com
 0.0.0.0 mon-va.tiktokv.com
@@ -7028,6 +7036,7 @@
 0.0.0.0 px.quantserve.com
 0.0.0.0 px.tvadsync.com
 0.0.0.0 px.ucweb.com
+0.0.0.0 px.wpk.quark.cn
 0.0.0.0 px2.moatads.com
 0.0.0.0 px2m.moatads.com
 0.0.0.0 pxl.connexity.net
@@ -7349,6 +7358,7 @@
 0.0.0.0 rtblab.net
 0.0.0.0 rtc-logger-va.tiktokv.com
 0.0.0.0 rtd.tubemogul.com
+0.0.0.0 rtlog.byteoversea.com
 0.0.0.0 rtlog.isnssdk.com
 0.0.0.0 rtlog.tiktokv.com
 0.0.0.0 rtmark.net
@@ -8959,6 +8969,9 @@
 0.0.0.0 tmk.smartadserver.com
 0.0.0.0 tml.clmbtech.com
 0.0.0.0 tmz.vo.llnwd.net
+0.0.0.0 tnc-boot.capcutapi.com
+0.0.0.0 tnc-sg.capcutapi.com
+0.0.0.0 tnc-va-us-looki.capcutapi.com
 0.0.0.0 tnc16-alisg.isnssdk.com
 0.0.0.0 tnc16-useast1a.isnssdk.com
 0.0.0.0 tnkfactory.com
@@ -9022,6 +9035,7 @@
 0.0.0.0 track-us.bidease.com
 0.0.0.0 track.activemetering.com
 0.0.0.0 track.ad.xiaomi.com
+0.0.0.0 track.adflow-prod.minionplatform.com
 0.0.0.0 track.adform.net
 0.0.0.0 track.adition.com
 0.0.0.0 track.adsplay.in
@@ -9041,6 +9055,7 @@
 0.0.0.0 track.hk01.com
 0.0.0.0 track.knlob.com
 0.0.0.0 track.ktplay.com
+0.0.0.0 track.lc.quark.cn
 0.0.0.0 track.leanlab.co
 0.0.0.0 track.linksynergy.com
 0.0.0.0 track.loopme.me
@@ -9272,7 +9287,9 @@
 0.0.0.0 uc-ap.yodo1api.com
 0.0.0.0 uc.atwola.com
 0.0.0.0 uc.ucweb.com
+0.0.0.0 uc9.ucweb.com
 0.0.0.0 uconnect.tealiumiq.com
+0.0.0.0 ucus.ucweb.com
 0.0.0.0 ud.tubemogul.com
 0.0.0.0 udc-neb.kampyle.com
 0.0.0.0 udm.scorecardresearch.com
@@ -9563,7 +9580,6 @@
 0.0.0.0 verseballs.com
 0.0.0.0 vervemobile.com
 0.0.0.0 vet-us-east-1.track.smaato.net
-0.0.0.0 veta.naver.com
 0.0.0.0 vg-aws-us-east-1a-hb.rayjump.com
 0.0.0.0 vg-aws-us-east-1b-hb.rayjump.com
 0.0.0.0 vg-new-hb.rayjump.com
