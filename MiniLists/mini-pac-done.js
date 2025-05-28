@@ -1,4 +1,4 @@
-// **** Sun May 25 12:05:44 AM UTC 2025
+// **** Wed May 28 02:51:05 AM UTC 2025
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.023hysj.com") ||
@@ -3106,6 +3106,7 @@ shExpMatch(host, "*.clicks.eventbrite.com") ||
 shExpMatch(host, "*.clicks.mods.de") ||
 shExpMatch(host, "*.clicks.monzo.com") ||
 shExpMatch(host, "*.clickserve.cc-dt.com") ||
+shExpMatch(host, "*.clicksinfo.thefork.co.uk") ||
 shExpMatch(host, "*.clicksor.com") ||
 shExpMatch(host, "*.clicktag.de") ||
 shExpMatch(host, "*.clickthrucash.com") ||
@@ -13076,6 +13077,7 @@ shExpMatch(host, "clicks.eventbrite.com") ||
 shExpMatch(host, "clicks.mods.de") ||
 shExpMatch(host, "clicks.monzo.com") ||
 shExpMatch(host, "clickserve.cc-dt.com") ||
+shExpMatch(host, "clicksinfo.thefork.co.uk") ||
 shExpMatch(host, "clicksor.com") ||
 shExpMatch(host, "clicktag.de") ||
 shExpMatch(host, "clickthrucash.com") ||

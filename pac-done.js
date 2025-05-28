@@ -1,4 +1,4 @@
-// **** Sun May 25 12:04:38 AM UTC 2025
+// **** Wed May 28 02:49:56 AM UTC 2025
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.00689.net") ||
@@ -4316,6 +4316,7 @@ shExpMatch(host, "*.clickserve.dartsearch.net") ||
 shExpMatch(host, "*.clickserve.eu.dartsearch.net") ||
 shExpMatch(host, "*.clickserve.uk.dartsearch.net") ||
 shExpMatch(host, "*.clickserve.us2.dartsearch.net") ||
+shExpMatch(host, "*.clicksinfo.thefork.co.uk") ||
 shExpMatch(host, "*.clicksor.com") ||
 shExpMatch(host, "*.clicktag.de") ||
 shExpMatch(host, "*.clickterra.net") ||
@@ -18321,6 +18322,7 @@ shExpMatch(host, "clickserve.dartsearch.net") ||
 shExpMatch(host, "clickserve.eu.dartsearch.net") ||
 shExpMatch(host, "clickserve.uk.dartsearch.net") ||
 shExpMatch(host, "clickserve.us2.dartsearch.net") ||
+shExpMatch(host, "clicksinfo.thefork.co.uk") ||
 shExpMatch(host, "clicksor.com") ||
 shExpMatch(host, "clicktag.de") ||
 shExpMatch(host, "clickterra.net") ||
