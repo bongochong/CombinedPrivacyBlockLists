@@ -1,4 +1,4 @@
-# Sat May 24 11:59:06 PM UTC 2025
+# Wed May 28 02:43:32 AM UTC 2025
 # Piperun IPLoggerFilter Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 00689.net
 0.0.0.0 02ip.ru
