@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Sun, 25 May 2025 21:24:36 GMT
-# entries:        3435
+# entries:        3429
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -315,7 +315,6 @@
 127.0.0.1 adpepper.nl
 127.0.0.1 adperium.com
 127.0.0.1 adpia.vn
-127.0.0.1 adplus.co.id
 127.0.0.1 adplxmd.com
 127.0.0.1 adprofits.ru
 127.0.0.1 adpushup.com
@@ -796,6 +795,7 @@
 127.0.0.1 adv.wp.pl
 127.0.0.1 adv.yo.cz
 127.0.0.1 advangelists.com
+127.0.0.1 advariant.com
 127.0.0.1 adventory.com
 127.0.0.1 adventurousamount.com
 127.0.0.1 advert.bayarea.com
@@ -1206,7 +1206,6 @@
 127.0.0.1 cdn.scarabresearch.com
 127.0.0.1 cdn.segment.com
 127.0.0.1 cdnondemand.org
-127.0.0.1 ceciliavenus.com
 127.0.0.1 cedato.com
 127.0.0.1 celtra.com
 127.0.0.1 centerpointmedia.com
@@ -1409,6 +1408,7 @@
 127.0.0.1 criteo.net
 127.0.0.1 critictruck.com
 127.0.0.1 crowdedmass.com
+127.0.0.1 crowdgravity.com
 127.0.0.1 crsspxl.com
 127.0.0.1 crta.dailymail.co.uk
 127.0.0.1 crtv.mate1.com
@@ -1437,7 +1437,6 @@
 127.0.0.1 dakic-ia-300.com
 127.0.0.1 damageddistance.com
 127.0.0.1 damdoor.com
-127.0.0.1 dancemistake.com
 127.0.0.1 dapper.net
 127.0.0.1 data.namesakeoscilloscopemarquis.com
 127.0.0.1 datenow.link
@@ -1449,12 +1448,10 @@
 127.0.0.1 decisivebase.com
 127.0.0.1 decisivedrawer.com
 127.0.0.1 decknetwork.net
-127.0.0.1 decoycreation.com
 127.0.0.1 deepintent.com
 127.0.0.1 delicatecascade.com
 127.0.0.1 deloo.de
 127.0.0.1 deloplen.com
-127.0.0.1 deloton.com
 127.0.0.1 demandbase.com
 127.0.0.1 demdex.net
 127.0.0.1 deployads.com
@@ -1639,6 +1636,7 @@
 127.0.0.1 feedjit.com
 127.0.0.1 feedmob.com
 127.0.0.1 fimserve.com
+127.0.0.1 findcommerce.com
 127.0.0.1 findyourcasino.com
 127.0.0.1 fingahvf.top
 127.0.0.1 fireads.online
@@ -1931,7 +1929,6 @@
 127.0.0.1 iyfnzgb.com
 127.0.0.1 j93557g.com
 127.0.0.1 jads.co
-127.0.0.1 jauchuwa.net
 127.0.0.1 jcount.com
 127.0.0.1 jdoqocy.com
 127.0.0.1 jinkads.de
@@ -2157,7 +2154,6 @@
 127.0.0.1 mediavoice.com
 127.0.0.1 mediax.angloinfo.com
 127.0.0.1 mediaz.angloinfo.com
-127.0.0.1 mediumshort.com
 127.0.0.1 medleyads.com
 127.0.0.1 medyanetads.com
 127.0.0.1 meetrics.net
@@ -2248,7 +2244,6 @@
 127.0.0.1 myads.telkomsel.com
 127.0.0.1 myaffiliateprogram.com
 127.0.0.1 mybbc-analytics.files.bbci.co.uk
-127.0.0.1 mybetterdl.com
 127.0.0.1 mybloglog.com
 127.0.0.1 mybuys.com
 127.0.0.1 mycounter.ua
@@ -2261,7 +2256,6 @@
 127.0.0.1 mystat-in.net
 127.0.0.1 mystat.pl
 127.0.0.1 mytop-in.net
-127.0.0.1 n2.mouseflow.com
 127.0.0.1 n69.com
 127.0.0.1 naj.sk
 127.0.0.1 nappyattack.com
@@ -2627,6 +2621,7 @@
 127.0.0.1 ratings.lycos.com
 127.0.0.1 rayjump.com
 127.0.0.1 rcadserver.com
+127.0.0.1 re-direct.pl
 127.0.0.1 re-direct1.com
 127.0.0.1 reachjunction.com
 127.0.0.1 reactx.com
@@ -2661,7 +2656,6 @@
 127.0.0.1 reklamcsere.hu
 127.0.0.1 reklamdsp.com
 127.0.0.1 relmaxtop.com
-127.0.0.1 reloadphoto.com
 127.0.0.1 rememberdiscussion.com
 127.0.0.1 remox.com
 127.0.0.1 report-1.appmetrica.webvisor.com
