@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mostly Cosmetic CPBL Filters for ABP & uBO
-! Updated: Sat Apr 26 06:48:23 PM UTC 2025
+! Updated: Tue Jun 10 07:53:49 AM UTC 2025
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -167,7 +167,10 @@ haaretz.com##.ae.bn.bid.bie.bif.big.bih
 haaretz.com##.footer-ruler
 hackintosh.zone###document_modal
 hackintosh.zone###some_ad_block_key_inner
+hpanel.hostinger.com##.horizons-try-now-banner
+hpanel.hostinger.com##.horizons-banner
 hpanel.hostinger.com##.hot-spot
+hpanel.hostinger.com##.feature-pricing
 huffpost.com##[class*=social-buttons]
 huffpost.com##DIV#top_news_inner
 huffpost.com##.js-entry-promo.small.entry-promo
