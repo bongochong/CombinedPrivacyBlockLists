@@ -1,4 +1,4 @@
-# Tue Jun 10 07:41:26 AM UTC 2025
+# Thu Jun 19 09:32:21 PM UTC 2025
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -145,7 +145,6 @@
 0.0.0.0 a.applovin.com
 0.0.0.0 a.applvn.com
 0.0.0.0 a.c.appier.net
-0.0.0.0 a.cookpad-ads.com
 0.0.0.0 a.dpmsrv.com
 0.0.0.0 a.et.nytimes.com
 0.0.0.0 a.exdynsrv.com
@@ -658,6 +657,7 @@
 0.0.0.0 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
 0.0.0.0 ads-gdl.imovideo.ru
 0.0.0.0 ads-image.production-public.tubi.io
+0.0.0.0 ads-img-al.xhscdn.com
 0.0.0.0 ads-interfaces.sc-cdn.net
 0.0.0.0 ads-leaseweb.appsgeyser.com
 0.0.0.0 ads-marketing-vivofs.vivo.com.cn
@@ -1572,7 +1572,10 @@
 0.0.0.0 apitm.toolmatrix.plus
 0.0.0.0 apituner.ecbsn.com
 0.0.0.0 apiv2.moengage.com
+0.0.0.0 apm-fe.xiaohongshu.com
 0.0.0.0 apm-log-upload-os.hoyoverse.com
+0.0.0.0 apm-native.xiaohongshu.com
+0.0.0.0 apm-track.xiaohongshu.com
 0.0.0.0 apm.crittercism.com
 0.0.0.0 apn-winners-ap-southeast-1-rtb.adroll.com
 0.0.0.0 apn-winners-eu-west-1-rtb.adroll.com
@@ -2843,6 +2846,7 @@
 0.0.0.0 client.midosoo.com
 0.0.0.0 client.rave-api.com
 0.0.0.0 clientcdn.pushengage.com
+0.0.0.0 clientlog.perfectworldgames.com
 0.0.0.0 clientlog3.music.163.com
 0.0.0.0 clientlogdep.music.163.com
 0.0.0.0 clientlogsf.music.163.com
@@ -3048,7 +3052,6 @@
 0.0.0.0 confesschairs.com
 0.0.0.0 conff.dc.oppomobile.com
 0.0.0.0 confiant-integrations.global.ssl.fastly.net
-0.0.0.0 config-api.internet.apps.samsung.com
 0.0.0.0 config-ltvp.inmobi.com
 0.0.0.0 config.88-f.net
 0.0.0.0 config.ad-brix.com
@@ -3392,6 +3395,7 @@
 0.0.0.0 dashingsweater.com
 0.0.0.0 dat.funheroic.com
 0.0.0.0 data-beacons.s-onetag.com
+0.0.0.0 data-detect.nie.easebar.com
 0.0.0.0 data-id.ads.oppomobile.com
 0.0.0.0 data-optout-service.uca.cloud.unity3d.com
 0.0.0.0 data.ad-score.com
@@ -3558,7 +3562,6 @@
 0.0.0.0 digitru.st
 0.0.0.0 dingytiredfollowing.com
 0.0.0.0 dinnerquartz.com
-0.0.0.0 diopousg.com
 0.0.0.0 diplomahawaii.com
 0.0.0.0 direct-collect.dy-api.com
 0.0.0.0 direct-collect.dy-api.eu
@@ -3601,6 +3604,7 @@
 0.0.0.0 dl.fotoable.com
 0.0.0.0 dl.ijinshan.com
 0.0.0.0 dl.sj.ijinshan.com
+0.0.0.0 dlog.perfectworldgames.com
 0.0.0.0 dls2s.appsflyer.com
 0.0.0.0 dlsdk.appsflyer.com
 0.0.0.0 dlsdk.appsflyersdk.com
@@ -3779,6 +3783,7 @@
 0.0.0.0 edge.sharethis.com
 0.0.0.0 edge.uniconsent.com
 0.0.0.0 edge.yieldify.com
+0.0.0.0 edith-seb.xiaohongshu.com
 0.0.0.0 edmanalytics.pandahall.com
 0.0.0.0 efcad85fded269f462c434c4c5f84654a17d4a77.cws.conviva.com
 0.0.0.0 effervescentcoral.com
@@ -4522,6 +4527,7 @@
 0.0.0.0 gov.aniview.com
 0.0.0.0 gowadogo.com
 0.0.0.0 gplayer.kmpmedia.net
+0.0.0.0 gpm-mon-va.byteoversea.com
 0.0.0.0 grabify.link
 0.0.0.0 grace.shareaholic.com
 0.0.0.0 gracefulmilk.com
@@ -5512,6 +5518,8 @@
 0.0.0.0 log1.apkomega.com
 0.0.0.0 log1.golfrival.net
 0.0.0.0 log1.happymod.com
+0.0.0.0 log1.perfectworldgames.com
+0.0.0.0 log2.perfectworldgames.com
 0.0.0.0 log4x.nixcdn.com
 0.0.0.0 log5.interactive-circle.jp
 0.0.0.0 logagent-wf.centurygame.com
@@ -5532,6 +5540,7 @@
 0.0.0.0 logic.anzuinfra.com
 0.0.0.0 logs-01.loggly.com
 0.0.0.0 logs-ingress.svc.vinted.com
+0.0.0.0 logs-sg.rebxgame.com
 0.0.0.0 logs.81plug.com
 0.0.0.0 logs.amap.com
 0.0.0.0 logs.datadoghq.com
@@ -7327,6 +7336,7 @@
 0.0.0.0 rtbcdn.doubleverify.com
 0.0.0.0 rtblab.net
 0.0.0.0 rtc-logger-va.tiktokv.com
+0.0.0.0 rtc-logger.bytevcloud.com
 0.0.0.0 rtd.tubemogul.com
 0.0.0.0 rtlog.byteoversea.com
 0.0.0.0 rtlog.isnssdk.com
@@ -7590,6 +7600,7 @@
 0.0.0.0 sdk-info.gimbal.com
 0.0.0.0 sdk-ios.ad.smaato.net
 0.0.0.0 sdk-log-inter.youdao.com
+0.0.0.0 sdk-log-upload-os.hoyoverse.com
 0.0.0.0 sdk-monitoring.ogury.co
 0.0.0.0 sdk-orion.appboy.com
 0.0.0.0 sdk-services.appsflyer.com
@@ -8763,6 +8774,7 @@
 0.0.0.0 tali.iad-03.braze.com
 0.0.0.0 talk.igexin.com
 0.0.0.0 talltouch.com
+0.0.0.0 talog-eu.rebxgame.com
 0.0.0.0 tangibleteam.com
 0.0.0.0 tangletrace.com
 0.0.0.0 tangyamount.com
@@ -9693,7 +9705,6 @@
 0.0.0.0 wbapp.mobile.sina.cn
 0.0.0.0 wd-edge.sharethis.com
 0.0.0.0 wd.adcolony.com
-0.0.0.0 wd.adcolony.xyz
 0.0.0.0 wdig.vo.llnwd.net
 0.0.0.0 wdpro-mkt-prod2-lb.campaign.adobe.com
 0.0.0.0 wearbasin.com
