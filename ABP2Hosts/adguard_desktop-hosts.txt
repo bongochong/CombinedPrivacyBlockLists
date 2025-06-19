@@ -1,4 +1,4 @@
-# Thu Jun 19 09:32:44 PM UTC 2025
+# Thu Jun 19 10:43:59 PM UTC 2025
 # AdGuard Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0.101tubeporn.com
 0.0.0.0 0.cosmicnewspulse.com
@@ -19749,6 +19749,7 @@
 0.0.0.0 aqpwckoqbjikrg.xyz
 0.0.0.0 aqsossaj.com
 0.0.0.0 aquaplatform.com
+0.0.0.0 aquaticrangey.shop
 0.0.0.0 aquavitducky.shop
 0.0.0.0 aquentlytujim.com
 0.0.0.0 aquila.aomg5bzv7.com
@@ -46412,6 +46413,7 @@
 0.0.0.0 hjfyid.100yearshop.co.kr
 0.0.0.0 hjfyms.istanbulhomes.com
 0.0.0.0 hjgcdi.farmacybeauty.com
+0.0.0.0 hjgyvykaybgrq.com
 0.0.0.0 hjimtyu.top
 0.0.0.0 hjiqepnmicea.com
 0.0.0.0 hjkhxfh.360doc.cn
@@ -67374,6 +67376,7 @@
 0.0.0.0 orthantnavig.com
 0.0.0.0 ortkrq.damyller.com.br
 0.0.0.0 ortlisk.top
+0.0.0.0 ortuhaxjansbr.store
 0.0.0.0 ortwaukthwaeals.com
 0.0.0.0 orup.cn
 0.0.0.0 orutvnck.top
@@ -67553,6 +67556,7 @@
 0.0.0.0 otvmucajjmac.com
 0.0.0.0 otvnwagpia.com
 0.0.0.0 otvovcossru.com
+0.0.0.0 otwlfwmuubeue.space
 0.0.0.0 otwqvqla.com
 0.0.0.0 otx23nu6rzon.prep.toppers.com
 0.0.0.0 otysni.flymodel.co.kr

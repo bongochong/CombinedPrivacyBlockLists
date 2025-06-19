@@ -1,4 +1,4 @@
-# Thu Jun 19 09:33:39 PM UTC 2025
+# Thu Jun 19 10:44:52 PM UTC 2025
 # AdGuard DNS Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0.101tubeporn.com
 0.0.0.0 0.cosmicnewspulse.com
@@ -11904,6 +11904,7 @@
 0.0.0.0 aquagoat.xyz
 0.0.0.0 aquank.com
 0.0.0.0 aquaplatform.com
+0.0.0.0 aquaticrangey.shop
 0.0.0.0 aquavitducky.shop
 0.0.0.0 aquentlytujim.com
 0.0.0.0 aquila.aomg5bzv7.com
@@ -33017,6 +33018,7 @@
 0.0.0.0 esnlynotquiteso.com
 0.0.0.0 esofco.gsmbutik.ru
 0.0.0.0 esomniture.com
+0.0.0.0 esoujeebou.com
 0.0.0.0 espionagegardenerthicket.com
 0.0.0.0 espionageomissionrobe.com
 0.0.0.0 espleestrick.com
@@ -37877,6 +37879,7 @@
 0.0.0.0 glaixich.net
 0.0.0.0 glamipixel.com
 0.0.0.0 glamurka.net
+0.0.0.0 glancebismark.shop
 0.0.0.0 glandinterest.com
 0.0.0.0 glaringregister.com
 0.0.0.0 glassboxdigital.io
@@ -40261,6 +40264,7 @@
 0.0.0.0 gtr1.yes24.com
 0.0.0.0 gtrem.site
 0.0.0.0 gtrk.s3.amazonaws.com
+0.0.0.0 gtrlhbeizihyy.site
 0.0.0.0 gts-ads.twistbox.com
 0.0.0.0 gts.absulo.it
 0.0.0.0 gtubumgalb.com
@@ -40595,6 +40599,7 @@
 0.0.0.0 h8ne.com
 0.0.0.0 ha-api.pushwoosh.com
 0.0.0.0 habbleuntreed.shop
+0.0.0.0 habirimisce.top
 0.0.0.0 habirimodioli.com
 0.0.0.0 habitualexecute.com
 0.0.0.0 habutaeirisate.com
@@ -41706,6 +41711,7 @@
 0.0.0.0 hjfyid.100yearshop.co.kr
 0.0.0.0 hjfyms.istanbulhomes.com
 0.0.0.0 hjgcdi.farmacybeauty.com
+0.0.0.0 hjgyvykaybgrq.com
 0.0.0.0 hjimtyu.top
 0.0.0.0 hjiqepnmicea.com
 0.0.0.0 hjkhxfh.360doc.cn
@@ -44121,6 +44127,7 @@
 0.0.0.0 impeccable-official.com
 0.0.0.0 impeccablewriter.com
 0.0.0.0 impendtewter.com
+0.0.0.0 imperfect-pace.pro
 0.0.0.0 imperilgustard.shop
 0.0.0.0 imperturbableawesome.com
 0.0.0.0 impetremondial.com
@@ -65543,6 +65550,7 @@
 0.0.0.0 ortkrq.damyller.com.br
 0.0.0.0 ortlisk.top
 0.0.0.0 orts.wixawin.com
+0.0.0.0 ortuhaxjansbr.store
 0.0.0.0 ortwaukthwaeals.com
 0.0.0.0 orup.cn
 0.0.0.0 orutvnck.top
@@ -65736,6 +65744,7 @@
 0.0.0.0 otvmucajjmac.com
 0.0.0.0 otvnwagpia.com
 0.0.0.0 otvovcossru.com
+0.0.0.0 otwlfwmuubeue.space
 0.0.0.0 otwqvqla.com
 0.0.0.0 otx23nu6rzon.prep.toppers.com
 0.0.0.0 otysni.flymodel.co.kr
@@ -70839,6 +70848,7 @@
 0.0.0.0 qgpiphehhrcvl.space
 0.0.0.0 qgpzqe.alterego-design.fr
 0.0.0.0 qgqgic.missnumerique.com
+0.0.0.0 qgskdncyrtmnkht.com
 0.0.0.0 qgssfa.missme.com
 0.0.0.0 qgtzdk.mimanerashop.com
 0.0.0.0 qgumjp.asiae.co.kr
@@ -103711,6 +103721,7 @@
 0.0.0.0 vuukle.net
 0.0.0.0 vuuxsw.lusida.co.kr
 0.0.0.0 vuvacu.xyz
+0.0.0.0 vuvcupvrfosyk.online
 0.0.0.0 vuvnlc.bestmobilier.com
 0.0.0.0 vuwjllcfojqcnmx.com
 0.0.0.0 vuwjv7sjvg7.zedporn.com
@@ -107849,6 +107860,7 @@
 0.0.0.0 xtdvvp.icu
 0.0.0.0 xtdztyiqyhmet.global
 0.0.0.0 xtendmedia.com
+0.0.0.0 xterukyxnwkdp.com
 0.0.0.0 xtgfujmknprb.ru
 0.0.0.0 xtgreat.com
 0.0.0.0 xthhod.beevitamins.com.au
@@ -109787,6 +109799,7 @@
 0.0.0.0 zyq2.destinia.sk
 0.0.0.0 zyrelolbbqelo.top
 0.0.0.0 zyrelolbbqvez.top
+0.0.0.0 zyrelolbbqvle.top
 0.0.0.0 zyrelolbbqyww.top
 0.0.0.0 zyrnbh.xyz
 0.0.0.0 zyscrz.massnoun.com

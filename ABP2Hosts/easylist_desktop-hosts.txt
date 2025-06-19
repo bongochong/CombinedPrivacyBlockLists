@@ -1,4 +1,4 @@
-# Thu Jun 19 09:33:10 PM UTC 2025
+# Thu Jun 19 10:44:25 PM UTC 2025
 # EasyList Desktop Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 0.myikas.com
 0.0.0.0 0.net.easyjet.com
@@ -17917,6 +17917,7 @@
 0.0.0.0 corruptbarelytent.com
 0.0.0.0 corruptobstacle.com
 0.0.0.0 corruptsolitaryaudibly.com
+0.0.0.0 corsesvriddhi.com
 0.0.0.0 cortellisconnections.thomsonreuters.com
 0.0.0.0 cortilepartes.shop
 0.0.0.0 cortonrestis.top
@@ -29335,6 +29336,7 @@
 0.0.0.0 glaixich.net
 0.0.0.0 glamipixel.com
 0.0.0.0 glance-news.com
+0.0.0.0 glancebismark.shop
 0.0.0.0 glandinterest.com
 0.0.0.0 glaringregister.com
 0.0.0.0 glass.autovistagroup.com
@@ -49358,6 +49360,7 @@
 0.0.0.0 oofptbhbdb.com
 0.0.0.0 oognaxoudroogru.net
 0.0.0.0 oogneenu.net
+0.0.0.0 oohougrauh.net
 0.0.0.0 ookaso.com
 0.0.0.0 ookresit.net
 0.0.0.0 ookroush.com
@@ -53561,6 +53564,7 @@
 0.0.0.0 qgmikp.fleurdumal.com
 0.0.0.0 qgmoslspensxh.buzz
 0.0.0.0 qgpiphehhrcvl.space
+0.0.0.0 qgskdncyrtmnkht.com
 0.0.0.0 qgumjp.asiae.co.kr
 0.0.0.0 qgumjp.joins.com
 0.0.0.0 qgumjp.mediatoday.co.kr
@@ -53660,6 +53664,7 @@
 0.0.0.0 qkxzdm.stellenanzeigen.de
 0.0.0.0 qkyahnawba.com
 0.0.0.0 qkyojtlabrhy.com
+0.0.0.0 qkzauxsrxn.com
 0.0.0.0 ql.uzuzuz.com
 0.0.0.0 qldmga.criteo.work
 0.0.0.0 qldvnj.purepara.com
@@ -75228,6 +75233,7 @@
 0.0.0.0 vutkaqlakbp.com
 0.0.0.0 vutokpxc.com
 0.0.0.0 vuvacu.xyz
+0.0.0.0 vuvcupvrfosyk.online
 0.0.0.0 vuwjllcfojqcnmx.com
 0.0.0.0 vuwjv7sjvg7.zedporn.com
 0.0.0.0 vuwzer.com
@@ -78437,10 +78443,12 @@
 0.0.0.0 xzjqlg.marella.com
 0.0.0.0 xzo.jp
 0.0.0.0 xzqpz.com
+0.0.0.0 xzqttyicbzhgs.website
 0.0.0.0 xztqfj.dreamvs.jp
 0.0.0.0 xzutow.affordablelamps.com
 0.0.0.0 xzwcng.vans.com.au
 0.0.0.0 xzylcgwycrmaa.click
+0.0.0.0 xzyshwfdxwwmv.website
 0.0.0.0 x_x-askfollow-us.translate.goog
 0.0.0.0 x_x-freeadd-me.translate.goog
 0.0.0.0 x_x-more--followers-com.translate.goog
@@ -79773,6 +79781,7 @@
 0.0.0.0 zyq2.destinia.sk
 0.0.0.0 zyrelolbbqelo.top
 0.0.0.0 zyrelolbbqvez.top
+0.0.0.0 zyrelolbbqvle.top
 0.0.0.0 zyrelolbbqyww.top
 0.0.0.0 zyrnbh.xyz
 0.0.0.0 zyusywfejzbya.fun
