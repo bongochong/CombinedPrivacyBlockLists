@@ -1,4 +1,4 @@
-# Thu Jun 19 10:43:37 PM UTC 2025
+# Tue Jul  1 03:45:39 AM UTC 2025
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -238,7 +238,6 @@
 0.0.0.0 a1726.casalemedia.com
 0.0.0.0 a1843.g.akamai.net
 0.0.0.0 a2.chartboost.com
-0.0.0.0 a2dfp.net
 0.0.0.0 a3409.casalemedia.com
 0.0.0.0 a3426.casalemedia.com
 0.0.0.0 a3427.casalemedia.com
@@ -5462,7 +5461,6 @@
 0.0.0.0 log.documentmanagerpdfdocxlssale.live
 0.0.0.0 log.down61.com
 0.0.0.0 log.dramaboxdb.com
-0.0.0.0 log.droid4x.cn
 0.0.0.0 log.easy39.com
 0.0.0.0 log.espn.com
 0.0.0.0 log.estand.jp
@@ -5517,7 +5515,6 @@
 0.0.0.0 log.yougameover.com
 0.0.0.0 log1.apkomega.com
 0.0.0.0 log1.golfrival.net
-0.0.0.0 log1.happymod.com
 0.0.0.0 log1.perfectworldgames.com
 0.0.0.0 log2.perfectworldgames.com
 0.0.0.0 log4x.nixcdn.com
@@ -6054,7 +6051,6 @@
 0.0.0.0 mtburn.com
 0.0.0.0 mtburn.jp
 0.0.0.0 mtgglobals.com
-0.0.0.0 mtlog.droid4x.cn
 0.0.0.0 mtrace.qq.com
 0.0.0.0 mtrcss.com
 0.0.0.0 mtrx.go.sonobi.com
@@ -6204,7 +6200,6 @@
 0.0.0.0 nkis.nikkei.com
 0.0.0.0 nl.eu.criteo.com
 0.0.0.0 nl.eu.criteo.net
-0.0.0.0 nlog.droid4x.cn
 0.0.0.0 nmcdn.us
 0.0.0.0 nmtracking.netflix.com
 0.0.0.0 nocturnalloom.com
@@ -9132,6 +9127,7 @@
 0.0.0.0 tracking.rus.miui.com
 0.0.0.0 tracking.sembox.it
 0.0.0.0 tracking.taboola.com
+0.0.0.0 tracking.trackchecker.net
 0.0.0.0 tracking.trnox.com
 0.0.0.0 tracking.v2.yieldlove-ad-serving.net
 0.0.0.0 tracking.vcommission.com
