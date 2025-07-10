@@ -1,4 +1,4 @@
-// **** Tue Jul  1 03:52:25 AM UTC 2025
+// **** Thu Jul 10 07:39:58 PM UTC 2025
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.00689.net") ||
@@ -5468,6 +5468,7 @@ shExpMatch(host, "*.easycounter.com") ||
 shExpMatch(host, "*.easyhitcounters.com") ||
 shExpMatch(host, "*.easyhits4u.com") ||
 shExpMatch(host, "*.eatablesquare.com") ||
+shExpMatch(host, "*.eats-ads-event-capture.coupang.com") ||
 shExpMatch(host, "*.ebayadvertising.com") ||
 shExpMatch(host, "*.ebdr2.com") ||
 shExpMatch(host, "*.ebdr3.com") ||
@@ -6016,7 +6017,6 @@ shExpMatch(host, "*.fineboost-loghub.ap-southeast-1.log.aliyuncs.com") ||
 shExpMatch(host, "*.fineclicks.com") ||
 shExpMatch(host, "*.finestherbalist.com") ||
 shExpMatch(host, "*.finestpiece.com") ||
-shExpMatch(host, "*.fingahvf.top") ||
 shExpMatch(host, "*.finitecube.com") ||
 shExpMatch(host, "*.fiona-s.net") ||
 shExpMatch(host, "*.fiona.ai.net") ||
@@ -12635,7 +12635,6 @@ shExpMatch(host, "*.tracemyip.org") ||
 shExpMatch(host, "*.traces.sr.roku.com") ||
 shExpMatch(host, "*.tracing-collector.strava.com") ||
 shExpMatch(host, "*.track-east.mobileadtrading.com") ||
-shExpMatch(host, "*.track-on.pl") ||
 shExpMatch(host, "*.track-resource.bidease.com") ||
 shExpMatch(host, "*.track-us.bidease.com") ||
 shExpMatch(host, "*.track.acclaimnetwork.com") ||
@@ -12832,7 +12831,6 @@ shExpMatch(host, "*.tracking.synthasite.net") ||
 shExpMatch(host, "*.tracking.thinkabt.com") ||
 shExpMatch(host, "*.tracking.tomsguide.com") ||
 shExpMatch(host, "*.tracking.tomshardware.com") ||
-shExpMatch(host, "*.tracking.trackchecker.net") ||
 shExpMatch(host, "*.tracking.trnox.com") ||
 shExpMatch(host, "*.tracking.ukwm.co.uk") ||
 shExpMatch(host, "*.tracking.utlservice.com") ||
@@ -13199,6 +13197,7 @@ shExpMatch(host, "*.usage.influxdata.com") ||
 shExpMatch(host, "*.usage.trackjs.com") ||
 shExpMatch(host, "*.usapromotravel.com") ||
 shExpMatch(host, "*.uscfootball.us") ||
+shExpMatch(host, "*.usdiagnosis.icocofun.com") ||
 shExpMatch(host, "*.use-cr.svr-algorix.com") ||
 shExpMatch(host, "*.use.convertglobal.com") ||
 shExpMatch(host, "*.usedexample.com") ||
@@ -13220,6 +13219,7 @@ shExpMatch(host, "*.usersonlinecounter.com") ||
 shExpMatch(host, "*.usertrack.appcpi.net") ||
 shExpMatch(host, "*.usmsad.tom.com") ||
 shExpMatch(host, "*.usp1.baidu.com") ||
+shExpMatch(host, "*.usstat.icocofun.com") ||
 shExpMatch(host, "*.utag.ijinshan.com") ||
 shExpMatch(host, "*.utarget.co.uk") ||
 shExpMatch(host, "*.utarget.ru") ||
@@ -19441,6 +19441,7 @@ shExpMatch(host, "easycounter.com") ||
 shExpMatch(host, "easyhitcounters.com") ||
 shExpMatch(host, "easyhits4u.com") ||
 shExpMatch(host, "eatablesquare.com") ||
+shExpMatch(host, "eats-ads-event-capture.coupang.com") ||
 shExpMatch(host, "ebayadvertising.com") ||
 shExpMatch(host, "ebdr2.com") ||
 shExpMatch(host, "ebdr3.com") ||
@@ -19989,7 +19990,6 @@ shExpMatch(host, "fineboost-loghub.ap-southeast-1.log.aliyuncs.com") ||
 shExpMatch(host, "fineclicks.com") ||
 shExpMatch(host, "finestherbalist.com") ||
 shExpMatch(host, "finestpiece.com") ||
-shExpMatch(host, "fingahvf.top") ||
 shExpMatch(host, "finitecube.com") ||
 shExpMatch(host, "fiona-s.net") ||
 shExpMatch(host, "fiona.ai.net") ||
@@ -26608,7 +26608,6 @@ shExpMatch(host, "tracemyip.org") ||
 shExpMatch(host, "traces.sr.roku.com") ||
 shExpMatch(host, "tracing-collector.strava.com") ||
 shExpMatch(host, "track-east.mobileadtrading.com") ||
-shExpMatch(host, "track-on.pl") ||
 shExpMatch(host, "track-resource.bidease.com") ||
 shExpMatch(host, "track-us.bidease.com") ||
 shExpMatch(host, "track.acclaimnetwork.com") ||
@@ -26805,7 +26804,6 @@ shExpMatch(host, "tracking.synthasite.net") ||
 shExpMatch(host, "tracking.thinkabt.com") ||
 shExpMatch(host, "tracking.tomsguide.com") ||
 shExpMatch(host, "tracking.tomshardware.com") ||
-shExpMatch(host, "tracking.trackchecker.net") ||
 shExpMatch(host, "tracking.trnox.com") ||
 shExpMatch(host, "tracking.ukwm.co.uk") ||
 shExpMatch(host, "tracking.utlservice.com") ||
@@ -27172,6 +27170,7 @@ shExpMatch(host, "usage.influxdata.com") ||
 shExpMatch(host, "usage.trackjs.com") ||
 shExpMatch(host, "usapromotravel.com") ||
 shExpMatch(host, "uscfootball.us") ||
+shExpMatch(host, "usdiagnosis.icocofun.com") ||
 shExpMatch(host, "use-cr.svr-algorix.com") ||
 shExpMatch(host, "use.convertglobal.com") ||
 shExpMatch(host, "usedexample.com") ||
@@ -27193,6 +27192,7 @@ shExpMatch(host, "usersonlinecounter.com") ||
 shExpMatch(host, "usertrack.appcpi.net") ||
 shExpMatch(host, "usmsad.tom.com") ||
 shExpMatch(host, "usp1.baidu.com") ||
+shExpMatch(host, "usstat.icocofun.com") ||
 shExpMatch(host, "utag.ijinshan.com") ||
 shExpMatch(host, "utarget.co.uk") ||
 shExpMatch(host, "utarget.ru") ||
