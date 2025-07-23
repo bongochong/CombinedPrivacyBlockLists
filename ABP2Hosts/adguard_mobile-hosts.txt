@@ -1,4 +1,4 @@
-# Thu Jul 10 07:34:26 PM UTC 2025
+# Wed Jul 23 02:35:03 AM UTC 2025
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -4577,6 +4577,7 @@
 0.0.0.0 gudja.iad-02.braze.com
 0.0.0.0 guess.mediav.com
 0.0.0.0 guessdetail.com
+0.0.0.0 guid.tpns.sgp.tencent.com
 0.0.0.0 guidecent.com
 0.0.0.0 guildalpha.com
 0.0.0.0 guiltlessbasketball.com
@@ -6906,7 +6907,10 @@
 0.0.0.0 promopassage.com
 0.0.0.0 promoted.sndcdn.com
 0.0.0.0 promoted.soundcloud.com
+0.0.0.0 promotion-en.xmeye.net
+0.0.0.0 promotion-quicker.jftechsoft.com
 0.0.0.0 promotion.polarisoffice.com
+0.0.0.0 promotion.xmeye.net
 0.0.0.0 promotionad.nvcam.net
 0.0.0.0 proofconvert.com
 0.0.0.0 prooffactor.com
@@ -8293,6 +8297,7 @@
 0.0.0.0 stat.meitudata.com
 0.0.0.0 stat.nsc-lab.io
 0.0.0.0 stat.pet
+0.0.0.0 stat.tpns.sgp.tencent.com
 0.0.0.0 stat.weamvideo.com
 0.0.0.0 stat.y.qq.com
 0.0.0.0 stat8.flashtalking.com
@@ -8996,6 +9001,7 @@
 0.0.0.0 tr-us.adsmoloco.com
 0.0.0.0 tr-v1.presage.io
 0.0.0.0 tr-vcode-od.vivoglobal.com
+0.0.0.0 tr.acobt.tech
 0.0.0.0 tr.ad-stir.com
 0.0.0.0 tr.blismedia.com
 0.0.0.0 tr.gunosy.com
@@ -9918,6 +9924,7 @@
 0.0.0.0 xdcs-collector.ximalaya.com
 0.0.0.0 xdrig.com
 0.0.0.0 xdssp.mediav.com
+0.0.0.0 xgdata.xoyo.games
 0.0.0.0 xiaomi-mipdx.cn.miaozhen.com
 0.0.0.0 ximad.com
 0.0.0.0 xlivrdr.com

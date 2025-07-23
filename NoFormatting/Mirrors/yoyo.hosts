@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 26 Jun 2025 13:06:55 GMT
-# entries:        3416
+# last updated:   Mon, 21 Jul 2025 14:11:11 GMT
+# entries:        3421
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -41,7 +41,6 @@
 127.0.0.1 77tracking.com
 127.0.0.1 7bpeople.com
 127.0.0.1 7cnq.net
-127.0.0.1 7search.com
 127.0.0.1 82o9v830.com
 127.0.0.1 a-ads.com
 127.0.0.1 a.mktw.net
@@ -142,7 +141,6 @@
 127.0.0.1 ad.reachlocal.com
 127.0.0.1 ad.simgames.net
 127.0.0.1 ad.style
-127.0.0.1 ad.tapthislink.com
 127.0.0.1 ad.technoratimedia.com
 127.0.0.1 ad.tv2.no
 127.0.0.1 ad.universcine.com
@@ -335,6 +333,7 @@
 127.0.0.1 ads-dev.pinterest.com
 127.0.0.1 ads-game-187f4.firebaseapp.com
 127.0.0.1 ads-img.mozilla.org
+127.0.0.1 ads-portal-cdn.vidaatv.net
 127.0.0.1 ads-trk.vidible.tv
 127.0.0.1 ads-twitter.com
 127.0.0.1 ads.365.mk
@@ -601,7 +600,6 @@
 127.0.0.1 ads.web.de
 127.0.0.1 ads.webinak.sk
 127.0.0.1 ads.webmasterpoint.org
-127.0.0.1 ads.websiteservices.com
 127.0.0.1 ads.whoishostingthis.com
 127.0.0.1 ads.wiezoekje.nl
 127.0.0.1 ads.wikia.nocookie.net
@@ -1063,6 +1061,7 @@
 127.0.0.1 bbn.img.com.ua
 127.0.0.1 beachfront.com
 127.0.0.1 beacon.gu-web.net
+127.0.0.1 beacon.netflix.com
 127.0.0.1 beacons.gcp.gvt2.com
 127.0.0.1 beacons.gvt2.com
 127.0.0.1 bebi.com
@@ -1187,6 +1186,7 @@
 127.0.0.1 cashfiesta.com
 127.0.0.1 cashpartner.com
 127.0.0.1 cashstaging.me
+127.0.0.1 casinopays.com
 127.0.0.1 casinorewards.com
 127.0.0.1 casinotraffic.com
 127.0.0.1 cattlecommittee.com
@@ -1270,6 +1270,7 @@
 127.0.0.1 click.nl.npr.org
 127.0.0.1 click.nvgaming.nvidia.com
 127.0.0.1 click.redditmail.com
+127.0.0.1 click.uber.com
 127.0.0.1 click.v.visionlab.es
 127.0.0.1 click2freemoney.com
 127.0.0.1 click360v2-ingest.azurewebsites.net
@@ -1419,6 +1420,7 @@
 127.0.0.1 cushiondrum.com
 127.0.0.1 customad.cnn.com
 127.0.0.1 customads.co
+127.0.0.1 customerevents.netflix.com
 127.0.0.1 customers.kameleoon.com
 127.0.0.1 cutechin.com
 127.0.0.1 cxense.com
@@ -1515,6 +1517,7 @@
 127.0.0.1 ecircle-ag.com
 127.0.0.1 ecleneue.com
 127.0.0.1 eclick.vn
+127.0.0.1 eclicks.deliveroo.com
 127.0.0.1 eclkmpbn.com
 127.0.0.1 eclkspbn.com
 127.0.0.1 ecoupons.com
@@ -1524,7 +1527,6 @@
 127.0.0.1 elasticchange.com
 127.0.0.1 elderlytown.com
 127.0.0.1 elitedollars.com
-127.0.0.1 elitetoplist.com
 127.0.0.1 em1.yoursantander.co.uk
 127.0.0.1 email-link.adtidy.info
 127.0.0.1 email-link.adtidy.net
@@ -1606,6 +1608,7 @@
 127.0.0.1 explorads.com
 127.0.0.1 exponea.com
 127.0.0.1 exponential.com
+127.0.0.1 exportdialog.com
 127.0.0.1 express-submit.de
 127.0.0.1 extractobservation.com
 127.0.0.1 extreme-dm.com
@@ -1843,7 +1846,6 @@
 127.0.0.1 ia.iinfo.cz
 127.0.0.1 iad.anm.co.uk
 127.0.0.1 iadnet.com
-127.0.0.1 iasds01.com
 127.0.0.1 ibillboard.com
 127.0.0.1 icptrack.com
 127.0.0.1 id5-sync.com
@@ -1925,7 +1927,6 @@
 127.0.0.1 iyfnzgb.com
 127.0.0.1 j93557g.com
 127.0.0.1 jads.co
-127.0.0.1 jauchuwa.net
 127.0.0.1 jcount.com
 127.0.0.1 jdoqocy.com
 127.0.0.1 jinkads.de
@@ -2008,6 +2009,7 @@
 127.0.0.1 li.walmart.com
 127.0.0.1 li.ziffimages.com
 127.0.0.1 liadm.com
+127.0.0.1 libraryfacts.com
 127.0.0.1 lifeimpressions.net
 127.0.0.1 liftdna.com
 127.0.0.1 ligatus.com
@@ -2295,6 +2297,7 @@
 127.0.0.1 nexage.com
 127.0.0.1 ng3.ads.warnerbros.com
 127.0.0.1 nitroclicks.com
+127.0.0.1 nmtracking.netflix.com
 127.0.0.1 noiselessplough.com
 127.0.0.1 nondescriptcrowd.com
 127.0.0.1 nondescriptnote.com
@@ -2484,7 +2487,6 @@
 127.0.0.1 popunder.ru
 127.0.0.1 popunhot1.blogspot.com
 127.0.0.1 popup.msn.com
-127.0.0.1 popupmoney.com
 127.0.0.1 popupnation.com
 127.0.0.1 popuptraffic.com
 127.0.0.1 porngraph.com
@@ -2699,8 +2701,10 @@
 127.0.0.1 rose.ixbt.com
 127.0.0.1 rotabanner.com
 127.0.0.1 roxr.net
+127.0.0.1 rpt-ads.vidaahub.com
 127.0.0.1 rqtrk.eu
 127.0.0.1 rs6.net
+127.0.0.1 rsc-ads.vidaahub.com
 127.0.0.1 rta.dailymail.co.uk
 127.0.0.1 rtb.gumgum.com
 127.0.0.1 rtbadzesto.com
@@ -3042,6 +3046,7 @@
 127.0.0.1 temelio.com
 127.0.0.1 tend.io
 127.0.0.1 tendertest.com
+127.0.0.1 ter-jrnl-oc.vidaahub.com
 127.0.0.1 terriblethumb.com
 127.0.0.1 text-link-ads.com
 127.0.0.1 textad.sexsearch.com
@@ -3231,6 +3236,7 @@
 127.0.0.1 undertone.com
 127.0.0.1 unidentifiedanalytics.web.app
 127.0.0.1 unloadyourself.com
+127.0.0.1 unruly.co
 127.0.0.1 unrulymedia.com
 127.0.0.1 untd.com
 127.0.0.1 unusualtitle.com
@@ -3358,7 +3364,6 @@
 127.0.0.1 wondoads.de
 127.0.0.1 woopra.com
 127.0.0.1 worldwide-cash.net
-127.0.0.1 worldwidedigitalads.com
 127.0.0.1 worriednumber.com
 127.0.0.1 wt-eu02.net
 127.0.0.1 wt.bankmillennium.pl
