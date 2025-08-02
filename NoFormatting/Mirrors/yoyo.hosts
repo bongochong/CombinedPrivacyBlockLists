@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 21 Jul 2025 14:11:11 GMT
-# entries:        3421
+# last updated:   Wed, 30 Jul 2025 07:30:29 GMT
+# entries:        3419
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -13,7 +13,6 @@
 #
 # start date:    Fri, 06 Jun 2003 00:00:00
 127.0.0.1 101com.com
-127.0.0.1 180hits.de
 127.0.0.1 180searchassistant.com
 127.0.0.1 1rx.io
 127.0.0.1 2020mustang.com
@@ -35,6 +34,7 @@
 127.0.0.1 4d5.net
 127.0.0.1 4info.com
 127.0.0.1 4jnzhl0d0.com
+127.0.0.1 50websads.com
 127.0.0.1 518ad.com
 127.0.0.1 6sc.co
 127.0.0.1 777partner.com
@@ -495,6 +495,7 @@
 127.0.0.1 ads.mic.com
 127.0.0.1 ads.mmania.com
 127.0.0.1 ads.mobilebet.com
+127.0.0.1 ads.mozilla.org
 127.0.0.1 ads.msn.com
 127.0.0.1 ads.multimania.lycos.fr
 127.0.0.1 ads.muslimehelfen.org
@@ -615,7 +616,6 @@
 127.0.0.1 ads1-adnow.com
 127.0.0.1 ads1.mediacapital.pt
 127.0.0.1 ads1.msn.com
-127.0.0.1 ads1.rne.com
 127.0.0.1 ads1.virtual-nights.com
 127.0.0.1 ads10.speedbit.com
 127.0.0.1 ads180.com
@@ -624,8 +624,6 @@
 127.0.0.1 ads2.femmefab.nl
 127.0.0.1 ads2.gamecity.net
 127.0.0.1 ads2.hsoub.com
-127.0.0.1 ads2.net-communities.co.uk
-127.0.0.1 ads2.rne.com
 127.0.0.1 ads2.virtual-nights.com
 127.0.0.1 ads2.webdrive.no
 127.0.0.1 ads2.xnet.cz
@@ -954,6 +952,7 @@
 127.0.0.1 as2.adserverhd.com
 127.0.0.1 aserv.motorsgate.com
 127.0.0.1 asewlfjqwlflkew.com
+127.0.0.1 askdriver.com
 127.0.0.1 aso1.net
 127.0.0.1 assets1.exgfnetwork.com
 127.0.0.1 assoc-amazon.com
@@ -1084,6 +1083,7 @@
 127.0.0.1 bidbarrel.cbsnews.com
 127.0.0.1 bidclix.com
 127.0.0.1 bidclix.net
+127.0.0.1 bidpapers.com
 127.0.0.1 bidr.io
 127.0.0.1 bidsopt.com
 127.0.0.1 bidswitch.net
@@ -1227,7 +1227,6 @@
 127.0.0.1 cjlog.com
 127.0.0.1 cl.turkishairlines.com
 127.0.0.1 cl0udh0st1ng.com
-127.0.0.1 claria.com
 127.0.0.1 clck.ru
 127.0.0.1 clevernt.com
 127.0.0.1 click-1.pl
@@ -1437,7 +1436,6 @@
 127.0.0.1 dakic-ia-300.com
 127.0.0.1 damageddistance.com
 127.0.0.1 damdoor.com
-127.0.0.1 dancemistake.com
 127.0.0.1 dapper.net
 127.0.0.1 data.namesakeoscilloscopemarquis.com
 127.0.0.1 datenow.link
@@ -1448,7 +1446,6 @@
 127.0.0.1 decisivebase.com
 127.0.0.1 decisivedrawer.com
 127.0.0.1 decknetwork.net
-127.0.0.1 decoycreation.com
 127.0.0.1 deepintent.com
 127.0.0.1 delicatecascade.com
 127.0.0.1 deloo.de
@@ -1650,6 +1647,7 @@
 127.0.0.1 flairadscpc.com
 127.0.0.1 flakyfeast.com
 127.0.0.1 flashtalking.com
+127.0.0.1 fleshlightcash.com
 127.0.0.1 flexbanner.com
 127.0.0.1 flimsycircle.com
 127.0.0.1 flimsythought.com
@@ -2152,7 +2150,6 @@
 127.0.0.1 mediavoice.com
 127.0.0.1 mediax.angloinfo.com
 127.0.0.1 mediaz.angloinfo.com
-127.0.0.1 mediumshort.com
 127.0.0.1 medleyads.com
 127.0.0.1 medyanetads.com
 127.0.0.1 meetrics.net
@@ -2606,6 +2603,7 @@
 127.0.0.1 rankchamp.de
 127.0.0.1 ranking-charts.de
 127.0.0.1 ranking-hits.de
+127.0.0.1 ranking-links.de
 127.0.0.1 rankingchart.de
 127.0.0.1 rankingscout.com
 127.0.0.1 rankyou.com
@@ -2649,7 +2647,6 @@
 127.0.0.1 reklamcsere.hu
 127.0.0.1 reklamdsp.com
 127.0.0.1 relmaxtop.com
-127.0.0.1 reloadphoto.com
 127.0.0.1 rememberdiscussion.com
 127.0.0.1 remox.com
 127.0.0.1 report-1.appmetrica.webvisor.com
@@ -2974,6 +2971,7 @@
 127.0.0.1 supertop100.com
 127.0.0.1 supply.colossusssp.com
 127.0.0.1 supportwaves.com
+127.0.0.1 surfmusik-adserver.de
 127.0.0.1 surveygizmobeacon.s3.amazonaws.com
 127.0.0.1 sw88.espn.com
 127.0.0.1 swan-swan-goose.com
@@ -3243,6 +3241,7 @@
 127.0.0.1 unwieldyhealth.com
 127.0.0.1 unwieldyimpulse.com
 127.0.0.1 upu.samsungelectronics.com
+127.0.0.1 urbanlaurel.com
 127.0.0.1 url9467.comms-2.zoopla.co.uk
 127.0.0.1 urlcash.net
 127.0.0.1 us.a1.yimg.com
@@ -3346,7 +3345,6 @@
 127.0.0.1 whisperingsummit.com
 127.0.0.1 whoisonline.net
 127.0.0.1 wickedreports.com
-127.0.0.1 widespace.com
 127.0.0.1 widget.educationdynamics.com
 127.0.0.1 widget.privy.com
 127.0.0.1 wikia-ads.wikia.com

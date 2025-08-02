@@ -1,4 +1,4 @@
-# Wed Jul 23 02:35:03 AM UTC 2025
+# Sat Aug  2 08:48:59 PM UTC 2025
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -3538,6 +3538,7 @@
 0.0.0.0 devs.data.mob.com
 0.0.0.0 dewdroplagoon.com
 0.0.0.0 dex50.deteql.net
+0.0.0.0 df.afafb.com
 0.0.0.0 df.mic.mob.com
 0.0.0.0 df.mob.com
 0.0.0.0 dfe.mic.mob.com
@@ -3774,6 +3775,7 @@
 0.0.0.0 echochief.com
 0.0.0.0 echoinghaven.com
 0.0.0.0 economicpizzas.com
+0.0.0.0 ecpm.afafb.com
 0.0.0.0 ecs.mantisadnetwork.com
 0.0.0.0 ecs.mb.moatads.com
 0.0.0.0 edge-west.customer.io
@@ -4325,6 +4327,7 @@
 0.0.0.0 gag.admulti.com
 0.0.0.0 gamaibids.com
 0.0.0.0 gameanalysis.appcpi.net
+0.0.0.0 gamedot.afafb.com
 0.0.0.0 gamerplay67.space
 0.0.0.0 gamestats.easybrain.com
 0.0.0.0 gammamaximum.com
@@ -4372,7 +4375,6 @@
 0.0.0.0 gdeslon.ru
 0.0.0.0 gdfp.gifshow.com
 0.0.0.0 gdl.i9dhjx.ru
-0.0.0.0 gdl.zmqdez.ru
 0.0.0.0 gdn.bigfishgames.com
 0.0.0.0 gdn.socdm.com
 0.0.0.0 gdpr.rw.yieldmo.com
@@ -5798,6 +5800,7 @@
 0.0.0.0 medias.cloud.ogury.io
 0.0.0.0 medias.presage.io
 0.0.0.0 mediatescarf.com
+0.0.0.0 mediation-receiver.afafb.com
 0.0.0.0 mediation-tracking.prd.mz.internal.unity3d.com
 0.0.0.0 mediation.adnxs.com
 0.0.0.0 mediation.fyber.com
@@ -5884,6 +5887,7 @@
 0.0.0.0 microad.jp
 0.0.0.0 microad.net
 0.0.0.0 mid.rkdms.com
+0.0.0.0 middle-defend.afafb.com
 0.0.0.0 middycdn-a.akamaihd.net
 0.0.0.0 midoweb.offerstrack.net
 0.0.0.0 mightyspiders.com
@@ -6017,6 +6021,7 @@
 0.0.0.0 movemeal.com
 0.0.0.0 mowfruit.com
 0.0.0.0 mozbar.moz.com
+0.0.0.0 mp-api.afafb.com
 0.0.0.0 mp.teads.tv
 0.0.0.0 mp5-wl.mobileposse.com
 0.0.0.0 mparticle.map.fastly.net
@@ -6468,6 +6473,7 @@
 0.0.0.0 pangle.io
 0.0.0.0 pangle.io.edgekey.net
 0.0.0.0 pangolin-sdk-toutiao-b.com
+0.0.0.0 pangolin-sdk-toutiao.com
 0.0.0.0 pangolin16.isnssdk.com
 0.0.0.0 pangolin16.sgsnssdk.com
 0.0.0.0 panickycurtain.com
@@ -8706,6 +8712,7 @@
 0.0.0.0 tackytrains.com
 0.0.0.0 tacoda.at.atwola.com
 0.0.0.0 tacoda.net
+0.0.0.0 tadata.afafb.com
 0.0.0.0 tag-st.contextweb.com
 0.0.0.0 tag.1rx.io
 0.0.0.0 tag.adincube.com
@@ -10015,6 +10022,7 @@
 0.0.0.0 zj.dcys.ijinshan.com
 0.0.0.0 zlp6s.pw
 0.0.0.0 zml-apm-prd.dbv4.noncd.db.de
+0.0.0.0 zmqdez.ru
 0.0.0.0 zoeacaring.com
 0.0.0.0 zonewedgeshaft.com
 0.0.0.0 zplayer-trk.zdn.vn

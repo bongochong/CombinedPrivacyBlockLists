@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 17 Jul 2025 at 17:42:54 GMT
+# Last updated: Sat, 02 Aug 2025 at 07:06:50 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2225,6 +2225,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 grossiste3d.fr
 0.0.0.0 groupeauto.fr
 0.0.0.0 groupom.fr
+0.0.0.0 gstscra.com
 0.0.0.0 gtamoding.fr
 0.0.0.0 guidelon.fr
 0.0.0.0 guiltygear.fr
@@ -5590,6 +5591,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 ads.morningstar.com
 0.0.0.0 ads.mouseplanet.com
 0.0.0.0 ads.movieweb.com
+0.0.0.0 ads.mozilla.org
 0.0.0.0 ads.mp.mydas.mobi
 0.0.0.0 ads.mp3searchy.com
 0.0.0.0 ads.mtv.uol.com.br
