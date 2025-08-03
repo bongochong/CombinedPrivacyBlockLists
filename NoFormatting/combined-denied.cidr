@@ -11177,6 +11177,7 @@ deny from 91.239.23.149/32
 deny from 91.240.15.18/32
 deny from 91.240.44.102/32
 deny from 91.240.118.0/24
+deny from 91.240.255.0/24
 deny from 91.241.19.0/24
 deny from 91.242.73.77/32
 deny from 91.242.200.112/32
