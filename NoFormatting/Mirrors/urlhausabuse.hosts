@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: 2025-08-02T12:10:47Z
+# Updated: 2025-08-03T00:11:08Z
 # Expires: 12 hours (update frequency)
 # Homepage: https://gitlab.com/malware-filter/urlhaus-filter
 # License: https://gitlab.com/malware-filter/urlhaus-filter#license
@@ -189,7 +189,6 @@
 0.0.0.0 aestheticbalance.bg
 0.0.0.0 af252586-b8bc-483a-8746-8f15528289b9.random.patria.duckdns.org
 0.0.0.0 affordableasphalt-paving.com
-0.0.0.0 afrihealthexpo.org
 0.0.0.0 agapi.cqjjb.cn
 0.0.0.0 agenciacrabli.com
 0.0.0.0 agricultural-brooks-nevertheless-hawk.trycloudflare.com
@@ -274,7 +273,6 @@
 0.0.0.0 arearugs.top
 0.0.0.0 arecosaldature.it
 0.0.0.0 arjen.top
-0.0.0.0 armanayegh.com
 0.0.0.0 arqnit.org.br
 0.0.0.0 artacom.com.br
 0.0.0.0 artscreenstudio.ru
@@ -299,7 +297,6 @@
 0.0.0.0 autotoll.shop
 0.0.0.0 av.ira-labs.network
 0.0.0.0 avanllc.top
-0.0.0.0 aviationpartners.aero
 0.0.0.0 avodaride.top
 0.0.0.0 axhelp.top
 0.0.0.0 ayeorganization.com
@@ -365,11 +362,11 @@
 0.0.0.0 blackhattoolz.com
 0.0.0.0 bleh.rip
 0.0.0.0 bleh.top
-0.0.0.0 blessdayservices.org
 0.0.0.0 blessedmeforever.wuaze.com
 0.0.0.0 blockchaintourism.xyz
 0.0.0.0 blognet.tg
 0.0.0.0 blzqq.press
+0.0.0.0 bmdcompany.com
 0.0.0.0 bmidrive.pro
 0.0.0.0 bobuq.press
 0.0.0.0 body.alwaysdata.net
@@ -499,9 +496,9 @@
 0.0.0.0 checksmart.site
 0.0.0.0 chenwangqiao.com
 0.0.0.0 chinaapper.com
+0.0.0.0 chinesegarden.com.tr
 0.0.0.0 chrome-update.pro
 0.0.0.0 chrome-upgrade.com
-0.0.0.0 chuguadventures.co.tz
 0.0.0.0 churchinmanila.org
 0.0.0.0 cia.tf
 0.0.0.0 ciaoai.cc
@@ -577,6 +574,7 @@
 0.0.0.0 cptchvrff.com
 0.0.0.0 crack.brovanti.com
 0.0.0.0 crazy-burnell.196-251-72-205.plesk.page
+0.0.0.0 crazywickedaddiction.com
 0.0.0.0 crew.organzoperate.com
 0.0.0.0 crimefreesoftware.com
 0.0.0.0 crolim.com
@@ -603,7 +601,6 @@
 0.0.0.0 cyleb.run
 0.0.0.0 cylud.ru
 0.0.0.0 cyruh.run
-0.0.0.0 cyxix.press
 0.0.0.0 czgazik.one
 0.0.0.0 d.14yaa.com
 0.0.0.0 d.kpzip.com
@@ -641,8 +638,10 @@
 0.0.0.0 dck.pistolsbeige.com
 0.0.0.0 dcontrol.kwaiicoin.agency
 0.0.0.0 dcrun.co.uk
+0.0.0.0 dcwblida.dz
 0.0.0.0 ddos678.com
 0.0.0.0 ddtech.kz
+0.0.0.0 de-privatkunden.com
 0.0.0.0 dealerpelumas.net
 0.0.0.0 dealers.pureitltd.com
 0.0.0.0 dealshubindia.in
@@ -777,6 +776,7 @@
 0.0.0.0 dev.southsideblackancestry.com
 0.0.0.0 device.redirec.com
 0.0.0.0 dezcom.com
+0.0.0.0 dezino.ir
 0.0.0.0 dffd520sst.shop
 0.0.0.0 dfsdferxc.com
 0.0.0.0 dhxhn1njedrgt.cloudfront.net
@@ -784,7 +784,6 @@
 0.0.0.0 diamotrix.world
 0.0.0.0 digital-childrens-junior-cure.trycloudflare.com
 0.0.0.0 diicotsec.ru
-0.0.0.0 dimmergauntlet.ru
 0.0.0.0 din.akurasiibl.com
 0.0.0.0 directsomdtinm.ydns.eu
 0.0.0.0 directxapps.shop
@@ -798,7 +797,6 @@
 0.0.0.0 dl.1003b.56a.com
 0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.asis.io
-0.0.0.0 dl.dzqzd.com
 0.0.0.0 dl.natgo.cn
 0.0.0.0 dlied6.bytes.tcdnos.com
 0.0.0.0 dlied6.yz.tcdnos.com
@@ -844,6 +842,7 @@
 0.0.0.0 driverupdate.ue3hdn4-cdnsecurefile.com
 0.0.0.0 dropcheats.pro
 0.0.0.0 dropthefile.com
+0.0.0.0 dusttv.com
 0.0.0.0 dwdwpld.pages.dev
 0.0.0.0 dweixin.cn
 0.0.0.0 dxs.info
@@ -909,7 +908,6 @@
 0.0.0.0 file-lin2.vercel.app
 0.0.0.0 file.blackint3.com
 0.0.0.0 file.edunet.ac
-0.0.0.0 file.elecfans.com
 0.0.0.0 file.tuff.cat
 0.0.0.0 file.uhsea.com
 0.0.0.0 file.volcano.best
@@ -1054,7 +1052,6 @@
 0.0.0.0 home-and-forum.com
 0.0.0.0 home.organzoperate.com
 0.0.0.0 home.southsideblackancestry.com
-0.0.0.0 host-195-103-203-106.business.telecomitalia.it
 0.0.0.0 host-95-230-215-65.business.telecomitalia.it
 0.0.0.0 host-95-255-114-11.business.telecomitalia.it
 0.0.0.0 host.mrighosting.info
@@ -1077,7 +1074,6 @@
 0.0.0.0 hyvur.run
 0.0.0.0 i0001.clarodrive.com
 0.0.0.0 iamnotarobot.sbs
-0.0.0.0 icoffeecloud.com
 0.0.0.0 idauth.id
 0.0.0.0 iddeng.com
 0.0.0.0 idfccard.com
@@ -1229,6 +1225,7 @@
 0.0.0.0 lmtdb.run
 0.0.0.0 lo.seculogo.sa.com
 0.0.0.0 loader.oxy.st
+0.0.0.0 local-update.com
 0.0.0.0 localmais.com.br
 0.0.0.0 login.kernaltpoiceplaned.com
 0.0.0.0 login.southsideblackancestry.com
@@ -1246,7 +1243,6 @@
 0.0.0.0 luminati-china.xyz
 0.0.0.0 luna.guard.plooza.pro
 0.0.0.0 lunazinvest.com
-0.0.0.0 lurup.press
 0.0.0.0 luuk-lifestyle.eu
 0.0.0.0 lx7v9.top
 0.0.0.0 lygep.ru
@@ -1349,6 +1345,7 @@
 0.0.0.0 mullvadvpn.site
 0.0.0.0 mundocarnes.cl
 0.0.0.0 muriaspetin.es
+0.0.0.0 muzzumilruheel.com
 0.0.0.0 mxbankerspro.com
 0.0.0.0 mxbankpro.com
 0.0.0.0 mxoilinvest.com
@@ -1365,6 +1362,7 @@
 0.0.0.0 mymin11.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0 mynode.olb-portals.net.tr
 0.0.0.0 mysql.southsideblackancestry.com
+0.0.0.0 myvcart.com
 0.0.0.0 myvideomanagerentry.s3.ap-northeast-1.amazonaws.com
 0.0.0.0 mywebh.kro.kr
 0.0.0.0 myxorra.com
@@ -1457,7 +1455,6 @@
 0.0.0.0 onlinetanecni.cz
 0.0.0.0 onlinewatchmovegirls.net
 0.0.0.0 onyxaquarius.de
-0.0.0.0 onyxarmorcrypt.de
 0.0.0.0 onyxcryptorix.de
 0.0.0.0 onyxcyberapex.de
 0.0.0.0 onyxcyberedge.de
@@ -1465,10 +1462,10 @@
 0.0.0.0 onyxfortitech.de
 0.0.0.0 onyxguardify.de
 0.0.0.0 onyxguardshift.de
+0.0.0.0 onyxguardwave.de
 0.0.0.0 onyxironvault.de
 0.0.0.0 onyxleo.de
 0.0.0.0 onyxnexguard.de
-0.0.0.0 onyxphantomlock.de
 0.0.0.0 onyxprotectech.de
 0.0.0.0 onyxsafecrypt.de
 0.0.0.0 onyxsafenova.de
@@ -1562,6 +1559,7 @@
 0.0.0.0 prepare.adroitbookkeeping.com
 0.0.0.0 prime1112.kesug.com
 0.0.0.0 pring.cloud.swtest.ru
+0.0.0.0 prloglink.prsa7.top
 0.0.0.0 proarte.rs
 0.0.0.0 probuildgroupusa.com
 0.0.0.0 proccess-verify.com
@@ -1651,6 +1649,7 @@
 0.0.0.0 raw.awaken-network.net
 0.0.0.0 raw.brrewsh.org
 0.0.0.0 raw.foxthreatnointel.vip
+0.0.0.0 razorcrypter.com
 0.0.0.0 rdmfile.eu
 0.0.0.0 records.dennisign.se
 0.0.0.0 recursing-villani.213-209-143-44.plesk.page
@@ -1713,7 +1712,6 @@
 0.0.0.0 sc-05.infinitycloud.org
 0.0.0.0 sc.connectprotocol.es
 0.0.0.0 scainseto.com.br
-0.0.0.0 scan-echo.online
 0.0.0.0 scf.com
 0.0.0.0 schenckel.com.br
 0.0.0.0 schetcik.online
@@ -1755,12 +1753,10 @@
 0.0.0.0 serwer2494677.home.pl
 0.0.0.0 set.oaksazure.su
 0.0.0.0 sf.grantmangy.top
-0.0.0.0 sfa.com.ar
 0.0.0.0 sg1.cnsc.cc
 0.0.0.0 sg123.net
 0.0.0.0 sgsmtp12.sgcloudhosting.com
 0.0.0.0 sgz-1302338321.cos.ap-guangzhou.myqcloud.com
-0.0.0.0 shangmei-test.oss-cn-beijing.aliyuncs.com
 0.0.0.0 sharefilesonline.net
 0.0.0.0 sharegolem.com
 0.0.0.0 sharenvpn.net
@@ -1771,7 +1767,6 @@
 0.0.0.0 shop.mediasova.ru
 0.0.0.0 shop.oljaeinfalt.com
 0.0.0.0 shopmeyxc.pro
-0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 sigmaboi.duckdns.org
 0.0.0.0 sihen.run
 0.0.0.0 sihologia2024.com
@@ -1788,6 +1783,7 @@
 0.0.0.0 skiller.kernaltpoiceplaned.com
 0.0.0.0 skinsonskinsmarket.info
 0.0.0.0 smart-american.com
+0.0.0.0 smeetspost.nl
 0.0.0.0 smtp.nota-fiscal.email
 0.0.0.0 smtp.southsideblackancestry.com
 0.0.0.0 smtp261.storeroom-headgear.com
@@ -1815,7 +1811,6 @@
 0.0.0.0 sorov.run
 0.0.0.0 sos-atlanta.com
 0.0.0.0 sovetskiy228.github.io
-0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 sparksofattraction.com
 0.0.0.0 speed.brovanti.com
 0.0.0.0 sphd-ci.com
@@ -1827,7 +1822,6 @@
 0.0.0.0 ss-01.com
 0.0.0.0 ssagovdocumont.com
 0.0.0.0 ssghostierconnect.com
-0.0.0.0 ssl.ftp21.cc
 0.0.0.0 sso.believersfaith.com
 0.0.0.0 ssro.xyz
 0.0.0.0 stanprinston.com
@@ -1836,6 +1830,7 @@
 0.0.0.0 static.3001.net
 0.0.0.0 static.ilclock.com
 0.0.0.0 static.topxgun.com
+0.0.0.0 static.zongheng.com
 0.0.0.0 staticfile-6eec8.wasmer.app
 0.0.0.0 staticfile-71e3d.wasmer.app
 0.0.0.0 stattcheck-intuiit.com
@@ -1904,6 +1899,7 @@
 0.0.0.0 tecunonline.com
 0.0.0.0 tek.xekatax966.workers.dev
 0.0.0.0 tekezaya.masterbigserverclas.workers.dev
+0.0.0.0 teknotown.com
 0.0.0.0 telegram-success.com.ua
 0.0.0.0 telegram-success.live
 0.0.0.0 telegramcn.co
@@ -1987,7 +1983,6 @@
 0.0.0.0 turbogliderig.pro
 0.0.0.0 turegalo.com
 0.0.0.0 tvkladovo.com
-0.0.0.0 u1.dimmergauntlet.ru
 0.0.0.0 u1.dynamicrename.run
 0.0.0.0 u1.lax0.ru
 0.0.0.0 u1.vad6.ru
@@ -2173,7 +2168,6 @@
 0.0.0.0 xtibh.com
 0.0.0.0 xtkdt.run
 0.0.0.0 xuyso.su
-0.0.0.0 xww.bucea.edu.cn
 0.0.0.0 xyffqh.com
 0.0.0.0 yeklam.com
 0.0.0.0 yettigretrading.com

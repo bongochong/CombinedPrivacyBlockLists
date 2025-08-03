@@ -1,5 +1,5 @@
 # Title: Online Malicious Hosts Blocklist
-# Updated: 2025-08-02T12:10:47Z
+# Updated: 2025-08-03T00:11:08Z
 # Expires: 12 hours (update frequency)
 # Homepage: https://gitlab.com/malware-filter/urlhaus-filter
 # License: https://gitlab.com/malware-filter/urlhaus-filter#license
@@ -38,10 +38,8 @@
 0.0.0.0 acms.saleseos.com
 0.0.0.0 admin.byte.in.ua
 0.0.0.0 admin.gestroom.it
-0.0.0.0 adobeh.com
 0.0.0.0 advansys.com.ar
 0.0.0.0 advustech.com
-0.0.0.0 afrihealthexpo.org
 0.0.0.0 agapi.cqjjb.cn
 0.0.0.0 ah-scanning.oss-cn-hongkong.aliyuncs.com
 0.0.0.0 alarmline.com.br
@@ -59,7 +57,6 @@
 0.0.0.0 api.ewfiles.net
 0.0.0.0 app-store.s3.cn-north-1.jdcloud-oss.com
 0.0.0.0 ardguisser.com
-0.0.0.0 armanayegh.com
 0.0.0.0 artacom.com.br
 0.0.0.0 artscreenstudio.ru
 0.0.0.0 as.ddos678.com
@@ -69,7 +66,6 @@
 0.0.0.0 attach.mail.daum.net
 0.0.0.0 aulist.com
 0.0.0.0 automobile-bk.de
-0.0.0.0 aviationpartners.aero
 0.0.0.0 axhelp.top
 0.0.0.0 backupso.com
 0.0.0.0 bafybeidvf6tytrspkd4wnvxzs23m3kjr6bfvgszbfwybmmcosl4rrhvuo4.ipfs.dweb.link
@@ -80,7 +76,7 @@
 0.0.0.0 bestieslos.com
 0.0.0.0 biz-lynx.com.au
 0.0.0.0 blackhattoolz.com
-0.0.0.0 blessdayservices.org
+0.0.0.0 bmdcompany.com
 0.0.0.0 body.alwaysdata.net
 0.0.0.0 bon.organzoperate.com
 0.0.0.0 book.organzoperate.com
@@ -96,6 +92,7 @@
 0.0.0.0 c3poolbat.oss-accelerate.aliyuncs.com
 0.0.0.0 c9791c08-f1e4-4402-9510-d04c13c50ea3.selstorage.ru
 0.0.0.0 camp.organzoperate.com
+0.0.0.0 cast.organzoperate.com
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cc9.ne.jp
 0.0.0.0 ccilogistica.com.br
@@ -116,7 +113,7 @@
 0.0.0.0 checkinetverifk.com
 0.0.0.0 chenwangqiao.com
 0.0.0.0 chinaapper.com
-0.0.0.0 chuguadventures.co.tz
+0.0.0.0 chinesegarden.com.tr
 0.0.0.0 churchinmanila.org
 0.0.0.0 city.organzoperate.com
 0.0.0.0 class1004.dothome.co.kr
@@ -131,6 +128,7 @@
 0.0.0.0 contentmentfairnesspesky.com
 0.0.0.0 continentalgroup.net.in
 0.0.0.0 cooptraexxon.com
+0.0.0.0 crazywickedaddiction.com
 0.0.0.0 crew.organzoperate.com
 0.0.0.0 crimefreesoftware.com
 0.0.0.0 crolim.com
@@ -152,23 +150,22 @@
 0.0.0.0 data.yhydl.com
 0.0.0.0 davaorealproperty.com
 0.0.0.0 dcrun.co.uk
+0.0.0.0 dcwblida.dz
 0.0.0.0 deltabehavioralhealth.org
 0.0.0.0 device.redirec.com
 0.0.0.0 dezcom.com
+0.0.0.0 dezino.ir
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 divametalart.com
 0.0.0.0 dive.organzoperate.com
 0.0.0.0 dl.1003b.56a.com
 0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.asis.io
-0.0.0.0 dl.dzqzd.com
 0.0.0.0 dl.natgo.cn
 0.0.0.0 dlied6.bytes.tcdnos.com
 0.0.0.0 dlied6.yz.tcdnos.com
 0.0.0.0 dongyu.us
 0.0.0.0 donkeytourscroatia.com
-0.0.0.0 dori8501.ddns.net
-0.0.0.0 dori8585.global.ssl.fastly.net
 0.0.0.0 doujinshi.in
 0.0.0.0 down.54nb.com
 0.0.0.0 down.pcclear.com
@@ -184,6 +181,7 @@
 0.0.0.0 download.pdf00.cn
 0.0.0.0 download.pdf00.com
 0.0.0.0 download.suxiazai.com
+0.0.0.0 dusttv.com
 0.0.0.0 dweixin.cn
 0.0.0.0 ecs-1-94-222-140.compute.hwclouds-dns.com
 0.0.0.0 ecs-124-70-158-53.compute.hwclouds-dns.com
@@ -199,7 +197,6 @@
 0.0.0.0 fasdv.duckdns.org
 0.0.0.0 file.blackint3.com
 0.0.0.0 file.edunet.ac
-0.0.0.0 file.elecfans.com
 0.0.0.0 flyingmutts.com
 0.0.0.0 fnvimoyvwkbxbmczlqus.supabase.co
 0.0.0.0 forms.saurashtrauniversity.edu
@@ -225,13 +222,11 @@
 0.0.0.0 hogarsancamilo.org
 0.0.0.0 hollywoodcafeonmain.com
 0.0.0.0 home.organzoperate.com
-0.0.0.0 host-195-103-203-106.business.telecomitalia.it
 0.0.0.0 host-95-230-215-65.business.telecomitalia.it
 0.0.0.0 host-95-255-114-11.business.telecomitalia.it
 0.0.0.0 hotelembuguacu.blob.core.windows.net
 0.0.0.0 hotellacastellana.com.uy
 0.0.0.0 i0001.clarodrive.com
-0.0.0.0 icoffeecloud.com
 0.0.0.0 iiiconstruction.net
 0.0.0.0 imtoken8.cc
 0.0.0.0 innaflux.com
@@ -266,12 +261,11 @@
 0.0.0.0 liddar.ca
 0.0.0.0 lindenappliances.co.za
 0.0.0.0 lindnerelektroanlagen.de
-0.0.0.0 lmaitfy-beta.vercel.app
 0.0.0.0 loader.oxy.st
+0.0.0.0 local-update.com
 0.0.0.0 lomejordesalamanca.es
 0.0.0.0 luuk-lifestyle.eu
 0.0.0.0 maidforyou1985.com
-0.0.0.0 matrix.masscan.cloud
 0.0.0.0 me3.ne.jp
 0.0.0.0 medises.co.kr
 0.0.0.0 merctransfers.gradycares.com
@@ -285,7 +279,9 @@
 0.0.0.0 msoftdatastore.z22.web.core.windows.net
 0.0.0.0 mundocarnes.cl
 0.0.0.0 muriaspetin.es
+0.0.0.0 muzzumilruheel.com
 0.0.0.0 mymin11.oss-cn-hangzhou.aliyuncs.com
+0.0.0.0 myvcart.com
 0.0.0.0 namaacont.com
 0.0.0.0 namthaibinh.net
 0.0.0.0 namuvpn.com
@@ -309,7 +305,6 @@
 0.0.0.0 onlinehotvideos.com
 0.0.0.0 onlinetanecni.cz
 0.0.0.0 onyxaquarius.de
-0.0.0.0 onyxarmorcrypt.de
 0.0.0.0 onyxcryptorix.de
 0.0.0.0 onyxcyberapex.de
 0.0.0.0 onyxcyberedge.de
@@ -317,10 +312,10 @@
 0.0.0.0 onyxfortitech.de
 0.0.0.0 onyxguardify.de
 0.0.0.0 onyxguardshift.de
+0.0.0.0 onyxguardwave.de
 0.0.0.0 onyxironvault.de
 0.0.0.0 onyxleo.de
 0.0.0.0 onyxnexguard.de
-0.0.0.0 onyxphantomlock.de
 0.0.0.0 onyxprotectech.de
 0.0.0.0 onyxsafecrypt.de
 0.0.0.0 onyxsafenova.de
@@ -353,6 +348,7 @@
 0.0.0.0 playtown.co.za
 0.0.0.0 pns.org.pk
 0.0.0.0 posicionamientonatural.es
+0.0.0.0 prloglink.prsa7.top
 0.0.0.0 procuratio.nu
 0.0.0.0 programandojuntos.us.tempcloudsite.com
 0.0.0.0 projetodegente.com
@@ -364,6 +360,7 @@
 0.0.0.0 qlqd5zqefmkcr34a.onion.sh
 0.0.0.0 quanlyphongnet.com
 0.0.0.0 ramactools.net
+0.0.0.0 razorcrypter.com
 0.0.0.0 records.dennisign.se
 0.0.0.0 redeamazoniaazul.org
 0.0.0.0 redlk.com
@@ -381,22 +378,19 @@
 0.0.0.0 sanhack.com
 0.0.0.0 savaswsd.duckdns.org
 0.0.0.0 scainseto.com.br
-0.0.0.0 scan-echo.online
 0.0.0.0 schenckel.com.br
 0.0.0.0 science-payments-comics-dom.trycloudflare.com
 0.0.0.0 sconnect-01.connectprotocol.es
 0.0.0.0 screen.connectprotocol.es
 0.0.0.0 server.toeicswt.co.kr
-0.0.0.0 sfa.com.ar
 0.0.0.0 sg123.net
 0.0.0.0 sgsmtp12.sgcloudhosting.com
 0.0.0.0 sgz-1302338321.cos.ap-guangzhou.myqcloud.com
-0.0.0.0 shangmei-test.oss-cn-beijing.aliyuncs.com
 0.0.0.0 sharegolem.com
 0.0.0.0 shop.mediasova.ru
-0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 silver-hubdachwohnwagen.de
 0.0.0.0 sk-comtel.com
+0.0.0.0 smeetspost.nl
 0.0.0.0 soft.110route.com
 0.0.0.0 soft.wsyhn.com
 0.0.0.0 softbank126023203236.bbtec.net
@@ -404,18 +398,16 @@
 0.0.0.0 softdl2.360tpcdn.com
 0.0.0.0 softdl4.360.cn
 0.0.0.0 solutelco.com
-0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 spoar.org.in
 0.0.0.0 src1.minibai.com
 0.0.0.0 ss-01.com
-0.0.0.0 ssl.ftp21.cc
 0.0.0.0 staplebrokenmetaliyro.blogspot.com
 0.0.0.0 starcountry.net
 0.0.0.0 static.3001.net
 0.0.0.0 static.ilclock.com
 0.0.0.0 static.topxgun.com
+0.0.0.0 static.zongheng.com
 0.0.0.0 stdown.dinju.com
-0.0.0.0 stioman.com
 0.0.0.0 stonecradle.com
 0.0.0.0 storage.webfiledata.com
 0.0.0.0 streammobs.com
@@ -435,6 +427,7 @@
 0.0.0.0 tdejb.com
 0.0.0.0 techgeeks.org
 0.0.0.0 tecunonline.com
+0.0.0.0 teknotown.com
 0.0.0.0 telegramcn.co
 0.0.0.0 temirtau-adm.ru
 0.0.0.0 tengfeidn.com
@@ -447,6 +440,7 @@
 0.0.0.0 tirtasentosa.com
 0.0.0.0 tiwanlinm.duckdns.org
 0.0.0.0 tobecation.github.io
+0.0.0.0 top1miku.duckdns.org
 0.0.0.0 treinamento.convenio.to.gov.br
 0.0.0.0 trtmyanmar.com
 0.0.0.0 trungtambaohanhmaylanh.com
@@ -496,8 +490,6 @@
 0.0.0.0 xn--on3b15m2lco2u.com
 0.0.0.0 xn--yh4bx88a.com
 0.0.0.0 xnhauvietnam.vietnamddns.com
-0.0.0.0 xshop.com.tr
-0.0.0.0 xww.bucea.edu.cn
 0.0.0.0 xyffqh.com
 0.0.0.0 yongtai.cn
 0.0.0.0 ysbaojia.com
