@@ -1,4 +1,4 @@
-# Sun Aug  3 02:50:40 AM UTC 2025
+# Sun Aug 10 02:58:39 AM UTC 2025
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -442,6 +442,7 @@
 0.0.0.0 ad.flipboard.com
 0.0.0.0 ad.hot-mob.com
 0.0.0.0 ad.inston.ltd
+0.0.0.0 ad.intools.dev
 0.0.0.0 ad.iwhop.cn
 0.0.0.0 ad.jiguang.cn
 0.0.0.0 ad.jorte.com
@@ -668,6 +669,7 @@
 0.0.0.0 ads-sdk.mattel163.com
 0.0.0.0 ads-sdk.nianticlabs.com
 0.0.0.0 ads-secure.videohub.tv
+0.0.0.0 ads-segment-profile-noneu.truecaller.com
 0.0.0.0 ads-server.mxplay.com
 0.0.0.0 ads-static.phonepe.com
 0.0.0.0 ads-twitter.com
@@ -1219,6 +1221,7 @@
 0.0.0.0 analytics.mopub.com
 0.0.0.0 analytics.moz.com
 0.0.0.0 analytics.nianticlabs.com
+0.0.0.0 analytics.nianticspatial.com
 0.0.0.0 analytics.nike.com
 0.0.0.0 analytics.nova.foxsports.com
 0.0.0.0 analytics.picsart.com
@@ -2117,6 +2120,7 @@
 0.0.0.0 beha.ksmobile.com
 0.0.0.0 behacdn.ksmobile.net
 0.0.0.0 behance.vo.llnwd.net
+0.0.0.0 beijingzhongnanhai.com
 0.0.0.0 belgikanst.iad-03.braze.com
 0.0.0.0 benthose.com
 0.0.0.0 bepolite.eu
@@ -3660,6 +3664,7 @@
 0.0.0.0 dramaticcondition.com
 0.0.0.0 dramaticdirection.com
 0.0.0.0 drawservant.com
+0.0.0.0 drbbzzs.xyz
 0.0.0.0 dreamycanyon.com
 0.0.0.0 dressexpansion.com
 0.0.0.0 drfdisvc.walmart.com
@@ -4750,7 +4755,6 @@
 0.0.0.0 html-img.revcontent.com
 0.0.0.0 html5.adsrvr.org
 0.0.0.0 html5.gamemonetize.com
-0.0.0.0 httpdns-push.heytapmobile.com
 0.0.0.0 httpdns.bilivideo.com
 0.0.0.0 httpkafka.unityads.unity3d.com
 0.0.0.0 httpool.com
@@ -5235,6 +5239,7 @@
 0.0.0.0 justconfig.com
 0.0.0.0 justicejudo.com
 0.0.0.0 justwebcards.com
+0.0.0.0 jybsb9oyss.com
 0.0.0.0 jzwjq.ads.tremorhub.com
 0.0.0.0 k.streamrail.com
 0.0.0.0 k.tcp.push.mob.com
@@ -6555,6 +6560,7 @@
 0.0.0.0 perf.mmstat.com
 0.0.0.0 perf.teads.tv.edgekey.net
 0.0.0.0 performancehorizon.com
+0.0.0.0 perfsight.wetest.net
 0.0.0.0 periodicpocket.com
 0.0.0.0 perkyjade.com
 0.0.0.0 permutive.com
@@ -7040,6 +7046,7 @@
 0.0.0.0 qa-events-schema.viacom.tech
 0.0.0.0 qc.smartadserver.com
 0.0.0.0 qccoccocmedia.vn
+0.0.0.0 qcloud-sg-datareceiver.kurogame.xyz
 0.0.0.0 qcx.quantserve.com
 0.0.0.0 qds0l.publishers.tremorhub.com
 0.0.0.0 qist.me
@@ -8396,6 +8403,8 @@
 0.0.0.0 staticcc.com
 0.0.0.0 statics-marketingsites-eus-ms-com.akamaized.net
 0.0.0.0 statics-marketingsites-neu-ms-com.akamaized.net
+0.0.0.0 statistic-overseas.yunxinfw.com
+0.0.0.0 statistical-report.djiservice.org
 0.0.0.0 stats-5-split-vohnu.s.innovid.com.akadns.net
 0.0.0.0 stats-a.maxthon.com
 0.0.0.0 stats-dev.brid.tv
@@ -8935,6 +8944,7 @@
 0.0.0.0 tinytendency.com
 0.0.0.0 tiredthroat.com
 0.0.0.0 tiresomethunder.com
+0.0.0.0 tiu6ij9yqn.com
 0.0.0.0 tivan.naver.com
 0.0.0.0 tizerclik.com
 0.0.0.0 tj.ijinshan.com
@@ -9645,6 +9655,7 @@
 0.0.0.0 vn-gmtdmp.mookie1.com
 0.0.0.0 vn-platform.bidgear.com
 0.0.0.0 vnet.cn
+0.0.0.0 vniddlg.xyz
 0.0.0.0 vntsm.com
 0.0.0.0 vod-mplayer.sooplive.co.kr
 0.0.0.0 vodafonetr.sc.omtrdc.net
