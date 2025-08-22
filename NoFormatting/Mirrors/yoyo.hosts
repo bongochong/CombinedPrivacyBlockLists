@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 05 Aug 2025 15:17:49 GMT
-# entries:        3419
+# last updated:   Thu, 21 Aug 2025 10:33:04 GMT
+# entries:        3425
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -929,6 +929,7 @@
 127.0.0.1 api.kameleoon.com
 127.0.0.1 api.lab.amplitude.com
 127.0.0.1 api.rudderlabs.com
+127.0.0.1 api.swetrix.com
 127.0.0.1 api2.amplitude.com
 127.0.0.1 apolloprogram.io
 127.0.0.1 app-analytics-v2.snapchat.com
@@ -993,6 +994,7 @@
 127.0.0.1 b3.videoamp.com
 127.0.0.1 ba.afl.rakuten.co.jp
 127.0.0.1 backbeatmedia.com
+127.0.0.1 bagsurprise.com
 127.0.0.1 banik.redigy.cz
 127.0.0.1 banner.ambercoastcasino.com
 127.0.0.1 banner.buempliz-online.ch
@@ -1066,7 +1068,6 @@
 127.0.0.1 beacons.gvt2.com
 127.0.0.1 bebi.com
 127.0.0.1 beemray.com
-127.0.0.1 begun.ru
 127.0.0.1 behavioralengine.com
 127.0.0.1 belstat.com
 127.0.0.1 belstat.nl
@@ -1618,6 +1619,7 @@
 127.0.0.1 fabric.io
 127.0.0.1 fadedsnow.com
 127.0.0.1 fairfeeling.com
+127.0.0.1 fakedisguise.com
 127.0.0.1 fallaciousfifth.com
 127.0.0.1 fam-ad.com
 127.0.0.1 farethief.com
@@ -1791,6 +1793,7 @@
 127.0.0.1 hightrafficads.com
 127.0.0.1 hilariouszinc.com
 127.0.0.1 histats.com
+127.0.0.1 historytrade.com
 127.0.0.1 hit-parade.com
 127.0.0.1 hit.ua
 127.0.0.1 hit.webcentre.lycos.co.uk
@@ -1831,6 +1834,7 @@
 127.0.0.1 hueadsortb.com
 127.0.0.1 hueadsxml.com
 127.0.0.1 hurricanedigitalmedia.com
+127.0.0.1 hustlercoach.com
 127.0.0.1 hydraconcept.com
 127.0.0.1 hydramedia.com
 127.0.0.1 hyperbanner.net
@@ -1924,6 +1928,7 @@
 127.0.0.1 iyfnzgb.com
 127.0.0.1 j93557g.com
 127.0.0.1 jads.co
+127.0.0.1 jamexport.com
 127.0.0.1 jcount.com
 127.0.0.1 jdoqocy.com
 127.0.0.1 jinkads.de
@@ -1968,6 +1973,7 @@
 127.0.0.1 l6b587txj1.com
 127.0.0.1 lakequincy.com
 127.0.0.1 lameletters.com
+127.0.0.1 landkarts.com
 127.0.0.1 larati.net
 127.0.0.1 largebrass.com
 127.0.0.1 laughcloth.com
@@ -2181,6 +2187,7 @@
 127.0.0.1 microstatic.pl
 127.0.0.1 microticker.com
 127.0.0.1 milotree.com
+127.0.0.1 mineinvoice.com
 127.0.0.1 minewhat.com
 127.0.0.1 mintegral.com
 127.0.0.1 mittencattle.com
@@ -2228,7 +2235,6 @@
 127.0.0.1 mtree.com
 127.0.0.1 munchkin.marketo.net
 127.0.0.1 mundanenail.com
-127.0.0.1 mundanepollution.com
 127.0.0.1 musiccounter.ru
 127.0.0.1 muteknife.com
 127.0.0.1 muwmedia.com
@@ -2483,6 +2489,7 @@
 127.0.0.1 popunder.ru
 127.0.0.1 popunhot1.blogspot.com
 127.0.0.1 popup.msn.com
+127.0.0.1 popupmoney.com
 127.0.0.1 popupnation.com
 127.0.0.1 popuptraffic.com
 127.0.0.1 porngraph.com
@@ -2679,7 +2686,6 @@
 127.0.0.1 richmails.com
 127.0.0.1 richstring.com
 127.0.0.1 rightstats.com
-127.0.0.1 riktok.pl
 127.0.0.1 ringplant.com
 127.0.0.1 ringsrecord.com
 127.0.0.1 ritzyrepresentative.com

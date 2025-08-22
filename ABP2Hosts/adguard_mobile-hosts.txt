@@ -1,4 +1,4 @@
-# Sun Aug 10 02:58:39 AM UTC 2025
+# Fri Aug 22 04:16:05 AM UTC 2025
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -497,6 +497,7 @@
 0.0.0.0 adapex.io
 0.0.0.0 adapi.inlcorp.com
 0.0.0.0 adapter.kaffnet.com
+0.0.0.0 adash-emas.cn-hangzhou.aliyuncs.com
 0.0.0.0 adash.m.taobao.com
 0.0.0.0 adash.man.aliyuncs.com
 0.0.0.0 adashx.ut.alibaba.com
@@ -2098,6 +2099,8 @@
 0.0.0.0 beacon.tingyun.com
 0.0.0.0 beacon.tru.am
 0.0.0.0 beacon.ztgame.com
+0.0.0.0 beacons-prod.fubo.tv
+0.0.0.0 beacons.ads.fubo.tv
 0.0.0.0 beacons.extremereach.io
 0.0.0.0 beacons.mediamelon.com
 0.0.0.0 beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com
@@ -3089,6 +3092,7 @@
 0.0.0.0 consciouschairs.com
 0.0.0.0 consciouscheese.com
 0.0.0.0 consciousdirt.com
+0.0.0.0 consent.easybrain.com
 0.0.0.0 consent.mediaforge.com
 0.0.0.0 considermice.com
 0.0.0.0 consistpotato.com
@@ -3234,6 +3238,7 @@
 0.0.0.0 critictruck.com
 0.0.0.0 crittercism.com
 0.0.0.0 crookedcreature.com
+0.0.0.0 cross-promo-provider.easybrain.com
 0.0.0.0 cross-promo.mwx.ext.mobilityware.com
 0.0.0.0 crossadsapi.ecomobileapp.com
 0.0.0.0 crossboardmobile.com
@@ -3723,6 +3728,7 @@
 0.0.0.0 dustyhammer.com
 0.0.0.0 dustyrabbits.com
 0.0.0.0 dustywave.com
+0.0.0.0 dutils.com
 0.0.0.0 dvgtm.akadns.net
 0.0.0.0 dynamic-report-api.appsflyersdk.com
 0.0.0.0 dynamic.criteo.com
@@ -3992,6 +3998,7 @@
 0.0.0.0 events.claspws.tv
 0.0.0.0 events.engager.ecbsn.com
 0.0.0.0 events.foreseeresults.com
+0.0.0.0 events.fubo.tv
 0.0.0.0 events.funnelish.com
 0.0.0.0 events.iap.unity3d.com
 0.0.0.0 events.ifunny.co
@@ -4312,6 +4319,7 @@
 0.0.0.0 fvl1f.pw
 0.0.0.0 fw.adsafeprotected.com
 0.0.0.0 fwmrm.net
+0.0.0.0 fxlcvd.icu
 0.0.0.0 fyber.com
 0.0.0.0 fyc.heyzap.com
 0.0.0.0 g.3gl.net
@@ -4509,6 +4517,7 @@
 0.0.0.0 gocarrot.com
 0.0.0.0 gocm.c.appier.net
 0.0.0.0 godlygeese.com
+0.0.0.0 goi08150kh.com
 0.0.0.0 goldfishgrowth.com
 0.0.0.0 goldspotmedia.com
 0.0.0.0 goload.wecloud.io
@@ -4737,6 +4746,7 @@
 0.0.0.0 honorableland.com
 0.0.0.0 hook.integromat.com
 0.0.0.0 horizon.sailthru.com
+0.0.0.0 horsed44.com
 0.0.0.0 hospitablehall.com
 0.0.0.0 hospitablehat.com
 0.0.0.0 hosting-source.bm23.com
@@ -5458,6 +5468,7 @@
 0.0.0.0 log.adsplay.net
 0.0.0.0 log.adtimaserver.vn
 0.0.0.0 log.adywind.com
+0.0.0.0 log.aliyuncs.com
 0.0.0.0 log.api.zaloapp.com
 0.0.0.0 log.apk.v-mate.mobi
 0.0.0.0 log.apkomega.com
@@ -6297,6 +6308,7 @@
 0.0.0.0 offers.cdn.natpal.com
 0.0.0.0 offerwall-adnative.com
 0.0.0.0 offerwall.yandex.net
+0.0.0.0 okloib88.com
 0.0.0.0 olc.yodo1api.com
 0.0.0.0 oldevent.togothermany.com
 0.0.0.0 oldfashionedoffer.com
@@ -6344,6 +6356,7 @@
 0.0.0.0 open.talk.igexin.com
 0.0.0.0 openapi.cymera.com
 0.0.0.0 openbid.pubmatic.com
+0.0.0.0 openlog.tapapis.cn
 0.0.0.0 openrtb.cootlogix.com
 0.0.0.0 opensharecount.com
 0.0.0.0 openstat.net
@@ -7468,6 +7481,7 @@
 0.0.0.0 s2s.mparticle.com
 0.0.0.0 s2s.singular.net
 0.0.0.0 s3-analytics-events.easybrain.com
+0.0.0.0 s3-ca-liveops.easybrain.com
 0.0.0.0 s3.lightboxcdn.com
 0.0.0.0 s3.ttpsdk.info
 0.0.0.0 s3cf.flashtalking.com
@@ -9104,6 +9118,7 @@
 0.0.0.0 tracker.ulivetv.net
 0.0.0.0 tracker.winudf.com
 0.0.0.0 trackernew.ulivetv.net
+0.0.0.0 trackers.fubo.tv
 0.0.0.0 trackers.voodoo-analytics.io
 0.0.0.0 trackersdk.bdash-cloud.com
 0.0.0.0 trackersimulator.org
