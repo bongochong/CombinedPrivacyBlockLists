@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 14 Aug 2025 at 21:46:23 GMT
+# Last updated: Sun, 31 Aug 2025 at 17:27:41 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1877,6 +1877,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 canadapost.helpdag.top
 0.0.0.0 canadapost.postescanadad.xyz
 0.0.0.0 canadapostarticle.com
+0.0.0.0 capital-invest-can.cropvita.sbs
 0.0.0.0 capitalregionusa.fr
 0.0.0.0 capostdelivery.com
 0.0.0.0 carac-terres.fr
