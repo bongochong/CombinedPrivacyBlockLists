@@ -1,11 +1,11 @@
 # Title: Online Malicious Hosts Blocklist
-# Updated: 2025-09-02T00:10:42Z
+# Updated: 2025-09-03T00:10:52Z
 # Expires: 12 hours (update frequency)
 # Homepage: https://gitlab.com/malware-filter/urlhaus-filter
 # License: https://gitlab.com/malware-filter/urlhaus-filter#license
 # Source: https://urlhaus.abuse.ch/api/
 0.0.0.0 1-engineer.ru
-0.0.0.0 11.jujosuu4.ru
+0.0.0.0 10086623.top
 0.0.0.0 111101111.ru
 0.0.0.0 123.ywxww.net
 0.0.0.0 132.red-81-42-249.staticip.rima-tde.net
@@ -34,8 +34,8 @@
 0.0.0.0 admin.byte.in.ua
 0.0.0.0 admin.gestroom.it
 0.0.0.0 advansys.com.ar
+0.0.0.0 adver.com.br
 0.0.0.0 advustech.com
-0.0.0.0 afrihealthexpo.org
 0.0.0.0 agapi.cqjjb.cn
 0.0.0.0 ah-scanning.oss-cn-hongkong.aliyuncs.com
 0.0.0.0 airlife.bget.ru
@@ -45,13 +45,11 @@
 0.0.0.0 amuletweb.com
 0.0.0.0 anapa-zarya.ru
 0.0.0.0 antvietnam.com
-0.0.0.0 anyhoo.testeaza.eu
 0.0.0.0 api.chimera-hosting.zip
 0.0.0.0 app-monespaces-securpass-assurances.art
 0.0.0.0 app-store.s3.cn-north-1.jdcloud-oss.com
 0.0.0.0 apple-service93.ru
 0.0.0.0 ardguisser.com
-0.0.0.0 areyouready.co.za
 0.0.0.0 artacom.com.br
 0.0.0.0 artscreenstudio.ru
 0.0.0.0 asakoko.cekuj.net
@@ -65,8 +63,10 @@
 0.0.0.0 automobile-bk.de
 0.0.0.0 babayaga.ro
 0.0.0.0 backupso.com
+0.0.0.0 bafybeiczynxttyfuspwnuinsw54och2tkicvhh3czwlxvmjlvjfkabw764.ipfs.dweb.link
 0.0.0.0 bafybeidvf6tytrspkd4wnvxzs23m3kjr6bfvgszbfwybmmcosl4rrhvuo4.ipfs.dweb.link
 0.0.0.0 balkarsoftware.cubistech.com
+0.0.0.0 bamautzky.de
 0.0.0.0 bankgarantia.ru
 0.0.0.0 barrysploitbucket.s3.us-west-2.amazonaws.com
 0.0.0.0 benshamcentre.co.uk
@@ -92,14 +92,12 @@
 0.0.0.0 bruplong.oss-accelerate.aliyuncs.com
 0.0.0.0 buscascolegios.diit.cl
 0.0.0.0 buzz.organzoperate.com
-0.0.0.0 bypass188v144.xyz
 0.0.0.0 c0e5b87c.solaraweb-alj.pages.dev
 0.0.0.0 c3436037.salamanderprocessing.pages.dev
 0.0.0.0 c9791c08-f1e4-4402-9510-d04c13c50ea3.selstorage.ru
 0.0.0.0 camp.organzoperate.com
 0.0.0.0 caravella.com.br
 0.0.0.0 carusoadvogados.com.br
-0.0.0.0 cast.organzoperate.com
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cc9.ne.jp
 0.0.0.0 ccilogistica.com.br
@@ -117,7 +115,6 @@
 0.0.0.0 cfs7.blog.daum.net
 0.0.0.0 cfs9.blog.daum.net
 0.0.0.0 cfu.twr.mybluehost.me
-0.0.0.0 ch.hekulei5.ru
 0.0.0.0 chaparral.es
 0.0.0.0 chaparstore.com
 0.0.0.0 chat-server.maverickpreviews.com
@@ -141,8 +138,10 @@
 0.0.0.0 confeccionescoinffaa.cl
 0.0.0.0 connection.connectprotocol.es
 0.0.0.0 constrainthome080doc-1318069902.cos.ap-chengdu.myqcloud.com
+0.0.0.0 contadorgfa.organiccrap.com
 0.0.0.0 continentalgroup.net.in
 0.0.0.0 cooptraexxon.com
+0.0.0.0 corresponsaldenoticias.com
 0.0.0.0 couturellin.com
 0.0.0.0 crazywickedaddiction.com
 0.0.0.0 crew.organzoperate.com
@@ -152,6 +151,7 @@
 0.0.0.0 cs.go.kg
 0.0.0.0 csg-app.com
 0.0.0.0 ct3-24.ru
+0.0.0.0 ctsfactory.com
 0.0.0.0 cutting-edge.in
 0.0.0.0 cvawrs.duckdns.org
 0.0.0.0 d.14yaa.com
@@ -187,10 +187,11 @@
 0.0.0.0 dongyu.us
 0.0.0.0 donkeytourscroatia.com
 0.0.0.0 down.54nb.com
+0.0.0.0 down.ftp21.cc
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
+0.0.0.0 down.ruanmei.com
 0.0.0.0 down10d.zol.com.cn
-0.0.0.0 download.caihong.com
 0.0.0.0 download.doumaibiji.cn
 0.0.0.0 download.haozip.com
 0.0.0.0 download.innovare.no
@@ -200,11 +201,7 @@
 0.0.0.0 download.suxiazai.com
 0.0.0.0 download01.anxiousai.com
 0.0.0.0 download01.sharkeagle.com
-0.0.0.0 download03.pdfgj.com
-0.0.0.0 download04.pdfgj.com
-0.0.0.0 download05.pdfgj.com
 0.0.0.0 drgenov.com
-0.0.0.0 dro.pm
 0.0.0.0 dusttv.com
 0.0.0.0 dweixin.cn
 0.0.0.0 dynamicmemchannel.com
@@ -222,6 +219,7 @@
 0.0.0.0 essentialsignaltunnel.com
 0.0.0.0 evangroup.ru
 0.0.0.0 evoribusiness.com
+0.0.0.0 ewg.jujosuu4.ru
 0.0.0.0 exot1c.vercel.app
 0.0.0.0 f24-zfcloud.zdn.vn
 0.0.0.0 f3i5-0g49bgn-3h95-1324992141.cos.ap-jakarta.myqcloud.com
@@ -274,6 +272,7 @@
 0.0.0.0 icoffeecloud.com
 0.0.0.0 iiiconstruction.net
 0.0.0.0 imtoken8.cc
+0.0.0.0 info-2go.com
 0.0.0.0 ingonherbal.com
 0.0.0.0 innaflux.com
 0.0.0.0 institut-corps-a-ligne.fr
@@ -286,6 +285,7 @@
 0.0.0.0 j-0-09g-9bh-h-ggf-1324992141.cos.ap-bangkok.myqcloud.com
 0.0.0.0 jakestrack.com
 0.0.0.0 jayexecutive.co.ke
+0.0.0.0 jd-forever.com
 0.0.0.0 jeantetfamily.com
 0.0.0.0 jkshaonv.com
 0.0.0.0 jnhelp.top
@@ -304,7 +304,6 @@
 0.0.0.0 kelvingee.hys.cz
 0.0.0.0 kokopellz.4fan.cz
 0.0.0.0 konsor.ru
-0.0.0.0 kosmetolodzy.com
 0.0.0.0 kramersmarionnettes.com
 0.0.0.0 kriez.work
 0.0.0.0 krishnaplastpack.com
@@ -319,6 +318,7 @@
 0.0.0.0 livetrack.in
 0.0.0.0 loader.oxy.st
 0.0.0.0 local-update.com
+0.0.0.0 loe.jujosuu4.ru
 0.0.0.0 lomejordesalamanca.es
 0.0.0.0 luuk-lifestyle.eu
 0.0.0.0 m-global.hksty.net
@@ -326,7 +326,6 @@
 0.0.0.0 maidforyou1985.com
 0.0.0.0 main.dsn.ovh
 0.0.0.0 mandarin.net.au
-0.0.0.0 masgrave.com
 0.0.0.0 me3.ne.jp
 0.0.0.0 medises.co.kr
 0.0.0.0 merctransfers.gradycares.com
@@ -335,22 +334,16 @@
 0.0.0.0 metrics.gocloudmaps.com
 0.0.0.0 mi2think.com
 0.0.0.0 michellegraci.com
-0.0.0.0 micromacrotechbase.com
 0.0.0.0 mininews.kpzip.com
-0.0.0.0 missileperformance.hu
-0.0.0.0 mitreart.com
 0.0.0.0 mixturro.com
 0.0.0.0 modernitgen.com
 0.0.0.0 mogimall.com
-0.0.0.0 mohamedayesh.com
 0.0.0.0 moonloaderupdate.ru
 0.0.0.0 msoftdatastore.z22.web.core.windows.net
 0.0.0.0 mundocarnes.cl
-0.0.0.0 muriaspetin.es
 0.0.0.0 myvcart.com
 0.0.0.0 namaacont.com
 0.0.0.0 namthaibinh.net
-0.0.0.0 namuvpn.com
 0.0.0.0 ncxps.com
 0.0.0.0 ndirection.kr
 0.0.0.0 nerve.untergrund.net
@@ -363,6 +356,7 @@
 0.0.0.0 ofice365.github.io
 0.0.0.0 ojang.pe.kr
 0.0.0.0 okhan.net
+0.0.0.0 oknoplastik.sk
 0.0.0.0 old.bullydog.com
 0.0.0.0 old.umcl.us
 0.0.0.0 olingerphoto.com
@@ -386,7 +380,6 @@
 0.0.0.0 onyxprotectech.de
 0.0.0.0 onyxsafecrypt.de
 0.0.0.0 onyxsafenova.de
-0.0.0.0 onyxsafetrack.de
 0.0.0.0 onyxsecuregate.de
 0.0.0.0 onyxsentinelx.de
 0.0.0.0 onyxshieldcore.de
@@ -403,11 +396,9 @@
 0.0.0.0 p6.zbjimg.com
 0.0.0.0 palharesinformatica.com.br
 0.0.0.0 papillo.jecool.net
-0.0.0.0 passagem-aviao.com
 0.0.0.0 patricstoremegans2.com
 0.0.0.0 pay.aqiu6.com
 0.0.0.0 pcupd.com
-0.0.0.0 pdffilehub.net
 0.0.0.0 phpmyadmin.hebergement.ml-shop-fr.com
 0.0.0.0 pid.fly160.com
 0.0.0.0 planetariumobil.ro
@@ -447,7 +438,7 @@
 0.0.0.0 salonmarketing.ca
 0.0.0.0 sanghyun.nfile.net
 0.0.0.0 sanhack.com
-0.0.0.0 saturn-zakupky.space
+0.0.0.0 saocloud.icu
 0.0.0.0 savaswsd.duckdns.org
 0.0.0.0 scainseto.com.br
 0.0.0.0 scan-echo.online
@@ -466,6 +457,7 @@
 0.0.0.0 sgz-1302338321.cos.ap-guangzhou.myqcloud.com
 0.0.0.0 shaderm.com
 0.0.0.0 shangmei-test.oss-cn-beijing.aliyuncs.com
+0.0.0.0 sharegolem.com
 0.0.0.0 shark-watewer.com
 0.0.0.0 shipminttracking.net
 0.0.0.0 shop.mediasova.ru
@@ -485,7 +477,6 @@
 0.0.0.0 solutelco.com
 0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 spider-wamp.com
-0.0.0.0 spoar.org.in
 0.0.0.0 spst.hqup.in
 0.0.0.0 src1.minibai.com
 0.0.0.0 ss-01.com
@@ -532,7 +523,6 @@
 0.0.0.0 top1miku.duckdns.org
 0.0.0.0 topmedsolution.com
 0.0.0.0 tpp.tj
-0.0.0.0 transmitcdnzion.com
 0.0.0.0 transparenciacanaa.com.br
 0.0.0.0 treinamento.convenio.to.gov.br
 0.0.0.0 trtmyanmar.com
@@ -552,7 +542,6 @@
 0.0.0.0 users.atw.hu
 0.0.0.0 uyul.oss-cn-beijing.aliyuncs.com
 0.0.0.0 vaamsmgfreocmroe-1342087530.cos.sa-saopaulo.myqcloud.com
-0.0.0.0 vagler.ru
 0.0.0.0 vaibhavtripathi.in
 0.0.0.0 vastkupan.com
 0.0.0.0 vcpesaas.com
@@ -579,6 +568,7 @@
 0.0.0.0 wp.grovespras.com
 0.0.0.0 writerartist.com
 0.0.0.0 ww-poet-cohen-guided.trycloudflare.com
+0.0.0.0 wwmariners.com
 0.0.0.0 www999999asgasg-1327129302.cos.ap-chengdu.myqcloud.com
 0.0.0.0 www999999safagqwhg-1327129302.cos.ap-chengdu.myqcloud.com
 0.0.0.0 wz.3911.com
@@ -592,6 +582,7 @@
 0.0.0.0 xn--yh4bx88a.com
 0.0.0.0 xshop.com.tr
 0.0.0.0 xuezha.net
+0.0.0.0 xww.bucea.edu.cn
 0.0.0.0 xyffqh.com
 0.0.0.0 yahyacarpet.com
 0.0.0.0 yongtai.cn
@@ -603,4 +594,5 @@
 0.0.0.0 zenglobalenerji.com
 0.0.0.0 zhengxinpeixun.oss-cn-qingdao.aliyuncs.com
 0.0.0.0 zhikey.com
+0.0.0.0 zistpolymer.com
 0.0.0.0 zlonline.oss-cn-shenzhen.aliyuncs.com

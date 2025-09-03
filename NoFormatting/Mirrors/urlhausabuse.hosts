@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: 2025-09-02T00:10:42Z
+# Updated: 2025-09-03T00:10:52Z
 # Expires: 12 hours (update frequency)
 # Homepage: https://gitlab.com/malware-filter/urlhaus-filter
 # License: https://gitlab.com/malware-filter/urlhaus-filter#license
@@ -11,6 +11,7 @@
 0.0.0.0 1.izumisv1.cc
 0.0.0.0 1005.filemail.com
 0.0.0.0 1008.filemail.com
+0.0.0.0 10086623.top
 0.0.0.0 11.jujosuu4.ru
 0.0.0.0 111.190.202.64.host.secureserver.net
 0.0.0.0 111101111.ru
@@ -186,11 +187,11 @@
 0.0.0.0 advancedinternalan.net
 0.0.0.0 advancedtransmitart.net
 0.0.0.0 advansys.com.ar
+0.0.0.0 adver.com.br
 0.0.0.0 advustech.com
 0.0.0.0 aestheticbalance.bg
 0.0.0.0 af252586-b8bc-483a-8746-8f15528289b9.random.patria.duckdns.org
 0.0.0.0 affordableasphalt-paving.com
-0.0.0.0 afrihealthexpo.org
 0.0.0.0 agapi.cqjjb.cn
 0.0.0.0 agenciacrabli.com
 0.0.0.0 ah-scanning.oss-cn-hongkong.aliyuncs.com
@@ -214,8 +215,6 @@
 0.0.0.0 alphabitcapital.info
 0.0.0.0 amazeriencequant.net
 0.0.0.0 amazon-us53.com
-0.0.0.0 ambankpay.com
-0.0.0.0 ams1.vultrobjects.com
 0.0.0.0 amuletweb.com
 0.0.0.0 amzsecure5sklp.duckdns.org
 0.0.0.0 analytics.citrosucoeventos.com
@@ -226,7 +225,6 @@
 0.0.0.0 antvietnam.com
 0.0.0.0 anydeesk.ink
 0.0.0.0 anydeske.icu
-0.0.0.0 anyhoo.testeaza.eu
 0.0.0.0 apartmenr-di15.click
 0.0.0.0 apex.mk
 0.0.0.0 apexkolp.today
@@ -291,6 +289,7 @@
 0.0.0.0 automation.org.ua
 0.0.0.0 automobile-bk.de
 0.0.0.0 autotoll.shop
+0.0.0.0 avast.cucy.ru
 0.0.0.0 ayeorganization.com
 0.0.0.0 azurlogistics.net
 0.0.0.0 b0tn3t.mong666.org
@@ -303,12 +302,14 @@
 0.0.0.0 baco.costariga.de
 0.0.0.0 bacre.costariga.de
 0.0.0.0 badabyms.site
+0.0.0.0 bafybeiczynxttyfuspwnuinsw54och2tkicvhh3czwlxvmjlvjfkabw764.ipfs.dweb.link
 0.0.0.0 bafybeidvf6tytrspkd4wnvxzs23m3kjr6bfvgszbfwybmmcosl4rrhvuo4.ipfs.dweb.link
 0.0.0.0 bafybeidvf6tytrspkd4wnvxzs23m3kjr6bfvgszbfwybmmcosl4rrhvuo4.ipfs.w3s.link
 0.0.0.0 balan.ru.com
 0.0.0.0 balistat.lol
 0.0.0.0 balkarsoftware.cubistech.com
 0.0.0.0 ballotlinllc.top
+0.0.0.0 bamautzky.de
 0.0.0.0 bambionfleek.com
 0.0.0.0 bango.free.nf
 0.0.0.0 bankgarantia.ru
@@ -323,7 +324,6 @@
 0.0.0.0 bedoueroom.top
 0.0.0.0 bee496bd.pythonanywhere.com
 0.0.0.0 beecz.cafe
-0.0.0.0 bendahacokseviyorum.com
 0.0.0.0 bennet.kesug.com
 0.0.0.0 benshamcentre.co.uk
 0.0.0.0 bernnaum.com
@@ -361,7 +361,6 @@
 0.0.0.0 body.alwaysdata.net
 0.0.0.0 bodypopo.darrenofficial.com
 0.0.0.0 bokneg.com
-0.0.0.0 bold-accepts-wide-te.trycloudflare.com
 0.0.0.0 bon.organzoperate.com
 0.0.0.0 book.organzoperate.com
 0.0.0.0 book.rollingvideogames.com
@@ -503,7 +502,6 @@
 0.0.0.0 cloudflare.blazing-cloud.com
 0.0.0.0 clouds-verrify.com
 0.0.0.0 cloudsyncs.xyz
-0.0.0.0 cloudth.net
 0.0.0.0 club.organzoperate.com
 0.0.0.0 cnc.phazerproxy.online
 0.0.0.0 cnc.zinomc.com
@@ -540,6 +538,7 @@
 0.0.0.0 connectmediumduo.org
 0.0.0.0 consorzio-tfc.it
 0.0.0.0 constrainthome080doc-1318069902.cos.ap-chengdu.myqcloud.com
+0.0.0.0 contadorgfa.organiccrap.com
 0.0.0.0 continentalgroup.net.in
 0.0.0.0 controlbox.it
 0.0.0.0 cook.organzoperate.com
@@ -550,6 +549,7 @@
 0.0.0.0 correctwion.click
 0.0.0.0 correo7.shop
 0.0.0.0 correospanama.cc
+0.0.0.0 corresponsaldenoticias.com
 0.0.0.0 cosmic-cheats.com
 0.0.0.0 couriontesy.com
 0.0.0.0 couturellin.com
@@ -561,6 +561,7 @@
 0.0.0.0 crazywickedaddiction.com
 0.0.0.0 crew.organzoperate.com
 0.0.0.0 crimefreesoftware.com
+0.0.0.0 crisp.cucy.ru
 0.0.0.0 crixlands.xyz
 0.0.0.0 crolim.com
 0.0.0.0 cross-editor.gl.at.ply.gg
@@ -574,6 +575,7 @@
 0.0.0.0 csg-app.com
 0.0.0.0 csis.costariga.de
 0.0.0.0 ct3-24.ru
+0.0.0.0 ctsfactory.com
 0.0.0.0 ctx3.com
 0.0.0.0 curve-sewing-metropolitan-bi.trycloudflare.com
 0.0.0.0 customer-delivery-out.vercel.app
@@ -789,12 +791,13 @@
 0.0.0.0 doublemanfs.com
 0.0.0.0 dow.895628.xyz
 0.0.0.0 down.54nb.com
+0.0.0.0 down.ftp21.cc
 0.0.0.0 down.magicpacketlease.org
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
+0.0.0.0 down.ruanmei.com
 0.0.0.0 down10d.zol.com.cn
 0.0.0.0 download-servers.com
-0.0.0.0 download.caihong.com
 0.0.0.0 download.doumaibiji.cn
 0.0.0.0 download.haozip.com
 0.0.0.0 download.innovare.no
@@ -866,6 +869,7 @@
 0.0.0.0 everygooodnews.com
 0.0.0.0 evoribusiness.com
 0.0.0.0 evoribusiness.com4
+0.0.0.0 ewg.jujosuu4.ru
 0.0.0.0 exemplar-industry.com
 0.0.0.0 exortsoft.pro
 0.0.0.0 exot1c.vercel.app
@@ -878,7 +882,6 @@
 0.0.0.0 faggot.comslut.xyz
 0.0.0.0 fakers.co.jp
 0.0.0.0 falconmx.top
-0.0.0.0 fanciful-gelato-78b95c.netlify.app
 0.0.0.0 far.joumizni.de
 0.0.0.0 fasdv.duckdns.org
 0.0.0.0 fastest.ct.ws
@@ -904,7 +907,6 @@
 0.0.0.0 filehostfree.netlify.app
 0.0.0.0 filehosting-6rc.pages.dev
 0.0.0.0 filerift.com
-0.0.0.0 files-accl.zohoexternal.com
 0.0.0.0 files.joumizni.de
 0.0.0.0 fingerprint.kernaltpoiceplaned.com
 0.0.0.0 firefoxmozilla.duckdns.org
@@ -978,7 +980,6 @@
 0.0.0.0 guosong.top
 0.0.0.0 h1dd-page.com
 0.0.0.0 h4.chatterscalded.top
-0.0.0.0 h4.confidantthieving.space
 0.0.0.0 h4.deforestmortality.top
 0.0.0.0 h4.disbeliefpapaya.top
 0.0.0.0 h4.obstinateenticing.lat
@@ -1047,6 +1048,7 @@
 0.0.0.0 imtoken8.cc
 0.0.0.0 in-mum-m11.icewarpcloud.in
 0.0.0.0 industries-ii-wine-details.trycloudflare.com
+0.0.0.0 info-2go.com
 0.0.0.0 info-ups.com
 0.0.0.0 informahot.com
 0.0.0.0 infotic.cl
@@ -1081,6 +1083,7 @@
 0.0.0.0 javasplugin.com
 0.0.0.0 jayexecutive.co.ke
 0.0.0.0 jbvpshosti.com
+0.0.0.0 jd-forever.com
 0.0.0.0 jeantetfamily.com
 0.0.0.0 jellyfin.goldenhope.de
 0.0.0.0 jezzasnetwork.com
@@ -1126,7 +1129,6 @@
 0.0.0.0 kokopellz.4fan.cz
 0.0.0.0 konsor.ru
 0.0.0.0 kopin5896yi.xyz
-0.0.0.0 kosmetolodzy.com
 0.0.0.0 kramersmarionnettes.com
 0.0.0.0 kriez.work
 0.0.0.0 krishnaplastpack.com
@@ -1151,7 +1153,6 @@
 0.0.0.0 lena255f.beget.tech
 0.0.0.0 lena25vp.beget.tech
 0.0.0.0 letrucvert.com
-0.0.0.0 lighthost.lovestoblog.com
 0.0.0.0 lightsense.top
 0.0.0.0 lindenappliances.co.za
 0.0.0.0 lindnerelektroanlagen.de
@@ -1163,15 +1164,16 @@
 0.0.0.0 linkury.s3-us-west-2.amazonaws.com
 0.0.0.0 linomu.com
 0.0.0.0 linsenbach.com
-0.0.0.0 listen-hard.com
 0.0.0.0 livetrack.in
 0.0.0.0 lmaitfy-beta.vercel.app
 0.0.0.0 loader.oxy.st
 0.0.0.0 loaders-4dt.pages.dev
 0.0.0.0 local-update.com
 0.0.0.0 localmais.com.br
+0.0.0.0 loe.jujosuu4.ru
 0.0.0.0 login.kernaltpoiceplaned.com
 0.0.0.0 login.southsideblackancestry.com
+0.0.0.0 logistics.xo.je
 0.0.0.0 logs.joumizni.de
 0.0.0.0 lol-julian-impossible-bermuda.trycloudflare.com
 0.0.0.0 lol.0x504.com
@@ -1200,7 +1202,6 @@
 0.0.0.0 mail.amzsecure5sklp.duckdns.org
 0.0.0.0 mail.fuckingfor.live
 0.0.0.0 mail.houseoffindom.com
-0.0.0.0 mail.macml-sconnect-com.it.com
 0.0.0.0 mail.mestierecolombia.com
 0.0.0.0 mail.southsideblackancestry.com
 0.0.0.0 mail.ssadownload.top
@@ -1217,7 +1218,6 @@
 0.0.0.0 mark.kernaltpoiceplaned.com
 0.0.0.0 markcheck.kernaltpoiceplaned.com
 0.0.0.0 market-lumma.ru
-0.0.0.0 masgrave.com
 0.0.0.0 mastertechnics.co.rs
 0.0.0.0 matrix.masscan.cloud
 0.0.0.0 maxwallfoods.com
@@ -1253,21 +1253,17 @@
 0.0.0.0 minneapolis-dealt-taking-clerk.trycloudflare.com
 0.0.0.0 minute-madonna-cakes-supplemental.trycloudflare.com
 0.0.0.0 misshon.com
-0.0.0.0 missileperformance.hu
 0.0.0.0 mistlatch.click
-0.0.0.0 mitreart.com
 0.0.0.0 mixturro.com
 0.0.0.0 mizunoaoi.com
 0.0.0.0 mncxzswedf.lovestoblog.com
 0.0.0.0 modernitgen.com
 0.0.0.0 moe.livesync.hyghbyte.com
-0.0.0.0 mogilux.com.br
 0.0.0.0 mogimall.com
 0.0.0.0 mohamedayesh.com
 0.0.0.0 moncolissimo-fr.com
 0.0.0.0 mondial-relay-fr.com
 0.0.0.0 mong666.duckdns.org
-0.0.0.0 monumental-marigold-0dac27.netlify.app
 0.0.0.0 moonloaderupdate.ru
 0.0.0.0 mopiq.joumizni.de
 0.0.0.0 morebitro.com
@@ -1275,6 +1271,7 @@
 0.0.0.0 morteone.duckdns.org
 0.0.0.0 moruk.xyz
 0.0.0.0 motre.jbvpshosti.com
+0.0.0.0 mrsitvm.org
 0.0.0.0 mrst2020.mse.mcut.edu.tw
 0.0.0.0 ms-team-ping2.com
 0.0.0.0 msoftdatastore.z22.web.core.windows.net
@@ -1304,7 +1301,6 @@
 0.0.0.0 naldlh.jumpingcrab.com
 0.0.0.0 namaacont.com
 0.0.0.0 namthaibinh.net
-0.0.0.0 namuvpn.com
 0.0.0.0 ncxps.com
 0.0.0.0 ndirection.kr
 0.0.0.0 ndjvmuvkoahnopfqn2jpva.on.drv.tw
@@ -1364,6 +1360,7 @@
 0.0.0.0 ojang.pe.kr
 0.0.0.0 ok.fish-cloud-jar.us
 0.0.0.0 okhan.net
+0.0.0.0 oknoplastik.sk
 0.0.0.0 old.bullydog.com
 0.0.0.0 old.umcl.us
 0.0.0.0 olingerphoto.com
@@ -1391,7 +1388,6 @@
 0.0.0.0 onyxprotectech.de
 0.0.0.0 onyxsafecrypt.de
 0.0.0.0 onyxsafenova.de
-0.0.0.0 onyxsafetrack.de
 0.0.0.0 onyxsecuregate.de
 0.0.0.0 onyxsentinelx.de
 0.0.0.0 onyxshieldcore.de
@@ -1439,13 +1435,14 @@
 0.0.0.0 pdf-working.net
 0.0.0.0 pdffacts.net
 0.0.0.0 pdffilehub.net
-0.0.0.0 peaceful-marzipan-bacb25.netlify.app
+0.0.0.0 peerless-support.org
 0.0.0.0 peremogemmo.com.ua
 0.0.0.0 peremogimo.com.ua
 0.0.0.0 perpetualleadsformula.com
 0.0.0.0 petrofac-files.cloud
 0.0.0.0 petrofac-files.com
 0.0.0.0 pf.vozunaa0.ru
+0.0.0.0 ph.safofoe5.ru
 0.0.0.0 phannarith.com
 0.0.0.0 phant3.lovestoblog.com
 0.0.0.0 phone-nis-tu.club
@@ -1645,6 +1642,7 @@
 0.0.0.0 sgz-1302338321.cos.ap-guangzhou.myqcloud.com
 0.0.0.0 shaderm.com
 0.0.0.0 shangmei-test.oss-cn-beijing.aliyuncs.com
+0.0.0.0 sharegolem.com
 0.0.0.0 shark-watewer.com
 0.0.0.0 shein-commande.com
 0.0.0.0 shein-info-fr.com
@@ -1693,7 +1691,6 @@
 0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 sphd-ci.com
 0.0.0.0 spider-wamp.com
-0.0.0.0 spoar.org.in
 0.0.0.0 spost.vip
 0.0.0.0 spst.hqup.in
 0.0.0.0 squarefilein.com
@@ -1717,10 +1714,8 @@
 0.0.0.0 static.zongheng.com
 0.0.0.0 staticfile-6eec8.wasmer.app
 0.0.0.0 staticfile-71e3d.wasmer.app
-0.0.0.0 statuesque-praline-1be80d.netlify.app
 0.0.0.0 statuevert.4pu.com
 0.0.0.0 stdown.dinju.com
-0.0.0.0 stellar-gumption-ea9fd6.netlify.app
 0.0.0.0 sterlingpropertygroup.com.au
 0.0.0.0 stioman.com
 0.0.0.0 stonecradle.com
@@ -1739,7 +1734,6 @@
 0.0.0.0 sumitbiotech.in
 0.0.0.0 sungqaxzcds.lovestoblog.com
 0.0.0.0 sunrisejobs.eu
-0.0.0.0 superb-rotation-gourmet-frequently.trycloudflare.com
 0.0.0.0 supercf.co.ke
 0.0.0.0 supercleanspb.ru
 0.0.0.0 support-data.com
@@ -1818,6 +1812,7 @@
 0.0.0.0 theipgenerators.com
 0.0.0.0 third-domain.su
 0.0.0.0 thtp2.volamngayxua.net
+0.0.0.0 tiangroup.free.nf
 0.0.0.0 tiktokbot.org
 0.0.0.0 timconnorscoach.com
 0.0.0.0 tirtasentosa.com
@@ -1878,7 +1873,6 @@
 0.0.0.0 updatessoftware.b-cdn.net
 0.0.0.0 upgradegc.com
 0.0.0.0 uploadanything.cc
-0.0.0.0 uploaded-overall-seating-browser.trycloudflare.com
 0.0.0.0 uploadtree.com
 0.0.0.0 uralmetalloprokat.ru
 0.0.0.0 uranet.duckdns.org
@@ -1891,7 +1885,6 @@
 0.0.0.0 uyul.oss-cn-beijing.aliyuncs.com
 0.0.0.0 v2-putty.com
 0.0.0.0 vaamsmgfreocmroe-1342087530.cos.sa-saopaulo.myqcloud.com
-0.0.0.0 vagler.ru
 0.0.0.0 vagner.sytes.net
 0.0.0.0 vaibhavtripathi.in
 0.0.0.0 valewear.com
@@ -1899,6 +1892,7 @@
 0.0.0.0 vastkupan.com
 0.0.0.0 vault.appsuites.ai
 0.0.0.0 vcpesaas.com
+0.0.0.0 vcsinfo.com
 0.0.0.0 vegasnights.co.za
 0.0.0.0 veitzeatz.com
 0.0.0.0 verdicheck2.mosco.cc
@@ -1942,7 +1936,7 @@
 0.0.0.0 vpn.costariga.de
 0.0.0.0 vpn.cursinqfirewall.ru
 0.0.0.0 vpn.joumizni.de
-0.0.0.0 vps-1004003.neumachile.cl
+0.0.0.0 vpsx64.duckdns.org
 0.0.0.0 vredux.com
 0.0.0.0 vrfbkns.com
 0.0.0.0 vrfbknsr.com
@@ -1998,6 +1992,7 @@
 0.0.0.0 wp.grovespras.com
 0.0.0.0 writerartist.com
 0.0.0.0 ww-poet-cohen-guided.trycloudflare.com
+0.0.0.0 wwmariners.com
 0.0.0.0 www-account-booking.com
 0.0.0.0 www999999asgasg-1327129302.cos.ap-chengdu.myqcloud.com
 0.0.0.0 www999999safagqwhg-1327129302.cos.ap-chengdu.myqcloud.com
@@ -2028,6 +2023,7 @@
 0.0.0.0 xshop.com.tr
 0.0.0.0 xuezha.net
 0.0.0.0 xuyo.org
+0.0.0.0 xww.bucea.edu.cn
 0.0.0.0 xxx-click.com
 0.0.0.0 xyffqh.com
 0.0.0.0 yahyacarpet.com
@@ -2036,6 +2032,7 @@
 0.0.0.0 ygim.or.id
 0.0.0.0 yhc-home-panel.gvaz.net
 0.0.0.0 yho-homepage.gvaz.net
+0.0.0.0 ykapi.luyou.360.cn
 0.0.0.0 yongtai.cn
 0.0.0.0 yorja.org
 0.0.0.0 yosa.com
@@ -2128,6 +2125,7 @@
 0.0.0.0 zihniozdil.info
 0.0.0.0 zion-wealth.com
 0.0.0.0 ziriesgranada.com
+0.0.0.0 zistpolymer.com
 0.0.0.0 zivalife.com.br
 0.0.0.0 zlatsad47.ru
 0.0.0.0 zlonline.oss-cn-shenzhen.aliyuncs.com
