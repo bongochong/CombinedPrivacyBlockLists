@@ -1,4 +1,4 @@
-# Wed Sep  3 06:55:20 AM UTC 2025
+# Sun Sep 14 03:55:33 AM UTC 2025
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -3452,6 +3452,8 @@
 0.0.0.0 db3aqu.atdmt.com
 0.0.0.0 dbg52463.moatads.com
 0.0.0.0 dc.banggood.com
+0.0.0.0 dc.di.atlas.samsung.com
+0.0.0.0 dc.dqa.samsung.com
 0.0.0.0 dc.lsosad.com
 0.0.0.0 dc.webtrends.com
 0.0.0.0 dc.yieldify.com
@@ -3531,6 +3533,7 @@
 0.0.0.0 detectdiscovery.com
 0.0.0.0 detourgame.com
 0.0.0.0 deutschebahn.sc.omtrdc.net
+0.0.0.0 dev-apigw.samsungdmroute.com
 0.0.0.0 dev-as.cluep.com
 0.0.0.0 dev.appboy.com
 0.0.0.0 dev.nodle.io
@@ -3558,6 +3561,7 @@
 0.0.0.0 dhg-logging.us-east-1.elasticbeanstalk.com
 0.0.0.0 di.rlcdn.com
 0.0.0.0 diag-wd.gridsumdissector.com
+0.0.0.0 diagmon-serviceapi.samsungdm.com
 0.0.0.0 diagnosis.ad.intl.xiaomi.com
 0.0.0.0 dickssportinggoods.demdex.net
 0.0.0.0 did.ijinshan.com
@@ -3615,6 +3619,7 @@
 0.0.0.0 dl.ijinshan.com
 0.0.0.0 dl.sj.ijinshan.com
 0.0.0.0 dlog.perfectworldgames.com
+0.0.0.0 dls-ddc.dqa.samsung.com
 0.0.0.0 dls2s.appsflyer.com
 0.0.0.0 dlsdk.appsflyer.com
 0.0.0.0 dlsdk.appsflyersdk.com
@@ -5946,6 +5951,7 @@
 0.0.0.0 mng-ads.com
 0.0.0.0 mo.freeindoapp.com
 0.0.0.0 moa-upload-online.coloros.com
+0.0.0.0 moai-dev-samsung.com
 0.0.0.0 moat.bfmio.com
 0.0.0.0 moat.com
 0.0.0.0 moatads.com
@@ -7070,6 +7076,7 @@
 0.0.0.0 qcx.quantserve.com
 0.0.0.0 qds0l.publishers.tremorhub.com
 0.0.0.0 qist.me
+0.0.0.0 qmds-dev-samsung.com
 0.0.0.0 qps.cint.com
 0.0.0.0 qring-tms.qq.com
 0.0.0.0 qsearch.media.net
@@ -7208,6 +7215,7 @@
 0.0.0.0 reflectivestatement.com
 0.0.0.0 refundradar.com
 0.0.0.0 regexmail.com
+0.0.0.0 regi.di.atlas.samsung.com
 0.0.0.0 regional.ads.tremorhub.com
 0.0.0.0 regionconfig.amplitude.com
 0.0.0.0 register.appsflyer.com
@@ -8497,6 +8505,7 @@
 0.0.0.0 stereotypedclub.com
 0.0.0.0 stereotypedsugar.com
 0.0.0.0 stewspiders.com
+0.0.0.0 stg-apigw.samsungdmroute.com
 0.0.0.0 stickssheep.com
 0.0.0.0 stickyadstv.com
 0.0.0.0 stickyadstv.com.akadns.net
