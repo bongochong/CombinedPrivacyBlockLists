@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mostly Cosmetic CPBL Filters for ABP & uBO
-! Updated: Sun Sep 14 04:27:37 AM UTC 2025
+! Updated: Wed Sep 17 02:38:27 PM UTC 2025
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -54,6 +54,8 @@ babylonbee.com##.show.fade.modal-backdrop
 blockgeeks.com###banner-zone-right
 blockgeeks.com##.banner-top
 blockgeeks.com##.horizontal-ad-banner
+boingboing.net###modalOverlay
+boingboing.net###modalActual
 breitbart.com###bsocial
 breitbart.com###social-share-sidebar-widget
 bustle.com##.gHl
@@ -252,6 +254,7 @@ paradisehill.cc##.banner-universal
 paradisehill.cc##.shapka
 pcworld.com###toaster
 phantasytour.com##.col3
+pkgs.org##.premium.nav-link
 profellow.com###newsletter-popup-wrap
 publish0x.com###registerPopup
 publish0x.com##.show.fade.modal
@@ -301,6 +304,7 @@ reddit.com##.redesign-beta-optin
 reddit.com##.redesignbetabar-js.redesignInfiniteScroll.onboardingbar.infobar
 reddit.com##.redesignbetabar-js.redesignNightmodeBar.onboardingbar.infobar
 reddit.com##.size-compact.Post:has([class*="promoted"])
+reddit.com##.switch-to-good-reddit
 reddit.com##.transparentoverlay__overlay
 reddit.com##.useApp,.TopNav__promoButton
 reddit.com##.xPromoAppStoreFooter
@@ -353,6 +357,8 @@ tastyvapor.us###lbHeader
 tastyvapor.us###mask
 tastyvapor.us##.footer_bottom
 techbone.net##.show.fade.modal
+the-independent.com##.navigation-hint
+the-independent.com###next-click-btn
 theblaze.com###sFooter_0_0_2_0_0_4
 theblaze.com##.ad-tag
 theblaze.com##.ad-top-padding
@@ -481,6 +487,8 @@ zerohedge.com##.Banner_banner__2PJ1Y
 @@||pr.comet.yahoo.com^$app=outlook.exe|com.microsoft.office.outlook|com.yahoo.mobile.client.android.mail
 ||reddit.com/account/register/?mobile_ui=on&compact_mode=on&experiment_mweb_sso_login_link=enabled&experiment_mweb_google_onetap=onetap_auto$subdocument
 ||redditmedia.com/gtm/jail?
+||ring.worldhistory.org/script/
+||ring.worldhistory.org/players/
 ||s.imgur.com/images/cta/ad-free/*/*.jpg$image,domain=imgur.com
 ||segment.com^$third-party
 ||sendtonews.com^$third-party
