@@ -145,6 +145,7 @@ localhost$
 ^0\.0\.0\.0\s(www\.)?fanboy\.co\.nz$
 ^0\.0\.0\.0\s(www\.)?fandom\.com$
 ^0\.0\.0\.0\s(www\.)?fide\.com$
+^0\.0\.0\.0\s(www\.)?file\.garden$
 ^0\.0\.0\.0\s(www\.)?firefox\.com$
 ^0\.0\.0\.0\s(www\.)?fiverr\.com$
 ^0\.0\.0\.0\s(www\.)?flipboard\.com$
