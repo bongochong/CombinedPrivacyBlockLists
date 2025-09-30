@@ -1,4 +1,4 @@
-# Wed Sep 17 02:54:02 PM UTC 2025
+# Tue Sep 30 01:33:23 AM UTC 2025
 # Spam404 Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 001www.com
 0.0.0.0 0daygameparadise.com
@@ -6740,7 +6740,6 @@
 0.0.0.0 skinswhite.com
 0.0.0.0 skinswisdom.com
 0.0.0.0 skinswood.com
-0.0.0.0 skinszone.net
 0.0.0.0 skintracker.net
 0.0.0.0 skintrad.es
 0.0.0.0 skintrade.pro

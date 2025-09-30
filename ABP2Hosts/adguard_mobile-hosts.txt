@@ -1,4 +1,4 @@
-# Wed Sep 17 02:52:35 PM UTC 2025
+# Tue Sep 30 01:32:00 AM UTC 2025
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -650,6 +650,7 @@
 0.0.0.0 ads-b-480313385.us-west-1.elb.amazonaws.com
 0.0.0.0 ads-bidder-api.twitter.com
 0.0.0.0 ads-c-1854119718.us-west-1.elb.amazonaws.com
+0.0.0.0 ads-cdn.hopper.com
 0.0.0.0 ads-chunks.prod.ihrhls.com
 0.0.0.0 ads-cloud.rovio.com
 0.0.0.0 ads-config-engine-noneu.truecaller.com
@@ -1440,6 +1441,7 @@
 0.0.0.0 api.kochava.com
 0.0.0.0 api.leadpages.io
 0.0.0.0 api.leanplum.com
+0.0.0.0 api.learnings.ai
 0.0.0.0 api.locallogic.co
 0.0.0.0 api.localytics.com
 0.0.0.0 api.locately.com
@@ -2740,6 +2742,7 @@
 0.0.0.0 celestialspectra.com
 0.0.0.0 celltick.com
 0.0.0.0 celtra.com
+0.0.0.0 census-app.scorecardresearch.com
 0.0.0.0 centralads.simpli.fi
 0.0.0.0 ceres.iad-03.braze.com
 0.0.0.0 certify-amp.alexametrics.com
@@ -3720,6 +3723,7 @@
 0.0.0.0 dt-secure.videohub.tv
 0.0.0.0 dt.adsafeprotected.com
 0.0.0.0 dt.beyla.site
+0.0.0.0 dtcollect.newsbang.com
 0.0.0.0 dts-5-split-vohnu.dts.innovid.com.akadns.net
 0.0.0.0 dts.crispadvertising.com
 0.0.0.0 dts.innovid.com
@@ -3961,6 +3965,7 @@
 0.0.0.0 evening-badlands-6215.herokuapp.com
 0.0.0.0 event-collector.moviesanywhere.com
 0.0.0.0 event-dot-learning-piano.appspot.com
+0.0.0.0 event-portal.dailyinnovation.biz
 0.0.0.0 event-search.jorte.com
 0.0.0.0 event-staging.inner-active.mobi
 0.0.0.0 event-us.ssp.taxssp.com
@@ -5959,6 +5964,7 @@
 0.0.0.0 moatpixel1.edgekey.net
 0.0.0.0 mob2.healthapplines.com
 0.0.0.0 mob2.healthtrackergroup.com
+0.0.0.0 mob2.musicgostudio.com
 0.0.0.0 mob2.mymusic2025.com
 0.0.0.0 moba8.net
 0.0.0.0 mobad.ijinshan.com
@@ -7400,6 +7406,7 @@
 0.0.0.0 rubiconproject883925.s.moatpixel.com
 0.0.0.0 ruddycast.com
 0.0.0.0 ruddywash.com
+0.0.0.0 rugfrfji.win
 0.0.0.0 rules.aatkit.com
 0.0.0.0 rules.quantcount.com
 0.0.0.0 rules2.aatkit.com
@@ -8862,6 +8869,7 @@
 0.0.0.0 taurus.iad.appboy.com
 0.0.0.0 tawdryson.com
 0.0.0.0 tb.de17a.com
+0.0.0.0 tc.mnbvcxzq.com
 0.0.0.0 tccbanner.com
 0.0.0.0 tcheck.outbrainimg.com
 0.0.0.0 tcp.push.mob.com

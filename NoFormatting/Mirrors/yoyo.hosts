@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 17 Sep 2025 08:07:52 GMT
-# entries:        3433
+# last updated:   Thu, 25 Sep 2025 10:18:36 GMT
+# entries:        3444
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -73,6 +73,7 @@
 127.0.0.1 abtasty.com
 127.0.0.1 ac.rnm.ca
 127.0.0.1 accountsdoor.com
+127.0.0.1 acebunny.com
 127.0.0.1 acemlnb.com
 127.0.0.1 acobt.tech
 127.0.0.1 acridtwist.com
@@ -230,6 +231,7 @@
 127.0.0.1 adhese.com
 127.0.0.1 adhigh.net
 127.0.0.1 adhoc4.net
+127.0.0.1 adhub.media
 127.0.0.1 adhunter.media
 127.0.0.1 adimage.guardian.co.uk
 127.0.0.1 adimages.been.com
@@ -349,7 +351,6 @@
 127.0.0.1 ads.adfox.ru
 127.0.0.1 ads.administrator.de
 127.0.0.1 ads.adred.de
-127.0.0.1 ads.adsbtc.fun
 127.0.0.1 ads.adstream.com.ro
 127.0.0.1 ads.adultfriendfinder.com
 127.0.0.1 ads.advance.net
@@ -856,6 +857,7 @@
 127.0.0.1 ahalogy.com
 127.0.0.1 aheadday.com
 127.0.0.1 aim4media.com
+127.0.0.1 airplanecoffee.com
 127.0.0.1 airpush.com
 127.0.0.1 aistat.net
 127.0.0.1 ak0gsh40.com
@@ -1122,6 +1124,7 @@
 127.0.0.1 bnrs.ilm.ee
 127.0.0.1 boffoadsapi.com
 127.0.0.1 boilingbeetle.com
+127.0.0.1 boilingmadsoup.com
 127.0.0.1 bongacash.com
 127.0.0.1 boomads.com
 127.0.0.1 boomtrain.com
@@ -1317,6 +1320,7 @@
 127.0.0.1 clkrev.com
 127.0.0.1 clksite.com
 127.0.0.1 cloudflareinsights.com
+127.0.0.1 cloudguppy.com
 127.0.0.1 clrstm.com
 127.0.0.1 cluster.adultworld.com
 127.0.0.1 clustrmaps.com
@@ -1342,6 +1346,7 @@
 127.0.0.1 comprabanner.it
 127.0.0.1 conditionchange.com
 127.0.0.1 conductrics.com
+127.0.0.1 confidencetalks.com
 127.0.0.1 connatix.com
 127.0.0.1 connectad.io
 127.0.0.1 connextra.com
@@ -1373,7 +1378,6 @@
 127.0.0.1 counter.bloke.com
 127.0.0.1 counter.cnw.cz
 127.0.0.1 counter.cz
-127.0.0.1 counter.dreamhost.com
 127.0.0.1 counter.mirohost.net
 127.0.0.1 counter.mojgorod.ru
 127.0.0.1 counter.rambler.ru
@@ -1387,7 +1391,6 @@
 127.0.0.1 cpays.com
 127.0.0.1 cpmstar.com
 127.0.0.1 cpu.samsungelectronics.com
-127.0.0.1 cpx-traffic.com
 127.0.0.1 cpx.to
 127.0.0.1 cpxinteractive.com
 127.0.0.1 cqcounter.com
@@ -1440,6 +1443,7 @@
 127.0.0.1 dapper.net
 127.0.0.1 data.namesakeoscilloscopemarquis.com
 127.0.0.1 datenow.link
+127.0.0.1 daybreaklights.com
 127.0.0.1 dc-storm.com
 127.0.0.1 de17a.com
 127.0.0.1 dealdotcom.com
@@ -1512,6 +1516,7 @@
 127.0.0.1 easyhits4u.com
 127.0.0.1 ebayadvertising.com
 127.0.0.1 ebuzzing.com
+127.0.0.1 echoacloud.com
 127.0.0.1 ecircle-ag.com
 127.0.0.1 ecleneue.com
 127.0.0.1 eclick.vn
@@ -1636,6 +1641,7 @@
 127.0.0.1 feedbackresearch.com
 127.0.0.1 feedjit.com
 127.0.0.1 feedmob.com
+127.0.0.1 fillthemap.com
 127.0.0.1 fimserve.com
 127.0.0.1 findcommerce.com
 127.0.0.1 findyourcasino.com
@@ -1769,6 +1775,7 @@
 127.0.0.1 halcyoncanyon.com
 127.0.0.1 haltingbadge.com
 127.0.0.1 hammerhearing.com
+127.0.0.1 hamsterspot.com
 127.0.0.1 handsomehose.com
 127.0.0.1 handyfireman.com
 127.0.0.1 handyincrease.com
@@ -1958,6 +1965,7 @@
 127.0.0.1 kickoffo.site
 127.0.0.1 kindads.com
 127.0.0.1 kissmetrics.com
+127.0.0.1 kittycatking.com
 127.0.0.1 klclick.com
 127.0.0.1 klclick1.com
 127.0.0.1 kliks.nl
@@ -1983,7 +1991,6 @@
 127.0.0.1 layer-ad.de
 127.0.0.1 layer-ads.de
 127.0.0.1 lazybumblebee.com
-127.0.0.1 lbn.ru
 127.0.0.1 lead02.com
 127.0.0.1 leadboltads.net
 127.0.0.1 leadclick.com
@@ -2351,7 +2358,6 @@
 127.0.0.1 omtrdc.net
 127.0.0.1 onaudience.com
 127.0.0.1 onclickads.net
-127.0.0.1 oneandonlynetwork.com
 127.0.0.1 onegg.site
 127.0.0.1 onestat.com
 127.0.0.1 onestatfree.com
@@ -2964,6 +2970,7 @@
 127.0.0.1 strack.pubmatic.com
 127.0.0.1 straightnest.com
 127.0.0.1 stretchsquirrel.com
+127.0.0.1 studycooking.com
 127.0.0.1 stupendoussleet.com
 127.0.0.1 stupendoussnow.com
 127.0.0.1 subscribe.hearstmags.com
@@ -2973,6 +2980,7 @@
 127.0.0.1 summerobject.com
 127.0.0.1 sumo.com
 127.0.0.1 sumome.com
+127.0.0.1 sunsetcampfires.com
 127.0.0.1 superawesome.tv
 127.0.0.1 superchichair.com
 127.0.0.1 superclix.de
@@ -3086,6 +3094,7 @@
 127.0.0.1 tics.techdirt.com
 127.0.0.1 tidaltv.com
 127.0.0.1 tinybar.com
+127.0.0.1 tinybluewhale.com
 127.0.0.1 tinytendency.com
 127.0.0.1 tiresomethunder.com
 127.0.0.1 tkbo.com
@@ -3095,6 +3104,7 @@
 127.0.0.1 tnkexchange.com
 127.0.0.1 tns-counter.ru
 127.0.0.1 to-go1.eu
+127.0.0.1 toolforthought.com
 127.0.0.1 top-casting-termine.de
 127.0.0.1 top-site-list.com
 127.0.0.1 top.list.ru
@@ -3291,6 +3301,7 @@
 127.0.0.1 vidcpm.com
 127.0.0.1 video-stats.video.google.com
 127.0.0.1 videoadex.com
+127.0.0.1 videoadstech.org
 127.0.0.1 videoegg.com
 127.0.0.1 videostats.kakao.com
 127.0.0.1 vidible.tv
