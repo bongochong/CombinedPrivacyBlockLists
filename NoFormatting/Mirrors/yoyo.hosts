@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 25 Sep 2025 10:18:36 GMT
-# entries:        3444
+# last updated:   Sat, 11 Oct 2025 23:27:17 GMT
+# entries:        3438
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -50,6 +50,7 @@
 127.0.0.1 a.ucoz.net
 127.0.0.1 a.ucoz.ru
 127.0.0.1 a.vartoken.com
+127.0.0.1 a.vdo.ai
 127.0.0.1 a.vfghd.com
 127.0.0.1 a.vfgtb.com
 127.0.0.1 a.xanga.com
@@ -208,6 +209,7 @@
 127.0.0.1 add.newmedia.cz
 127.0.0.1 addfreestats.com
 127.0.0.1 addme.com
+127.0.0.1 ade.clmbtech.com
 127.0.0.1 adecn.com
 127.0.0.1 adeimptrck.com
 127.0.0.1 ademails.com
@@ -288,7 +290,6 @@
 127.0.0.1 admidadsp.com
 127.0.0.1 adminder.com
 127.0.0.1 adminshop.com
-127.0.0.1 admix.in
 127.0.0.1 admixer.net
 127.0.0.1 admized.com
 127.0.0.1 admob.com
@@ -365,7 +366,6 @@
 127.0.0.1 ads.as4x.tmcs.net
 127.0.0.1 ads.as4x.tmcs.ticketmaster.com
 127.0.0.1 ads.asiafriendfinder.com
-127.0.0.1 ads.aspalliance.com
 127.0.0.1 ads.avazu.net
 127.0.0.1 ads.bb59.ru
 127.0.0.1 ads.betfair.com
@@ -405,7 +405,6 @@
 127.0.0.1 ads.digital-digest.com
 127.0.0.1 ads.digitalmedianet.com
 127.0.0.1 ads.digitalpoint.com
-127.0.0.1 ads.directionsmag.com
 127.0.0.1 ads.doit.com.cn
 127.0.0.1 ads.domeus.com
 127.0.0.1 ads.dtpnetwork.biz
@@ -725,6 +724,7 @@
 127.0.0.1 adsfac.net
 127.0.0.1 adsfac.us
 127.0.0.1 adsfeed.brabys.com
+127.0.0.1 adsflowprime.top
 127.0.0.1 adshrink.it
 127.0.0.1 adside.com
 127.0.0.1 adsiduous.com
@@ -824,7 +824,6 @@
 127.0.0.1 adxpose.com
 127.0.0.1 adyoulike.com
 127.0.0.1 adz.rashflash.com
-127.0.0.1 adz2you.com
 127.0.0.1 adzbazar.com
 127.0.0.1 adzerk.net
 127.0.0.1 adzerk.s3.amazonaws.com
@@ -1010,7 +1009,6 @@
 127.0.0.1 banner.nixnet.cz
 127.0.0.1 banner.noblepoker.com
 127.0.0.1 banner.northsky.com
-127.0.0.1 banner.rbc.ru
 127.0.0.1 banner.reinstil.de
 127.0.0.1 banner.tanto.de
 127.0.0.1 banner.titan-dsl.de
@@ -1095,7 +1093,6 @@
 127.0.0.1 big-bang-ads.com
 127.0.0.1 bigbangmedia.com
 127.0.0.1 bigclicks.com
-127.0.0.1 bigreal.org
 127.0.0.1 billboard.cz
 127.0.0.1 birthdaybelief.com
 127.0.0.1 bitmedianetwork.com
@@ -1233,8 +1230,6 @@
 127.0.0.1 cl0udh0st1ng.com
 127.0.0.1 clck.ru
 127.0.0.1 clevernt.com
-127.0.0.1 click-1.pl
-127.0.0.1 click-2.eu
 127.0.0.1 click.airmalta-mail.com
 127.0.0.1 click.aliexpress.com
 127.0.0.1 click.allkeyshop.com
@@ -1293,6 +1288,7 @@
 127.0.0.1 clickhereforcellphones.com
 127.0.0.1 clickngo.pro
 127.0.0.1 clickonometrics.pl
+127.0.0.1 clicks.checkatrade.com
 127.0.0.1 clicks.deliveroo.co.uk
 127.0.0.1 clicks.equantum.com
 127.0.0.1 clicks.eventbrite.com
@@ -1378,6 +1374,7 @@
 127.0.0.1 counter.bloke.com
 127.0.0.1 counter.cnw.cz
 127.0.0.1 counter.cz
+127.0.0.1 counter.dreamhost.com
 127.0.0.1 counter.mirohost.net
 127.0.0.1 counter.mojgorod.ru
 127.0.0.1 counter.rambler.ru
@@ -1696,7 +1693,6 @@
 127.0.0.1 furryfork.com
 127.0.0.1 fusionads.net
 127.0.0.1 fusionquest.com
-127.0.0.1 futuristicapparatus.com
 127.0.0.1 futuristicfifth.com
 127.0.0.1 futuristicframe.com
 127.0.0.1 fuzzybasketball.com
@@ -1765,6 +1761,7 @@
 127.0.0.1 greystripe.com
 127.0.0.1 grouchybrothers.com
 127.0.0.1 groundtruth.com
+127.0.0.1 growthrx.in
 127.0.0.1 gscontxt.net
 127.0.0.1 guardeddirection.com
 127.0.0.1 guardedschool.com
@@ -1876,7 +1873,6 @@
 127.0.0.1 images-pw.secureserver.net
 127.0.0.1 img.prohardver.hu
 127.0.0.1 imgpromo.easyrencontre.com
-127.0.0.1 immensehoney.com
 127.0.0.1 imonomy.com
 127.0.0.1 imp.i312864.net
 127.0.0.1 impossibleexpansion.com
@@ -1981,7 +1977,6 @@
 127.0.0.1 ktu.sv2.biz
 127.0.0.1 kvsadman.com
 127.0.0.1 l1.britannica.com
-127.0.0.1 lakequincy.com
 127.0.0.1 lameletters.com
 127.0.0.1 landkarts.com
 127.0.0.1 larati.net
@@ -1991,6 +1986,7 @@
 127.0.0.1 layer-ad.de
 127.0.0.1 layer-ads.de
 127.0.0.1 lazybumblebee.com
+127.0.0.1 lbn.ru
 127.0.0.1 lead02.com
 127.0.0.1 leadboltads.net
 127.0.0.1 leadclick.com
@@ -2019,7 +2015,6 @@
 127.0.0.1 li.patheos.com
 127.0.0.1 li.pmc.com
 127.0.0.1 li.realtor.com
-127.0.0.1 li.walmart.com
 127.0.0.1 li.ziffimages.com
 127.0.0.1 liadm.com
 127.0.0.1 libraryfacts.com
@@ -2316,6 +2311,7 @@
 127.0.0.1 nondescriptnote.com
 127.0.0.1 nondescriptstocking.com
 127.0.0.1 novem.pl
+127.0.0.1 nowaymail.com
 127.0.0.1 npttech.com
 127.0.0.1 nr-data.net
 127.0.0.1 nr.mmcdn.com
@@ -2520,6 +2516,7 @@
 127.0.0.1 predictad.com
 127.0.0.1 premium-offers.com
 127.0.0.1 presetrabbits.com
+127.0.0.1 prettyeasycafe.com
 127.0.0.1 previousplayground.com
 127.0.0.1 prf.hn
 127.0.0.1 priceypies.com
@@ -3229,7 +3226,6 @@
 127.0.0.1 truehits1.gits.net.th
 127.0.0.1 truehits2.gits.net.th
 127.0.0.1 trust.titanhq.com
-127.0.0.1 trustpid.com
 127.0.0.1 trustx.org
 127.0.0.1 tsyndicate.com
 127.0.0.1 tsyndicate.net
@@ -3269,7 +3265,6 @@
 127.0.0.1 url9467.comms-2.zoopla.co.uk
 127.0.0.1 urlcash.net
 127.0.0.1 us.a1.yimg.com
-127.0.0.1 userreplay.com
 127.0.0.1 userreplay.net
 127.0.0.1 users.maxcluster.net
 127.0.0.1 utils.mediageneral.net
@@ -3454,5 +3449,4 @@
 127.0.0.1 zonewedgeshaft.com
 127.0.0.1 zpu.samsungelectronics.com
 127.0.0.1 zqtk.net
-127.0.0.1 zy16eoat1w.com
 127.0.0.1 zzhc.vnet.cn
