@@ -1,4 +1,4 @@
-# Mon Oct 13 01:30:30 AM UTC 2025
+# Sun Oct 26 04:42:09 AM UTC 2025
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -533,6 +533,7 @@
 0.0.0.0 addthis.com.edgekey.net
 0.0.0.0 ade.clmbtech.com
 0.0.0.0 ade.googlesyndication.com
+0.0.0.0 adeeply.ru
 0.0.0.0 adelphic-partners.tremorhub.com
 0.0.0.0 adentifi.com
 0.0.0.0 adeventtracker.spotify.com
@@ -929,7 +930,6 @@
 0.0.0.0 adtracker.mkjigsaw.com
 0.0.0.0 adtracker.oilpainting.colorbynumber.veraxen.com
 0.0.0.0 adtrue.com
-0.0.0.0 adui.tg.meitu.com
 0.0.0.0 adultadworld.com
 0.0.0.0 adups.com
 0.0.0.0 adv-ettoday.cdn.hinet.net
@@ -1153,6 +1153,7 @@
 0.0.0.0 analytics-api.liveapp.com
 0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 analytics-au.clickdimensions.com
+0.0.0.0 analytics-ccu.qpyou.cn
 0.0.0.0 analytics-chi-nfl.yinzcam.com
 0.0.0.0 analytics-eu.clickdimensions.com
 0.0.0.0 analytics-eu.tactilews.com
@@ -1160,6 +1161,7 @@
 0.0.0.0 analytics-gateway.delta.dp.lightricks.com
 0.0.0.0 analytics-ingestion.production-public.tubi.io
 0.0.0.0 analytics-listener.trafficmanager.net
+0.0.0.0 analytics-log.withhive.com
 0.0.0.0 analytics-phi-nfl.yinzcam.com
 0.0.0.0 analytics-pit-nfl.yinzcam.com
 0.0.0.0 analytics-prod2.glance-internal.inmobi.com
@@ -1320,6 +1322,7 @@
 0.0.0.0 apdc3n.adpushup.com
 0.0.0.0 apex.go.sonobi.com
 0.0.0.0 api-a.op-mobile.opera.com
+0.0.0.0 api-access.pangolin-sdk-toutiao1.com
 0.0.0.0 api-ad-adapter.wps.com
 0.0.0.0 api-ad-callback.falconnet.app
 0.0.0.0 api-ad-callback.mobiuspace.net
@@ -2171,6 +2174,7 @@
 0.0.0.0 bidjora.com
 0.0.0.0 bidr.io
 0.0.0.0 bids.concert.io
+0.0.0.0 bidsms.com
 0.0.0.0 bidsopt.com
 0.0.0.0 bidstream.advertserve.com
 0.0.0.0 bidswitch.net
@@ -2431,6 +2435,7 @@
 0.0.0.0 captivatingillusion.com
 0.0.0.0 captivatingpanorama.com
 0.0.0.0 captivatingperformance.com
+0.0.0.0 capture.pixverse.ai
 0.0.0.0 carambo.la
 0.0.0.0 carefuldolls.com
 0.0.0.0 carfax.sc.omtrdc.net
@@ -3741,6 +3746,7 @@
 0.0.0.0 dustywave.com
 0.0.0.0 dutils.com
 0.0.0.0 dvgtm.akadns.net
+0.0.0.0 dxp.baidu.com
 0.0.0.0 dynamic-report-api.appsflyersdk.com
 0.0.0.0 dynamic.criteo.com
 0.0.0.0 dynamic.da1.vip.prod.criteo.com
@@ -4074,6 +4080,7 @@
 0.0.0.0 expansioneggnog.com
 0.0.0.0 experienceeggs.com
 0.0.0.0 experiment.appadhoc.com
+0.0.0.0 experiment.pixverse.ai
 0.0.0.0 exponential.com
 0.0.0.0 exponential54894892.s.moatpixel.com
 0.0.0.0 exponentialjsint8023749877114.s.moatpixel.com
@@ -4988,6 +4995,7 @@
 0.0.0.0 imp.track.tappx.com
 0.0.0.0 imp.voiceads.cn
 0.0.0.0 impact.applifier.com
+0.0.0.0 impbid.com
 0.0.0.0 imperfectinstrument.com
 0.0.0.0 importantmeat.com
 0.0.0.0 importedincrease.com
@@ -5461,7 +5469,6 @@
 0.0.0.0 locate.pricespider.com
 0.0.0.0 locator1.corevm.com
 0.0.0.0 locatorpp.corevm.com
-0.0.0.0 log-api.pangolin-sdk-toutiao.com
 0.0.0.0 log-collector.svctr.zynga.com
 0.0.0.0 log-collectors-73517960.us-east-1.elb.amazonaws.com
 0.0.0.0 log-dbff2e04.us.v2.we-stats.com
@@ -5771,6 +5778,7 @@
 0.0.0.0 matrix.dailyinnovation.biz
 0.0.0.0 maven.blueconic.net
 0.0.0.0 max-l.mediav.com
+0.0.0.0 maxesads.ru
 0.0.0.0 maxonclick.com
 0.0.0.0 maxpointimpression857454451729.s.moatpixel.com
 0.0.0.0 mazu.sec.miui.com
@@ -6280,6 +6288,7 @@
 0.0.0.0 nrc.tapas.net
 0.0.0.0 nrcapi.ssl2.duapps.com
 0.0.0.0 ns.zdbb.net
+0.0.0.0 nsclickvideo.xiaodutv.com
 0.0.0.0 ntracker-collector.naver.com
 0.0.0.0 ntv.io.edgekey.net
 0.0.0.0 ntvcld-a.akamaihd.net
@@ -6661,6 +6670,7 @@
 0.0.0.0 piquantstove.com
 0.0.0.0 piquantvortex.com
 0.0.0.0 piroquealcmene.com
+0.0.0.0 pithyiwgz.top
 0.0.0.0 pix-us.revjet.com
 0.0.0.0 pix.adrta.com
 0.0.0.0 pix.as.criteo.net
@@ -7253,6 +7263,7 @@
 0.0.0.0 report-stats.ad.jiguang.cn
 0.0.0.0 report.apkpure.net
 0.0.0.0 report.appmetrica.yandex.net
+0.0.0.0 report.pixverse.ai
 0.0.0.0 reporting.aatkit.com
 0.0.0.0 reporting.tapstream.com
 0.0.0.0 reports.ubimo.com
@@ -7288,6 +7299,7 @@
 0.0.0.0 revid.centech.glulive.com
 0.0.0.0 revmob.com
 0.0.0.0 revrtb.com
+0.0.0.0 reward-api.csjplatform.com
 0.0.0.0 rewarded-video.fyber.com
 0.0.0.0 rfihub.com
 0.0.0.0 rfp.fout.jp
@@ -8870,6 +8882,7 @@
 0.0.0.0 taurus.iad.appboy.com
 0.0.0.0 tawdryson.com
 0.0.0.0 tb.de17a.com
+0.0.0.0 tbiwtech.com
 0.0.0.0 tc.mnbvcxzq.com
 0.0.0.0 tccbanner.com
 0.0.0.0 tcheck.outbrainimg.com
@@ -9976,6 +9989,7 @@
 0.0.0.0 xadsmart.com
 0.0.0.0 xconf.cauly.co.kr
 0.0.0.0 xcp.go.sonobi.com
+0.0.0.0 xda.xiaodutv.com
 0.0.0.0 xdcs-collector.ximalaya.com
 0.0.0.0 xdrig.com
 0.0.0.0 xdssp.mediav.com
@@ -10072,12 +10086,14 @@
 0.0.0.0 zml-apm-prd.dbv4.noncd.db.de
 0.0.0.0 zmqdez.ru
 0.0.0.0 zoeacaring.com
+0.0.0.0 zoly.tech
 0.0.0.0 zonewedgeshaft.com
 0.0.0.0 zplayer-trk.zdn.vn
 0.0.0.0 zplayer.trk.zapps.vn
 0.0.0.0 ztevents.zaloapp.com
 0.0.0.0 ztulcrynw.online
 0.0.0.0 zucks.net
+0.0.0.0 zxphiz.tech
 0.0.0.0 zygomalingers.com
 0.0.0.0 zzhc.vnet.cn
 0.0.0.0 zzhengre.com

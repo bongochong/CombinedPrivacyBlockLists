@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sat, 11 Oct 2025 at 19:16:53 GMT
+# Last updated: Tue, 21 Oct 2025 at 18:29:21 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1610,6 +1610,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 bitcoinplus.com
 0.0.0.0 bitsoin.fr
 0.0.0.0 biucosmetics.fr
+0.0.0.0 bizlawpoint.com
 0.0.0.0 blablacam.fr
 0.0.0.0 blackhat.be
 0.0.0.0 blender3d.fr
@@ -2008,6 +2009,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 gautmont.fr
 0.0.0.0 gazia.fr
 0.0.0.0 gcn-1nterc.com
+0.0.0.0 gekowex.com
 0.0.0.0 geolantis.fr
 0.0.0.0 geopostcodes.fr
 0.0.0.0 get-answers-fast.com
@@ -2998,6 +3000,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 viowyf.khaiafi.com
 0.0.0.0 vip.fortunatetime.xyz
 0.0.0.0 vipon.fr
+0.0.0.0 virewin.com
 0.0.0.0 viriginradio.fr
 0.0.0.0 visana.fr
 0.0.0.0 visualsonics.fr

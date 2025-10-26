@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 11 Oct 2025 23:27:17 GMT
-# entries:        3438
+# last updated:   Wed, 22 Oct 2025 20:58:42 GMT
+# entries:        3441
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -338,7 +338,6 @@
 127.0.0.1 ads-game-187f4.firebaseapp.com
 127.0.0.1 ads-img.mozilla.org
 127.0.0.1 ads-portal-cdn.vidaatv.net
-127.0.0.1 ads-trk.vidible.tv
 127.0.0.1 ads-twitter.com
 127.0.0.1 ads.365.mk
 127.0.0.1 ads.5ci.lt
@@ -407,7 +406,6 @@
 127.0.0.1 ads.digitalpoint.com
 127.0.0.1 ads.doit.com.cn
 127.0.0.1 ads.domeus.com
-127.0.0.1 ads.dtpnetwork.biz
 127.0.0.1 ads.eagletribune.com
 127.0.0.1 ads.easy-forex.com
 127.0.0.1 ads.economist.com
@@ -454,7 +452,6 @@
 127.0.0.1 ads.hearstmags.com
 127.0.0.1 ads.heartlight.org
 127.0.0.1 ads.hollywood.com
-127.0.0.1 ads.horsehero.com
 127.0.0.1 ads.hsoub.com
 127.0.0.1 ads.ibest.com.br
 127.0.0.1 ads.ibryte.com
@@ -1000,7 +997,6 @@
 127.0.0.1 banner.cotedazurpalace.com
 127.0.0.1 banner.easyspace.com
 127.0.0.1 banner.elisa.net
-127.0.0.1 banner.eurogrand.com
 127.0.0.1 banner.finzoom.ro
 127.0.0.1 banner.goldenpalace.com
 127.0.0.1 banner.inyourpocket.com
@@ -1175,6 +1171,7 @@
 127.0.0.1 carambo.la
 127.0.0.1 carbonads.com
 127.0.0.1 carbonads.net
+127.0.0.1 cardmethod.com
 127.0.0.1 caringcast.com
 127.0.0.1 cartstack.com
 127.0.0.1 carvecakes.com
@@ -1388,6 +1385,7 @@
 127.0.0.1 cpays.com
 127.0.0.1 cpmstar.com
 127.0.0.1 cpu.samsungelectronics.com
+127.0.0.1 cpx-traffic.com
 127.0.0.1 cpx.to
 127.0.0.1 cpxinteractive.com
 127.0.0.1 cqcounter.com
@@ -1465,7 +1463,6 @@
 127.0.0.1 digestiondrawer.com
 127.0.0.1 digital-ads.s3.amazonaws.com
 127.0.0.1 direct-events-collector.spot.im
-127.0.0.1 direct-re2.pl
 127.0.0.1 directaclick.com
 127.0.0.1 directorym.com
 127.0.0.1 discountclick.com
@@ -1518,7 +1515,6 @@
 127.0.0.1 ecleneue.com
 127.0.0.1 eclick.vn
 127.0.0.1 eclicks.deliveroo.com
-127.0.0.1 eclkmpbn.com
 127.0.0.1 eclkspbn.com
 127.0.0.1 ecoupons.com
 127.0.0.1 edaa.eu
@@ -1690,6 +1686,7 @@
 127.0.0.1 functionalfeather.com
 127.0.0.1 funklicks.com
 127.0.0.1 funnelytics.io
+127.0.0.1 funtoyplanet.com
 127.0.0.1 furryfork.com
 127.0.0.1 fusionads.net
 127.0.0.1 fusionquest.com
@@ -1769,6 +1766,7 @@
 127.0.0.1 h-bid.com
 127.0.0.1 h-trck.com
 127.0.0.1 h0.t.hubspotemail.net
+127.0.0.1 haikusoap.com
 127.0.0.1 halcyoncanyon.com
 127.0.0.1 haltingbadge.com
 127.0.0.1 hammerhearing.com
@@ -1960,6 +1958,7 @@
 127.0.0.1 kargo.com
 127.0.0.1 kickoffo.site
 127.0.0.1 kindads.com
+127.0.0.1 kindlereunion.com
 127.0.0.1 kissmetrics.com
 127.0.0.1 kittycatking.com
 127.0.0.1 klclick.com
@@ -2169,6 +2168,7 @@
 127.0.0.1 megawerbung.de
 127.0.0.1 meltmilk.com
 127.0.0.1 memorizeneck.com
+127.0.0.1 mercuryace.com
 127.0.0.1 merequartz.com
 127.0.0.1 metadsp.co.uk
 127.0.0.1 metaffiliation.com
@@ -2195,6 +2195,7 @@
 127.0.0.1 milotree.com
 127.0.0.1 mineinvoice.com
 127.0.0.1 minewhat.com
+127.0.0.1 minibilling.com
 127.0.0.1 mintegral.com
 127.0.0.1 mittencattle.com
 127.0.0.1 mix2ads.com
@@ -2573,7 +2574,6 @@
 127.0.0.1 pushengage.com
 127.0.0.1 pushno.com
 127.0.0.1 pushtrack.co
-127.0.0.1 pushwhy.com
 127.0.0.1 px.dynamicyield.com
 127.0.0.1 px.gfycat.com
 127.0.0.1 pxf.io
@@ -2608,6 +2608,7 @@
 127.0.0.1 r3.visualwebsiteoptimizer.com
 127.0.0.1 raac33.net
 127.0.0.1 rabbitrifle.com
+127.0.0.1 rackforstorage.com
 127.0.0.1 radar.cedexis.com
 127.0.0.1 radiate.com
 127.0.0.1 radiateprose.com
@@ -2916,6 +2917,7 @@
 127.0.0.1 stalesummer.com
 127.0.0.1 starffa.com
 127.0.0.1 starkscale.com
+127.0.0.1 starrynets.com
 127.0.0.1 startapp.com
 127.0.0.1 stat-track.com
 127.0.0.1 stat.cliche.se
@@ -2972,6 +2974,7 @@
 127.0.0.1 stupendoussnow.com
 127.0.0.1 subscribe.hearstmags.com
 127.0.0.1 succeedscene.com
+127.0.0.1 successbuffet.com
 127.0.0.1 sugoicounter.com
 127.0.0.1 sulkycook.com
 127.0.0.1 summerobject.com
@@ -3211,7 +3214,6 @@
 127.0.0.1 triplelift.com
 127.0.0.1 triptease.io
 127.0.0.1 trk.4ff.pro
-127.0.0.1 trk.bad-tool-tell-doubt.xyz
 127.0.0.1 trk.bc.shutterfly.com
 127.0.0.1 trk.pinterest.com
 127.0.0.1 trk.techtarget.com
@@ -3260,6 +3262,7 @@
 127.0.0.1 unusualtitle.com
 127.0.0.1 unwieldyhealth.com
 127.0.0.1 unwieldyimpulse.com
+127.0.0.1 upgradeyoga.com
 127.0.0.1 upu.samsungelectronics.com
 127.0.0.1 urbanlaurel.com
 127.0.0.1 url9467.comms-2.zoopla.co.uk
@@ -3299,7 +3302,6 @@
 127.0.0.1 videoadstech.org
 127.0.0.1 videoegg.com
 127.0.0.1 videostats.kakao.com
-127.0.0.1 vidible.tv
 127.0.0.1 vidora.com
 127.0.0.1 view4cash.de
 127.0.0.1 viglink.com
@@ -3424,6 +3426,7 @@
 127.0.0.1 ymetrica1.com
 127.0.0.1 yoads.net
 127.0.0.1 yoggrt.com
+127.0.0.1 youcandrawanything.com
 127.0.0.1 youradexchange.com
 127.0.0.1 ypu.samsungelectronics.com
 127.0.0.1 zangocash.com
