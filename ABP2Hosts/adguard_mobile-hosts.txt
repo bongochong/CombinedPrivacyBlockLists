@@ -1,4 +1,4 @@
-# Sun Oct 26 04:42:09 AM UTC 2025
+# Tue Nov 11 05:46:54 AM UTC 2025
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -45,7 +45,6 @@
 0.0.0.0 30819.api.swrve.com
 0.0.0.0 30819.content.swrve.com
 0.0.0.0 3193.api.swrve.com
-0.0.0.0 33across.com
 0.0.0.0 3426.api.swrve.com
 0.0.0.0 3444.api.swrve.com
 0.0.0.0 3581a62b.api.splkmobile.com
@@ -645,6 +644,7 @@
 0.0.0.0 ads-api-new-2052271615.ap-northeast-1.elb.amazonaws.com
 0.0.0.0 ads-api.kidsnote.com
 0.0.0.0 ads-api.twitter.com
+0.0.0.0 ads-api.x.com
 0.0.0.0 ads-b-480313385.us-west-1.elb.amazonaws.com
 0.0.0.0 ads-bidder-api.twitter.com
 0.0.0.0 ads-bridge.pixocial.com
@@ -941,7 +941,6 @@
 0.0.0.0 adv.sec.miui.com
 0.0.0.0 advancelocal-adapter-image-uploads.s3.amazonaws.com
 0.0.0.0 advancelocal.blueconic.net
-0.0.0.0 advangelists.com
 0.0.0.0 adventurousamount.com
 0.0.0.0 adversal.com
 0.0.0.0 advertica-cdn.com
@@ -1046,7 +1045,6 @@
 0.0.0.0 aka-cdn.adtechus.com
 0.0.0.0 aka.spotxcdn.com
 0.0.0.0 aksdk-images.adikteev.com
-0.0.0.0 akstat.io
 0.0.0.0 akstat.io.edgekey.net
 0.0.0.0 aktrack.pubmatic.com
 0.0.0.0 aktrack.pubmatic.edgekey.net
@@ -1726,6 +1724,7 @@
 0.0.0.0 appclick.net
 0.0.0.0 appclick.rqmob.com
 0.0.0.0 appconfig.cmgdigital.com
+0.0.0.0 appcpi.net
 0.0.0.0 appdeumext.tdameritrade.com
 0.0.0.0 appdiscovery.apptap.com
 0.0.0.0 appdump.nie.easebar.com
@@ -1914,6 +1913,7 @@
 0.0.0.0 attendchase.com
 0.0.0.0 atti.com
 0.0.0.0 attr.appsflyer.com
+0.0.0.0 attr.appsflyersdk.com
 0.0.0.0 attractionbanana.com
 0.0.0.0 attractiveafternoon.com
 0.0.0.0 attractivecap.com
@@ -2147,7 +2147,6 @@
 0.0.0.0 bewilderedbattle.com
 0.0.0.0 bewilderedblade.com
 0.0.0.0 bf20578xco.bf.dynatrace.com
-0.0.0.0 bfmio.com
 0.0.0.0 bh.contextweb.com
 0.0.0.0 bhcumsc.com
 0.0.0.0 bhpz.adj.st
@@ -2177,7 +2176,6 @@
 0.0.0.0 bidsms.com
 0.0.0.0 bidsopt.com
 0.0.0.0 bidstream.advertserve.com
-0.0.0.0 bidswitch.net
 0.0.0.0 bigmobileads.com
 0.0.0.0 bikepaws.com
 0.0.0.0 bikesboard.com
@@ -2307,6 +2305,7 @@
 0.0.0.0 bs.nakanohito.jp
 0.0.0.0 bs.scorecardresearch.com
 0.0.0.0 bs.serving-sys.com
+0.0.0.0 bstgms4y.com
 0.0.0.0 btloader.com
 0.0.0.0 btlr-ecs-ap-southeast-1.sharethrough.com
 0.0.0.0 btlr-ecs-us-west-1.sharethrough.com
@@ -2741,7 +2740,6 @@
 0.0.0.0 ceciliavenus.com
 0.0.0.0 ced-ns.sascdn.com
 0.0.0.0 cedexis-radar.net
-0.0.0.0 cedexis.com
 0.0.0.0 ceg.g5e.com
 0.0.0.0 celestialeuphony.com
 0.0.0.0 celestialspectra.com
@@ -2785,7 +2783,6 @@
 0.0.0.0 chargecracker.com
 0.0.0.0 charmingplate.com
 0.0.0.0 charscroll.com
-0.0.0.0 chartbeat.net
 0.0.0.0 chartboost-imp.aarki.net
 0.0.0.0 chartboost.com
 0.0.0.0 chartboosts.com
@@ -3259,7 +3256,6 @@
 0.0.0.0 crs-event.line.me
 0.0.0.0 crs-hometab-event.line.me
 0.0.0.0 cruisetourist.com
-0.0.0.0 crwdcntrl.net
 0.0.0.0 cryptvalue.com
 0.0.0.0 crystalboulevard.com
 0.0.0.0 crystalstatus.com
@@ -3627,6 +3623,7 @@
 0.0.0.0 dl.fotoable.com
 0.0.0.0 dl.ijinshan.com
 0.0.0.0 dl.sj.ijinshan.com
+0.0.0.0 dlog-config.uu.cc
 0.0.0.0 dlog.perfectworldgames.com
 0.0.0.0 dls-ddc.dqa.samsung.com
 0.0.0.0 dls2s.appsflyer.com
@@ -3976,6 +3973,7 @@
 0.0.0.0 event-search.jorte.com
 0.0.0.0 event-staging.inner-active.mobi
 0.0.0.0 event-us.ssp.taxssp.com
+0.0.0.0 event.aimailhome.io
 0.0.0.0 event.allnews.uodoo.com
 0.0.0.0 event.collector.scopely.io
 0.0.0.0 event.flareflow.tv
@@ -4451,7 +4449,6 @@
 0.0.0.0 get.civicscience.com
 0.0.0.0 get.s-onetag.com
 0.0.0.0 get.tutoads.tv
-0.0.0.0 getclicky.com
 0.0.0.0 ghb.adtelligent.com
 0.0.0.0 ghb1.adtelligent.com
 0.0.0.0 ghb2.adtelligent.com
@@ -4460,6 +4457,7 @@
 0.0.0.0 ghostgenie.com
 0.0.0.0 gi-js.genieessp.com
 0.0.0.0 giantsvessel.com
+0.0.0.0 gid.tapapis.cn
 0.0.0.0 giddycoat.com
 0.0.0.0 giftedglue.com
 0.0.0.0 ginf.adfurikun.jp
@@ -5213,6 +5211,7 @@
 0.0.0.0 jadserve.postrelease.com.akadns.net
 0.0.0.0 jailbulb.com
 0.0.0.0 jampp.com
+0.0.0.0 jdlog.uu.cc
 0.0.0.0 jelly.mdhv.io
 0.0.0.0 jgl.microad.net
 0.0.0.0 jimny.pro
@@ -5514,6 +5513,7 @@
 0.0.0.0 log.goodreels.com
 0.0.0.0 log.happyapkdown.com
 0.0.0.0 log.heartratepros.com
+0.0.0.0 log.hiapkdownload.com
 0.0.0.0 log.hitsteps.com
 0.0.0.0 log.ifood.tv
 0.0.0.0 log.intellimize.co
@@ -5561,6 +5561,7 @@
 0.0.0.0 log1.apkomega.com
 0.0.0.0 log1.golfrival.net
 0.0.0.0 log1.perfectworldgames.com
+0.0.0.0 log16-normal-us-ttp.capcutapi.us
 0.0.0.0 log2.perfectworldgames.com
 0.0.0.0 log4x.nixcdn.com
 0.0.0.0 log5.interactive-circle.jp
@@ -6035,9 +6036,11 @@
 0.0.0.0 mon-va.byteoversea.com
 0.0.0.0 mon-va.tiktokv.com
 0.0.0.0 mon.byteoversea.com
+0.0.0.0 mon.capcutapi.us
 0.0.0.0 mon.isnssdk.com
 0.0.0.0 mon.tiktokv.com
 0.0.0.0 mon.us.tiktokv.com
+0.0.0.0 mon16-normal-us-ttp.capcutapi.us
 0.0.0.0 monacobeatles.com
 0.0.0.0 monetize-api.coronalabs.com
 0.0.0.0 monitor-stsdk.vivo.com.cn
@@ -6070,7 +6073,6 @@
 0.0.0.0 mp5-wl.mobileposse.com
 0.0.0.0 mparticle.map.fastly.net
 0.0.0.0 mparticle.uc.cn
-0.0.0.0 mpianalytics.com
 0.0.0.0 mplusps.ims.vodafone.com
 0.0.0.0 mpluswf.ims.vodafone.com
 0.0.0.0 mpnrs.com
@@ -6081,6 +6083,7 @@
 0.0.0.0 ms-ads.presage.io
 0.0.0.0 ms-ads.prod.cloud.ogury.io
 0.0.0.0 ms-auction.presage.io
+0.0.0.0 ms-report.uu.cc
 0.0.0.0 ms.applovin.com
 0.0.0.0 ms.applvn.com
 0.0.0.0 ms.cmcm.com
@@ -6098,6 +6101,7 @@
 0.0.0.0 msntest.serving-sys.com
 0.0.0.0 mssdk-boot.cpacutapi.com
 0.0.0.0 mssdk-va.byteoversea.com
+0.0.0.0 mssdk.capcutapi.us
 0.0.0.0 mtag.mman.kr
 0.0.0.0 mtburn.jp
 0.0.0.0 mtgglobals.com
@@ -6278,7 +6282,6 @@
 0.0.0.0 nova-collector-1192479543.us-east-1.elb.amazonaws.com
 0.0.0.0 novostimira.biz
 0.0.0.0 noxagile.duapp.com
-0.0.0.0 npario-inc.net
 0.0.0.0 npgco.blueconic.net
 0.0.0.0 nr-data.net
 0.0.0.0 nr-events.taboola.com
@@ -6324,6 +6327,7 @@
 0.0.0.0 obscenesidewalk.com
 0.0.0.0 observantice.com
 0.0.0.0 observe.aniview.com
+0.0.0.0 obus-in.dc.heytapmobile.com
 0.0.0.0 oc.umeng.co
 0.0.0.0 oc.umeng.com
 0.0.0.0 ociasb.adtiming.com
@@ -7983,7 +7987,6 @@
 0.0.0.0 simage4.pubmatic.com
 0.0.0.0 simplesharebuttons.com
 0.0.0.0 simplesidewalk.com
-0.0.0.0 simpli.fi
 0.0.0.0 simplifi.partners.tremorhub.com
 0.0.0.0 simplisticstem.com
 0.0.0.0 simplycast.com
@@ -8945,7 +8948,6 @@
 0.0.0.0 tg.dr.socdm.com
 0.0.0.0 tg1.aniview.com
 0.0.0.0 th-gmtdmp.mookie1.com
-0.0.0.0 theadex.com
 0.0.0.0 thecatmachine.com
 0.0.0.0 themoneytizer.com
 0.0.0.0 theoremreach.com
@@ -9750,7 +9752,6 @@
 0.0.0.0 w.sharethis.com
 0.0.0.0 w.usabilla.com
 0.0.0.0 w.yieldmo.com
-0.0.0.0 w55c.net
 0.0.0.0 wa.appsflyer.com
 0.0.0.0 wa.kuwo.cn
 0.0.0.0 waggishpig.com
@@ -10007,10 +10008,8 @@
 0.0.0.0 xmlserving.mobagent.com
 0.0.0.0 xovq5nemr.com
 0.0.0.0 xpig-dev.directservices.it
-0.0.0.0 xplosion.de
 0.0.0.0 xpromo.g5e.com
 0.0.0.0 xtr.carambo.la
-0.0.0.0 yadro.ru
 0.0.0.0 yads.c.yimg.jp
 0.0.0.0 yamanaisleepry.com
 0.0.0.0 yamstamp.com
@@ -10063,7 +10062,6 @@
 0.0.0.0 zbwp6ghm.com
 0.0.0.0 zc.adswizz.com
 0.0.0.0 zcoup.com
-0.0.0.0 zdbb.net
 0.0.0.0 zealousfield.com
 0.0.0.0 zedo.com
 0.0.0.0 zem.outbrainimg.com

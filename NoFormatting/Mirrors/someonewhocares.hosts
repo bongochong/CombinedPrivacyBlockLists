@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 21 Oct 2025 at 18:29:21 GMT
+# Last updated: Tue, 28 Oct 2025 at 16:09:37 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2678,6 +2678,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 qouv.fr
 0.0.0.0 quaidesbulles.fr
 0.0.0.0 question2answer.com
+0.0.0.0 questrade-pypip.com
 0.0.0.0 quickchess.fr
 0.0.0.0 quicksaledeal.su
 0.0.0.0 quirinale.fr
@@ -3026,6 +3027,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 watchpro.fr
 0.0.0.0 waterstudio.fr
 0.0.0.0 waudeesestew.com
+0.0.0.0 wealthsimple-dwvip.com
 0.0.0.0 weapfuh.originalriver-tone.top
 0.0.0.0 webassembly.stream
 0.0.0.0 webatic.fr
