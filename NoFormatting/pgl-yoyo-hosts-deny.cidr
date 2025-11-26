@@ -3019,9 +3019,7 @@ deny from 80.67.87.9/32
 deny from 80.67.87.30/32
 deny from 80.67.87.63/32
 deny from 80.67.87.113/32
-deny from 80.68.240.57/32
 deny from 80.68.242.108/32
-deny from 80.68.246.95/32
 deny from 80.69.72.29/32
 deny from 80.69.83.183/32
 deny from 80.69.84.4/32
@@ -3469,7 +3467,6 @@ deny from 87.250.251.90/32
 deny from 87.250.251.190/32
 deny from 87.252.210.32/32
 deny from 87.252.215.237/32
-deny from 87.252.216.119/32
 deny from 88.80.7.173/32
 deny from 88.80.192.60/32
 deny from 88.80.192.62/32
