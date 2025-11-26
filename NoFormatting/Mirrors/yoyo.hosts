@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 10 Nov 2025 07:51:02 GMT
-# entries:        3475
+# last updated:   Tue, 25 Nov 2025 18:52:10 GMT
+# entries:        3479
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -260,7 +260,6 @@
 127.0.0.1 adjuggler.yourdictionary.com
 127.0.0.1 adjust.com
 127.0.0.1 adjustnetwork.com
-127.0.0.1 adk2.co
 127.0.0.1 adk2.com
 127.0.0.1 adland.ru
 127.0.0.1 adlegend.com
@@ -404,6 +403,7 @@
 127.0.0.1 ads.digital-digest.com
 127.0.0.1 ads.digitalmedianet.com
 127.0.0.1 ads.digitalpoint.com
+127.0.0.1 ads.directionsmag.com
 127.0.0.1 ads.doit.com.cn
 127.0.0.1 ads.domeus.com
 127.0.0.1 ads.eagletribune.com
@@ -419,7 +419,6 @@
 127.0.0.1 ads.eu.msn.com
 127.0.0.1 ads.fairfax.com.au
 127.0.0.1 ads.fastcomgroup.it
-127.0.0.1 ads.fasttrack-ignite.com
 127.0.0.1 ads.femmefab.nl
 127.0.0.1 ads.ferianc.com
 127.0.0.1 ads.filmup.com
@@ -452,6 +451,7 @@
 127.0.0.1 ads.hearstmags.com
 127.0.0.1 ads.heartlight.org
 127.0.0.1 ads.hollywood.com
+127.0.0.1 ads.horsehero.com
 127.0.0.1 ads.hsoub.com
 127.0.0.1 ads.ibest.com.br
 127.0.0.1 ads.ibryte.com
@@ -727,6 +727,7 @@
 127.0.0.1 adskeeper.co.uk
 127.0.0.1 adskeeper.com
 127.0.0.1 adsklick.de
+127.0.0.1 adskpak.com
 127.0.0.1 adsmart.net
 127.0.0.1 adsmartracker.com
 127.0.0.1 adsmetadata.startappservice.com
@@ -878,7 +879,6 @@
 127.0.0.1 analytics.algoepico.net
 127.0.0.1 analytics.bitrix.info
 127.0.0.1 analytics.cloudron.io
-127.0.0.1 analytics.emarketer.com
 127.0.0.1 analytics.ext.go-tellm.com
 127.0.0.1 analytics.google.com
 127.0.0.1 analytics.htmedia.in
@@ -1089,6 +1089,7 @@
 127.0.0.1 big-bang-ads.com
 127.0.0.1 bigbangmedia.com
 127.0.0.1 bigclicks.com
+127.0.0.1 bigreal.org
 127.0.0.1 bigworldfashion.com
 127.0.0.1 billboard.cz
 127.0.0.1 billtable.com
@@ -1153,6 +1154,7 @@
 127.0.0.1 btglss.net
 127.0.0.1 btrll.com
 127.0.0.1 bttrack.com
+127.0.0.1 bubblyaction.com
 127.0.0.1 buysellads.com
 127.0.0.1 buzzonclick.com
 127.0.0.1 bwp.download.com
@@ -1251,7 +1253,6 @@
 127.0.0.1 click.email.lhh.com
 127.0.0.1 click.email.microsoftemail.com
 127.0.0.1 click.email.sonos.com
-127.0.0.1 click.email.strawberry.no
 127.0.0.1 click.emails.argos.co.uk
 127.0.0.1 click.emails.tuclothing.sainsburys.co.uk
 127.0.0.1 click.fool.com
@@ -1459,6 +1460,7 @@
 127.0.0.1 demandbase.com
 127.0.0.1 demdex.net
 127.0.0.1 deployads.com
+127.0.0.1 desertgates.com
 127.0.0.1 desiredirt.com
 127.0.0.1 detailedgovernment.com
 127.0.0.1 detectdiscovery.com
@@ -1499,6 +1501,7 @@
 127.0.0.1 dpbolvw.net
 127.0.0.1 dpu.samsungelectronics.com
 127.0.0.1 dq95d35.com
+127.0.0.1 dragonbats.com
 127.0.0.1 drumcash.com
 127.0.0.1 dsp.colpirio.com
 127.0.0.1 dsp.io
@@ -1665,6 +1668,7 @@
 127.0.0.1 flowgo.com
 127.0.0.1 flurry.com
 127.0.0.1 fly-analytics.com
+127.0.0.1 fontserif.com
 127.0.0.1 foo.cosmocode.de
 127.0.0.1 foresee.com
 127.0.0.1 forex-affiliate.net
@@ -1672,6 +1676,7 @@
 127.0.0.1 fpctraffic.com
 127.0.0.1 fpjs.io
 127.0.0.1 fqtag.com
+127.0.0.1 fraysystems.com
 127.0.0.1 free-counter.co.uk
 127.0.0.1 freebanner.com
 127.0.0.1 freecounterstat.com
@@ -1715,7 +1720,6 @@
 127.0.0.1 gaug.es
 127.0.0.1 gavvia.com
 127.0.0.1 gearwom.de
-127.0.0.1 generateoffice.com
 127.0.0.1 geo.digitalpoint.com
 127.0.0.1 geobanner.adultfriendfinder.com
 127.0.0.1 georiot.com
@@ -2278,6 +2282,7 @@
 127.0.0.1 mylink-today.com
 127.0.0.1 mypagerank.net
 127.0.0.1 mypowermall.com
+127.0.0.1 mysketchpad.com
 127.0.0.1 mystat-in.net
 127.0.0.1 mystat.pl
 127.0.0.1 mytop-in.net
@@ -2621,6 +2626,7 @@
 127.0.0.1 quirkysugar.com
 127.0.0.1 quisma.com
 127.0.0.1 quizzicalzephyr.com
+127.0.0.1 r.drinksdirect.net
 127.0.0.1 r.logrocket.io
 127.0.0.1 r.marketing.dubaisothebys.com
 127.0.0.1 r.msn.com
@@ -2837,6 +2843,7 @@
 127.0.0.1 shockinggrass.com
 127.0.0.1 shoppingads.com
 127.0.0.1 showads.pubmatic.com
+127.0.0.1 shredform.com
 127.0.0.1 shrillspoon.com
 127.0.0.1 shxtrk.com
 127.0.0.1 sicksmash.com
@@ -2891,7 +2898,6 @@
 127.0.0.1 socialspark.com
 127.0.0.1 softclick.com.br
 127.0.0.1 soggysponge.com
-127.0.0.1 soggyzoo.com
 127.0.0.1 soicos.com
 127.0.0.1 sombersea.com
 127.0.0.1 sombersquirrel.com
@@ -3134,7 +3140,6 @@
 127.0.0.1 tm.br.de
 127.0.0.1 tnkexchange.com
 127.0.0.1 tns-counter.ru
-127.0.0.1 to-go1.eu
 127.0.0.1 toolforthought.com
 127.0.0.1 top-casting-termine.de
 127.0.0.1 top-site-list.com
@@ -3203,7 +3208,6 @@
 127.0.0.1 tracking.orixa-media.com
 127.0.0.1 tracking.shopstyle.com
 127.0.0.1 tracking.thinkabt.com
-127.0.0.1 tracking.utlservice.com
 127.0.0.1 tracking.wetter.at
 127.0.0.1 tracking01.walmart.com
 127.0.0.1 tracking101.com
