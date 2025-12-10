@@ -1,4 +1,4 @@
-# Wed Nov 26 07:21:27 AM UTC 2025
+# Wed Dec 10 07:42:01 AM UTC 2025
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -315,6 +315,7 @@
 0.0.0.0 aamt.today.com
 0.0.0.0 aan.cdn.speedshiftmedia.com
 0.0.0.0 aan.speedshiftmedia.com
+0.0.0.0 aatkit.com
 0.0.0.0 aax-eu-retail-direct.amazon-adsystem.com
 0.0.0.0 aax-fe-sin.amazon-adsystem.com
 0.0.0.0 aax-fe.amazon-adsystem.com
@@ -880,6 +881,7 @@
 0.0.0.0 adslot.uc.cn
 0.0.0.0 adsmetadata.startappservice.com
 0.0.0.0 adsmo.ru
+0.0.0.0 adsmobila.com
 0.0.0.0 adsmogo.mobi
 0.0.0.0 adsmogo.net
 0.0.0.0 adsmogo.org
@@ -2294,6 +2296,7 @@
 0.0.0.0 broadboundary.com
 0.0.0.0 broadcastbed.com
 0.0.0.0 broaddoor.com
+0.0.0.0 brokerbabe.com
 0.0.0.0 bronrt.stsdk.vivo.com.cn
 0.0.0.0 brort.stsdk.vivo.com.cn
 0.0.0.0 brothersbucket.com
@@ -2527,6 +2530,7 @@
 0.0.0.0 cdn-otf-cas.prfct.cc
 0.0.0.0 cdn-prod.kampyle.com
 0.0.0.0 cdn-resources.prfct.cc
+0.0.0.0 cdn-rtb.sape.ru
 0.0.0.0 cdn-s2s.buysellads.net
 0.0.0.0 cdn-settings.appsflyersdk.com
 0.0.0.0 cdn-settings.segment.com
@@ -5268,6 +5272,7 @@
 0.0.0.0 jsc.mgid.com
 0.0.0.0 jscdn.appier.net
 0.0.0.0 jslog.krxd.net
+0.0.0.0 jssdk.rayjump.com
 0.0.0.0 jssdkcdn.mparticle.com
 0.0.0.0 jssdkcdns.mparticle.com
 0.0.0.0 jssdks.mparticle.com
@@ -5305,9 +5310,11 @@
 0.0.0.0 keenquill.com
 0.0.0.0 kejet.net
 0.0.0.0 ketchapp.org
+0.0.0.0 keydot.net
 0.0.0.0 keyword.ad.daum.net
 0.0.0.0 kibana.leadboxer.com
 0.0.0.0 kibbleandbytes.com
+0.0.0.0 kiesta.net
 0.0.0.0 kiip.me
 0.0.0.0 kindhush.com
 0.0.0.0 king-contenido-prod.secure2.footprint.net
@@ -5604,6 +5611,7 @@
 0.0.0.0 logging.carambo.la
 0.0.0.0 logging.fishsticksgames.com
 0.0.0.0 logic.anzuinfra.com
+0.0.0.0 logrcv.adseyeservice.com
 0.0.0.0 logreport-global-dual.coolbcloud.com
 0.0.0.0 logreport-global-dual.coolhcloud.com
 0.0.0.0 logs-01.loggly.com
@@ -5695,6 +5703,7 @@
 0.0.0.0 m2m-api.inmarket.com
 0.0.0.0 m2m1.inner-active.mobi
 0.0.0.0 m7hdh-2damu.ads.tremorhub.com
+0.0.0.0 ma-code.ru
 0.0.0.0 ma.logsss.com
 0.0.0.0 ma.tune.com
 0.0.0.0 ma1169-r.analytics.edgekey.net
@@ -6531,11 +6540,13 @@
 0.0.0.0 padsdel.com
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 pagead46.l.doubleclick.net
 0.0.0.0 pagefair.com
 0.0.0.0 pagefair.net
 0.0.0.0 pages-stats.rbl.ms
 0.0.0.0 pailcrime.com
 0.0.0.0 pailpatch.com
+0.0.0.0 painsko.com
 0.0.0.0 painstakingpickle.com
 0.0.0.0 paintpear.com
 0.0.0.0 paintplantation.com
@@ -6574,6 +6585,7 @@
 0.0.0.0 partner.ads.placeiq.com
 0.0.0.0 partner.knorex.com
 0.0.0.0 partner.shareaholic.com
+0.0.0.0 partnerad.l.doubleclick.net
 0.0.0.0 partnerads.ysm.yahoo.com
 0.0.0.0 partnerearning.com
 0.0.0.0 partners-hotwire-com.impactradius.com
@@ -6810,6 +6822,7 @@
 0.0.0.0 pls.prd.mz.internal.unity3d.com
 0.0.0.0 pluckypocket.com
 0.0.0.0 pluckyzone.com
+0.0.0.0 plugin.mediavoice.com
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 plugins.blueconic.net
 0.0.0.0 plus.tapsell.ir
@@ -6856,12 +6869,14 @@
 0.0.0.0 poole-collector-prod.bnsqc3zmvt.us-east-1.elasticbeanstalk.com
 0.0.0.0 popplantation.com
 0.0.0.0 popup.taboola.com
+0.0.0.0 pos.baidu.com
 0.0.0.0 possessivebucket.com
 0.0.0.0 possibleboats.com
 0.0.0.0 possiblepencil.com
 0.0.0.0 post-log.pushwoosh.com
 0.0.0.0 post.iperceptions.com
 0.0.0.0 postitial.com
+0.0.0.0 postut.cn
 0.0.0.0 potatoinvention.com
 0.0.0.0 potsaglu.net
 0.0.0.0 powderjourney.com
@@ -8471,6 +8486,7 @@
 0.0.0.0 static.tagmanager.toast.com
 0.0.0.0 static.tapfiliate.com
 0.0.0.0 static.target2sell.com
+0.0.0.0 static.terratraf.com
 0.0.0.0 static.timetreeads.com
 0.0.0.0 static.track.omguk.com
 0.0.0.0 static.va1.vip.prod.criteo.net
@@ -8901,6 +8917,7 @@
 0.0.0.0 tappx.com
 0.0.0.0 tapsell.ir
 0.0.0.0 tapsense.com
+0.0.0.0 tapstat.ru
 0.0.0.0 taptica.com
 0.0.0.0 tapulsads.ru
 0.0.0.0 target2sell.com
@@ -8923,6 +8940,7 @@
 0.0.0.0 tbiwtech.com
 0.0.0.0 tc.mnbvcxzq.com
 0.0.0.0 tc.qzwxrtyk.com
+0.0.0.0 tc.vbnmhjlp.com
 0.0.0.0 tccbanner.com
 0.0.0.0 tcheck.outbrainimg.com
 0.0.0.0 tcp.push.mob.com
@@ -9076,6 +9094,7 @@
 0.0.0.0 token.api.kochava.com
 0.0.0.0 token.rubiconproject.com
 0.0.0.0 tonefuse.com
+0.0.0.0 tongqing2015.com
 0.0.0.0 toolcapital.com
 0.0.0.0 tools.3g.qq.com
 0.0.0.0 toomanyalts.com
@@ -9323,6 +9342,7 @@
 0.0.0.0 truoptik.com
 0.0.0.0 trusted-collector-bk.tmocce.com
 0.0.0.0 ts.line-apps.com
+0.0.0.0 ts166.net
 0.0.0.0 tsyndicate.com
 0.0.0.0 tt.omtrdc.net
 0.0.0.0 tt.onthe.io
@@ -9716,6 +9736,7 @@
 0.0.0.0 videohub.tv
 0.0.0.0 videoplus.vo.llnwd.net
 0.0.0.0 vidora.com
+0.0.0.0 vidout.net
 0.0.0.0 vidstat.taboola.com
 0.0.0.0 vidstatb.taboola.com
 0.0.0.0 vidutils.taboola.com
@@ -10093,6 +10114,7 @@
 0.0.0.0 ysdk.qq.com
 0.0.0.0 yt.mmstat.com
 0.0.0.0 yt1.mmstat.com
+0.0.0.0 yuhuads.com
 0.0.0.0 yun-hl.3g.qq.com
 0.0.0.0 yuntodifrz.com
 0.0.0.0 z-eu.amazon-adsystem.com

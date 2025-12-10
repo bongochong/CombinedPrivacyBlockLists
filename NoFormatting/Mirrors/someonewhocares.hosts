@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sun, 23 Nov 2025 at 20:18:12 GMT
+# Last updated: Sun, 30 Nov 2025 at 19:42:45 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -826,6 +826,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 p.addthis.com
 0.0.0.0 p.bm23.com
 0.0.0.0 p.reuters.com
+0.0.0.0 pa-cd.com
 0.0.0.0 passpport.com
 0.0.0.0 paycounter.com
 0.0.0.0 pei-ads.thesmokingjacket.com
@@ -2306,6 +2307,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 loirs.fr
 0.0.0.0 lonaci.fr
 0.0.0.0 longrich.fr
+0.0.0.0 love-quest.blog
 0.0.0.0 loytec.fr
 0.0.0.0 lp.cleanmymac.online
 0.0.0.0 lpoint.fr

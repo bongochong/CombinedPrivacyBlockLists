@@ -2,7 +2,7 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 25 Nov 2025 18:52:10 GMT
+# last updated:   Thu, 04 Dec 2025 09:33:21 GMT
 # entries:        3479
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
@@ -31,7 +31,6 @@
 127.0.0.1 360yield.com
 127.0.0.1 3lift.com
 127.0.0.1 3o9s.short.gy
-127.0.0.1 4clicker.pro
 127.0.0.1 4d5.net
 127.0.0.1 4info.com
 127.0.0.1 4jnzhl0d0.com
@@ -194,7 +193,6 @@
 127.0.0.1 adcannyads.com
 127.0.0.1 adcash.com
 127.0.0.1 adcast.deviantart.com
-127.0.0.1 adcel.co
 127.0.0.1 adcell.de
 127.0.0.1 adcenter.net
 127.0.0.1 adclick.com
@@ -215,7 +213,6 @@
 127.0.0.1 ademails.com
 127.0.0.1 adengage.com
 127.0.0.1 adetracking.com
-127.0.0.1 adexc.net
 127.0.0.1 adexchangegate.com
 127.0.0.1 adexchangeprediction.com
 127.0.0.1 adexpose.com
@@ -232,7 +229,6 @@
 127.0.0.1 adhese.be
 127.0.0.1 adhese.com
 127.0.0.1 adhigh.net
-127.0.0.1 adhoc4.net
 127.0.0.1 adhub.media
 127.0.0.1 adhunter.media
 127.0.0.1 adimage.guardian.co.uk
@@ -403,7 +399,6 @@
 127.0.0.1 ads.digital-digest.com
 127.0.0.1 ads.digitalmedianet.com
 127.0.0.1 ads.digitalpoint.com
-127.0.0.1 ads.directionsmag.com
 127.0.0.1 ads.doit.com.cn
 127.0.0.1 ads.domeus.com
 127.0.0.1 ads.eagletribune.com
@@ -824,13 +819,13 @@
 127.0.0.1 adzerk.net
 127.0.0.1 adzerk.s3.amazonaws.com
 127.0.0.1 adzestocp.com
+127.0.0.1 aerialapps.com
 127.0.0.1 aerserv.com
 127.0.0.1 af-ad.co.uk
 127.0.0.1 affec.tv
 127.0.0.1 affili.net
 127.0.0.1 affiliate.1800flowers.com
 127.0.0.1 affiliate.dtiserv.com
-127.0.0.1 affiliate.rusvpn.com
 127.0.0.1 affiliate.travelnow.com
 127.0.0.1 affiliate.treated.com
 127.0.0.1 affiliatefuture.com
@@ -913,7 +908,6 @@
 127.0.0.1 annoyingacoustics.com
 127.0.0.1 anrdoezrs.net
 127.0.0.1 anstrex.com
-127.0.0.1 anuncios.edicaoms.com.br
 127.0.0.1 anxiousapples.com
 127.0.0.1 api.amplitude.com
 127.0.0.1 api.appmetrica.yandex.ru
@@ -1173,6 +1167,7 @@
 127.0.0.1 caniamedia.com
 127.0.0.1 capriciouscorn.com
 127.0.0.1 captainbicycle.com
+127.0.0.1 captainstick.com
 127.0.0.1 carambo.la
 127.0.0.1 carbonads.com
 127.0.0.1 carbonads.net
@@ -1572,6 +1567,7 @@
 127.0.0.1 eqy.link
 127.0.0.1 erne.co
 127.0.0.1 ero-advertising.com
+127.0.0.1 essaygiants.com
 127.0.0.1 estat.com
 127.0.0.1 esty.com
 127.0.0.1 et.educationdynamics.com
@@ -1644,6 +1640,7 @@
 127.0.0.1 feedbackresearch.com
 127.0.0.1 feedjit.com
 127.0.0.1 feedmob.com
+127.0.0.1 figsprotein.com
 127.0.0.1 fillthemap.com
 127.0.0.1 fimserve.com
 127.0.0.1 findcommerce.com
@@ -1658,6 +1655,7 @@
 127.0.0.1 flairadscpc.com
 127.0.0.1 flakyfeast.com
 127.0.0.1 flashtalking.com
+127.0.0.1 flashtexting.com
 127.0.0.1 fleshlightcash.com
 127.0.0.1 flexbanner.com
 127.0.0.1 flimsycircle.com
@@ -1873,7 +1871,6 @@
 127.0.0.1 ientrymail.com
 127.0.0.1 iesnare.com
 127.0.0.1 ifa.tube8live.com
-127.0.0.1 ignals.com
 127.0.0.1 ilbanner.com
 127.0.0.1 ilead.itrack.it
 127.0.0.1 illustriousoatmeal.com
@@ -2247,6 +2244,7 @@
 127.0.0.1 monarchads.com
 127.0.0.1 monetate.net
 127.0.0.1 monetizer101.com
+127.0.0.1 monkeyapes.com
 127.0.0.1 monsterpops.com
 127.0.0.1 mookie1.com
 127.0.0.1 mopub.com
@@ -2386,6 +2384,7 @@
 127.0.0.1 onlinecash.com
 127.0.0.1 onlinecashmethod.com
 127.0.0.1 onlinerewardcenter.com
+127.0.0.1 onlinestarten.net
 127.0.0.1 onscroll.com
 127.0.0.1 onthe.io
 127.0.0.1 opads.us
@@ -2485,7 +2484,6 @@
 127.0.0.1 pheedo.com
 127.0.0.1 phoenix-adrunner.mycomputer.com
 127.0.0.1 piano.io
-127.0.0.1 piet2eix3l.com
 127.0.0.1 pimproll.com
 127.0.0.1 ping.ublock.org
 127.0.0.1 pipedream.wistia.com
@@ -2549,7 +2547,6 @@
 127.0.0.1 prf.hn
 127.0.0.1 priceypies.com
 127.0.0.1 pricklydebt.com
-127.0.0.1 priefy.com
 127.0.0.1 primetime.net
 127.0.0.1 privatecash.com
 127.0.0.1 prmtracking.com
@@ -2869,6 +2866,7 @@
 127.0.0.1 skisofa.com
 127.0.0.1 skroutza.skroutz.gr
 127.0.0.1 skylink.vn
+127.0.0.1 slimesupplies.net
 127.0.0.1 slopeaota.com
 127.0.0.1 smaato.com
 127.0.0.1 smart-data-systems.com
@@ -3179,6 +3177,7 @@
 127.0.0.1 track.przejdzdostrony.pl
 127.0.0.1 track.pubmatic.com
 127.0.0.1 track.segmetrics.io
+127.0.0.1 track.smtpmessage.com
 127.0.0.1 track.software-codes.com
 127.0.0.1 track.spe.schoolmessenger.com
 127.0.0.1 track.ultravpn.com
@@ -3420,6 +3419,7 @@
 127.0.0.1 woopra.com
 127.0.0.1 worldwide-cash.net
 127.0.0.1 worriednumber.com
+127.0.0.1 wowfunnow.com
 127.0.0.1 writerhubs.com
 127.0.0.1 wt-eu02.net
 127.0.0.1 wt.bankmillennium.pl
