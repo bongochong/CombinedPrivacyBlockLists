@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 04 Dec 2025 09:33:21 GMT
-# entries:        3479
+# last updated:   Tue, 23 Dec 2025 11:11:03 GMT
+# entries:        3486
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -193,6 +193,7 @@
 127.0.0.1 adcannyads.com
 127.0.0.1 adcash.com
 127.0.0.1 adcast.deviantart.com
+127.0.0.1 adcel.co
 127.0.0.1 adcell.de
 127.0.0.1 adcenter.net
 127.0.0.1 adclick.com
@@ -371,7 +372,6 @@
 127.0.0.1 ads.bluemountain.com
 127.0.0.1 ads.boerding.com
 127.0.0.1 ads.boylesports.com
-127.0.0.1 ads.brabys.com
 127.0.0.1 ads.canalblog.com
 127.0.0.1 ads.casinocity.com
 127.0.0.1 ads.casumoaffiliates.com
@@ -714,7 +714,6 @@
 127.0.0.1 adsfac.eu
 127.0.0.1 adsfac.net
 127.0.0.1 adsfac.us
-127.0.0.1 adsfeed.brabys.com
 127.0.0.1 adsflowprime.top
 127.0.0.1 adshrink.it
 127.0.0.1 adside.com
@@ -1083,6 +1082,7 @@
 127.0.0.1 big-bang-ads.com
 127.0.0.1 bigbangmedia.com
 127.0.0.1 bigclicks.com
+127.0.0.1 bigfishapparel.com
 127.0.0.1 bigreal.org
 127.0.0.1 bigworldfashion.com
 127.0.0.1 billboard.cz
@@ -1107,6 +1107,7 @@
 127.0.0.1 blueconic.net
 127.0.0.1 bluekai.com
 127.0.0.1 bluelithium.com
+127.0.0.1 bluenest.net
 127.0.0.1 bluewhaleweb.com
 127.0.0.1 blushingbeast.com
 127.0.0.1 blushingbread.com
@@ -1337,6 +1338,7 @@
 127.0.0.1 communications.melitaltd.com
 127.0.0.1 compactbanner.com
 127.0.0.1 comparereaction.com
+127.0.0.1 compilework.com
 127.0.0.1 comprabanner.it
 127.0.0.1 conditionchange.com
 127.0.0.1 conductrics.com
@@ -1362,6 +1364,7 @@
 127.0.0.1 convrse.media
 127.0.0.1 cookies.cmpnet.com
 127.0.0.1 cootlogix.com
+127.0.0.1 copperstills.net
 127.0.0.1 copycarpenter.com
 127.0.0.1 copyrightaccesscontrols.com
 127.0.0.1 coremetrics.com
@@ -1380,6 +1383,7 @@
 127.0.0.1 counter.snackly.co
 127.0.0.1 counting.kmindex.ru
 127.0.0.1 coupling-media.de
+127.0.0.1 cowbelltime.com
 127.0.0.1 coxmt.com
 127.0.0.1 cozyhillside.com
 127.0.0.1 cpalead.com
@@ -1451,7 +1455,6 @@
 127.0.0.1 deepintent.com
 127.0.0.1 delicatecascade.com
 127.0.0.1 deloo.de
-127.0.0.1 deloplen.com
 127.0.0.1 demandbase.com
 127.0.0.1 demdex.net
 127.0.0.1 deployads.com
@@ -1462,6 +1465,7 @@
 127.0.0.1 dev.visualwebsiteoptimizer.com
 127.0.0.1 dewdroplagoon.com
 127.0.0.1 dianomi.com
+127.0.0.1 dicecandies.com
 127.0.0.1 didtheyreadit.com
 127.0.0.1 digestiondrawer.com
 127.0.0.1 digital-ads.s3.amazonaws.com
@@ -1523,6 +1527,7 @@
 127.0.0.1 ecoupons.com
 127.0.0.1 edaa.eu
 127.0.0.1 edgexads.com
+127.0.0.1 eighthlayer.net
 127.0.0.1 eiv.baidu.com
 127.0.0.1 elasticchange.com
 127.0.0.1 elderlytown.com
@@ -1789,6 +1794,7 @@
 127.0.0.1 haplesshydrant.com
 127.0.0.1 harrenmedia.com
 127.0.0.1 harrenmedianetwork.com
+127.0.0.1 hayweb.net
 127.0.0.1 hb.afl.rakuten.co.jp
 127.0.0.1 hb.vntsm.com
 127.0.0.1 hbb.afl.rakuten.co.jp
@@ -1805,6 +1811,7 @@
 127.0.0.1 hf5rbejvpwds.com
 127.0.0.1 hfc195b.com
 127.0.0.1 hgads.com
+127.0.0.1 highnoongear.com
 127.0.0.1 hightrafficads.com
 127.0.0.1 hilariouszinc.com
 127.0.0.1 histats.com
@@ -1864,6 +1871,7 @@
 127.0.0.1 iadnet.com
 127.0.0.1 ibillboard.com
 127.0.0.1 icptrack.com
+127.0.0.1 icywinter.com
 127.0.0.1 id5-sync.com
 127.0.0.1 idealadvertising.net
 127.0.0.1 idevaffiliate.com
@@ -2198,7 +2206,6 @@
 127.0.0.1 metrics.api.drift.com
 127.0.0.1 metrics.articulate.com
 127.0.0.1 metrics.cnn.com
-127.0.0.1 metrics.consumerreports.org
 127.0.0.1 metrics.foxnews.com
 127.0.0.1 metrics.getrockerbox.com
 127.0.0.1 metrics.gfycat.com
@@ -2217,7 +2224,6 @@
 127.0.0.1 minibilling.com
 127.0.0.1 mintegral.com
 127.0.0.1 mittencattle.com
-127.0.0.1 mix2ads.com
 127.0.0.1 mixedreading.com
 127.0.0.1 mixpanel.com
 127.0.0.1 mkto-ab410147.com
@@ -2468,7 +2474,6 @@
 127.0.0.1 peer39.com
 127.0.0.1 pennyweb.com
 127.0.0.1 pepperjamnetwork.com
-127.0.0.1 perceivequarter.com
 127.0.0.1 percentmobile.com
 127.0.0.1 perfectaudience.com
 127.0.0.1 perfiliate.com
@@ -3109,6 +3114,7 @@
 127.0.0.1 the-ozone-project.com
 127.0.0.1 theadex.com
 127.0.0.1 theadhost.com
+127.0.0.1 theadsparks.com
 127.0.0.1 thebugs.ws
 127.0.0.1 thecrazychili.com
 127.0.0.1 themangotea.com
@@ -3400,6 +3406,7 @@
 127.0.0.1 whisperingcrib.com
 127.0.0.1 whisperingsummit.com
 127.0.0.1 whoisonline.net
+127.0.0.1 wholepagecache.com
 127.0.0.1 wickedreports.com
 127.0.0.1 widget.educationdynamics.com
 127.0.0.1 widget.privy.com
