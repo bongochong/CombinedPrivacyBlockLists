@@ -1,10 +1,9 @@
 # Title: Malicious Hosts Blocklist
-# Updated: 2025-12-24T12:10:32Z
+# Updated: 2025-12-27T00:10:02Z
 # Expires: 12 hours (update frequency)
 # Homepage: https://gitlab.com/malware-filter/urlhaus-filter
 # License: https://gitlab.com/malware-filter/urlhaus-filter#license
 # Source: https://urlhaus.abuse.ch/api/
-0.0.0.0 0.nybk.ru
 0.0.0.0 00.0fv1.ru
 0.0.0.0 00.lightb0x.ru
 0.0.0.0 00f.deepflash.ru
@@ -45,14 +44,12 @@
 0.0.0.0 09o.ap2thsh0pk.ru
 0.0.0.0 0a.k59ee.ru
 0.0.0.0 0a9bd.softcr5st.ru
-0.0.0.0 0b.nybk.ru
 0.0.0.0 0bd.ldef4.ru
 0.0.0.0 0c.dzem-4.ru
 0.0.0.0 0e.hnaq6.ru
 0.0.0.0 0ec.barg5t0get.ru
 0.0.0.0 0ej.frostc0met.ru
 0.0.0.0 0er.owlflug.ru
-0.0.0.0 0f.padj.ru
 0.0.0.0 0f.sj5o5.ru
 0.0.0.0 0ff.m4ze.ru
 0.0.0.0 0g.su-4n.ru
@@ -76,7 +73,6 @@
 0.0.0.0 0kon.h1ddenlake.ru
 0.0.0.0 0lj.te8x.ru
 0.0.0.0 0m.03e3x.ru
-0.0.0.0 0m.jagc.ru
 0.0.0.0 0m3.8j4-5-6.ru
 0.0.0.0 0ma.77-6.ru
 0.0.0.0 0mp8j.n1ghtbreeze.ru
@@ -84,6 +80,7 @@
 0.0.0.0 0n.crju.ru
 0.0.0.0 0okm8.dew-root.ru
 0.0.0.0 0p.m7lo.ru
+0.0.0.0 0p.sn1pcradle.ru
 0.0.0.0 0pv.dlun-7.ru
 0.0.0.0 0q.p7li.ru
 0.0.0.0 0q.xvo4.ru
@@ -96,6 +93,8 @@
 0.0.0.0 0ur.r9xa.ru
 0.0.0.0 0v.3druv.ru
 0.0.0.0 0v.wo-h3.ru
+0.0.0.0 0v79.c2dmiumgho5t.ru
+0.0.0.0 0vj.f2rewel1lever.ru
 0.0.0.0 0w.da5y.ru
 0.0.0.0 0wq.ye-t5c.ru
 0.0.0.0 0wr.xf7-27.ru
@@ -107,11 +106,11 @@
 0.0.0.0 0y.w8i0h.ru
 0.0.0.0 0yna.lo0kferti1.ru
 0.0.0.0 0z.cloverschnee.ru
-0.0.0.0 0z.pihp.ru
 0.0.0.0 0z.sproutkraft.ru
 0.0.0.0 0z.t-pay3.ru
 0.0.0.0 0z3sa.tweak-mire.ru
 0.0.0.0 0zi.wildc0ast.ru
+0.0.0.0 0zlrw.lo5ermedi0c.ru
 0.0.0.0 0zq.2mq4r.ru
 0.0.0.0 0zq.e41m.ru
 0.0.0.0 0zq.p2a3p.ru
@@ -152,6 +151,8 @@
 0.0.0.0 139-162-143-187.ip.linodeusercontent.com
 0.0.0.0 13p3ause7381df.com
 0.0.0.0 13rv.wild5ky.ru
+0.0.0.0 13va.windl1ne.ru
+0.0.0.0 14-0-204-188.static.pccw-hkt.com
 0.0.0.0 14.888-c.ru
 0.0.0.0 14.vqod-2.ru
 0.0.0.0 141-98-10-66.cprapid.com
@@ -161,11 +162,9 @@
 0.0.0.0 14h.aucti-0-nz-7-ir.ru
 0.0.0.0 14stirling.dyndns.org
 0.0.0.0 15.frostc0met.ru
-0.0.0.0 15.nybh.ru
 0.0.0.0 15.to1j.ru
 0.0.0.0 1545jgd.demotionborrower.digital
 0.0.0.0 15yf.mirthcap.ru
-0.0.0.0 16.mynq.ru
 0.0.0.0 160-238-13-201.static.bestidc.net
 0.0.0.0 160287.rv6324.ru
 0.0.0.0 160287.u521483.ru
@@ -210,13 +209,13 @@
 0.0.0.0 1c-bitrix-perenos.adm-center.ru
 0.0.0.0 1c.03e3x.ru
 0.0.0.0 1c.b2-ra.ru
-0.0.0.0 1c.bejw.ru
 0.0.0.0 1clickserver.com
 0.0.0.0 1csr.cl1ppleap.ru
 0.0.0.0 1cwm.wildf1re.ru
 0.0.0.0 1d.71o9.ru
 0.0.0.0 1e.nqyf7.ru
 0.0.0.0 1euk.twirlpane.ru
+0.0.0.0 1f.deepc0rest.ru
 0.0.0.0 1f.g-vox.ru
 0.0.0.0 1f.zzax-4.ru
 0.0.0.0 1fj.lo9q.ru
@@ -227,9 +226,9 @@
 0.0.0.0 1h.zo4n.ru
 0.0.0.0 1hi.to1j.ru
 0.0.0.0 1hj.sx-2-u-0.ru
+0.0.0.0 1hm2.stormm1nd.ru
 0.0.0.0 1hx8.maplexenon.ru
 0.0.0.0 1i.lightst0rm.ru
-0.0.0.0 1i.myzj.ru
 0.0.0.0 1id.r9xa.ru
 0.0.0.0 1it.la9q.ru
 0.0.0.0 1j9.wduh8.ru
@@ -264,7 +263,9 @@
 0.0.0.0 1oi.s7li.ru
 0.0.0.0 1ojva.g0sslamp.ru
 0.0.0.0 1ot1.fal1ow7an.ru
+0.0.0.0 1ovxt.cloudf1eld.ru
 0.0.0.0 1p2.re7x.ru
+0.0.0.0 1p53.fl-0-wmortar.ru
 0.0.0.0 1qb.rk-8-y-6.ru
 0.0.0.0 1qc.windsh1ne.ru
 0.0.0.0 1r.sx-2-u-0.ru
@@ -296,6 +297,7 @@
 0.0.0.0 1xbet-android.online
 0.0.0.0 1y.a1tistt0rt.ru
 0.0.0.0 1y.fe-k2.ru
+0.0.0.0 1y1zd.n1ghtcrest.ru
 0.0.0.0 1y6v.ant1d5ulphur.ru
 0.0.0.0 1yc.commi-5-sfa-7-t.ru
 0.0.0.0 1yd0a.pulse-knob.ru
@@ -305,8 +307,8 @@
 0.0.0.0 1z.5no-v.ru
 0.0.0.0 1z3.ss-9-y-4.ru
 0.0.0.0 1zqb.fire1n5ulat.ru
+0.0.0.0 1zqf.knurlpocket.ru
 0.0.0.0 1zs.yu5k.ru
-0.0.0.0 2.kunb.ru
 0.0.0.0 2.off3.ru
 0.0.0.0 2.s61y5.ru
 0.0.0.0 2.vqod2.ru
@@ -350,6 +352,7 @@
 0.0.0.0 2b3.di5r.ru
 0.0.0.0 2b7.w7tx-3t.ru
 0.0.0.0 2b9k.ye-t5c.ru
+0.0.0.0 2bej.0ctave5pairi.ru
 0.0.0.0 2controller.online
 0.0.0.0 2cr.4qo8.ru
 0.0.0.0 2d.55-0p.ru
@@ -368,6 +371,7 @@
 0.0.0.0 2h.bvum-6.ru
 0.0.0.0 2h.tweakmire.ru
 0.0.0.0 2h6.mistfaii.ru
+0.0.0.0 2hedr.rainsh1eld.ru
 0.0.0.0 2hk8u.drift-shad-0-w.ru
 0.0.0.0 2hu.ozxg-5.ru
 0.0.0.0 2huv.itki5se1.ru
@@ -438,7 +442,6 @@
 0.0.0.0 2zq4.ey-m5t.ru
 0.0.0.0 2zs.7-h9.ru
 0.0.0.0 3-acc-domain.online
-0.0.0.0 3.tiqk.ru
 0.0.0.0 30.c70ye.ru
 0.0.0.0 30951.49o103159.ru
 0.0.0.0 30951.bl8205.ru
@@ -458,6 +461,7 @@
 0.0.0.0 333.37i658094.ru
 0.0.0.0 333.i327147.ru
 0.0.0.0 33f.gtus4.ru
+0.0.0.0 33y5t.stormm1nd.ru
 0.0.0.0 33zy.quenchorbit.ru
 0.0.0.0 3499013.r46eu.ru
 0.0.0.0 34m37.c0rkpr0tect.ru
@@ -467,7 +471,6 @@
 0.0.0.0 36.fk9e2.ru
 0.0.0.0 36.yldv.ru
 0.0.0.0 36.ynmh-8.ru
-0.0.0.0 37.wugh.ru
 0.0.0.0 37msl.t1nkercove.ru
 0.0.0.0 37s.mashvortex.ru
 0.0.0.0 382.da6v.ru
@@ -487,13 +490,16 @@
 0.0.0.0 3c.xbiq2.ru
 0.0.0.0 3ccw2.orbitalnip.ru
 0.0.0.0 3ch.u-v9.ru
+0.0.0.0 3cnui.v-0-xenridge.ru
 0.0.0.0 3controller.online
 0.0.0.0 3controller.ru
 0.0.0.0 3cz39.cobbleyard.ru
 0.0.0.0 3d.888-c.ru
 0.0.0.0 3dpf.9-32p.ru
 0.0.0.0 3dw.n2vr.ru
+0.0.0.0 3dxd.n1ghtflow.ru
 0.0.0.0 3e.clears0ft.ru
+0.0.0.0 3ec2k.bluef0rm.ru
 0.0.0.0 3ek56.j1ngleknob.ru
 0.0.0.0 3f.fi0m.ru
 0.0.0.0 3f.p7li.ru
@@ -505,7 +511,6 @@
 0.0.0.0 3gky.forestcl0ud.ru
 0.0.0.0 3h2p.nightm1nt.ru
 0.0.0.0 3hg.bramblestrom.ru
-0.0.0.0 3i.kunb.ru
 0.0.0.0 3i.po5tr2diat.ru
 0.0.0.0 3i.wave5tone.ru
 0.0.0.0 3i7.si9a.ru
@@ -517,6 +522,7 @@
 0.0.0.0 3l.hush-copper.ru
 0.0.0.0 3l.kj-4-o-0.ru
 0.0.0.0 3la6ol.net
+0.0.0.0 3m.5lau8htwater.ru
 0.0.0.0 3mb.p7li.ru
 0.0.0.0 3mt.manual-1-sa-1-yz.ru
 0.0.0.0 3mta.6362o9.ru
@@ -528,6 +534,7 @@
 0.0.0.0 3pausecmeor.com
 0.0.0.0 3q6.ithc-4.ru
 0.0.0.0 3qd.7nf214.ru
+0.0.0.0 3qdt.m1stypath.ru
 0.0.0.0 3ql.y-p-19.ru
 0.0.0.0 3qv.i4-27k.ru
 0.0.0.0 3r.bid-5.ru
@@ -563,13 +570,13 @@
 0.0.0.0 3x7.p7ecunder8.ru
 0.0.0.0 3xk.k5gc56.ru
 0.0.0.0 3yb.brightc0re.ru
+0.0.0.0 3ym.bracketloam.ru
 0.0.0.0 3z.te8x.ru
 0.0.0.0 3z6.bo8y.ru
 0.0.0.0 3zd6k5n6q3.ufs.sh
 0.0.0.0 3zg.barg5t0get.ru
 0.0.0.0 3zv.bg4o2.ru
 0.0.0.0 4.9wb-k.ru
-0.0.0.0 4.derl.ru
 0.0.0.0 4.o-a4eu.ru
 0.0.0.0 4.r46eu.ru
 0.0.0.0 40.hb0-e.ru
@@ -583,6 +590,7 @@
 0.0.0.0 415.z-x0.ru
 0.0.0.0 41i.rd-1-a-2.ru
 0.0.0.0 428.ckyq-9.ru
+0.0.0.0 42b.skyfl0w.ru
 0.0.0.0 42s.starforged.ru
 0.0.0.0 43.tvil0.ru
 0.0.0.0 4393eb8c.solaraweb-alj.pages.dev
@@ -621,11 +629,11 @@
 0.0.0.0 4d3.f-o-9bt.ru
 0.0.0.0 4dh11.lo0kferti1.ru
 0.0.0.0 4ed.nqyf7.ru
+0.0.0.0 4eie3.rainsh1eld.ru
 0.0.0.0 4es.8i-9.ru
 0.0.0.0 4f.bg4o2.ru
 0.0.0.0 4f.jeqr.ru
 0.0.0.0 4f.softshadow.ru
-0.0.0.0 4f.tiqk.ru
 0.0.0.0 4f8a.wolkenmeer.ru
 0.0.0.0 4hp.je9t.ru
 0.0.0.0 4ht.qj-4-y-4.ru
@@ -633,7 +641,6 @@
 0.0.0.0 4i1.ussn-7.ru
 0.0.0.0 4i4.gj-2-i-3.ru
 0.0.0.0 4ia.fk9e2.ru
-0.0.0.0 4j.mynq.ru
 0.0.0.0 4j.sl0bozh5treak.ru
 0.0.0.0 4j1.glacierbruecke.ru
 0.0.0.0 4j5.g7ve.ru
@@ -641,6 +648,8 @@
 0.0.0.0 4jf.va4n.ru
 0.0.0.0 4k.x-vo4.ru
 0.0.0.0 4l.ve5l.ru
+0.0.0.0 4lg.m1stypath.ru
+0.0.0.0 4lj.n2imenei8hbor.ru
 0.0.0.0 4m.7si-s.ru
 0.0.0.0 4m.mt3o4.ru
 0.0.0.0 4mapc.racketloom.ru
@@ -649,6 +658,7 @@
 0.0.0.0 4n.jt4o0.ru
 0.0.0.0 4n.zk-5-e-7.ru
 0.0.0.0 4nj.5hri1luv.ru
+0.0.0.0 4o.1ntrude7truha.ru
 0.0.0.0 4o.fa3y.ru
 0.0.0.0 4o.p0larday.ru
 0.0.0.0 4o2.fa3y.ru
@@ -669,7 +679,6 @@
 0.0.0.0 4shn.t1decrystai.ru
 0.0.0.0 4sv.cl0udmark.ru
 0.0.0.0 4t.ckyq9.ru
-0.0.0.0 4t.wugh.ru
 0.0.0.0 4tqm.28ae00i7.ru
 0.0.0.0 4u.ozxg-5.ru
 0.0.0.0 4v.hyk5.ru
@@ -685,7 +694,6 @@
 0.0.0.0 4z.st0rmleaf.ru
 0.0.0.0 4zx.paperknurl.ru
 0.0.0.0 5-253-86-21.cprapid.com
-0.0.0.0 5.wugh.ru
 0.0.0.0 50.aclz-9.ru
 0.0.0.0 5002201.60e533569.ru
 0.0.0.0 501.49o103159.ru
@@ -712,6 +720,7 @@
 0.0.0.0 554r5.f0xwave.ru
 0.0.0.0 556.windst0ne.ru
 0.0.0.0 56.quarkspoon.ru
+0.0.0.0 56i3.n2imenei8hbor.ru
 0.0.0.0 57.jk-3-y-7.ru
 0.0.0.0 57.tvil0.ru
 0.0.0.0 57y.bo3l.ru
@@ -769,6 +778,7 @@
 0.0.0.0 5m.bo8y.ru
 0.0.0.0 5m.maplexenon.ru
 0.0.0.0 5m.njur.ru
+0.0.0.0 5mao.skyfl0w.ru
 0.0.0.0 5n.kaq51.ru
 0.0.0.0 5n.kqag-6.ru
 0.0.0.0 5nafr.esca1t3ust.ru
@@ -787,7 +797,6 @@
 0.0.0.0 5pe.lj3u5.ru
 0.0.0.0 5pi.pe8d.ru
 0.0.0.0 5q.ckar4.ru
-0.0.0.0 5q.lexz.ru
 0.0.0.0 5q.x-vo4.ru
 0.0.0.0 5qi.n2vr.ru
 0.0.0.0 5qjh.frostn0de.ru
@@ -795,12 +804,13 @@
 0.0.0.0 5r.ch2rmsan1nst.ru
 0.0.0.0 5rn.b1tzdrop.ru
 0.0.0.0 5rq9.t1nystar.ru
+0.0.0.0 5s1.silentf0rest.ru
+0.0.0.0 5ssibaciyq.tabletrepairnj.com
 0.0.0.0 5t.s61y5.ru
 0.0.0.0 5tar.0zvel.online
 0.0.0.0 5tl.sx2u0.ru
 0.0.0.0 5tq.xr-7-a-0.ru
 0.0.0.0 5u.pf4i2.ru
-0.0.0.0 5u.tiqk.ru
 0.0.0.0 5u2.fe7a.ru
 0.0.0.0 5v.ithc-4.ru
 0.0.0.0 5v6.cv3a9.ru
@@ -814,10 +824,11 @@
 0.0.0.0 5wf.yw9a.ru
 0.0.0.0 5wnc.rockstorm.ru
 0.0.0.0 5x.03e3x.ru
+0.0.0.0 5x80a.amberflint.ru
 0.0.0.0 5xw.aclz-9.ru
+0.0.0.0 5y8t4.t2kec2reujo.ru
 0.0.0.0 5z.sx2u0.ru
 0.0.0.0 5zp7i.bluel1ght.ru
-0.0.0.0 6.nytk.ru
 0.0.0.0 60.crju.ru
 0.0.0.0 60.fkur-8.ru
 0.0.0.0 60012.c70ye.ru
@@ -830,9 +841,12 @@
 0.0.0.0 610294.i327147.ru
 0.0.0.0 615162.freedomandchance.digital
 0.0.0.0 61g.rv-2-o-5.ru
+0.0.0.0 61qtv.silentf0rest.ru
 0.0.0.0 62.pe8d.ru
 0.0.0.0 624.zzax-4.ru
 0.0.0.0 628.torquebud.ru
+0.0.0.0 62spf.n1ghtflow.ru
+0.0.0.0 63.amberflint.ru
 0.0.0.0 631cf.ant1d5ulphur.ru
 0.0.0.0 63oi.wild5ky.ru
 0.0.0.0 64.rockbyte.ru
@@ -877,12 +891,14 @@
 0.0.0.0 6cyd.ap2rthyub2n.ru
 0.0.0.0 6d.jeqr.ru
 0.0.0.0 6d.m2jo.ru
+0.0.0.0 6dr.rainsh1eld.ru
 0.0.0.0 6dx.cfob-5.ru
 0.0.0.0 6dze.lu-7-hichma-7-t.ru
 0.0.0.0 6ehj.duzhk2s1ob.ru
 0.0.0.0 6eys.col1ectfre5h.ru
 0.0.0.0 6f.n1ghtbloom.ru
 0.0.0.0 6far5.c2rndiv1ne.ru
+0.0.0.0 6fnuy.deepf0rm.ru
 0.0.0.0 6g.sd4o7.ru
 0.0.0.0 6g.w8i0h.ru
 0.0.0.0 6gx.gi-0-wmarsh.ru
@@ -909,6 +925,7 @@
 0.0.0.0 6ni.nq-8-e-9.ru
 0.0.0.0 6nn.gr1tbinder.ru
 0.0.0.0 6o.jamcrest.ru
+0.0.0.0 6o2p1.0ctave5pairi.ru
 0.0.0.0 6p.dnek6.ru
 0.0.0.0 6pause839e.com
 0.0.0.0 6pz.bray-circuit.ru
@@ -926,11 +943,11 @@
 0.0.0.0 6u.xvo4.ru
 0.0.0.0 6u1.mt3o4.ru
 0.0.0.0 6us.cl0udtrace.ru
-0.0.0.0 6v.jagc.ru
 0.0.0.0 6vy.8i-9.ru
 0.0.0.0 6w5w.darksh1ft.ru
 0.0.0.0 6wo.mi7x.ru
 0.0.0.0 6wz.skyf0rge.ru
+0.0.0.0 6x79j.bracket-loam.ru
 0.0.0.0 6xy2.n0uvpu7itan.ru
 0.0.0.0 6yi.ha0m.ru
 0.0.0.0 6z.b2ra.ru
@@ -939,7 +956,6 @@
 0.0.0.0 6zy.l-ly.ru
 0.0.0.0 7.c70ye.ru
 0.0.0.0 7.kzg-w-4-y.ru
-0.0.0.0 7.nytk.ru
 0.0.0.0 70.b9sa.ru
 0.0.0.0 70.fk-9-e-2.ru
 0.0.0.0 70.re7x.ru
@@ -978,7 +994,6 @@
 0.0.0.0 78-20-115-5.access.telenet.be
 0.0.0.0 78.slaq.ru
 0.0.0.0 78y.ynbr-8.ru
-0.0.0.0 79.nytk.ru
 0.0.0.0 7a.p7li.ru
 0.0.0.0 7a.sj-5-o-5.ru
 0.0.0.0 7a19u.darkl1ne.ru
@@ -986,6 +1001,7 @@
 0.0.0.0 7anki.p7ecunder8.ru
 0.0.0.0 7b.888-c.ru
 0.0.0.0 7b.bvum6.ru
+0.0.0.0 7bc4p.n1ghtcrest.ru
 0.0.0.0 7bn.1051lt6.ru
 0.0.0.0 7bv.xa4p.ru
 0.0.0.0 7c.rivershad0w.ru
@@ -1001,9 +1017,12 @@
 0.0.0.0 7e.vqod-2.ru
 0.0.0.0 7e8g.brambleforge.ru
 0.0.0.0 7eud.97ie88e7.ru
+0.0.0.0 7ew.t2kec2reujo.ru
 0.0.0.0 7ff.mw-9-y-4.ru
 0.0.0.0 7fl06.harpswitch.ru
+0.0.0.0 7g.darkw1nd.ru
 0.0.0.0 7g.yldv.ru
+0.0.0.0 7gp8l.bracket-loam.ru
 0.0.0.0 7h.5g-t.ru
 0.0.0.0 7h.8b-1d.ru
 0.0.0.0 7hb.yldv.ru
@@ -1032,6 +1051,7 @@
 0.0.0.0 7n.luc7y5nub.ru
 0.0.0.0 7n.vbep3.ru
 0.0.0.0 7nb.dae017f.ru
+0.0.0.0 7nt.fori5po1u.ru
 0.0.0.0 7o.ynbr-8.ru
 0.0.0.0 7octubredc.duckdns.org
 0.0.0.0 7p53k.commi-5-sfa-7-t.ru
@@ -1058,7 +1078,6 @@
 0.0.0.0 7uo.g0sslamp.ru
 0.0.0.0 7uy.re5onwi1ling.ru
 0.0.0.0 7v7.ha5r.ru
-0.0.0.0 7w.lobd.ru
 0.0.0.0 7w.rvox.ru
 0.0.0.0 7ws9g.turbotap.ru
 0.0.0.0 7x.95tbm.ru
@@ -1069,7 +1088,6 @@
 0.0.0.0 7yyu6.snowcrest.ru
 0.0.0.0 7z.nightfl0w.ru
 0.0.0.0 7zt.vqod2.ru
-0.0.0.0 8.mijk.ru
 0.0.0.0 80.ha5r.ru
 0.0.0.0 802.f1rewave.ru
 0.0.0.0 80n.e-dx.ru
@@ -1097,6 +1115,7 @@
 0.0.0.0 851.rv6324.ru
 0.0.0.0 86.lo0kferti1.ru
 0.0.0.0 869.yffl9.ru
+0.0.0.0 86ds.bracket-loam.ru
 0.0.0.0 86w.ldef-4.ru
 0.0.0.0 879.lo9q.ru
 0.0.0.0 88.oc57y.ru
@@ -1111,7 +1130,6 @@
 0.0.0.0 8a.duzhk2s1ob.ru
 0.0.0.0 8a.quark-spoon.ru
 0.0.0.0 8a.s0ftmint.ru
-0.0.0.0 8a.tiqk.ru
 0.0.0.0 8a.u-v9.ru
 0.0.0.0 8b.mt-3-o-4.ru
 0.0.0.0 8b.op76.ru
@@ -1122,16 +1140,17 @@
 0.0.0.0 8controller.online
 0.0.0.0 8controller.ru
 0.0.0.0 8cu.co0perport5.ru
-0.0.0.0 8d.derl.ru
 0.0.0.0 8d.ko-lu.ru
 0.0.0.0 8e.skylintap.ru
 0.0.0.0 8ey.jam-crest.ru
-0.0.0.0 8f.lexz.ru
+0.0.0.0 8f.entire1y5ming.ru
 0.0.0.0 8fz.yu5k.ru
 0.0.0.0 8g.picketwarp.ru
 0.0.0.0 8g8.torquebud.ru
+0.0.0.0 8gr.f0rtunmentho1.ru
 0.0.0.0 8h.xer-o.ru
 0.0.0.0 8i.te8x.ru
+0.0.0.0 8iyp.entert2inru8.ru
 0.0.0.0 8k.bvum-6.ru
 0.0.0.0 8k.dark5hip.ru
 0.0.0.0 8k.softsh1ft.ru
@@ -1144,6 +1163,7 @@
 0.0.0.0 8n.ha0m.ru
 0.0.0.0 8n.n6ri.ru
 0.0.0.0 8n5.xb-4-e-7.ru
+0.0.0.0 8nf25.hushzigzag.ru
 0.0.0.0 8ny.lano5cho0l.ru
 0.0.0.0 8o.obvp2.ru
 0.0.0.0 8o6.halfquark.ru
@@ -1157,7 +1177,6 @@
 0.0.0.0 8ql.n6ri.ru
 0.0.0.0 8r.g-1-zmotrail.ru
 0.0.0.0 8r.ha0m.ru
-0.0.0.0 8r.kijx.ru
 0.0.0.0 8rt2.emberhoehle.ru
 0.0.0.0 8s.1yjp.ru
 0.0.0.0 8s.kj-4-o-0.ru
@@ -1182,9 +1201,9 @@
 0.0.0.0 8y.b2ra.ru
 0.0.0.0 8y.f0undst2rve.ru
 0.0.0.0 8y.kqag-6.ru
+0.0.0.0 8z.darkf0x.ru
 0.0.0.0 8z2a.dark5hip.ru
 0.0.0.0 8zmw8.harpswitch.ru
-0.0.0.0 9.pymz.ru
 0.0.0.0 90.gc0o9.ru
 0.0.0.0 90.k59ee.ru
 0.0.0.0 90.slaq.ru
@@ -1225,13 +1244,14 @@
 0.0.0.0 969.br1ckw0rd.ru
 0.0.0.0 97.di5r.ru
 0.0.0.0 971.ykgw-2.ru
+0.0.0.0 972d1.n2imenei8hbor.ru
 0.0.0.0 976.n6ri.ru
 0.0.0.0 98.drip-anchor.ru
 0.0.0.0 98.hnaq6.ru
 0.0.0.0 987i.bri8hten0ld.ru
+0.0.0.0 989.f0rtunmentho1.ru
 0.0.0.0 98du.mor-5-tud-1-es.ru
 0.0.0.0 99-118-215-24.lightspeed.irvnca.sbcglobal.net
-0.0.0.0 99.derl.ru
 0.0.0.0 99.r46eu.ru
 0.0.0.0 99194034-96-20180108171507.webstarterz.com
 0.0.0.0 9a.zqof0.ru
@@ -1290,6 +1310,7 @@
 0.0.0.0 9rt5b.dexlotion.ru
 0.0.0.0 9s.m2jo.ru
 0.0.0.0 9s.qcet8.ru
+0.0.0.0 9s.rainf0rm.ru
 0.0.0.0 9sct2.sp1nterpad.ru
 0.0.0.0 9st6r.liner-9-ick.ru
 0.0.0.0 9t.stormmint.ru
@@ -1301,6 +1322,7 @@
 0.0.0.0 9v.dlun7.ru
 0.0.0.0 9vo.wolkenspur3.ru
 0.0.0.0 9w.mw-9-y-4.ru
+0.0.0.0 9wk.bluef0rm.ru
 0.0.0.0 9x.windl1nk.ru
 0.0.0.0 9x2.v3ix.ru
 0.0.0.0 9xp.aclz9.ru
@@ -1330,8 +1352,6 @@
 0.0.0.0 a.9-ck6.ru
 0.0.0.0 a.9m94k8.ru
 0.0.0.0 a.ahz-ya.ru
-0.0.0.0 a.bpva0.ru
-0.0.0.0 a.cgty8.ru
 0.0.0.0 a.d44yy.ru
 0.0.0.0 a.da2yw.ru
 0.0.0.0 a.der14i.ru
@@ -1358,7 +1378,6 @@
 0.0.0.0 a.u79p.ru
 0.0.0.0 a.v7e1v.ru
 0.0.0.0 a.w9k6m9.ru
-0.0.0.0 a.wuhp.ru
 0.0.0.0 a.x-ceu8.ru
 0.0.0.0 a.x3u0s.ru
 0.0.0.0 a.x7f4g2.ru
@@ -1386,12 +1405,12 @@
 0.0.0.0 a1.y83v.ru
 0.0.0.0 a12.r4tu.ru
 0.0.0.0 a19.xa4p.ru
+0.0.0.0 a1d.1ntrude7truha.ru
 0.0.0.0 a1f.cv-3-a-9.ru
 0.0.0.0 a1mz.3u-6.online
 0.0.0.0 a1t7m.t-7-1u.ru
 0.0.0.0 a2.driftl1ne.ru
 0.0.0.0 a2.gi0x.ru
-0.0.0.0 a2.kijx.ru
 0.0.0.0 a27.jcof9.ru
 0.0.0.0 a2h4.ey-l2q.ru
 0.0.0.0 a2mx.8r-4u.ru
@@ -1506,8 +1525,6 @@
 0.0.0.0 aa9.frl-0-i.ru
 0.0.0.0 aa9.g-28e.ru
 0.0.0.0 aa9.he-22.ru
-0.0.0.0 aa9.i-574.ru
-0.0.0.0 aa9.i-661.ru
 0.0.0.0 aa9.j-9fuw.ru
 0.0.0.0 aa9.jbffq.ru
 0.0.0.0 aa9.l-75y.ru
@@ -1523,12 +1540,12 @@
 0.0.0.0 aa9.r99ae.ru
 0.0.0.0 aa9.t-68e.ru
 0.0.0.0 aa9.tqxfs.ru
-0.0.0.0 aa9.u-885.ru
 0.0.0.0 aa9.x-57u.ru
 0.0.0.0 aa9.x12uy.ru
 0.0.0.0 aa9.y-45s.ru
 0.0.0.0 aa9.z-48y.ru
 0.0.0.0 aaaaaaaaaaaaaaaaa.com
+0.0.0.0 aacobson.com
 0.0.0.0 aadcdn.msonline.at
 0.0.0.0 ab.clearl1ne.ru
 0.0.0.0 ab.hwke4.ru
@@ -1601,6 +1618,7 @@
 0.0.0.0 admin.townandcountrysanitations.top
 0.0.0.0 adobe.apsalgida.com
 0.0.0.0 adobecodec.snreader.live
+0.0.0.0 adobehelp.net
 0.0.0.0 adoring-kalam.196-251-72-149.plesk.page
 0.0.0.0 adoring-shannon.196-251-85-63.plesk.page
 0.0.0.0 adsdadadad.ddnsgeek.com
@@ -1671,13 +1689,13 @@
 0.0.0.0 ajsdhasjdha.sbs
 0.0.0.0 ak.1-nyearbo-0-k.ru
 0.0.0.0 ak.1yjp.ru
-0.0.0.0 ak.qekz.ru
 0.0.0.0 ak.t4mox.ru
 0.0.0.0 ak47financialservices.shop
 0.0.0.0 ak8.hush-copper.ru
 0.0.0.0 aka.torquebud.ru
 0.0.0.0 akamishitworks.jumpingcrab.com
 0.0.0.0 akk.datap1xel.ru
+0.0.0.0 akshf.windf0x.ru
 0.0.0.0 aktualizacjakonta.com
 0.0.0.0 al.jwm3e.ru
 0.0.0.0 al.qjf-1-o.ru
@@ -1693,7 +1711,6 @@
 0.0.0.0 alhudatrust.com
 0.0.0.0 alineeleuterio.com.br
 0.0.0.0 alises2.cfd
-0.0.0.0 aliyses2.icu
 0.0.0.0 aljazeerahdrilling.com
 0.0.0.0 allahvsataturk.duckdns.org
 0.0.0.0 allendostmen.com
@@ -1703,8 +1720,10 @@
 0.0.0.0 alpenblack.net
 0.0.0.0 alpha.ambercoil.ru
 0.0.0.0 alpha.cl0udriver.ru
+0.0.0.0 alpha.dua1i5mmuksun.ru
 0.0.0.0 alpha.fl-0-wlatch.ru
 0.0.0.0 alpha.ironbl0om.ru
+0.0.0.0 alpha.knurl-pocket.ru
 0.0.0.0 alpha.orb-shackle.ru
 0.0.0.0 alpha.p0larday.ru
 0.0.0.0 alpha.qu2rv0lts.ru
@@ -1724,7 +1743,6 @@
 0.0.0.0 altos.cloudv1be.ru
 0.0.0.0 alwedadsa.com
 0.0.0.0 alyssaramirez.ch
-0.0.0.0 am.dgzy1.ru
 0.0.0.0 am.fy-7a.ru
 0.0.0.0 am.q-len.ru
 0.0.0.0 am.qjf-1-o.ru
@@ -1737,6 +1755,7 @@
 0.0.0.0 amber.citrinewald.ru
 0.0.0.0 amber.de5criptun1ver.ru
 0.0.0.0 amber.fenod.online
+0.0.0.0 amber.qu1rkbasin.ru
 0.0.0.0 amber3.run-c-you.online
 0.0.0.0 ambergeist.ru
 0.0.0.0 ambr.am0rc2thed.ru
@@ -1757,12 +1776,12 @@
 0.0.0.0 amphetamine.kyun.li
 0.0.0.0 ampz4.clearb1te.ru
 0.0.0.0 an.bo-x2.ru
-0.0.0.0 an.dgzy1.ru
 0.0.0.0 an.fy-7a.ru
 0.0.0.0 an.qjf-1-o.ru
 0.0.0.0 an.tqh2e.ru
 0.0.0.0 an.tvti0.ru
 0.0.0.0 an.uht3o.ru
+0.0.0.0 an7i.n1ghtcrest.ru
 0.0.0.0 anchor.dripanchor.ru
 0.0.0.0 anchor.galy8phony.ru
 0.0.0.0 anchor.mashrift.ru
@@ -1792,7 +1811,6 @@
 0.0.0.0 aomen58com.pages.dev
 0.0.0.0 aorta2.blo0dci7cul.ru
 0.0.0.0 ap.mintcraft.ru
-0.0.0.0 ap.nybh.ru
 0.0.0.0 ape.qvik5.ru
 0.0.0.0 apex.cl0udcrest.ru
 0.0.0.0 apex4.skytrac5.ru
@@ -1838,11 +1856,14 @@
 0.0.0.0 apsom.org
 0.0.0.0 aq.c1ubmel0dic.ru
 0.0.0.0 aq.pen1sp7edef.ru
+0.0.0.0 aq9.deepc0rest.ru
+0.0.0.0 aqmj4.deepc0rest.ru
 0.0.0.0 ar.luc-7-y-5-nub.ru
 0.0.0.0 ar.qcet-8.ru
 0.0.0.0 ar.uht3o.ru
 0.0.0.0 ar.ze-lu.ru
 0.0.0.0 arabianairlanes.lol
+0.0.0.0 arblyn.ar2ble0ffend.ru
 0.0.0.0 arbor.ant1sepgue7.ru
 0.0.0.0 arc2.storml1nk.ru
 0.0.0.0 arc9m5.mar5hma1narc.ru
@@ -1875,7 +1896,6 @@
 0.0.0.0 artscreenstudio.ru
 0.0.0.0 as.b2-ra.ru
 0.0.0.0 as.ba7bdecep.ru
-0.0.0.0 as.dgzy1.ru
 0.0.0.0 as.g-vox.ru
 0.0.0.0 as.ky-4x.ru
 0.0.0.0 as.m2jo.ru
@@ -1901,6 +1921,7 @@
 0.0.0.0 asjdkaskjwecmeitu01.top
 0.0.0.0 askislam.ca
 0.0.0.0 asl-company.ru
+0.0.0.0 aso.grim1atin0s.ru
 0.0.0.0 asp.r9xa.ru
 0.0.0.0 assurancemaladie-actualisation.help
 0.0.0.0 assurancemaladie.support
@@ -1909,7 +1930,6 @@
 0.0.0.0 asturiasactiva.es
 0.0.0.0 at.cns-3-u.ru
 0.0.0.0 at.fy-7a.ru
-0.0.0.0 at.hmvu4.ru
 0.0.0.0 at.hu-7e.ru
 0.0.0.0 at.je5w.com
 0.0.0.0 at.khhu8.ru
@@ -1972,7 +1992,6 @@
 0.0.0.0 avisderecherche-valbarelle.com
 0.0.0.0 avtolaboratoryss.ru
 0.0.0.0 avtolaboratoryss.store
-0.0.0.0 avvbtrre.autos
 0.0.0.0 aw.614lo.ru
 0.0.0.0 aw.blyp9.ru
 0.0.0.0 aw.cns-3-u.ru
@@ -1985,6 +2004,7 @@
 0.0.0.0 aw.xkx0o.ru
 0.0.0.0 aw9.xa4p.ru
 0.0.0.0 away.k4tem.ru
+0.0.0.0 awq.bluec0rest.ru
 0.0.0.0 aws.se5m.ru
 0.0.0.0 awy.sp-1-nterpad.ru
 0.0.0.0 ax.cns-3-u.ru
@@ -1993,7 +2013,6 @@
 0.0.0.0 ax.tr-8n.ru
 0.0.0.0 ax.txso1.ru
 0.0.0.0 ax.xkx0o.ru
-0.0.0.0 ax.xyqd.ru
 0.0.0.0 ax73.kpyw8.ru
 0.0.0.0 ax74.3-2pd.ru
 0.0.0.0 ax75.vorn5.ru
@@ -2031,7 +2050,6 @@
 0.0.0.0 b.8ss4e.ru
 0.0.0.0 b.bpva-0.ru
 0.0.0.0 b.bupuva.ru
-0.0.0.0 b.bvqu7.ru
 0.0.0.0 b.c109s.ru
 0.0.0.0 b.c70ye.ru
 0.0.0.0 b.fa6ic.ru
@@ -2088,8 +2106,6 @@
 0.0.0.0 b2.5u-zk.ru
 0.0.0.0 b2.78nsy6.ru
 0.0.0.0 b2.ae-18.ru
-0.0.0.0 b2.e-410.ru
-0.0.0.0 b2.e-783.ru
 0.0.0.0 b2.f14ey.ru
 0.0.0.0 b2.i-76t.ru
 0.0.0.0 b2.j8k2a.ru
@@ -2098,7 +2114,6 @@
 0.0.0.0 b2.l-70y.ru
 0.0.0.0 b2.n-7sol.ru
 0.0.0.0 b2.n-82o.ru
-0.0.0.0 b2.o-279.ru
 0.0.0.0 b2.o-61x.ru
 0.0.0.0 b2.q-49o.ru
 0.0.0.0 b2.r-54u.ru
@@ -2120,7 +2135,6 @@
 0.0.0.0 b2z7r5k.ru
 0.0.0.0 b3.hl-5-a-6.ru
 0.0.0.0 b3.oc57y.ru
-0.0.0.0 b3.wuhp.ru
 0.0.0.0 b3g3.j1ngleknob.ru
 0.0.0.0 b3h7.085-x-89-c.ru
 0.0.0.0 b3m.q3lo.ru
@@ -2135,7 +2149,6 @@
 0.0.0.0 b4tqm.x3le.online
 0.0.0.0 b4tr.j935.online
 0.0.0.0 b4x.ravel-pink.ru
-0.0.0.0 b5.lexz.ru
 0.0.0.0 b5.su4n.ru
 0.0.0.0 b53.syrupdock.ru
 0.0.0.0 b5d.rjuq3.ru
@@ -2214,6 +2227,7 @@
 0.0.0.0 bafybeidvf6tytrspkd4wnvxzs23m3kjr6bfvgszbfwybmmcosl4rrhvuo4.ipfs.dweb.link
 0.0.0.0 baj.pot-5.ru
 0.0.0.0 bal-rewards.xyz
+0.0.0.0 bal7ux.s1aughttre5s.ru
 0.0.0.0 balkarsoftware.cubistech.com
 0.0.0.0 ball.k4tem.ru
 0.0.0.0 ballfrank.space
@@ -2244,10 +2258,12 @@
 0.0.0.0 bark.vo-3-n.ru
 0.0.0.0 bark.ze9y.online
 0.0.0.0 bark9t.flashwood.ru
+0.0.0.0 barkom.b2ckfo0t.ru
 0.0.0.0 barrel.v0rtapouch.ru
 0.0.0.0 baryan.ba8ryanhe7d.ru
 0.0.0.0 base.vsmu9.ru
 0.0.0.0 basil.shadowm1nt.ru
+0.0.0.0 basin.amberflint.ru
 0.0.0.0 basin2.rockfieid.ru
 0.0.0.0 bay.k4tem.online
 0.0.0.0 bay.r7va.com
@@ -2271,7 +2287,6 @@
 0.0.0.0 bd.9zk8r.ru
 0.0.0.0 bd.b10ou.ru
 0.0.0.0 bd.brightl1ne.ru
-0.0.0.0 bd.ctze0.ru
 0.0.0.0 bd.falconhimmel.ru
 0.0.0.0 bd.favezi.ru
 0.0.0.0 bd.i924ao.ru
@@ -2315,7 +2330,7 @@
 0.0.0.0 beg.tov4.ru
 0.0.0.0 began.5-forez-515-o.ru
 0.0.0.0 begun.7-nenop-38-oy.ru
-0.0.0.0 belezapuracosmetica.com
+0.0.0.0 bel3oq.sa5imw2ter.ru
 0.0.0.0 bench.drau8htl0dg.ru
 0.0.0.0 bend.r1verdusk.ru
 0.0.0.0 benra8.be8ref7ain.ru
@@ -2336,10 +2351,12 @@
 0.0.0.0 beta.darkl1ne.ru
 0.0.0.0 beta.darkm1nt.ru
 0.0.0.0 beta.hollow-fizz.ru
+0.0.0.0 beta.hushzigzag.ru
 0.0.0.0 beta.kettlewisp.ru
 0.0.0.0 beta.m1stybird.ru
 0.0.0.0 beta.pi1er5pat.ru
 0.0.0.0 beta.pr2ctsu7v.ru
+0.0.0.0 beta.s1ogan5timul.ru
 0.0.0.0 beta.skyf1eld.ru
 0.0.0.0 beta.softm1nd.ru
 0.0.0.0 beta.twirlpane.ru
@@ -2419,6 +2436,7 @@
 0.0.0.0 blackstar.bid5.ru
 0.0.0.0 blaiz.me
 0.0.0.0 blatt.stormgrat.ru
+0.0.0.0 blb.m1stypath.ru
 0.0.0.0 blend4.rockbyte.ru
 0.0.0.0 blenderx.mouthrunnbeva1986.workers.dev
 0.0.0.0 blenderx.osloyverjua1977.workers.dev
@@ -2448,10 +2466,12 @@
 0.0.0.0 blue.sunsh1ne.ru
 0.0.0.0 blue.vsmu9.ru
 0.0.0.0 bluebikinis.cl
+0.0.0.0 blueoranges2025sks.de
+0.0.0.0 blugra.b1uegras5hia.ru
 0.0.0.0 blume2.ant1sepgue7.ru
 0.0.0.0 blupod.site
+0.0.0.0 blusom.b1uesgr2mp.ru
 0.0.0.0 blz.fur5hst0the.ru
-0.0.0.0 bm.mynq.ru
 0.0.0.0 bm.rvox.ru
 0.0.0.0 bmdcompany.com
 0.0.0.0 bmh-global.myfirewall.org
@@ -2459,6 +2479,7 @@
 0.0.0.0 bmz0.ripplecask.ru
 0.0.0.0 bnd.di5r.ru
 0.0.0.0 bng.bg-4-o-2.ru
+0.0.0.0 bnh19.fl-0-wmortar.ru
 0.0.0.0 bnhar.com
 0.0.0.0 bnshehsg.sbs
 0.0.0.0 bo.da5y.ru
@@ -2544,6 +2565,7 @@
 0.0.0.0 bra.k8li.ru
 0.0.0.0 bracell.latitude.net.br
 0.0.0.0 bracket.grit-pillow.ru
+0.0.0.0 bracket.v0xenridge.ru
 0.0.0.0 braid.doub1ebarzu8.ru
 0.0.0.0 braid.tangleflux.ru
 0.0.0.0 bramble.bramblefix.ru
@@ -2556,6 +2578,7 @@
 0.0.0.0 breez5.be8ref7ain.ru
 0.0.0.0 breez9.windzero.ru
 0.0.0.0 breeze.br1ghtstorm.ru
+0.0.0.0 breeze.f0rtunmentho1.ru
 0.0.0.0 breeze.mintst0rm.ru
 0.0.0.0 breq2o.bo0ndc0pe.ru
 0.0.0.0 briar.alderstone.ru
@@ -2591,6 +2614,7 @@
 0.0.0.0 brisk.brightden.ru
 0.0.0.0 brisk.v0rtatouch.ru
 0.0.0.0 brisk.v0xletrill.ru
+0.0.0.0 brixen.bi1ingnause2.ru
 0.0.0.0 brlef33.1-byhih-05-ey.ru
 0.0.0.0 brocode2s.com
 0.0.0.0 broken-dust-20eb.bnxaz24270.workers.dev
@@ -2620,6 +2644,7 @@
 0.0.0.0 bryz4a.maplekueste.ru
 0.0.0.0 bs.zo4n.ru
 0.0.0.0 bsnpt.wildf1re.ru
+0.0.0.0 bstsj.entert2inru8.ru
 0.0.0.0 bt.jt4o0.ru
 0.0.0.0 bthizkquvq.pw
 0.0.0.0 bu.kmbo-6.ru
@@ -2666,12 +2691,12 @@
 0.0.0.0 bw6.sne-4-p.ru
 0.0.0.0 bw9.ve1vet0rchid.ru
 0.0.0.0 bwj.tvil-0.ru
+0.0.0.0 bwp.hushzigzag.ru
 0.0.0.0 bxo57.stormw1ng.ru
 0.0.0.0 bxq.brightf1eld.ru
 0.0.0.0 by.bo-x2.ru
 0.0.0.0 by.cloudreach.ru
 0.0.0.0 by.fenod.ru
-0.0.0.0 by.hmvu4.ru
 0.0.0.0 by.hu-7e.ru
 0.0.0.0 by.kmbo6.ru
 0.0.0.0 by.meqt.ru
@@ -2694,6 +2719,7 @@
 0.0.0.0 byte.rumble-kin.ru
 0.0.0.0 byte.syrupdock.ru
 0.0.0.0 byte5r.ra1nbyte.ru
+0.0.0.0 bytenet.serveftp.com
 0.0.0.0 byv.q3lo.ru
 0.0.0.0 bz.5-rt.ru
 0.0.0.0 bz.ktox5.ru
@@ -2703,7 +2729,6 @@
 0.0.0.0 c.bvum6.ru
 0.0.0.0 c.fk-9-o-0.ru
 0.0.0.0 c.loyaltyservices.lol
-0.0.0.0 c.xyqd.ru
 0.0.0.0 c0.ru7x.ru
 0.0.0.0 c00l.je-9-r.ru
 0.0.0.0 c00l.mab7o.online
@@ -2785,14 +2810,11 @@
 0.0.0.0 c4z.v0rtatouch.ru
 0.0.0.0 c5.1y-zt.ru
 0.0.0.0 c5.9-f566.ru
-0.0.0.0 c5.9t6p5.ru
-0.0.0.0 c5.a-344.ru
 0.0.0.0 c5.d-61o.ru
 0.0.0.0 c5.dxp-5-y.ru
 0.0.0.0 c5.e-99n.ru
 0.0.0.0 c5.ee-17.ru
 0.0.0.0 c5.f-07y.ru
-0.0.0.0 c5.i-574.ru
 0.0.0.0 c5.j-9fuw.ru
 0.0.0.0 c5.jbffq.ru
 0.0.0.0 c5.mu-16.ru
@@ -2810,7 +2832,6 @@
 0.0.0.0 c7.0o-js.ru
 0.0.0.0 c7.7-j230.ru
 0.0.0.0 c7.9z2503.online
-0.0.0.0 c7.a-156.ru
 0.0.0.0 c7.a-91n.ru
 0.0.0.0 c7.i-88b.ru
 0.0.0.0 c7.j-31u.ru
@@ -2818,7 +2839,6 @@
 0.0.0.0 c7.m3j8e.ru
 0.0.0.0 c7.mbs-3-a.ru
 0.0.0.0 c7.nbpvt.ru
-0.0.0.0 c7.o-096.ru
 0.0.0.0 c7.oe-69.ru
 0.0.0.0 c7.p-94u.ru
 0.0.0.0 c7.qe-10.ru
@@ -2880,7 +2900,6 @@
 0.0.0.0 c9tw.2h7-o.ru
 0.0.0.0 c9w5.08u073852.online
 0.0.0.0 ca.kmbo-6.ru
-0.0.0.0 ca.mijk.ru
 0.0.0.0 ca.stix-2.ru
 0.0.0.0 cab.n4ke.ru
 0.0.0.0 cabinetdivisionpakgov.org
@@ -2943,6 +2962,7 @@
 0.0.0.0 cdn-10049480.file.myqcloud.com
 0.0.0.0 cdn-1415.venuspatronize.digital
 0.0.0.0 cdn.file6.goodid.com
+0.0.0.0 cdn.glitch.global
 0.0.0.0 cdn.gomlab.com
 0.0.0.0 cdn.lumicmp.xyz
 0.0.0.0 cdn.ly.9377.com
@@ -2955,15 +2975,16 @@
 0.0.0.0 cdn.xiaoduoai.com
 0.0.0.0 cdn1.plannerfridge.top
 0.0.0.0 cdr.r0cketf2rm.ru
-0.0.0.0 cdxtsd.cfd
 0.0.0.0 ce.kmbo-6.ru
 0.0.0.0 cedar.defore5tm0unt.ru
 0.0.0.0 cedar.fenod.online
 0.0.0.0 cedar.h0dikim2n.ru
 0.0.0.0 cedro.amberkliff.ru
 0.0.0.0 cee.fe2rsos5is.ru
+0.0.0.0 cegelecinfo.fr
 0.0.0.0 celdop.b7ewer1atif.ru
 0.0.0.0 celebratingseniors.net
+0.0.0.0 celestialhost.ltd
 0.0.0.0 celikaymutfak.com
 0.0.0.0 census.makere5ide7t.ru
 0.0.0.0 centaurustermas.com
@@ -3044,6 +3065,7 @@
 0.0.0.0 ckr.aclz-9.ru
 0.0.0.0 cl0udy.ra1nbyte.ru
 0.0.0.0 cl0udy.rainbyte.ru
+0.0.0.0 cladyn.cl2ddstr1ve.ru
 0.0.0.0 clap9t.stormling.ru
 0.0.0.0 clarune.life
 0.0.0.0 claryn.cloudrift.ru
@@ -3088,6 +3110,7 @@
 0.0.0.0 cloud.cl0udmark.ru
 0.0.0.0 cloud.cloudkreis.ru
 0.0.0.0 cloud.comp0tsab3e.ru
+0.0.0.0 cloud.entert2inru8.ru
 0.0.0.0 cloud.f1atte5tudies.ru
 0.0.0.0 cloud.mintl1ne.ru
 0.0.0.0 cloud.nightf0rm.ru
@@ -3114,6 +3137,7 @@
 0.0.0.0 clubdetiroelpicarcho.com
 0.0.0.0 clubeyang.ink
 0.0.0.0 cluster.crank-muddle.ru
+0.0.0.0 clymor.s1aughttre5s.ru
 0.0.0.0 clystracapfin.com
 0.0.0.0 cm.bvqu-7.ru
 0.0.0.0 cm.cedarnova.ru
@@ -3211,6 +3235,7 @@
 0.0.0.0 core5.tweakmire.ru
 0.0.0.0 corelis.ro
 0.0.0.0 corestresser.cc
+0.0.0.0 cormiq.di5pl2yleft.ru
 0.0.0.0 corporateboxingevent.com
 0.0.0.0 cossak.cos5acklove1.ru
 0.0.0.0 cove.n4ym.online
@@ -3221,6 +3246,7 @@
 0.0.0.0 cow.je5w.com
 0.0.0.0 cow.r7va.com
 0.0.0.0 cp-caren.com
+0.0.0.0 cp109.sn1pcradle.ru
 0.0.0.0 cpc0392.com
 0.0.0.0 cpc188.day
 0.0.0.0 cpc188.space
@@ -3246,7 +3272,7 @@
 0.0.0.0 crackle.a8arichum2n.ru
 0.0.0.0 crackle.fl1ntrelay.ru
 0.0.0.0 crackle.quartznibble.ru
-0.0.0.0 crackzkeygen.com
+0.0.0.0 cradle.fl0wmortar.ru
 0.0.0.0 craft.r1verbloom.ru
 0.0.0.0 crafun.c2rb0lduty.ru
 0.0.0.0 crat0n.b0xlight.ru
@@ -3258,6 +3284,7 @@
 0.0.0.0 crest.bana1ity8ed.ru
 0.0.0.0 crest.datam1st.ru
 0.0.0.0 crest.deepw1nd.ru
+0.0.0.0 crest.dua1i5mmuksun.ru
 0.0.0.0 crest.f1recliff.ru
 0.0.0.0 crest.f1recrest.ru
 0.0.0.0 crest.jamcrest.ru
@@ -3313,6 +3340,7 @@
 0.0.0.0 cutting-edge.in
 0.0.0.0 cv.gdyl2.ru
 0.0.0.0 cv8.f-o-9bt.ru
+0.0.0.0 cw.acr0b2tdiffer.ru
 0.0.0.0 cwci.oceandrift.ru
 0.0.0.0 cwma-10-b2-v4wan-167603-cust66.vm2.cable.virginm.net
 0.0.0.0 cwp.qrow6.ru
@@ -3336,8 +3364,6 @@
 0.0.0.0 d.d-54y.ru
 0.0.0.0 d.d03ui.ru
 0.0.0.0 d.dvn-4-i.ru
-0.0.0.0 d.e-134.ru
-0.0.0.0 d.e-72t.ru
 0.0.0.0 d.fa-99.ru
 0.0.0.0 d.k5d1y.ru
 0.0.0.0 d.kpzip.com
@@ -3348,12 +3374,9 @@
 0.0.0.0 d.n-4cas.ru
 0.0.0.0 d.o-92h.ru
 0.0.0.0 d.pisora.ru
-0.0.0.0 d.pymz.ru
 0.0.0.0 d.rxhvt.ru
 0.0.0.0 d.w-57e.ru
 0.0.0.0 d.wanyouxi7.com
-0.0.0.0 d.x331e.ru
-0.0.0.0 d.x874a.ru
 0.0.0.0 d0.meqt.ru
 0.0.0.0 d0.skyf0rge.ru
 0.0.0.0 d038t.wildc0ast.ru
@@ -3387,6 +3410,7 @@
 0.0.0.0 d3cciiowg5l3jx.cloudfront.net
 0.0.0.0 d3h7.picket-core.ru
 0.0.0.0 d3j7.28ae00i7.ru
+0.0.0.0 d3k.hush-zigzag.ru
 0.0.0.0 d3l.quartznibble.ru
 0.0.0.0 d3pf0x.deepf0x.ru
 0.0.0.0 d3qe7gf49vd8v4f7qkog3k83qyjmxqekd.oast.site
@@ -3463,6 +3487,7 @@
 0.0.0.0 d9.4a7vci9.ru
 0.0.0.0 d9.8b-1d.ru
 0.0.0.0 d90.vj4e5.ru
+0.0.0.0 d9j.windsh1eld.ru
 0.0.0.0 d9y7w.bo8y.online
 0.0.0.0 da.denker.gq
 0.0.0.0 da.hqs9i.ru
@@ -3477,7 +3502,6 @@
 0.0.0.0 dafpex.cr1pptit2n.ru
 0.0.0.0 dafryl.stonem1st.ru
 0.0.0.0 daftarkingbet189.space
-0.0.0.0 dailyswail.org
 0.0.0.0 daj.glacierbruecke.ru
 0.0.0.0 dalmex.circu1arc0pna.ru
 0.0.0.0 dampf.flintquelle.ru
@@ -3512,13 +3536,16 @@
 0.0.0.0 dawn3.syc0aq8uy1.online
 0.0.0.0 dawne.brightden.ru
 0.0.0.0 dawnmirror.ru
+0.0.0.0 daxlin.l0ckmu7derer.ru
 0.0.0.0 daxmor.bunkerle0p2rd.ru
 0.0.0.0 day.pl8a.ru
 0.0.0.0 day.vo3n.ru
 0.0.0.0 db1113.7v9h2x7x.work
+0.0.0.0 db33.n1ghtflow.ru
 0.0.0.0 db8.sj5o5.ru
 0.0.0.0 db9.fur5hst0the.ru
 0.0.0.0 dbg.wildf1re.ru
+0.0.0.0 dby.bluec0rest.ru
 0.0.0.0 dc14oct.duckdns.org
 0.0.0.0 dc21oct.duckdns.org
 0.0.0.0 dc534.4sync.com
@@ -3531,6 +3558,7 @@
 0.0.0.0 dd.vuln5.ru
 0.0.0.0 dd.zo6r.ru
 0.0.0.0 ddc.j3ve.ru
+0.0.0.0 ddd0.org
 0.0.0.0 ddfafxfs.icu
 0.0.0.0 ddo.fq-1-y-8.ru
 0.0.0.0 ddo.vj4e5.ru
@@ -3546,6 +3574,7 @@
 0.0.0.0 deep.cl0udforge.ru
 0.0.0.0 deep.em1npe0ny.ru
 0.0.0.0 deep.g1zmotrail.ru
+0.0.0.0 deep.ga8tukh1yat.ru
 0.0.0.0 deep.sc2ntrepid2t.ru
 0.0.0.0 deep.sh2mvi5cous.ru
 0.0.0.0 deepem.de5per5eem.ru
@@ -3561,6 +3590,7 @@
 0.0.0.0 deliver009.infinityfreeapp.com
 0.0.0.0 delp-heizungsbau.de
 0.0.0.0 delta.b1tcascade.ru
+0.0.0.0 delta.conf1dcorr0de.ru
 0.0.0.0 delta.datash1ft.ru
 0.0.0.0 delta.deepbreeze.ru
 0.0.0.0 delta.f1rewave.ru
@@ -3583,7 +3613,6 @@
 0.0.0.0 delta6.r1verdrop.ru
 0.0.0.0 deltabehavioralhealth.org
 0.0.0.0 demo-public-6ez8c3xnb-place.s3.ap-southeast-2.amazonaws.com
-0.0.0.0 demoon.vip
 0.0.0.0 demure.de5per5eem.ru
 0.0.0.0 den7fd.deepf0x.ru
 0.0.0.0 dent.twigmantle.ru
@@ -3600,6 +3629,7 @@
 0.0.0.0 dew4ly.mintpeak.ru
 0.0.0.0 dewy.tu7q.online
 0.0.0.0 dexhib.b2nchikwa5te.ru
+0.0.0.0 dexhul.che6u7therm.ru
 0.0.0.0 dexios.co.za
 0.0.0.0 dexqen.j1tterfoam.ru
 0.0.0.0 dezcom.com
@@ -3615,11 +3645,11 @@
 0.0.0.0 dh.sheh0.ru
 0.0.0.0 dh28.s0ftcrest.ru
 0.0.0.0 dhitrackparcei.help
+0.0.0.0 dhtk.deepf0rm.ru
 0.0.0.0 dhy.wind-barrow.ru
 0.0.0.0 dhyt7.bri8hten0ld.ru
 0.0.0.0 di.lkci1.ru
 0.0.0.0 di.p2rabpr0nos.ru
-0.0.0.0 di.xyqd.ru
 0.0.0.0 di3.cog-whittle.ru
 0.0.0.0 dialkwik.in
 0.0.0.0 dibrax.luz7it5tretch.ru
@@ -3651,6 +3681,7 @@
 0.0.0.0 dip.net-0-prosa.ru
 0.0.0.0 dip.qen9.ru
 0.0.0.0 dir.xb4e7.ru
+0.0.0.0 dirzam.exh2ust8one.ru
 0.0.0.0 disbanded.cloud
 0.0.0.0 disk.accord1key.cn
 0.0.0.0 distracted-nightingale.196-251-72-149.plesk.page
@@ -3663,7 +3694,6 @@
 0.0.0.0 djno.cobbleyard.ru
 0.0.0.0 dk.mintspr1ng.ru
 0.0.0.0 dk2fp.ju-4-en-pare-1.ru
-0.0.0.0 dl.1003b.56a.com
 0.0.0.0 dl.2345.com
 0.0.0.0 dl.aginjector.com
 0.0.0.0 dl.asis.io
@@ -3671,7 +3701,6 @@
 0.0.0.0 dl.dzqzd.com
 0.0.0.0 dl.gamedva.top
 0.0.0.0 dl.instanderapkofficial.com
-0.0.0.0 dl.mijk.ru
 0.0.0.0 dl.natgo.cn
 0.0.0.0 dl.seyarabata.com
 0.0.0.0 dl.y8-8.ru
@@ -3687,7 +3716,6 @@
 0.0.0.0 dm1.r4tu.ru
 0.0.0.0 dn.33b2.ru
 0.0.0.0 dn.b2-ra.ru
-0.0.0.0 dn.mynq.ru
 0.0.0.0 dnb.5b-c.ru
 0.0.0.0 dnm.nmys-4.ru
 0.0.0.0 dnmzone.online
@@ -3714,6 +3742,7 @@
 0.0.0.0 domainetarenti.com
 0.0.0.0 domenuss.store
 0.0.0.0 dominservers.xyz
+0.0.0.0 don9uix5car.ru
 0.0.0.0 dongyu.us
 0.0.0.0 donkeytourscroatia.com
 0.0.0.0 dooflixonline.net
@@ -3727,6 +3756,7 @@
 0.0.0.0 dorn.slatefalke.ru
 0.0.0.0 dorn.st0nebyte.ru
 0.0.0.0 dorn2.stargl0w.ru
+0.0.0.0 dorven.d0orh0bbit.ru
 0.0.0.0 dorzep.ro1luzbek5.ru
 0.0.0.0 dossier-amende-minfin.info
 0.0.0.0 dossier0367.com
@@ -3759,9 +3789,8 @@
 0.0.0.0 download.kaobeitu.com
 0.0.0.0 download.pdf00.cn
 0.0.0.0 download.pdf00.com
+0.0.0.0 download.suxiazai.com
 0.0.0.0 download.towertour.appleoffortune.xyz
-0.0.0.0 download.voxmebeles.lv
-0.0.0.0 download.whatsify.me
 0.0.0.0 download2.huduntech.com
 0.0.0.0 downloader.nvms9000.su
 0.0.0.0 downloadfilesd.xyz
@@ -3813,7 +3842,6 @@
 0.0.0.0 dreamwatchevent.com
 0.0.0.0 dreamy-hamilton.196-251-72-149.plesk.page
 0.0.0.0 dreamy-keller.196-251-72-149.plesk.page
-0.0.0.0 drectggy.one
 0.0.0.0 drgenov.com
 0.0.0.0 drhstone.com
 0.0.0.0 drift.1-byhih-05-ey.ru
@@ -3846,20 +3874,22 @@
 0.0.0.0 drosslab.shop
 0.0.0.0 drs.patchvine.ru
 0.0.0.0 drunk.5-forez-515-o.ru
+0.0.0.0 druvin.re5cuestup1d.ru
 0.0.0.0 dry.ju5q.ru
 0.0.0.0 dry.la9q.ru
 0.0.0.0 dry.mi4x.ru
 0.0.0.0 dry.tu7q.ru
 0.0.0.0 ds.c0deroot.ru
-0.0.0.0 ds.emailmeanything.sbs
 0.0.0.0 ds.obmenvsemfiles.net
 0.0.0.0 ds5.sk2tear0und.ru
 0.0.0.0 dsav5.f0undst2rve.ru
 0.0.0.0 dsc.firetrail.ru
 0.0.0.0 dsjsd168.xyz
 0.0.0.0 dsourceva.com
+0.0.0.0 dstat.sex
 0.0.0.0 du.mxta-6.ru
 0.0.0.0 du5tly.dustpeak.ru
+0.0.0.0 dubrix.insti8sc2tter.ru
 0.0.0.0 dud.tu7q.ru
 0.0.0.0 dug.qen9.ru
 0.0.0.0 dug.x2lu.ru
@@ -3886,6 +3916,7 @@
 0.0.0.0 dune7x.quick5and.ru
 0.0.0.0 dur71.pr2ctsu7v.ru
 0.0.0.0 duratechsol.com
+0.0.0.0 durmal.0rav2uterus.ru
 0.0.0.0 dusk.black0wl.ru
 0.0.0.0 dusk.gyj0.ru
 0.0.0.0 dusk1.darksun5et.ru
@@ -3894,6 +3925,7 @@
 0.0.0.0 dusttv.com
 0.0.0.0 dv.ru6q.ru
 0.0.0.0 dv6.kgto6b.ru
+0.0.0.0 dw.entire1y5ming.ru
 0.0.0.0 dw.lanternbrook.ru
 0.0.0.0 dw.nsfirewal.top
 0.0.0.0 dw.ynbr-8.ru
@@ -3902,6 +3934,7 @@
 0.0.0.0 dwm.neweleshi.sbs
 0.0.0.0 dwm.walmaru.com
 0.0.0.0 dwr.bo3l.ru
+0.0.0.0 dx.conf1dcorr0de.ru
 0.0.0.0 dxd.pr0wlmint.ru
 0.0.0.0 dxl08.ch2rmsan1nst.ru
 0.0.0.0 dxv.lu7hichma7t.ru
@@ -3933,7 +3966,6 @@
 0.0.0.0 e1.0prichpe7ch.ru
 0.0.0.0 e1.4-j722.ru
 0.0.0.0 e1.8e-hr.ru
-0.0.0.0 e1.a-342.ru
 0.0.0.0 e1.a-67x.ru
 0.0.0.0 e1.ea-43.ru
 0.0.0.0 e1.h-23u.ru
@@ -3941,13 +3973,11 @@
 0.0.0.0 e1.i-26h.ru
 0.0.0.0 e1.j86ei.ru
 0.0.0.0 e1.l8w6u.ru
-0.0.0.0 e1.lobd.ru
 0.0.0.0 e1.m-49e.ru
 0.0.0.0 e1.m-57i.ru
 0.0.0.0 e1.n-4daw.ru
 0.0.0.0 e1.rdlkc.ru
 0.0.0.0 e1.su-08.ru
-0.0.0.0 e1.u-989.ru
 0.0.0.0 e1.w-52a.ru
 0.0.0.0 e1.x-12o.ru
 0.0.0.0 e15.fi0m.ru
@@ -4012,6 +4042,7 @@
 0.0.0.0 easybrand.vn
 0.0.0.0 easyrideapp.info
 0.0.0.0 eazmilez.top
+0.0.0.0 ebhm.shadowm1st.ru
 0.0.0.0 ebonyecke.ru
 0.0.0.0 ebrk.evermint.ru
 0.0.0.0 ebsk.dr1ftshade.ru
@@ -4078,6 +4109,7 @@
 0.0.0.0 eh.pl-8a.ru
 0.0.0.0 eh.s4-ti.ru
 0.0.0.0 eh.wzhy1.ru
+0.0.0.0 ehpgqp.sa.com
 0.0.0.0 ehu.bramblestrom.ru
 0.0.0.0 ei.je9t.ru
 0.0.0.0 ei3.sheh0.ru
@@ -4107,6 +4139,7 @@
 0.0.0.0 ejsdi.windm1nd.ru
 0.0.0.0 ejt0w.kettlewisp.ru
 0.0.0.0 ekaterinamironova.ru
+0.0.0.0 ekl.n2imenei8hbor.ru
 0.0.0.0 el.dbc-8-i.ru
 0.0.0.0 el.mxta6.ru
 0.0.0.0 el.qen-9.ru
@@ -4142,6 +4175,7 @@
 0.0.0.0 em8ix.st0neflash.ru
 0.0.0.0 emb3rz.windf1re.ru
 0.0.0.0 embedone.com
+0.0.0.0 ember.acr0b2tdiffer.ru
 0.0.0.0 ember.basaltwisp9.ru
 0.0.0.0 ember.bluef1re.ru
 0.0.0.0 ember.con8ratgr2de.ru
@@ -4152,6 +4186,7 @@
 0.0.0.0 ember.quarkspoon.ru
 0.0.0.0 ember.redb1rth.ru
 0.0.0.0 ember.sh4d0wmere.ru
+0.0.0.0 ember.sn1pcradle.ru
 0.0.0.0 ember.softm1nd.ru
 0.0.0.0 ember.t1nkercove.ru
 0.0.0.0 ember.wolkenmeer.ru
@@ -4189,9 +4224,10 @@
 0.0.0.0 epanpano.com
 0.0.0.0 epfe.b1o0dmanneq.ru
 0.0.0.0 epw.ju8r.ru
-0.0.0.0 eq.jagc.ru
+0.0.0.0 eq.cloudf1eld.ru
 0.0.0.0 eq.sqfe-6.ru
 0.0.0.0 eq.ussn7.ru
+0.0.0.0 eqj.cloudf1eld.ru
 0.0.0.0 eqt.ldef-4.ru
 0.0.0.0 er.cv-3-a-9.ru
 0.0.0.0 er.hop-g-3.ru
@@ -4201,7 +4237,6 @@
 0.0.0.0 er.n4-ke.ru
 0.0.0.0 er.npoj2.ru
 0.0.0.0 er.plig-5.ru
-0.0.0.0 er.qekz.ru
 0.0.0.0 er.xhs-8-e.ru
 0.0.0.0 er.xrhu7.ru
 0.0.0.0 era.mzas7.ru
@@ -4219,6 +4254,7 @@
 0.0.0.0 essay8.5-forez-515-o.ru
 0.0.0.0 estudio.ythan.com.br
 0.0.0.0 et.mzvo7.ru
+0.0.0.0 et.skyfl0w.ru
 0.0.0.0 et.trowy.ru
 0.0.0.0 et.twy-0.ru
 0.0.0.0 et.ve1vet0rchid.ru
@@ -4228,6 +4264,7 @@
 0.0.0.0 et1.dzem4.ru
 0.0.0.0 etch.s-2-ly.ru
 0.0.0.0 eternity-hacks.su
+0.0.0.0 eternitysoftware.world
 0.0.0.0 ethical-points-competitive-fluid.trycloudflare.com
 0.0.0.0 ethupdate.top
 0.0.0.0 etl.xg5e7.ru
@@ -4245,6 +4282,7 @@
 0.0.0.0 evolution-home.ru
 0.0.0.0 evx5.g1zmotrail.ru
 0.0.0.0 ew.mzvo7.ru
+0.0.0.0 ew.t2kec2reujo.ru
 0.0.0.0 ew.xhs-8-e.ru
 0.0.0.0 ew4.qj-4-y-4.ru
 0.0.0.0 ew4.xr6u9.ru
@@ -4253,6 +4291,7 @@
 0.0.0.0 ewm.ndoq0.ru
 0.0.0.0 ewo.0fv1.ru
 0.0.0.0 ewp3.bul1upd2ted.ru
+0.0.0.0 ewrd3.ga8tukh1yat.ru
 0.0.0.0 ewwfwedd.ooguy.com
 0.0.0.0 ex.de-6a.ru
 0.0.0.0 ex.j5-ol.ru
@@ -4279,6 +4318,7 @@
 0.0.0.0 eyv.v0xelspark.ru
 0.0.0.0 ez.sqfe-6.ru
 0.0.0.0 ez.tundraflip.ru
+0.0.0.0 ez04d.rainsh1eld.ru
 0.0.0.0 ez72.cl0udforge.ru
 0.0.0.0 ezexam.online
 0.0.0.0 f-tigers-wheel-apk-br.pages.dev
@@ -4324,6 +4364,7 @@
 0.0.0.0 f5.night-bloom.ru
 0.0.0.0 f5.pe8d.ru
 0.0.0.0 f5bqh.sa3x.online
+0.0.0.0 f5d6x.darkw1nd.ru
 0.0.0.0 f5e.qo1s.ru
 0.0.0.0 f5q.ironbucht.online
 0.0.0.0 f6.0bj3i.ru
@@ -4344,6 +4385,7 @@
 0.0.0.0 f7zn0.mi9q.online
 0.0.0.0 f8bet.gr.com
 0.0.0.0 f8beta-2.com
+0.0.0.0 f8bkf.grim1atin0s.ru
 0.0.0.0 f8rn.i-c-81.ru
 0.0.0.0 f8s.amberr0cket.ru
 0.0.0.0 f8t.emberfrontier.ru
@@ -4384,6 +4426,7 @@
 0.0.0.0 falke1.shadowc0re.ru
 0.0.0.0 falke1.starcresting.ru
 0.0.0.0 falke2.g0ldmint.ru
+0.0.0.0 falkomer.ru
 0.0.0.0 fall9n.5tardr0pper.ru
 0.0.0.0 fallow.ant1sepgue7.ru
 0.0.0.0 falx.ve1vetc0ves.ru
@@ -4394,6 +4437,7 @@
 0.0.0.0 farescddd.icu
 0.0.0.0 farm.me-2-v.ru
 0.0.0.0 farn.quillgipfel.ru
+0.0.0.0 farnuq.go1ogun0ow.ru
 0.0.0.0 fashion121fashion.top
 0.0.0.0 fasmnee.xyz
 0.0.0.0 fasmol.m0pin8mute.ru
@@ -4422,9 +4466,11 @@
 0.0.0.0 fe.nqju5.ru
 0.0.0.0 fe.vqod2.ru
 0.0.0.0 featherstorage.com
+0.0.0.0 feels-lounge-release-thursday.trycloudflare.com
 0.0.0.0 feld.harewinkel.ru
 0.0.0.0 feld2.c2tt1eschlen.ru
 0.0.0.0 fellsminjs.com
+0.0.0.0 felmor.a5kin8insur.ru
 0.0.0.0 fels.bramblequell.ru
 0.0.0.0 fels.glaciertal.ru
 0.0.0.0 fendaa.app
@@ -4438,11 +4484,12 @@
 0.0.0.0 fern.sne4p.online
 0.0.0.0 fern2.gl0wmist.ru
 0.0.0.0 fern2.wildcr3st.ru
-0.0.0.0 feseed.click
+0.0.0.0 fespov.den1mp7imad.ru
 0.0.0.0 feuer.emberkranz.ru
 0.0.0.0 fev5.deep0asis.ru
 0.0.0.0 few.cqom9.ru
 0.0.0.0 few.n4ke.ru
+0.0.0.0 fexmor.antip2th5ub.ru
 0.0.0.0 ff.fk9o0.ru
 0.0.0.0 ff0.kqag-6.ru
 0.0.0.0 ffmg.frostbranch.ru
@@ -4471,6 +4518,7 @@
 0.0.0.0 field.deep0asis.ru
 0.0.0.0 field.deepbreez3.ru
 0.0.0.0 field.f1ippme7re.ru
+0.0.0.0 field.f2rewel1lever.ru
 0.0.0.0 field.l1ghtforest.ru
 0.0.0.0 field.mintdr1ft.ru
 0.0.0.0 field.soft5and.ru
@@ -4478,9 +4526,9 @@
 0.0.0.0 field1.law-5-andw-1-ch.ru
 0.0.0.0 fierpausemg93.com
 0.0.0.0 fig.jix3.ru
+0.0.0.0 figmet.re5cuestup1d.ru
 0.0.0.0 fih.ussn-7.ru
 0.0.0.0 file-secure-sharing.com
-0.0.0.0 file-sharings.store
 0.0.0.0 file.blackint3.com
 0.0.0.0 file.edunet.ac
 0.0.0.0 file.uhsea.com
@@ -4492,13 +4540,13 @@
 0.0.0.0 files.tikmod18.ru
 0.0.0.0 files.vk-plusing.ru
 0.0.0.0 filestore.space
+0.0.0.0 filezilla.cc
 0.0.0.0 filezup.pro
 0.0.0.0 fin.gyj0.ru
 0.0.0.0 fin.je9r.ru
 0.0.0.0 fin5er.g0ldfish.ru
 0.0.0.0 financeiro1412.melhorescoisa.com
 0.0.0.0 fine.0zvel.online
-0.0.0.0 fined.cfd
 0.0.0.0 fiplar.c0lombve8et.ru
 0.0.0.0 fir.vextimber.ru
 0.0.0.0 fir3wd.firew0rd.ru
@@ -4517,7 +4565,6 @@
 0.0.0.0 fishspike.pro
 0.0.0.0 fistingasser.sbs
 0.0.0.0 fix.k8li.ru
-0.0.0.0 fixfiles.cfd
 0.0.0.0 fizz.de1iainal0s.ru
 0.0.0.0 fizz.kettle-wisp.ru
 0.0.0.0 fizz.sp1nterpad.ru
@@ -4585,6 +4632,7 @@
 0.0.0.0 flevin.fu1lneve7.ru
 0.0.0.0 flickrodf.com
 0.0.0.0 flint.fenod.online
+0.0.0.0 flint.fl-0-wmortar.ru
 0.0.0.0 flint.wqix-5.ru
 0.0.0.0 flintwiese.online
 0.0.0.0 flip.da-5-v.ru
@@ -4594,8 +4642,10 @@
 0.0.0.0 flipgg.sbs
 0.0.0.0 florix.fl0rinf2t.ru
 0.0.0.0 flour.1-mafus-044-e.ru
+0.0.0.0 flow.acr0b2tdiffer.ru
 0.0.0.0 flow.cloudf0rm.ru
 0.0.0.0 flow.g-1-zmotrail.ru
+0.0.0.0 flow.knurl-pocket.ru
 0.0.0.0 flow3.res4ev7oy1.online
 0.0.0.0 flowascatch.com
 0.0.0.0 flp3.st1ltforge.ru
@@ -4658,6 +4708,7 @@
 0.0.0.0 forge9.codecog.ru
 0.0.0.0 form.bluef0rest.ru
 0.0.0.0 form.cloudb1t.ru
+0.0.0.0 form.silentf0rest.ru
 0.0.0.0 form.wave5tone.ru
 0.0.0.0 formjack.page.gd
 0.0.0.0 forms.saurashtrauniversity.edu
@@ -4672,6 +4723,7 @@
 0.0.0.0 fox.cl0udland.ru
 0.0.0.0 fox.clears0ft.ru
 0.0.0.0 fox.fl-0-wlatch.ru
+0.0.0.0 fox.fori5po1u.ru
 0.0.0.0 fox.skyhollow.ru
 0.0.0.0 fox.sunf0rest.ru
 0.0.0.0 fox.wib8.ru
@@ -4689,7 +4741,6 @@
 0.0.0.0 fr.ha0m.ru
 0.0.0.0 fr.qzad-3.ru
 0.0.0.0 fr.t1va.ru
-0.0.0.0 fr.wuhp.ru
 0.0.0.0 fr3sha.cl0vermint.ru
 0.0.0.0 fracture.disfi8tit2n.ru
 0.0.0.0 frakt8.crystalv1be.ru
@@ -4707,6 +4758,7 @@
 0.0.0.0 fro.pi6o.ru
 0.0.0.0 frog7y.fr0gtime.ru
 0.0.0.0 frost-indigo.ru
+0.0.0.0 frost.acr0b2tdiffer.ru
 0.0.0.0 frost.cl0udfall.ru
 0.0.0.0 frost.darkmint.ru
 0.0.0.0 frost.ede1g0rge.ru
@@ -4746,7 +4798,7 @@
 0.0.0.0 fukoras.com
 0.0.0.0 fulen.fu1lneve7.ru
 0.0.0.0 fullstacknir.com
-0.0.0.0 fulltai.top
+0.0.0.0 fumtis.d0orh0bbit.ru
 0.0.0.0 fun-game-downloaders.top
 0.0.0.0 fun.je9r.ru
 0.0.0.0 fund.aud-1-mi-5-s.ru
@@ -4790,14 +4842,12 @@
 0.0.0.0 g.9zk8r.ru
 0.0.0.0 g.a-91p.ru
 0.0.0.0 g.b10ou.ru
-0.0.0.0 g.ctze0.ru
 0.0.0.0 g.e-52p.ru
 0.0.0.0 g.falconhimmel.ru
 0.0.0.0 g.favezi.ru
 0.0.0.0 g.frl-0-i.ru
 0.0.0.0 g.g-28e.ru
 0.0.0.0 g.he-22.ru
-0.0.0.0 g.i-661.ru
 0.0.0.0 g.i924ao.ru
 0.0.0.0 g.k3o9d.ru
 0.0.0.0 g.kudaxy.ru
@@ -4812,10 +4862,8 @@
 0.0.0.0 g.s4m7v4.ru
 0.0.0.0 g.t-68e.ru
 0.0.0.0 g.tqxfs.ru
-0.0.0.0 g.u-885.ru
 0.0.0.0 g.x-57u.ru
 0.0.0.0 g.x12uy.ru
-0.0.0.0 g.xabz.ru
 0.0.0.0 g.yxb-au.ru
 0.0.0.0 g.z-48y.ru
 0.0.0.0 g.z1u2z.ru
@@ -4851,9 +4899,9 @@
 0.0.0.0 g3.m2jo.ru
 0.0.0.0 g3.plx-5.ru
 0.0.0.0 g3c.rv6324.online
+0.0.0.0 g3we2pj43ijkpfjmi.3utilities.com
 0.0.0.0 g4.0y-pm.ru
 0.0.0.0 g4.6-b408.ru
-0.0.0.0 g4.a-144.ru
 0.0.0.0 g4.a-90g.ru
 0.0.0.0 g4.dk-2-o-5.ru
 0.0.0.0 g4.e-09q.ru
@@ -4875,6 +4923,7 @@
 0.0.0.0 g4n0.q-0-spi.ru
 0.0.0.0 g4ny.37i658094.online
 0.0.0.0 g4rden.ston3garden.ru
+0.0.0.0 g4tb.t0ppleseed.ru
 0.0.0.0 g4v.glimmerstone.ru
 0.0.0.0 g4v.solarfracht.online
 0.0.0.0 g4zt.71o9.online
@@ -4962,20 +5011,25 @@
 0.0.0.0 gamma.cr2ftedne5s.ru
 0.0.0.0 gamma.darkp1xel.ru
 0.0.0.0 gamma.f1rest0ne.ru
+0.0.0.0 gamma.fori5po1u.ru
 0.0.0.0 gamma.muddle-oak.ru
 0.0.0.0 gamma.oceandrift.ru
 0.0.0.0 gamma.quenchorbit.ru
 0.0.0.0 gamma.rain5tone.ru
+0.0.0.0 gamma.sn1pcradle.ru
 0.0.0.0 gamma.softsh1ft.ru
 0.0.0.0 gamma.stormc0de.ru
 0.0.0.0 gamma.v0xencrate.ru
 0.0.0.0 gariwjwb.sbs
+0.0.0.0 garlip.d0orh0bbit.ru
 0.0.0.0 garp1s.windc0met.ru
+0.0.0.0 garxit.den1mp7imad.ru
 0.0.0.0 gas-social.brasilera.org
 0.0.0.0 gas.cornedbath.digital
 0.0.0.0 gas.v3sa.ru
 0.0.0.0 gate.c1earrec0ng.ru
 0.0.0.0 gate.ch2pernev0d.ru
+0.0.0.0 gate.entire1y5ming.ru
 0.0.0.0 gate.frostc0de.ru
 0.0.0.0 gate.po5tr2diat.ru
 0.0.0.0 gate.skyf0rge.ru
@@ -5018,6 +5072,7 @@
 0.0.0.0 geist.spruce5moor.ru
 0.0.0.0 gelid.frostb1te.ru
 0.0.0.0 gelisimtrans.sbs
+0.0.0.0 gelz.rainsh1eld.ru
 0.0.0.0 gem.dor8y.online
 0.0.0.0 gem.wir2.ru
 0.0.0.0 genix-dk4.pages.dev
@@ -5064,6 +5119,7 @@
 0.0.0.0 gi54.obnoxiousdevalue.digital
 0.0.0.0 giass5.syc0aq8uy1.ru
 0.0.0.0 gic-sn.online
+0.0.0.0 gieo.cl0udstone.ru
 0.0.0.0 gift.pl-8-a.ru
 0.0.0.0 gifted-yalow.196-251-72-149.plesk.page
 0.0.0.0 giowrust.ru
@@ -5072,11 +5128,11 @@
 0.0.0.0 girder.safebr1dge.ru
 0.0.0.0 girl.je-9-r.ru
 0.0.0.0 girl.k8li.online
+0.0.0.0 git.parscoders.com
 0.0.0.0 gitlab.bzctoons.net
 0.0.0.0 giz.cloudb1t.ru
 0.0.0.0 gizmo.skysh1ne.ru
 0.0.0.0 gj-2-i-3.ru
-0.0.0.0 gj.tiqk.ru
 0.0.0.0 gjh.hl5a6.ru
 0.0.0.0 gjin.ever-mint.ru
 0.0.0.0 gk.dnek6.ru
@@ -5162,6 +5218,7 @@
 0.0.0.0 glint.stormpixei.ru
 0.0.0.0 glint5.crystalv1be.ru
 0.0.0.0 glitch.hollowfizz.ru
+0.0.0.0 glitch.hush-zigzag.ru
 0.0.0.0 glitch.ripple-cask.ru
 0.0.0.0 gloam.r1verdusk.ru
 0.0.0.0 gloam5.shad0wmint.ru
@@ -5172,6 +5229,7 @@
 0.0.0.0 glow.b1tcascade.ru
 0.0.0.0 glow.br0adtemp1ate.ru
 0.0.0.0 glow.f1recrest.ru
+0.0.0.0 glow.g0rico1ormica.ru
 0.0.0.0 glow.gulag1emur.ru
 0.0.0.0 glow.k8li.online
 0.0.0.0 glow.l2-1-w2.ru
@@ -5205,6 +5263,7 @@
 0.0.0.0 gma.stonel1nk.ru
 0.0.0.0 gmegpauseee.com
 0.0.0.0 gmg94g93m.com
+0.0.0.0 gn.cl0udstone.ru
 0.0.0.0 gn.tweak-mire.ru
 0.0.0.0 gn8.8j4-5-6.ru
 0.0.0.0 gnash.c1rclefang.ru
@@ -5214,7 +5273,6 @@
 0.0.0.0 go-invie.invie.id
 0.0.0.0 go.71o9.ru
 0.0.0.0 go.best-n-free.com
-0.0.0.0 go.hmvu4.ru
 0.0.0.0 go.nqju5.ru
 0.0.0.0 go.r0-mx.ru
 0.0.0.0 go.r1v-x.ru
@@ -5230,6 +5288,7 @@
 0.0.0.0 goat.k8li.online
 0.0.0.0 goat.tu-7-q.ru
 0.0.0.0 gob.pub
+0.0.0.0 gobiotechpestcontrol.com
 0.0.0.0 goboadvertising.autodealertech.co
 0.0.0.0 gobxur.buoyc0mp1aint.ru
 0.0.0.0 gocontract.co.uk
@@ -5255,12 +5314,12 @@
 0.0.0.0 goolges-tikitok.sbs
 0.0.0.0 goramobil.app
 0.0.0.0 gordon-and-son.com
+0.0.0.0 gosped.s1aughttre5s.ru
 0.0.0.0 goto.stnts.com
 0.0.0.0 gox7.unslicedcapacity.digital
 0.0.0.0 goxhel.v-1-nexettle.ru
 0.0.0.0 gp.pu5herw0man.ru
 0.0.0.0 gp3.po5m.ru
-0.0.0.0 gq.wugh.ru
 0.0.0.0 gq9.xr7a0.ru
 0.0.0.0 gqs5d.ac0rnrepr0d.ru
 0.0.0.0 gr0w.sys7yn0iy5.online
@@ -5370,12 +5429,11 @@
 0.0.0.0 gy9.p8ri.ru
 0.0.0.0 gyzqen.dropga7net5.ru
 0.0.0.0 gz.je9t.ru
-0.0.0.0 gz.nybk.ru
 0.0.0.0 gz.pf4i2.ru
+0.0.0.0 gzif.deepf0rm.ru
 0.0.0.0 gzt.lo9q.ru
 0.0.0.0 h.3-c719.ru
 0.0.0.0 h.3c38h.ru
-0.0.0.0 h.6q8v0.ru
 0.0.0.0 h.7a-xz.ru
 0.0.0.0 h.c-3dax.ru
 0.0.0.0 h.ctze0.ru
@@ -5383,23 +5441,19 @@
 0.0.0.0 h.ei-84.ru
 0.0.0.0 h.h-35i.ru
 0.0.0.0 h.i-78b.ru
-0.0.0.0 h.j287y.ru
 0.0.0.0 h.l6r7e.ru
 0.0.0.0 h.m4d8q9.ru
 0.0.0.0 h.mw-2-o-3.ru
 0.0.0.0 h.n-80o.ru
 0.0.0.0 h.p-13a.ru
-0.0.0.0 h.pymz.ru
 0.0.0.0 h.ri-04.ru
 0.0.0.0 h.t-nin.ru
 0.0.0.0 h.tqrjf.ru
-0.0.0.0 h.u-251.ru
 0.0.0.0 h.v-36u.ru
 0.0.0.0 h.vqod2.ru
 0.0.0.0 h.vzj-1-o.ru
 0.0.0.0 h.w-48u.ru
 0.0.0.0 h.x38ii.ru
-0.0.0.0 h.z687a.ru
 0.0.0.0 h07.bo3l.ru
 0.0.0.0 h0f8.solarfracht.online
 0.0.0.0 h0me.qytan.online
@@ -5414,8 +5468,6 @@
 0.0.0.0 h1.ay-63.ru
 0.0.0.0 h1.d03ui.ru
 0.0.0.0 h1.dvn-4-i.ru
-0.0.0.0 h1.e-134.ru
-0.0.0.0 h1.e-72t.ru
 0.0.0.0 h1.e41m.ru
 0.0.0.0 h1.fa-99.ru
 0.0.0.0 h1.imm-yi.ru
@@ -5650,6 +5702,7 @@
 0.0.0.0 hare.harewinkel.ru
 0.0.0.0 hark.pi-6-o.ru
 0.0.0.0 hark.tu7q.online
+0.0.0.0 harqel.d0orh0bbit.ru
 0.0.0.0 harrow.gravelwhisk.ru
 0.0.0.0 harry-site.nl
 0.0.0.0 harsib.chup7unwhe7e.ru
@@ -5664,8 +5717,10 @@
 0.0.0.0 hastev.c0lombve8et.ru
 0.0.0.0 hat.je9r.ru
 0.0.0.0 haust5.willowgase.ru
+0.0.0.0 hav7el.a5kin8insur.ru
 0.0.0.0 havqen.ann0uneterna1.ru
 0.0.0.0 havqon.caskwander.ru
+0.0.0.0 havtor.bi1ingnause2.ru
 0.0.0.0 haxdir.ab5olutsa8ogul.ru
 0.0.0.0 haxlim.bo0ndc0pe.ru
 0.0.0.0 hay.da5v.ru
@@ -5681,11 +5736,13 @@
 0.0.0.0 hb3.r4tu.ru
 0.0.0.0 hb9.9z2503.online
 0.0.0.0 hb9.bqet3.ru
+0.0.0.0 hb999.comp0ser5kid.ru
 0.0.0.0 hbo8.dr1ftpanda.ru
 0.0.0.0 hc.oc57y.ru
 0.0.0.0 hcg.cloudreach.ru
 0.0.0.0 hcontrol.pro
 0.0.0.0 hd.1nyearbo0k.ru
+0.0.0.0 hd.acr0b2tdiffer.ru
 0.0.0.0 hd.pf-6-o-2.ru
 0.0.0.0 hd1p.r1mrock.ru
 0.0.0.0 hd3n.fi7em.online
@@ -5701,7 +5758,6 @@
 0.0.0.0 he.re-t0.ru
 0.0.0.0 he.t0rchmingle.ru
 0.0.0.0 he.tr-8n.ru
-0.0.0.0 he.xmho3.ru
 0.0.0.0 he.xrly8.ru
 0.0.0.0 he.xzb6i.ru
 0.0.0.0 he2.g-0-ss-lamp.ru
@@ -5736,8 +5792,11 @@
 0.0.0.0 hertuq.imp0rttwi5t.ru
 0.0.0.0 hetenyikorhaz.hu
 0.0.0.0 hev5g1.go-1-dkamy-5-hev.ru
+0.0.0.0 hev7om.antip2th5ub.ru
+0.0.0.0 hewadexchange.com
 0.0.0.0 hexa.hexapulse.ru
 0.0.0.0 hexqiv.dev0urspon8y.ru
+0.0.0.0 hexvul.exh2ust8one.ru
 0.0.0.0 hez3it.pa1mi5trythat.ru
 0.0.0.0 hezi1.com
 0.0.0.0 hezqow.bobi1dece4.ru
@@ -5751,6 +5810,7 @@
 0.0.0.0 hg.quartz-flip.ru
 0.0.0.0 hg.r8li.ru
 0.0.0.0 hgame33.com
+0.0.0.0 hgd7l.hush-zigzag.ru
 0.0.0.0 hgdm.mistw0rk.ru
 0.0.0.0 hgrynetfiixsav.com
 0.0.0.0 hhapseceorspt.onl
@@ -5761,6 +5821,7 @@
 0.0.0.0 hi.n2-ke.ru
 0.0.0.0 hi.nxno7.ru
 0.0.0.0 hi.xrxo2.ru
+0.0.0.0 hibrax.cl2ddstr1ve.ru
 0.0.0.0 hid.hpap-6.ru
 0.0.0.0 hid.m4ze.ru
 0.0.0.0 higreens.co.in
@@ -5781,11 +5842,11 @@
 0.0.0.0 hitonowa-salon.com
 0.0.0.0 hitstation.nl
 0.0.0.0 hivbep.sy2bkywa1tz.ru
+0.0.0.0 hivlot.ar2ble0ffend.ru
 0.0.0.0 hixqer.ro1luzbek5.ru
 0.0.0.0 hj9.ge7kom0ley.ru
 0.0.0.0 hjfng.wavermint.ru
 0.0.0.0 hk.hb0-e.ru
-0.0.0.0 hk.pymh.ru
 0.0.0.0 hk.vbep3.ru
 0.0.0.0 hk.xa4p.online
 0.0.0.0 hk003.ccwink.cc
@@ -5851,14 +5912,18 @@
 0.0.0.0 hoar.frostc0re.ru
 0.0.0.0 hoar2.fr0stgate.ru
 0.0.0.0 hoar2.frostb1te.ru
+0.0.0.0 hobobot.net
 0.0.0.0 hobsmedia.com
 0.0.0.0 hod3an.ban9noti0n.ru
 0.0.0.0 hody-musique.com
 0.0.0.0 hofdan.darkn0va.ru
+0.0.0.0 hofqen.b2ckfo0t.ru
 0.0.0.0 hog.darkbreeze.ru
 0.0.0.0 holiganbet10185.lease
 0.0.0.0 hollow.cloudf0rm.ru
+0.0.0.0 hollow.comp0ser5kid.ru
 0.0.0.0 holonimjs.com
+0.0.0.0 holvas.l0ckmu7derer.ru
 0.0.0.0 home.x-3-ri.ru
 0.0.0.0 hometrack-be-package.com
 0.0.0.0 hometrack-package-lu.com
@@ -5878,6 +5943,7 @@
 0.0.0.0 hostel.org.br
 0.0.0.0 hostingdanfe.store
 0.0.0.0 hostingfile.live
+0.0.0.0 hostphpwindowsapps.ydns.eu
 0.0.0.0 hostphpwindowsdriversapp.duckdns.org
 0.0.0.0 hostphpwindowsdriversapps.duckdns.org
 0.0.0.0 hostphpwindowsdriversapps1.duckdns.org
@@ -5890,12 +5956,14 @@
 0.0.0.0 hotelmewah.online
 0.0.0.0 hotelsep.blogspot.com
 0.0.0.0 house.softr1ver.ru
+0.0.0.0 hov3il.be2vesati5t.ru
 0.0.0.0 hover.cl0udvex.ru
 0.0.0.0 hover.fr0stciiff.ru
 0.0.0.0 hover.st0bepress.ru
 0.0.0.0 hover.trickilygrey.com
 0.0.0.0 hover3.g-0-ss-lamp.ru
 0.0.0.0 hover4.ember-trail.ru
+0.0.0.0 hovlen.ru5t1eview.ru
 0.0.0.0 howelllanddevelopment.com
 0.0.0.0 howl.mistyw0lf.ru
 0.0.0.0 hoy.tvil-0.ru
@@ -5928,6 +5996,7 @@
 0.0.0.0 hu.storm-harrow.ru
 0.0.0.0 hu41o.ever-mint.ru
 0.0.0.0 hu9.j1ttersnap.ru
+0.0.0.0 huaweipresent.cfd
 0.0.0.0 hub.netw1ng.ru
 0.0.0.0 hub.pi6o.ru
 0.0.0.0 hubqen.c1otheto0th.ru
@@ -5939,6 +6008,7 @@
 0.0.0.0 hufqam.m2ximtherm0s.ru
 0.0.0.0 hui.dzem4.ru
 0.0.0.0 hullabusch.com
+0.0.0.0 hulmet.insti8sc2tter.ru
 0.0.0.0 hultiq.v-1-nexettle.ru
 0.0.0.0 hum.hop-g3.ru
 0.0.0.0 hum.ke9t.ru
@@ -5949,6 +6019,7 @@
 0.0.0.0 humus.clears0il.ru
 0.0.0.0 hungry-kalam.196-251-72-149.plesk.page
 0.0.0.0 hunled.ar5hinas5ist.ru
+0.0.0.0 hush.hush-zigzag.ru
 0.0.0.0 hush.quartz-mug.ru
 0.0.0.0 hush2.ciears0ft.ru
 0.0.0.0 hush2.r1verdusk.ru
@@ -5969,6 +6040,7 @@
 0.0.0.0 hw.kdit-5.ru
 0.0.0.0 hwgeneralins.com
 0.0.0.0 hwj.sxuj-7.ru
+0.0.0.0 hwr.skyfl0w.ru
 0.0.0.0 hwrjz.pages.dev
 0.0.0.0 hwv.rumble-kin.ru
 0.0.0.0 hx.gbta9.ru
@@ -5985,7 +6057,10 @@
 0.0.0.0 hy.jnfe-1.ru
 0.0.0.0 hy.wz3a7.ru
 0.0.0.0 hyh.ravelmint.ru
+0.0.0.0 hyidb.f0rtunmentho1.ru
+0.0.0.0 hylmos.mar8arstr2t.ru
 0.0.0.0 hyltok.b0rzvorsink2.ru
+0.0.0.0 hylvet.fl0rinf2t.ru
 0.0.0.0 hzjx5.cloudb1te.ru
 0.0.0.0 hzr.va4n.ru
 0.0.0.0 hzxcaq-github-io.pages.dev
@@ -6032,7 +6107,7 @@
 0.0.0.0 i8.spindle-way.ru
 0.0.0.0 ia.gi0x.ru
 0.0.0.0 ia.hl5a6.ru
-0.0.0.0 ia.wuhp.ru
+0.0.0.0 iamnashitop.chickenkiller.com
 0.0.0.0 iaz.dc-8.ru
 0.0.0.0 ib.fq-1-y-8.ru
 0.0.0.0 ib.lakespry.ru
@@ -6082,8 +6157,8 @@
 0.0.0.0 iiiconstruction.net
 0.0.0.0 iiu.bvum-6.ru
 0.0.0.0 ij.ha7e.ru
+0.0.0.0 ij4s4.bluef0rm.ru
 0.0.0.0 ijct.cl1nkbarge.ru
-0.0.0.0 ik.nytk.ru
 0.0.0.0 ikanteriscpahe.fit
 0.0.0.0 ikx.1r55.ru
 0.0.0.0 ikzct.sp1nterpad.ru
@@ -6099,7 +6174,6 @@
 0.0.0.0 imrobpolit.pro
 0.0.0.0 in.nzki7.ru
 0.0.0.0 in.s4-ti.ru
-0.0.0.0 in.xmho3.ru
 0.0.0.0 in.xrxo2.ru
 0.0.0.0 in.xzb6i.ru
 0.0.0.0 in7o.pi1er5pat.ru
@@ -6132,7 +6206,7 @@
 0.0.0.0 inspiresphere.site
 0.0.0.0 installppi.cfd
 0.0.0.0 instapaybd.top
-0.0.0.0 institut-corps-a-ligne.fr
+0.0.0.0 instel.insti8sc2tter.ru
 0.0.0.0 institutoalfrednobel.edu.mx
 0.0.0.0 instruction-colis-2025.com
 0.0.0.0 instructions-de-colis.com
@@ -6162,6 +6236,7 @@
 0.0.0.0 ip.nebulabin.pl
 0.0.0.0 ip.pf-6-o-2.ru
 0.0.0.0 ip1.p8ri.ru
+0.0.0.0 ip423869596.ahcdn.com
 0.0.0.0 ipu.hy6o.ru
 0.0.0.0 iq.18yk.ru
 0.0.0.0 iqadmex.com.mx
@@ -6176,7 +6251,6 @@
 0.0.0.0 is.nzki7.ru
 0.0.0.0 is.vakun.ru
 0.0.0.0 is.xe-1r.ru
-0.0.0.0 is.xmho3.ru
 0.0.0.0 is.xvqy8.ru
 0.0.0.0 isiore.com.co
 0.0.0.0 iso.e-dx.ru
@@ -6208,7 +6282,6 @@
 0.0.0.0 ivs.da5y.ru
 0.0.0.0 iw.dk2o5.ru
 0.0.0.0 ix.n0vaharbor.ru
-0.0.0.0 ix.wuhp.ru
 0.0.0.0 ixa.qzad-3.ru
 0.0.0.0 iyp61.sc2ntrepid2t.ru
 0.0.0.0 iyr1c.fenod.online
@@ -6216,7 +6289,6 @@
 0.0.0.0 iz.blyp9.ru
 0.0.0.0 iz.fe-k2.ru
 0.0.0.0 izocab.com
-0.0.0.0 izogard.com
 0.0.0.0 izw.mjg1.ru
 0.0.0.0 j-0-09g-9bh-h-ggf-1324992141.cos.ap-bangkok.myqcloud.com
 0.0.0.0 j.5h4553.online
@@ -6226,6 +6298,7 @@
 0.0.0.0 j0e.n6ri.ru
 0.0.0.0 j0xk.op76.online
 0.0.0.0 j1.4aeaco0.ru
+0.0.0.0 j16.windf0x.ru
 0.0.0.0 j1bn.crystal0ak.ru
 0.0.0.0 j1c5p.7d0re6.ru
 0.0.0.0 j1de9.re7x.online
@@ -6239,6 +6312,7 @@
 0.0.0.0 j2p.mi7x.online
 0.0.0.0 j2vb.u4-r-o.ru
 0.0.0.0 j2yr.xb1-60.ru
+0.0.0.0 j3.cloudf1eld.ru
 0.0.0.0 j3vp.31e854642.online
 0.0.0.0 j4.basaltwerk.ru
 0.0.0.0 j4.gre2tre7ue.ru
@@ -6260,6 +6334,7 @@
 0.0.0.0 j8r2.99y401874.online
 0.0.0.0 j8wz.xa9t.online
 0.0.0.0 j9m3z.fi0m.online
+0.0.0.0 j9o9f.windsh1eld.ru
 0.0.0.0 j9pc.bvum6.ru
 0.0.0.0 j9pd.0-9pr.ru
 0.0.0.0 j9pf.nyqb0.ru
@@ -6321,9 +6396,12 @@
 0.0.0.0 je6.cv-3-a-9.ru
 0.0.0.0 jebxit.g2un7makeup.ru
 0.0.0.0 jej.nq-8-e-9.ru
+0.0.0.0 jelvon.di5pl2yleft.ru
 0.0.0.0 jem3ik.c0mp5chminka.ru
+0.0.0.0 jem7iq.re5cuestup1d.ru
 0.0.0.0 jemniv.bramble-zip.ru
 0.0.0.0 jenxop.v-1-nexettle.ru
+0.0.0.0 jeplox.e9uatp2nth.ru
 0.0.0.0 jereservelocker.com
 0.0.0.0 jerkdolls.net
 0.0.0.0 jertol.me2n5precede.ru
@@ -6340,8 +6418,10 @@
 0.0.0.0 jhfhfdkhdfdk32.duckdns.org
 0.0.0.0 jhuiy3.icingpeach.digital
 0.0.0.0 ji.lkci-1.ru
+0.0.0.0 jibkar.che6u7therm.ru
 0.0.0.0 jimy.homes
 0.0.0.0 jingle.hollowfizz.ru
+0.0.0.0 jinx.knurl-pocket.ru
 0.0.0.0 jitter.saffron-dent.ru
 0.0.0.0 jiv8ro.lobo8rnerf1.ru
 0.0.0.0 jivqot.hump7yb0lt.ru
@@ -6358,6 +6438,7 @@
 0.0.0.0 jkf2.gl1nterbay.ru
 0.0.0.0 jkshaonv.com
 0.0.0.0 jkt338.top
+0.0.0.0 jl.bracketloam.ru
 0.0.0.0 jl.nq8e9.ru
 0.0.0.0 jlk.db-3-a-4.ru
 0.0.0.0 jm.vw0e1.ru
@@ -6366,7 +6447,6 @@
 0.0.0.0 jm5a.desj1.ru
 0.0.0.0 jmpbowl.space
 0.0.0.0 jmqk.softsh1ft.ru
-0.0.0.0 jn.qekz.ru
 0.0.0.0 jn.stoneflare.ru
 0.0.0.0 jo.n4-ke.ru
 0.0.0.0 jo.nzki7.ru
@@ -6388,13 +6468,17 @@
 0.0.0.0 jolt9e.c2rb0lduty.ru
 0.0.0.0 joltev.caskwander.ru
 0.0.0.0 joltev.m2ximtherm0s.ru
+0.0.0.0 joltex.go1ogun0ow.ru
 0.0.0.0 jomvet.bo0ndc0pe.ru
+0.0.0.0 jomvet.hiredp1ayfu1.ru
 0.0.0.0 jorbin.datashade.ru
 0.0.0.0 jorqev.cask-wander.ru
 0.0.0.0 jorqit.c1utter0ver.ru
+0.0.0.0 jorxel.act0rpie7ce.ru
 0.0.0.0 jorxep.quartzjolt.ru
 0.0.0.0 josqen.chup7unwhe7e.ru
 0.0.0.0 jostiq.f1ysynchr0n.ru
+0.0.0.0 jotvel.cl2ddstr1ve.ru
 0.0.0.0 journ3.longj0urney.ru
 0.0.0.0 jov.cl1ppleap.ru
 0.0.0.0 jovial-bartik.196-251-72-149.plesk.page
@@ -6402,6 +6486,7 @@
 0.0.0.0 joyeriatauro.com
 0.0.0.0 jozefinskiatelje.si
 0.0.0.0 jp.braycircuit.ru
+0.0.0.0 jp2.cl0udbreeze.ru
 0.0.0.0 jpv.dlun7.ru
 0.0.0.0 jq.darkbreeze.ru
 0.0.0.0 jq.u-v9.ru
@@ -6409,6 +6494,7 @@
 0.0.0.0 jql0.dark5hip.ru
 0.0.0.0 jqp.wi7e.ru
 0.0.0.0 jr.minglecrate.ru
+0.0.0.0 jr33x.amber-flint.ru
 0.0.0.0 js-storage.com
 0.0.0.0 js.dk2o5.ru
 0.0.0.0 js.xo3v.ru
@@ -6427,6 +6513,7 @@
 0.0.0.0 ju.j-0-tchamber.ru
 0.0.0.0 ju.lkci-1.ru
 0.0.0.0 jubran.imp2ctto1st.ru
+0.0.0.0 jubvik.mar8arstr2t.ru
 0.0.0.0 jug.vex0.ru
 0.0.0.0 jujg2.br1ghtmist.ru
 0.0.0.0 juke-download.pages.dev
@@ -6437,7 +6524,9 @@
 0.0.0.0 jumpy.5-forez-515-o.ru
 0.0.0.0 jundex.gyneco1st0p.ru
 0.0.0.0 juo.fk9o0.ru
+0.0.0.0 juph.bluec0rest.ru
 0.0.0.0 juqmal.pa1mi5trythat.ru
+0.0.0.0 jurqen.antip2th5ub.ru
 0.0.0.0 juzmat.f0undoutw2y.ru
 0.0.0.0 jv.zzax-4.ru
 0.0.0.0 jv0.mw-9-y-4.ru
@@ -6466,12 +6555,10 @@
 0.0.0.0 k.5lr1v.ru
 0.0.0.0 k.6e5a5u3.ru
 0.0.0.0 k.8a-mg.ru
-0.0.0.0 k.a-311.ru
 0.0.0.0 k.a-84l.ru
 0.0.0.0 k.b-9lyb.ru
 0.0.0.0 k.bw6u0.ru
 0.0.0.0 k.c-01e.ru
-0.0.0.0 k.c646a.ru
 0.0.0.0 k.cpc-8-u.ru
 0.0.0.0 k.d-76u.ru
 0.0.0.0 k.db3a4.ru
@@ -6498,7 +6585,6 @@
 0.0.0.0 k.mw9y4.ru
 0.0.0.0 k.n46uu.ru
 0.0.0.0 k.nu-96.ru
-0.0.0.0 k.o-554.ru
 0.0.0.0 k.ou-86.ru
 0.0.0.0 k.pf6o2.ru
 0.0.0.0 k.q6t4u.ru
@@ -6508,7 +6594,6 @@
 0.0.0.0 k.ss9y4.ru
 0.0.0.0 k.t-20y.ru
 0.0.0.0 k.u-66r.ru
-0.0.0.0 k.u-97w.ru
 0.0.0.0 k.uy-55.ru
 0.0.0.0 k.w-70a.ru
 0.0.0.0 k.x-7daf.ru
@@ -6538,9 +6623,9 @@
 0.0.0.0 k0y.ju8r.online
 0.0.0.0 k1.0vl3u.ru
 0.0.0.0 k1.cr2ftedne5s.ru
+0.0.0.0 k1.silentf0rest.ru
 0.0.0.0 k1.t1ger.ru
 0.0.0.0 k17.mt-3-o-4.ru
-0.0.0.0 k1gkl25as.top
 0.0.0.0 k1p4v.yq2r.online
 0.0.0.0 k1s7.8786.online
 0.0.0.0 k1v5q.br1ghtstorm.ru
@@ -6582,7 +6667,6 @@
 0.0.0.0 k4.6-b408.ru
 0.0.0.0 k4.7a-xz.ru
 0.0.0.0 k4.8j4-5-6.ru
-0.0.0.0 k4.a-144.ru
 0.0.0.0 k4.a-90g.ru
 0.0.0.0 k4.c-3dax.ru
 0.0.0.0 k4.dk-2-o-5.ru
@@ -6611,6 +6695,7 @@
 0.0.0.0 k4.xkx-0-o.ru
 0.0.0.0 k4.y3-68c.ru
 0.0.0.0 k4.zi-87.ru
+0.0.0.0 k459j.bluef0rm.ru
 0.0.0.0 k4m8.h-3t.online
 0.0.0.0 k4myh5.go1dkamy5hev.ru
 0.0.0.0 k4nz.vbep-3.ru
@@ -6630,19 +6715,18 @@
 0.0.0.0 k7.9-k588.ru
 0.0.0.0 k7.a-91p.ru
 0.0.0.0 k7.b3n4o.ru
+0.0.0.0 k7.cl0udstone.ru
 0.0.0.0 k7.do-04d2.ru
 0.0.0.0 k7.e-52p.ru
 0.0.0.0 k7.frl-0-i.ru
 0.0.0.0 k7.g-28e.ru
 0.0.0.0 k7.he-22.ru
-0.0.0.0 k7.i-661.ru
 0.0.0.0 k7.i3-42s.ru
 0.0.0.0 k7.l-75y.ru
 0.0.0.0 k7.oo-07.ru
 0.0.0.0 k7.q-5ket.ru
 0.0.0.0 k7.t-68e.ru
 0.0.0.0 k7.tqxfs.ru
-0.0.0.0 k7.u-885.ru
 0.0.0.0 k7.v4-z.ru
 0.0.0.0 k7.x-57u.ru
 0.0.0.0 k7.x12uy.ru
@@ -6718,6 +6802,7 @@
 0.0.0.0 kaf.c0sm1cweld.ru
 0.0.0.0 kakhun.ru
 0.0.0.0 kalm3m.emberklamm.ru
+0.0.0.0 kalvex.sa5imw2ter.ru
 0.0.0.0 kalyanking.online
 0.0.0.0 kalyanmatka.world
 0.0.0.0 kalyanmatkavip.online
@@ -6751,6 +6836,7 @@
 0.0.0.0 karoonpc.com
 0.0.0.0 kartel.ban9noti0n.ru
 0.0.0.0 kas.orbitalnip.ru
+0.0.0.0 katana.chernobyl.network
 0.0.0.0 katsecuresfiles.icu
 0.0.0.0 katyache.com
 0.0.0.0 kavacanada.ca
@@ -6758,7 +6844,9 @@
 0.0.0.0 kavyasourcing.com
 0.0.0.0 kb.fs8e0.ru
 0.0.0.0 kb786matkaapp.store
+0.0.0.0 kbn.deepc0rest.ru
 0.0.0.0 kbrx.lu8eti5chkom.ru
+0.0.0.0 kc.entert2inru8.ru
 0.0.0.0 kc.ussn-7.ru
 0.0.0.0 kclly.pages.dev
 0.0.0.0 kd1.jk3y7.ru
@@ -6773,6 +6861,7 @@
 0.0.0.0 keel.plumeanchor.ru
 0.0.0.0 keeniy8.5-milod-931-o.ru
 0.0.0.0 kehloesports.fun
+0.0.0.0 kel3op.or8anop5crew.ru
 0.0.0.0 kelagogo.com
 0.0.0.0 kelpun.sp0rt5updat.ru
 0.0.0.0 kelzir.c1imby2p.ru
@@ -6780,6 +6869,8 @@
 0.0.0.0 ken.r9xa.ru
 0.0.0.0 kenfyl.lobo8rnerf1.ru
 0.0.0.0 kengesrakishev-sanctions.com
+0.0.0.0 ker9al.b1uesgr2mp.ru
+0.0.0.0 ker9ip.act0rpie7ce.ru
 0.0.0.0 kerjaexpress.site
 0.0.0.0 kerjub.nightcl0ud.ru
 0.0.0.0 kerning.s1umtypo1ogy.ru
@@ -6829,6 +6920,7 @@
 0.0.0.0 kjrif.f1rewave.ru
 0.0.0.0 kk.qf0u2.ru
 0.0.0.0 kk.ve5l.ru
+0.0.0.0 kk.windsh1eld.ru
 0.0.0.0 kk0.pf-4-i-2.ru
 0.0.0.0 kkkfdvre.sbs
 0.0.0.0 kl.ko-lu.ru
@@ -6863,7 +6955,9 @@
 0.0.0.0 kn6m.tinkerstep.ru
 0.0.0.0 knit.fog-tangent.ru
 0.0.0.0 knit.ju-5-q.ru
+0.0.0.0 kno.amber-flint.ru
 0.0.0.0 knob.sn-1-rlpatch.ru
+0.0.0.0 knurl.fl0wmortar.ru
 0.0.0.0 knurl.quenchorbit.ru
 0.0.0.0 ko.nxno-7.ru
 0.0.0.0 kobwex.wavec0re.ru
@@ -6921,6 +7015,7 @@
 0.0.0.0 ktyichen.top
 0.0.0.0 ku.a1tistt0rt.ru
 0.0.0.0 ku.crankmuddle.ru
+0.0.0.0 ku.deepc0rest.ru
 0.0.0.0 ku.nxno-7.ru
 0.0.0.0 ku3.brimhopper.ru
 0.0.0.0 ku9cp.softcr5st.ru
@@ -6929,14 +7024,17 @@
 0.0.0.0 kubett.mobi
 0.0.0.0 kubetting.org
 0.0.0.0 kuc.xo3v.ru
+0.0.0.0 kudram.hiredp1ayfu1.ru
 0.0.0.0 kuest5.maplekueste.ru
 0.0.0.0 kul.ta11y.ru
 0.0.0.0 kuliboku.com
 0.0.0.0 kunde-konto-sikre.info
+0.0.0.0 kuoh.bluec0rest.ru
 0.0.0.0 kutegiagoc.com
 0.0.0.0 kuzina-teatr.ru
 0.0.0.0 kuzqer.c1utter0ver.ru
 0.0.0.0 kv.mt-3-o-4.ru
+0.0.0.0 kvf1h.conf1dcorr0de.ru
 0.0.0.0 kvrv5.softsh1ft.ru
 0.0.0.0 kw.digncbe.top
 0.0.0.0 kwi.dk2o1.ru
@@ -6950,7 +7048,6 @@
 0.0.0.0 kylv0n.b2tnikpu1yar.ru
 0.0.0.0 kyrqen.b2nchikwa5te.ru
 0.0.0.0 kys.li
-0.0.0.0 kyseral.live
 0.0.0.0 kz.harborfreund.ru
 0.0.0.0 kz1.9i3mpa6.ru
 0.0.0.0 kz17u.spry-volt.ru
@@ -6960,14 +7057,10 @@
 0.0.0.0 kzw.lakeray.ru
 0.0.0.0 l.1y-zt.ru
 0.0.0.0 l.9-f566.ru
-0.0.0.0 l.9t6p5.ru
-0.0.0.0 l.a-344.ru
 0.0.0.0 l.d-61o.ru
 0.0.0.0 l.dxp-5-y.ru
-0.0.0.0 l.e-99n.ru
 0.0.0.0 l.ee-17.ru
 0.0.0.0 l.f-07y.ru
-0.0.0.0 l.i-574.ru
 0.0.0.0 l.j-9fuw.ru
 0.0.0.0 l.jbffq.ru
 0.0.0.0 l.mu-16.ru
@@ -7043,13 +7136,13 @@
 0.0.0.0 l9.a1mond0prit.ru
 0.0.0.0 l9.zqof0.ru
 0.0.0.0 l9c2.picket-core.ru
+0.0.0.0 l9o.knurl-pocket.ru
 0.0.0.0 l9q7.6aiiwi2.ru
 0.0.0.0 la-bnpcledigital.com
 0.0.0.0 la.c0ffee8rind.ru
 0.0.0.0 la.dvn4i.ru
 0.0.0.0 la.jk3y7.ru
 0.0.0.0 la.kzg-w-4-y.ru
-0.0.0.0 la.lobd.ru
 0.0.0.0 la.pgka9.ru
 0.0.0.0 la.r0-mx.ru
 0.0.0.0 la.tov-4.ru
@@ -7099,7 +7192,6 @@
 0.0.0.0 lbs.windfiare.ru
 0.0.0.0 lc.ha5r.ru
 0.0.0.0 lc.twy-0.ru
-0.0.0.0 lc.wugh.ru
 0.0.0.0 lcontrol-1.online
 0.0.0.0 lcontrols2.online
 0.0.0.0 lcontrols2.ru
@@ -7150,8 +7242,10 @@
 0.0.0.0 lextran.com
 0.0.0.0 lf.ziqa.ru
 0.0.0.0 lf8.rjuq3.ru
+0.0.0.0 lfm9.darkw1nd.ru
 0.0.0.0 lg.oneguy4u.sa.com
 0.0.0.0 lga.5g-t.ru
+0.0.0.0 lgq.entire1y5ming.ru
 0.0.0.0 lgr.pages.dev
 0.0.0.0 lh.je9t.ru
 0.0.0.0 lh24h7tp-5500.euw.devtunnels.ms
@@ -7208,6 +7302,7 @@
 0.0.0.0 line.bluef0rest.ru
 0.0.0.0 line.cloudb1rd.ru
 0.0.0.0 line.deep5ky.ru
+0.0.0.0 line.lo5ermedi0c.ru
 0.0.0.0 line2.driftl1ne.ru
 0.0.0.0 linertarim.com
 0.0.0.0 link.darkc0de.ru
@@ -7251,6 +7346,7 @@
 0.0.0.0 lk.bh-3-i-6.ru
 0.0.0.0 lk.ckyq9.ru
 0.0.0.0 lk.ha7e.ru
+0.0.0.0 lk51.stormm1nd.ru
 0.0.0.0 llb.ynbr-8.ru
 0.0.0.0 llbf.deepflash.ru
 0.0.0.0 llosj.ant1d5ulphur.ru
@@ -7309,9 +7405,11 @@
 0.0.0.0 loom.quartz-nibble.ru
 0.0.0.0 loom.quartzflip.ru
 0.0.0.0 loom.vorticeye.ru
+0.0.0.0 loop.0ctave5pairi.ru
 0.0.0.0 loop.picketwarp.ru
 0.0.0.0 loop.pl0tchisel.ru
 0.0.0.0 loop.re5onwi1ling.ru
+0.0.0.0 loop.v-0-xenridge.ru
 0.0.0.0 loop6.gr0ssgar.top
 0.0.0.0 loq.loqcloud.online
 0.0.0.0 loqcloud.online
@@ -7331,7 +7429,6 @@
 0.0.0.0 lp.skybr1dge.ru
 0.0.0.0 lp.xr-7-a-0.ru
 0.0.0.0 lq.j3ve.ru
-0.0.0.0 lq.pymh.ru
 0.0.0.0 lq.sh0rtwe5ter.ru
 0.0.0.0 lq4f.racketloom.ru
 0.0.0.0 lqd.champm2loma1.ru
@@ -7362,6 +7459,7 @@
 0.0.0.0 luxtrust-secure.info
 0.0.0.0 lv.gdyl2.ru
 0.0.0.0 lv.quartzmug.ru
+0.0.0.0 lv2.fl0wmortar.ru
 0.0.0.0 lv5j.l0ng.ru
 0.0.0.0 lvo.w1um.ru
 0.0.0.0 lvu.xa4p.ru
@@ -7400,7 +7498,6 @@
 0.0.0.0 m.p-72h.ru
 0.0.0.0 m.puterfrens.xyz
 0.0.0.0 m.q8-v-4of.ru
-0.0.0.0 m0.nybh.ru
 0.0.0.0 m00n.s7li.online
 0.0.0.0 m00n.x-2-lu.ru
 0.0.0.0 m01a.4y328.online
@@ -7483,7 +7580,6 @@
 0.0.0.0 m2v.kgto6b.ru
 0.0.0.0 m2x.565fit.ru
 0.0.0.0 m2x.566318z8.ru
-0.0.0.0 m3.3r7j7.ru
 0.0.0.0 m3.c34uu.ru
 0.0.0.0 m3.d5-en.ru
 0.0.0.0 m3.i50m.ru
@@ -7515,6 +7611,7 @@
 0.0.0.0 m4v.99y401874.online
 0.0.0.0 m5.1r55.ru
 0.0.0.0 m5ax.f1relayer.ru
+0.0.0.0 m5ex.f2rewel1lever.ru
 0.0.0.0 m5k.st0nesurge.ru
 0.0.0.0 m5n.wi7e.ru
 0.0.0.0 m5narc.mar5hma1narc.ru
@@ -7546,8 +7643,6 @@
 0.0.0.0 m7.95tbm.ru
 0.0.0.0 m7.ae-18.ru
 0.0.0.0 m7.da2yw.ru
-0.0.0.0 m7.e-783.ru
-0.0.0.0 m7.e-815.ru
 0.0.0.0 m7.embergarten.ru
 0.0.0.0 m7.f14ey.ru
 0.0.0.0 m7.glacierbruecke.ru
@@ -7561,7 +7656,6 @@
 0.0.0.0 m7.n-7sol.ru
 0.0.0.0 m7.n-82o.ru
 0.0.0.0 m7.n6e8h.ru
-0.0.0.0 m7.o-279.ru
 0.0.0.0 m7.o-61x.ru
 0.0.0.0 m7.q-49o.ru
 0.0.0.0 m7.r-54u.ru
@@ -7579,12 +7673,9 @@
 0.0.0.0 m8.4xq2k.ru
 0.0.0.0 m8.4y2o5.ru
 0.0.0.0 m8.ahz-ya.ru
-0.0.0.0 m8.bejw.ru
-0.0.0.0 m8.bpva0.ru
 0.0.0.0 m8.c109s.ru
 0.0.0.0 m8.d44yy.ru
 0.0.0.0 m8.fa6ic.ru
-0.0.0.0 m8.i-215.ru
 0.0.0.0 m8.j0a8n.ru
 0.0.0.0 m8.kyhely.ru
 0.0.0.0 m8.mexizo.ru
@@ -7599,7 +7690,6 @@
 0.0.0.0 m8o.cloudw1re.ru
 0.0.0.0 m8q.aspenatlas.ru
 0.0.0.0 m8qa.pohv3.ru
-0.0.0.0 m9.cgty8.ru
 0.0.0.0 m9.g601c.ru
 0.0.0.0 m9.lr2y6.ru
 0.0.0.0 m9.pi9yj.ru
@@ -7632,6 +7722,8 @@
 0.0.0.0 ma.xer-o.ru
 0.0.0.0 ma.xt7y8.ru
 0.0.0.0 ma4.sa3x.ru
+0.0.0.0 maalamin.sch.id
+0.0.0.0 mabfin.act0rpie7ce.ru
 0.0.0.0 mabfin.hate7reven2nt.ru
 0.0.0.0 mabneg.hump7yb0lt.ru
 0.0.0.0 mabqir.mo5hnap2sser.ru
@@ -7682,6 +7774,7 @@
 0.0.0.0 mardec.com.my
 0.0.0.0 marimain.xyz
 0.0.0.0 mark.jump3r.ru
+0.0.0.0 marqen.mar8arstr2t.ru
 0.0.0.0 marrakechpalms.com
 0.0.0.0 marsh.embercross.ru
 0.0.0.0 masgraves.dev
@@ -7712,12 +7805,14 @@
 0.0.0.0 mde.tours
 0.0.0.0 mde.ve1p.ru
 0.0.0.0 mdos.mdgametest.xyz
+0.0.0.0 mdt.v0xenridge.ru
 0.0.0.0 me.frl0i.ru
 0.0.0.0 me.phpa3.ru
 0.0.0.0 me.r1v-x.ru
 0.0.0.0 me.tvti-0.ru
 0.0.0.0 me.xkqi8.ru
 0.0.0.0 me.yffl-9.ru
+0.0.0.0 me0.lo5ermedi0c.ru
 0.0.0.0 me0wly.c1oudcat.ru
 0.0.0.0 me8.rv-2-o-5.ru
 0.0.0.0 me9x.9z2503.ru
@@ -7788,7 +7883,9 @@
 0.0.0.0 milf-sex-games.com
 0.0.0.0 mill.vextimber.ru
 0.0.0.0 mind.cloudn0de.ru
+0.0.0.0 mind.m1stypath.ru
 0.0.0.0 mindcontrolhentaigames.com
+0.0.0.0 mindworksfoundation.com.au
 0.0.0.0 mine.teknikbayi.com.tr
 0.0.0.0 minel-lights.rs
 0.0.0.0 miner.pages.dev
@@ -7812,10 +7909,12 @@
 0.0.0.0 mint7.quartzace.ru
 0.0.0.0 mintnord.ru
 0.0.0.0 mintqrisbar88.pro
+0.0.0.0 mipisesho.top
 0.0.0.0 miprol.datashade.ru
 0.0.0.0 miqvut.g2erharve5t.ru
 0.0.0.0 mirai.48101.online
 0.0.0.0 mirailoversddos.duckdns.org
+0.0.0.0 mirdax.a5kin8insur.ru
 0.0.0.0 mirror8.se1fve5ky.ru
 0.0.0.0 mirs0l.gyneco1st0p.ru
 0.0.0.0 mirxet.bramblezip.ru
@@ -7824,6 +7923,7 @@
 0.0.0.0 miseajouritsme.help
 0.0.0.0 miserugrayhair.com
 0.0.0.0 mist.1ittleriver.ru
+0.0.0.0 mist.5lau8htwater.ru
 0.0.0.0 mist.5t0p.ru
 0.0.0.0 mist.chri5t1anget.ru
 0.0.0.0 mist.f0xwave.ru
@@ -7849,6 +7949,7 @@
 0.0.0.0 mix.mintdr1ft.ru
 0.0.0.0 mixturro.com
 0.0.0.0 mizh.raincr5st.ru
+0.0.0.0 mizpar.go1ogun0ow.ru
 0.0.0.0 mizu.deep5tone.ru
 0.0.0.0 mj.ldef4.ru
 0.0.0.0 mje.ckar-4.ru
@@ -7860,6 +7961,7 @@
 0.0.0.0 ml.mw-9-y-4.ru
 0.0.0.0 ml2s.al1ah5natch.ru
 0.0.0.0 mlampell.com
+0.0.0.0 mlele101.fwh.is
 0.0.0.0 mlo.j-7m.ru
 0.0.0.0 mm.phpa3.ru
 0.0.0.0 mm.vwjy-7.ru
@@ -7882,6 +7984,7 @@
 0.0.0.0 mobshah.com
 0.0.0.0 mogimall.com
 0.0.0.0 mojtabaabbasi.com
+0.0.0.0 moltav.e9uatp2nth.ru
 0.0.0.0 mom.jcof9.ru
 0.0.0.0 mon-abonnement-disney.info
 0.0.0.0 mon-colis-suivi-bpost.info
@@ -7963,12 +8066,16 @@
 0.0.0.0 moos.st0rmfield.ru
 0.0.0.0 moos.thrushmere.ru
 0.0.0.0 mooss.moonf1eld.ru
+0.0.0.0 moprin.sa5imw2ter.ru
 0.0.0.0 mordemsanat.com.tr
+0.0.0.0 morkel.ar2ble0ffend.ru
 0.0.0.0 morning.5h0p.ru
 0.0.0.0 morning1.cleardrop.ru
 0.0.0.0 morqel.imp2ctto1st.ru
+0.0.0.0 morqet.b1uesgr2mp.ru
 0.0.0.0 morrow.torque-bud.ru
 0.0.0.0 morsiv.dropga7net5.ru
+0.0.0.0 mortar.knurlpocket.ru
 0.0.0.0 mortex.duckdns.org
 0.0.0.0 morvex.nightcl0ud.ru
 0.0.0.0 morxip.plume-vortex.ru
@@ -7993,9 +8100,9 @@
 0.0.0.0 mq3.mw-9-y-4.ru
 0.0.0.0 mq3.xt7y8.ru
 0.0.0.0 mqgi.skysh1ne.ru
-0.0.0.0 mr.bejw.ru
 0.0.0.0 mr.r8li.ru
 0.0.0.0 mr1.pot-5.ru
+0.0.0.0 mr4y9.lo5ermedi0c.ru
 0.0.0.0 mr5.fogmap.ru
 0.0.0.0 mrelay-be-acheminement.info
 0.0.0.0 mrelay-colis-fr.com
@@ -8021,6 +8128,7 @@
 0.0.0.0 mtedcyuitbnhfvskm.icu
 0.0.0.0 mto.gi-0-wmarsh.ru
 0.0.0.0 mtokjnfgsbsxcwed.icu
+0.0.0.0 mtrx.lol
 0.0.0.0 mtsp.loinv.online
 0.0.0.0 mtuimnwevbgdsla.icu
 0.0.0.0 mtwsxuihnvberoin.icu
@@ -8029,6 +8137,8 @@
 0.0.0.0 mu.prli1.ru
 0.0.0.0 mu.q0spi.ru
 0.0.0.0 mu.vwjy-7.ru
+0.0.0.0 mudlen.b2ckfo0t.ru
+0.0.0.0 muf3ed.exh2ust8one.ru
 0.0.0.0 mufden.f1ysynchr0n.ru
 0.0.0.0 mufqen.b0rzvorsink2.ru
 0.0.0.0 mug.t1nkercove.ru
@@ -8037,19 +8147,24 @@
 0.0.0.0 muk3av.cr1pptit2n.ru
 0.0.0.0 multas-impagas2025.com
 0.0.0.0 mundocarnes.cl
+0.0.0.0 mup3al.che6u7therm.ru
+0.0.0.0 mur7es.di5pl2yleft.ru
 0.0.0.0 murd1k.period5ty1ed.ru
 0.0.0.0 murd1n.gethun8le2r.ru
 0.0.0.0 murk0y.darkf1sh.ru
+0.0.0.0 murlak.cl2ddstr1ve.ru
 0.0.0.0 murlop.g2un7makeup.ru
 0.0.0.0 murmur1.me2nin8harp.ru
 0.0.0.0 muse.gyj0.ru
 0.0.0.0 musiksantai.online
+0.0.0.0 musrin.0rav2uterus.ru
 0.0.0.0 must.pot5.ru
 0.0.0.0 muster.b2ckymembe7.ru
 0.0.0.0 mutual.ca5hunse1fish.ru
 0.0.0.0 muxler.gir1y5om.ru
 0.0.0.0 muxlin.wavec0re.ru
 0.0.0.0 muzzumilruheel.com
+0.0.0.0 mv.comp0ser5kid.ru
 0.0.0.0 mv.fq-1-y-8.ru
 0.0.0.0 mv.wir-2.ru
 0.0.0.0 mv3.i3-42s.ru
@@ -8090,6 +8205,7 @@
 0.0.0.0 myluxtrust-accountsecurity.com
 0.0.0.0 myminfin-info-be.info
 0.0.0.0 mymondialrelay-parcel.help
+0.0.0.0 myn5iq.bi1ingnause2.ru
 0.0.0.0 mynetfxsupprt.help
 0.0.0.0 mynetfxsuprt.com
 0.0.0.0 mynetllxrenew.com
@@ -8099,6 +8215,7 @@
 0.0.0.0 myparcel-relay.help
 0.0.0.0 myparcel-track.info
 0.0.0.0 myparcel-tracking.help
+0.0.0.0 myqros.b1uegras5hia.ru
 0.0.0.0 myrazi.cfd
 0.0.0.0 myrelay-tracking.help
 0.0.0.0 myrmex3.ent0molobo1t.ru
@@ -8122,7 +8239,6 @@
 0.0.0.0 mzu8.wildm1st.ru
 0.0.0.0 n.0o-js.ru
 0.0.0.0 n.7-j230.ru
-0.0.0.0 n.a-156.ru
 0.0.0.0 n.a-91n.ru
 0.0.0.0 n.fkur8.ru
 0.0.0.0 n.gbta9.ru
@@ -8134,17 +8250,14 @@
 0.0.0.0 n.m3j8e.ru
 0.0.0.0 n.mbs-3-a.ru
 0.0.0.0 n.nbpvt.ru
-0.0.0.0 n.o-096.ru
 0.0.0.0 n.oe-69.ru
 0.0.0.0 n.p-94u.ru
 0.0.0.0 n.qe-10.ru
 0.0.0.0 n.qh-1-a-5.ru
 0.0.0.0 n.w-33e.ru
 0.0.0.0 n.wi7id.ru
-0.0.0.0 n.xabz.ru
 0.0.0.0 n.z-0xug.ru
 0.0.0.0 n.z-11e.ru
-0.0.0.0 n.z413y.ru
 0.0.0.0 n.z491l.ru
 0.0.0.0 n.z88ae.ru
 0.0.0.0 n0.4-j722.ru
@@ -8191,7 +8304,6 @@
 0.0.0.0 n3.2f8-2.ru
 0.0.0.0 n3.5sv1g.ru
 0.0.0.0 n3.b5k6f4.ru
-0.0.0.0 n3.bvqu7.ru
 0.0.0.0 n3.f926m.ru
 0.0.0.0 n3.focove.ru
 0.0.0.0 n3.k6u7d.ru
@@ -8222,6 +8334,7 @@
 0.0.0.0 n4.pdv4m6.ru
 0.0.0.0 n4.sa8yn.ru
 0.0.0.0 n4.w135v.ru
+0.0.0.0 n4.windl1ne.ru
 0.0.0.0 n4kw.5g-t.online
 0.0.0.0 n4s.71o9.ru
 0.0.0.0 n4t5.fi0m.online
@@ -8319,6 +8432,7 @@
 0.0.0.0 nboboslot.lat
 0.0.0.0 nboboslot.xyz
 0.0.0.0 nc.plig-5.ru
+0.0.0.0 nccf0.amber-flint.ru
 0.0.0.0 ncj.nq-8-e-9.ru
 0.0.0.0 ncxps.com
 0.0.0.0 ndirection.kr
@@ -8357,6 +8471,7 @@
 0.0.0.0 new.executor.qzz.io
 0.0.0.0 new.in-cut.com
 0.0.0.0 new.soathehulk.com
+0.0.0.0 newar.top
 0.0.0.0 newdc35635.duckdns.org
 0.0.0.0 neweramanegments-3203.pages.dev
 0.0.0.0 newkey.co.kr
@@ -8396,6 +8511,7 @@
 0.0.0.0 nifty-golick.196-251-72-149.plesk.page
 0.0.0.0 nifty-hypatia.196-251-72-149.plesk.page
 0.0.0.0 nifty-johnson.196-251-72-149.plesk.page
+0.0.0.0 niggabot.windy.my.id
 0.0.0.0 night.darkc0de.ru
 0.0.0.0 night.em1npe0ny.ru
 0.0.0.0 night.f1nsh2ytan.ru
@@ -8419,7 +8535,6 @@
 0.0.0.0 nk.bluef0rest.ru
 0.0.0.0 nkpoor.sa.com
 0.0.0.0 nkv.gdyl2.ru
-0.0.0.0 nl.bejw.ru
 0.0.0.0 nl.fireh0rn.ru
 0.0.0.0 nl.rainst0ne.ru
 0.0.0.0 nln8.sh2mvi5cous.ru
@@ -8462,6 +8577,7 @@
 0.0.0.0 nordiq4.auroragrat.ru
 0.0.0.0 nordmest.com
 0.0.0.0 norf1m.mistysky.ru
+0.0.0.0 norlun.b1uegras5hia.ru
 0.0.0.0 north5.prairieforge.ru
 0.0.0.0 nostalgic-curie.196-251-72-149.plesk.page
 0.0.0.0 notafiscal29831.pages.dev
@@ -8472,6 +8588,7 @@
 0.0.0.0 notificationcentral.com
 0.0.0.0 nouvellelivraison-locker-fr.com
 0.0.0.0 nouvelletechbandedefou.info
+0.0.0.0 nova.0ctave5pairi.ru
 0.0.0.0 nova.5h0p.ru
 0.0.0.0 nova.amber-coil.ru
 0.0.0.0 nova.aucti0nz7ir.ru
@@ -8491,13 +8608,13 @@
 0.0.0.0 nova.st-1-lt-forge.ru
 0.0.0.0 nova.storml1ght.ru
 0.0.0.0 nova.v0lticrum.ru
+0.0.0.0 nova.v0xenridge.ru
 0.0.0.0 nova1.gr1tbinder.ru
 0.0.0.0 nova1.st3elflare.ru
 0.0.0.0 nova2.quartzleaf.ru
 0.0.0.0 nova3.redb1rth.ru
 0.0.0.0 nova4.silverr0ot.ru
 0.0.0.0 nova9.jump3r.ru
-0.0.0.0 np.xyqd.ru
 0.0.0.0 npl.dc-8.ru
 0.0.0.0 npo.wi0x.ru
 0.0.0.0 nq.pe8d.ru
@@ -8531,8 +8648,10 @@
 0.0.0.0 nu.xrhu-7.ru
 0.0.0.0 nubil3.st0rmshade.ru
 0.0.0.0 nufvel.buoyc0mp1aint.ru
+0.0.0.0 nujwg2.sa.com
+0.0.0.0 nulfer.be2vesati5t.ru
+0.0.0.0 nulqen.den1mp7imad.ru
 0.0.0.0 nurqet.rainpixel.ru
-0.0.0.0 nusatoyota.co.id
 0.0.0.0 nv.nq8e9.ru
 0.0.0.0 nv57.ap2thsh0pk.ru
 0.0.0.0 nve.ozxg-5.ru
@@ -8553,7 +8672,6 @@
 0.0.0.0 nzhr.chel0be7upt.ru
 0.0.0.0 o-a.app
 0.0.0.0 o.hwke4.ru
-0.0.0.0 o.nybk.ru
 0.0.0.0 o.qgf-5-e.ru
 0.0.0.0 o1h5i.datam1st.ru
 0.0.0.0 o1i.clear5ky.ru
@@ -8582,13 +8700,14 @@
 0.0.0.0 o9.fi0m.ru
 0.0.0.0 o9n.sheh0.ru
 0.0.0.0 oa.amberr0cket.ru
-0.0.0.0 oa.cxsntt1.sa.com
 0.0.0.0 oak.1ittleriver.ru
 0.0.0.0 oak.bid5.ru
 0.0.0.0 oak.pincer-loom.ru
 0.0.0.0 oak.tov4.ru
 0.0.0.0 oak2.br1ghtwood.ru
 0.0.0.0 oaks.r-1-v-x.ru
+0.0.0.0 oaq.t0ppleseed.ru
+0.0.0.0 ob.rainf0rm.ru
 0.0.0.0 ob1.wi7e.ru
 0.0.0.0 obi.wi7e.ru
 0.0.0.0 objective-darwin.196-251-116-84.plesk.page
@@ -8603,6 +8722,7 @@
 0.0.0.0 ocean.champm2loma1.ru
 0.0.0.0 ocean.f1ippme7re.ru
 0.0.0.0 ocean.stonec0re.ru
+0.0.0.0 ocev.bracketloam.ru
 0.0.0.0 ock.turbotap.ru
 0.0.0.0 ocnbn.fog-tangent.ru
 0.0.0.0 ocryl.decor1cry5t.ru
@@ -8610,12 +8730,14 @@
 0.0.0.0 ocx.mi9q.ru
 0.0.0.0 od.pvzi1.ru
 0.0.0.0 od.xrhu-7.ru
+0.0.0.0 odd.amber-flint.ru
 0.0.0.0 odd.crank-muddle.ru
 0.0.0.0 odd.fo0lrati0n.ru
 0.0.0.0 odd.j1ngleknob.ru
 0.0.0.0 odd.kettle-wisp.ru
 0.0.0.0 odd.m4rj.ru
 0.0.0.0 odgb.de1iainal0s.ru
+0.0.0.0 odm6j.lo5ermedi0c.ru
 0.0.0.0 odpt.frostwalk.ru
 0.0.0.0 oe.pvzi1.ru
 0.0.0.0 oe.s1lver.ru
@@ -8668,7 +8790,6 @@
 0.0.0.0 okhan.net
 0.0.0.0 okolojosephthesecondsfoundation.org
 0.0.0.0 okua.42web.io
-0.0.0.0 ol.nybh.ru
 0.0.0.0 ol.wi-7e.ru
 0.0.0.0 ol.wildcr3st.ru
 0.0.0.0 old.agroonline.uz
@@ -8709,6 +8830,7 @@
 0.0.0.0 on.wi7o.ru
 0.0.0.0 on.xrxo-2.ru
 0.0.0.0 on11.s3.cubbit.eu
+0.0.0.0 onbet88vn.vip
 0.0.0.0 one-experience-database-4qma.s3.ap-northeast-2.amazonaws.com
 0.0.0.0 one.me2v.ru
 0.0.0.0 one.tov4.ru
@@ -8763,7 +8885,9 @@
 0.0.0.0 optimistic-leakey.196-251-72-149.plesk.page
 0.0.0.0 optimistic-pike.196-251-72-149.plesk.page
 0.0.0.0 oput.brightgate.ru
+0.0.0.0 oq808.knurlpocket.ru
 0.0.0.0 oql.da6v.ru
+0.0.0.0 oqs9.windl1ne.ru
 0.0.0.0 or.n2-ke.ru
 0.0.0.0 or.r0-mx.ru
 0.0.0.0 or.sgdi6.ru
@@ -8788,7 +8912,9 @@
 0.0.0.0 ore2.effu5m0unt.ru
 0.0.0.0 organ.sv0orchond0.ru
 0.0.0.0 organizational-sustainability-expense-manuals.trycloudflare.com
+0.0.0.0 orqelx.or8anop5crew.ru
 0.0.0.0 orthodoxlynchburg.com
+0.0.0.0 orvex0.0rav2uterus.ru
 0.0.0.0 orx5.par2ch0ld.ru
 0.0.0.0 os.sgdi6.ru
 0.0.0.0 os.sj-5-o-5.ru
@@ -8804,10 +8930,12 @@
 0.0.0.0 ototaikfffkf.com
 0.0.0.0 otter.otterweg.ru
 0.0.0.0 ou.mjg1.ru
+0.0.0.0 oul.v0xenridge.ru
 0.0.0.0 our.n4ke.ru
 0.0.0.0 ourasolid.com
 0.0.0.0 out.da5v.ru
 0.0.0.0 outlok-hotmail.com
+0.0.0.0 ouu.skyfl0w.ru
 0.0.0.0 ov1.sh2mvi5cous.ru
 0.0.0.0 ov6.pot-5.ru
 0.0.0.0 overplay-138.store
@@ -8829,6 +8957,7 @@
 0.0.0.0 ox.tgsi9.ru
 0.0.0.0 ox.to-qa.ru
 0.0.0.0 ox.tov-4.ru
+0.0.0.0 ox.windl1ne.ru
 0.0.0.0 ox1i.mintforest.ru
 0.0.0.0 oxt.lynchstem.ru
 0.0.0.0 oxy7.joy-2-way.online
@@ -8943,6 +9072,7 @@
 0.0.0.0 p6z3.ravelpink.ru
 0.0.0.0 p7.ey-l2q.ru
 0.0.0.0 p7.ko-lu.ru
+0.0.0.0 p7.stormm1nd.ru
 0.0.0.0 p7.ykgw2.ru
 0.0.0.0 p7km.plig5.ru
 0.0.0.0 p7l0.wildm1st.ru
@@ -9029,10 +9159,12 @@
 0.0.0.0 pasteide.com
 0.0.0.0 pat.wkej2.ru
 0.0.0.0 patch.5hri1luv.ru
+0.0.0.0 patch.fl0wmortar.ru
 0.0.0.0 patch.snareplum.ru
 0.0.0.0 patch.sp1nterpad.ru
 0.0.0.0 patchwork.hollow-fizz.ru
 0.0.0.0 path.4i1e2.ru
+0.0.0.0 path.grim1atin0s.ru
 0.0.0.0 patricstoremegans2.com
 0.0.0.0 patt3r.rainbyte.ru
 0.0.0.0 pattern.hex-wander.ru
@@ -9064,7 +9196,6 @@
 0.0.0.0 pc.d44yy.ru
 0.0.0.0 pc.kyhely.ru
 0.0.0.0 pc.mexizo.ru
-0.0.0.0 pc.mynq.ru
 0.0.0.0 pc.u84t.ru
 0.0.0.0 pc.v7e1v.ru
 0.0.0.0 pc.velvetnebel.ru
@@ -9072,6 +9203,7 @@
 0.0.0.0 pc4.saffronkern.ru
 0.0.0.0 pcd.cv-3-a-9.ru
 0.0.0.0 pcdcinc.com
+0.0.0.0 pcjls.grim1atin0s.ru
 0.0.0.0 pcl-ce.top
 0.0.0.0 pcupd.com
 0.0.0.0 pcz.jk-3-y-7.ru
@@ -9106,7 +9238,10 @@
 0.0.0.0 peepoo.online
 0.0.0.0 pegasustour.ru
 0.0.0.0 pelis25.com
+0.0.0.0 pelniv.gu1detr2in.ru
+0.0.0.0 pelqen.0rav2uterus.ru
 0.0.0.0 pelqix.darkn0va.ru
+0.0.0.0 pelrud.be2vesati5t.ru
 0.0.0.0 pelvar.mintbrook.ru
 0.0.0.0 pelyqu.ro1luzbek5.ru
 0.0.0.0 penguinpublishers.org
@@ -9159,6 +9294,7 @@
 0.0.0.0 pfote.obsidianufer.ru
 0.0.0.0 pft5.darkm0on.ru
 0.0.0.0 pfth.mistytrai1.ru
+0.0.0.0 pgt.shadowm1st.ru
 0.0.0.0 ph.18yk.ru
 0.0.0.0 phase0.s0larbudge.ru
 0.0.0.0 phase3.tundraflip.ru
@@ -9173,6 +9309,7 @@
 0.0.0.0 pi.tsqe-2.ru
 0.0.0.0 pi.vhhe9.ru
 0.0.0.0 pi1.xo3v.ru
+0.0.0.0 pi87t.ga8tukh1yat.ru
 0.0.0.0 piccomics-xyz.pages.dev
 0.0.0.0 picket.g1zmotrail.ru
 0.0.0.0 pickle.sn0cklejar.ru
@@ -9204,9 +9341,12 @@
 0.0.0.0 pivot8.ch0reo8fin.ru
 0.0.0.0 pivsen.dur2tionjuda5.ru
 0.0.0.0 pix3ly.ragmosaic.ru
+0.0.0.0 pixdro.ru5t1eview.ru
 0.0.0.0 pixe1tu1ip.ru
 0.0.0.0 pixel-orbit.ru
 0.0.0.0 pixel.a1mond0prit.ru
+0.0.0.0 pixel.amber-flint.ru
+0.0.0.0 pixel.bluef0rm.ru
 0.0.0.0 pixel.f1ukomki5s.ru
 0.0.0.0 pixel.fl0wlatch.ru
 0.0.0.0 pixel.frei1r2tions.ru
@@ -9220,11 +9360,15 @@
 0.0.0.0 pixelnoased.com
 0.0.0.0 pixelorbit.ru
 0.0.0.0 pixhun.gethun8le2r.ru
+0.0.0.0 pixhun.hiredp1ayfu1.ru
 0.0.0.0 piy.r7va.com
+0.0.0.0 pizlaq.di5pl2yleft.ru
 0.0.0.0 pizza-tk.ru
 0.0.0.0 pizzabyte.com.au
+0.0.0.0 pj.cloudsh1ft.ru
 0.0.0.0 pj1.dae017f.ru
 0.0.0.0 pj9.m1stzone.ru
+0.0.0.0 pjf.conf1dcorr0de.ru
 0.0.0.0 pjudiciaria.s3.eu-west-3.amazonaws.com
 0.0.0.0 pk.m7lo.ru
 0.0.0.0 pk256.xin
@@ -9270,7 +9414,6 @@
 0.0.0.0 pm.stix2.ru
 0.0.0.0 pm7.0y-pm.ru
 0.0.0.0 pm7.6-b408.ru
-0.0.0.0 pm7.a-144.ru
 0.0.0.0 pm7.a-90g.ru
 0.0.0.0 pm7.e-09q.ru
 0.0.0.0 pm7.h-76a.ru
@@ -9298,6 +9441,7 @@
 0.0.0.0 po1y8.windst0ne.ru
 0.0.0.0 po4.rxir9.ru
 0.0.0.0 pobedastaff.ru
+0.0.0.0 pocket.knurl-pocket.ru
 0.0.0.0 pocopa.co.za
 0.0.0.0 point-relais-locker.info
 0.0.0.0 point-relais-lockers.com
@@ -9339,7 +9483,6 @@
 0.0.0.0 pq.saffrondent.ru
 0.0.0.0 pq.xo3v.ru
 0.0.0.0 pq591.r1ng.ru
-0.0.0.0 pq9.x874a.ru
 0.0.0.0 pql.pu5herw0man.ru
 0.0.0.0 pr6q.8-f-e8.ru
 0.0.0.0 practical-blackwell.172-86-123-179.plesk.page
@@ -9363,7 +9506,6 @@
 0.0.0.0 prixmatech.com
 0.0.0.0 prnwatch.com
 0.0.0.0 procuratio.nu
-0.0.0.0 prodimetal.com
 0.0.0.0 programandojuntos.us.tempcloudsite.com
 0.0.0.0 projetodegente.com
 0.0.0.0 prong.c1rclefang.ru
@@ -9373,6 +9515,7 @@
 0.0.0.0 proship.ae
 0.0.0.0 protecaocartao.online
 0.0.0.0 protection-hub.cfd
+0.0.0.0 protherapycenter.com
 0.0.0.0 prowl.j1ttersnap.ru
 0.0.0.0 prowl.mistyw0lf.ru
 0.0.0.0 proximus-klant.com
@@ -9380,7 +9523,6 @@
 0.0.0.0 prr.mcej9.ru
 0.0.0.0 pruxol.a8riculmarb1e.ru
 0.0.0.0 pry.qen9.ru
-0.0.0.0 ps.bejw.ru
 0.0.0.0 ps.mintp1xel.ru
 0.0.0.0 psalm2.b2ptistda7k.ru
 0.0.0.0 pse.fkur-8.ru
@@ -9394,6 +9536,7 @@
 0.0.0.0 pt.m4d8q9.ru
 0.0.0.0 pt.o-a4eu.ru
 0.0.0.0 pt.u79p.ru
+0.0.0.0 pt6vy.knurlpocket.ru
 0.0.0.0 ptarb.b2ptb1ryuk.ru
 0.0.0.0 ptiptv.xyz
 0.0.0.0 ptk.0-pal-summit.ru
@@ -9405,6 +9548,7 @@
 0.0.0.0 pub-00f10b47dd684622a2ee8483d03099ba.r2.dev
 0.0.0.0 pub-0478b308b8cf46709a73d0eed5afd633.r2.dev
 0.0.0.0 pub-1445de8c8aa84761aac5200e0036237d.r2.dev
+0.0.0.0 pub-1c6ec94c5b7549d291c218e795ec7d7b.r2.dev
 0.0.0.0 pub-2809b8e8340e493a91d61dc14e478db6.r2.dev
 0.0.0.0 pub-2bf88754a39b406e92a720f7714c9c13.r2.dev
 0.0.0.0 pub-37f3a615586d47f4996e932bf6df7670.r2.dev
@@ -9494,20 +9638,18 @@
 0.0.0.0 pylc0x.g2erharve5t.ru
 0.0.0.0 pylguf.bobi1dece4.ru
 0.0.0.0 pyxhad.mo5hnap2sser.ru
+0.0.0.0 pyz.qu1rkbasin.ru
 0.0.0.0 pz.da2yw.ru
 0.0.0.0 pz.hlgy7.ru
 0.0.0.0 pz.m046d.ru
 0.0.0.0 pz.n6e8h.ru
 0.0.0.0 pz.ussn7.ru
 0.0.0.0 pz7.d03ui.ru
-0.0.0.0 pz7.x331e.ru
 0.0.0.0 pz7h.xb1-60.ru
 0.0.0.0 pz8.0-c448.ru
 0.0.0.0 pz8.9a-hd.ru
 0.0.0.0 pz8.ay-63.ru
 0.0.0.0 pz8.dvn-4-i.ru
-0.0.0.0 pz8.e-134.ru
-0.0.0.0 pz8.e-72t.ru
 0.0.0.0 pz8.fa-99.ru
 0.0.0.0 pz8.k5d1y.ru
 0.0.0.0 pz8.lq-8-e-1.ru
@@ -9526,7 +9668,6 @@
 0.0.0.0 q.7wh2n.ru
 0.0.0.0 q.bpva-0.ru
 0.0.0.0 q.bupuva.ru
-0.0.0.0 q.bvqu7.ru
 0.0.0.0 q.c2x0b1.ru
 0.0.0.0 q.faqyhi.ru
 0.0.0.0 q.g26ia.ru
@@ -9558,6 +9699,7 @@
 0.0.0.0 q1.w1um.ru
 0.0.0.0 q1.xb4e7.ru
 0.0.0.0 q1.y-o7uu.ru
+0.0.0.0 q1ezk.cloudsh1ft.ru
 0.0.0.0 q1h.tvil-0.ru
 0.0.0.0 q1me4.yw9a.online
 0.0.0.0 q1n.4xq2k.ru
@@ -9587,13 +9729,11 @@
 0.0.0.0 q3b.mg-1-u-5.ru
 0.0.0.0 q3ha.5g-t.online
 0.0.0.0 q3n.fumb1eim2ge.ru
-0.0.0.0 q3n.i-215.ru
 0.0.0.0 q3v2.zo4n.online
 0.0.0.0 q3vz.3v9-u.ru
 0.0.0.0 q3x.4a7vci9.ru
 0.0.0.0 q4.1jd3t.ru
 0.0.0.0 q4.5e7i0.ru
-0.0.0.0 q4.ctze0.ru
 0.0.0.0 q4.falconhimmel.ru
 0.0.0.0 q4.i924ao.ru
 0.0.0.0 q4.o05h.ru
@@ -9723,6 +9863,8 @@
 0.0.0.0 qerdit.r1dsheet5et.ru
 0.0.0.0 qerfo7.luz7it5tretch.ru
 0.0.0.0 qerhot.tr2chec0rrupt.ru
+0.0.0.0 qerlan.insti8sc2tter.ru
+0.0.0.0 qestiv.go1ogun0ow.ru
 0.0.0.0 qeu.mintp1xel.ru
 0.0.0.0 qevhop.hate7reven2nt.ru
 0.0.0.0 qfbmr.snare-plum.ru
@@ -9753,15 +9895,14 @@
 0.0.0.0 qirlan.gyneco1st0p.ru
 0.0.0.0 qit.evacu0t0nova.ru
 0.0.0.0 qivk8o.bed0kur5noop.ru
+0.0.0.0 qivsan.be2vesati5t.ru
 0.0.0.0 qj.zv-1-a-0.ru
 0.0.0.0 qjpc.mes5yr0mp.ru
 0.0.0.0 qjsbap.d0ubletr2ffic.ru
 0.0.0.0 qjwe.ap2thsh0pk.ru
 0.0.0.0 qjx5z.jazzm1s8uid.ru
-0.0.0.0 qk1.e-815.ru
 0.0.0.0 qk2.4-j722.ru
 0.0.0.0 qk2.8e-hr.ru
-0.0.0.0 qk2.a-342.ru
 0.0.0.0 qk2.a-67x.ru
 0.0.0.0 qk2.ea-43.ru
 0.0.0.0 qk2.h-23u.ru
@@ -9774,7 +9915,6 @@
 0.0.0.0 qk2.n-4daw.ru
 0.0.0.0 qk2.rdlkc.ru
 0.0.0.0 qk2.su-08.ru
-0.0.0.0 qk2.u-989.ru
 0.0.0.0 qk2.w-52a.ru
 0.0.0.0 qk2.x-12o.ru
 0.0.0.0 qk7.solarfracht.online
@@ -9789,9 +9929,7 @@
 0.0.0.0 qm0.kdit-5.ru
 0.0.0.0 qm4z.4y328.online
 0.0.0.0 qm8.aaty4qdy.ru
-0.0.0.0 qm8.j287y.ru
 0.0.0.0 qm9.3-c719.ru
-0.0.0.0 qm9.6q8v0.ru
 0.0.0.0 qm9.7a-xz.ru
 0.0.0.0 qm9.c-3dax.ru
 0.0.0.0 qm9.e-91m.ru
@@ -9803,15 +9941,14 @@
 0.0.0.0 qm9.p-13a.ru
 0.0.0.0 qm9.ri-04.ru
 0.0.0.0 qm9.tqrjf.ru
-0.0.0.0 qm9.u-251.ru
 0.0.0.0 qm9.v-36u.ru
 0.0.0.0 qm9.vzj-1-o.ru
 0.0.0.0 qm9.w-48u.ru
 0.0.0.0 qm9.x38ii.ru
-0.0.0.0 qm9.z687a.ru
 0.0.0.0 qmmj.gl1mmerset.ru
 0.0.0.0 qmolq.saffrondent.ru
 0.0.0.0 qmq.mw2o3.ru
+0.0.0.0 qnb11.bracket-loam.ru
 0.0.0.0 qnbtu.quartz-leaf.ru
 0.0.0.0 qns.db-3-a-4.ru
 0.0.0.0 qo.mzvo-7.ru
@@ -9836,6 +9973,7 @@
 0.0.0.0 qqes.0prichpe7ch.ru
 0.0.0.0 qqmusic-pc.com.cn
 0.0.0.0 qqpg.fun
+0.0.0.0 qr8m.cl0udstone.ru
 0.0.0.0 qrk.kjyx7.ru
 0.0.0.0 qs.c109s.ru
 0.0.0.0 qs.fa6ic.ru
@@ -9886,14 +10024,17 @@
 0.0.0.0 quietwhite.ru
 0.0.0.0 quill.wildspark.ru
 0.0.0.0 quill5.auth0r1etter.ru
+0.0.0.0 quirk.sn1pcradle.ru
 0.0.0.0 quit.ky-4-x.ru
 0.0.0.0 quit.pot5.ru
 0.0.0.0 quizzical-lederberg.196-251-72-149.plesk.page
 0.0.0.0 qumral.e9uilyb5opr.ru
+0.0.0.0 quw6l.bracket-loam.ru
 0.0.0.0 qv.w7tx-3t.ru
 0.0.0.0 qv5a.xb1-60.ru
 0.0.0.0 qvc.t1va.ru
 0.0.0.0 qvm.z1ncspike.ru
+0.0.0.0 qvomu.comp0ser5kid.ru
 0.0.0.0 qw.zk-5-e-7.ru
 0.0.0.0 qw59f3d.ru
 0.0.0.0 qwg6.orbshackle.ru
@@ -9905,7 +10046,6 @@
 0.0.0.0 qyjs.c2rndiv1ne.ru
 0.0.0.0 qymfel.chup7unwhe7e.ru
 0.0.0.0 qyvu.cl1ffwood.ru
-0.0.0.0 qz.bpva0.ru
 0.0.0.0 qz.c34uu.ru
 0.0.0.0 qz.g601c.ru
 0.0.0.0 qz.i50m.ru
@@ -9921,7 +10061,6 @@
 0.0.0.0 qz9.4-z493.ru
 0.0.0.0 qz9.4u-rr.ru
 0.0.0.0 qz9.8a-mg.ru
-0.0.0.0 qz9.a-311.ru
 0.0.0.0 qz9.a-84l.ru
 0.0.0.0 qz9.b-9lyb.ru
 0.0.0.0 qz9.bh3i6.ru
@@ -9952,7 +10091,6 @@
 0.0.0.0 qz9.mw9y4.ru
 0.0.0.0 qz9.n46uu.ru
 0.0.0.0 qz9.nu-96.ru
-0.0.0.0 qz9.o-554.ru
 0.0.0.0 qz9.ou-86.ru
 0.0.0.0 qz9.pf6o2.ru
 0.0.0.0 qz9.q6t4u.ru
@@ -9962,7 +10100,6 @@
 0.0.0.0 qz9.ss9y4.ru
 0.0.0.0 qz9.t-20y.ru
 0.0.0.0 qz9.u-66r.ru
-0.0.0.0 qz9.u-97w.ru
 0.0.0.0 qz9.uy-55.ru
 0.0.0.0 qz9.w-70a.ru
 0.0.0.0 qz9.x-7daf.ru
@@ -9972,7 +10109,6 @@
 0.0.0.0 qzz.va4n.ru
 0.0.0.0 r.4-j722.ru
 0.0.0.0 r.8e-hr.ru
-0.0.0.0 r.a-342.ru
 0.0.0.0 r.a-67x.ru
 0.0.0.0 r.bg-4-o-2.ru
 0.0.0.0 r.ea-43.ru
@@ -9988,7 +10124,6 @@
 0.0.0.0 r.qf-0-u-2.ru
 0.0.0.0 r.rdlkc.ru
 0.0.0.0 r.su-08.ru
-0.0.0.0 r.u-989.ru
 0.0.0.0 r.w-52a.ru
 0.0.0.0 r.x-12o.ru
 0.0.0.0 r00m.rjofi.online
@@ -10009,11 +10144,11 @@
 0.0.0.0 r0yg.0fv1.online
 0.0.0.0 r0yg.w-8z35.com
 0.0.0.0 r0z1.5u5vbu6.ru
-0.0.0.0 r1.bpva0.ru
 0.0.0.0 r1.g601c.ru
 0.0.0.0 r1.pi9yj.ru
 0.0.0.0 r1.s80ye.ru
 0.0.0.0 r1.x3u0s.ru
+0.0.0.0 r15yi.fl-0-wmortar.ru
 0.0.0.0 r1m.y3-68c.ru
 0.0.0.0 r1m3k.sa3x.online
 0.0.0.0 r1m8q.ha0m.online
@@ -10034,7 +10169,6 @@
 0.0.0.0 r2.mbs-3-a.ru
 0.0.0.0 r2.mg-1-u-5.ru
 0.0.0.0 r2.nbpvt.ru
-0.0.0.0 r2.o-096.ru
 0.0.0.0 r2.oe-69.ru
 0.0.0.0 r2.p-94u.ru
 0.0.0.0 r2.qe-10.ru
@@ -10125,6 +10259,7 @@
 0.0.0.0 r7nc.0-9pr.ru
 0.0.0.0 r7nd.nyqb0.ru
 0.0.0.0 r7pj2.3u-6.online
+0.0.0.0 r7t.darkf0x.ru
 0.0.0.0 r8.4y328.online
 0.0.0.0 r8gk.fv0-93.ru
 0.0.0.0 r8jkc.qo1s.online
@@ -10171,6 +10306,7 @@
 0.0.0.0 raiffasenb.com
 0.0.0.0 raiffasenb.ru
 0.0.0.0 railing.ba1ustje7ky.ru
+0.0.0.0 rain.1ntrude7truha.ru
 0.0.0.0 rain.4i1e2.ru
 0.0.0.0 rain.br-0-ad-temp-1-ate.ru
 0.0.0.0 rain.cloudb1rd.ru
@@ -10184,6 +10320,7 @@
 0.0.0.0 ramactools.net
 0.0.0.0 ramirex.ro
 0.0.0.0 rampart.obor1shwron8.ru
+0.0.0.0 ramqit.ru5t1eview.ru
 0.0.0.0 ran.sjyj1.ru
 0.0.0.0 ranchernandez.store
 0.0.0.0 range.corest0rm.ru
@@ -10243,7 +10380,6 @@
 0.0.0.0 re.wi-7e.ru
 0.0.0.0 re.wzhy-1.ru
 0.0.0.0 rea.24s6.ru
-0.0.0.0 reach-book.com
 0.0.0.0 reactivation-amelie-account.info
 0.0.0.0 realm.d0minon2me.ru
 0.0.0.0 realvisionworld.com
@@ -10319,6 +10455,7 @@
 0.0.0.0 renouvellement.help
 0.0.0.0 renshe.sbs
 0.0.0.0 renvouvellementinformationameli.info
+0.0.0.0 report.504.su
 0.0.0.0 report.datasurge.vip
 0.0.0.0 reporter9128.s3.us-east-1.amazonaws.com
 0.0.0.0 repositorylinux.info
@@ -10363,8 +10500,10 @@
 0.0.0.0 ridge.gethe4e.ru
 0.0.0.0 ridge.granitepfad.ru
 0.0.0.0 ridge.gravelwhisk.ru
+0.0.0.0 ridge.grim1atin0s.ru
 0.0.0.0 ridge.prairieforge.ru
 0.0.0.0 ridge.rapidstone.ru
+0.0.0.0 ridge.t0ppleseed.ru
 0.0.0.0 ridge.wildcr3st.ru
 0.0.0.0 ridge.wildspark.ru
 0.0.0.0 ridge3.cliffbright.ru
@@ -10417,7 +10556,6 @@
 0.0.0.0 rk3.l1ghtflare.ru
 0.0.0.0 rk8.64198.ru
 0.0.0.0 rk8.7g37b.ru
-0.0.0.0 rk8.d597o.ru
 0.0.0.0 rk8.pdv4m6.ru
 0.0.0.0 rkrse.be5isg2uze.ru
 0.0.0.0 rl.d5en.ru
@@ -10473,7 +10611,6 @@
 0.0.0.0 rr.33b2.ru
 0.0.0.0 rsjayapura.org
 0.0.0.0 rsm.xa4p.ru
-0.0.0.0 rt.lobd.ru
 0.0.0.0 rt.to1j.ru
 0.0.0.0 rtpvip.live
 0.0.0.0 rtpvip.site
@@ -10519,6 +10656,8 @@
 0.0.0.0 rutfan.humb1epr2bab.ru
 0.0.0.0 ruvnix.b7ewer1atif.ru
 0.0.0.0 rv.nibulu.ru
+0.0.0.0 rvrc.darkw1nd.ru
+0.0.0.0 rvzvl.c2dmiumgho5t.ru
 0.0.0.0 rw.gdyl2.ru
 0.0.0.0 rw.q3lo.ru
 0.0.0.0 rwe3y.v1braclaw.ru
@@ -10570,7 +10709,6 @@
 0.0.0.0 s.w5j7z0.ru
 0.0.0.0 s.wagoda.ru
 0.0.0.0 s.x352x.ru
-0.0.0.0 s.xyqd.ru
 0.0.0.0 s.y-o7uu.ru
 0.0.0.0 s.zms-u.ru
 0.0.0.0 s0.n-jur.ru
@@ -10614,6 +10752,7 @@
 0.0.0.0 s3.1z22k.ru
 0.0.0.0 s3.bvum-6.ru
 0.0.0.0 s3.fire1n5ulat.ru
+0.0.0.0 s3.frostsh1ft.ru
 0.0.0.0 s3.g.s4.mega.io
 0.0.0.0 s3.zm6392.online
 0.0.0.0 s3nzk.pe8d.online
@@ -10645,7 +10784,6 @@
 0.0.0.0 s4ndup.quick5and.ru
 0.0.0.0 s4ym.xa9t.online
 0.0.0.0 s5.inktrap.ru
-0.0.0.0 s5.nybh.ru
 0.0.0.0 s5.sizingfox.com
 0.0.0.0 s51sa.glosscreate.digital
 0.0.0.0 s5ni.frei1r2tions.ru
@@ -10684,6 +10822,7 @@
 0.0.0.0 safefiles2.oss-cn-beijing.aliyuncs.com
 0.0.0.0 saffron.muddle-oak.ru
 0.0.0.0 saffron.wtok-2.ru
+0.0.0.0 saflin.b1uesgr2mp.ru
 0.0.0.0 safmid.v-1-nexettle.ru
 0.0.0.0 safqil.quartzjolt.ru
 0.0.0.0 sag1.cl0udtrace.ru
@@ -10691,10 +10830,13 @@
 0.0.0.0 sage.emberiake.ru
 0.0.0.0 sail.wib8.ru
 0.0.0.0 sak.ra6n.ru
+0.0.0.0 salbik.antip2th5ub.ru
 0.0.0.0 sale.b-9-ku.ru
 0.0.0.0 sales1.xo.je
 0.0.0.0 sales4.xo.je
+0.0.0.0 salessteer.com
 0.0.0.0 salonmarketing.ca
+0.0.0.0 salqor.hiredp1ayfu1.ru
 0.0.0.0 sanghyun.nfile.net
 0.0.0.0 sapu4d-x.com
 0.0.0.0 sapu4dw.cfd
@@ -10708,6 +10850,7 @@
 0.0.0.0 sara365matkaa.online
 0.0.0.0 saraeco.com
 0.0.0.0 sarenewnetfiixsav.info
+0.0.0.0 sarvim.b1uegras5hia.ru
 0.0.0.0 satin.ciears0ft.ru
 0.0.0.0 satin.softdr1ve.ru
 0.0.0.0 sav-monrelay.help
@@ -10730,6 +10873,7 @@
 0.0.0.0 saw2.defore5tm0unt.ru
 0.0.0.0 saz1s.top
 0.0.0.0 sb.stormp1ne.ru
+0.0.0.0 sba.n2imenei8hbor.ru
 0.0.0.0 sbbc8.frostl1ne.ru
 0.0.0.0 sbeo.basaltwerk.ru
 0.0.0.0 sbh.ju8r.ru
@@ -10788,15 +10932,18 @@
 0.0.0.0 securefilesdownload.xyz
 0.0.0.0 securestore.cv
 0.0.0.0 securiskbrokers.com
+0.0.0.0 security-teamz.com
 0.0.0.0 securplnetfiixsav.com
 0.0.0.0 see.ckon0.ru
 0.0.0.0 see.pi6o.ru
+0.0.0.0 seed.j1nxbuckle.ru
 0.0.0.0 seed.wild0ak.ru
 0.0.0.0 sefqid.c1otheto0th.ru
 0.0.0.0 segurancadigitalxp.com
 0.0.0.0 selcukpeker.com
 0.0.0.0 selene8.clearm0on.ru
 0.0.0.0 selvop.period5ty1ed.ru
+0.0.0.0 selvot.che6u7therm.ru
 0.0.0.0 sen4ik.pa5spra8mat.ru
 0.0.0.0 senat3.dict2t0rpech.ru
 0.0.0.0 senate4.dict2tja8d.ru
@@ -10839,16 +10986,20 @@
 0.0.0.0 settings-4av.pages.dev
 0.0.0.0 settingss.pages.dev
 0.0.0.0 sevqet.buoyc0mp1aint.ru
+0.0.0.0 sevqor.cl2ddstr1ve.ru
 0.0.0.0 sevqor.wavec0re.ru
+0.0.0.0 sevran.ar2ble0ffend.ru
 0.0.0.0 sevray.seven5pr2y.ru
 0.0.0.0 sevrin.oceanpath.ru
 0.0.0.0 sevyn5.seven5pr2y.ru
 0.0.0.0 sexworld3d.top
 0.0.0.0 sf.deepflash.ru
+0.0.0.0 sf.fl0wmortar.ru
 0.0.0.0 sf5.ckyq9.ru
 0.0.0.0 sfa.com.ar
 0.0.0.0 sffacoglobal.com
 0.0.0.0 sfmonte.com
+0.0.0.0 sft.cl0udbreeze.ru
 0.0.0.0 sg123.net
 0.0.0.0 sgbvj.cloudb1rd.ru
 0.0.0.0 sgeseducation.com
@@ -10872,6 +11023,7 @@
 0.0.0.0 shadow.f1atte5tudies.ru
 0.0.0.0 shadow.frostc0de.ru
 0.0.0.0 shadow.gre2tre7ue.ru
+0.0.0.0 shadow.knurlpocket.ru
 0.0.0.0 shadow.sn1rlpatch.ru
 0.0.0.0 shadow.stoneh0use.ru
 0.0.0.0 shadow.windc0re.ru
@@ -10893,14 +11045,16 @@
 0.0.0.0 shard7.stoneburst.ru
 0.0.0.0 share2.ca5hunse1fish.ru
 0.0.0.0 sharika-viremic-lochlan.ngrok-free.dev
-0.0.0.0 shark-software.ru
 0.0.0.0 sharmanshawls.com
 0.0.0.0 sharp-franklin.196-251-72-149.plesk.page
 0.0.0.0 sharp-montalcini.196-251-72-110.plesk.page
 0.0.0.0 shear.r0bintorque.ru
+0.0.0.0 shellnescarlett.com
 0.0.0.0 sherwinwilliamssuwanee.com
 0.0.0.0 shield.cl0udriver.ru
+0.0.0.0 shield.s1ogan5timul.ru
 0.0.0.0 shift-art.com
+0.0.0.0 shift.5lau8htwater.ru
 0.0.0.0 shift.darkfl0w.ru
 0.0.0.0 shift.dup1ic4ermaph.ru
 0.0.0.0 shift.gl1mmerset.ru
@@ -10908,6 +11062,7 @@
 0.0.0.0 shift.ko1osunde2d.ru
 0.0.0.0 shift.mintl1ne.ru
 0.0.0.0 shift.paper-knurl.ru
+0.0.0.0 shift.qu1rkbasin.ru
 0.0.0.0 shift.ravelmint.ru
 0.0.0.0 shift.sn1rlpatch.ru
 0.0.0.0 shift.stoneh0use.ru
@@ -10989,12 +11144,14 @@
 0.0.0.0 sinmaxinter.top
 0.0.0.0 sip.run-c-you.ru
 0.0.0.0 sirrobbe.dev
+0.0.0.0 sirvax.b2ckfo0t.ru
 0.0.0.0 sirvex.e9uilyb5opr.ru
 0.0.0.0 sistemaintegrado.appx.ro
 0.0.0.0 sistemmod23.com
 0.0.0.0 sit.ngiz5.ru
 0.0.0.0 sitioseguroswpersonasapp.duckdns.org
 0.0.0.0 sits.inter.net.pk
+0.0.0.0 sivhun.sa5imw2ter.ru
 0.0.0.0 sivqen.a8riculmarb1e.ru
 0.0.0.0 sj.dr1ftpanda.ru
 0.0.0.0 sj.m1stycliff.ru
@@ -11057,6 +11214,7 @@
 0.0.0.0 snarl.tangleflux.ru
 0.0.0.0 snd7go.soundg0.ru
 0.0.0.0 snibble.gl1mmerset.ru
+0.0.0.0 snip.j1nxbuckle.ru
 0.0.0.0 snow.br1ghtstorm.ru
 0.0.0.0 snow.dur2treces5.ru
 0.0.0.0 snow.qytan.online
@@ -11094,13 +11252,10 @@
 0.0.0.0 softdown.pages.dev
 0.0.0.0 softs.sys7yn0iy5.online
 0.0.0.0 softsdownload.click
-0.0.0.0 softsdownload.pro
 0.0.0.0 softsdownlod.pro
 0.0.0.0 softsfile.pro
 0.0.0.0 softwaretech.pro
-0.0.0.0 softzdwnld.click
 0.0.0.0 softzdwnld.pro
-0.0.0.0 softzdwnload.click
 0.0.0.0 sog.8786.ru
 0.0.0.0 sohumbabyproducts.com
 0.0.0.0 sokqiz.bunkerle0p2rd.ru
@@ -11118,6 +11273,7 @@
 0.0.0.0 sora.deep5tone.ru
 0.0.0.0 soraai-free.com
 0.0.0.0 sornax.c0mp5chminka.ru
+0.0.0.0 sorqin.exh2ust8one.ru
 0.0.0.0 sorxep.f0undoutw2y.ru
 0.0.0.0 soskax.duckdns.org
 0.0.0.0 sosten38999.duckdns.org
@@ -11145,7 +11301,9 @@
 0.0.0.0 spark.f1fthudde7.ru
 0.0.0.0 spark.fl0wlatch.ru
 0.0.0.0 spark.flintwerder.ru
+0.0.0.0 spark.g0rico1ormica.ru
 0.0.0.0 spark.glimmerstone.ru
+0.0.0.0 spark.hushzigzag.ru
 0.0.0.0 spark.j-1-ngleknob.ru
 0.0.0.0 spark.ko1osunde2d.ru
 0.0.0.0 spark.m-0-on-forger.ru
@@ -11209,6 +11367,7 @@
 0.0.0.0 spy.pl8a.ru
 0.0.0.0 spyhifipro.com
 0.0.0.0 sq.twy0.ru
+0.0.0.0 sqewtj.za.com
 0.0.0.0 squall.f1restorm.ru
 0.0.0.0 squall.storml1nk.ru
 0.0.0.0 squall.stormpixei.ru
@@ -11262,7 +11421,6 @@
 0.0.0.0 starmaall.com
 0.0.0.0 starmarkt.ru
 0.0.0.0 startdownload.live
-0.0.0.0 startdownload.site
 0.0.0.0 starvina.cfd
 0.0.0.0 statementmsi.xyz
 0.0.0.0 static-obligations-baths-carnival.trycloudflare.com
@@ -11322,6 +11480,7 @@
 0.0.0.0 stone.datap1xel.ru
 0.0.0.0 stone.deepbreez3.ru
 0.0.0.0 stone.frostl1ne.ru
+0.0.0.0 stone.ga8tukh1yat.ru
 0.0.0.0 stone.m1stbird.ru
 0.0.0.0 stone.ndoq-0.ru
 0.0.0.0 stone.nightm1nt.ru
@@ -11339,6 +11498,7 @@
 0.0.0.0 storm.frostc0de.ru
 0.0.0.0 storm.rainst0ne.ru
 0.0.0.0 storm.s0ftcrest.ru
+0.0.0.0 storm.s1ogan5timul.ru
 0.0.0.0 storm.silverr0ot.ru
 0.0.0.0 storm.st0rmleaf.ru
 0.0.0.0 storm.stonefog.ru
@@ -11475,6 +11635,7 @@
 0.0.0.0 synap.nerv0u5radic.ru
 0.0.0.0 synap3.sv0orchond0.ru
 0.0.0.0 synergyconsulting.us
+0.0.0.0 syr3un.e9uatp2nth.ru
 0.0.0.0 sz.maplexenon.ru
 0.0.0.0 sz0.windc0ve.ru
 0.0.0.0 sz8.xb4e7.ru
@@ -11482,8 +11643,6 @@
 0.0.0.0 szpf.pl0tchisel.ru
 0.0.0.0 t-launcher.site
 0.0.0.0 t.ba2q7q.ru
-0.0.0.0 t.cgty8.ru
-0.0.0.0 t.d597o.ru
 0.0.0.0 t.da2yw.ru
 0.0.0.0 t.hlgy7.ru
 0.0.0.0 t.m046d.ru
@@ -11513,7 +11672,6 @@
 0.0.0.0 t1.4-z493.ru
 0.0.0.0 t1.4u-rr.ru
 0.0.0.0 t1.8a-mg.ru
-0.0.0.0 t1.a-311.ru
 0.0.0.0 t1.a-84l.ru
 0.0.0.0 t1.aclz-9.ru
 0.0.0.0 t1.ahz-ya.ru
@@ -11537,7 +11695,6 @@
 0.0.0.0 t1.gr3e4.ru
 0.0.0.0 t1.h-29i.ru
 0.0.0.0 t1.h9u8w.ru
-0.0.0.0 t1.i-215.ru
 0.0.0.0 t1.j-70o.ru
 0.0.0.0 t1.j0a8n.ru
 0.0.0.0 t1.j1z2u.ru
@@ -11552,7 +11709,6 @@
 0.0.0.0 t1.mw9y4.ru
 0.0.0.0 t1.n46uu.ru
 0.0.0.0 t1.nu-96.ru
-0.0.0.0 t1.o-554.ru
 0.0.0.0 t1.o-y3ii.ru
 0.0.0.0 t1.ou-86.ru
 0.0.0.0 t1.p51io.ru
@@ -11564,7 +11720,6 @@
 0.0.0.0 t1.ss9y4.ru
 0.0.0.0 t1.t-20y.ru
 0.0.0.0 t1.u-66r.ru
-0.0.0.0 t1.u-97w.ru
 0.0.0.0 t1.u11q.ru
 0.0.0.0 t1.uy-55.ru
 0.0.0.0 t1.w-70a.ru
@@ -11610,6 +11765,7 @@
 0.0.0.0 t2.bo8y.ru
 0.0.0.0 t2.mcyz4.ru
 0.0.0.0 t2.v0xletrill.ru
+0.0.0.0 t21vc.qu1rkbasin.ru
 0.0.0.0 t2gh5.je9t.online
 0.0.0.0 t2jw.kynh0.ru
 0.0.0.0 t2k8.d-k-6j.ru
@@ -11641,6 +11797,7 @@
 0.0.0.0 t4x1.7d0re6.ru
 0.0.0.0 t4z.tinkerstep.ru
 0.0.0.0 t5.614lo.ru
+0.0.0.0 t5.dua1i5mmuksun.ru
 0.0.0.0 t5.ithc-4.ru
 0.0.0.0 t5.sne-4-p.ru
 0.0.0.0 t5bx0.p0k61h.ru
@@ -11659,7 +11816,6 @@
 0.0.0.0 t6k9.kzg-w-4-y.ru
 0.0.0.0 t6y.hab77u.ru
 0.0.0.0 t6y3.ha0m.online
-0.0.0.0 t7.ctze0.ru
 0.0.0.0 t7.hasefa.ru
 0.0.0.0 t7.ru7x.ru
 0.0.0.0 t77n.cheb0t5agit.ru
@@ -11724,6 +11880,7 @@
 0.0.0.0 tal2.ele-6-tricmul-1-ed.ru
 0.0.0.0 tal2.safebl0ck.ru
 0.0.0.0 talcry.decor1cry5t.ru
+0.0.0.0 taldor.0rav2uterus.ru
 0.0.0.0 talentrecruitments.com
 0.0.0.0 talfem.wavec0re.ru
 0.0.0.0 talk.winnerstock.co.kr
@@ -11747,6 +11904,7 @@
 0.0.0.0 tara567mtka.online
 0.0.0.0 taragames.online
 0.0.0.0 tarfyn.imp2ctto1st.ru
+0.0.0.0 tarmex.be2vesati5t.ru
 0.0.0.0 tarvel.starl1ght.ru
 0.0.0.0 tas.frostmark.ru
 0.0.0.0 task.b-9-ku.ru
@@ -11797,6 +11955,7 @@
 0.0.0.0 td.sd4o7.ru
 0.0.0.0 td2qd.windc0ve.ru
 0.0.0.0 tdejb.com
+0.0.0.0 tdh.t2kec2reujo.ru
 0.0.0.0 te.ember-harbor.ru
 0.0.0.0 te.pvzi-1.ru
 0.0.0.0 te.vakun.ru
@@ -11822,6 +11981,8 @@
 0.0.0.0 tengfeidn.cn
 0.0.0.0 teqvax.gethun8le2r.ru
 0.0.0.0 terrain-seemed-plan-compression.trycloudflare.com
+0.0.0.0 terval.b1uegras5hia.ru
+0.0.0.0 tervul.bi1ingnause2.ru
 0.0.0.0 teslasuit.to
 0.0.0.0 test.aionclassic.pro
 0.0.0.0 test.my-video-live.cloud
@@ -11830,6 +11991,7 @@
 0.0.0.0 test.teteos.net
 0.0.0.0 testfortesmasi.cc
 0.0.0.0 tests.yjzj.org
+0.0.0.0 tevlor.mar8arstr2t.ru
 0.0.0.0 tezqiw.chup7unwhe7e.ru
 0.0.0.0 tffoodindustries.com
 0.0.0.0 tfh.lq8e1.ru
@@ -11861,6 +12023,7 @@
 0.0.0.0 ti.tfba6.ru
 0.0.0.0 ti.xvqy-8.ru
 0.0.0.0 ti1.z2q2.ru
+0.0.0.0 tiblad.den1mp7imad.ru
 0.0.0.0 tibqov.incur2b1epity.ru
 0.0.0.0 tibxal.c1utter0ver.ru
 0.0.0.0 tic.jsuv0.ru
@@ -11885,6 +12048,7 @@
 0.0.0.0 tik9wk.cl0ckw0rk.ru
 0.0.0.0 tikc7o.t1metalk.ru
 0.0.0.0 tikistok-goolge.sbs
+0.0.0.0 tikistoku.sbs
 0.0.0.0 tikitok-goolges.sbs
 0.0.0.0 tikitok-playgoolge.sbs
 0.0.0.0 tikitokiuzb.com
@@ -11911,6 +12075,7 @@
 0.0.0.0 tissstok18.sbs
 0.0.0.0 title-car.info
 0.0.0.0 tivmon.gr-1-tfable.ru
+0.0.0.0 tivqam.act0rpie7ce.ru
 0.0.0.0 tivqer.g2un7makeup.ru
 0.0.0.0 tivran.pa1mi5trythat.ru
 0.0.0.0 tivsek.r1dsheet5et.ru
@@ -11928,16 +12093,12 @@
 0.0.0.0 tk2v.pohv3.ru
 0.0.0.0 tkm.w7tx-3t.ru
 0.0.0.0 tkn.zigm0scope.ru
-0.0.0.0 tl.pihp.ru
 0.0.0.0 tla.gr1tmodule.ru
 0.0.0.0 tla.sj5o5.ru
 0.0.0.0 tm.aclz9.ru
 0.0.0.0 tm.bowin1nca5.ru
-0.0.0.0 tm7.z413y.ru
 0.0.0.0 tmp.bluecl1ff.ru
 0.0.0.0 tmy.ironbl0om.ru
-0.0.0.0 tn.bpva0.ru
-0.0.0.0 tn.e-410.ru
 0.0.0.0 tn.g601c.ru
 0.0.0.0 tn.pi9yj.ru
 0.0.0.0 tn.s80ye.ru
@@ -11960,6 +12121,7 @@
 0.0.0.0 token.dou5etossin8.ru
 0.0.0.0 tokituks.sbs
 0.0.0.0 tolcem.luz7it5tretch.ru
+0.0.0.0 tolmec.ar2ble0ffend.ru
 0.0.0.0 tom-complex-dream-striking.trycloudflare.com
 0.0.0.0 tomsyr.b7ewer1atif.ru
 0.0.0.0 tone9x.soundg0.ru
@@ -11969,7 +12131,6 @@
 0.0.0.0 top8onlinegame.com
 0.0.0.0 topaz.mcej-9.ru
 0.0.0.0 topdigis889.com
-0.0.0.0 topfiles.cfd
 0.0.0.0 topmedsolution.com
 0.0.0.0 topquangcaohieuqua.vip
 0.0.0.0 torch.amber-coil.ru
@@ -11979,6 +12140,7 @@
 0.0.0.0 toto919fast.com
 0.0.0.0 toto919link.org
 0.0.0.0 toto919ril.com
+0.0.0.0 tovqer.gu1detr2in.ru
 0.0.0.0 tp.cloudreach.ru
 0.0.0.0 tp.nm0e2.ru
 0.0.0.0 tp.op76.ru
@@ -11989,7 +12151,6 @@
 0.0.0.0 tq.9b9-7.ru
 0.0.0.0 tq.9zk8r.ru
 0.0.0.0 tq.b10ou.ru
-0.0.0.0 tq.derl.ru
 0.0.0.0 tq.favezi.ru
 0.0.0.0 tq.i924ao.ru
 0.0.0.0 tq.k3o9d.ru
@@ -12010,7 +12171,6 @@
 0.0.0.0 tq1.2-j695.ru
 0.0.0.0 tq1.5u-zk.ru
 0.0.0.0 tq1.ae-18.ru
-0.0.0.0 tq1.e-783.ru
 0.0.0.0 tq1.ey-l2q.ru
 0.0.0.0 tq1.f14ey.ru
 0.0.0.0 tq1.i-76t.ru
@@ -12019,7 +12179,6 @@
 0.0.0.0 tq1.l-70y.ru
 0.0.0.0 tq1.n-7sol.ru
 0.0.0.0 tq1.n-82o.ru
-0.0.0.0 tq1.o-279.ru
 0.0.0.0 tq1.o-61x.ru
 0.0.0.0 tq1.q-49o.ru
 0.0.0.0 tq1.r-54u.ru
@@ -12028,6 +12187,7 @@
 0.0.0.0 tq1.wy-72.ru
 0.0.0.0 tq8.i3-42s.ru
 0.0.0.0 tqe.bra9lupt5ev.ru
+0.0.0.0 tqep6.frostsh1ft.ru
 0.0.0.0 tqf.crystalmoor.ru
 0.0.0.0 tqf.summitmond.ru
 0.0.0.0 tr-girisadresleri.com
@@ -12053,6 +12213,8 @@
 0.0.0.0 trace.skysh1eld.ru
 0.0.0.0 trace.snare-plum.ru
 0.0.0.0 trace.softp1ne.ru
+0.0.0.0 trace.t2kec2reujo.ru
+0.0.0.0 trace.v-0-xenridge.ru
 0.0.0.0 trace4.raven-flux.ru
 0.0.0.0 track4.stoner0ck.ru
 0.0.0.0 trackdelivery-customer.com
@@ -12087,6 +12249,7 @@
 0.0.0.0 trajet-mondialrelay.com
 0.0.0.0 trakk.deepv0yage.ru
 0.0.0.0 trame4.cherec0nce7t.ru
+0.0.0.0 tramvi.s1aughttre5s.ru
 0.0.0.0 transfer.wtf
 0.0.0.0 transparenciacanaa.com.br
 0.0.0.0 travelmix.ch
@@ -12103,25 +12266,29 @@
 0.0.0.0 trimed.com.au
 0.0.0.0 trmm.space
 0.0.0.0 trtmyanmar.com
+0.0.0.0 trumpisperfect.com
 0.0.0.0 truss.mistybr1dge.ru
 0.0.0.0 truss.safebr1dge.ru
 0.0.0.0 trusting-raman.196-251-72-149.plesk.page
 0.0.0.0 trusting-tesla.196-251-72-149.plesk.page
 0.0.0.0 truth3.sys7yn0iy5.ru
+0.0.0.0 truzik.a5kin8insur.ru
 0.0.0.0 try.sjyj1.ru
 0.0.0.0 ts.darkw1re.ru
-0.0.0.0 ts.lexz.ru
 0.0.0.0 ts.softcl0ud.ru
 0.0.0.0 tset1.wifime.biz.id
 0.0.0.0 tsfs.com.my
 0.0.0.0 tsxw.silentl1ne.ru
+0.0.0.0 tt.hush-zigzag.ru
 0.0.0.0 tt.wduh8.ru
 0.0.0.0 tt7.r0en3ap.ru
 0.0.0.0 ttsux18-goolge.sbs
 0.0.0.0 ttz.op76.ru
 0.0.0.0 tu.pvzi-1.ru
+0.0.0.0 tu1.deepf0rm.ru
 0.0.0.0 tu5l.cr2ftedne5s.ru
 0.0.0.0 tubqer.t0rquefinch.ru
+0.0.0.0 tubren.l0ckmu7derer.ru
 0.0.0.0 tuc.co.com
 0.0.0.0 tudfep.c0mp5chminka.ru
 0.0.0.0 tufeck.datashade.ru
@@ -12137,6 +12304,7 @@
 0.0.0.0 tulsac.stonem1st.ru
 0.0.0.0 tulvex.pr1vilvoti2t.ru
 0.0.0.0 tumqer.cask-wander.ru
+0.0.0.0 tundev.or8anop5crew.ru
 0.0.0.0 tune.pot5.ru
 0.0.0.0 tupuu.42web.io
 0.0.0.0 tur.stonec0re.ru
@@ -12144,10 +12312,10 @@
 0.0.0.0 turm.ravenkloster.ru
 0.0.0.0 turnabattle.fun
 0.0.0.0 turne.mistytrai1.ru
+0.0.0.0 tursaq.sa5imw2ter.ru
 0.0.0.0 tusbev.ext0rttramp1e.ru
 0.0.0.0 tusgiv.ab5olutsa8ogul.ru
 0.0.0.0 tutkitok.sbs
-0.0.0.0 tuvnlsqa.pro
 0.0.0.0 tuvqen.plume-vortex.ru
 0.0.0.0 tuxbot.cc
 0.0.0.0 tuzlam.b2rtdenia1.ru
@@ -12207,13 +12375,12 @@
 0.0.0.0 u.m935w.ru
 0.0.0.0 u.n4i2m.ru
 0.0.0.0 u.n726z.ru
-0.0.0.0 u.pymh.ru
 0.0.0.0 u.q4e3n.ru
 0.0.0.0 u.qoruva.ru
 0.0.0.0 u.qzad3.ru
 0.0.0.0 u.su6ak.ru
+0.0.0.0 u0.bracketloam.ru
 0.0.0.0 u0.f1restone.ru
-0.0.0.0 u0.jagc.ru
 0.0.0.0 u0.xbiq2.ru
 0.0.0.0 u0b.0bj3i.ru
 0.0.0.0 u0b.6aiiwi2.ru
@@ -12226,7 +12393,6 @@
 0.0.0.0 u0v4t.mjg1.online
 0.0.0.0 u0x9a.3-f72v.ru
 0.0.0.0 u1.3-c719.ru
-0.0.0.0 u1.6q8v0.ru
 0.0.0.0 u1.7a-xz.ru
 0.0.0.0 u1.c-3dax.ru
 0.0.0.0 u1.e-91m.ru
@@ -12235,21 +12401,18 @@
 0.0.0.0 u1.fttu6.ru
 0.0.0.0 u1.h-35i.ru
 0.0.0.0 u1.i-78b.ru
-0.0.0.0 u1.j287y.ru
 0.0.0.0 u1.l6r7e.ru
 0.0.0.0 u1.mw-2-o-3.ru
 0.0.0.0 u1.n-80o.ru
 0.0.0.0 u1.p-13a.ru
 0.0.0.0 u1.ri-04.ru
 0.0.0.0 u1.tqrjf.ru
-0.0.0.0 u1.u-251.ru
 0.0.0.0 u1.ussn7.ru
 0.0.0.0 u1.v-36u.ru
 0.0.0.0 u1.vzj-1-o.ru
 0.0.0.0 u1.w-48u.ru
 0.0.0.0 u1.wduh8.ru
 0.0.0.0 u1.x38ii.ru
-0.0.0.0 u1.z687a.ru
 0.0.0.0 u11v.par2ch0ld.ru
 0.0.0.0 u1jd.fv0-93.ru
 0.0.0.0 u1kz8.bo8y.online
@@ -12262,6 +12425,7 @@
 0.0.0.0 u1yee.spry-volt.ru
 0.0.0.0 u1z.lj3u5.ru
 0.0.0.0 u24b.hexapulse.ru
+0.0.0.0 u25u.darkf0x.ru
 0.0.0.0 u2kh.54o477354.online
 0.0.0.0 u3.jt4o0.ru
 0.0.0.0 u31.darksh1ft.ru
@@ -12269,6 +12433,7 @@
 0.0.0.0 u3kd.1p-8s.ru
 0.0.0.0 u3kd.sn1pixel.ru
 0.0.0.0 u3qa.3j5-y.ru
+0.0.0.0 u3u9.n1ghtflow.ru
 0.0.0.0 u3z.pr0wldrop.ru
 0.0.0.0 u3zc.dr1ftpanda.ru
 0.0.0.0 u4.windsh1ft.ru
@@ -12283,7 +12448,6 @@
 0.0.0.0 u4xz.kpyw8.ru
 0.0.0.0 u5.4-j722.ru
 0.0.0.0 u5.8e-hr.ru
-0.0.0.0 u5.a-342.ru
 0.0.0.0 u5.a-67x.ru
 0.0.0.0 u5.ea-43.ru
 0.0.0.0 u5.h-23u.ru
@@ -12298,7 +12462,6 @@
 0.0.0.0 u5.qf-0-u-2.ru
 0.0.0.0 u5.rdlkc.ru
 0.0.0.0 u5.su-08.ru
-0.0.0.0 u5.u-989.ru
 0.0.0.0 u5.ve1p.ru
 0.0.0.0 u5.w-52a.ru
 0.0.0.0 u5.x-12o.ru
@@ -12328,6 +12491,7 @@
 0.0.0.0 u9w.fk9o0.ru
 0.0.0.0 u9zv0uq6tomfchp.store
 0.0.0.0 ua.a-zon.ru
+0.0.0.0 ua4ch.amberflint.ru
 0.0.0.0 ua7.z2q2.ru
 0.0.0.0 uaipharma.com
 0.0.0.0 ub.muddle-oak.ru
@@ -12398,6 +12562,7 @@
 0.0.0.0 uhf.ibzr-2.ru
 0.0.0.0 uhleii.fun
 0.0.0.0 uhz.basaltwerk.ru
+0.0.0.0 ui.dua1i5mmuksun.ru
 0.0.0.0 ui.qu1ck.ru
 0.0.0.0 ui.rk-8-y-6.ru
 0.0.0.0 ui.x-vo4.ru
@@ -12409,6 +12574,7 @@
 0.0.0.0 ukcollegeonline.com
 0.0.0.0 ukd0.saffron-dent.ru
 0.0.0.0 ukguk71.ru
+0.0.0.0 ul34.dua1i5mmuksun.ru
 0.0.0.0 ulaicavr.com
 0.0.0.0 ultrauraniummirai.ddns.net
 0.0.0.0 ultraviewv.com
@@ -12519,6 +12685,7 @@
 0.0.0.0 uwf.nqyf7.ru
 0.0.0.0 ux.hioweawou.com.ru
 0.0.0.0 ux.twist-nova.ru
+0.0.0.0 ux6cb.5lau8htwater.ru
 0.0.0.0 uxg.n5ol.ru
 0.0.0.0 uxth9t.g2erharve5t.ru
 0.0.0.0 uy.cloudb1rd.ru
@@ -12566,16 +12733,13 @@
 0.0.0.0 v2.7i091.online
 0.0.0.0 v2.8a-mg.ru
 0.0.0.0 v2.9-k588.ru
-0.0.0.0 v2.a-311.ru
 0.0.0.0 v2.a-84l.ru
 0.0.0.0 v2.a-91p.ru
 0.0.0.0 v2.b-9lyb.ru
 0.0.0.0 v2.b3n4o.ru
 0.0.0.0 v2.bh3i6.ru
-0.0.0.0 v2.bpva0.ru
 0.0.0.0 v2.bw6u0.ru
 0.0.0.0 v2.c-01e.ru
-0.0.0.0 v2.c646a.ru
 0.0.0.0 v2.cpc-8-u.ru
 0.0.0.0 v2.d-76u.ru
 0.0.0.0 v2.db3a4.ru
@@ -12592,7 +12756,6 @@
 0.0.0.0 v2.gr3e4.ru
 0.0.0.0 v2.h-29i.ru
 0.0.0.0 v2.he-22.ru
-0.0.0.0 v2.i-661.ru
 0.0.0.0 v2.j-70o.ru
 0.0.0.0 v2.j1z2u.ru
 0.0.0.0 v2.jo-59.ru
@@ -12608,7 +12771,6 @@
 0.0.0.0 v2.mw9y4.ru
 0.0.0.0 v2.n46uu.ru
 0.0.0.0 v2.nu-96.ru
-0.0.0.0 v2.o-554.ru
 0.0.0.0 v2.oo-07.ru
 0.0.0.0 v2.ou-86.ru
 0.0.0.0 v2.pf6o2.ru
@@ -12622,7 +12784,6 @@
 0.0.0.0 v2.t-68e.ru
 0.0.0.0 v2.tqxfs.ru
 0.0.0.0 v2.u-66r.ru
-0.0.0.0 v2.u-97w.ru
 0.0.0.0 v2.uy-55.ru
 0.0.0.0 v2.w-70a.ru
 0.0.0.0 v2.x-57u.ru
@@ -12632,6 +12793,7 @@
 0.0.0.0 v2.z-48y.ru
 0.0.0.0 v2.zk5e7.ru
 0.0.0.0 v2.zv1a0.ru
+0.0.0.0 v21nv.hushzigzag.ru
 0.0.0.0 v2a.k8cr-9b.ru
 0.0.0.0 v2k7.ha0m.online
 0.0.0.0 v2k7m.67tf.online
@@ -12718,6 +12880,7 @@
 0.0.0.0 va43.du2iv.ru
 0.0.0.0 vaamsmgfreocmroe-1342087530.cos.sa-saopaulo.myqcloud.com
 0.0.0.0 vabank-casino.org
+0.0.0.0 vablot.exh2ust8one.ru
 0.0.0.0 vacdiz.bobi1dece4.ru
 0.0.0.0 vaew-varen-investment.sbs
 0.0.0.0 vagler.ru
@@ -12725,6 +12888,7 @@
 0.0.0.0 vair.xcreative.cz
 0.0.0.0 vaklid.f0undoutw2y.ru
 0.0.0.0 valcyn.f1ysynchr0n.ru
+0.0.0.0 valdek.di5pl2yleft.ru
 0.0.0.0 vale-sanete-investment.sbs
 0.0.0.0 vale.bowin1nca5.ru
 0.0.0.0 vale.cioudharbor.ru
@@ -12755,7 +12919,9 @@
 0.0.0.0 vanseio.sa.com
 0.0.0.0 vapor6.his5isappe2r.ru
 0.0.0.0 vapr.basaltwisp9.ru
+0.0.0.0 vargom.insti8sc2tter.ru
 0.0.0.0 varorg.com
+0.0.0.0 varqin.che6u7therm.ru
 0.0.0.0 vassal.d0minon2me.ru
 0.0.0.0 vat.me2v.ru
 0.0.0.0 vault.hollow-zip.ru
@@ -12774,14 +12940,12 @@
 0.0.0.0 vcute69.bounceme.net
 0.0.0.0 vcz.us
 0.0.0.0 vd.fk9e2.ru
-0.0.0.0 vd.padj.ru
 0.0.0.0 vd3h.llim8.ru
 0.0.0.0 vd3j.6-0sg.ru
 0.0.0.0 vd3k.nowc8.ru
 0.0.0.0 vdf.interk2ts2v.ru
 0.0.0.0 vdn.no4s.ru
 0.0.0.0 vdriver.ru
-0.0.0.0 vdsolidflowbins.buzz
 0.0.0.0 vdx.yu5k.ru
 0.0.0.0 ve.bvqu-7.ru
 0.0.0.0 ve.fttu6.ru
@@ -12798,6 +12962,7 @@
 0.0.0.0 vector.col1ectfre5h.ru
 0.0.0.0 vector.darkm1nt.ru
 0.0.0.0 vector.dur2treces5.ru
+0.0.0.0 vector.g0rico1ormica.ru
 0.0.0.0 vector.zapkinetic.ru
 0.0.0.0 vector.zenithsnap.ru
 0.0.0.0 vectorblitz.ru
@@ -12830,10 +12995,13 @@
 0.0.0.0 vesnug.cr1pptit2n.ru
 0.0.0.0 veu.mi9q.ru
 0.0.0.0 vevcn.com
+0.0.0.0 vex.fori5po1u.ru
 0.0.0.0 vex.orbshackle.ru
+0.0.0.0 vex3il.b2ckfo0t.ru
 0.0.0.0 vex7in.st0rmshade.ru
 0.0.0.0 vexhup.narr2tpenici1l.ru
 0.0.0.0 vexlun.imp2ctto1st.ru
+0.0.0.0 vexlup.e9uatp2nth.ru
 0.0.0.0 vexrum.rockf1eld.ru
 0.0.0.0 vfn.wqix5.ru
 0.0.0.0 vfp.hy6o.ru
@@ -12844,6 +13012,7 @@
 0.0.0.0 vgg.ndoq0.ru
 0.0.0.0 vgk.pf-4-i-2.ru
 0.0.0.0 vh.emberiake.ru
+0.0.0.0 vh.j1nxbuckle.ru
 0.0.0.0 vh.pf4i2.ru
 0.0.0.0 vh0.cl0ckmint.ru
 0.0.0.0 vh1xr.ju4enpare1.ru
@@ -12875,6 +13044,7 @@
 0.0.0.0 vilzup.ho0freb1rth.ru
 0.0.0.0 vimqon.stonem1st.ru
 0.0.0.0 vincentdemiero.com
+0.0.0.0 vipvpnservis.cfd
 0.0.0.0 virqan.juren0ksco1d.ru
 0.0.0.0 virtual04access.top
 0.0.0.0 virtualiscute.xyz
@@ -12886,6 +13056,7 @@
 0.0.0.0 vitoturizm.com.tr
 0.0.0.0 vivid8.kalmykvic0te.ru
 0.0.0.0 vixen.ambercoil.ru
+0.0.0.0 vixen.bracketloam.ru
 0.0.0.0 vixqew.humb1epr2bab.ru
 0.0.0.0 vizyonuniversitesi.com.tr
 0.0.0.0 vj3.n-61-5.ru
@@ -12905,7 +13076,6 @@
 0.0.0.0 vkp.n5ol.ru
 0.0.0.0 vkvideo.icu
 0.0.0.0 vl.cl0udtrace.ru
-0.0.0.0 vl.lexz.ru
 0.0.0.0 vle.in.net
 0.0.0.0 vlr.quartz-flip.ru
 0.0.0.0 vm.hyk5.ru
@@ -12944,6 +13114,7 @@
 0.0.0.0 vps-ec9d6f72.vps.ovh.ca
 0.0.0.0 vps-zap1042939-1.zap-srv.com
 0.0.0.0 vps-zap934119-1.zap-srv.com
+0.0.0.0 vps2615877.fastwebserver.de
 0.0.0.0 vq.lo2p.ru
 0.0.0.0 vq.wz3a7.ru
 0.0.0.0 vq.zi-qa.ru
@@ -12961,6 +13132,7 @@
 0.0.0.0 vrporngamesfree.com
 0.0.0.0 vrxl3.primurib1er.ru
 0.0.0.0 vs.cl0udland.ru
+0.0.0.0 vs.cloudsh1ft.ru
 0.0.0.0 vsegdanarybalke.ru
 0.0.0.0 vseq.darksh1ft.ru
 0.0.0.0 vserge42.bounceme.net
@@ -12972,6 +13144,7 @@
 0.0.0.0 vudxen.quartzjolt.ru
 0.0.0.0 vuelaviajero.com
 0.0.0.0 vufmel.dev0urspon8y.ru
+0.0.0.0 vul3en.go1ogun0ow.ru
 0.0.0.0 vulgan.gig8lere1y.ru
 0.0.0.0 vupmex.caskwander.ru
 0.0.0.0 vuqov.c1earstone.ru
@@ -12992,12 +13165,12 @@
 0.0.0.0 vy6.g7ve.ru
 0.0.0.0 vyc.z-x0.ru
 0.0.0.0 vyf3.mirthcap.ru
+0.0.0.0 vylgor.b1uesgr2mp.ru
 0.0.0.0 vynkra.c2rb0lduty.ru
 0.0.0.0 vyrf.qu2rv0lts.ru
 0.0.0.0 vyrqet.bramble-zip.ru
 0.0.0.0 vyt.24s6.ru
 0.0.0.0 vyt.lo9q.ru
-0.0.0.0 vz.derl.ru
 0.0.0.0 vz.n-jur.ru
 0.0.0.0 vz.snowcrest.ru
 0.0.0.0 vz8.4a7vci9.ru
@@ -13006,12 +13179,13 @@
 0.0.0.0 vzh.ha5r.ru
 0.0.0.0 vzo9h.d0nat1mpenet.ru
 0.0.0.0 w.5u5vbu6.ru
-0.0.0.0 w.myzj.ru
 0.0.0.0 w.rv6324.online
+0.0.0.0 w0.rainf0rm.ru
 0.0.0.0 w0.ty9a.ru
 0.0.0.0 w0ald.se1fish5tupid.ru
 0.0.0.0 w0f7n3ty.ru
 0.0.0.0 w0rdix.firew0rd.ru
+0.0.0.0 w0t.shadowm1st.ru
 0.0.0.0 w1.7n28r.ru
 0.0.0.0 w1.9wb-k.ru
 0.0.0.0 w1.ba2q7q.ru
@@ -13040,7 +13214,6 @@
 0.0.0.0 w2socks.xyz
 0.0.0.0 w2t.ravenpfad.ru
 0.0.0.0 w3.gdyl2.ru
-0.0.0.0 w3.x874a.ru
 0.0.0.0 w3c.quartzace.ru
 0.0.0.0 w3d.33b2.online
 0.0.0.0 w3q0.7mdmu7og.ru
@@ -13056,8 +13229,6 @@
 0.0.0.0 w4.d-54y.ru
 0.0.0.0 w4.d03ui.ru
 0.0.0.0 w4.dvn-4-i.ru
-0.0.0.0 w4.e-134.ru
-0.0.0.0 w4.e-72t.ru
 0.0.0.0 w4.fa-99.ru
 0.0.0.0 w4.k5d1y.ru
 0.0.0.0 w4.lq-8-e-1.ru
@@ -13068,17 +13239,16 @@
 0.0.0.0 w4.r8li.ru
 0.0.0.0 w4.rxhvt.ru
 0.0.0.0 w4.w-57e.ru
-0.0.0.0 w4.x331e.ru
 0.0.0.0 w4.xa4p.online
 0.0.0.0 w45p.quarkspoon.ru
 0.0.0.0 w4g.mcej9.ru
 0.0.0.0 w4jm.9-32p.ru
 0.0.0.0 w4l.xr7a0.ru
 0.0.0.0 w4ty.3-s0u.ru
+0.0.0.0 w51.cl0udstone.ru
 0.0.0.0 w5en.cdn-6-38.ru
 0.0.0.0 w5t.g7ve.ru
 0.0.0.0 w6.dae017f.ru
-0.0.0.0 w6.nytk.ru
 0.0.0.0 w6.yldv.ru
 0.0.0.0 w63709gi.beget.tech
 0.0.0.0 w6j2.sa3x.online
@@ -13152,6 +13322,7 @@
 0.0.0.0 warkopshopfb138.cc
 0.0.0.0 warp.fl1ntrelay.ru
 0.0.0.0 warp.hushcopper.ru
+0.0.0.0 warp.j1nxbuckle.ru
 0.0.0.0 warp.paperknurl.ru
 0.0.0.0 warp.siickhorn.ru
 0.0.0.0 warp.sk2tear0und.ru
@@ -13240,6 +13411,7 @@
 0.0.0.0 weird.fogtangent.ru
 0.0.0.0 weird.hollowfizz.ru
 0.0.0.0 weird.twirl-pane.ru
+0.0.0.0 weird.v-0-xenridge.ru
 0.0.0.0 weiss.bluer1ver.ru
 0.0.0.0 weiss.crystalrun.ru
 0.0.0.0 weiss.ele6tricmul1ed.ru
@@ -13262,14 +13434,17 @@
 0.0.0.0 wemustwin2025.kesug.com
 0.0.0.0 wepe.j1gglestone.ru
 0.0.0.0 werguf.b0rzvorsink2.ru
+0.0.0.0 werniq.s1aughttre5s.ru
 0.0.0.0 werpix.m2ximtherm0s.ru
 0.0.0.0 wet.app-6-v.ru
 0.0.0.0 wet.vex0.ru
+0.0.0.0 wex3il.hiredp1ayfu1.ru
+0.0.0.0 wexlom.d0orh0bbit.ru
 0.0.0.0 wf.lu8eti5chkom.ru
-0.0.0.0 wf.pymz.ru
 0.0.0.0 wf.zi-qa.ru
 0.0.0.0 wfg.fl-0-wlatch.ru
 0.0.0.0 wgd.slideshowimprison.digital
+0.0.0.0 wgm.ga8tukh1yat.ru
 0.0.0.0 wgp.lq8e1.ru
 0.0.0.0 wh.pf-6-o-2.ru
 0.0.0.0 wh3elz.cl0ckw0rk.ru
@@ -13306,6 +13481,7 @@
 0.0.0.0 wimqaz.gir1y5om.ru
 0.0.0.0 win.down.55kantu.com
 0.0.0.0 wind.0zvel.online
+0.0.0.0 wind.1ntrude7truha.ru
 0.0.0.0 wind.auricfluss.ru
 0.0.0.0 wind.aurorafels.ru
 0.0.0.0 wind.awreti-3-uette.ru
@@ -13345,7 +13521,6 @@
 0.0.0.0 wink3l.sprucewinkel.ru
 0.0.0.0 winkel.harewinkel.ru
 0.0.0.0 winkingbet189.com
-0.0.0.0 winnerwinner.lovestoblog.com
 0.0.0.0 winostan-tm.cc
 0.0.0.0 wire.v0rtapouch.ru
 0.0.0.0 wire8.mintburst.ru
@@ -13365,7 +13540,6 @@
 0.0.0.0 wkm0.ravelmint.ru
 0.0.0.0 wkt.softmint.ru
 0.0.0.0 wl.ha5r.ru
-0.0.0.0 wl.xabz.ru
 0.0.0.0 wlj.bg4o2.ru
 0.0.0.0 wlk.n5ol.ru
 0.0.0.0 wlvpw.wavec0met.ru
@@ -13449,6 +13623,7 @@
 0.0.0.0 wolke9.lindenarc.ru
 0.0.0.0 wolkr.c1earpeak.ru
 0.0.0.0 wolpek.pa1mi5trythat.ru
+0.0.0.0 wom3er.den1mp7imad.ru
 0.0.0.0 wood.sun0rbit.ru
 0.0.0.0 wood.wi-7-e.ru
 0.0.0.0 wood4.cloud5eed.ru
@@ -13459,7 +13634,8 @@
 0.0.0.0 work.nightm1nt.ru
 0.0.0.0 workaem.eth.limo
 0.0.0.0 workdesk.us.com
-0.0.0.0 worldsoft.shop
+0.0.0.0 wosdal.re5cuestup1d.ru
+0.0.0.0 wosfir.or8anop5crew.ru
 0.0.0.0 woslem.b2nchikwa5te.ru
 0.0.0.0 wp.8786.ru
 0.0.0.0 wp.ithc-4.ru
@@ -13470,6 +13646,7 @@
 0.0.0.0 wpy.bh-3-i-6.ru
 0.0.0.0 wq.cl1ffwood.ru
 0.0.0.0 wq.qh-1-a-5.ru
+0.0.0.0 wq.v-0-xenridge.ru
 0.0.0.0 wq0.o4-lq-8.ru
 0.0.0.0 wq0n.zm6392.online
 0.0.0.0 wq1.q7jt-0k.ru
@@ -13478,7 +13655,6 @@
 0.0.0.0 wq7.y3-68c.ru
 0.0.0.0 wq9.0o-js.ru
 0.0.0.0 wq9.7-j230.ru
-0.0.0.0 wq9.a-156.ru
 0.0.0.0 wq9.a-91n.ru
 0.0.0.0 wq9.i-88b.ru
 0.0.0.0 wq9.j-31u.ru
@@ -13486,7 +13662,6 @@
 0.0.0.0 wq9.m3j8e.ru
 0.0.0.0 wq9.mbs-3-a.ru
 0.0.0.0 wq9.nbpvt.ru
-0.0.0.0 wq9.o-096.ru
 0.0.0.0 wq9.oe-69.ru
 0.0.0.0 wq9.qe-10.ru
 0.0.0.0 wq9.w-33e.ru
@@ -13513,6 +13688,7 @@
 0.0.0.0 wumxib.me2n5precede.ru
 0.0.0.0 wux4d1.c-1-othwou-1-d.ru
 0.0.0.0 wuzgek.c1otheto0th.ru
+0.0.0.0 wuzhel.act0rpie7ce.ru
 0.0.0.0 wv1.nq-8-e-9.ru
 0.0.0.0 wvcqn.qu0rkline.ru
 0.0.0.0 wwe.kzg-w-4-y.ru
@@ -13521,7 +13697,6 @@
 0.0.0.0 wwtalk.icu
 0.0.0.0 www-martiansoftware-com.pages.dev
 0.0.0.0 www-mondiai-particuliers.com
-0.0.0.0 www2.0zz0.com
 0.0.0.0 www999999asgasg-1327129302.cos.ap-chengdu.myqcloud.com
 0.0.0.0 www999999safagqwhg-1327129302.cos.ap-chengdu.myqcloud.com
 0.0.0.0 wwwccompletesecurityllc90-117server1.s0t.ru
@@ -13550,7 +13725,6 @@
 0.0.0.0 wz.sa8yn.ru
 0.0.0.0 wz.t1va.ru
 0.0.0.0 wz.w135v.ru
-0.0.0.0 wz.xabz.ru
 0.0.0.0 wz0.7nf214.ru
 0.0.0.0 wz0.n-61-5.ru
 0.0.0.0 wz3.g6xt-5n.ru
@@ -13574,11 +13748,8 @@
 0.0.0.0 x.b10ou.ru
 0.0.0.0 x.b8c90.ru
 0.0.0.0 x.bowibo.ru
-0.0.0.0 x.bpva0.ru
 0.0.0.0 x.c34uu.ru
 0.0.0.0 x.d5y6x.ru
-0.0.0.0 x.e-783.ru
-0.0.0.0 x.e-815.ru
 0.0.0.0 x.favezi.ru
 0.0.0.0 x.g601c.ru
 0.0.0.0 x.gzva1.ru
@@ -13598,7 +13769,6 @@
 0.0.0.0 x.m9i5l.ru
 0.0.0.0 x.n-7sol.ru
 0.0.0.0 x.n-82o.ru
-0.0.0.0 x.o-279.ru
 0.0.0.0 x.o-61x.ru
 0.0.0.0 x.o-y3ii.ru
 0.0.0.0 x.onyxmorgen.ru
@@ -13606,7 +13776,6 @@
 0.0.0.0 x.p3t9b3.ru
 0.0.0.0 x.p51io.ru
 0.0.0.0 x.pi9yj.ru
-0.0.0.0 x.pymz.ru
 0.0.0.0 x.q-49o.ru
 0.0.0.0 x.r-54u.ru
 0.0.0.0 x.rwzqh.ru
@@ -13638,7 +13807,6 @@
 0.0.0.0 x0p4.5bq18.ru
 0.0.0.0 x0t5n.8786.online
 0.0.0.0 x0v4.sne-4-p.ru
-0.0.0.0 x1.cgty8.ru
 0.0.0.0 x1.embergarten.ru
 0.0.0.0 x1.lunarlicht.ru
 0.0.0.0 x1.m1dnightr0ad.ru
@@ -13713,7 +13881,6 @@
 0.0.0.0 x8.13-yz.ru
 0.0.0.0 x8.9b9-7.ru
 0.0.0.0 x8.i924ao.ru
-0.0.0.0 x8.z413y.ru
 0.0.0.0 x85.deepw0rd.ru
 0.0.0.0 x8lb.6-w0y.ru
 0.0.0.0 x8m.2s84d.ru
@@ -13732,6 +13899,7 @@
 0.0.0.0 x9.qylyxi.ru
 0.0.0.0 x9.wo-h3.ru
 0.0.0.0 x93.skyf1eld.ru
+0.0.0.0 x94.shadowm1st.ru
 0.0.0.0 x9dr.3v9-u.ru
 0.0.0.0 x9he.e-dx.online
 0.0.0.0 x9k4f2q.ru
@@ -13756,6 +13924,7 @@
 0.0.0.0 xc.ki8n.ru
 0.0.0.0 xc2i.gl1tchloam.ru
 0.0.0.0 xc6.s7li.ru
+0.0.0.0 xc7.deepf0rm.ru
 0.0.0.0 xcmt.brim-hopper.ru
 0.0.0.0 xd.bb3y5.ru
 0.0.0.0 xd.br1ckw0rd.ru
@@ -13796,6 +13965,7 @@
 0.0.0.0 xj.va4n.ru
 0.0.0.0 xj0.bb-3-y-5.ru
 0.0.0.0 xj8qd.g4eyhhar1eq.ru
+0.0.0.0 xjayj.cloudsh1ft.ru
 0.0.0.0 xjh.si9a.ru
 0.0.0.0 xk.phoenixbogen.ru
 0.0.0.0 xk.po5tr2diat.ru
@@ -13832,18 +14002,14 @@
 0.0.0.0 xq.2f8-2.ru
 0.0.0.0 xq.al1ah5natch.ru
 0.0.0.0 xq.ckyq9.ru
-0.0.0.0 xq.nybk.ru
 0.0.0.0 xq.y742au.ru
 0.0.0.0 xq0.1y-zt.ru
 0.0.0.0 xq0.9-f566.ru
-0.0.0.0 xq0.9t6p5.ru
-0.0.0.0 xq0.a-344.ru
 0.0.0.0 xq0.d-61o.ru
 0.0.0.0 xq0.dxp-5-y.ru
 0.0.0.0 xq0.e-99n.ru
 0.0.0.0 xq0.ee-17.ru
 0.0.0.0 xq0.f-07y.ru
-0.0.0.0 xq0.i-574.ru
 0.0.0.0 xq0.j-9fuw.ru
 0.0.0.0 xq0.jbffq.ru
 0.0.0.0 xq0.mu-16.ru
@@ -13883,9 +14049,9 @@
 0.0.0.0 xt.7wh2n.ru
 0.0.0.0 xt.bpva-0.ru
 0.0.0.0 xt.bupuva.ru
-0.0.0.0 xt.bvqu7.ru
 0.0.0.0 xt.c2x0b1.ru
 0.0.0.0 xt.faqyhi.ru
+0.0.0.0 xt.fl-0-wmortar.ru
 0.0.0.0 xt.g26ia.ru
 0.0.0.0 xt.haxyli.ru
 0.0.0.0 xt.j9i2c.ru
@@ -13911,7 +14077,6 @@
 0.0.0.0 xword1.duckdns.org
 0.0.0.0 xword3.duckdns.org
 0.0.0.0 xworm0106.duckdns.org
-0.0.0.0 xww.bucea.edu.cn
 0.0.0.0 xx.stormf0rm.ru
 0.0.0.0 xx6.ju8r.ru
 0.0.0.0 xx8.alphacinder.digital
@@ -13930,7 +14095,6 @@
 0.0.0.0 xzoeg.m1stzone.ru
 0.0.0.0 y.0y-pm.ru
 0.0.0.0 y.6-b408.ru
-0.0.0.0 y.a-144.ru
 0.0.0.0 y.a-90g.ru
 0.0.0.0 y.bl8205.online
 0.0.0.0 y.dk-2-o-5.ru
@@ -13939,7 +14103,6 @@
 0.0.0.0 y.h-76a.ru
 0.0.0.0 y.hwgmm.ru
 0.0.0.0 y.k0m7y.ru
-0.0.0.0 y.mijk.ru
 0.0.0.0 y.t-14o.ru
 0.0.0.0 y.ua-20.ru
 0.0.0.0 y.v-03e.ru
@@ -13977,12 +14140,10 @@
 0.0.0.0 y2.02lxy3.ru
 0.0.0.0 y2.b2-ra.ru
 0.0.0.0 y2.compo5tc0or.ru
-0.0.0.0 y2.jagc.ru
 0.0.0.0 y2.lb3091.online
 0.0.0.0 y27.po5m.ru
 0.0.0.0 y2aew.mossgate.ru
 0.0.0.0 y2sk.30u241207.online
-0.0.0.0 y3.pihp.ru
 0.0.0.0 y36.bluecl1ff.ru
 0.0.0.0 y3a.dnek6.ru
 0.0.0.0 y3a81.gyrodesk.ru
@@ -14046,6 +14207,7 @@
 0.0.0.0 y7n.i50m.ru
 0.0.0.0 y7n.m9i5l.ru
 0.0.0.0 y7p2.4a7vci9.ru
+0.0.0.0 y7z3h.c2dmiumgho5t.ru
 0.0.0.0 y8.fk-9-e-2.ru
 0.0.0.0 y8c.zephyrsteg.online
 0.0.0.0 y8ce.xf7-27.ru
@@ -14057,12 +14219,14 @@
 0.0.0.0 y8n.uht-3-o.ru
 0.0.0.0 y8t4s2w.ru
 0.0.0.0 y9.888-c.ru
+0.0.0.0 y9.windf0x.ru
 0.0.0.0 y936b.compo5tc0or.ru
 0.0.0.0 y9bm.139z.online
 0.0.0.0 y9bm.5-sy77.com
 0.0.0.0 y9lg.9-32p.ru
 0.0.0.0 y9p.coralglanz.ru
 0.0.0.0 y9t3.98g-bj.ru
+0.0.0.0 y9z9.t0ppleseed.ru
 0.0.0.0 y9zqm.m1stycliff.ru
 0.0.0.0 ya.g-vox.ru
 0.0.0.0 ya.kfko-3.ru
@@ -14124,10 +14288,12 @@
 0.0.0.0 yi.wsit-4.ru
 0.0.0.0 yichengkyp.top
 0.0.0.0 yj.cl0udfall.ru
+0.0.0.0 yju0.c2dmiumgho5t.ru
 0.0.0.0 yjxm4.ever-mint.ru
 0.0.0.0 yk.dk9a6.ru
 0.0.0.0 yk5.mi7x.online
 0.0.0.0 yk8q.6362o9.ru
+0.0.0.0 ykf.windsh1eld.ru
 0.0.0.0 ykh0q.plixhaven.ru
 0.0.0.0 ykize140825p.cfd
 0.0.0.0 ykpb.cherl1ber7y.ru
@@ -14163,6 +14329,7 @@
 0.0.0.0 youtubeultra.digital
 0.0.0.0 yoxel2.copperweide8.ru
 0.0.0.0 yp.amin0mer3ges.ru
+0.0.0.0 yp.frostsh1ft.ru
 0.0.0.0 yp.qrow6.ru
 0.0.0.0 ypa.clear5ky.ru
 0.0.0.0 ypedorado.com.br
@@ -14186,6 +14353,7 @@
 0.0.0.0 yuzidoky.com
 0.0.0.0 yvhi21.top
 0.0.0.0 yvrp.crank-muddle.ru
+0.0.0.0 yvt.n1ghtcrest.ru
 0.0.0.0 yw.qo1s.ru
 0.0.0.0 yw.vw0e1.ru
 0.0.0.0 yw0.mjg1.ru
@@ -14204,8 +14372,6 @@
 0.0.0.0 z.1397u6.ru
 0.0.0.0 z.566318z8.ru
 0.0.0.0 z.9bp6i.ru
-0.0.0.0 z.ctze0.ru
-0.0.0.0 z.e-410.ru
 0.0.0.0 z.gbta9.ru
 0.0.0.0 z.m1y8v.ru
 0.0.0.0 z.wi7id.ru
@@ -14271,8 +14437,8 @@
 0.0.0.0 z3.p-13a.ru
 0.0.0.0 z3.ri-04.ru
 0.0.0.0 z3.stonefog.ru
+0.0.0.0 z3.stormm1nd.ru
 0.0.0.0 z3.tqrjf.ru
-0.0.0.0 z3.u-251.ru
 0.0.0.0 z3.v-36u.ru
 0.0.0.0 z3.vzj-1-o.ru
 0.0.0.0 z3.w-48u.ru
@@ -14287,6 +14453,7 @@
 0.0.0.0 z4l.sh0rtwe5ter.ru
 0.0.0.0 z4qe.49o103159.online
 0.0.0.0 z5.ll-7-y-5.ru
+0.0.0.0 z5a.f2rewel1lever.ru
 0.0.0.0 z5k.bvum6.ru
 0.0.0.0 z5k.lq8e1.ru
 0.0.0.0 z5kb.0-9pr.ru
@@ -14359,6 +14526,7 @@
 0.0.0.0 zalypagylivera.nzalupadons1912.workers.dev
 0.0.0.0 zamilgroups.com
 0.0.0.0 zanfer.b2tnikpu1yar.ru
+0.0.0.0 zankor.re5cuestup1d.ru
 0.0.0.0 zanpai.me
 0.0.0.0 zantux-plan.duckdns.org
 0.0.0.0 zany.quartzace.ru
@@ -14368,7 +14536,6 @@
 0.0.0.0 zb.kpyw-8.ru
 0.0.0.0 zbas.wave5hift.ru
 0.0.0.0 zc.1wd2k.ru
-0.0.0.0 zc.lobd.ru
 0.0.0.0 zc.o-y3ii.ru
 0.0.0.0 zc.u11q.ru
 0.0.0.0 zc.x7f4g2.ru
@@ -14413,10 +14580,12 @@
 0.0.0.0 zerfa2.willowgase.ru
 0.0.0.0 zerocostclub.com
 0.0.0.0 zeva.pages.dev
+0.0.0.0 zf.g0rico1ormica.ru
 0.0.0.0 zf.n6ri.ru
 0.0.0.0 zf0.ey-l2q.ru
 0.0.0.0 zf42.s64lr5ok.com
 0.0.0.0 zgeg.forestcl0ud.ru
+0.0.0.0 zh.conf1dcorr0de.ru
 0.0.0.0 zh8qj.f1ercen1ivin.ru
 0.0.0.0 zhc.mt3o4.ru
 0.0.0.0 zhengxinpeixun.oss-cn-qingdao.aliyuncs.com
@@ -14425,16 +14594,18 @@
 0.0.0.0 zi.jcof9.ru
 0.0.0.0 zi.prli-1.ru
 0.0.0.0 zig.quench-orbit.ru
+0.0.0.0 zigzag.amberflint.ru
 0.0.0.0 zil.bashglider.ru
 0.0.0.0 zilpun.nightcl0ud.ru
+0.0.0.0 zim3up.l0ckmu7derer.ru
 0.0.0.0 zinrum.darkn0va.ru
 0.0.0.0 zipper.pics
 0.0.0.0 zit-5.ru
+0.0.0.0 zivmar.or8anop5crew.ru
 0.0.0.0 zj.1y-zt.ru
 0.0.0.0 zj.mt-3-o-4.ru
 0.0.0.0 zj1ij.sun5hine.ru
 0.0.0.0 zj3m0.nightl1ne.ru
-0.0.0.0 zk.cgty8.ru
 0.0.0.0 zk.h9u8w.ru
 0.0.0.0 zk.p51io.ru
 0.0.0.0 zk3.deepw0rd.ru
@@ -14499,7 +14670,6 @@
 0.0.0.0 zrq0.sun5park.ru
 0.0.0.0 zs.b1tcrush.ru
 0.0.0.0 zs.gj2i3.ru
-0.0.0.0 zs.kunb.ru
 0.0.0.0 zssxccxzzxx.lovestoblog.com
 0.0.0.0 zt.2f8-2.ru
 0.0.0.0 zt.5sv1g.ru
@@ -14508,7 +14678,6 @@
 0.0.0.0 zt.focove.ru
 0.0.0.0 zt.hyk5.ru
 0.0.0.0 zt.k6u7d.ru
-0.0.0.0 zt.kijx.ru
 0.0.0.0 zt.ni0uz.ru
 0.0.0.0 zt.r65ao.ru
 0.0.0.0 zt.y83v.ru
@@ -14518,6 +14687,8 @@
 0.0.0.0 zu.zv-1-a-0.ru
 0.0.0.0 zudm1q.c0lombve8et.ru
 0.0.0.0 zue.dnek6.ru
+0.0.0.0 zul4ep.bi1ingnause2.ru
+0.0.0.0 zulpex.ru5t1eview.ru
 0.0.0.0 zuv1ak.cl0udmist.ru
 0.0.0.0 zv.rv2o5.ru
 0.0.0.0 zv04.k5gc56.ru
@@ -14526,13 +14697,17 @@
 0.0.0.0 zwdq.sun5park.ru
 0.0.0.0 zwf.ze9y.ru
 0.0.0.0 zwo.snowcrest.ru
+0.0.0.0 zx.cloudf1eld.ru
 0.0.0.0 zx.pisora.ru
 0.0.0.0 zx2a.cdn-2-45.ru
+0.0.0.0 zx7d.t0ppleseed.ru
 0.0.0.0 zx8.a5pirbo0rda.ru
 0.0.0.0 zy.pgka-9.ru
 0.0.0.0 zy8.fe7a.ru
 0.0.0.0 zycdjz.com
+0.0.0.0 zyhunkenya.co.ke
 0.0.0.0 zyk.dzem4.ru
+0.0.0.0 zym.windf0x.ru
 0.0.0.0 zyz.q4zi.ru
 0.0.0.0 zz19.kpyw8.ru
 0.0.0.0 zz1a.3-2pd.ru

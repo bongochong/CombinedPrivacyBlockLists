@@ -1,4 +1,4 @@
-# Wed Dec 24 04:41:19 PM UTC 2025
+# Sat Dec 27 10:21:20 AM UTC 2025
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -9613,7 +9613,6 @@
 0.0.0.0 utarget.ru
 0.0.0.0 utctime.tiltingpoint.io
 0.0.0.0 utop.umengcloud.com
-0.0.0.0 uts-front.line-apps.com
 0.0.0.0 uttermosthobbies.com
 0.0.0.0 uw.evm1.stackadapt.com
 0.0.0.0 uw.srv.stackadapt.com

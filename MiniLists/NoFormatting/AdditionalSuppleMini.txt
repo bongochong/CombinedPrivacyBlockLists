@@ -5074,6 +5074,7 @@
 0.0.0.0 aem-collector-22ylcwym.kgslb.com
 0.0.0.0 aem-collector.daumkakao.io
 0.0.0.0 aem-kakao-collector.onkakao.net
+0.0.0.0 aepxlg.adobe.com
 0.0.0.0 aerewardsae.com
 0.0.0.0 aeros01.tk
 0.0.0.0 aeros02.tk

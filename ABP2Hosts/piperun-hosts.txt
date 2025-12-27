@@ -1,4 +1,4 @@
-# Wed Dec 24 04:42:48 PM UTC 2025
+# Sat Dec 27 10:22:48 AM UTC 2025
 # Piperun IPLoggerFilter Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 00689.net
 0.0.0.0 02ip.ru
@@ -109,7 +109,6 @@
 0.0.0.0 birsighof.ch
 0.0.0.0 bisabet.co
 0.0.0.0 bitly-bot.com
-0.0.0.0 biturl.io
 0.0.0.0 biuro-adwokackie.pl
 0.0.0.0 blaquewatchepk.com
 0.0.0.0 blasze.com
@@ -649,7 +648,6 @@
 0.0.0.0 shopable.press
 0.0.0.0 shopbravesedge.com
 0.0.0.0 shopempire.su
-0.0.0.0 shorte.st
 0.0.0.0 shrekis.life
 0.0.0.0 shvana.com
 0.0.0.0 signsandwondersonline.com
@@ -721,10 +719,8 @@
 0.0.0.0 tiffanycollins.club
 0.0.0.0 timberyart.gr
 0.0.0.0 timgorichanaz.com
-0.0.0.0 tiny.cc
 0.0.0.0 tipobet00938.com
 0.0.0.0 tizkarvpn76.biz
-0.0.0.0 tldr.ly
 0.0.0.0 tnfbc.cn
 0.0.0.0 toes.beauty
 0.0.0.0 tokdigitalexpress.com
