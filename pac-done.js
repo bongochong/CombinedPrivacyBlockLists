@@ -1,4 +1,4 @@
-// **** Wed Dec 24 04:46:21 PM UTC 2025
+// **** Sat Dec 27 10:30:54 AM UTC 2025
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.00689.net") ||
@@ -1426,7 +1426,6 @@ shExpMatch(host, "*.ads.listingware.com") ||
 shExpMatch(host, "*.ads.livenation.com") ||
 shExpMatch(host, "*.ads.livepromotools.com") ||
 shExpMatch(host, "*.ads.localyokelmedia.com") ||
-shExpMatch(host, "*.ads.lordlucky.com") ||
 shExpMatch(host, "*.ads.lovercash.com") ||
 shExpMatch(host, "*.ads.loveshack.org") ||
 shExpMatch(host, "*.ads.ma7.tv") ||
@@ -1603,6 +1602,7 @@ shExpMatch(host, "*.ads.sexspaces.com") ||
 shExpMatch(host, "*.ads.sfomedia.com") ||
 shExpMatch(host, "*.ads.shizmoo.com") ||
 shExpMatch(host, "*.ads.shopstyle.com") ||
+shExpMatch(host, "*.ads.shorte.st") ||
 shExpMatch(host, "*.ads.sift.co.uk") ||
 shExpMatch(host, "*.ads.silverdisc.co.uk") ||
 shExpMatch(host, "*.ads.sina.com") ||
@@ -1912,7 +1912,6 @@ shExpMatch(host, "*.adskape.ru") ||
 shExpMatch(host, "*.adskeeper.co.uk") ||
 shExpMatch(host, "*.adskeeper.com") ||
 shExpMatch(host, "*.adsklick.de") ||
-shExpMatch(host, "*.adskpak.com") ||
 shExpMatch(host, "*.adslog.apexinnotech.com") ||
 shExpMatch(host, "*.adslot.uc.cn") ||
 shExpMatch(host, "*.adsmarket.com") ||
@@ -3555,7 +3554,6 @@ shExpMatch(host, "*.bitcast-a.v1.iad1.bitgravity.com") ||
 shExpMatch(host, "*.bitly-bot.com") ||
 shExpMatch(host, "*.bitmedianetwork.com") ||
 shExpMatch(host, "*.bitterbear.com") ||
-shExpMatch(host, "*.biturl.io") ||
 shExpMatch(host, "*.biuro-adwokackie.pl") ||
 shExpMatch(host, "*.bizad.nikkeibp.co.jp") ||
 shExpMatch(host, "*.bizible.com") ||
@@ -11717,7 +11715,6 @@ shExpMatch(host, "*.shopbravesedge.com") ||
 shExpMatch(host, "*.shopbreakfast.com") ||
 shExpMatch(host, "*.shopempire.su") ||
 shExpMatch(host, "*.shoppingads.com") ||
-shExpMatch(host, "*.shorte.st") ||
 shExpMatch(host, "*.show.onenetworkdirect.net") ||
 shExpMatch(host, "*.showsteel.com") ||
 shExpMatch(host, "*.shredform.com") ||
@@ -13061,7 +13058,6 @@ shExpMatch(host, "*.timeterritory.com") ||
 shExpMatch(host, "*.timetwig.com") ||
 shExpMatch(host, "*.timgorichanaz.com") ||
 shExpMatch(host, "*.tinbuadserv.com") ||
-shExpMatch(host, "*.tiny.cc") ||
 shExpMatch(host, "*.tinybar.com") ||
 shExpMatch(host, "*.tinybluewhale.com") ||
 shExpMatch(host, "*.tinyswans.com") ||
@@ -13092,7 +13088,6 @@ shExpMatch(host, "*.tkportal.aotter.net") ||
 shExpMatch(host, "*.tkqlhce.com") ||
 shExpMatch(host, "*.tkrecorder.aotter.net") ||
 shExpMatch(host, "*.tktracker.aotter.net") ||
-shExpMatch(host, "*.tldr.ly") ||
 shExpMatch(host, "*.tls.dxsvr.com") ||
 shExpMatch(host, "*.tls.telemetry.swe.quicinc.com") ||
 shExpMatch(host, "*.tlvmedia.com") ||
@@ -13849,7 +13844,6 @@ shExpMatch(host, "*.utctime.tiltingpoint.io") ||
 shExpMatch(host, "*.utils.mediageneral.net") ||
 shExpMatch(host, "*.utl-1.com") ||
 shExpMatch(host, "*.utrack.hexun.com") ||
-shExpMatch(host, "*.uts-front.line-apps.com") ||
 shExpMatch(host, "*.uttermosthobbies.com") ||
 shExpMatch(host, "*.uu.domainforlite.com") ||
 shExpMatch(host, "*.uu8002.club") ||
@@ -16069,7 +16063,6 @@ shExpMatch(host, "ads.listingware.com") ||
 shExpMatch(host, "ads.livenation.com") ||
 shExpMatch(host, "ads.livepromotools.com") ||
 shExpMatch(host, "ads.localyokelmedia.com") ||
-shExpMatch(host, "ads.lordlucky.com") ||
 shExpMatch(host, "ads.lovercash.com") ||
 shExpMatch(host, "ads.loveshack.org") ||
 shExpMatch(host, "ads.ma7.tv") ||
@@ -16246,6 +16239,7 @@ shExpMatch(host, "ads.sexspaces.com") ||
 shExpMatch(host, "ads.sfomedia.com") ||
 shExpMatch(host, "ads.shizmoo.com") ||
 shExpMatch(host, "ads.shopstyle.com") ||
+shExpMatch(host, "ads.shorte.st") ||
 shExpMatch(host, "ads.sift.co.uk") ||
 shExpMatch(host, "ads.silverdisc.co.uk") ||
 shExpMatch(host, "ads.sina.com") ||
@@ -16555,7 +16549,6 @@ shExpMatch(host, "adskape.ru") ||
 shExpMatch(host, "adskeeper.co.uk") ||
 shExpMatch(host, "adskeeper.com") ||
 shExpMatch(host, "adsklick.de") ||
-shExpMatch(host, "adskpak.com") ||
 shExpMatch(host, "adslog.apexinnotech.com") ||
 shExpMatch(host, "adslot.uc.cn") ||
 shExpMatch(host, "adsmarket.com") ||
@@ -18198,7 +18191,6 @@ shExpMatch(host, "bitcast-a.v1.iad1.bitgravity.com") ||
 shExpMatch(host, "bitly-bot.com") ||
 shExpMatch(host, "bitmedianetwork.com") ||
 shExpMatch(host, "bitterbear.com") ||
-shExpMatch(host, "biturl.io") ||
 shExpMatch(host, "biuro-adwokackie.pl") ||
 shExpMatch(host, "bizad.nikkeibp.co.jp") ||
 shExpMatch(host, "bizible.com") ||
@@ -26360,7 +26352,6 @@ shExpMatch(host, "shopbravesedge.com") ||
 shExpMatch(host, "shopbreakfast.com") ||
 shExpMatch(host, "shopempire.su") ||
 shExpMatch(host, "shoppingads.com") ||
-shExpMatch(host, "shorte.st") ||
 shExpMatch(host, "show.onenetworkdirect.net") ||
 shExpMatch(host, "showsteel.com") ||
 shExpMatch(host, "shredform.com") ||
@@ -27704,7 +27695,6 @@ shExpMatch(host, "timeterritory.com") ||
 shExpMatch(host, "timetwig.com") ||
 shExpMatch(host, "timgorichanaz.com") ||
 shExpMatch(host, "tinbuadserv.com") ||
-shExpMatch(host, "tiny.cc") ||
 shExpMatch(host, "tinybar.com") ||
 shExpMatch(host, "tinybluewhale.com") ||
 shExpMatch(host, "tinyswans.com") ||
@@ -27735,7 +27725,6 @@ shExpMatch(host, "tkportal.aotter.net") ||
 shExpMatch(host, "tkqlhce.com") ||
 shExpMatch(host, "tkrecorder.aotter.net") ||
 shExpMatch(host, "tktracker.aotter.net") ||
-shExpMatch(host, "tldr.ly") ||
 shExpMatch(host, "tls.dxsvr.com") ||
 shExpMatch(host, "tls.telemetry.swe.quicinc.com") ||
 shExpMatch(host, "tlvmedia.com") ||
@@ -28492,7 +28481,6 @@ shExpMatch(host, "utctime.tiltingpoint.io") ||
 shExpMatch(host, "utils.mediageneral.net") ||
 shExpMatch(host, "utl-1.com") ||
 shExpMatch(host, "utrack.hexun.com") ||
-shExpMatch(host, "uts-front.line-apps.com") ||
 shExpMatch(host, "uttermosthobbies.com") ||
 shExpMatch(host, "uu.domainforlite.com") ||
 shExpMatch(host, "uu8002.club") ||

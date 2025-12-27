@@ -1,4 +1,4 @@
-// **** Wed Dec 24 04:47:26 PM UTC 2025
+// **** Sat Dec 27 10:32:07 AM UTC 2025
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.023hysj.com") ||
@@ -968,7 +968,6 @@ shExpMatch(host, "*.ads.linuxfoundation.org") ||
 shExpMatch(host, "*.ads.linuxjournal.com") ||
 shExpMatch(host, "*.ads.linuxsecurity.com") ||
 shExpMatch(host, "*.ads.livenation.com") ||
-shExpMatch(host, "*.ads.lordlucky.com") ||
 shExpMatch(host, "*.ads.ma7.tv") ||
 shExpMatch(host, "*.ads.mail.bg") ||
 shExpMatch(host, "*.ads.mariuana.it") ||
@@ -1298,7 +1297,6 @@ shExpMatch(host, "*.adskape.ru") ||
 shExpMatch(host, "*.adskeeper.co.uk") ||
 shExpMatch(host, "*.adskeeper.com") ||
 shExpMatch(host, "*.adsklick.de") ||
-shExpMatch(host, "*.adskpak.com") ||
 shExpMatch(host, "*.adslog.apexinnotech.com") ||
 shExpMatch(host, "*.adslot.uc.cn") ||
 shExpMatch(host, "*.adsmarket.com") ||
@@ -9703,7 +9701,6 @@ shExpMatch(host, "*.utarget.ru") ||
 shExpMatch(host, "*.utctime.tiltingpoint.io") ||
 shExpMatch(host, "*.utils.mediageneral.net") ||
 shExpMatch(host, "*.utl-1.com") ||
-shExpMatch(host, "*.uts-front.line-apps.com") ||
 shExpMatch(host, "*.uttermosthobbies.com") ||
 shExpMatch(host, "*.uu.domainforlite.com") ||
 shExpMatch(host, "*.v-collector.dp.aws.charter.com") ||
@@ -11174,7 +11171,6 @@ shExpMatch(host, "ads.linuxfoundation.org") ||
 shExpMatch(host, "ads.linuxjournal.com") ||
 shExpMatch(host, "ads.linuxsecurity.com") ||
 shExpMatch(host, "ads.livenation.com") ||
-shExpMatch(host, "ads.lordlucky.com") ||
 shExpMatch(host, "ads.ma7.tv") ||
 shExpMatch(host, "ads.mail.bg") ||
 shExpMatch(host, "ads.mariuana.it") ||
@@ -11504,7 +11500,6 @@ shExpMatch(host, "adskape.ru") ||
 shExpMatch(host, "adskeeper.co.uk") ||
 shExpMatch(host, "adskeeper.com") ||
 shExpMatch(host, "adsklick.de") ||
-shExpMatch(host, "adskpak.com") ||
 shExpMatch(host, "adslog.apexinnotech.com") ||
 shExpMatch(host, "adslot.uc.cn") ||
 shExpMatch(host, "adsmarket.com") ||
@@ -19909,7 +19904,6 @@ shExpMatch(host, "utarget.ru") ||
 shExpMatch(host, "utctime.tiltingpoint.io") ||
 shExpMatch(host, "utils.mediageneral.net") ||
 shExpMatch(host, "utl-1.com") ||
-shExpMatch(host, "uts-front.line-apps.com") ||
 shExpMatch(host, "uttermosthobbies.com") ||
 shExpMatch(host, "uu.domainforlite.com") ||
 shExpMatch(host, "v-collector.dp.aws.charter.com") ||
