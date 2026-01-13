@@ -1,4 +1,4 @@
-# Sat Dec 27 10:21:20 AM UTC 2025
+# Tue Jan 13 04:56:50 AM UTC 2026
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -430,7 +430,6 @@
 0.0.0.0 ad.apsalar.com
 0.0.0.0 ad.atdmt.com
 0.0.0.0 ad.auditude.com
-0.0.0.0 ad.bandlab.io
 0.0.0.0 ad.buzzvil.com
 0.0.0.0 ad.cauly.co.kr
 0.0.0.0 ad.crwdcntrl.net
@@ -997,6 +996,7 @@
 0.0.0.0 adzmobi.com
 0.0.0.0 adztec.com
 0.0.0.0 aerserv.com
+0.0.0.0 aet.spotify.com
 0.0.0.0 aetv.tt.omtrdc.net
 0.0.0.0 aexception.bugly.qq.com
 0.0.0.0 af.monetate.net
@@ -1134,8 +1134,10 @@
 0.0.0.0 amplify-imp.outbrain.com
 0.0.0.0 amplify.outbrain.com
 0.0.0.0 amplifypixel.outbrain.com
+0.0.0.0 amplilab.thepure.app
 0.0.0.0 amplitude.com
 0.0.0.0 amplitude.life360.com
+0.0.0.0 amplitude.thepure.app
 0.0.0.0 ampmetrics.techcrunch.com
 0.0.0.0 amprtc.media.net
 0.0.0.0 amptrack-dailymail-co-uk.cdn.ampproject.org
@@ -2315,6 +2317,7 @@
 0.0.0.0 bs.scorecardresearch.com
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 bstgms4y.com
+0.0.0.0 bstream.kzhi.tech
 0.0.0.0 btloader.com
 0.0.0.0 btlr-ecs-ap-southeast-1.sharethrough.com
 0.0.0.0 btlr-ecs-us-west-1.sharethrough.com
@@ -2866,6 +2869,7 @@
 0.0.0.0 clicktrack.pubmatic.com
 0.0.0.0 client-analytics.braintreegateway.com
 0.0.0.0 client-events-ingress.bookbub.com
+0.0.0.0 client-events.gurushots.com
 0.0.0.0 client-log.box.com
 0.0.0.0 client-telemetry.hingeprod.net
 0.0.0.0 client.midosoo.com
@@ -3747,6 +3751,7 @@
 0.0.0.0 dt.beyla.site
 0.0.0.0 dtcollect.newsbang.com
 0.0.0.0 dts-5-split-vohnu.dts.innovid.com.akadns.net
+0.0.0.0 dts-log.anker.com
 0.0.0.0 dts.crispadvertising.com
 0.0.0.0 dts.innovid.com
 0.0.0.0 dts.innovid.com.akadns.net
@@ -3986,6 +3991,7 @@
 0.0.0.0 evasivejar.com
 0.0.0.0 evbk.gamooga.com
 0.0.0.0 evening-badlands-6215.herokuapp.com
+0.0.0.0 event-api-cs.stardust-tv.com
 0.0.0.0 event-collector.moviesanywhere.com
 0.0.0.0 event-dot-learning-piano.appspot.com
 0.0.0.0 event-portal.dailyinnovation.biz
@@ -3994,6 +4000,7 @@
 0.0.0.0 event-us.ssp.taxssp.com
 0.0.0.0 event.aimailhome.io
 0.0.0.0 event.allnews.uodoo.com
+0.0.0.0 event.bblmw.com
 0.0.0.0 event.bigkeyboardeasyphone.com
 0.0.0.0 event.collector.scopely.io
 0.0.0.0 event.flareflow.tv
@@ -4711,6 +4718,7 @@
 0.0.0.0 havasedge.com
 0.0.0.0 hb-af-us-central1.outfit7.com
 0.0.0.0 hb-failover-stpceyl2ua-uw.a.run.app
+0.0.0.0 hb-mob2.optiword.com
 0.0.0.0 hb-t5u9.raps.ravm.tv
 0.0.0.0 hb.adscale.de
 0.0.0.0 hb.aralego.com
@@ -5480,6 +5488,7 @@
 0.0.0.0 lives.l.qq.com
 0.0.0.0 livingsleet.com
 0.0.0.0 lizardslaugh.com
+0.0.0.0 lklfwu-inapps.appsflyersdk.com
 0.0.0.0 lm.serving-sys.com
 0.0.0.0 load-apne1.exelator.com
 0.0.0.0 load.exelator.com
@@ -5540,6 +5549,7 @@
 0.0.0.0 log.easy39.com
 0.0.0.0 log.espn.com
 0.0.0.0 log.estand.jp
+0.0.0.0 log.eufylife.com
 0.0.0.0 log.game.qcplay.com
 0.0.0.0 log.geetest.com
 0.0.0.0 log.go.com
@@ -5548,6 +5558,7 @@
 0.0.0.0 log.heartratepros.com
 0.0.0.0 log.hiapkdownload.com
 0.0.0.0 log.hitsteps.com
+0.0.0.0 log.hotweathers.live
 0.0.0.0 log.ifood.tv
 0.0.0.0 log.intellimize.co
 0.0.0.0 log.isnssdk.com
@@ -5619,6 +5630,7 @@
 0.0.0.0 logger.cloudmobi.net
 0.0.0.0 logger.foxitcloud.com
 0.0.0.0 logger.growstarry.com
+0.0.0.0 logger.radiatetheworld.com
 0.0.0.0 logging.admicro.vn
 0.0.0.0 logging.api.intuit.com
 0.0.0.0 logging.carambo.la
@@ -5870,6 +5882,7 @@
 0.0.0.0 measurecaption.com
 0.0.0.0 measurementapi.com
 0.0.0.0 meatydime.com
+0.0.0.0 mebed.dm-event.net
 0.0.0.0 med-api.admost.com
 0.0.0.0 med.heyzap.com
 0.0.0.0 meddleplant.com
@@ -6028,6 +6041,7 @@
 0.0.0.0 mob2.healthtrackergroup.com
 0.0.0.0 mob2.musicgostudio.com
 0.0.0.0 mob2.mymusic2025.com
+0.0.0.0 mob2.welltastic-app.com
 0.0.0.0 moba8.net
 0.0.0.0 mobad.ijinshan.com
 0.0.0.0 mobads.baidu.com
@@ -6393,6 +6407,7 @@
 0.0.0.0 offers.cdn.natpal.com
 0.0.0.0 offerwall-adnative.com
 0.0.0.0 offerwall.yandex.net
+0.0.0.0 ogads-pa.clients6.google.com
 0.0.0.0 okloib88.com
 0.0.0.0 olc.yodo1api.com
 0.0.0.0 oldevent.togothermany.com
@@ -6661,6 +6676,7 @@
 0.0.0.0 pepsico.demdex.net
 0.0.0.0 perceivequarter.com
 0.0.0.0 perf-events.cloud.unity3d.com
+0.0.0.0 perf.bblmw.com
 0.0.0.0 perf.cdnads.com
 0.0.0.0 perf.mmstat.com
 0.0.0.0 perf.teads.tv.edgekey.net
@@ -6836,6 +6852,7 @@
 0.0.0.0 playhaven.com
 0.0.0.0 playtest-api.topaz-analytics.com
 0.0.0.0 playtime.tubemogul.com
+0.0.0.0 playwire.com
 0.0.0.0 plbslog.umeng.com
 0.0.0.0 pleasantpump.com
 0.0.0.0 plotparent.com
@@ -7900,6 +7917,7 @@
 0.0.0.0 sensors.snappea.com
 0.0.0.0 sensors.snaptube.app
 0.0.0.0 sensors.yodo1api.com
+0.0.0.0 sensorsdata-datasink.stardust-tv.com
 0.0.0.0 sensorsmile.com
 0.0.0.0 sentinelp.com
 0.0.0.0 sentry.eks.hoyoverse.com
@@ -8532,6 +8550,7 @@
 0.0.0.0 statistical-report.djiservice.org
 0.0.0.0 stats-5-split-vohnu.s.innovid.com.akadns.net
 0.0.0.0 stats-a.maxthon.com
+0.0.0.0 stats-api.skylum.com
 0.0.0.0 stats-dev.brid.tv
 0.0.0.0 stats-proto.pandora.com
 0.0.0.0 stats-sg.ganymede.eu
@@ -8966,6 +8985,7 @@
 0.0.0.0 tc.mnbvcxzq.com
 0.0.0.0 tc.qzwxrtyk.com
 0.0.0.0 tc.vbnmhjlp.com
+0.0.0.0 tc.weszxdrf.com
 0.0.0.0 tccbanner.com
 0.0.0.0 tcheck.outbrainimg.com
 0.0.0.0 tcp.push.mob.com
@@ -9001,6 +9021,7 @@
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry.canva.com
 0.0.0.0 telemetry.codefusion.technology
+0.0.0.0 telemetry.doxo.com
 0.0.0.0 telemetry.malwarebytes.com
 0.0.0.0 telemetry.navigatorapp.net
 0.0.0.0 telemetry.sdk.inmobi.cn
@@ -9180,6 +9201,7 @@
 0.0.0.0 track.afcpatrk.com
 0.0.0.0 track.aieic.com
 0.0.0.0 track.aniview.com
+0.0.0.0 track.applicaster.com
 0.0.0.0 track.appsflyer.com
 0.0.0.0 track.atom-data.io
 0.0.0.0 track.celtra.com
@@ -9510,6 +9532,7 @@
 0.0.0.0 unwrittenspot.com
 0.0.0.0 uop.umeng.com
 0.0.0.0 up-hl.3g.qq.com
+0.0.0.0 up.ousabq.tech
 0.0.0.0 upalytics.com
 0.0.0.0 update.3lift.com
 0.0.0.0 update.adsrvr.org

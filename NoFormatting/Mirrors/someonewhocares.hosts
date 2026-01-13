@@ -3,12 +3,14 @@
 # You are free to copy and distribute this file for non-commercial uses,
 # as long the original URL and attribution is included. 
 # 
+# This hosts file is proudly sponsored by adguard.com. 
+#
 # See below for acknowledgements.
 
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 25 Dec 2025 at 22:43:59 GMT
+# Last updated: Mon, 12 Jan 2026 at 23:06:02 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1579,6 +1581,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 bagagescabine.fr
 0.0.0.0 bannerbuzz.fr
 0.0.0.0 bannersnack.fr
+0.0.0.0 baselabo.heteml.net
 0.0.0.0 baxtel.fr
 0.0.0.0 bayyinah.fr
 0.0.0.0 bbcode.fr
@@ -1810,6 +1813,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 cuder.fr
 0.0.0.0 cullligan.fr
 0.0.0.0 culturalfoundation.fr
+0.0.0.0 customsoftwaredeveloper.com.au
 0.0.0.0 cutesaucepuppy.com
 0.0.0.0 cyberpanel.fr
 0.0.0.0 cyfe.fr
@@ -1889,6 +1893,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 emplpoi-store.fr
 0.0.0.0 en.btc-trader-app.club
 0.0.0.0 en.likefever.org			# Facebook trojan
+0.0.0.0 enablement.joethecpa.info
 0.0.0.0 enalytics.fr
 0.0.0.0 endicia.fr
 0.0.0.0 englishcentral.fr
@@ -2358,6 +2363,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 mappyt.fr
 0.0.0.0 marathondulacduder.fr
 0.0.0.0 marie-gerardmer.fr
+0.0.0.0 marigo.redbacksburger.info
 0.0.0.0 marinescence.fr
 0.0.0.0 marketgameland.com
 0.0.0.0 massage-v-almaty.kz
@@ -2523,6 +2529,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 ofdb.fr
 0.0.0.0 office.officenet.co.kr
 0.0.0.0 ofracosmetics.fr
+0.0.0.0 ois.is
 0.0.0.0 oix.com
 0.0.0.0 oix.net
 0.0.0.0 oj.likewut.net
@@ -2573,7 +2580,9 @@ ff02::3		ip6-allhosts
 0.0.0.0 pamini.fr
 0.0.0.0 panimi.fr
 0.0.0.0 pantaya.fr
+0.0.0.0 paradise.homemortgageblog.info
 0.0.0.0 paris-banlieue-meetinggame.fr
+0.0.0.0 passport.acla.org.cn
 0.0.0.0 passportindex.fr
 0.0.0.0 payments-details.com
 0.0.0.0 payplintelverify3.site
@@ -2814,6 +2823,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 smile-angel.com
 0.0.0.0 smosh.fr
 0.0.0.0 snscf.fr
+0.0.0.0 sociagil.fr
 0.0.0.0 societegernerale.fr
 0.0.0.0 societergenerale.fr
 0.0.0.0 sofaglobal.best
@@ -2937,6 +2947,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 trovi.com
 0.0.0.0 truecrypt.fr
 0.0.0.0 trusturl.top
+0.0.0.0 tubero.ellystegge.info
 0.0.0.0 tubr8.fr
 0.0.0.0 tuniaf.com
 0.0.0.0 turfomani.fr
@@ -2970,6 +2981,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 updateauto.preparevideosafesystem4unow.space
 0.0.0.0 uqz.com
 0.0.0.0 urbact.fr
+0.0.0.0 url3781.host.inreception.com
 0.0.0.0 url9810.tokocrypto.com
 0.0.0.0 urssff.fr
 0.0.0.0 urzl.fr
@@ -3090,6 +3102,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.blender3d.fr
 0.0.0.0 www.bumerang.cc
 0.0.0.0 www.cablyshaw.com
+0.0.0.0 www.calnanflack.com
 0.0.0.0 www.cambonanza.com
 0.0.0.0 www.canadianshawid.com
 0.0.0.0 www.caramail.com
@@ -3125,6 +3138,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.hakerzy.net
 0.0.0.0 www.handbrake.es
 0.0.0.0 www.hashing.win
+0.0.0.0 www.hiewa.com.my
 0.0.0.0 www.icecars.com
 0.0.0.0 www.infopaypal.com
 0.0.0.0 www.informereng.com
@@ -3225,6 +3239,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 youcanoptout.com
 0.0.0.0 youmakeashion.fr
 0.0.0.0 yourdailytrailer.yournewtab.com
+0.0.0.0 yourofficialsurveysplace.store
 0.0.0.0 youvisit.fr
 0.0.0.0 yrwap.cn
 0.0.0.0 yummie.fr
@@ -8692,6 +8707,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 pro.letv.com
 0.0.0.0 probusinesshub.com
 0.0.0.0 prod-a.applovin.com
+0.0.0.0 prodentim101.com
 0.0.0.0 productresearchpanel.com
 0.0.0.0 producttestpanel.com
 0.0.0.0 profile.uproxx.com
