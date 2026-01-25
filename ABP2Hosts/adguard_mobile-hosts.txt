@@ -1,4 +1,4 @@
-# Tue Jan 13 04:56:50 AM UTC 2026
+# Sun Jan 25 05:53:09 AM UTC 2026
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -1265,6 +1265,7 @@
 0.0.0.0 analytics.twitter.com
 0.0.0.0 analytics.us.tiktok.com
 0.0.0.0 analytics.vendemore.com
+0.0.0.0 analytics.wachanga.app
 0.0.0.0 analytics.webads.eu
 0.0.0.0 analytics.wildlifestudios.com
 0.0.0.0 analytics.wildtangent.com
@@ -1336,6 +1337,7 @@
 0.0.0.0 api-analytics.prod.birdapp.com
 0.0.0.0 api-ext.mediav.com
 0.0.0.0 api-fp-retry-bj.fengkongcloud.com
+0.0.0.0 api-fp-retry-sa.fengkongcloud.com
 0.0.0.0 api-gateway.us-west-2.elasticbeanstalk.com
 0.0.0.0 api-gdpr.voodoo-tech.io
 0.0.0.0 api-h.outgrow.co
@@ -1720,6 +1722,7 @@
 0.0.0.0 app.redretarget.com
 0.0.0.0 app.roximity.com
 0.0.0.0 app.segment.com
+0.0.0.0 app.siteperformancetest.net
 0.0.0.0 app.ssp.yahoo.com
 0.0.0.0 app.us.adjust.com
 0.0.0.0 app.wootric.com
@@ -1985,6 +1988,7 @@
 0.0.0.0 axiomaticalley.com
 0.0.0.0 axiomaticanger.com
 0.0.0.0 axion.iad.appboy.com
+0.0.0.0 axon.ai
 0.0.0.0 axonix.com
 0.0.0.0 azuremystique.com
 0.0.0.0 b-code.liadm.com
@@ -2034,6 +2038,7 @@
 0.0.0.0 bananabarrel.com
 0.0.0.0 bandborder.com
 0.0.0.0 banner.appsflyer.com
+0.0.0.0 banner.bet365partners.com
 0.0.0.0 banner.congstar.de
 0.0.0.0 banner.dspcdn.com
 0.0.0.0 banner.hpmdnetwork.ru
@@ -2847,6 +2852,7 @@
 0.0.0.0 clammychicken.com
 0.0.0.0 clammytree.com
 0.0.0.0 clarifyverse.com
+0.0.0.0 clarity.ms
 0.0.0.0 clean.adups.com
 0.0.0.0 cleanhaircut.com
 0.0.0.0 clearbit.com
@@ -2871,6 +2877,7 @@
 0.0.0.0 client-events-ingress.bookbub.com
 0.0.0.0 client-events.gurushots.com
 0.0.0.0 client-log.box.com
+0.0.0.0 client-telemetry-preauth.hingeprod.net
 0.0.0.0 client-telemetry.hingeprod.net
 0.0.0.0 client.midosoo.com
 0.0.0.0 client.rave-api.com
@@ -3431,6 +3438,7 @@
 0.0.0.0 data-detect.nie.easebar.com
 0.0.0.0 data-id.ads.oppomobile.com
 0.0.0.0 data-optout-service.uca.cloud.unity3d.com
+0.0.0.0 data-p.gryphline.com
 0.0.0.0 data.ad-score.com
 0.0.0.0 data.ads.oppomobile.com
 0.0.0.0 data.adsrvr.org
@@ -3905,6 +3913,7 @@
 0.0.0.0 engage3515gvrnr.deltadna.net
 0.0.0.0 engage5081wrdch.deltadna.net
 0.0.0.0 engage8829thscr.deltadna.net
+0.0.0.0 engagelab.cc
 0.0.0.0 engagement-collector.mobify.net
 0.0.0.0 engagement.inmarket.com
 0.0.0.0 engageya.com
@@ -3994,6 +4003,8 @@
 0.0.0.0 event-api-cs.stardust-tv.com
 0.0.0.0 event-collector.moviesanywhere.com
 0.0.0.0 event-dot-learning-piano.appspot.com
+0.0.0.0 event-log-api-data-platform-data-lake-prod.gryphline.com
+0.0.0.0 event-log-api-ipv6.gryphline.com
 0.0.0.0 event-portal.dailyinnovation.biz
 0.0.0.0 event-search.jorte.com
 0.0.0.0 event-staging.inner-active.mobi
@@ -4015,6 +4026,7 @@
 0.0.0.0 eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com
 0.0.0.0 eventexistence.com
 0.0.0.0 eventgw.twilio.com
+0.0.0.0 eventlog.gryphline.com
 0.0.0.0 eventlog.outbrain.com
 0.0.0.0 events-api.lyrebirdstudio.net
 0.0.0.0 events-api.otherlevels.com
@@ -4023,6 +4035,7 @@
 0.0.0.0 events-collector-api.viacom.tech
 0.0.0.0 events-collector.spot.im
 0.0.0.0 events-stream-svc.cordial.com
+0.0.0.0 events-stream-svc.cordial.io
 0.0.0.0 events-stream-svc.usw2.cordial.com
 0.0.0.0 events-us-east-1.ipredictive.com
 0.0.0.0 events-us-west-2.ipredictive.com
@@ -4047,6 +4060,7 @@
 0.0.0.0 events.foreseeresults.com
 0.0.0.0 events.fubo.tv
 0.0.0.0 events.funnelish.com
+0.0.0.0 events.gonative.io
 0.0.0.0 events.iap.unity3d.com
 0.0.0.0 events.ifunny.co
 0.0.0.0 events.influencemobile.com
@@ -4214,6 +4228,7 @@
 0.0.0.0 financialtimesdfp415669142494.s.moatpixel.com
 0.0.0.0 fineboost-loghub.ap-southeast-1.log.aliyuncs.com
 0.0.0.0 finestpiece.com
+0.0.0.0 fingerhi.net
 0.0.0.0 finitecube.com
 0.0.0.0 firecatfilms.com
 0.0.0.0 fireworkcamp.com
@@ -4304,6 +4319,7 @@
 0.0.0.0 foxnews.hb.omtrdc.net
 0.0.0.0 foxnews.tt.omtrdc.net
 0.0.0.0 fp-it.fengkongcloud.com
+0.0.0.0 fp-sa-it.fengkongcloud.com
 0.0.0.0 fp3.ads.stickyadstv.com.akadns.net
 0.0.0.0 fr-gmtdmp.mookie1.com
 0.0.0.0 fr.eu.criteo.com
@@ -4522,6 +4538,7 @@
 0.0.0.0 glitter.services.disqus.com
 0.0.0.0 glitteringbrook.com
 0.0.0.0 glizauvo.net
+0.0.0.0 global-sis.engagelab.com
 0.0.0.0 global-staticplat.cdn.bcebos.com
 0.0.0.0 global-wildcard.insightexpressai.com.edgekey.net
 0.0.0.0 global.adserver.yahoo.com
@@ -5210,6 +5227,7 @@
 0.0.0.0 iqzone.com
 0.0.0.0 ir-ing-district.clicktale.net
 0.0.0.0 ir-na.amazon-adsystem.com
+0.0.0.0 ir-sdk.guardease.com
 0.0.0.0 ir.surveywall-api.survata.com
 0.0.0.0 iridescentdusk.com
 0.0.0.0 iridescentvista.com
@@ -5543,6 +5561,7 @@
 0.0.0.0 log.cleandesigner.live
 0.0.0.0 log.cleanertoolboxonline.live
 0.0.0.0 log.cleansweepplu.com
+0.0.0.0 log.clearcleanerpro.live
 0.0.0.0 log.documentmanagerpdfdocxlssale.live
 0.0.0.0 log.down61.com
 0.0.0.0 log.dramaboxdb.com
@@ -5740,6 +5759,7 @@
 0.0.0.0 ma479-r.analytics.edgekey.net
 0.0.0.0 ma562-r.analytics.edgekey.net
 0.0.0.0 ma788-r.analytics.edgekey.net
+0.0.0.0 mab-mob2.websearchapp.com
 0.0.0.0 mab.chartbeat.com
 0.0.0.0 mabping.chartbeat.net
 0.0.0.0 macromill.com
@@ -5837,6 +5857,7 @@
 0.0.0.0 mathtag.com
 0.0.0.0 mathtag.com.edgekey.net
 0.0.0.0 maticooads.com
+0.0.0.0 matomo.podslink.net
 0.0.0.0 matomy.com
 0.0.0.0 matrix.dailyinnovation.biz
 0.0.0.0 maven.blueconic.net
@@ -5911,6 +5932,7 @@
 0.0.0.0 mediation-tracking.prd.mz.internal.unity3d.com
 0.0.0.0 mediation.adnxs.com
 0.0.0.0 mediation.fyber.com
+0.0.0.0 mediation.goog
 0.0.0.0 mediation.mwmadnetworks.com
 0.0.0.0 mediation.unity3d.com
 0.0.0.0 mediav.com
@@ -6235,6 +6257,7 @@
 0.0.0.0 narwhal.mobidia.com
 0.0.0.0 nasimobi.com
 0.0.0.0 nation.marketo.com
+0.0.0.0 native-log-collect.gryphline.com
 0.0.0.0 native-set-tags.otherlevels.com
 0.0.0.0 native.cli.bz
 0.0.0.0 native.sharethrough.com
@@ -6291,7 +6314,10 @@
 0.0.0.0 newad.ifeng.com
 0.0.0.0 newfeatureview.perfectionholic.com
 0.0.0.0 newre-conversions.clickmeter.com
+0.0.0.0 news-app-events.apple.com
 0.0.0.0 news-cdn.site
+0.0.0.0 news-events.apple.com
+0.0.0.0 news-sports-events.apple.com
 0.0.0.0 news.iadsdk.apple.com
 0.0.0.0 newscorp.grapeshot.co.uk
 0.0.0.0 newsletterjet.com
@@ -7350,6 +7376,7 @@
 0.0.0.0 report.apkpure.net
 0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 report.pixverse.ai
+0.0.0.0 report.starshort.online
 0.0.0.0 reporting.aatkit.com
 0.0.0.0 reporting.tapstream.com
 0.0.0.0 reports.ubimo.com
@@ -8131,6 +8158,7 @@
 0.0.0.0 sjrtp8.marketo.com
 0.0.0.0 skadnetwork.singular.net
 0.0.0.0 skadsdk.appsflyer.com
+0.0.0.0 skadsdk.appsflyersdk.com
 0.0.0.0 skillfuldrop.com
 0.0.0.0 skillfulsock.com
 0.0.0.0 skisofa.com
@@ -9599,6 +9627,7 @@
 0.0.0.0 us1-sdk.bluedot.io
 0.0.0.0 us1-spiky.wzrkt.com
 0.0.0.0 us1.wzrkt.com
+0.0.0.0 usage.digitalconcerthall.com
 0.0.0.0 usage.influxdata.com
 0.0.0.0 usasync01.admantx.com
 0.0.0.0 usc.adserver.snapads.com
@@ -9740,6 +9769,7 @@
 0.0.0.0 verdantsculpture.com
 0.0.0.0 verification.jiguang.cn
 0.0.0.0 verify.mob.com
+0.0.0.0 verifysession.uxcam.com
 0.0.0.0 verifyvegetable.com
 0.0.0.0 verizon.demdex.net
 0.0.0.0 verizontelecom.tt.omtrdc.net
