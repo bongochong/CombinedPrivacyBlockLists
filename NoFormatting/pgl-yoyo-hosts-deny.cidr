@@ -4683,7 +4683,6 @@ deny from 174.143.243.5/32
 deny from 174.143.243.8/32
 deny from 175.41.3.36/32
 deny from 175.41.139.218/32
-deny from 176.9.12.70/32
 deny from 176.9.38.163/32
 deny from 176.9.45.195/32
 deny from 176.9.46.73/32
@@ -5316,9 +5315,6 @@ deny from 195.249.40.10/32
 deny from 195.250.147.210/32
 deny from 195.250.204.84/32
 deny from 196.30.168.91/32
-deny from 196.34.149.71/32
-deny from 196.38.17.67/32
-deny from 196.38.17.68/32
 deny from 198.1.115.107/32
 deny from 198.23.53.105/32
 deny from 198.41.185.57/32
