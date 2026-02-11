@@ -1,4 +1,4 @@
-# Sun Jan 25 05:53:09 AM UTC 2026
+# Wed Feb 11 05:32:21 AM UTC 2026
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -389,6 +389,7 @@
 0.0.0.0 actuallything.com
 0.0.0.0 ad-api-log.colopl.jp
 0.0.0.0 ad-api.ehawk.com
+0.0.0.0 ad-api.maxnapps.com
 0.0.0.0 ad-brix.com
 0.0.0.0 ad-cdn.technoratimedia.com
 0.0.0.0 ad-channel.wikawika.xyz
@@ -2164,6 +2165,7 @@
 0.0.0.0 bh.contextweb.com
 0.0.0.0 bhcumsc.com
 0.0.0.0 bhpz.adj.st
+0.0.0.0 bi-report.maxnapps.com
 0.0.0.0 bi-tracker-global.rivergame.net
 0.0.0.0 bi.manhuaren.com
 0.0.0.0 bi.yeshen.com
@@ -2322,6 +2324,7 @@
 0.0.0.0 bs.scorecardresearch.com
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 bstgms4y.com
+0.0.0.0 bstream.channelcom.tech
 0.0.0.0 bstream.kzhi.tech
 0.0.0.0 btloader.com
 0.0.0.0 btlr-ecs-ap-southeast-1.sharethrough.com
@@ -3387,6 +3390,7 @@
 0.0.0.0 d11enq2rymy0yl.cloudfront.net
 0.0.0.0 d13k7prax1yi04.cloudfront.net
 0.0.0.0 d19xf4taj229i8.cloudfront.net
+0.0.0.0 d1tru86qrby720.cloudfront.net
 0.0.0.0 d239g0z67jcted.cloudfront.net
 0.0.0.0 d2cmedia.ca
 0.0.0.0 d2nrdy2pg3k168.cloudfront.net
@@ -3398,6 +3402,7 @@
 0.0.0.0 d3hdbjtb1686tn.cloudfront.net
 0.0.0.0 d3mzokty951c5w.cloudfront.net
 0.0.0.0 d3v3bqdndm4erx.cloudfront.net
+0.0.0.0 d3vgkjyuhp91nc.cloudfront.net
 0.0.0.0 d806-us.api.decibelinsight.net
 0.0.0.0 d830x8j3o1b2k.cloudfront.net
 0.0.0.0 d9.flashtalking.com
@@ -3801,6 +3806,7 @@
 0.0.0.0 e.imguol.com
 0.0.0.0 e.qq.com
 0.0.0.0 e.serverbid.com
+0.0.0.0 e.tapdb.ap-sg.tapapis.com
 0.0.0.0 e.zg-api.com
 0.0.0.0 e1.emxdgt.com
 0.0.0.0 e1345286.api.splkmobile.com
@@ -4003,6 +4009,7 @@
 0.0.0.0 event-api-cs.stardust-tv.com
 0.0.0.0 event-collector.moviesanywhere.com
 0.0.0.0 event-dot-learning-piano.appspot.com
+0.0.0.0 event-gateway.data.karrotmarket.com
 0.0.0.0 event-log-api-data-platform-data-lake-prod.gryphline.com
 0.0.0.0 event-log-api-ipv6.gryphline.com
 0.0.0.0 event-portal.dailyinnovation.biz
@@ -4070,6 +4077,7 @@
 0.0.0.0 events.mz.unity3d.com
 0.0.0.0 events.prd.api.discomax.com
 0.0.0.0 events.privy.com
+0.0.0.0 events.production.us1.pgw-pci.klarna.net
 0.0.0.0 events.redditmedia.com
 0.0.0.0 events.simpli.fi
 0.0.0.0 events.split.io
@@ -4495,6 +4503,7 @@
 0.0.0.0 get.civicscience.com
 0.0.0.0 get.s-onetag.com
 0.0.0.0 get.tutoads.tv
+0.0.0.0 ggbond.peaksite.tech
 0.0.0.0 ghb.adtelligent.com
 0.0.0.0 ghb1.adtelligent.com
 0.0.0.0 ghb2.adtelligent.com
@@ -4689,6 +4698,7 @@
 0.0.0.0 h-adashx.ut.alibaba.com
 0.0.0.0 h-adashx.ut.taobao.com
 0.0.0.0 h-adashx4ae.ut.taobao.com
+0.0.0.0 h-adashx4id.ut.taobao.com
 0.0.0.0 h-cast.jp
 0.0.0.0 h.online-metrix.net
 0.0.0.0 h.parrable.com
@@ -5084,6 +5094,7 @@
 0.0.0.0 in1-spiky.wzrkt.com
 0.0.0.0 in1.wzrkt.com
 0.0.0.0 inapps.appsflyer.com
+0.0.0.0 inapps.appsflyersdk.com
 0.0.0.0 inbbredraxing.com
 0.0.0.0 inc2.igexin.com
 0.0.0.0 incomehippo.com
@@ -5212,6 +5223,7 @@
 0.0.0.0 iotapi.adups.com
 0.0.0.0 iotapool.com
 0.0.0.0 ip.itracker360.com
+0.0.0.0 ip.xindong.com
 0.0.0.0 ip1.ads.stickyadstv.com.akadns.net
 0.0.0.0 ip1.cdn.stickyadstv.com.akadns.net
 0.0.0.0 ip2.ads.stickyadstv.com.akadns.net
@@ -5625,10 +5637,12 @@
 0.0.0.0 log.ultimatecleaner.pro
 0.0.0.0 log.umsns.com
 0.0.0.0 log.umtrack.com
+0.0.0.0 log.weathertrip.net
 0.0.0.0 log.wigoliv.work
 0.0.0.0 log.wtlogin.qq.com
 0.0.0.0 log.yougameover.com
 0.0.0.0 log1.apkomega.com
+0.0.0.0 log1.cmpassport.com
 0.0.0.0 log1.golfrival.net
 0.0.0.0 log1.perfectworldgames.com
 0.0.0.0 log16-normal-us-ttp.capcutapi.us
@@ -5640,6 +5654,7 @@
 0.0.0.0 loganmedia.mobi
 0.0.0.0 logapi-and.zhipin.com
 0.0.0.0 logbak.hicloud.com
+0.0.0.0 logc-sg.tsd.xindong.com
 0.0.0.0 logcollection.ronghub.com
 0.0.0.0 logconfig.polarisoffice.com
 0.0.0.0 logdata.hatspotlight.asia
@@ -6485,6 +6500,7 @@
 0.0.0.0 openbid.pubmatic.com
 0.0.0.0 openglass.tv
 0.0.0.0 openlog.tapapis.cn
+0.0.0.0 openlog.tapapis.com
 0.0.0.0 openrtb.cootlogix.com
 0.0.0.0 opensharecount.com
 0.0.0.0 openstat.net
@@ -7267,6 +7283,7 @@
 0.0.0.0 railwayrainstorm.com
 0.0.0.0 railwayreason.com
 0.0.0.0 rainmaker.production-public.tubi.io
+0.0.0.0 rainmaker4.production-public.tubi.io
 0.0.0.0 raintwig.com
 0.0.0.0 rainydirt.com
 0.0.0.0 rainyhand.com
@@ -8606,6 +8623,7 @@
 0.0.0.0 stats.mediaforge.com
 0.0.0.0 stats.mediaforge.com.edgekey.net
 0.0.0.0 stats.netsolads.com
+0.0.0.0 stats.norton.com
 0.0.0.0 stats.oilpainting.colorbynumber.veraxen.com
 0.0.0.0 stats.playrix.com
 0.0.0.0 stats.popcap.com
@@ -9249,6 +9267,7 @@
 0.0.0.0 track.midway.run
 0.0.0.0 track.mobshark.net
 0.0.0.0 track.omguk.com
+0.0.0.0 track.onef.pro
 0.0.0.0 track.pingstart.com
 0.0.0.0 track.pricespider.com
 0.0.0.0 track.recreativ.ru
@@ -10130,6 +10149,7 @@
 0.0.0.0 x.fidelity-media.com
 0.0.0.0 x.skimresources.com
 0.0.0.0 x2.mookie1.com
+0.0.0.0 x3m.biz
 0.0.0.0 xad.com
 0.0.0.0 xadsmart.com
 0.0.0.0 xconf.cauly.co.kr

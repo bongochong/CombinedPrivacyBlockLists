@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 19 Jan 2026 15:51:36 GMT
-# entries:        3499
+# last updated:   Mon, 09 Feb 2026 16:00:22 GMT
+# entries:        3501
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -208,6 +208,7 @@
 127.0.0.1 add.newmedia.cz
 127.0.0.1 addfreestats.com
 127.0.0.1 addme.com
+127.0.0.1 addressfriend.com
 127.0.0.1 ade.clmbtech.com
 127.0.0.1 adecn.com
 127.0.0.1 adeimptrck.com
@@ -225,7 +226,6 @@
 127.0.0.1 adform.com
 127.0.0.1 adform.net
 127.0.0.1 adformdsp.net
-127.0.0.1 adgardener.com
 127.0.0.1 adhaven.com
 127.0.0.1 adhese.be
 127.0.0.1 adhese.com
@@ -296,7 +296,6 @@
 127.0.0.1 adnet.de
 127.0.0.1 adnet.ru
 127.0.0.1 adnetasia.com
-127.0.0.1 adnetwork.net
 127.0.0.1 adnetworkperformance.com
 127.0.0.1 adnews.maddog2000.de
 127.0.0.1 adnium.com
@@ -778,7 +777,6 @@
 127.0.0.1 adv.wp.pl
 127.0.0.1 adv.yo.cz
 127.0.0.1 advangelists.com
-127.0.0.1 advariant.com
 127.0.0.1 adventory.com
 127.0.0.1 adventurousamount.com
 127.0.0.1 advert.bayarea.com
@@ -839,6 +837,7 @@
 127.0.0.1 afflnx.com
 127.0.0.1 afftracking.justanswer.com
 127.0.0.1 afraidlanguage.com
+127.0.0.1 agencysignals.com
 127.0.0.1 agkn.com
 127.0.0.1 ah-ha.com
 127.0.0.1 ahalogy.com
@@ -923,6 +922,7 @@
 127.0.0.1 app.pendo.io
 127.0.0.1 app2.salesmanago.pl
 127.0.0.1 appboycdn.com
+127.0.0.1 applovin.com
 127.0.0.1 appsflyer.com
 127.0.0.1 aps.hearstnp.com
 127.0.0.1 apsalar.com
@@ -1012,7 +1012,6 @@
 127.0.0.1 banners.adultfriendfinder.com
 127.0.0.1 banners.amigos.com
 127.0.0.1 banners.asiafriendfinder.com
-127.0.0.1 banners.babylon-x.com
 127.0.0.1 banners.bol.com.br
 127.0.0.1 banners.cams.com
 127.0.0.1 banners.czi.cz
@@ -1027,7 +1026,6 @@
 127.0.0.1 banners.resultonline.com
 127.0.0.1 banners.sys-con.com
 127.0.0.1 banners.thomsonlocal.com
-127.0.0.1 banners.videosz.com
 127.0.0.1 banners.virtuagirlhd.com
 127.0.0.1 bannerserver.com
 127.0.0.1 bannershotlink.perfectgonzo.com
@@ -1335,6 +1333,7 @@
 127.0.0.1 colorfulpet.com
 127.0.0.1 coloroptimizer.com
 127.0.0.1 comfortablecheese.com
+127.0.0.1 commindo-media-ressourcen.de
 127.0.0.1 commissionmonster.com
 127.0.0.1 communications.melitaltd.com
 127.0.0.1 compactbanner.com
@@ -1345,6 +1344,7 @@
 127.0.0.1 conductrics.com
 127.0.0.1 confiant-integrations.net
 127.0.0.1 confidencetalks.com
+127.0.0.1 configv2.unityads.unity3d.com
 127.0.0.1 connatix.com
 127.0.0.1 connectad.io
 127.0.0.1 connextra.com
@@ -1651,6 +1651,7 @@
 127.0.0.1 feedjit.com
 127.0.0.1 feedmob.com
 127.0.0.1 figsprotein.com
+127.0.0.1 figurehunter.net
 127.0.0.1 fillthemap.com
 127.0.0.1 fimserve.com
 127.0.0.1 findcommerce.com
@@ -1922,6 +1923,7 @@
 127.0.0.1 infolinks.com
 127.0.0.1 inmobi.com
 127.0.0.1 inner-active.com
+127.0.0.1 inner-active.mobi
 127.0.0.1 innovid.com
 127.0.0.1 inquisitiveinvention.com
 127.0.0.1 insgly.net
@@ -1991,6 +1993,7 @@
 127.0.0.1 kindads.com
 127.0.0.1 kindlereunion.com
 127.0.0.1 kissmetrics.com
+127.0.0.1 kittentacos.com
 127.0.0.1 kittycatking.com
 127.0.0.1 klclick.com
 127.0.0.1 klclick1.com
@@ -2008,6 +2011,7 @@
 127.0.0.1 kueezrtb.com
 127.0.0.1 kvsadman.com
 127.0.0.1 l1.britannica.com
+127.0.0.1 lakesecure.com
 127.0.0.1 lameletters.com
 127.0.0.1 landkarts.com
 127.0.0.1 larati.net
@@ -2056,8 +2060,10 @@
 127.0.0.1 lightspeedcash.com
 127.0.0.1 lightstep.medium.systems
 127.0.0.1 lijit.com
+127.0.0.1 limecodesign.com
 127.0.0.1 link-booster.de
 127.0.0.1 link.axios.com
+127.0.0.1 link.beelivery.com
 127.0.0.1 link.email.davidlloydclubs.co.uk
 127.0.0.1 link.email.usmagazine.com
 127.0.0.1 link.go.chase
@@ -2128,7 +2134,6 @@
 127.0.0.1 madclient.uimserv.net
 127.0.0.1 madcpms.com
 127.0.0.1 madinad.com
-127.0.0.1 madisonavenue.com
 127.0.0.1 madvertise.de
 127.0.0.1 magicadz.co
 127.0.0.1 magicaljoin.com
@@ -2334,7 +2339,6 @@
 127.0.0.1 newads.bangbros.com
 127.0.0.1 newnet.qsrch.com
 127.0.0.1 newnudecash.com
-127.0.0.1 newopenx.detik.com
 127.0.0.1 news-cdn.site
 127.0.0.1 newsadsppush.com
 127.0.0.1 newt1.adultadworld.com
@@ -2660,11 +2664,9 @@
 127.0.0.1 rambunctiousflock.com
 127.0.0.1 rampidads.com
 127.0.0.1 randkuj.xyz
-127.0.0.1 rankchamp.de
 127.0.0.1 ranking-charts.de
 127.0.0.1 ranking-hits.de
 127.0.0.1 ranking-links.de
-127.0.0.1 rankingchart.de
 127.0.0.1 rankingscout.com
 127.0.0.1 rankyou.com
 127.0.0.1 rapidcounter.com
@@ -3193,7 +3195,6 @@
 127.0.0.1 track.miro.com
 127.0.0.1 track.nationalgunrights.org
 127.0.0.1 track.privacyatclearbit.com
-127.0.0.1 track.przejdzdostrony.pl
 127.0.0.1 track.pubmatic.com
 127.0.0.1 track.segmetrics.io
 127.0.0.1 track.smtpmessage.com
@@ -3288,6 +3289,7 @@
 127.0.0.1 tumbleicicle.com
 127.0.0.1 turboadv.com
 127.0.0.1 turn.com
+127.0.0.1 twelvedawn.com
 127.0.0.1 twittad.com
 127.0.0.1 twyn.com
 127.0.0.1 tynt.com
