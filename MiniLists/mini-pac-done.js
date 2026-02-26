@@ -1,4 +1,4 @@
-// **** Wed Feb 11 05:41:30 AM UTC 2026
+// **** Thu Feb 26 05:35:50 PM UTC 2026
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.023hysj.com") ||
@@ -1140,7 +1140,6 @@ shExpMatch(host, "*.ads.twojatv.info") ||
 shExpMatch(host, "*.ads.uknetguide.co.uk") ||
 shExpMatch(host, "*.ads.ultimate-guitar.com") ||
 shExpMatch(host, "*.ads.uncrate.com") ||
-shExpMatch(host, "*.ads.unison.bg") ||
 shExpMatch(host, "*.ads.usatoday.com") ||
 shExpMatch(host, "*.ads.use1.prod.vidible.tv") ||
 shExpMatch(host, "*.ads.uxs.at") ||
@@ -3478,7 +3477,6 @@ shExpMatch(host, "*.counter.sparklit.com") ||
 shExpMatch(host, "*.counters.booking.com") ||
 shExpMatch(host, "*.counters.honesty.com") ||
 shExpMatch(host, "*.counting.kmindex.ru") ||
-shExpMatch(host, "*.countly.globaldelight.net") ||
 shExpMatch(host, "*.counts.tucows.com") ||
 shExpMatch(host, "*.coupling-media.de") ||
 shExpMatch(host, "*.courageousbaby.com") ||
@@ -3699,7 +3697,6 @@ shExpMatch(host, "*.dat.funheroic.com") ||
 shExpMatch(host, "*.data-beacons.s-onetag.com") ||
 shExpMatch(host, "*.data-detect.nie.easebar.com") ||
 shExpMatch(host, "*.data-optout-service.uca.cloud.unity3d.com") ||
-shExpMatch(host, "*.data-p.gryphline.com") ||
 shExpMatch(host, "*.data.adxcel-ec2.com") ||
 shExpMatch(host, "*.data.atomex.net") ||
 shExpMatch(host, "*.data.cnn.com") ||
@@ -5918,6 +5915,7 @@ shExpMatch(host, "*.logservice1.dbankcloud.cn") ||
 shExpMatch(host, "*.logservice1.hicloud.com") ||
 shExpMatch(host, "*.logsink.zedge.net") ||
 shExpMatch(host, "*.logsss.com") ||
+shExpMatch(host, "*.logssug.ucweb.com") ||
 shExpMatch(host, "*.logua.com") ||
 shExpMatch(host, "*.logupdate.avlyun.sec.miui.com") ||
 shExpMatch(host, "*.logx.optimizely.com") ||
@@ -8177,7 +8175,6 @@ shExpMatch(host, "*.serenezenith.com") ||
 shExpMatch(host, "*.serioussuit.com") ||
 shExpMatch(host, "*.serpentshampoo.com") ||
 shExpMatch(host, "*.serv0.com") ||
-shExpMatch(host, "*.servads.net") ||
 shExpMatch(host, "*.servclick1move.com") ||
 shExpMatch(host, "*.serve.tercept.com") ||
 shExpMatch(host, "*.servebom.com") ||
@@ -8280,6 +8277,7 @@ shExpMatch(host, "*.signal-beacon.s-onetag.com") ||
 shExpMatch(host, "*.signal-metrics-collector-beta.s-onetag.com") ||
 shExpMatch(host, "*.signalayer.com") ||
 shExpMatch(host, "*.signalhq.com") ||
+shExpMatch(host, "*.signalszone.com") ||
 shExpMatch(host, "*.signaturepod.com") ||
 shExpMatch(host, "*.silentcredit.com") ||
 shExpMatch(host, "*.silentwrench.com") ||
@@ -9485,6 +9483,7 @@ shExpMatch(host, "*.tracking.sembox.it") ||
 shExpMatch(host, "*.tracking.shopstyle.com") ||
 shExpMatch(host, "*.tracking.thinkabt.com") ||
 shExpMatch(host, "*.tracking.trnox.com") ||
+shExpMatch(host, "*.tracking.twelveapp.sh") ||
 shExpMatch(host, "*.tracking.viewlift.com") ||
 shExpMatch(host, "*.tracking.wetter.at") ||
 shExpMatch(host, "*.tracking.ws.eurosport.com") ||
@@ -9585,6 +9584,7 @@ shExpMatch(host, "*.trk.wdacashtrk.com") ||
 shExpMatch(host, "*.trk2.pinterest.com") ||
 shExpMatch(host, "*.trk42.net") ||
 shExpMatch(host, "*.trkapi.impact.com") ||
+shExpMatch(host, "*.trkcliq.com") ||
 shExpMatch(host, "*.trkn.us") ||
 shExpMatch(host, "*.trkoptimizer.com") ||
 shExpMatch(host, "*.trkpnt.ongage.net") ||
@@ -9659,6 +9659,7 @@ shExpMatch(host, "*.ubiquitousyard.com") ||
 shExpMatch(host, "*.uc-ap.yodo1api.com") ||
 shExpMatch(host, "*.uc.ucweb.com") ||
 shExpMatch(host, "*.uc9.ucweb.com") ||
+shExpMatch(host, "*.ucads.ucweb.com") ||
 shExpMatch(host, "*.ucfunnel.com") ||
 shExpMatch(host, "*.ucus.ucweb.com") ||
 shExpMatch(host, "*.udkcrj.com") ||
@@ -11439,7 +11440,6 @@ shExpMatch(host, "ads.twojatv.info") ||
 shExpMatch(host, "ads.uknetguide.co.uk") ||
 shExpMatch(host, "ads.ultimate-guitar.com") ||
 shExpMatch(host, "ads.uncrate.com") ||
-shExpMatch(host, "ads.unison.bg") ||
 shExpMatch(host, "ads.usatoday.com") ||
 shExpMatch(host, "ads.use1.prod.vidible.tv") ||
 shExpMatch(host, "ads.uxs.at") ||
@@ -13777,7 +13777,6 @@ shExpMatch(host, "counter.sparklit.com") ||
 shExpMatch(host, "counters.booking.com") ||
 shExpMatch(host, "counters.honesty.com") ||
 shExpMatch(host, "counting.kmindex.ru") ||
-shExpMatch(host, "countly.globaldelight.net") ||
 shExpMatch(host, "counts.tucows.com") ||
 shExpMatch(host, "coupling-media.de") ||
 shExpMatch(host, "courageousbaby.com") ||
@@ -13998,7 +13997,6 @@ shExpMatch(host, "dat.funheroic.com") ||
 shExpMatch(host, "data-beacons.s-onetag.com") ||
 shExpMatch(host, "data-detect.nie.easebar.com") ||
 shExpMatch(host, "data-optout-service.uca.cloud.unity3d.com") ||
-shExpMatch(host, "data-p.gryphline.com") ||
 shExpMatch(host, "data.adxcel-ec2.com") ||
 shExpMatch(host, "data.atomex.net") ||
 shExpMatch(host, "data.cnn.com") ||
@@ -16217,6 +16215,7 @@ shExpMatch(host, "logservice1.dbankcloud.cn") ||
 shExpMatch(host, "logservice1.hicloud.com") ||
 shExpMatch(host, "logsink.zedge.net") ||
 shExpMatch(host, "logsss.com") ||
+shExpMatch(host, "logssug.ucweb.com") ||
 shExpMatch(host, "logua.com") ||
 shExpMatch(host, "logupdate.avlyun.sec.miui.com") ||
 shExpMatch(host, "logx.optimizely.com") ||
@@ -18476,7 +18475,6 @@ shExpMatch(host, "serenezenith.com") ||
 shExpMatch(host, "serioussuit.com") ||
 shExpMatch(host, "serpentshampoo.com") ||
 shExpMatch(host, "serv0.com") ||
-shExpMatch(host, "servads.net") ||
 shExpMatch(host, "servclick1move.com") ||
 shExpMatch(host, "serve.tercept.com") ||
 shExpMatch(host, "servebom.com") ||
@@ -18579,6 +18577,7 @@ shExpMatch(host, "signal-beacon.s-onetag.com") ||
 shExpMatch(host, "signal-metrics-collector-beta.s-onetag.com") ||
 shExpMatch(host, "signalayer.com") ||
 shExpMatch(host, "signalhq.com") ||
+shExpMatch(host, "signalszone.com") ||
 shExpMatch(host, "signaturepod.com") ||
 shExpMatch(host, "silentcredit.com") ||
 shExpMatch(host, "silentwrench.com") ||
@@ -19784,6 +19783,7 @@ shExpMatch(host, "tracking.sembox.it") ||
 shExpMatch(host, "tracking.shopstyle.com") ||
 shExpMatch(host, "tracking.thinkabt.com") ||
 shExpMatch(host, "tracking.trnox.com") ||
+shExpMatch(host, "tracking.twelveapp.sh") ||
 shExpMatch(host, "tracking.viewlift.com") ||
 shExpMatch(host, "tracking.wetter.at") ||
 shExpMatch(host, "tracking.ws.eurosport.com") ||
@@ -19884,6 +19884,7 @@ shExpMatch(host, "trk.wdacashtrk.com") ||
 shExpMatch(host, "trk2.pinterest.com") ||
 shExpMatch(host, "trk42.net") ||
 shExpMatch(host, "trkapi.impact.com") ||
+shExpMatch(host, "trkcliq.com") ||
 shExpMatch(host, "trkn.us") ||
 shExpMatch(host, "trkoptimizer.com") ||
 shExpMatch(host, "trkpnt.ongage.net") ||
@@ -19958,6 +19959,7 @@ shExpMatch(host, "ubiquitousyard.com") ||
 shExpMatch(host, "uc-ap.yodo1api.com") ||
 shExpMatch(host, "uc.ucweb.com") ||
 shExpMatch(host, "uc9.ucweb.com") ||
+shExpMatch(host, "ucads.ucweb.com") ||
 shExpMatch(host, "ucfunnel.com") ||
 shExpMatch(host, "ucus.ucweb.com") ||
 shExpMatch(host, "udkcrj.com") ||
