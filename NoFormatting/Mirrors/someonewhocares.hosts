@@ -10,7 +10,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 11 Feb 2026 at 00:43:35 GMT
+# Last updated: Wed, 25 Feb 2026 at 23:29:17 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1579,6 +1579,8 @@ ff02::3		ip6-allhosts
 0.0.0.0 azureus.es
 0.0.0.0 b.doloaqywbvq.ru
 0.0.0.0 b.webwise.org
+0.0.0.0 b2b-update.appwrite.network
+0.0.0.0 b8bsb.55002298.click
 0.0.0.0 babouche-maroc.fr
 0.0.0.0 bac-reunion.fr
 0.0.0.0 backlusjumpdur.club
@@ -1625,6 +1627,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 blablacam.fr
 0.0.0.0 blackhat.be
 0.0.0.0 blender3d.fr
+0.0.0.0 blog.ivup.cn
 0.0.0.0 bluepartner.fr
 0.0.0.0 bluescreenalert.com
 0.0.0.0 blw4-1.com
@@ -1782,6 +1785,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 coldpacific.com
 0.0.0.0 colisismo.fr
 0.0.0.0 collline.fr
+0.0.0.0 coloradosoccerbuddies.acemlna.com
 0.0.0.0 colssimo.fr
 0.0.0.0 comfortykive.xyz
 0.0.0.0 commax.fr
@@ -1806,6 +1810,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 costorama.fr
 0.0.0.0 countrystore.fr
 0.0.0.0 coupondio.fr
+0.0.0.0 cp.forest-host.cc
 0.0.0.0 cplelangues.fr
 0.0.0.0 cra-arc-gc-ca.noads.biz
 0.0.0.0 cra-etransfer.online
@@ -1824,6 +1829,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 cullligan.fr
 0.0.0.0 culturalfoundation.fr
 0.0.0.0 cun.accountcare.cfd
+0.0.0.0 curejoint.sa.com
 0.0.0.0 customsoftwaredeveloper.com.au
 0.0.0.0 cutesaucepuppy.com
 0.0.0.0 cyberpanel.fr
@@ -1859,6 +1865,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 dewinci.fr
 0.0.0.0 dfnac.fr
 0.0.0.0 dhauzja511.co.cc
+0.0.0.0 dhl-closeariu.kaixuankio.cn
 0.0.0.0 dhlmyorder82662-info-can.com
 0.0.0.0 dig
 0.0.0.0 digiclk.com
@@ -1885,6 +1892,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 e-kern.fr
 0.0.0.0 e-lords.fr
 0.0.0.0 e-trn-incm.com
+0.0.0.0 eaboiretes.com
 0.0.0.0 east.05tz2e9.com
 0.0.0.0 easyflier.fr
 0.0.0.0 easytic.fr
@@ -1955,6 +1963,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 facebookj.fr
 0.0.0.0 faceboook-replyei0ki.montadalitihad.com
 0.0.0.0 facemail.com
+0.0.0.0 factorship.wcyrkdd.cn
 0.0.0.0 fafarge.fr
 0.0.0.0 faggotry.com
 0.0.0.0 falkcoppercookware.fr
@@ -2015,6 +2024,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 ftdownload.com
 0.0.0.0 fu.golikeus.net			# Facebook trojan
 0.0.0.0 fuzzy-afternoon.surge.sh
+0.0.0.0 fwbdndyikloaxb68duujcfyudy.appwrite.network
 0.0.0.0 g2play.fr
 0.0.0.0 gabrielahlavack.samcart.com
 0.0.0.0 gadgetsytecnologia.com
@@ -2050,6 +2060,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 gmailapcq6.eblink5.com
 0.0.0.0 go.deliverymodo.com
 0.0.0.0 goggle.com
+0.0.0.0 gondesss.albarikfabric.com
 0.0.0.0 goobbe.com
 0.0.0.0 goodreader.fr
 0.0.0.0 goolgueule.fr
@@ -2070,6 +2081,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 gtamoding.fr
 0.0.0.0 guidelon.fr
 0.0.0.0 guiltygear.fr
+0.0.0.0 guthealth.sa.com
 0.0.0.0 gv-1nt3rc.com
 0.0.0.0 gwene.com.slackware.alien.blog
 0.0.0.0 gwklaser.fr
@@ -2088,6 +2100,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 hatdfg-rhgreh684.frge.io
 0.0.0.0 hatrecord.ru				# Facebook trojan
 0.0.0.0 hcg82f2b.com
+0.0.0.0 headization.lexkd.cn
 0.0.0.0 healpublic.best
 0.0.0.0 hefever.fr
 0.0.0.0 hellomobile.fr
@@ -2108,8 +2121,10 @@ ff02::3		ip6-allhosts
 0.0.0.0 hiuinder.beauty
 0.0.0.0 hlhtylivs.shop
 0.0.0.0 hlthiliv.shop
+0.0.0.0 hltuup.za.com
 0.0.0.0 hocolats-voisin.fr
 0.0.0.0 hommetendance.fr
+0.0.0.0 honeyburn.za.com
 0.0.0.0 hostify.fr
 0.0.0.0 hostiko.fr
 0.0.0.0 hot24profit.life
@@ -2177,6 +2192,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 istartsurf.com
 0.0.0.0 iswwwup.com
 0.0.0.0 itbeginner.fr
+0.0.0.0 itprfft.sa.com
 0.0.0.0 itssure.shop
 0.0.0.0 ivgault.fr
 0.0.0.0 ivoirmixdj.fr
@@ -2423,6 +2439,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 mightyfungi.fr
 0.0.0.0 mije.fr
 0.0.0.0 mikvr.comfortykive.xyz
+0.0.0.0 mimikacooney.acemlnc.com
 0.0.0.0 mindshareworld.fr
 0.0.0.0 mineacraft.fr
 0.0.0.0 minecraft-frannce.fr
@@ -2529,6 +2546,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 netflix-updateinfo.com
 0.0.0.0 netflix.apple-green.net
 0.0.0.0 netflixca-updateprofilehelp.com
+0.0.0.0 netflixe.kundensupport-kundensupport.de
 0.0.0.0 new-vid-zone-1.blogspot.com.au
 0.0.0.0 newouest.fr
 0.0.0.0 newsmagic.net
@@ -2769,6 +2787,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 rickrolling.com
 0.0.0.0 rifec.co
 0.0.0.0 rimnow.fr
+0.0.0.0 ringcleas.sa.com
 0.0.0.0 riosaladohp.com
 0.0.0.0 robertgraham.fr
 0.0.0.0 rockrose.fr
@@ -2782,6 +2801,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 rottentomatoes.fr
 0.0.0.0 rtag.fr
 0.0.0.0 rubgyrama.fr
+0.0.0.0 ruchika29access55824.acemlna.com
 0.0.0.0 runnerswolrd.fr
 0.0.0.0 runtnc.net
 0.0.0.0 russian-sex.com
@@ -2847,9 +2867,12 @@ ff02::3		ip6-allhosts
 0.0.0.0 shopkeep.fr
 0.0.0.0 shopsm.fr
 0.0.0.0 shoptrends.fr
+0.0.0.0 siexrlypbbvt.com
 0.0.0.0 siliconf.fr
 0.0.0.0 sinera.org
 0.0.0.0 sinochem.fr
+0.0.0.0 sinu24.de
+0.0.0.0 sinu24.ee
 0.0.0.0 siteliner.fr
 0.0.0.0 sitesofa.za.com
 0.0.0.0 sitrion.fr
@@ -2882,6 +2905,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 sorbone.fr
 0.0.0.0 sosohus.ink
 0.0.0.0 speakplanet.fr
+0.0.0.0 specialworld.com.au
 0.0.0.0 speechpad.fr
 0.0.0.0 speedycourse.fr
 0.0.0.0 spotchannel02.com
@@ -2931,6 +2955,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 tattooshaha.info			# Facebook trojan
 0.0.0.0 tax-canada2023.co
 0.0.0.0 tbebestknives.fr
+0.0.0.0 teak.gen.tr
 0.0.0.0 teamsport-philipp.fr
 0.0.0.0 tearbelt.com
 0.0.0.0 technicalconsumerreports.com
@@ -3008,6 +3033,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 ubuntu-fr.fr
 0.0.0.0 udgth.comfortykive.xyz
 0.0.0.0 ufpcdn.com
+0.0.0.0 ui.chelepi.contractors
 0.0.0.0 umgpjdlllhl.ru
 0.0.0.0 un-ruly.fr
 0.0.0.0 unetbootin.net
@@ -3042,6 +3068,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 van-city-sign-on.com
 0.0.0.0 vc-login.com
 0.0.0.0 vcarrefour.fr
+0.0.0.0 vendhelpuous.pgvjmp.cn
 0.0.0.0 venturead.com
 0.0.0.0 verify.rambler-profile.site
 0.0.0.0 versbaudet.fr
@@ -3139,22 +3166,35 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.abetterinternet.com
 0.0.0.0 www.adblock.fr
 0.0.0.0 www.adshufffle.com
+0.0.0.0 www.airmedcarennetwork.com
+0.0.0.0 www.airybotsh.pro
+0.0.0.0 www.alexyastro.com
 0.0.0.0 www.allhqpics.com			# Facebook trojan
+0.0.0.0 www.allscrabble.com
+0.0.0.0 www.allstateproteectionplans.com
 0.0.0.0 www.anatol.com
+0.0.0.0 www.apcort.com
 0.0.0.0 www.aramcom.space
+0.0.0.0 www.arknasasbluecross.com
 0.0.0.0 www.asianread.com
 0.0.0.0 www.audacity.es
 0.0.0.0 www.audacity.fr
+0.0.0.0 www.availablefiles.com
 0.0.0.0 www.avemoo.com
 0.0.0.0 www.azureus.es
+0.0.0.0 www.baiakstyle.com
+0.0.0.0 www.bazarusmassazha.com
 0.0.0.0 www.bbyjgkkdihiyxy.com
 0.0.0.0 www.be4life.ru
 0.0.0.0 www.bellamhair.com
 0.0.0.0 www.bigantstore.com
+0.0.0.0 www.blazesemipvp.com
 0.0.0.0 www.blender3d.fr
+0.0.0.0 www.bmrneswk.com
 0.0.0.0 www.brandsclothingco.com
 0.0.0.0 www.brghterimagelab.com
 0.0.0.0 www.brightstardv.pro
+0.0.0.0 www.briidgeapp.com
 0.0.0.0 www.bucahssana.com
 0.0.0.0 www.bumerang.cc
 0.0.0.0 www.bvcnle.cfd
@@ -3163,34 +3203,45 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.cambonanza.com
 0.0.0.0 www.canadianshawid.com
 0.0.0.0 www.caramail.com
+0.0.0.0 www.carolmassoterapia.com
 0.0.0.0 www.cassink.com
 0.0.0.0 www.celestia.es
 0.0.0.0 www.celestia.fr
+0.0.0.0 www.centeralbidding.com
 0.0.0.0 www.chelick.net			# Facebook trojan
+0.0.0.0 www.chichomods.com
 0.0.0.0 www.ciderbayoulg.pro
 0.0.0.0 www.ciderglowcm.site
+0.0.0.0 www.cjkassociates.co.in
 0.0.0.0 www.clearacreonline.com
 0.0.0.0 www.clearalgorithm.com
+0.0.0.0 www.clipsfan.com
 0.0.0.0 www.clonezilla.es
 0.0.0.0 www.clonezilla.fr
 0.0.0.0 www.coinimp.com
 0.0.0.0 www.comfortykive.xyz
 0.0.0.0 www.compufixshop.com
+0.0.0.0 www.consultingbyelevate.com
 0.0.0.0 www.cpatglobal.com
 0.0.0.0 www.cprcar.com
+0.0.0.0 www.crowdnestfun.com
 0.0.0.0 www.darkrro.com
 0.0.0.0 www.dartya.com
+0.0.0.0 www.dayanitastore.com
 0.0.0.0 www.dejamesertuvoz.com
 0.0.0.0 www.deperiodista.com
 0.0.0.0 www.dewcoreaj.pro
 0.0.0.0 www.dewwillowwj.site
 0.0.0.0 www.didata.bw
+0.0.0.0 www.diffuselec.com
+0.0.0.0 www.digisubmission.com
 0.0.0.0 www.dkpmsa.cfd
 0.0.0.0 www.dorminvaders.com
 0.0.0.0 www.dymor.cfd
 0.0.0.0 www.e-transfer-cra.com
 0.0.0.0 www.eaglesfanclub.com
 0.0.0.0 www.edashealthcare.com
+0.0.0.0 www.edwardmartino.com
 0.0.0.0 www.exvaro.cfd
 0.0.0.0 www.faggotry.com
 0.0.0.0 www.farnazinternational.com
@@ -3198,14 +3249,21 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.fhtmmeeting.com
 0.0.0.0 www.filezilla.fr
 0.0.0.0 www.findalgorithm.com
+0.0.0.0 www.fingertimer.com
 0.0.0.0 www.firsttrchfed.com
 0.0.0.0 www.fischereszter.hu
 0.0.0.0 www.flexibleadmin.com
+0.0.0.0 www.fmoviehd.com
+0.0.0.0 www.fortunoxx.com
+0.0.0.0 www.frbonusjeux.com
 0.0.0.0 www.freecontent.bid
 0.0.0.0 www.freedailydownload.com
+0.0.0.0 www.fripta.com
 0.0.0.0 www.froling.bee.pl
+0.0.0.0 www.furcomics.com
 0.0.0.0 www.gadgetbonanzamarket.com
 0.0.0.0 www.gainwintz.com
+0.0.0.0 www.gameqnt.com
 0.0.0.0 www.gavelandcap.com
 0.0.0.0 www.gekorn.com
 0.0.0.0 www.gentleshadeox.pro
@@ -3214,17 +3272,24 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.gimp.es
 0.0.0.0 www.globalbuffer.com
 0.0.0.0 www.goggle.com
+0.0.0.0 www.googdiy.com
+0.0.0.0 www.gotorobeks.com
 0.0.0.0 www.gparted.fr
+0.0.0.0 www.gpolitico.com
+0.0.0.0 www.gradedoctortutoring.com
 0.0.0.0 www.greenshot.fr
 0.0.0.0 www.greenvistazj.pro
+0.0.0.0 www.grocreyoutlet.com
 0.0.0.0 www.grouphappy.com
 0.0.0.0 www.hajoopteg.com
 0.0.0.0 www.hakerzy.net
 0.0.0.0 www.handbrake.es
 0.0.0.0 www.happystonezk.pro
 0.0.0.0 www.hashing.win
+0.0.0.0 www.hauloot.com
 0.0.0.0 www.helvax.cfd
 0.0.0.0 www.hiewa.com.my
+0.0.0.0 www.hitchedbridalandformalwear.com
 0.0.0.0 www.hypeprop.com
 0.0.0.0 www.icbc-ltd.com
 0.0.0.0 www.icecars.com
@@ -3235,11 +3300,18 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.informereng.com
 0.0.0.0 www.inkscape.es
 0.0.0.0 www.inkscape.fr
+0.0.0.0 www.iovenesweb.com
 0.0.0.0 www.irony.world
+0.0.0.0 www.janushnderson.com
+0.0.0.0 www.jeuxfortuna.com
+0.0.0.0 www.jovareo.com
+0.0.0.0 www.jvidzaixian.com
 0.0.0.0 www.jvzoo.com
+0.0.0.0 www.kahramananas.com
 0.0.0.0 www.keepass.com
 0.0.0.0 www.keepass.fr
 0.0.0.0 www.keybinary.com
+0.0.0.0 www.khanomtour.com
 0.0.0.0 www.kindwebdg.site
 0.0.0.0 www.kittayaroyalbeauty.com
 0.0.0.0 www.knowinteractive.com
@@ -3253,7 +3325,9 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.likethis.mbosoft.com		# Facebook trojan
 0.0.0.0 www.likethislist.biz			# Facebook trojan
 0.0.0.0 www.lomalindasda.org			# Facebook trojan
+0.0.0.0 www.lostbestsgames.com
 0.0.0.0 www.magento-analytics.com
+0.0.0.0 www.maillazy.com
 0.0.0.0 www.makearestaurant.com
 0.0.0.0 www.manoces.waw.pl
 0.0.0.0 www.mikras.nl
@@ -3263,10 +3337,13 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.monkeyball.osa.pl
 0.0.0.0 www.monkikitchen.com
 0.0.0.0 www.mshelp247.weebly.com
+0.0.0.0 www.msxzff.com
 0.0.0.0 www.mycolonialpenm.com
+0.0.0.0 www.mycontentlocker.com
 0.0.0.0 www.myexotel.com
 0.0.0.0 www.mylike.co.uk			# Facebook trojan
 0.0.0.0 www.mylovecards.com
+0.0.0.0 www.neonracketpro.com
 0.0.0.0 www.notepad2.com
 0.0.0.0 www.novemberrainx.com
 0.0.0.0 www.nu26.com
@@ -3275,35 +3352,52 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.objectopoly.info
 0.0.0.0 www.oix.com
 0.0.0.0 www.oletipmegroup.com
+0.0.0.0 www.oliviathemes.com
 0.0.0.0 www.openinternetexchange.com
 0.0.0.0 www.oppery.com
 0.0.0.0 www.otsserver.com
 0.0.0.0 www.outonixan.com
+0.0.0.0 www.pagibigfundservicers.com
 0.0.0.0 www.paintnet.es
 0.0.0.0 www.paintnet.fr
 0.0.0.0 www.paramutplus.com
+0.0.0.0 www.parejaamateur.com
 0.0.0.0 www.partsttown.com
 0.0.0.0 www.paviro.cfd
+0.0.0.0 www.pdrill.com
+0.0.0.0 www.peachysailwv.pro
+0.0.0.0 www.pearlyappss.pro
+0.0.0.0 www.peopleesbancorp.com
 0.0.0.0 www.pepernity.com
+0.0.0.0 www.phantomluck.com
 0.0.0.0 www.phormlabs.com
 0.0.0.0 www.photomagicapp.com
 0.0.0.0 www.picture-uploads.com
+0.0.0.0 www.pinupspinup.com
 0.0.0.0 www.portaldimensional.com
 0.0.0.0 www.portlanfleathergoods.com
+0.0.0.0 www.portutopcas.com
 0.0.0.0 www.ppoi.org
 0.0.0.0 www.presidency.site
 0.0.0.0 www.prgwbn.cfd
 0.0.0.0 www.proflashdata.com			# Facebook trojan
 0.0.0.0 www.properrayam.pro
+0.0.0.0 www.proxionet.com
 0.0.0.0 www.pruialoatpmye.xyz
 0.0.0.0 www.psychics-readings-for-free.com
+0.0.0.0 www.qateee.com
 0.0.0.0 www.qbittorrent.com
 0.0.0.0 www.rackusread.com
+0.0.0.0 www.rajtoursdubai.com
 0.0.0.0 www.randki-sex.com
+0.0.0.0 www.reandrogames.com
+0.0.0.0 www.rekonsise.com
 0.0.0.0 www.renderfoest.com
+0.0.0.0 www.rerminix.com
 0.0.0.0 www.rickrolling.com
 0.0.0.0 www.rtkmyz.cfd
 0.0.0.0 www.russian-sex.com
+0.0.0.0 www.salttm.com
 0.0.0.0 www.sandybellxb.site
 0.0.0.0 www.securityscan.us
 0.0.0.0 www.shinilchurch.net	# domain was hacked and had a trojan installed
@@ -3312,17 +3406,23 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.simplyhelper.com
 0.0.0.0 www.sinera.org
 0.0.0.0 www.skibidihotel.com
+0.0.0.0 www.smionecare.com
+0.0.0.0 www.softmillon.com
+0.0.0.0 www.spectrumhomehealthinc.com
 0.0.0.0 www.ssl2.in
 0.0.0.0 www.statsff.com
 0.0.0.0 www.stellarium.fr
 0.0.0.0 www.stopphoulplay.com
+0.0.0.0 www.strongarchzu.com
 0.0.0.0 www.studioorientbay.com
 0.0.0.0 www.swallowwire.sa.com
 0.0.0.0 www.sweetiesecrets.com
 0.0.0.0 www.tanger.com.br
 0.0.0.0 www.tattooshaha.info			# Facebook trojan
+0.0.0.0 www.tenantbackgronudsearch.com
 0.0.0.0 www.thecollectiverd.com
 0.0.0.0 www.thedatesafe.com			# Facebook trojan
+0.0.0.0 www.thefriday.net
 0.0.0.0 www.thesecuredtrader.com
 0.0.0.0 www.thunderbird.es
 0.0.0.0 www.tinkfrog.com
@@ -3330,6 +3430,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.trucktirehotline.com
 0.0.0.0 www.truecrypt.fr
 0.0.0.0 www.trueshelterju.pro
+0.0.0.0 www.tvrails.com
 0.0.0.0 www.tvshowslist.com
 0.0.0.0 www.unetbootin.net
 0.0.0.0 www.unetbootin.org
@@ -3337,9 +3438,13 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.upi6.pillsstore-c.com		# Facebook trojan
 0.0.0.0 www.uqz.com
 0.0.0.0 www.urldelivery.com
+0.0.0.0 www.ventilationdirec.com
 0.0.0.0 www.venturead.com
+0.0.0.0 www.vetmanevi.com
 0.0.0.0 www.videolove.clanteam.com
 0.0.0.0 www.videostan.ru
+0.0.0.0 www.vkvmotion.com
+0.0.0.0 www.voolat.com
 0.0.0.0 www.wantsfly.com
 0.0.0.0 www.webassembly.stream
 0.0.0.0 www.webpartition.com
@@ -3347,11 +3452,16 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.webwise.org
 0.0.0.0 www.weknow.ac
 0.0.0.0 www.wewillrocknow.com
+0.0.0.0 www.wholesaleorganix.com
 0.0.0.0 www.wifimarfixhotspot.com
 0.0.0.0 www.willysy.com
+0.0.0.0 www.winecrazydesigns.com
 0.0.0.0 www.winlottofrequently.com
+0.0.0.0 www.wrestlewebnews.com
 0.0.0.0 www.yendermsoul.com
 0.0.0.0 www.youfiletor.com
+0.0.0.0 www.zenithvault.uk
+0.0.0.0 www.zippylakeri.name
 0.0.0.0 www1-van-city-signon.com
 0.0.0.0 wyoutube.fr
 0.0.0.0 xcdkb.comfortykive.xyz
@@ -3371,6 +3481,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 youcanoptout.com
 0.0.0.0 youmakeashion.fr
 0.0.0.0 yourdailytrailer.yournewtab.com
+0.0.0.0 yourhlth.ru.com
 0.0.0.0 yourofficialsurveysplace.store
 0.0.0.0 youvisit.fr
 0.0.0.0 yrwap.cn
@@ -7856,6 +7967,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 images3.linkwithin.com
 0.0.0.0 imageserv.adtech.fr
 0.0.0.0 imageserv.adtech.us
+0.0.0.0 imagesnep.admaster.cc
 0.0.0.0 imagesrv.adition.com
 0.0.0.0 imarker.com
 0.0.0.0 imarker.ru

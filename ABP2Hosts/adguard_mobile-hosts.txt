@@ -1,4 +1,4 @@
-# Wed Feb 11 05:32:21 AM UTC 2026
+# Thu Feb 26 05:28:59 PM UTC 2026
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -3214,7 +3214,6 @@
 0.0.0.0 counter.snackly.co
 0.0.0.0 counter.yadro.ru
 0.0.0.0 counters.booking.com
-0.0.0.0 countly.globaldelight.net
 0.0.0.0 courageousbaby.com
 0.0.0.0 coverapparatus.com
 0.0.0.0 coverlayer.com
@@ -3443,7 +3442,6 @@
 0.0.0.0 data-detect.nie.easebar.com
 0.0.0.0 data-id.ads.oppomobile.com
 0.0.0.0 data-optout-service.uca.cloud.unity3d.com
-0.0.0.0 data-p.gryphline.com
 0.0.0.0 data.ad-score.com
 0.0.0.0 data.ads.oppomobile.com
 0.0.0.0 data.adsrvr.org
@@ -5695,6 +5693,7 @@
 0.0.0.0 logservice1.dbankcloud.cn
 0.0.0.0 logservice1.hicloud.com
 0.0.0.0 logsink.zedge.net
+0.0.0.0 logssug.ucweb.com
 0.0.0.0 logupdate.avlyun.sec.miui.com
 0.0.0.0 logx.optimizely.com
 0.0.0.0 logz.tekiusa.com
@@ -9361,6 +9360,7 @@
 0.0.0.0 tracking.sembox.it
 0.0.0.0 tracking.taboola.com
 0.0.0.0 tracking.trnox.com
+0.0.0.0 tracking.twelveapp.sh
 0.0.0.0 tracking.v2.yieldlove-ad-serving.net
 0.0.0.0 tracking.vcommission.com
 0.0.0.0 tracking.viewlift.com
@@ -9428,6 +9428,7 @@
 0.0.0.0 trk.wdacashtrk.com
 0.0.0.0 trk2.pinterest.com
 0.0.0.0 trkapi.impact.com
+0.0.0.0 trkcliq.com
 0.0.0.0 troubleshade.com
 0.0.0.0 tru.am
 0.0.0.0 truckstomatoes.com
@@ -9496,6 +9497,7 @@
 0.0.0.0 uc.atwola.com
 0.0.0.0 uc.ucweb.com
 0.0.0.0 uc9.ucweb.com
+0.0.0.0 ucads.ucweb.com
 0.0.0.0 uconnect.tealiumiq.com
 0.0.0.0 ucus.ucweb.com
 0.0.0.0 ud.tubemogul.com

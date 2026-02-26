@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 09 Feb 2026 16:00:22 GMT
-# entries:        3501
+# last updated:   Thu, 26 Feb 2026 16:56:12 GMT
+# entries:        3503
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -576,7 +576,6 @@
 127.0.0.1 ads.twojatv.info
 127.0.0.1 ads.ultimate-guitar.com
 127.0.0.1 ads.uncrate.com
-127.0.0.1 ads.unison.bg
 127.0.0.1 ads.usatoday.com
 127.0.0.1 ads.uxs.at
 127.0.0.1 ads.v-lazer.com
@@ -777,6 +776,7 @@
 127.0.0.1 adv.wp.pl
 127.0.0.1 adv.yo.cz
 127.0.0.1 advangelists.com
+127.0.0.1 advariant.com
 127.0.0.1 adventory.com
 127.0.0.1 adventurousamount.com
 127.0.0.1 advert.bayarea.com
@@ -1012,6 +1012,7 @@
 127.0.0.1 banners.adultfriendfinder.com
 127.0.0.1 banners.amigos.com
 127.0.0.1 banners.asiafriendfinder.com
+127.0.0.1 banners.babylon-x.com
 127.0.0.1 banners.bol.com.br
 127.0.0.1 banners.cams.com
 127.0.0.1 banners.czi.cz
@@ -1333,7 +1334,6 @@
 127.0.0.1 colorfulpet.com
 127.0.0.1 coloroptimizer.com
 127.0.0.1 comfortablecheese.com
-127.0.0.1 commindo-media-ressourcen.de
 127.0.0.1 commissionmonster.com
 127.0.0.1 communications.melitaltd.com
 127.0.0.1 compactbanner.com
@@ -2134,6 +2134,7 @@
 127.0.0.1 madclient.uimserv.net
 127.0.0.1 madcpms.com
 127.0.0.1 madinad.com
+127.0.0.1 madisonavenue.com
 127.0.0.1 madvertise.de
 127.0.0.1 magicadz.co
 127.0.0.1 magicaljoin.com
@@ -2664,6 +2665,7 @@
 127.0.0.1 rambunctiousflock.com
 127.0.0.1 rampidads.com
 127.0.0.1 randkuj.xyz
+127.0.0.1 rankchamp.de
 127.0.0.1 ranking-charts.de
 127.0.0.1 ranking-hits.de
 127.0.0.1 ranking-links.de
@@ -2813,7 +2815,6 @@
 127.0.0.1 screechingfurniture.com
 127.0.0.1 screechingstocking.com
 127.0.0.1 screechingstove.com
-127.0.0.1 scripte-monster.de
 127.0.0.1 scrubswim.com
 127.0.0.1 seadform.net
 127.0.0.1 searchmarketing.com
@@ -2834,7 +2835,6 @@
 127.0.0.1 serendipityecho.com
 127.0.0.1 serpentshampoo.com
 127.0.0.1 serv0.com
-127.0.0.1 servads.net
 127.0.0.1 servclick1move.com
 127.0.0.1 serve.tercept.com
 127.0.0.1 servedby-buysellads.com
@@ -2865,6 +2865,7 @@
 127.0.0.1 sicksmash.com
 127.0.0.1 sidebar.angelfire.com
 127.0.0.1 signalayer.com
+127.0.0.1 signalszone.com
 127.0.0.1 sillyscrew.com
 127.0.0.1 silvermob.com
 127.0.0.1 simpleanalytics.io
@@ -3135,6 +3136,7 @@
 127.0.0.1 themangotea.com
 127.0.0.1 themoneytizer.com
 127.0.0.1 therapistla.com
+127.0.0.1 thewavebeats.com
 127.0.0.1 thinkitten.com
 127.0.0.1 thirdparty.bnc.lt
 127.0.0.1 thirdrespect.com
