@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mostly Cosmetic CPBL Filters for ABP & uBO
-! Updated: Wed Sep 17 02:38:27 PM UTC 2025
+! Updated: Thu Feb 26 05:51:27 PM UTC 2026
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -177,6 +177,12 @@ hpanel.hostinger.com##.horizons-try-now-banner
 hpanel.hostinger.com##.horizons-banner
 hpanel.hostinger.com##.hot-spot
 hpanel.hostinger.com##.feature-pricing
+hpanel.hostinger.com##.h-mb-24.agency-plan-banner.h-card--no-header.h-card
+hpanel.hostinger.com##.h-mb-24.ai-container
+hpanel.hostinger.com##.h-mb-32.black-friday-banner
+hpanel.hostinger.com##.os-articles
+hpanel.hostinger.com##.reach-installation
+hpanel.hostinger.com##.try-horizons__banner
 huffpost.com##[class*=social-buttons]
 huffpost.com##DIV#top_news_inner
 huffpost.com##.js-entry-promo.small.entry-promo
@@ -228,6 +234,7 @@ my.indeed.com##.icl-Alert--info.icl-Alert
 my.indeed.com##.icl-Callout--caretStart.icl-Callout
 my.indeed.com##div.saved-item-inner.preview-editor-section:nth-of-type(5) > div:nth-of-type(2)
 myetherwallet.com##.footer-banner.footer-banner-container.full-width.text-center.align-center.justify-center.d-flex.white
+namecheap.com##.gb-x-sell--row.gb-row
 nationalgeographic.com##.Modal.PaywallModal
 nationalgeographic.com##.ModalInner
 nationalgeographic.com##.Slider__InnerContainer
@@ -336,6 +343,7 @@ slashdot.org##.banner-wrapper
 slashdot.org##.close-ad
 slashdot.org##.deals-rail
 slashdot.org##.deals-wrapper
+slashdot.org###mdb-sticky
 slashdot.org##.multiple.job.side-bar
 slashdot.org##div[class$="ntv-preview-img-wrapper"]
 slippedisc.com##li.ad.single_post
