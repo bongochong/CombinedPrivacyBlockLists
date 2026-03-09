@@ -405,7 +405,7 @@ vigilantcitizen.com##[class*=paywall]
 washingtonpost.com##.z-eyei-bvs
 website2.me##[id^="ws-bottom-banner-"]
 website2.me##[id^="ws-side-banner-"]
-x.com##[data-testid="BottomBar"]
+! Problems with this one: x.com##[data-testid="BottomBar"]
 yidio.com##.more-info > .horz.question.provider.tt
 yidio.com##.vert.bullets.provider.tt
 zerohedge.com##.Banner_banner__2PJ1Y
