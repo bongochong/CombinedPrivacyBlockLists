@@ -1,4 +1,4 @@
-# Thu Feb 26 05:28:59 PM UTC 2026
+# Wed Mar 11 10:11:44 PM UTC 2026
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -1009,6 +1009,7 @@
 0.0.0.0 affiz.net
 0.0.0.0 afiles.webengage.com
 0.0.0.0 afraidlanguage.com
+0.0.0.0 afs.googlesyndication.com
 0.0.0.0 aftermathbrother.com
 0.0.0.0 aftonbladetnya.sc.omtrdc.net
 0.0.0.0 ag.gbc.criteo.com
@@ -2091,6 +2092,7 @@
 0.0.0.0 bdapi-ads.realmemobile.com
 0.0.0.0 bdapi-in-ads.realmemobile.com
 0.0.0.0 bdapi.ads.oppomobile.com
+0.0.0.0 bdtelemetry.amazon
 0.0.0.0 be-gmtdmp.mookie1.com
 0.0.0.0 be-ms.teads.tv
 0.0.0.0 be.durationmedia.net
@@ -5570,6 +5572,7 @@
 0.0.0.0 log.bloodsugars.live
 0.0.0.0 log.cleandesigner.live
 0.0.0.0 log.cleanertoolboxonline.live
+0.0.0.0 log.cleanerwish.live
 0.0.0.0 log.cleansweepplu.com
 0.0.0.0 log.clearcleanerpro.live
 0.0.0.0 log.documentmanagerpdfdocxlssale.live
@@ -5614,10 +5617,12 @@
 0.0.0.0 log.pdfbookeditor.live
 0.0.0.0 log.pdfviewerscannerstore.live
 0.0.0.0 log.phonefreshfix.live
+0.0.0.0 log.photorecoverypicturerecovery.com
 0.0.0.0 log.pinterest.com
 0.0.0.0 log.pngindir.com
 0.0.0.0 log.pullcenter.live
 0.0.0.0 log.pvpgang.com
+0.0.0.0 log.scanqrcodedesign.live
 0.0.0.0 log.sdk.zadn.vn
 0.0.0.0 log.sina.cn
 0.0.0.0 log.smaato.net
@@ -5626,6 +5631,7 @@
 0.0.0.0 log.snow.me
 0.0.0.0 log.stickflow.xyz
 0.0.0.0 log.suddenclean.com
+0.0.0.0 log.sweepycleanplus.com
 0.0.0.0 log.talkie-ai.com
 0.0.0.0 log.tapatalk.com
 0.0.0.0 log.tbs.qq.com
@@ -6038,7 +6044,6 @@
 0.0.0.0 min.admicro.vn
 0.0.0.0 mindfulgem.com
 0.0.0.0 mindlessmark.com
-0.0.0.0 minor-api-os.hoyoverse.com
 0.0.0.0 minorcattle.com
 0.0.0.0 minormeeting.com
 0.0.0.0 mintegral.com
@@ -6916,6 +6921,7 @@
 0.0.0.0 pnrt-stsdk.vivo.com.cn
 0.0.0.0 pnrt.stsdk.vivo.com.cn
 0.0.0.0 pnytimes.chartbeat.net
+0.0.0.0 pob-mob2.websearchbrowser.com
 0.0.0.0 pocketfaucet.com
 0.0.0.0 pocketmath.com
 0.0.0.0 podiumpresto.com
@@ -7559,6 +7565,7 @@
 0.0.0.0 rum-collector.pingdom.net
 0.0.0.0 rum-collector.wpm.neustar.biz
 0.0.0.0 rum-static.pingdom.net
+0.0.0.0 rum.us-east-1.amazonaws.com
 0.0.0.0 rumcdn.geoedge.be
 0.0.0.0 rumstat.cdnvideo.ru
 0.0.0.0 run-syndicate.com
