@@ -1,4 +1,4 @@
-# Wed Mar 11 10:11:44 PM UTC 2026
+# Sat Mar 28 03:41:25 PM UTC 2026
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -431,6 +431,7 @@
 0.0.0.0 ad.apsalar.com
 0.0.0.0 ad.atdmt.com
 0.0.0.0 ad.auditude.com
+0.0.0.0 ad.bestools.group
 0.0.0.0 ad.buzzvil.com
 0.0.0.0 ad.cauly.co.kr
 0.0.0.0 ad.crwdcntrl.net
@@ -483,6 +484,7 @@
 0.0.0.0 ad.weplayer.cc
 0.0.0.0 ad.wynk.in
 0.0.0.0 ad.youku.com
+0.0.0.0 ad.zankhana.ltd
 0.0.0.0 ad.zijieapi.com
 0.0.0.0 ad11p.adfarm1.adition.com
 0.0.0.0 ad13.adfarm1.adition.com
@@ -505,7 +507,7 @@
 0.0.0.0 adashx4id.ut.taobao.com
 0.0.0.0 adasiaholdings.com
 0.0.0.0 adb2waycm-atl.netmng.com
-0.0.0.0 adballoon.sooplive.co.kr
+0.0.0.0 adballoon.sooplive.com
 0.0.0.0 adblade.com
 0.0.0.0 adbox.sina.com.cn
 0.0.0.0 adbro.me
@@ -3513,7 +3515,7 @@
 0.0.0.0 deafeningdock.com
 0.0.0.0 deafeningdowntown.com
 0.0.0.0 dealerdotcomdisplay576919175878.s.moatpixel.com
-0.0.0.0 deapi.sooplive.co.kr
+0.0.0.0 deapi.sooplive.com
 0.0.0.0 debojuagug1sf.cloudfront.net
 0.0.0.0 debonairdust.com
 0.0.0.0 debonairtree.com
@@ -4547,6 +4549,7 @@
 0.0.0.0 glitter.services.disqus.com
 0.0.0.0 glitteringbrook.com
 0.0.0.0 glizauvo.net
+0.0.0.0 global-report.ml.youngjoygame.com
 0.0.0.0 global-sis.engagelab.com
 0.0.0.0 global-staticplat.cdn.bcebos.com
 0.0.0.0 global-wildcard.insightexpressai.com.edgekey.net
@@ -4620,6 +4623,8 @@
 0.0.0.0 gov.aniview.com
 0.0.0.0 gowadogo.com
 0.0.0.0 gplayer.kmpmedia.net
+0.0.0.0 gplog-sg.byteoversea.com
+0.0.0.0 gpm-mon-va.bytegsdk.com
 0.0.0.0 gpm-mon-va.byteoversea.com
 0.0.0.0 grabify.link
 0.0.0.0 grace.shareaholic.com
@@ -4653,6 +4658,9 @@
 0.0.0.0 grs.hicloud.com
 0.0.0.0 grumpydime.com
 0.0.0.0 grumpydrawer.com
+0.0.0.0 gsdk-quic-gcp-va.bytegsdk.com
+0.0.0.0 gsdk-va.bytegsdk.com
+0.0.0.0 gsdk19-va.bytegsdk.com
 0.0.0.0 gsjln04hd.com
 0.0.0.0 gslbeacon.lijit.com
 0.0.0.0 gtdslaters.com
@@ -5125,6 +5133,7 @@
 0.0.0.0 ingamesads.gameloft.com
 0.0.0.0 ingest.m2appmonitor.com
 0.0.0.0 ingest.m2catalyst.com
+0.0.0.0 ingest.skarb.work
 0.0.0.0 inhousedsp.com
 0.0.0.0 inimage.carambo.la
 0.0.0.0 init.sms.mob.com
@@ -5543,6 +5552,7 @@
 0.0.0.0 log-dbff2e04.us.v2.we-stats.com
 0.0.0.0 log-mediation.easemobi.net
 0.0.0.0 log-music-data.line-apps.com
+0.0.0.0 log-nontt.bytegsdk.com
 0.0.0.0 log-pub-hk.aoshitang.com
 0.0.0.0 log-sdk.ksapisrv.com
 0.0.0.0 log-sg.capcutapi.com
@@ -7405,7 +7415,7 @@
 0.0.0.0 reportwest-midas.codmwest.com
 0.0.0.0 reproio.com
 0.0.0.0 req.startappservice.com
-0.0.0.0 reqde.sooplive.co.kr
+0.0.0.0 reqde.sooplive.com
 0.0.0.0 res.media.net
 0.0.0.0 res.mmstat.com
 0.0.0.0 res1.applovin.com
@@ -7961,7 +7971,9 @@
 0.0.0.0 send.microadinc.com
 0.0.0.0 sender.clevernt.com
 0.0.0.0 sendingspire.com
+0.0.0.0 sensor.aqhg.online
 0.0.0.0 sensor.emolm.com
+0.0.0.0 sensor.photogrid.app
 0.0.0.0 sensors.binance.cloud
 0.0.0.0 sensors.larkplayerapp.com
 0.0.0.0 sensors.snappea.com
@@ -9882,7 +9894,7 @@
 0.0.0.0 vnet.cn
 0.0.0.0 vniddlg.xyz
 0.0.0.0 vntsm.com
-0.0.0.0 vod-mplayer.sooplive.co.kr
+0.0.0.0 vod-mplayer.sooplive.com
 0.0.0.0 vodafonetr.sc.omtrdc.net
 0.0.0.0 voicelessvein.com
 0.0.0.0 voicevegetable.com
