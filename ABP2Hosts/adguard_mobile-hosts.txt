@@ -1,4 +1,4 @@
-# Sat Mar 28 03:41:25 PM UTC 2026
+# Mon Apr  6 03:30:24 AM UTC 2026
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -1242,6 +1242,7 @@
 0.0.0.0 analytics.pinterest.com
 0.0.0.0 analytics.pokki.com
 0.0.0.0 analytics.prod.mybuddy.ai
+0.0.0.0 analytics.prod.tophat.withbuddies.com
 0.0.0.0 analytics.projectcarmen.com
 0.0.0.0 analytics.publitas.com
 0.0.0.0 analytics.qoqa.ch
@@ -1347,6 +1348,7 @@
 0.0.0.0 api-h.outgrow.co
 0.0.0.0 api-js.mixpanel.com
 0.0.0.0 api-live.outgrow.co
+0.0.0.0 api-log-upload.wenext.technology
 0.0.0.0 api-n.outgrow.co
 0.0.0.0 api-proxy.bee7.com
 0.0.0.0 api-public.addthis.com
@@ -1354,6 +1356,7 @@
 0.0.0.0 api-sdk.datadome.co
 0.0.0.0 api-telemetry.servers.getgo.com
 0.0.0.0 api-usent.kampyle.com
+0.0.0.0 api-v2.shareitgames.com
 0.0.0.0 api-v3.tinypass.com
 0.0.0.0 api.247-inc.net
 0.0.0.0 api.53.localytics.com
@@ -1422,6 +1425,7 @@
 0.0.0.0 api.doumob.com
 0.0.0.0 api.eagllwin.com
 0.0.0.0 api.engager.ecbsn.com
+0.0.0.0 api.event.appstack.tech
 0.0.0.0 api.exc.mob.com
 0.0.0.0 api.fusepowered.com
 0.0.0.0 api.fw.tv
@@ -1576,6 +1580,7 @@
 0.0.0.0 api2.okanjo.com
 0.0.0.0 api2.poperblocker.com
 0.0.0.0 api2.restartad.com
+0.0.0.0 api2.wshareit.com
 0.0.0.0 api3.branch.io
 0.0.0.0 api3.siftscience.com
 0.0.0.0 api4.1mobile.com
@@ -1658,6 +1663,7 @@
 0.0.0.0 app-config.enhance.co
 0.0.0.0 app-e.marketo.com
 0.0.0.0 app-icons.apptentive.com
+0.0.0.0 app-log-lab.immomo.com
 0.0.0.0 app-log-oversea.immomo.com
 0.0.0.0 app-lon02.marketo.com
 0.0.0.0 app-lon03.marketo.com
@@ -1812,6 +1818,7 @@
 0.0.0.0 aquaticalarm.com
 0.0.0.0 aquaticanswer.com
 0.0.0.0 aquaticowl.com
+0.0.0.0 aqueduct-collector-prod.alar.my
 0.0.0.0 ar-gmtdmp.mookie1.com
 0.0.0.0 ar.tns-counter.ru
 0.0.0.0 ar.umeng.com
@@ -2494,6 +2501,7 @@
 0.0.0.0 catalogcake.com
 0.0.0.0 catalogdiscovery.com
 0.0.0.0 catschickens.com
+0.0.0.0 catsonictp.com
 0.0.0.0 cattlecommittee.com
 0.0.0.0 causecherry.com
 0.0.0.0 cautiouscamera.com
@@ -3571,7 +3579,10 @@
 0.0.0.0 detailedglue.com
 0.0.0.0 detailedgovernment.com
 0.0.0.0 detaillog-global-dual.coolbcloud.com
+0.0.0.0 detaillog-global-dual.coolccloud.com
+0.0.0.0 detaillog-global-dual.coolgcloud.com
 0.0.0.0 detaillog-global-dual.coolhcloud.com
+0.0.0.0 detailroi.com
 0.0.0.0 detect.rayjump.com
 0.0.0.0 detectdinner.com
 0.0.0.0 detectdiscovery.com
@@ -4043,6 +4054,7 @@
 0.0.0.0 events-api.towneers.prod.data.krmt.io
 0.0.0.0 events-collector-api.viacom.tech
 0.0.0.0 events-collector.spot.im
+0.0.0.0 events-noneu.truecaller.com
 0.0.0.0 events-stream-svc.cordial.com
 0.0.0.0 events-stream-svc.cordial.io
 0.0.0.0 events-stream-svc.usw2.cordial.com
@@ -4289,6 +4301,7 @@
 0.0.0.0 fm.ipinyou.com
 0.0.0.0 fmpub.net
 0.0.0.0 fms.ipinyou.com
+0.0.0.0 fnyfeds.com
 0.0.0.0 foambench.com
 0.0.0.0 foamyfood.com
 0.0.0.0 focas.jp
@@ -4331,6 +4344,7 @@
 0.0.0.0 fp-it.fengkongcloud.com
 0.0.0.0 fp-sa-it.fengkongcloud.com
 0.0.0.0 fp3.ads.stickyadstv.com.akadns.net
+0.0.0.0 fpconfig.net
 0.0.0.0 fr-gmtdmp.mookie1.com
 0.0.0.0 fr.eu.criteo.com
 0.0.0.0 fr.eu.criteo.net
@@ -4469,6 +4483,7 @@
 0.0.0.0 gdpr.rw.yieldmo.com
 0.0.0.0 gds.mmstat.com
 0.0.0.0 geede.info
+0.0.0.0 geegad.com
 0.0.0.0 geekactive.com
 0.0.0.0 geico.com.ssl.sc.omtrdc.net
 0.0.0.0 gem-log.sloegem.com
@@ -5131,6 +5146,7 @@
 0.0.0.0 informengine.com
 0.0.0.0 ingameads.gameloft.com
 0.0.0.0 ingamesads.gameloft.com
+0.0.0.0 ingest.databuckets.com
 0.0.0.0 ingest.m2appmonitor.com
 0.0.0.0 ingest.m2catalyst.com
 0.0.0.0 ingest.skarb.work
@@ -5667,6 +5683,7 @@
 0.0.0.0 logagent-wf.centurygame.com
 0.0.0.0 loganmedia.mobi
 0.0.0.0 logapi-and.zhipin.com
+0.0.0.0 logapi.bodyevey.com
 0.0.0.0 logbak.hicloud.com
 0.0.0.0 logc-sg.tsd.xindong.com
 0.0.0.0 logcollection.ronghub.com
@@ -5687,6 +5704,7 @@
 0.0.0.0 logrcv.adseyeservice.com
 0.0.0.0 logreport-global-dual.coolbcloud.com
 0.0.0.0 logreport-global-dual.coolhcloud.com
+0.0.0.0 logretrieve.duetapp.net
 0.0.0.0 logs-01.loggly.com
 0.0.0.0 logs-ingress.svc.vinted.com
 0.0.0.0 logs-sg.rebxgame.com
@@ -5911,6 +5929,7 @@
 0.0.0.0 mcdp-chidc2.outbrain.com
 0.0.0.0 mcdp-nydc1.outbrain.com
 0.0.0.0 mcdp-sadc1.outbrain.com
+0.0.0.0 mcds.dalyfeds.com
 0.0.0.0 mcf4wh-jdfmxrzzzttwqcrf-d3b4.device.marketingcloudapis.com
 0.0.0.0 mcg-ads.inmobi.com
 0.0.0.0 mcizas.com
@@ -6025,6 +6044,7 @@
 0.0.0.0 metrics.sdkbox.com
 0.0.0.0 metrics.sp0n.io
 0.0.0.0 metrics.spbtv.com
+0.0.0.0 metrics.taimi.com
 0.0.0.0 metrics.ted.com
 0.0.0.0 metrics.timewarnercable.com
 0.0.0.0 metricscollector.lp.xcal.tv
@@ -6068,6 +6088,7 @@
 0.0.0.0 mittencattle.com
 0.0.0.0 mixadvert.com
 0.0.0.0 mixedreading.com
+0.0.0.0 mixpanel-proxy-ivbdkvonca-uc.a.run.app
 0.0.0.0 mjp-analytics.ximad.com
 0.0.0.0 ml314.com
 0.0.0.0 mlb.did.ijinshan.com
@@ -6185,6 +6206,7 @@
 0.0.0.0 movemeal.com
 0.0.0.0 mowfruit.com
 0.0.0.0 mozbar.moz.com
+0.0.0.0 mp-gb-sdklog.kurogames.net
 0.0.0.0 mp.teads.tv
 0.0.0.0 mp5-wl.mobileposse.com
 0.0.0.0 mparticle.map.fastly.net
@@ -6230,6 +6252,7 @@
 0.0.0.0 mug.criteo.com
 0.0.0.0 mug.da1.vip.prod.criteo.com
 0.0.0.0 multi-cluster.directservices.it
+0.0.0.0 multiww.com
 0.0.0.0 mum.alibabachengdun.com
 0.0.0.0 munchkin.marketo.net
 0.0.0.0 mundanenail.com
@@ -6414,6 +6437,7 @@
 0.0.0.0 ns.zdbb.net
 0.0.0.0 nsclickvideo.xiaodutv.com
 0.0.0.0 ntracker-collector.naver.com
+0.0.0.0 ntus.bidease.com
 0.0.0.0 ntv.io.edgekey.net
 0.0.0.0 ntvcld-a.akamaihd.net
 0.0.0.0 nudgeduck.com
@@ -6716,6 +6740,7 @@
 0.0.0.0 pc083-ii06c.ads.tremorhub.com
 0.0.0.0 pca.admarketplace.net
 0.0.0.0 pclick.yahoo.com
+0.0.0.0 pco-sm-log.tantanapp.com
 0.0.0.0 pd.ads.cn.miaozhen.com
 0.0.0.0 pd.sharethis.com
 0.0.0.0 pdn.adingo.jp
@@ -7069,6 +7094,7 @@
 0.0.0.0 prod-m-node-3111.ssp.advertising.com
 0.0.0.0 prod-ms.applovin.com
 0.0.0.0 prod-pdx-beacon-1406086907.us-west-2.elb.amazonaws.com
+0.0.0.0 prod-ue1-metrics.hingeprod.net
 0.0.0.0 prod.adjoe.zone
 0.0.0.0 prod.adtechjp.com
 0.0.0.0 prod.bidr.io
@@ -7093,6 +7119,7 @@
 0.0.0.0 profile-api-prod-elb.53.localytics.com
 0.0.0.0 profile.adkmob.com
 0.0.0.0 profile.localytics.com
+0.0.0.0 profiler-collector.dalyfeds.com
 0.0.0.0 profiler-collector.wshareit.com
 0.0.0.0 profiles.segment.com
 0.0.0.0 profitablecpmrate.com
@@ -7178,6 +7205,7 @@
 0.0.0.0 puffypaste.com
 0.0.0.0 puffypull.com
 0.0.0.0 puffypurpose.com
+0.0.0.0 pullcf.com
 0.0.0.0 pulsatingmeadow.com
 0.0.0.0 pulse.inmobi.com
 0.0.0.0 pumpedpancake.com
@@ -7407,11 +7435,14 @@
 0.0.0.0 report.1-1.io
 0.0.0.0 report.apkpure.net
 0.0.0.0 report.appmetrica.yandex.net
+0.0.0.0 report.duetapp.net
 0.0.0.0 report.pixverse.ai
 0.0.0.0 report.starshort.online
+0.0.0.0 report.tantanapp.com
 0.0.0.0 reporting.aatkit.com
 0.0.0.0 reporting.tapstream.com
 0.0.0.0 reports.ubimo.com
+0.0.0.0 reporttk.com
 0.0.0.0 reportwest-midas.codmwest.com
 0.0.0.0 reproio.com
 0.0.0.0 req.startappservice.com
@@ -8648,6 +8679,7 @@
 0.0.0.0 stats.rong-edge.com
 0.0.0.0 stats.rustore.ru
 0.0.0.0 stats.samsungpass.com
+0.0.0.0 stats.sdk.banuba.net
 0.0.0.0 stats.sg-light-edge.com
 0.0.0.0 stats.smartclip.net
 0.0.0.0 stats.studyquicks.com
@@ -9050,6 +9082,7 @@
 0.0.0.0 tc.qzwxrtyk.com
 0.0.0.0 tc.vbnmhjlp.com
 0.0.0.0 tc.weszxdrf.com
+0.0.0.0 tc.zxcvbnml.com
 0.0.0.0 tccbanner.com
 0.0.0.0 tcheck.outbrainimg.com
 0.0.0.0 tcp.push.mob.com
@@ -9091,6 +9124,7 @@
 0.0.0.0 telemetry.sdk.inmobi.cn
 0.0.0.0 telemetry.sdk.inmobi.com
 0.0.0.0 telemetry.servers.getgo.com
+0.0.0.0 telemetry.split.io
 0.0.0.0 telemetry.voxeet.com
 0.0.0.0 telephoneapparatus.com
 0.0.0.0 teleport.soom.la
@@ -9128,6 +9162,7 @@
 0.0.0.0 thingstaste.com
 0.0.0.0 thinkablefloor.com
 0.0.0.0 thinkablerice.com
+0.0.0.0 thinkingdata.cn
 0.0.0.0 thinkitten.com
 0.0.0.0 thinkitwice.com
 0.0.0.0 thinknear-hosted.thinknearhub.com
@@ -9274,6 +9309,7 @@
 0.0.0.0 track.effiliation.com
 0.0.0.0 track.extra.app
 0.0.0.0 track.eyeviewads.com
+0.0.0.0 track.hily.com
 0.0.0.0 track.hk01.com
 0.0.0.0 track.knlob.com
 0.0.0.0 track.ktplay.com
