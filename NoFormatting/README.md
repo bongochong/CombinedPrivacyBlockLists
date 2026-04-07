@@ -31,7 +31,7 @@ Within this directory are the following items:
 
 - The [version of my main CIDR-format block list with `deny from` prepended to each line](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/combined-denied.cidr) is also available in this subdirectory.  
 
-- A [CIDR-format list](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/personal-entries.cidr) of IP addresses which I have observed to be engaged in clearly malicious activity while running IceCast and Shoutcast servers, along with spambots from IRC channels, and SoulSeek chatrooms (so long as they have no files shared, which is -- expectedly -- always the case). This gets merged into every update of my aggregated CIDR and peer-to-peer block lists.  
+- A [CIDR-format list](https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/personal-entries.cidr) of IP addresses which I have observed to be engaged in clearly malicious activity on various servers I manage (mainly DNS, and Icecast / Shoutcast), along with spambots from IRC channels, and SoulSeek chatrooms (so long as they have no files shared, which is -- expectedly -- always the case). This gets merged into every update of my aggregated CIDR and peer-to-peer block lists.  
 
 - A [directory containing mirrors](https://github.com/bongochong/CombinedPrivacyBlockLists/tree/master/NoFormatting/Mirrors) of a few important block lists / hosts files.  
 
