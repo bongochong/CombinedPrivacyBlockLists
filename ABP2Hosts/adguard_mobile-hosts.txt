@@ -1,4 +1,4 @@
-# Mon Apr  6 03:30:24 AM UTC 2026
+# Fri Apr 10 05:15:51 AM UTC 2026
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -390,6 +390,7 @@
 0.0.0.0 ad-api-log.colopl.jp
 0.0.0.0 ad-api.ehawk.com
 0.0.0.0 ad-api.maxnapps.com
+0.0.0.0 ad-api.revoaidapp.com
 0.0.0.0 ad-brix.com
 0.0.0.0 ad-cdn.technoratimedia.com
 0.0.0.0 ad-channel.wikawika.xyz
@@ -1598,8 +1599,10 @@
 0.0.0.0 apitm.toolmatrix.plus
 0.0.0.0 apituner.ecbsn.com
 0.0.0.0 apiv2.moengage.com
+0.0.0.0 apm-fe.rnote.com
 0.0.0.0 apm-fe.xiaohongshu.com
 0.0.0.0 apm-log-upload-os.hoyoverse.com
+0.0.0.0 apm-native.redbascket.com
 0.0.0.0 apm-native.xiaohongshu.com
 0.0.0.0 apm-track.xiaohongshu.com
 0.0.0.0 apm.crittercism.com
@@ -3489,6 +3492,7 @@
 0.0.0.0 dataflow.biliapi.com
 0.0.0.0 datam16.adlooxtracking.com
 0.0.0.0 datarangers-event.myrightone.com
+0.0.0.0 datasink.sensorsjourney.com
 0.0.0.0 datastoried.com
 0.0.0.0 dataxu.com
 0.0.0.0 datk.bridgeoos.com
@@ -5545,6 +5549,7 @@
 0.0.0.0 lizardslaugh.com
 0.0.0.0 lklfwu-inapps.appsflyersdk.com
 0.0.0.0 lm.serving-sys.com
+0.0.0.0 lng.xiaohongshu.com
 0.0.0.0 load-apne1.exelator.com
 0.0.0.0 load.exelator.com
 0.0.0.0 load.fomo.com
@@ -5602,6 +5607,7 @@
 0.0.0.0 log.cleansweepplu.com
 0.0.0.0 log.clearcleanerpro.live
 0.0.0.0 log.documentmanagerpdfdocxlssale.live
+0.0.0.0 log.documentreaderapp.com
 0.0.0.0 log.down61.com
 0.0.0.0 log.dramaboxdb.com
 0.0.0.0 log.easy39.com
@@ -5648,6 +5654,7 @@
 0.0.0.0 log.pngindir.com
 0.0.0.0 log.pullcenter.live
 0.0.0.0 log.pvpgang.com
+0.0.0.0 log.qrscanner.live
 0.0.0.0 log.scanqrcodedesign.live
 0.0.0.0 log.sdk.zadn.vn
 0.0.0.0 log.sina.cn
@@ -6095,6 +6102,7 @@
 0.0.0.0 mlog.hiido.com
 0.0.0.0 mm.markandmini.com
 0.0.0.0 mmaglobal.com
+0.0.0.0 mmp-api.itpub.cloud
 0.0.0.0 mmp001.scalemonk.com
 0.0.0.0 mms.cnn.com
 0.0.0.0 mnaspm.com
@@ -6240,6 +6248,7 @@
 0.0.0.0 mssdk-boot.cpacutapi.com
 0.0.0.0 mssdk-va.byteoversea.com
 0.0.0.0 mssdk.capcutapi.us
+0.0.0.0 mt-api.itpub.cloud
 0.0.0.0 mtag.mman.kr
 0.0.0.0 mtburn.jp
 0.0.0.0 mtgglobals.com
@@ -8958,6 +8967,7 @@
 0.0.0.0 t0.c.appier.net
 0.0.0.0 t2.chartboost.com
 0.0.0.0 t2.hulu.com
+0.0.0.0 t2.xiaohongshu.com
 0.0.0.0 ta-collector.centurygame.com
 0.0.0.0 tabletsregrind.com
 0.0.0.0 taboola-supply-partners.tremorhub.com
@@ -9744,6 +9754,7 @@
 0.0.0.0 uttermosthobbies.com
 0.0.0.0 uw.evm1.stackadapt.com
 0.0.0.0 uw.srv.stackadapt.com
+0.0.0.0 uydeqs9.xyz
 0.0.0.0 v-ak.chartboost.com
 0.0.0.0 v-collector.dp.aws.charter.com
 0.0.0.0 v.adsrvr.org
