@@ -1,4 +1,4 @@
-# Fri Apr 10 05:15:51 AM UTC 2026
+# Sat Apr 11 06:05:07 PM UTC 2026
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -3039,6 +3039,7 @@
 0.0.0.0 collector.cint.com
 0.0.0.0 collector.doordash.com
 0.0.0.0 collector.effectivemeasure.net
+0.0.0.0 collector.gamechanger.io
 0.0.0.0 collector.leaddyno.com
 0.0.0.0 collector.pabs.comcast.com
 0.0.0.0 collector.scopely.io
@@ -6378,6 +6379,7 @@
 0.0.0.0 news-app-events.apple.com
 0.0.0.0 news-cdn.site
 0.0.0.0 news-events.apple.com
+0.0.0.0 news-img.site
 0.0.0.0 news-sports-events.apple.com
 0.0.0.0 news.iadsdk.apple.com
 0.0.0.0 newscorp.grapeshot.co.uk

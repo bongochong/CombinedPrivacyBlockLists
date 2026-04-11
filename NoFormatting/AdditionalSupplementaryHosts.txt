@@ -16146,6 +16146,7 @@
 0.0.0.0 kygt-tpnr.com
 0.0.0.0 kyivstar-ip.com
 0.0.0.0 kyle-scenes-librarian-supporters.trycloudflare.com
+0.0.0.0 kyrelune.net
 0.0.0.0 kyrmtjxzbdzszrrkgt.com
 0.0.0.0 kyson.ad.daum.net
 0.0.0.0 kythuatdmayxanh.com
@@ -16414,6 +16415,7 @@
 0.0.0.0 lie2anyone.com
 0.0.0.0 lien-lienam.com
 0.0.0.0 lifamyminaylio.linkpc.net
+0.0.0.0 life-certain.jp
 0.0.0.0 life-is-luminous.com
 0.0.0.0 lifeming.com
 0.0.0.0 lifeofbeer.ru
@@ -16448,6 +16450,7 @@
 0.0.0.0 lin.kim
 0.0.0.0 lin31.metriweb.be
 0.0.0.0 linblog.info
+0.0.0.0 lincolnforestlakeproject.com
 0.0.0.0 lindybiocareers.com
 0.0.0.0 line-channel-info.com
 0.0.0.0 line-special-information.com
@@ -20571,6 +20574,7 @@
 0.0.0.0 practiceartist.com
 0.0.0.0 pragmaticinquiry.org
 0.0.0.0 prairietruckx.ru
+0.0.0.0 prasquinor.jp
 0.0.0.0 praterage-colled.com
 0.0.0.0 prazd-pack.ru
 0.0.0.0 pre-adui.tg.meitu.com
@@ -21634,6 +21638,7 @@
 0.0.0.0 roimedia.advertserve.com
 0.0.0.0 rokuseikantei.com
 0.0.0.0 roletaryk.info
+0.0.0.0 roll-tooth.com
 0.0.0.0 rollbar.com
 0.0.0.0 rollconnection.com
 0.0.0.0 romance-time.net
@@ -27082,6 +27087,7 @@
 0.0.0.0 vulcan.branch.io
 0.0.0.0 vulcan2.branch.io
 0.0.0.0 vulcan3.branch.io
+0.0.0.0 vultenok.net
 0.0.0.0 vulzul.com
 0.0.0.0 vungle.com
 0.0.0.0 vuryua.ru
@@ -29084,6 +29090,7 @@
 0.0.0.0 zaira.lon2.spotify.com
 0.0.0.0 zairtaz.com
 0.0.0.0 zakromanoff.com
+0.0.0.0 zalenith.com
 0.0.0.0 zalmips.com
 0.0.0.0 zalo-ads-240-td.zadn.vn
 0.0.0.0 zalo-ads-240.zadn.vn
