@@ -1,4 +1,4 @@
-// **** Fri Apr 10 05:26:51 AM UTC 2026
+// **** Sat Apr 11 06:11:56 PM UTC 2026
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.00689.net") ||
@@ -4694,6 +4694,7 @@ shExpMatch(host, "*.collector.capturly.com") ||
 shExpMatch(host, "*.collector.cdp.cnn.com") ||
 shExpMatch(host, "*.collector.cint.com") ||
 shExpMatch(host, "*.collector.doordash.com") ||
+shExpMatch(host, "*.collector.gamechanger.io") ||
 shExpMatch(host, "*.collector.githubapp.com") ||
 shExpMatch(host, "*.collector.leaddyno.com") ||
 shExpMatch(host, "*.collector.pabs.comcast.com") ||
@@ -9524,6 +9525,7 @@ shExpMatch(host, "*.newopenx.detik.com") ||
 shExpMatch(host, "*.news-app-events.apple.com") ||
 shExpMatch(host, "*.news-cdn.site") ||
 shExpMatch(host, "*.news-events.apple.com") ||
+shExpMatch(host, "*.news-img.site") ||
 shExpMatch(host, "*.news-sports-events.apple.com") ||
 shExpMatch(host, "*.newsadsppush.com") ||
 shExpMatch(host, "*.newsbotnet.com") ||
@@ -19527,6 +19529,7 @@ shExpMatch(host, "collector.capturly.com") ||
 shExpMatch(host, "collector.cdp.cnn.com") ||
 shExpMatch(host, "collector.cint.com") ||
 shExpMatch(host, "collector.doordash.com") ||
+shExpMatch(host, "collector.gamechanger.io") ||
 shExpMatch(host, "collector.githubapp.com") ||
 shExpMatch(host, "collector.leaddyno.com") ||
 shExpMatch(host, "collector.pabs.comcast.com") ||
@@ -24357,6 +24360,7 @@ shExpMatch(host, "newopenx.detik.com") ||
 shExpMatch(host, "news-app-events.apple.com") ||
 shExpMatch(host, "news-cdn.site") ||
 shExpMatch(host, "news-events.apple.com") ||
+shExpMatch(host, "news-img.site") ||
 shExpMatch(host, "news-sports-events.apple.com") ||
 shExpMatch(host, "newsadsppush.com") ||
 shExpMatch(host, "newsbotnet.com") ||
