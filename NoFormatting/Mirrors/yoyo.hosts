@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 09 Apr 2026 18:07:39 GMT
-# entries:        3526
+# last updated:   Sun, 19 Apr 2026 05:45:45 GMT
+# entries:        3516
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -108,7 +108,6 @@
 127.0.0.1 ad.altervista.org
 127.0.0.1 ad.amgdgt.com
 127.0.0.1 ad.anuntis.com
-127.0.0.1 ad.auditude.com
 127.0.0.1 ad.bitmedia.io
 127.0.0.1 ad.bizo.com
 127.0.0.1 ad.bondage.com
@@ -354,7 +353,6 @@
 127.0.0.1 ads.adultfriendfinder.com
 127.0.0.1 ads.advance.net
 127.0.0.1 ads.adverline.com
-127.0.0.1 ads.alive.com
 127.0.0.1 ads.alt.com
 127.0.0.1 ads.amdmb.com
 127.0.0.1 ads.amigos.com
@@ -409,7 +407,6 @@
 127.0.0.1 ads.economist.com
 127.0.0.1 ads.elcarado.com
 127.0.0.1 ads.electrocelt.com
-127.0.0.1 ads.elitetrader.com
 127.0.0.1 ads.emdee.ca
 127.0.0.1 ads.emirates.net.ae
 127.0.0.1 ads.epi.sk
@@ -621,7 +618,6 @@
 127.0.0.1 ads2004.treiberupdate.de
 127.0.0.1 ads24h.net
 127.0.0.1 ads3-adnow.com
-127.0.0.1 ads3.contentabc.com
 127.0.0.1 ads3.gamecity.net
 127.0.0.1 ads3.virtual-nights.com
 127.0.0.1 ads4.gamecity.net
@@ -788,6 +784,7 @@
 127.0.0.1 adverticum.net
 127.0.0.1 advertipros.com
 127.0.0.1 advertise.com
+127.0.0.1 advertiseireland.com
 127.0.0.1 advertiserurl.com
 127.0.0.1 advertising.com
 127.0.0.1 advertisingbanners.com
@@ -810,6 +807,7 @@
 127.0.0.1 adx.gayboy.at
 127.0.0.1 adxpansion.com
 127.0.0.1 adxpose.com
+127.0.0.1 adxxxxxmost.co
 127.0.0.1 adyoulike.com
 127.0.0.1 adz.rashflash.com
 127.0.0.1 adzbazar.com
@@ -833,7 +831,6 @@
 127.0.0.1 affiliates.streamray.com
 127.0.0.1 affiliates.thinkhost.net
 127.0.0.1 affiliates.thrixxx.com
-127.0.0.1 affiliates.ultrahosting.com
 127.0.0.1 affiliatetracking.com
 127.0.0.1 affiliatetracking.net
 127.0.0.1 affiliatewindow.com
@@ -899,7 +896,6 @@
 127.0.0.1 analytics.yahoo.com
 127.0.0.1 analyticsapi.happypancake.net
 127.0.0.1 ancientact.com
-127.0.0.1 androiddownload.net
 127.0.0.1 aniview.com
 127.0.0.1 annonser.dagbladet.no
 127.0.0.1 annoyedairport.com
@@ -1220,6 +1216,7 @@
 127.0.0.1 checkstat.nl
 127.0.0.1 cherriescare.com
 127.0.0.1 childlikecrowd.com
+127.0.0.1 chitika.net
 127.0.0.1 chubbycreature.com
 127.0.0.1 citrusad.net
 127.0.0.1 cityads.telus.net
@@ -1272,7 +1269,6 @@
 127.0.0.1 click.uber.com
 127.0.0.1 click.v.visionlab.es
 127.0.0.1 click2freemoney.com
-127.0.0.1 click360v2-ingest.azurewebsites.net
 127.0.0.1 click4.pro
 127.0.0.1 clickadddilla.com
 127.0.0.1 clickadz.com
@@ -1449,7 +1445,6 @@
 127.0.0.1 damageddistance.com
 127.0.0.1 damdoor.com
 127.0.0.1 dapper.net
-127.0.0.1 data.namesakeoscilloscopemarquis.com
 127.0.0.1 datapickles.com
 127.0.0.1 datenow.link
 127.0.0.1 daybreaklights.com
@@ -1499,6 +1494,7 @@
 127.0.0.1 dogcollarfavourbluff.com
 127.0.0.1 domaining.in
 127.0.0.1 domdex.com
+127.0.0.1 doqpm.click
 127.0.0.1 dotmetrics.net
 127.0.0.1 dotomi.com
 127.0.0.1 doubleclick.com
@@ -1756,7 +1752,6 @@
 127.0.0.1 go-clicks.de
 127.0.0.1 go-link.network
 127.0.0.1 go-mpulse.net
-127.0.0.1 go-rank.de
 127.0.0.1 go.clickwww.com
 127.0.0.1 go.dhs.gov
 127.0.0.1 go.eu.sparkpostmail1.com
@@ -1962,7 +1957,6 @@
 127.0.0.1 is-tracking-pixel-api-prod.appspot.com
 127.0.0.1 islandwebhelp.com
 127.0.0.1 itop.cz
-127.0.0.1 its-that-easy.com
 127.0.0.1 ivwbox.de
 127.0.0.1 ivykiosk.com
 127.0.0.1 iyfbodn.com
@@ -2208,8 +2202,6 @@
 127.0.0.1 mediatext.com
 127.0.0.1 mediavine.com
 127.0.0.1 mediavoice.com
-127.0.0.1 mediax.angloinfo.com
-127.0.0.1 mediaz.angloinfo.com
 127.0.0.1 medleyads.com
 127.0.0.1 medyanetads.com
 127.0.0.1 meetrics.net
@@ -3063,7 +3055,6 @@
 127.0.0.1 supertop100.com
 127.0.0.1 supply.colossusssp.com
 127.0.0.1 supportwaves.com
-127.0.0.1 surfmusik-adserver.de
 127.0.0.1 surveygizmobeacon.s3.amazonaws.com
 127.0.0.1 sw88.espn.com
 127.0.0.1 swan-swan-goose.com
@@ -3182,7 +3173,6 @@
 127.0.0.1 tnkexchange.com
 127.0.0.1 tns-counter.ru
 127.0.0.1 toolforthought.com
-127.0.0.1 top-casting-termine.de
 127.0.0.1 top-site-list.com
 127.0.0.1 top.list.ru
 127.0.0.1 top.mail.ru
@@ -3501,13 +3491,13 @@
 127.0.0.1 yepads.com
 127.0.0.1 yesads.com
 127.0.0.1 yesadvertising.com
+127.0.0.1 yg5sjx5kzy.com
 127.0.0.1 yieldads.com
 127.0.0.1 yieldlab.net
 127.0.0.1 yieldmanager.net
 127.0.0.1 yieldmo.com
 127.0.0.1 yieldoptimizer.com
 127.0.0.1 yieldtraffic.com
-127.0.0.1 yldbt.com
 127.0.0.1 ymetrica1.com
 127.0.0.1 yoads.net
 127.0.0.1 yoggrt.com

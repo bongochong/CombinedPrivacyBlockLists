@@ -1,4 +1,4 @@
-# Sat Apr 11 06:05:07 PM UTC 2026
+# Sun Apr 19 07:46:39 AM UTC 2026
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -1814,6 +1814,7 @@
 0.0.0.0 apsalar.com
 0.0.0.0 apsoutheast-match.deepintent.com
 0.0.0.0 apsrgeo.amap.com
+0.0.0.0 aptoide-rtb.aptoide.com
 0.0.0.0 apv-launcher.minute.ly
 0.0.0.0 apx.moatads.com
 0.0.0.0 aqi.wd.amberweather.com
@@ -2192,6 +2193,7 @@
 0.0.0.0 bidagent.xad.com
 0.0.0.0 bidder-ap-northeast-1.prod.justpremium.com
 0.0.0.0 bidder-us-west-2.prod.justpremium.com
+0.0.0.0 bidder.a11.vega.aurion11.io
 0.0.0.0 bidder.criteo.com
 0.0.0.0 bidder.da1.vip.prod.criteo.com
 0.0.0.0 bidder.dsp.outfit7.com
@@ -3622,6 +3624,7 @@
 0.0.0.0 diag-wd.gridsumdissector.com
 0.0.0.0 diagmon-serviceapi.samsungdm.com
 0.0.0.0 diagnosis.ad.intl.xiaomi.com
+0.0.0.0 diagnostics.rakam.io
 0.0.0.0 dickssportinggoods.demdex.net
 0.0.0.0 did.ijinshan.com
 0.0.0.0 diff.smartadserver.com
@@ -4569,6 +4572,7 @@
 0.0.0.0 glitter.services.disqus.com
 0.0.0.0 glitteringbrook.com
 0.0.0.0 glizauvo.net
+0.0.0.0 global-receiver-ta.thinkingdata.cn
 0.0.0.0 global-report.ml.youngjoygame.com
 0.0.0.0 global-sis.engagelab.com
 0.0.0.0 global-staticplat.cdn.bcebos.com
@@ -6597,6 +6601,7 @@
 0.0.0.0 oryj8-jzbmc.ads.tremorhub.com
 0.0.0.0 os.scmpacdn.com
 0.0.0.0 osimg.nbcuni.com
+0.0.0.0 otel-collector.reliability.smartnews.net
 0.0.0.0 otel-mobile.doordash.com
 0.0.0.0 other.appcpi.net
 0.0.0.0 other.upqzfile.com
@@ -7269,6 +7274,7 @@
 0.0.0.0 q20jqurls0y7gk8.info
 0.0.0.0 q4mn.adj.st
 0.0.0.0 qa-events-schema.viacom.tech
+0.0.0.0 qbk1.com
 0.0.0.0 qc.smartadserver.com
 0.0.0.0 qccoccocmedia.vn
 0.0.0.0 qcloud-sg-datareceiver.kurogame.xyz
@@ -7343,6 +7349,7 @@
 0.0.0.0 rainyhand.com
 0.0.0.0 rainyrule.com
 0.0.0.0 rainystretch.com
+0.0.0.0 rakam-api.aptoide.com
 0.0.0.0 rambler.pushwoosh.com
 0.0.0.0 rambunctiousflock.com
 0.0.0.0 rambunctiousvoyage.com
@@ -7441,6 +7448,7 @@
 0.0.0.0 replaceroute.com
 0.0.0.0 replaycontroller.4seeresults.com
 0.0.0.0 report-edge.agora.io
+0.0.0.0 report-edge.rtesvc.com
 0.0.0.0 report-ps.meettech.net
 0.0.0.0 report-stats.ad.jiguang.cn
 0.0.0.0 report.1-1.io
@@ -9174,7 +9182,6 @@
 0.0.0.0 thingstaste.com
 0.0.0.0 thinkablefloor.com
 0.0.0.0 thinkablerice.com
-0.0.0.0 thinkingdata.cn
 0.0.0.0 thinkitten.com
 0.0.0.0 thinkitwice.com
 0.0.0.0 thinknear-hosted.thinknearhub.com
@@ -9359,6 +9366,7 @@
 0.0.0.0 trackdat.pinsightmedia.com
 0.0.0.0 trackdownload.startappservice.com
 0.0.0.0 tracker-api.my.com
+0.0.0.0 tracker.a11.vega.aurion11.io
 0.0.0.0 tracker.adotmob.com
 0.0.0.0 tracker.appadhoc.com
 0.0.0.0 tracker.databrain.com

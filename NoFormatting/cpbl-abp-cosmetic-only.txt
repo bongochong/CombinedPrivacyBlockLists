@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mostly Cosmetic CPBL Filters for ABP & uBO
-! Updated: Mon Apr  6 03:27:32 AM UTC 2026
+! Updated: Sun Apr 19 07:51:11 AM UTC 2026
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -172,17 +172,25 @@ haaretz.com##.ae.bn.bid.bie.bif.big.bih
 haaretz.com##.footer-ruler
 hackintosh.zone###document_modal
 hackintosh.zone###some_ad_block_key_inner
-hpanel.hostinger.com##.home-page-nudges
-hpanel.hostinger.com##.horizons-try-now-banner
-hpanel.hostinger.com##.horizons-banner
-hpanel.hostinger.com##.hot-spot
+hpanel.hostinger.com##.crosssell-container
+hpanel.hostinger.com##.domain-management-checklist
 hpanel.hostinger.com##.feature-pricing
 hpanel.hostinger.com##.h-mb-24.agency-plan-banner.h-card--no-header.h-card
 hpanel.hostinger.com##.h-mb-24.ai-container
 hpanel.hostinger.com##.h-mb-32.black-friday-banner
+hpanel.hostinger.com##.h-popup
+hpanel.hostinger.com##.h-toast-notification
+hpanel.hostinger.com##.h-toast-stack
+hpanel.hostinger.com##.home-page-nudges
+hpanel.hostinger.com##.horizons-banner
+hpanel.hostinger.com##.horizons-try-now-banner
+hpanel.hostinger.com##.hot-spot
 hpanel.hostinger.com##.os-articles
+hpanel.hostinger.com##.protect-brand-banner
 hpanel.hostinger.com##.reach-installation
 hpanel.hostinger.com##.try-horizons__banner
+hpanel.hostinger.com##.website-notification-row--upgrade-upsell.h-notification-row--primary.h-notification-row
+hpanel.hostinger.com##.website-type-banner--dismissable
 huffpost.com##[class*=social-buttons]
 huffpost.com##DIV#top_news_inner
 huffpost.com##.js-entry-promo.small.entry-promo
