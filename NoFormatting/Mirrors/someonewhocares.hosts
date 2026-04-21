@@ -10,7 +10,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 17 Apr 2026 at 22:10:00 GMT
+# Last updated: Mon, 20 Apr 2026 at 22:00:26 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1407,6 +1407,7 @@ ff02::3		ip6-allhosts
 
 # sites with known trojans, phishing, or other malware
 0.0.0.0 0.nextyourcontent.com
+0.0.0.0 00000.uno
 0.0.0.0 05tz2e9.com
 0.0.0.0 1-bmo-client-login.com
 0.0.0.0 1-directshipmtdhlsexpress-order.help
@@ -2345,6 +2346,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 lemnode.fr
 0.0.0.0 lemondde.fr
 0.0.0.0 lemovnde.fr
+0.0.0.0 leojblog.com
 0.0.0.0 leomonde.fr
 0.0.0.0 leparirien.fr
 0.0.0.0 leparisein.fr
@@ -3555,11 +3557,13 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.kiwicares.com
 0.0.0.0 www.knowinteractive.com
 0.0.0.0 www.knoxmenus.com
+0.0.0.0 www.kobotausa.com
 0.0.0.0 www.kpremium.com
 0.0.0.0 www.kryzantor.uk
 0.0.0.0 www.lahoreautismcentre.com
 0.0.0.0 www.lanaita.com
 0.0.0.0 www.launchbuffer.com
+0.0.0.0 www.learnnessy.com
 0.0.0.0 www.learntechno.com
 0.0.0.0 www.leeucode.com
 0.0.0.0 www.lemoncascadexq.name
@@ -3570,6 +3574,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.likespike.com			# Facebook trojan
 0.0.0.0 www.likethis.mbosoft.com		# Facebook trojan
 0.0.0.0 www.likethislist.biz			# Facebook trojan
+0.0.0.0 www.liveorigamirisk.com
 0.0.0.0 www.loansfield.com
 0.0.0.0 www.lockupouseburn.com
 0.0.0.0 www.loginhunter.com
@@ -3600,6 +3605,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.mostexchange.com
 0.0.0.0 www.movielocks.com
 0.0.0.0 www.mshelp247.weebly.com
+0.0.0.0 www.msmpokergamer.com
 0.0.0.0 www.msxzff.com
 0.0.0.0 www.mycolonialpenm.com
 0.0.0.0 www.mycontentlocker.com
@@ -3839,6 +3845,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.webwise.org
 0.0.0.0 www.weknow.ac
 0.0.0.0 www.wewillrocknow.com
+0.0.0.0 www.whiskeyallys.com
 0.0.0.0 www.white-dock.net
 0.0.0.0 www.wholesaleorganix.com
 0.0.0.0 www.wifimarfixhotspot.com
@@ -3850,6 +3857,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.winlottofrequently.com
 0.0.0.0 www.woodycrystaljo.name
 0.0.0.0 www.workschat.com
+0.0.0.0 www.wraploans.com
 0.0.0.0 www.wrestlewebnews.com
 0.0.0.0 www.xandermaker.com
 0.0.0.0 www.xtremetechcr.com
