@@ -47,7 +47,7 @@ echo "Ensuring that scripts are made executable..."
 echo "..."
 chmod +x cmprdmns.pl
 cd ~/"$file_dir"
-chmod +x update-btdat.sh update-btp2p.sh update-hosts-dual.sh update-hosts.sh update-hosts-six.sh update-pac.sh
+chmod +x update-btdat.sh update-btp2p.sh update-hosts-dual.sh update-hosts.sh update-hosts-six.sh update-pac.sh update-ipfilt.sh
 echo "Ensuring that scripts reflect your install directory..."
 echo "..."
 sed -i "s/BLT/$file_dir/g" update-btdat.sh
