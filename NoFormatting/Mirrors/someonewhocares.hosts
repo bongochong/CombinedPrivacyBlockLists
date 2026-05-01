@@ -10,7 +10,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 20 Apr 2026 at 22:00:26 GMT
+# Last updated: Fri, 01 May 2026 at 14:13:33 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1411,6 +1411,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 05tz2e9.com
 0.0.0.0 1-bmo-client-login.com
 0.0.0.0 1-directshipmtdhlsexpress-order.help
+0.0.0.0 10-letter-words.com
 0.0.0.0 1001paixnidia.fr
 0.0.0.0 105915624.com
 0.0.0.0 10tide.com
@@ -1656,6 +1657,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 bouygiestelecom.fr
 0.0.0.0 bpong.fr
 0.0.0.0 bracabrac.fr
+0.0.0.0 brainns.sa.com
 0.0.0.0 breg.fr
 0.0.0.0 breitbart.fr
 0.0.0.0 breizh-ile.fr
@@ -1668,6 +1670,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 brokking.fr
 0.0.0.0 brostyles.fr
 0.0.0.0 brunga.at	# Facebook phishing attempt
+0.0.0.0 bsugars.sa.com
 0.0.0.0 bt.webwise.org
 0.0.0.0 bulletwhiskey.sa.com
 0.0.0.0 bundesanzeiger.fr
@@ -1777,6 +1780,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 climate-actionpayment.com
 0.0.0.0 clonezilla.es
 0.0.0.0 clonezilla.fr
+0.0.0.0 cloudalert.shop
 0.0.0.0 cltxhot.fun
 0.0.0.0 cmcre.fr
 0.0.0.0 cndpt.fr
@@ -1829,6 +1833,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 cp.liferan.pro
 0.0.0.0 cplelangues.fr
 0.0.0.0 cra-arc-gc-ca.noads.biz
+0.0.0.0 cra-documents.ca
 0.0.0.0 cra-etransfer.online
 0.0.0.0 crarefundsreview.com
 0.0.0.0 crdp-strsbourg.fr
@@ -1840,6 +1845,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 croissieres.fr
 0.0.0.0 crouslyon.fr
 0.0.0.0 crpo.fr
+0.0.0.0 crrect.sa.com
 0.0.0.0 crypto-loot.com
 0.0.0.0 ctmsapp.com
 0.0.0.0 cuder.fr
@@ -1874,6 +1880,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 deloitteca.com
 0.0.0.0 delphix.fr
 0.0.0.0 deltarviews.bond
+0.0.0.0 dentalfix.shop
 0.0.0.0 denx.fr
 0.0.0.0 department06.fr
 0.0.0.0 deposit-cra2023.com
@@ -1881,6 +1888,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 depositphotos.fr
 0.0.0.0 depottool.bond
 0.0.0.0 desertdreamtour.com
+0.0.0.0 desfans.sportgroup.cl
 0.0.0.0 details-update.com
 0.0.0.0 devguardmap.org
 0.0.0.0 dewinci.fr
@@ -1898,6 +1906,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 diomedia.fr
 0.0.0.0 dirtmountainbike.fr
 0.0.0.0 disneyholidays.fr
+0.0.0.0 dldyjy.com
 0.0.0.0 dns2.net1.it
 0.0.0.0 dnythgt.com
 0.0.0.0 docs.ukr.net.ssl2.in
@@ -2697,6 +2706,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 paytel.fr
 0.0.0.0 paytrtrollsteamworkspace.myclickfunnels.com
 0.0.0.0 pbworks.fr
+0.0.0.0 pc-apps-kaiyunsports.com
 0.0.0.0 pcblibraries.fr
 0.0.0.0 pckgatups.bond
 0.0.0.0 pclt.net
@@ -2927,6 +2937,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 serv-canada2024.com
 0.0.0.0 servpro.fr
 0.0.0.0 setup-mydelivery-date6437-fedex.com
+0.0.0.0 sgluco.shop
 0.0.0.0 shapado.com
 0.0.0.0 sharelink.fr
 0.0.0.0 shiiva.fr
@@ -3252,7 +3263,9 @@ ff02::3		ip6-allhosts
 0.0.0.0 ws49.crypto-loot.com
 0.0.0.0 ws50.crypto-loot.com
 0.0.0.0 wwnc.xyz
+0.0.0.0 www.316ee.com
 0.0.0.0 www.7zip.fr
+0.0.0.0 www.991abc.com
 0.0.0.0 www.a2uu36g43l.download
 0.0.0.0 www.abetterinternet.com
 0.0.0.0 www.abnehmenkabofit.de
@@ -3278,6 +3291,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.anatol.com
 0.0.0.0 www.apcort.com
 0.0.0.0 www.apkfuuny.com
+0.0.0.0 www.aqualakefy.name
 0.0.0.0 www.aramcom.space
 0.0.0.0 www.arfrepuestos.com
 0.0.0.0 www.arknasasbluecross.com
@@ -3314,6 +3328,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.blazesemipvp.com
 0.0.0.0 www.blender3d.fr
 0.0.0.0 www.blogmaking.com
+0.0.0.0 www.blueadvantagearkasas.com
 0.0.0.0 www.bluecollarparanormal.com
 0.0.0.0 www.bmrneswk.com
 0.0.0.0 www.board-ly.com
@@ -3327,6 +3342,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.brightstardv.pro
 0.0.0.0 www.briidgeapp.com
 0.0.0.0 www.briskappmu.name
+0.0.0.0 www.briskshadeyv.com
 0.0.0.0 www.brooksrunningdeals.com
 0.0.0.0 www.bucahssana.com
 0.0.0.0 www.builtinfo.com
@@ -3339,21 +3355,25 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.cambonanza.com
 0.0.0.0 www.camtory.com
 0.0.0.0 www.canadianshawid.com
+0.0.0.0 www.caothusohoc.com
 0.0.0.0 www.caramail.com
 0.0.0.0 www.careertake.com
 0.0.0.0 www.carehigher.com
 0.0.0.0 www.carolmassoterapia.com
+0.0.0.0 www.casinostarluck.net
 0.0.0.0 www.cassink.com
 0.0.0.0 www.catabcde.com
 0.0.0.0 www.catjre.com
 0.0.0.0 www.celestia.es
 0.0.0.0 www.celestia.fr
+0.0.0.0 www.cemerhealth.com
 0.0.0.0 www.centeralbidding.com
 0.0.0.0 www.checkdrivers.com
 0.0.0.0 www.checkpics.com
 0.0.0.0 www.chelick.net			# Facebook trojan
 0.0.0.0 www.chichomods.com
 0.0.0.0 www.chiefsale.com
+0.0.0.0 www.chinesehollywood.com
 0.0.0.0 www.cidadelobito.com
 0.0.0.0 www.ciderbayoulg.pro
 0.0.0.0 www.ciderglowcm.site
@@ -3380,8 +3400,10 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.controlpop.com
 0.0.0.0 www.cookoven.com
 0.0.0.0 www.corlythra.uk
+0.0.0.0 www.corvettiortho.com
 0.0.0.0 www.cpatglobal.com
 0.0.0.0 www.cprcar.com
+0.0.0.0 www.creativesaftysupply.com
 0.0.0.0 www.crediainternational.com
 0.0.0.0 www.crowdnestfun.com
 0.0.0.0 www.ctlcai.com
@@ -3421,11 +3443,13 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.electrobell.com
 0.0.0.0 www.emailspend.com
 0.0.0.0 www.energiazoque.com
+0.0.0.0 www.esjetonline.com
 0.0.0.0 www.ethicsstore.com
 0.0.0.0 www.europelinen.com
 0.0.0.0 www.exactpharm.com
 0.0.0.0 www.exambased.com
 0.0.0.0 www.exceleratehelp.com
+0.0.0.0 www.exoticainmotion.com
 0.0.0.0 www.expolearn.com
 0.0.0.0 www.exposhot.com
 0.0.0.0 www.expressmails.com
@@ -3447,6 +3471,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.fischereszter.hu
 0.0.0.0 www.fixedshine.com
 0.0.0.0 www.fixingfast.com
+0.0.0.0 www.flaglergrill.com
 0.0.0.0 www.flexibleadmin.com
 0.0.0.0 www.fluffyappyp.com
 0.0.0.0 www.fluidfiber.com
@@ -3483,6 +3508,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.ggdark.net
 0.0.0.0 www.gildedrosens.name
 0.0.0.0 www.gimp.es
+0.0.0.0 www.glassygrovefy.pro
 0.0.0.0 www.globalbuffer.com
 0.0.0.0 www.goggle.com
 0.0.0.0 www.goldentopics.com
@@ -3511,6 +3537,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.higherteam.com
 0.0.0.0 www.hitchedbridalandformalwear.com
 0.0.0.0 www.hits-football.com
+0.0.0.0 www.hocxaydung.com
 0.0.0.0 www.homininfossil.cfd
 0.0.0.0 www.hotelsdetermine.bond
 0.0.0.0 www.hotpanic.net
@@ -3542,6 +3569,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.jessicalonda.com
 0.0.0.0 www.jeuxfortuna.com
 0.0.0.0 www.jeuxjackpotcasino.com
+0.0.0.0 www.jhsmiami.com
 0.0.0.0 www.jovareo.com
 0.0.0.0 www.justdebug.com
 0.0.0.0 www.jvidzaixian.com
@@ -3562,9 +3590,11 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.kryzantor.uk
 0.0.0.0 www.lahoreautismcentre.com
 0.0.0.0 www.lanaita.com
+0.0.0.0 www.langleyantiques.com
 0.0.0.0 www.launchbuffer.com
 0.0.0.0 www.learnnessy.com
 0.0.0.0 www.learntechno.com
+0.0.0.0 www.ledfaucetlight.com
 0.0.0.0 www.leeucode.com
 0.0.0.0 www.lemoncascadexq.name
 0.0.0.0 www.libanco.com
@@ -3583,20 +3613,24 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.lostbestsgames.com
 0.0.0.0 www.lunargrovefx.com
 0.0.0.0 www.magento-analytics.com
+0.0.0.0 www.maiecaffe.com
 0.0.0.0 www.maillazy.com
 0.0.0.0 www.makearestaurant.com
 0.0.0.0 www.makeupglobal.com
 0.0.0.0 www.manoces.waw.pl
 0.0.0.0 www.markethelper.name
 0.0.0.0 www.match3quests.com
+0.0.0.0 www.matifi.com
 0.0.0.0 www.mediamindpolska.com
 0.0.0.0 www.megapurchase.com
 0.0.0.0 www.memorieson.com
 0.0.0.0 www.mexdrugs.com
 0.0.0.0 www.mikras.nl
 0.0.0.0 www.mildpost.com
+0.0.0.0 www.milgaard.com
 0.0.0.0 www.milkycascadeut.site
 0.0.0.0 www.minr.pw
+0.0.0.0 www.miocardite.com
 0.0.0.0 www.modelsailboat.net
 0.0.0.0 www.moncasinoonline.com
 0.0.0.0 www.monkeyball.osa.pl
@@ -3607,15 +3641,20 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.mshelp247.weebly.com
 0.0.0.0 www.msmpokergamer.com
 0.0.0.0 www.msxzff.com
+0.0.0.0 www.multiceps.com
+0.0.0.0 www.myalegent07.com
+0.0.0.0 www.mycitycue.com
 0.0.0.0 www.mycolonialpenm.com
 0.0.0.0 www.mycontentlocker.com
 0.0.0.0 www.myexotel.com
 0.0.0.0 www.myfavcouponstore.com
+0.0.0.0 www.myfurnituresirplus.com
 0.0.0.0 www.myhucadvantage.com
 0.0.0.0 www.mylike.co.uk			# Facebook trojan
 0.0.0.0 www.mylovecards.com
 0.0.0.0 www.nabtapharma.com
 0.0.0.0 www.nanohistory.com
+0.0.0.0 www.naturalmovementz.com
 0.0.0.0 www.nearestsalon.com
 0.0.0.0 www.necklaceu.com
 0.0.0.0 www.neonpack.com
@@ -3623,8 +3662,10 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.new2crypto.com
 0.0.0.0 www.newshello.com
 0.0.0.0 www.nextfeatures.com
+0.0.0.0 www.nigja.com
 0.0.0.0 www.nnews.net
 0.0.0.0 www.nobetsjustfun.com
+0.0.0.0 www.noithatphanthinh.com
 0.0.0.0 www.northvalesgrids.uk
 0.0.0.0 www.notepad2.com
 0.0.0.0 www.novemberrainx.com
@@ -3657,9 +3698,11 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.paintballpins.com
 0.0.0.0 www.paintnet.es
 0.0.0.0 www.paintnet.fr
+0.0.0.0 www.palaceskateboard.com
 0.0.0.0 www.paramutplus.com
 0.0.0.0 www.parejaamateur.com
 0.0.0.0 www.partsttown.com
+0.0.0.0 www.paseyourself.com
 0.0.0.0 www.paviro.cfd
 0.0.0.0 www.pcfixguide.help
 0.0.0.0 www.pdrill.com
@@ -3697,9 +3740,11 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.promoskills.com
 0.0.0.0 www.properrayam.pro
 0.0.0.0 www.proxionet.com
+0.0.0.0 www.proxygeni.com
 0.0.0.0 www.pruialoatpmye.xyz
 0.0.0.0 www.psychics-readings-for-free.com
 0.0.0.0 www.ptcasinoonline.com
+0.0.0.0 www.puppywoodshihtzu.com
 0.0.0.0 www.purchaseproof.com
 0.0.0.0 www.pure-glance.com
 0.0.0.0 www.qateee.com
@@ -3718,12 +3763,15 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.recallblog.com
 0.0.0.0 www.rekonsise.com
 0.0.0.0 www.relaxingcafe.com
+0.0.0.0 www.reliaslearrning.com
 0.0.0.0 www.renderfoest.com
 0.0.0.0 www.rerminix.com
 0.0.0.0 www.revivemore.com
+0.0.0.0 www.rhemacorp.com
 0.0.0.0 www.rickrolling.com
 0.0.0.0 www.ricontools.com
 0.0.0.0 www.rightchanges.com
+0.0.0.0 www.riversidefr.com
 0.0.0.0 www.rnleonard.com
 0.0.0.0 www.rnodernssolution.com
 0.0.0.0 www.rtkmyz.cfd
@@ -3735,19 +3783,23 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.sandybrookyt.name
 0.0.0.0 www.sauteenacoochee.com
 0.0.0.0 www.scrapzoneauto.com
+0.0.0.0 www.securityplusproducts.com
 0.0.0.0 www.securityscan.us
 0.0.0.0 www.sellpetrol.com
 0.0.0.0 www.sellrubber.com
 0.0.0.0 www.shinilchurch.net	# domain was hacked and had a trojan installed
+0.0.0.0 www.shinyechogz.name
 0.0.0.0 www.shopvisitors.com
 0.0.0.0 www.sidneyman.com
 0.0.0.0 www.silebah.com
 0.0.0.0 www.silentgateck.site
+0.0.0.0 www.silverboxcreativestudio.com
 0.0.0.0 www.simplyartful.com
 0.0.0.0 www.simplyhelper.com
 0.0.0.0 www.sinera.org
 0.0.0.0 www.sizecart.com
 0.0.0.0 www.skibidihotel.com
+0.0.0.0 www.skyonlinegratis.com
 0.0.0.0 www.slidingdoorlocks.com
 0.0.0.0 www.smashchampionsat.com
 0.0.0.0 www.smionecare.com
@@ -3762,7 +3814,9 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.sohailpc.com
 0.0.0.0 www.spectrumhomehealthinc.com
 0.0.0.0 www.sporttile.com
+0.0.0.0 www.ssdede.com
 0.0.0.0 www.ssl2.in
+0.0.0.0 www.startupsforstartups.com
 0.0.0.0 www.statsff.com
 0.0.0.0 www.steelbucks.com
 0.0.0.0 www.stellarium.fr
@@ -3830,6 +3884,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.videonhadat.com
 0.0.0.0 www.videostan.ru
 0.0.0.0 www.vkvmotion.com
+0.0.0.0 www.vnailssanclemente.com
 0.0.0.0 www.voolat.com
 0.0.0.0 www.walkhelp.net
 0.0.0.0 www.wantsfly.com
@@ -3839,12 +3894,14 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.waterchalk.com
 0.0.0.0 www.waterchamber.com
 0.0.0.0 www.webassembly.stream
+0.0.0.0 www.webmicrostores.com
 0.0.0.0 www.webpartition.com
 0.0.0.0 www.websrruss.com
 0.0.0.0 www.webwise.com
 0.0.0.0 www.webwise.org
 0.0.0.0 www.weknow.ac
 0.0.0.0 www.wewillrocknow.com
+0.0.0.0 www.wezelco.com
 0.0.0.0 www.whiskeyallys.com
 0.0.0.0 www.white-dock.net
 0.0.0.0 www.wholesaleorganix.com
@@ -3855,11 +3912,13 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.winecrazydesigns.com
 0.0.0.0 www.wingfoilmargarita.com
 0.0.0.0 www.winlottofrequently.com
+0.0.0.0 www.wjldfm.com
 0.0.0.0 www.woodycrystaljo.name
 0.0.0.0 www.workschat.com
 0.0.0.0 www.wraploans.com
 0.0.0.0 www.wrestlewebnews.com
 0.0.0.0 www.xandermaker.com
+0.0.0.0 www.xdesimbi.com
 0.0.0.0 www.xtremetechcr.com
 0.0.0.0 www.yellowquartzkr.name
 0.0.0.0 www.yendermsoul.com

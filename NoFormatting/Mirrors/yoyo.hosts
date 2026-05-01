@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 19 Apr 2026 05:45:45 GMT
-# entries:        3516
+# last updated:   Wed, 29 Apr 2026 17:29:56 GMT
+# entries:        3522
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -44,7 +44,6 @@
 127.0.0.1 82o9v830.com
 127.0.0.1 a-ads.com
 127.0.0.1 a.mktw.net
-127.0.0.1 a.muloqot.uz
 127.0.0.1 a.sakh.com
 127.0.0.1 a.ucoz.net
 127.0.0.1 a.ucoz.ru
@@ -190,7 +189,6 @@
 127.0.0.1 adbrite.com
 127.0.0.1 adbroker.de
 127.0.0.1 adbutler.com
-127.0.0.1 adbuyer3.lycos.com
 127.0.0.1 adcampo.com
 127.0.0.1 adcannyads.com
 127.0.0.1 adcash.com
@@ -260,6 +258,7 @@
 127.0.0.1 adjust.com
 127.0.0.1 adjustnetwork.com
 127.0.0.1 adk2.com
+127.0.0.1 adkora.com
 127.0.0.1 adland.ru
 127.0.0.1 adlegend.com
 127.0.0.1 adlightning.com
@@ -517,7 +516,6 @@
 127.0.0.1 ads.passion.com
 127.0.0.1 ads.paymonex.net
 127.0.0.1 ads.pexi.nl
-127.0.0.1 ads.pfl.ua
 127.0.0.1 ads.phpclasses.org
 127.0.0.1 ads.pinterest.com
 127.0.0.1 ads.planet.nl
@@ -831,6 +829,7 @@
 127.0.0.1 affiliates.streamray.com
 127.0.0.1 affiliates.thinkhost.net
 127.0.0.1 affiliates.thrixxx.com
+127.0.0.1 affiliates.ultrahosting.com
 127.0.0.1 affiliatetracking.com
 127.0.0.1 affiliatetracking.net
 127.0.0.1 affiliatewindow.com
@@ -896,6 +895,7 @@
 127.0.0.1 analytics.yahoo.com
 127.0.0.1 analyticsapi.happypancake.net
 127.0.0.1 ancientact.com
+127.0.0.1 androiddownload.net
 127.0.0.1 aniview.com
 127.0.0.1 annonser.dagbladet.no
 127.0.0.1 annoyedairport.com
@@ -945,7 +945,6 @@
 127.0.0.1 aswpapius.com
 127.0.0.1 aswpsdkus.com
 127.0.0.1 async.gsyndication.com
-127.0.0.1 at-adserver.alltop.com
 127.0.0.1 at-o.net
 127.0.0.1 atdmt.com
 127.0.0.1 athena-ads.wikia.com
@@ -980,6 +979,7 @@
 127.0.0.1 b3.videoamp.com
 127.0.0.1 ba.afl.rakuten.co.jp
 127.0.0.1 backbeatmedia.com
+127.0.0.1 backtension.com
 127.0.0.1 bagsurprise.com
 127.0.0.1 banik.redigy.cz
 127.0.0.1 banner.ambercoastcasino.com
@@ -1216,6 +1216,7 @@
 127.0.0.1 checkstat.nl
 127.0.0.1 cherriescare.com
 127.0.0.1 childlikecrowd.com
+127.0.0.1 chillingtofu.com
 127.0.0.1 chitika.net
 127.0.0.1 chubbycreature.com
 127.0.0.1 citrusad.net
@@ -1278,7 +1279,6 @@
 127.0.0.1 clickboothlnk.com
 127.0.0.1 clickbrokers.com
 127.0.0.1 clickcease.com
-127.0.0.1 clickcompare.co.uk
 127.0.0.1 clickdensity.com
 127.0.0.1 clickedyclick.com
 127.0.0.1 clickfuse.com
@@ -1558,6 +1558,7 @@
 127.0.0.1 emptyescort.com
 127.0.0.1 emxdigital.com
 127.0.0.1 energeticladybug.com
+127.0.0.1 energyfools.com
 127.0.0.1 engage.tines.com
 127.0.0.1 engage.windows.com
 127.0.0.1 engagebdr.com
@@ -1650,6 +1651,7 @@
 127.0.0.1 feedbackresearch.com
 127.0.0.1 feedjit.com
 127.0.0.1 feedmob.com
+127.0.0.1 feelwarmth.com
 127.0.0.1 femalecook.com
 127.0.0.1 figsprotein.com
 127.0.0.1 figurehunter.net
@@ -1752,6 +1754,7 @@
 127.0.0.1 go-clicks.de
 127.0.0.1 go-link.network
 127.0.0.1 go-mpulse.net
+127.0.0.1 go-rank.de
 127.0.0.1 go.clickwww.com
 127.0.0.1 go.dhs.gov
 127.0.0.1 go.eu.sparkpostmail1.com
@@ -1948,7 +1951,6 @@
 127.0.0.1 interreklame.de
 127.0.0.1 ioam.de
 127.0.0.1 ip.ro
-127.0.0.1 ip193.cn
 127.0.0.1 iperceptions.com
 127.0.0.1 ipredictive.com
 127.0.0.1 ipstack.com
@@ -1957,6 +1959,7 @@
 127.0.0.1 is-tracking-pixel-api-prod.appspot.com
 127.0.0.1 islandwebhelp.com
 127.0.0.1 itop.cz
+127.0.0.1 its-that-easy.com
 127.0.0.1 ivwbox.de
 127.0.0.1 ivykiosk.com
 127.0.0.1 iyfbodn.com
@@ -2271,6 +2274,7 @@
 127.0.0.1 monkeyapes.com
 127.0.0.1 monsterpops.com
 127.0.0.1 mookie1.com
+127.0.0.1 moonwager.com
 127.0.0.1 mopub.com
 127.0.0.1 morefolks.com
 127.0.0.1 motionlessmeeting.com
@@ -2639,7 +2643,6 @@
 127.0.0.1 qctop.com
 127.0.0.1 ql.tc
 127.0.0.1 qnsr.com
-127.0.0.1 qrlsx.com
 127.0.0.1 quantcast.com
 127.0.0.1 quantcount.com
 127.0.0.1 quantserve.com
@@ -2662,6 +2665,7 @@
 127.0.0.1 r1.visualwebsiteoptimizer.com
 127.0.0.1 r2.visualwebsiteoptimizer.com
 127.0.0.1 r3.visualwebsiteoptimizer.com
+127.0.0.1 raac33.net
 127.0.0.1 rabbitrifle.com
 127.0.0.1 rackforstorage.com
 127.0.0.1 radar.cedexis.com
@@ -2767,6 +2771,7 @@
 127.0.0.1 rockstarwriter.com
 127.0.0.1 rok.com.com
 127.0.0.1 rollconnection.com
+127.0.0.1 ronracepub.com
 127.0.0.1 rose.ixbt.com
 127.0.0.1 rotabanner.com
 127.0.0.1 roxr.net
@@ -3192,6 +3197,7 @@
 127.0.0.1 touchclarity.com
 127.0.0.1 tour.brazzers.com
 127.0.0.1 tr.api.fanbyte.com
+127.0.0.1 tracecontent.com
 127.0.0.1 track-eu.customer.io
 127.0.0.1 track.adform.net
 127.0.0.1 track.anchorfree.com

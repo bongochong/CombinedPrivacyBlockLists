@@ -1,4 +1,4 @@
-# Tue Apr 21 04:03:41 AM UTC 2026
+# Fri May  1 04:52:29 PM UTC 2026
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -664,6 +664,7 @@
 0.0.0.0 ads-gdl.imovideo.ru
 0.0.0.0 ads-image.production-public.tubi.io
 0.0.0.0 ads-img-al.xhscdn.com
+0.0.0.0 ads-img-bak.xhscdn.com
 0.0.0.0 ads-interfaces.sc-cdn.net
 0.0.0.0 ads-leaseweb.appsgeyser.com
 0.0.0.0 ads-marketing-vivofs.vivo.com.cn
@@ -1241,6 +1242,7 @@
 0.0.0.0 analytics.oliveapp.net
 0.0.0.0 analytics.picsart.com
 0.0.0.0 analytics.pinterest.com
+0.0.0.0 analytics.pocketfm.com
 0.0.0.0 analytics.pokki.com
 0.0.0.0 analytics.prod.mybuddy.ai
 0.0.0.0 analytics.prod.tophat.withbuddies.com
@@ -2858,6 +2860,7 @@
 0.0.0.0 cinemabonus.com
 0.0.0.0 ciq.dmpxs.com
 0.0.0.0 circlelevel.com
+0.0.0.0 cirrus-full-snapshots-track-csv-v1-0-na-prod.s3.amazonaws.com
 0.0.0.0 cj.mplxtms.com
 0.0.0.0 cjhd.mediav.com
 0.0.0.0 ck.connatix.com
@@ -3631,7 +3634,6 @@
 0.0.0.0 diff3.smartadserver.com
 0.0.0.0 differentcoat.com
 0.0.0.0 difficultfog.com
-0.0.0.0 dig.bdurl.net
 0.0.0.0 digestiondrawer.com
 0.0.0.0 digicertwc.rubiconproject.com.edgekey.net
 0.0.0.0 digitalfirstmedia.blueconic.net
@@ -4617,6 +4619,7 @@
 0.0.0.0 go.vrvm.com
 0.0.0.0 go1.aniview.com
 0.0.0.0 go1.viewdeos.com
+0.0.0.0 goads2023.com
 0.0.0.0 goadservices.com
 0.0.0.0 gocarrot.com
 0.0.0.0 gocm.c.appier.net
@@ -4993,6 +4996,7 @@
 0.0.0.0 id.sv.rkdms.com
 0.0.0.0 id1.cn
 0.0.0.0 id5-sync.com
+0.0.0.0 id6.me
 0.0.0.0 identity.api.wmcdp.io
 0.0.0.0 idg.amp.permutive.com
 0.0.0.0 idg.blueconic.net
@@ -6129,6 +6133,8 @@
 0.0.0.0 mob2.welltastic-app.com
 0.0.0.0 moba8.net
 0.0.0.0 mobad.ijinshan.com
+0.0.0.0 mobads-logs.bcebos.com
+0.0.0.0 mobads-pre-config.cdn.bcebos.com
 0.0.0.0 mobads.baidu.com
 0.0.0.0 mobclix.com
 0.0.0.0 mobfox.com
@@ -6190,6 +6196,7 @@
 0.0.0.0 mon.isnssdk.com
 0.0.0.0 mon.tiktokv.com
 0.0.0.0 mon.us.tiktokv.com
+0.0.0.0 mon11-misc-lq.fqnovel.com
 0.0.0.0 mon16-normal-us-ttp.capcutapi.us
 0.0.0.0 monacobeatles.com
 0.0.0.0 monetize-api.coronalabs.com
@@ -6662,6 +6669,8 @@
 0.0.0.0 p16-ad.byteoversea.com
 0.0.0.0 p1cluster.cxense.com
 0.0.0.0 p287.atemda.com
+0.0.0.0 p3-ad-sign.byteimg.com
+0.0.0.0 p3-ad-sign.byteimg.com.queniusy.com
 0.0.0.0 p4dt2-4nrdw.ads.tremorhub.com
 0.0.0.0 p4dt2-8d2sv.ads.tremorhub.com
 0.0.0.0 p4dt2-980w2.ads.tremorhub.com
@@ -7082,6 +7091,7 @@
 0.0.0.0 pricklypollution.com
 0.0.0.0 prinksdammit.com
 0.0.0.0 printerplasma.com
+0.0.0.0 prismriotads.com
 0.0.0.0 priv-policy.imrworldwide.com
 0.0.0.0 privacy-policy.truste.com
 0.0.0.0 privacy-sandbox.appsflyersdk.com
@@ -8025,6 +8035,7 @@
 0.0.0.0 sensor.emolm.com
 0.0.0.0 sensor.photogrid.app
 0.0.0.0 sensors.binance.cloud
+0.0.0.0 sensors.dito.ph
 0.0.0.0 sensors.larkplayerapp.com
 0.0.0.0 sensors.snappea.com
 0.0.0.0 sensors.snaptube.app
@@ -9246,6 +9257,7 @@
 0.0.0.0 tnc16-alisg.isnssdk.com
 0.0.0.0 tnc16-normal-us-ttp.capcutapi.us
 0.0.0.0 tnc16-useast1a.isnssdk.com
+0.0.0.0 tnc3-alisc1.bytedance.com
 0.0.0.0 tnkfactory.com
 0.0.0.0 tns.simba.taobao.com
 0.0.0.0 tobapplog.ctobsnssdk.com
@@ -9381,6 +9393,7 @@
 0.0.0.0 tracker.samplicio.us
 0.0.0.0 tracker.srta.spectrum.com
 0.0.0.0 tracker.str-nrg.com
+0.0.0.0 tracker.tianmu.mobi
 0.0.0.0 tracker.ulivetv.net
 0.0.0.0 tracker.winudf.com
 0.0.0.0 trackernew.ulivetv.net
@@ -9658,6 +9671,7 @@
 0.0.0.0 up-hl.3g.qq.com
 0.0.0.0 up.ousabq.tech
 0.0.0.0 upalytics.com
+0.0.0.0 upc.zztfly.com
 0.0.0.0 update.3lift.com
 0.0.0.0 update.adsrvr.org
 0.0.0.0 update.indexww.com
@@ -10018,6 +10032,7 @@
 0.0.0.0 waust.at
 0.0.0.0 waves.retentionscience.com
 0.0.0.0 wbapp.mobile.sina.cn
+0.0.0.0 wcp.taobao.com
 0.0.0.0 wd-edge.sharethis.com
 0.0.0.0 wd.adcolony.com
 0.0.0.0 wdig.vo.llnwd.net
@@ -10267,6 +10282,7 @@
 0.0.0.0 yellow-resultsbidder.com
 0.0.0.0 yellowhammerflashint188671193078.s.moatpixel.com
 0.0.0.0 yemonisoni.com
+0.0.0.0 yfanads.com
 0.0.0.0 yicha.jp
 0.0.0.0 yield-manager.browsiprod.com
 0.0.0.0 yieldingwoman.com
@@ -10282,6 +10298,7 @@
 0.0.0.0 yllix.com
 0.0.0.0 ylog.hiido.com
 0.0.0.0 ymtracking.com
+0.0.0.0 yodo1.com
 0.0.0.0 yomedia.vn
 0.0.0.0 youborafds01.com
 0.0.0.0 youmi.net
