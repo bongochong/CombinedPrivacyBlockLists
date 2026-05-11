@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 29 Apr 2026 17:29:56 GMT
-# entries:        3522
+# last updated:   Mon, 11 May 2026 09:39:51 GMT
+# entries:        3517
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -156,7 +156,6 @@
 127.0.0.1 ad.wsod.com
 127.0.0.1 ad.wz.cz
 127.0.0.1 ad.xiaomi.com
-127.0.0.1 ad.xmovies8.si
 127.0.0.1 ad.xrea.com
 127.0.0.1 ad.ztylez.com
 127.0.0.1 ad0.bigmir.net
@@ -314,7 +313,6 @@
 127.0.0.1 adpepper.nl
 127.0.0.1 adperium.com
 127.0.0.1 adpia.vn
-127.0.0.1 adplxmd.com
 127.0.0.1 adprofits.ru
 127.0.0.1 adpushup.com
 127.0.0.1 adrazzi.com
@@ -564,7 +562,6 @@
 127.0.0.1 ads.townhall.com
 127.0.0.1 ads.travelaudience.com
 127.0.0.1 ads.trinitymirror.co.uk
-127.0.0.1 ads.tripod.com
 127.0.0.1 ads.tripod.lycos.co.uk
 127.0.0.1 ads.tripod.lycos.es
 127.0.0.1 ads.tripod.lycos.it
@@ -1147,6 +1144,7 @@
 127.0.0.1 bttrack.com
 127.0.0.1 bubblyaction.com
 127.0.0.1 buddycanvas.com
+127.0.0.1 bugpuk.ru
 127.0.0.1 buysellads.com
 127.0.0.1 buzzonclick.com
 127.0.0.1 bwp.download.com
@@ -1207,6 +1205,7 @@
 127.0.0.1 cetrk.com
 127.0.0.1 cgicounter.puretec.de
 127.0.0.1 chairscrack.com
+127.0.0.1 chalkdream.com
 127.0.0.1 channelintelligence.com
 127.0.0.1 chargecracker.com
 127.0.0.1 chart.dk
@@ -1257,7 +1256,6 @@
 127.0.0.1 click.i.southwesternrailway.com
 127.0.0.1 click.infoblox.com
 127.0.0.1 click.justwatch.com
-127.0.0.1 click.kmindex.ru
 127.0.0.1 click.liftoff.io
 127.0.0.1 click.mail.hotels.com
 127.0.0.1 click.mail.salesforce.com
@@ -1291,6 +1289,7 @@
 127.0.0.1 clicks.equantum.com
 127.0.0.1 clicks.eventbrite.com
 127.0.0.1 clicks.monzo.com
+127.0.0.1 clicks.njuskalo.hr
 127.0.0.1 clickserve.cc-dt.com
 127.0.0.1 clicksinfo.thefork.co.uk
 127.0.0.1 clicktag.de
@@ -1383,7 +1382,6 @@
 127.0.0.1 counter.rambler.ru
 127.0.0.1 counter.search.bg
 127.0.0.1 counter.snackly.co
-127.0.0.1 counting.kmindex.ru
 127.0.0.1 coupling-media.de
 127.0.0.1 cowbelltime.com
 127.0.0.1 coxmt.com
@@ -1482,6 +1480,7 @@
 127.0.0.1 disqusads.com
 127.0.0.1 dist.belnk.com
 127.0.0.1 distillery.wistia.com
+127.0.0.1 distilltable.com
 127.0.0.1 districtm.ca
 127.0.0.1 districtm.io
 127.0.0.1 dmp.mall.tv
@@ -1761,7 +1760,6 @@
 127.0.0.1 go.first.org
 127.0.0.1 go.icann.org
 127.0.0.1 go.scmagazine.com
-127.0.0.1 go.usa.gov
 127.0.0.1 go.xlirdr.com
 127.0.0.1 go2affise.com
 127.0.0.1 godseedband.com
@@ -1815,7 +1813,6 @@
 127.0.0.1 hbb.afl.rakuten.co.jp
 127.0.0.1 hbopenbid.pubmatic.com
 127.0.0.1 heap.com
-127.0.0.1 heimi-lwx.com
 127.0.0.1 hellobar.com
 127.0.0.1 helpcollar.com
 127.0.0.1 hentaicounter.com
@@ -2245,7 +2242,6 @@
 127.0.0.1 mintfunnel.co
 127.0.0.1 mittencattle.com
 127.0.0.1 mix2ads.com
-127.0.0.1 mixedreading.com
 127.0.0.1 mixpanel.com
 127.0.0.1 mkto-ab410147.com
 127.0.0.1 mktoresp.com
@@ -2627,7 +2623,6 @@
 127.0.0.1 puffypull.com
 127.0.0.1 puffypurpose.com
 127.0.0.1 pureclarity.net
-127.0.0.1 pushance.com
 127.0.0.1 pushengage.com
 127.0.0.1 pushno.com
 127.0.0.1 pushtrack.co
@@ -2665,7 +2660,6 @@
 127.0.0.1 r1.visualwebsiteoptimizer.com
 127.0.0.1 r2.visualwebsiteoptimizer.com
 127.0.0.1 r3.visualwebsiteoptimizer.com
-127.0.0.1 raac33.net
 127.0.0.1 rabbitrifle.com
 127.0.0.1 rackforstorage.com
 127.0.0.1 radar.cedexis.com
@@ -2839,6 +2833,7 @@
 127.0.0.1 securedopen-bp.com
 127.0.0.1 securemetrics.apple.com
 127.0.0.1 securemetrics.apple.com.cn
+127.0.0.1 securityannex.net
 127.0.0.1 sedoparking.com
 127.0.0.1 sedotracker.com
 127.0.0.1 segment-cdn.producthunt.com
@@ -3292,6 +3287,7 @@
 127.0.0.1 trk.techtarget.com
 127.0.0.1 trk1.avdlink.net
 127.0.0.1 trk42.net
+127.0.0.1 trkm.mg.thegoodybag.co.uk
 127.0.0.1 trkn.us
 127.0.0.1 trkoptimizer.com
 127.0.0.1 trkpnt.ongage.net
@@ -3519,7 +3515,6 @@
 127.0.0.1 zedo.com
 127.0.0.1 zemanta.com
 127.0.0.1 zencudo.co.uk
-127.0.0.1 zenkreka.com
 127.0.0.1 zenzuu.com
 127.0.0.1 zephyrlabyrinth.com
 127.0.0.1 zeus.developershed.com

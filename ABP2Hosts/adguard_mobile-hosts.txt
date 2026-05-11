@@ -1,4 +1,4 @@
-# Fri May  1 04:52:29 PM UTC 2026
+# Mon May 11 05:30:26 PM UTC 2026
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -1054,6 +1054,7 @@
 0.0.0.0 aka-cdn.adtech.de
 0.0.0.0 aka-cdn.adtechus.com
 0.0.0.0 aka.spotxcdn.com
+0.0.0.0 aki-gb-sdklog.kurogames.net
 0.0.0.0 aksdk-images.adikteev.com
 0.0.0.0 akstat.io.edgekey.net
 0.0.0.0 aktrack.pubmatic.com
@@ -3385,6 +3386,7 @@
 0.0.0.0 cx.ssacdn.com
 0.0.0.0 cxad.cxense.com
 0.0.0.0 cxense.com.edgekey.net
+0.0.0.0 cxlog.shinhansec.com
 0.0.0.0 cyclopsdial.com
 0.0.0.0 cz-gmtdmp.mookie1.com
 0.0.0.0 d.adlpo.com
@@ -3763,7 +3765,6 @@
 0.0.0.0 dsg.sc.omtrdc.net
 0.0.0.0 dsp-1.ogury.io
 0.0.0.0 dsp-adcreative.mobshark.net
-0.0.0.0 dsp-api.moloco.com
 0.0.0.0 dsp-creative.demandbase.com
 0.0.0.0 dsp-d.ants.vn
 0.0.0.0 dsp.adkernel.com
@@ -5429,6 +5430,7 @@
 0.0.0.0 krxd.net
 0.0.0.0 kvaedit.site
 0.0.0.0 kvinit-prod.api.kochava.com
+0.0.0.0 kw0xlh4wig.com
 0.0.0.0 kyson.ad.daum.net
 0.0.0.0 kz.tns-counter.ru
 0.0.0.0 l.a.mobimagic.com
@@ -5691,9 +5693,11 @@
 0.0.0.0 log1.cmpassport.com
 0.0.0.0 log1.golfrival.net
 0.0.0.0 log1.perfectworldgames.com
+0.0.0.0 log1.pwsdk.com
 0.0.0.0 log16-normal-us-ttp.capcutapi.us
 0.0.0.0 log2.ihubgo.info
 0.0.0.0 log2.perfectworldgames.com
+0.0.0.0 log2.pwsdk.com
 0.0.0.0 log4x.nixcdn.com
 0.0.0.0 log5.interactive-circle.jp
 0.0.0.0 logagent-wf.centurygame.com
@@ -6162,6 +6166,7 @@
 0.0.0.0 mobile.yandexadexchange.net
 0.0.0.0 mobileads.indiatimes.com
 0.0.0.0 mobileads.msn.com
+0.0.0.0 mobileadvertiser.yanosik.pl
 0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
 0.0.0.0 mobileapi.usebutton.com
 0.0.0.0 mobileapptracking.com
