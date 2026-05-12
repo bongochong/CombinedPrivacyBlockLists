@@ -20,7 +20,7 @@ wget -nv -O hosts.7 "https://raw.githubusercontent.com/bongochong/CombinedPrivac
 wget -nv -O hosts.8 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/piperun-hosts.txt"
 wget -nv -O hosts.9 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/disconnect_consolidated.txt"
 wget -nv -O hosts.10 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/Mirrors/urlhausonline.hosts"
-wget -nv -O hosts.11 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/AdditionalSupplementaryHosts.txt"
+wget -nv -O hosts.11 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/NoFormatting/AdditionalSuppleMini.txt"
 echo "Lists Downloaded. Parsing data..."
 sed -i '$a\' hosts.*
 cat hosts.* | sort | uniq | sed "s/#.*$//" | sed "s/\s\.*$//" | sed "/[[:space:]]*#/d" | sed "/[[:blank:]]*#/d" | sed "s/\t\+/ /g" | sed "s/^127.0.0.1/0.0.0.0/g" | sed "s/^::1/0.0.0.0/g" | sed "s/^::/0.0.0.0/g" | sed "s/[[:space:]]*$//" | sed "s/[[:blank:]]*$//" | sed "s/[[:space:]]\+/ /g" | sed "/^0.0.0.0 /! s/^/0.0.0.0 /" | sed -e '/^0\.0\.0\.0[ ].*[ ].*.$/d' | sed "s/\(.*\)/\L\1/" > hosts-pre.final
