@@ -836,7 +836,6 @@
 0.0.0.0 a.uchi.moe
 0.0.0.0 a.vserv.mobi
 0.0.0.0 a.ycwave.cn
-0.0.0.0 a0.app.xiaomi.com
 0.0.0.0 a0015919.xsph.ru
 0.0.0.0 a0088485.xsph.ru
 0.0.0.0 a0147726.xsph.ru
@@ -1938,6 +1937,7 @@
 0.0.0.0 adapi.inlcorp.com
 0.0.0.0 adapt.tv
 0.0.0.0 adaptive.marketing
+0.0.0.0 adaptor-individual-signing-statute.trycloudflare.com
 0.0.0.0 adara.com
 0.0.0.0 adash.m.taobao.com
 0.0.0.0 adashbc.m.taobao.com
@@ -3108,7 +3108,6 @@
 0.0.0.0 ads.emirates.net.ae
 0.0.0.0 ads.enliven.com
 0.0.0.0 ads.ennaharonline.com
-0.0.0.0 ads.enrt.eu
 0.0.0.0 ads.epltalk.com
 0.0.0.0 ads.epom.com
 0.0.0.0 ads.epomtestsite.com
@@ -3553,7 +3552,6 @@
 0.0.0.0 ads.pinterest.com
 0.0.0.0 ads.pitchforkmedia.com
 0.0.0.0 ads.pittsburghlive.com
-0.0.0.0 ads.pivol.net
 0.0.0.0 ads.pixiq.com
 0.0.0.0 ads.placeiq.com
 0.0.0.0 ads.planet-f1.com
@@ -5199,6 +5197,7 @@
 0.0.0.0 advertising.aol.com
 0.0.0.0 advertising.apple.com
 0.0.0.0 advertising.bbcworldwide.com
+0.0.0.0 advertising.civitai.com
 0.0.0.0 advertising.com
 0.0.0.0 advertising.gammassp.com
 0.0.0.0 advertising.goldseek.com
@@ -6327,7 +6326,6 @@
 0.0.0.0 analytics.dap-networks.de
 0.0.0.0 analytics.data.lloydsbankinggroup.com
 0.0.0.0 analytics.data.visenze.com
-0.0.0.0 analytics.datahc.com
 0.0.0.0 analytics.datasavannah.com
 0.0.0.0 analytics.dealmoon.com
 0.0.0.0 analytics.denimdream.com
@@ -7141,6 +7139,7 @@
 0.0.0.0 api-analytics.prod.birdapp.com
 0.0.0.0 api-analytics.rozetka.com.ua
 0.0.0.0 api-dns1-e.xyz
+0.0.0.0 api-events.taboola.com
 0.0.0.0 api-gate.xyz
 0.0.0.0 api-hotjar.com
 0.0.0.0 api-hw.adxplay.com
@@ -7523,6 +7522,7 @@
 0.0.0.0 arkallsaintsacademy.com
 0.0.0.0 armantraders.net
 0.0.0.0 armasglass.com
+0.0.0.0 armour-inc-down.net
 0.0.0.0 armyscheme.sytes.net
 0.0.0.0 armyserver.myjino.ru
 0.0.0.0 aromamirror.com
@@ -9392,6 +9392,7 @@
 0.0.0.0 cartepak.online
 0.0.0.0 cartoonnetwork.122.2o7.net
 0.0.0.0 carvecakes.com
+0.0.0.0 cas-blocks-disciplinary-practice.trycloudflare.com
 0.0.0.0 casaconceitoltda.info
 0.0.0.0 casaemily.it
 0.0.0.0 casalespinazzella.it
@@ -11532,6 +11533,7 @@
 0.0.0.0 d-stats.com
 0.0.0.0 d-stuff.cfd
 0.0.0.0 d-track.send.microadinc.com
+0.0.0.0 d.adlpo.com
 0.0.0.0 d.adroll.com
 0.0.0.0 d.adsco.re
 0.0.0.0 d.adspeed.net
@@ -12465,6 +12467,7 @@
 0.0.0.0 dpagcoagcoglobal.112.2o7.net
 0.0.0.0 dpdpsots.top
 0.0.0.0 dpiprodesntls.112.2o7.net
+0.0.0.0 dpjf9a2rbjbvp.cloudfront.net
 0.0.0.0 dpyfo.mobi
 0.0.0.0 dq3yxnlzwhcys.cloudfront.net
 0.0.0.0 dq95d35.com
@@ -12823,6 +12826,7 @@
 0.0.0.0 edge.staging.sharethis.com
 0.0.0.0 edge.uniconsent.com
 0.0.0.0 edge.xero.com
+0.0.0.0 edge.xtriks.com
 0.0.0.0 edge01.chartbeat.net
 0.0.0.0 edgeadserver-delivery.reviveservers.com
 0.0.0.0 edgecast-vod.yimg.com
@@ -14237,6 +14241,7 @@
 0.0.0.0 flyermobi.com
 0.0.0.0 flyingmag.com.122.2o7.net
 0.0.0.0 fm-analytics-api.pocketfm.com
+0.0.0.0 fm-analytics.cloudbees.io
 0.0.0.0 fm.radio.googlemenow.org
 0.0.0.0 fmads.osdn.com
 0.0.0.0 fmsp3.za.com
@@ -14270,6 +14275,7 @@
 0.0.0.0 forconfirmation.gq
 0.0.0.0 ford.112.2o7.net
 0.0.0.0 fordulak.com
+0.0.0.0 forecast-exact-defined-determined.trycloudflare.com
 0.0.0.0 forecasttiger.com
 0.0.0.0 forendde76gn.shop
 0.0.0.0 foretellfifth.com
@@ -14917,6 +14923,7 @@
 0.0.0.0 git.changsijay.com
 0.0.0.0 git44share.quest
 0.0.0.0 gitcompiler.com
+0.0.0.0 gitconnect-online.web.app
 0.0.0.0 gitcrumbs.com
 0.0.0.0 gitfrominstall.com
 0.0.0.0 github-readme.com
@@ -15894,6 +15901,7 @@
 0.0.0.0 how-to-how.club
 0.0.0.0 howdyinbox.com
 0.0.0.0 hp-dy.net
+0.0.0.0 hp.taboola.com
 0.0.0.0 hpcdn.adspirit.de
 0.0.0.0 hpepdfembedapi.112.2o7.net
 0.0.0.0 hphp-dy.net
@@ -16371,6 +16379,7 @@
 0.0.0.0 inboxads.com
 0.0.0.0 inc-rev.static-cloudflare.workers.dev
 0.0.0.0 inc.adblade.com
+0.0.0.0 inc1-rev.static-cloudflare.workers.dev
 0.0.0.0 incisivemedia.112.2o7.net
 0.0.0.0 incomehippo.com
 0.0.0.0 incoming-telemetry.thunderbird.net
@@ -18033,6 +18042,7 @@
 0.0.0.0 log-baonghean.zadn.vn
 0.0.0.0 log-baophapluat.zadn.vn
 0.0.0.0 log-bizlive.zadn.vn
+0.0.0.0 log-boot.capcutapi.com
 0.0.0.0 log-bridge-mobile.kr.karrotmarket.com
 0.0.0.0 log-collector.shopee.vn
 0.0.0.0 log-collector.svctr.zynga.com
@@ -18086,6 +18096,7 @@
 0.0.0.0 log-upload-os.hoyoverse.com
 0.0.0.0 log-upload-os.mihoyo.com
 0.0.0.0 log-upload.mihoyo.com
+0.0.0.0 log-v2-boot.capcutapi.com
 0.0.0.0 log-v4-insight.kaizenplatform.net
 0.0.0.0 log-va.tiktokv.com
 0.0.0.0 log-verify.hiaiabc.com
@@ -18389,7 +18400,9 @@
 0.0.0.0 log1.pwsdk.com
 0.0.0.0 log1.wanmei.com
 0.0.0.0 log1.wtlogin.qq.com
+0.0.0.0 log16-normal-sg.capcutapi.com
 0.0.0.0 log16-normal-us-ttp.capcutapi.us
+0.0.0.0 log16-normal.capcutapi.com
 0.0.0.0 log2.adsplay.net
 0.0.0.0 log2.cmpassport.com
 0.0.0.0 log2.ihubgo.info
@@ -18403,6 +18416,8 @@
 0.0.0.0 log22.makeshop.co.kr
 0.0.0.0 log3.adsplay.net
 0.0.0.0 log3.optimizely.com
+0.0.0.0 log32-normal-sg.capcutapi.com
+0.0.0.0 log32-normal.capcutapi.com
 0.0.0.0 log4.adsplay.net
 0.0.0.0 log4x.nixcdn.com
 0.0.0.0 log999.goo.ne.jp
@@ -18470,6 +18485,7 @@
 0.0.0.0 logger.zcoup.com
 0.0.0.0 loggerx.com
 0.0.0.0 loggerz.xyz
+0.0.0.0 loggiacsgj.com
 0.0.0.0 logging.admicro.vn
 0.0.0.0 logging.e-himart.co.kr
 0.0.0.0 logging.fishsticksgames.com
@@ -19151,6 +19167,7 @@
 0.0.0.0 markedmeasure.com
 0.0.0.0 market-click-baobab.yandex.ru
 0.0.0.0 market.cityads.com
+0.0.0.0 marketing.trvl.yandex.net
 0.0.0.0 marketingai.admicro.vn
 0.0.0.0 marketingcube.com.au
 0.0.0.0 marketingsolutions.yahoo.com
@@ -19786,6 +19803,7 @@
 0.0.0.0 microsotflogin.com
 0.0.0.0 microtik.stream
 0.0.0.0 microtrend.xyz
+0.0.0.0 microwaved.info
 0.0.0.0 mid-round.com
 0.0.0.0 mid-selections-prohibited-merely.trycloudflare.com
 0.0.0.0 midala.112.2o7.net
@@ -20179,6 +20197,7 @@
 0.0.0.0 mp3ad.scdn.co
 0.0.0.0 mp3menu.org
 0.0.0.0 mpe.ad4game.com
+0.0.0.0 mpecom-analyticevents-prod.boyner.com.tr
 0.0.0.0 mpg.taboola.com
 0.0.0.0 mpinsureit.com
 0.0.0.0 mpire.112.2o7.net
@@ -21236,6 +21255,8 @@
 0.0.0.0 official-ledgrlive.com
 0.0.0.0 official.step-up-line.com
 0.0.0.0 official.treasure-fan.com
+0.0.0.0 officialgitechpage.web.app
+0.0.0.0 officialgithubweb3.pages.dev
 0.0.0.0 officialkmspico.com
 0.0.0.0 officials-kmspico.com
 0.0.0.0 offshorecyclone.com
@@ -22257,6 +22278,7 @@
 0.0.0.0 plus-x4-alpha.com
 0.0.0.0 plus.rustfacepunch.com
 0.0.0.0 pm-gateway.supersonicads.com
+0.0.0.0 pm-widget.taboola.com
 0.0.0.0 pm.adsafeprotected.com
 0.0.0.0 pmcares.fund
 0.0.0.0 pmequebeclic.com
@@ -23467,7 +23489,6 @@
 0.0.0.0 revision-cupo-tarjeta.gq
 0.0.0.0 revive-adserver.com
 0.0.0.0 revive-adserver.net
-0.0.0.0 revive-static.worldscreen.com
 0.0.0.0 revive.agenda.ge
 0.0.0.0 revive.bdnews24.com
 0.0.0.0 revive.saechsische-schweiz.de
@@ -24032,6 +24053,7 @@
 0.0.0.0 sadspacekitty.com
 0.0.0.0 safa.205dundas.com
 0.0.0.0 safaribooks.112.2o7.net
+0.0.0.0 safe3.top
 0.0.0.0 safeageplan.link
 0.0.0.0 safedk.com
 0.0.0.0 safepal.com.co
@@ -24046,6 +24068,7 @@
 0.0.0.0 safrainvest.cfd
 0.0.0.0 sagdao.com
 0.0.0.0 sagheur.top
+0.0.0.0 sagou.com.cn
 0.0.0.0 sahmanapah.sns.am
 0.0.0.0 sail-horizon.com
 0.0.0.0 sailcoalition.org
@@ -26417,6 +26440,7 @@
 0.0.0.0 sugulove777.com
 0.0.0.0 sugusagasu.com
 0.0.0.0 suite-trezor.click
+0.0.0.0 suite.co.com
 0.0.0.0 suite.tem3.io
 0.0.0.0 suitee-trezorrsuite.com
 0.0.0.0 sukebeisu.com
@@ -26697,6 +26721,7 @@
 0.0.0.0 t.adcell.com
 0.0.0.0 t.adclr.jp
 0.0.0.0 t.adii.se
+0.0.0.0 t.adlpo.com
 0.0.0.0 t.adtrckr.uno
 0.0.0.0 t.adx.opera.com
 0.0.0.0 t.collectiveaudience.co
@@ -27235,6 +27260,7 @@
 0.0.0.0 tigustolanostracucina.it
 0.0.0.0 tikione.vip
 0.0.0.0 tiktok-ads.hara.vn
+0.0.0.0 tiktok-fly.com
 0.0.0.0 tiktok.tray.com.br
 0.0.0.0 tiktokcdn1.xyz
 0.0.0.0 tillertag-a.akamaihd.net
@@ -27840,6 +27866,7 @@
 0.0.0.0 track4ref.com
 0.0.0.0 trackad.cz
 0.0.0.0 trackads.club
+0.0.0.0 trackadspresent.com
 0.0.0.0 trackalyzer.com
 0.0.0.0 trackbar.navigator-lxa.mail.com
 0.0.0.0 trackboxx.info
@@ -31100,6 +31127,7 @@
 0.0.0.0 www.loginhunter.com
 0.0.0.0 www.logly.co.jp
 0.0.0.0 www.logoradar.com
+0.0.0.0 www.logoswitch.com
 0.0.0.0 www.logrocket.com
 0.0.0.0 www.logrocket.io
 0.0.0.0 www.luckyorange.com
