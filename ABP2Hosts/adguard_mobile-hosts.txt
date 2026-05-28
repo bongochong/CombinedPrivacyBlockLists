@@ -1,4 +1,4 @@
-# Sun May 17 03:26:47 AM UTC 2026
+# Thu May 28 09:16:00 PM UTC 2026
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -721,6 +721,7 @@
 0.0.0.0 ads.feelingtouch.com
 0.0.0.0 ads.flurry.com
 0.0.0.0 ads.google.com
+0.0.0.0 ads.heytapmobi.com
 0.0.0.0 ads.heyzap.com
 0.0.0.0 ads.icloseli.com
 0.0.0.0 ads.imbc.com
@@ -875,6 +876,7 @@
 0.0.0.0 adserving.aan.speedshiftmedia.com
 0.0.0.0 adserving.speedshiftmedia.com
 0.0.0.0 adservingvpc-1239633584.eu-west-1.elb.amazonaws.com
+0.0.0.0 adsfs.heytapimage.com
 0.0.0.0 adsfs.oppomobile.com
 0.0.0.0 adsgard.aprod.scopely.io
 0.0.0.0 adshost2.com
@@ -3037,7 +3039,6 @@
 0.0.0.0 collector-9306.us.tvsquared.com
 0.0.0.0 collector-main.trafficmanager.net
 0.0.0.0 collector-px8fcgygk4.px-cloud.net
-0.0.0.0 collector-sbanking.shb-pelib.com
 0.0.0.0 collector.brandify.com
 0.0.0.0 collector.bughd.com
 0.0.0.0 collector.capturly.com
@@ -3517,6 +3518,7 @@
 0.0.0.0 dc.di.atlas.samsung.com
 0.0.0.0 dc.dqa.samsung.com
 0.0.0.0 dc.lsosad.com
+0.0.0.0 dc.oppomobile.com
 0.0.0.0 dc.webtrends.com
 0.0.0.0 dc.yieldify.com
 0.0.0.0 dcdn.adnxs.com
@@ -8164,6 +8166,7 @@
 0.0.0.0 shirtsidewalk.com
 0.0.0.0 shiveringspot.com
 0.0.0.0 shiverscissors.com
+0.0.0.0 shiyifacaisalzc.com
 0.0.0.0 shockinggrass.com
 0.0.0.0 shockingship.com
 0.0.0.0 shoparty.metrilo.com
