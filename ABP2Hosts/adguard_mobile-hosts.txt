@@ -1,4 +1,4 @@
-# Tue Jun  9 04:46:25 PM UTC 2026
+# Tue Jun 23 01:10:43 AM UTC 2026
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -8686,6 +8686,7 @@
 0.0.0.0 stats-api.skylum.com
 0.0.0.0 stats-dev.brid.tv
 0.0.0.0 stats-proto.pandora.com
+0.0.0.0 stats-sdk.tange365.com
 0.0.0.0 stats-sg.ganymede.eu
 0.0.0.0 stats.abbi.io
 0.0.0.0 stats.addtoany.com
