@@ -5132,9 +5132,7 @@ deny from 195.47.108.138/32
 deny from 195.47.116.72/32
 deny from 195.52.220.67/32
 deny from 195.54.48.30/32
-deny from 195.54.192.50/32
 deny from 195.54.192.200/32
-deny from 195.54.209.9/32
 deny from 195.56.44.150/32
 deny from 195.56.77.184/32
 deny from 195.60.77.145/32
