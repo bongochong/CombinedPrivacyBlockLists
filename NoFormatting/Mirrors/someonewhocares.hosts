@@ -10,7 +10,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 22 Jun 2026 at 22:47:14 GMT
+# Last updated: Tue, 30 Jun 2026 at 22:19:49 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1859,6 +1859,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 crrect.sa.com
 0.0.0.0 crypto-loot.com
 0.0.0.0 ctmsapp.com
+0.0.0.0 ctziogas.gr
 0.0.0.0 cuder.fr
 0.0.0.0 cullligan.fr
 0.0.0.0 culturalfoundation.fr
@@ -3312,6 +3313,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.abnehmenkabofit.de
 0.0.0.0 www.aconchoe.com
 0.0.0.0 www.activetrap.com
+0.0.0.0 www.adacoustics.com
 0.0.0.0 www.adblock.fr
 0.0.0.0 www.adselector.com
 0.0.0.0 www.adshufffle.com
@@ -3353,11 +3355,13 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.availablefiles.com
 0.0.0.0 www.avemoo.com
 0.0.0.0 www.azureus.es
+0.0.0.0 www.azwomens.com
 0.0.0.0 www.backingguitar.garden
 0.0.0.0 www.bahartonu.com
 0.0.0.0 www.baiakstyle.com
 0.0.0.0 www.balassst.com
 0.0.0.0 www.bandexperts.com
+0.0.0.0 www.banghra.com
 0.0.0.0 www.bankofcounty.com
 0.0.0.0 www.barjacity.com
 0.0.0.0 www.basealloys.com
@@ -3462,6 +3466,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.coolrextintshop.com
 0.0.0.0 www.corlythra.uk
 0.0.0.0 www.corvettiortho.com
+0.0.0.0 www.courtneydowns.com
 0.0.0.0 www.cpatglobal.com
 0.0.0.0 www.cprcar.com
 0.0.0.0 www.cqwallpaper.com
@@ -3477,6 +3482,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.dayanitastore.com
 0.0.0.0 www.daytonjaxx.com
 0.0.0.0 www.dealresponse.com
+0.0.0.0 www.dealshaat.com
 0.0.0.0 www.dealsrate.com
 0.0.0.0 www.deashi.com
 0.0.0.0 www.defailermu.com
@@ -3497,6 +3503,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.dkpmsa.cfd
 0.0.0.0 www.dlinktour.com
 0.0.0.0 www.dorminvaders.com
+0.0.0.0 www.downmass.com
 0.0.0.0 www.drivegoals.com
 0.0.0.0 www.dualeotruyenno.com
 0.0.0.0 www.duotrader.com
@@ -3520,6 +3527,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.esjetonline.com
 0.0.0.0 www.ethicsstore.com
 0.0.0.0 www.europelinen.com
+0.0.0.0 www.eventflavor.com
 0.0.0.0 www.exactpharm.com
 0.0.0.0 www.exambased.com
 0.0.0.0 www.exceleratehelp.com
@@ -3621,6 +3629,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.healthcompeting.rest
 0.0.0.0 www.helvax.cfd
 0.0.0.0 www.helvora.help
+0.0.0.0 www.herselfshame.homes
 0.0.0.0 www.hiewa.com.my
 0.0.0.0 www.higherteam.com
 0.0.0.0 www.hindudirectory.com
@@ -3651,6 +3660,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.instantcross.com
 0.0.0.0 www.invitegame.com
 0.0.0.0 www.iovenesweb.com
+0.0.0.0 www.irlandalk.com
 0.0.0.0 www.irony.world
 0.0.0.0 www.iwantclothing.com
 0.0.0.0 www.jackpotcasinojeux.com
@@ -3695,6 +3705,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.ledfaucetlight.com
 0.0.0.0 www.leeucode.com
 0.0.0.0 www.lemoncascadexq.name
+0.0.0.0 www.lfsph.com
 0.0.0.0 www.libanco.com
 0.0.0.0 www.lightcontest.com
 0.0.0.0 www.lightstylist.com
@@ -3728,6 +3739,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.matifi.com
 0.0.0.0 www.meantvictim.lat
 0.0.0.0 www.mediamindpolska.com
+0.0.0.0 www.meecheck.com
 0.0.0.0 www.meeseger.com
 0.0.0.0 www.megapurchase.com
 0.0.0.0 www.memorieson.com
@@ -3774,6 +3786,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.new2crypto.com
 0.0.0.0 www.newshello.com
 0.0.0.0 www.nextfeatures.com
+0.0.0.0 www.nftnavigator.com
 0.0.0.0 www.nigja.com
 0.0.0.0 www.nnews.net
 0.0.0.0 www.nobetsjustfun.com
@@ -3847,6 +3860,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.playroyaluk.com
 0.0.0.0 www.playtactics-hub.com
 0.0.0.0 www.pluseconomy.com
+0.0.0.0 www.ponhap.com
 0.0.0.0 www.portaldimensional.com
 0.0.0.0 www.portlanfleathergoods.com
 0.0.0.0 www.portutopcas.com
@@ -3909,9 +3923,11 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.rtpbolaslotjago.com
 0.0.0.0 www.russian-sex.com
 0.0.0.0 www.sailpirate.com
+0.0.0.0 www.salliemaebenefits.com
 0.0.0.0 www.salttm.com
 0.0.0.0 www.sandybellxb.site
 0.0.0.0 www.sandybrookyt.name
+0.0.0.0 www.santemama.com
 0.0.0.0 www.sauteenacoochee.com
 0.0.0.0 www.scrapzoneauto.com
 0.0.0.0 www.securityplusproducts.com
@@ -3982,6 +3998,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.tanger.com.br
 0.0.0.0 www.tattnexa.tattoo
 0.0.0.0 www.tattooshaha.info			# Facebook trojan
+0.0.0.0 www.teacherblogit.com
 0.0.0.0 www.teafortune.com
 0.0.0.0 www.techadvisorpro.name
 0.0.0.0 www.technocost.com
@@ -4039,6 +4056,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.vipnac.com
 0.0.0.0 www.vkvmotion.com
 0.0.0.0 www.vnailssanclemente.com
+0.0.0.0 www.volvce.com
 0.0.0.0 www.voolat.com
 0.0.0.0 www.walkhelp.net
 0.0.0.0 www.wantsfly.com
@@ -9329,6 +9347,10 @@ ff02::3		ip6-allhosts
 0.0.0.0 newclk.com
 0.0.0.0 newip427.changeip.net
 0.0.0.0 newjunk4u.com
+0.0.0.0 newlovez.co
+0.0.0.0 newlovez2.co
+0.0.0.0 newlovez3.co
+0.0.0.0 newlovez4.co
 0.0.0.0 newmedsdeal.eu
 0.0.0.0 newms-shop.su
 0.0.0.0 newpipe.app

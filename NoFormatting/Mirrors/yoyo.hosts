@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 22 Jun 2026 20:54:53 GMT
-# entries:        3508
+# last updated:   Sun, 28 Jun 2026 20:22:31 GMT
+# entries:        3516
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -521,7 +521,6 @@
 127.0.0.1 ads.pinterest.com
 127.0.0.1 ads.planet.nl
 127.0.0.1 ads.pni.com
-127.0.0.1 ads.pof.com
 127.0.0.1 ads.printscr.com
 127.0.0.1 ads.prisacom.com
 127.0.0.1 ads.prod.webservices.mozgcp.net
@@ -733,6 +732,7 @@
 127.0.0.1 adstanding.com
 127.0.0.1 adstat.4u.pl
 127.0.0.1 adstest.weather.com
+127.0.0.1 adstrategy-elb.go2cloud.org
 127.0.0.1 adstub.net
 127.0.0.1 adsupply.com
 127.0.0.1 adswizz.com
@@ -757,6 +757,7 @@
 127.0.0.1 adtrack.voicestar.com
 127.0.0.1 adtraction.com
 127.0.0.1 adtrade.net
+127.0.0.1 adtrk1.com
 127.0.0.1 adultadvertising.com
 127.0.0.1 adv-adserver.com
 127.0.0.1 adv.donejty.pl
@@ -785,6 +786,7 @@
 127.0.0.1 advertmarket.com
 127.0.0.1 advertmedia.de
 127.0.0.1 advertpro.ya.com
+127.0.0.1 advertracker.com
 127.0.0.1 advertserve.com
 127.0.0.1 advertwizard.com
 127.0.0.1 advideo.uimserv.net
@@ -976,7 +978,6 @@
 127.0.0.1 bagsurprise.com
 127.0.0.1 banik.redigy.cz
 127.0.0.1 banner.ambercoastcasino.com
-127.0.0.1 banner.buempliz-online.ch
 127.0.0.1 banner.cotedazurpalace.com
 127.0.0.1 banner.easyspace.com
 127.0.0.1 banner.elisa.net
@@ -1003,7 +1004,6 @@
 127.0.0.1 banners.adultfriendfinder.com
 127.0.0.1 banners.amigos.com
 127.0.0.1 banners.asiafriendfinder.com
-127.0.0.1 banners.babylon-x.com
 127.0.0.1 banners.bol.com.br
 127.0.0.1 banners.cams.com
 127.0.0.1 banners.czi.cz
@@ -1289,7 +1289,6 @@
 127.0.0.1 clicks.njuskalo.hr
 127.0.0.1 clickserve.cc-dt.com
 127.0.0.1 clicksinfo.thefork.co.uk
-127.0.0.1 clicktag.de
 127.0.0.1 clickthruserver.com
 127.0.0.1 clickthrutraffic.com
 127.0.0.1 clicktrack.pubmatic.com
@@ -1324,6 +1323,7 @@
 127.0.0.1 codeadnetwork.com
 127.0.0.1 cognitiv.ai
 127.0.0.1 cointraffic.io
+127.0.0.1 coldbalance.com
 127.0.0.1 collector-dev.cdp-dev.cnn.com
 127.0.0.1 collector.cdp.cnn.com
 127.0.0.1 colonize.com
@@ -1759,6 +1759,7 @@
 127.0.0.1 go.scmagazine.com
 127.0.0.1 go.xlirdr.com
 127.0.0.1 go2affise.com
+127.0.0.1 go2cloud.org
 127.0.0.1 godseedband.com
 127.0.0.1 goingplatinum.com
 127.0.0.1 goldstats.com
@@ -1810,7 +1811,6 @@
 127.0.0.1 hbb.afl.rakuten.co.jp
 127.0.0.1 hbopenbid.pubmatic.com
 127.0.0.1 heap.com
-127.0.0.1 heimi-lwx.com
 127.0.0.1 hellobar.com
 127.0.0.1 helpcollar.com
 127.0.0.1 hentaicounter.com
@@ -1945,7 +1945,6 @@
 127.0.0.1 interreklame.de
 127.0.0.1 ioam.de
 127.0.0.1 ip.ro
-127.0.0.1 ip193.cn
 127.0.0.1 iperceptions.com
 127.0.0.1 ipredictive.com
 127.0.0.1 ipstack.com
@@ -2444,6 +2443,7 @@
 127.0.0.1 otto-images.developershed.com
 127.0.0.1 ourdreamstaticpages.pages.dev
 127.0.0.1 outbrain.com
+127.0.0.1 outerwords.com
 127.0.0.1 overconfidentfood.com
 127.0.0.1 overkick.com
 127.0.0.1 overture.com
@@ -2710,6 +2710,7 @@
 127.0.0.1 reklamdsp.com
 127.0.0.1 relmaxtop.com
 127.0.0.1 rememberdiscussion.com
+127.0.0.1 remox.com
 127.0.0.1 report-1.appmetrica.webvisor.com
 127.0.0.1 report-2.appmetrica.webvisor.com
 127.0.0.1 report-partners.appmetrica.yandex.net
@@ -3210,6 +3211,7 @@
 127.0.0.1 track.unear.net
 127.0.0.1 track.vcdc.com
 127.0.0.1 track.viewdeos.com
+127.0.0.1 track.wewilltrcku.com
 127.0.0.1 track1.viewdeos.com
 127.0.0.1 trackalyzer.com
 127.0.0.1 trackedlink.net
@@ -3219,7 +3221,11 @@
 127.0.0.1 tracker.colatv88xb.cc
 127.0.0.1 tracker.icerocket.com
 127.0.0.1 tracker.mmdlv.it
+127.0.0.1 tracker.optin-lead.com
 127.0.0.1 tracker.samplicio.us
+127.0.0.1 tracking.adstrategysites.com
+127.0.0.1 tracking.casheddy.com
+127.0.0.1 tracking.cybertips.uk
 127.0.0.1 tracking.epicgames.com
 127.0.0.1 tracking.hyros.com
 127.0.0.1 tracking.ibxlink.com
@@ -3231,6 +3237,7 @@
 127.0.0.1 tracking.netalerts.io
 127.0.0.1 tracking.olx-st.com
 127.0.0.1 tracking.orixa-media.com
+127.0.0.1 tracking.p-l-m.com
 127.0.0.1 tracking.wetter.at
 127.0.0.1 tracking01.walmart.com
 127.0.0.1 tracking101.com
@@ -3289,6 +3296,7 @@
 127.0.0.1 truehits2.gits.net.th
 127.0.0.1 trust.titanhq.com
 127.0.0.1 trustx.org
+127.0.0.1 tsa-f.webex.com
 127.0.0.1 tsa.webex.com
 127.0.0.1 tsyndicate.com
 127.0.0.1 tsyndicate.net
