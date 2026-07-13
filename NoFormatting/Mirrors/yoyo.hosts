@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 28 Jun 2026 20:22:31 GMT
-# entries:        3516
+# last updated:   Sat, 11 Jul 2026 20:22:25 GMT
+# entries:        3523
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -780,6 +780,7 @@
 127.0.0.1 advertise.com
 127.0.0.1 advertiseireland.com
 127.0.0.1 advertiserurl.com
+127.0.0.1 advertising.amazon.de
 127.0.0.1 advertising.com
 127.0.0.1 advertisingbanners.com
 127.0.0.1 advertisingbox.com
@@ -860,6 +861,7 @@
 127.0.0.1 americash.com
 127.0.0.1 amidsttruly.com
 127.0.0.1 amung.us
+127.0.0.1 analytics-fe.digital-cloud-prem.medallia.eu
 127.0.0.1 analytics-production.hapyak.com
 127.0.0.1 analytics.adpost.org
 127.0.0.1 analytics.algoepico.net
@@ -898,6 +900,7 @@
 127.0.0.1 anrdoezrs.net
 127.0.0.1 anstrex.com
 127.0.0.1 anxiousapples.com
+127.0.0.1 api-ext.bixbitemarketing.com
 127.0.0.1 api.affiliations.site
 127.0.0.1 api.amplitude.com
 127.0.0.1 api.appmetrica.yandex.ru
@@ -984,7 +987,6 @@
 127.0.0.1 banner.finzoom.ro
 127.0.0.1 banner.goldenpalace.com
 127.0.0.1 banner.inyourpocket.com
-127.0.0.1 banner.linux.se
 127.0.0.1 banner.media-system.de
 127.0.0.1 banner.nixnet.cz
 127.0.0.1 banner.noblepoker.com
@@ -1004,6 +1006,7 @@
 127.0.0.1 banners.adultfriendfinder.com
 127.0.0.1 banners.amigos.com
 127.0.0.1 banners.asiafriendfinder.com
+127.0.0.1 banners.babylon-x.com
 127.0.0.1 banners.bol.com.br
 127.0.0.1 banners.cams.com
 127.0.0.1 banners.czi.cz
@@ -1155,6 +1158,7 @@
 127.0.0.1 calypsocapsule.com
 127.0.0.1 campaign.bharatmatrimony.com
 127.0.0.1 caniamedia.com
+127.0.0.1 capitalopera.com
 127.0.0.1 capriciouscorn.com
 127.0.0.1 captainbicycle.com
 127.0.0.1 captainstick.com
@@ -1313,6 +1317,7 @@
 127.0.0.1 cloudguppy.com
 127.0.0.1 clrstm.com
 127.0.0.1 cluster.adultworld.com
+127.0.0.1 clustrmaps.com
 127.0.0.1 cmp.dmgmediaprivacy.co.uk
 127.0.0.1 cmvrclicks000.com
 127.0.0.1 cnomy.com
@@ -2506,6 +2511,7 @@
 127.0.0.1 pgpartner.com
 127.0.0.1 pheedo.com
 127.0.0.1 phoenix-adrunner.mycomputer.com
+127.0.0.1 pi.pdfjs.express
 127.0.0.1 piano.io
 127.0.0.1 pimproll.com
 127.0.0.1 ping.ublock.org
@@ -2599,7 +2605,6 @@
 127.0.0.1 protraffic.com
 127.0.0.1 provenpixel.com
 127.0.0.1 prpops.com
-127.0.0.1 prsitecheck.com
 127.0.0.1 prufenzo.xyz
 127.0.0.1 pstmrk.it
 127.0.0.1 pub.chez.com
@@ -2676,6 +2681,7 @@
 127.0.0.1 rate.ru
 127.0.0.1 rayjump.com
 127.0.0.1 rcadserver.com
+127.0.0.1 re-direct.pl
 127.0.0.1 reachjunction.com
 127.0.0.1 reactx.com
 127.0.0.1 readingguilt.com
@@ -2710,7 +2716,6 @@
 127.0.0.1 reklamdsp.com
 127.0.0.1 relmaxtop.com
 127.0.0.1 rememberdiscussion.com
-127.0.0.1 remox.com
 127.0.0.1 report-1.appmetrica.webvisor.com
 127.0.0.1 report-2.appmetrica.webvisor.com
 127.0.0.1 report-partners.appmetrica.yandex.net
@@ -2719,6 +2724,7 @@
 127.0.0.1 republika.onet.pl
 127.0.0.1 resalag.com
 127.0.0.1 rescuerhino.com
+127.0.0.1 researchlog.dbresearch.com
 127.0.0.1 resonantbrush.com
 127.0.0.1 resonate.com
 127.0.0.1 responsiveads.com
@@ -2752,6 +2758,7 @@
 127.0.0.1 rmedia.boston.com
 127.0.0.1 roaddynamics.com
 127.0.0.1 roar.com
+127.0.0.1 robotrefinery.com
 127.0.0.1 robotreplay.com
 127.0.0.1 rockabox.co
 127.0.0.1 rockagainst.com
@@ -3288,6 +3295,7 @@
 127.0.0.1 trkn.us
 127.0.0.1 trkoptimizer.com
 127.0.0.1 trkpnt.ongage.net
+127.0.0.1 trkweb.clinch.co
 127.0.0.1 trmit.com
 127.0.0.1 truckstomatoes.com
 127.0.0.1 truculentrate.com
@@ -3384,7 +3392,6 @@
 127.0.0.1 visual-pagerank.fr
 127.0.0.1 visualrevenue.com
 127.0.0.1 vivads.net
-127.0.0.1 vivtracking.com
 127.0.0.1 vmmpxl.com
 127.0.0.1 voicefive.com
 127.0.0.1 volatilevessel.com

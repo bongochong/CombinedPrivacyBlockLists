@@ -10,7 +10,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 30 Jun 2026 at 22:19:49 GMT
+# Last updated: Fri, 10 Jul 2026 at 21:29:22 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1946,6 +1946,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 ecantal.fr
 0.0.0.0 ecirque.fr
 0.0.0.0 eckosport.fr
+0.0.0.0 ecommercegoodies.com
 0.0.0.0 edecideur.fr
 0.0.0.0 edisk.ukr.net.ssl2.in
 0.0.0.0 edmo.fr
@@ -2165,6 +2166,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 hcg82f2b.com
 0.0.0.0 headization.lexkd.cn
 0.0.0.0 healpublic.best
+0.0.0.0 healthit.live
 0.0.0.0 hefever.fr
 0.0.0.0 hellomobile.fr
 0.0.0.0 helpmedb.com
@@ -2184,6 +2186,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 hiteck.fr
 0.0.0.0 hiuinder.beauty
 0.0.0.0 hlhtylivs.shop
+0.0.0.0 hlpurs.live
 0.0.0.0 hlthiliv.shop
 0.0.0.0 hltuup.za.com
 0.0.0.0 hocolats-voisin.fr
@@ -2746,6 +2749,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 percantil.fr
 0.0.0.0 peremiere.fr
 0.0.0.0 perfecct.sa.com
+0.0.0.0 performer.za.com
 0.0.0.0 petra.nic.gov.jo
 0.0.0.0 pexkr.comfortykive.xyz
 0.0.0.0 pfepfe.cc
@@ -3003,6 +3007,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 smicaval.fr
 0.0.0.0 smile-angel.com
 0.0.0.0 smosh.fr
+0.0.0.0 snapsonthehouse.com
 0.0.0.0 snscf.fr
 0.0.0.0 sociagil.fr
 0.0.0.0 societegernerale.fr
@@ -3319,6 +3324,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.adshufffle.com
 0.0.0.0 www.aerodriftcore.uk
 0.0.0.0 www.agreementnow.com
+0.0.0.0 www.ahlie.com
 0.0.0.0 www.airmedcarennetwork.com
 0.0.0.0 www.airybotsh.pro
 0.0.0.0 www.airypathsq.name
@@ -3406,6 +3412,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.bucahssana.com
 0.0.0.0 www.builtinfo.com
 0.0.0.0 www.bumerang.cc
+0.0.0.0 www.buystables.com
 0.0.0.0 www.bvcnle.cfd
 0.0.0.0 www.cablyshaw.com
 0.0.0.0 www.calmde.com
@@ -3456,6 +3463,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.combinebasic.com
 0.0.0.0 www.comfortykive.xyz
 0.0.0.0 www.commuteinfo.com
+0.0.0.0 www.complien.com
 0.0.0.0 www.compufixshop.com
 0.0.0.0 www.conclusioncompeting.bond
 0.0.0.0 www.conservativedeeper.garden
@@ -3524,6 +3532,8 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.energiazoque.com
 0.0.0.0 www.eqarati.com
 0.0.0.0 www.eremplacementparts.com
+0.0.0.0 www.erincranor.com
+0.0.0.0 www.erspan.com
 0.0.0.0 www.esjetonline.com
 0.0.0.0 www.ethicsstore.com
 0.0.0.0 www.europelinen.com
@@ -3541,10 +3551,12 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.faggotry.com
 0.0.0.0 www.farmacyty.com
 0.0.0.0 www.farnazinternational.com
+0.0.0.0 www.faruvclight.com
 0.0.0.0 www.fashiongown.com
 0.0.0.0 www.feelimprove.bond
 0.0.0.0 www.fenquavo.com
 0.0.0.0 www.ferreteriamaracopa.com
+0.0.0.0 www.feudlands.com
 0.0.0.0 www.fhtmmeeting.com
 0.0.0.0 www.filezilla.fr
 0.0.0.0 www.findalgorithm.com
@@ -3619,6 +3631,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.grouphappy.com
 0.0.0.0 www.growthbuilder.name
 0.0.0.0 www.guaranteeservice.lat
+0.0.0.0 www.haikuservices.com
 0.0.0.0 www.hajoopteg.com
 0.0.0.0 www.hakerzy.net
 0.0.0.0 www.handbrake.es
@@ -3639,17 +3652,20 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.homininfossil.cfd
 0.0.0.0 www.hotelsdetermine.bond
 0.0.0.0 www.hotpanic.net
+0.0.0.0 www.hourofscience.com
 0.0.0.0 www.hoursales.com
 0.0.0.0 www.hugesector.com
 0.0.0.0 www.hunterspeed.com
 0.0.0.0 www.hypeprop.com
 0.0.0.0 www.hypetrust.com
 0.0.0.0 www.icecars.com
+0.0.0.0 www.iconatsbs.com
 0.0.0.0 www.icygrovejn.com
 0.0.0.0 www.icyhivemy.name
 0.0.0.0 www.iejonline.com
 0.0.0.0 www.iepelnazareno.com
 0.0.0.0 www.igameup.com
+0.0.0.0 www.improvingthe.com
 0.0.0.0 www.indexprofile.com
 0.0.0.0 www.infopaypal.com
 0.0.0.0 www.informecadastral.com
@@ -3658,17 +3674,21 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.inkscape.fr
 0.0.0.0 www.inpicklenaton.com
 0.0.0.0 www.instantcross.com
+0.0.0.0 www.inventons.com
 0.0.0.0 www.invitegame.com
 0.0.0.0 www.iovenesweb.com
 0.0.0.0 www.irlandalk.com
 0.0.0.0 www.irony.world
+0.0.0.0 www.isavs.com
 0.0.0.0 www.iwantclothing.com
 0.0.0.0 www.jackpotcasinojeux.com
+0.0.0.0 www.jacqueruth.com
 0.0.0.0 www.janushnderson.com
 0.0.0.0 www.jerseyoffers.com
 0.0.0.0 www.jessicalonda.com
 0.0.0.0 www.jeuxfortuna.com
 0.0.0.0 www.jeuxjackpotcasino.com
+0.0.0.0 www.jewishgame.com
 0.0.0.0 www.jhsmiami.com
 0.0.0.0 www.jnhjf.com
 0.0.0.0 www.joinfx.net
@@ -3776,6 +3796,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.myhucadvantage.com
 0.0.0.0 www.mylike.co.uk			# Facebook trojan
 0.0.0.0 www.mylovecards.com
+0.0.0.0 www.myrosinase.com
 0.0.0.0 www.nabtapharma.com
 0.0.0.0 www.nanohistory.com
 0.0.0.0 www.naturalmovementz.com
@@ -3834,6 +3855,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.partsttown.com
 0.0.0.0 www.paseyourself.com
 0.0.0.0 www.paviro.cfd
+0.0.0.0 www.payasyougocert.com
 0.0.0.0 www.pcfixguide.help
 0.0.0.0 www.pdrill.com
 0.0.0.0 www.pdxsenior.com
@@ -3842,7 +3864,9 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.peopleesbancorp.com
 0.0.0.0 www.pepernity.com
 0.0.0.0 www.perimentu.com
+0.0.0.0 www.pfsim.com
 0.0.0.0 www.phantomluck.com
+0.0.0.0 www.phonenumberbook.com
 0.0.0.0 www.phormlabs.com
 0.0.0.0 www.photomagicapp.com
 0.0.0.0 www.pickupclean.com
@@ -3918,18 +3942,22 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.rnodernssolution.com
 0.0.0.0 www.robkellysurf.com
 0.0.0.0 www.romanticdemands.bond
+0.0.0.0 www.roofcoins.com
 0.0.0.0 www.rplconnect.com
 0.0.0.0 www.rtkmyz.cfd
 0.0.0.0 www.rtpbolaslotjago.com
 0.0.0.0 www.russian-sex.com
 0.0.0.0 www.sailpirate.com
+0.0.0.0 www.saintmc.com
 0.0.0.0 www.salliemaebenefits.com
 0.0.0.0 www.salttm.com
 0.0.0.0 www.sandybellxb.site
 0.0.0.0 www.sandybrookyt.name
 0.0.0.0 www.santemama.com
+0.0.0.0 www.sapiatinsurance.com
 0.0.0.0 www.sauteenacoochee.com
 0.0.0.0 www.scrapzoneauto.com
+0.0.0.0 www.sealabour.living
 0.0.0.0 www.securityplusproducts.com
 0.0.0.0 www.securityscan.us
 0.0.0.0 www.seedschaos.garden
@@ -3948,6 +3976,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.sinera.org
 0.0.0.0 www.sizecart.com
 0.0.0.0 www.skibidihotel.com
+0.0.0.0 www.skillmatchgame.com
 0.0.0.0 www.skyonlinegratis.com
 0.0.0.0 www.slidingdoorlocks.com
 0.0.0.0 www.smashchampionsat.com
@@ -4030,6 +4059,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.trucktirehotline.com
 0.0.0.0 www.truecrypt.fr
 0.0.0.0 www.trueshelterju.pro
+0.0.0.0 www.trustaddons.com
 0.0.0.0 www.ttcgg.com
 0.0.0.0 www.tuningcentar.com
 0.0.0.0 www.tvccpt.com
@@ -4069,6 +4099,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.webassembly.stream
 0.0.0.0 www.webdevotee.com
 0.0.0.0 www.webmicrostores.com
+0.0.0.0 www.webontwerp.com
 0.0.0.0 www.webpartition.com
 0.0.0.0 www.websrruss.com
 0.0.0.0 www.webwise.com
