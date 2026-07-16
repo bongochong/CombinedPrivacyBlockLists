@@ -1,4 +1,4 @@
-// **** Mon Jul 13 04:54:11 AM UTC 2026
+// **** Thu Jul 16 04:02:31 AM UTC 2026
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.023hysj.com") ||
@@ -6097,6 +6097,7 @@ shExpMatch(host, "*.magicminibox.com") ||
 shExpMatch(host, "*.magiczenith.com") ||
 shExpMatch(host, "*.magnetairport.com") ||
 shExpMatch(host, "*.magnetic.com") ||
+shExpMatch(host, "*.magnetise.io") ||
 shExpMatch(host, "*.magnificentmeasure.com") ||
 shExpMatch(host, "*.magnificentmist.com") ||
 shExpMatch(host, "*.magsrv.com") ||
@@ -16559,6 +16560,7 @@ shExpMatch(host, "magicminibox.com") ||
 shExpMatch(host, "magiczenith.com") ||
 shExpMatch(host, "magnetairport.com") ||
 shExpMatch(host, "magnetic.com") ||
+shExpMatch(host, "magnetise.io") ||
 shExpMatch(host, "magnificentmeasure.com") ||
 shExpMatch(host, "magnificentmist.com") ||
 shExpMatch(host, "magsrv.com") ||
