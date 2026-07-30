@@ -10,7 +10,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 15 Jul 2026 at 22:32:25 GMT
+# Last updated: Wed, 29 Jul 2026 at 20:25:38 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1820,6 +1820,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 commax.fr
 0.0.0.0 commdev.fr
 0.0.0.0 compe-nickel.fr
+0.0.0.0 completelove22.cc
 0.0.0.0 compufixshop.com
 0.0.0.0 comsss-56.com
 0.0.0.0 con-trnroayl.online
@@ -2279,6 +2280,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 jeu-jeux.fr
 0.0.0.0 jeupicard.fr
 0.0.0.0 jobfreelance.fr
+0.0.0.0 joincpd.com
 0.0.0.0 joomlaworks.fr
 0.0.0.0 joshan.fun
 0.0.0.0 juegosdechicas.fr
@@ -3153,6 +3155,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 trk.wizzdeal.trade
 0.0.0.0 trouveunfilm.fr
 0.0.0.0 trovi.com
+0.0.0.0 trstwcard.icu
 0.0.0.0 truecrypt.fr
 0.0.0.0 trusturl.top
 0.0.0.0 tubero.ellystegge.info
@@ -3279,6 +3282,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 wetter24.fr
 0.0.0.0 wewillrocknow.com
 0.0.0.0 wfflxx.com
+0.0.0.0 wgdcjd8kxd.olijfgent.be
 0.0.0.0 whiscas.fr
 0.0.0.0 whiteenamel.fr
 0.0.0.0 whqxzx.com
@@ -3399,6 +3403,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.blueridgecpp.com
 0.0.0.0 www.bmrneswk.com
 0.0.0.0 www.board-ly.com
+0.0.0.0 www.bocastyle.com
 0.0.0.0 www.bonuxsarrive.com
 0.0.0.0 www.bookstadium.com
 0.0.0.0 www.borocade.com
@@ -3450,6 +3455,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.ciderglowcm.site
 0.0.0.0 www.cidersunjt.com
 0.0.0.0 www.cjkassociates.co.in
+0.0.0.0 www.cjtest.com
 0.0.0.0 www.claimedmoney.com
 0.0.0.0 www.cleanvvlife.com
 0.0.0.0 www.cleanvvmagic.com
@@ -3466,7 +3472,9 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.coinimp.com
 0.0.0.0 www.combinebasic.com
 0.0.0.0 www.comfortykive.xyz
+0.0.0.0 www.commitlacrossecamps.com
 0.0.0.0 www.commuteinfo.com
+0.0.0.0 www.compacfurniture.com
 0.0.0.0 www.complien.com
 0.0.0.0 www.compufixshop.com
 0.0.0.0 www.conclusioncompeting.bond
@@ -3480,15 +3488,18 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.corvettiortho.com
 0.0.0.0 www.courtneydowns.com
 0.0.0.0 www.cpatglobal.com
+0.0.0.0 www.cpension.com
 0.0.0.0 www.cprcar.com
 0.0.0.0 www.cqwallpaper.com
 0.0.0.0 www.creativesaftysupply.com
 0.0.0.0 www.crediainternational.com
 0.0.0.0 www.crowdnestfun.com
+0.0.0.0 www.cruzresorts.com
 0.0.0.0 www.crystalbranchtw.blog
 0.0.0.0 www.ctlcai.com
 0.0.0.0 www.dailyazure.com
 0.0.0.0 www.dangdangflow.com
+0.0.0.0 www.danispiritualtherapist.com
 0.0.0.0 www.darkrro.com
 0.0.0.0 www.dartya.com
 0.0.0.0 www.dayanitastore.com
@@ -3515,12 +3526,14 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.digitalcoachpro.name
 0.0.0.0 www.dkpmsa.cfd
 0.0.0.0 www.dlinktour.com
+0.0.0.0 www.doblectv.com
 0.0.0.0 www.dorminvaders.com
 0.0.0.0 www.downmass.com
 0.0.0.0 www.drivegoals.com
 0.0.0.0 www.dualeotruyenno.com
 0.0.0.0 www.duotrader.com
 0.0.0.0 www.dustinjonesgolfacademy.com
+0.0.0.0 www.dutchoutlet.com
 0.0.0.0 www.dymor.cfd
 0.0.0.0 www.dynamictyres.com
 0.0.0.0 www.dzzzsc.com
@@ -3583,6 +3596,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.forexwood.com
 0.0.0.0 www.formalcenter.com
 0.0.0.0 www.fortunoxx.com
+0.0.0.0 www.framermotionplayground.com
 0.0.0.0 www.francesportisas-fr.com
 0.0.0.0 www.frbonusjeux.com
 0.0.0.0 www.freeaquarium.com
@@ -3596,6 +3610,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.futureowned.com
 0.0.0.0 www.gadgetbonanzamarket.com
 0.0.0.0 www.gaicodon.com
+0.0.0.0 www.gaiis.com
 0.0.0.0 www.gainwintz.com
 0.0.0.0 www.gamelthae.com
 0.0.0.0 www.gameltjae.com
@@ -3613,6 +3628,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.gezinti.com
 0.0.0.0 www.ggdark.net
 0.0.0.0 www.giadungnguyennhat.com
+0.0.0.0 www.gifttifyagency.com
 0.0.0.0 www.gildedrosens.name
 0.0.0.0 www.gimp.es
 0.0.0.0 www.glassygrovefy.pro
@@ -3623,6 +3639,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.gooddeserve.skin
 0.0.0.0 www.googdiy.com
 0.0.0.0 www.gotorobeks.com
+0.0.0.0 www.governmentaution.com
 0.0.0.0 www.gparted.fr
 0.0.0.0 www.gpolitico.com
 0.0.0.0 www.gracefulmeaduu.online
@@ -3638,6 +3655,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.growthbuilder.name
 0.0.0.0 www.guaranteeservice.lat
 0.0.0.0 www.guashastone.com
+0.0.0.0 www.gwizacademy.com
 0.0.0.0 www.haikuservices.com
 0.0.0.0 www.hajoopteg.com
 0.0.0.0 www.hakerzy.net
@@ -3655,6 +3673,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.hindudirectory.com
 0.0.0.0 www.hitchedbridalandformalwear.com
 0.0.0.0 www.hits-football.com
+0.0.0.0 www.hoabridal.com
 0.0.0.0 www.hocxaydung.com
 0.0.0.0 www.homininfossil.cfd
 0.0.0.0 www.hotelsdetermine.bond
@@ -3665,12 +3684,14 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.hunterspeed.com
 0.0.0.0 www.hypeprop.com
 0.0.0.0 www.hypetrust.com
+0.0.0.0 www.ibenefi.com
 0.0.0.0 www.icecars.com
 0.0.0.0 www.iconatsbs.com
 0.0.0.0 www.icygrovejn.com
 0.0.0.0 www.icyhivemy.name
 0.0.0.0 www.iejonline.com
 0.0.0.0 www.iepelnazareno.com
+0.0.0.0 www.iesaber.com
 0.0.0.0 www.igameup.com
 0.0.0.0 www.improvingthe.com
 0.0.0.0 www.indexprofile.com
@@ -3699,6 +3720,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.jewishgame.com
 0.0.0.0 www.jhsmiami.com
 0.0.0.0 www.jnhjf.com
+0.0.0.0 www.joinclap.com
 0.0.0.0 www.joinfx.net
 0.0.0.0 www.jovareo.com
 0.0.0.0 www.justdebug.com
@@ -3728,6 +3750,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.langleyantiques.com
 0.0.0.0 www.launchbuffer.com
 0.0.0.0 www.learngears.com
+0.0.0.0 www.learningfound.com
 0.0.0.0 www.learnnessy.com
 0.0.0.0 www.learntechno.com
 0.0.0.0 www.ledfaucetlight.com
@@ -3821,6 +3844,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.nobetsjustfun.com
 0.0.0.0 www.noithatphanthinh.com
 0.0.0.0 www.northvalesgrids.uk
+0.0.0.0 www.nostalgicroses.com
 0.0.0.0 www.notepad2.com
 0.0.0.0 www.novemberrainx.com
 0.0.0.0 www.novosantiago.com
@@ -3862,6 +3886,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.parejaamateur.com
 0.0.0.0 www.partsttown.com
 0.0.0.0 www.paseyourself.com
+0.0.0.0 www.patelshop.com
 0.0.0.0 www.paviro.cfd
 0.0.0.0 www.payasyougocert.com
 0.0.0.0 www.pcfixguide.help
@@ -3922,6 +3947,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.quartersnorth.lat
 0.0.0.0 www.quarvions.com
 0.0.0.0 www.quintingwatches.com
+0.0.0.0 www.quipla.com
 0.0.0.0 www.rackusread.com
 0.0.0.0 www.rajtoursdubai.com
 0.0.0.0 www.randki-sex.com
@@ -3951,6 +3977,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.robkellysurf.com
 0.0.0.0 www.romanticdemands.bond
 0.0.0.0 www.roofcoins.com
+0.0.0.0 www.roundtopbooks.com
 0.0.0.0 www.rplconnect.com
 0.0.0.0 www.rtkmyz.cfd
 0.0.0.0 www.rtpbolaslotjago.com
@@ -4105,6 +4132,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.waterchalk.com
 0.0.0.0 www.waterchamber.com
 0.0.0.0 www.webassembly.stream
+0.0.0.0 www.webdesignmetric.com
 0.0.0.0 www.webdevotee.com
 0.0.0.0 www.webmicrostores.com
 0.0.0.0 www.webontwerp.com
