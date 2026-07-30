@@ -7,10 +7,10 @@
 /MiniLists/*.txt linguist-language=hosts linguist-detectable
 /NoFormatting/Misc/*.txt linguist-language=hosts linguist-detectable
 /WindowsTelemetryBlockSupplements/*.txt linguist-language=hosts linguist-detectable
-/cpbl-abp-list.txt linguist-language=adblock
-/cpbl-abp-mini.txt linguist-language=adblock
-/cpbl-abp-cosmetic-only.txt linguist-language=adblock
-/cpbl-wildcard-blacklist.txt linguist-language=regex
-/mini-cpbl-wildcard-blacklist.txt linguist-language=regex
 /BLT/Cygwin/parsing/* linguist-vendored
 /BLT/parsing/* linguist-vendored
+cpbl-abp-list.txt linguist-language=adblock linguist-detectable
+cpbl-abp-mini.txt linguist-language=adblock linguist-detectable
+cpbl-abp-cosmetic-only.txt linguist-language=adblock linguist-detectable
+cpbl-wildcard-blacklist.txt linguist-language=regex linguist-detectable
+mini-cpbl-wildcard-blacklist.txt linguist-language=regex linguist-detectable
