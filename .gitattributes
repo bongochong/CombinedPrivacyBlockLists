@@ -1,16 +1,16 @@
-ABP2Hosts/*.txt linguist-language=hosts linguist-detectable
-MiniLists/*.txt linguist-language=hosts linguist-detectable
-NoFormatting/Misc/*.txt linguist-language=hosts linguist-detectable
-WindowsTelemetryBlockSupplements/*.txt linguist-language=hosts linguist-detectable
-cpbl-abp-list.txt linguist-language=adblock
-cpbl-abp-mini.txt linguist-language=adblock
-cpbl-abp-cosmetic-only.txt linguist-language=adblock
-cpbl-wildcard-blacklist.txt linguist-language=regex
-mini-cpbl-wildcard-blacklist.txt linguist-language=regex
 *.final linguist-language=hosts linguist-detectable
 *.hosts linguist-language=hosts linguist-detectable
 *.js linguist-detectable=regex linguist-detectable
 *.pac linguist-language=regex linguist-detectable
 *.txt linguist-language=hosts linguist-detectable
-BLT/Cygwin/parsing/* linguist-vendored
-BLT/parsing/* linguist-vendored
+/ABP2Hosts/*.txt linguist-language=hosts linguist-detectable
+/MiniLists/*.txt linguist-language=hosts linguist-detectable
+/NoFormatting/Misc/*.txt linguist-language=hosts linguist-detectable
+/WindowsTelemetryBlockSupplements/*.txt linguist-language=hosts linguist-detectable
+/cpbl-abp-list.txt linguist-language=adblock
+/cpbl-abp-mini.txt linguist-language=adblock
+/cpbl-abp-cosmetic-only.txt linguist-language=adblock
+/cpbl-wildcard-blacklist.txt linguist-language=regex
+/mini-cpbl-wildcard-blacklist.txt linguist-language=regex
+/BLT/Cygwin/parsing/* linguist-vendored
+/BLT/parsing/* linguist-vendored
