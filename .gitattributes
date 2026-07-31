@@ -4,11 +4,10 @@
 *.pac linguist-language=regex linguist-detectable
 *.sh linguist-language=bash linguist-detectable
 *.txt linguist-language=hosts linguist-detectable
-/MiniLists/NoFormatting/mini-cpbl-wildcard-blacklist.txt linguist-language=regex linguist-detectable
-/MiniLists/cpbl-abp-mini.txt linguist-language=adblock linguist-detectable
-/NoFormatting/cpbl-abp-cosmetic-only.txt linguist-language=adblock linguist-detectable
-/NoFormatting/cpbl-wildcard-blacklist.txt linguist-language=regex linguist-detectable
-/cpbl-abp-list.txt linguist-language=adblock linguist-detectable
+*.cidr linguist-vendored
+*.dat linguist-vendored
+*.md linguist-vendored
+*.p2p linguist-vendored
 /BLT/Cygwin/parsing/* linguist-vendored
 /BLT/parsing/* linguist-vendored
 /MiniLists/NoFormatting/AdditionalSuppleMini.txt linguist-vendored
@@ -23,3 +22,8 @@
 /NoFormatting/cpbl-ctld.txt linguist-vendored
 /NoFormatting/cpbl-dnsmasq.txt linguist-vendored
 /WindowsTelemetryBlockSupplements/PPD-AWT.txt linguist-vendored
+/MiniLists/NoFormatting/mini-cpbl-wildcard-blacklist.txt linguist-language=regex linguist-detectable
+/MiniLists/cpbl-abp-mini.txt linguist-language=adblock linguist-detectable
+/NoFormatting/cpbl-abp-cosmetic-only.txt linguist-language=adblock linguist-detectable
+/NoFormatting/cpbl-wildcard-blacklist.txt linguist-language=regex linguist-detectable
+/cpbl-abp-list.txt linguist-language=adblock linguist-detectable
