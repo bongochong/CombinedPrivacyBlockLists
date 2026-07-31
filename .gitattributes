@@ -1,29 +1,18 @@
+*.cidr linguist-detectable=false
+*.p2p linguist-detectable=false
 *.final linguist-language=hosts linguist-detectable
 *.hosts linguist-language=hosts linguist-detectable
 *.js linguist-language=regex linguist-detectable
-*.pac linguist-language=regex linguist-detectable
-*.sh linguist-language=bash linguist-detectable
-*.txt linguist-language=hosts linguist-detectable
-/BLT/parsing/* linguist-vendored
-*.md linguist-documentation
-*.dat linguist-language=regex linguist-detectable
-/BLT/Cygwin/parsing/* linguist-vendored
-*.cidr linguist-detectable=false
-*.p2p linguist-detectable=false
-/MiniLists/NoFormatting/AdditionalSuppleMini.txt linguist-vendored
-/MiniLists/NoFormatting/cpbl-mini-ctld.txt linguist-vendored
-/MiniLists/NoFormatting/cpbl-mini-dnsmasq.txt linguist-vendored
-/MiniLists/NoFormatting/mini-BlacklistedDomains.txt linguist-vendored
-/NoFormatting/AdditionalSupplementaryHosts.txt linguist-vendored
-/NoFormatting/BlacklistedDomains.txt linguist-vendored
-/NoFormatting/MD-ID-Fork.txt linguist-vendored
-/NoFormatting/Misc/MD-Immortal_Domains-Backup.txt linguist-vendored
-/NoFormatting/WhitelistedDomains.txt linguist-vendored
-/NoFormatting/cpbl-ctld.txt linguist-vendored
-/NoFormatting/cpbl-dnsmasq.txt linguist-vendored
-/WindowsTelemetryBlockSupplements/PPD-AWT.txt linguist-vendored
-/MiniLists/NoFormatting/mini-cpbl-wildcard-blacklist.txt linguist-language=regex linguist-detectable
-/MiniLists/cpbl-abp-mini.txt linguist-language=adblock linguist-detectable
-/NoFormatting/cpbl-abp-cosmetic-only.txt linguist-language=adblock linguist-detectable
-/NoFormatting/cpbl-wildcard-blacklist.txt linguist-language=regex linguist-detectable
-/cpbl-abp-list.txt linguist-language=adblock linguist-detectable
+*consolidated.txt linguist-language=hosts linguist-detectable
+*hosts.txt linguist-language=hosts linguist-detectable
+*HOSTS.txt linguist-language=hosts linguist-detectable
+*IPv4.txt linguist-language=hosts linguist-detectable
+*IPv6.txt linguist-language=hosts linguist-detectable
+*IPv4-Light.txt linguist-language=hosts linguist-detectable
+*IPv6-Light.txt linguist-language=hosts linguist-detectable
+*patterns.dat linguist-language=regex linguist-detectable
+*cpbl-abp*.txt linguist-language=adblock linguist-detectable
+*wildcard*.txt linguist-language=regex linguist-detectable
+wildcard*.dat linguist-language=regex linguist-detectable
+MD-ID-H-Fork.txt linguist-language=hosts linguist-detectable
+tldfilter.dat linguist-language=regex linguist-detectable
