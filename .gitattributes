@@ -11,3 +11,15 @@
 /cpbl-abp-list.txt linguist-language=adblock linguist-detectable
 /BLT/Cygwin/parsing/* linguist-vendored
 /BLT/parsing/* linguist-vendored
+/MiniLists/NoFormatting/AdditionalSuppleMini.txt linguist-vendored
+/MiniLists/NoFormatting/cpbl-mini-ctld.txt linguist-vendored
+/MiniLists/NoFormatting/cpbl-mini-dnsmasq.txt linguist-vendored
+/MiniLists/NoFormatting/mini-BlacklistedDomains.txt linguist-vendored
+/NoFormatting/AdditionalSupplementaryHosts.txt linguist-vendored
+/NoFormatting/BlacklistedDomains.txt linguist-vendored
+/NoFormatting/MD-ID-Fork.txt linguist-vendored
+/NoFormatting/Misc/MD-Immortal_Domains-Backup.txt linguist-vendored
+/NoFormatting/WhitelistedDomains.txt linguist-vendored
+/NoFormatting/cpbl-ctld.txt linguist-vendored
+/NoFormatting/cpbl-dnsmasq.txt linguist-vendored
+/WindowsTelemetryBlockSupplements/PPD-AWT.txt linguist-vendored
