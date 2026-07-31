@@ -4,12 +4,12 @@
 *.pac linguist-language=regex linguist-detectable
 *.sh linguist-language=bash linguist-detectable
 *.txt linguist-language=hosts linguist-detectable
-*.cidr linguist-vendored
-*.dat linguist-vendored
-*.md linguist-vendored
-*.p2p linguist-vendored
-/BLT/Cygwin/parsing/* linguist-vendored
 /BLT/parsing/* linguist-vendored
+*.md linguist-documentation
+*.dat linguist-language=regex linguist-detectable
+/BLT/Cygwin/parsing/* linguist-vendored
+*.cidr linguist-detectable=false
+*.p2p linguist-detectable=false
 /MiniLists/NoFormatting/AdditionalSuppleMini.txt linguist-vendored
 /MiniLists/NoFormatting/cpbl-mini-ctld.txt linguist-vendored
 /MiniLists/NoFormatting/cpbl-mini-dnsmasq.txt linguist-vendored
