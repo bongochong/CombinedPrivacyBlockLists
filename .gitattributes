@@ -15,4 +15,4 @@
 *wildcard*.txt linguist-language=regex linguist-detectable
 wildcard*.dat linguist-language=regex linguist-detectable
 MD-ID-H-Fork.txt linguist-language=hosts linguist-detectable
-tldfilter.dat linguist-language=regex linguist-detectable
+tld-filter.dat linguist-language=regex linguist-detectable
