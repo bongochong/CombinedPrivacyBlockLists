@@ -1,4 +1,4 @@
-// **** Thu Jul 30 02:18:11 PM UTC 2026
+// **** Tue Aug  4 04:37:59 AM UTC 2026
 function FindProxyForURL(url, host) {
    if (
 shExpMatch(host, "*.00689.net") ||
@@ -2639,6 +2639,7 @@ shExpMatch(host, "*.analytics.swiggy.com") ||
 shExpMatch(host, "*.analytics.tactilews.com") ||
 shExpMatch(host, "*.analytics.tbs.com") ||
 shExpMatch(host, "*.analytics.tdameritrade.com") ||
+shExpMatch(host, "*.analytics.tempy.email") ||
 shExpMatch(host, "*.analytics.theknot.com") ||
 shExpMatch(host, "*.analytics.thenest.com") ||
 shExpMatch(host, "*.analytics.tiktok.com") ||
@@ -3881,6 +3882,7 @@ shExpMatch(host, "*.c.socialannex.com") ||
 shExpMatch(host, "*.c.statcounter.com") ||
 shExpMatch(host, "*.c.supert.ag") ||
 shExpMatch(host, "*.c.thestat.net") ||
+shExpMatch(host, "*.c.trkn.it") ||
 shExpMatch(host, "*.c.vrvm.com") ||
 shExpMatch(host, "*.c.webengage.com") ||
 shExpMatch(host, "*.c.webtrends.com") ||
@@ -7210,6 +7212,7 @@ shExpMatch(host, "*.homeslick.com") ||
 shExpMatch(host, "*.homify.com.mx") ||
 shExpMatch(host, "*.hondapons.com") ||
 shExpMatch(host, "*.honeybulb.com") ||
+shExpMatch(host, "*.honeybutterbliss.com") ||
 shExpMatch(host, "*.honeygoldfish.com") ||
 shExpMatch(host, "*.honeywhipped.com") ||
 shExpMatch(host, "*.hongkongtower-kanglong.com") ||
@@ -10419,6 +10422,7 @@ shExpMatch(host, "*.pnrt-stsdk.vivo.com.cn") ||
 shExpMatch(host, "*.pob-mob2.websearchbrowser.com") ||
 shExpMatch(host, "*.pocketfaucet.com") ||
 shExpMatch(host, "*.pocketmath.com") ||
+shExpMatch(host, "*.pocustrack.com") ||
 shExpMatch(host, "*.pod.infinitypersonals.com") ||
 shExpMatch(host, "*.pod.manplay.com") ||
 shExpMatch(host, "*.pod.sexsearch.com") ||
@@ -11092,6 +11096,7 @@ shExpMatch(host, "*.rememberdiscussion.com") ||
 shExpMatch(host, "*.remote-data.asnapieu.com") ||
 shExpMatch(host, "*.remote-data.urbanairship.com") ||
 shExpMatch(host, "*.remotead.cnet.com") ||
+shExpMatch(host, "*.remox.com") ||
 shExpMatch(host, "*.rencontreangers.tk") ||
 shExpMatch(host, "*.renderer.apester.com") ||
 shExpMatch(host, "*.rentinfinity.com") ||
@@ -14157,7 +14162,6 @@ shExpMatch(host, "*.velvetquasar.com") ||
 shExpMatch(host, "*.vendimob.pl") ||
 shExpMatch(host, "*.vendoradvocatemelb.com.au") ||
 shExpMatch(host, "*.vendorweb.citibank.com") ||
-shExpMatch(host, "*.venetrigni.com") ||
 shExpMatch(host, "*.vengefulgrass.com") ||
 shExpMatch(host, "*.venomousvessel.com") ||
 shExpMatch(host, "*.ventivmedia.com") ||
@@ -17531,6 +17535,7 @@ shExpMatch(host, "analytics.swiggy.com") ||
 shExpMatch(host, "analytics.tactilews.com") ||
 shExpMatch(host, "analytics.tbs.com") ||
 shExpMatch(host, "analytics.tdameritrade.com") ||
+shExpMatch(host, "analytics.tempy.email") ||
 shExpMatch(host, "analytics.theknot.com") ||
 shExpMatch(host, "analytics.thenest.com") ||
 shExpMatch(host, "analytics.tiktok.com") ||
@@ -18773,6 +18778,7 @@ shExpMatch(host, "c.socialannex.com") ||
 shExpMatch(host, "c.statcounter.com") ||
 shExpMatch(host, "c.supert.ag") ||
 shExpMatch(host, "c.thestat.net") ||
+shExpMatch(host, "c.trkn.it") ||
 shExpMatch(host, "c.vrvm.com") ||
 shExpMatch(host, "c.webengage.com") ||
 shExpMatch(host, "c.webtrends.com") ||
@@ -22102,6 +22108,7 @@ shExpMatch(host, "homeslick.com") ||
 shExpMatch(host, "homify.com.mx") ||
 shExpMatch(host, "hondapons.com") ||
 shExpMatch(host, "honeybulb.com") ||
+shExpMatch(host, "honeybutterbliss.com") ||
 shExpMatch(host, "honeygoldfish.com") ||
 shExpMatch(host, "honeywhipped.com") ||
 shExpMatch(host, "hongkongtower-kanglong.com") ||
@@ -25311,6 +25318,7 @@ shExpMatch(host, "pnrt-stsdk.vivo.com.cn") ||
 shExpMatch(host, "pob-mob2.websearchbrowser.com") ||
 shExpMatch(host, "pocketfaucet.com") ||
 shExpMatch(host, "pocketmath.com") ||
+shExpMatch(host, "pocustrack.com") ||
 shExpMatch(host, "pod.infinitypersonals.com") ||
 shExpMatch(host, "pod.manplay.com") ||
 shExpMatch(host, "pod.sexsearch.com") ||
@@ -25984,6 +25992,7 @@ shExpMatch(host, "rememberdiscussion.com") ||
 shExpMatch(host, "remote-data.asnapieu.com") ||
 shExpMatch(host, "remote-data.urbanairship.com") ||
 shExpMatch(host, "remotead.cnet.com") ||
+shExpMatch(host, "remox.com") ||
 shExpMatch(host, "rencontreangers.tk") ||
 shExpMatch(host, "renderer.apester.com") ||
 shExpMatch(host, "rentinfinity.com") ||
@@ -29049,7 +29058,6 @@ shExpMatch(host, "velvetquasar.com") ||
 shExpMatch(host, "vendimob.pl") ||
 shExpMatch(host, "vendoradvocatemelb.com.au") ||
 shExpMatch(host, "vendorweb.citibank.com") ||
-shExpMatch(host, "venetrigni.com") ||
 shExpMatch(host, "vengefulgrass.com") ||
 shExpMatch(host, "venomousvessel.com") ||
 shExpMatch(host, "ventivmedia.com") ||
