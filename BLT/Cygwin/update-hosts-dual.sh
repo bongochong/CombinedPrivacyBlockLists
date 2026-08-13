@@ -22,7 +22,7 @@ wget -nv -O hosts.9 "https://raw.githubusercontent.com/bongochong/CombinedPrivac
 wget -nv -O hosts.10 "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/MiniLists/NoFormatting/AdditionalSuppleMini.txt"
 echo "Lists Downloaded. Parsing data..."
 sed -i '$a\' hosts.*
-cat hosts.* | sort | uniq | sed "s/#.*$//" | sed "s/\s\.*$//" | sed "/[[:space:]]*#/d" | sed "/[[:blank:]]*#/d" | sed "s/\t\+/ /g" | sed "s/^127.0.0.1/0.0.0.0/g" | sed "s/^::1/0.0.0.0/g" | sed "s/^::/0.0.0.0/g" | sed "s/[[:space:]]*$//" | sed "s/[[:blank:]]*$//" | sed "s/[[:space:]]\+/ /g" | sed "/^0.0.0.0 /! s/^/0.0.0.0 /" | sed -e '/^0\.0\.0\.0[ ].*[ ].*.$/d' | sed "s/\(.*\)/\L\1/" > hosts-pre.final
+cat hosts.* | sort | uniq | sed -e "s/#.*$//" -e "s/\s\.*$//" -e "/[[:space:]]*#/d" -e "/[[:blank:]]*#/d" -e "s/\t\+/ /g" -e "s/^127.0.0.1/0.0.0.0/g" -e "s/^::1/0.0.0.0/g" -e "s/^::/0.0.0.0/g" -e "s/[[:space:]]*$//" -e "s/[[:blank:]]*$//" -e "s/[[:space:]]\+/ /g" -e "/^0.0.0.0 /! s/^/0.0.0.0 /" -e '/^0\.0\.0\.0[ ].*[ ].*.$/d' -e "s/\(.*\)/\L\1/" > hosts-pre.final
 pcregrep -v -f ~/BLT/parsing/hostpatterns.dat hosts-pre.final > uniq-hosts.final
 #Routine to check for and convert Unicode IDNs to Punycode
 if [[ $(grep -P -n "[^\x00-\x7F]" uniq-hosts.final) ]]; then

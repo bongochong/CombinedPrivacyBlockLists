@@ -21,7 +21,7 @@ find . -name 'czvaehmjpsnwwttrdoyl.txt' -exec mv {} bt_webattack.p2p \;
 find . -name 'cwworuawihqvocglcoss.txt' -exec mv {} bt_bpeers.p2p \;
 find . -name 'usrcshglbiilevmyfhse.txt' -exec mv {} bt_hijacks.p2p \;
 sed -i '$a\' *.p2p
-cat *.p2p | sed "s/amp;//g" | sed "s/\&//g" | tr -d "\200-\377" | sort -f | uniq -i > combined-final.p2p
+cat *.p2p | sed -e "s/amp;//g" -e "s/\&//g" | tr -d "\200-\377" | sort -f | uniq -i > combined-final.p2p
 perl -pi -e '$_ = "" if ( $. == 1 );' combined-final.p2p
 sed -i -e "/^#/d" -e "/^[[:space:]]*$/d" combined-final.p2p
 perl -i -pe 'chomp if eof' combined-final.p2p

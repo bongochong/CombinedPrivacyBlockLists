@@ -17,7 +17,7 @@ wget -nv -O 4.pac "https://raw.githubusercontent.com/bongochong/CombinedPrivacyB
 wget -nv -O 5.pac "https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/adguard_mobile-hosts.txt"
 echo "Lists Downloaded. Now parsing..."
 sed -i '$a\' *.pac
-sed -e '$s/$/\n/' -s *.pac | sed "s/#.*$//" | sed "s/\s\.*$//" | sed "/^$/d" | sed "/^Site$/d" | sed "s/\(.*\)/\L\1/" | pcregrep -f ~/BLT/parsing/tld-filter.dat | sed "s/\t\+/ /g" | sed "s/^127.0.0.1 //g" | sed "s/^0.0.0.0 //g" | sed "s/^::1 //g" | sed "s/^:: //g" | sed "s/^www\.//g" | pcregrep -v -f ~/BLT/parsing/pacpatterns.dat | sed "/@/d" | sed "/ /d" | sed "/\[/d" | sed "/\]/d" | sed "/\//d" | sed -e "/^admob\./d" -e "/^adsrv\./d" -e "/^adserv\./d" -e "/^adserve\./d" -e "/^adserver\./d" -e "/^adserving\./d" -e "/^banner\./d" -e "/^banners\./d" | pcregrep -i -v -f ~/BLT/parsing/wildcardwhitelist.dat | perl -p -e 's/^/\./' | ./cmprdmns.pl | sed -e 's/^\.//g' | sort -f | uniq -i > pac-uniq.txt
+sed -e '$s/$/\n/' -s *.pac | sed -e "s/#.*$//" -e "s/\s\.*$//" -e "/^$/d" -e "/^Site$/d" -e "s/\(.*\)/\L\1/" | pcregrep -f ~/BLT/parsing/tld-filter.dat | sed -e "s/\t\+/ /g" -e "s/^127.0.0.1 //g" -e "s/^0.0.0.0 //g" -e "s/^::1 //g" -e "s/^:: //g" -e "s/^www\.//g" | pcregrep -v -f ~/BLT/parsing/pacpatterns.dat | sed -e "/@/d" -e "/ /d" -e "/\[/d" -e "/\]/d" -e "/\//d" -e "/^admob\./d" -e "/^adsrv\./d" -e "/^adserv\./d" -e "/^adserve\./d" -e "/^adserver\./d" -e "/^adserving\./d" -e "/^banner\./d" -e "/^banners\./d" | pcregrep -i -v -f ~/BLT/parsing/wildcardwhitelist.dat | perl -p -e 's/^/\./' | ./cmprdmns.pl | sed -e 's/^\.//g' | sort -f | uniq -i > pac-uniq.txt
 cp pac-uniq.txt pac-pre.txt
 cp pac-pre.txt pac-pre2.txt
 sed -i "s/^/*./" pac-pre.txt
