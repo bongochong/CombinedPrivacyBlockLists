@@ -1,4 +1,4 @@
-# Tue Aug  4 04:24:29 AM UTC 2026
+# Fri Aug 14 07:18:57 PM UTC 2026
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -504,6 +504,7 @@
 0.0.0.0 adash-emas.cn-hangzhou.aliyuncs.com
 0.0.0.0 adash.m.taobao.com
 0.0.0.0 adash.man.aliyuncs.com
+0.0.0.0 adashx.m.taobao.com
 0.0.0.0 adashx.ut.alibaba.com
 0.0.0.0 adashx4ae.ut.taobao.com
 0.0.0.0 adashx4id.ut.taobao.com
@@ -5740,6 +5741,7 @@
 0.0.0.0 logs.gshopper.com
 0.0.0.0 logs.ironsrc.mobi
 0.0.0.0 logs.nebulahoroscope.com
+0.0.0.0 logs.profi.ru
 0.0.0.0 logs.psm.wmcdp.io
 0.0.0.0 logs.supersonic.com
 0.0.0.0 logs13.xiti.com
@@ -9185,6 +9187,7 @@
 0.0.0.0 testadmiral.com
 0.0.0.0 testedtouch.com
 0.0.0.0 texturetrick.com
+0.0.0.0 tfpodf.ars.appsflyersdk.com
 0.0.0.0 tg.dr.socdm.com
 0.0.0.0 tg1.aniview.com
 0.0.0.0 th-gmtdmp.mookie1.com

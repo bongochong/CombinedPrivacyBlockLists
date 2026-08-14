@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 03 Aug 2026 11:43:59 GMT
-# entries:        3517
+# last updated:   Fri, 14 Aug 2026 08:22:14 GMT
+# entries:        3521
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -113,7 +113,6 @@
 127.0.0.1 ad.bondage.com
 127.0.0.1 ad.centrum.cz
 127.0.0.1 ad.cgi.cz
-127.0.0.1 ad.choiceradio.com
 127.0.0.1 ad.cooks.com
 127.0.0.1 ad.digitallook.com
 127.0.0.1 ad.dnoticias.pt
@@ -331,7 +330,6 @@
 127.0.0.1 adrotate.de
 127.0.0.1 adrotic.girlonthenet.com
 127.0.0.1 adrta.com
-127.0.0.1 ads-backend.chaincliq.com
 127.0.0.1 ads-bilek.com
 127.0.0.1 ads-dev.pinterest.com
 127.0.0.1 ads-game-187f4.firebaseapp.com
@@ -411,7 +409,6 @@
 127.0.0.1 ads.emdee.ca
 127.0.0.1 ads.emirates.net.ae
 127.0.0.1 ads.epi.sk
-127.0.0.1 ads.epltalk.com
 127.0.0.1 ads.eu.msn.com
 127.0.0.1 ads.fairfax.com.au
 127.0.0.1 ads.fastcomgroup.it
@@ -768,13 +765,13 @@
 127.0.0.1 adv.wp.pl
 127.0.0.1 adv.yo.cz
 127.0.0.1 advangelists.com
-127.0.0.1 advariant.com
 127.0.0.1 adventory.com
 127.0.0.1 adventurousamount.com
 127.0.0.1 advert.bayarea.com
 127.0.0.1 advert.dyna.ultraweb.hu
 127.0.0.1 adverticum.com
 127.0.0.1 adverticum.net
+127.0.0.1 advertipros.com
 127.0.0.1 advertise.com
 127.0.0.1 advertiseireland.com
 127.0.0.1 advertiserurl.com
@@ -857,6 +854,7 @@
 127.0.0.1 amazon-adsystem.com
 127.0.0.1 americash.com
 127.0.0.1 amidsttruly.com
+127.0.0.1 ampscamp.net
 127.0.0.1 amung.us
 127.0.0.1 analytics-fe.digital-cloud-prem.medallia.eu
 127.0.0.1 analytics-production.hapyak.com
@@ -1181,6 +1179,7 @@
 127.0.0.1 casinopays.com
 127.0.0.1 casinorewards.com
 127.0.0.1 casinotraffic.com
+127.0.0.1 catfront.dianping.com
 127.0.0.1 cattlecommittee.com
 127.0.0.1 causecherry.com
 127.0.0.1 cautiouscredit.com
@@ -1447,6 +1446,7 @@
 127.0.0.1 damageddistance.com
 127.0.0.1 damdoor.com
 127.0.0.1 dapper.net
+127.0.0.1 data.hailuo.ai
 127.0.0.1 datapickles.com
 127.0.0.1 datenow.link
 127.0.0.1 daybreaklights.com
@@ -1730,7 +1730,6 @@
 127.0.0.1 g2.gumgum.com
 127.0.0.1 ga.clearbit.com
 127.0.0.1 gadsbee.com
-127.0.0.1 galaxien.com
 127.0.0.1 game-advertising-online.com
 127.0.0.1 gamesites100.net
 127.0.0.1 gamesites200.com
@@ -1926,6 +1925,7 @@
 127.0.0.1 infinityads.com
 127.0.0.1 infoevent.startappservice.com
 127.0.0.1 infolinks.com
+127.0.0.1 ingest.in.signoz.cloud
 127.0.0.1 inmobi.com
 127.0.0.1 inner-active.com
 127.0.0.1 inner-active.mobi
@@ -2067,7 +2067,6 @@
 127.0.0.1 lightstep.medium.systems
 127.0.0.1 lijit.com
 127.0.0.1 limecodesign.com
-127.0.0.1 link-booster.de
 127.0.0.1 link.axios.com
 127.0.0.1 link.beelivery.com
 127.0.0.1 link.email.davidlloydclubs.co.uk
@@ -2457,7 +2456,6 @@
 127.0.0.1 owneriq.net
 127.0.0.1 oxado.com
 127.0.0.1 oxcash.com
-127.0.0.1 oxen.hillcountrytexas.com
 127.0.0.1 p-n.io
 127.0.0.1 p7cloud.net
 127.0.0.1 paa-reporting-advertising.amazon
@@ -2604,6 +2602,7 @@
 127.0.0.1 protraffic.com
 127.0.0.1 provenpixel.com
 127.0.0.1 prpops.com
+127.0.0.1 prsitecheck.com
 127.0.0.1 prufenzo.xyz
 127.0.0.1 pstmrk.it
 127.0.0.1 pub.chez.com
@@ -2612,6 +2611,7 @@
 127.0.0.1 pub.network
 127.0.0.1 pub.realmedia.fr
 127.0.0.1 pubdirecte.com
+127.0.0.1 pubfuture-ssp.com
 127.0.0.1 publicidad.elmundo.es
 127.0.0.1 publicidees.com
 127.0.0.1 publicsofa.com
@@ -2621,6 +2621,7 @@
 127.0.0.1 puffypaste.com
 127.0.0.1 puffypull.com
 127.0.0.1 puffypurpose.com
+127.0.0.1 pulse.genki.world
 127.0.0.1 pureclarity.net
 127.0.0.1 pushengage.com
 127.0.0.1 pushno.com
@@ -2697,7 +2698,6 @@
 127.0.0.1 recapture.io
 127.0.0.1 receptivereaction.com
 127.0.0.1 recoco.it
-127.0.0.1 reconditerake.com
 127.0.0.1 record.bonniergaming.com
 127.0.0.1 record.mrwin.com
 127.0.0.1 redirectingat.com
@@ -2714,7 +2714,6 @@
 127.0.0.1 reklamdsp.com
 127.0.0.1 relmaxtop.com
 127.0.0.1 rememberdiscussion.com
-127.0.0.1 remox.com
 127.0.0.1 report-1.appmetrica.webvisor.com
 127.0.0.1 report-2.appmetrica.webvisor.com
 127.0.0.1 report-partners.appmetrica.yandex.net
@@ -2785,6 +2784,8 @@
 127.0.0.1 rubiconproject.com
 127.0.0.1 rum-http-intake.logs.datadoghq.com
 127.0.0.1 rum-http-intake.logs.datadoghq.eu
+127.0.0.1 rum-openway.guance.com
+127.0.0.1 rum.aliyuncs.com
 127.0.0.1 runads.com
 127.0.0.1 rundsp.com
 127.0.0.1 ruralrobin.com
@@ -2793,6 +2794,7 @@
 127.0.0.1 s20dh7e9dh.com
 127.0.0.1 s2d6.com
 127.0.0.1 sabio.us
+127.0.0.1 sadloaf.com
 127.0.0.1 safeoffers.pro
 127.0.0.1 sail-horizon.com
 127.0.0.1 samplesamba.com
@@ -3072,6 +3074,7 @@
 127.0.0.1 t.insigit.com
 127.0.0.1 t.irtyd.com
 127.0.0.1 t.leady.com
+127.0.0.1 t.marketing.goindigo.in
 127.0.0.1 t.mmtrkr.com
 127.0.0.1 t.news.browns-restaurants.co.uk
 127.0.0.1 t.notif-colissimo-laposte.info
@@ -3309,6 +3312,7 @@
 127.0.0.1 turboadv.com
 127.0.0.1 turn.com
 127.0.0.1 twelvedawn.com
+127.0.0.1 twisty.net
 127.0.0.1 twittad.com
 127.0.0.1 twyn.com
 127.0.0.1 tynt.com
