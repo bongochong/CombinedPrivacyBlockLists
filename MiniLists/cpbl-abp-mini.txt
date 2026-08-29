@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mini CPBL Filters for ABP & uBO
-! Updated: Sat Aug 29 03:57:16 AM UTC 2026
+! Updated: Sat Aug 29 03:59:16 AM UTC 2026
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -115098,7 +115098,6 @@ hackintosh.zone###document_modal
 hackintosh.zone###some_ad_block_key_inner
 hexmos.com###lr-launch-banner
 hpanel.hostinger.com##.business-section-row-domain-label__strip-content
-hpanel.hostinger.com##.chatbot-btn__gradient-border.header__chatbot-button
 hpanel.hostinger.com##.crosssell-container
 hpanel.hostinger.com##.domain-management-checklist
 hpanel.hostinger.com##.feature-pricing
