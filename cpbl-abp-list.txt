@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: CPBL Filters for ABP & uBO
-! Updated: Sat Aug 29 03:59:08 AM UTC 2026
+! Updated: Sat Aug 29 05:17:24 AM UTC 2026
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -221742,10 +221742,13 @@ haaretz.com##.footer-ruler
 hackintosh.zone###document_modal
 hackintosh.zone###some_ad_block_key_inner
 hexmos.com###lr-launch-banner
+hpanel.hostinger.com##.ai-agents-websites-capsule
 hpanel.hostinger.com##.business-section-row-domain-label__strip-content
 hpanel.hostinger.com##.crosssell-container
 hpanel.hostinger.com##.domain-management-checklist
 hpanel.hostinger.com##.feature-pricing
+hpanel.hostinger.com##.h-mb-16.ai-merger
+hpanel.hostinger.com##.h-mb-16.daily-backup-nudge
 hpanel.hostinger.com##.h-mb-24.agency-plan-banner.h-card--no-header.h-card
 hpanel.hostinger.com##.h-mb-24.ai-container
 hpanel.hostinger.com##.h-mb-32.black-friday-banner
