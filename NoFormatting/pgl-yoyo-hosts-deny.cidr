@@ -492,7 +492,6 @@ deny from 50.63.202.3/32
 deny from 50.63.202.4/32
 deny from 50.63.202.38/31
 deny from 50.63.202.40/32
-deny from 50.63.202.51/32
 deny from 50.63.202.72/32
 deny from 50.63.202.80/32
 deny from 50.63.202.82/32
@@ -1853,8 +1852,6 @@ deny from 66.230.158.38/32
 deny from 66.230.158.246/32
 deny from 66.230.168.14/32
 deny from 66.230.169.2/32
-deny from 66.230.173.244/32
-deny from 66.230.173.254/32
 deny from 66.230.192.41/32
 deny from 66.230.226.27/32
 deny from 66.230.239.174/32
@@ -4747,7 +4744,6 @@ deny from 184.106.162.192/32
 deny from 184.106.218.181/32
 deny from 184.107.176.141/32
 deny from 184.107.179.18/32
-deny from 184.154.27.234/32
 deny from 184.154.42.132/32
 deny from 184.154.83.2/32
 deny from 184.164.68.45/32
@@ -5641,7 +5637,6 @@ deny from 207.58.150.216/32
 deny from 207.65.74.1/32
 deny from 207.65.74.65/32
 deny from 207.66.130.100/31
-deny from 207.67.0.2/32
 deny from 207.68.165.40/32
 deny from 207.68.178.12/32
 deny from 207.68.178.61/32
