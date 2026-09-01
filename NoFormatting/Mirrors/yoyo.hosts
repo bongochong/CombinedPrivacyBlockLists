@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 26 Aug 2026 16:15:28 GMT
-# entries:        3519
+# last updated:   Mon, 31 Aug 2026 16:25:19 GMT
+# entries:        3541
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
@@ -35,7 +35,7 @@
 127.0.0.1 4d5.net
 127.0.0.1 4info.com
 127.0.0.1 4jnzhl0d0.com
-127.0.0.1 50websads.com
+127.0.0.1 51.la
 127.0.0.1 518ad.com
 127.0.0.1 6sc.co
 127.0.0.1 777partner.com
@@ -45,6 +45,7 @@
 127.0.0.1 82o9v830.com
 127.0.0.1 a-ads.com
 127.0.0.1 a.mktw.net
+127.0.0.1 a.pemsrv.com
 127.0.0.1 a.sakh.com
 127.0.0.1 a.ucoz.net
 127.0.0.1 a.ucoz.ru
@@ -52,6 +53,7 @@
 127.0.0.1 a.vdo.ai
 127.0.0.1 a.vfghd.com
 127.0.0.1 a.vfgtb.com
+127.0.0.1 a.vfgth.com
 127.0.0.1 a.xanga.com
 127.0.0.1 a11.click
 127.0.0.1 a135.wftv.com
@@ -276,6 +278,7 @@
 127.0.0.1 admantx.com
 127.0.0.1 admarketplace.net
 127.0.0.1 admarvel.com
+127.0.0.1 admaster.cc
 127.0.0.1 admaster.com.cn
 127.0.0.1 admatchly.com
 127.0.0.1 adme2.click
@@ -403,6 +406,7 @@
 127.0.0.1 ads.eagletribune.com
 127.0.0.1 ads.easy-forex.com
 127.0.0.1 ads.economist.com
+127.0.0.1 ads.egrana.com.br
 127.0.0.1 ads.elcarado.com
 127.0.0.1 ads.electrocelt.com
 127.0.0.1 ads.emdee.ca
@@ -538,7 +542,6 @@
 127.0.0.1 ads.seniorfriendfinder.com
 127.0.0.1 ads.servebom.com
 127.0.0.1 ads.shizmoo.com
-127.0.0.1 ads.shopstyle.com
 127.0.0.1 ads.sift.co.uk
 127.0.0.1 ads.sjon.info
 127.0.0.1 ads.smartclick.com
@@ -592,10 +595,12 @@
 127.0.0.1 ads.yldmgrimg.net
 127.0.0.1 ads.youtube.com
 127.0.0.1 ads.yumenetworks.com
+127.0.0.1 ads.zorvec.name
 127.0.0.1 ads1-adnow.com
 127.0.0.1 ads1.msn.com
 127.0.0.1 ads1.virtual-nights.com
 127.0.0.1 ads10.speedbit.com
+127.0.0.1 ads180.com
 127.0.0.1 ads2.contentabc.com
 127.0.0.1 ads2.femmefab.nl
 127.0.0.1 ads2.gamecity.net
@@ -838,6 +843,7 @@
 127.0.0.1 airpush.com
 127.0.0.1 aistat.net
 127.0.0.1 ak0gsh40.com
+127.0.0.1 akstat.io
 127.0.0.1 alchemist.go2cloud.org
 127.0.0.1 alclick.com
 127.0.0.1 alenty.com
@@ -1032,9 +1038,11 @@
 127.0.0.1 basketballbelieve.com
 127.0.0.1 baskettexture.com
 127.0.0.1 bat.bing.com
+127.0.0.1 bat.bing.net
 127.0.0.1 bbelements.com
 127.0.0.1 bbm-ad-stack-production.up.railway.app
 127.0.0.1 bbn.img.com.ua
+127.0.0.1 bdv.bidvertiser.com
 127.0.0.1 beachfront.com
 127.0.0.1 beacon.gu-web.net
 127.0.0.1 beacon.netflix.com
@@ -1452,6 +1460,7 @@
 127.0.0.1 datenow.link
 127.0.0.1 daybreaklights.com
 127.0.0.1 dc-storm.com
+127.0.0.1 de.tynt.com
 127.0.0.1 de17a.com
 127.0.0.1 dealdotcom.com
 127.0.0.1 decenterads.com
@@ -1657,6 +1666,7 @@
 127.0.0.1 feedmob.com
 127.0.0.1 feelwarmth.com
 127.0.0.1 femalecook.com
+127.0.0.1 fenxi.com
 127.0.0.1 figsprotein.com
 127.0.0.1 figurehunter.net
 127.0.0.1 fillthemap.com
@@ -2146,6 +2156,7 @@
 127.0.0.1 magnetise.io
 127.0.0.1 magsrv.com
 127.0.0.1 mail-ads.google.com
+127.0.0.1 maliva-mcs.byteoversea.com
 127.0.0.1 maltiverse.lt.acemlnc.com
 127.0.0.1 manageadv.cblogs.eu
 127.0.0.1 mantisadnetwork.com
@@ -2382,6 +2393,7 @@
 127.0.0.1 oascentral.fortunecity.com
 127.0.0.1 oascentral.register.com
 127.0.0.1 objecthero.com
+127.0.0.1 obs.sd4823.spglobal.com
 127.0.0.1 obscenesidewalk.com
 127.0.0.1 oceancloudhosts.com
 127.0.0.1 odbierz-bony.ovp.pl
@@ -2540,6 +2552,7 @@
 127.0.0.1 pokkt.com
 127.0.0.1 polishedfolly.com
 127.0.0.1 polo.feathr.co
+127.0.0.1 pooinc-7dw.pages.dev
 127.0.0.1 popads.net
 127.0.0.1 popcash.net
 127.0.0.1 popmixradio.com
@@ -2627,6 +2640,7 @@
 127.0.0.1 pushtrack.co
 127.0.0.1 px.dynamicyield.com
 127.0.0.1 px.gfycat.com
+127.0.0.1 px.mountain.com
 127.0.0.1 pxf.io
 127.0.0.1 pxl-mailtracker.com
 127.0.0.1 pxl.iqm.com
@@ -2684,7 +2698,6 @@
 127.0.0.1 reactx.com
 127.0.0.1 readingguilt.com
 127.0.0.1 readymoon.com
-127.0.0.1 realcastmedia.com
 127.0.0.1 realclever.com
 127.0.0.1 realclix.com
 127.0.0.1 realmedia-a800.d4p.net
@@ -2822,6 +2835,7 @@
 127.0.0.1 screechingstocking.com
 127.0.0.1 screechingstove.com
 127.0.0.1 scrubswim.com
+127.0.0.1 sdk.51.la
 127.0.0.1 seadform.net
 127.0.0.1 searchmarketing.com
 127.0.0.1 searchramp.com
@@ -2984,6 +2998,7 @@
 127.0.0.1 stat-track.com
 127.0.0.1 stat.cliche.se
 127.0.0.1 stat.dyna.ultraweb.hu
+127.0.0.1 stat.lianmeng.360.cn
 127.0.0.1 stat.pl
 127.0.0.1 stat.webmedia.pl
 127.0.0.1 stat.xiaomi.com
@@ -3047,6 +3062,7 @@
 127.0.0.1 superawesome.tv
 127.0.0.1 superchichair.com
 127.0.0.1 superclix.de
+127.0.0.1 supercounters.com
 127.0.0.1 superficialsquare.com
 127.0.0.1 supersonicads.com
 127.0.0.1 superstats.com
@@ -3066,6 +3082,7 @@
 127.0.0.1 t.bawafx.com
 127.0.0.1 t.carta.com
 127.0.0.1 t.co
+127.0.0.1 t.dtscdn.com
 127.0.0.1 t.eloqua.com
 127.0.0.1 t.email.superdrug.com
 127.0.0.1 t.en25.com
@@ -3075,6 +3092,7 @@
 127.0.0.1 t.leady.com
 127.0.0.1 t.marketing.goindigo.in
 127.0.0.1 t.mmtrkr.com
+127.0.0.1 t.nc0.co
 127.0.0.1 t.news.browns-restaurants.co.uk
 127.0.0.1 t.notif-colissimo-laposte.info
 127.0.0.1 t.pie.org
@@ -3204,6 +3222,7 @@
 127.0.0.1 track.lettingaproperty.com
 127.0.0.1 track.mailalert.io
 127.0.0.1 track.mailerlite.com
+127.0.0.1 track.mediav.com
 127.0.0.1 track.miro.com
 127.0.0.1 track.nationalgunrights.org
 127.0.0.1 track.privacyatclearbit.com
@@ -3232,6 +3251,7 @@
 127.0.0.1 tracking.casheddy.com
 127.0.0.1 tracking.cybertips.uk
 127.0.0.1 tracking.epicgames.com
+127.0.0.1 tracking.hostgator.com
 127.0.0.1 tracking.hyros.com
 127.0.0.1 tracking.ibxlink.com
 127.0.0.1 tracking.intentsify.io
@@ -3476,10 +3496,12 @@
 127.0.0.1 xad.com
 127.0.0.1 xapads.com
 127.0.0.1 xchange.ro
+127.0.0.1 xdrig.com
 127.0.0.1 xertive.com
 127.0.0.1 xfreeservice.com
 127.0.0.1 xg4ken.com
 127.0.0.1 xiti.com
+127.0.0.1 xml-v4.oceanfall.xyz
 127.0.0.1 xplusone.com
 127.0.0.1 xponsor.com
 127.0.0.1 xpu.samsungelectronics.com

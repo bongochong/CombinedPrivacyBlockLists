@@ -10,7 +10,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 25 Aug 2026 at 21:38:14 GMT
+# Last updated: Mon, 31 Aug 2026 at 20:06:59 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -3377,6 +3377,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.auditprint.com
 0.0.0.0 www.auto-runmz.com
 0.0.0.0 www.autoinkoopbedrijf.com
+0.0.0.0 www.autotra.com
 0.0.0.0 www.availablefiles.com
 0.0.0.0 www.avemoo.com
 0.0.0.0 www.azureus.es
@@ -3454,6 +3455,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.cassink.com
 0.0.0.0 www.catabcde.com
 0.0.0.0 www.catjre.com
+0.0.0.0 www.cdinstagram.com
 0.0.0.0 www.celestia.es
 0.0.0.0 www.celestia.fr
 0.0.0.0 www.cemerhealth.com
@@ -3562,10 +3564,12 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.electrobell.com
 0.0.0.0 www.elfralalo.com
 0.0.0.0 www.eljaleomedellin.com
+0.0.0.0 www.ellesalonhb.com
 0.0.0.0 www.emailspend.com
 0.0.0.0 www.emprenderimportaperu.com
 0.0.0.0 www.energiazoque.com
 0.0.0.0 www.eqarati.com
+0.0.0.0 www.eqinenow.com
 0.0.0.0 www.eremplacementparts.com
 0.0.0.0 www.erincranor.com
 0.0.0.0 www.erspan.com
@@ -3650,6 +3654,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.gimp.es
 0.0.0.0 www.glassygrovefy.pro
 0.0.0.0 www.globalbuffer.com
+0.0.0.0 www.globlepoker.com
 0.0.0.0 www.goggle.com
 0.0.0.0 www.goldendoodlez.com
 0.0.0.0 www.goldentopics.com
@@ -3748,6 +3753,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.jvzoo.com
 0.0.0.0 www.kahramananas.com
 0.0.0.0 www.karazah.com
+0.0.0.0 www.kccreamation.com
 0.0.0.0 www.keepass.com
 0.0.0.0 www.keepass.fr
 0.0.0.0 www.kencorporation.property
@@ -3791,6 +3797,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.likethislist.biz			# Facebook trojan
 0.0.0.0 www.listadegames.com
 0.0.0.0 www.liveorigamirisk.com
+0.0.0.0 www.livetickettv.com
 0.0.0.0 www.loansfield.com
 0.0.0.0 www.lockupouseburn.com
 0.0.0.0 www.loginhunter.com
@@ -3904,6 +3911,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.openinternetexchange.com
 0.0.0.0 www.oppery.com
 0.0.0.0 www.orangesalonboise.com
+0.0.0.0 www.orchidfootspa.com
 0.0.0.0 www.otsserver.com
 0.0.0.0 www.outonixan.com
 0.0.0.0 www.pagibigfundservicers.com
@@ -4049,6 +4057,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.sidneyman.com
 0.0.0.0 www.silebah.com
 0.0.0.0 www.silentgateck.site
+0.0.0.0 www.silhouetteamerican.com
 0.0.0.0 www.silverboxcreativestudio.com
 0.0.0.0 www.simplyartful.com
 0.0.0.0 www.simplyhelper.com
@@ -4120,6 +4129,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.techyscope.com
 0.0.0.0 www.tenantbackgronudsearch.com
 0.0.0.0 www.teresinaapartment.com
+0.0.0.0 www.texasmyxoomenergy.com
 0.0.0.0 www.textdynamics.com
 0.0.0.0 www.thecollectiverd.com
 0.0.0.0 www.thedatesafe.com			# Facebook trojan
@@ -4133,6 +4143,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.theskinnyschool.com
 0.0.0.0 www.thisplanet.net
 0.0.0.0 www.thunderbird.es
+0.0.0.0 www.ticketspiket.com
 0.0.0.0 www.timelyworks.com
 0.0.0.0 www.tinkfrog.com
 0.0.0.0 www.tiompanalley.com
@@ -4145,6 +4156,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.tradewinning.com
 0.0.0.0 www.traficsigntest.com
 0.0.0.0 www.transcet.com
+0.0.0.0 www.travelrushzone.com
 0.0.0.0 www.trucktirehotline.com
 0.0.0.0 www.truecrypt.fr
 0.0.0.0 www.trueshelterju.pro
@@ -4154,6 +4166,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.tvccpt.com
 0.0.0.0 www.tvrails.com
 0.0.0.0 www.tvshowslist.com
+0.0.0.0 www.ultimarerewards.com
 0.0.0.0 www.ultratemps.com
 0.0.0.0 www.unclaimedbaggag.com
 0.0.0.0 www.underobviously.garden
