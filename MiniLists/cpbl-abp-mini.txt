@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mini CPBL Filters for ABP & uBO
-! Updated: Thu Sep 10 04:39:08 AM UTC 2026
+! Updated: Sun Sep 13 03:05:12 AM UTC 2026
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -117623,6 +117623,7 @@ cuevana3.video##iframe[style*="z-index: 2147483647"]
 decrypt.co##.egrgSy
 decrypt.co##[class*="adbutler"]
 democracynow.org###daily_digest_modal
+deviantart.com##a[href*="dreamup"]
 dextools.io##.ng-star-inserted.row-carousel.row
 dextools.io##.show.fade.modal-backdrop
 dextools.io##app-banner
@@ -117890,6 +117891,7 @@ soundcloud.com##[class*="Upsell_side"]
 sourceforge.net###main-nav-image
 sparkylinux.org##DIV#ad0569e
 sportiquescooters.com###lbOverlay
+startpage.com##.go-ad-free-button
 statelocalgov.net###IPEbgCover
 statelocalgov.net###IPEinvL
 statista.com##.xmoChartBoxPaywall
@@ -117942,6 +117944,7 @@ vigilantcitizen.com##[class*=paywall]
 washingtonpost.com##.z-eyei-bvs
 website2.me##[id^="ws-bottom-banner-"]
 website2.me##[id^="ws-side-banner-"]
+weebly.com##^script:has-text(Function Disabled)
 wordpress.com###marketingbar
 yidio.com##.more-info > .horz.question.provider.tt
 yidio.com##.vert.bullets.provider.tt
@@ -118040,6 +118043,7 @@ zerohedge.com##.Banner_banner__2PJ1Y
 ||theblockcrypto.com/wp-json/v1/modal*$domain=theblockcrypto.com
 ||theblockcrypto.com/wp-json/v1/sponsorships*$domain=theblockcrypto.com
 ||typeform.com^$domain=theregister.com
+||wixmp.com/offers-assets/*.gif
 ||web.facebook.com^$domain=~facebook.com|~fbcdn.com|~instagram.com|~linkedin.com
 @@||web.facebook.com^$app=com.facebook.katana|com.instagram.android|com.facebook.orca|com.mobile.legends|com.minigames.sweetcrossing|com.moonton.mobilehero|com.supercell.clashofclans|com.playrix.fishdomdd.gplay|com.tencent.ig|com.ngame.allstar.eu|com.garena.game.kgid|com.netease.g78na.gb|com.stackwares.android.storysaver.facebook
 /wp-content/plugins/ioimedia-app-banner/*
