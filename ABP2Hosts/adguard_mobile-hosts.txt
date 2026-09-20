@@ -1,4 +1,4 @@
-# Sun Sep  6 02:36:47 AM UTC 2026
+# Sun Sep 20 06:23:22 AM UTC 2026
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -492,6 +492,7 @@
 0.0.0.0 ad13.adfarm1.adition.com
 0.0.0.0 ad2.apx.appier.net
 0.0.0.0 ad2.cdns.turn.com
+0.0.0.0 ad2.fivecdm.com
 0.0.0.0 ad3.apx.appier.net
 0.0.0.0 ad6media.fr
 0.0.0.0 adadvisor.net
@@ -2198,6 +2199,7 @@
 0.0.0.0 bid.adview.cn
 0.0.0.0 bid.adview.com
 0.0.0.0 bid.contextweb.com
+0.0.0.0 bid.ctv.house
 0.0.0.0 bid.dr.socdm.com
 0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 bid.tapjoy.com
@@ -5620,6 +5622,7 @@
 0.0.0.0 log.avlyun.com
 0.0.0.0 log.avlyun.sec.intl.miui.com
 0.0.0.0 log.bloodsugars.live
+0.0.0.0 log.calomeal.com
 0.0.0.0 log.cleandesigner.live
 0.0.0.0 log.cleanertoolboxonline.live
 0.0.0.0 log.cleanerwish.live
