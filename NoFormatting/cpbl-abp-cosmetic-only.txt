@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mostly Cosmetic CPBL Filters for ABP & uBO
-! Updated: Sun Sep 13 03:05:07 AM UTC 2026
+! Updated: Sat Oct  3 10:01:29 PM UTC 2026
 ! Expires: 7 Days
 ! License: http://www.wtfpl.net/txt/copying
 ! Homepage: https://git.io/JTTLB
@@ -225,6 +225,7 @@ indeed.com##.jobalert-create-wrapper--noIcon.jobalert-create-wrapper
 indeed.com##.jobalert-white.jobalert-create-wrapper
 independent.co.uk##.video-sticky-video
 indiatimes.com##.react-draggable-dragged
+iptorrents.com###btv-affiliate-banner
 joinhoney.com##[class*="cookieConsentBanner"]
 juicedb.com##.nicotine-warning
 just-watch.club##.show.fade.modal-backdrop
@@ -242,6 +243,9 @@ m.imgur.com##.PostContainer-postGetApp
 m.imgur.com##.get-app-block
 m.imgur.com#$#.AppBanner-container { height: 50px!important; }
 m.imgur.com#$#div[class^="SeeImgurOIA-"] { display: none!important; }
+meta-religion.com##[src*="ExperientialSexLab"]
+meta-religion.com##[src*="Headaches-Begone"]
+meta-religion.com##[src*="Safe-Bike-Seats"]
 mintscan.io##[class^="Ad__adCarousel-wrapper-"]
 mintscan.io##div[class^="Ad_container_"]
 mondoweiss.net##[class*="hustle-info"]
