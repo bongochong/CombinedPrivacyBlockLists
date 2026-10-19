@@ -1,4 +1,4 @@
-# Sat Oct  3 09:52:24 PM UTC 2026
+# Mon Oct 19 01:55:06 AM UTC 2026
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -371,6 +371,7 @@
 0.0.0.0 accuratecoal.com
 0.0.0.0 acdn.adnxs-simple.com
 0.0.0.0 acdn.adnxs.com
+0.0.0.0 acdn.newshuntads.com
 0.0.0.0 ace-tag.advertising.com
 0.0.0.0 ace.naver.com
 0.0.0.0 achieverknee.com
@@ -675,6 +676,7 @@
 0.0.0.0 ads-marketing-vivofs.vivo.com.cn
 0.0.0.0 ads-mediafin.adhese.com
 0.0.0.0 ads-privacy-api.prd.mz.internal.unity3d.com
+0.0.0.0 ads-proxy-aka.prod.bo.canal.canalplustech.pro
 0.0.0.0 ads-resources-legacy.waze.com
 0.0.0.0 ads-resources.waze.com
 0.0.0.0 ads-router-noneu.truecaller.com
@@ -1365,6 +1367,7 @@
 0.0.0.0 api-proxy.bee7.com
 0.0.0.0 api-public.addthis.com
 0.0.0.0 api-rewarded-video.fyber.com
+0.0.0.0 api-sdk-tracking.beaconbank.jp
 0.0.0.0 api-sdk.beaconbank.jp
 0.0.0.0 api-sdk.datadome.co
 0.0.0.0 api-telemetry.servers.getgo.com
@@ -4665,6 +4668,7 @@
 0.0.0.0 gplog-sg.byteoversea.com
 0.0.0.0 gpm-mon-va.bytegsdk.com
 0.0.0.0 gpm-mon-va.byteoversea.com
+0.0.0.0 gpskeeper.popinfo.jp
 0.0.0.0 grabify.link
 0.0.0.0 grace.shareaholic.com
 0.0.0.0 gracefulmilk.com
@@ -6477,6 +6481,7 @@
 0.0.0.0 nrcapi.ssl2.duapps.com
 0.0.0.0 ns.zdbb.net
 0.0.0.0 nsclickvideo.xiaodutv.com
+0.0.0.0 nt-stream-log.profilepassport.jp
 0.0.0.0 ntracker-collector.naver.com
 0.0.0.0 ntus.bidease.com
 0.0.0.0 ntv.io.edgekey.net
@@ -7053,6 +7058,8 @@
 0.0.0.0 powerfulcopper.com
 0.0.0.0 powerlinks.com
 0.0.0.0 powr-counter.herokuapp.com
+0.0.0.0 pp3-sdk-api.profilepassport.jp
+0.0.0.0 pp3-sdkdata-v2-ut.profilepassport.jp
 0.0.0.0 ppqqmnssuxzd.com
 0.0.0.0 pps-log.op-mobile.opera.com
 0.0.0.0 pr-bh.ybp.yahoo.com
