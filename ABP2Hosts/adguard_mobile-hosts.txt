@@ -1,4 +1,4 @@
-# Mon Oct 19 01:55:06 AM UTC 2026
+# Fri Oct 30 10:07:23 PM UTC 2026
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -1347,6 +1347,7 @@
 0.0.0.0 apdc3n.adpushup.com
 0.0.0.0 apex.go.sonobi.com
 0.0.0.0 api-a.op-mobile.opera.com
+0.0.0.0 api-abtest-cdn.learnings.ai
 0.0.0.0 api-access.pangolin-sdk-toutiao1.com
 0.0.0.0 api-ad-adapter.wps.com
 0.0.0.0 api-ad-callback.falconnet.app
@@ -2580,6 +2581,7 @@
 0.0.0.0 cdn-resources.prfct.cc
 0.0.0.0 cdn-rtb.sape.ru
 0.0.0.0 cdn-s2s.buysellads.net
+0.0.0.0 cdn-settings.af-sdk.com
 0.0.0.0 cdn-settings.appsflyersdk.com
 0.0.0.0 cdn-settings.segment.com
 0.0.0.0 cdn-static.formisimo.com
@@ -3443,6 +3445,7 @@
 0.0.0.0 d830x8j3o1b2k.cloudfront.net
 0.0.0.0 d9.flashtalking.com
 0.0.0.0 da.chartboost.com
+0.0.0.0 da.flvcdn.net
 0.0.0.0 da.us.criteo.com
 0.0.0.0 da.us.criteo.net
 0.0.0.0 da1.vip.prod.criteo.com
@@ -5145,6 +5148,7 @@
 0.0.0.0 in.wzrkt.com
 0.0.0.0 in1-spiky.wzrkt.com
 0.0.0.0 in1.wzrkt.com
+0.0.0.0 inapps.af-sdk.com
 0.0.0.0 inapps.appsflyer.com
 0.0.0.0 inapps.appsflyersdk.com
 0.0.0.0 inbbredraxing.com
@@ -6170,6 +6174,7 @@
 0.0.0.0 mobile-sdk-config.gservice.emarsys.net
 0.0.0.0 mobile-service.segment.com
 0.0.0.0 mobile-stats.socialquantum.com
+0.0.0.0 mobile-telemetry.multiball.forzafootball.net
 0.0.0.0 mobile-ws.apprissmobile.com
 0.0.0.0 mobile.adsafeprotected.com
 0.0.0.0 mobile.analytics.wildtangent.com
@@ -6447,7 +6452,6 @@
 0.0.0.0 nmtracking.netflix.com
 0.0.0.0 nocturnalloom.com
 0.0.0.0 nocturnalmystique.com
-0.0.0.0 node.aibeacon.jp
 0.0.0.0 nodeny.targetspot.com
 0.0.0.0 nohcutlips.com
 0.0.0.0 noiselessplough.com
@@ -7623,6 +7627,7 @@
 0.0.0.0 rtb.da.us.criteo.com
 0.0.0.0 rtb.gumgum.com
 0.0.0.0 rtb.mfadsrvr.com
+0.0.0.0 rtb.nefta.app
 0.0.0.0 rtb.ninthdecimal.com
 0.0.0.0 rtb.openx.net
 0.0.0.0 rtb.va.us.criteo.com
