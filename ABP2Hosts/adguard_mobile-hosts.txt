@@ -1,4 +1,4 @@
-# Fri Oct 30 10:07:23 PM UTC 2026
+# Fri Nov 13 07:22:04 AM UTC 2026
 # AdGuard Mobile Hosts - Generated weekly by bongochong - WTFPLv2
 0.0.0.0 023hysj.com
 0.0.0.0 0ce3c-1fd43.api.pushwoosh.com
@@ -965,6 +965,7 @@
 0.0.0.0 advertise.com
 0.0.0.0 advertise.ldplayer.net
 0.0.0.0 advertisementafterthought.com
+0.0.0.0 advertising.amazon.dev
 0.0.0.0 advertising.com
 0.0.0.0 advertising.yahoo.com
 0.0.0.0 advertnative.com
@@ -1934,6 +1935,7 @@
 0.0.0.0 astralhustle.com
 0.0.0.0 astrallullaby.com
 0.0.0.0 astrsk.net
+0.0.0.0 asttoxa.ru
 0.0.0.0 aswpsdkus.com
 0.0.0.0 async-px-eu.dynamicyield.com
 0.0.0.0 async-px.dynamicyield.com
@@ -3065,6 +3067,7 @@
 0.0.0.0 collector.leaddyno.com
 0.0.0.0 collector.pabs.comcast.com
 0.0.0.0 collector.scopely.io
+0.0.0.0 collector.snowplow.supercell.com
 0.0.0.0 collector.snplow.net
 0.0.0.0 collector.stats.socialquantum.ru
 0.0.0.0 collector.tealeaf.ibmcloud.com
@@ -4439,6 +4442,7 @@
 0.0.0.0 fw.adsafeprotected.com
 0.0.0.0 fwmrm.net
 0.0.0.0 fxlcvd.icu
+0.0.0.0 fxltsbl.com
 0.0.0.0 fyber.com
 0.0.0.0 fyc.heyzap.com
 0.0.0.0 g.3gl.net
@@ -5809,6 +5813,7 @@
 0.0.0.0 lunchroomlock.com
 0.0.0.0 lustroushaven.com
 0.0.0.0 lw-c-log.lastwarapp.com
+0.0.0.0 lw-c-log.lastwarapp.net
 0.0.0.0 lxqcgj.com
 0.0.0.0 lynx-prod-beacon-alb-498367235.us-east-1.elb.amazonaws.com
 0.0.0.0 lynx.cognitivlabs.com
@@ -6132,6 +6137,7 @@
 0.0.0.0 mixedreading.com
 0.0.0.0 mixpanel-proxy-ivbdkvonca-uc.a.run.app
 0.0.0.0 mjp-analytics.ximad.com
+0.0.0.0 mkt.supercell.com
 0.0.0.0 ml314.com
 0.0.0.0 mlb.did.ijinshan.com
 0.0.0.0 mlog.hiido.com
@@ -7064,6 +7070,7 @@
 0.0.0.0 powr-counter.herokuapp.com
 0.0.0.0 pp3-sdk-api.profilepassport.jp
 0.0.0.0 pp3-sdkdata-v2-ut.profilepassport.jp
+0.0.0.0 pp3-sdkdata-v2.profilepassport.jp
 0.0.0.0 ppqqmnssuxzd.com
 0.0.0.0 pps-log.op-mobile.opera.com
 0.0.0.0 pr-bh.ybp.yahoo.com
